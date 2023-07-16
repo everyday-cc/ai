@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI will improve efficiencies and spark creativity in the workplace"
-    excerpt: "The possibilities of generative AI are yet to be fully understood, but we already know it can support efficiency, creativity and learning."
-    publishedDateTime: 2023-07-12T00:06:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-will-improve-efficiencies-and-spark-creativity-in-the-workplace/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "This is how generative AI will change the gig economy for the better"
     excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
     publishedDateTime: 2023-07-15T12:00:00Z

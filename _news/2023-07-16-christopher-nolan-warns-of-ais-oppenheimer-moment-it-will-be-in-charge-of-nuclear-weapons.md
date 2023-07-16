@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188569157614"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188569157614"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -42,7 +42,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Christopher Nolan Compares Artificial Intelligence To The Atomic Bomb"
+    excerpt: "After a screening of his new film, Oppenheimer Saturday night, director Christopher Nolan suggested that his period piece couldn't have come at a better time, as we're in an “Oppenheimer moment,” he said. But this time, the dangerous technology isn't being created in a lab in a New Mexico lab; it's coming from Silicon Valley."
+    publishedDateTime: 2023-07-16T16:51:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 57
+    images:
+      - url: "https://media.vanityfair.com/photos/64b4110c80282abf33846d55/master/pass/1530967111"
+        width: 2125
+        height: 1417
+        isCached: true
 
-secured: "MEaYEYM0DkJ6p6mCTBjG3E9ml1+uId+PGJGWMCTITYdX1FCzkNy1+iloBET17WHBXdHnrXwOOnzjBed5i/KeAniEKK4IJjQtz7p0Uh1wtsXlNmYMxrYR23cGREq/NfnCns5bRZ94W6kRm7drV2MlPhTmKJALCbP6uEH8z0Lpfk6TUh6vlc8PF5MMQwK5TcBFYeGHmSdo0xEw1n5otrwQjjHFF8TeEg3l2Wbh//Iw4qtRvmT8vihVrIdA0jPb63cDI7Wn7G6Si0R6IQ+xYmy/OIuvFpELVOmecqWN2PX3yemBlRJptDzbb1ceyWS9YM1O7T2lN98DgpaKwjk0LAGhL5qBbOkSjdXq3W93wL4VU9g=;YHn6McZKwz/0OxpMF3YhEg=="
+secured: "k2MgPCbm0qKO2jIJEML8RXCEbje8gIGDJRDno7+uzzcIbUQkZEsckKxZGmcXeU5Qqt5u5T86ZiOjd4wYjiMi2GR7AcS13H6+eHJyPMCGS5irSzZ1ts60+iQrLPkwZPscmrUXwNybKV7vJZpDjZtsmV2fvMxu082L3ZBQUsoSfRp5mp0z91xH4i9C1vaq+IHrkMpXSvCrCK3BDdVDHNf0bgWYUkih5Bj/q41/GZRt9sZNOzk1vx3REf3qN2OWYKaiKGOozAP43yztoDmbLZSo5V5ooyRJOMppjrVBSD94pHiZXdope083/vwtFzG5r5NSVK2/Zzkf5FEHFFkKEk1AlxHcl2ZGeuBJsSoNGE1xRxwnza2pXr5bkyJxQLqbbw8n1r5DQrLiId5vvHsK0/LAQS9weyH6y3/C6LD13u45D0lXQWIrnxJJDwn8+Um+VLZeC0GzPBO2KNq8qkWnhE0VEYzGRAOlCDkyQnygn2UqkacIO+CNrWQi99rzyCEti0NopO35kPXUDKybtfl3wnw/wg==;aQbHF9jR4kNcxuyPqn7/VA=="
 ---
 

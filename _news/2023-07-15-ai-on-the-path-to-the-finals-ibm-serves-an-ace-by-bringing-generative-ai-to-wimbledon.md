@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI at Wimbledon - The new sound of commentary?"
-    excerpt: "Both male and female-sounding AI commentators are set to feature but the voices will have no human input - they'll be created solely from computers."
-    publishedDateTime: 2023-07-11T23:09:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0g09dnh"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0g09dwj.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "VjX5W9jw2HUMa99B0jJLq9bbOTtzBXRaU3KonF0ghPT0f6Q2EASjuRPkE09ZAMXU7BmaB67nCbgvRZYOl8SSinFqvdxWe+x0AwQ/+xIr8PBGOhoHy6ZVBaVhwley77YvUjrAIvS4Eqc8KpYmjo9n9DxfcPg5l4ieV+ITUEJlZ17psWv7rYlDeI+uNNdeKndHs3dLpARTU0FsSIuBTFv4B8pUplEjwgUpH7mrfFLSIllosvo8DieTyxrqaeEu4HT7ooQKc7QE7SR7tdhFw8+whfcQVtMJaZqfVaPN1rZGjYfKDaxnzFPec3AaS7S4Kk2bfvVoQoRkLY74ujgUpkKNFHvZUt8LJ/qF/q2yHbQnHT5Tbwf1YZT1gpfyR+gD0ML3w0azNrK/0snYpTeS84yTBp5XbRRd/FjtKFwhn7/VXaqgISO2JqGrg6HluJO+DJ1XIsdGI7k1KnwYvegJioRvPeEj3Zn+z5S4b5M7Z8KnRx802U83JJO6aQRo5BBvE7BUZY8S/UcYAQH97nFeYl00RA==;NaQCBELQ8kUIcq8u18CKMw=="
 ---

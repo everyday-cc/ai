@@ -40,6 +40,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Infinite Canvas raises $6M in funding, launches AI-powered Discord game"
+    excerpt: "UGC studio Infinite Canvas has raised $6 million in new funding, which it's putting towards GenAI projects such as new game CreatureCraft."
+    publishedDateTime: 2023-07-14T05:19:00Z
+    webUrl: "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Here's the 12-slide pitch deck Prolific, a startup providing quality data to train AI models, used to raise $32 million"
     excerpt: "The London-based startup, which is a graduate from Y Combinator, will use the fresh funds to expand in the US."
     publishedDateTime: 2023-07-12T07:00:00Z

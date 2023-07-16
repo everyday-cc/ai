@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip
 webUrl: "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "IBM mulls use of own AI chip to lower costs"
-    excerpt: "SAN FRANCISCO: International Business Machines (IBM) is considering the use of artificial intelligence (AI) chips that it designed in-house to lower the costs of operating a cloud computing service it made widely available this week, an executive said yesterday."
-    publishedDateTime: 2023-07-12T00:28:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/07/12/ibm-mulls-use-of-own-ai-chip-to-lower-costs/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 36
 
 secured: "6PvzPBGcp/C1rTdLkk3HAH+zCEbI2GNz1Rcw8gL/L4/UkjXPotd2wa9zSyz0HZBaSu68liVC25/ds+WhTi+VwrTnD0fZFtSX5YoeJc0GWEfiuOfY/dFEIvcvkM24VXeQj2NgBj846yTQEzJ/iwZaG6LlF7cEuGpv8o6cLEkuZA34IwDe1Js5UCsQ7njFjL9JXEj+hHqfzuHaFy5D6Nq3M04C2YAZ8h5pUDwMV9KzYTLD7+qmSYn96mp0XDfUoQZLD6n/7LKL9R2vOzxloXYGsAD4Nnyka7o4zIgqctNnVOvwr/VBHfwd7GG3+eeBo7a9OvZfYsG8lG/GFeCvGPhvOgKZjLOBNwqQM/i2z1lwfwWivqNt/mVI5bhhuK3unU71h4xNu568ERW5jgbj/5bV+UITUmMO+booZnfnwvX/1aBV0DpP04Y0o25AwCOryInPQQzN5ptwyuvLHs9qBNUug310EMY3KZ5qTGWyBpPzhfRuEwwUwku/NaEwGo6Z61kdN8o20NG51jLiipgh3y6GiA==;pVdAYdxjMMpl2aAZBVYeWw=="
 ---

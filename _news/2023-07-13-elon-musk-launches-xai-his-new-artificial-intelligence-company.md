@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Musk launches AI company while Twitter flounders"
+    excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
+    publishedDateTime: 2023-07-13T07:47:00Z
+    webUrl: "https://htxt.co.za/2023/07/13/musk-launches-ai-company-while-twitter-flounders/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2022/12/elon-musk-giga-texas.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "UntYp5ArMp7s+FizPoBUb70hg7d1nrUDLzYMNQmqqM84buGFsQS8XwDrs6dSllGmH1IDnScnaPh65mgt2zCiWaHUN6uTx3NjKcJg2A6cU8wgbDlIRbN+0yest2iHHLBJ+PX8GY7EKnwaS+El1+2+PoNA/GF+jSG8EHogWjJCrcMDKTk7q9zwWxlW0Zy8KBVKNRXRwTR6LctTtXYdqkFMWTRf6O7zs93/ANAqQFuEnmwJuFRoMuGNBJkA2vm4MrnJrTBLV/g9Ndzha1EC0o3pk/2cFqVcXLVMTfl4dnuvpli4wS0rDfkCoQCIVnUxzpX7AYUg7eT4nGyHvIFdB1Jiux9wnFG1EqF+MmDO+X9luu3udD84AIUBKV5/giQhlrQVdS4PgRczu5wRvuP+R68D0gnXbQHMPwOaWezD6ytxcrcyhtWFHm6yHjQz/rHkEbPo2RqomGEaTXkVcPfwu/svgCXBQOdMrOWoCqZ3EZbSsGWiiem1fa6yI1wlbJ/GtTMF+T+PCjW/SG2c1rSbSHPBqw==;vtWXIG8qw4dnHNQyrt6GLQ=="
 ---

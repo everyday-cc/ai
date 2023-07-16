@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will
 webUrl: "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/"
 type: article
 quality: 108
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Generative AI will improve efficiencies and spark creativity in the workplace"
-    excerpt: "The possibilities of generative AI are yet to be fully understood, but we already know it can support efficiency, creativity and learning."
-    publishedDateTime: 2023-07-12T00:06:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-will-improve-efficiencies-and-spark-creativity-in-the-workplace/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "How generative AI can democratize content creation across the enterprise"
     excerpt: "Learn why content creation and productivity is one of gen AI's most transformative powers in this VB Transform 2023 panel."

@@ -59,6 +59,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
+    excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
+    publishedDateTime: 2023-07-13T21:04:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/nvidia-invests-50m-in-recursion-to-boost-ai-platform-for-drug-discovery/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 38
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/07/GettyImages-1258974271.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "orgLthunwarcD88Kyvd7nyHhdEcaRd7QgtKmezEcsMSaRNMXsw//6BdSpkcE5K3w9ex8Ycs0apNzkPIIOYV+TA1EoxKswe1mVuYLHihEMa7Je8LYtGj8lTqTFQ7RXAOYpv0fMtdPx8GOibmxF93mqLUZJnaX+Wz6ZYsZHfUXDusOE1PDpotMeRll7qL7Nq3qi1muADUJM8IaLpxdEWNbOo9a5E0BHUKVpw+1ghP1ud4If3mAG8ORqiyQlLT5H/CUCJzvckv/Z/IQj/d5Z59ccMyO77Jmf59uKPSLtJFAE5sVKqrCZ36e94yM5mz3MsJmv7Zy+jvXbyzYqMrN3enr191oPokA5a1ixcJtrZI2sbNq4NxEMnCqFkaxOI1L7mUt7JM/VGXoNhBKCIrxLGrmRYUIO1gtEhmmEwKzR0mD8C7jEitswgocNmG+LKoO1Bj+qNJB/uDDOOxI9MseWzyaTlGDEG9oU4/v1eNFKcMJTFMEcxB2ljQ5ebF4YSUuNepws+EN9HgqX4BzECQEzi1vDQ==;xXzMhDIEBnmK8UKHunzdsg=="
 ---

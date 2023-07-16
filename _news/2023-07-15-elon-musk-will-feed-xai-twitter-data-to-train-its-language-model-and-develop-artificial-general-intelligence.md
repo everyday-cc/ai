@@ -36,6 +36,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "Musk launches AI company while Twitter flounders"
+    excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
+    publishedDateTime: 2023-07-13T07:47:00Z
+    webUrl: "https://htxt.co.za/2023/07/13/musk-launches-ai-company-while-twitter-flounders/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2022/12/elon-musk-giga-texas.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "oXzwsOz7c/yJYWQOUBs+yCzyeXoyPNN6Ml5BweZFKgumWim4bwFFxS46ypZqm6dKGuT4IxICUot7NdfVi77Dj+SU3y17XpXlDXETud3Bu76MNaJ67LIPP8JBRUtDXPwuDxIUJ43dc7lo8GeFw19XeXf9F5AVHiv/BeozqxABP9K6mfJ+u2IxbLBygCbgPDcS6L6ng8vzaVf3ENaESXqhauIi1SZf0yuyUV5pleK6ewDfGRoRrzkQpqUhZnhtG2Y0UGZZz8TFfK17X29KMuJMwi4ddGWvT3ZCmocRNkI/kgLl6pGKYJgpi8HtA1or3Zw6OH8ssVU0cNBIbdi8OFY8joe/GQ31tui9D5/3+tvv1wO1geZdBjNDjNw3tCCPwn5KvF6b8fgMLyYrL+k6uWgL/ahObCxEqOgY8dCwXAjzwFGlH5Qiby7d9f0ymrGvtKHJEudrUayNvnpnLGgy0iUCPVz6le/3gnNhZQWs9lowUvLJMKFosYjgI1SdQx2si5VSQp1e1hquqGD7ObZLTtaKBA==;SMFyv5XZ6qUHQbuNQBC/lA=="
 ---

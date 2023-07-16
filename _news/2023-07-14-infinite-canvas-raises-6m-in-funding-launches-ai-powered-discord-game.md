@@ -28,47 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Collective raises $50M funding to launch AI-powered finance platform for freelancers"
-    excerpt: "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist."
-    publishedDateTime: 2023-07-12T01:00:00Z
-    webUrl: "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/"
+  - title: "Data Security Startup Raises Pre-Seed Funding, Launches Data Protection Software Using Artificial Intelligence"
+    excerpt: "New York-based Teleskope reduces manual overhead burdening security, data, and engineering teams, preventing alert fatigue Teleskope, a cybersecurity startup, today launched a data protection platform"
+    publishedDateTime: 2023-07-13T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33218847"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/C-Suite.png?w=1200&strip=all"
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Here's the 12-slide pitch deck Prolific, a startup providing quality data to train AI models, used to raise $32 million"
+    excerpt: "The London-based startup, which is a graduate from Y Combinator, will use the fresh funds to expand in the US."
+    publishedDateTime: 2023-07-12T07:00:00Z
+    webUrl: "https://www.businessinsider.com/prolific-ai-research-startup-raises-32m-funding-for-us-expansion-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/64ac2a518ed31300199e4a1e?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "'Solopreneur' finance platform Collective raises $50m for AI"
-    excerpt: "US fintech Collective has raised US$50m from investors to integrate more AI tools into its platform for self-employed business owners – or 'solopreneurs'"
-    publishedDateTime: 2023-07-13T16:10:00Z
-    webUrl: "https://fintechmagazine.com/articles/solopreneur-finance-platform-collective-raises-50m-for-ai"
+  - title: "Using bigger AI training data sets may produce more racist results"
+    excerpt: "Contrary to Silicon Valley wisdom, training AIs on larger data sets could worsen their tendency to replicate societal biases and racist stereotypes"
+    publishedDateTime: 2023-07-13T09:00:00Z
+    webUrl: "https://www.newscientist.com/article/2381644-using-bigger-ai-training-data-sets-may-produce-more-racist-results/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://assets.bizclikmedia.net/320/2c76d7f87aacacbcf0c4e511d4de7d89:4946421f9bba5b626f784e1047a05a10/collective-founders-group-photo-scaled.jpg"
-        width: 319
-        height: 241
-        isCached: true
-  - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
-    excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
-    publishedDateTime: 2023-07-13T21:04:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/nvidia-invests-50m-in-recursion-to-boost-ai-platform-for-drug-discovery/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 38
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/07/GettyImages-1258974271.jpg"
-        width: 1024
-        height: 683
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/12185443/SEI_163583017.jpg"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "IantTsZ/UAaYGeYpncdqMPXIuEVOMu90kKMnrIcTHDtgprqPMfh60UQGqh+ZAglnfaqi04YM5ffOo/ks7Qk9DmOxJLIdj1ef/vnsySt+IasmBpHE6hoaCiU9RxjITSr1GY0n3CQR3b2ZIjl4NyBpPFzANa0ZLI11kamKX/O8KmsOyqKbXpo3NiJLjuTeM0YNTV/8JCwZrNxEYM3zrcQwWPVoBIl12vsgFq0SYFnp002CRuGMgxT2bA5iBmu5uwbJJFXS9C6fVMOPkskSVv3GIrqMMTN9uPgbUewAQL3otez4pmGXZruoop5Znb6zTrSzgF4gZF2xhWI/uc9yPESkdiQN3SRtUXaqmJnEZqoOSMk=;qFrUqRnwYndXVpooWgTRFQ=="

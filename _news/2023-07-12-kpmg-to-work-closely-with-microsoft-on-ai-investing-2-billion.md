@@ -149,34 +149,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "KPMG and Microsoft sign $12B AI deal"
-    excerpt: "KPMG and Microsoft have signed a US$12-billion agreement to develop custom artificial intelligence tools over the next five years."
-    publishedDateTime: 2023-07-11T23:42:00Z
-    webUrl: "https://www.arnnet.com.au/article/707989/kpmg-and-microsoft-sign-12b-ai-deal/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/billthomassatyanadella.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "KPMG to invest $2B in AI and cloud as it expands partnership with Microsoft"
-    excerpt: "The professional services firm KPMG LLP is expanding its partnership with Microsoft Corp. and will invest $2 billion into artificial intelligence and cloud services over the next five years. The investments will help the roughly 265,"
-    publishedDateTime: 2023-07-12T00:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/kpmg-invest-2b-ai-cloud-expands-partnership-microsoft/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/glowing-blue-office-desk-with-modern-technology-generated-by-ai.jpg"
-        width: 2000
-        height: 1143
-        isCached: true
   - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
     excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
     publishedDateTime: 2023-07-13T17:48:00Z

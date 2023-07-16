@@ -55,15 +55,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "IBM mulls use of own AI chip to lower costs"
-    excerpt: "SAN FRANCISCO: International Business Machines (IBM) is considering the use of artificial intelligence (AI) chips that it designed in-house to lower the costs of operating a cloud computing service it made widely available this week, an executive said yesterday."
-    publishedDateTime: 2023-07-12T00:28:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/07/12/ibm-mulls-use-of-own-ai-chip-to-lower-costs/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 36
 
 secured: "5qbodPae4r9sM46p7Ap3YBZy+KiBvIP9WupXnx2tzMNcTckgx9xOKRSPuhm6SYcoGtEz0iuML9syajjorlh81CSPq94JgZpgZW8rEYHpOhlqPq8962/gU3qUEuIMAfTL9rAiaA0ZBEFhO34rh+R1kvQUB+RgcDEFne1wAKjzPVdVat/BID1MgFAFZevVFonxGbEf3GRxDzCE09ur02ZeGi1qGGoE0UzQmV5EcW25wTQHNpuXpxOXJuz+FOz0CpuRZmDhQHpHDB0u80HLwgfG+YXM0TFvmUMHBJGSX4x1Dz612eZS8oFEtUc5n9MvqazYb1IgRFnLpWDxDdndF5EKXeD8/aO7ky2wQeTzVFdhrpg=;SuYU/JxaICeRzbzfS1wcig=="
 ---

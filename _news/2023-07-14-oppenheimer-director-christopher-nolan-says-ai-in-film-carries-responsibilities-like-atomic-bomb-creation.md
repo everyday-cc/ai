@@ -46,6 +46,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Christopher Nolan Compares Artificial Intelligence To The Atomic Bomb"
+    excerpt: "After a screening of his new film, Oppenheimer Saturday night, director Christopher Nolan suggested that his period piece couldn't have come at a better time, as we're in an “Oppenheimer moment,” he said. But this time, the dangerous technology isn't being created in a lab in a New Mexico lab; it's coming from Silicon Valley."
+    publishedDateTime: 2023-07-16T16:51:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 57
+    images:
+      - url: "https://media.vanityfair.com/photos/64b4110c80282abf33846d55/master/pass/1530967111"
+        width: 2125
+        height: 1417
+        isCached: true
 
 secured: "O5SzaVBNs623g0wilq3nlxyaSi4TgPPy3XM41eRFQ1CrxTg761DI2hpPalVGoj4/wFnEM2ApbGSOgLDOO0lAHgnWMmW7X7/Ivi408GkqVhS6slcih6ga9WWUbOS2jXchflHEJIyMlGAJrYYhTVb+tnj7LXOvP4yu4qA8wbIlsZydAKnIN42azZ+yxU5/SkuJtaQ52J15Y3QMOhVliIOqp33S3e09t4OXAVEnDQBcjBUybt1WDWI+FAjqxG5Usq+g6CRXlEf2xNNz0oIyCvyDolqVgzOIK7FuwtX8yvnHZeI2rdezzjhy3/gbexVFLKwgHEtDU0FgMu74ge6iIAcUWbsaEdaZTAe1/emiML0SUSs=;F4m0mLAto6PbEKNx6uw2gg=="
 ---

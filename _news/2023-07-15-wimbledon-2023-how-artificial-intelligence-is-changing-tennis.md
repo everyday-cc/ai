@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/sport/av/tennis/66183190"
 webUrl: "https://www.bbc.com/sport/av/tennis/66183190"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI at Wimbledon - The new sound of commentary?"
-    excerpt: "Both male and female-sounding AI commentators are set to feature but the voices will have no human input - they'll be created solely from computers."
-    publishedDateTime: 2023-07-11T23:09:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0g09dnh"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0g09dwj.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI on the Path to the Finals: IBM Serves an Ace by Bringing Generative AI to Wimbledon"
     excerpt: "New IBM AI Draw Analysis and AI Commentary features are here for tennis fans enjoying their Wimbledon experiences."
     publishedDateTime: 2023-07-14T17:42:00Z

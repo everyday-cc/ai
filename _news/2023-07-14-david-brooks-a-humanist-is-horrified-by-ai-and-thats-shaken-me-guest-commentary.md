@@ -7,7 +7,7 @@ originalUrl: "https://www.baltimoresun.com/opinion/op-ed/sns-bc-brooks-column-ny
 webUrl: "https://www.baltimoresun.com/opinion/op-ed/sns-bc-brooks-column-nyt-20230714-xoqqpxrntjagxih6xc2ebvjkgu-story.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The Verge hires David to cover artificial intelligence"
-    excerpt: "The Verge has hired tech reporter Emilia David to cover artificial intelligence. She has been at Insider covering venture capital since April 2022. Before reporting at Venture Capital Journal, where she worked for a year,"
-    publishedDateTime: 2023-07-12T00:56:00Z
-    webUrl: "https://talkingbiznews.com/media-news/the-verge-hires-david-to-cover-artificial-intelligence/"
-    ampWebUrl: "https://talkingbiznews.com/media-news/the-verge-hires-david-to-cover-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://talkingbiznews-com.cdn.ampproject.org/c/s/talkingbiznews.com/media-news/the-verge-hires-david-to-cover-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Talking Biz News
-      domain: talkingbiznews.com
-    quality: 57
-    images:
-      - url: "https://talkingbiznews.com/wp-content/uploads/2022/08/Emilia-David.jpg"
-        width: 450
-        height: 450
-        isCached: true
 
 secured: "wzhjW004gMbBE6dxKSjf1H0upnKTvvuP1eOeLsrOt49DDtce24BPWfvwe0bj7WLJvApx2+9SC5v09dYLQn24f51c61Zw8ibOpfYTues0ZqxPkvn0pHGHiYYA9l1kFciCKoxUHYGySOIDXeUl4tJs/l0bIji0I/CYjPp77VyCEOtZO3LecSMkSJ7UGecPk/1BT4p4kDeaU1HGZIUYBR7dvyY+WxKBC6OHNXtIneYH0J8jrzI7q/2qQsCdzUu0Swhdo4x8Qm9qZgVmFExKB63zw51FpmPi42Yu/xx/EbHMtE9myV3wC0yfhbsLjqLIOJTf5HJku0K464DPB8gV8egk2QMPIB9DQy+x1fKudbnyvcmohwmBEnYM2ZMjlhDvOCwb+H6Mj3djv8R7D66syF7QKL0IDCtJHm8vq6/JPvFxHJNJA/Cq5eiyC3PwrkSQi6pPoEhjJ+JR1fyDRjF8u59I94RcMldcBxPC4TFsaaPVBoZwtqz5oU9rJpmGbz4V7CryRBhXUQj4sIXIqxXCjOfnxQ==;xd1FxHfuzBvLgf5v8vD2YQ=="
 ---

@@ -99,20 +99,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Google-backed Anthropic startup upgrades its Claude AI"
-    excerpt: "Anthropic, an artificial intelligence startup backed by Google, has widened consumer access to its chat program Claude and upgraded underlying technology that the company says makes \"Claude 2\" better at tasks such computer coding and arithmetic."
-    publishedDateTime: 2023-07-12T00:04:00Z
-    webUrl: "https://www.itnews.com.au/news/google-backed-anthropic-startup-upgrades-its-claude-ai-597867"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 37
-    images:
-      - url: "https://i.nextmedia.com.au/News/documents_case_load.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
 secured: "sBMq20hY4FFdEoDbYYmN3UTTqO8bBm8xcYu3ng76Mcuc18YF+PswlbNaElj7Bq6ddGtehbH5pQZt+6lqJUrmzxIBO3jVOFqILYRMSGoSrHkfhana6xFZNyXebOViWRajWbE902DrmFEuj+WxWiW91re43p9QBH67lg2wTpdQWteNJvFB3gcMassZKs2qi3SBXuBN8Rl8wjEJqF8c1dbWJ//p5FC70N1k+ufDT5+LNRt+aXTqF59sEd3o06P3KCss4o8GdPHiX7Y0khyOLFOdcUYUFhmQy35JgjpKLIgAs8w0adydEkoKaqI+tZ3qbRng/tMQgS8FgsVo8yGbzN5iWYOuzPH68klSohCI2IxIMB0WwoyN4atKsJA87ruI7eSTjBU01fAE6VSA7azy/pyXuiuNLXGAs+viDof6ocsEA5xLc0A3hTR1K8r/ySw3wGxecohWBl+TZ+mFCgao0nt6xMSMoYdPmudKUIm5ziCRiWVZUhkQujQIAdMa/lQdXIGF0qWIkz4kW0vMC6nquQw7Zw==;TLvWUKOdaxD3a5+eh0kvJw=="
 ---

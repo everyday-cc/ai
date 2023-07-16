@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Nvidia_13.jpeg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
+    excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
+    publishedDateTime: 2023-07-13T21:04:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/nvidia-invests-50m-in-recursion-to-boost-ai-platform-for-drug-discovery/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 38
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/07/GettyImages-1258974271.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "g0FgH/C2NrMlnX9UGi0Tu0sic9PvGf6G2p/yCBBdd/yLQczXKljpRs1YAzBKbgb8+/g8KlOcf0+puQ76DvtE5Yyb09C2cY4i+3n2144K+wXHy0pDH84VEIX7+oczn8oA3Q0G8rgFdc1EKL5lkpKk90cWVidx2GOH+rr2EVgfvI9lsKEYFfYOuDCzoV6Mb0a39DBWJ2mmXHW5jnrq8QuP/7ZvV+9fwjJfG09StC81Gu0s7xKRPuYWQvF37mOCAifsl35me118VkKQzAVNJrZTM3fpJQfs27AR5dHmljiOGL0IT43gF+ZCOvi6RGLZMB0T9QApiH9nQbnfuU1ksSCFQVl+7swxTI8wq4ChtdBlEdaUtiTuSRVA71bmVV+PgsghXwsxpxHRXr+ijND+ix7JDCgcavPXiIcBEH+EWppvDtfuhjaFozax5LK5/TYsygVnKcVQ9G7WClLcsWJB5XgqBeSBH+ZgqXQ1MCtHJCTxyI+uoyPgApf6cbxMAK4N2Yp3VIVeNOID5TwL1+i9ogcQ1g==;c76i5+cxzJeezwG2z3FfLg=="
