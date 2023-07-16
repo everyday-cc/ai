@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonpublicmedia.org/articles/technology/2023/07/11/45
 cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/technology/2023/07/11/456660/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council/?amp=1"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 450
     height: 300
     isCached: true
-
-related:
-  - title: "Gov. Abbott signs bill to establish an Artificial Intelligence Advisory Council"
-    excerpt: "Gov. Greg Abbott signed House Bill 2060, which will establish an Artificial Intelligence Advisory Council for the state of Texas. The council will oversee how state agencies are developing and using AI in an effort to make sure that it is done so responsibly."
-    publishedDateTime: 2023-07-11T12:40:00Z
-    webUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council"
-    ampWebUrl: "https://www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council?_amp=true"
-    cdnAmpWebUrl: "https://www-keranews-org.cdn.ampproject.org/c/s/www.keranews.org/politics/2023-07-11/gov-abbott-signs-bill-to-establish-an-artificial-intelligence-advisory-council?_amp=true"
-    type: article
-    provider:
-      name: KERA News
-      domain: keranews.org
-    quality: 55
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/d245656/2147483647/strip/true/crop/1010x568+0+52/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2F6e%2Fd736005240eead037dfe7e0713f3%2F060723-denton-county-courthouse-drc.JPG"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "zrQRbOtqzv/71GVuef9e768UWT3RcWceh4L4CsQTwj3vc68hhHGxIOrTTeJ/iGKoHaf2zsGI3ayEiXMQhQYzUIVTAdGF+zd2nI772odyIVEl5CRhWrxOV4yt1twXeVicTjcvcsfuKEvfYK78rosgL1kwwPej/+vDV51MbIrAZAyyc9qXnQEBgDfvB87N/Fw/vTKk4AXeu9MYAMJCbntdi1Tc0NLPVGA3TW6Daar/OPsBL6eX/wlya/QIGvX4puvJhfwLYNHRZXaj3rLvpx9PNotD2mYDKEKrF7SZmoRcja6ermT7qPrP08wNgxfqpLp9x8a4lQdpxuECdZJGzNlvmWQoBaP7+fJSpYLljCzHhoBFxudisSkcOacnme6687zY8+G4cr/8rhRkRYAHZMVXbOxzi2jIleuCdt7nCzyo0reJqj34qrHZM4K5dfy411g+2Mh0MEiskO3j4Em/Q6s0QpRBvLR/o1pSf74doVnMF8qk7slyVDxd1gDeHHbau2+f+kVtVIfHrVHtzGTfEb1bSg==;AHyrhVuklWLCZecCaAF3SQ=="
 ---

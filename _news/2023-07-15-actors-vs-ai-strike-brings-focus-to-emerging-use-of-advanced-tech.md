@@ -90,15 +90,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "4 Things Job Seekers Must Know About The New Role Of AI In Hiring"
-    excerpt: "As more businesses adopt AI recruitment tools, job seekers must understand how the technology is being used and the ways it might impact their chances of landing a job."
-    publishedDateTime: 2023-07-11T12:27:00Z
-    webUrl: "https://www.forbes.com/sites/bryanrobinson/2023/07/11/4-things-job-seekers-must-know-about-the-new-role-of-ai-in-hiring/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Applicability of AI and Robots to Nursing"
     excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
     publishedDateTime: 2023-07-11T15:38:00Z

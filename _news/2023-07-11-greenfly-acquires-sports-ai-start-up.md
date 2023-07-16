@@ -23,17 +23,6 @@ images:
     height: 356
     isCached: true
 
-related:
-  - title: "LegitScript makes acquires Beaverton AI startup"
-    excerpt: "As part of our overall growth strategy we are looking at everything in our existing wheelhouse and also looking at things adjacent to the core offering. The Fluxguard capabilities check the box for both."
-    publishedDateTime: 2023-07-11T12:05:00Z
-    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/07/11/legitscript-fluxguard-acquisition-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-
 secured: "dISUuI2zW6CJ9I91UHN5UttOQ1MD4a6/mmT/WXESAgbBySVaPVaVcyH+OQ+xWkbB/75lXU7jLf4mYsXIfD9FaKq0lKOtTx47/YcLxcZeAHwjKwpIKBEIEH6xyXFBl2PQpTu4RHuSfGrGPNFKIuTIAYq5EZOH6jXkBnZF5ENdHJefqs2VlqBKPtN0qG/W0mZxdfWJgQoR6ub910EZlQhCHIdZ4OzcSyzHfjcLCtPaheHniSVx9mhxPHZA04cW+2in6aDUsfPjlHdV0nmjUCW0RtDQO0l2f6NxB3A7/ILxtBcgGs+oCjPqtN2J1sNog/6Rl9ndtynioGmSvY74VD997+u7Ysr5LfUct1p3lxOq0NA=;I5Z0tC71miIyrKhf5E9nnw=="
 ---
 

@@ -300,15 +300,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Software Company CEO Believes AI Will End Healthcare's Labor-Intensive Paper Chase"
-    excerpt: "According to DataLink Software CEO Ashish Kachru, the healthcare industry can learn valuable lessons from other sectors that have embraced technology to streamline processes. Kachru believes that leveraging artificial intelligence (AI),"
-    publishedDateTime: 2023-07-11T12:40:00Z
-    webUrl: "https://www.techtimes.com/articles/293654/20230711/software-company-ceo-datalink-software-ai-healthcare-labor-intensive-paper-chase.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 28
 
 secured: "Ub0t/WT1NV9uI6+f7XVSCdXqvXo8JCBY3gbodbVhMUPYvNfDzvXiCZllvgFHRvtizRH+sRls5G48mW9VGDm43/k4MTVNmwaQdA+Khe78i6ctgTuUewlcVxuYHK2dicYZh9TLhYfRINJN107XEtj42MdkCcoWTnKUV4xL89KcPSg7qHlE/taXc8vz0K4fpJCt9CHff+aW/SHVN4WDlaPADTiK9dy5Z+CVH2z8MUkGyecKAqGYac8lWRWeTBDTUbVLyT108Yr2h3ipN52jlG5S+UJ2kaY6DCvA0ogGQ+cCrGPU8hUH7WtHtxWn7j1D+slPKQmYc8Q0Yf3TpMDe4+ur12J0n4LEi/7Hm8nids3U4NXBppLOeombJcRohMLneZ+RUmJCsrJn4RhF2cK1c2z7DNJMk6EyGA3RHeItMTfSc5Hfd7qj9i67h+KOX1WVnZgotqYNhQRVuqOrZ7kpa6uOrsP+BO410CQJagKrv2sntJ6PP2IWSAYbA/B4XfTfThaveWwZuuwfz3txDkx+wcgGzw==;RS3/x0r95SjhDL2XZEKQRQ=="
 ---

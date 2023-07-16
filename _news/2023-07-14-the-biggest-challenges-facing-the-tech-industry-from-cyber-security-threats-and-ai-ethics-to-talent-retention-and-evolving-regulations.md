@@ -56,6 +56,20 @@ related:
         width: 363
         height: 250
         isCached: true
+  - title: "The Enormous Dangers of Military Artificial Intelligence Reveal the Need for International Regulation"
+    excerpt: "Artificial intelligence (AI) is bound to be a major technological force that will reshape the 21st century. But its reverberating effects will not be confined"
+    publishedDateTime: 2023-07-16T05:40:00Z
+    webUrl: "https://countercurrents.org/2023/07/the-enormous-dangers-of-military-artificial-intelligence-reveal-the-need-for-international-regulation/"
+    type: article
+    provider:
+      name: Countercurrents
+      domain: countercurrents.org
+    quality: 22
+    images:
+      - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/07/Artificial-intelligence-AI-Military-Soldier.jpg"
+        width: 700
+        height: 367
+        isCached: true
 
 secured: "3JVSKYxb3jzuDFeLQF3zXU0OjkprZRl2MDe7ukMsPmvzPfDljuqAkg6xnU1iVWhyeM0VK8ybujC+ls0Bbz5LDlDuSQwG9H0vtB/UhQfe99mxER/HaV34T27UjhAwm2lhjdmWcdaAymZji0h4SlcqAQMmv2mM462zE5z672QWsg1koE3ZMu2OjIw/95Tu5B5GssERDRz3beAQSCBza3bVuurKO38lOnQHWnfI2pt1Z5rAou2eGTSbaG+ZwElR09fjAGEaNvG9ULy1RX0UKeJCCqjN+bbRf4qc9tj8S+5rzBWpyI3r0ft0g7cax+oFUWJCZGXNP8DsUJjuBoxPY4L8gvPisuYAk8mJBb28Ms5eYvgpC4y9NHVANk0YVPWKiJ0rINoCDbseGKn4+4/CJz57u8QK72h+ZI7xBRGugmrkyxY1AEfwXzJSxRUdcodeG3Y7RCJLg/+TtyNZd1R2ahm0joCXSPiHoiXJCOSsvkqqUK5kxq7lsclrhZsVBf5GYGFKmbN+DefR2qqwk0gYaVKTiQ==;73sq5xZTTNA5c1dJphjXiQ=="
 ---

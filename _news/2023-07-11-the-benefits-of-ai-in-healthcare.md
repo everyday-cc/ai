@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 326
+heat: 316
 published: true
 
 provider:
@@ -296,15 +296,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Software Company CEO Believes AI Will End Healthcare's Labor-Intensive Paper Chase"
-    excerpt: "According to DataLink Software CEO Ashish Kachru, the healthcare industry can learn valuable lessons from other sectors that have embraced technology to streamline processes. Kachru believes that leveraging artificial intelligence (AI),"
-    publishedDateTime: 2023-07-11T12:40:00Z
-    webUrl: "https://www.techtimes.com/articles/293654/20230711/software-company-ceo-datalink-software-ai-healthcare-labor-intensive-paper-chase.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 28
   - title: "AI Could Be One of the Greatest Wealth Builders in History"
     excerpt: "Artificial intelligence could be one of the greatest wealth builders in history. That’s according to Matt Higgins, CEO of RSE Ventures, as quoted by CNBC, who added, “Artificial intelligence doesn’t care where you were born,"
     publishedDateTime: 2023-07-12T13:33:00Z

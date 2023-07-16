@@ -46,15 +46,6 @@ related:
         width: 1150
         height: 900
         isCached: true
-  - title: "Embracing AI And Natural Language Interfaces"
-    excerpt: "In 2022, the natural language processing (NLP) market was estimated to be worth $15.7 billion, and by 2027, it is anticipated to reach a value of over $49 billion. NLP is a field of artificial intelligence (AI) that enables computers to understand ..."
-    publishedDateTime: 2023-07-11T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/11/embracing-ai-and-natural-language-interfaces/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "HR using AI on the QT"
     excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
     publishedDateTime: 2023-07-12T08:13:00Z

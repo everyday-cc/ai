@@ -124,6 +124,22 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "KPMG, Microsoft enter landmark agreement to put AI at forefront of professional services"
+    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across several business-critical areas including workforce"
+    publishedDateTime: 2023-07-16T05:40:00Z
+    webUrl: "https://www.jamaicaobserver.com/career-education/kpmg-microsoft-enter-landmark-agreement-to-put-ai-at-forefront-of-professional-services/"
+    ampWebUrl: "https://www.jamaicaobserver.com/career-education/kpmg-microsoft-enter-landmark-agreement-to-put-ai-at-forefront-of-professional-services/amp/"
+    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/career-education/kpmg-microsoft-enter-landmark-agreement-to-put-ai-at-forefront-of-professional-services/amp/"
+    type: article
+    provider:
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 65
+    images:
+      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=94599e17-0d4f-5f81-a220-dcfc46cf6870&function=fit&type=preview"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Microsoft, Teradata team up to offer VantageCloud Lake on Azure for AI solutions"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
     publishedDateTime: 2023-07-11T18:08:00Z
@@ -240,6 +256,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+    publishedDateTime: 2023-07-16T04:12:00Z
+    webUrl: "https://www.inferse.com/617589/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
   - title: "KPMG to expand ties with Microsoft, will spend $2 billion in AI, cloud services"
     excerpt: "KPMG plans to spend $2 billion on AI and cloud services through an expanded partnership with Microsoft, aiming to incorporate AI into its core services. This move is in response to a slowdown in advis"
     publishedDateTime: 2023-07-12T12:25:00Z

@@ -105,24 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Amazon Prime Day 2023 deals on robot vacuums"
-    excerpt: "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums."
-    publishedDateTime: 2023-07-11T12:01:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-2023-07-11/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 21
-  - title: "Eufy robot vacuum deals for Prime Day 2023"
-    excerpt: "There are plenty of other exciting features as well, including strong 5,500Pa suction, AI-powered obstacle avoidance ... the high-end x9 Pro isn’t the only eufy robot vacuum on sale for Prime Day 2023. Prices start at just $129.99 for the eufy BoostIQ ..."
-    publishedDateTime: 2023-07-11T12:56:00Z
-    webUrl: "https://bgr.com/deals/eufy-robot-vacuum-deals-for-prime-day/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
   - title: "8 best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2023"
     excerpt: "Yesterday marked the start of Amazon Prime Day, the perfect 48-hour event to stock up on everything you need to spruce up your home and keep it feeling fresh. Starting yesterday, Tuesday, July 11 and running through tonight, Wednesday, July 12, a variety of must-have iRobot Roombas and other robot vacuum cleaners are on sale."
     publishedDateTime: 2023-07-12T18:39:00Z
@@ -142,6 +124,6 @@ related:
       domain: popsugar.com
     quality: 4
 
-secured: "PxphIVAAtzPbg0hdzOcfzIMcHLw987w9rbgBRhhR8mGe4u+H/+FUS/9qgqD5yBDf6fj21K7XPN6273O58g7wmhZZtwpOD8ntOZr/7+kF3qhUnYCf4GRmhV2d9vmEU4HrScdhsnozVtKNRf7KPA4ajrk30EaDmspzSljdBm1nNGZisZMhTfPp0ClcYRImhcwq6TVFf5mHjM/gm+GlZzDtbhNvFpdemlTY+jL79aP0KNRtzZnXWGBEOlaifJ4B13n1ovgZcartW3K7OKRTKThmvzw1PMVhfTQoZDfQqdzrZDloo/sMWDY6Pu0dGRrB0kQakmRfeRIY32gAS583xQj7GID5lCzY58WSXSMC6ZJUnTQ=;+V6Pt9BFIC670Y4W2Hzo7Q=="
+secured: "pP1tJAIOmLywMD9l8VyY/gwFAvl+FidPdgHOB4O0PIO3WpeRuTNBn278vqkj+uht1Fuw+LvldxWWZ235HXB9cIhTUSBM7KUrpD/2zPEnTO/eZTHqY4D8KttrV4iDZ4l/9M2fuFI9XEcxy4VyY03jeqFLJPf7aesLQKs9wvFERynaJAp8+xxuK1JN32AVCZSZOLyEebXAfbBS7MEkqC4WsijTPxEJtSI0zuZlrxZnLteKDh8PzDSu3J2XRp9K7FypkYakmYPFwHMUU+vZnxcMtgdXeVHURIgz0Bktsr4e21jaXV4mUAPkKmBxOaU87jIyrcRXeHD4Ds73vduchX7HmcyaXTbw5VPSdZDp3AnxmRQ=;N9OTk1aP/Woo24y6LXGYuQ=="
 ---
 

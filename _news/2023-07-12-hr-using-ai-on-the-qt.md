@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Embracing AI And Natural Language Interfaces"
-    excerpt: "In 2022, the natural language processing (NLP) market was estimated to be worth $15.7 billion, and by 2027, it is anticipated to reach a value of over $49 billion. NLP is a field of artificial intelligence (AI) that enables computers to understand ..."
-    publishedDateTime: 2023-07-11T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/11/embracing-ai-and-natural-language-interfaces/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "Qk9Byvq95ARdzxGAq7Fs/oFYCtcz0zsZ6NMofY+0xa4sndPsJY8cxnsfp9O1QHpsetIe+Ejn6aIHLNSCngFz9cp2FBR7pyEMdfRZCiKCYTbysFjhsay0leNcCOW21/Lpimuyhl95E4H8/qHRPup1wG43WYTdAKcSF4viKZUYn8HiabciNvt08zZ2BjgnxCtrYWPh5246ZP3RuxE92hJ0J2dMPQ6e0f45zHlBQg3tTE+iMrMjQfMOuAs8LcfH6uttwrGXQpG9/N99kjO3dbuvPGYek6kfY8rS/rL5cXBy7c7sqtmo3bWMH2y/GDHYFcRQM39ouHY1IdvLxLxvIIanaqeZjW3HNoGxkXrbvzH4IJU=;KRtyzfDE+8A55Qd61Yxv0A=="
 ---

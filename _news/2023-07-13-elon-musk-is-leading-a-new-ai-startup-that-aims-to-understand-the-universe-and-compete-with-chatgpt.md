@@ -184,15 +184,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
-    excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
-    publishedDateTime: 2023-07-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Meta to release commercial AI model like ChatGPT, Bard"
     excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in order to compete with Microsoft-backed OpenAI’s ChatGPT and Google’s AI experiment Bard,"
     publishedDateTime: 2023-07-14T00:40:00Z
@@ -249,15 +240,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "LGBTQ+ consumers skeptical AI like ChatGPT will improve their financial experiences, Achieve survey finds"
-    excerpt: "Wide-ranging survey on the personal finance experiences and challenges of the LGBTQ+ community reveals access to financial opportunities is"
-    publishedDateTime: 2023-07-11T12:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lgbtq-consumers-skeptical-ai-like-chatgpt-will-improve-their-financial-experiences-achieve-survey-finds-1032437350"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "How Sarah Silverman might save us from AI like ChatGPT"
     excerpt: "Sarah Silverman is one of the authors suing OpenAI and Meta for infringing copyright while training ChatGPT-like generative AI."
     publishedDateTime: 2023-07-11T17:30:00Z

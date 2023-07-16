@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: Yes, many self-driving car opponents are Luddites. That's not the insult you think it is"
+    excerpt: "The Luddite label is apt - and maybe wouldn't be thought of as a derogatory gotcha if people had a better sense of what the actual Luddites were about."
+    publishedDateTime: 2023-07-16T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/16/opinion-yes-many-self-driving-car-opponents-are-luddites-that039s-not-the-insult-you-think-it-is"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 11
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/14/2177449.jpg"
+        width: 1240
+        height: 795
+        isCached: true
   - title: "Anti Self-Driving Activists Are Fighting Back After a Car Caused Several Concerning Collisions"
     excerpt: "Protestors in San Francisco are interfering with autonomous vehicles as they look to reduce the number of cars on the road."
     publishedDateTime: 2023-07-11T18:53:00Z

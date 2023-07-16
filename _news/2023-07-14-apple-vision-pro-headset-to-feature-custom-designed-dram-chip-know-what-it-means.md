@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-vision-pro-hea
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s Vision Pro Headset to Use Custom-Designed Low Latency DRAM Chip Made by SK Hynix"
-    excerpt: "Apple's Vision Pro headset will use a new type of dynamic random access memory, or DRAM, that has been custom designed to work with Apple's R1 input processing chip."
-    publishedDateTime: 2023-07-11T12:22:00Z
-    webUrl: "https://www.mactrast.com/2023/07/apples-vision-pro-headset-to-use-custom-designed-low-latency-dram-chip-made-by-sk-hynix/"
-    ampWebUrl: "https://www.mactrast.com/2023/07/apples-vision-pro-headset-to-use-custom-designed-low-latency-dram-chip-made-by-sk-hynix/amp/"
-    cdnAmpWebUrl: "https://www-mactrast-com.cdn.ampproject.org/c/s/www.mactrast.com/2023/07/apples-vision-pro-headset-to-use-custom-designed-low-latency-dram-chip-made-by-sk-hynix/amp/"
-    type: article
-    provider:
-      name: Mactrast
-      domain: mactrast.com
-    quality: 52
-    images:
-      - url: "https://www.mactrast.com/wp-content/uploads/2023/06/Apple-WWCD23-Vision-Pro-glass-230605_big.jpg.large_.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Apple Vision Pro to use custom-designed DRAM Chip"
     excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1"
     publishedDateTime: 2023-07-13T16:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "The Enormous Dangers of Military Artificial Intelligence Reveal the Need for International Regulation"
+    excerpt: "Artificial intelligence (AI) is bound to be a major technological force that will reshape the 21st century. But its reverberating effects will not be confined"
+    publishedDateTime: 2023-07-16T05:40:00Z
+    webUrl: "https://countercurrents.org/2023/07/the-enormous-dangers-of-military-artificial-intelligence-reveal-the-need-for-international-regulation/"
+    type: article
+    provider:
+      name: Countercurrents
+      domain: countercurrents.org
+    quality: 22
+    images:
+      - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/07/Artificial-intelligence-AI-Military-Soldier.jpg"
+        width: 700
+        height: 367
         isCached: true
 
 secured: "3NIKTJheX+kSeiLs9Eb9jSWCH9MRheXtn7NlcwU+txx8kqi/Xhn7lLrXBk8If01B2kE7Sh0DLldlH1zRH5lHaW0fQFfC0DdXlf+BcDMkNZeXgy72eajUJUKVqWdY++e2VAK/pvgJyu5Eay6pkIdrbTLKTLewyvOwPvzgvp/WS88N8g4envIohXG2YIjKRr2RF79p9kJekMt6edGO5Znf7aI/HdKuHhuT+CyBCJX/7Uj0WUoS8hu+C40RKs11RlSeTpmRtOEYdOxG/grVSjmQwJfV8KUe2R0un3neoJzqazhzEH1KauAI9d9z73kdQkZq7GGEvCtBlQ/gcCx6edvMowimvj/jbJSP6rdKSKEaN2w=;LgMjpBi9oLLrAiRRyqlWJA=="

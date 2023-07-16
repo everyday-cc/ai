@@ -106,24 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Best Amazon Prime Day 2023 deals on robot vacuums"
-    excerpt: "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums."
-    publishedDateTime: 2023-07-11T12:01:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-2023-07-11/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 21
-  - title: "Eufy robot vacuum deals for Prime Day 2023"
-    excerpt: "There are plenty of other exciting features as well, including strong 5,500Pa suction, AI-powered obstacle avoidance ... the high-end x9 Pro isn’t the only eufy robot vacuum on sale for Prime Day 2023. Prices start at just $129.99 for the eufy BoostIQ ..."
-    publishedDateTime: 2023-07-11T12:56:00Z
-    webUrl: "https://bgr.com/deals/eufy-robot-vacuum-deals-for-prime-day/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
   - title: "8 best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2023"
     excerpt: "Yesterday marked the start of Amazon Prime Day, the perfect 48-hour event to stock up on everything you need to spruce up your home and keep it feeling fresh. Starting yesterday, Tuesday, July 11 and running through tonight, Wednesday, July 12, a variety of must-have iRobot Roombas and other robot vacuum cleaners are on sale."
     publishedDateTime: 2023-07-12T18:39:00Z

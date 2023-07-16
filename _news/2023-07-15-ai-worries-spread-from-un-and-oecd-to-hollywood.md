@@ -164,6 +164,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Artificial intelligence could prevent mediocrity in Hollywood: Simon Pegg"
+    excerpt: "Simon Pegg believes that artificial intelligence could prevent mediocrity in Hollywood. The Mission: Impossible - Dead Reckoning Part One has spoken out in support of the technology as he is convinced that the threat it poses may lead to an enhancement of quality in the film industry with humans needing to raise their game."
+    publishedDateTime: 2023-07-16T05:18:00Z
+    webUrl: "https://www.asiaone.com/entertainment/artificial-intelligence-could-prevent-mediocrity-hollywood-simon-pegg"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 36
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/20230714_simmonpegg_reuters%20%281%29.jpg?h=7f9be7c4&itok=54b8S6-7"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "K9XLDVkhM4IQy3dIJYMyvBhnCFJO74M/06MJOcEU3QhFoGwa8PxKTZ3niPxNwlAT8b4rBSUnWED36Cn3U8muxOwkwjxq2y9gT03bwNRs2Jj6Nr++NknLTjp4D3hYn7PRQXDf1+mw4CreQRRasU9uoO5DXQmeyEIshl5sueKuc+ycQWoUkVhVBqEmca7GdJIhaPEN3s3GqmBHdi1GwEHMWZxisXeuAaZ26YSh7ckjBTLqrCF/e/j7CiDI8S2EltP77oewSf5FIB+OElh++q0g3JFoGMjwK3LHgJMAVPZnrk0cZsoIasF1ihsE9qeRlQkNZ8V8qDIFmj2cygBZtkCnfssu/knhOor39anqXFcWGv7I0dfZczj5BvekscI563EgrwBzOcLjbSiS7tkEfhuBxd0gqX7XDlK3JzFJgowb7tZj4KgKQAQdEW3s0WVodwD6gSUT1DiBoUzxpyaisrDpMAhHjYk1cECrceemN23g4+O6roQXHZ5brtbprR2qa3Z+nHMUdHjfsQptwtwoBizl4w==;ZrhsV/lHKSvd9uVjZWY7bQ=="
 ---

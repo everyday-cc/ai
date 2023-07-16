@@ -105,15 +105,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "4 Things Job Seekers Must Know About The New Role Of AI In Hiring"
-    excerpt: "As more businesses adopt AI recruitment tools, job seekers must understand how the technology is being used and the ways it might impact their chances of landing a job."
-    publishedDateTime: 2023-07-11T12:27:00Z
-    webUrl: "https://www.forbes.com/sites/bryanrobinson/2023/07/11/4-things-job-seekers-must-know-about-the-new-role-of-ai-in-hiring/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "AI versus AI: Human extinction might just be collateral damage"
     excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
     publishedDateTime: 2023-07-15T12:00:00Z

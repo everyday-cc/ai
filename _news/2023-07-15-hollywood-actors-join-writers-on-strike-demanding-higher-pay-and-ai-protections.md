@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188510789532"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188510789532"
 type: article
 quality: 82
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -154,6 +154,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Artificial intelligence could prevent mediocrity in Hollywood: Simon Pegg"
+    excerpt: "Simon Pegg believes that artificial intelligence could prevent mediocrity in Hollywood. The Mission: Impossible - Dead Reckoning Part One has spoken out in support of the technology as he is convinced that the threat it poses may lead to an enhancement of quality in the film industry with humans needing to raise their game."
+    publishedDateTime: 2023-07-16T05:18:00Z
+    webUrl: "https://www.asiaone.com/entertainment/artificial-intelligence-could-prevent-mediocrity-hollywood-simon-pegg"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 36
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/20230714_simmonpegg_reuters%20%281%29.jpg?h=7f9be7c4&itok=54b8S6-7"
+        width: 600
+        height: 316
         isCached: true
   - title: "AI worries spread from UN and OECD to Hollywood"
     excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."

@@ -35,6 +35,20 @@ related:
         width: 1465
         height: 915
         isCached: true
+  - title: "Opinion: Yes, many self-driving car opponents are Luddites. That's not the insult you think it is"
+    excerpt: "The Luddite label is apt - and maybe wouldn't be thought of as a derogatory gotcha if people had a better sense of what the actual Luddites were about."
+    publishedDateTime: 2023-07-16T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/16/opinion-yes-many-self-driving-car-opponents-are-luddites-that039s-not-the-insult-you-think-it-is"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 11
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/14/2177449.jpg"
+        width: 1240
+        height: 795
+        isCached: true
 
 secured: "TRd3ckFfKw4kfCmG8Hy6jnctUzabK+v3+vUmhmZldvnoED2xBtvOUnvhj0suD8fdle0fJoqxdqc8DA1Psm8huZ7I8gS58rIUyFqDIuPyKK2GU2ohBWO1nGLTkswIF7OW42LTXB1/8bGRYoWsNaz/Ndac6hocf8YNXXB4mEa90Qsol21fBD3zfb6p7kaxRn4iGwP9m97RBJPpYSIBGEi704Tgg1NdaakcStj/jhHFaSzg//KSwRumSzgIuJH3bPOXfbXRghW7FqP0IFaIxbHxvk86koi3Op3cmu7I6GGdiGTb6zDV6qIN88IrT0s2Q/+4qIDXOVbQeSewJ+Q8nyvXjX/gzLu9vPANco510dklqW3QAL3LSx1rPFqFz+6R/Tc2G7u51kDXW1Y8ByVpUo5hpinALakv7JcopMzMDyr4uDzUx7cvRguJ6c27R8vWq+PSML0hSqqeLfNU0aH8A35+PMADLWgMUafDyFJBAPk6i+3Dgg+ZQaMUzXW0710Gr5JYKd7RZ7KAbXBYUECCLiEMNA==;jJf9FRmRVj11719hcsI9aA=="
 ---
