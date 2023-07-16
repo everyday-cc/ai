@@ -57,15 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial Intelligence Robots Market to grow by..."
-    excerpt: "The growth of this segment is primarily attributed to the growing adoption of Artificial Intelligence Robots, which is driven by an increase in the global demand for the artificial intelligence ..."
-    publishedDateTime: 2023-07-11T15:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33187923/artificial-intelligence-robots-market-to-grow-by-usd-19-157-78-million-from-2022-to-2027-abb-ltd-a"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "nmbdMm+jqCXVv0CzmOqLXK9SrzCT4zRHySasNi9aiLqkBn2l+4lUfnxb3fph0MvTkpr+4FBlF0QBcLIUbgoH3LDhbigCzDrHEbhaFwOm7M84R0LfqBMzYck1UnjzupZgBUdl3F0KoPm2RL1SfGkFf8zI7uk7KQT1NaPS4i9MmebuJfq/ygeSC2GDsObYh0MmcY5ohRnls0dLW08L67r5H4BmTSdJoqbRjWbZ/j8TkkdOvEzqK+UDo/KDVa4tBcTBOTfaH3gUy5hfLgLbSVVql2AbrHsKGBVgrHlRQyJbS1zrKJXwxDn62zo5cZKtJdbAM8xCQ/lI0mmYWafshGtumb8Gs7aP46RuLX1YwYceTA8=;3lCex+JbwtJW6jIjFdegQA=="
 ---

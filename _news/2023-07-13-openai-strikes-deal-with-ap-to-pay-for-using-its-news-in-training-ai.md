@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT and Bard Get New AI Chatbot Rival: Anthropic Debuts Claude 2"
-    excerpt: "The chatbot is available now in open beta in the US and UK, and Anthoripc said it plans to make Claude 2 globally available in the coming months. If you're interested in seeing how Claude 2 compares with other publicly available chatbots like ChatGPT, Bard or Microsoft's Bing, head to Claude.ai ."
-    publishedDateTime: 2023-07-11T17:17:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-and-bard-get-new-ai-chatbot-rival-anthropic-debuts-claude-2/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/8f89d44a5ec05644c6771739820cbf0f63f6a093/hub/2023/06/28/b65a809e-bdf9-4ed1-a9e9-33d039e7c579/ai-text-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Anthropic launches Claude 2, the next-gen of 'friendly' AI chatbot"
     excerpt: "Anthropic, the company founded by former OpenAI research executives, has released the next generation of their conversational"
     publishedDateTime: 2023-07-14T15:13:00Z
@@ -101,20 +87,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/xai_elon_musk_ai_startup_twitter_1689182796531.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Mount Sinai Launches Center For Ophthalmic Artificial Intelligence And Human Health"
-    excerpt: "The Icahn School of Medicine at Mount Sinai established the Center for Ophthalmic Artificial Intelligence and Human Health in New York."
-    publishedDateTime: 2023-07-11T15:20:00Z
-    webUrl: "https://healthcaredesignmagazine.com/news/mount-sinai-launches-center-for-ophthalmic-artificial-intelligence-and-human-health/"
-    type: article
-    provider:
-      name: HCD Magazine
-      domain: healthcaredesignmagazine.com
-    quality: 48
-    images:
-      - url: "https://healthcaredesignmagazine.com/wp-content/uploads/2019/06/iriz1ktx_400x400.jpg"
-        width: 320
-        height: 320
         isCached: true
   - title: "Google AI Boss Says New System Will Be More Powerful Than OpenAI"
     excerpt: "According to Google DeepMind CEO Demis Hassibis, Google has an ultra-powerful large language model (LLM) on the way — and it may blow OpenAI's existing systems like the ones powering ChatGPT out ..."
@@ -155,52 +127,6 @@ related:
         width: 1254
         height: 836
         isCached: true
-  - title: "Elon Musk’s new AI startup xAI to take on OpenAI’s ChatGPT"
-    excerpt: "Elon Musk announced his long awaited AI based venture on Twitter on July 12. During an hour-long Twitter spaces event, Musk announced the formation of xAI, the AI startup, \"to understand reality\". xAI’s company website mentions that the goal of xAI is to \"understand the true nature of the universe.\""
-    publishedDateTime: 2023-07-13T08:21:00Z
-    webUrl: "https://www.afaqs.com/news/digital/elon-musks-new-ai-startup-xai-to-take-on-openais-chatgpt"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2Ff120fcc3-d6af-4564-88b3-2eb71408c3cb%2FMultiple_Promotion_secured_1st_position_with_51__share_of_Ad_Space_followed_by_Discount_Promotion___.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Anthropic releases upgrade Claude 2 AI chatbot with improved safety and coding ability"
-    excerpt: "Claude 2, an upgrade over Claude 1.3, is now available as a beta chat experience for users in the United States and the United Kingdom. The chatbot is also available for business access through an application programming interface at the same price as the previous model."
-    publishedDateTime: 2023-07-11T16:17:00Z
-    webUrl: "https://siliconangle.com/2023/07/11/anthropic-releases-upgrade-claude-2-ai-chatbot-improved-safety-coding-ability/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/claude-anthropic-image.png"
-        width: 2880
-        height: 1620
-        isCached: true
-  - title: "Open AI is being investigated by the FTC over data and privacy concerns. It could be ChatGPT's biggest threat yet."
-    excerpt: "The Federal Trade Commission opened an investigation into OpenAI's privacy and data-collection practices to determine whether it deceived consumers."
-    publishedDateTime: 2023-07-13T19:30:00Z
-    webUrl: "https://www.businessinsider.com/openai-ftc-investigation-chatgpt-data-privacy-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
-    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 12
 
 secured: "sBMq20hY4FFdEoDbYYmN3UTTqO8bBm8xcYu3ng76Mcuc18YF+PswlbNaElj7Bq6ddGtehbH5pQZt+6lqJUrmzxIBO3jVOFqILYRMSGoSrHkfhana6xFZNyXebOViWRajWbE902DrmFEuj+WxWiW91re43p9QBH67lg2wTpdQWteNJvFB3gcMassZKs2qi3SBXuBN8Rl8wjEJqF8c1dbWJ//p5FC70N1k+ufDT5+LNRt+aXTqF59sEd3o06P3KCss4o8GdPHiX7Y0khyOLFOdcUYUFhmQy35JgjpKLIgAs8w0adydEkoKaqI+tZ3qbRng/tMQgS8FgsVo8yGbzN5iWYOuzPH68klSohCI2IxIMB0WwoyN4atKsJA87ruI7eSTjBU01fAE6VSA7azy/pyXuiuNLXGAs+viDof6ocsEA5xLc0A3hTR1K8r/ySw3wGxecohWBl+TZ+mFCgao0nt6xMSMoYdPmudKUIm5ziCRiWVZUhkQujQIAdMa/lQdXIGF0qWIkz4kW0vMC6nquQw7Zw==;TLvWUKOdaxD3a5+eh0kvJw=="
 ---

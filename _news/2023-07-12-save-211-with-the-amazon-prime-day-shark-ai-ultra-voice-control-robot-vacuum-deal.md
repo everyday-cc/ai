@@ -108,6 +108,6 @@ related:
       domain: popsugar.com
     quality: 4
 
-secured: "/tjeRcTQ3WUr+SQ+TdHKtdce+33c5gx+8ars511skZYnHCprkQZT9z5VH9BazMD5iHhruebVY82w5ep49aBhNNnsLSE7+YFpK1Kwb45PJxzzNwenpGj3oxoJZTNUzmm1IrhRk3yPS+jry9JvUhdnH0ujecy28eM4ejvuJO32DxlJHW/+R6TsDI7TVUbGAe16eHSwcEkEl7EN9J6H6KVA9LdskaGZ11cIZbthe+0KTnQ24A+A+WeOtXjQxc3K98Dbrmnb3xa5LXYjaXYI0uO1/prk7wxiUEUhR2Nb+E/Gggx/M+e1NYAHf72cDJNYn7s9VuK8N6cBScReZA0VrJb8eo4jAN6mUE5gzf+hIH5R6v8=;+EYpMA82stdLaAHut/MjGw=="
+secured: "CLkSC/vb9v9vZsDsEL5DoWROpVcVIzQjSUtZP2BLe8NFiscEF272mj4mJbZ4c0f6FfuhdH1CU/dAYwxPzWp3ftz+MfrsgUSaas5xH3HIabf/LDo9z0UcE2QhIuGCQkZFZerb9sPnsWpBnWrsU7zt/8t6V0EtZ8T1tdF2ddNRkz6pVpVBc2AE9YiSS/uD0Ifq3QqLcfSrRRVnbceiUNQWxmCHomw7jybtFL5bJicxLkqzGSNMRQ2i+S1zKgsywIYBIiKo+iKv99GxR/hqwsT8wfo8Yrcuaic/umvbvPND8WToNqZyftKTC1a5NLH0sbMl0SJU2HVyUyxnf7uB74zcc/IaiOzPVssnsjJhI5WM9Mc=;W5NxHlEZhlTGQ4+iMSj++A=="
 ---
 

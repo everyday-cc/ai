@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI tools are designing entirely new proteins that could transform medicine"
-    excerpt: "This neural network, and others like it, are helping to bring the creation of custom proteins — until recently a highly technical and often unsuccessful pursuit — to mainstream science. These proteins could form the basis for vaccines,"
-    publishedDateTime: 2023-07-11T15:59:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-02227-y"
+  - title: "4 Ways AI will Transform Work Life for Everyone"
+    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
+    publishedDateTime: 2023-07-13T13:48:00Z
+    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 35
+      name: ph-creative.com
+      domain: ph-creative.com
+    quality: 41
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02227-y/d41586-023-02227-y_25580716.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Healthcare execs should plan ahead for safe use of generative AI, McKinsey says"
     excerpt: "Generative artificial intelligence could lessen providers’ documentation workloads and more easily connect beneficiaries with their health plans, according to the consultancy."

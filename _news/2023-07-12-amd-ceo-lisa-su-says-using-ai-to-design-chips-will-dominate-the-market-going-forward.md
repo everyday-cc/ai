@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/92303/amd-ceo-lisa-su-says-using-ai
 webUrl: "https://www.tweaktown.com/news/92303/amd-ceo-lisa-su-says-using-ai-to-design-chips-will-dominate-the-market-going-forward/index.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1500
     height: 1000
     isCached: true
-
-related:
-  - title: "Lisa Su believes AI will soon be an integral part of chip design"
-    excerpt: "According to a recent survey, the so-called AI revolution is turning out to be quite depressing for many executives in the tech space. There are growing"
-    publishedDateTime: 2023-07-11T16:53:00Z
-    webUrl: "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
 
 secured: "IYtFs0oiSfCYapddZMNw9rAnEJSBiRfuafl/hYK0ZC43tFdPJc0vWZM1ujgafHbCeRJPbDmqc0LIZIgtYMdlAs1YIFcFGTio5kGIUoO7zd0uCpvp3bVdQz1S1YecFtMDhN8Cns4p2NqDTXPuEPXUf33yK85jIortEOrH8rppHb1jufzXbjL7/6stmt/aaXPd0MizKT4WrAlgSBZnAQ+1gr//P7uc5ybFnmEEKauj58y27nuyhcd6jL+zv2aQ6Cu/jXklQFRU1OoREmvW3+iwcaKVkq98vUswzUN8n47q8h6JDvr8Hk5RdGewPM58UNwdZQodYt507uwB5AA55x2cuAR4bMrDyjaNy8+BjcDWQdLJdKDuNjBR3s7hld6dVQbc/TROhnadUSKkijXz2uRVXdSgstVd8RnWj3PfPbzC/XWwItr05fXBDdiBY7OZhPp7u2MHoPi0WGintwP6/bzaJIWNIY5smoS4S3cFkz+r/iq/Aid4wlzWaVXTl8i2wzDaFRZth01vIasSvZ4aiNKjQA==;l2rOTu/j4esNjrrLU6rhkQ=="
 ---

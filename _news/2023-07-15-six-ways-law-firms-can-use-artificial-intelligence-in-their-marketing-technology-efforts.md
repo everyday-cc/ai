@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-ar
 webUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-artificial-intelligence-their-marketing-technology"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,31 @@ images:
     width: 500
     height: 243
     isCached: true
+
+related:
+  - title: "How Law Firms Can Utilize Artificial Intelligence for Marketing"
+    excerpt: "Artificial Intelligence will revolutionize law firm marketing forever. Law firms are now (or should be) leveraging the potential of AI in order to enhance their marketing efforts. By harnessing the capabilities of AI,"
+    publishedDateTime: 2023-07-13T14:58:00Z
+    webUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificial-intelligence-for-marketing/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 56
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2022/04/Artificial-intelligence_3-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Supercharge Marketing ROI With AI"
+    excerpt: "SUPERCHARGE MARKETING ROI WITH AI In an age where consumers are bombarded with endless advertisements and choices, the quest for genuine engagement and return"
+    publishedDateTime: 2023-07-11T19:02:00Z
+    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/royston-g-king-supercharge-marketing-roi-with-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
 secured: "ppC2K7aiiorr9cr6NbR9JNA3XowF2I+jiFE3/YLgCJySKTP9hFX629aDTlsp1krLRfNED48BF7k2kOIIQpCY2zTJNdTfKVt/rYFVuv/kf86qLbBPZ54TV2MMIq5+wDs7No3vgN7KL6xFpKEUyilspvhrxTEQ+7DQaNyR32fFJhB8cKJgkhj6ZgDLV688Q91+yX9k76rooIGDr9VN7CB4GhSyu8wYieC6TfhH4mnzgOTB63tI1O0bjDlTDy6+GbyYUXdb9G7E/Cbmp4wk/ywRprm1Cs3rYnP5eJaqIdW17RA465Q9aPU7QbfDl/orGYpUmU6YEWYaAMfOVgjL4+wBPWKAS0At4+qDb35+ZOBIvm/Y8D9oTMdC9TurwZwMcBGd9eXdltFAhvBb4laLNMax89Q/oNnoBxAnFSSWGIm6OzNwaCFzJPNhNdl2UqU5igCEQ/woEUpOxLl+cc6Di4BxVuf2wOP7nO0TqM5ybsJSnaZY0bcDXOBrGxvw4ugDHjO/HFHzE+kR0xD1gf5JbUQiiw==;qCRdlCxs/US6tqGC4kOO+Q=="
 ---

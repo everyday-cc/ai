@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-col
 webUrl: "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-collaboration-is-key/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
+    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
+    publishedDateTime: 2023-07-13T09:51:00Z
+    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
+    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
+        width: 729
+        height: 373
+        isCached: true
   - title: "NTT’s CFO says energy consumption and pricing are top challenges for enterprise generative AI"
     excerpt: "The telecom giant is focused on research to solve the growing energy needs of edge-based computing to power local AI systems."
     publishedDateTime: 2023-07-12T21:41:00Z

@@ -258,49 +258,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-15-the-future-of-ai-advancements-and-ethical-implications.md",
-      "title": "The future of AI: Advancements and ethical implications",
-      "excerpt": "Artificial Intelligence (AI) has become ubiquitous in the 21st century, reshaping society, industry, and individual lives. AI algorithms now possess an unprecedented level of predictive and prescriptive capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/",
-      "publishedDateTime": "2023-07-14T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-15-letmespeak-introduces-interactive-ai-dialogues-for-spoken-english-practice.md",
       "title": "LetMeSpeak Introduces Interactive AI Dialogues for Spoken English Practice",
       "excerpt": "The revolutionary system is set to change the way people learn English.London, England, United Kingdom - July 15, 2023 — LetMeSpeak is proud",
@@ -352,21 +309,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-15-hollywood-actors-join-writers-on-strike-demanding-higher-pay-and-ai-protections.md",
-      "title": "Hollywood actors join writers on strike, demanding higher pay and AI protections",
-      "excerpt": "In Hollywood, SAG-AFTRA actors joined the Writer’s Guild of America on strike after contract negotiations with Alliance of Motion Picture and Television Producers collapsed, demanding higher pay and AI protections so studios can’t use their images without permission.",
+      "path": "_news/2023-07-15-actors-vs-ai-strike-brings-focus-to-emerging-use-of-advanced-tech.md",
+      "title": "Actors vs. AI: Strike brings focus to emerging use of advanced tech",
+      "excerpt": "SAG-AFTRA has joined the Writer’s Guild of America in demanding a contract that explicitly demands AI regulations to protect writers and the works they create.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/hollywood-actors-join-writers-on-strike-demanding-higher-pay-and-ai-protections-188510789532",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/hollywood-actors-join-writers-on-strike-demanding-higher-pay-and-ai-protections-188510789532",
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689376796115_nn_dgr_actors_join_writers_on_picket_lines_230714_1920x1080-ugxzy1.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-LA-sag-aftra-members-ac-940p-b6307d.jpg",
+          "width": 2500,
+          "height": 1664,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -374,9 +331,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188510789532",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188510789532",
-      "publishedDateTime": "2023-07-14T16:21:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna94191",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191",
+      "publishedDateTime": "2023-07-14T18:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -402,7 +359,7 @@
       "originalUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -499,6 +456,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-14-how-walmarts-emerging-tech-team-is-transforming-retail-with-conversational-ai.md",
+      "title": "How Walmart’s Emerging Tech team is transforming retail with conversational AI",
+      "excerpt": "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/VB-Transform-2023-banner.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
       "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
       "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
@@ -540,6 +548,50 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-new-ml-benchmarks-show-best-algorithms-for-training-chatbots.md",
+      "title": "New ML benchmarks show best algorithms for training chatbots",
+      "excerpt": "As quickly as AI and ML have grown, MLCommons has been updating its MLPerf Training benchmarks. The latest revision, Training version 3.0, adds testing for training large language models (LLM), specifically for GPT-3, the LLM used in ChatGPT. This is the first revision of the benchmark to include such testing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html",
+      "originalUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/29/19/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-large-100935023-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html",
+      "publishedDateTime": "2023-07-14T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -596,7 +648,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -802,7 +854,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-market-grow-a-cagr-/2023/07/14/9848444.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -845,7 +897,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1185,57 +1237,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-china-takes-major-step-in-regulating-generative-ai-services-like-chatgpt.md",
-      "title": "China takes major step in regulating generative AI services like ChatGPT",
-      "excerpt": "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html",
-      "publishedDateTime": "2023-07-14T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

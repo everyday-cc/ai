@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-
 cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/2899f4a/2147483647/strip/true/crop/770x402+0+95/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F74%2F9055ea2dd0d0f5fc70d551696745%2Ffacial.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "AI-driven Facial Recognition: Repression And Innovation"
+    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
+    publishedDateTime: 2023-07-13T05:34:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "New facial recognition technology at DTW allows flyers to get through security without a boarding pass"
     excerpt: "When you come into Detroit Metro Airport, check in with your airline, and then head over to security you may notice that TSA has added a new technology making the travel experience a little smoother."

@@ -18,17 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "ChatGPT and the Future of Health Care"
-    excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
-    publishedDateTime: 2023-07-14T13:43:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/chatgpt-future-health-care-medicine/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 4
-
 secured: "g/8t2xtp+QvY7Xe0lRoAsMrNqbsXHcVJC76NjH6qXGSqbKfZsKLKg+n8luZDk9Ue1UMPcoY8LVIsiH7vD1WKmBHdcctLHfbR1bnMa54WN9FzcnNnHFXG7h6KT4Z2Xz6clc7ve/GUMk1P7N0TOFTUjvXEh8MNvdXGcKYbJIvcXq5kOkrweuY1DR7YHIeWFiZj3jg+DnBUAA1QuKfuPVKQ6v01BrSIiYFl91ehMlVzJpx7xmuu3+Yyowk6Z1yvDE1IPfK2XpuhA8UFp6jKEr6Fxb+FgBypd3KJVjoOk9LKnAE6k3w5ZucHwDaVg5m+GZWF8aBtKrkBRVGA1evJT8nzT0AmYfVJbZ/DTMu6qR3anKI+vyquMGPG2r5BlCypRKQm2/dnK47s+6kbNvcaaV/Wk9QJoAIJ7IgATJyxdN6QpGvLiCANWkKBIbQ9i0CumZ1KJIwzp0vCHtnZx48Yq+qjAoGB4d6NYMrk++0+oO599j/+iyMRaRiP1imXDjvOcC7eEE19EeqbsbeBpC4tGqV/Iw==;r2759Ukh/iVk2n4Q+f/Eqg=="
 ---
 

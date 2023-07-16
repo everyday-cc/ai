@@ -19,22 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "What Types of AI Are Being Used in Healthcare?"
-    excerpt: "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold."
-    publishedDateTime: 2023-07-11T16:29:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 76
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "How Does the AI Bill of Rights Impact Healthcare?"
     excerpt: "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI."
     publishedDateTime: 2023-07-13T20:41:00Z
@@ -159,15 +143,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "The Changes Machine Learning Brought to the Healthcare Industry"
-    excerpt: "AI and machine learning are helping to simplify the work of healthcare professionals and improve patient care. Learn about the use of ML and AI in the healthcare industry."
-    publishedDateTime: 2023-07-13T19:43:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/07/13/456457-changes-machine-learning-brought-the-healthcare-industry.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 36
 
 secured: "PApsHUnBwZJRfId8/XI7dpxjmlWAHaNajVuLVgs7BAeLz5c964Dz81bCaMSd+HXvKvTZ6SgiQ499ZNPP/Mw5FL4e0WDPQyIaeJt2PCPpVjbwmOEprtLAqdUVJw+/DhD3GmajdQeBCfYTJst78VISf+0W59j/24YS23NQj2B5qIi2vE3E7MqqSmZuSFRQGzUZwdF74Bj5d0LBLFSc79fBCNub52koBfuK3om8OypSGr7Mrm6gvzWdnV2YAPo7vjuv1wn7GOnyKoEfNIniRJpDFk7u5iSzrr83fJkRH0Yy13aGc/k08KJoForGZLWRYoxg8yrJg+m2+YLTIwDvA65cswb6F61UWpWBbJtadYMjEsI=;Iangw8XVAklOxpIj4P68+w=="
 ---

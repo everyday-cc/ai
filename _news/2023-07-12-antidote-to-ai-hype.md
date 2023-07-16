@@ -27,97 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ..."
-    publishedDateTime: 2023-07-11T16:10:00Z
-    webUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+  - title: "Top 6 AI Trends 2023"
+    excerpt: "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance."
+    publishedDateTime: 2023-07-12T21:29:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-trends/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: eWeek
+      domain: eweek.com
+    quality: 73
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-13T19:22:00Z
-    webUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+  - title: "Shell Wields AI as Transition Tool"
+    excerpt: "The UK major's global head of artificial intelligence explains how digital technology is helping drive innovation in the complex new energy system."
+    publishedDateTime: 2023-07-11T20:23:00Z
+    webUrl: "https://www.energyintel.com/00000189-44e0-db03-a3ab-76f7292f0000"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Actors vs. AI: Strike brings focus to emerging use of advanced tech"
-    excerpt: "SAG-AFTRA has joined the Writer’s Guild of America in demanding a contract that explicitly demands AI regulations to protect writers and the works they create."
-    publishedDateTime: 2023-07-15T01:42:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94191"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-LA-sag-aftra-members-ac-940p-b6307d.jpg"
-        width: 2500
-        height: 1664
-        isCached: true
-  - title: "Bill Gates isn’t too scared about AI"
-    excerpt: "“The best reason to believe that we can manage the risks is that we have done it before.”"
-    publishedDateTime: 2023-07-11T17:09:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-1236298089BW.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Applicability of AI and Robots to Nursing"
-    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
-    publishedDateTime: 2023-07-11T15:38:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
+      name: energyintel
+      domain: energyintel.com
     quality: 39
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "AI versus AI: Human extinction might just be collateral damage"
-    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 39
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
+      - url: "https://energyintel.brightspotcdn.com/dims4/default/ef4ac8c/2147483647/strip/true/crop/882x463+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fenergy-intelligence-brightspot.s3.amazonaws.com%2F46%2F42%2F30ce053140fcb6e690e8d3a85d26%2Fss-1931158067-ai-concept.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
 
 secured: "s6yBUUetKrPuNFFyLRrejfohfQ2ezVzNObDDfSNp3fG99j9p9PmUkL2cXveMXZlc7gbtmnRmds+uI9k0AwoGP8/ooTV2EfeqzR2x7T4UbkWIOMGSqf8B+u/i/FkPd9UFGTx7lQI4Der/pe8oux5s0xqeIb7PzGfiMwvhUz+X9hn5+RhpQJmz/FkpRQg8gTm6Y0ubNlnT7OKczUUQoB8VUyoNxKjEn6MrZRmJCZ1zMzgmNGvvh6iGfcNfBg9YPhotyuErvgoLrkDU2A4fZxUGQHA9vDGPq5DmPtPfWYZ/6VAgdX0PjEnTGrlrd+VrGkGxcB7W84N8vFuJNMps5b5qOWhx68t0oc5vXI830/2yyPI=;6TNgNE74nEOq5RPbv0af5Q=="

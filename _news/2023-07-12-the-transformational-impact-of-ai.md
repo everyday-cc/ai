@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Driven Transformation: Insights And Pitfalls"
-    excerpt: "The potential transformative power of artificial intelligence (AI) is undeniable, yet even industry giants are exercising caution as they navigate potential implications."
-    publishedDateTime: 2023-07-11T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/"
-    ampWebUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad7ae447783414a7e45d54/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
     excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
     publishedDateTime: 2023-07-12T15:00:00Z
@@ -59,44 +43,35 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
-    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
-    publishedDateTime: 2023-07-13T09:51:00Z
-    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
-    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+  - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
+    excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
+    publishedDateTime: 2023-07-14T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
-        width: 729
-        height: 373
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b001d6688702d8dcee1991/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "UM Industries: Revolutionary Tech Company Transforming Education, Healthcare, and Finance with AI"
-    excerpt: "UM Industries, a trailblazing tech company, is revolutionizing education, healthcare, and finance through artificial intelligence. Their transformative solutions include TutorGeniusAI for accessible tutoring,"
-    publishedDateTime: 2023-07-11T18:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33189875/um-industries-revolutionary-tech-company-transforming-education-healthcare-and-finance-with-ai"
+  - title: "Why learning the language of humans is key to enable generative AI for automation"
+    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
+    publishedDateTime: 2023-07-12T23:42:00Z
+    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-  - title: "AI-driven Facial Recognition: Repression And Innovation"
-    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
-    publishedDateTime: 2023-07-13T05:34:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
     images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
-        width: 900
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
     excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
@@ -121,34 +96,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "4 Ways AI will Transform Work Life for Everyone"
-    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
-    publishedDateTime: 2023-07-13T13:48:00Z
-    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
-    type: article
-    provider:
-      name: ph-creative.com
-      domain: ph-creative.com
-    quality: 41
-    images:
-      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Shell Wields AI as Transition Tool"
-    excerpt: "The UK major's global head of artificial intelligence explains how digital technology is helping drive innovation in the complex new energy system."
-    publishedDateTime: 2023-07-11T20:23:00Z
-    webUrl: "https://www.energyintel.com/00000189-44e0-db03-a3ab-76f7292f0000"
-    type: article
-    provider:
-      name: energyintel
-      domain: energyintel.com
-    quality: 39
-    images:
-      - url: "https://energyintel.brightspotcdn.com/dims4/default/ef4ac8c/2147483647/strip/true/crop/882x463+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fenergy-intelligence-brightspot.s3.amazonaws.com%2F46%2F42%2F30ce053140fcb6e690e8d3a85d26%2Fss-1931158067-ai-concept.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
     excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
     publishedDateTime: 2023-07-11T19:22:00Z
@@ -158,15 +105,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 35
-  - title: "The Revolution in AI powered by Transformer Architecture"
-    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
-    publishedDateTime: 2023-07-14T07:21:00Z
-    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "FsqJ5Xt+7TziMeqNz/sboWLr0wSF6YiBerffLU87ptZpNz8qkL/PDEVOf0TSrlrxondDvXOlbFg/t92o5/WrXXstwDjc7PMCylrk5MqXLdnDjaBDwWvS8oMlWNbCx6/7zI69Yrk01aL+NKeAe9w3n3xT/jYpGoIuVOpbtwQUasAc7rjPlXpvIsbRMCc9zlokSm613iJ/HJap1FPG1VZwxJ3AMuurrpeexuthDw2EMcZ8/qYXvFctR9rwFw/dIXuilnHYCPBEnH4c7jWjLm4k/IxM3KB7ZuuaM5i/KTbwwfz3bgbS8Q+zyigr6kQZ89uCRhYF7hVQGLu/IEAka9QUqDnqOcJWE7EDnmeLkvuzBik=;oJYGndOWFFy/QYuUYDjstw=="
 ---

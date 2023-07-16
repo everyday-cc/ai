@@ -72,6 +72,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "AI-driven Facial Recognition: Repression And Innovation"
+    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
+    publishedDateTime: 2023-07-13T05:34:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Bunnings denies reintroducing facial recognition technology amid privacy investigation"
     excerpt: "Bunnings has been accused of switching its facial recognition software back on after a customer noticed the controversial technology was mentioned on a sign outside a store in Melbourne."
     publishedDateTime: 2023-07-14T06:55:00Z

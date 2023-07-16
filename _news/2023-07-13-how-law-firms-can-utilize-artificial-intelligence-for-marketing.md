@@ -7,8 +7,8 @@ originalUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificia
 webUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificial-intelligence-for-marketing/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Law
@@ -26,36 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can make gaming better for all players"
-    excerpt: "The project was inspired by Lancy Carr, a quadriplegic video game streamer who utilizes a head-tracking mouse as part of his gaming setup. After his existing hardware was lost in a fire, Google stepped in to create an open source,"
-    publishedDateTime: 2023-07-11T16:48:00Z
-    webUrl: "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/how-ai-can-make-gaming-better-for-all-players/amp/"
+  - title: "Six Ways Law Firms Can Use Artificial Intelligence in Their Marketing Technology Efforts"
+    excerpt: "Artificial intelligence is here to stay and law firms would be wise to learn how to use AI tools to their advantage, particularly in their marketing and business development efforts. Small and mid-siz"
+    publishedDateTime: 2023-07-14T21:40:00Z
+    webUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-artificial-intelligence-their-marketing-technology"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 47
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1387724979-800x534.jpg"
-        width: 800
-        height: 534
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/Ai-Concept-Artificial%20Intelligence%20SMALL_3_0.jpg?itok=RWGXgbtE"
+        width: 500
+        height: 243
         isCached: true
-  - title: "How artificial intelligence can aid urban development"
-    excerpt: "Artificial intelligence can be a game-changer in modernizing urban development, especially when it comes to transportation infrastructure"
-    publishedDateTime: 2023-07-12T07:54:00Z
-    webUrl: "https://www.openaccessgovernment.org/artificial-intelligence-urban-development-transportation-infrastructure/163559/"
+  - title: "Supercharge Marketing ROI With AI"
+    excerpt: "SUPERCHARGE MARKETING ROI WITH AI In an age where consumers are bombarded with endless advertisements and choices, the quest for genuine engagement and return"
+    publishedDateTime: 2023-07-11T19:02:00Z
+    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/royston-g-king-supercharge-marketing-roi-with-ai"
     type: article
     provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 52
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1061360448-scaled.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
 secured: "mjHKm0Z5BJxYQGQYBbl9jJGvXBSiLwFtobDQkkoHJRDndwsZErdTaPcIr2lxWT8adgMQfPmFcCwNzD2Nt5L/KEzC6DqrVgYbvABcFNg6WqCSElioWMWQWFyfHGungVp2EtvBKbk7CgMdtTRT41CSNm0fxGVA+DQX4owA9IpEoO+9FnH/DAs0du8pL2VaNuUT8h5bYeB7ssOMDvFSbFtCo9dIhS6HEtIhgIVxG2MF46/G/UAkbSYssu5U6H0yoNlQoUwNOtxyqWrkeYr7SuPh9z45Xw+Gijirhz6/mykQEPUbUiKx0v5SR9x9CGq17n/7FG8UCRvPiHR947WFzg4UGnBgN3SgIfTGe/+3W6xQFVM=;pYKtoZU5VPydXKEnAmhXmQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
 type: article
 quality: 81
-heat: 251
+heat: 261
 published: true
 
 provider:
@@ -270,6 +270,15 @@ related:
     provider:
       name: Business Times
       domain: businesstimes.com.sg
+    quality: 19
+  - title: "Indian IT services firms doubling down on generative AI applications"
+    excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
+    publishedDateTime: 2023-07-15T12:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-it-services-firms-doubling-down-on-generative-ai-applications/article67080148.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 19
 
 secured: "Y0R7hzOhMOXjRAwsczz9WcSRzwuU7x+fXxC7Gdl/KqGL7bxmy7u4zRfwqb774xkMGp0eHfd968sgJChcE629x0iaUPcfUr2uxsLMc8455zuGfDHBrb+BxAw0NhkgRQrYLrq3eR+/rsqGifkQtgr/gJv4Ppq9F71Bvfw8KsCbgh142+CRfmt8mAuxiglVxWqkxPRgtw2VqB+C1yyYEwqu3VnKWMb9rcE5nVJIQUsFKvOzWNOgaMFx/t0/J6c7IbSNeWgpg7Okg3nsjfiAIEDqQsfLmY63aiDEWQz6oXAhXVligcZoNaPrC6TWMZ14b6JrqE5m4Tq+ws+jHuPRpzAlPentzLjzlR7QYsUJPD7LDilD+QeyNOn2r8xbGPDU1Z9yQ0m1z7GncaiMMNaBSsr5LpIJo4sZ6Q0DQXfD+SFs5UMg289MArhVGv63QtZlDEyCb2D/eZAcK694uO/tvHAu+OLiso+aASq769c94/fqWxy/a/SUCFN6++HLCXXEQwVN607f1EgHWD0JUsTJMIKsZQ==;E03uj2C9fTeZggBU/letcQ=="

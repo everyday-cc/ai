@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Types of AI Are Being Used in Healthcare?"
-    excerpt: "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold."
-    publishedDateTime: 2023-07-11T16:29:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 76
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "How Does the AI Bill of Rights Impact Healthcare?"
     excerpt: "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI."
     publishedDateTime: 2023-07-13T20:41:00Z
@@ -151,15 +135,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "The Changes Machine Learning Brought to the Healthcare Industry"
-    excerpt: "AI and machine learning are helping to simplify the work of healthcare professionals and improve patient care. Learn about the use of ML and AI in the healthcare industry."
-    publishedDateTime: 2023-07-13T19:43:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/07/13/456457-changes-machine-learning-brought-the-healthcare-industry.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 36
   - title: "Artificial Intelligence In Healthcare: A Potentially Strong Opportunity For BioSig Technologies (NASDAQ: BSGM)?"
     excerpt: "BioSig Technologies, Inc. (NASDAQ: BSGM) announced a new collaboration agreement in June with Reified Labs, a technical advisory service specializing in advanced artificial intelligence (AI)."
     publishedDateTime: 2023-07-12T12:12:00Z

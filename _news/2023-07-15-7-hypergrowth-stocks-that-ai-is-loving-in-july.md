@@ -58,15 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "3 AI Stocks with Double-Up Potential over the Next 12 Months"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors are actively seeking AI stocks as businesses increasingly utilize"
-    publishedDateTime: 2023-07-11T16:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-with-double-up-potential-over-the-next-12-months-1032438508"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "Think Twice Before Jumping on the AMD AI Bandwagon"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Why would the experts on Wall Street be so bullish on Advanced Micro Devices"
     publishedDateTime: 2023-07-12T10:10:00Z
@@ -76,15 +67,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Why These 3 Stocks Are the Best Ways to Play AI Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Goldman Sachs recently asserted “that AI adoption could"
-    publishedDateTime: 2023-07-11T16:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-stocks-are-the-best-ways-to-play-ai-right-now-1032438538"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 Blockchain Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I’ve used Google’s Bard AI tool to help identify blockchain stocks"
     publishedDateTime: 2023-07-12T12:39:00Z
@@ -102,6 +84,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 49
+  - title: "3 Dividend Stocks That AI Is Loving in July"
+    excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
+    publishedDateTime: 2023-07-14T13:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 49
   - title: "3 Doomed AI Stocks Destined for Disaster"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"

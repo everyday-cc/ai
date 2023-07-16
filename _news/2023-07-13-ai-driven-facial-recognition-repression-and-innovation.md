@@ -25,148 +25,98 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Driven Transformation: Insights And Pitfalls"
-    excerpt: "The potential transformative power of artificial intelligence (AI) is undeniable, yet even industry giants are exercising caution as they navigate potential implications."
-    publishedDateTime: 2023-07-11T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/"
-    ampWebUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
+  - title: "Cedar Rapids airport testing facial recognition technology"
+    excerpt: "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID."
+    publishedDateTime: 2023-07-12T10:00:00Z
+    webUrl: "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/"
+    ampWebUrl: "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Gazette
+      domain: thegazette.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad7ae447783414a7e45d54/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
-    excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
-    publishedDateTime: 2023-07-12T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "The transformational impact of AI"
-    excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
-    publishedDateTime: 2023-07-12T03:26:00Z
-    webUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: "https://i.tribune.com.pk/media/images/1083504-TalatMasoodNew-1460481455/1083504-TalatMasoodNew-1460481455.JPG"
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=767D8083-B298-4C59-86CF-FA5BEF92D3A4&type=preview&q=75&width=1200&height=800"
         width: 800
-        height: 600
+        height: 544
         isCached: true
-  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
-    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
-    publishedDateTime: 2023-07-13T09:51:00Z
-    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
-    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
+  - title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
+    excerpt: "A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
+    publishedDateTime: 2023-07-15T13:06:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: KRDO
+      domain: krdo.com
+    quality: 60
+    images:
+      - url: "https://krdo.b-cdn.net/2021/06/krdo-biz-and-tech.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Lawsuit Highlights Legal Risks of Facial Recognition Tech"
+    excerpt: "Multiple Minnesota law enforcement agencies face a civil rights lawsuit over the use of facial recognition technology in an arrest. However, the government denies facial recognition led to the arrest."
+    publishedDateTime: 2023-07-13T20:23:00Z
+    webUrl: "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech"
+    ampWebUrl: "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
-        width: 729
-        height: 373
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2899f4a/2147483647/strip/true/crop/770x402+0+95/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F74%2F9055ea2dd0d0f5fc70d551696745%2Ffacial.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "UM Industries: Revolutionary Tech Company Transforming Education, Healthcare, and Finance with AI"
-    excerpt: "UM Industries, a trailblazing tech company, is revolutionizing education, healthcare, and finance through artificial intelligence. Their transformative solutions include TutorGeniusAI for accessible tutoring,"
-    publishedDateTime: 2023-07-11T18:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33189875/um-industries-revolutionary-tech-company-transforming-education-healthcare-and-finance-with-ai"
+  - title: "New facial recognition technology at DTW allows flyers to get through security without a boarding pass"
+    excerpt: "When you come into Detroit Metro Airport, check in with your airline, and then head over to security you may notice that TSA has added a new technology making the travel experience a little smoother."
+    publishedDateTime: 2023-07-12T09:19:00Z
+    webUrl: "https://www.wxyz.com/news/new-facial-recognition-technology-at-dtw-allows-flyers-to-get-through-security-without-a-boarding-pass"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
+      name: WXYZ
+      domain: wxyz.com
+    quality: 40
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
-    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
-    publishedDateTime: 2023-07-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "4 Ways AI will Transform Work Life for Everyone"
-    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
-    publishedDateTime: 2023-07-13T13:48:00Z
-    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
-    type: article
-    provider:
-      name: ph-creative.com
-      domain: ph-creative.com
-    quality: 41
-    images:
-      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6ab229f/2147483647/strip/true/crop/4633x2432+0+328/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff9%2F24%2Fb859a1f340c29a90130bffbd5b5d%2Fap21026578874851.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Shell Wields AI as Transition Tool"
-    excerpt: "The UK major's global head of artificial intelligence explains how digital technology is helping drive innovation in the complex new energy system."
-    publishedDateTime: 2023-07-11T20:23:00Z
-    webUrl: "https://www.energyintel.com/00000189-44e0-db03-a3ab-76f7292f0000"
+  - title: "Bunnings denies reintroducing facial recognition technology amid privacy investigation"
+    excerpt: "Bunnings has been accused of switching its facial recognition software back on after a customer noticed the controversial technology was mentioned on a sign outside a store in Melbourne."
+    publishedDateTime: 2023-07-14T06:55:00Z
+    webUrl: "https://www.sbs.com.au/news/article/bunnings-denies-reintroducing-facial-recognition-technology-amid-privacy-investigation/11m26l1of"
     type: article
     provider:
-      name: energyintel
-      domain: energyintel.com
-    quality: 39
+      name: SBS
+      domain: sbs.com.au
+    quality: 31
     images:
-      - url: "https://energyintel.brightspotcdn.com/dims4/default/ef4ac8c/2147483647/strip/true/crop/882x463+0+62/resize/1200x630!/quality/90/?url=http%3A%2F%2Fenergy-intelligence-brightspot.s3.amazonaws.com%2F46%2F42%2F30ce053140fcb6e690e8d3a85d26%2Fss-1931158067-ai-concept.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.sbs.com.au/dims4/default/6a4ae0c/2147483647/strip/true/crop/4926x2771+1+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fe2%2Fde%2F75a7fe7945f8ab513196e9a5d2bc%2F20151022001191074980-original.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
-    excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://venturebeat.com/ai/revolutionizing-personalization-how-generative-ai-propels-growth-with-ai-driven-customer-insights/"
+  - title: "Editorial: Merkley and the challenge of facial recognition technology"
+    excerpt: "Oregon Sen. Jeff Merkley has given us all a somewhat depressing lesson in facial recognition technology. The Democrat walked up to one of the new Transportation Safety Administration facial scanners and here’s the resulting headline from The Washington Post: “You can say no to a TSA face scan. But even a senator had trouble.”"
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.bendbulletin.com/opinion/editorial-merkley-and-the-challenge-of-facial-recognition-technology/article_10657484-225c-11ee-a67e-f3f107392af9.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
-  - title: "The Revolution in AI powered by Transformer Architecture"
-    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
-    publishedDateTime: 2023-07-14T07:21:00Z
-    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: The Bulletin
+      domain: bendbulletin.com
     quality: 19
+  - title: "Vaping advocates fight for recognition: Bill fails to differentiate harm reduction from smoking"
+    excerpt: "The debate around vaping and its regulation is ongoing. Advocates argue that vaping can play a crucial role in harm reduction and smoking cessation efforts. They believe that regulating vaping based on its harm profile, rather than applying blanket restrictions, would be a more sensible approach."
+    publishedDateTime: 2023-07-14T14:01:00Z
+    webUrl: "https://www.iol.co.za/sunday-tribune/lifestyle/vaping-advocates-fight-for-recognition-bill-fails-to-differentiate-harm-reduction-from-smoking-b2866000-8b42-45f5-b300-193d784417d0"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 7
 
 secured: "H9aoVZ658knu7RR21R1kuHJ1nebyZ5SijtGDAhRfginFdE6uGhufdvh1cT/yc4y+Of16Gaw+JgW5OXN64MgSvFGTO8MmapR1Z34DiOqisMkIaYSeOIUGJzwNPC93r9uPMiUBZjrs4yajSd1x9GRLMZxaefiSj7gmT32OEZc1T4Loj3RlngAb7fjjUtuk/1XnsbaFACFQgITuhgbs31Dz0SxREE9T2OlFuhfspmLoKSptB6DXt7TtVwt5wofso0nm6ADNcPi57Mpvzpnkcie4LoC5OAEPgRu16Vnqc8T/lDs5W7yc8zCDACBGGkNOxoTFyKAvVDuF1hcozBAuQOGUa0xZugy4VRFmR8scDQ6yGLJaYzKhV02bYqer2KHtfzxbixDYhrTVYGLOoULq0O0/u2bFIcFPXRQzat+YTPGwSRi+HrsNhnuHDYSvjMGInqoPSoi3dnnqivaL7eWkKcMcCm0q81xeKV77Dif6NgIFcqy9zY5VArTDLI5EfwN7E5/03aKvepiYU5WLQ14TbZzmcQ==;CYBVT/4NbgZt66S1jsg9SQ=="
 ---

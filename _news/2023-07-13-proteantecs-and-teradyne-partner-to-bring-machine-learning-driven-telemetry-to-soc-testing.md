@@ -24,17 +24,6 @@ images:
     height: 422
     isCached: true
 
-related:
-  - title: "proteanTecs and Teradyne Partner to Bring Machine Learning-driven Telemetry to SoC Testing"
-    excerpt: "View the full release here:  proteanTecs and Teradyne are already engaged with mutual customers in mission-critical applications. Alphawave Semi, a global leader in high-speed connectivity for the world's technology infrastructure,"
-    publishedDateTime: 2023-07-11T16:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/11/9846097.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-
 secured: "4UgyZw5aBJ/ElAUOcWoq/7yeiWkZesCUNyEoVooe20ExiW4S0thkWkgkn+nEX4wOXv2h7AtHLnNAaPCUNVmsm/AT1oG9gBBMUIjWzXOvx+2x9yEf1eWJmHS/SVHqzoCaw90EgAwNli3XlXoT8bx+gMZXFHaxuxmE+9o+uSB4ntQbSurouBXG8JBJi02Mya0zACiDNOZmPQYyfVPnQxnjVvozygPizNVPCMJBfItynBYXXD5W/ZE6UhQJXdzlrSYVGkTz7P3NoN3/gSATBCZ5nk169dHm/gCS7krioqX/WiDSZ5gw47QImqbBzzCMO/7J/j7yZdqtJwl5I+41/MgY86UyRHL8RUkjYQphW2HRbKHeam+sZQK3DUTEdn8VMxxSHS8ITuT+0vk4lkpdV9FLcQz7S1pI8MLADJb5hntqQj9OS5bIRpa7ATWJtwDuWswHIHmijrNAZdRQ+aUZcdqBpZ9yxVC/Chkb9MIvAhpA0mGTqVAGjTSPhS5r/KVAuKX7eUjM58PnTA13zboqJdRQsQ==;2468/OAICmpxPfPXW0P5IQ=="
 ---
 

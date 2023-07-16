@@ -267,6 +267,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
+  - title: "Indian IT services firms doubling down on generative AI applications"
+    excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
+    publishedDateTime: 2023-07-15T12:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-it-services-firms-doubling-down-on-generative-ai-applications/article67080148.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 19
 
 secured: "6fOALX3+AYGqEXmC1z1mF+aVXXKx2aONe48wHFHKGszoLAH5rH51iJp9rpTj3o0KNKpZJmtNRFSVk51fNtSfUVMm7LvH0OqhbviPMOuJHClq9LV8Wox3Bh4mysFODZYwFObeMwQ6AjI0FFSqa1yY03MrbuxHvyhNnZRKWXXB6ufsb6LDDIi/bEkofUIKaIYqjds1j0uneMDZzZ9rbkRQNs+nQ0JGVQQLH8Wp29RkiJEcDHYaTr8VUpg+2jIlYwetAjxvhVlSxmnIrNKA2rjcpVk8nEsfyenxHjCMfnicZuhv6An4mHDfBBggPj6s8CAHe43d2ybcBmaz/VOb9kQiV6RR8S0HIs9xxMUyoBAIyfg=;ofBdNyxO+haw2mWzePpj8w=="
 ---

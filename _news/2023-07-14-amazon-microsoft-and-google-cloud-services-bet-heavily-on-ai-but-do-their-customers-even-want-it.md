@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tec
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
 type: article
 quality: 90
-heat: 310
+heat: 290
 published: true
 
 provider:
@@ -138,34 +138,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490261842/image_1490261842.jpg?io=getty-c-w750"
         width: 750
         height: 500
-        isCached: true
-  - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
-    excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
-    publishedDateTime: 2023-07-11T16:09:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2023/07/11/microsoft-entra-expands-into-security-service-edge-and-azure-ad-becomes-microsoft-entra-id/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 61
-    images:
-      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/06/250087_SCI_Entra_T1_Moment_Blog_230601_Blog_Security_NoText_1280x720-1.png"
-        width: 720
-        height: 720
-        isCached: true
-  - title: "AWS, Microsoft, Google Battle For $169B Cloud Services Market: IDC"
-    excerpt: "IDC reports cloud market share data showing AWS, Alibaba, IBM, Microsoft and Google Cloud leading the global $169 billion public cloud foundational services market."
-    publishedDateTime: 2023-07-11T15:56:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-microsoft-google-battle-for-169b-cloud-services-market-idc"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/027d-172b93914ded-a17195cc0dd2-1000/cloud-computing-solution.jpeg"
-        width: 611
-        height: 457
         isCached: true
   - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
     excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."

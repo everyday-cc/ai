@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94191"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: NBC News
@@ -26,97 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Age of AI: Everything you need to know about artificial intelligence"
-    excerpt: "To begin with, let’s just make sure we’re all on the same page: what is AI? Artificial intelligence, also called machine learning, is a kind of software system based on neural networks, a technique that was actually pioneered decades ago but very ..."
-    publishedDateTime: 2023-07-11T16:10:00Z
-    webUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/"
-    ampWebUrl: "https://techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/11/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/amp/"
+  - title: "Hollywood actors join writers on strike, demanding higher pay and AI protections"
+    excerpt: "In Hollywood, SAG-AFTRA actors joined the Writer’s Guild of America on strike after contract negotiations with Alliance of Motion Picture and Television Producers collapsed, demanding higher pay and AI protections so studios can’t use their images without permission."
+    publishedDateTime: 2023-07-14T23:21:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/hollywood-actors-join-writers-on-strike-demanding-higher-pay-and-ai-protections-188510789532"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188510789532"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188510789532"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: NBC News
+      domain: nbcnews.com
+    quality: 82
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/11/wtf_is_ai.jpg?resize=1200,675"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689376796115_nn_dgr_actors_join_writers_on_picket_lines_230714_1920x1080-ugxzy1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The future of AI: Advancements and ethical implications"
+    excerpt: "Artificial Intelligence (AI) has become ubiquitous in the 21st century, reshaping society, industry, and individual lives. AI algorithms now possess an unprecedented level of predictive and prescriptive capabilities."
+    publishedDateTime: 2023-07-15T05:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Actors' strike looms as union looks for protections against AI"
+    excerpt: "The union is looking for protections from artificial intelligence being used to create characters using actors' voices or likenesses. With the writer's guild already on strike, an actors' strike would bring most remaining productions to a halt."
+    publishedDateTime: 2023-07-12T08:40:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
+    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/34de4efb-2dc9-48a6-ab24-d4c55413979f/thumbnail/1200x630/d6ae7b499d3b21d1680c249295b9bd56/gettyimages-1534509866.jpg?v=0d985d39f30c0548885e26d84e710785"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-13T19:22:00Z
-    webUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Antidote to AI hype"
-    excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
-    publishedDateTime: 2023-07-12T07:40:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/07/202_354763.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Daniel_Shin_200_4c6010f899cff.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 870
-        isCached: true
-  - title: "Bill Gates isn’t too scared about AI"
-    excerpt: "“The best reason to believe that we can manage the risks is that we have done it before.”"
-    publishedDateTime: 2023-07-11T17:09:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/11/1076094/bill-gates-isnt-scared-about-ai-existential-risk/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-1236298089BW.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Applicability of AI and Robots to Nursing"
-    excerpt: "Future nursing practice is anticipated to be significantly impacted by robots and artificial intelligence (AI). In this regard, Japanese researchers wonder if intelligent devices can take the position of nurses."
-    publishedDateTime: 2023-07-11T15:38:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14151"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14151_16890894716486738.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "AI versus AI: Human extinction might just be collateral damage"
-    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 39
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
-        width: 1200
-        height: 800
+        height: 630
         isCached: true
 
 secured: "w+X8JmNSHIiR10Bw4TMdWlY3Pzq/B+A9hIKAV4NBlhir01Kafvkmz69VN15jD2I/bAOj1jmXPfm+vAIs30fxqcAtuynzO1gdD1Ps22C28hHCXIVgXuQ8rA4PF1BqaUm8XF0cJg8alRGEXK80FO07sslj7sDgOP0YOuHTsYaxfB5SSpafNLuYg/nXXlgq5wlMIceELNQAbBNSofYahxNArKh5d/Q3UiihIFMh9bBKvmQ3UBUGw3p6AKHs4IekMdMVYiJ8iqJHDznBFyqqUeeFTrtryyn4S/3QdeOQ610/4jZr3aAU8p7apgZRglnDcTF27HXqD61ig1lBkCDiNvWPaFfYticfIg7jXOyHAu47AbM+B/olDrT14LzFEGy8NJgg7A0SBT9H3E6zLpzfJ+S2MIrI6dfCSZ/Y/3vzLE2LBYD/uH7gxoVkYZ5GlSjQAHBXqNadzN7gC9oxGziMzWitSJtnUDf92SDGMWDCwQHPDXqo+ta1l3fzUlploaIxw6u+h+ZpAYpKk1vVfOXfdNGkuQ==;Oj9vl56B415QBBA4H79vDw=="

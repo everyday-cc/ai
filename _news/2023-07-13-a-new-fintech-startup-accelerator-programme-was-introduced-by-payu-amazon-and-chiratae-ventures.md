@@ -45,20 +45,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 30
-  - title: "Google's Gradient Ventures invests in fintech Collective's $50M round"
-    excerpt: "Collective, a financial dashboard and tax service for \"solopreneurs,\" raised $50 million in funding from an investor group that includes Google's Gradient Ventures. Why it matters: Many pandemic trends have slowed or vanished completely, but Collective's investors are betting that this particular approach has some AI-powered legs."
-    publishedDateTime: 2023-07-11T15:13:00Z
-    webUrl: "https://www.axios.com/pro/fintech-deals/2023/07/11/google-gradient-ventures-invests-collective-50m"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/5DrbGV2oms3p9btPGQWPzuEFC0k=/0x0:1920x1080/1366x768/2023/07/11/1689088121250.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "AWS, NVIDIA and Vestbee team up to empower Fintech Startups with AWS Global Fintech Accelerator"
     excerpt: "AWS has launched its brand new program AWS Global Fintech Accelerator in collaboration with NVIDIA and Vestbee that will equip fintech startups with tools, resources and a wide network of top experts,"
     publishedDateTime: 2023-07-11T17:49:00Z

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Actors vs. AI: Strike brings focus to emerging use of advanced tech"
+    excerpt: "SAG-AFTRA has joined the Writer’s Guild of America in demanding a contract that explicitly demands AI regulations to protect writers and the works they create."
+    publishedDateTime: 2023-07-15T01:42:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94191"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-LA-sag-aftra-members-ac-940p-b6307d.jpg"
+        width: 2500
+        height: 1664
+        isCached: true
   - title: "Hollywood actors join writers on strike, demanding higher pay and AI protections"
     excerpt: "In Hollywood, SAG-AFTRA actors joined the Writer’s Guild of America on strike after contract negotiations with Alliance of Motion Picture and Television Producers collapsed, demanding higher pay and AI protections so studios can’t use their images without permission."
     publishedDateTime: 2023-07-14T23:21:00Z
@@ -42,142 +58,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay"
-    excerpt: "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,"
-    publishedDateTime: 2023-07-14T00:02:00Z
-    webUrl: "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
-    ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+  - title: "The future of AI: Advancements and ethical implications"
+    excerpt: "Artificial Intelligence (AI) has become ubiquitous in the 21st century, reshaping society, industry, and individual lives. AI algorithms now possess an unprecedented level of predictive and prescriptive capabilities."
+    publishedDateTime: 2023-07-15T05:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/LCBOe1tGVBIEz4dd9flfVQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c08c39b0-21d5-11ee-a7f6-516698f83aed.cf.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
-  - title: "Actors say Hollywood studios want their AI replicas — for free, forever"
-    excerpt: "During today’s press conference in which Hollywood actors confirmed that they were going on strike, Duncan Crabtree-Ireland, SAG-AFTRA’s chief negotiator, revealed a proposal from Hollywood studios that sounds ripped right out of a Black Mirror episode."
-    publishedDateTime: 2023-07-13T20:34:00Z
-    webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/EOBvakgKZaoIGZu_qy6UzPlSD_s=/0x0:1422x750/1200x628/filters:focal(941x379:942x380)/cdn.vox-cdn.com/uploads/chorus_asset/file/24693367/black_mirror_s6.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
-    excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
-    publishedDateTime: 2023-07-14T06:47:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
-        width: 1177
-        height: 662
-        isCached: true
-  - title: "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever"
-    excerpt: "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors."
-    publishedDateTime: 2023-07-14T15:30:00Z
-    webUrl: "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05UVqeIZBS68CskksBnJeLB-1.fit_lim.size_1200x630.v1689344605.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Hollywood's 'Groundbreaking' AI Proposal for Actors Sounds Like a Nightmare"
-    excerpt: "SAG-AFTRA said that AMPTP's AI plan included scanning background actors and using their likeness \"for the rest of eternity.\""
-    publishedDateTime: 2023-07-13T22:45:00Z
-    webUrl: "https://gizmodo.com/sag-aftra-ai-actors-strike-amptp-ceos-likeness-image-1850638409"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 65
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/acbbd1a48a2600009a805233b0cc9ad8.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Hollywood actors union votes to strike over pay, AI issues"
-    excerpt: "The television/theatrical/streaming contracts of the Hollywood actors union SAG-AFTRA expired late Wednesday. The national board is scheduled to vote Thursday on whether to strike."
-    publishedDateTime: 2023-07-13T11:23:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6041689244370/2023/1/13d24c8becf0402a502b60ae5afdf5b8/v1.5/Citing-studio-greed-Hollywood-actors-union-votes-to-strike-over-pay-AI-issues.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
-    excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
-    publishedDateTime: 2023-07-14T13:00:00Z
-    webUrl: "https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
-  - title: "Hollywood actors strike over use of AI in films and other issues"
-    excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
-    publishedDateTime: 2023-07-14T19:38:00Z
-    webUrl: "https://www.newscientist.com/article/2375009-hollywood-actors-strike-over-use-of-ai-in-films-and-other-issues/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Artificial intelligence could prevent mediocrity in Hollywood: Simon Pegg"
-    excerpt: "Simon Pegg believes that artificial intelligence could prevent mediocrity in Hollywood. The Mission: Impossible - Dead Reckoning Part One has spoken out in support of the technology as he is convinced that the threat it poses may lead to an enhancement of quality in the film industry with humans needing to raise their game."
-    publishedDateTime: 2023-07-16T05:18:00Z
-    webUrl: "https://www.asiaone.com/entertainment/artificial-intelligence-could-prevent-mediocrity-hollywood-simon-pegg"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 36
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/20230714_simmonpegg_reuters%20%281%29.jpg?h=7f9be7c4&itok=54b8S6-7"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "AI worries spread from UN and OECD to Hollywood"
-    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
-    publishedDateTime: 2023-07-14T17:15:00Z
-    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "06zl/zimC0XfwSJhMKwBDjv68vt8uKYCmJRx3r4qHXOiFGWiIsaKBbC9TWG75Dy+EazX7MJxN4fPFAUe7KlNurcYIXUyQk/7Ebcwuv2TQm62tJ26jacL+5sircfjOcL0un0ghfXqUPGFyyI/WlgIFETf/jdzv2nApQGkxeMiNjlwVNKaCDtJDulgABfJokt+nSHveCGVEu/otJiBYk8a24Flyp5EAi7n2kKTKQP0a1B4OJ5KDj/yNWETffm0we3N886kzBnIDZFvx/zbPk1Don6F0Xalu3529HVjtNKs6lXY9tq9gfY28ZtFiPtSjhT6hkMPzTkVNP6rmh+/hTQ4t9K7qHoyUvwTVKusyYw3dur684TmqIR/2zmWGuTIKwXEix0kf8t0eJ62q2aslxPYxdqZ2IcH4/Qwh7yR8RSNAb35n/eW8YtZZnqZ6kMxKrTVutFhwWSQf59+MSGkVble5dRn6yP/GIUBkfr56bBPKN+MyyctxZ4rfOXJQoMRWUgcjAygwopr8rh+4CtlOHCIig==;4lO85my9lcEzAeFHV17+qw=="
 ---

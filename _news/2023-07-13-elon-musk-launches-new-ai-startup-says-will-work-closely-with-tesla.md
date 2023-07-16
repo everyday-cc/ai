@@ -215,20 +215,6 @@ related:
       name: Fortune
       domain: fortune.com
     quality: 37
-  - title: "Elon Musk unveils new AI company to rival ChatGPT and unlock the secrets of the universe"
-    excerpt: "Twitter owner, Tesla, and SpaceX CEO Elon Musk has announced a new AI company that will rival ChatGPT and unlock the universe's secrets."
-    publishedDateTime: 2023-07-13T05:45:00Z
-    webUrl: "https://www.tweaktown.com/news/92319/elon-musk-unveils-new-ai-company-to-rival-chatgpt-and-unlock-the-secrets-of-universe/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 28
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92319_165_elon-musk-announces-new-company_full.png"
-        width: 1500
-        height: 914
-        isCached: true
   - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
     excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
     publishedDateTime: 2023-07-12T18:37:00Z

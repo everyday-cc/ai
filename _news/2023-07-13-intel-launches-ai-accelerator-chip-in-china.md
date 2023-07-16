@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
-    excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
-    publishedDateTime: 2023-07-13T14:14:00Z
-    webUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service"
-    ampWebUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The 3 Hottest Areas for Healthcare Generative AI"
     excerpt: "There are three key areas of the healthcare sector where generative AI is booming the most — in terms of both venture capital funding and the development of innovative technology — according to Anjalika Komatireddy,"
     publishedDateTime: 2023-07-11T23:53:00Z

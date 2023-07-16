@@ -25,148 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Driven Transformation: Insights And Pitfalls"
-    excerpt: "The potential transformative power of artificial intelligence (AI) is undeniable, yet even industry giants are exercising caution as they navigate potential implications."
-    publishedDateTime: 2023-07-11T16:07:00Z
-    webUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/"
-    ampWebUrl: "https://www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2023/07/11/ai-driven-transformation-insights-and-pitfalls/amp/"
+  - title: "Top 6 AI Trends 2023"
+    excerpt: "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance."
+    publishedDateTime: 2023-07-12T21:29:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-trends/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: eWeek
+      domain: eweek.com
+    quality: 73
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ad7ae447783414a7e45d54/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
-    excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
-    publishedDateTime: 2023-07-12T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
+  - title: "Antidote to AI hype"
+    excerpt: "AI is a powerful technology that can have significant impacts on various aspects of society, such as the economy, politics, security and ethics. Therefore, it is important to have a check-and-balance system as AI expands exponentially to ensure its innovative but safe and ethical use."
+    publishedDateTime: 2023-07-12T07:40:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/07/202_354763.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=354763"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "The transformational impact of AI"
-    excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
-    publishedDateTime: 2023-07-12T03:26:00Z
-    webUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
+      name: The Korea Times
+      domain: koreatimes.co.kr
     quality: 59
     images:
-      - url: "https://i.tribune.com.pk/media/images/1083504-TalatMasoodNew-1460481455/1083504-TalatMasoodNew-1460481455.JPG"
-        width: 800
-        height: 600
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Daniel_Shin_200_4c6010f899cff.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 870
         isCached: true
-  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
-    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
-    publishedDateTime: 2023-07-13T09:51:00Z
-    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
-    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
-        width: 729
-        height: 373
-        isCached: true
-  - title: "UM Industries: Revolutionary Tech Company Transforming Education, Healthcare, and Finance with AI"
-    excerpt: "UM Industries, a trailblazing tech company, is revolutionizing education, healthcare, and finance through artificial intelligence. Their transformative solutions include TutorGeniusAI for accessible tutoring,"
-    publishedDateTime: 2023-07-11T18:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33189875/um-industries-revolutionary-tech-company-transforming-education-healthcare-and-finance-with-ai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-  - title: "AI-driven Facial Recognition: Repression And Innovation"
-    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
-    publishedDateTime: 2023-07-13T05:34:00Z
-    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
-    type: article
-    provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 54
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
-    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
-    publishedDateTime: 2023-07-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "4 Ways AI will Transform Work Life for Everyone"
-    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
-    publishedDateTime: 2023-07-13T13:48:00Z
-    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
-    type: article
-    provider:
-      name: ph-creative.com
-      domain: ph-creative.com
-    quality: 41
-    images:
-      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
-    excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://venturebeat.com/ai/revolutionizing-personalization-how-generative-ai-propels-growth-with-ai-driven-customer-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
-  - title: "The Revolution in AI powered by Transformer Architecture"
-    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
-    publishedDateTime: 2023-07-14T07:21:00Z
-    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "HLfqjxf82hZ83mLEH9O1XbKHWzJYgYj7B209qPN6UC5jT+RymFrosEIfAOx4dnI3yRBreKp8y0ZGNIEZIH0Y208b3J8vWqYb3m90ZVqBHRnTp15SognkFgu9jMYIwPfp5G5xcc878d6dC4im5nbyHw83x3JVUQw+n7jGXbD+jNg33UZtJ6EQGdmoc3D7RqPNGYa6Z+zdRWKiY3vnqNhxaoGxWkJG7OS4yraVlmrJa68GkLUPmDwjibPw6hWklXIk4moRaSrfLkfRFFwXdLH8ZBgU0sDeijvj9QIDDZUevw7ZgB1rSXfrMRCcWSe8UMVp1qg1OS8JPWiBRLUQzgdc502D6RqfASW3yjp9CEfevGg=;4RllmOoGYqiZiaDqzyMNNQ=="
 ---

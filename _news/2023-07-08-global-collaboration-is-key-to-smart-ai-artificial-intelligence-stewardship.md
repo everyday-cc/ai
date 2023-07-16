@@ -3,8 +3,8 @@ category: news
 title: "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship"
 excerpt: "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization."
 publishedDateTime: 2023-07-08T09:21:00Z
-originalUrl: "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
-webUrl: "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
+originalUrl: "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
+webUrl: "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: stltoday.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "wVA7OAXV1wJdEuhIh4r20rSJKylOaiSM/EjVKKldho2hQFxJyg9RLiRx/EcP6nquIqhpiBLVD8EfdmEwDq12JXBEUX7eio7t/T4CxmfNEERQ9LS4tpLtH2OgJKjUedqnCjKctaKIdzRyd+TNRgGOd5gleMtL8Z/pfTqVEw0HUt05Vid/LtG9wBuc+6Dz2uiPDG+rPTGHxh1mcJeeLx8kTUiwXvlkaaw4JBX9QgSfZlPfFVyyloxyYkHTcADxwCP0mjBXH+SBeszfJ+g5+ptUY6dTmFUpkMpdUhux3rtJNuRHN7L/DsTsYy9SnMn+PQ0A+Ww5XfMGrSa2sJWyFRgr0u94a5DThH3YiGasd8KTrUc=;H7ooQK0CuaZS0d3bzyxmcQ=="
+secured: "12Ng8D6YA5hm4lwpTR9qxM4mJid+o3ZxwpkEloS3Ca39Vv2r3RTz5LAaPCfhh3BY259cVxU3t+EHza9ooXgghIUz5e3zs+BrRcA0W/vLT1OJ7qTiCazsN73k96NojOE8s1F0xhp+LPWxEnP9taMCfiCTDD6clUCnEF/az1i9t5PHj7mD3b/u3wrho6Tt3nAj05qjMyZn/MHf/PRclbo62Q62IkEXSjHpYfFqLoOulLz+MJHSrf+FBDF8m1AiN1T87KwhdaaEZ0vkOsqnWDvwK+wYVZQURMPhji5B/cIfeSldEoSgjo1VUdNfRi9+Q5F088RgRlKSqlc+xVrOEQfcDGHmV4kWes5h6uAC8IL61mM=;tw1AU5FnXNytPuanDvhjew=="
 ---
 
