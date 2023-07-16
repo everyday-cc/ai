@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel joins Nvidia in tackling the US ban with an AI chip for China"
+    excerpt: "Intel is producing a modified version of its AI chip – the Habana division's Guadi 2 – for the Chinese market."
+    publishedDateTime: 2023-07-14T04:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/intel-joins-nvidia-in-tackling-the-us-ban-with-an-ai-chip-for-china/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_398463883-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Cathie Wood Calls Nvidia An 'Incredible AI Play' But Explains Why She Prefers This AI-Levered SaaS Provider Over The Chipmaker"
     excerpt: "Wood noted that Ark got back into Nvidia in the fourth quarter when the stock cratered and that the stock took off this year after the ChatGPT craze. However, all of Ark's other stocks, many of them driven by AI, were still very weak, she said."
     publishedDateTime: 2023-07-15T14:00:00Z

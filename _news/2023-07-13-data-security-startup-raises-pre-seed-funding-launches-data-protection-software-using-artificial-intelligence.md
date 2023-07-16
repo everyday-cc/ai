@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33218847"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Here's an exclusive look at the pitch deck AI-powered hiring startup RecruitBot used to raise $8.2 million in seed funding led by Slow Ventures"
-    excerpt: "RecruitBot helps employers find talent by using AI to identify job candidates and write outreach messages."
-    publishedDateTime: 2023-07-11T11:00:00Z
-    webUrl: "https://www.businessinsider.com/pitch-deck-recruitbot-hr-tech-seed-vc-funding-slow-ventures-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
 
 secured: "BjZf/mz1K/gjafCd+LystGtNdTfAoVPOKQ5RVnIw5SyM2CbeE33+cFElR2D/NxgKsH6BQyx5jFZiIXzpgxLHc8su7uyTU/BfCjN57wYq5uco74pZTabiaokjMve0VVEL2bkOg9CYVUEqMvb5/L0soxOaZQH1IXUklo9WNkyi2196bbsTHZD7l36yVfe5T3sTMFY+t+zbaa2Cdx7H+APGzIOu88knm2vJPLzOLlxrEUVa1sPlN/ouBralp6ZzD72oYCaT7c29yJUEUjHFZSelRcnTq0LeGAltbb6nX/sSP3gaSh4O3KKn4zvGTxHVXw2d44VJF54t+CrX3dOKhAiriEESvfpKWQdkgCYyQ4QfM/k=;rMGnNYIynhPaz7Djc4PoUw=="
 ---

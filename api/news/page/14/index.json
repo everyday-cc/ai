@@ -2,57 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2023-07-05-why-your-business-needs-a-chief-ai-officer.md",
-      "title": "Why Your Business Needs A Chief AI Officer",
-      "excerpt": "Even if your role can’t be replaced by artificial intelligence, it can be replaced by someone who knows how to use artificial intelligence. So get that someone on board.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5016333ccbb60b18aa486/0x0.jpg?format=jpg&crop=1536,863,x0,y101,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/07/05/why-your-business-needs-a-chief-ai-officer/amp/",
-      "publishedDateTime": "2023-07-05T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-05-are-your-google-docs-safe-from-ai-training.md",
       "title": "Are your Google Docs safe from AI training?",
       "excerpt": "With AI continuing it's slow rise to prominence, consumers are concerned their personal content is being used to train Google's generative service.",
@@ -1187,6 +1136,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-04-japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income.md",
+      "title": "Japan Dreams of AI, Overtaking Nvidia and Universal Basic Income",
+      "excerpt": "Japan is laying the groundwork to become home to some of the world’s top companies in artificial intelligence, the country’s Economy Minister Yasutoshi Nishimura told a group of University of Tokyo students Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-04/japan-dreams-of-ai-overtaking-nvidia-and-universal-basic-income",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imlWQwojNL.U/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

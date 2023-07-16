@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-07-07-the-best-shows-on-amazon-prime-right-now-july-2023.md",
-      "title": "The best shows on Amazon Prime right now (July 2023)",
-      "excerpt": "With new shows always coming to Amazon, there’s lots to pique your curiosity. Want to see something fresh and new? Check out the exciting and unique new comedy I’m a Virgo, which has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/07/the-horror-of-dolores-roach.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-shows-on-amazon-prime/",
-      "publishedDateTime": "2023-07-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-07-corporate-communicators-take-ai-away-from-it.md",
       "title": "Corporate Communicators: Take AI Away From IT",
       "excerpt": "Communicators and creators are the ones who will ultimately benefit the most from generative AI. They must take responsibility for its proper implementation and socialization throughout the organization.",
@@ -1156,6 +1104,59 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
+      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
+      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest funds with AI in their name: the iShares Robotics and Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-812729?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
       ]
     }
   ],

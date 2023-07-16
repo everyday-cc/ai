@@ -2,57 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2023-06-19-why-isnt-apple-talking-about-ai.md",
-      "title": "Why isn’t Apple talking about AI?",
-      "excerpt": "Apple has been innovating with AI for a long time, but it focuses on the magic of the user experience, not the tech. There's a lesson here, especially since GenAI isn't always the right tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/07/10/apple_logo-100941896-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700048/why-isnt-apple-talking-about-ai.amp.html",
-      "publishedDateTime": "2023-06-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-19-your-next-job-interview-could-be-with-ai-instead-of-a-person.md",
       "title": "Your next job interview could be with AI instead of a person",
       "excerpt": "Many job seekers already use AI to build resumes and cover letters, but employers are also using it on their side, with more to come.",
@@ -1213,6 +1162,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-17-this-is-the-real-winner-of-the-ai-arms-race-and-it-is-way-cheaper-than-nvidia.md",
+      "title": "This Is the Real Winner of the AI Arms Race, and It Is Way Cheaper Than Nvidia",
+      "excerpt": "ASML is allowing Nvidia to make advanced chips capable of powering AI applications. As AI chip demand increases, ASML's monopoly in the EUV lithography market places it in a solid position to sell ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/17/this-is-the-real-winner-of-the-ai-arms-race-and-it/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/17/this-is-the-real-winner-of-the-ai-arms-race-and-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/736278/artificial-intelligence-ai-on-circuit-board.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

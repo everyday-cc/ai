@@ -2,50 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2023-06-14-applications-open-for-3rd-healthcare-robotics-startup-catalyst.md",
-      "title": "Applications open for 3rd Healthcare Robotics Startup Catalyst",
-      "excerpt": "The program provides healthcare startups with the opportunity to compete for a chance to join a world-class accelerator program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
-      "originalUrl": "https://www.therobotreport.com/applications-open-for-3rd-healthcare-robotics-startup-catalyst/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/andromeda-robotics-at-robotics-summit.jpg",
-          "width": 775,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-06-14-ai-startup-by-ex-meta-and-google-researchers-raises-113m-in-seed-funding.md",
       "title": "AI Startup By Ex-Meta And Google Researchers Raises $113M In Seed Funding",
       "excerpt": "The artificial intelligence (AI) firm from Paris facilitate the release of the company’s first set of models for text-based generative AI.",
@@ -1220,6 +1176,49 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator.md",
+      "title": "Singapore: MAS Introduces AI in Finance Challenge for Global Fintech Hackcelerator",
+      "excerpt": "MAS has launched the 8th edition of the Global FinTech Hackcelerator, titled “Artificial Intelligence (AI) in Finance Global Challenge.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/11/Singapore-iPhone-Money.jpeg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/06/208642-singapore-mas-introduces-ai-in-finance-challenge-for-global-fintech-hackcelerator/amp/",
+      "publishedDateTime": "2023-06-13T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

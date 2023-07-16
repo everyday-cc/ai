@@ -2,57 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2023-06-22-salesforce-ai-cloud-hints-at-the-promise-of-generative-ai-customer-data.md",
-      "title": "Salesforce AI Cloud Hints At The Promise Of Generative AI + Customer Data",
-      "excerpt": "Last week in New York, Salesforce unveiled its new Salesforce AI capabilities bringing together CRM, customer data, and generative AI. A brief analysis of Salesforce AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/06/21/salesforce-ai-cloud-hints-at-the-promise-of-generative-ai--customer-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64936e96b80323a8ec8daaa4/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-22-bidens-ai-summit-was-a-hit-because-of-facts-not-fear.md",
       "title": "Biden's AI summit was a hit because of facts — not fear",
       "excerpt": "The president's meeting with artificial intelligence experts and activists was a breath of fresh air compared to AI conversations you've likely heard elsewhere.",
@@ -1184,6 +1133,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-european-uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.md",
+      "title": "European Uber rival Bolt will deliver food to your door via self-driving robots",
+      "excerpt": "Ride-hailing firm Bolt will start offering food delivery via a fleet of robots supplied by U.S. robotics firm Starship Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "originalUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107260103-1687357149458-ysXefoX4.png?v=1687361595",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
+      "publishedDateTime": "2023-06-21T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

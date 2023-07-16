@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
 type: article
 quality: 116
-heat: 336
+heat: 326
 published: true
 
 provider:
@@ -143,15 +143,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "AI And Other Technology Can End The Great Healthcare Paper Chase"
-    excerpt: "One area ripe for change is the labor-intensive practice of \"chart-chasing.\" This manual review of paper charts, folder by folder, is a burden to both healthcare plans and providers. Worse, it is often conducted under the pressure of regulatory or third-party deadlines."
-    publishedDateTime: 2023-07-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/11/ai-and-other-technology-can-end-the-great-healthcare-paper-chase/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Health care providers say artificial intelligence could transform medicine"
     excerpt: "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments."
     publishedDateTime: 2023-07-14T00:20:00Z

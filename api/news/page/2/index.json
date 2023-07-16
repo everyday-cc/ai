@@ -301,7 +301,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-helping-airlines-forecast-weather-to-reduce-flight-delays-188361797722",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -445,7 +445,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -485,57 +485,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-building-out-generative-ai-models-insights-from-mosaicml.md",
-      "title": "Building out generative AI models: Insights from MosaicML",
-      "excerpt": "MosaicML, which helps enterprises train and deploy LLMs and other gen AI, was just acquired in late June by data lakehouse and AI company Databricks for an incredible $1.3 billion. The startup released its MPT-7B model in May, which cost $200,000 to build.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/making-the-most-of-generative-ai-for-specific-use-cases-insights-from-mosaicml/",
-      "originalUrl": "https://venturebeat.com/ai/making-the-most-of-generative-ai-for-specific-use-cases-insights-from-mosaicml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/TVBM3155-e1689277685916.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -640,6 +589,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-3-artificial-intelligence-stocks-that-ai-is-loving-in-july.md",
+      "title": "3 Artificial Intelligence Stocks That AI Is Loving in July",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare"
       ]
     },
     {
@@ -789,7 +782,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {

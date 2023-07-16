@@ -2,23 +2,29 @@
 category: news
 title: "AI facial recognition tech brings ‘airport-style security’ to UK stores, says human rights group"
 excerpt: "A rising number of British stores are using a facial recognition system powered by artificial intelligence to identify repeat shoplifters in what one human rights group has called the spread of “airport-style security” on the high street."
-publishedDateTime: 2023-07-15T07:06:00Z
-originalUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
-webUrl: "https://ktvz.com/news/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+publishedDateTime: 2023-07-15T13:06:00Z
+originalUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
+webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/15/ai-facial-recognition-tech-brings-airport-style-security-to-uk-stores-says-human-rights-group/"
 type: article
-quality: 40
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KRDO
+  domain: krdo.com
 
 topics:
   - Facebook AI
   - AI
   - Computer Vision
   - AI in Security
+
+images:
+  - url: "https://krdo.b-cdn.net/2021/06/krdo-biz-and-tech.png"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "Cedar Rapids airport testing facial recognition technology"
@@ -100,6 +106,6 @@ related:
       domain: iol.co.za
     quality: 7
 
-secured: "PTAYKjjPGN6VeTaQ44l+gPZbo1JCliqJMZ65DvODYVMCQI1bOnR9MyCgmhCw/efU7VNICV4ZiJq6OZXqQbcUoI8BQ5PZAt6PLQYRSp+4bNXD1gFDrreWOLREmQw+bratY5jZBJPL2+wKHoVIhqzEq+Av1udGyhAG3f74aOvuMMxcgr0J6f0cYfZEPGo9Qzi3d/evJ3RjH44kbwinIqraxgG1XOXgsrR8EWdMR6ONhGOuqCYRLto9S9owlRbzPXRt4Eg/wD49MD42/KWUynWm/kk1sbNwe3JUIgCZK2251u8dkrE02pj9xUJn54C+ZPA8CfWsJgni4VSprVfUvslngEmNfqQRq7OGXqctRihZLSY=;WcHC3H+lc9S0z+hHlWqkWw=="
+secured: "tVmK9mnu5sNJ6mFSY8CGZ8mqJqUl1vNBfHdulvDC3NJb7vj968Cp4h3algSm3g/9GUhGKB8Jc9K6SO8EkZU1KenWXyf8nyS1IqrjoC8T3fn9VI6wYq+WPcPOc51aiRWCKBhYy0IwHj3WIRLv5B73fLMfqrH0IVvySrtMt6ji47nHuXsI2V91FJxL/o1QvzmopExoMJzd/xqAvlG6WfPWPb4wal6Y6qCFzNSoL2BMk/YYdxY+QwCZ2+ZS87BmaUfaL/3GhdKSMH+s3ag5Ni3mQfZkyJuCseRDL+yd2F1v02AQ8Hsotbmsjx77mrjjhhPaQgpZ05YLQd1cr4ea61+lJjorK0I2d5GHoMJRxPD2kE4=;tDSx6MZ04lnk9xufW5iLtg=="
 ---
 

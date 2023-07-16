@@ -2,49 +2,6 @@
   "page": 126,
   "value": [
     {
-      "path": "_news/2023-04-27-nextira-selected-by-aws-for-ansys-technology-partner-program-to-support-predictive-enterprise.md",
-      "title": "Nextira Selected by AWS for Ansys Technology Partner Program to Support Predictive Enterprise",
-      "excerpt": "Ansys Gateway is a solution for developers, designers and engineers who want to expand their Ansys simulation and computer-aided design or engineering (CAD/CAE) capability into the cloud. Using Ansys Gateway for design and modeling improves companies' ability to evolve into predictive enterprises by removing users' dependence on on-premise servers,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/27/9803380.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/27/9803380.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
-          "width": 550,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-the-risks-and-rewards-of-ai-powered-translation.md",
       "title": "The risks and rewards of AI-powered translation",
       "excerpt": "Free-to-use translation tools, and more recently generative AI platforms like ChatGPT, have brought security concerns to the fore around AI-powered translations in general. Many of us use language translation services in our day-to-day lives; it is ...",
@@ -1217,6 +1174,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building.md",
+      "title": "Databricks and Hugging Face integrate Apache Spark for faster AI model building",
+      "excerpt": "Databricks and Hugging Face integrate Apache Spark to more seamlessly load and transform data for AI model training and fine-tuning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
+      "originalUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/pexels-photo-577585.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/databricks-and-hugging-face-integrate-apache-spark-for-faster-ai-model-building/amp/",
+      "publishedDateTime": "2023-04-26T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

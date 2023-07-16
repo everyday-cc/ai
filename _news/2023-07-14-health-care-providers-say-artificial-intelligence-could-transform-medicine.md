@@ -155,15 +155,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "AI And Other Technology Can End The Great Healthcare Paper Chase"
-    excerpt: "One area ripe for change is the labor-intensive practice of \"chart-chasing.\" This manual review of paper charts, folder by folder, is a burden to both healthcare plans and providers. Worse, it is often conducted under the pressure of regulatory or third-party deadlines."
-    publishedDateTime: 2023-07-11T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/11/ai-and-other-technology-can-end-the-great-healthcare-paper-chase/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "UCSF Health digital chief departs for healthcare AI company"
     excerpt: "Aaron Neinstein, MD, former VP of digital health at UCSF Health, has joined healthcare AI company Notable as chief medical officer."
     publishedDateTime: 2023-07-11T14:01:00Z

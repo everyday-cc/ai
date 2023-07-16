@@ -2,57 +2,6 @@
   "page": 83,
   "value": [
     {
-      "path": "_news/2023-05-22-6-predictions-on-how-apple-will-join-the-ai-business-race.md",
-      "title": "6 Predictions On How Apple Will Join The AI Business Race",
-      "excerpt": "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
-      "publishedDateTime": "2023-05-22T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-22-compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt.md",
       "title": "COMPASS DATACENTERS' \"HORIZONS\" VIDEO SERIES EXPLORES NATURAL LANGUAGE PROCESSING AND CHATGPT",
       "excerpt": "Lev Lesokhin, Technology Product Strategist, discusses the rise of natural language processing (NLP) and ChatGPT. Lesokhin discusses NLP's future and the impact of ChatGPT on our job market ...",
@@ -1114,6 +1063,57 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses.md",
+      "title": "How the digital ad industry can guide the ways AI transforms businesses",
+      "excerpt": "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "publishedDateTime": "2023-05-20T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

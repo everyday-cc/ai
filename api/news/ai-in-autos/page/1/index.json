@@ -907,7 +907,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s.rfi.fr/media/display/3ea8b5cc-1bae-11ee-b855-005056a90321/w:1280/p:16x9/90f81fa89c63d18158509247c2231fa2329ddf66.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year",

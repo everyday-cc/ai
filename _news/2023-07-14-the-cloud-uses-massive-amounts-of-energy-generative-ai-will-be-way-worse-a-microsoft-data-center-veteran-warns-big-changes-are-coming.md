@@ -209,15 +209,6 @@ related:
         width: 2000
         height: 1143
         isCached: true
-  - title: "ENOC Group to drive business innovation through Microsoft Azure OpenAI Service"
-    excerpt: "This will deliver insights to its businesses that improve the customer experience and unlock the full potential of data-driven decision-making and knowledge discovery"
-    publishedDateTime: 2023-07-11T10:37:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/enoc-group-to-drive-business-innovation-through-microsoft-azure-openai-service-qk2xj1hw"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 45
   - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
     excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
     publishedDateTime: 2023-07-13T17:48:00Z

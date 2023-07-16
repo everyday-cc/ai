@@ -2,57 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2023-07-01-ftc-concerned-about-generative-ai-monopolies.md",
-      "title": "FTC Concerned About Generative AI Monopolies",
-      "excerpt": "In a blog post today, the Federal Trade Commission’s Office of Technology expressed concerns over potential anti-competitive issues in the generative AI space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/",
-      "publishedDateTime": "2023-06-30T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-01-town-on-tenterhooks-as-hollywood-veers-toward-a-second-strike-and-ai-is-a-big-part.md",
       "title": "Town On Tenterhooks As Hollywood Veers Toward A Second Strike, And AI Is A Big Part",
       "excerpt": "Writers have been striking Hollywood studios for 60 days, but could be joined by striking actors as soon as tonight. The stoppages could affect consumers within weeks",
@@ -1196,6 +1145,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards.md",
+      "title": "Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards",
+      "excerpt": "If you need stricter security and compliance standards in your Citrix DaaS deployment, use these resources and features to customize your workload security.\nThe post Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
+      "originalUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T07:10:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
       ]
     }
   ],

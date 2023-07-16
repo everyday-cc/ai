@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Revolutionary Self-Sensing Electric Artificial Muscles"
-    excerpt: "Researchers from Queen Mary University of London have made groundbreaking advancements in bionics with the development of a new electric"
-    publishedDateTime: 2023-07-11T10:27:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235450"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 4
   - title: "Researchers develop self-sensing electric artificial muscles"
     excerpt: "In a study published recently in Advanced Intelligent Systems, researchers from Queen Mary University of London have made significant advancements in the field of bionics with the development of a new type of electric variable-stiffness artificial muscle that possesses self-sensing capabilities."
     publishedDateTime: 2023-07-13T13:13:00Z

@@ -2,49 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-06-30-regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards.md",
-      "title": "Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards",
-      "excerpt": "If you need stricter security and compliance standards in your Citrix DaaS deployment, use these resources and features to customize your workload security.\nThe post Regulated workloads with Citrix-DaaS: Configuration for stricter security and compliance standards appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
-      "originalUrl": "https://www.ibm.com/blog/regulated-workloads-with-citrix-daas-configuration-for-stricter-security-and-compliance-standards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:10:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2023-06-30-why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity.md",
       "title": "Why healthcare in the cloud must move to zero trust cybersecurity",
       "excerpt": "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks.",
@@ -1152,6 +1109,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-ai-service-robotics-germany.md",
+      "title": "AI Service Robotics - Germany",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$264.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.12%, resulting in a market volume of US$627 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

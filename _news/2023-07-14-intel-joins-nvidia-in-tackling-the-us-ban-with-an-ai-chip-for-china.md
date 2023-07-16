@@ -25,92 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond Nvidia: 5 AI Chip Stocks to Buy in July"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-07-11T09:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/"
+  - title: "Nvidia is looking to expand its silicon empire as it rides the AI boom - the chipmaker is in discussions for a stake in the UK's Arm"
+    excerpt: "Nvidia is in discussions to acquire a stake in UK-based chip designer Arm before it goes public. The world's top chipmaker previously tried to acquire the same firm in 2020 – before US competition authorities blocked the move."
+    publishedDateTime: 2023-07-12T15:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://g.foolcdn.com/editorial/images/739252/jose-najarro-2023-07-10t183517759.png"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/64ae8e768ed31300199e9336?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology"
-    publishedDateTime: 2023-07-13T19:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717"
+  - title: "Cathie Wood Calls Nvidia An 'Incredible AI Play' But Explains Why She Prefers This AI-Levered SaaS Provider Over The Chipmaker"
+    excerpt: "Wood noted that Ark got back into Nvidia in the fourth quarter when the stock cratered and that the stock took off this year after the ChatGPT craze. However, all of Ark's other stocks, many of them driven by AI, were still very weak, she said."
+    publishedDateTime: 2023-07-15T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/cathie-wood-calls-nvidia-an-incredible-ai-play-but-explains-why-she-prefers-this-ai-levered-saas-provider-over-the-chipmaker-1032448681"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
-  - title: "7 Blue-Chip Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right"
-    publishedDateTime: 2023-07-15T19:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "3 Machine Learning Stocks That AI Is Loving in July"
-    excerpt: "Nvidia’s chips help power the elaborate large language models used to train and run machine learning models, especially for deep learning, a subset of machine learning that involves complex neural networks. Nvidia also offers software platforms ..."
-    publishedDateTime: 2023-07-12T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-ai-is-loving-in-july-1032441297"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "The 7 Best Robotics Stocks to Buy in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robots play an increasingly large role in our lives, whether we realize it or"
-    publishedDateTime: 2023-07-13T14:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-in-july-1032445069"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "3 Blockchain Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I’ve used Google’s Bard AI tool to help identify blockchain stocks"
-    publishedDateTime: 2023-07-12T12:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-blockchain-stocks-that-ai-is-loving-in-july-1032440991"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "7 Blue-Chip Stocks to Sell in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chip stocks are some of the most popular equities that you can buy. But"
-    publishedDateTime: 2023-07-13T10:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-to-sell-in-july-1032443938"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 Semiconductor Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductors devices are crucial to the modern digital economy. These tiny"
-    publishedDateTime: 2023-07-13T17:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-semiconductor-stocks-that-ai-is-loving-in-july-1032445531"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "7 Hypergrowth Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some stocks have skyrocketed year to date. Indeed, shares of some technology"
-    publishedDateTime: 2023-07-14T23:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hypergrowth-stocks-to-buy-1032448493"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+    quality: 41
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Nvidia_13.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "prz7XwRuhu/cGbKEawESMshd6KCDDMwnWfLfyUrSiQOb+4xbFmF9SmPpAlbfg9jqG5RcQdeWACKMtErMc36VLohP89/4c4r8977B7W2J9PkTJju5sQzetYVl7YUpq57MxmkGS5HqaWGxlQrM98an2KyB5TDtgqiQR99Yh7wGaaqYQKd6nM5O2unaf/keU8c/34s8lsJqnjUR75n9hp3GJaHZjnx1jwgZHbMPXyn0DyYr9gnnyqmKguQgxS+hDf0bjI67UIM1rQdx5CGHoMXFkl+kBST0XQzSadDtR22gO3tpILNp/Rjue8KhneDmjLzF3s922tOWCCslf29fQAmj8Kw3O0ErgS/QSFrBAUfJ4tdTosv+D+IW95VGnBZQMhGl12FSvwqDsVhlM41Q88MqWm25ZkGTsLJ+s2sliCuV1qhQiUBQ9QTy2P1166+duAcRo2XAVrmkLgBjPH6vkP+mFupb300ZHDbmicfrY93prn+xVZ9L35aSEb8YLjiMqFtwN+XuTUtAXazQ3p4J4Rbcag==;RQhbkJe2Mn5Y4/IEGy4sDA=="
 ---

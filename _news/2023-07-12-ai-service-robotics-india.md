@@ -39,15 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This Indian startup adopted AI for customer service and cost cuts — But, not without layoffs"
-    excerpt: "Clarifying that there have been no fresh layoffs at the startup, Dukaan co-founder Suumit Shah told CNBC-TV18 that the job cuts mentioned on the Twitter thread refer to the downsising undertaken last September,"
-    publishedDateTime: 2023-07-11T10:32:00Z
-    webUrl: "https://www.cnbctv18.com/startup/dukaan-suumit-shah-lightspeed-matrix-artificial-intelligence-ai-revolution-chatbot-layoff-17185731.htm"
+  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
+    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
+    publishedDateTime: 2023-07-16T02:15:00Z
+    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 6
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "6BZV/ajpDjqsfW14HEn2WB4rZH0warmLBM7hUDmq6rXBsBZNKc/O1o4cml4sb/obQRrRlAy4nsatOYUft1nHurpceB98wJSjCcNmqlRjupkjjJfXmg/tWLKFcUtSoHl7rN8N2kcR3YWFo0D+2VwlfXu3IALtzikaXHnksH9ZmoFhRspdkpLPFF4giX/jcjN93FcE8eXEKH89XySpT4Q5x+j2ur6wjGq8fx4lkLLqmAO1pmBI3CIyXRL6mGG3BMA6+K2zEynBAZZruvOakBImCzOX31uQyixkGuopsERzxmS523dAv4GUDN6cM/7NLypD2N+cqK3Yqjo+2mGBpVj8Zg2b48j6eGLWd/A4E8YnQpQ=;wig33xJU8imDDRiqAJ59gg=="
 ---

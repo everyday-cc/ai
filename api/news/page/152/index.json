@@ -2,40 +2,6 @@
   "page": 152,
   "value": [
     {
-      "path": "_news/2023-04-06-learning-whether-and-how-much-its-raining-improves-deep-learning-models.md",
-      "title": "Learning whether and how much it's raining improves deep-learning models",
-      "excerpt": "Concentrating on one thing at a time might seem like a good strategy when you're trying to learn something. But now, researchers from the Institute of Industrial Science at the University of Tokyo have found that simultaneously learning two tasks helps a deep-learning model perform better on both when retrieving precipitation information from satellite data.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
-      "originalUrl": "https://techxplore.com/news/2023-04-deep-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-06-techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openais-chatgpt-and-techsees-computer-vision-ai.md",
       "title": "TechSee Announces New Multi-Sensory AI For Service Automation Built on Integration between OpenAI's ChatGPT and TechSee's Computer Vision AI",
       "excerpt": "The integration of Computer Vision AI and Conversational Al will empower organizations to offer full service automation across all digital",
@@ -986,6 +952,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools.md",
+      "title": "A Staggering Number Of New Tools Revealed by “The Google search for AI tools”",
+      "excerpt": "A new search tool for AI, known as Topapps.ai reveals just how proliferated tha AI tool industry has become. In short: if you believe you know what AI is and what it can do, it is highly probable that this tool will re-educate you on the vastness of possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "originalUrl": "https://techbullion.com/a-staggering-number-of-new-tools-revealed-by-the-google-search-for-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

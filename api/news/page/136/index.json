@@ -2,49 +2,6 @@
   "page": 136,
   "value": [
     {
-      "path": "_news/2023-04-21-google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects.md",
-      "title": "Google Creates New Unit Called “Google DeepMind” To Focus On AI Projects",
-      "excerpt": "Google has announced the merger of DeepMind and Google Brain team from the Google Research team to boost AI development efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "originalUrl": "https://techreport.com/news/3495608/google-creates-new-unit-called-google-deepmind-to-focus-on-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/04/rajeshwar-bachu-K4txLik7pnY-unsplash-1-scaled.jpg",
-          "width": 2560,
-          "height": 1840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-21T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-21-the-best-shows-on-amazon-prime-right-now-april-2023.md",
       "title": "The best shows on Amazon Prime right now (April 2023)",
       "excerpt": "Follow her on Twitter @christinetechCA. If you’ve been searching for some of the greatest horror movies you can stream, Amazon Prime Video has got you covered. Home to hundreds of chilling ...",
@@ -1185,6 +1142,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-is-artificial-intelligence-becoming-smarter-than-humans.md",
+      "title": "Is artificial intelligence becoming smarter than humans?",
+      "excerpt": "More than 1,000 scientists, engineers, many of them leaders in the Big Tech industry, recently signed an open letter calling for a pause in the development of the newest artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
+      "originalUrl": "https://www.daytonatimes.com/commentaries/is-artificial-intelligence-becoming-smarter-than-humans/article_ec170ae8-df99-11ed-8e0d-bb1c7f2396d9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/daytonatimes.com/content/tncms/assets/v3/editorial/7/bd/7bdf133c-df9a-11ed-9675-b32d9f78d52b/64416be8a3611.image.png?resize=400%2C231",
+          "width": 400,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daytona Times",
+        "domain": "daytonatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

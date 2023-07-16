@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Here's an exclusive look at the pitch deck AI-powered hiring startup RecruitBot used to raise $8.2 million in seed funding led by Slow Ventures"
-    excerpt: "RecruitBot helps employers find talent by using AI to identify job candidates and write outreach messages."
-    publishedDateTime: 2023-07-11T11:00:00Z
-    webUrl: "https://www.businessinsider.com/pitch-deck-recruitbot-hr-tech-seed-vc-funding-slow-ventures-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
 
 secured: "IuD+xlmKrr0xP6dLBHI/VpniOBcTJDKQpU8n9Qw1xsBl13aL/o5nPCSXrHYSx4cOh1HKYoa4V2epBkywwLvDO6VfJVZkGY21kmX4JYQZffK877eZJuysY0vVLsyARBSyo5ObtemFTShS6xf8dEkCweoKP/nkSCD9S+whmRcZI7lKPWT3YBprsa8oq0XyNdhz9Dxq/RNudeEf5tv6NonGmf2DCAfEKfJlaAXisF9jHr4fyvTB43mAOO0L8MPmFQPfiPbgLW8JyUS9O+MXKnPOCS9TYjZP9EhF/9GE0+wg+NuHvpzA96T5cMd355zXFBgBO6wAp9t9bkXx5C8SCndZQgdwFcBy/ByLDFAWWa6H3R7CqKMp8DTLSzgQciB1zUgWaZ7ktG5UGhpgVpmSNW9Zf6FcCGqJQEl/VHA3paCj7F+8W0Nzp7BJGFh1lJIgp49Tu1TzDpUZ4V22DP1crPBVREXN9dBoagArkjhcU046oPOhsojP8vpZspaVQ+xx610Lxx/RpUMzywION8uEfGtZdg==;IkDtY1Chj28Sh2CdxUpNIQ=="
 ---

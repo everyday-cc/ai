@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
 type: article
 quality: 86
-heat: 316
+heat: 306
 published: true
 
 provider:
@@ -174,15 +174,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Why Nvidia Stock’s AI Potential Is Not Just Limited to Rise of ChatGPT"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence mega-trend has been the key factor behind the"
-    publishedDateTime: 2023-07-11T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stocks-ai-potential-is-not-just-limited-to-rise-of-chatgpt-1032437318"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "ChatGPT Is Losing Users. Is The Artificial Intelligence Craze Over?"
     excerpt: "The decline in usage of ChatGPT would indicate that artificial intelligence a fad that is now trending down. Is that a useful data point or should we ignore it?"
     publishedDateTime: 2023-07-11T12:00:00Z

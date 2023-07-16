@@ -211,15 +211,6 @@ related:
         width: 2000
         height: 1143
         isCached: true
-  - title: "ENOC Group to drive business innovation through Microsoft Azure OpenAI Service"
-    excerpt: "This will deliver insights to its businesses that improve the customer experience and unlock the full potential of data-driven decision-making and knowledge discovery"
-    publishedDateTime: 2023-07-11T10:37:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/enoc-group-to-drive-business-innovation-through-microsoft-azure-openai-service-qk2xj1hw"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 45
   - title: "Microsoft Expands Entra Into Secure Service Edge"
     excerpt: "Among a handful of product announcements are two new offerings — Entra Internet Access and Entra Private Access — plus Azure AD has been renamed."
     publishedDateTime: 2023-07-11T18:05:00Z
