@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk Announces xAI: Who’s On the 12-Man Founding Team?"
+    excerpt: "The team consists primarily of former researchers at OpenAI, DeepMind, Google, Microsoft, Tesla and the University of Toronto, where “A.I. godfather” Geoffrey Hinton teaches. The team is ..."
+    publishedDateTime: 2023-07-12T21:16:00Z
+    webUrl: "https://observer.com/2023/07/elon-musk-launches-xai/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 39
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013036.jpg?quality=80&#038;strip"
+        width: 1965
+        height: 1092
+        isCached: true
   - title: "Musk launches AI company while Twitter flounders"
     excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
     publishedDateTime: 2023-07-13T07:47:00Z

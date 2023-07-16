@@ -403,6 +403,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-amazon-prime-day-deals-2023-all-the-best-offers-still-available.md",
+      "title": "Amazon Prime Day deals 2023 - all the best offers still available",
+      "excerpt": "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
       "title": "The looming addiction crisis fueled by AI",
       "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
@@ -1172,58 +1224,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
-      "title": "U.S. to decide on GM request to deploy self-driving cars",
-      "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107254059-1686311076798-gettyimages-1497020055-dsc02825_rsqpkpku.jpeg?v=1689198866",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "publishedDateTime": "2023-07-12T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

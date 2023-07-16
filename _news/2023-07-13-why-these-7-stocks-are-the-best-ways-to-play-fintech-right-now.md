@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
+    excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
+    publishedDateTime: 2023-07-14T17:46:00Z
+    webUrl: "https://www.finextra.com/blogposting/24551/fintech-disrupted-the-financial-industry-now-ai-is-disrupting-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "China’s Hundsun Recovers After Fintech Firm Refutes Rumor That Ant Will Follow It Into Financial Software"
     excerpt: "Shares in Hundsun Technologies halted their precipitous decline today after the Chinese fintech software developer said that rumors that Chinese fintech giant Ant Financial Services Group is preparing to branch into financial IT software in direct competition with Hundsun are not true."
     publishedDateTime: 2023-07-12T07:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-de
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://koreajoongangdaily.joins.com/data/photo/2023/07/16/5570c04a-0e70-4571-9fa8-9e3f60f348ad.jpg"
         width: 560
         height: 425
+        isCached: true
+  - title: "5 Best Self-Driving Car Stocks to Buy Today"
+    excerpt: "Many investors are interested in investing in the best self-driving car stocks on the market. Way back in 1908, Ford released the Model T. And with it, the birth of the mass-produced automobile. Of course, many improvements and iterations have been made to ..."
+    publishedDateTime: 2023-07-14T08:15:00Z
+    webUrl: "https://investmentu.com/best-self-driving-car-stocks/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 24
+    images:
+      - url: "https://investmentu.com/wp-content/uploads/2022/01/best-self-driving-car-stocks.jpg"
+        width: 730
+        height: 467
         isCached: true
   - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-14-microsoft-semantic-kernel-will-support-openai-plugins.md",
+      "title": "Microsoft Semantic Kernel will support OpenAI plugins",
+      "excerpt": "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
+      "originalUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
+      "publishedDateTime": "2023-07-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means.md",
       "title": "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?",
       "excerpt": "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings.",
@@ -157,7 +200,7 @@
       "originalUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 251,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -969,49 +1012,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-amd-and-massrobotics-announce-winners-of-the-amd-robotics-innovation-challenge.md",
-      "title": "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge",
-      "excerpt": "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/215a71e9-f4f9-4721-b6c3-5aee79b092a8/Robot-award-news-Massrobotics-July-13-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

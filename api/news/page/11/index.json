@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-07-tcs-plans-to-train-25000-engineers-on-azure-open-ai.md",
+      "title": "TCS plans to train 25,000 engineers on Azure Open AI",
+      "excerpt": "TCS said that it plans to significantly scale its Azure Open AI expertise and launch its new Generative AI offering for enterprises",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954",
+      "originalUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1646044335.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tcs-plans-to-train-25-000-engineers-on-azure-open-ai-news-300954/amp",
+      "publishedDateTime": "2023-07-07T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-ibms-cloud-for-education-service-is-shutting-down-after-only-two-years.md",
+      "title": "IBM's Cloud for Education service is shutting down after only two years",
+      "excerpt": "What just happened? IBM introduced its \"Cloud for Education\" offering two years ago, promising schools and academic institutions solutions to \"transform",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
+      "originalUrl": "https://www.inferse.com/596011/ibms-cloud-for-education-service-is-shutting-down-after-only-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-6113-1920x1080.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-musk-predicts-tesla-self-driving-cars-later-this-year.md",
       "title": "Musk predicts Tesla self-driving cars 'later this year'",
       "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
@@ -281,16 +368,7 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3f20a56a-99ae-4186-bc51-6a2f8460ef00/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1089,101 +1167,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.md",
-      "title": "India's TCS to upskill 25,000 engineers on Microsoft's Azure Open AI",
-      "excerpt": "Azure Open AI. The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
-      "originalUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
-      "title": "AI robots could play future role as companions in care homes",
-      "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
-      "originalUrl": "https://www.reuters.com/article/tech-ai-un-idUSL8N38S3BQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/E9v889KGpiT_0ZzHIGcK9Sp20y0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2ES6WJHBTJMRDA3BT6QDD63V5I.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

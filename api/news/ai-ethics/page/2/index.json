@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-01-the-pope-just-released-a-guide-to-artificial-intelligence.md",
+      "title": "The Pope Just Released a Guide to Artificial Intelligence",
+      "excerpt": "The Pope has released a guidebook on AI ethics. Yes, you heard that right. The supreme pontiff has partnered with Santa Clara University's Markkula Center for Applied Ethics to form the Institute ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/pope-guide-artificial-intelligence",
+      "originalUrl": "https://futurism.com/pope-guide-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/06/pope-guide-artificial-intelligence.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-human-oversight-key-to-keeping-ai-honest.md",
       "title": "Human oversight key to keeping AI honest",
       "excerpt": "Tools powered by artificial intelligence should not be left on their own to decide what content people should read, says the head of trust at news aggregator platform SmartNews, who explains why humans must always be kept in the loop.",
@@ -1371,58 +1414,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-data-and-ai-ethics-market-insights-2030.md",
-      "title": "Data and AI Ethics Market Insights | 2030",
-      "excerpt": "Jun (The Expresswire) -- \"Data and AI Ethics Market\" is segmented into Regions, Applications (BFSI, Government and Defense, Healthcare and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

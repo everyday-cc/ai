@@ -36,6 +36,15 @@ related:
         width: 400
         height: 222
         isCached: true
+  - title: "AI Appreciation Day: Celebrating the Power of Artificial Intelligence"
+    excerpt: "Here are some quotes from CEOs of various industries on the significance of AI Appreciation Day. Read here all the details in the article."
+    publishedDateTime: 2023-07-16T19:01:00Z
+    webUrl: "https://www.ciol.com/ai-appreciation-day-celebrating-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 34
 
 secured: "oZGmtivn2tRdV4JTnFkj6qIphUUhqzsDLk4c1NdupPhgI9U54x0SL/xUJnHcftiuReZ/DG3M79gLHLvn7ykXOx4YF8OSeA6fSEF1cbuB4zBvTuetr9GdWRGuqACsdnxbO8GH1IgN5Tcx3SsVD80WrNg68C79kev7hd9EUpHfvRkVwzXJ8evkZQX8xFkkn4zzEYfb53kXmUzhELr004X9ND9gltY4u2CJPNduq1Yi7bbDjxXnQTxAhAKLqGc5spSAP2ZmMhRjQBV7nZ5liHxeJ2/Kd/LIQ3AhtJgfoDQgTCT/Ezbkq8eJ/cRbzJBh0lEzaX80GQLst8U3hI2WTdiU/LusCUOqxgccL6T9DThxPEU=;0b11R6JpEQXaLOoi2B7S6A=="
 ---

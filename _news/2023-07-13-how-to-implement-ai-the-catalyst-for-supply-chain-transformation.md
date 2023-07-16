@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "The transformational impact of AI"
-    excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
-    publishedDateTime: 2023-07-12T03:26:00Z
-    webUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: "https://i.tribune.com.pk/media/images/1083504-TalatMasoodNew-1460481455/1083504-TalatMasoodNew-1460481455.JPG"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "co0nAyK8qaZZ1c0EOs/09zdpUkYVoljjdLTqt0KmVvG8d0VKo9TORYGZbvFLB5xxgEXK+ZwJZfl2lUGk2JHoGGKxVCtagxSNFuiYj/edyv6rr9X72W5x9LHdnjF0Ty+uFiT+Nk8TuOGVcFk3+/ErpFZht3olwsJ3VyQ9c0xHfoeuy5PvLTFF9VzwQSmk7b6oP9oGXGQZI2IAIGf5Du5hzpcF7PNK4tA8CbTSVLLrQ7t3LxUXcmbs2c+b2YStgHG29EokTJUfRqeRxR18zOIYC+mXrfV6HyX6SS/319v9Vphgazz3VWwlnf9yzwaHwtEwp2so6lfXe5xw5wb8De39uI9e9hY6+TsIcar+OnjGqMdQWyeONO7Ys58MTYPCOL//33eihnUpVUt3jsDQgzB+yFDarS5PhSYtRP2vR/d5lHCOqg8R+91hVsp7bTcwD3dLSozlWABsHp9zTvfzLa2NPDkxiDJ/YJdXSuUk5+eDpM/TNf8Mbkp+Rn/ulwuhaHZPdp7hCYXCcyR4Ngt5GQuz4Q==;pR9NZSIZoguz+s6F1yuafg=="
 ---

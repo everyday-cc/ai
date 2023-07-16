@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/mid-year-analysis-ai"
 webUrl: "https://www.natlawreview.com/article/mid-year-analysis-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "The Military Dangers of AI Are Not Hallucinations"
-    excerpt: "A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and professional"
-    publishedDateTime: 2023-07-12T03:42:00Z
-    webUrl: "https://countercurrents.org/2023/07/the-military-dangers-of-ai-are-not-hallucinations/"
+  - title: "ACI Learning Launches Proprietary AI-Powered Skills Gap Analysis Tool"
+    excerpt: "ACI Learning, the audit, cybersecurity and IT training leader, today launched Insights, a skills gap analysis tool for team leaders to continuously address staff knowledge gaps. The proprietary tool is the brain inside ACI Learning,"
+    publishedDateTime: 2023-07-13T17:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/13/9848207.htm"
     type: article
     provider:
-      name: Countercurrents
-      domain: countercurrents.org
-    quality: 39
-    images:
-      - url: "https://cdn.countercurrents.org/wp-content/uploads/2018/03/drone-2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Project Analysis: Alaya, a Data Provision Service for Artificial Intelligence"
+    excerpt: "Today we are going to focus on Alaya, a provider of underlying data-based services, which uses the concept of gamification to collect and label data for AI, and finally provide higher quality data to algorithms."
+    publishedDateTime: 2023-07-16T10:42:00Z
+    webUrl: "https://www.coinspeaker.com/project-analysis-alaya-a-data-provision-service-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 14
 
 secured: "3Tk42jkQmkFHoEzMY/+nOHUiTsw9TA/rmR2UGIZpn1XeoUNa5eDxAC7vJBl44bh9m1Kq5On0QfjrdDUMedyg26r5UfJFdLqYCiPtDy1KcE3uPs1vtzHEwxSZmgyB6Z9K3KyPdNDOGYOQDwRapm27M222ZENBBTJ4/tBxrBr+jpK0/ADSB0Mxp4Ji24ReR/3cKwlvNhkZmPw/8p8b7HlF6d7tID7jKTcRrrmTISaJsKOJwOdR1o9cpWep/4jVSFU86njouc8sQYIaOg9WsFJ4N9KMvQEH2x4xvBZj6WOxUZsNIAWDdlsiiRJRXGQ+DKkjbI/2URHDUyAIq35MoncRA4EcZJR8vq7+leQWjarS7ts=;rjKgALnrFL8U6gIePYAYyg=="
 ---

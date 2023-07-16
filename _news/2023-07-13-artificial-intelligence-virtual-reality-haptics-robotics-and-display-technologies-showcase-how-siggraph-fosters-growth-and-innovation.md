@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation"
-excerpt: "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi"
-publishedDateTime: 2023-07-12T21:55:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/12/9847425.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/12/9847425.htm"
+excerpt: "This year's contributions will showcase the developments in virtual reality, artificial intelligence, haptics, robotics, and display technologies. The 50th annual conference runs 6–10 August ..."
+publishedDateTime: 2023-07-12T20:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33205953/artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-sig"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33205953/artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-sig"
+ampWebUrl: "https://www.benzinga.com/amp/content/33205953"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33205953"
 type: article
-quality: 36
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -39,21 +41,7 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Downward envy and the politics of robo-debt and the Voice"
-    excerpt: "Welfare bashing and scare stories about the Indigenous Voice have their roots in the same populist appeal, and the same basic failures of practical government."
-    publishedDateTime: 2023-07-14T07:01:00Z
-    webUrl: "https://www.afr.com/politics/federal/downward-envy-and-the-politics-of-robo-debt-and-the-voice-20230710-p5dn6h"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2855%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/b56e88820628972e46e9203f9d1d351f08a8e38e"
-        width: 1200
-        height: 628
-        isCached: true
 
-secured: "ONnl5qYio06SgXzYPIoP3A434HxXB0MXoOqXADKnaIildvOIYDCSZw1jBi35vYYdR7Rr/hLBXu66GC6TbPvj7Bks1FbonHRl1pO3Ms85rjuN52iLfksSpelz1qfUJVO2ETGcr+hgbduQN0C7UmgCZpLE4nAK35YJQPIdSDXGqLq7TpdJoGO8qsNIOzNK35CPK+uSUjwGXFsYWcM07S2uYJ/qQ53xUWbaPAP72iEKq850oiTLs6mzmkEiP47ODkVEpRRIFSlaRjNLNUFY9XV6rPk+oW621TRSMJiFPILVrWFtg/La/QpMcEkOT0GJQui+oyIZPndljzP4EhncxzMhtltiz2nzJaakexwLakT5y3aJZwAoDI3puk5z23pKXp8YIkdqTgn+IIKiGNDazXq8P+51xowaFUiuXhMlRaIgT16QJoEFdXTi1SweIJ3DHw7w6BAdpihzYsik0VMrkGaiyoQ78cWpWRnREBRopvLzYHCv5cS+PjlmXxMOY8AgvaFvL50SPzRalGxGIwFnakfBxw==;TzEwrGDragDcc1zPQ93a0w=="
+secured: "6EH9MpT11zakhfwcSv9wlBubIQ8fIIRp1gY3h8seICzpQUCX7hNg3/NEc7EeH8t8JbpU9Yvevg8xdd6mB6J9guCH3XYp6CBwAWhKT3fYCIjXKt3juHmT6utMyA9StDd+ScnudAFiuZgaAB32w+0g3dpJDhez0NIEZkJGWhgqoXok14Sfh+ZSZwXy3i9uLoHuZeJ9Fccn+DVGibMOxWp/xStNvNaPZDo03qy0OVjyq+LotipL61/jR8h02JKTFZN7OwsxRo1oQw7UIaF8MuYvL82V0ieuZMdf+93oPtRtKj1NAxt2dckD0MWqJE1vojyebw8Rolx98M1JkgrFPPneSWUY+7PuclqFj1QFp0ABmzU=;+IOfmVKkmLbUIXmGWRTvNQ=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 560
         height: 425
         isCached: true
+  - title: "5 Best Self-Driving Car Stocks to Buy Today"
+    excerpt: "Many investors are interested in investing in the best self-driving car stocks on the market. Way back in 1908, Ford released the Model T. And with it, the birth of the mass-produced automobile. Of course, many improvements and iterations have been made to ..."
+    publishedDateTime: 2023-07-14T08:15:00Z
+    webUrl: "https://investmentu.com/best-self-driving-car-stocks/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 24
+    images:
+      - url: "https://investmentu.com/wp-content/uploads/2022/01/best-self-driving-car-stocks.jpg"
+        width: 730
+        height: 467
+        isCached: true
 
 secured: "QEGNwLr5ys3wMTyKazhoniNF+snsN0wrebVi/z4IqIWhuGfTi3kNMR/YSevti2hvKPRbf6QduyXXqNI6IoPwA3ghgvtLaVF9ca4+JC+oP/Fh4gvi+LPEjsuA4aiT717jz5px0AVFcphxTJqhGZPQP/q8JgQWvSttaOCgsAmH72UAkQA+tSRc9c1Y6S3SVSmahfprYZFuZcIAIoknxPMR+dvWzWDVd3ZNgGxqZbsQTdWsMwHfX6aeE+GVujXFMcAq7NQqqCPP8LpLLs7GYdgQyjslLVAIUKzko0Wa73awBkEpP9kesJGOizGpcW0VQPAdQraRrZHwjTvey0lRRBqptDLXPh39ELhmFddP0GMJy55ZdzEaJc4eX7CUqHjiQl7+j4pX2XpcwuspKGToIf9JqHXEKfptWd8L8EOZ3SZfsDWbzvUqsU38jZLuImTL1vAXuGDDNSOx7HxSg1bcitp6qhNC/vd2vY4/jyKW5ZYLPSf7G9Nyxn/CHsgSRU73g74FD/QEMGsRvcpG8bLfECor2A==;yGqZrIZUJkuWFxpyQVazlA=="
 ---

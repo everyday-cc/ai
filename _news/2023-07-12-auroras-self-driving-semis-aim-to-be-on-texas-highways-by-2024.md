@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Aurora’s self-driving semis aim to be on Texas highways by 2024"
+    excerpt: "In Texas, big rigs often overrun the highways from Austin to San Antonio to Dallas and Houston and major highways in between. One of the most popular of these routes, the Dallas-Houston route along I-45, is about to get a new kind of big rig."
+    publishedDateTime: 2023-07-16T18:43:00Z
+    webUrl: "https://www.tpr.org/business/2023-07-16/auroras-self-driving-semis-aim-to-be-on-texas-highways-by-2024"
+    type: article
+    provider:
+      name: Texas Public Radio
+      domain: tpr.org
+    quality: 19
+
 secured: "1feSaxFUOtWhKC3DNl1PP0st+qJYT+3hpVPMYK4RyneoG5+4Ye9i1rrB7FGp7mqrn9UxfGp3DURHhXsc7ZtQhrdhIDux1d9EicN357H0ukzZPuBrp6kE4808bg/3DsFWqjw+N1Mw0kRLWwVm8Q0D0YDdXRCUWXEe2xEexM5d7FaghB5uEyvauss9tvk+t7aF1C9kkWe2E6o+OJW5VUuL+DQY40C1rQzvlKkV0L8t/drer7KnGcbjwwM0ZVfXn7dbYwVlYZ/zg2J9ToQUlRmXw8smmPz3InD9fnsoKDlz+iVyYv7gdlmnC4ic7cAMV8t/1MO3jp2Rnkf9tJX2kBMuP3LD/gfsLe32V4xArWo82EqoHowrVd7ed//YK5Z6xntLWp9qfnI/Q+TtScdg7jKoS+ovWXmhQqIqi3FJLZYnrTIOUKdB9cG3SS1CuxHJATEFtaFlkh0KxEoLxTeYzvgXFLOXvYLzgXHBpEgM6f73B4/zojdxvl5c09IYzd0pxeEPUNUDSzpEZVc9thj/EHtpFQ==;flrmUrcoGm6goYqEzxKM1w=="
 ---
 

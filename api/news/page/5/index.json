@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-12-the-future-of-education-embracing-ai-for-student-success.md",
+      "title": "The Future Of Education: Embracing AI For Student Success",
+      "excerpt": "It is only by deploying resources, training and policies at every level of our institutions that we can begin to realize the vast potential of what AI can offer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/",
+      "publishedDateTime": "2023-07-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-cedar-rapids-airport-testing-facial-recognition-technology.md",
       "title": "Cedar Rapids airport testing facial recognition technology",
       "excerpt": "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID.",
@@ -191,59 +243,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
-      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
-      "excerpt": "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
-      "originalUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-b_02wsAE19DcOzsCg_tQf9XaaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q645SUBL2JML7C4QKZOJLY7N2Q.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
       "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
       "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
@@ -293,6 +292,50 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
+      "title": "IBM Mulls Using Its Own AI Chip in New Cloud Service to Lower Costs",
+      "excerpt": "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1161,50 +1204,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
-      "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
-      "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "publishedDateTime": "2023-07-11T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

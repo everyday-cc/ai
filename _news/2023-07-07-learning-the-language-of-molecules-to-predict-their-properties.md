@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3f20a56a-99ae-4186-bc51-6a2f8460ef00/Rendition/low-res/Content/Public"
-    width: 700
-    height: 467
-    isCached: true
-
-secured: "xB9UmjITh0zZvs8mrkWmyRrvSP4oDiM3TodaM+Gebsmq8ClZQ/iZwGrvblJ86Z2DSsS6WExDor//OGc3bU6kwBFcW8tfge/rUvfSz7KyuAShiOxjbXHe8IxJ9isqTx6aZc0SpZfhmUEuu8rJG2k08sC6n7Nuktay7w0uGCNe7oyCPprNUuCHWLnPlob82awdnoZgCorZKUl56a3oB8eJLy4r/AdrBX+2D6+Jg1e11lBPOcEgaeD85lOFRm50QIPm7utxEB7gHJOXDTcrippwFUP3z/74KOJQrz6rrNi6gQgK2DQCmNNELexsPDdX1cq1mfQODuqLLl0poszm+xLFHfCgG5lu3YMm46F8UiC830c=;byDKXtQHquZ6pABNwG/TIg=="
+secured: "mhipoqRtxfnOR5kMn0haC834f++JSTyoapXqe1dnQx/k1R0UIF9WelaolAVsO4p6Pn73wrQ4Hi8bTT1DRR1f16fi9uDvDQVd/VKcj2CAW1/Rs6rgrPznUrNqqCgtv0m99d/+Y+oG86Y8H6fohgu0hhdwvAQ5wGEt/gJsfwK0EgQed2ZUs77gcxqtTjJgdiN3mG/glE6fuDHLcBKPSMHQPsCZnj+oeY7SOFZ2m7EPOejeOQ/CJp0h7FPlpgT74BqTb/KYOHW3Oh5lzhYYKW7qFe/hi/xaD7QmLeI/Y63EUjIWrIMHtonqeDzHb8RT8RC1UekvpNAKX6ZjgAKMX2DWYl6KF0xY4302hdDi9eyqd/k=;QKDScVZ25QYxMi6Y/+Tx3g=="
 ---
 

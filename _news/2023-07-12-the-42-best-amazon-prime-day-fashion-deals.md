@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Amazon Prime Day deals 2023 - all the best offers still available"
+    excerpt: "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ..."
+    publishedDateTime: 2023-07-13T09:52:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Yes, you can still score a Prime Day deal on a robot vacuum the day after Amazon Prime Day 2023"
     excerpt: "Jet Bot AI+ robot vacuum with object recognition, $664 (reduced from $1,299) Best iRobot vacuum deal: iRobot Roomba j7 robot vacuum, $399 (reduced from $650) The experts at CBS Essentials have rounded up the best robot vacuum deals."
     publishedDateTime: 2023-07-13T15:39:00Z
@@ -32,6 +46,22 @@ related:
     quality: 49
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=867e41af7e860d9286e5bd7e91ee0db8"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "50% off? Yes: We've got the best Amazon Prime Day 2023 furniture deals"
+    excerpt: "It's a great time to buy a new couch or coffee table. Amazon Prime Day 2023 includes the best deals on everything you need to furnish your home for less. The retailer has slashed the prices on top ..."
+    publishedDateTime: 2023-07-12T14:05:00Z
+    webUrl: "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-06-29/"
+    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-07-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-07-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/26/0ad6b0d8-0bbe-4ef7-ae5f-77cd418bc66b/thumbnail/1200x630/b6b1052b66f8fce2848975c1ada0f300/a1lil2l-jl-ac-sl1500.jpg?v=b9ad248140817530b57bedd1355bcccb"
         width: 1200
         height: 630
         isCached: true
@@ -67,31 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon Prime Day 2023 Lightning Deal: Score this Eufy Robovac and mop combo for 54% off before this deal ends"
-    excerpt: "This 4.4-star-rated Shark IQ Robot vacuum (RV912S) cleans your whole home in neat rows. It lacks the advanced smarts of more expensive robot vacuums, but this is one of the most affordable robot vacuums with a self-emptying base you'll find. This Shark model comes with a 45-day capacity cleaning base."
-    publishedDateTime: 2023-07-12T15:48:00Z
-    webUrl: "https://www.cbsnews.com/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-lightning-deal-score-this-eufy-robovac-for-54-off-before-this-deal-ends/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 25
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/40920161-5ecd-4108-a38c-b5f89a6c5a43/thumbnail/1200x630/753b0a41084b277adc8756d4d1c313ad/eufy-robovac-header.png?v=0d985d39f30c0548885e26d84e710785"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "8 best deals on Roomba, iRobot, more robot vacuums for Amazon Prime Day 2023"
-    excerpt: "Yesterday marked the start of Amazon Prime Day, the perfect 48-hour event to stock up on everything you need to spruce up your home and keep it feeling fresh. Starting yesterday, Tuesday, July 11 and running through tonight, Wednesday, July 12, a variety of must-have iRobot Roombas and other robot vacuum cleaners are on sale."
-    publishedDateTime: 2023-07-12T18:39:00Z
-    webUrl: "https://www.oregonlive.com/shopping-deals/2023/07/8-best-deals-on-roomba-irobot-more-robot-vacuums-for-amazon-prime-day-2023.html"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 18
 
 secured: "QNF2ppo6a+RD/Y38oIgyrcXXomFQY+d4Scct8SxhCuK47T+Jx4D4WzR4ESF1y8z7sKGfS5ap1wyNfi8aIKNMj2KNC6X6clGNxsT/5N/S/xID6DJa4X31AMxNa2FlpGDKk8TK5CsEu6/71jfPgw4J/dhfv2IzUKFCRZjoV3R8J826SHZqpGNRM/LyB1DDQxA5IFdub7gyHQOl9Fslngf1y8NxlcIr6B2JWOqK6lksRVvx5zlaylC9Axwf/+DqwVF+MhkaRW0ZjjEox2ff6+7LseoYFSCkJ1zX/tmYxoWzp1JCezvDnblEKEHrns1eW6iSY5ZK+JTjm0iM6dcfy5h2jM/HT6QfeZZEpgVKh/2I6vU=;Edz9rfkX7X66BOMsh4pPjg=="
 ---

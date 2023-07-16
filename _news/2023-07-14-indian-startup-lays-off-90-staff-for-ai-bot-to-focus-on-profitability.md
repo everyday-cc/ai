@@ -40,22 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Wipro commits $1 billion investment into artificial intelligence (AI)"
-    excerpt: "The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
-    publishedDateTime: 2023-07-12T03:53:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-wipro-commits-1-billion-investment-into-artificial-intelligence-ai-3166120/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 72
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/wipro.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Wipro to spend $1 billion to train entire staff in artificial intelligence"
     excerpt: "Wipro Ltd, India's third-largest software services company, on Wednesday announced a USD 1 billion spending plan to train its entire 2.5 lakh employees in artificial intelligence and integrate the technology into its product offerings."
     publishedDateTime: 2023-07-12T10:08:00Z
@@ -71,36 +55,6 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
         width: 700
         height: 394
-        isCached: true
-  - title: "India's Wipro commits $1 bln investment into AI"
-    excerpt: "Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years."
-    publishedDateTime: 2023-07-12T01:47:00Z
-    webUrl: "https://www.reuters.com/technology/indias-wipro-commits-1-bln-investment-into-ai-2023-07-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/fHpNwdkVZUla20Myt2ZPpxsf7H0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XNBC2CNZXZIFVCPNYT5EUAKBVI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "India's Wipro commits $1bln investment into AI"
-    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
-    publishedDateTime: 2023-07-12T04:52:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/indias-wipro-commits-1bln-investment-into-ai-e42vdrfn?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MThiMzk1MmYtYmI5ZS00/3/180902082140lckc-jpg.jpeg?f=3%3A2"
-        width: 880
-        height: 587
         isCached: true
   - title: "Wipro to invest $1 bn in AI over three years"
     excerpt: "Wipro ai360, an AI-first innovation ecosystem, and said it would train all of its about 250,000 employees on AI over the next 12 months."
@@ -133,38 +87,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/07/stocks_market-stock_stock.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Wipro launches ai360, will invest $1 billion into AI the next three years"
-    excerpt: "IT major Wipro announced the launch of ai360 service and plans to invest $1 billion in artificial intelligence over the next three years. The move follows Tata Consultancy Services' announcement to train 25,"
-    publishedDateTime: 2023-07-12T03:36:00Z
-    webUrl: "https://www.livemint.com/companies/news/wipro-launches-ai360-will-invest-1-billion-into-ai-the-next-three-years-11689132228044.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/wipro-launches-ai360-will-invest-1-billion-into-ai-the-next-three-years/amp-11689132228044.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/wipro-launches-ai360-will-invest-1-billion-into-ai-the-next-three-years/amp-11689132228044.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/12/600x338/WIPRO-RESULTS--0_1689132237831_1689132325762.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Wipro To Invest $1 Billion In Artificial Intelligence"
-    excerpt: "IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years."
-    publishedDateTime: 2023-07-12T03:38:00Z
-    webUrl: "https://www.ndtv.com/business/wipro-to-invest-1-billion-in-artificial-intelligence-4199120"
-    ampWebUrl: "https://www.ndtv.com/business/wipro-to-invest-1-billion-in-artificial-intelligence-4199120/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/wipro-to-invest-1-billion-in-artificial-intelligence-4199120/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 57
-    images:
-      - url: "https://c.ndtvimg.com/2023-02/i7gp8vt8_wipro_640x480_22_February_23.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Wipro, which is hiring in NC, to invest $1B in AI, staff training"
     excerpt: "Wipro, one of India’s top providers of software services which also is hiring in North Carolina, wants everyone on staff to know how to use artificial intelligence. Here's what's happening."
@@ -216,43 +138,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "India's Wipro commits $1 billion investment into AI"
-    excerpt: "Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI,"
-    publishedDateTime: 2023-07-12T02:47:00Z
-    webUrl: "https://www.aol.com/news/indias-wipro-commits-1-billion-024750149.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/f0a72a1351ec771f28693f45fd46ec2f"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "India’s Wipro commits $1bn investment into AI"
-    excerpt: "BENGALURU: Indian IT services provider Wipro Ltd said on Wednesday it planned to invest $1 billion into artificial intelligence (AI) over the next three years. The investments will focus on the expansion of AI, big data, and analytics solutions, as well as developing new research and development and platforms, it said in an exchange filing."
-    publishedDateTime: 2023-07-12T04:53:00Z
-    webUrl: "https://www.brecorder.com/news/40252155"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 39
-    images:
-      - url: "https://i.brecorder.com/large/2023/07/1209530194100a4.gif?r=095323"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "India’s Wipro commits US$1 billion investment into AI"
-    excerpt: "INDIAN IT services provider Wipro said on Wednesday (Jul 12) it planned to invest US$1 billion into artificial intelligence (AI) over the next three years. Read more at The Business Times."
-    publishedDateTime: 2023-07-12T04:54:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/indias-wipro-commits-us1-billion-investment-ai"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 19
   - title: "Indian IT services firms doubling down on generative AI applications"
     excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
     publishedDateTime: 2023-07-15T12:53:00Z

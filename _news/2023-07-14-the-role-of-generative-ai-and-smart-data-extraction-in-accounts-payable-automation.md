@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "The transformational impact of AI"
-    excerpt: "The development of AI has been going on for the last 15-20 years and what we see now is a different form of it"
-    publishedDateTime: 2023-07-12T03:26:00Z
-    webUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai"
-    ampWebUrl: "https://tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2425759/the-transformational-impact-of-ai?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: "https://i.tribune.com.pk/media/images/1083504-TalatMasoodNew-1460481455/1083504-TalatMasoodNew-1460481455.JPG"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
     excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
     publishedDateTime: 2023-07-13T13:30:00Z

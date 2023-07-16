@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk launches xAI to rival OpenAI and Google"
+    excerpt: "In the interview he said his new AI company would come very late after OpenAI and Google DeepMind, both of which have made great strides in recent years. “I think I will create a third option, ..."
+    publishedDateTime: 2023-07-13T10:55:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3227494/elon-musk-launches-xai-rival-openai-and-google"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 69
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/13/700e8dbb-8eea-47ac-98e8-5e022ce7d4d1_8f3db265.jpg?itok=vNQ_xrGx&v=1689194938"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Launches AI Startup xAI With Team of Former Google, OpenAI Engineers"
     excerpt: "Billionaire Elon Musk 's xAI on Wednesday announced the formation of the artificial intelligence (AI) startup with the launch of its website, unveiling a team made up of engineers who have worked at companies from Alphabet -owned Google to Microsoft and OpenAI."
     publishedDateTime: 2023-07-12T17:02:00Z

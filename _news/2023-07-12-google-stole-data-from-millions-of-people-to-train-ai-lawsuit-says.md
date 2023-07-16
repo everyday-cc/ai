@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/google-ai-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-lawsuit/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Popular Science
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google hit with lawsuit alleging it stole data from millions of users to train its AI tools"
-    excerpt: "Google was hit with a wide-ranging lawsuit on Tuesday alleging the tech giant scraped data from millions of users without their consent and violated copyright laws in order to train and develop its artificial intelligence products."
-    publishedDateTime: 2023-07-12T01:49:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/google-hit-with-lawsuit-alleging-it-stole-data-from-millions-of-users-to-train-its-ai-tools/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/google-hit-with-lawsuit-alleging-it-stole-data-from-millions-of-users-to-train-its-ai-tools/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/google-hit-with-lawsuit-alleging-it-stole-data-from-millions-of-users-to-train-its-ai-tools/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 49
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/ee312fa3-90c4-40d8-a470-b89fb07baebf/thumbnail/1200x630/d6da00ba836e3231d5a598c9783fb97a/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9szwrlltg4owmwogzjzgrmzjrhm2jlntk5mznlnmmzodzmyzew-l19wywdlcy9oxzbmmti5mwfmyzhlnjq1nzjinty1ztyymdzjoguyotc5.jpg?v=867e41af7e860d9286e5bd7e91ee0db8"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google claimed to misuse data to train its AI systems"
     excerpt: "Class action  Search engine outfit Google has been hit with a class action claiming that it scraped and misused data to train its AI systems. The complaint alleges that Google \"has been secretly stealing everything ever created and shared on the internet by hundreds of millions of"
     publishedDateTime: 2023-07-12T07:54:00Z

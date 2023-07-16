@@ -55,7 +55,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -536,21 +536,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
-      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
-      "excerpt": "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service.",
+      "path": "_news/2023-07-12-ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs.md",
+      "title": "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs",
+      "excerpt": "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
-      "originalUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
+      "webUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/-b_02wsAE19DcOzsCg_tQf9XaaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q645SUBL2JML7C4QKZOJLY7N2Q.jpg",
+          "url": "https://cdn.benzinga.com/files/images/story/2023/07/12/ibm_bangalore_manyata_2.jpg?width=1200&height=800&fit=crop",
           "width": 1200,
-          "height": 628,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -558,16 +558,50 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T20:44:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33197115",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33197115",
+      "publishedDateTime": "2023-07-12T05:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
+      "title": "IBM Mulls Using Its Own AI Chip in New Cloud Service to Lower Costs",
+      "excerpt": "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -583,9 +617,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "IBM AI",
         "AI",
-        "IBM AI"
+        "AI Hardware"
       ]
     },
     {
@@ -1362,58 +1396,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls.md",
-      "title": "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls",
-      "excerpt": "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "publishedDateTime": "2023-07-06T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

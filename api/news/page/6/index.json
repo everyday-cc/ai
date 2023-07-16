@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
+      "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
+      "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
+      "publishedDateTime": "2023-07-11T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket.md",
       "title": "Chip-Chip, Hooray: Nvidia, AMD Lead Semiconductor Rally Premarket",
       "excerpt": "Shares of chipmakers are heading northwards in premarket trading on Tuesday, led by Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD). KeyBanc Capital Markets analyst John Vinh raised the price targets for several companies in the space,",
@@ -469,8 +513,7 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -683,8 +726,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?370399",
-          "width": 375,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?86021",
+          "width": 444,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -1167,49 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-a-large-dataset-to-train-machine-learning-models-for-aerial-vehicle-design.md",
-      "title": "A large dataset to train machine learning models for aerial vehicle design",
-      "excerpt": "Designing reliable aircraft can be both challenging and time-consuming, as it often entails several steps and analyses. Deep learning models could potentially help to speed up aircraft design and deployment,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-large-dataset-to-tra.jpg",
-          "width": 1410,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-large-dataset-machine-aerial-vehicle.amp",
-      "publishedDateTime": "2023-07-10T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

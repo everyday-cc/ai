@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-17-data-and-ai-ethics-market-insights-2030.md",
+      "title": "Data and AI Ethics Market Insights | 2030",
+      "excerpt": "Jun (The Expresswire) -- \"Data and AI Ethics Market\" is segmented into Regions, Applications (BFSI, Government and Defense, Healthcare and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-2030-2023-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-how-two-founders-approach-building-ethical-ai-startups-in-health-care.md",
       "title": "How two founders approach building ethical AI startups in health care",
       "excerpt": "The hype around AI will produce a lot of startups built on shaky ethics. But founders already building in the space can offer some advice.",
@@ -1418,49 +1470,6 @@
         "AI Ethics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-what-have-we-learned-about-ai-ethics-its-time-for-risk-based-regulations.md",
-      "title": "What have we learned about AI ethics? It's time for risk-based regulations",
-      "excerpt": "The bad news? The typical approach to AI ethics hasn't worked. But a way forward is emerging - via a growing momentum for risk-based AI regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
-      "originalUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2016-08/robots-typing.jpg",
-          "width": 1041,
-          "height": 868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
-      "publishedDateTime": "2023-05-24T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

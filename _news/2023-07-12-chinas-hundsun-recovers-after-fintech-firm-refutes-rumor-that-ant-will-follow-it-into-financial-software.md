@@ -34,6 +34,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
+    excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
+    publishedDateTime: 2023-07-14T17:46:00Z
+    webUrl: "https://www.finextra.com/blogposting/24551/fintech-disrupted-the-financial-industry-now-ai-is-disrupting-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "aVUVrU9GESM0upjETD/4MMKY4WLtN/XoKrPIljQipcdfgANUO+/lROMjX3RR0wS8sjUoWiWsd6SYDUn90q4dFkbgelo8oVseR0NZMzx1HFeA9ZciDbZ4ZZ4vz0O9+G3ojY4nHRuzjqB1rxC9+GJ4IW/Qmq00oUvOXvF4hC2cLUcV1vF7Vfx3n7/J848lpeBMeLy5oI8Ij+GvxLX2MHVBKJE4F1clPHcdroVnxxznbSf8d404QR10m9XIUlE0ioEvSOC4LLkTuBNq4l/M6vdVAUv/VIWtnHcgj3B9zUHZpoctrVB/cYHHVOkoWcshi6Lx0CLr4zWZ/Jz9+DmqpODdh2txbmgxmtxurcYh6Lrd31mhQ5qpw2LY6Y79xatj1WbwsKUANBueg9GxT6TMA+vlPIj9GdKNv5mbOaaSkGaUGuy1+ObFkQlkzAFbRouZGG2rdAGqekaMVc52xJ+O0FbIvJttu9iywZojfip9/kvVcgnsukKzcA/22yG1gITicfLyRpMs69MSHJ3duxsN9Fas8A==;/LhLOPR6zUsHzBiV9Esz/Q=="
 ---

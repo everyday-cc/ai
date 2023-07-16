@@ -2,6 +2,152 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-06-28-doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer.md",
+      "title": "Doctors tout use of artificial intelligence to detect breast cancer",
+      "excerpt": "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/f3930e0c-b427-4756-a33f-4337d802d80d/thumbnail/1200x630/5ebeefed9c8b7814e764532f5325cf1b/artificial-intelligence-for-breast-cancer.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
+      "publishedDateTime": "2023-06-27T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-ftx-holds-off-on-selling-its-stake-in-ai-startup-anthropic.md",
+      "title": "FTX Holds Off On Selling Its Stake In AI Startup Anthropic",
+      "excerpt": "In an unexpected turn of events, FTX has paused the sale of its stake in Anthropic, according to a report from Bloomberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ba1efdd88261a09c5393e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/27/ftx-pauses-sale-of-anthropic-stake/amp/",
+      "publishedDateTime": "2023-06-27T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-voice-recognition-leaked-trump-tape-contradicts-denials-on-sharing-iran-war-plan.md",
+      "title": "Voice recognition: Leaked Trump tape contradicts denials on sharing Iran war plan",
+      "excerpt": "There’s nothing stronger than the power of a person’s voice. And few have a more recognizable one than Donald Trump. The media have gone into high-decibel mode over an audio recording ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan",
+      "originalUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb408128-7d4a-48fd-8d51-7f163fbebcb4/40683727-51bc-4311-8026-8eb3a74ebd3c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-recognition-leaked-trump-tape-contradicts-denials-sharing-iran-war-plan.amp",
+      "publishedDateTime": "2023-06-27T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-singapore-releases-new-ai-toolkit-to-encourage-fair-and-ethical-use-in-finance.md",
       "title": "Singapore Releases New AI Toolkit to Encourage Fair and Ethical Use in Finance",
       "excerpt": "Furthermore, these repercussions of bias in AI become particularly pronounced within the banking and financial services sector. Rumman Chowdhury, Twitter’s ex-chief of machine learning ethics, transparency and accountability, said, “algorithmic ...",
@@ -961,126 +1107,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-ai-is-unlocking-major-wealth-potential-for-robotics-stocks.md",
-      "title": "AI Is Unlocking Major Wealth Potential for Robotics Stocks",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Looking for the best AI stocks to buy to potentially make a small fortune over",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-is-unlocking-major-wealth-potential-for-robotics-stocks-1032413268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric.md",
-      "title": "Rapid7 Expands Relationship with AWS To Include InsightIDR Support for AWS AppFabric",
-      "excerpt": "Rapid7, Inc. (NASDAQ: RPD), a leader in cloud risk and threat detection, today announced that InsightIDR integrates with AWS AppFabric, announced today by",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/rapid7-expands-relationship-with-aws-to-include-insightidr-support-for-aws-appfabric/article_ff59834e-bfc1-5c75-bc9e-bda484a3fb46.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain.md",
-      "title": "UTEP researchers construct self-driving boat that maps underwater terrain",
-      "excerpt": "Researchers at the University of Texas at El Paso have constructed a “fully autonomous boat” that can make it easier for scientists to study underwater",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
-      "originalUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ktsm.com/wp-content/uploads/sites/38/2023/06/Autonomous-Boat_5-1.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
-      "cdnAmpWebUrl": "https://www-ktsm-com.cdn.ampproject.org/c/s/www.ktsm.com/news/utep-researchers-construct-self-driving-boat-that-maps-underwater-terrain/amp/",
-      "publishedDateTime": "2023-06-27T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NewsChannel 9 - KTSM",
-        "domain": "ktsm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

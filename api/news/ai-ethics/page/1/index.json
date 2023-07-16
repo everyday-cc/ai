@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-16-ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential.md",
+      "title": "AI Appreciation Day: Startup CEOs on technogly's giant leap and potential",
+      "excerpt": "AI Appreciation Day is celebrated on July 16 annually to acknowledge its contribution to humanity and the significant role it plays in companies' prog",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-101798045/101798045.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "publishedDateTime": "2023-07-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-how-does-the-ai-bill-of-rights-impact-healthcare.md",
       "title": "How Does the AI Bill of Rights Impact Healthcare?",
       "excerpt": "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI.",
@@ -487,8 +530,7 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -1402,49 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-the-pope-just-released-a-guide-to-artificial-intelligence.md",
-      "title": "The Pope Just Released a Guide to Artificial Intelligence",
-      "excerpt": "The Pope has released a guidebook on AI ethics. Yes, you heard that right. The supreme pontiff has partnered with Santa Clara University's Markkula Center for Applied Ethics to form the Institute ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "originalUrl": "https://futurism.com/pope-guide-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2023/06/pope-guide-artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

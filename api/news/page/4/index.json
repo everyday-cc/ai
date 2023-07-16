@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
+      "title": "U.S. to decide on GM request to deploy self-driving cars",
+      "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107254059-1686311076798-gettyimages-1497020055-dsc02825_rsqpkpku.jpeg?v=1689198866",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
+      "publishedDateTime": "2023-07-12T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx.md",
       "title": "How eBay is using generative AI, computer vision to enhance CX",
       "excerpt": "By using generative AI throughout its platform, eBay aims to streamline the purchasing process for both buyers and sellers.",
@@ -250,48 +302,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-google-stole-data-from-millions-of-people-to-train-ai-lawsuit-says.md",
-      "title": "Google stole data from millions of people to train AI, lawsuit says",
-      "excerpt": "Google does not own the internet, it does not own our creative works ... or anything else simply because we share it online.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
-      "originalUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/07/12/Depositphotos_48051785_L.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/google-ai-lawsuit/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-lawsuit/?amp",
-      "publishedDateTime": "2023-07-12T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -768,7 +778,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1060,6 +1070,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-12-ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs.md",
+      "title": "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs",
+      "excerpt": "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/07/12/ibm_bangalore_manyata_2.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33197115",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33197115",
+      "publishedDateTime": "2023-07-12T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator.md",
       "title": "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator",
       "excerpt": "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ...",
@@ -1197,58 +1250,6 @@
         "AI Ethics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-the-future-of-education-embracing-ai-for-student-success.md",
-      "title": "The Future Of Education: Embracing AI For Student Success",
-      "excerpt": "It is only by deploying resources, training and policies at every level of our institutions that we can begin to realize the vast potential of what AI can offer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/",
-      "publishedDateTime": "2023-07-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],
