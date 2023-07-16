@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s Increasing Role in the Health Care Delivery System: Key Legal Considerations"
-    excerpt: "No personal services are more important than health care. The use of artificial intelligence (AI), involving machines to perform tasks normally requiring human intelligence, is leading to an expansion of the term “personal.” Recent breakthroughs in ..."
-    publishedDateTime: 2023-07-11T22:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-s-increasing-role-in-the-health-care-6164620/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 34
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Virtual Triage Adoption Increase in 2023 as Self-Service Patient Care Routing Sees Growth Among Health Systems"
     excerpt: "New research of digital patient tools finds online scheduling and AI virtual assistants growth across the top 647 U.S. health systems CHICAGO,  /PRNewswire/ -- Clearstep, a leader in patient-facing digital triage and AI healthcare assistants,"
     publishedDateTime: 2023-07-12T16:26:00Z

@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing responsibility with explainable AI"
-    excerpt: "Why it's incumbent on humans to be able to explain and understand how AI models come to the inferences that they do"
-    publishedDateTime: 2023-07-11T22:38:00Z
-    webUrl: "https://venturebeat.com/ai/embracing-responsibility-with-explainable-ai/"
+  - title: "The secret to enterprise AI success: Make it understandable and trustworthy"
+    excerpt: "Be it healthcare or fintech, companies across sectors are racing to implement ... In the field of healthcare, for instance, AI has the potential to predict clinical outcomes or discover drugs. If a model veers off-track in such scenarios, it could provide ..."
+    publishedDateTime: 2023-07-16T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-black_box_AI_explainable_AI_1324510115-e1662994691115.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_interpreting_and_understanding_a_neural_network._Colorf_873eba1a-a1fb-415a-b2fe-e2bc803c07ee.png?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
 
 secured: "HphMfSMl00ILK1DUp1/fOQv8tpFLszfWiGv8E4jJBN7cdqslY+5iINVl8rH7uWFqmV/unLqWLaYF8MUYMACFA2pw0HHATo8ZUjGWVu1dU+b70YhGVicA6JPFxtnBJ7t/vRULdkZQSuBsBYPL52XjVZ/4xg2sh+d/bGzvHShmbLiQDl6qtI5xhJYn0oQl7q6O0wUqvCjB2g/3wvl6PTWpi7C39qqlSNntWeCA0v5Hl/h0EWa+yHDQIyRB70p4jJ7BLOo2V7ImprEShyrryjr6dyj8H6zcF4o6IQLnNSaEPK7mSJ3rI9Hip0aOgehJKQaN9rDyeJq3cNFvFZkboPcLCJdtdzaHSSE1ekkL1byL3K0rhhTpLGtY5Zqs+VIwEpu1TYcL93mkPoIiNU2oWCGDJ4mHEw1aAYCnP/34/gsjfW4MwIJKigIasE6bVqLLwqv4t2Huon+tsHkwsQzbxNsnsFMaPoifJgSykavYx1WJhL4KPxVN0A/Kb6zoFXEVn2kMJZjT+igkZmkRsjl/FZ9p/g==;Lxr3ohsa/qK3vcSX2Ialcg=="

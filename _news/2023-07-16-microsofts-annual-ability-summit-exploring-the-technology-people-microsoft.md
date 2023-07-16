@@ -239,15 +239,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 29
-  - title: "KPMG and Microsoft enter landmark agreement to put AI at the forefront of professional services"
-    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory LONDON and REDMOND, Wash. —  — KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
-    publishedDateTime: 2023-07-11T22:00:00Z
-    webUrl: "https://news.microsoft.com/2023/07/11/kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 22
 
 secured: "qsdbWu0bVDA+RTfcJaeYZv0a1tzm9A/jeJzL2LnVz5CMK8IP7b0hi50EN1KHsoWnHi9JmtYw0OoZSTw0at5mTcE7mokNSP3fkOjndBmlhRMEd5brzmK/e/VDyhfMmHv7ObYrkz21ZtBGRHlCYuEnN1CrdqV7PI9UDa+XTaZ/4P+yL/lzsTjNmQJcUuXjApOYBtsoD5Rjd8vOVQdyol2bf/ovBKWyjrmckqxG1C1w+954eCfc5fmRYkj2XR5G6xXbLgTOA6/3qne30IglMgq5rt12z8PxXFj9weoXqXaNakMvXLnPqeEpQKXVMlgBdmiutyDDPR3sNkUeXXMIfTypFW0hy4BUD/2NeLy9cuMvKd4=;HUFRnSOU9Ylh+8MwiuNpWg=="
 ---

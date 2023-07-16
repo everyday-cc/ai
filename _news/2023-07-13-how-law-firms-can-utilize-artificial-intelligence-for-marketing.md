@@ -7,8 +7,8 @@ originalUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificia
 webUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificial-intelligence-for-marketing/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Law
@@ -40,15 +40,6 @@ related:
         width: 500
         height: 243
         isCached: true
-  - title: "Supercharge Marketing ROI With AI"
-    excerpt: "SUPERCHARGE MARKETING ROI WITH AI In an age where consumers are bombarded with endless advertisements and choices, the quest for genuine engagement and return"
-    publishedDateTime: 2023-07-11T19:02:00Z
-    webUrl: "https://www.thestreet.com/csuiteadvisors/stories/royston-g-king-supercharge-marketing-roi-with-ai"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 34
 
 secured: "mjHKm0Z5BJxYQGQYBbl9jJGvXBSiLwFtobDQkkoHJRDndwsZErdTaPcIr2lxWT8adgMQfPmFcCwNzD2Nt5L/KEzC6DqrVgYbvABcFNg6WqCSElioWMWQWFyfHGungVp2EtvBKbk7CgMdtTRT41CSNm0fxGVA+DQX4owA9IpEoO+9FnH/DAs0du8pL2VaNuUT8h5bYeB7ssOMDvFSbFtCo9dIhS6HEtIhgIVxG2MF46/G/UAkbSYssu5U6H0yoNlQoUwNOtxyqWrkeYr7SuPh9z45Xw+Gijirhz6/mykQEPUbUiKx0v5SR9x9CGq17n/7FG8UCRvPiHR947WFzg4UGnBgN3SgIfTGe/+3W6xQFVM=;pYKtoZU5VPydXKEnAmhXmQ=="
 ---

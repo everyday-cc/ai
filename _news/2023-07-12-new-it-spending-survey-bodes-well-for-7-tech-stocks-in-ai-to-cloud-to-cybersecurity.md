@@ -59,20 +59,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Cybersecurity startup SpecterOps snags $8.5M in Series A extension"
-    excerpt: "Seattle cybersecurity startup SpecterOps said Tuesday that it raised $8.25 million, extending its Series A funding round to $33.25 million to boost adoption of its attack path management platform. SpecterOps"
-    publishedDateTime: 2023-07-11T20:07:00Z
-    webUrl: "https://www.geekwire.com/2023/cybersecurity-startup-spectorops-snags-8-5m-in-series-a-extension/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 52
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/07/David-Recent-Headshot-1.png"
-        width: 715
-        height: 720
-        isCached: true
   - title: "Unveiling The Power Of AI In Cybersecurity: Three Questions CISOs Should Be Asking"
     excerpt: "2023 may go down in history as the year of artificial intelligence (AI)—or at least the year when business leaders and consumers alike became obsessed with generative AI tools like ChatGPT. Cybersecurity vendors are not immune to the hype. At the 2023 RSA conference, nearly every keynote included discussion on AI."
     publishedDateTime: 2023-07-13T12:44:00Z

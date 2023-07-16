@@ -84,29 +84,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
-    excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://venturebeat.com/ai/revolutionizing-personalization-how-generative-ai-propels-growth-with-ai-driven-customer-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
 
 secured: "co0nAyK8qaZZ1c0EOs/09zdpUkYVoljjdLTqt0KmVvG8d0VKo9TORYGZbvFLB5xxgEXK+ZwJZfl2lUGk2JHoGGKxVCtagxSNFuiYj/edyv6rr9X72W5x9LHdnjF0Ty+uFiT+Nk8TuOGVcFk3+/ErpFZht3olwsJ3VyQ9c0xHfoeuy5PvLTFF9VzwQSmk7b6oP9oGXGQZI2IAIGf5Du5hzpcF7PNK4tA8CbTSVLLrQ7t3LxUXcmbs2c+b2YStgHG29EokTJUfRqeRxR18zOIYC+mXrfV6HyX6SS/319v9Vphgazz3VWwlnf9yzwaHwtEwp2so6lfXe5xw5wb8De39uI9e9hY6+TsIcar+OnjGqMdQWyeONO7Ys58MTYPCOL//33eihnUpVUt3jsDQgzB+yFDarS5PhSYtRP2vR/d5lHCOqg8R+91hVsp7bTcwD3dLSozlWABsHp9zTvfzLa2NPDkxiDJ/YJdXSuUk5+eDpM/TNf8Mbkp+Rn/ulwuhaHZPdp7hCYXCcyR4Ngt5GQuz4Q==;pR9NZSIZoguz+s6F1yuafg=="
 ---

@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Revolutionary self-sensing electric artificial muscles"
-    excerpt: "Researchers have made groundbreaking advancements in bionics with the development of a new electric variable-stiffness artificial muscle. This innovative technology possesses self-sensing capabilities and has the potential to revolutionize soft robotics and medical applications."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/07/230711133213.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "Artificial muscle with self-sensing capabilities marks step toward ‘true bionic intelligence’"
     excerpt: "In an advance for soft and wearable robots, researchers from Queen Mary University of London have developed a new type of electric variable-stiffness artificial muscle that possesses self-sensing capabilities."
     publishedDateTime: 2023-07-12T08:33:00Z

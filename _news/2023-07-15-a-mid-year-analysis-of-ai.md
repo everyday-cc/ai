@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How Militaries Are Using Artificial Intelligence on and off the Battlefield"
-    excerpt: "Artificial intelligence has been a crucial tool for many nations’ militaries for years. Now, with the war in Ukraine driving innovation, AI’s role is likely to grow. Paul Scharre, vice president and director of studies at the Center for a New American Security,"
-    publishedDateTime: 2023-07-11T19:59:00Z
-    webUrl: "https://www.cnas.org/publications/video/how-militaries-are-using-artificial-intelligence-on-and-off-the-battlefield"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 15
 
 secured: "3Tk42jkQmkFHoEzMY/+nOHUiTsw9TA/rmR2UGIZpn1XeoUNa5eDxAC7vJBl44bh9m1Kq5On0QfjrdDUMedyg26r5UfJFdLqYCiPtDy1KcE3uPs1vtzHEwxSZmgyB6Z9K3KyPdNDOGYOQDwRapm27M222ZENBBTJ4/tBxrBr+jpK0/ADSB0Mxp4Ji24ReR/3cKwlvNhkZmPw/8p8b7HlF6d7tID7jKTcRrrmTISaJsKOJwOdR1o9cpWep/4jVSFU86njouc8sQYIaOg9WsFJ4N9KMvQEH2x4xvBZj6WOxUZsNIAWDdlsiiRJRXGQ+DKkjbI/2URHDUyAIq35MoncRA4EcZJR8vq7+leQWjarS7ts=;rjKgALnrFL8U6gIePYAYyg=="
 ---

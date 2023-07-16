@@ -7,7 +7,7 @@ originalUrl: "https://www.theengineer.co.uk/content/news/artificial-muscle-with-
 webUrl: "https://www.theengineer.co.uk/content/news/artificial-muscle-with-self-sensing-capabilities-marks-step-toward-true-bionic-intelligence"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionary self-sensing electric artificial muscles"
-    excerpt: "Researchers have made groundbreaking advancements in bionics with the development of a new electric variable-stiffness artificial muscle. This innovative technology possesses self-sensing capabilities and has the potential to revolutionize soft robotics and medical applications."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/07/230711133213.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "Researchers develop self-sensing electric artificial muscles"
     excerpt: "In a study published recently in Advanced Intelligent Systems, researchers from Queen Mary University of London have made significant advancements in the field of bionics with the development of a new type of electric variable-stiffness artificial muscle that possesses self-sensing capabilities."
     publishedDateTime: 2023-07-13T13:13:00Z

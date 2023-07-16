@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-de
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
-    excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
-    publishedDateTime: 2023-07-11T19:44:00Z
-    webUrl: "https://futurism.com/the-byte/trapping-self-driving-cars-traffic-cones"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 0
 
 secured: "E49fTLEehpsvUiZ87ZEkwtnV7p8l8Af3HCPJH7OzAWy8byfBMG1ZAqK4x+jJHaD7WKoLDRy5yAdYVxn7A0ELRjvRuqR3HF7kePXgl83gJ/9PH+1gR/6uKiuN/To77ue3UaIftyTpXazxe20uR0VHS/eyCLjF4hitQbrJ09io7lG8nmAuq3uKdPxwx0s6i+5pf4XcqfR23mEvUSRp1WAPahUaMzehgMCITLLNT/TF2Fn6NtinEZauvqwCDvIkY+RFYuhU7lkm7NpXmLagOnOcKd98St51mcPZ4M9vebyTTyhqZeaAnWwpfwW9r8YCUdE5I1vMgOSC1ZM4V6x6rZGAh2+W9zIc5rm06YPF/k/vl6D4CscalmV8KKr3Ik89Qy30urMw2gpj2XpC4rtp5JUzpOgNXAWdRdgyuQobxsFwgZHNPeI86m42QQbbnK7dGNLsrJ3OC/HN4bf5bjy+C55YPqfsJ5ara7FLt2JGnehNsK43Q+qGIV4j1U0JW6ujzu3zRKRAPuW+iHF4nMvna47zOQ==;Pp89yNS9R9paeZJS9d11sw=="
 ---

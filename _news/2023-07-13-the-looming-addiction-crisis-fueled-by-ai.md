@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-adderall-targeted-advertising-opi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "HR using AI on the QT"
+    excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
+    publishedDateTime: 2023-07-12T08:13:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57239-hr-using-ai-on-the-qt"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4901c5be5c86464530b4506991d76419_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "1Gw43VEN2AJsRK2sKBvYFH+nSkC8OcZofCNvc22+V0d449UDdGt6gxV2MliW8+DYyL4cPKb+kdV4Se+k51wedxU1csbO3oFe/j+QL+Yr2CEgts2ZmbzCcJ/AwMqvwVVyRzR0qZ0iMZT7Cpk2F1O+JrJ8cJek6/W5cZWGzbePJHOYgkITr9MHw0ZmFMDboByUwjvkcR6VkZmgjtwoKfSHgiiSnmlNSRu2ABUGPVNJMjO5pNKdUi8ZsYz+y/khI/a5KqY1C81+ncRy5DF/FT91M/zPZrEVQCa2sWTEl3/Kktfx53J2Vwg3JK16uJLWe45gEX2wtOtFDCGrjdlEpspXQD+UOk4A6f46unEKjBpXCphzwWEi7Tnb7rXvHCwmWJ6Wqk50ozKqbuInEu2XdFC3wLcH+/15z8qwnb/CCuA0hf14EsGKVowFp3E1U/K5Q1Wk5yiD7fvQkS6LuIO5CPZOiRJdNVvgxZXQH756IZTWT2Gs3NwVMGrcpMAPdB4rM1ExvKsHFuVnuIE0ChojkR9Wiw==;3bDg7LwAkJ/XD6Kz9cIlwA=="
 ---

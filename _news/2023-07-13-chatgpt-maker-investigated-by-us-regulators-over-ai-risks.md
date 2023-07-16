@@ -483,15 +483,6 @@ related:
       name: Richmond
       domain: richmond.com
     quality: 19
-  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
-    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 12
   - title: "ChatGPT and the Future of Health Care"
     excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
     publishedDateTime: 2023-07-14T13:43:00Z

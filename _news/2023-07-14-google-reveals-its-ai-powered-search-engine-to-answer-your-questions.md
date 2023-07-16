@@ -7,7 +7,7 @@ originalUrl: "https://www.thetechedvocate.org/google-reveals-its-ai-powered-sear
 webUrl: "https://www.thetechedvocate.org/google-reveals-its-ai-powered-search-engine-to-answer-your-questions/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 660
     height: 400
     isCached: true
-
-related:
-  - title: "SoftwareReviews Reveals the Top Enterprise Architecture Tools Powered by Artificial Intelligence"
-    excerpt: "SoftwareReviews' latest Emotional Footprint report highlights the top-rated enterprise architecture reporting software solutions that focus on"
-    publishedDateTime: 2023-07-11T21:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/softwarereviews-reveals-the-top-enterprise-architecture-tools-powered-by-artificial-intelligence-1032438974"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/2152091/SoftwareReviews_SoftwareReviews_Reveals_the_Top_Enterprise_Archi.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "PoudD0Llcm4Jg8jypv/Mjb7PfbER+7LFKe2FH4ELD4VLKFusdXKE/eOP3ua7aiwoFIysNZO50/7Uxft77I3wZpo4JeN8uqrq0fTuM/be6FN6hTROVbJPDllp6A7wLs3TeZagyKUewTy076C/buPmc5akP7mhi0LkTROHqwAZXgE86bHu/CAyDNYtQI5EF1JWUAzo7frU2b76TDw9Vi4Ql+D1vBPgODJ5cs0er+f5aAihBZP3n4ZP5DGQgMnb6klkIbNB0UXoT4w8OyhWtljnCDKfADLq1w/w2Cn9BRLJ6WKJu6psFlJhe+2eLPZmhYfQLh9OeRNlgNTFE4BsDdIXJhEMDkZMUSPNvubgb1+dEu4=;/VVAVzpBEF7Cla2nXsw8iA=="
 ---

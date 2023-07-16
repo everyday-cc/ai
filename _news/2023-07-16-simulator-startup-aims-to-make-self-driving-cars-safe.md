@@ -69,15 +69,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
-    excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
-    publishedDateTime: 2023-07-11T19:44:00Z
-    webUrl: "https://futurism.com/the-byte/trapping-self-driving-cars-traffic-cones"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 0
 
 secured: "63zvAnCAWUTOOsMMDCpxCOzEgyY/fWWIbYnB9nvaf5uzCcbkuU8n7pRUwDJIopSxizW6y68wa2MInwkZdnr6TyfxNUV9X3bfzrgojueZ9rpqCNRPYndlvXrzhocmsmAsToDa6AYrtII4IOmu/MYk6qPT8Z+yP3Hbc6ptdDlHo4c7TBmmz/iNaIo44SxzUN4T/B14BhRdUF+Uzw9tnMgLuHYyPMvHG8RAorLXG1FzLMtvnz7ESSnwmBtl4YIxCcESSsO7jpziiiJI1olWOQAIQk+LBpf7mft5gSCKbOSj4oONxOaREYN9ftfm63U8JSy7YkyXKKLAQ3tE4XMeQMVcDO1IRold3ZDLAzNrPUrjJ3FhJXV20LqYoaoN3K9mAfIrCLwW3Xd1V0rSrYaQn8QdT9bl0VLPKWEC40+b2MSkSwyg3doTNrT3zlAdtd8XtfpwpHtzFeWBI9T06cOcEpocNcDpenX9ZVs6a8j5Yjfle/76rwpOYW1HS4hTh7Xmzi72g4keS9vxfk5LPrvM4gXu9A==;WTYvyQIHNIJvXXXXgGh/Pg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-
 webUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating data governance, transparency and trust in a generative AI world"
+    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
+    publishedDateTime: 2023-07-12T21:11:00Z
+    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
+        width: 1200
+        height: 684
+        isCached: true
   - title: "Crawlers, search engines and the sleaze of generative AI companies"
     excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
     publishedDateTime: 2023-07-13T15:32:00Z

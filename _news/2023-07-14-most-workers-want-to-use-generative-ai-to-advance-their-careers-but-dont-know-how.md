@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/most-workers-want-to-use-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "How to use AI for family time"
+    excerpt: "Let’s end with something more creative. You can use AI to create a customized bedtime story or even your own hard-copy children’s book. Give a chatbot like ChatGPT or Bard a detailed prompt that includes your child’s preferred storytelling style, any details you’d like to include and the situation that you want the story to address."
+    publishedDateTime: 2023-07-16T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-for-family-time/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-for-family-time/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/how-to-use-ai-for-family-time/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "+JtssSf6rOWN1FQau061vHeeQknTxc55rRD/dFCLOjDWItPqf5i7WxCviPUHyW8V5y3ppDabimWk/WHBzd2W7l/Up8utcBBUHeg3E2T0ewUwMA8+1tldnKkm7eT4IFzqYyPXjMUrY21vl+Tgp5dKKN6WSEe+MxkdDg+AxSrtQ3GiCNPVQocD9HwQJ2KhplKvbCUbWkTGyIYNqzv78jdPqsGzTzU1WrKIVGQuwdJwH0sct9/+KH7lAC8aao1sKnxjqFT5cqPc/VA28DhtgQx9sa8rHqvgD59+G7wOY7z+wjmfwtR+ljxTj6oy6QId/Tmb7zxNA4MKqW8KN0UuKVUXT2DoYEBkCuB3/lLQ/kd7hK8WafHwvvh6V/AnXDHZEdwDem2CCqpCRygJv9aRfpmqerYUq/G9zWXxxSwibhzZDRGEvOHTxHj93jE5ywXfQQ/pFqlECotUx7F54qV0dM6IQCAXB/F2zvcPfjdpqsOabIQ2TYNrrD8AwwHEqpqFw5sI5u2rQFWQ70GvQ0uQTDjFAg==;vbdIEpFvVmwHudLbfGuUuA=="
 ---

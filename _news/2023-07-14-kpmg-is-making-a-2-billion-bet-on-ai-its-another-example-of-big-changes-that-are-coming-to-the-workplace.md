@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "KPMG Plans $2 Billion Investment in AI and Cloud Services"
-    excerpt: "An expanded partnership with Microsoft is expected to bring in $12 billion in revenue for KPMG over five years, the Big Four accounting firm said."
-    publishedDateTime: 2023-07-11T19:50:00Z
-    webUrl: "https://www.wsj.com/articles/kpmg-plans-2-billion-investment-in-ai-and-cloud-services-e4fd0dd5"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-815234/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "cM2sqi/JL4XyykYff60TynhkN4dRHtyLXK1zInHN52PVo2z03wSL4GMw491Qt6YcdSWVO1qNdztnfcKzvAr/zRTGnG04NLxJld/yP+ScFOy1T/9cZ2BYx8dWpvGAujG8ZjA6wOtHt4rztk1UmJ5f4hdbBgDunaOo6HrfJvb7hdK5dP1xSOwsJrKE86CUVdzjYcJATBbBoZXPU5xqfiQUG1RtPwrI82tZCjs7dCzwLwQOxl+I2mlQFlc0RsANbJjZ/0V+dk0n5KoMlp55QJXTDvmbH66oIyRXjpMIf0HjiXJ0SXjC+U3a9uclZP4uR5QYagIAbYF5mIIwSK3KH1arCk7FIQW/VzbbX1M1avGgGfC8b1ETXUXZjPKFOT7uS9novOZ1xqsYizPH2O75u0ZkAM6ctC/OZ1/wJTQV6abViP+/XRO+0kzHG4rnLhzZHGlKtLKrocLtSaEUQIejtQ0iy37SNpwkzDHFFQ3llt/x5ongSsb8U8wjELRR+7Qf6CTxZNX3gx+6uMaA0UCi1wQZ6A==;jlTA6/LAZH/JzIWJ/KDiuQ=="
 ---

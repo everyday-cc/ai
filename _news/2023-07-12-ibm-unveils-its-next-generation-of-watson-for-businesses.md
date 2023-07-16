@@ -37,20 +37,6 @@ related:
         width: 1400
         height: 884
         isCached: true
-  - title: "IBM’s watsonx begins its official rollout"
-    excerpt: "IBM has announced that watsonx is generally available and has begun its rollout to enterprises. Watsonx is an AI and data platform that was first unveiled by IBM at the IBM Think conference in May. Watsonx consists of three parts: watsonx.ai, which is a ..."
-    publishedDateTime: 2023-07-11T20:06:00Z
-    webUrl: "https://sdtimes.com/ibm/ibms-watsonx-begins-its-official-rollout/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 69
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "IBM’s watsonx: Big Blue wants to reclaim the pole position in AI with its latest offering. Can it?"
     excerpt: "Long before ChatGTP surprised the AI world with its capabilities, Big Blue had set a benchmark in the technology. But ChatGPT stole IBMs thunder and made AI platforms accessible to the masses. With the launch of its enterprise-ready AI and data platform watsonx,"
     publishedDateTime: 2023-07-12T22:30:00Z
@@ -66,20 +52,6 @@ related:
       - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
         width: 710
         height: 408
-        isCached: true
-  - title: "IBM Watsonx platform to power the future of AI for business"
-    excerpt: "Artificial intelligence (AI) has taken the world by storm and businesses that can harness the transformative potential of this technology stand to propel their operations into a new frontier of productivity,"
-    publishedDateTime: 2023-07-11T20:38:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2023/07/12/ibm-watsonx-platform-to-power-the-future-of-ai-for-business"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/12/2172357.jpg"
-        width: 1020
-        height: 700
         isCached: true
 
 secured: "OPA/jH0bB6TLiHGqUDwdqFUZ7B5WJmCwDh99RQsLVFrUwybNLI5BBYD0Rk4qYfBq6GqVEnFHWd/o1pj0ST97OFUs6IAQUNf0ZPjrS3qUTBHDtco2HqT5sJKbTh4aIZBasDwYC31/h+/wHrP99TZQJbHfExyBEFW8DUHhs6x2w/LvKqXC5iN8ANFheTNbqjk+eHERxl4pIAcDwaqWo4/erj29Fhh9QIFsEYbLpX/XZ4hqzH/1iFB/ZTKq9B49+/KJXtcn/GT+upFlCJbZkNG1Cw74ooHQa3b5Ok9OphGrk9waejZu68YKNTnsUhblHWnR65ukXvhwJzAAEVlySzuQ1o1Ryi6bbWVpzevtizaFhw8=;cPTAKZ5kDEi3i13OeB2wSQ=="

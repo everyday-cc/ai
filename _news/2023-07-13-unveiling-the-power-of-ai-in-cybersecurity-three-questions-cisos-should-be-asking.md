@@ -52,20 +52,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Cybersecurity startup SpecterOps snags $8.5M in Series A extension"
-    excerpt: "Seattle cybersecurity startup SpecterOps said Tuesday that it raised $8.25 million, extending its Series A funding round to $33.25 million to boost adoption of its attack path management platform. SpecterOps"
-    publishedDateTime: 2023-07-11T20:07:00Z
-    webUrl: "https://www.geekwire.com/2023/cybersecurity-startup-spectorops-snags-8-5m-in-series-a-extension/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 52
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/07/David-Recent-Headshot-1.png"
-        width: 715
-        height: 720
-        isCached: true
   - title: "New IT spending survey bodes well for 7 tech stocks in A.I. to cloud to cybersecurity"
     excerpt: "A number of big companies whose stocks we own are dependent on how much businesses are willing to spend on tech."
     publishedDateTime: 2023-07-12T08:00:00Z

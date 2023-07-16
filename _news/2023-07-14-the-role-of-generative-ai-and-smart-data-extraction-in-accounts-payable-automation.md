@@ -77,20 +77,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Automation, Efficiency, Insights: Freshworks Leverages Generative AI to Transform Customer Experiences"
-    excerpt: "There’s a revolution happening in the customer service industry and generative AI is at the heart of this transformation. Luckily for support agents around the world, Freshworks has been leading by testing and integrating AI into its products for the last five years."
-    publishedDateTime: 2023-07-11T20:35:00Z
-    webUrl: "https://techcrunch.com/sponsor/freshworks/automation-efficiency-insights-freshworks-leverages-generative-ai-to-transform-customer-experiences/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 51
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/two_women_coding-1024x683-1.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
     excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
     publishedDateTime: 2023-07-13T13:30:00Z
@@ -100,15 +86,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Revolutionizing personalization: How generative AI propels growth with AI-driven customer insights"
-    excerpt: "Stellantis highlighted its use of Treasure Data's Customer Data Cloud to gain customer insights through generative AI."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://venturebeat.com/ai/revolutionizing-personalization-how-generative-ai-propels-growth-with-ai-driven-customer-insights/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
 
 secured: "7Ul7Ku6F9QgQnmbKj5psYIr7rt2cw/eF0qMBRX38uVgvap8xRXnTe6U6m8WDHU81PY3NRbZ9/yMfUOUSmXAThQ8l2imJiwGkxAnOl+EHnjdEo/KngIYmGoN3AuOG6LOuprx9XZk/R6os3dMo4MiTJy36YuvR60DsII0qULSy/fHDOD0mPaBMTvwsOpFcR/M4SV2Di9RVDSYHjEs8xIb/VcafF/vDFuuP+PU3MtK75g1I/R214dNhCAa1xv774h2qdlKJDXYkXxGuGrt0ZrkMq/Vk9mLzGkJPhDSZuPc6gv8tLD7huFFYB+0XXBL1fD8vouUhq66eGcl2iAIfvaGOEo9p75RIugCAuS+fB7TpJqutz2SJYX6q9bNnfrywrndFJ3IFWnLVyknIm+Q3irujy8PFKGT5c97eml6CsKrlEC3u9UiY6aYz5KNU7VCeKpIwlp395Bwqq6MOWO++CcMy1eeut8N8I6dsuyfRJicRrdy6SlW4cSdUiM5udMe72qg7UKp8Qfx9WciO6YyBRg5Y9Q==;v78xU7bS/FUE095fVYUBUA=="
 ---

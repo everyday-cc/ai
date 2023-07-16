@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Fox News
@@ -30,35 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing A New Frontier Of AI, From The Inside Out"
-    excerpt: "Every day, we put more than 60 AI models to work to strengthen the products and experiences we’re delivering for members– from optimizing appointment scheduling to quickly connect members with a quality physician in minutes,"
-    publishedDateTime: 2023-07-11T20:58:00Z
-    webUrl: "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/"
-    ampWebUrl: "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/"
+  - title: "Hytiva® at the Forefront of Artificial Intelligence in Cannabis"
+    excerpt: "With the new public interest in conversational AI, Hytiva Technologies is uniquely poised to share more about the advancement it has already made in AI, and build on that momentum in a way that all pa"
+    publishedDateTime: 2023-07-15T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33239857/hytiva-at-the-forefront-of-artificial-intelligence-in-cannabis"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33239857"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33239857"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ada8fea7497968d8edfb03/0x0.jpg?format=jpg&width=1200"
-        width: 1150
-        height: 900
-        isCached: true
-  - title: "HR using AI on the QT"
-    excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
-    publishedDateTime: 2023-07-12T08:13:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57239-hr-using-ai-on-the-qt"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/4901c5be5c86464530b4506991d76419_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "OA5xgbpqMBlZh79+TBC7vRcTrC+KY51W53jIfJcl976jHoKrskNpfvpSe/lmH8Ysm2SmRxrRShIuRZaIM57SNoPzt03qewwDmgKxKn4JuA+bSG3R8XfRpC+lesUXhl22h3PiMwVmmUPYV17LWpO2ZIMaJmoIrJItzurMlAu6Wst42zBNNgFXLeBDO+SEQBfe0LWmvz8/gr2a7jug2ImDFQB9Isd/iB5UUKKmUKG7NOtZrz1XQK4kqHsI4xuoq3K/xQccUsj5dsOUYYohIib2iTrEXwTWQ7tEVlL7yqXBzD5Par4lzq2qX138wyxaMD3JsMCE4VnUZBU+q5LQarm7I/mchhDsOyODULrMO0iXPOo=;2hCL71V94INRIcsmSMaFlg=="

@@ -1,0 +1,26 @@
+---
+category: news
+title: "Real-time deepfake detection: How Intel Labs uses AI to fight misinformation"
+excerpt: "Intel's Ilke Demir explains how deepfake tech works, and why it's essential for AI researchers to collaborate with anthropologists, social scientists, and academic researchers."
+publishedDateTime: 2023-07-16T12:01:00Z
+originalUrl: "https://www.zdnet.com/article/real-time-deepfake-detection-how-intel-labs-uses-ai-to-fight-misinformation/"
+webUrl: "https://www.zdnet.com/article/real-time-deepfake-detection-how-intel-labs-uses-ai-to-fight-misinformation/"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+secured: "b+7pN0B5X0CjRBAgQE2Odx/tivH0RF48ETF9LsOJ8YpiVRiPwptE2SvM4/XFw6P4a1HB5zZdslpXAOrVezPNnrGZx4mQYvaSQJB+TpqhSI51cUyP4xAkXSQMoY4OMnk/2yedeg68PomIDRNkrsAgVRVV9oaiOeZgoF814D6zvvNk6z8U/EFMN8C7TexUWqKwJyKIPnzlJ7WkYIcOzEs7A+IWfx1lj1sGG6kqYAiifRJtDPEzCcC/UIPE7JBmqtiTi4Y9JSlwdcOjZsFSA5dx0Euh+rVNagMSbLKgTbV10nxxx2hHy4Ce84ffXmmKBHStsPm4uMOWFqH9JBxXLj/alnZjU5aTicEwnJ/uXvzHY07fsMDf5v55AOBAauAhdcFupKqFM2hSeNdH7T8peJosbn2uZmYI0tkXazUL5LdpckUAhhIIGFFOig9RQ5qfI68GKjXULNrwk65G7PTgXrGErKqxUv6Vx7qEWHxwwuO4UqMeks3w9iRcCd4IG3S8qi9+etK6JYgQk0tSlBLLTE73LQ==;pRdMwiwb+tDPRIhPYWnyMA=="
+---
+

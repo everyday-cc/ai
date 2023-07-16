@@ -3,8 +3,8 @@ category: news
 title: "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship"
 excerpt: "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization."
 publishedDateTime: 2023-07-08T09:21:00Z
-originalUrl: "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
-webUrl: "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
+originalUrl: "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
+webUrl: "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html"
 type: article
 
 provider:
@@ -12,15 +12,9 @@ provider:
   domain: stltoday.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/d2/1d27fc8e-60ba-53ca-bcbf-72c1919a5f60/64ad0793dc5e8.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "JvUeEZidnqLlLYZCFP0hgiA/E9rxh9gi3h+PWbCIWTVjDQ1FJNyivoTPPEwNzjtO0OZIEVg2dWJwpZ+ZpcearPsXlvIs9KBCM2u7O7l5mV4h1N1JTyleZXTbaFF1fjgCXcZJpYTfVQeYTQgWi6YiV2RuKZV5Bq+YtFHYcgOpmCBMqji97EzfaKOXCPtvy2GpeBaGH25nquFsIJZi8UaxFAWoSG/wocwviQUuTDu0/k+d8hx126z5fX0qg267qzVBXPyFt7RisVQZwAOzlcYHP/nFgOdnWatJ+b/1Kz8D9QKqyBYbQErOFMaVymFusrcgFC5cENJxsxUY80F6dfj5YdmBh0jA3NC5Dtv0Btdbbyc=;YFQc6+I+Ll/7BFGbiS/PBA=="
+secured: "0PAHRseQ0Udo58gE2KR2u79YHgE+cx1F6G5OS+dS1X4rMkZWcRi0hZ3nQoaLYj1TlCLFzMdRDB+O6GMd5nHRei9nME/0ZoAbuz17rX4lY8BsidS6BzdmHQlkVK6oDDnMFJ6j7KY95uXfcr9C2+wHc2DMfNPYTzOJtUMh8U+ZWjxmSy3KqIFIcWoUvW0bX1q8XGXG37xuUXRbChrjpcr4KpT8tJeXxCbXG2QGN6vMTVVV+pJAVEMDyjWsvoSQvl8t9NIBA8LCuVCsyiEEHdv0xPlCW7ZXyeqXrw8Vb4xeGb/wpfmyGnUGa/81issfjcIzlfHMWV2MCRfwFOGuAjnDv1YBpSmwW3KT/lBtrPiZshC6C7LQ0g83Mgpan/2RfluPIJyevPqSuvK/v46bBMWVu8I1hc6LVbrRWDPxmnuWJGX7kptG9JrZdej1M6Zocwa9Tu0KXQm7C2mybjy9s0LhNd/2Ox+r5mjnx7ZpiIJaIbrz5ZKDYleJrOKuD638+Oei9/ViX7x8AAU0f5Pl1po0Aw==;2UHFgEpxvHUFGrmnxhe1BQ=="
 ---
 

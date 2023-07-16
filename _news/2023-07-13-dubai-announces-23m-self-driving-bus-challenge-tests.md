@@ -24,6 +24,17 @@ images:
     height: 784
     isCached: true
 
+related:
+  - title: "Dubai launches $2.3 million self-driving bus challenge tests"
+    excerpt: "The challenge offers a substantial prize pool of $2.3 million divided into two categories: Industry Leaders and Local Academia.. Dubai launches $2.3 million self-driving bus challenge tests. autonomous,"
+    publishedDateTime: 2023-07-16T12:58:00Z
+    webUrl: "https://www.logisticsmiddleeast.com/logistics/dubai-self-driving-bus"
+    type: article
+    provider:
+      name: Logistics Middle East
+      domain: logisticsmiddleeast.com
+    quality: 19
+
 secured: "JV0AgoGTLDnfQaUUnzsfvSm5DIlyW6owDij3YqhGHlUU+WIvQL2nB2YBtxttDoJ7OH9uM8O72K/84mysd+6SThKM0K7k/++9VHE0Eeqb21gfOYZG98ccdxnOgJWBk0ZuKdF0lBRPO2ioVDYxDxqtoB2U7sEkWvHq7nR2eufo+fGbMdabwF0AUhD8vOB1PCL5L6miq0+KxaIvhvf7o1o6AXD4uy8ydn0/T3wmr+idski7aXAsl2e0ZfW19c6tcm53qubYnxcugkY50jZPg0wRAM/lBBEiDUfnHP56FDX0DqnZ4Jsja58wIOi0z5bwioC09Ph5Qdc4LJ/yLzEJWgLlAwcr9rIJdKgkKcW9h48On3IVYwPeSO+KlDGwMUe9iIhKh93X8/9AuJfAJ9f7NU9YS4YtgmxOPNEyq9+UR0yxi20iiBOTooUvkLs+WSFLk3h0mW1/gRvKad4uddY7aIuOnlGLKe31gFx/zP0JV9Y80lGcd9o1V1pc0i9x/Kdvj/Pc4ShVJvOGBYW8UUyyOnJfDA==;hyHjvOqLQSCXd0TNo3oUoA=="
 ---
 

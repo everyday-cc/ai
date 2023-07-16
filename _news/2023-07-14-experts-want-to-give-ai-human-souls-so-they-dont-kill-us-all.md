@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to use AI for family time"
+    excerpt: "Let’s end with something more creative. You can use AI to create a customized bedtime story or even your own hard-copy children’s book. Give a chatbot like ChatGPT or Bard a detailed prompt that includes your child’s preferred storytelling style, any details you’d like to include and the situation that you want the story to address."
+    publishedDateTime: 2023-07-16T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-for-family-time/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-for-family-time/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/how-to-use-ai-for-family-time/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "MnWvzhnIi7N1eZr9l5OIXW2w9NkZo/7IhGtbG2n8jgw582ZB9E8dPpEaVxH8R5ftXyIIZuXyfux/BI+tBp1qj+Rs63LUekAx+ZIi/kGB0RLdZ8ySBNHaPqsNDNWNRPjws/O6Bm8UB1mBuJFbNaO9/Jago1D7woZ6T07t8pKrRv+XY/W7gq9u3TQLImllotveBjQDf7fd3ymteFKy21yxYIFAU76RJvhhukc9Xj8u+3esiR3JvMjmLX7ElKQFJwUuBjxhi05DcOk8d5rKH7xHYbvoHnWNcvTJtmXBEKfMcAy2xzUvTd5HnrANtLPBtieQdZbhxzdldhwhIjRoRH/jyLj/0Pi1L72flPGMMOU6NaaaV8BV6iDnexeAlGPhJngQQZVqSC+qeaF5+N+hJLdXOPDO5qX17gckKCtjJpaZ8c8t4hcXyHvHRxkayzhIjhQvNXlsT+z2qKQqjzMsaJEIYXfWj79agcF9sLaGh9k5wFfzc4D0qTKuXOUUj8PEUmjyQUrb0auF/8BM0IsJj0TFTg==;fgzOSgvACeu8piHjlyDJGg=="
 ---

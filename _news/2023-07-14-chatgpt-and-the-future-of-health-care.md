@@ -493,15 +493,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Anthropic Launches Claude 2, a $4.1 Billion AI Chatbot Competitor to OpenAI’s ChatGPT"
-    excerpt: "Anthropic, a startup founded by former research executives from OpenAI, has entered the AI arms race with the debut of its new AI chatbot, Claude 2."
-    publishedDateTime: 2023-07-11T19:22:00Z
-    webUrl: "https://techstory.in/anthropic-launches-claude-2-a-4-1-billion-ai-chatbot-competitor-to-openais-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 12
 
 secured: "D8TzTiXD18X0gWR5mTHnT/5vRIuiYpE9agK/ZKNVm08SokWLELH+IMcFOie2Ts1eQmUNhg0mgpUQ/ea7haB8RwzrbjSJavbjYEO7PnBVZJWFkxnAh37JH4yaiNPtj21n/ZiArJ00hfLri7Pjcx9a9cx08C1F2xLEOI/P5dSP5ScJZw1aS0AKYEvOmSfXHUTcdVofwqK+DAxcntG54DrKWIg3AIQUqOkEwTSZ5/RnCAi1MLR6vFqy9cfynjPgJ6ziI6Nj1YIVzRzM5evmBGWREb8IA+EPqmq+g9OTfbRzcDBbtgjCA5nfXiWniH1jE7NNbT3HhofzVlt7o1kf0A3011WJMrNBhrnEinihOUD/vM4=;HaoXzZpblKtci0w1GRPcIg=="
 ---
