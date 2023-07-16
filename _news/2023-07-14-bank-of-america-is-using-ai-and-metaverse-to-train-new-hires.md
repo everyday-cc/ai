@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "These 10 stocks will be under-the-radar winners of the inevitable AI takeover, according to Bank of America"
+    excerpt: "Artificial intelligence has exploded in popularity this year, and Bank of America believes these 10 stocks could be unexpected winners from the trend."
+    publishedDateTime: 2023-07-16T10:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-bank-of-america-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/64b03e8ec22d1a0019455343?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Meta To Release Commercial Version of AI"
     excerpt: "Meta will make its open-source language model LLaMA more widely available and customizable by companies in an effort to catch up with artificial intelligence rivals."
     publishedDateTime: 2023-07-13T18:37:00Z

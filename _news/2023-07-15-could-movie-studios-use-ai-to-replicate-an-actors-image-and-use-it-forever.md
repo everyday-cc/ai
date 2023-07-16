@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
-    excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
-    publishedDateTime: 2023-07-14T13:00:00Z
-    webUrl: "https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Hollywood actors strike over use of AI in films and other issues"
     excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
     publishedDateTime: 2023-07-14T19:38:00Z

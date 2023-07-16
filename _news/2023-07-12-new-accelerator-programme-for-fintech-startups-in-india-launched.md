@@ -53,15 +53,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "AWS, NVIDIA and Vestbee team up to empower Fintech Startups with AWS Global Fintech Accelerator"
-    excerpt: "AWS has launched its brand new program AWS Global Fintech Accelerator in collaboration with NVIDIA and Vestbee that will equip fintech startups with tools, resources and a wide network of top experts,"
-    publishedDateTime: 2023-07-11T17:49:00Z
-    webUrl: "https://www.novinite.com/articles/220809/AWS%2C+NVIDIA+and+Vestbee+team+up+to+empower+Fintech+Startups+with+AWS+Global+Fintech+Accelerator"
-    type: article
-    provider:
-      name: Novinite
-      domain: novinite.com
-    quality: 9
   - title: "The Future of Fintech: Industry Leader Shares His Thoughts!"
     excerpt: "The first indicator of Fintech's growth is the adoption rate increase. With emerging user-friendly platforms, businesses and customers have become comfortable with digital financial solutions. From mobile banking to crowdfunding platforms, Fintech has gained  widespread acceptance and has become an integral part of everyday life for many."
     publishedDateTime: 2023-07-12T12:59:00Z

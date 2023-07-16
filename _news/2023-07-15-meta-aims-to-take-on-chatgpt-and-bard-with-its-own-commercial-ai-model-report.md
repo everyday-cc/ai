@@ -86,22 +86,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 69
-  - title: "Has ChatGPT failed, does it signal failure of Artificial Intelligence as well?"
-    excerpt: "It is an indication that the AI and ChatGPT have peaked in just six months and are now falling. But many people believe that the Chat GPT is a small part of Artificial Intelligence and its slowing down does not indicate failure of the AI."
-    publishedDateTime: 2023-07-11T17:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/articleshow/101676991.cms"
-    ampWebUrl: "https://m.economictimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/amp_articleshow/101676991.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well/amp_articleshow/101676991.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 68
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-205650,msid-101677112/has-chatgpt-failed-does-it-signal-failure-of-artificial-intelligence-as-well.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Elon Musk announces xAI, a new artificial intelligence company to rival ChatGPT"
     excerpt: "Elon Musk on Wednesday announced the formation of a new company focused on artificial intelligence called x.AI"
     publishedDateTime: 2023-07-12T17:17:00Z
@@ -133,20 +117,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/elon-misk-xai.jpg?quality=75&strip=all&1689166555&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "ChatGPT and Bard Get New AI Chatbot Rival: Anthropic Debuts Claude 2"
-    excerpt: "The chatbot is available now in open beta in the US and UK, and Anthoripc said it plans to make Claude 2 globally available in the coming months. If you're interested in seeing how Claude 2 compares with other publicly available chatbots like ChatGPT, Bard or Microsoft's Bing, head to Claude.ai ."
-    publishedDateTime: 2023-07-11T17:17:00Z
-    webUrl: "https://www.cnet.com/tech/computing/chatgpt-and-bard-get-new-ai-chatbot-rival-anthropic-debuts-claude-2/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/8f89d44a5ec05644c6771739820cbf0f63f6a093/hub/2023/06/28/b65a809e-bdf9-4ed1-a9e9-33d039e7c579/ai-text-chat.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google’s AI Chatbot Bard Gets Belated European Release"
     excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
@@ -488,15 +458,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Antrophic Announces Second Generation AI Chatbot: Claude 2"
-    excerpt: "Over the past two months, leading companies have rigorously tested Antrophic's AI models, creating a waitlist of over 350,000 people wanting access to Claude's API."
-    publishedDateTime: 2023-07-11T17:11:00Z
-    webUrl: "https://www.techtimes.com/articles/293665/20230711/antrophic-announces-second-generation-ai-chatbot-claude-2.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 19
   - title: "Elon Musk launches new AI start-up to rival ChatGPT"
     excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
     publishedDateTime: 2023-07-13T06:39:00Z
@@ -543,6 +504,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "biwyCT7Jcu0T2HyJucM5GCLqT8bVlcmZyxphvNWNnMrVaIYEty0WPxZnYvJCvMYIHxl9HdjqMjmMUY9dNL3WLa5VciKjXPbVAJlBGdp4XWITvcshKtxCPau/oNgRS830DmeB1kD7fGbXb9HWAnGsUepC6RK28ivTld5xHkkVL7mWo367o+X+aunAax54S+sMTJphjpbe4sXLPuPIv0RLmsEEI11/jrOrSZGawrcTPbWCyXRPrAA4sPUDm1TC8Ngqe5rojCjlh31CiKc9xH5sRbfA9osFQCj89AEQiGoNPMULgJZ9AlRxhvMLVKeM2Io5u8+re9BB9hNmwrI5PeW9NKS587f/9gsDs6XVsWeQp2Y=;Zf3b9TWQRT53/2PSa60O3A=="
+secured: "rnSN8GjrWqc7hiVUwRnS7ZWYm7FPN+SpBnMqX2AzqIHUZ5wu0NLOAf63ruEToI07H2iK5PVv/qn+HvSD/gkKj0CzTSdfzI72QuRC6jFPuFsBEcr6N6l/k7Yok81TnoDhQ0n7fJCAoCQhsW+0IL2oxTD0gDPUJ7zDiZ+/8GyJSCv/FT6ks6ujbmfuS4so1osm8VKIfq8EneMhlxyq+oEVqGiS/L6akftpFf+rLdTxvG0Gpontto+Sz+zOOeMi3pgcVcqiEYjo5r43HGGeCW7YuZPPg7Y6PKt1l9rVKKTOKSbiMsgWtjwIdxyKtsQDlVo7hpA3CVqA2e6G7gFWjead2emSlBQeDNnvKLtNPGlTYi0laW2S7WcOapjfF+HaXtZQ3pEKxLtOoc6In0axL5BvBS4LvYiBRPBWgXQbNHZhrjATh5hzleneOEa2AX0WKU69gH8i0TU1QW+Qwo9YAkmk+wIYMtK4ueCxzJQN2HwECkp+nWjBoms6xhzJKjjAvfrbn5bG43ENTFyl6ezbc4CvwQ==;md0V3voTirJ/BFak3FMviQ=="
 ---
 

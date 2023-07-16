@@ -18,6 +18,50 @@ topics:
   - AI
 
 related:
+  - title: "Elon Musk's Tesla robots could be groundbreaking for AI and automation, but still have a long way to go"
+    excerpt: "Elon Musk's Tesla robots, or \"Tesla Bot,\" are bipedal robot devices that use the same AI as Tesla's cars."
+    publishedDateTime: 2023-07-16T10:14:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/64ac095a6d7e02001af8a08e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Elon Musk Announces Artificial Intelligence Company xAI"
+    excerpt: "There's no word on what the company will actually do, beyond its goal to \"understand the true nature of the universe.\""
+    publishedDateTime: 2023-07-12T21:29:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-announces-artificial-intelligence-company-xai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://www.cnet.com/a/img/resize/a0d2e51b4e919ee49297946dc9fda07dac69b681/hub/2023/07/12/51a17895-547c-46ec-b4a7-39e3c78bd937/elon-musk-gettyimages-1258889149.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Podcast: Tesla people-mover leaks, Cybertruck body, Elon AI startup, and more"
+    excerpt: "On the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this"
+    publishedDateTime: 2023-07-14T19:29:00Z
+    webUrl: "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 81
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk introduces xAI, a new artificial intelligence company"
     excerpt: "Elon Musk's artificial intelligence company, xAI, received its official introduction on Wednesday, with the billionaire saying it aimed to 'understand reality.'"
     publishedDateTime: 2023-07-12T20:47:00Z
@@ -48,6 +92,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Elon Musk launches new AI startup, says will work closely with Tesla"
+    excerpt: "Elon Musk announced the launch of a new artificial intelligence startup, xAI, with the goal of “understanding the universe.”"
+    publishedDateTime: 2023-07-12T17:49:00Z
+    webUrl: "https://electrek.co/2023/07/12/elon-musk-launches-xai-startup-work-closely-with-tesla/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 64
   - title: "Elon Musk launches new AI company called xAI"
     excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."
     publishedDateTime: 2023-07-12T17:39:00Z
@@ -64,21 +117,21 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says..."
-    excerpt: "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI."
-    publishedDateTime: 2023-07-13T09:13:00Z
-    webUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373"
-    ampWebUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
+  - title: "Elon Musk unveils his new artificial intelligence startup"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
+    publishedDateTime: 2023-07-12T21:51:00Z
+    webUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 57
     images:
-      - url: "https://c.ndtvimg.com/2023-06/hhoa66ag_elon-musk-at-viva-technology-conference-paris_625x300_19_June_23.jpg"
-        width: 1200
-        height: 738
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/07/web1_13991615-ad7d8018b7b1405faeaeb2abf4bb08aa.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "Elon Musk launches AI startup xAI"
     excerpt: "Musk said this was part of efforts to build 'safer AI'"
@@ -96,6 +149,20 @@ related:
         width: 500
         height: 271
         isCached: true
+  - title: "Elon Musk launches xAI, his new artificial intelligence startup"
+    excerpt: "ELON MUSK IS finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched yesterday and its goal “is to understand the true nature of the universe”."
+    publishedDateTime: 2023-07-13T05:53:00Z
+    webUrl: "https://www.thejournal.ie/elon-musk-xai-6117265-Jul2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 52
+    images:
+      - url: "https://img2.thejournal.ie/article/6117265/river/?height=400&version=6117269"
+        width: 613
+        height: 400
+        isCached: true
   - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
     excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI"
     publishedDateTime: 2023-07-12T21:34:00Z
@@ -112,45 +179,15 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Elon Musk Launches xAI, His New Artificial-Intelligence Company"
-    excerpt: "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT."
-    publishedDateTime: 2023-07-12T18:19:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a"
+  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
+    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
+    publishedDateTime: 2023-07-13T18:25:00Z
+    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Elon Musk Will Feed xAI Twitter Data To Train Its Language Model And Develop Artificial General Intelligence"
-    excerpt: "Elon Musk has unveiled his own AI company, xAI, which will train on Twitter data. Could Musk’s decision about implementing “Read Limits” on Tweets be related to this development?"
-    publishedDateTime: 2023-07-15T05:53:00Z
-    webUrl: "https://www.gizbot.com/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 40
-    images:
-      - url: "https://www.gizbot.com/img/2023/07/elon-musk-tweets-twitter-xai-data-scraping-1689400352.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Musk launches AI company while Twitter flounders"
-    excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
-    publishedDateTime: 2023-07-13T07:47:00Z
-    webUrl: "https://htxt.co.za/2023/07/13/musk-launches-ai-company-while-twitter-flounders/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 39
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2022/12/elon-musk-giga-texas.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "xAI New Artificial Intelligence Company By Elon Musk"
     excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."
     publishedDateTime: 2023-07-14T07:28:00Z
@@ -188,38 +225,15 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Big Tech: Elon Musk announces AI start-up, Sarah Silverman sues OpenAI and Bill Gates comments on AI"
-    excerpt: "We acknowledge Aboriginal and Torres Strait Islander peoples as the First Australians and Traditional Custodians of the lands where we live, learn and work."
-    publishedDateTime: 2023-07-13T07:49:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/drive/1650/102599604"
+  - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
+    excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
+    publishedDateTime: 2023-07-12T18:37:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 22
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/0f0d9c84ed54eb8ef0ee3741ffee36e5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=402&width=862&height=485"
-        width: 862
-        height: 485
-        isCached: true
-  - title: "Elon Musk launches a new AI startup ‘xAI’"
-    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
-    publishedDateTime: 2023-07-12T19:13:00Z
-    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
-  - title: "The Download: cleaning up shipping, and Elon Musk’s new AI startup"
-    excerpt: "1 Elon Musk has unveiled his new startup, xAI But his chances of overtaking OpenAI any time soon are slim. ( Wired $) + The new company will rely on Tesla for a lot of its resources. ( WP $) + Anthropic’s new chatbot is here. ( The Guardian)"
-    publishedDateTime: 2023-07-13T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/13/1076194/the-download-cleaning-up-shipping-and-elon-musks-new-ai-startup/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 11
 
 secured: "O6+N8tfOK64aDM8islgwR6GweheSGLDl3tBhbFw3OAANJLpq+j3V9rExsRIzq60V4Fjg2qIXpWaUuedF4OYGP8DR7G2ET4fBJ6seRPAKgCxy7jh6GOevVRi7fYjTAffPuaYqJk1k4CyF3NIbRSI6UM4wTyA1Gnl3Cn8RtG5XnTEfJHX8sym+Z5LBgfTCc9FeWh3SaXl3dMRxo7ADwXQ23FQdylzWLf7mS5W/EnkgYjY1AC1SP0TAg3QqJITEZRbd51Zed+8mn1f+o4kKUGqBDJ1yfcxdZgwDcO/qbvdHnlAnjdMDaqjBwuv6HUcRmyPAp2l1RnDowZjqb0QR0Sl3p0MxABPC25JbbSjPxwY78j2EaLrsmeRtTKfooKqAFS3tx1AeCrqHW8GS/ZD5Ah4ak5M0N+j+yI9c6JSbYdH7y1bYB6+ecC2PEV2ytIFmQ88kXnqnX6wCODaGBRf1n0MqEGz8z7XOlH+Ir4DMqPTkL2tK5iAVBndh1TM9hBKoyzZyuW1QemNSV8Dnk1oBNavyZg==;tmFJ82LCXpEFYhBz+cXqFg=="
 ---

@@ -22,96 +22,109 @@ topics:
   - AI
 
 related:
-  - title: "Actors say Hollywood studios want their AI replicas — for free, forever"
-    excerpt: "During today’s press conference in which Hollywood actors confirmed that they were going on strike, Duncan Crabtree-Ireland, SAG-AFTRA’s chief negotiator, revealed a proposal from Hollywood studios that sounds ripped right out of a Black Mirror episode."
-    publishedDateTime: 2023-07-13T20:34:00Z
-    webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
+  - title: "3 Leaders Share How They’re Approaching The AI Revolution"
+    excerpt: "The artificial intelligence revolution is both exciting and intimidating. Luckily, leaders don’t have to navigate it on their own. Instead of reinventing the wheel, follow these three leaders’ advice."
+    publishedDateTime: 2023-07-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/EOBvakgKZaoIGZu_qy6UzPlSD_s=/0x0:1422x750/1200x628/filters:focal(941x379:942x380)/cdn.vox-cdn.com/uploads/chorus_asset/file/24693367/black_mirror_s6.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Hollywood's 'Groundbreaking' AI Proposal for Actors Sounds Like a Nightmare"
-    excerpt: "SAG-AFTRA said that AMPTP's AI plan included scanning background actors and using their likeness \"for the rest of eternity.\""
-    publishedDateTime: 2023-07-13T22:45:00Z
-    webUrl: "https://gizmodo.com/sag-aftra-ai-actors-strike-amptp-ceos-likeness-image-1850638409"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 65
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/acbbd1a48a2600009a805233b0cc9ad8.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b16d0178738ffba2248079/0x0.jpg?format=jpg&crop=5266,2960,x0,y272,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Hollywood actors union votes to strike over pay, AI issues"
-    excerpt: "The television/theatrical/streaming contracts of the Hollywood actors union SAG-AFTRA expired late Wednesday. The national board is scheduled to vote Thursday on whether to strike."
-    publishedDateTime: 2023-07-13T11:23:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
+  - title: "AI scam calls imitating familiar voices are a growing problem—here's how they work"
+    excerpt: "Scam calls using AI to mimic voices of people you might know are being used to exploit unsuspecting members of the public. These calls use what's known as generative AI, which refers to systems capable of creating text,"
+    publishedDateTime: 2023-07-13T19:30:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
-    quality: 57
+      name: techxplore
+      domain: techxplore.com
+    quality: 53
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6041689244370/2023/1/13d24c8becf0402a502b60ae5afdf5b8/v1.5/Citing-studio-greed-Hollywood-actors-union-votes-to-strike-over-pay-AI-issues.jpg"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-scam-calls-imitatin.jpg"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "Could movie studios use AI to replicate an actor's image and use it forever?"
-    excerpt: "AI has made its way into nearly all of our favorite art forms including music, visual art, and now possibly even films. According to SAG-AFTRA, AI makes it possible for background performers' images and likenesses to be used forever."
-    publishedDateTime: 2023-07-14T19:39:00Z
-    webUrl: "https://www.zdnet.com/article/could-movie-studios-use-ai-to-replicate-an-actors-image-and-use-it-forever/"
+  - title: "Meet The AI Specialist Employing Data-driven Strategies To Revolutionize Healthcare"
+    excerpt: "The utilization of data analytics stands to revolutionize the delivery of healthcare services by enhancing drug discovery, bolstering patient adherence, reducing physician burnout and patient out of pocket expenses,"
+    publishedDateTime: 2023-07-12T07:21:00Z
+    webUrl: "https://www.freepressjournal.in/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
+    ampWebUrl: "https://www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
-  - title: "Hollywood actors strike over use of AI in films and other issues"
-    excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
-    publishedDateTime: 2023-07-14T19:38:00Z
-    webUrl: "https://www.newscientist.com/article/2375009-hollywood-actors-strike-over-use-of-ai-in-films-and-other-issues/"
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 48
+  - title: "Asia Falling Behind The Ai Regulation Race"
+    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
+    publishedDateTime: 2023-07-14T11:00:00Z
+    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
+        width: 363
+        height: 250
+        isCached: true
+  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
+    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
+    publishedDateTime: 2023-07-16T02:15:00Z
+    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
     quality: 37
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
-        width: 1350
-        height: 900
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Artificial intelligence could prevent mediocrity in Hollywood: Simon Pegg"
-    excerpt: "Simon Pegg believes that artificial intelligence could prevent mediocrity in Hollywood. The Mission: Impossible - Dead Reckoning Part One has spoken out in support of the technology as he is convinced that the threat it poses may lead to an enhancement of quality in the film industry with humans needing to raise their game."
-    publishedDateTime: 2023-07-16T05:18:00Z
-    webUrl: "https://www.asiaone.com/entertainment/artificial-intelligence-could-prevent-mediocrity-hollywood-simon-pegg"
+  - title: "Editorial: Profit-sharing and AI protection are the answers to the writers and actors strike"
+    excerpt: "The solution that will bring back your favorite shows? Better profit-sharing, and when it comes to AI, humans should stand with other humans."
+    publishedDateTime: 2023-07-16T10:00:00Z
+    webUrl: "https://www.chicagotribune.com/opinion/editorials/ct-editorial-sag-aftra-wga-actors-writers-strike-hollywood-ai-20230716-3hthjfoitfhxzowucg6id3wu5q-story.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 36
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 26
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/20230714_simmonpegg_reuters%20%281%29.jpg?h=7f9be7c4&itok=54b8S6-7"
-        width: 600
-        height: 316
+      - url: "https://www.chicagotribune.com/resizer/epVF-0J-KEmiMK1CQg7CTBqCzrY=/1200x630/filters:format(jpg):quality(70):focal(3152x2298:3162x2308)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VDIRHWGFIIZUQQIMQPZHCD3P3A.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI worries spread from UN and OECD to Hollywood"
-    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
-    publishedDateTime: 2023-07-14T17:15:00Z
-    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
+  - title: "The Revolution in AI powered by Transformer Architecture"
+    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
+    publishedDateTime: 2023-07-14T07:21:00Z
+    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Impacts
+      domain: techbullion.com
     quality: 19
+  - title: "Amazon's Affordable AI Revolution: Unleashing Creativity with Low-Cost Cloud Computing"
+    excerpt: "In the rapidly evolving world of artificial intelligence (AI), Amazon is making waves with its low-cost cloud computing services,..|News Track"
+    publishedDateTime: 2023-07-12T06:46:00Z
+    webUrl: "https://english.newstracklive.com/news/amazons-affordable-ai-revolution-unleashing-creativity-with-lowcost-cloud-computing-sc71-nu378-ta318-1284219-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 11
 
 secured: "3LqJYnm5csOeYxCtOZd44V8lw9NCyCWL/KcommnMqNCrZVe7bheBHci9g5Q6/+XBDEVRPXk9rBocD73zoUtAQ9zYNSFw+3Ppd4zoYd54ZrHnFDSailtWO4djuyfSTa/TkzBeT8sCc9+rKuutKn8VFHtIBOLeqGwMOr5Uqy2xwU50oDw2N34Ev5/rLbwwsJA/eGPVHolCHWvcrT2enwdsedLe/sk0nE3wIGmbUieclHzFB1DkXFxef4ibxfmccCt0nONffVlyv+CISZJGCIriMez10GGiFRCEKRqpGQMKdYnut/vv9iHFHq0RmcaAU/tJS6kJ9D2u/imZvqlffFu8CbrenoIfwlLYX4sEm1SMck89CD0+FhOj1i4axrBGp0BbhD9aQ1MNfc6nuz+JblHD9KQp9uqtwHrJrJGbPVw3DxUl5RBGy9k4hYsAxLCHt55zfbe91P7nhx3Iww8gH10DHotNgLboAt+wljLFa9BBU6bfH/nkywB3k8WOqDyBx0DvPDFWbZhB+uIdlInaf3+zVw==;08v55LfjErtDdJwwehZD5w=="
 ---

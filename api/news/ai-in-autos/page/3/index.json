@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-21-china-pushes-its-development-of-intelligent-vehicles.md",
+      "title": "China pushes its development of intelligent vehicles",
+      "excerpt": "China will support the commercial application of Level 3 and above autonomous driving systems, as part of its broader push to bolster the development of intelligent connected vehicles, the country's top industry regulator said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202306/21/WS64929b37a310bf8a75d6b1e6.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202306/21/WS64929b37a310bf8a75d6b1e6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T00:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla.md",
+      "title": "Software, Chips, Robots: Elon Musk Touts 'Super Exciting Work Happening At Tesla'",
+      "excerpt": "What Happened: “Super exciting work happening at Tesla in AI software, chip design & robots!” Musk said on Tuesday. The CEO was responding to a tweet by Tim Zaman who leads AI Infrastructure at Tesla and Twitter. Zaman called for people to either drop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla_Gigafactory._Photo_by_JHVEPhoto_on_Shutterstock_2.jpeg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32940159",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940159",
+      "publishedDateTime": "2023-06-20T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-baidu-expands-fully-driverless-ride-hailing-service-to-shenzhen-after-beijing-and-wuhan.md",
       "title": "Baidu Expands Fully Driverless Ride-Hailing Service to Shenzhen, after Beijing and Wuhan",
       "excerpt": "Baidu Apollo Go autonomous vehicles will be granted permission to operate within a sizable 188 sq. km expanse in Shenzhen",
@@ -1277,102 +1355,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-robotaxis-take-over-the-wheel.md",
-      "title": "Robotaxis take over the wheel",
-      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last September when a Chevy Bolt named Peaches picked me up outside a San Francisco bar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "originalUrl": "https://www.lewistownsentinel.com/life/lifestyles/2023/06/robotaxis-take-over-the-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://d14e0irai0gcaa.cloudfront.net/www.lewistownsentinel.com/images/2017/01/31093349/fb1.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LewistownSentinel.com",
-        "domain": "lewistownsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-artificial-intelligence-got-you-freaked-out-watch-these-movies-to-feel-better-or-totally-validated.md",
-      "title": "Artificial intelligence got you freaked out? Watch these movies to feel better (or totally validated)",
-      "excerpt": "Naturally, this happened after said robots revolted against humans ... to kick off war with the Soviet Union. A doll with artificial intelligence leans into the very human emotions of jealousy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/190730113259-disney-pixar-wall-e.jpg?q=x_0,y_95,h_809,w_1439,c_crop/w_800",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "publishedDateTime": "2023-06-14T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

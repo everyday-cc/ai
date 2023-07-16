@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "Asia Falling Behind The Ai Regulation Race"
-    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
-    publishedDateTime: 2023-07-14T11:00:00Z
-    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
-        width: 363
-        height: 250
-        isCached: true
   - title: "The Enormous Dangers of Military Artificial Intelligence Reveal the Need for International Regulation"
     excerpt: "Artificial intelligence (AI) is bound to be a major technological force that will reshape the 21st century. But its reverberating effects will not be confined"
     publishedDateTime: 2023-07-16T05:40:00Z

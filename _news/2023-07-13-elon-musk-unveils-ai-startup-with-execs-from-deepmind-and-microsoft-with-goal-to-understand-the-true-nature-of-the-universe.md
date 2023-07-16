@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Elon Musk Announces Artificial Intelligence Company xAI"
-    excerpt: "There's no word on what the company will actually do, beyond its goal to \"understand the true nature of the universe.\""
-    publishedDateTime: 2023-07-12T21:29:00Z
-    webUrl: "https://www.cnet.com/tech/elon-musk-announces-artificial-intelligence-company-xai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 84
-    images:
-      - url: "https://www.cnet.com/a/img/resize/a0d2e51b4e919ee49297946dc9fda07dac69b681/hub/2023/07/12/51a17895-547c-46ec-b4a7-39e3c78bd937/elon-musk-gettyimages-1258889149.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk launches new AI company to 'understand the true nature of the universe'"
     excerpt: "In April, Musk also shared his intention to create a new AI model called TruthGPT. In an interview with Tucker Carlson, Musk described the new model as a \"maximum truth-seeking AI that tries to understand the nature of the universe,\" wording that mirrored the press release's description of xAI."
     publishedDateTime: 2023-07-12T20:29:00Z
@@ -70,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk launches new AI startup, says will work closely with Tesla"
-    excerpt: "Elon Musk announced the launch of a new artificial intelligence startup, xAI, with the goal of “understanding the universe.”"
-    publishedDateTime: 2023-07-12T17:49:00Z
-    webUrl: "https://electrek.co/2023/07/12/elon-musk-launches-xai-startup-work-closely-with-tesla/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
   - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
     excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
     publishedDateTime: 2023-07-13T18:09:00Z
@@ -152,36 +129,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Elon Musk unveils his new artificial intelligence startup"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
-    publishedDateTime: 2023-07-12T21:51:00Z
-    webUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/07/12/breaking-news/elon-musk-unveils-his-new-artificial-intelligence-startup/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 57
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/07/web1_13991615-ad7d8018b7b1405faeaeb2abf4bb08aa.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "Elon Musk launches xAI, his new artificial intelligence startup"
-    excerpt: "ELON MUSK IS finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched yesterday and its goal “is to understand the true nature of the universe”."
-    publishedDateTime: 2023-07-13T05:53:00Z
-    webUrl: "https://www.thejournal.ie/elon-musk-xai-6117265-Jul2023/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 52
-    images:
-      - url: "https://img2.thejournal.ie/article/6117265/river/?height=400&version=6117269"
-        width: 613
-        height: 400
-        isCached: true
   - title: "Musk announces new AI company that seeks to “understand the universe”"
     excerpt: "Elon Musk formally announced the formation of xAI, a company aimed at understanding \"the true nature of the universe\" that will draw from a heavy bench of industry veterans to take on OpenAI's popular chatbot ChatGPT."
     publishedDateTime: 2023-07-12T19:20:00Z
@@ -216,15 +163,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
-    excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
-    publishedDateTime: 2023-07-12T18:37:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 11
   - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
     excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
     publishedDateTime: 2023-07-14T18:00:00Z

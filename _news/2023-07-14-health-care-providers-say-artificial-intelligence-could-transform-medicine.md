@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificia
 cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 19
-  - title: "Ex-Ford engineer grows AI startup offering telemedicine for cars"
-    excerpt: "Raise a Hood is the brainchild of former Ford engineer Michael Petersen and artificial intelligence veteran Patrick Nunally. It offers virtual visits for car repairs, much like telemedicine."
-    publishedDateTime: 2023-07-11T17:59:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2023/07/11/ford-engineer-ai-startup-raise-a-hood.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "BM5IDkhC7Ngs36kvNdPs2MeUg1OkvBWwZ1YpE8YPxnIsjykNPsqZQ7DUD7hVwqmWEWiRGSxLlmu6B8lfwnV7n+PXXh1dyv8OMKKGgskm8J3VVo8NQZ7SqHZj4fsaPDn8a3G/AsFz1Q9viWfppqBuLjlhT4SV9VZBVABP1wPdzQNlUxzX+olEXT9hWFrLhO9ID9jphDJIrBA3ENvDro//LREjHwiOj4VxPNL8nGhylUp6BPXZxaSdHrP8JshFRxMbru1YUHslncRV3BeUOIYxoLacTMO1+5w1HUNRsYmqW6p6uhfZ/WnM4WcU4K3jhp5qVyFJ1v3zy/GyMpAWU4nBPGvyjK5qOhHNLyxUo0jsk0/WxJQNy3Dwl8evrUiiQ3cyHJk7Y8H2mE/tdNprTpc35LxWSOYhLDGfPaPg5/8uXJX2TvbUgfKnAXDFvDHOz8yZva00p9kdSb46z/V9J54u2KAaqp58SF9cDFFbhqyqnWU/H+MmOuRLUWQdNIAsk3LPeePxEKxlhxw9WZkdbkjgtA==;5jm+DsP0LR29I536zH9qhQ=="
 ---

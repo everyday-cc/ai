@@ -39,15 +39,6 @@ related:
         width: 1400
         height: 889
         isCached: true
-  - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
-    excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
-    publishedDateTime: 2023-07-11T18:22:00Z
-    webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
 
 secured: "nPyohnujEKS27ZrmrAkXFv32A1XqNGRz/5dqA2nUl2iyk9RNl21o0IrWQASBjS8VPce0DayyIGWa5+QBlrWjyYCDP55pCQrta58UgLgIK324UCnKJYZb56aQwL4/rNEyjZ2yGfU8AJP68CnuiQMV6OcLPB/MOwwcPfZ66xxbKYL1Zta6pDEB0qyQWqpUnJHgRCi/SnMrceQeO4ZBKdeLgDEgn3O9Hx1d/aCF3DHeOTQT4m/cz+kNMJusr92/2+VvjdLJSW3vsZDsce5lJIRMZ42VMy+LEs7TKQL0FXJhNG6Dlqh04a6zwjN7IvsFb980sztvXrdCBpwoYRyDLgUbNLtPPCymcKJA+GWkBpy82QRA3ACi9XuMW4hX92pzIgLLsGk3D6uiltLPcrgQ9zVd/z05FiSALb/5ztmMQolXSZMgroDoJDn5kGYhVubyaGvQ0OQ8wjJCqnhbNqBMKHj4M9UEMrOz9Q/q3pyQbJviZwPfsmjXaFLFiaFQmj5cDHsOsO3wiBE8bPzI2GTuUJ7AXA==;t4ivna72hgXVW67NCF/+lQ=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
-    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
-    publishedDateTime: 2023-07-16T02:15:00Z
-    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "ukMbm828/1E2qBoKtFzJ0oGqDSOkhInIb41tWnsDzLpnIiz6wmtU95dr8NGjwGEtOIya/4tuNVY2BPBECtLnvkSzdbyhQKJPBItD1fJ1cpPAYUkMkvTet0BBsXJSoPM+Z2SifprkTxLSefio/fmXwPVCR6fFjc6YzYTZKKOpT/NrWvoqo89vqHO7AnTZO/tQ8d/GNJGmmcNWoZ0Q+ODOz0oMumOlDIWV1XS8p1Zv1qa8sKPNsCxwkQbPkvbn86KLCx4EO78yDYbHh5ADHLQkF2Z433WZmrDXhZI3hTVGAWLLVpEkpxKF6Jue1UJChv/SDb6zopIjXxfXHpzRzbLd9dOhDUhBcw4KTOfiN4uQHis=;uFOBWQwulI8GoUbnZoECOg=="
 ---

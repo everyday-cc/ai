@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/letmespeak-introdu
 webUrl: "https://markets.businessinsider.com/news/stocks/letmespeak-introduces-interactive-ai-dialogues-for-spoken-english-practice-1032448517"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: 65
+published: false
 
 provider:
   name: Business Insider
@@ -26,26 +26,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "AI plagiarism detectors falsely flag non-native English speakers"
-    excerpt: "If you use common English words, the detectors will give a low perplexity score, meaning my essay is likely to be flagged as AI-generated.'"
-    publishedDateTime: 2023-07-11T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-bias-plagiarism-non-native-english-speakers/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
-  - title: "AI Detectors Often Confuse Non-Native English Students for Bots, Study Says"
-    excerpt: "This idea is what underpins many AI detection apps used by professors and teachers to assess whether or not a student’s essay was actually written by one of their students. The same approach, however,"
-    publishedDateTime: 2023-07-11T18:58:00Z
-    webUrl: "https://www.thedailybeast.com/ai-detectors-often-confuse-non-native-english-students-for-bots-study-says"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 15
 
 secured: "CP26m0g2kwmOK3rTn84/FltmEcjIUhG6PTY86DMVMCEiGuDVl3QAGcfo8SNtKXqdyXl4D3HNuTbEztd8ByWH56tnLllpN/pIDvZDy/lJB5yBH/fUawesuWifQ4x9FESWwHxKIAzw8+ywy9ScXTZaSa9MuMV6d4q4KW1NvkZgVfRF/cEeD3oQC1b1Kk5j3Ky7IllrjqiibYgczgm43Y9lDogFN9jq2oCI9jZM/vTrAHIP/a/RRsOyy6soLBE1QR3OhwmQncIefte1QyNrEnuQ6LL3B0e1lsqG2G0b6Av8TccF86P98osO71P6BLq27z87RmTkK7o4JiYEWGo8o0Lnah+wPkeA2mcW7MvE7iv5oCA=;qxBAdd7eAoQMtLUVj7TP3g=="
 ---

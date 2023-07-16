@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
-    excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
-    publishedDateTime: 2023-07-14T13:00:00Z
-    webUrl: "https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Could movie studios use AI to replicate an actor's image and use it forever?"
     excerpt: "AI has made its way into nearly all of our favorite art forms including music, visual art, and now possibly even films. According to SAG-AFTRA, AI makes it possible for background performers' images and likenesses to be used forever."
     publishedDateTime: 2023-07-14T19:39:00Z

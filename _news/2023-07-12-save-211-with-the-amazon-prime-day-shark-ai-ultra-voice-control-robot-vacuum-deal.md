@@ -108,6 +108,6 @@ related:
       domain: popsugar.com
     quality: 4
 
-secured: "CLkSC/vb9v9vZsDsEL5DoWROpVcVIzQjSUtZP2BLe8NFiscEF272mj4mJbZ4c0f6FfuhdH1CU/dAYwxPzWp3ftz+MfrsgUSaas5xH3HIabf/LDo9z0UcE2QhIuGCQkZFZerb9sPnsWpBnWrsU7zt/8t6V0EtZ8T1tdF2ddNRkz6pVpVBc2AE9YiSS/uD0Ifq3QqLcfSrRRVnbceiUNQWxmCHomw7jybtFL5bJicxLkqzGSNMRQ2i+S1zKgsywIYBIiKo+iKv99GxR/hqwsT8wfo8Yrcuaic/umvbvPND8WToNqZyftKTC1a5NLH0sbMl0SJU2HVyUyxnf7uB74zcc/IaiOzPVssnsjJhI5WM9Mc=;W5NxHlEZhlTGQ4+iMSj++A=="
+secured: "cZI0BWamhHE8U+Yh6IVDOYddZyAonK/QvfT2rb01z7N1niOfVu+i4YvlcZMN0njqcHBWqHh+rscOXciDH7eOeVZkUlMLIVau08CeUBPKTsj/PFn4hVaZJYOXkq8VxxdUWfpwwoM4qDuWCcK6C1gn7qvQKvzouHxXNKQ2geYEEdEKDeSlQnSqXTcQrqxZ8vJpS8znNansverNipQDDZRx/lYKCX/YmmxcbDh2ge5PkMBCH1/UPEeEN/vzzr2ehX5VHtiNk+m0xH44aYM0YHnR35yDn71M2ICYaAsJ5FEOWu7vH96mp9/9E2Jmwc349L/Q4trjwkhNX1Vt8ukA1K2JG51RDszmoNccLZew0Q9bV+E=;UkH0aYufhAxW5JJZ527zPA=="
 ---
 

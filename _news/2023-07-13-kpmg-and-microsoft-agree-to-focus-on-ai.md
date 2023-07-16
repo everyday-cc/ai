@@ -129,20 +129,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Microsoft, Teradata team up to offer VantageCloud Lake on Azure for AI solutions"
-    excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
-    publishedDateTime: 2023-07-11T18:08:00Z
-    webUrl: "https://seekingalpha.com/news/3986848-microsoft-teradata-team-up-to-offer-vantagecloud-on-azure-for-ai-solutions"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 64
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490261842/image_1490261842.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
     excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."
     publishedDateTime: 2023-07-14T14:14:00Z
@@ -208,20 +194,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 40
-  - title: "Microsoft Expands Entra Into Secure Service Edge"
-    excerpt: "Among a handful of product announcements are two new offerings — Entra Internet Access and Entra Private Access — plus Azure AD has been renamed."
-    publishedDateTime: 2023-07-11T18:05:00Z
-    webUrl: "https://www.darkreading.com/dr-tech/microsoft-expands-entra-into-secure-service-edge"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltbba5d81bf783b6fc/64acd694a17466820c08d5e6/cloudiam-Phongpat_Srifa-alamy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-07-16T04:12:00Z

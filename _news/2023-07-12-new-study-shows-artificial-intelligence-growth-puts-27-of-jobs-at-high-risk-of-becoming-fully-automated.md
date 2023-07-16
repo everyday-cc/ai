@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33200651"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33200651"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     width: 834
     height: 556
     isCached: true
-
-related:
-  - title: "27% of jobs at high risk from AI revolution, says OECD"
-    excerpt: "AI (Artificial Intelligence) letters and robot miniature in this illustration taken, June 23, 2023. REUTERS/Dado Ruvic/Illustration/File Photo"
-    publishedDateTime: 2023-07-11T19:00:00Z
-    webUrl: "https://www.reuters.com/news/picture/27-of-jobs-at-high-risk-from-ai-revoluti-idUSKBN2YR0Z7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20230711&t=2&i=1638495610&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ6A0HB"
-        width: 810
-        height: 539
-        isCached: true
-  - title: "AI revolution puts skilled jobs at highest risk, OECD says"
-    excerpt: "Law, medicine and finance sectors could be among most affected, according to organisation’s employment outlook"
-    publishedDateTime: 2023-07-11T17:19:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/11/ai-revolution-puts-skilled-jobs-at-highest-risk-oecd-says?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "sM76bVpI8rSDglwg+27A3rlkufVSaLx/koOAYpYQ56/UguqqHuIvpsRkaAZlJIAFzViYPlcxHxTPW0TbkBVkYdmJuHU4o7oo5xUC+7apOmsAK8cWkVcuqxQ5VRbwbupHgVkWTGUV610A4xIssSaEO6juli4ZdJsBPuGZlLxl51QkOH3V3RksA13aMzAkChkn8TJfGqBMfDOcXNIuY9KvhJ5gJyZdlOOauDYNCY5J+9+GbuFWaX/TRLgiW5On7hrSRX7V+Q+t9DIv5Nffzz+hgodX4FYzu6T6VPPwSF+4/CtOQivzmLf4XJA4IOKw+amupcRlcOUkJYq/F2NPdE3DsJZR49g0+ZXJMRM8DzE2C4Q=;olAq0+qN2VMpgiyHtSis2A=="
 ---

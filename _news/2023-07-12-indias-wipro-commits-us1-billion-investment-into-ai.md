@@ -253,20 +253,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Sapphire Venture plans to invest over $1 billion in enterprise AI startups"
-    excerpt: "Sapphire Venture plans to invest over $1 billion in AI enterprise startups, doubling down on the technology's adoption by companies across the world, its president Jai Das said at the Reuters Momentum conference in Austin on Tuesday."
-    publishedDateTime: 2023-07-11T17:15:00Z
-    webUrl: "https://www.aol.com/news/sapphire-venture-plans-invest-over-141541787.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/cffe022dc8d35ca2bc3d7072aac20950"
-        width: 800
-        height: 543
-        isCached: true
   - title: "Indian IT services firms doubling down on generative AI applications"
     excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
     publishedDateTime: 2023-07-15T12:53:00Z

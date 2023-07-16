@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "These 10 stocks will be under-the-radar winners of the inevitable AI takeover, according to Bank of America"
+    excerpt: "Artificial intelligence has exploded in popularity this year, and Bank of America believes these 10 stocks could be unexpected winners from the trend."
+    publishedDateTime: 2023-07-16T10:00:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-stocks-to-buy-now-bank-of-america-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/64b03e8ec22d1a0019455343?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "MATRIX Releases Beta Version of ‘Genesis’ Generative AI System Capable of Creating Metaverse Worlds Through Both Spoken Words and Text"
     excerpt: "The beta version of ‘Genesis’ is a technical verification edition of the generative AI system that automatically creates photorealistic Metaverse spaces. You can experience the generation of Metaverse worlds (virtual spaces) through simple spoken language or text prompts (Speech to World)."
     publishedDateTime: 2023-07-13T18:26:00Z

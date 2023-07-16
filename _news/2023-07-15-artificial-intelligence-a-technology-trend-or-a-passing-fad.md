@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
-secured: "K/D/R6St/7xAqJGlk4j/FwPyizI4KUPXU3jKpMnHNykoRYYGVutw6ZOKplFoktjNsFgxwkvqZqcp02OPt/Hy+71G5mWPqlfb6ZAppeKTZZ6zpL0HdQwDEu2kG7axx4lBvpyOjg5zJSIQrSW6DZhR4zADSIW4JUR8HG4REMgofxsmJTgVYqhQ+Huqj11wP+ftr8eOQ3ujZ51SS5QmlobC2Z2t0nVcx9B8hE8MGrSz9V361h/mDg/iS2BZ1cfsMOwria5jHN028UA688AKHhjZPCBaUEWuM4VKF4P4GUlrqOp/4C4/yKUFJ5hNb7KkxgVfp7WeStrJkMlDYNU2ZiczwsZJsruPZwuVZdJCqXz/dLg=;XZCa5vUBgusH+ZtTnsRgbQ=="
+related:
+  - title: "The growing influence of AI on the technology sector"
+    excerpt: "In this ever-changing business landscape, AI is the brain and bawn of revolutionizing the tech industry. Artificial intelligence has enhanced efficiency, accuracy and cost-effectiveness. Everything and anything can be"
+    publishedDateTime: 2023-07-16T11:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/travel/the-growing-influence-of-ai-on-the-technology-sector-56482/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+
+secured: "FjzDo/3KxAO3OCrCzYE5wgqtJauH+Ajfvol50NIPmIdyavz8V4qVYSBaQA6GsgXA1R0ts0+oo5BrLGqFisXoisK0FzjBuJyZKUOACM6Y1z3O73glcXgS2j54bmYHRL/4LX7AszHxjTfIMmOaJAllIiEePbUDC7WB9jX8yEprBsC7zsSXBQZ8/3fpNtjscoe+hepVVobS+EeoATogeqUft7tFi/EzPGySed7BxTirGdVVHGRSMFszCjmkclz8VED/CTP3Od8kqD1MDfwGVnj0S9zFsgte6ZeWF/IYGYlGnY9HEBpGl0UO2F6du7WdTT96Hw8/JiQJnvewTMNR3AzIS50GlGRv8YADqYgVUbc/HnCzRCQHiJUzWJ3R4EtNknNSIBjV1Ir2Irfe/0oA5WHc9uQwJ6DsqvjrScA4T5sqXn65mvLQ32g7xPFU62cZqZ6ZdUVcku9mdhgw8oAYdXq9mYp/3Rxm5Cqo2bDinxirTlJeqNV5d11TblpM+Trje2raa3ODEcWZcudye47w40S6oA==;/U7xI08GyC6mKItGb85cwg=="
 ---
 

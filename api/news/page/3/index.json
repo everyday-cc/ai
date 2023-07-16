@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-13-stability-ai-releases-stable-doodle-a-sketch-to-image-tool.md",
-      "title": "Stability AI releases Stable Doodle, a sketch-to-image tool",
-      "excerpt": "Stability has released a new tool through Clipdrop, the AI art platform it acquired recently, that turns sketches into artwork.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
-      "originalUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/imgonline-com-ua-twotoone-VgOccXiK2k1l.jpg?resize=1200,600",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/",
-      "publishedDateTime": "2023-07-13T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-google-bard-is-stepping-up-its-ai-game-with-these-new-features.md",
       "title": "Google Bard is stepping up its AI game with these new features",
       "excerpt": "Google has been adding new features to Bard since its underwhelming launch in order to improve user experience. In its latest update, Google largely expanded Bard's language and country availability and also added many new features.",
@@ -247,6 +196,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-elon-musk-launches-ai-startup-as-he-warns-of-a-terminator-future.md",
+      "title": "Elon Musk launches AI startup as he warns of a ‘terminator future’",
+      "excerpt": "Tesla boss says xAI will be ‘pro-humanity’ and admits development of large systems cannot be paused",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future",
+      "publishedDateTime": "2023-07-13T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -728,7 +728,7 @@
       "originalUrl": "https://www.techrepublic.com/article/au-report-customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1023,48 +1023,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-elon-musk-introduces-xai-a-new-artificial-intelligence-company.md",
-      "title": "Elon Musk introduces xAI, a new artificial intelligence company",
-      "excerpt": "Elon Musk's artificial intelligence company, xAI, received its official introduction on Wednesday, with the billionaire saying it aimed to 'understand reality.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company",
-      "originalUrl": "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8785c0c6-4a74-4cd4-b103-fa0a946381cf/82df48b7-1fbc-4426-a89c-205a97e7dfae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-introduces-xai-artificial-intelligence-company.amp",
-      "publishedDateTime": "2023-07-12T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-amds-ai-chips-could-be-a-multibillion-dollar-opportunity-analyst-says.md",
       "title": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says",
       "excerpt": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says. Cowen says investors should overlook any short-term softness in Advanced Micro Devices’s business and",
@@ -1208,6 +1166,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx.md",
+      "title": "How eBay is using generative AI, computer vision to enhance CX",
+      "excerpt": "By using generative AI throughout its platform, eBay aims to streamline the purchasing process for both buyers and sellers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/",
+      "originalUrl": "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

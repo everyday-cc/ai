@@ -58,15 +58,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 19
-  - title: "Ex-Ford engineer grows AI startup offering telemedicine for cars"
-    excerpt: "Raise a Hood is the brainchild of former Ford engineer Michael Petersen and artificial intelligence veteran Patrick Nunally. It offers virtual visits for car repairs, much like telemedicine."
-    publishedDateTime: 2023-07-11T17:59:00Z
-    webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2023/07/11/ford-engineer-ai-startup-raise-a-hood.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "t4AS9d8ClzrPwZS/rW08MbQBCYCABqaFNedyY3r6nQAWfLs5MaYqOjT6VQAuFyVBb5YUN9+11tUOlR8f4IrJ7PSd2gTyw6vRfci9FXt5BQcBf3h+453zRHHRyQAisg/dtTyr3BNWZn1WQFBNpbFVQO5zrcOIi9zeDa7D8Otpqdx82BZlf041d0crsF5GxNSzvn5lLl4wlaGQwaE8x7Ma+MAOTnpCRnyhQ5RsBVHqnKSl5kUhsjZxDWPbHmGi6MV/9amqTgwl8SsCDnr3GCqIwAuyb3EdY42kYIn5DK/TMwUt9gelQ7G8yqbNn16v4c6DQ6xH1ICgjTCNleXAp0zbgh6MJsIHVpVVWyH5NieqY6c=;eufR+StI/RuliXH7Uv5FvA=="
 ---

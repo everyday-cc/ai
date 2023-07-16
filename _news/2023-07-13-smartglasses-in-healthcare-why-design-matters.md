@@ -124,17 +124,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "Meet The AI Specialist Employing Data-driven Strategies To Revolutionize Healthcare"
-    excerpt: "The utilization of data analytics stands to revolutionize the delivery of healthcare services by enhancing drug discovery, bolstering patient adherence, reducing physician burnout and patient out of pocket expenses,"
-    publishedDateTime: 2023-07-12T07:21:00Z
-    webUrl: "https://www.freepressjournal.in/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
-    ampWebUrl: "https://www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 48
   - title: "Artificial Intelligence In Healthcare: A Potentially Strong Opportunity For BioSig Technologies (NASDAQ: BSGM)?"
     excerpt: "BioSig Technologies, Inc. (NASDAQ: BSGM) announced a new collaboration agreement in June with Reified Labs, a technical advisory service specializing in advanced artificial intelligence (AI)."
     publishedDateTime: 2023-07-12T12:12:00Z

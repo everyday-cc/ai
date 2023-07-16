@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI scam calls imitating familiar voices are a growing problem—here's how they work"
-    excerpt: "Scam calls using AI to mimic voices of people you might know are being used to exploit unsuspecting members of the public. These calls use what's known as generative AI, which refers to systems capable of creating text,"
-    publishedDateTime: 2023-07-13T19:30:00Z
-    webUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-scam-calls-imitatin.jpg"
-        width: 1356
-        height: 668
-        isCached: true
 
 secured: "aSp94w4SuTbEsn25cIJEGiMkJK+csOnyRgiFOStPEre2Aq/hadLI4VIstzBhkPQ03Lgw5Cu1bztLeXpKz3rsN24FrfNrYcM5YcG6IZ3gdawWAOUzREnhJ7am79CABlZEH8Ik0s9in/lO7yKFUv5F6H1Y8uPU3UBFuwQAkLD+D1UgZD9qB39Ey+ZZeg4oUaMRZ74JbYvatjo5uEiFHiOeIRiHK+PZmERP7VmYG3GGyN6kNsIKQxz3zzQ+xdzYRoEzhotcyLn03QKC+Zhat05uIgqIFnUMEVqqmBBNut6qO0L3EEHMylXXpt6nkLhmfU1F2S7hgZ3UGmxbFS03kITCXwkxlGywZLGaQUs4D4AhV49QXpBc/71HuvIoRckF9gsZm4hbTpli8SQLHOylTFWrxB2pCDlywbUNmYoyXKAETOjDZ8KQIZ6ifQ2+a/hpEaYMwDnXBELJnUj72g1zg+3jcqt/sXv5bpc3OC+QTEGW6EBRVWBxceWQJBHkFg02aTa2TZBAuPQlpsZChfNQAczexg==;cke+lBtex06u9Y/y3P22pw=="
 ---

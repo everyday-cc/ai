@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
 type: article
 quality: 51
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "AWS, NVIDIA and Vestbee team up to empower Fintech Startups with AWS Global Fintech Accelerator"
-    excerpt: "AWS has launched its brand new program AWS Global Fintech Accelerator in collaboration with NVIDIA and Vestbee that will equip fintech startups with tools, resources and a wide network of top experts,"
-    publishedDateTime: 2023-07-11T17:49:00Z
-    webUrl: "https://www.novinite.com/articles/220809/AWS%2C+NVIDIA+and+Vestbee+team+up+to+empower+Fintech+Startups+with+AWS+Global+Fintech+Accelerator"
-    type: article
-    provider:
-      name: Novinite
-      domain: novinite.com
-    quality: 9
   - title: "New accelerator programme for fintech startups in India launched"
     excerpt: "FINity accelerator is a 45-day programme that brings together and supports the growth of early-stage fintech startups by providing access to mentorship from leading industry experts, curated resources,"
     publishedDateTime: 2023-07-12T10:30:00Z

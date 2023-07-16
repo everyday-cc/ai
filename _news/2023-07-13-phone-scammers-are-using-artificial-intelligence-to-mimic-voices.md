@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: CBS News
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI scam calls imitating familiar voices are a growing problem—here's how they work"
-    excerpt: "Scam calls using AI to mimic voices of people you might know are being used to exploit unsuspecting members of the public. These calls use what's known as generative AI, which refers to systems capable of creating text,"
-    publishedDateTime: 2023-07-13T19:30:00Z
-    webUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-scam-calls-imitatin.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Gaming CEO Shares Nightmare Scenario Of Using AI To Spy On Devs"
     excerpt: "The AI chatbot would then apparently scan the information for warning signs that could be used to help identify “potential problematic players on the team.” Nichiporchik took issue with how the presentation was framed by WhyNowGaming,"
     publishedDateTime: 2023-07-14T15:35:00Z

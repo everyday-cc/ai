@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
-excerpt: "Alteryx Analytics Automation powered by AWS allows CFOs to modernize financial processes with new technologies and automated self-service"
-publishedDateTime: 2023-07-10T20:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
-webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+excerpt: "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ..."
+publishedDateTime: 2023-07-10T21:42:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
   - AI in Finance
 
-secured: "+QZbbsMyTOlIZsVrA2Xh4WlMT0+isz1m1+y6mvI1t7Qr+JUxYbhUIcqE6GNX3aXhV9J5fTm7FOZydBgjEYKUeFASjhbu7sEaHiRJG8OkOTMncuANRHP6i2xucPyTJ9kjMnEOcupfESfq3/s2Iy9Gr9f5BwceHhDy6nIqt0VZ/al6H/oxzqyduusDr+23LX/NUBwvvD2DUa1oR+Tfjsd6elu2eZEGiQWKm1wo+r3Jkrgr/BCRYB67QDAHXLeaQ0Moztz+r+7bCQ9IxKu6dWjvpxlPi2xfDOi/YSyXgngHIKcU4+5Nw303K26sbaq54f8gjIPlPCZ+55dJseHDtqbY7Bp5g4+hsPBlxqZB96szr40=;KvahkPbK0OKOnpOU87SCgQ=="
+secured: "vEAhzZgJsxKK7q+xYd1Do/5OHs3oBD2mp1zxE0fFAuGHW5a5elveIJ89tBoXJn2+4FGkx79v4BCb6lJuPT/wBK8edQI5Pk28mtVdrjqYLIywsTTe0Do+xZvVLmZI9MBmxQt5FqOYCf2P+OvLSpWQ6c8PocPSCkc/2fXymlj0VLrZ8iG3MlaDiL0jSS82kOqihq+RL40EBGNEp2eYGGGifOQSCDRFqo6cwWE+6he9DGGnsKoiAglxrk0WgoFHR7/Q7dcUiOj0X2C7t5udQPDcYYZAFSuJHcHYsgqtTrft/H2RO6Io+wg7cE8n3XYzA0LL0PxwyGHrsocEtk4VAcsvpgc1CfYB9r6W2s/fdYfbHPg=;YXBNac+F2bn23eydcVYl4A=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launche
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk launches a new AI startup ‘xAI’"
+    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
+    publishedDateTime: 2023-07-12T19:13:00Z
+    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 17
   - title: "Elon Musk launches AI startup and warns of a ‘terminator future’"
     excerpt: "Tesla boss claims xAI will be ‘pro-humanity’ and says development of large systems unlikely to be paused"
     publishedDateTime: 2023-07-13T11:45:00Z
