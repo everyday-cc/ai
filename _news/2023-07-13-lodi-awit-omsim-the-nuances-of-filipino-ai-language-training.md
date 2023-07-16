@@ -24,6 +24,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "How this Maranao became the first Filipino with a master’s degree in artificial intelligence"
+    excerpt: "I’d like to inspire people to explore AI as a field, and by people, I mean to be specific, Filipinos,’ says Juwayni Lucman"
+    publishedDateTime: 2023-07-16T01:38:00Z
+    webUrl: "https://www.rappler.com/nation/overseas-filipinos/things-to-know-maranao-artificial-intelligence-degree-graduate/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 28
+    images:
+      - url: "https://www.rappler.com/tachyon/2023/07/Lucman-receiving-his-masters-degree-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+
 secured: "WHaVujtsInQ6/yroOFEXnojYY0sQkS4SYtzPvCD2VZHn83OdkPF3wV7tLbMdJmZZ329J4ARqr9TWMh6Rg6uOMjfR13jKXSDOXRYAokaSwVdDL8nPFAZ/om+CdpcFB1EKfLCJChF/YL+pYupiMMUWsjh6HKGV0khkFAlIm/g3BkLPcFQZLUOhkUMCIjToaqwLaFll3gOutCJvD/zol/FkM1ns1T1znQyVMDCRjY3EizBQdkjN/ZHphIxRpAY0hnCmCOPnBDGamfBNdQTjEt6JhrPnKhIDk72xFbBoEPixrUUGHwEMHSDM0W4O0KRlRT5Rj9lOCzV+6BL2llrU7ie7y0VR70K+rhfEL8vPr5aVCSI=;Y9mcAhIOLs6JpPtnIHi4lg=="
 ---
 

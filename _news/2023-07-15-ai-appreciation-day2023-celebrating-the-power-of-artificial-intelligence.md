@@ -20,19 +20,19 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Artificial Intelligence: Unleashing the power of innovation"
-    excerpt: "The way we live, work and communicate has changed dramatically as a result of the remarkable technological developments that have taken place in recent decades. Artificial intelligence (AI) is"
-    publishedDateTime: 2023-07-11T07:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/mywriteexpress/artificial-intelligence-unleashing-the-power-of-innovation-56241/"
+  - title: "How AI is shaping our world: Reflections on World AI Appreciation Day 2023"
+    excerpt: "World AI Appreciation Day highlights AI's transformative impact on cybersecurity and data management since the 1950s."
+    publishedDateTime: 2023-07-14T17:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/world-ai-day-2023-how-ai-is-reshaping-our-world/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 37
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/14072023_WorldAIAppreciationDay2023.png"
+        width: 1189
+        height: 669
         isCached: true
 
 secured: "oZGmtivn2tRdV4JTnFkj6qIphUUhqzsDLk4c1NdupPhgI9U54x0SL/xUJnHcftiuReZ/DG3M79gLHLvn7ykXOx4YF8OSeA6fSEF1cbuB4zBvTuetr9GdWRGuqACsdnxbO8GH1IgN5Tcx3SsVD80WrNg68C79kev7hd9EUpHfvRkVwzXJ8evkZQX8xFkkn4zzEYfb53kXmUzhELr004X9ND9gltY4u2CJPNduq1Yi7bbDjxXnQTxAhAKLqGc5spSAP2ZmMhRjQBV7nZ5liHxeJ2/Kd/LIQ3AhtJgfoDQgTCT/Ezbkq8eJ/cRbzJBh0lEzaX80GQLst8U3hI2WTdiU/LusCUOqxgccL6T9DThxPEU=;0b11R6JpEQXaLOoi2B7S6A=="

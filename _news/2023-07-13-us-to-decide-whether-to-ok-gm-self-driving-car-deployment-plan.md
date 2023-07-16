@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
-excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
-publishedDateTime: 2023-07-14T22:42:00Z
-originalUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
-webUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
+title: "US to decide whether to OK GM self-driving car deployment plan"
+excerpt: "A top U.S. auto safety official said Wednesday regulators will soon decide on a petition filed by General Motors and its self-driving technology unit that seeks permission to deploy up to 2,500 self-driving vehicles annually without human controls."
+publishedDateTime: 2023-07-12T17:15:00Z
+originalUrl: "https://www.reuters.com/article/gm-autonomous/rpt-us-to-decide-whether-to-ok-gm-self-driving-car-deployment-plan-idUSL1N38Y2S5"
+webUrl: "https://www.reuters.com/article/gm-autonomous/rpt-us-to-decide-whether-to-ok-gm-self-driving-car-deployment-plan-idUSL1N38Y2S5"
 type: article
-quality: 18
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: https//carbuzz
-  domain: carbuzz.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://cdn.carbuzz.com/gallery-images/1600/1158000/0/1158031.jpg"
-    width: 1600
-    height: 1066
+  - url: "https://www.reuters.com/resizer/CSk-B5BsP_UItuGT0pe36Z74e9k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XZE6ARD7DNKZDDMDDJ7F42AC44.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -41,20 +45,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "US to decide whether to OK GM self-driving car deployment plan"
-    excerpt: "A top U.S. auto safety official said Wednesday regulators will soon decide on a petition filed by General Motors and its self-driving technology unit that seeks permission to deploy up to 2,500 self-driving vehicles annually without human controls."
-    publishedDateTime: 2023-07-12T17:15:00Z
-    webUrl: "https://www.reuters.com/article/gm-autonomous/rpt-us-to-decide-whether-to-ok-gm-self-driving-car-deployment-plan-idUSL1N38Y2S5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/CSk-B5BsP_UItuGT0pe36Z74e9k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XZE6ARD7DNKZDDMDDJ7F42AC44.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Simulator startup aims to make self-driving cars safe"
     excerpt: "Morai has worked with leading AV developers both at home and abroad, including AWS, Nvidia, SoftBank and Ansys, as well as Hyundai Motor, Samsung Electronics, Naver Cloud and Hanwha Aerospace."
     publishedDateTime: 2023-07-15T21:00:00Z
@@ -69,6 +59,20 @@ related:
         width: 560
         height: 425
         isCached: true
+  - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
+    publishedDateTime: 2023-07-14T22:42:00Z
+    webUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 18
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1158000/0/1158031.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Annoyed Residents Disabling Self-Driving Cars by Placing Traffic Cones on Their Hoods"
     excerpt: "By placing traffic cones on self-driving cars' hoods, activists are turning them into useless hunks of metal and plastic."
     publishedDateTime: 2023-07-11T19:44:00Z
@@ -79,6 +83,6 @@ related:
       domain: futurism.com
     quality: 0
 
-secured: "QEGNwLr5ys3wMTyKazhoniNF+snsN0wrebVi/z4IqIWhuGfTi3kNMR/YSevti2hvKPRbf6QduyXXqNI6IoPwA3ghgvtLaVF9ca4+JC+oP/Fh4gvi+LPEjsuA4aiT717jz5px0AVFcphxTJqhGZPQP/q8JgQWvSttaOCgsAmH72UAkQA+tSRc9c1Y6S3SVSmahfprYZFuZcIAIoknxPMR+dvWzWDVd3ZNgGxqZbsQTdWsMwHfX6aeE+GVujXFMcAq7NQqqCPP8LpLLs7GYdgQyjslLVAIUKzko0Wa73awBkEpP9kesJGOizGpcW0VQPAdQraRrZHwjTvey0lRRBqptDLXPh39ELhmFddP0GMJy55ZdzEaJc4eX7CUqHjiQl7+j4pX2XpcwuspKGToIf9JqHXEKfptWd8L8EOZ3SZfsDWbzvUqsU38jZLuImTL1vAXuGDDNSOx7HxSg1bcitp6qhNC/vd2vY4/jyKW5ZYLPSf7G9Nyxn/CHsgSRU73g74FD/QEMGsRvcpG8bLfECor2A==;yGqZrIZUJkuWFxpyQVazlA=="
+secured: "9/4bUh8R65/68HdBWkQvDAEPSh8wC7hMzS8pOxnpSCUA/2573Rgg4BJ3QGBOSeebdQWYWdD4Gls1VHBHkzcRLJL6/Bgs1O5Gax/P49AWDtVb+OdGxhhP1/4efMc2LRObMltBhMBcYLQ4NM45s7f+GhZzZI3Rwt1I6O1DsQOJAqWIwQFOb4my/kX6IOtGjQDX3O/oYxwEhaDybtcah3xoWYo9+b11ff0E5caMMHf4bWp+/eAW1aZsQMZPvdYKBOfeCTCMz378Cgx47KVjIClZ4jWS3/oPS4ecfFzT6jrT6JpyAppqOANP2/jUpOyIJ70gSCrlyMkDmuLxcsB+sRlxowUsFwEU7K4jp9KhgsbbllY=;BWiXBva2jznCJRYWF4KmqA=="
 ---
 

@@ -17,12 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.rfi.fr/media/display/3ea8b5cc-1bae-11ee-b855-005056a90321/w:1280/p:16x9/90f81fa89c63d18158509247c2231fa2329ddf66.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "4vdRPVpcf1r8EyDewBoQI9wLSDsVm+fFK9LgccqDYwIdszAO6lVA5U87UQvPd2qw9IEVv9gGn3+g9eqxC+Zma7MpOpNm7h8DHVXzw5F17/kbtkfZm181PDFBw2rhg5UTbmLu4S10nJSfUTHbKPj2bHcyOOR+ewS9o+/jC98qgcmMWPjsmIjb5ezoy06EpLHcOQTSAPWNsMRwz6ZoMvRe5jbmHjWSG7nuxk6kmOkPin1SWMSlv2d7e3NsldlG+HuT5RtJhi+uaPTClRLvNNUOz1mCMG0X0876uTapbHBf3y0i7wbD5ghUzeEaBJkGG49X3LL7s7T3Aouu6BICphG0zy7X1elP0WunXJF9hx7/51I=;0l7fWO9ecNxUTEOX3iuV/A=="
+secured: "y7I2q6G16eGtMqeRo4ztQLoAIJNGPHjrwBu/DWjMB72spfz7VQja8tqlmcNhTvaYysEX4oVoIdBOb7M0/dr+SyataIowyMI3MI8sT6lbIJZ1sKxmbsIHYP1iOv69krxl3loK5CidGeXpzW1GiJTe3M0qLFKHk3KrQuJ76z9NlXw8QT17omDJBr0D1Z55xSxPxGOQQcZanf0F5u+kmXw49dNq/eqJfbpYBh3dW0c1+80LJrNzQ0Z4pFNHKdUQBY/HIU5c0fiymYhxSylW7BrmKPsuGmIwBMgRHTA4x7c3tLRB0odjVAj1Qdgc1Ckgda+gI2McGCkI4udA/aZuvhvYwppujQvhpmQrlmK0nSXamHM=;lVoOGrkbZ9aMZyMboPtfZw=="
 ---
 

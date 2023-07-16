@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/au-report-customer-experience
 webUrl: "https://www.techrepublic.com/article/au-report-customer-experience/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australian corporates join AI chips race"
-    excerpt: "Corporate Australia has joined the global race to get its hands on advanced computer chips, a leading indicator of artificial intelligence and machine learning development, a top internet ser­vices company says."
-    publishedDateTime: 2023-07-11T08:41:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5"
-    ampWebUrl: "https://www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/australian-corporates-join-ai-chips-race/news-story/620a1ae06193ecadf8e9f349545d5df5?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 54
   - title: "AI Is Not the Solution to the Customer Experience in Australia … Yet"
     excerpt: "For all the interest in leveraging AI to enhance the customer experience, in Australia customers continue to prefer human-led interactions."
     publishedDateTime: 2023-07-11T18:22:00Z

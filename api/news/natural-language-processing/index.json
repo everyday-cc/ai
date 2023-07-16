@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-the-terrible-downside-of-ai-language-translation.md",
+      "title": "The Terrible Downside of AI Language Translation",
+      "excerpt": "To me, AI’s scariest aspect is the so-called Singularity—the threat of a runaway intelligence explosion leaving humanity in the dust. But today’s state of the art in artificial intelligence is already auguring in smaller but still shattering scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/",
+      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/j7xWIjU2vpPvmgjtQF496l0oHro=/0x43:2000x1085/1200x625/media/img/mt/2023/07/languages_illo_horiz/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
       "title": "Top 6 AI Trends 2023",
       "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
@@ -1417,40 +1469,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-language-cognition-and-computational-models.md",
-      "title": "Language, Cognition, and Computational Models",
-      "excerpt": "Featuring contributions from a diverse group of experts, this interdisciplinary book bridges the gap between natural language processing and cognitive sciences. It is divided into three sections, focusing respectively on models of neural and cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/language-cognition-and-computational-models?format=HB",
-      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/language-cognition-and-computational-models?format=HB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -24,17 +24,6 @@ images:
     height: 614
     isCached: true
 
-related:
-  - title: "OECD says rich economies on cusp of AI ‘revolution’"
-    excerpt: "Paris-based multilateral organisation calls on membership to prepare for negative side-effects from mass adoption of technology"
-    publishedDateTime: 2023-07-11T09:00:00Z
-    webUrl: "https://www.ft.com/content/64c33d29-7c76-40bf-8a88-c4b3afea26de"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-
 secured: "/WtsY8tWBwWdNlqtlX/4d0v7pWyXmuabzydLNI3/AbQ5EhMnDtnxIpb0O67Fg5Epai5V+epB1SdPT0w4JyABxqjTeuadcZA3EdkS5f3m0oGkx4zNgHj1MrAWy95nykI0e1+a7L0pOpQ4IIGMRfVq5WG5JW5NtJMt7LjVQ5BFav9TLONmnq2wvyERXCrCb9Idofjafo7XMusMSjj4t6Cx+Cj7i6zVI8POs7Df8V0lccjosBOxk0bygNAVyHt69aIyuPDQmOuV+mZ4gL/lB4tzsGWn6Xr9XRNVz2SyoLPhLUOTvVwH+3ekQ++fKDw+j/NKAnCsgSQkagoZNVVBTCQDuumOvYuzQdeskeDnV/+eZ5MMdPd0akWOf6H3KabeOi84OfqrIxHhGYo0BVYoj+RNtcImgjCB0nZIJiG3hV8saXg0VPbQsc/BGSm+2rqTj3l6KaT/5E4Pu5KX0SIlr4ee8QJoFWzG/YH2VnVszR8Jbi85/yS4zrz5YWwlU3EqRiQ55p3fcp2OsjIwnWrJRAgCPw==;nTSJvTQowtiLTRAOFkKh2Q=="
 ---
 

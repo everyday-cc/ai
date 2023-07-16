@@ -62,7 +62,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -907,16 +907,7 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.rfi.fr/media/display/3ea8b5cc-1bae-11ee-b855-005056a90321/w:1280/p:16x9/90f81fa89c63d18158509247c2231fa2329ddf66.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year",

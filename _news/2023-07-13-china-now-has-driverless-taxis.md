@@ -34,20 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
-  - title: "Beijing Now has Driverless Taxis in Operation"
-    excerpt: "Since Friday, July 7, driverless taxis have been operating in Beijing. According to a press release from the head office of the Beijing High-Level Autonomous Driving Demonstration Area, the self-driving taxis are currently operating commercially as part of a testing phase,"
-    publishedDateTime: 2023-07-11T08:52:00Z
-    webUrl: "https://www.thatsmags.com/china/post/36186/beijing-now-has-driverless-taxis-in-operation"
-    type: article
-    provider:
-      name: thatsmags.com
-      domain: thatsmags.com
-    quality: 39
-    images:
-      - url: "https://www.thatsmags.com/image/view/202307/52541689064370__pic.jpg"
-        width: 704
-        height: 460
-        isCached: true
   - title: "Beijing Allows Driverless Taxis For Commercial Service"
     excerpt: "The autonomous vehicles will serve the fare-paying public in a 193-square mile area following a series of trials and tests."
     publishedDateTime: 2023-07-13T17:23:00Z

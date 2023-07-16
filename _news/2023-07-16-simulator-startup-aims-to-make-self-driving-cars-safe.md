@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "US to decide whether to OK GM self-driving car deployment plan"
+    excerpt: "A top U.S. auto safety official said Wednesday regulators will soon decide on a petition filed by General Motors and its self-driving technology unit that seeks permission to deploy up to 2,500 self-driving vehicles annually without human controls."
+    publishedDateTime: 2023-07-12T17:15:00Z
+    webUrl: "https://www.reuters.com/article/gm-autonomous/rpt-us-to-decide-whether-to-ok-gm-self-driving-car-deployment-plan-idUSL1N38Y2S5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/CSk-B5BsP_UItuGT0pe36Z74e9k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XZE6ARD7DNKZDDMDDJ7F42AC44.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
     publishedDateTime: 2023-07-14T22:42:00Z

@@ -142,6 +142,6 @@ related:
       domain: popsugar.com
     quality: 4
 
-secured: "OyBmDlXQgtpy9VG/5hfnMAjQdHHseaaQ1azQCD0w8CffZArYe23xOrZSdihcugWN+8yYi84OMDDnKYufXfr6JHSShL8b70CzCXfebY+nwjdWsQuBF7VSWgnb+SBdEudnMw6l5o9sTNOVld9J+yGzOcoikjfD96lv+c4WSFfXiMm/iO7rpiqIRwts9WiLaj8W+p9Fs0YpMEd90MmYfLF6Wm0vkAd2f45WA0T1dsO+yO5FUBK69oOi8lHtsBEd0XGJRzcm5Keiv2npGBFK3py/MPE/rIjzbvSravda/IErxME3w5u/ahexJ1GCHDS1uvfyfXy4a8S+RVGx64szqqqZzhnBKgtpC9a4rRfOyeE2yW0=;TrmX9fgYGvoJ8W8fhNyzgQ=="
+secured: "0d1KgD/f+0d++BYg46vJ/Il3g2JpjAtj5zChveEXTNqvx13e/85dc2KU4570gUowfFqzCbQe69cF4u/sVYcWW9gxYuO7oVON8LLhKl/3s5PNTvdebdQgQ493ugnwCP4a75Q2IoIyMvPakD1mGG34sx3JM8z8AinO5kTdNrroGj3IaKcM+pqIxiGoWd+NzqjETFg3fCcqmFOEHv0nS+9ttejbdTHLM8VMmb//1CUVPEgk2tKMbIk8tQnEtaoAIbSpshVXyQJgKho5Y79z19h8+B2g4YiffnMhUre9lqJFWTTAKsK6INpBUSIB0qxpzlSXDql7Lvcxc9XPSTa/FO8pzenbZBEMC0NmGCFZFeey7ZI=;B6odEafGxCBzPP9AyNm2PQ=="
 ---
 

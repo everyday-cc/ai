@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Service Robotics - France"
-    excerpt: "Value in the AI Service Robotics market is projected to reach US$171.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.38%, resulting in a market volume of US$413 ..."
-    publishedDateTime: 2023-07-11T07:38:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/france"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 69
-    images:
-      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Service Robotics - India"
     excerpt: "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ..."
     publishedDateTime: 2023-07-12T09:30:00Z
@@ -53,15 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Industrial Robotics - France"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$238.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.67%, resulting in a market volume of US$ ..."
-    publishedDateTime: 2023-07-11T07:38:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/france"
+  - title: "This Indian startup adopted AI for customer service and cost cuts — But, not without layoffs"
+    excerpt: "Clarifying that there have been no fresh layoffs at the startup, Dukaan co-founder Suumit Shah told CNBC-TV18 that the job cuts mentioned on the Twitter thread refer to the downsising undertaken last September,"
+    publishedDateTime: 2023-07-11T10:32:00Z
+    webUrl: "https://www.cnbctv18.com/startup/dukaan-suumit-shah-lightspeed-matrix-artificial-intelligence-ai-revolution-chatbot-layoff-17185731.htm"
     type: article
     provider:
-      name: Statista
-      domain: statista.com
-    quality: 49
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 6
 
 secured: "ukMbm828/1E2qBoKtFzJ0oGqDSOkhInIb41tWnsDzLpnIiz6wmtU95dr8NGjwGEtOIya/4tuNVY2BPBECtLnvkSzdbyhQKJPBItD1fJ1cpPAYUkMkvTet0BBsXJSoPM+Z2SifprkTxLSefio/fmXwPVCR6fFjc6YzYTZKKOpT/NrWvoqo89vqHO7AnTZO/tQ8d/GNJGmmcNWoZ0Q+ODOz0oMumOlDIWV1XS8p1Zv1qa8sKPNsCxwkQbPkvbn86KLCx4EO78yDYbHh5ADHLQkF2Z433WZmrDXhZI3hTVGAWLLVpEkpxKF6Jue1UJChv/SDb6zopIjXxfXHpzRzbLd9dOhDUhBcw4KTOfiN4uQHis=;uFOBWQwulI8GoUbnZoECOg=="
 ---
