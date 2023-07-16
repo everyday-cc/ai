@@ -148,7 +148,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -296,6 +296,50 @@
         "AI Ethics",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-what-types-of-ai-are-being-used-in-healthcare.md",
+      "title": "What Types of AI Are Being Used in Healthcare?",
+      "excerpt": "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "publishedDateTime": "2023-07-11T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1400,49 +1444,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-weaponizing-ai-could-alter-the-outcomes-of-elections.md",
-      "title": "How weaponizing AI could alter the outcomes of elections",
-      "excerpt": "Mike Hamilton, co-founder of cybersecurity firm Critical Insight, says there are currently no guardrails against AI’s power to surgically target voters for disinformation. He hopes that it could also be applied to detecting fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2023/06/GettyImages-1448697510.jpg?fit=740%2C416",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-weaponizing-ai-could-alter-the-outcomes-of-elections/amp/",
-      "publishedDateTime": "2023-06-29T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

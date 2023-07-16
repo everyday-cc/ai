@@ -10,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -88,6 +88,49 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-health-care-providers-say-artificial-intelligence-could-transform-medicine.md",
+      "title": "Health care providers say artificial intelligence could transform medicine",
+      "excerpt": "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "originalUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "publishedDateTime": "2023-07-13T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -184,6 +227,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-what-types-of-ai-are-being-used-in-healthcare.md",
+      "title": "What Types of AI Are Being Used in Healthcare?",
+      "excerpt": "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "publishedDateTime": "2023-07-11T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1286,93 +1373,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer.md",
-      "title": "Doctors tout use of artificial intelligence to detect breast cancer",
-      "excerpt": "NEW YORK-- It's a second set of eyes that could make the difference between life and death. Artificial intelligence is now being used to spot the earliest signs of breast cancer, improving outcomes. \"I think artificial intelligence has the ability to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "originalUrl": "https://www.cbsnews.com/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/28/f3930e0c-b427-4756-a33f-4337d802d80d/thumbnail/1200x630/5ebeefed9c8b7814e764532f5325cf1b/artificial-intelligence-for-breast-cancer.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/doctors-tout-use-of-artificial-intelligence-to-detect-breast-cancer/",
-      "publishedDateTime": "2023-06-27T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-artificial-intelligence-and-the-future-of-sdgs.md",
-      "title": "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS",
-      "excerpt": "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
-      "publishedDateTime": "2023-06-27T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -170,15 +170,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anthropic’s ‘friendly’ AI chatbot, Claude, is now available for more people to try"
-    excerpt: "Claude, the AI chatbot that Anthropic bills as easier to talk to, is finally available for more people to try. The company has announced that everyone in the US and UK can test out the new version of its conversational bot,"
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatbot-ai-available-beta"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 41
   - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
     excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
     publishedDateTime: 2023-07-13T10:17:00Z

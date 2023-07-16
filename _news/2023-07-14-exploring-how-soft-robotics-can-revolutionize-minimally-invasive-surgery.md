@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revol
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp"
 type: article
 quality: 75
-heat: 77
+heat: 79
 published: true
 
 provider:

@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "UAE Artificial Intelligence Camp empowers new generations"
+    excerpt: "It addresses six cutting-edge themes, including web development and robotics, digital entrepreneurship and career planning, generative artificial intelligence, online safety and cybersecurity and deep dialogues in the field of artificial intelligence."
+    publishedDateTime: 2023-07-16T07:06:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/07/16/uae-artificial-intelligence-camp-empowers-new-generations"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/16/uae-ai-main1-750.ashx?h=450&w=750&hash=6DF4267865CDBC6945BE49881297AA73"
+        width: 750
+        height: 450
+        isCached: true
+
 secured: "qvKhjQmvKaccMRKNwKkpNWTKcZ830LBeiw+otXxxs+OmOtODejmbrQcQAmR9uIaGgq6PvfWFL+z0VefIFD8vjiqxwYxp9YJE3oGmRLxCz27OMKDbf/E2He9Wx8W+Jca1Dp6bOonIFGkUZqRvKxQ7Pzaqai8MaSOBdB0jLfBHVJUHgYWwEgQWkaeWgfl5DpwoV7WByOUXajsqufdBzfi6A4WqpPGWBYNkyAsKelP8jngk6xEKVjXseypYzz5Qv0KPPnozcy2T3pSj3A5TeWo9td4HS3lkELpl9dSiAVcMGnmX4tb3R6CSVcy61bKaibB437/c5+WfrqJP7oG7ChphJkcVXNpOxKDwGGR9G3x27MdVB+Ha6Z6+75BMNw1Y1dqSCzDPlHHfTSx40UMkO8edcf2vdwOD5kkKNhCYWCTrX95SW3zVV/oEQi5u6nIuvY291/2d60F07fwcpMplKZH+hRISQaxCb0YetsYgli6cfIHtbOXi9EbA89K3/FduVQInUxk48vO41tfaMyefPsLz8g==;za2QtIl2ZzvhI/BMiI3WLg=="
 ---
 

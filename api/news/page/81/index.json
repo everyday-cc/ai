@@ -2,6 +2,212 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-05-23-dont-believe-your-lying-eyes-in-the-ai-era.md",
+      "title": "Don't Believe Your Lying Eyes in the AI Era",
+      "excerpt": "Technology will only get us so far in dealing with AI-generated photos, of which there will be many. We’ll all need to become more dubious.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-23/viral-fake-pentagon-explosion-photo-on-twitter-is-an-ai-wake-up-call",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-23/viral-fake-pentagon-explosion-photo-on-twitter-is-an-ai-wake-up-call",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPnzNWCb20ws/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform.md",
+      "title": "Microsoft launches Fabric, a new end-to-end data and analytics platform",
+      "excerpt": "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/",
+      "originalUrl": "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/",
+      "publishedDateTime": "2023-05-23T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-ai-startups-outpace-others-in-securing-funding-from-vcs.md",
+      "title": "AI startups outpace others in securing funding from VCs",
+      "excerpt": "Sponsored Jobs Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More While fintech has enjoyed the largest stake of funding in recent years it seems to be losing its luster — in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "publishedDateTime": "2023-05-23T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-hear-how-sensiai-is-building-ai-for-remote-patient-monitoring.md",
+      "title": "Hear how Sensi.AI is building AI for remote patient monitoring",
+      "excerpt": "Remotely monitoring patients without violating their privacy is a challenging task. But one co-founder believes that she's cracked the code.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/",
+      "originalUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/TCL-2023-05-24-featured-1920x1080-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/",
+      "publishedDateTime": "2023-05-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-build-next-generation-ai-powered-applications-on-microsoft-azure.md",
       "title": "Build next-generation, AI-powered applications on Microsoft Azure",
       "excerpt": "Welcome to Microsoft Build 2023—the event where we celebrate the developer community. This year, we’ll dive deep into the latest technologies across application development and AI that are enabling the next wave of innovation.\nThe post Build next-generation, AI-powered applications on Microsoft Azure",
@@ -1042,194 +1248,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-llms-and-the-rise-of-the-ai-code-generators.md",
-      "title": "LLMs and the rise of the AI code generators",
-      "excerpt": "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/code-abstract-matrix-100678032-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "publishedDateTime": "2023-05-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-indias-infosys-unveils-ai-platform.md",
-      "title": "India's Infosys unveils AI platform",
-      "excerpt": "India's second-largest software services exporter Infosys Ltd said on Tuesday it launched a platform called Infosys Topaz for generative artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/",
-      "originalUrl": "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ypbUZw9mJoBpsPgqYkSOHSM963A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7236HTRVIF5LHRAYWSUV2ZWA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date.md",
-      "title": "AI News: 6 Sources Entrepreneurs Can Use To Stay Up To Date",
-      "excerpt": "With so many updates and shiny objects, how do you know which to explore in more detail? Here are six sites to bookmark, to stay up to date with the latest news in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646c6c08f0d5bccf7b2cbccf/0x0.jpg?format=jpg&crop=2496,1403,x0,y129,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
-      "publishedDateTime": "2023-05-23T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-some-neural-networks-learn-language-like-humans.md",
-      "title": "Some Neural Networks Learn Language Like Humans",
-      "excerpt": "We preselected all newsletters you had before unsubscribing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!",
-      "originalUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -45,22 +45,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Giza Raises $3M Pre-Seed Led by CoinFund to Bring Artificial Intelligence to Web3 Smart Contracts"
-    excerpt: "Open source artificial intelligence platform will unlock machine learning in smart contracts and web3 protocols within DeFi, Gaming, and Security Giza, an artificial intelligence (AI) platform for sma"
-    publishedDateTime: 2023-07-11T14:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/b33186416/giza-raises-3m-pre-seed-led-by-coinfund-to-bring-artificial-intelligence-to-web3-smart-contracts"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33186416"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33186416"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Using bigger AI training data sets may produce more racist results"
     excerpt: "Contrary to Silicon Valley wisdom, training AIs on larger data sets could worsen their tendency to replicate societal biases and racist stereotypes"
     publishedDateTime: 2023-07-13T09:00:00Z

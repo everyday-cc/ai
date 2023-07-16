@@ -28,47 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The benefits of AI in healthcare"
-    excerpt: "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-11T14:31:01Z
-    webUrl: "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 116
-  - title: "Generative AI Will Shape The Future Of IT. Here’s Why."
-    excerpt: "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits."
-    publishedDateTime: 2023-07-12T23:42:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/"
-    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "UK Government Criticized Over Use OF AI To Evaluate Benefits Claims"
-    excerpt: "The UK government is coming under fire for using AI to assess applications for social security benefits. The Department of Work and Pensions (DWP) has said it plans to use AI to identify patterns in claims that could indicate error or fraud as part of plans to cut £1.3 billion from the benefits bill this year and nex."
-    publishedDateTime: 2023-07-13T10:41:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64afd4a805dcc645cc534a09/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 950
-        isCached: true
   - title: "What Types of AI Are Being Used in Healthcare?"
     excerpt: "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold."
     publishedDateTime: 2023-07-11T16:29:00Z
@@ -117,20 +76,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "7 Best AI Art Generators of 2023"
-    excerpt: "This is a comprehensive list of the best AI generators. Explore the advanced technology that transforms imagination into stunning artworks."
-    publishedDateTime: 2023-07-11T16:40:00Z
-    webUrl: "https://www.techrepublic.com/article/best-ai-art-generators/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71123-ai-art.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
     publishedDateTime: 2023-07-14T15:53:00Z
@@ -140,50 +85,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Health care providers say artificial intelligence could transform medicine"
-    excerpt: "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments."
-    publishedDateTime: 2023-07-14T00:20:00Z
-    webUrl: "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
-    ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 57
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "UCSF Health digital chief departs for healthcare AI company"
-    excerpt: "Aaron Neinstein, MD, former VP of digital health at UCSF Health, has joined healthcare AI company Notable as chief medical officer."
-    publishedDateTime: 2023-07-11T14:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/ucsf-health-digital-chief-departs-for-healthcare-ai-company.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The 3 Hottest Areas for Healthcare Generative AI"
-    excerpt: "There are three key areas of the healthcare sector where generative AI is booming the most — in terms of both venture capital funding and the development of innovative technology — according to Anjalika Komatireddy,"
-    publishedDateTime: 2023-07-11T23:53:00Z
-    webUrl: "https://medcitynews.com/2023/07/generative-ai-healthcare-llm-pharmaceutical-chatbot/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
-    images:
-      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Google's healthcare AI on par with humans but not ready to see patients"
     excerpt: "Google's AI-powered healthcare platform is as accurate as human providers, a new study shows. Mayo Clinic is testing Med-PaLM, but further evaluations are necessary but it's deployed in clinical settings."
     publishedDateTime: 2023-07-12T21:45:00Z
@@ -237,20 +138,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 48
-  - title: "The Military Dangers of AI Are Not Hallucinations"
-    excerpt: "A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and professional"
-    publishedDateTime: 2023-07-12T03:42:00Z
-    webUrl: "https://countercurrents.org/2023/07/the-military-dangers-of-ai-are-not-hallucinations/"
-    type: article
-    provider:
-      name: Countercurrents
-      domain: countercurrents.org
-    quality: 39
-    images:
-      - url: "https://cdn.countercurrents.org/wp-content/uploads/2018/03/drone-2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Smartglasses in healthcare: why design matters"
     excerpt: "Smartglasses have been used in the logistics sector for some time. Increasingly, their use in the healthcare sector is also being discussed. Unlike in logistics, however, healthcare professions depend on trusting interaction with patients."
     publishedDateTime: 2023-07-13T11:14:00Z
@@ -265,43 +152,24 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "A Mid-Year Analysis of AI"
-    excerpt: "The past six months of 2023 have been a notable period for advancements in artificial intelligence (AI) and generative AI in particular. This article includes a review of the implications that AI h"
-    publishedDateTime: 2023-07-14T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/mid-year-analysis-ai"
+  - title: "The Changes Machine Learning Brought to the Healthcare Industry"
+    excerpt: "AI and machine learning are helping to simplify the work of healthcare professionals and improve patient care. Learn about the use of ML and AI in the healthcare industry."
+    publishedDateTime: 2023-07-13T19:43:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/07/13/456457-changes-machine-learning-brought-the-healthcare-industry.htm"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/Generative%20AI%20Artificial%20Intelligence%20Intellectual%20Property_2_0.jpg?itok=dSBPKUDO"
-        width: 500
-        height: 271
-        isCached: true
-  - title: "AI hits the music industry"
-    excerpt: "This is an audio transcript of the FT Weekend podcast episode: ‘AI hits the music industry’"
-    publishedDateTime: 2023-07-14T05:08:00Z
-    webUrl: "https://www.ft.com/content/0b5ee5ad-c7a9-4cd8-be6c-c292a0430338"
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 36
+  - title: "Artificial Intelligence In Healthcare: A Potentially Strong Opportunity For BioSig Technologies (NASDAQ: BSGM)?"
+    excerpt: "BioSig Technologies, Inc. (NASDAQ: BSGM) announced a new collaboration agreement in June with Reified Labs, a technical advisory service specializing in advanced artificial intelligence (AI)."
+    publishedDateTime: 2023-07-12T12:12:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/07/33196908/artificial-intelligence-in-healthcare-a-potentially-strong-opportunity-for-biosig-technologi"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ec46dc5-44ce-49b0-ac62-a94e66385d46.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "AI Could Be One of the Greatest Wealth Builders in History"
-    excerpt: "Artificial intelligence could be one of the greatest wealth builders in history. That’s according to Matt Higgins, CEO of RSE Ventures, as quoted by CNBC, who added, “Artificial intelligence doesn’t care where you were born,"
-    publishedDateTime: 2023-07-12T13:33:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/15587/AI-Could-Be-One-of-the-Greatest-Wealth-Builders-in-History"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
 
 secured: "gu2W2xv0HEj4/kM6qOnqTrk15peVxyxiIwvF5JaSP6Wf0YKP3UflbRfO82MMoGPPhE8ZzReoj4hazPOa5kFKOre7sCuzET+Cp65Kht4DyNY6/Fnd24c1BEzQEJRLNZAldxIwaBwPIXsXAyFG+8r2SVBUSfx6TUNbgr/zaPrRKjLRbjwGojk6lLmb8MbDlSpF4RrGboaNp4umE5G5785fgtTy2sAySxUD+AWb1V5a3GAqC8TsxyYn3eV+vTeE4MjU+AVepmDUto6k0d2habIybnuCT4a3JbW0l7HQ8g6rUYgQ5AU1WyF+PZTNkuUuB3iK5JK2JbcreqHH9TUK+KSLG+VJ78eyeQB3xgCHTUNuoUjZLGkhnQ0bFz0RNklsJeaRp18YZpAiUOPQdqfKdSC3vgKlsD1IjxovF/XB27rVigXwL6cDMQXimljoGdLD+GozwDku9ooaK9hTO8vzYB2jl3EMeDFKW9Py8BXlnRXgWf8oaUuKBz/SsRp2APopZRld/3oH+BEWKmp/vZW/toPeMQ==;5/CA0jO4QataCJmfZiBaew=="
 ---

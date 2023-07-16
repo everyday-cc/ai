@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/645954/ai-and-privacy-safeguarding
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/645954/ai-and-privacy-safeguarding-your-personal-information-in-an-age-of-intelligent-systems.html/amp/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Transforming Data Privacy: Intermedia Launches AI Transcription Redaction for Intermedia's Contact Center Solution"
-    excerpt: "AI Transcription Redaction, the latest addition to the Intermedia AI Interaction Insights suite, leverages Intermedia SPARK AI™ technology to"
-    publishedDateTime: 2023-07-11T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/transforming-data-privacy-intermedia-launches-ai-transcription-redaction-for-intermedia-s-contact-center-solution-1032437883"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
 
 secured: "Kd/ALHFAhyZvMQolF0Mh+SB2EW0xnpIMu6aMmjmapNExHG7Krm/lf5H+4jQ3boL1y9LzSCoG5cavvPq0zgIAEzu1EJVkcIUZhDwjpT5EWyi5PiUFmGPCy9qYQPo1rI5ej9qZ/Qfl2Eytc/vFz3nmCSnmQp2Yo9RhW9WsZUFUfdf37EAlxY5pTs2+e4kSX3wrVYA4yK2YPns30n6VxCp0SDpwrb1ERByKo+5xxBwPY8etdDcQhiKkk+6ROlY4yNYb6WbBfHmhauggRTcRPTY1TiXcvWMjzgYJcEQx5iGA14CY0bU2SFpP2nWJ4kum3250twluRYq+1ytEVz7XBG7J61epPqy4pCWpuJNXoGq6YAOfL1FrdGLq4vpxxbsh2gJBedjP8SQlL9NIKW5uwp9vLW4F/RA9EThNMTtE+tQLGGkOmXO4Adc94Ssv6UR2+7cCfGcJC8uEHsnVJsFJGoR+6d6tUIC9i04rykvoeWdA5EDui8kkwdNyjrhg06FxNsAEm741L9YKljeKGjqXU7AOjw==;5rnNEUMkWyD1gT+XWz8KGQ=="
 ---

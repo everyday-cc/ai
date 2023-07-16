@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The 3 Hottest Areas for Healthcare Generative AI"
+    excerpt: "There are three key areas of the healthcare sector where generative AI is booming the most — in terms of both venture capital funding and the development of innovative technology — according to Anjalika Komatireddy,"
+    publishedDateTime: 2023-07-11T23:53:00Z
+    webUrl: "https://medcitynews.com/2023/07/generative-ai-healthcare-llm-pharmaceutical-chatbot/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Amazon touts its low-cost cloud computing in generative AI race"
     excerpt: "A key way that Amazon's cloud division aims to set itself apart from rivals perceived to have a leg up on artificial intelligence is by competing on price, an executive said on Tuesday. The AI models behind a viral chatbot like ChatGPT require immense computing power to train and operate,"
     publishedDateTime: 2023-07-12T07:11:00Z

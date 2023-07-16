@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "27% of jobs at high risk from AI revolution, says OECD"
-    excerpt: "More than a quarter of jobs in the OECD rely on skills that could be easily automated in the coming artificial intelligence revolution, and workers fear they could lose their jobs to AI, the OECD said on Tuesday."
-    publishedDateTime: 2023-07-11T13:09:00Z
-    webUrl: "https://www.reuters.com/technology/27-jobs-high-risk-ai-revolution-says-oecd-2023-07-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/Gklh_c7w8grlDfVyA8u-KzLYFZg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L4VK72FSCFLAXE4XALVNRQSNOA.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "Will Generative AI Take Away Startup Jobs?"
     excerpt: "But, jobs were still more or less safe. However, today, with the popularity of ChatGPT and generative AI and the rise of startup ecosystem, 'AI taking away jobs' is no longer a debate inside the four walls of institutions, it seems to have become a reality."
     publishedDateTime: 2023-07-13T05:31:00Z

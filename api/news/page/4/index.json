@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-12-ibm-launches-new-watsonx-foundation-models-for-enterprise.md",
+      "title": "IBM Launches New WatsonX Foundation Models for Enterprise",
+      "excerpt": "With the launch of watsonx.ai and watsonx.data, IBM is kicking off a platform-based approach to generative AI workbenches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg",
+          "width": 1400,
+          "height": 884,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-google-stole-data-from-millions-of-people-to-train-ai-lawsuit-says.md",
+      "title": "Google stole data from millions of people to train AI, lawsuit says",
+      "excerpt": "Google does not own the internet, it does not own our creative works ... or anything else simply because we share it online.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
+      "originalUrl": "https://www.popsci.com/technology/google-ai-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/07/12/Depositphotos_48051785_L.jpg?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/google-ai-lawsuit/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/google-ai-lawsuit/?amp",
+      "publishedDateTime": "2023-07-12T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai.md",
       "title": "3 ways the IBM and Adobe partnership will accelerate content supply chains with generative AI",
       "excerpt": "We&#8217;re delighted about the recent unveiling of IBM and Adobe&#8217;s dynamic partnership to help brands accelerate their content supply chains using generative AI. Our longstanding partnership with Adobe allows us to offer an unparalleled range of services to meet the evolving needs of the marketing",
@@ -10,7 +106,7 @@
       "originalUrl": "https://www.ibm.com/blog/3-ways-the-ibm-and-adobe-partnership-will-accelerate-content-supply-chains-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1147,101 +1243,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure-enabling-aiml-at-scale-throughout-the-enterprise.md",
-      "title": "Teradata collaborates with Microsoft to offer VantageCloud Lake on Azure, enabling AI/ML at scale throughout the enterprise",
-      "excerpt": "Teradata today announced it will offer Teradata VantageCloud Lake on Microsoft Azure, opening up new markets, new capabilities, and new use cases. This makes Teradata’s modern cloud-native architecture,",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
-      "originalUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/807db5df83a89e9f00c08712cfe52eb9_M.jpg",
-          "width": 375,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-embracing-a-new-frontier-of-ai-from-the-inside-out.md",
-      "title": "Embracing A New Frontier Of AI, From The Inside Out",
-      "excerpt": "Every day, we put more than 60 AI models to work to strengthen the products and experiences we’re delivering for members– from optimizing appointment scheduling to quickly connect members with a quality physician in minutes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
-      "originalUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ada8fea7497968d8edfb03/0x0.jpg?format=jpg&width=1200",
-          "width": 1150,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
-      "publishedDateTime": "2023-07-11T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

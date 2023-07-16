@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-12-teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure-enabling-aiml-at-scale-throughout-the-enterprise.md",
+      "title": "Teradata collaborates with Microsoft to offer VantageCloud Lake on Azure, enabling AI/ML at scale throughout the enterprise",
+      "excerpt": "Teradata today announced it will offer Teradata VantageCloud Lake on Microsoft Azure, opening up new markets, new capabilities, and new use cases. This makes Teradata’s modern cloud-native architecture,",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
+      "originalUrl": "https://itwire.com/guest-articles/company-news/teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure,-enabling-ai-ml-at-scale-throughout-the-enterprise.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/807db5df83a89e9f00c08712cfe52eb9_M.jpg",
+          "width": 375,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-embracing-a-new-frontier-of-ai-from-the-inside-out.md",
+      "title": "Embracing A New Frontier Of AI, From The Inside Out",
+      "excerpt": "Every day, we put more than 60 AI models to work to strengthen the products and experiences we’re delivering for members– from optimizing appointment scheduling to quickly connect members with a quality physician in minutes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
+      "originalUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ada8fea7497968d8edfb03/0x0.jpg?format=jpg&width=1200",
+          "width": 1150,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/",
+      "publishedDateTime": "2023-07-11T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
       "title": "Discord bans AI-generated child sex abuse material and teen dating",
       "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
@@ -198,6 +293,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-what-types-of-ai-are-being-used-in-healthcare.md",
+      "title": "What Types of AI Are Being Used in Healthcare?",
+      "excerpt": "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "publishedDateTime": "2023-07-11T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-access-private-repos-using-the-remote-decorator-for-amazon-sagemaker-training-workloads.md",
       "title": "Access private repos using the @remote decorator for Amazon SageMaker training workloads",
       "excerpt": "As more and more customers are looking to put machine learning (ML) workloads in production, there is a large push in organizations to shorten the development lifecycle of ML code. Many organizations prefer writing their ML code in a production-ready style in the form of Python methods and classes as",
@@ -361,7 +500,7 @@
       "originalUrl": "https://www.forbes.com/sites/brianbushard/2023/07/11/will-ai-take-your-job-27-of-jobs-in-wealthy-countries-at-high-risk-report-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1047,151 +1186,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-driverless-taxis-to-start-paid-service-in-beijing.md",
-      "title": "Driverless taxis to start paid service in Beijing",
-      "excerpt": "BEIJING: A larger fleet of driverless taxis will soon be available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2023/07/11/driverless-taxis-to-start-paid-service-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/07/11/2170762.jpeg",
-          "width": 1198,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai.md",
-      "title": "Elon Musk, Steve Wozniak Sound Alarm On Dangerous AI",
-      "excerpt": "Elon Musk and Steve Wozniak, the co-founder of Apple (AAPL), sounded the alarm last week about the perils of AI experiments. Their Future of Life petition is nearing 20,000 signatures. Aggressive investors should buy Ark Genomic Revolution (ARKG). Let me explain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac98a90ef5570e89534a0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/07/10/elon-musk-steve-wozniak-sound-alarm-on-dangerous-ai/amp/",
-      "publishedDateTime": "2023-07-10T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-us-senators-to-get-classified-white-house-ai-briefing-tuesday.md",
-      "title": "US senators to get classified White House AI briefing Tuesday",
-      "excerpt": "The White House will brief senators Tuesday on artificial intelligence in a classified setting as lawmakers consider adopting legislative safeguards on the fast-moving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/",
-      "originalUrl": "https://www.reuters.com/world/us/us-senators-get-classified-white-house-ai-briefing-tuesday-2023-07-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/uPDM2NKKmcR1TMaHooZ1PCIZeiQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TAOE7IVTAJLQVFQ2275V5B5HOI.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

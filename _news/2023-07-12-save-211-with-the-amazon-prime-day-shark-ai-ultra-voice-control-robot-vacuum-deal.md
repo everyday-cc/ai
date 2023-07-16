@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off"
-    excerpt: "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums."
-    publishedDateTime: 2023-07-11T13:23:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 61
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Yes, you can still score a Prime Day deal on a robot vacuum the day after Amazon Prime Day 2023"
     excerpt: "Jet Bot AI+ robot vacuum with object recognition, $664 (reduced from $1,299) Best iRobot vacuum deal: iRobot Roomba j7 robot vacuum, $399 (reduced from $650) The experts at CBS Essentials have rounded up the best robot vacuum deals."
     publishedDateTime: 2023-07-13T15:39:00Z
@@ -124,6 +108,6 @@ related:
       domain: popsugar.com
     quality: 4
 
-secured: "pP1tJAIOmLywMD9l8VyY/gwFAvl+FidPdgHOB4O0PIO3WpeRuTNBn278vqkj+uht1Fuw+LvldxWWZ235HXB9cIhTUSBM7KUrpD/2zPEnTO/eZTHqY4D8KttrV4iDZ4l/9M2fuFI9XEcxy4VyY03jeqFLJPf7aesLQKs9wvFERynaJAp8+xxuK1JN32AVCZSZOLyEebXAfbBS7MEkqC4WsijTPxEJtSI0zuZlrxZnLteKDh8PzDSu3J2XRp9K7FypkYakmYPFwHMUU+vZnxcMtgdXeVHURIgz0Bktsr4e21jaXV4mUAPkKmBxOaU87jIyrcRXeHD4Ds73vduchX7HmcyaXTbw5VPSdZDp3AnxmRQ=;N9OTk1aP/Woo24y6LXGYuQ=="
+secured: "/tjeRcTQ3WUr+SQ+TdHKtdce+33c5gx+8ars511skZYnHCprkQZT9z5VH9BazMD5iHhruebVY82w5ep49aBhNNnsLSE7+YFpK1Kwb45PJxzzNwenpGj3oxoJZTNUzmm1IrhRk3yPS+jry9JvUhdnH0ujecy28eM4ejvuJO32DxlJHW/+R6TsDI7TVUbGAe16eHSwcEkEl7EN9J6H6KVA9LdskaGZ11cIZbthe+0KTnQ24A+A+WeOtXjQxc3K98Dbrmnb3xa5LXYjaXYI0uO1/prk7wxiUEUhR2Nb+E/Gggx/M+e1NYAHf72cDJNYn7s9VuK8N6cBScReZA0VrJb8eo4jAN6mUE5gzf+hIH5R6v8=;+EYpMA82stdLaAHut/MjGw=="
 ---
 

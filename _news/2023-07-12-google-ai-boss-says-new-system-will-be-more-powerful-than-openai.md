@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anthropic unveils Claude 2, an AI model that produces longer, safer responses"
-    excerpt: "Anthropic announced the release of Claude 2, a more capable version of its AI model Claude that produces longer and safer conversations."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://venturebeat.com/ai/anthropic-unveils-claude-2-an-ai-model-that-produces-longer-safer-responses/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_In_the_colorful_Pop_Art_style_of_Peter_Max_a_straigh_1c3c4cd3-510d-462a-a737-4c24e517e012.png?w=1200&strip=all"
-        width: 735
-        height: 588
-        isCached: true
   - title: "Anthropic launches Claude 2, the next-gen of 'friendly' AI chatbot"
     excerpt: "Anthropic, the company founded by former OpenAI research executives, has released the next generation of their conversational"
     publishedDateTime: 2023-07-14T15:13:00Z
@@ -131,24 +117,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Anthropic releases Claude 2, its second-gen AI chatbot"
-    excerpt: "Anthropic, the AI startup founded by ex-OpenAI execs, has released its newest chatbot, Claude 2. It's ostensibly improved in several ways."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://techcrunch.com/2023/07/11/anthropic-releases-claude-2-the-second-generation-of-its-ai-chatbot/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "AI Startup Anthropic Releases a New Version of Its ChatGPT Rival, Claude"
-    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, has released a new version of its AI bot, named Claude."
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-11/ai-startup-anthropic-releases-a-new-version-of-its-chatgpt-rival-claude"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 46
   - title: "Musk unveils xAI in new bid to rival startup OpenAI"
     excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
     publishedDateTime: 2023-07-13T18:37:00Z

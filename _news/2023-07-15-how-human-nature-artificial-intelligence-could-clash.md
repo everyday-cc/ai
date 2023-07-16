@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "AI hits the music industry"
+    excerpt: "This is an audio transcript of the FT Weekend podcast episode: ‘AI hits the music industry’"
+    publishedDateTime: 2023-07-14T05:08:00Z
+    webUrl: "https://www.ft.com/content/0b5ee5ad-c7a9-4cd8-be6c-c292a0430338"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ec46dc5-44ce-49b0-ac62-a94e66385d46.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "oLfnLulsQu5Dn8PfuAl/+82idnaHByGV4tPe7q8cMaRUhKbGz21Giu9M8E6aJSG1mGU9MG2WWAeiD3foOoFTvk166SwAlHWU/8I26O/mXLfKBUHm5hwU6HGZY8NkdNy4aTuVoqNdnBnd93P5koIyycvPSL7XyivRfgGUz1+m0AJoYeLO/FRqOfW5TL7f4XuLa2Ci+WsGMecSNXKHyiUvKiEPOhlp4KHUWlu4dKvlTsb8DjWHyQcqbXKMsYpQC6ltr2rPz1i53RhAGZuvwKMs5jfsGjex/JtY/djmNuhnKA4eGxdPQB/YxQrxO91FFRX4yHN1wNkiX6Kt3k5m3PhLp2sWrJ5f6/nofb/bWhZDdwW5u6DtB0DRLGposinMQO5xGCZqUV69re+B1et/BhhEszThOCdFIXH1w6GWeYEdUUyeWZvTPJB0NmLoqJLk0QrhO0I5rq/JD+wQ4MlwyQYdMuRpuyfaVUtvHpm6CO6zSc3mHDrGtDDmzZRuiR7EfU3Dvrv0ViErseGWOqr22Mx0TQ==;odHF/gn7rH05jA/y7z4nHg=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI Will Shape The Future Of IT. Here’s Why."
+    excerpt: "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits."
+    publishedDateTime: 2023-07-12T23:42:00Z
+    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI will improve efficiencies and spark creativity in the workplace"
     excerpt: "The possibilities of generative AI are yet to be fully understood, but we already know it can support efficiency, creativity and learning."
     publishedDateTime: 2023-07-12T00:06:00Z

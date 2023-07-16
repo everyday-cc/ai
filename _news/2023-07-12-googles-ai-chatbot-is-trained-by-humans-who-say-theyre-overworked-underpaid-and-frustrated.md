@@ -159,15 +159,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Anthropic’s ‘friendly’ AI chatbot, Claude, is now available for more people to try"
-    excerpt: "Claude, the AI chatbot that Anthropic bills as easier to talk to, is finally available for more people to try. The company has announced that everyone in the US and UK can test out the new version of its conversational bot,"
-    publishedDateTime: 2023-07-11T13:30:00Z
-    webUrl: "https://www.theverge.com/2023/7/11/23790254/anthropic-claude-chatbot-ai-available-beta"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 41
   - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
     excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
     publishedDateTime: 2023-07-14T10:26:00Z

@@ -2,6 +2,196 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-06-29-how-advanced-ai-threatens-banking-security-systems.md",
+      "title": "How advanced AI threatens banking security systems",
+      "excerpt": "The future of payments promises to transform the fintech world as traditional friction barriers begin to disappear. Amid this innovation, concerns arise: could",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
+      "originalUrl": "https://www.centralbanking.com/technology/7959117/how-advanced-ai-threatens-banking-security-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2023-06/GettyImages-1490261842.jpg?itok=msI7us6j",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Banking",
+        "domain": "centralbanking.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-the-rise-of-ai-powered-entrepreneurs.md",
+      "title": "The Rise Of AI-Powered Entrepreneurs",
+      "excerpt": "In a recent speech, Yuval Harari called AI a groundbreaking \"non-biological agent,\" but business leaders are still trying to grasp how Bard, ChatGPT and other generative AI agents will help or hinder their success and humanity at-large.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649ae712978637ce3c8d315d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/29/the-rise-of-ai-powered-entrepreneurs/amp/",
+      "publishedDateTime": "2023-06-29T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-databricks-hosts-data-ai-summit-unveils-suite-of-ai-tools-for-customers.md",
+      "title": "Databricks Hosts Data + AI Summit, Unveils Suite Of AI Tools For Customers",
+      "excerpt": "Databricks has revealed its new AI-augmented Lakehouse IQ platform, while Snowflake confirmed it was partnering with Nvidia to help customers build their own AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649d915b0297b7ca3032423a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/06/29/databricks-hosts-data--ai-summit-unveils-suite-of-ai-tools-for-customers/amp/",
+      "publishedDateTime": "2023-06-29T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-this-transformer-like-robot-can-roll-fly-stand-walk-and-more.md",
+      "title": "This Transformer-Like Robot Can Roll, Fly, Stand, Walk, and More",
+      "excerpt": "Robots are slowly getting smarter, mostly thanks to advances in artificial intelligence that enables them to learn on their own rather than requiring constant human guidance. But despite being able to independently learn new tasks, most robots are still ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
+      "originalUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/06/Gharib_Mory-Lab-M4-Robot-063.2e16d0ba.fill-1600x810-c100.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/06/29/this-transformer-like-robot-can-roll-fly-stand-walk-and-more/?amp=1",
+      "publishedDateTime": "2023-06-29T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-developer-claims-steam-is-rejecting-games-with-ai-generated-artwork.md",
       "title": "Developer claims Steam is rejecting games with AI-generated artwork",
       "excerpt": "Valve has reportedly become the latest company to react to the uncertain legal landscape surrounding AI-generated artwork by simply barring its use in submitted materials. An anonymous developer going by the Reddit handle potterharry97 reports having a Steam game page submission rejected for the use of \"art assets generated by artificial intelligence that appears to be relying on copyrighted material owned by third parties.",
@@ -957,187 +1147,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-needs-a-new-era-of-law-and-regulation-says-microsoft-president.md",
-      "title": "AI needs 'a new era of law and regulation,' says Microsoft president",
-      "excerpt": "Microsoft Vice Chair & President Brad Smith talks to Christiane Amanpour about the worldwide race to regulate Artificial Intelligence \"so it's used safely.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn",
-      "originalUrl": "https://www.cnn.com/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 484,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230628165322-brad-smith-microsoft.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2023/06/29/brad-smith-ai-amanpour-intw.cnn",
-      "publishedDateTime": "2023-06-28T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-based-computer-vision-technology-solution-to-eskoms-woes.md",
-      "title": "AI-based computer vision technology – solution to Eskom’s woes?",
-      "excerpt": "Computer vision technology is not only being used to prevent negative consequences, but also to boost productivity, says visionAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/rxP3jMBEXm67A2ye",
-      "originalUrl": "https://www.itweb.co.za/content/rxP3jMBEXm67A2ye",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/06/Johann-deWet-29June2023.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/rxP3jMBEXm67A2ye",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/rxP3jMBEXm67A2ye",
-      "publishedDateTime": "2023-06-28T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-chatgpt-alternatives-exploring-the-top-6-ai-powered-chatbot-options.md",
-      "title": "ChatGPT Alternatives: Exploring the Top 6 AI-Powered Chatbot Options",
-      "excerpt": "As AI-powered chatbots continue to enhance customer interactions, ChatGPT alternatives and substitutes open up a world of possibilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html",
-      "originalUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technotification.com/wp-content/uploads/2023/06/qDycEZYiu4ByWEZfuRKe34-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html/amp",
-      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html/amp",
-      "publishedDateTime": "2023-06-28T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technotification.com",
-        "domain": "technotification.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-ai-industrial-robotics-vietnam.md",
-      "title": "AI Industrial Robotics - Vietnam",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$31.12m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.62%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/vietnam",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

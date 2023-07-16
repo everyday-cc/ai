@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -328,6 +328,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
+      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
+      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
+      "originalUrl": "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/d2/1d27fc8e-60ba-53ca-bcbf-72c1919a5f60/64ad0793dc5e8.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1357,49 +1400,6 @@
       "provider": {
         "name": "CoinTelegraph",
         "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-nation-presses-the-accelerator-on-driverless-vehicles.md",
-      "title": "Nation presses the accelerator on driverless vehicles",
-      "excerpt": "A passenger travels in a driverless car at Baidu Technology ... \"Thanks to the convergence of machine learning and artificial intelligence, big data, mobility and advanced sensors, the autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202306/29/WS649cbee9a310bf8a75d6c2c9_2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202306/29/649cbee9a310bf8a1d231853.jpeg",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
