@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-14T19:35:00Z
 originalUrl: "https://www.aol.com/sports/whats-buzz-ai-heres-know-090516223.html"
 webUrl: "https://www.aol.com/sports/whats-buzz-ai-heres-know-090516223.html"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/GMmXFi1UBsPd4RuPufI0UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://media.zenfs.com/en/the-florida-times-union/b1ee2c0c7896e6a31ee311abfae25b82"

@@ -500,7 +500,7 @@
       "originalUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -553,7 +553,7 @@
       "originalUrl": "https://www.techspot.com/news/99351-lisa-su-believes-ai-soon-integral-part-chip.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -785,7 +785,8 @@
         "Google AI",
         "AI",
         "AI Hardware",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Microsoft AI"
       ]
     },
     {

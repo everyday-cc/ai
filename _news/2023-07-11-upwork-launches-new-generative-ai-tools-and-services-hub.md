@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai
 webUrl: "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/IMG_7802-H-2023.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Freshworks unveils new generative AI enhancements across product lines"
-    excerpt: "The new predictive and assistive generative AI capabilities embedded within Freshworks solutions and platform go beyond content generation and help support agents, sellers, marketers, IT teams and leaders become more efficient."
-    publishedDateTime: 2023-07-11T05:29:00Z
-    webUrl: "https://www.retailbiz.com.au/online-retailing/freshworks-unveils-new-generative-ai-enhancements-across-product-lines/"
-    type: article
-    provider:
-      name: retailbiz.com.au
-      domain: retailbiz.com.au
-    quality: 39
-    images:
-      - url: "https://www.retailbiz.com.au/wp-content/uploads/2023/07/WEB-ONLY-Freshworks-unveils-new-generative-AI-enhancements-across-product-lines-.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "snYeBkwYYsqcRIfobbIN1O9zd0xy/up9J2BgfduyJ6ZWYNEj6cDs6MI3jHfZI3lDx6XDklqbzN+H72Ckp28dbjjGB5wNkLUnbuM7auvc1dYmZhdb8Jd35ftTS8cR9vU2R0OXDKrqV4o1atkskAPcO2lOQy30TzYrnwDImlXrtEGOs1tq/ue/vuUsD9N04LTFTLoW4YM6XJBI3c7JWdzag9ng+PGbpX37uFLRDx/ZKhjgxEt1uj5CpemRTOFwSHYbtDMGSr5xyGF5U24aE6UCKDA0y2p4z2Hy5LPaftROufhocnROfm0U+a+e4YocEWN62gDKhKJgFMoyCpYwuNvBkwl3YW/BG3zN7vxbWUxDWhYVm+4pdxDEvAvxeFXYwptUuO2XKRR9yYrcDLYRTYzONq8AtBaTvDdE4fxTlMAAKRHQg3CSDMSOpu9R/rXCbyQ9vKqmdfdZh9REyAJBRE1giqVgyc8Hdqyfrh2vVE35ewzgASu3Iy5VVkBgGqrohigvgA8mltCB2nBD4r4Xy9T17w==;dmBZJbnXrkFH8BNIPyfk5w=="

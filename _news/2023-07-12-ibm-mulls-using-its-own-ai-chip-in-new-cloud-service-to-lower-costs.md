@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip
 webUrl: "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs"
+    excerpt: "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco."
+    publishedDateTime: 2023-07-12T12:54:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33197115"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33197115"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/07/12/ibm_bangalore_manyata_2.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM considers in-house AI chip to save cost on operating its Watsonx"
     excerpt: "IBM said it is considering utilizing its in-house AI chip this time around, which could help lower the operating cost of the platform."
     publishedDateTime: 2023-07-13T00:15:00Z

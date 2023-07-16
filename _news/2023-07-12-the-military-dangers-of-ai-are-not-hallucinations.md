@@ -259,20 +259,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 48
-  - title: "Opportunities of Artificial Intelligence field rich"
-    excerpt: "World Economic Forum has projected that AI will create 97 million new jobs by 2025. Club that with the fact that ChatGPT, which feeds on AI, got 173 million users in just six months after launching, and we get a picture of how all-pervasive AI is going to get."
-    publishedDateTime: 2023-07-11T06:26:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/07/11/opportunities-of-artificial-intelligence-field-rich"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/11/aurak-july11-main1-750.ashx?h=450&w=750&hash=FB6CDB5C048B02786A0B9B8F36406971"
-        width: 750
-        height: 450
-        isCached: true
   - title: "Smartglasses in healthcare: why design matters"
     excerpt: "Smartglasses have been used in the logistics sector for some time. Increasingly, their use in the healthcare sector is also being discussed. Unlike in logistics, however, healthcare professions depend on trusting interaction with patients."
     publishedDateTime: 2023-07-13T11:14:00Z

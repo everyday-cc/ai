@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Industrial Robotics - France"
+    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$238.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 12.67%, resulting in a market volume of US$ ..."
+    publishedDateTime: 2023-07-11T07:38:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/france"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 49
 
 secured: "ukMbm828/1E2qBoKtFzJ0oGqDSOkhInIb41tWnsDzLpnIiz6wmtU95dr8NGjwGEtOIya/4tuNVY2BPBECtLnvkSzdbyhQKJPBItD1fJ1cpPAYUkMkvTet0BBsXJSoPM+Z2SifprkTxLSefio/fmXwPVCR6fFjc6YzYTZKKOpT/NrWvoqo89vqHO7AnTZO/tQ8d/GNJGmmcNWoZ0Q+ODOz0oMumOlDIWV1XS8p1Zv1qa8sKPNsCxwkQbPkvbn86KLCx4EO78yDYbHh5ADHLQkF2Z433WZmrDXhZI3hTVGAWLLVpEkpxKF6Jue1UJChv/SDb6zopIjXxfXHpzRzbLd9dOhDUhBcw4KTOfiN4uQHis=;uFOBWQwulI8GoUbnZoECOg=="
 ---

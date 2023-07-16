@@ -27,7 +27,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/GMmXFi1UBsPd4RuPufI0UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://media.zenfs.com/en/the-florida-times-union/b1ee2c0c7896e6a31ee311abfae25b82"
         width: 1199

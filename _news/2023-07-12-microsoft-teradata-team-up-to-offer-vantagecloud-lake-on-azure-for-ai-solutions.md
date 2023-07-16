@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KPMG, Microsoft sign cloud and AI alliance mega deal"
+    excerpt: "KPMG and Microsoft have announced what they described as a “significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
+    publishedDateTime: 2023-07-13T02:17:00Z
+    webUrl: "https://www.itworldcanada.com/article/kpmg-microsoft-sign-cloud-and-ai-alliance-mega-deal/542748"
+    ampWebUrl: "https://www.itworldcanada.com/article/kpmg-microsoft-sign-cloud-and-ai-alliance-mega-deal/542748?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/kpmg-microsoft-sign-cloud-and-ai-alliance-mega-deal/542748?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/07/GettyImages-913588342.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Microsoft Entra expands into Security Service Edge and Azure AD becomes Microsoft Entra ID"
     excerpt: "Microsoft Entra is unifying identity and network access with a new Security Service Edge solution and more identity innovations."
     publishedDateTime: 2023-07-11T16:09:00Z
@@ -187,15 +203,6 @@ related:
         width: 2000
         height: 1143
         isCached: true
-  - title: "Azure: Our AI Platform – Stories – Microsoft"
-    excerpt: "Microsoft News Center AI is helping organizations solve some of today’s toughest challenges, and businesses are seeking a partner to streamline adoption and rapi"
-    publishedDateTime: 2023-07-11T05:18:00Z
-    webUrl: "https://www.inferse.com/605669/azure-our-ai-platform-stories-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 49
   - title: "ENOC Group to drive business innovation through Microsoft Azure OpenAI Service"
     excerpt: "This will deliver insights to its businesses that improve the customer experience and unlock the full potential of data-driven decision-making and knowledge discovery"
     publishedDateTime: 2023-07-11T10:37:00Z

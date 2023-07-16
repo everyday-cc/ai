@@ -34,15 +34,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 64
-  - title: "AMD's Lisa Su says AI Will Dominate Chip Design"
-    excerpt: "Lisa Su, CEO of AMD, believes that AI-enabled tools will dominate chip design as the complexity of processors continues to rise"
-    publishedDateTime: 2023-07-11T06:54:00Z
-    webUrl: "https://www.guru3d.com/news-story/amds-lisa-su-says-ai-will-dominate-chip-design.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 34
 
 secured: "IYtFs0oiSfCYapddZMNw9rAnEJSBiRfuafl/hYK0ZC43tFdPJc0vWZM1ujgafHbCeRJPbDmqc0LIZIgtYMdlAs1YIFcFGTio5kGIUoO7zd0uCpvp3bVdQz1S1YecFtMDhN8Cns4p2NqDTXPuEPXUf33yK85jIortEOrH8rppHb1jufzXbjL7/6stmt/aaXPd0MizKT4WrAlgSBZnAQ+1gr//P7uc5ybFnmEEKauj58y27nuyhcd6jL+zv2aQ6Cu/jXklQFRU1OoREmvW3+iwcaKVkq98vUswzUN8n47q8h6JDvr8Hk5RdGewPM58UNwdZQodYt507uwB5AA55x2cuAR4bMrDyjaNy8+BjcDWQdLJdKDuNjBR3s7hld6dVQbc/TROhnadUSKkijXz2uRVXdSgstVd8RnWj3PfPbzC/XWwItr05fXBDdiBY7OZhPp7u2MHoPi0WGintwP6/bzaJIWNIY5smoS4S3cFkz+r/iq/Aid4wlzWaVXTl8i2wzDaFRZth01vIasSvZ4aiNKjQA==;l2rOTu/j4esNjrrLU6rhkQ=="
 ---

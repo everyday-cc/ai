@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/teladoc-health/2023/07/11/embracing-a-new-frontier-of-ai-from-the-inside-out/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "HR using AI on the QT"
+    excerpt: "A Gartner, survey of 105 HR leaders revealed that just five per cent of HR leaders report their function has already implemented generative AI, while another nine per cent reported they are currently conducting generative AI pilots. Gartner HR practice VP ..."
+    publishedDateTime: 2023-07-12T08:13:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57239-hr-using-ai-on-the-qt"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4901c5be5c86464530b4506991d76419_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "a0uNJ0wgzMLMQi9aHOfJy5vjaW059PluxgpUzkssG4X6xBSPJ7cOWZj1YFPcVnPof7EBwsNY5squ6rfFjAxWQuCZQ4V4C8CEdkATBUGQvY4wISx6F2hyu4RLkpliThHZBlbx2MPTTWDsDF3z7ORrMHkl96ojZCCY9z8YXNyw2LrQMpuCrU0W4aRAAtVyjuSXmYAGFOnvDVVhLctuVAw8wbJXREFji+BLzrfsXj6xkMHTfCPeQjXmd8v8GLpSGJobqPcmEH9vjuU35NqDHIGHp4gh8raau0TgwODKsekUNKZ5T2Psd+hOcyBdYhnomKjlzGcJS8dTuNw8OOU7IJHAgO8NHLzOpi0jcOV5WGUUK8xXAfJtgVMwz+HqYPoFwDN4D0Ux5kTaF9pZ4Yt95vClPCfune8a6Lxlmlkl2wsK7SKsyd5+WqRm+iEmeuqc3/4U2SR3HfhEfaMrLJwY5xeNulVpEaxPN3VIWfr2z1qSOK+IqHF/Nm/67JeOQlWyaLf2FKHvV+P/yaldlGc3LputaA==;jV5pA0JRDu5YTOudulSJKQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/notebooklm-google-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/notebooklm-google-ai/amp/"
 type: article
 quality: 94
-heat: 138
+heat: 137
 published: true
 
 provider:
