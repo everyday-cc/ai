@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google hit with class-action lawsuit over artificial intelligence development"
-    excerpt: "The complaint against Google was filed on behalf of eight anonymous users representing millions of Internet users and copyright holders."
-    publishedDateTime: 2023-07-12T14:22:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/12/google-alphabet-class-action-lawsuit-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "bUz2eHmVmpOYCr8q5xL8oeWXNlMgq2bAv3idXax3A0j6ADQCnOLTEI1RnBk71TyL6SLK855zzbjzdYB8EPGWj8LsQF7EPPE7qjnt3mSjtRdkrvIZiztj44FwSg2TpwMf5abSWcgd+3K7vVvSk4vKe736ezted/qb5JxMrD2CKRX8vGwXrKl88YASrvla5pdIblSl2K4IFTTGqV/Eq6I7IJlvOJ4Clutq723ZY8WlzoT5A3lEcklFZx37Ay3Wk8UkHqIyb9S+CsdqDrDzFkikMEUbTNZ/T0llraQbHeW/NoLTYQdTmlIQhEFURoh3zsdgb8+aWWbw+cL51U4IV0j2P0dyr4K3nxTy3hclzFufA2STci8pckHytltunsq47ycya7w0Z8ODfZ6H1/4j8UYDRHjOYhzq94Prqy5K3ga8nB0YYbLuaeASv0jBLpi60c/GX5F4M0U7rWYTkeFu9a0pNv8o1aw8OhTZx4kZppR2m3su5MD/Fr72dIzLMRDG+NevKtW7uaJpAHWH8/aWZjB/kw==;w5c2z/zOqBIWu/+6XdBJoA=="
 ---

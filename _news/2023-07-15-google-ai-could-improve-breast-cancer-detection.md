@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 webUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1056
         height: 792
         isCached: true
-  - title: "Google hit with class-action lawsuit over artificial intelligence development"
-    excerpt: "The complaint against Google was filed on behalf of eight anonymous users representing millions of Internet users and copyright holders."
-    publishedDateTime: 2023-07-12T14:22:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/12/google-alphabet-class-action-lawsuit-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "oLoJgMIjH8XffVTrYH+/fM2Xt9zfrPwS1Ojm/bWrdux8/M2jefLyYmiDuevYfOLbPZh0nsBbNItF2IBp2PcUEhkS2CR8LfHbPVjHvoFizm7fWljxURAGvCtu8o7hKbwmB8mzvCIrU4O7HdYDoPwxd92FkakqGbtqZDq+1cKwy5t6rg2CmlO8esmgZ8AmS25JSqOkEEGw0nvD+6ITJBsdu0SqyqO/iBEhpuAXfPtX467nBdnQZPnspiBGBoRfsUj8G0jLHUTu3A65tDUMqAfHdFT2uVM3Jmy0z98QJhNWi6+Zukc8jGe2UAJ8dU+HXNUHktwwlkxdgagBgKPS7+pMS4l91g8RaQi8YMJol94gSmg=;r8JJtH2bkEkx7f0IW+OBHQ=="
 ---

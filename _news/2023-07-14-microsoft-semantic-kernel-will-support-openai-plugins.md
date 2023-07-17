@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_dreamstime_7_2_1_2_3.jpg"
         width: 505
         height: 315
-        isCached: true
-  - title: "Microsoft, KPMG enhance AI collaboration with $12 billion in prospective growth opportunities"
-    excerpt: "In an era where technology is rapidly advancing, companies are constantly seeking ways to stay ahead of the curve and embrace the power of AI to drive growth"
-    publishedDateTime: 2023-07-12T14:06:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-kpmg-enhance-ai-collaboration-with-12-billion-in-prospective-growth-opportunities/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 43
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/Artificial-Intelligence-AI.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"

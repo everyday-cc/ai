@@ -25,50 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating The AI Regulatory Minefield: State And Local Themes From Recent Legislation"
-    excerpt: "In an era where AI is integrated into our everyday lives regulators are emphasizing the need for responsible governance — though the challenge lies in compliance."
-    publishedDateTime: 2023-07-12T13:54:00Z
-    webUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
+  - title: "The EU Urges the US to Join the Fight to Regulate AI"
+    excerpt: "On his way to meeting US officials, the EU’s justice chief, Didier Reynders, tells WIRED the US must deliver on talk of tighter regulation on tech: “Enforcement is of the essence.”"
+    publishedDateTime: 2023-07-16T06:00:00Z
+    webUrl: "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64aeaf21d8b14e270be9bcff/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 792
+      - url: "https://media.wired.com/photos/64b1c5e9e416fd283a85c576/191:100/w_1280,c_limit/Didier-Reynders-US-Tech-Regulation-Business-1258532578.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
-    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
-    publishedDateTime: 2023-07-14T08:40:00Z
-    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
+  - title: "The EU wants to regulate Artificial Intelligence. What impact could that have on the industry?"
+    excerpt: "As Europe’s executive branch discusses how to regulate Artificial Intelligence, tech leaders are debating the potential impacts of stricter rules."
+    publishedDateTime: 2023-07-13T12:57:00Z
+    webUrl: "https://www.euronews.com/next/2023/07/13/the-eu-wants-to-regulate-artificial-intelligence-what-impact-could-that-have-on-the-indust"
     type: article
     provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 38
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "The Enormous Dangers of Military Artificial Intelligence Reveal the Need for International Regulation"
-    excerpt: "Artificial intelligence (AI) is bound to be a major technological force that will reshape the 21st century. But its reverberating effects will not be confined"
-    publishedDateTime: 2023-07-16T05:40:00Z
-    webUrl: "https://countercurrents.org/2023/07/the-enormous-dangers-of-military-artificial-intelligence-reveal-the-need-for-international-regulation/"
-    type: article
-    provider:
-      name: Countercurrents
-      domain: countercurrents.org
-    quality: 22
-    images:
-      - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/07/Artificial-intelligence-AI-Military-Soldier.jpg"
-        width: 700
-        height: 367
-        isCached: true
+      name: Euronews
+      domain: euronews.com
+    quality: 7
 
 secured: "kEBpSBj0iEDXQ/1kppsWtdylPIf2yAv22rNvbfmkqPfjF3AwWTVYeCQZ6ZmauZrPmebOBNWWCU0CNyKhpgIjbwYmwyU5XgdFvJ5Igk8WW2VmOMWXMd3Q9mQTX9BWg/bFLLqhIS//hRHo2RAv4Y6xNRhBYYh6rzLG7KyonRPQrsE1aMdD/qG7vg1A/fdlimIZh4UKjin9tS7GFiCEWhy/n9Lv9jZhZyn9unTCkQk4uUVC/eXypC+/DkCQS8e0ba+q27UcheP3y9JXXnnXL0h2UJP+Dm2TnR3bK6tUJljHTL6YG/2SODtuWYSdWggQvZyT+H/JGRqRWisOKlX6iKRGqtR3TgzAWcheCxgpvHRroSYTgrkPs24RI4Tl3rGqHRl84P9qamLltOSv1ZM+fiBI+z5XKu43fW7aL7z+nLHDOoDO0bE7scRoXhwX2I5520fioRgrCCV7o7pSQsnHVFc8NL0Xq+9Lr1I9S+y65LUKF3Z83DjlW1P8/Q/wAvyKKKNyaAN510GECpMn3MqmsT1Z/g==;B51Y3KtTW6Bf9/2ourWvrw=="
 ---

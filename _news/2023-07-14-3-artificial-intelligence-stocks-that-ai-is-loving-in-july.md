@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "3 Machine Learning Stocks That AI Is Loving in July"
-    excerpt: "Nvidia’s chips help power the elaborate large language models used to train and run machine learning models, especially for deep learning, a subset of machine learning that involves complex neural networks. Nvidia also offers software platforms ..."
-    publishedDateTime: 2023-07-12T14:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-ai-is-loving-in-july-1032441297"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "The 7 Best Robotics Stocks to Buy in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robots play an increasingly large role in our lives, whether we realize it or"
     publishedDateTime: 2023-07-13T14:05:00Z
@@ -96,6 +87,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "AI Can Write, But Is It Any Good at Picking Stocks?"
+    excerpt: "With its potential to boost productivity across multiple industries, artificial intelligence is the stock market investment theme of the year. But if you ask traders how AI is changing investing itself,"
+    publishedDateTime: 2023-07-17T01:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/07/17/ai-can-write-but-is-it-any-good-at-picking-stocks-quicktake/9f5bcb56-246f-11ee-9201-826e5bb78fa1_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "vH0ui+EAAV9uMjOaXSnMIYqK486o5NQb7wMqSNk+YS9huaOytCFqwcLhM6oTigNn3rF4LZTzb2a2c8yruC82DolBn0nI4xylTMxyfeNOGvCZKL7lu5gAnmGBrwj2dlAiDIxP4pzl4qrkTWeVhGkAXXKip6cLtjvcwnHzRgf+FD9Rsjpch7p4/fHo6idK7fMzqfuV/2gXSuT996N41wY++jLk7jkr3iUYuVHGCh7V3usCciA5decf/64vGx3/I2DH+EKWhPpABPJ3vFil0xbZAHxX8RsKnBOPOgoc//Ei2sQhtelSQnsQwuJKcNPrk2sFhIkDiHMTRXCOn7kX613dmGDj7MzBBveKd9GZ2I/6oq1qZE0JybNv5hF1RSWV7+GYhNShcF+V2fJtzGa1mhRpaqD2N97PvYWOL3MLSLpAHWZL6AvyAVKry+TXcSgV3gxg7UZDbRoHx6WtH7GyE7JPda4EJNOj5qkhMZH94dqgvIkH1DDwLMXYcQYmDsVkWVIQckzpqM2wZoCyYCHBV7lMpg==;1YU5keVe4n/eQWi0fnevOg=="
 ---

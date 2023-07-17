@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-17T01:42:00Z
 originalUrl: "https://www.cryptopolitan.com/redefining-cloud-computing-transformative-ai-partnership/"
 webUrl: "https://www.cryptopolitan.com/redefining-cloud-computing-transformative-ai-partnership/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/EG-905_Microsoft-has-forged-a-transformative-partnership-with-CoreWeave.jpg"

@@ -124,20 +124,6 @@ related:
         width: 765
         height: 446
         isCached: true
-  - title: "Chipotle tests robot avocado prep machine"
-    excerpt: "Chipotle has unveiled a new avocado processing cobotic (collaborative robot) prototype called Autocado that cuts, cores,"
-    publishedDateTime: 2023-07-12T14:50:00Z
-    webUrl: "https://www.producebluebook.com/2023/07/12/chipotle-tests-robot-avocado-prep-machine/"
-    type: article
-    provider:
-      name: Produce Blue Book
-      domain: producebluebook.com
-    quality: 39
-    images:
-      - url: "https://www.producebluebook.com/wp-content/uploads/2023/07/chipotle-autocado.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
     excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
     publishedDateTime: 2023-07-14T02:39:00Z

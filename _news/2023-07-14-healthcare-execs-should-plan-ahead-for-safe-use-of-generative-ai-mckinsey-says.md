@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "4 Ways AI will Transform Work Life for Everyone"
-    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
-    publishedDateTime: 2023-07-13T13:48:00Z
-    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
-    type: article
-    provider:
-      name: ph-creative.com
-      domain: ph-creative.com
-    quality: 41
-    images:
-      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Health Care Service Corp. using AI for prior authorization"
     excerpt: "The parent of Blue Cross & Blue Shield of Illinois promises it will make the approval process for many procedures quicker and easier for both patients and providers."
     publishedDateTime: 2023-07-13T18:03:00Z

@@ -40,22 +40,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "AI in healthcare: New tech in diagnosis and patient care"
-    excerpt: "AI algorithms formulated after 2020 have been deployed to predict the likelihood of a patient developing severe COVID-19 symptoms, helping doctors prioritize care for those most at risk."
-    publishedDateTime: 2023-07-12T14:00:00Z
-    webUrl: "https://cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care"
-    ampWebUrl: "https://cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-in-healthcare-new-tech-in-diagnosis-and-patient-care/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 74
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/09e0408d-1dd9-4ecb-be09-2cb9be386d2b.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "Google's healthcare AI on par with humans but not ready to see patients"
     excerpt: "Google's AI-powered healthcare platform is as accurate as human providers, a new study shows. Mayo Clinic is testing Med-PaLM, but further evaluations are necessary but it's deployed in clinical settings."
     publishedDateTime: 2023-07-12T21:45:00Z

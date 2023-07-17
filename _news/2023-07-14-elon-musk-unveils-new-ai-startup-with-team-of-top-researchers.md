@@ -125,20 +125,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Musk Unveils New AI Startup"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal \"is to understand the true nature of the universe."
-    publishedDateTime: 2023-07-13T14:56:00Z
-    webUrl: "https://www.manufacturing.net/operations/news/22867237/musk-unveils-new-ai-startup"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/07/AP23193758715762.64b0073613ede.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C39%2C1920%2C1080&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk wants to master the universe with xAI"
     excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
     publishedDateTime: 2023-07-15T11:02:00Z

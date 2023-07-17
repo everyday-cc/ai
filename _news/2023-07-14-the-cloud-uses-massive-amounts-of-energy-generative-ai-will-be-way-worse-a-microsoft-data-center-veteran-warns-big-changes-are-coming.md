@@ -125,20 +125,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "KPMG to work closely with Microsoft on AI, investing $2 billion"
-    excerpt: "KPMG will work more closely with Microsoft around AI solutions. To put the money where its mouth is, it will also invest 1.8 billion euros ($2 billion) in"
-    publishedDateTime: 2023-07-12T14:01:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108845/kpmg-to-work-closely-with-microsoft-on-ai-investing-2-billion/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/06/kpmg.png"
-        width: 1452
-        height: 823
-        isCached: true
   - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
     excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
     publishedDateTime: 2023-07-13T17:48:00Z

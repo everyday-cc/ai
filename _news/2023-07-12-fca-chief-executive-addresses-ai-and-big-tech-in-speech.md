@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/07/209975-fca-chief-executiv
 webUrl: "https://www.crowdfundinsider.com/2023/07/209975-fca-chief-executive-addresses-ai-and-big-tech-in-speech/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 1077
     isCached: true
-
-related:
-  - title: "AI can ‘tackle the advice gap’, FCA boss claims"
-    excerpt: "The Financial Conduct Authority chief executive Nikhil Rathi has said artificial intelligence (AI) can play a role in “tackling the advice gap”."
-    publishedDateTime: 2023-07-12T14:55:00Z
-    webUrl: "https://www.moneymarketing.co.uk/news/ai-can-tackle-the-advice-gap-fca-chief/"
-    type: article
-    provider:
-      name: Money Marketing
-      domain: moneymarketing.co.uk
-    quality: 39
-    images:
-      - url: "https://cdn.moneymarketing.co.uk/content/uploads/2023/04/05121834/nikhil-rathi.jpg"
-        width: 504
-        height: 336
-        isCached: true
 
 secured: "bOH39+SWaWNjp6H9pxIAvJGnuKCF4bVS0OUuKSnFh1sZYfNWMJd7mql/PFK/fHecxykdlJSKOvQxxMHpkYF0u+9vS1a10zwKr0sA5UhOo3YTxEFEfjWskVMVT2qHj5ogABFIc6oRWq03T5kbsijiKIJk5G7du1KJ1Acvd0UPv5JHEWu2cy6FFjnVYI/g0iA0x5u+zoNyEdO1LfuxuWmM4L8wITsrUlggEIdgkdd+3rGDeF5i0hR+F6Gr8B5NDIU8Dh87x6ZaRT5451HKYuWOusAUeyXI607t2pmguGoxegJ9Xd/sJXFOsli3FK14GlEnZHV08oV7JcokE2V9ckO2i/EG2Ggjov9glWumk/O3Hs4=;sKNxUV1OK0aaXELGGU7Hjg=="
 ---

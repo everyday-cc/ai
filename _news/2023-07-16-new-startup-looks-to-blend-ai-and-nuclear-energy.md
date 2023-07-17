@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dutch startup taps AI and robotics to automate EV charging"
-    excerpt: "Rocsys has created a robotic arm guided by AI-powered computer vision technology that can convert any charger into an autonomous one."
-    publishedDateTime: 2023-07-12T14:08:00Z
-    webUrl: "https://thenextweb.com/news/dutch-startup-rocsys-ai-robotics-automation-ev-charging"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 99
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Frocsys-autonomous-charger-EV-robotics.jpg&signature=b2e4e462ae986df71fc72aeaefe70deb"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Networking Startups Jump On Cloud Costs And AI"
     excerpt: "Other cloud networking startups are also going after AI. DriveNets recently announced that its Network Cloud-AI solution, which uses cloud-based Ethernet-based networking to boost the performance of AI clouds, is in trials with major hyperscalers."
     publishedDateTime: 2023-07-12T20:25:00Z
@@ -55,6 +41,34 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64af0ba1f497fc5894534a0b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 801
+        isCached: true
+  - title: "The Last Word on AI and the Atom Bomb"
+    excerpt: "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes."
+    publishedDateTime: 2023-07-14T10:00:00Z
+    webUrl: "https://www.wired.com/story/last-word-ai-atom-bomb/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Musk Unveils New AI Startup"
+    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal \"is to understand the true nature of the universe."
+    publishedDateTime: 2023-07-13T14:56:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/22867237/musk-unveils-new-ai-startup"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/07/AP23193758715762.64b0073613ede.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C39%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ulY1MReUYYqSzYU/xKiG2meywSGD/aPeWXmcWuV1m1sp9QPtd1iOTKXHPW8z//9nss2hKlTTafUTeMvynlVD6+Vq8qA3g4cvuDJG9TyXkKxZJNhZ81ba9193TO3nUY2tBUzOSP2SG9UF71WMhd2VRHo06LophWnn0asxHIOLpUJYc1pqAYX9EIj1lp9J0c9xJg/DAhoY83HnvxEeNPPi2qRBzPJNsJgt8gaDMXN7VzKa8XOYnlYsz6RJz2ZnohKx4MkC3ynwVeVKrTGrmpOrHbffDHIciwsPnxxuKPyEInM0Uk/Xr05AcT8XDXny1w5MMZKXbbHNVEB2irmSkHfioQV9XWqvn0SDDdlY1+79zdTyvcRDO2Ab/wYH2RHJp0AKx7CE4n9Dl1TvZvd+tCfwZ6/DQdRpGfuLtCmEjZy+k3rti1mXavcKkn9EG3oZxAG1TBfyRLDoJ5TBv0X2us+/xp/Qh2zbUqkjCiAabvVVpqfcjABS711lfUGeaoJ4pqUF0AjwOvGgtEo0uCVn2Ec7Hw==;Svzu4Iz/b1tcgYI237oJIA=="

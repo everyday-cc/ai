@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,54 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
-    excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
-    publishedDateTime: 2023-07-12T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
-    excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
-    publishedDateTime: 2023-07-14T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b001d6688702d8dcee1991/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why learning the language of humans is key to enable generative AI for automation"
-    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
-    publishedDateTime: 2023-07-12T23:42:00Z
-    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "co0nAyK8qaZZ1c0EOs/09zdpUkYVoljjdLTqt0KmVvG8d0VKo9TORYGZbvFLB5xxgEXK+ZwJZfl2lUGk2JHoGGKxVCtagxSNFuiYj/edyv6rr9X72W5x9LHdnjF0Ty+uFiT+Nk8TuOGVcFk3+/ErpFZht3olwsJ3VyQ9c0xHfoeuy5PvLTFF9VzwQSmk7b6oP9oGXGQZI2IAIGf5Du5hzpcF7PNK4tA8CbTSVLLrQ7t3LxUXcmbs2c+b2YStgHG29EokTJUfRqeRxR18zOIYC+mXrfV6HyX6SS/319v9Vphgazz3VWwlnf9yzwaHwtEwp2so6lfXe5xw5wb8De39uI9e9hY6+TsIcar+OnjGqMdQWyeONO7Ys58MTYPCOL//33eihnUpVUt3jsDQgzB+yFDarS5PhSYtRP2vR/d5lHCOqg8R+91hVsp7bTcwD3dLSozlWABsHp9zTvfzLa2NPDkxiDJ/YJdXSuUk5+eDpM/TNf8Mbkp+Rn/ulwuhaHZPdp7hCYXCcyR4Ngt5GQuz4Q==;pR9NZSIZoguz+s6F1yuafg=="
 ---

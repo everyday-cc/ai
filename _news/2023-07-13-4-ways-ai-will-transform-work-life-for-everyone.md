@@ -26,40 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Health care providers say artificial intelligence could transform medicine"
-    excerpt: "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments."
-    publishedDateTime: 2023-07-14T00:20:00Z
-    webUrl: "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
-    ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
+  - title: "How Will AI Impact the Future of Your Work?"
+    excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
+    publishedDateTime: 2023-07-13T01:59:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 57
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Healthcare execs should plan ahead for safe use of generative AI, McKinsey says"
-    excerpt: "Generative artificial intelligence could lessen providers’ documentation workloads and more easily connect beneficiaries with their health plans, according to the consultancy."
-    publishedDateTime: 2023-07-13T18:45:00Z
-    webUrl: "https://www.healthcaredive.com/news/Healthcare-execs-should-plan-ahead-generative-AI-McKinsey/687174/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 30
-  - title: "Health Care Service Corp. using AI for prior authorization"
-    excerpt: "The parent of Blue Cross & Blue Shield of Illinois promises it will make the approval process for many procedures quicker and easier for both patients and providers."
-    publishedDateTime: 2023-07-13T18:03:00Z
-    webUrl: "https://www.modernhealthcare.com/insurance/health-care-service-corporation-hcsc-using-ai-prior-authorization"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "ZluK3toRX43H0pMaebXt8gvVm5Zb8sWu4jVsc5XGnI7inqkMYxBydDC4It7aNJK6cuq4oMVCF6hrczjjHfZFJD+MzpeZpq2kOEatNIVsBguwHSaHD+QIuHor1V9OpJLee8CfOJygY0t2r2h2m5vgLOGKGdvxEaAHwnKhpYe7jfVT3zq2vcswJs8V5tOluQPYfrIPfb80gLlgKdlFIBG8VzRVSjz3Gz78jZ+BZkZ+xXex88SIGapWbdgAF2hrK931cIg0hu4U2kj3TI/UFwDv62DBvDDHBze0oqKsba7W+2WVyk9dFNKqQZGhaweUPiufRCgV2oPJzkzyCZepvWkr5RsvZpiq8vegVs7gtGnzo9GD+0/om+0HwDpRslIjzQ3KVLT4rHxDGrZOxqGIYGbWxOFCsFIrDq3GSMk5HCD/wA5ZzvXuaGE0N7FlnHPQrKXgx/jdFUMZm95F7pskN1HUyFjadxMJktXU9SyfzygskQ4p39yOw8Kh0GUBerKZBE/KRCxkdmQY4NuPJeAUBRF3Bg==;melzKPjpAWEunwRWqSNT7g=="
 ---

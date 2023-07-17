@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "50% off? Yes: We've got the best Amazon Prime Day 2023 furniture deals"
-    excerpt: "It's a great time to buy a new couch or coffee table. Amazon Prime Day 2023 includes the best deals on everything you need to furnish your home for less. The retailer has slashed the prices on top ..."
-    publishedDateTime: 2023-07-12T14:05:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-furniture-deals-at-amazon-2023-06-29/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-07-10/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-furniture-deals-at-amazon-2023-07-10/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/26/0ad6b0d8-0bbe-4ef7-ae5f-77cd418bc66b/thumbnail/1200x630/b6b1052b66f8fce2848975c1ada0f300/a1lil2l-jl-ac-sl1500.jpg?v=b9ad248140817530b57bedd1355bcccb"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "It's not too late: Best Amazon Prime Day deals on Samsung tech that you can still shop"
     excerpt: "If you're looking for a new Samsung smartphone or earbuds, you can find some great deals on Amazon now. The Amazon Prime Day 2023 sale is technically over, but Amazon is still offering a number of deep discounts on top-rated Samsung products, including smart TVs, smartphones and robot vacuums."
     publishedDateTime: 2023-07-13T17:46:00Z

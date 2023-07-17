@@ -48,20 +48,6 @@ related:
         width: 505
         height: 315
         isCached: true
-  - title: "Microsoft, KPMG enhance AI collaboration with $12 billion in prospective growth opportunities"
-    excerpt: "In an era where technology is rapidly advancing, companies are constantly seeking ways to stay ahead of the curve and embrace the power of AI to drive growth"
-    publishedDateTime: 2023-07-12T14:06:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-kpmg-enhance-ai-collaboration-with-12-billion-in-prospective-growth-opportunities/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 43
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/Artificial-Intelligence-AI.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft celebrates Future Ready Champions of Code with over … – Microsoft"
     excerpt: "Developers get future-ready with Microsoft Cloud certifications; build innovative solutions to accelerate inclusive growth for IndiaBengaluru, January 2,"
     publishedDateTime: 2023-07-13T03:39:00Z

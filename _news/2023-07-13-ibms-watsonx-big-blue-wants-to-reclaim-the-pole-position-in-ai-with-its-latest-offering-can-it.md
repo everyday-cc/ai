@@ -55,15 +55,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "IBM unveils its next generation of Watson for businesses"
-    excerpt: "IBM is now rolling out its new watsonx AI platform for enterprise, which includes three products to help organizations use the productivity tool within their workflows."
-    publishedDateTime: 2023-07-12T13:33:00Z
-    webUrl: "https://www.techradar.com/pro/ibm-unveils-its-next-generation-of-watson-for-businesses"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 49
 
 secured: "6+D6WIuqh6LO8cDoNezM2OCXSX/QH8n66BtnmEs1iOgh95mDl2bCHMXye6YHEcpAvq9lxDJwl+zhPJMtETpVwBnJsEfHzNL1olh8KiViu0zsMM5l573UYQttenLSoTaRa6/T6q1A/a8P+ZUR2R52bid6DtkSnY0DZp0aVlmugiJDug1+n9dGvfrlohGp207BqBMReM1W9ezyOGlYtLD8ftfbb/Dv6U9M5/VeZVD4V1L2BbfqsGipQQBZ8fMUigQmgHOIx1j87cQjWAtvsAreFaUMrxsFg/sZQyZpnlPVut15wm0x8KU4VH/Is+HPRpIhAAUU1footDmVlAp9hLP41/ASBEM1/ougO2z0P4z12IN/rUwjHtbMmPrr10qP6JDJxCVM9BtrvG7jtXUB0PbCA/JbcXEdz1ae8zntLHLZrb0AqWcGtE5hvfA+CtD1B10YdynE1vw6R0WksJZJqJ3VbCFT//n6I7IlTnXFz60e0PrsIFw3FcGlkkRN3g2jQSTEUBAKWbwoot9d+6Pa1VLzMg==;WnGybvRowTNa8qnUPcQZhQ=="
 ---

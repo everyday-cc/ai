@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "With Robodebt and anonymous No Voice campaign, politics has descended into a dark place, feeding off downward envy"
-    excerpt: "If there is a similarity between the politics of Robodebt and the sorts of things now being said under the No banner of the Voice, there is an even more significant similarity in the mechanics of what lies beneath both,"
-    publishedDateTime: 2023-07-14T19:00:00Z
-    webUrl: "https://www.abc.net.au/news/2023-07-15/beneath-politics-robodebt-no-campaign-against-voice/102603144"
-    ampWebUrl: "https://amp.abc.net.au/article/102603144"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102603144"
+  - title: "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge"
+    excerpt: "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners."
+    publishedDateTime: 2023-07-13T17:11:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
+      name: Automation
+      domain: automation.com
+    quality: 50
     images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/21e76ed1643788f08003a41ce62db501?impolicy=wcms_crop_resize&cropH=450&cropW=800&xPos=0&yPos=75&width=862&height=485"
-        width: 800
-        height: 450
+      - url: "https://www.automation.com/getmedia/215a71e9-f4f9-4721-b6c3-5aee79b092a8/Robot-award-news-Massrobotics-July-13-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation"
+    excerpt: "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi"
+    publishedDateTime: 2023-07-12T21:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/12/9847425.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "/lDcvfI33Vigs7Ui5BOQFIxHCzmmk/H4LZfVmyGi+il9RMpKLk5VfL5LbjjEGllUY4OmvmoBhUvnY2XIi9acsEQ4jOFzWEBLukwntc8Wi9Y+pguK7/0esDtMGtHmwWYxgcccxYCniVXS6sdLpXmTN0IJ3e3LwStX5HakOhYI5GWA2dCXhNZegfmv5VU0QtO4DW/jwtVU4tA5S4haPmvruy8lKgiO2gW5sBCwvIells7heYz3JoL6PFq8ydmdylE0myA7E03bBfuao/7jOsIHltYZcgEaF6rd/gSzX40QQNCHNRdUzqY4VebzET4bwAsUdADFCHA+ONWVFqSmKTb7SFdm7LGSE8PUcpjd8wSrt75Tk/FM9j/N0iT6iQcuZKQkZ7afa9wqKWk0JGtVhriJHSwlXX0wIKw90Bop7tP1VYOklaaM8ylppPzZuV3qlGnEcIGwBIT7DzvNBQjTYwk/5hLqu8Tvm3vSpDqrkHCnKvwHZVUqbRUsHbxiTY4W6IY8V1eknq0w+HjxwHAiRZ2l0g==;uTebUQpja82/eARGWkYk2g=="

@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "KPMG to work closely with Microsoft on AI, investing $2 billion"
-    excerpt: "KPMG will work more closely with Microsoft around AI solutions. To put the money where its mouth is, it will also invest 1.8 billion euros ($2 billion) in"
-    publishedDateTime: 2023-07-12T14:01:00Z
-    webUrl: "https://www.techzine.eu/news/applications/108845/kpmg-to-work-closely-with-microsoft-on-ai-investing-2-billion/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/06/kpmg.png"
-        width: 1452
-        height: 823
-        isCached: true
   - title: "KPMG and Microsoft agree to focus on AI"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernisation,"
     publishedDateTime: 2023-07-13T07:16:00Z

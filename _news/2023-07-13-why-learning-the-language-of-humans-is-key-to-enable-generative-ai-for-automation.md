@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Our Three-Month Generative AI Transformation: Lessons Learned"
-    excerpt: "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions."
-    publishedDateTime: 2023-07-12T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/"
+  - title: "How to avoid pitfalls and navigate the ethical landscape of generative AI"
+    excerpt: "We still have a lot to figure out. That was my impression of a Transform 2023 panel that drilled into the ethics of generative AI."
+    publishedDateTime: 2023-07-12T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/ethics-3.jpg?w=1200&strip=all"
         width: 1200
-        height: 738
+        height: 769
         isCached: true
   - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
     excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
@@ -60,15 +58,43 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
-    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
-    publishedDateTime: 2023-07-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
+  - title: "Navigating data governance, transparency and trust in a generative AI world"
+    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
+    publishedDateTime: 2023-07-12T21:11:00Z
+    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
+        width: 1200
+        height: 684
+        isCached: true
+  - title: "Embracing the disruption of generative AI at speed, responsibly"
+    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
+    publishedDateTime: 2023-07-16T22:57:00Z
+    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
+        width: 2254
+        height: 930
+        isCached: true
+  - title: "Crawlers, search engines and the sleaze of generative AI companies"
+    excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
+    publishedDateTime: 2023-07-13T15:32:00Z
+    webUrl: "https://searchengineland.com/crawlers-search-engines-generative-ai-companies-429389"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 21
 
 secured: "PKpcYwyspoYfMLYsFKDp17nLHEQ09/HR8iv/7od1pppbqzBk+Oopbg3GpKaOV9vq79GOsvtPC3yJQpQ78cLWHC4UXvrVLkckwH5xCibx1553s5IdOv9GCQjMEcOkzDii2xb3Ze280On5KNM1ONrscXsNsnStj0tygrYGgEL7qIQ6Lc3UFtWOfFGX7uKKYWOHLvBu8+U0r1D9ie6dk3TUvOqvQySZTC3kdsxMkw1v9mZKISXRG0067kqaAPZCHxu/pW2Y4v3YYIQ7z7wIi/nCsvl7qFmC+HgyTAHhuAJPIccpsO2MeKeYMxFBlzdpivpuy33lR/qU74QnzOySPuEBHfYCX+G1N76ppjjgxKJPMIuWs9f+fcq2gN6vFLoYA9uIQzwOMx5wkSN0SYMRMpTKF311xonQP+zBr0JauQIrDosKNmdmHYusaPQuoJ6Z8q7V8mYIEHV/gWCYVejEWs/i6TKJ6t0W/5skE9ZLtSz5G7+qXQsrX+chE/Rfd6lDhr79533m5jyoNhRn/pwK4SlO6A==;TDTNmOTu7KEQ5VsL3IQU5w=="
 ---
