@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Quiz on AI: How Much Do You Know About Artificial Intelligence?"
+    excerpt: "Artificial intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of human lives. From chatbots to self-driving cars, AI is already being used in a variety of ways. In this quiz, you will be tested on your knowledge ..."
+    publishedDateTime: 2023-07-15T20:27:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1"
+    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1"
+    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1"
+    type: article
+    provider:
+      name: jagranjosh.com
+      domain: jagranjosh.com
+    quality: 74
+    images:
+      - url: "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg"
+        width: 960
+        height: 1280
+        isCached: true
 
 secured: "+UL1P3tSUmtk7N8h3PfY9LburD92F2D3CatSQ96MHQyljLfTviP2rNn18AIsVsebRfMqqbFjPoFsXugaVcnM3yILMehRs5gfTqQcYG8w7lZzVKkV4W/MlypSUeZ7CFtHQjGf7TLn0i+iO3hPRJQlJ/SjbpazBa6gxXqwQ0yGL5f2oBm3kbadioGlAnidVvVG6A+oQbIGS6WuHUpDw8FN4czKllvuUIU9AlcT1rhG24JFbFNsbavRpgJXjlwPz3WEd31b9KO3qdJ8X0oEzhOsmQ78Znkh2rO5T2tfU2/j+9wOjkF3VZjzs9QEu914dnH1feSOlQJ3fdNziM0XERrYcf74uqJ3GZHlmYRJhGHN4KBP9pn/geq6jEM1CbLux1iqgSAgktDd9O1VUST9uHNcQ0VLx5zf47paNeoVYy3bgK3WFcEtJZtxDLrNPGmol40kMe5E418PEZC8dBNdGc3M+n8h16UNY1O/E1LJfJ0flgHgblld3RvpzSaiwsghQbZ9MBc8PdjCiUk1+93uPz+yzQ==;zU8CHUQrLg+o+hbDOlb7Jg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-launches-watsonx-enterpri
 webUrl: "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM considers in-house AI chip to save cost on operating its Watsonx"
+    excerpt: "IBM said it is considering utilizing its in-house AI chip this time around, which could help lower the operating cost of the platform."
+    publishedDateTime: 2023-07-13T00:15:00Z
+    webUrl: "https://techwireasia.com/2023/07/ai-chip-by-ibm-could-save-operating-costs-for-watsonx/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 71
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_2301582847-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "IBM’s watsonx: Big Blue wants to reclaim the pole position in AI with its latest offering. Can it?"
     excerpt: "Long before ChatGTP surprised the AI world with its capabilities, Big Blue had set a benchmark in the technology. But ChatGPT stole IBMs thunder and made AI platforms accessible to the masses. With the launch of its enterprise-ready AI and data platform watsonx,"
     publishedDateTime: 2023-07-12T22:30:00Z

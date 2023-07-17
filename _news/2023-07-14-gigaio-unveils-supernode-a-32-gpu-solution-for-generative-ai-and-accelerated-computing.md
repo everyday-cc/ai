@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
-  - title: "Kinetica Now Free Forever in Cloud Hosted Version; Accelerate the Transition to Generative AI with SQL-GPT"
-    excerpt: "Industry-first pricing model includes storage and compute at no cost, with no expiration date; provision in under one minute and get going fast Kinetica Cloud for Dedicated Workloads provides upgrade option for production deployments ARLINGTON,"
-    publishedDateTime: 2023-07-12T12:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/12/9846923.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "dGWY0MrmFFPSC5ZshV12nfh8ct+MAUmamHJ3fgmtOopePOK/d1mQGGJUglsRsSwHwOkJ35IyvfDnbC2zHqurF4TkkpKN/nSP4g5lcSlYXEO0hxP89vzEQEzYXR4YIHfhUewQOTFI6uk3jMdQDXviiRrcUNzped+KlQB7YG6Rfo+wjGrv2LiFMrfvDAXIf0RPRsmrq8vd4BaJDRy9wnu9qO7rmkZXM0JC6Ihhd81HI2YiAbpiF0LdNZmph9zgi12N42iC7HTN61QPkWLxCkxe0QYCmF5H1sm24eegP24IhuUtNGpEL45Ns9T0pEpfKjAzbe1tHRVDEiW/GImlSL4uM9k4yDnC+mjXsqa4DpEdQs0=;4wI2Mcw+y6wxTIf59ayCgg=="
 ---

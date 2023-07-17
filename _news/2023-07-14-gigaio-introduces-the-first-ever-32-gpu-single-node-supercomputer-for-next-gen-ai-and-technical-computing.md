@@ -33,15 +33,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "Kinetica Now Free Forever in Cloud Hosted Version; Accelerate the Transition to Generative AI with SQL-GPT"
-    excerpt: "Industry-first pricing model includes storage and compute at no cost, with no expiration date; provision in under one minute and get going fast Kinetica Cloud for Dedicated Workloads provides upgrade option for production deployments ARLINGTON,"
-    publishedDateTime: 2023-07-12T12:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/12/9846923.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "SWUb6bCCf1Y5B85u/aG9cXvxfZt4h9X2+iLvYu8BHF4I2hiRrBsjBQZP4epO3wJF2md6zgcf79/bSkZ7MS8FCN6OWJf0gYBd7640ZZoij2gBx5AK/TTOor8cAl894wq8ObPGYczTycVIgQQmtDYTwRCPR+vFFcfNMqdcvQB0O7T5l3BjMlQML9fxF4Kqm3eY8WVrRlIWWAWC/nWL5aW0Z4EDIQaBbVuwfDb5tgJj1ovDR3nDZk1Li/WyIDzMLW6HQbjvSuBl27O8pzOCkKABohVMKpc/EI9L4GHeRnZihczvWsO8uxOjobugR5iNOwv/evXmdzjQ97dcxAD3y9Ls4M5d3ULsf04nUVIwklpk5jA=;JKBNRPOP+nlMLAe/6jxmAg=="
 ---

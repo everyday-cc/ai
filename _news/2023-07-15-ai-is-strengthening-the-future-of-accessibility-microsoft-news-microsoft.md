@@ -168,15 +168,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
-  - title: "KPMG to expand ties with Microsoft, will spend $2 billion in AI, cloud services"
-    excerpt: "KPMG plans to spend $2 billion on AI and cloud services through an expanded partnership with Microsoft, aiming to incorporate AI into its core services. This move is in response to a slowdown in advis"
-    publishedDateTime: 2023-07-12T12:25:00Z
-    webUrl: "https://www.livemint.com/companies/news/kpmg-to-enter-into-a-deal-with-microsoft-spend-2-billion-in-ai-and-cloud-services-11689122323635.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 30
   - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
     excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
     publishedDateTime: 2023-07-14T11:41:00Z

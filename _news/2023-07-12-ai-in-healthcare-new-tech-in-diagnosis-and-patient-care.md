@@ -43,22 +43,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "AI can address high cost, poor patient experience in healthcare: Report"
-    excerpt: "The implementation of generative artificial intelligence (AI) in pharma and healthcare has the potential to address the issues of"
-    publishedDateTime: 2023-07-12T11:37:00Z
-    webUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report"
-    ampWebUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/AI.jpg"
-        width: 400
-        height: 222
-        isCached: true
   - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
     publishedDateTime: 2023-07-14T15:53:00Z
@@ -124,15 +108,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Artificial Intelligence In Healthcare: A Potentially Strong Opportunity For BioSig Technologies (NASDAQ: BSGM)?"
-    excerpt: "BioSig Technologies, Inc. (NASDAQ: BSGM) announced a new collaboration agreement in June with Reified Labs, a technical advisory service specializing in advanced artificial intelligence (AI)."
-    publishedDateTime: 2023-07-12T12:12:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/07/33196908/artificial-intelligence-in-healthcare-a-potentially-strong-opportunity-for-biosig-technologi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
 
 secured: "xI5G+enitB5ba0B9WFnmZufRMQt3dW1U2soWw0UPmS7puLdIofTvCKBVf6vlHfys4vsXM73LDn8dmpUYDCOzx8HeqfFCKPpC5NOgZy4hD3GVgZovzY0193QR4FYJRlcZ+OcgoAzLzvUYf70MJ5C4n+GEKa4SY4+m+ZqyzUbOIXVXXUJzeBxKPKYGHf4ysnexmtf4nbIfxs4MAZoHmvD5g1KDV8UsaVpDRZClKMFbDEYpsjNxIZvGDmPjWu5pGCZwFZccmiYXo154r4n5tcklH/r3uXy+fEhTSYFSCxYUEKCsfaHXEOJjs/TgisknBvrCeC6CbDreG01IR0qqIGtis5n/uLLT5a73TZNcmScEklqbWnlqB8vD3Dfi2BScaax3yDKBlDx973vjZWMFZ9tVimcQqBElrU/ydIHTtLY3zofHmETDLX0PS2EGsWkOPgfQQabCPGPIjlSxAz2De9GWj1s8/MLv7CdYtIlgL+eE45zg09NkyOP9PGMo7h65HHFCOgzWPqCgYzgl3gN/ZOmnIg==;aKZ5cjH5b6BKZVMOjLNQ0A=="
 ---

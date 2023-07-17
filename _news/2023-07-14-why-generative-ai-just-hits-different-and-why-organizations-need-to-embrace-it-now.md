@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-a
 webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -30,60 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprises need generative AI tailored to their unique needs, with their own unique data"
-    excerpt: "Learn why enterprises need generative AI, and how IBM watsonx offers a seamless, efficient, and governed approach to their AI deployment.\nThe post Enterprises need generative AI tailored to their unique needs, with their own unique data appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-12T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/"
+  - title: "UAE Artificial Intelligence Camp empowers new generations"
+    excerpt: "It addresses six cutting-edge themes, including web development and robotics, digital entrepreneurship and career planning, generative artificial intelligence, online safety and cybersecurity and deep dialogues in the field of artificial intelligence."
+    publishedDateTime: 2023-07-16T07:06:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/07/16/uae-artificial-intelligence-camp-empowers-new-generations"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 90
-  - title: "Enterprises Are Not Going To Miss The Fourth Wave Of AI"
-    excerpt: "IBM announced its Watsonx software development stack back in May, and today it is starting to ship it to customers. We wanted to know exactly what the heck it is. And so we reached out to Sriram Raghavan,"
-    publishedDateTime: 2023-07-14T20:17:00Z
-    webUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 39
     images:
-      - url: "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "China to Impose New Regulations for Generative AI"
-    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-14T21:10:00Z
-    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
-    excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."
-    publishedDateTime: 2023-07-13T20:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/13/assembly-software-brings-generative-ai-to-its-case-management-platform-with-neosai/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 33
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/07/NeosAI-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/16/uae-ai-main1-750.ashx?h=450&w=750&hash=6DF4267865CDBC6945BE49881297AA73"
+        width: 750
+        height: 450
         isCached: true
 
 secured: "DwG08yBLRhHdpzHP6tKXcZSMkAU/Znu/BomDPIDLXsJ3/FbeG//KHW5wWtfggBXyGm+SYItTeNe1FGWxRoezZil9J7gvKaxfdx7vdHFqoQAK5/tcnGW5nu9Yy516lmpraAewO54Zd+VqxN48cAkN1K6LEV9sTrrPTMv73Z7+JfOiP5H2T1WdHfGRYftEF8kUX0SU5iZPtwdw38q6aj4fZ5+82olakwT/vtgzYnTsQo0XdJWOC23AbK1BvxYURZIana56Od97urbUu21CbtdveS7zJnw5IVL2DlmGmUEcnO7XvxnkVXRCY5Uz9bc0dhTchQhURqnMBMgET6zetGocQ7AY17jA4lWjrTrPEzAcCHuhDG4HjXNKPvzu2DqCEOTIoHikoUIVKv51AFE6FmLF9b/M+CEcH9WQlHeFWIuvUd/DhA4ChWr03TkKsL01f8gxBYy5uaIe4ATwvSyqTlto5mg/v7iJf6jCnNMfC2VUhVtEzbIEoi2cFp2PbOANtYSiICqQSS1pr4/jxH0NtjI2Iw==;+/w4Vrmh7tPd4/Oisr6FkA=="

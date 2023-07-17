@@ -41,6 +41,20 @@ related:
         width: 1400
         height: 884
         isCached: true
+  - title: "IBM considers in-house AI chip to save cost on operating its Watsonx"
+    excerpt: "IBM said it is considering utilizing its in-house AI chip this time around, which could help lower the operating cost of the platform."
+    publishedDateTime: 2023-07-13T00:15:00Z
+    webUrl: "https://techwireasia.com/2023/07/ai-chip-by-ibm-could-save-operating-costs-for-watsonx/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 71
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_2301582847-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "IBM unveils its next generation of Watson for businesses"
     excerpt: "IBM is now rolling out its new watsonx AI platform for enterprise, which includes three products to help organizations use the productivity tool within their workflows."
     publishedDateTime: 2023-07-12T13:33:00Z

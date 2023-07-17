@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia invests $50 mln in Recursion to train AI models for drug discovery"
-    excerpt: "Nvidia invested $50 million to speed up training of biotech firm Recursion's artificial intelligence models for drug discovery, which the chip designer can then potentially license out, the companies said on Wednesday."
-    publishedDateTime: 2023-07-12T11:31:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-invests-50-mln-recursion-train-ai-models-drug-discovery-2023-07-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 48
   - title: "StockWatch: After $50M from Nvidia, Investors Bullish on Recursion"
     excerpt: "The appetites of biotech investors for companies expanding in artificial intelligence show no signs of slowing any time soon, as reflected by the stock surge enjoyed by Recursion Pharmaceuticals after Nvidia invested $50 million in the AI-focused drug developer."
     publishedDateTime: 2023-07-14T16:34:00Z

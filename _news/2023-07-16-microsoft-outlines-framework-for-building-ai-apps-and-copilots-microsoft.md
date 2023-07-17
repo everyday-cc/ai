@@ -159,15 +159,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
-  - title: "KPMG to expand ties with Microsoft, will spend $2 billion in AI, cloud services"
-    excerpt: "KPMG plans to spend $2 billion on AI and cloud services through an expanded partnership with Microsoft, aiming to incorporate AI into its core services. This move is in response to a slowdown in advis"
-    publishedDateTime: 2023-07-12T12:25:00Z
-    webUrl: "https://www.livemint.com/companies/news/kpmg-to-enter-into-a-deal-with-microsoft-spend-2-billion-in-ai-and-cloud-services-11689122323635.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 30
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
     publishedDateTime: 2023-07-15T05:17:00Z

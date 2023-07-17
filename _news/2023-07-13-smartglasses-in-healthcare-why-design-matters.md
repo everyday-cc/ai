@@ -41,22 +41,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "AI can address high cost, poor patient experience in healthcare: Report"
-    excerpt: "The implementation of generative artificial intelligence (AI) in pharma and healthcare has the potential to address the issues of"
-    publishedDateTime: 2023-07-12T11:37:00Z
-    webUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report"
-    ampWebUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/AI.jpg"
-        width: 400
-        height: 222
-        isCached: true
   - title: "AI in healthcare: New tech in diagnosis and patient care"
     excerpt: "AI algorithms formulated after 2020 have been deployed to predict the likelihood of a patient developing severe COVID-19 symptoms, helping doctors prioritize care for those most at risk."
     publishedDateTime: 2023-07-12T14:00:00Z
@@ -124,15 +108,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "Artificial Intelligence In Healthcare: A Potentially Strong Opportunity For BioSig Technologies (NASDAQ: BSGM)?"
-    excerpt: "BioSig Technologies, Inc. (NASDAQ: BSGM) announced a new collaboration agreement in June with Reified Labs, a technical advisory service specializing in advanced artificial intelligence (AI)."
-    publishedDateTime: 2023-07-12T12:12:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/07/33196908/artificial-intelligence-in-healthcare-a-potentially-strong-opportunity-for-biosig-technologi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
 
 secured: "oZZJSxF2DCndqa7+AFqvjFb92U0Yfk4nTVRRjdr43gOMoNzfit6dLerXqOvL08IwJ4n3kOL+TjO4wJuKYTOGuDxUTVOm0yJakvkUu/XCAAigM1vQ3WPjD7RpdDDs5xLPpdaKh6JbmO+iu1OCRQIO9pOKF48B9xoaW4YgyveScCY8UD0BSTzNaBy3HP2UeS0av9jkMEbIDsM5PXK4/SRsm6D98CGWyu7ojJP64VfKYwd6S3BHcTAl07vdqmQu4FEw5lfZ4nOUXOatvdpx51U541SB0qbubvb8ke9AnYt+Da9FQDyr8K0Y72cu0zDKhT6vWTZFwJqvl7BMX5Frv8F/2shpjrKr8Kd+vMlHsNydtA4hIHWCdB1Pq0YjTTMu/Lxl+3Z5/rLXLR4ppJ0A9QcwgIjXlFFemBznXgZDk03SrUltSZRFA/whGqD+roTha2rWt3hf9jhCxCb0MCmrPr6QIrfcFjpXUjOz3d//x8f3xwchvrkmhJbEoXk2azV/khdhXumDpOptY/pA0DwP3bIWtQ==;Q114sWfKXk4+wqZkpNA/ZA=="
 ---

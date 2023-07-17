@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "China to Impose New Regulations for Generative AI"
+    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
+    publishedDateTime: 2023-07-14T21:10:00Z
+    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Intel Launches AI Accelerator Chip in China"
     excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
     publishedDateTime: 2023-07-13T03:08:00Z
@@ -71,6 +87,6 @@ related:
         height: 510
         isCached: true
 
-secured: "6Q6qhrHzJLI6eIdQ5SgwHV+mQv6JyQOglZYp22fAw+V15mpLjFbJ7AihngtQC3FVtAVYOTUE+0T0Bk78hq6SpAKF/FS7I6h/+bIk5dqNMQ0ENkX3mfKZIlxOwFd/ekxQLhS26/49FSxRxBKxS6ejEnrb/bxtT1ajbPMUmmLcOIDrEwjuYhMWAYtAOnQNshd7sUz2Wco6qB8ZVXwNZnzYl0qWd9119SvFHtbod+Ca5JWpkGe5g/LRdkCPJuYyl7u9wCiYW75NFPQfW3ncrc1+Et/UZ939IDs8/2REKOd0Gj6a5jst8WHMT5rg0cI/uZOGojCRVr9RgqhCiwHayVLLaPkIRE/H4ksW3w7bL3UGoa0=;kb2O123OEe2L7g3zmwybzA=="
+secured: "tZSMUc2O4pEu3Vhe1puIRKeFNlVyAT+fpH93eKBN13AYV1YxFZuaNsY0QLuM7QjyuiZVks5FQ2hqnAWSCjCgXzAkMJhFcJ3GfdlinV6HBOZ9PvI9+35hzImkZWMdssFopcuN1MlMs4WwyEBgUpLaLwrZ+PttH3KlPF5wW9sjjuu/4mNbMehi8nLFmzUSZBd+3QgxrlWq0Okd/av3jhGZfdiAfK7RtBW2P8N2x26o3BvqtVCyIeakzjj5rEsQn434WCbI3RgF32BWz9iD6AfQN/b/pXz/nlE+hUA62JcaGQlHNHbMFVKAN87xXBtupx7NTurGFElegMRjwMEn7VNcT7/8lupZu57SFdpmcHwveq1o82fJ7hjFAKUj1xPuuAEAyOq3kStm1RN2aepOwbUmc1LcSIDYBrHcFZGTb9e3GH4FAuw8fMaWMu5w/tFBA2NES5CPRTqn41gRQa9AMolTXE/qHJkaUpqiiBZ461VLyVFkl06W9B/BDEKCx8buVkfGR/Y2BqzvhKNRksNNmXHPhg==;vUpJLB6LPuWaj0Os+FaJIQ=="
 ---
 

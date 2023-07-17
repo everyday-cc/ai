@@ -7,7 +7,7 @@ originalUrl: "https://www.thestreet.com/investing/artificial-intelligence-real-i
 webUrl: "https://www.thestreet.com/investing/artificial-intelligence-real-investments-frothy"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Can Artificial Intelligence Invent?"
+    excerpt: "Generative artificial intelligence, the technology engine powering the popular ChatGPT chatbot, seems to have a limitless bag of tricks. It can prod"
+    publishedDateTime: 2023-07-17T04:29:00Z
+    webUrl: "https://menafn.com/1106611440/Can-Artificial-Intelligence-Invent"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/16/KT_cba19image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VTcW3Tv/nt0IOp5BWCnKC6QhvdK3w8LIWXd//m5Qy4VDFrZBWNtdlpw+gAck8/EWwtBWFFhdibJTMoTxfh30h/sR/nKbf8jhNGlLGvbEsjsnTZaULd+sAzZOkRFq6aRbwexEM6tmEAv/dvSiFfnnGS++c1Soqh1uVNPsAMcfrXei44HdwNzX7TMth5YDEFbZhMJI4F8kKbD0vuW3aHeEciu/hSG9RJjh+Et7rO+O9yWWxTRc/OmEQmUhxaFXt7yGqPNAsGEHBzePbHfhmihzL3rtR6FK3jxyoCjS6hjovBPxby2w3fviCk60fW0cpdaYxQVt/1oIwHEhdU1Z8EyDA6ZRRbAONI9YnPsa0zaxHfbx9nSa69IA563yqMaGmwXG1Nt49yq+IELXLcO4eSd+GA2kxjaJlC9TZ/6MFkrBmjbH/T164ma1xZ1QWX8jkthDnEXfaocBFAgVxbxfqGnSrrK8+cyiwiZiQ0tfg3tB/uziaIfHBI6FwYMBUndx5qUnKHbAxI9kBgIPqiPXveTg7A==;Dvc+Ei85+0541NV7i5Cf2A=="
 ---

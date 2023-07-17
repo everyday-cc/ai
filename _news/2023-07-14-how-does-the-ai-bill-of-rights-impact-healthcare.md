@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-imp
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp"
 type: article
 quality: 76
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI can address high cost, poor patient experience in healthcare: Report"
-    excerpt: "The implementation of generative artificial intelligence (AI) in pharma and healthcare has the potential to address the issues of"
-    publishedDateTime: 2023-07-12T11:37:00Z
-    webUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report"
-    ampWebUrl: "https://glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/ai-can-address-high-cost-poor-patient-experience-in-healthcare-report?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/AI.jpg"
-        width: 400
-        height: 222
-        isCached: true
   - title: "AI in healthcare: New tech in diagnosis and patient care"
     excerpt: "AI algorithms formulated after 2020 have been deployed to predict the likelihood of a patient developing severe COVID-19 symptoms, helping doctors prioritize care for those most at risk."
     publishedDateTime: 2023-07-12T14:00:00Z
@@ -125,15 +109,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Artificial Intelligence In Healthcare: A Potentially Strong Opportunity For BioSig Technologies (NASDAQ: BSGM)?"
-    excerpt: "BioSig Technologies, Inc. (NASDAQ: BSGM) announced a new collaboration agreement in June with Reified Labs, a technical advisory service specializing in advanced artificial intelligence (AI)."
-    publishedDateTime: 2023-07-12T12:12:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/07/33196908/artificial-intelligence-in-healthcare-a-potentially-strong-opportunity-for-biosig-technologi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
 
 secured: "gu2W2xv0HEj4/kM6qOnqTrk15peVxyxiIwvF5JaSP6Wf0YKP3UflbRfO82MMoGPPhE8ZzReoj4hazPOa5kFKOre7sCuzET+Cp65Kht4DyNY6/Fnd24c1BEzQEJRLNZAldxIwaBwPIXsXAyFG+8r2SVBUSfx6TUNbgr/zaPrRKjLRbjwGojk6lLmb8MbDlSpF4RrGboaNp4umE5G5785fgtTy2sAySxUD+AWb1V5a3GAqC8TsxyYn3eV+vTeE4MjU+AVepmDUto6k0d2habIybnuCT4a3JbW0l7HQ8g6rUYgQ5AU1WyF+PZTNkuUuB3iK5JK2JbcreqHH9TUK+KSLG+VJ78eyeQB3xgCHTUNuoUjZLGkhnQ0bFz0RNklsJeaRp18YZpAiUOPQdqfKdSC3vgKlsD1IjxovF/XB27rVigXwL6cDMQXimljoGdLD+GozwDku9ooaK9hTO8vzYB2jl3EMeDFKW9Py8BXlnRXgWf8oaUuKBz/SsRp2APopZRld/3oH+BEWKmp/vZW/toPeMQ==;5/CA0jO4QataCJmfZiBaew=="
 ---

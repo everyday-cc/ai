@@ -59,15 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "3 Blockchain Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I’ve used Google’s Bard AI tool to help identify blockchain stocks"
-    publishedDateTime: 2023-07-12T12:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-blockchain-stocks-that-ai-is-loving-in-july-1032440991"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 Dividend Stocks That AI Is Loving in July"
     excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
     publishedDateTime: 2023-07-14T13:25:00Z

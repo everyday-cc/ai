@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Quiz on AI: How Much Do You Know About Artificial Intelligence?"
+    excerpt: "Artificial intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of human lives. From chatbots to self-driving cars, AI is already being used in a variety of ways. In this quiz, you will be tested on your knowledge ..."
+    publishedDateTime: 2023-07-15T20:27:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1"
+    ampWebUrl: "https://www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1"
+    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1"
+    type: article
+    provider:
+      name: jagranjosh.com
+      domain: jagranjosh.com
+    quality: 74
+    images:
+      - url: "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg"
+        width: 960
+        height: 1280
         isCached: true
   - title: "What's next for artificial intelligence?"
     excerpt: "We're continuing our exploration into artificial intelligence with another Tech Talk conversation about what the technology could revolutionize next."

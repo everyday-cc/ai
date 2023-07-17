@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-12T21:41:00Z
 originalUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
 webUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"

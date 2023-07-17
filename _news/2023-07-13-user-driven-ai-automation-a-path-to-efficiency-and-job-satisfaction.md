@@ -49,7 +49,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"
         width: 1200

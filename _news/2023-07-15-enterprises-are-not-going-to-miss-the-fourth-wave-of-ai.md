@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: The Next Platform
@@ -28,59 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprises need generative AI tailored to their unique needs, with their own unique data"
-    excerpt: "Learn why enterprises need generative AI, and how IBM watsonx offers a seamless, efficient, and governed approach to their AI deployment.\nThe post Enterprises need generative AI tailored to their unique needs, with their own unique data appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-12T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/"
+  - title: "Phone scammers are using artificial intelligence to mimic voices"
+    excerpt: "Scammers can use software to recreate a loved one's voice and make it sound like they're in distress. They then ask for large sums of money."
+    publishedDateTime: 2023-07-12T19:12:00Z
+    webUrl: "https://www.cbsnews.com/news/artificial-intelligence-phone-scam-fake-voice/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 90
-  - title: "Why generative AI just hits different – and why organizations need to embrace it now"
-    excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."
-    publishedDateTime: 2023-07-14T14:45:00Z
-    webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
-        width: 875
-        height: 467
-        isCached: true
-  - title: "China to Impose New Regulations for Generative AI"
-    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-14T21:10:00Z
-    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 59
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
-        width: 1024
-        height: 683
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/11/02c3571f-e66b-4596-b9b3-3acb0880bb18/thumbnail/1200x630/04438267693e1ed7117b30f5b54cd64a/1689116974188.jpg?v=b9ad248140817530b57bedd1355bcccb"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
-    excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."
-    publishedDateTime: 2023-07-13T20:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/13/assembly-software-brings-generative-ai-to-its-case-management-platform-with-neosai/"
+  - title: "Banks are realizing value of embracing artificial intelligence"
+    excerpt: "It’s expected that banks will save $447 billion by the end of 2023 by implementing AI applications that assist in a myriad of areas."
+    publishedDateTime: 2023-07-12T16:01:00Z
+    webUrl: "https://rbj.net/2023/07/12/banks-are-realizing-value-of-embracing-artificial-intelligence/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 33
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/07/NeosAI-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 17
 
 secured: "dCpJbLjtFVUHoX3bcLI50thARU4c06VqA29zYrAQYi9hxJhrV8aBCZ+9P3mIgqvb3YmgQQPrOSCInxB77JmMx7q6HXNGL//IWqUhP7XPO3pilVl7kwrKdu+Agb1fMtlejOQlOID42erX+u0CDNyx/7KZoYNKPFqnk5rptcbNquZEZzNKW+mu20oiuyhJYSkGy8cUjpYRAltgG2lbZAGkrlzXklC/mTeXdXXy4/1tqKvIyvylLbKXRhmtuU354RY90z6PMq+ygtmQf+Rbf6/zoOt4ULeO1gQM1yybqP1aonBJwAfy6gg0DiTzVxOSawl6RFatZjsaEGiw4pfjTNNqPlWynYSAN9z9KT8kmXcZl4UsjEH2olJAaUxvHoQnWTDPDM02jmSekxbJ/AMLajnovHPzq4nmU2hgANGonVmT6xvhgn7adWFwn9cwA3oyoFJSUb8pdeFHHIfxTBr4k32Fs7tZp/A3NHuwi1okSIJPAGkpIxTn//YABEqfsBC9UeBtGl5EBRd6c9iVtLwk2rWdbg==;aeyuYnO9t48Jw7M5zhBn/g=="
 ---

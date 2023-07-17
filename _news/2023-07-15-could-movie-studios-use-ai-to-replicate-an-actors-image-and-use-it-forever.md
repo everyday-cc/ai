@@ -94,6 +94,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
+    excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"
+    publishedDateTime: 2023-07-17T04:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/artificial-intelligence-hollywood-is-offering-actors-a-frightening-script-10970061.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Collage-Maker-04-May-2023-03-19-PM-9170-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
   - title: "AI worries spread from UN and OECD to Hollywood"
     excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
     publishedDateTime: 2023-07-14T17:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
 type: article
 quality: 81
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Wipro eyes new opportunities with $1B investment in AI"
-    excerpt: "The Indian IT consulting firm launches its ai360 platform, alongside a three-year $1 billion plan that includes training its 250,000 employees on the fundamentals of artificial intelligence."
-    publishedDateTime: 2023-07-12T12:01:00Z
-    webUrl: "https://www.zdnet.com/article/wipro-eyes-new-opportunities-with-1b-investment-in-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Indian startup lays off 90% staff for AI bot to focus on profitability"
     excerpt: "Dukaan, an Indian E-commerce startup, has laid off 90% of its customer support team with an artificial intelligence (AI) chatbot. The founder and CEO Sumit Shah informed on Tuesday that the decision was to prioritise profitability,"
     publishedDateTime: 2023-07-14T04:11:00Z

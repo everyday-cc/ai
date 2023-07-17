@@ -51,15 +51,6 @@ related:
         width: 280
         height: 210
         isCached: true
-  - title: "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator"
-    excerpt: "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ..."
-    publishedDateTime: 2023-07-12T12:20:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
   - title: "Why These 7 Stocks Are the Best Ways to Play Fintech Right Now"
     excerpt: "Thomas Niel, contributor for InvestorPlace.com, has been writing single-stock analysis for web-based publications since 2016. The post Why These 7 Stocks Are the Best Ways to Play Fintech Right Now appeared first on InvestorPlace."
     publishedDateTime: 2023-07-12T20:27:00Z

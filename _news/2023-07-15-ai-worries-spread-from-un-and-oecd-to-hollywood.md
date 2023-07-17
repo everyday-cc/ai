@@ -100,6 +100,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
+    excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"
+    publishedDateTime: 2023-07-17T04:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/artificial-intelligence-hollywood-is-offering-actors-a-frightening-script-10970061.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Collage-Maker-04-May-2023-03-19-PM-9170-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "K9XLDVkhM4IQy3dIJYMyvBhnCFJO74M/06MJOcEU3QhFoGwa8PxKTZ3niPxNwlAT8b4rBSUnWED36Cn3U8muxOwkwjxq2y9gT03bwNRs2Jj6Nr++NknLTjp4D3hYn7PRQXDf1+mw4CreQRRasU9uoO5DXQmeyEIshl5sueKuc+ycQWoUkVhVBqEmca7GdJIhaPEN3s3GqmBHdi1GwEHMWZxisXeuAaZ26YSh7ckjBTLqrCF/e/j7CiDI8S2EltP77oewSf5FIB+OElh++q0g3JFoGMjwK3LHgJMAVPZnrk0cZsoIasF1ihsE9qeRlQkNZ8V8qDIFmj2cygBZtkCnfssu/knhOor39anqXFcWGv7I0dfZczj5BvekscI563EgrwBzOcLjbSiS7tkEfhuBxd0gqX7XDlK3JzFJgowb7tZj4KgKQAQdEW3s0WVodwD6gSUT1DiBoUzxpyaisrDpMAhHjYk1cECrceemN23g4+O6roQXHZ5brtbprR2qa3Z+nHMUdHjfsQptwtwoBizl4w==;ZrhsV/lHKSvd9uVjZWY7bQ=="
 ---

@@ -27,58 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprises need generative AI tailored to their unique needs, with their own unique data"
-    excerpt: "Learn why enterprises need generative AI, and how IBM watsonx offers a seamless, efficient, and governed approach to their AI deployment.\nThe post Enterprises need generative AI tailored to their unique needs, with their own unique data appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-12T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/"
+  - title: "Another player heats up generative AI race as China introduces interim laws"
+    excerpt: "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services."
+    publishedDateTime: 2023-07-14T20:21:00Z
+    webUrl: "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 90
-  - title: "Why generative AI just hits different – and why organizations need to embrace it now"
-    excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."
-    publishedDateTime: 2023-07-14T14:45:00Z
-    webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
-        width: 875
-        height: 467
+      - url: "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Enterprises Are Not Going To Miss The Fourth Wave Of AI"
-    excerpt: "IBM announced its Watsonx software development stack back in May, and today it is starting to ship it to customers. We wanted to know exactly what the heck it is. And so we reached out to Sriram Raghavan,"
-    publishedDateTime: 2023-07-14T20:17:00Z
-    webUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/"
+  - title: "Intel AI chip sales in China to face market, time tests"
+    excerpt: "With widespread speculation about the US government considering further restrictions on the export of Nvidia's A800 and H800 GPUs to China, Intel has chosen this opportune moment to debut an AI acceleration chip tailored for Chinese clients with its fourth-generation Xeon processor at its core."
+    publishedDateTime: 2023-07-17T01:37:00Z
+    webUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
+      name: Digi Times
+      domain: digitimes.com
+    quality: 71
     images:
-      - url: "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://img.digitimes.com/newsshow/20230714pd202_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
-    excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."
-    publishedDateTime: 2023-07-13T20:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/13/assembly-software-brings-generative-ai-to-its-case-management-platform-with-neosai/"
+  - title: "China says generative AI rules to apply only to products for the public"
+    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
+    publishedDateTime: 2023-07-14T00:36:00Z
+    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 33
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/07/NeosAI-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Intel Launches AI Accelerator Chip in China"
+    excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
+    publishedDateTime: 2023-07-13T03:08:00Z
+    webUrl: "https://www.yicaiglobal.com/news/intel-launches-ai-accelerator-chip-in-china"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
+        width: 770
+        height: 510
         isCached: true
 
 secured: "w7drPS1DcsCSnwwtrMnX1341qaCaNsWCzFqdRDxzYy7N0bDTndtNP9FTccdg1ti89ek3g7iuGyjqkvgUarS0yo63S2Aojdp8yBhGPfAU7BqCT+7GuOgJPfsLzowxbPmNVI3D3aZdDvlfeiLvJDyBU2+hwBuR2sfhdA1ZZ2rJbz08NThg01KmrUmdnZ4xNBPD41SasOFk88axwc2xERD03KeAGhE0Prc+Ry7+UEBguaTzMKOC16FwgiDxr6qDKmV75kU2n16heYYsHvlIyoW67mmmvwRefAKMxnZAFZiLtX7TSIl62hJ4qIFeCHG50HfwXKskqR5Q38dwEeHA4CeVr5CSFYFm+CriByMWlK7XuaY10UnlRhnr8YW4wHfrKq4ZLRWwF9r8RTvZe9ZL02jYeJ155roRXooWYIg/Fiw8efktJnmkFJhgmpLgI4QfhCURYxZ/2i3embkmxQshCXVsGWLasrWOd8S8RrloYeuI0r+RdY4FSQMv/6WW2rnvhHgAqTL06j/2J4bBcy5Z7W8NPw==;yWAucURbVeyaekZM0+RAkw=="

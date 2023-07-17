@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-new-dataset-to-train-machine-learning-models-for-aerial-vehicle-design.md",
-      "title": "New Dataset to Train Machine Learning Models for Aerial Vehicle Design",
-      "excerpt": "Designing and deploying aircrafts is a long and arduous process, but it might be sped up by deep learning models helping developers identify the most promising solutions or potential flaws with a specific aircraft.",
-      "sourceUrl": null,
-      "webUrl": "https://i-hls.com/archives/119878",
-      "originalUrl": "https://i-hls.com/archives/119878",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-hls.com/wp-content/uploads/2023/07/circle-gcb12fc399_1280.jpg",
-          "width": 1280,
-          "height": 877,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AUS&R",
-        "domain": "i-hls.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
       "title": "Artificial Intelligence Powers A New Era In Construction",
       "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
@@ -1382,6 +1339,58 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-4-vcs-illustrate-why-theres-good-reason-to-be-optimistic-about-the-machine-learning-startup-market.md",
+      "title": "4 VCs illustrate why there’s good reason to be optimistic about the machine learning startup market",
+      "excerpt": "When you talk about investments in artificial intelligence startups versus machine learning startups, it’s important to distinguish “AI” from “machine learning.” Those phrases are often ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/machine-learning-startup-investor-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/machine-learning-survey.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

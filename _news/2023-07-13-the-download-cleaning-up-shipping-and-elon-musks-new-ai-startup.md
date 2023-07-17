@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "The Download: Bill Gates isn’t scared of AI, and net-zero shipping goals"
-    excerpt: "Four months after the Afghan government fell to the Taliban, 22-year-old Asad Asadullah had settled into a new routine. In his hometown in Afghanistan’s northern Samangan province, the former computer science student started and ended each day glued to his laptop screen."
-    publishedDateTime: 2023-07-12T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/12/1076168/the-download-bill-gates-isnt-scared-of-ai-and-net-zero-shipping-goals/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 16
-
 secured: "xA4Y3Nha+ET6vCSOH+fpFTtTIhy2oPbAk4kIBgw+XYlcdLfbDMEX5pFusUcZQVN3JATd7PYLUNdGE5eNaj3mr+PNntMYi4hXOa9bN45s9kOKT2EmApaiRQRMWpBmjTIi/Xieyyk44meypPuwshUT5xAQGD3LeC+8hqZxYAvKTvdSY2GknRgT8t3DTMrG95G3Ctz63vxuJebgSJFr2Pu3bFjfLjjNIrq1ApIn2FV1vs5By270jZGGW/Wmm4fdybiNza2XDuupYJ17x5VelbHfC/gnytNxQIf/lQSnd69TQeDED9W7dNYHF/TeSMM5GaY/q1kAaLfNVsGkDQO32Pui+OJq55pgwRf5M0rG773CpJcgffNjGCmPzLdykGTPnCO8P6vtJgSJVgKBkWzpuQP1fH0TlhT5YF74CNbUES0Oh0MMRqNnbGshKQvAXynZ+NgQtQ77rZYBc7Bfd8VQJB2In82rEtyODvfeV+Wr16WQcPeW6JoD/RaUuMTsrASFBmE4VYdQzsunzV8YQdEYTYCXoA==;Q6aRCF6p8CYhU3wibZdHIg=="
 ---
 

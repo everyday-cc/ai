@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 739
         isCached: true
+  - title: "NTT’s CFO says energy consumption and pricing are top challenges for enterprise generative AI"
+    excerpt: "The telecom giant is focused on research to solve the growing energy needs of edge-based computing to power local AI systems."
+    publishedDateTime: 2023-07-12T21:41:00Z
+    webUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "User-driven AI automation - a path to efficiency and job satisfaction"
     excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
     publishedDateTime: 2023-07-13T09:51:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
         width: 729
         height: 373
-        isCached: true
-  - title: "NTT’s CFO says energy consumption and pricing are top challenges for enterprise generative AI"
-    excerpt: "The telecom giant is focused on research to solve the growing energy needs of edge-based computing to power local AI systems."
-    publishedDateTime: 2023-07-12T21:41:00Z
-    webUrl: "https://venturebeat.com/ai/ntts-cfo-says-energy-consumption-and-pricing-are-top-challenges-for-enterprise-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM9993.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
         isCached: true
   - title: "AP, Open AI agree to share select news content and technology in new collaboration"
     excerpt: "The Associated Press and OpenAI have reached an agreement to share access to select news content and technology as they examine potential use cases for generative AI in news products and services."

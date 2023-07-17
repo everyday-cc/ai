@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+  - title: "Microsoft Semantic Kernel will support OpenAI plugins"
+    excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
+    publishedDateTime: 2023-07-17T05:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_dreamstime_7_2_1_2_3.jpg"
+        width: 505
+        height: 315
+        isCached: true
   - title: "Microsoft, KPMG enhance AI collaboration with $12 billion in prospective growth opportunities"
     excerpt: "In an era where technology is rapidly advancing, companies are constantly seeking ways to stay ahead of the curve and embrace the power of AI to drive growth"
     publishedDateTime: 2023-07-12T14:06:00Z
