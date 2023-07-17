@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/why-these-7-stocks-are-the-best-wa
 webUrl: "https://www.nasdaq.com/articles/why-these-7-stocks-are-the-best-ways-to-play-fintech-right-now"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
+    excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
+    publishedDateTime: 2023-07-17T01:40:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://img.etimg.com/thumb/msid-101809096,width-280,height-210,imgsize-11894/ev-companies-to-return-fame-ii-sops-or-face-legal-action-after-centre-cracks-the-whip.jpg"
+        width: 280
+        height: 210
+        isCached: true
   - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
     excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
     publishedDateTime: 2023-07-14T17:46:00Z
@@ -28,20 +44,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "China’s Hundsun Recovers After Fintech Firm Refutes Rumor That Ant Will Follow It Into Financial Software"
-    excerpt: "Shares in Hundsun Technologies halted their precipitous decline today after the Chinese fintech software developer said that rumors that Chinese fintech giant Ant Financial Services Group is preparing to branch into financial IT software in direct competition with Hundsun are not true."
-    publishedDateTime: 2023-07-12T07:22:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinas-hundsun-recovers-after-fintech-firm-refutes-rumor-that-ant-will-follow-it-into-financial-software"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 7
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27796777983685.jpg"
-        width: 770
-        height: 510
-        isCached: true
 
 secured: "EHpO+YzLmDObIFUY0F7fDrNTtp15NL9bZIQJZ1RiGKK5NtwLary6bl+JZDNZP49GKToT+IQc6taRvQqxh2lQg4uv1Hy+T+3CY9cqGegrG+f3lpOp7bkCdnQUw/3zRQgWys9OUf2CKwlkomRe+Q3EsTiKTC65W/rHWD3JA7rle34QiVviv7cNHcJ4xXroPB5SX1QAo3mBisAGdOeKDAbU8lBGnJ0AfqdkTuX9Yw8w8RErcZeyepjaIEjwsl7rrOygxpJwZ5rzYyRoNbB664+56oBKBDR7RCgCtsvrPMZ7vzFR0KznlIbcHaovEK/QjtdgNEvRz/BDimQcy6A284CUSJLy9a19ghmo2y4GNZBCOgs=;XUuCTvhSAKaI58O57rS+1Q=="
 ---

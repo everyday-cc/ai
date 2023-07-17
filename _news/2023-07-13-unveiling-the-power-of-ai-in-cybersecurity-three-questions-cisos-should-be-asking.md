@@ -52,20 +52,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "New IT spending survey bodes well for 7 tech stocks in A.I. to cloud to cybersecurity"
-    excerpt: "A number of big companies whose stocks we own are dependent on how much businesses are willing to spend on tech."
-    publishedDateTime: 2023-07-12T08:00:00Z
-    webUrl: "https://www.cnbc.com/2023/07/12/new-it-spending-survey-bodes-well-for-7-tech-stocks-in-ai-to-cloud-to-cybersecurity.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107212363-1679408765823-gettyimages-1248335218-raa-openaich230315_npOtf.jpeg?v=1689156001&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
     excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
     publishedDateTime: 2023-07-15T03:49:00Z

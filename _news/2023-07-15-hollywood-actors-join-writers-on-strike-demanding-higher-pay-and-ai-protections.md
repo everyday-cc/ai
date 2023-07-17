@@ -58,22 +58,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Actors' strike looms as union looks for protections against AI"
-    excerpt: "The union is looking for protections from artificial intelligence being used to create characters using actors' voices or likenesses. With the writer's guild already on strike, an actors' strike would bring most remaining productions to a halt."
-    publishedDateTime: 2023-07-12T08:40:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
-    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/34de4efb-2dc9-48a6-ab24-d4c55413979f/thumbnail/1200x630/d6ae7b499d3b21d1680c249295b9bd56/gettyimages-1534509866.jpg?v=0d985d39f30c0548885e26d84e710785"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+HVvfw6gbcVJD49H7D/4JNiC6RHmI+Dw/GtTSlyUzSIHExwUe1BinPwgwXMwE4IoJ9jwXlY/kSiy5t8mQajPpfv8rVlz/DlHjoZVRwf7ZZvd5pUmsEMwjD+rHCpzlp6TTqIEfO5pnfCSrcsU2m6kSJQqkdrtP+Usaqtt5o0xwiQn7p8s2+BvyuHMIRUQYcWzlmUcHYmzZuAGcPx7Gj2SmrC282X9WUCWZPvRubc8lvx2y6GRbE2V2z8+vIN2qTIrusNurH04DfIXjHpYg31OGElZtbDZmMJITcw3vJ7VgN8QWNmaUKZyAU61RvpZWfRgsXZMBcZFINEd6lMRKGTh5xszJtHdh1sqMsf8Ts+Q8c3zrORbyMsA6VdGZpLejvsXbAMCLJxWfVF8rlWwTjk3J2y5/phyhTYcsZPh96k16mfgcMijog/AavNWJkGb/ozkQQ1La4jXPLqlKJM3x4IMBF9S7sXuzrgOY7Gamat7S9OXhhlTAtFk2sVD75GpS1YweJCKoCUkA6gWR1phaSoZJw==;P80WuXV7ON2VrwQ7NcoYYQ=="
 ---

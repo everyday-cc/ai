@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The 42 Best Amazon Prime Day Fashion Deals"
-    excerpt: "From savings on cult-favorite beauty products to price drops on Amazon's most coveted tech essentials, now really is the prime time to get your shop on (and save big while you're at it)."
-    publishedDateTime: 2023-07-12T08:50:00Z
-    webUrl: "https://www.popsugar.com/fashion/amazon-prime-day-fashion-deals-2023-49212950"
-    type: article
-    provider:
-      name: PopSugar
-      domain: popsugar.com
-    quality: 4
 
 secured: "PoReXlrdE8Zna2COG6/tbKa0jXM3S7YHcV+SvAb+LOfVgLN4K0UnddDlUDyDX9P+a2YNVuURHVCV3g876ueCZzmYMG9+5tEHG5NxUpEwNkUM1OqHA/fmU0vLpIwJ0uL0NYdYyZGXlrq2Ws1pTU1jy0Bo3WbY067J91W1tcTMO5uFeBtaEdNUkRrIGn5inZ6T7rLQ5PHq23nXo5Ym6NNeXx9Pq+x6A/F95KlcZh9OLpKnmOXQfpDVJkT9wlBloXecki4iqCbJ6UsWL8bj5IZ11bTtvxOoZyvUybDtoiuRdIAZa1zobm4BG+HBTYxJ1cTVxtIyqBAw1R9FKU7RwfatuCd0KrENxZm9UDVcnfv40no=;puG0f/57YUii7CAAent3PQ=="
 ---

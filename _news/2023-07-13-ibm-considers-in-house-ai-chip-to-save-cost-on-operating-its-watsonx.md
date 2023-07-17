@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM may use its own AI chip in cloud service to lower costs"
+    excerpt: "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ..."
+    publishedDateTime: 2023-07-12T09:56:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 76
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg"
+        width: 640
+        height: 395
+        isCached: true
   - title: "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs"
     excerpt: "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco."
     publishedDateTime: 2023-07-12T12:54:00Z

@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-06-26-ibm-tech-now-june-26-2023.md",
+      "title": "IBM Tech Now: June 26, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at quantum utility and the GA of IBM Storage Defender.\nThe post IBM Tech Now: June 26, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-june-26-2023/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-june-26-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/IBM_Tech_Now_thumbnail_079-e1687798517469.png",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T09:46:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-three-ways-use-ai-to-create-a-seven-figure-e-commerce-storeeven-if-youre-not-a-techie.md",
       "title": "Three Ways Use AI To Create A Seven-Figure E-Commerce Store—Even If You’re Not A Techie",
       "excerpt": "When Huang surveyed more than 220 e-commerce sellers recently, 58% said they were not familiar with AI technology or were only somewhat familiar. Huang saw a need to bring them together to give them a place to start. After spending two months doing a deep ...",
@@ -1155,58 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-amazons-new-robots-are-rolling-out-an-automation-revolution.md",
-      "title": "Amazon’s New Robots Are Rolling Out an Automation Revolution",
-      "excerpt": "A wave of advanced machines is coming to the company's facilities thanks to better AI and robots smart enough to work with—and without—humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-new-robots-automation-revolution/",
-      "originalUrl": "https://www.wired.com/story/amazons-new-robots-automation-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/648375409a01d944fee35ef8/191:100/w_1280,c_limit/Amazon-Robot-Proteus-Site-Image-Business.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

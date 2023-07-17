@@ -62,6 +62,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Embracing the disruption of generative AI at speed, responsibly"
+    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
+    publishedDateTime: 2023-07-16T22:57:00Z
+    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
+        width: 2254
+        height: 930
+        isCached: true
 
 secured: "B3t6D/pf5SZ8fQY3OFG/q1TcknAQHSveCmGcM2VIsWmCPzmkZsAsFDBAmd8yXcmiD01nntA0owFs4LnaL6qRheq12H6Fwd0ufv08FQy7Bs0q4mxcY9XXWYH4EY1z9Y67AO2ROA5W+OF84rcbH011dw850PeJyG+jXi14P3+i6pAFkb2YhrHlHJiauPaW8nzJnuP1oCX5ahMe3IN41mTEHy6tTNxDt3gwQ7j9Dpb8lSmudBt/wPa3if+qoxNhJxkQJhnkJSorswIuHnDSXIGSfHhBMqvNDkboRvTuCbfYHgvvMrZSyuanTj2yxgxNdUOT0+fYUaJQbKwWIbD7IHnVdGzQ7bRthbQzr4IkMtVkp2uLmVPRLcqr2S48MN0x4xENzYRtp7gSlwix7+8ne1tpXLjEH7g+Ntv4eZ2I7tZMTh12bhJqw7fe5ZAHav3nTUIMVhNYvUjeTIf0Y5I4xKJlqRLUGU6kGLzQbrEiVYTp2xiN7k7/fiN/fJE+3W7Ag/ucWZL/jZ5ysmgLlI3Xrqz6DQ==;KdmcxMXTeOacq8jfkUFyYA=="
 ---

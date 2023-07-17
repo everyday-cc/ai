@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94191"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://static.toiimg.com/photo/75433510.cms"
         width: 330
         height: 300
-        isCached: true
-  - title: "Actors' strike looms as union looks for protections against AI"
-    excerpt: "The union is looking for protections from artificial intelligence being used to create characters using actors' voices or likenesses. With the writer's guild already on strike, an actors' strike would bring most remaining productions to a halt."
-    publishedDateTime: 2023-07-12T08:40:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
-    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/actors-strike-looms-as-union-looks-for-protections-against-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/12/34de4efb-2dc9-48a6-ab24-d4c55413979f/thumbnail/1200x630/d6ae7b499d3b21d1680c249295b9bd56/gettyimages-1534509866.jpg?v=0d985d39f30c0548885e26d84e710785"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "w+X8JmNSHIiR10Bw4TMdWlY3Pzq/B+A9hIKAV4NBlhir01Kafvkmz69VN15jD2I/bAOj1jmXPfm+vAIs30fxqcAtuynzO1gdD1Ps22C28hHCXIVgXuQ8rA4PF1BqaUm8XF0cJg8alRGEXK80FO07sslj7sDgOP0YOuHTsYaxfB5SSpafNLuYg/nXXlgq5wlMIceELNQAbBNSofYahxNArKh5d/Q3UiihIFMh9bBKvmQ3UBUGw3p6AKHs4IekMdMVYiJ8iqJHDznBFyqqUeeFTrtryyn4S/3QdeOQ610/4jZr3aAU8p7apgZRglnDcTF27HXqD61ig1lBkCDiNvWPaFfYticfIg7jXOyHAu47AbM+B/olDrT14LzFEGy8NJgg7A0SBT9H3E6zLpzfJ+S2MIrI6dfCSZ/Y/3vzLE2LBYD/uH7gxoVkYZ5GlSjQAHBXqNadzN7gC9oxGziMzWitSJtnUDf92SDGMWDCwQHPDXqo+ta1l3fzUlploaIxw6u+h+ZpAYpKk1vVfOXfdNGkuQ==;Oj9vl56B415QBBA4H79vDw=="

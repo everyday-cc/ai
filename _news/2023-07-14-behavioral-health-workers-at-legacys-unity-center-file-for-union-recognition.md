@@ -55,15 +55,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Voice hinges on national mood and values: Can Australia get out of its own way to vote for constitutional recognition?"
-    excerpt: "Overcoming the ‘us and them’ rhetoric in the referendum debate to enshrine an Indigenous Voice in the Australian constitution is possible, according to Linda Burney, who argues history is calling for meaningful action to close the gap."
-    publishedDateTime: 2023-07-12T07:34:00Z
-    webUrl: "https://www.themandarin.com.au/225093-voice-hinges-on-national-mood-and-values-can-australia-get-out-of-its-own-way-to-vote-for-constitutional-recognition/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 0
   - title: "‘They’ve been robbed into this solution’: Viewers divided over gas station requiring facial recognition for entry"
     excerpt: "A viral repost of a video showing a gas station in Portland requiring face ID for entry is stirring debate on TikTok."
     publishedDateTime: 2023-07-14T12:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How artificial intelligence can aid urban development"
-    excerpt: "Artificial intelligence can be a game-changer in modernizing urban development, especially when it comes to transportation infrastructure"
-    publishedDateTime: 2023-07-12T07:54:00Z
-    webUrl: "https://www.openaccessgovernment.org/artificial-intelligence-urban-development-transportation-infrastructure/163559/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 52
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1061360448-scaled.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
 
 secured: "UIwT9fy0suMMv38QeY4mNzT73xN5QpGz8FMlEYm1p7OYgdE2OADwcpcaeqXrsHkXIW26CscU9fJ74YxUArjFB9qA4md1gNXqaknxaD0uu88cm5pYQvlQmFtdkM62hvjNwJK9oQyrHuV9hpClh+JjFF3dFDunmL/uLWWxV9P9GyG0H0ikFi0CrKthrVuwMvCrZNy0jSFysodw7TOyjDxHJYmNrIgBIVJihufNHfMFLfbdahO/XpjJZfN40J0Gooc6rO81DlDeE+rfDIFZGsYyEeUDnXGFMnjluDNeUR1Kww/gYMGYDFGLnxfD+M6EUcsAfbVp3dkRglP+BzOZxpri8Mh4nu761QcyqG8eYuavGj4=;qH5gWi9vOWrzKVUZvGlmwQ=="
 ---

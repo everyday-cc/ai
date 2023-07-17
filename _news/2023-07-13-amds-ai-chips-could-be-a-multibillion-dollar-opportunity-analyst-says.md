@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e92"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: slator.com
     quality: 4
 
-secured: "ExEHqXuNxO/jyiwMBh4QPhBL2+GvlW2OTlbKPuW1DYRH5mZAO1cxgD/EfZ+nDp74nD7Gt5o4e10b4TmFFBzBzVTfk5prNC8oVsSoheBreuze0eX4Tj7ZIjG1juwFEjYCupNCbrzl0g73Ksp6rAx/wnvz3nK+laDU3YVNfK58O6g3ih9V/PcHjWJA6pQejHUvjZnOnwRr1DHSv1iIxduSSWnqXgHp1K+p+kjiSMABR7ovvEIpKwauXEZkaQCwjd8lv+inKgGpcrJcWWIfcFKpjPokd4g7X8TCW8lM83BFIlLM952nd61F6nD+Qt35adRY7AazJWlHLSQUYWqBQlIZkKdVnmC8ftPj+GNK8S3fzho=;UTg8DvjAv4M3KDqjuKtTGA=="
+secured: "sQrNVudIvQJS9gLfxY1bhWC1S3CG0538i+wblm00zLJ3nmCowXjuWZDcBjpTgn8Jl7u7PDe0sp7zlDE8wQKNGHMcqBMEBlTePRUePcACo6N5e8Tn1ic+r7o5BfPrvN5WpTFUpoPAJmm/QZzHyCOwhzxie3W8fQJQ1I6bMk6eS3+WcLOs6uAA0iJR2ui09LvbW88VA+o81XzQtTwGLOPrVERE+gX1Zq9kZWFgSq8/vqlUrCht2f5CIYlPgjanzh2AgHbjgJokhpfgCOoipiVEQpzuSwjJPZ27gBCYWxCPBTqu/srEpPdzAqrTZQmaQqtXTX6pwHUQ7c76uZ/YEKth1CBdGLwrBU1ilFvXVHH0MOWyf6NBCGF7DlkyRKDzNsq4KJ8XgbJ9ZSfIX+zgChsBbFgnTVG3DdE0jARK4JVxfy4+3VhsGZQkvKirK0O730J1kXnV7m2urFOA0FrVF4QGLtnvx/1CJ2+O90g/CXqBdOUklxfnVcl1qiKOkETOaKUSQJmHX8oW6eO9vTW6TATqwA==;guqCCYwd3D5XSIHSXJm1Og=="
 ---
 

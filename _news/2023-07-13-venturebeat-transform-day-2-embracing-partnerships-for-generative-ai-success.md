@@ -58,6 +58,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Embracing the disruption of generative AI at speed, responsibly"
+    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
+    publishedDateTime: 2023-07-16T22:57:00Z
+    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
+        width: 2254
+        height: 930
+        isCached: true
   - title: "Banks are realizing value of embracing artificial intelligence"
     excerpt: "It’s expected that banks will save $447 billion by the end of 2023 by implementing AI applications that assist in a myriad of areas."
     publishedDateTime: 2023-07-12T16:01:00Z

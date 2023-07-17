@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "New IT spending survey bodes well for 7 tech stocks in A.I. to cloud to cybersecurity"
-    excerpt: "A number of big companies whose stocks we own are dependent on how much businesses are willing to spend on tech."
-    publishedDateTime: 2023-07-12T08:00:00Z
-    webUrl: "https://www.cnbc.com/2023/07/12/new-it-spending-survey-bodes-well-for-7-tech-stocks-in-ai-to-cloud-to-cybersecurity.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107212363-1679408765823-gettyimages-1248335218-raa-openaich230315_npOtf.jpeg?v=1689156001&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Unveiling The Power Of AI In Cybersecurity: Three Questions CISOs Should Be Asking"
     excerpt: "2023 may go down in history as the year of artificial intelligence (AI)—or at least the year when business leaders and consumers alike became obsessed with generative AI tools like ChatGPT. Cybersecurity vendors are not immune to the hype. At the 2023 RSA conference, nearly every keynote included discussion on AI."
     publishedDateTime: 2023-07-13T12:44:00Z

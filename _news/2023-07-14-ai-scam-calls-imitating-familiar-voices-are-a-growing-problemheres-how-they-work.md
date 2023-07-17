@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet The AI Specialist Employing Data-driven Strategies To Revolutionize Healthcare"
-    excerpt: "The utilization of data analytics stands to revolutionize the delivery of healthcare services by enhancing drug discovery, bolstering patient adherence, reducing physician burnout and patient out of pocket expenses,"
-    publishedDateTime: 2023-07-12T07:21:00Z
-    webUrl: "https://www.freepressjournal.in/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
-    ampWebUrl: "https://www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/meet-the-ai-specialist-employing-data-driven-strategies-to-revolutionize-healthcare"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 48
   - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
     excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
     publishedDateTime: 2023-07-14T13:00:00Z

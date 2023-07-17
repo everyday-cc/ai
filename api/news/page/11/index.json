@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-07-3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai.md",
+      "title": "3 Red-Hot Nasdaq Stocks That Are Leading Industrial Automation, Robotics, and AI",
+      "excerpt": "Here's why PTC, Cognex, and Luminar are three red-hot Nasdaq stocks worth looking at today. Image source: . Invest in the industrial software that powers automation, A",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
+      "originalUrl": "https://www.nasdaq.com/articles/3-red-hot-nasdaq-stocks-that-are-leading-industrial-automation-robotics-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-companies-are-drowning-in-too-much-ai.md",
       "title": "Companies Are Drowning in Too Much AI",
       "excerpt": "IT sellers are rolling out an avalanche of new generative AI features, leaving CIOs overwhelmed and workers confused.",
@@ -1113,57 +1147,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-collision-conference-toronto-igniting-inclusion-and-ai-innovation-an-interview-with-paddy-cosgrave.md",
-      "title": "Collision Conference, Toronto: Igniting Inclusion And AI Innovation - An Interview With Paddy Cosgrave",
-      "excerpt": "With 36,000 attendees from over 118 countries descending in Toronto for Collision, I sat down with Paddy Cosgrave, the visionary behind this globally acclaimed conference",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6ef085dca0075bbb4ddd6/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/06/collision-conference-toronto-igniting-inclusion-and-ai-innovationan-interview-with-paddy-cosgrave/amp/",
-      "publishedDateTime": "2023-07-06T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

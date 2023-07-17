@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The 42 Best Amazon Prime Day Fashion Deals"
-    excerpt: "From savings on cult-favorite beauty products to price drops on Amazon's most coveted tech essentials, now really is the prime time to get your shop on (and save big while you're at it)."
-    publishedDateTime: 2023-07-12T08:50:00Z
-    webUrl: "https://www.popsugar.com/fashion/amazon-prime-day-fashion-deals-2023-49212950"
-    type: article
-    provider:
-      name: PopSugar
-      domain: popsugar.com
-    quality: 4
 
 secured: "c3PvSiWZk6FZOoAukDVTEtvk4lMKrp5KmQ4iOWVBUBqXDw5HnThwJ5r07LAYEoiNn8pzUhuI4Jg9//+iGN5Vp3EwkWSRKuISWEtfK3zMRKlkWqKATLkmWIt0ED2nb7JUwPj7ANn82dyWpHZqcF8b6KM2sxhSKjy5vUr1n/paKCPKpVea/bU+FWDvpYdXLaWa1BVtiqx/f0RpzS4gh/BTWJsdoBt/eT2v5hpP39rdhuEKSGGnaEhnDdrrNLwHs3sAtVcbcafsUMPbEd1HiaSCyNGu+kgCIw8rg8s70DA4P996ScTIamk+irLPBhS6V3JtgEpsvjYRbcE+dXbnofkQOR8vJDKZoTrqRZ5W64pd77U=;5krzawJKAc0tqyPSPdqbjA=="
 ---

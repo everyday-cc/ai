@@ -415,6 +415,20 @@ related:
         width: 1500
         height: 914
         isCached: true
+  - title: "Google’s AI chatbot is trained by humans who say they’re overworked, underpaid and frustrated"
+    excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes."
+    publishedDateTime: 2023-07-17T00:24:00Z
+    webUrl: "https://www.adn.com/nation-world/2023/07/16/googles-ai-chatbot-is-trained-by-humans-who-say-theyre-overworked-underpaid-and-frustrated/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 28
+    images:
+      - url: "https://www.adn.com/resizer//qfD9dc2y-2ScJwH2WX9A4-ZQmlg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/YFO56FBZZO67WOWMR2J3EBFHR4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Open AI is being investigated by the FTC over data and privacy concerns. It could be ChatGPT's biggest threat yet."
     excerpt: "The Federal Trade Commission opened an investigation into OpenAI's privacy and data-collection practices to determine whether it deceived consumers."
     publishedDateTime: 2023-07-13T19:30:00Z
@@ -498,6 +512,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "al9vJ6XeNg1CwSKWt2SKJzEu6E6A1XHLPlElzrpIQFZ4XUpiIzbGhM9CdUFCMyg3/2qYFYpj+7wunBwe6De8FhpHkudo4O+cERG5/6QcagzmsRwUnSa3R7tlrbYgdqssrcXImYk3rlI/T+9my/sWTs/q1A6r5Qbom2HR7TLVUg8j2mncvuYeV+wbQ/qm6UXgXblopJZtECmb3K1wqAlvECVXwcl+qV6+jVl/Kl3Mxktcgz9CxsMhb8z3FHfc/T3Wsa3fJpZAxPwuZ3NPBWXxS28b+cfuXIQMytMqPQnwIoIBA/8OTp3szMCzUPwU9py49Jy5oZfmLXRDf5uWd1xH5oUuDcH+mhnx3aOaKyNtDo4=;T0fh7O99/EjIBO30jTGr5w=="
+secured: "Xghsmxr5FlalltIph0rg/f0Gdi/eSPt+6qZuoqonvw4iphVY8D1JJGtuu69+rABSNVL1+TeN5EhskrmJgsE+Z8SdAwihYkat7N5dhRgBzNSIsDHq/LD7oXYd8zWdK37Q5sBXu18osQ+YSOfVA/epurEjN4r9o7uYvSFvEtsW3H9v/MY5QRovhTAvGG5kLfMkPyg7SlJdcuohlQ3PDZYvkwhXlM1zPLcbMhwo5FLvWwVzDEBiUBskWMiZEi4baAkCSm9HOLuLNVqWIKB816ZQwI40lh6DRHv6iUQL3DpGyngB0N5PnSyU1WlYS1IvUDYv+qi6rDmHeoEGNtqLFayMlumgdt/OxrB5qMJdvD8esxtZaAfUaS5qMzTdQlsfrRQj8M3aWdAABWWsdlDbcEsvy3yjtNaujqXKLrnj2v2GDIa40Qe+5zIpb0aU/GgoIJWKtZKQlKMOtgniWz0shWU207AwF+ee1uvifd4zOECYSiTRH7Sb3qWlwd8apS1H60QQ+T2GzxndPt6oVhYbDkICig==;KGaEbl7+XM7PHNKvlPAtsw=="
 ---
 
