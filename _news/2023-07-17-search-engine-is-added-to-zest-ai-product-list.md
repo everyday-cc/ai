@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Common Sense to review AI products’ suitability for kids"
+    excerpt: "( NewsNation) — Common Sense Media, the nation’s renowned nonprofit dedicated to kids and technology, unveiled Monday its plan to create an AI ratings and reviews system."
+    publishedDateTime: 2023-07-17T17:14:00Z
+    webUrl: "https://www.newsnationnow.com/business/tech/common-sense-to-review-ai-products-suitability-for-kids/"
+    ampWebUrl: "https://www.newsnationnow.com/business/tech/common-sense-to-review-ai-products-suitability-for-kids/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/common-sense-to-review-ai-products-suitability-for-kids/amp/"
+    type: article
+    provider:
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
+    images:
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/GettyImages-620923891.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "knr0ZCYEKKDpYlEMco5zLmEXF3jRCxeM9RLSkNf3IXDpJ7FulJZGrvVZSzuoDw+3TxUG1hg2vfoOVFHihyNASQKQlv0dDDtB5W+8XYXVvfuI8v8m8OxalT2t2sBkjX8TORTDLiSExyVbrO5ByAfPZicKIXh0uPJrCEUNwe9qxzerS2hSyQKkFmGpT09AyvpaIS38YOk6ltL9x2Y5Sqf9gn/FxD7gdwYJV82IOfkoWlAvCWHihG8lLfQ6Z8p0LdhgaEnmKjqwdrwLs3vSCR4N8q0RVYf8cGDY6dOmpH3MSYLEvbqtefk6UzcKmo003qYn9fOi2r50dgJaIgZ1W2+P0hz+VGsXADqmX3AcPQttHfSs9J1e53fUhdbuSrKLls8RpGBUEtrMGQjThmiDHepUbgIwwesyvWXAdsoUF1aYtqxTuNS9QAAZq3jSORbTdYTpePYpBiaPv1D7je/hQMPA+od7rXz9oeEjKB217k0Vc+qdb7JtwJmXCkkACfgNxnTcP9augsuCA08KwM7cfINX/Q==;ff5zIUAtsZY1XyfSaEdFuA=="
 ---

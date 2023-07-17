@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/13/unveilin
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/13/unveiling-the-power-of-ai-in-cybersecurity-three-questions-cisos-should-be-asking/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -22,15 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
-    excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
-    publishedDateTime: 2023-07-17T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/"
+  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
+    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
+    publishedDateTime: 2023-07-14T08:40:00Z
+    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 38
+    images:
+      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
     excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
     publishedDateTime: 2023-07-15T03:49:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligen
 webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
 type: article
 quality: 64
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -86,6 +86,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061"
         width: 620
         height: 372
+        isCached: true
+  - title: "Elon Musk’s new AI startup is as ambitious as it is doomed"
+    excerpt: "Elon Musk’s new AI company, xAI, says its mission is to understand the universe. But Heisenberg’s Uncertainty Principle, the Anthropic Principle, Wigner’s Friend, and other classical and quantum physics theories would seemingly prevent this."
+    publishedDateTime: 2023-07-17T16:02:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed"
+    ampWebUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/30cf8b46-4f22-46e2-8965-e48a1780903a.jpg"
+        width: 740
+        height: 492
         isCached: true
   - title: "Elon Musk Will Feed xAI Twitter Data To Train Its Language Model And Develop Artificial General Intelligence"
     excerpt: "Elon Musk has unveiled his own AI company, xAI, which will train on Twitter data. Could Musk’s decision about implementing “Read Limits” on Tweets be related to this development?"

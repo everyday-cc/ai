@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "Why learning the language of humans is key to enable generative AI for automation"
-    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
-    publishedDateTime: 2023-07-12T23:42:00Z
-    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "This is how generative AI will change the gig economy for the better"
     excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
     publishedDateTime: 2023-07-15T12:00:00Z

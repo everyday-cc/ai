@@ -335,6 +335,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Canada Excluded from Google’s AI Chatbot Bard due to Online News Act"
+    excerpt: "Canada, unlike most countries, lacks access to Google's AI chatbot, Bard, due to the ongoing clash between Google and Canada's"
+    publishedDateTime: 2023-07-17T16:19:00Z
+    webUrl: "https://thedeepdive.ca/canada-excluded-from-googles-ai-chatbot-bard-due-to-online-news-act/"
+    type: article
+    provider:
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 39
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2023/07/bard.jpg"
+        width: 879
+        height: 494
+        isCached: true
   - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
     excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
     publishedDateTime: 2023-07-17T08:01:00Z
@@ -458,20 +472,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
-    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
-    publishedDateTime: 2023-07-13T00:30:00Z
-    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
-        width: 763
-        height: 600
-        isCached: true
   - title: "Elon Musk forms his own artificial intelligence company xAI to compete with OpenAI's ChatGPT"
     excerpt: "OpenAI, the nonprofit AI research company that released the widely popular AI language model ChatGPT in November 2022, was established in 2015 to advance AI technology for the benefit of humanity, unconstrained by a need to generate a financial return, according an introductory statement on the company's website."
     publishedDateTime: 2023-07-13T18:20:00Z
@@ -532,6 +532,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "IZ0cXizYHsI8s1ryHmracqbEherIF/4uOFqqQ4W+zLSuXzqnUXgK5RtcG9iDFdsgVCmfxaRlTt3AeHT218zZ1l6rnnYeg5f3KcuguGmTcGzCYZNh2caylxZrDEoGFQIkXZwfUQ17digHZjJLQ/MLI8JydhnTa2FW2cQLPITxzgW2HNZGV2TtrLMjgTAvBWhHufiegcZKOCRucSAWbDZdKRBeBZlddCZqLSmGljF8S4/32HsGa8QoJq+AMp/RaoSU/ulOOdO7fgqN1W4vweQeq3UJN35gsfSTfDqPMkJ0ZfepYYHQKYs2nnJvEvAyliVeCJirmBEANNwYAPdseYwQmcgNlHOHZrzrKB29BNHXhCE=;iPjEXIBDwYrHmIgNX9wKjg=="
+secured: "WUFVGj4mhrkJ16tZ2fWmgkUvUpnhGyjoNfrbqa3VI4laCICWlWqJqHr8LB6ABkbxy6sM/8PqGAoWnegyg/IN5g2UVlK4OGB16GORfseU3qEemTnVauHjl4mMDcmiY4R/D6w48Y4YwY/r1QYmFPRSd4KdHb3WgVO1RArfZVFJ4kZrqFtQG4ybdFPY4V2Y1dEy2vp2ruTxjircJ/fJzGxeFLuGFWyBkEvALRR5tNiR0gURWcfjfGiLKSplC1aOmVRv8u3uoLqWzyrgaD7bvHA5V/nIus2pVAXv47hUTRq3r2jmuX+MKabYtcRb23YzXWAv3QavV54jmvNE+M/l9oU4XgAcFxnC+tzGAKY+70ClT5xHhcHlyC2eiTvkZm7Pb/zIAOyiCpSp7N38wI6wXPB3333KzfTH0QT8G54FA9M6PRwmM5qk7U2gZqKM/KpUsVaSh0Wo9b5t5av58ssZHTg12IT3XhjD+h9u55cHIkMXkRynIp9ACKVIbab96wluy3W8LwmChuoSJfoTo650awVBFA==;WZRuYutOu0LQWm6b5cOEIg=="
 ---
 

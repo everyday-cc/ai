@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-vision-pro-hea
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/apple_1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Apple Vision Pro is first of ‘many’ Apple headsets — here’s what we know"
+    excerpt: "This doesn’t necessarily come as a surprise to either us or Gurman. A cheaper version of the Apple Vision Pro headset has been tipped by Gurman and reported by us previously. However, this does seem to be confirming that Apple’s first headset certainly won’t be its last product powered by visionOS ."
+    publishedDateTime: 2023-07-17T17:33:00Z
+    webUrl: "https://www.tomsguide.com/news/apple-vision-pro-is-first-of-many-apple-headsets-heres-what-we-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 23
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/fMhrpffAos4WWY2KoK7hyZ-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "PYmBgsp8fk4hnXCC4C6QeCfrF2v3qJEuncc0jDakXHl4rN6sXxtbFc1QBsmHQZOhiaagDEMckYujXD5OyAlwMpY2TZZ2KI7xe136DFJHG+R5VBF03ivY2AWdYMdn9OL7afDYK4/9j/B0hs8NP/UJbMYHfg6UWB6/nI11kJZBaYy7XNeOIN05Qc6B9xALx/WGNlD+DzfNHUN7HWtlrkRX8VOpSb+GQx/afNLjC348SlN5CwEq2xv4qCQXw7IN0bobIPdX8E7PfSyo7ER3yIdUmxO0Iqiq0MemrsUmmP6i/kLY80WlJOSXEmGpL6UK7KQJpIl3Oe1I/1xkSzhPe6+3jtTvRQ9pBCXkh5Mc2TQVHRi5qQdKN/sa+gfpcIOr9nFDqfMznWsu2+FB1nSuPcAVYK1z3JwkF+mJfIj/1pK4Op2sKyJOQMLY+48jOD/mMnAXrOXv4MEZzeNAovO9n275bxAlB10dJTmgF+mDgC8RHOX7RFsgkXkgRV6qRT5X4ulMv7bf0u6w/XtQ4XC42Gh6Jg==;byIpVsVMIcGFbOj2eQFYQw=="

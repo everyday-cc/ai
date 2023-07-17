@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.insider.com/64b03e8ec22d1a0019455343?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How judges, not politicians, could dictate America’s AI rules"
+    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
+    publishedDateTime: 2023-07-17T16:06:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/judges2.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Meta To Release Commercial Version of AI"
     excerpt: "Meta will make its open-source language model LLaMA more widely available and customizable by companies in an effort to catch up with artificial intelligence rivals."

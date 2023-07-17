@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-driven Facial Recognition: Repression And Innovation"
+    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
+    publishedDateTime: 2023-07-13T05:34:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "UN High Commissioner says facial recognition could lead to destruction of privacy"
     excerpt: "Volker Türk, UN High Commissioner for Human Rights, has touted the potential negative impact of facial recognition systems."
     publishedDateTime: 2023-07-13T22:07:00Z

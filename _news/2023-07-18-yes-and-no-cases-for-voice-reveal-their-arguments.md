@@ -1,0 +1,49 @@
+---
+category: news
+title: "'Yes' and 'no' cases for voice reveal their arguments"
+excerpt: "The cases for and against the Indigenous voice to parliament are being promoted as Australia prepares to vote in the referendum later this year."
+publishedDateTime: 2023-07-17T17:34:00Z
+originalUrl: "https://www.perthnow.com.au/politics/yes-and-no-cases-for-voice-reveal-their-arguments-c-11307558"
+webUrl: "https://www.perthnow.com.au/politics/yes-and-no-cases-for-voice-reveal-their-arguments-c-11307558"
+ampWebUrl: "https://www.perthnow.com.au/politics/yes-and-no-cases-for-voice-reveal-their-arguments-c-11307558.amp"
+cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/yes-and-no-cases-for-voice-reveal-their-arguments-c-11307558.amp"
+type: article
+quality: 44
+heat: -1
+published: false
+
+provider:
+  name: Perth Now
+  domain: perthnow.com.au
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://images.perthnow.com.au/publication/C-11307558/ddd931a76d70e022f184d20b4e645b849b74f2a3-16x9-x0y0w1280h720.jpg?imwidth=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "'Yes' case for voice pamphlet was collaborative: Burney"
+    excerpt: "The 'yes' campaign for the Indigenous voice to parliament has consulted across political parties before submitting its case for the referendum pamphlet."
+    publishedDateTime: 2023-07-16T17:38:00Z
+    webUrl: "https://thewest.com.au/politics/yes-case-for-voice-pamphlet-was-collaborative-burney-c-11297191"
+    ampWebUrl: "https://thewest.com.au/politics/yes-case-for-voice-pamphlet-was-collaborative-burney-c-11297191.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/yes-case-for-voice-pamphlet-was-collaborative-burney-c-11297191.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 44
+    images:
+      - url: "https://images.thewest.com.au/publication/C-11297191/c7aa5b573f061264bfd41b511a7c5d960cde02f7-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "hKwLc001mKuv1kkl2L9H/1M4rhCtOwv9pNA27l0CbilcohM64lvRbfCR/yS2X1U/rvGcs4gR/e14dxYAVilqEVw+YyP8AkYUp8qT7++CfQcf0S71ElI20OY8M189MfQmlrE5A5llOx9d3mqf2IBxuK+IfuIf8wcNeunZfbjHq2R2ccsdYDOA5+iMFc3Rmhnl2yM2MmmR9jv6b4uz5RCgP0wdPokp7/l76XwQIiZH/JIYy4HHG9UN79N3UqY4iWdCreWJuh1LW5BcwifvTDNr5NodeD7rmdZcvxZ53IxC3vDMaegfpEmvrecY0yKjlrWlLJ1W1mF5YKQtZ5i0SBpVAYGGd6Rc3rQ/+pViWEQp/G8=;oD8N2bMQuDXqcusnzfIr8A=="
+---
+

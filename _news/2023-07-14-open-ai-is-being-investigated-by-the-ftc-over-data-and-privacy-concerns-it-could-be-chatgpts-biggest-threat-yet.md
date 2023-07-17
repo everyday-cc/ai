@@ -342,6 +342,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Canada Excluded from Google’s AI Chatbot Bard due to Online News Act"
+    excerpt: "Canada, unlike most countries, lacks access to Google's AI chatbot, Bard, due to the ongoing clash between Google and Canada's"
+    publishedDateTime: 2023-07-17T16:19:00Z
+    webUrl: "https://thedeepdive.ca/canada-excluded-from-googles-ai-chatbot-bard-due-to-online-news-act/"
+    type: article
+    provider:
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 39
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2023/07/bard.jpg"
+        width: 879
+        height: 494
+        isCached: true
   - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
     excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
     publishedDateTime: 2023-07-17T08:01:00Z
@@ -455,20 +469,6 @@ related:
       - url: "https://www.adn.com/resizer//qfD9dc2y-2ScJwH2WX9A4-ZQmlg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/YFO56FBZZO67WOWMR2J3EBFHR4.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT"
-    excerpt: "Elon Musk is leading a new AI startup that aims to understand the universe and compete with ChatGPT - SiliconANGLE"
-    publishedDateTime: 2023-07-13T00:30:00Z
-    webUrl: "https://siliconangle.com/2023/07/12/elon-musk-leading-new-ai-startup-aims-understand-universe-compete-chatgpt/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/muskhappy.jpg"
-        width: 763
-        height: 600
         isCached: true
   - title: "Elon Musk forms his own artificial intelligence company xAI to compete with OpenAI's ChatGPT"
     excerpt: "OpenAI, the nonprofit AI research company that released the widely popular AI language model ChatGPT in November 2022, was established in 2015 to advance AI technology for the benefit of humanity, unconstrained by a need to generate a financial return, according an introductory statement on the company's website."

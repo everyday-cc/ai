@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Common Sense to review AI products’ suitability for kids"
+    excerpt: "( NewsNation) — Common Sense Media, the nation’s renowned nonprofit dedicated to kids and technology, unveiled Monday its plan to create an AI ratings and reviews system."
+    publishedDateTime: 2023-07-17T17:14:00Z
+    webUrl: "https://www.newsnationnow.com/business/tech/common-sense-to-review-ai-products-suitability-for-kids/"
+    ampWebUrl: "https://www.newsnationnow.com/business/tech/common-sense-to-review-ai-products-suitability-for-kids/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/common-sense-to-review-ai-products-suitability-for-kids/amp/"
+    type: article
+    provider:
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
+    images:
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/GettyImages-620923891.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Search Engine is Added To Zest AI Product List"
     excerpt: "Learn about ZestFinance Inc., known as Zest AI, which is boosting its machine-learning credit underwriting capabilities with FairBoost."
     publishedDateTime: 2023-07-17T07:01:00Z

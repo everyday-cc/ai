@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 660
         isCached: true
-  - title: "Why learning the language of humans is key to enable generative AI for automation"
-    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
-    publishedDateTime: 2023-07-12T23:42:00Z
-    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "What next for AI and ML in financial services?"
     excerpt: "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance."
     publishedDateTime: 2023-07-17T15:40:00Z

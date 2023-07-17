@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-ai-powered-robot-companions-comb
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-enhanced companion robots may help alleviate the loneliness epidemic in future"
-    excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities."
-    publishedDateTime: 2023-07-12T23:24:00Z
-    webUrl: "https://www.news-medical.net/news/20230712/AI-enhanced-companion-robots-may-help-alleviate-the-loneliness-epidemic-in-future.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI Robots Could Play Future Role as Companions in Care Homes"
     excerpt: "Scientists like Nadia Magnenat Thalmann at Switzerland's University of Geneva think artificial intelligence (AI)-powered social robots could help care for the sick and aged in the future. Thalmann served as a model for Nadine, an android that produces human-like gestures and expressions."
     publishedDateTime: 2023-07-13T16:36:00Z

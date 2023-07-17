@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-
 webUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-ai-innovation-awards/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards"
-    excerpt: "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw"
-    publishedDateTime: 2023-07-13T00:30:00Z
-    webUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0091.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "VentureBeat Transform Day 2: Embracing partnerships for generative AI success"
     excerpt: "Industry experts cited human-centric design and business partnerships among the important themes for successful integration of generative AI."
     publishedDateTime: 2023-07-13T14:44:00Z
@@ -56,6 +42,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/06/cytonn-photography-n95VMLxqM2I-unsplash.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Integrating intelligent automation: Advice from Citi Ventures"
+    excerpt: "Citi Ventures talked about the era of 'hyper automation' and generative AI experimentation at this week's VentureBeat Transform 2023."
+    publishedDateTime: 2023-07-13T20:08:00Z
+    webUrl: "https://venturebeat.com/ai/integrating-intelligent-automation-advice-from-citi-ventures/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 54
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM2509-e1689273330258.jpg?w=1200&strip=all"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "syVwEenVj3EC8h5o4/DhNBbOwI772p/oU0vEUEGY4vCt+NXnDifaPB6SRPcaizQPibeQjb0AJYVUxaSV70drV2shNoFKnKJq5j8JH4GTm9Qie2eb5F6ClTC0LvqHI/285z7VC+f2LssXNaGHBnBX2E5u8i9ehy19gCrsx2kA1D/SAHSBDp6hWtJ+4+TgWjqlFavfod23v0xnvYDBHoPCdsYuaGEVffQiQC83vgTFM0bdCX98ewZ5TtrKQR/zgZGLlY3fqQ4ZGvaBPINYomFXCgdk1IZXI9S7YSBxNsP6NkIzNekcebvadTNhX+OdmzizFOxwKqlQAPkyDD5PCBbXBEGTqV89DHHzZktQXHiw6DQwiff8wX9zsG9b1n21UJzaaoG945zEYTUSRASTH5co3KoLYekBNIhFlAD/AyEHWJ8/fZFwbkefsRaR6eAEZg2PJfTUh61JG9SaG59ZsQl4muh7r7uBjPuc8CEKTIB7VGR9owkDoyiOBgrTJA0kdJorlWdneauPdDz445aeTHnBBw==;mVm0aBNlCTKHMQePJGNwdQ=="

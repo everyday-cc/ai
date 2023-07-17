@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Apple Vision Pro is first of ‘many’ Apple headsets — here’s what we know"
+    excerpt: "This doesn’t necessarily come as a surprise to either us or Gurman. A cheaper version of the Apple Vision Pro headset has been tipped by Gurman and reported by us previously. However, this does seem to be confirming that Apple’s first headset certainly won’t be its last product powered by visionOS ."
+    publishedDateTime: 2023-07-17T17:33:00Z
+    webUrl: "https://www.tomsguide.com/news/apple-vision-pro-is-first-of-many-apple-headsets-heres-what-we-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 23
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/fMhrpffAos4WWY2KoK7hyZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "UDAR/t/FkMYYZ6c4FzeOsSxmo1u0aKgbC0dWGvifbWodL07HYmT++Xg9kScwLZnAElVXzmf5eOVBgjRlUhHb3ZMb4gnj+wASu8VpPjSFChWkazXnHCzo0pDA8NJLsP8wj1AwhKO8ZaeKKmG4LlELlkvrXQ//T0dtl8xHyd0To3f2oXDHKxNQc37FGZqR1ocYGzAY87+I6aw3QkkCGxRd6edYrig/8srRqVxdBtANwTn5T7twuYvb5U5m+++3xCIsM09V9c0ppblNYKf9rLhyn22u08QNhuOwaaFQQ/fFlKCBjKvMUbtCFajK+4ZZnZ+SC9FNE2R2WyM8MkVB28rD4ClWsYDpO8d06xgqNige0/4=;ai6reoHmdwIZBXYk0JwoSg=="
 ---
