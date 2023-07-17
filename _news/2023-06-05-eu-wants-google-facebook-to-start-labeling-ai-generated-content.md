@@ -5,6 +5,8 @@ excerpt: "The European Commission is worried artificial intelligence tools like 
 publishedDateTime: 2023-06-05T13:13:00Z
 originalUrl: "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/"
 webUrl: "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/"
+ampWebUrl: "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/amp/"
+cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/amp/"
 type: article
 quality: 17
 heat: -1
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/06/05/GettyImages-1462188153-scaled.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "EU asks Big Tech to label AI-generated content"
@@ -129,6 +138,6 @@ related:
       domain: crackberry.com
     quality: 19
 
-secured: "yaywqsE+gHDg9K7Wxd/BOEbSs59KXlbyobP6UaArVniV2AFyyZ0RjqfMM3n7n6Fn2b6DmtMs1QhbmTR4PdSO5PNNfFC5WVrN2b3Ve7swF202Utk9jJVUHKSRVyLm/AXEZp1cVR6fcJFXQNK7fmyn+JVoG0zSyXW5DHOgFCZBAazDgm75t8ETpJhtBOc6oinvBLKXysb4Xv+QpBFo2SbhGP12qvpAo7I2he12efR5+UXf/dynlY9abvgE6pJuJGAD6UK9NmIkVczM3oLAQ9kBLs6Q8JNTiDCc+SxqfEir9NaiwtGM05UAZ4MEs/vaoqVouaoyjOwIRBeJlGbTqH6fCb1tvANFuikY3x9LyQ9MTfIauD1C86VusS9RGdw4caWmrnD1KDOSF/0sy3pjAw1peO2wA5drLKTQ5f7z6w5YO9n47TypaEqEIFiusLZswcFUA9bEi6On3prP0wgWQ6zX2t4neRCfy6/xm6l7PWSMY/9hmWWaIMKGbcyuoqxvZnYaOoAcXQLb82YR3ir0z6MHEw==;D5G80DTINBeGTvZQPRdacw=="
+secured: "Q1tzGKrEapckUUsfUKq0cuUukEKWNCcQC2lstWpeH9jg+3KOW8cp5/A5eDsw5eSSQyyUxMKza5xCE3PxsbillunD7WrjveHt/WOfmtqVArNT9hSxq2U7/f68xj34ez2mUOsHm9wE2nFiDF58+CVXpoF/lZ5mNu6nx1axgFlLN1ZcXsMXbHAdzlBlbThOdSwVKGeNUpaat23JHTLwBVHArm7weGbYA5Jnrn7WQsGeQqiezpZB73vbZuYXL85kbhAEMAuUShR6B1gTOpTv3aVMeZS50IokJFl20Ku2MKSbbnirHVRY9HuNsVLTLYnE+F/+wg5PtHFKMayJ33ISpmoq7u3zsuyLGVKmlBtNpiNMFt0=;ks8ofNsAzK4k/hFqkmEo1w=="
 ---
 

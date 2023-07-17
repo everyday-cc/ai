@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/un-warns-against-implanting-ai-chips
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Brain Chips Are a Serious Threat to Mental Privacy: UN"
+    excerpt: "Certain thoughts are better left unshared. Advancements in neurotechnology, particularly brain implants, and scans, could risk artificial intelligence"
+    publishedDateTime: 2023-07-17T10:43:00Z
+    webUrl: "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/"
+    ampWebUrl: "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 74
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/07/brain-chip-e1689590304657.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Neurotech and AI together threaten 'mental privacy', says Unesco"
     excerpt: "Unesco has warned that the combination of neurotechnology and artificial intelligence poses a threat to mental privacy, as it works on a new global charter on scientific ethics. The UN's agency for science and culture has begun developing a global ethical framework to address human rights concerns posed by rapid scientific advances,"
     publishedDateTime: 2023-07-16T12:15:00Z
@@ -41,6 +57,6 @@ related:
       domain: modernghana.com
     quality: 19
 
-secured: "2/b4ozk9vooqmNJ8ZZxRjTwZy1cZcrupz/5Z0STn1mZyAC78bWRGvg3qDObMzcx0V3oYwy8jS3iBmFme6hqfbYNs7TrSKbGTpdYfzs9g5VX6oAhVCB2zChI5Tu/hoCJwrXfhvx/lA+7ZxV7WpEW15PJHj0k/WGOvwfUMkFgMbWiGJ3oq3yul4kicXsAnD83yN9WOZ1Q9mV6JRRs9J7I3kBgTfWU/oqWu/C+VYVLrMTxMAmYm4PinJDkKYh52FrSnxFeY6dQosSnFN3PVjWsqD+qbtQouyz9qDO8tn3atVvfn8aNgsERcift/LT5df+Dq9xuSzHgYFUy0M0bGIJqw4dHLmOktMo7imPRNwzs9chk=;GNKkPBLjqSQI8D801IlZEQ=="
+secured: "ew86WPXZzoKCGXZSfpzL8IfTJKCsRoknB1by+Y86oEVWVfkZC4ykMWNX54ggPfjqYiTsqHfRb3TQWfkHPQdtKiaS7t6N5DKNkE6EjSsY+zCqeKf7l4wD/0nspzb46slSQ1rtK7fDeRO0ZzNNfm347HvsPkPznAEYr3nEDfs2/RBUFYpPbc7VzuREcYwde6t+w0tBppAxmPI3B3ffmPosyP9fTVkvQ6RXpSJ/waYg5U9q9RjWMiYT3NI7BhKFp+7TkKT8xz0vxnE7Es1839CGeghGq7NlVkj6498TfAre/8iJAJkxTE7/2mW/YlqL2tdPbKH2BY7xUkwRQWuAor2MPFym0T4k6HoW8SQdVdJ8+irLWDm4TKiciCt6T36KrYp24hd0H+2lRg1/OqRtbwUFZu6F3xMZMZWNbtYPcWNm+pqXMivndgeEpkYfxnpBNnq8etVLSNTFR6hH5xKxwGnb4I0NhOnlu0CUwyPCrFBDbLxVLSDWEsvmg4Ov6nn9a83L4d5jvmUj3+lUsFlOo8NQpA==;maiHe6dVdjWtTCRbzSCwYQ=="
 ---
 

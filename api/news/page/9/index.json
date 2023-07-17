@@ -2,6 +2,219 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-07-10-jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launched-forbes-ai-newsletter-july-8th.md",
+      "title": "Jobs Report Comes In Higher Than Expected And Meta’s Answer To Twitter Has Launched - Forbes AI Newsletter July 8th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ac0b4d7a7ba74ebc534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/07/10/jobs-report-comes-in-higher-than-expected-and-metas-answer-to-twitter-has-launchedforbes-ai-newsletter-july-8th/amp/",
+      "publishedDateTime": "2023-07-10T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-trial-in-psc.md",
+      "title": "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC",
+      "excerpt": "OnKai's AI models redefine the methodologies and economics of clinical trials",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
+      "title": "AI nursing ethics: viability of robots and artificial intelligence in nursing practice",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/994988",
+      "originalUrl": "https://www.eurekalert.org/news-releases/994988",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/34c751bd-86ee-4716-8726-7d87eb64b855/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-what-is-vibration-analysis-and-how-can-it-help-optimize-predictive-maintenance.md",
+      "title": "What is vibration analysis and how can it help optimize predictive maintenance?",
+      "excerpt": "Vibration analysis is a powerful diagnostic tool for identifying, monitoring and preventing mechanical failures in rotating and reciprocating machinery.\nThe post What is vibration analysis and how can it help optimize predictive maintenance? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/vibration-analysis/",
+      "originalUrl": "https://www.ibm.com/blog/vibration-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:06:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-how-to-improve-employee-experience-and-your-bottom-line.md",
+      "title": "How to improve employee experience (and your bottom line)",
+      "excerpt": "In a nutshell, employee experience refers to the totality of interactions employees have with their organization. \nThe post How to improve employee experience (and your bottom line) appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:01:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development.md",
       "title": "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?",
       "excerpt": "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities.",
@@ -762,6 +975,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-10-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry.md",
+      "title": "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry",
+      "excerpt": "ActivePort and Radian Arc join forces to enable high-performance AI. The collaboration aims to leverage Radian Arc's AMD-based GPU platform, already installed in a rapidly expanding network of 50 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33159070",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159070",
+      "publishedDateTime": "2023-07-09T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-ai-robots-say-they-have-no-plans-to-steal-peoples-jobs.md",
       "title": "AI robots say they have no plans to steal people’s jobs",
       "excerpt": "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an",
@@ -869,293 +1125,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-kmc-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters.md",
-      "title": "KMC to collect and store 'facial recognition' details of employees posted in headquarters",
-      "excerpt": "All employees have to stop in front of camera for few seconds while entering office and attendance will be marked",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "originalUrl": "https://www.telegraphindia.com/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Jun/1687569435_kmc.gif",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/my-kolkata/news/kolkata-municipal-corporation-to-collect-and-store-facial-recognition-details-of-employees-posted-in-headquarters/cid/1950947",
-      "publishedDateTime": "2023-07-09T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-deepmind-collaborates-on-shaping-personality-traits-in-llms.md",
-      "title": "DeepMind Collaborates on Shaping Personality Traits in LLMs",
-      "excerpt": "The recent advancement of Large language models (LLMs) has ushered in a significant leap forward in the development of conversational agent, demonstrating synthetic human personalities characteristic by distinct thought patterns,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/",
-      "originalUrl": "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/07/image-10.png?resize=790%2C503&ssl=1",
-          "width": 790,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/07/09/deepmind-collaborates-on-shaping-personality-traits-in-llms/amp/",
-      "publishedDateTime": "2023-07-09T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
-      "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
-      "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "originalUrl": "https://www.cbsnews.com/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/16/4c75adeb-ca12-426e-bd12-3a5adde32f2c/thumbnail/1200x630/559f05684316f5e602fd713fd06081c9/hadsell-1.jpg?v=532947bbe7449b367b963713a282edbc",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-artificial-intelligence-future-60-minutes-transcript-2023-07-09/",
-      "publishedDateTime": "2023-07-09T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-will-change-your-work-significantly-heres-how-to-respond.md",
-      "title": "AI Will Change Your Work Significantly: Here’s How To Respond",
-      "excerpt": "AI will shift things fundamentally—including the content of work, the work available and who’s doing it. You’ll need to be aware, ready and responsive to what’s coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
-      "originalUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aa095b9866235e854c321c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
-      "publishedDateTime": "2023-07-09T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-volkswagen-is-testing-its-driverless-vehicles-in-austin.md",
-      "title": "Volkswagen Is Testing Its Driverless Vehicles in Austin",
-      "excerpt": "Volkswagen's autonomous driving program kicks off in Austin, Texas, this month with two all-electric ID. Buzz vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin",
-      "originalUrl": "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04zsyA3dJ4DvBc0sOcGH1XJ-2.fit_lim.size_1200x630.v1688921824.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training.md",
-      "title": "Liquid Neural Networks, A New Idea That Allows AI To Learn Even After Training",
-      "excerpt": "Daniela Rus currently serves as the Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. She has made significant contributions to areas such as autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
-      "originalUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/09/6330833102112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
-      "publishedDateTime": "2023-07-09T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

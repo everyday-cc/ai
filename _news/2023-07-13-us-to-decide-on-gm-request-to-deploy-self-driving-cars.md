@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-de
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "US to decide whether to OK GM self-driving car deployment plan"
-    excerpt: "A top U.S. auto safety official said Wednesday regulators will soon decide on a petition filed by General Motors and its self-driving technology unit that seeks permission to deploy up to 2,500 self-driving vehicles annually without human controls."
-    publishedDateTime: 2023-07-12T17:15:00Z
-    webUrl: "https://www.reuters.com/article/gm-autonomous/rpt-us-to-decide-whether-to-ok-gm-self-driving-car-deployment-plan-idUSL1N38Y2S5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/CSk-B5BsP_UItuGT0pe36Z74e9k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XZE6ARD7DNKZDDMDDJ7F42AC44.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Simulator startup aims to make self-driving cars safe"
     excerpt: "Morai has worked with leading AV developers both at home and abroad, including AWS, Nvidia, SoftBank and Ansys, as well as Hyundai Motor, Samsung Electronics, Naver Cloud and Hanwha Aerospace."
     publishedDateTime: 2023-07-15T21:00:00Z

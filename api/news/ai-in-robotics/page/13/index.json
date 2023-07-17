@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2023-04-18-tric-robotics-offers-farmers-uv-pest-control.md",
-      "title": "Tric Robotics offers farmers UV pest control",
-      "excerpt": "One of Tric Robotics' tractors bathes crops in ultraviolet light. (courtesy photo) San Luis Obispo-based Tric Robotics started in Delaware in 2017 making small, lunchbox-sized robots for police SWAT teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "originalUrl": "https://www.pacbiztimes.com/2023/04/17/tric-robotics-offers-farmers-uv-pest-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pacbiztimes.com/wp-content/uploads/2019/11/CHC.jpg",
-          "width": 350,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pacbiztimes.com",
-        "domain": "pacbiztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-18-ai-anxiety-the-workers-who-fear-losing-their-jobs-to-artificial-intelligence.md",
       "title": "AI anxiety: The workers who fear losing their jobs to artificial intelligence",
       "excerpt": "Many workers worry AI is coming for their jobs. Can we get past the fear and find a silver lining? Claire has worked as a PR at a major consulting firm, based in London, for six years. The 34-year-old enjoys her job and earns a comfortable salary,",
@@ -1401,6 +1358,49 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-09-university-of-lincoln-robot-seal-used-to-help-vulnerable-people.md",
+      "title": "University of Lincoln 'robot' seal used to help vulnerable people",
+      "excerpt": "Research is currently taking place to see how robots could provide an increasing number of services across the NHS. Up Next. A mind-controlled beer-pouring robot has landed. Video, 00:01:25A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
+      "originalUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/139BD/production/_129271308_p0fdsvsc.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

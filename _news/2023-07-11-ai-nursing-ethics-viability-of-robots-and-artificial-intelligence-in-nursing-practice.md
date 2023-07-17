@@ -1,29 +1,24 @@
 ---
 category: news
 title: "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice"
-excerpt: "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ..."
-publishedDateTime: 2023-07-10T19:08:00Z
-originalUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
-webUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
+excerpt: "in collaboration with medical ethics researcher Dr. Eisuke Nakazawa from The University of Tokyo and nursing researcher Dr. Ai Ibuki from Kyoritsu Women's University, recently explored whether ..."
+publishedDateTime: 2023-07-10T22:02:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Ethics
+  - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
-
-secured: "NOrKZb/WvSmBYIl+BLB53PBwCHCw8+OnFGiaqvCLy4dgASe+iaxJ0OwzlqUnTYOpwxc+2cICqs+ypBvCoI/OPmZiit+xxq4Iu4Pe096ErWaEuAUKfjOQjJ7nawBFpHV97O/STbM2P0yOuFQWOeaLdFmIvZDWczVqslAiDFViuB/0lSHmiq9dK9+VaYj5MnyzeD6mqxpP7KXR4KgRqr76LO7Pxtx0XapALqCwTsn7BrH0rA5tgW9FVq2bPnQ9YbpP0eOAo9sOZm034KLVYFslgyeGVqUtcBLj9J7Fm/7vbByi7SIgsdFx84GFKJzGFkUAEOq8JM8mSwfmsK95EllFL8MiSjPtLTkgEvd0R5XnmHM=;u9rt0d+4aCLHGiCmrt+3eQ=="
+secured: "82vorwX2xkCxhUY7n5yZbjCQlXG0QOKCYdDoA76rUeuyP7ItU1U4gQ+nw0yegzgQS4IK7oyu1lInLrEFVGggtmbikf4xrB6mrbbrm7pHLa8Y+Ro7NwQHSq8AA/Jqw7ubadKutplTtLFXaqh9FIoRu3542QHHTSzC+cSEJakxqEw0jowW397oNbs6wwNq7MZJSrZpo+K3kg+4fO0Y1/ReTzxDHFEU+dcClKmVS1/GrkThIngYhbRFx4aAJy7PBpsTBGI6Oh8El99yhR604TDY5EpV6fUVQfjSa7EQAuVcHL7esMb7j7k+zO3O2ogseAorVQXFUZ+b0o1bw05TJGG/KLpv9uSEfdETkGPzRVgkQYU=;DlrBBQW6B20S2AD1Jgu+0g=="
 ---
 

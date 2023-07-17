@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-02-the-robot-among-the-animals-an-optical-illusion-that-will-boggle-your-mind.md",
-      "title": "The Robot Among the Animals: An Optical Illusion That Will Boggle Your Mind",
-      "excerpt": "Did you know that Greek mathematician Archytas of Tarentum created the first known “robot” in the 5th century BC? Quite amazing isn’t it? This shows the power and skills of the human mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
-          "width": 960,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
-      "publishedDateTime": "2023-07-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-02-agritech-innovations-2023-transforming-farming-with-ai-robotics-and-drones.md",
       "title": "AgriTech Innovations 2023: Transforming Farming with AI, Robotics, and Drones",
       "excerpt": "The field of agriculture is advancing day by day. Today, we have bought some latest trends and innovations concerned with Agriculture.",
@@ -1285,6 +1242,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-artificial-intelligence-and-the-future-of-sdgs.md",
+      "title": "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS",
+      "excerpt": "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
+      "publishedDateTime": "2023-06-27T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,254 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-14-yes-ai-could-profoundly-disrupt-education-but-maybe-thats-not-a-bad-thing.md",
+      "title": "Yes, AI could profoundly disrupt education. But maybe that’s not a bad thing",
+      "excerpt": "Humans need to excel at things AI can’t do – and that means more creativity and critical thinking and less memorisation, says academic Rose Luckin",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0f5ff9cf53f0073e9ba98720070c09caa00d7085/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=0ba4c42a04b25c9d52561b57c20e492b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "publishedDateTime": "2023-07-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-indian-tech-giant-wipro-will-invest-1-billion-in-ai-including-training-all-staff.md",
+      "title": "Indian tech giant Wipro will invest $1 billion in AI, including training all staff",
+      "excerpt": "Wipro, one of India's top providers of software services, wants everyone on staff to know how to use artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230713221815-wipro-ai-investment-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
+      "publishedDateTime": "2023-07-13T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-protecting-celebrities-including-all-actors-from-ai-with-the-right-of-publicity.md",
+      "title": "Protecting Celebrities (Including All Actors) from AI With the Right of Publicity",
+      "excerpt": "This development raises the stakes on whether celebrities can protect the use of their personas in this brave new world. The good news for celebrities is that there is a potential right of publicity claim any time someone’s name,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/schuylermoore/2023/07/13/protecting-celebrities-including-all-actors-from-ai-with-the-right-of-publicity/",
+      "originalUrl": "https://www.forbes.com/sites/schuylermoore/2023/07/13/protecting-celebrities-including-all-actors-from-ai-with-the-right-of-publicity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b0b62bb4aef9bbdfee1983/0x0.jpg?format=jpg&crop=963,962,x877,y256,safe&width=1200",
+          "width": 963,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2023/07/13/protecting-celebrities-including-all-actors-from-ai-with-the-right-of-publicity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2023/07/13/protecting-celebrities-including-all-actors-from-ai-with-the-right-of-publicity/amp/",
+      "publishedDateTime": "2023-07-13T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-health-care-providers-say-artificial-intelligence-could-transform-medicine.md",
+      "title": "Health care providers say artificial intelligence could transform medicine",
+      "excerpt": "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "originalUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
+      "publishedDateTime": "2023-07-13T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCVB Channel 5 Boston",
+        "domain": "wcvb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay.md",
+      "title": "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay",
+      "excerpt": "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "originalUrl": "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/LCBOe1tGVBIEz4dd9flfVQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c08c39b0-21d5-11ee-a7f6-516698f83aed.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "publishedDateTime": "2023-07-13T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-ai-could-help-reduce-fentanyl-shipped-into-us-dhs-says.md",
       "title": "AI could help reduce fentanyl shipped into U.S., DHS says",
       "excerpt": "The Department of Homeland Security says new AI scanning technology could help stop some fentanyl that is being shipped in the mail. NBC News’ Julia Ainsley spoke to Secretary Alejandro Mayorkas.",
@@ -497,7 +745,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -541,7 +789,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 441,
+      "heat": 451,
       "tags": null,
       "images": [
         {
@@ -637,7 +885,7 @@
       "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -963,254 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-opens-three-new-routes-to-career-advancement.md",
-      "title": "Artificial Intelligence Opens Three New Routes To Career Advancement",
-      "excerpt": "These are the ways today’s managers and professionals need to meet the challenges and opportunities of artificial intelligence head-on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
-      "publishedDateTime": "2023-07-13T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-stability-ai-releases-stable-doodle-a-sketch-to-image-tool.md",
-      "title": "Stability AI releases Stable Doodle, a sketch-to-image tool",
-      "excerpt": "Stability has released a new tool through Clipdrop, the AI art platform it acquired recently, that turns sketches into artwork.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
-      "originalUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/imgonline-com-ua-twotoone-VgOccXiK2k1l.jpg?resize=1200,600",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/",
-      "publishedDateTime": "2023-07-13T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-google-bard-is-stepping-up-its-ai-game-with-these-new-features.md",
-      "title": "Google Bard is stepping up its AI game with these new features",
-      "excerpt": "Google has been adding new features to Bard since its underwhelming launch in order to improve user experience. In its latest update, Google largely expanded Bard's language and country availability and also added many new features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
-      "originalUrl": "https://www.zdnet.com/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5d8a385c294055d02b6a0b90b82082f78bbe21ba/2023/07/13/8b39386d-1358-43cb-b437-e45a79cae9bc/screenshot-2023-07-13-at-10-27-41-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-bard-is-stepping-up-its-ai-game-with-these-new-features/",
-      "publishedDateTime": "2023-07-13T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-the-terrible-downside-of-ai-language-translation.md",
-      "title": "The Terrible Downside of AI Language Translation",
-      "excerpt": "To me, AI’s scariest aspect is the so-called Singularity—the threat of a runaway intelligence explosion leaving humanity in the dust. But today’s state of the art in artificial intelligence is already auguring in smaller but still shattering scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/j7xWIjU2vpPvmgjtQF496l0oHro=/0x43:2000x1085/1200x625/media/img/mt/2023/07/languages_illo_horiz/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-data-integrity-vs-data-quality-is-there-a-difference.md",
-      "title": "Data integrity vs. data quality: Is there a difference?",
-      "excerpt": "Data quality and integrity are vital to a data-driven organization that employs analytics for business decisions, offers self-service data access for internal stakeholders and provides data offerings to customers.\nThe post Data integrity vs. data quality: Is there a difference? appeared first on IBM",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-integrity-vs-data-quality-is-there-a-difference/",
-      "originalUrl": "https://www.ibm.com/blog/data-integrity-vs-data-quality-is-there-a-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

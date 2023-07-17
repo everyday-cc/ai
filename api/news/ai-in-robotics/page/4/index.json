@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-06-28-artificial-intelligence-and-the-future-of-sdgs.md",
-      "title": "ARTIFICIAL INTELLIGENCE AND THE FUTURE OF SDGS",
-      "excerpt": "Sonny Aragba-Akpore writes that AI can support SDGs in combatting climate crisis and in humanitarian response. Can Artificial Intelligence (AI) alter the narrative for growth of g",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/APC-logo.gif",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/06/28/artificial-intelligence-and-the-future-of-sdgs?amp=1",
-      "publishedDateTime": "2023-06-27T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-06-28-xsurgical-an-ai-surgical-robotics-company-announces-qa-webinar.md",
       "title": "XSurgical, an AI Surgical Robotics Company, Announces Q&A Webinar",
       "excerpt": "XSurgical Inc., an artificial intelligence surgical robotics company, today announces it will host a Q&A webinar on July 11 at 11 a.m. PDT, hosted by",
@@ -1317,6 +1273,49 @@
         "Google AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023.md",
+      "title": "Global X ETFs: Artificial Intelligence, Robotics & Automation, and Mobility are the key investment themes for 2H2023",
+      "excerpt": "Global X ETFs, a leading global provider of exchange-traded funds (ETFs), today announced its 2023 half-year market outlook. Jon",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "originalUrl": "https://www.macaubusiness.com/global-x-etfs-artificial-intelligence-robotics-automation-and-mobility-are-the-key-investment-themes-for-2h2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/06/IMG-2019-w5ZVad.jpeg",
+          "width": 1210,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

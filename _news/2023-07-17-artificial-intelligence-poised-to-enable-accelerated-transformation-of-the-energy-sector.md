@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "How To Implement AI, The Catalyst For Supply Chain Transformation"
-    excerpt: "In order to excel in the world of machine learning, it's essential to become an organizational learning machine."
-    publishedDateTime: 2023-07-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/13/how-to-implement-ai-the-catalyst-for-supply-chain-transformation/"
+  - title: "Generac powers business transformation with data, AI"
+    excerpt: "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI."
+    publishedDateTime: 2023-07-17T09:59:00Z
+    webUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html"
+    ampWebUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/07/tim-dickson-100856016-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "kO2TvGIUyL6IxlqNMa+acbqoIWuwS8z/1Ak1M+YWHNNCmzvUTm4a28w3peRPaoa43SX8I6dA161MHM1OO2h+lhrdmzXJVaAeQjQS7rq0IQHvgxNVilUKC8L1fv6/KVyrunlvVYP/sdAJ7ygiB68hRAXJlXjrEmtFtCF46hwX9ETBcb4LM/QCuj0vae5Rrxcv4h7oJI/6las6Tx3uyuSR+T4NxU0Qhg4nvxdICJRl9RQugbbyXvo/I5dKYPo+Zdp82MHu+J4DNtOBdzwPkB6FBVT/PJsuZRzN+YO0zzjM4IoZO+QtYp+qbySPVh4RmMsFABCAf0q48m7B55NE+rN1G7fxVhNzbvJ5xk60qN/7hrY=;C7PFqAdrmZ8dJD5iAPYnnQ=="
 ---

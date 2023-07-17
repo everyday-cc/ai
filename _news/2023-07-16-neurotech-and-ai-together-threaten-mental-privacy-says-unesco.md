@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Brain Chips Are a Serious Threat to Mental Privacy: UN"
+    excerpt: "Certain thoughts are better left unshared. Advancements in neurotechnology, particularly brain implants, and scans, could risk artificial intelligence"
+    publishedDateTime: 2023-07-17T10:43:00Z
+    webUrl: "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/"
+    ampWebUrl: "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 74
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/07/brain-chip-e1689590304657.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "cf/CE08gkyvmhXq24gwETwuWVGzirzMf/guwS9zx5C9E1B02k21fYMNKWw1Zjef/bMNMDLKTHbS/u3bQA+EsNANI22PHxZ8eyFZ3ypm9emm9jX476aKRceUS1ocs0Xu7fN/M0xmytnwYaov7p1Kz+aeSArqIbyqvW/Q0bGYteGCdCar14iqtjtKEd3MG3x7RZQrlscQXdxTyEfqi6BI3QNNo3M2wPeJPloXfc/qZnqnRFTT4r7ubLkYNJLR1ApNiSjGsLtMQRFX9IvbBRy5EO4tFG6VLGwtFC97p9PeVadB7uBADW4M3rQh5zsJaSTzTDQ/+vBQ8NRIh4926dzc2pv1qmVvm/8i3R6UW7CS76Cc1X9cqdS5iW+AwXjf5+wg955ydvQFKrmxNYIT0RqOMFyB+dspyro7heW1cA8jqPDa8CwSAIljJ9vgkYJVtFte7Pk/Sp3Ry7lg0384nM5f0Z+pNh1dcltzqSERVfwo4dMcCKnG+GoPwX3Adr48WXJItGl83wbHVn+0lcZYmKtUBOQ==;IUNrEdDmMd6/WDTBK33kQA=="
 ---

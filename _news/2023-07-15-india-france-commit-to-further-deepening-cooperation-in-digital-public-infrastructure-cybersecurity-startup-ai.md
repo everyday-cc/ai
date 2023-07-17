@@ -65,15 +65,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "Truist prepares to use IBM's quantum computers for cybersecurity and AI"
-    excerpt: "The Charlotte bank plans to use quantum computing to stiffen cybersecurity, to run more advanced AI applications and to create new commercial use cases alongside IBM engineers."
-    publishedDateTime: 2023-07-12T18:49:00Z
-    webUrl: "https://www.americanbanker.com/news/truist-prepares-to-use-ibms-quantum-computers-for-cybersecurity-and-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
 
 secured: "qFH7tINrk5Iu2z7ZDRpOsT7brFFIqHK27HrVT4v0Bmbg3BzAehzyALAnY/hZrjssgwSKonMFJLbnsPuaZz2u7VEae6ktbp76YISmNJy5Td6xktuI6pHwdQNVBAsFcLNPaYitr5OpDxX3+hil3cXxgpuT44nAZHVGMcwBuEX5za57zMNgftTKnN9Z5KrwQ79KJC40pUUDgGS9MaILBIiPFn45W+fZ9KvAhNoHOWusqD3vlinP+TfCoHOpZ9a1Ztk0cD6rfRrxjH4K7Ik3B6UUsRtRBDf1ZKEFSTrbf0ZtiitdU/fMR6gI2n8muYXyAdxZyj1ZHr4MjJtfXwJY3P9MktR8QGu7E6/wUrvGiSSYoaXoyRzfdHrEyqe7w42JF2JImgv06YhdSo1okVIUWVKe191QFxgrfZzhqp9sVLyQz2eG+ydZC+Yvr8ISz7yJTAjqDm6hcZ2M7d2DHK4wsZBoH33DrnotIpq4XsWwp+xfDjmsX8CvxntgwRWuLfti9mFez584zwZPzKTgE8OYZYY5jA==;tmjAHNH/FZeNGaIQLvUk8g=="
 ---

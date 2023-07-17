@@ -43,20 +43,6 @@ related:
         width: 2880
         height: 2243
         isCached: true
-  - title: "AI-powered companion robots could end loneliness in older adults"
-    excerpt: "New report finds robots are a solution for the millions of isolated people who have no other solutions but will require measuring index and regulations."
-    publishedDateTime: 2023-07-12T17:10:00Z
-    webUrl: "https://interestingengineering.com/science/ai-powered-companion-robots-could-end-loneliness-in-older-adults"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/12/image/jpeg/kHo8Qri6WzjuliAaFkRGrJYFbphLw0VyEcGLtnSg.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI-enhanced companion robots may help alleviate the loneliness epidemic in future"
     excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities."
     publishedDateTime: 2023-07-12T23:24:00Z

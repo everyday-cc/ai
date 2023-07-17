@@ -25,49 +25,112 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Launches xAI, His New Artificial-Intelligence Company"
-    excerpt: "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT."
-    publishedDateTime: 2023-07-12T18:19:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a"
+  - title: "Elon Musk launches new AI company to 'understand the true nature of the universe'"
+    excerpt: "In April, Musk also shared his intention to create a new AI model called TruthGPT. In an interview with Tucker Carlson, Musk described the new model as a \"maximum truth-seeking AI that tries to understand the nature of the universe,\" wording that mirrored the press release's description of xAI."
+    publishedDateTime: 2023-07-12T20:29:00Z
+    webUrl: "https://www.zdnet.com/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/musk-makes-good-on-his-promise-and-launches-his-own-ai-company/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://images.wsj.net/im-815887/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Elon Musk Will Feed xAI Twitter Data To Train Its Language Model And Develop Artificial General Intelligence"
-    excerpt: "Elon Musk has unveiled his own AI company, xAI, which will train on Twitter data. Could Musk’s decision about implementing “Read Limits” on Tweets be related to this development?"
-    publishedDateTime: 2023-07-15T05:53:00Z
-    webUrl: "https://www.gizbot.com/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 40
-    images:
-      - url: "https://www.gizbot.com/img/2023/07/elon-musk-tweets-twitter-xai-data-scraping-1689400352.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/127d718f3042e0f13286895e4877a0725bddee3b/2023/07/12/c4c902fd-89fe-474b-87d7-661b3566a7eb/gettyimages-1246506636.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk Announces xAI: Who’s On the 12-Man Founding Team?"
-    excerpt: "The team consists primarily of former researchers at OpenAI, DeepMind, Google, Microsoft, Tesla and the University of Toronto, where “A.I. godfather” Geoffrey Hinton teaches. The team is ..."
-    publishedDateTime: 2023-07-12T21:16:00Z
-    webUrl: "https://observer.com/2023/07/elon-musk-launches-xai/"
+  - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
+    excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
+    publishedDateTime: 2023-07-13T18:09:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
     type: article
     provider:
-      name: observer
-      domain: observer.com
+      name: CNET
+      domain: cnet.com
+    quality: 64
+  - title: "Elon Musk unveils new AI startup with team of top researchers"
+    excerpt: "The startup, xAI, formally launched on Wednesday and its goal “is to understand the true nature of the universe.”"
+    publishedDateTime: 2023-07-13T21:34:00Z
+    webUrl: "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/"
+    ampWebUrl: "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/"
+    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/"
+    type: article
+    provider:
+      name: NewsNation
+      domain: newsnationnow.com
+    quality: 59
+    images:
+      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/64b00804ca5782.83734212.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Elon Wants to Master the Universe With xAI"
+    excerpt: "The name of his latest venture plays into all sorts of Elon tropes, from using the letter X to announcing it on a date that adds up to 42, the number that “Hitchhiker's Guide to the Galaxy” author Douglas Adams cryptically offered as the single answer to the meaning of life."
+    publishedDateTime: 2023-07-14T22:41:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/14/1600x900/Elon-Musk-Artificial-Intelligence-0_1689332861988_1689332882200.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Elon Musk forms new AI company in effort to 'understand reality'"
+    excerpt: "Elon Musk is starting a new artificial intelligence company, the Billionaire confirmed in a social media post Wednesday."
+    publishedDateTime: 2023-07-12T20:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/07/12/elon-musk-new-company-xai/4101689191585/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4101689191585/2023/1/e662462498a31d48e525316758705af4/v1.5/Elon-Musk-forms-new-AI-company-in-effort-to-understand-reality.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Musk announces new AI company that seeks to “understand the universe”"
+    excerpt: "Elon Musk formally announced the formation of xAI, a company aimed at understanding \"the true nature of the universe\" that will draw from a heavy bench of industry veterans to take on OpenAI's popular chatbot ChatGPT."
+    publishedDateTime: 2023-07-12T19:20:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/musk-announces-new-ai-company-that-seeks-to-understand-the-universe/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "Elon Musk wants to master the universe with xAI"
+    excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
+    publishedDateTime: 2023-07-15T11:02:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
+  - title: "A simple guide to help you understand AI"
+    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
+    publishedDateTime: 2023-07-17T09:39:00Z
+    webUrl: "https://www.bbc.co.uk/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 39
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013036.jpg?quality=80&#038;strip"
-        width: 1965
-        height: 1092
+      - url: "https://c.files.bbci.co.uk/12067/production/_130313837_ai_simpleguide_promo-nc.png"
+        width: 976
+        height: 549
         isCached: true
   - title: "Elon Musk launches a new AI startup ‘xAI’"
     excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
@@ -78,6 +141,24 @@ related:
       name: Invezz
       domain: invezz.com
     quality: 17
+  - title: "The code breakers: Harnessing the power of AI to understand what animals say"
+    excerpt: "An international group of experts argue that tackling the long-standing challenge of decoding the communication systems of whales, crows, bats, and other animals is coming within reach, following breath-taking advances in artificial intelligence (AI) research."
+    publishedDateTime: 2023-07-13T18:52:00Z
+    webUrl: "https://phys.org/news/2023-07-code-breakers-harnessing-power-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 16
+  - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
+    excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
+    publishedDateTime: 2023-07-14T18:00:00Z
+    webUrl: "https://www.cweb.com/web-fans-excited-as-elon-musk-launches-new-company-xai-to-understand-true-nature-of-the-universe/"
+    type: article
+    provider:
+      name: cweb
+      domain: cweb.com
+    quality: 4
 
 secured: "Q1z2RdQh48TZNaSn4IfDa5kasnVlwIYuMvBCenAtiC1FEqH9nmN5xRb3hytKGD9EWpu3FxJmTJV5VlvgulB19+/Oh+fTDARP/p/fpQWF6k7t4lyGDEUAwbr3KyPM1NPq/gJyIs/u/nxjYboJpazdwzhvXTSiMf6zI/Pz2rXYwPxAybXyl39CjNpHaRT+xI9BtyVZY25HoMZ5HpLVxz9+pz4qnE5h6sR9+E4X0TT8/1PzIiWVsqAIaBFbf2ccSJ4cfC2uMOV6V52mqtggoBY3FpsrfHGS5bmTPu2TJ8jniCTVYplQqiXlW/VeF9Q5zqce0oHuCZvEe0Arzyjs7ep2EO0TlAsTeE9/AMu2Ghzx2/g=;rxaq3j/1pg68EYmGqdrEjg=="
 ---

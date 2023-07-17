@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI-powered companion robots could end loneliness in older adults"
-    excerpt: "New report finds robots are a solution for the millions of isolated people who have no other solutions but will require measuring index and regulations."
-    publishedDateTime: 2023-07-12T17:10:00Z
-    webUrl: "https://interestingengineering.com/science/ai-powered-companion-robots-could-end-loneliness-in-older-adults"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/12/image/jpeg/kHo8Qri6WzjuliAaFkRGrJYFbphLw0VyEcGLtnSg.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Robots Could Play Future Role as Companions in Care Homes"
     excerpt: "Scientists like Nadia Magnenat Thalmann at Switzerland's University of Geneva think artificial intelligence (AI)-powered social robots could help care for the sick and aged in the future. Thalmann served as a model for Nadine, an android that produces human-like gestures and expressions."
     publishedDateTime: 2023-07-13T16:36:00Z

@@ -100,31 +100,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Elon Musk launches new AI startup, says will work closely with Tesla"
-    excerpt: "Elon Musk announced the launch of a new artificial intelligence startup, xAI, with the goal of “understanding the universe.”"
-    publishedDateTime: 2023-07-12T17:49:00Z
-    webUrl: "https://electrek.co/2023/07/12/elon-musk-launches-xai-startup-work-closely-with-tesla/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 64
-  - title: "Elon Musk launches new AI company called xAI"
-    excerpt: "Elon Musk, the CEO of Tesla and SpaceX and owner of Twitter, has announced the launch of a new AI company called xAI."
-    publishedDateTime: 2023-07-12T17:39:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/elon-musk-launches-new-ai-company-called-xai-3367456"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/elon-musk-launches-new-ai-company-called-xai-3367456?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/elon-musk-launches-new-ai-company-called-xai-3367456?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/12/zoom_virtual_background-7.jpg?itok=D9Q53H29"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Elon Musk unveils his new artificial intelligence startup"
     excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI."
     publishedDateTime: 2023-07-12T21:51:00Z
@@ -217,15 +192,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Elon Musk launches artificial intelligence company to ‘understand reality,’ months after calling for pause in AI"
-    excerpt: "Elon Musk has launched an artificial intelligence (AI) operation mere months after signing an open letter that called for a pause in AI development."
-    publishedDateTime: 2023-07-12T18:37:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-elon-musk-launches-xai-artificial-intelligence-company-20230712-glof4oikdraszf2vpnti4dpqmy-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 11
   - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
     excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal"
     publishedDateTime: 2023-07-13T19:08:00Z

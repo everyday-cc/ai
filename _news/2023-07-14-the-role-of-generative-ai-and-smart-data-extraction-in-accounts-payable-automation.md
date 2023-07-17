@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The AI boom is screwing over Gen Z"
+    excerpt: "ChatGPT is commandeering the tasks that young employees rely on to advance their careers. That's going to crush Gen Z's career path."
+    publishedDateTime: 2023-07-17T09:26:00Z
+    webUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/64b03b8fc22d1a0019455239?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "If you don’t already have a generative AI security policy, there’s no time to lose"
     excerpt: "Businesses are finding more and more compelling reasons to use generative AI, which is making the development of security-focused generative AI policies more critical than ever."
     publishedDateTime: 2023-07-17T09:04:00Z

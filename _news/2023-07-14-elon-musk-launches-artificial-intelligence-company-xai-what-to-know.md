@@ -23,22 +23,6 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Elon Musk wants to build AI to ‘understand the true nature of the universe’"
-    excerpt: "Twitter CEO Elon Musk is founding an organization, xAI, to build AI to \"understand the true nature of the universe.\""
-    publishedDateTime: 2023-07-12T17:04:00Z
-    webUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/"
-    ampWebUrl: "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258742140.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk launches new AI company to 'understand the true nature of the universe'"
     excerpt: "In April, Musk also shared his intention to create a new AI model called TruthGPT. In an interview with Tucker Carlson, Musk described the new model as a \"maximum truth-seeking AI that tries to understand the nature of the universe,\" wording that mirrored the press release's description of xAI."
     publishedDateTime: 2023-07-12T20:29:00Z
@@ -54,22 +38,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/127d718f3042e0f13286895e4877a0725bddee3b/2023/07/12/c4c902fd-89fe-474b-87d7-661b3566a7eb/gettyimages-1246506636.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Elon Musk Announces New AI Company With Mission to 'Understand Reality'"
-    excerpt: "Elon Musk announced his newest AI business, xAI, on Wednesday. The company's main goal is to comprehend the universe's underlying principles. Competent professionals who have previously worked at renowned AI companies like DeepMind,"
-    publishedDateTime: 2023-07-12T18:12:00Z
-    webUrl: "https://www.techtimes.com/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293717/20230712/elon-musk-announces-new-ai-company-mission-understand-reality.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 61
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431486/elon-musk-announces-new-ai-company-with-mission-to-understand-reality.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Elon Musk unveils new AI startup with team of top researchers"
     excerpt: "The startup, xAI, formally launched on Wednesday and its goal “is to understand the true nature of the universe.”"
@@ -128,6 +96,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
+  - title: "Musk launches AI company while Twitter flounders"
+    excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
+    publishedDateTime: 2023-07-13T07:47:00Z
+    webUrl: "https://htxt.co.za/2023/07/13/musk-launches-ai-company-while-twitter-flounders/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 39
+    images:
+      - url: "http://htxt.co.za/wp-content/uploads/2022/12/elon-musk-giga-texas.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk wants to master the universe with xAI"
     excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
     publishedDateTime: 2023-07-15T11:02:00Z
@@ -139,15 +121,38 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Elon Musk unveils A.I. startup with execs from DeepMind and Microsoft, with goal to ‘understand the true nature of the universe’"
-    excerpt: "On a website unveiled Wednesday xAI said its team will be led by Musk and staffed by executives who have worked at a broad range of companies at the forefront of artificial intelligence, including Google’s DeepMind, Microsoft Corp. and Tesla Inc., as ..."
-    publishedDateTime: 2023-07-12T18:53:00Z
-    webUrl: "https://fortune.com/2023/07/12/elon-musk-ai-startup-xai-deepmind-microsoft-executives/"
+  - title: "A simple guide to help you understand AI"
+    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
+    publishedDateTime: 2023-07-17T09:39:00Z
+    webUrl: "https://www.bbc.co.uk/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 37
+      name: BBC
+      domain: bbc.co.uk
+    quality: 39
+    images:
+      - url: "https://c.files.bbci.co.uk/12067/production/_130313837_ai_simpleguide_promo-nc.png"
+        width: 976
+        height: 549
+        isCached: true
+  - title: "Elon Musk launches a new AI startup ‘xAI’"
+    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
+    publishedDateTime: 2023-07-12T19:13:00Z
+    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 17
+  - title: "The code breakers: Harnessing the power of AI to understand what animals say"
+    excerpt: "An international group of experts argue that tackling the long-standing challenge of decoding the communication systems of whales, crows, bats, and other animals is coming within reach, following breath-taking advances in artificial intelligence (AI) research."
+    publishedDateTime: 2023-07-13T18:52:00Z
+    webUrl: "https://phys.org/news/2023-07-code-breakers-harnessing-power-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 16
   - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
     excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
     publishedDateTime: 2023-07-14T18:00:00Z

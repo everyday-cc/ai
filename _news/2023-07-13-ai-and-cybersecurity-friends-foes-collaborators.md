@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-colla
 webUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Truist prepares to use IBM's quantum computers for cybersecurity and AI"
-    excerpt: "The Charlotte bank plans to use quantum computing to stiffen cybersecurity, to run more advanced AI applications and to create new commercial use cases alongside IBM engineers."
-    publishedDateTime: 2023-07-12T18:49:00Z
-    webUrl: "https://www.americanbanker.com/news/truist-prepares-to-use-ibms-quantum-computers-for-cybersecurity-and-ai"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 19
 
 secured: "ncO1CzAdQlgH2MbLL/Z9Ip48Nt8sFla19D1oBKEPRahK+/5EO5+fAYwlEjYXzO6xdm4fzi+l8gnFwqRxGqSNs+urFnXmsqDVtW9BuvCC2h0OXQwf2lratvllcCrHfNpt6OgJcvFP5c8aFdkcrdtIKUt0IpwRELVu6ahnmHLLALG6v5fzE0HZsmKR9vNMttsO8Q9uQewCaUxq9t1VdSUbnQFp70uKIVx7t4hRhbD+b3nBdTNhADe/9VVISCDcFMnl/f9IbSMCEFcnkBlrOhfLgFOGN3GW9uQMzp4tSYOsfrhXAj2u+udBO4m9dNY/3pb0MUBt9h0F4aKzYBsCWnNX4GImnQnRV2tBfN2QjrtNw0k=;Cz1jqOJv+vMaXiBdkPFaqw=="
 ---

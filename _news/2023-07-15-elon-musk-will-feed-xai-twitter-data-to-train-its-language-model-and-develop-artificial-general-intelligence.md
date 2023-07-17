@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-d
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/elon-musk-feed-xai-twitter-data-train-language-model-and-build-artificial-general-intelligence-086260.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,59 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Elon Musk Launches xAI, His New Artificial-Intelligence Company"
-    excerpt: "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT."
-    publishedDateTime: 2023-07-12T18:19:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-815887/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Elon Musk Announces xAI: Who’s On the 12-Man Founding Team?"
-    excerpt: "The team consists primarily of former researchers at OpenAI, DeepMind, Google, Microsoft, Tesla and the University of Toronto, where “A.I. godfather” Geoffrey Hinton teaches. The team is ..."
-    publishedDateTime: 2023-07-12T21:16:00Z
-    webUrl: "https://observer.com/2023/07/elon-musk-launches-xai/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 39
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013036.jpg?quality=80&#038;strip"
-        width: 1965
-        height: 1092
-        isCached: true
-  - title: "Musk launches AI company while Twitter flounders"
-    excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
-    publishedDateTime: 2023-07-13T07:47:00Z
-    webUrl: "https://htxt.co.za/2023/07/13/musk-launches-ai-company-while-twitter-flounders/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 39
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2022/12/elon-musk-giga-texas.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Elon Musk launches a new AI startup ‘xAI’"
-    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
-    publishedDateTime: 2023-07-12T19:13:00Z
-    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 17
 
 secured: "oXzwsOz7c/yJYWQOUBs+yCzyeXoyPNN6Ml5BweZFKgumWim4bwFFxS46ypZqm6dKGuT4IxICUot7NdfVi77Dj+SU3y17XpXlDXETud3Bu76MNaJ67LIPP8JBRUtDXPwuDxIUJ43dc7lo8GeFw19XeXf9F5AVHiv/BeozqxABP9K6mfJ+u2IxbLBygCbgPDcS6L6ng8vzaVf3ENaESXqhauIi1SZf0yuyUV5pleK6ewDfGRoRrzkQpqUhZnhtG2Y0UGZZz8TFfK17X29KMuJMwi4ddGWvT3ZCmocRNkI/kgLl6pGKYJgpi8HtA1or3Zw6OH8ssVU0cNBIbdi8OFY8joe/GQ31tui9D5/3+tvv1wO1geZdBjNDjNw3tCCPwn5KvF6b8fgMLyYrL+k6uWgL/ahObCxEqOgY8dCwXAjzwFGlH5Qiby7d9f0ymrGvtKHJEudrUayNvnpnLGgy0iUCPVz6le/3gnNhZQWs9lowUvLJMKFosYjgI1SdQx2si5VSQp1e1hquqGD7ObZLTtaKBA==;SMFyv5XZ6qUHQbuNQBC/lA=="
 ---

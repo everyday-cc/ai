@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.wsj.net/im-816176/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "How One District Is Bringing AI Into the Classroom"
-    excerpt: "The Newark school district in New Jersey is actively experimenting with artificial intelligence, and thinking about how ed-tech companies can help."
-    publishedDateTime: 2023-07-12T17:11:00Z
-    webUrl: "https://marketbrief.edweek.org/k12-insider/one-district-bringing-ai-classroom/"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 39
-    images:
-      - url: "https://marketbrief.edweek.org/wp-content/uploads/2023/07/07.23-MB-K12-Newark-ai-1138722178-880x493.jpg"
-        width: 880
-        height: 493
         isCached: true
   - title: "Rising Data Center Costs Linked to AI Demands"
     excerpt: "Energy usage associated with running AI number-crunching is fast becoming a key driver of rising data center bills."

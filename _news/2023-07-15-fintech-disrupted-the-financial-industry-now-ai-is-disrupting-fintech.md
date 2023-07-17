@@ -35,6 +35,20 @@ related:
         width: 280
         height: 210
         isCached: true
+  - title: "5 AI-driven FinTech firms supporting consumers, businesses in Europe"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-17T10:47:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-ai-driven-fintech-firms-supporting-consumers-businesses-in-europe/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/technology-global-ai-race-information-network-connection-scaled.jpg"
+        width: 2560
+        height: 2560
+        isCached: true
   - title: "India’s Think360 make top AI Fintech Companies List"
     excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
     publishedDateTime: 2023-07-17T07:23:00Z

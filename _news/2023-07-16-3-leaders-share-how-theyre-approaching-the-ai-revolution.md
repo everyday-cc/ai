@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 138
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Is Revolutionizing Stock Investing"
+    excerpt: "In recent years, there has been a major shift in the way stock investing is conducted. And it's thanks to the rapid advancements in artificial intelligence (AI) technology. Investors no longer need to rely solely on human analysis and gut instincts to make investment decisions."
+    publishedDateTime: 2023-07-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64760b103ac0d58b057b69d9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI scam calls imitating familiar voices are a growing problem—here's how they work"
     excerpt: "Scam calls using AI to mimic voices of people you might know are being used to exploit unsuspecting members of the public. These calls use what's known as generative AI, which refers to systems capable of creating text,"
     publishedDateTime: 2023-07-13T19:30:00Z

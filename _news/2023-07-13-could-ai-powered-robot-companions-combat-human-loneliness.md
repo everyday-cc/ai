@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-07-ai-powered-robot-companions-comb
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/5821689194493/2023/1/1acca51c47c52ff10817f3b95463593d/v1.5/Report-Robots-with-artificial-intelligence-might-offer-real-human-companionship.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI-powered companion robots could end loneliness in older adults"
-    excerpt: "New report finds robots are a solution for the millions of isolated people who have no other solutions but will require measuring index and regulations."
-    publishedDateTime: 2023-07-12T17:10:00Z
-    webUrl: "https://interestingengineering.com/science/ai-powered-companion-robots-could-end-loneliness-in-older-adults"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/12/image/jpeg/kHo8Qri6WzjuliAaFkRGrJYFbphLw0VyEcGLtnSg.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI-enhanced companion robots may help alleviate the loneliness epidemic in future"
     excerpt: "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities."

@@ -72,6 +72,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
+    excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
+    publishedDateTime: 2023-07-17T11:38:00Z
+    webUrl: "https://www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/"
+    ampWebUrl: "https://www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 74
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/4F4BB410-B9BA-4D91-8737E7D82CE8E44C.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "New AI chatbot Claude 2 brings ethics to artificial intelligence"
     excerpt: "How do you keep an AI chatbot on the straight and narrow? By using another AI to police its answers. That is the model behind a rival to ChatGPT that was releas"
     publishedDateTime: 2023-07-14T23:01:00Z
@@ -85,38 +101,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6f769778-2243-11ee-b9dc-95034bbd78f3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Elon Musk announces xAI, a new artificial intelligence company to rival ChatGPT"
-    excerpt: "Elon Musk on Wednesday announced the formation of a new company focused on artificial intelligence called x.AI"
-    publishedDateTime: 2023-07-12T17:17:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
-    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/elon-musk-xai-artificial-intelligence-company/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 68
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/13/87161d19-8c3f-4df4-a590-941c017ad967/thumbnail/1200x630/3b5d57cb4fee03f165853faa1a855a19/cbsn-fusion-elon-musk-announces-new-twitter-ceo-encrypted-messages-feature-thumbnail-1965276-640x360.jpg?v=0d985d39f30c0548885e26d84e710785"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Elon Musk takes aim at ChatGPT with launch of artificial intelligence firm xAI"
-    excerpt: "Musk has said on several occasions that the development of AI should be paused and that the sector needs regulation."
-    publishedDateTime: 2023-07-12T18:53:00Z
-    webUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/"
-    ampWebUrl: "https://nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/12/elon-musk-launches-artificial-intelligence-firm-xai/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 68
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/elon-misk-xai.jpg?quality=75&strip=all&1689166555&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Google’s AI Chatbot Bard Gets Belated European Release"
     excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
@@ -175,22 +159,6 @@ related:
       - url: "https://i.insider.com/64afe049c22d1a0019453fd9?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Elon Musk's New ChatGPT Competitor Boosts AI-Related Crypto Tokens"
-    excerpt: "Tokens such as AGIX and FET saw modest bump after Musk announced new Artificial Intelligence (AI) company \"xAI\" to take on ChatGPT."
-    publishedDateTime: 2023-07-12T17:13:00Z
-    webUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/"
-    ampWebUrl: "https://www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
-    cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/markets/2023/07/12/elon-musks-new-chatgpt-competitor-boosts-ai-related-crypto-tokens/?outputType=amp"
-    type: article
-    provider:
-      name: CoinDesk
-      domain: coindesk.com
-    quality: 59
-    images:
-      - url: "https://www.coindesk.com/resizer/tBu9OHF5BKIkOH8pJytphVkNALo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Y64QHXJPTVFJPPHBPUVNXX4CSE.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Meta set to release a commercial AI model like Bard and ChatGPT"
     excerpt: "Elon Musk, in a separate development, has recently launched a new AI company named xAI, with a mission to understand the true nature of the universe. The xAI includes members with prior experience at prominent AI organizations such as Microsoft Research,"
@@ -270,6 +238,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
+    excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."
+    publishedDateTime: 2023-07-17T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.html"
+    ampWebUrl: "https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_1982930069-100943419-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
     excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
     publishedDateTime: 2023-07-13T15:38:00Z
@@ -301,6 +285,22 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Generative AI And Data Science Have Mightily Paired Up To Reinvent Data Strategies, Exemplified Via Release Of OpenAI’s ChatGPT Code Interpreter"
+    excerpt: "Generative AI is increasingly going to be a front-end tool for data science, which will shake-up organizational data strategies. Here's the scoop and what to do about it."
+    publishedDateTime: 2023-07-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b4bdecf8d20b23cae9bcfd/0x0.jpg?format=jpg&crop=2308,1299,x0,y73,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
     excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
@@ -385,6 +385,22 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2023/07/g/t/wirestory-2e626553cf6333f642fb02fe247707ca-16x9-992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Evaluating the ability of ChatGPT and other large language models to detect fake news"
+    excerpt: "Large language models (LLMs) are an evolution of natural language processing (NLP) techniques that can rapidly generate texts closely resembling those written by humans and complete other simple language-related tasks."
+    publishedDateTime: 2023-07-17T10:00:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 37
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/evaluating-the-ability.jpg"
+        width: 748
+        height: 440
         isCached: true
   - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
     excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."

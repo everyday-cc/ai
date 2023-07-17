@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/mastercard-ebay-and-capital-one-talk-eq
 webUrl: "https://venturebeat.com/ai/mastercard-ebay-and-capital-one-talk-equitable-generative-ai-and-innovation/"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 669
     isCached: true
-
-related:
-  - title: "How eBay is using generative AI, computer vision to enhance CX"
-    excerpt: "By using generative AI throughout its platform, eBay aims to streamline the purchasing process for both buyers and sellers."
-    publishedDateTime: 2023-07-12T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
 
 secured: "xOdhrty+j80hIkssYMoF4KBVSTxS3LwRVApCYuV98yZ6OH27q2oK5hdWnQVwof+yGG8BjftRAAzdRPqmsujNCMDwRdu0q2J56C148RhafdlhwcUUHmAcS/Z3HKlbWWvzjh/GcdOjHdJQFn3cVgXAAvBgG19OgX0VPuhVq1tzANS0VNoG73wim/Vd+y9LQK97EiCN5kLx7ysd8M0WqT3bTcUvB50xSu2Y+d+VQFG/anmtz/82j5o6UFGHbjqO4Zueg+nLSmR20xW5MsSJyDKjj5EIaRebydMR+eSiDw/4JfWerqmDXx9dAHFff5B6KQ276L8zdvbdYw46zK9DBjy01z5J5ZAcdASs/zJVS0gDIzD6vh64NSjzFt+79b1L66NafDLmbSI2F8MwV4iXDK72DGhZZVz5NDXYNqzoK8wYSf94YW4XYP2tK/LXGwJ68w7pTHalbhVI0A6ktZdO1mH1X4n8gvWQG6YI10OxcHNXSq5GFISV+sOPQKpZubV9ZYk0LN/9uqB6HK+2HfeRAlvS1A==;+Azaj4N1M6tlATirPAxgJw=="
 ---

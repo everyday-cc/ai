@@ -103,15 +103,6 @@ related:
       name: News on 6
       domain: newson6.com
     quality: 19
-  - title: "Chipotle is testing the 'Autocado', a robot to help make guacamole in its restaurants"
-    excerpt: "an \"autonomous kitchen assistant that integrates culinary traditions with artificial intelligence to make tortilla chips.\" According to a news release, Chippy, created by Miso Robotics, is trained to replicate Chipotle's exact recipe to cook chips to ..."
-    publishedDateTime: 2023-07-12T17:35:00Z
-    webUrl: "https://www.usatoday.com/story/money/food/2023/07/12/chipotle-autocado-guacmole-production-robot/70405904007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 12
 
 secured: "VeTK/x7ghbCeP7diDlMjzseJOfYyfazWy79O4yhqWw5d53EXqRM6uFmSOKM88U+EBHYqsfRbUnfCRi3T5NBtkhxSU3h/uxecB0q1Rrg0OUWJOv6VCdhxCiGW9m6rKCkYIgbLB3wDx1SCX9tUnV24dmrwqZ7tjb/YsU1vi7EIBHsZaG5TwoLJKRuzx+SR0/zpixLrHuI9AWKiR7HoUWuwTEakgA33bcPv0E3gYsC0/EpRjHPh7qPkUNLQ/8a3927jXXHUzCGRLaNhO2OfaCctmyfhmrPc0fMPubrM8krOPJ+T1XMbG1HSmSErfMQBKyBzY8E/aw8V4/WfjStQUEc+xoriz3ZL03M9yipEk3j8CTo=;rYagRCcGA4y3iRCxOkhM5w=="
 ---

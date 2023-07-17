@@ -52,6 +52,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "3 Quantum Computing Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Quantum computing is still a relatively nascent technology. If developed"
+    publishedDateTime: 2023-07-17T10:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-quantum-computing-stocks-that-ai-is-loving-in-july-1032450903"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "7 Blue-Chip Stocks to Sell in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chip stocks are some of the most popular equities that you can buy. But"
     publishedDateTime: 2023-07-13T10:52:00Z

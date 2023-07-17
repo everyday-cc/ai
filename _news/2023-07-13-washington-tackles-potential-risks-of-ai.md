@@ -9,8 +9,8 @@ ampWebUrl: "https://fox40.com/news/washington-dc-bureau/washington-tackles-poten
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: FOX40 News
@@ -26,28 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wilmington AI startup using QR codes for retail marketing looks to raise $12M"
-    excerpt: "A Wilmington startup that leverages artificial intelligence to boost customer engagement is looking to raise $12 million in seed round funding as AI continues to permeate the fundraising world. The year-old company,"
-    publishedDateTime: 2023-07-13T18:51:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/inno/stories/news/2023/07/13/delaware-based-ai-startup-looks-to-raise-10m.html"
+  - title: "'The Creator' trailer drops John David Washington in a war between humans and AI"
+    excerpt: "Joshua is recruited to join a crack team of operatives, led by Allison Janney's Colonel Howell to hunt down the eponymous Creator, whose development of artificial intelligence weapons could mean the end of the world. As the robots apparently have some form of superweapon, Joshua's team's one mission is to retrieve it."
+    publishedDateTime: 2023-07-17T09:38:00Z
+    webUrl: "https://mashable.com/video/the-creator-trailer"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
-  - title: "Herzog heads to Washington during delicate time for US-Israel relations"
-    excerpt: "Herzog is to meet US President Joe Biden, Vice President Kamal Harris, and Secretary of State Antony Blinken and address a joint session of Congress."
-    publishedDateTime: 2023-07-14T07:02:00Z
-    webUrl: "https://www.jpost.com/israel-news/politics-and-diplomacy/article-749970"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 24
+      name: Mashable
+      domain: mashable.com
+    quality: 62
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/543531"
-        width: 690
-        height: 407
+      - url: "https://helios-i.mashable.com/imagery/videos/03G99IDGgtBevJpv4tdN0iP/hero-image.fill.size_1200x675.v1689586393.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "BmtI6XlCMGRc8W1fNe/dgT6GTSQegLDHWVO6zhIiYAbp/cj0tUkhNxwBmCwsViEaA0xPkTU68+vMmGvynFD/nkkgy01KIJMI256s/GOOQAsXHIo1NKvybygP6xMm29DgzyHtuFMeLY3LKbwy/2Oci3O6OIli+iiPegjDSekKYUzkQpQhz4rNtPjIZS8JM33kIBnT0JK4L3Y+lPiRagUzb1VNyowWICSO0Zwq7Gm5VyMjVeuMpM5mBmpw/gGyNMSz3CPSTtm2DT/x29elWLpp1upaMbkjFnmmrr+9vA/hHTKdmxiJHeXGoJ3gIA1DS0Ey0J/cA1UPIR9mDsncLKQRIa2uo7gGI1UGAzRzX2eUcyg=;AQjAyZo+m+v40Z48DxRI1g=="

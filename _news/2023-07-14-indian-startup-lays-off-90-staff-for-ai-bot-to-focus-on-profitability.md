@@ -40,22 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Wipro to invest $1 bn in AI over three years"
-    excerpt: "Wipro ai360, an AI-first innovation ecosystem, and said it would train all of its about 250,000 employees on AI over the next 12 months."
-    publishedDateTime: 2023-07-12T17:17:00Z
-    webUrl: "https://www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem-11689182284446.html"
-    ampWebUrl: "https://www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem/amp-11689182284446.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem/amp-11689182284446.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/12/600x338/-Mint-_1689182268055.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Wipro up 1%; company to invest $1 billion in AI over 3 years"
     excerpt: "The Bengaluru-headquartered company also said that it will accelerate investments in startups through Wipro Ventures."
     publishedDateTime: 2023-07-13T04:53:00Z
@@ -87,6 +71,22 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/12/artificial-intelligence-g85614e566_1920-e1672408920584.jpg"
         width: 1881
         height: 1060
+        isCached: true
+  - title: "Musk Announces New AI Start-Up; Wipro to Invest USD$1bn in AI Capabilities"
+    excerpt: "In today's ExchangeWire news digest: Elon Musk announces a new AI start-up; India's Wipro to invest USD$1bn (~£763.6m) in its AI capabilities; and Binance cuts 1,000 staff following executive exits."
+    publishedDateTime: 2023-07-17T10:14:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 55
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2023/07/ai-bot.jpg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "y0VgeGrvyL3Ygc9Kkdxfy3oX1JlsdWKdWNlOfAwLVr1R1Oi4W/YUFg6TcKxtYAlTy27rbqaHrOuixSiEGJ+Ag16DmNVJnqxeVmGL00IeKDA5Q9DEKVtm7QecEiePfUVeTnpgugTPOK9ws8o/hnBpDmUGJdcrbhqpnbyItl+Aox7eWrs2VvHkt7sJJYovpLXikRbhY/URwSr/Q22Oa4hjNM7H4eD2EVywd8s8Edv+RDQFVcRRBhjVlUJVUvxSNk1d5FT3Rzwqh6zfb03t5ryyu1zQ40lb2IjjF4s+1/Q1P9jdICGZOrAJCOWMxmx7DlsxGoaOrQHjc60CqOtG5C4TbuHjO92uACOSwF2l7wn19e0=;JfoooMulNM2ViNQy6zFTJg=="

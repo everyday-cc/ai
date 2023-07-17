@@ -42,22 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Wipro to invest $1 bn in AI over three years"
-    excerpt: "Wipro ai360, an AI-first innovation ecosystem, and said it would train all of its about 250,000 employees on AI over the next 12 months."
-    publishedDateTime: 2023-07-12T17:17:00Z
-    webUrl: "https://www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem-11689182284446.html"
-    ampWebUrl: "https://www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem/amp-11689182284446.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/wipro-to-invest-1-billion-in-artificial-intelligence-ai-over-next-three-years-launches-ai-first-innovation-ecosystem/amp-11689182284446.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/12/600x338/-Mint-_1689182268055.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Wipro up 1%; company to invest $1 billion in AI over 3 years"
     excerpt: "The Bengaluru-headquartered company also said that it will accelerate investments in startups through Wipro Ventures."
     publishedDateTime: 2023-07-13T04:53:00Z
@@ -73,6 +57,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/07/stocks_market-stock_stock.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Musk Announces New AI Start-Up; Wipro to Invest USD$1bn in AI Capabilities"
+    excerpt: "In today's ExchangeWire news digest: Elon Musk announces a new AI start-up; India's Wipro to invest USD$1bn (~£763.6m) in its AI capabilities; and Binance cuts 1,000 staff following executive exits."
+    publishedDateTime: 2023-07-17T10:14:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 55
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2023/07/ai-bot.jpg"
+        width: 800
+        height: 480
         isCached: true
   - title: "Indian startup lays off 90% staff for AI bot to focus on profitability"
     excerpt: "Dukaan, an Indian E-commerce startup, has laid off 90% of its customer support team with an artificial intelligence (AI) chatbot. The founder and CEO Sumit Shah informed on Tuesday that the decision was to prioritise profitability,"
