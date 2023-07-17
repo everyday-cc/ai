@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/24525/the-future-of-fintech-i
 webUrl: "https://www.finextra.com/blogposting/24525/the-future-of-fintech-industry-leader-shares-his-thoughts"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,60 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator"
-    excerpt: "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ..."
-    publishedDateTime: 2023-07-12T12:20:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
-  - title: "PayU, AWS India and Chiratae Ventures to launch fintech accelerator for early-stage start-ups"
-    excerpt: "The 45-day program offers mentorship, resources, AWS credits, and access to PayU's payment solutions. Selected start-ups to receive training, mentorship, and up to $25K in AWS credits"
-    publishedDateTime: 2023-07-12T10:47:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 30
-  - title: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures"
-    excerpt: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures - A new fintech accelerator programme called “inFINity” for early-stage Indian startups launched by"
-    publishedDateTime: 2023-07-13T03:11:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/a-new-fintech-startup-accelerator-programme-was-introduced-by-payu-amazon-and-chiratae-ventures-nid-224064-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 11
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/4z8Sh1DY.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "New accelerator programme for fintech startups in India launched"
-    excerpt: "FINity accelerator is a 45-day programme that brings together and supports the growth of early-stage fintech startups by providing access to mentorship from leading industry experts, curated resources,"
-    publishedDateTime: 2023-07-12T10:30:00Z
-    webUrl: "https://telanganatoday.com/new-accelerator-programme-for-fintech-startups-in-india-launched"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 4
-  - title: "Payu To Launch Accelerator Program For Fintech Startups In India"
-    excerpt: "PayU to launch accelerator program for FinTech startups in India  New Delhi, July 12 (KNN)  PayU, India's leading online paymen"
-    publishedDateTime: 2023-07-12T19:20:00Z
-    webUrl: "https://menafn.com/1106592943/Payu-To-Launch-Accelerator-Program-For-Fintech-Startups-In-India"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "6o4pGVW1M/aVFdHMsxMftr7LlWXnXplR9RyJ4vZw81cKvCGEkMgw9nixjadCmwFs3vKUr9mjytbv8dnneMvQomO7rK/shnhD70Lk6LZ/k1wrEBNZo8yQB+STXqLuRrEEMrmizntp5FeynLz3H1rrqFAUdgnL2k0eL8FM63P6R0y/7RJSYvMwRBbZdVUQ21gVvgSrVJEFlcgQ+l/i7mNSW7IZtATjkYnnxWY15gDIrfOPpQuW5+vSTHkoMeFhjBmTMBL17bHQM7PF7tGjxzRwPJGtsPDm5V6+JDhhk+JDSJ/v6MK56GeXPaB3Bbv+IMbrmYF4gdT3M07+OfF3WnivnTUGxy9GE6cNiyE40Imz8RaCuHZVrriXeddhmj7lJXydGj2Z7g0fjbKFbN/Xgwj1byTw0pT/rxSvtbA84X4tpIBjPjP+skeXv50TJVBNcWuB4NpVouhDZeSzKw0WpEUXY6bd4n1fg9arwUma2UHFsg4SuRclM35MMEVjZzQjVuLAUnyaOtikHRTQeVYJ3XJecA==;0iVhl3e0V6Gh0RGGoeFO5g=="
 ---

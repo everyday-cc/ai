@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-17-personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem.md",
-      "title": "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem",
-      "excerpt": "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard.",
+      "path": "_news/2023-07-17-indias-think360-make-top-ai-fintech-companies-list.md",
+      "title": "India’s Think360 make top AI Fintech Companies List",
+      "excerpt": "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s most innovative AI solution providers for the financial services industry.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr",
+      "webUrl": "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/",
+      "originalUrl": "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://img.etimg.com/thumb/msid-101809096,width-280,height-210,imgsize-11894/ev-companies-to-return-fame-ii-sops-or-face-legal-action-after-centre-cracks-the-whip.jpg",
-          "width": 280,
-          "height": 210,
+          "url": "https://static.theprint.in/wp-content/uploads/2023/07/ANI-20230717000417.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms",
-      "publishedDateTime": "2023-07-16T18:40:00-07:00",
+      "ampWebUrl": "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp",
+      "publishedDateTime": "2023-07-16T18:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
+        "name": "ThePrint",
+        "domain": "theprint.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,6 +41,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-australians-divided-over-voice-to-parliament-for-indigenous-people.md",
+      "title": "Australians divided over ‘Voice to Parliament’ for Indigenous people",
+      "excerpt": "A landmark referendum backed by the government would give Indigenous people constitutional recognition and greater say on legislation and policy affecting them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
+      "originalUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-aboriginal-file-mb-1450-32d8ba.jpg",
+          "width": 4695,
+          "height": 3017,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna94016",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016",
+      "publishedDateTime": "2023-07-16T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -642,7 +685,7 @@
       "originalUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -684,6 +727,57 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-how-walmarts-emerging-tech-team-is-transforming-retail-with-conversational-ai.md",
+      "title": "How Walmart’s Emerging Tech team is transforming retail with conversational AI",
+      "excerpt": "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/",
+      "originalUrl": "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/VB-Transform-2023-banner.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1101,108 +1195,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-theres-only-one-way-to-alleviate-anxiety-about-aitalk-about-it.md",
-      "title": "There’s Only One Way To Alleviate Anxiety About AI—Talk About It",
-      "excerpt": "Embracing AI as a powerful tool, communicators unlock a world of endless possibilities, effortlessly crafting compelling narratives and delivering impactful messages that leave a lasting imprint on the minds of their audiences. (This isn't my favorite opening sentence. But more on that later.)",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
-      "publishedDateTime": "2023-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-why-ai-detectors-think-the-us-constitution-was-written-by-ai.md",
-      "title": "Why AI detectors think the US Constitution was written by AI",
-      "excerpt": "If you feed America's most important legal document—the US Constitution—into a tool designed to detect text written by AI models like ChatGPT, it will",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/madison_chatgpt_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/",
-      "publishedDateTime": "2023-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

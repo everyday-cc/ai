@@ -35,20 +35,6 @@ related:
         width: 1050
         height: 788
         isCached: true
-  - title: "How AI Will Impact the Future of Your Work?"
-    excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
-    publishedDateTime: 2023-07-12T10:37:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Will AI Impact the Future of Your Work?"
     excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
     publishedDateTime: 2023-07-13T01:59:00Z
@@ -63,6 +49,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A look at the Pentagon buying strategy for artificial intelligence"
+    excerpt: "The Defense Department has been steadily developing artificial intelligence capabilities. But how should it go about purchasing AI tools? To get some ideas, the Government Accountability"
+    publishedDateTime: 2023-07-12T19:32:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/a-look-at-the-pentagon-buying-strategy-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
 
 secured: "HEoPPe9u98GbKFvp6r13Me0ljiHCjD4hlEzPzERppXf3z9ZQRmcixr+tfkiqA+tm9B07kb9l7GiBcTmLfr1RefUB4gcj63/0jsdiYcfTLgW6DWjzfHX61aE3HbpsHaHo3oLXTfGHCLUXLRSma/c7bcBNAkdY9q9GzXn/fmwQI41FPMZLJxHaWk3B4+1BSKxyjyV6+LlHdm+w1DpSgGdasiiizlV+VJD4L8bP+hfIK74YTEcbAwvfL377dSyzLQrNZg5+hM4jmpCwoffiM+lepJAg8FG2zrGSHX2yn7Y0NgqWwpv5TTlfAxzXb/lsyXJuGX+VotHkIG6RMDj5Wv07Pv6iRL0Ch1kwHj+Y9+//gKA=;Kp93RDAa6/GYldUEhpancg=="
 ---

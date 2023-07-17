@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-14-artificial-intelligence-learning-check-how-ai-can-help-you-crack-govt-exams-2023.md",
+      "title": "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023",
+      "excerpt": "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "originalUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com//images/2022/May/2752022/Archana-Shandilya.jpeg",
+          "width": 630,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "publishedDateTime": "2023-07-13T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
       "title": "U.S. to decide on GM request to deploy self-driving cars",
       "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
@@ -1387,49 +1430,6 @@
         "AI in Autos",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-artificial-intelligence-wont-replace-financial-advisors.md",
-      "title": "Artificial Intelligence Won’t Replace Financial Advisors",
-      "excerpt": "The new technology nobody can stop talking about is artificial intelligence ... Despite the rise of self-driving cars, many surveys indicate most people are hesitant to ride in them for safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/financial-advice/artificial-intelligence-wont-replace-financial-advisors",
-      "originalUrl": "https://www.morningstar.com/financial-advice/artificial-intelligence-wont-replace-financial-advisors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/wqG9jcEvHPpGO8KvKtciCK3o6V8=/1200x675/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/M4RSOB6BXFEM3OV7WN3G4NJ4TQ.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T17:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

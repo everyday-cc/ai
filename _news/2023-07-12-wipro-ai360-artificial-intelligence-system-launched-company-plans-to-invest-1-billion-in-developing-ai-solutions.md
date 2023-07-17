@@ -42,22 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Wipro to spend $1 billion to train entire staff in artificial intelligence"
-    excerpt: "Wipro Ltd, India's third-largest software services company, on Wednesday announced a USD 1 billion spending plan to train its entire 2.5 lakh employees in artificial intelligence and integrate the technology into its product offerings."
-    publishedDateTime: 2023-07-12T10:08:00Z
-    webUrl: "https://www.zeebiz.com/companies/news-wipro-to-spend-1-billion-to-train-entire-staff-in-artificial-intelligence-243869"
-    ampWebUrl: "https://www.zeebiz.com/companies/news-wipro-to-spend-1-billion-to-train-entire-staff-in-artificial-intelligence-243869/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/companies/news-wipro-to-spend-1-billion-to-train-entire-staff-in-artificial-intelligence-243869/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 72
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Wipro to invest $1 bn in AI over three years"
     excerpt: "Wipro ai360, an AI-first innovation ecosystem, and said it would train all of its about 250,000 employees on AI over the next 12 months."
     publishedDateTime: 2023-07-12T17:17:00Z
@@ -106,15 +90,6 @@ related:
         width: 1881
         height: 1060
         isCached: true
-  - title: "AI Industrial Robotics - India"
-    excerpt: "Value in the AI Industrial Robotics market is projected to reach US$162.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.88%, resulting in a market volume of US$ ..."
-    publishedDateTime: 2023-07-12T09:30:00Z
-    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/india"
-    type: article
-    provider:
-      name: Statista
-      domain: statista.com
-    quality: 49
   - title: "Wipro eyes new opportunities with $1B investment in AI"
     excerpt: "The Indian IT consulting firm launches its ai360 platform, alongside a three-year $1 billion plan that includes training its 250,000 employees on the fundamentals of artificial intelligence."
     publishedDateTime: 2023-07-12T12:01:00Z

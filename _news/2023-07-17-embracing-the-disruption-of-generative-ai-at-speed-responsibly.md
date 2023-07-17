@@ -25,59 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Education: Embracing AI For Student Success"
-    excerpt: "It is only by deploying resources, training and policies at every level of our institutions that we can begin to realize the vast potential of what AI can offer."
-    publishedDateTime: 2023-07-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VentureBeat Transform Day 2: Embracing partnerships for generative AI success"
-    excerpt: "Industry experts cited human-centric design and business partnerships among the important themes for successful integration of generative AI."
-    publishedDateTime: 2023-07-13T14:44:00Z
-    webUrl: "https://venturebeat.com/ai/venturebeat-transform-day-2-embracing-partnerships-for-generative-ai-success/"
+  - title: "How to avoid pitfalls and navigate the ethical landscape of generative AI"
+    excerpt: "We still have a lot to figure out. That was my impression of a Transform 2023 panel that drilled into the ethics of generative AI."
+    publishedDateTime: 2023-07-12T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/cytonn-photography-n95VMLxqM2I-unsplash.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/ethics-3.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 769
         isCached: true
-  - title: "The Future of AI Regulation: How Can We Get it Right?"
-    excerpt: "The EU AI Act is a sensible starting point but it is by no means the gold standard for AI regulation and there are concerns around the EU’s highly prescriptive legislative framework."
-    publishedDateTime: 2023-07-12T22:06:00Z
-    webUrl: "https://www.law.com/international-edition/2023/07/12/the-future-of-ai-regulation-how-can-we-get-it-right/"
+  - title: "Navigating data governance, transparency and trust in a generative AI world"
+    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
+    publishedDateTime: 2023-07-12T21:11:00Z
+    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/06/Chat-GPT-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
+        width: 1200
+        height: 684
         isCached: true
-  - title: "Banks are realizing value of embracing artificial intelligence"
-    excerpt: "It’s expected that banks will save $447 billion by the end of 2023 by implementing AI applications that assist in a myriad of areas."
-    publishedDateTime: 2023-07-12T16:01:00Z
-    webUrl: "https://rbj.net/2023/07/12/banks-are-realizing-value-of-embracing-artificial-intelligence/"
+  - title: "Crawlers, search engines and the sleaze of generative AI companies"
+    excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
+    publishedDateTime: 2023-07-13T15:32:00Z
+    webUrl: "https://searchengineland.com/crawlers-search-engines-generative-ai-companies-429389"
     type: article
     provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 17
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 21
 
 secured: "TuEt/XMI+8J/X0/1YwIPSdD/XHp8B33w3/UUjPTRugVB/fzn6iLcIGtyQNbFma0PiDyKahdkg1SjC5qK3ffwjYqw8bwl4hJ5feUqmoAjFw8FHCV/Snx+wWB437++NwYpyJ5XHWQW3WUpG+L9PUfhN1dBLsEzuMbqOsXICz83yalIZEKQcsAZE0X6dDWVsAGpxwgKR/c4+TmDRIpL2LLxuFfm+pVybWq7NT8tKxwuswXbJDg/KK1C8TcsCmt5n96tub05ZJC0Yw42F5G3W7bTQ9D4mI2alncVoO3ZeU6wun0nfAxoXQXof971qzz+AcXPRCarjnjDV+ABdV61ScEmq4bNkRrt5erKCbO94Y4ReS4=;8KONnHtmsOkeEPi3GLyQfg=="
 ---

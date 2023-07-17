@@ -271,20 +271,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s AI Chatbot Is Trained by Humans Who Say They’re Overworked, Underpaid and Frustrated"
-    excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes"
-    publishedDateTime: 2023-07-12T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-chatbot-is-trained-by-humans-who-say-they-re-overworked-underpaid-and-frustrated"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 56
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTnywOOoJLm8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
     excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
     publishedDateTime: 2023-07-13T15:38:00Z
@@ -512,6 +498,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "KLjkBgOCK69qKf/ZkPU7RiGEt4AX0LSGFL7QU3BJmSmPnXheInu/QZyaBkZUgiOg/uzFe/Q+I2VYARvwkjZQLZWqUy9lNYbqW6vRMXnIbkTZvO/EKccKp+9zCaEggMc/wqbs4+GiNkMhm2nx0PpFrdNIqY4wtpQ5hyq1zMqJ6y9GNf1R3AtlIpl1/vrnw/GHwZvRPDwQhgSBaOxsAwjHvGb1mOvP0nk92AJCPRkps1sscHukldoMr/KvhUIqTo5CftijtuZEQLu5evsukmGcWbS2CF0ajM/Ab+mxWGfw52LVn7vrkYaO7UXkihQwTQ6vpwdIIDchFAxHgB+8krtKu382pINL3G2ir+/XOki49KQ=;JwmmS7KUBJzHPE1vGGWwDA=="
+secured: "NpbXRLDhfS64LK02huFe/yYf+Foq0G3cDPhRg861zTIGnf0H/QuNOTo18TMED7tshkZYxEDjfwGxjK7uZ7bPm66AT2GnxmwWpPmeNR9VCMZnwbram883NjiXYGqCgydYMeN8TJqhuDNyRlhf92NE/hrzT/8Tu02/7AolXx5eotE2TqVhbCgwjpnPP5FgTukkkGGZHQkUGuP/bHzmIGPKlmAezgeoUtkhTrovpowzeuGN8HA4Au/g76yADk7gbKZnC4tOSB3rNfafzcAazLbF3gsTqNr31mEU8AsKSAXu4++TcQ2p8x9pIDR5GNaqgpE73s+3YohIrjvLlAVI9yvwrpjU/86cpu66pYT6SldClge6OSdYt0toARhSOUn9QwddlcVdtso8wyXnX79+bR2LNnETI9ddMXFNkblYLrSU3QwgI+cuDssb6nbqKZoIya7rOBGhJE+B8A6mUD/EXoGSWdcrYOIoKbPB26/f1hZC9GH2ghoiNIFLJ9hobzd2YqWWVTUnmlWCr2FyknymXtPaUQ==;TXCqbac2kre0J1r3uXOzsQ=="
 ---
 

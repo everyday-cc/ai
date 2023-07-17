@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-02-baidu-announces-fully-autonomous-ride-hailing-service-apollo-go.md",
+      "title": "Baidu Announces Fully Autonomous Ride-Hailing Service- Apollo Go",
+      "excerpt": "Backed by Significant Advances in its Apollo Autonomous Driving Technology Platform, Baidu Unveils its Ambitious Robotaxi Plans Self-driving indu",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106375697/Baidu-Announces-Fully-Autonomous-Ride-Hailing-Service-Apollo-Go",
+      "originalUrl": "https://menafn.com/1106375697/Baidu-Announces-Fully-Autonomous-Ride-Hailing-Service-Apollo-Go",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/02/F&S_0a882image_story.jpg",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-baidus-145m-ai-fund-signals-chinas-push-for-ai-self-reliance.md",
       "title": "Baidu’s $145M AI fund signals China’s push for AI self-reliance",
       "excerpt": "China, in order to reduce dependence on the U.S. technological foundation, has been pursuing its own large language models that match OpenAI's GPT models.",
@@ -1232,49 +1275,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-adopting-artificial-intelligence-things-leaders-need-to-know.md",
-      "title": "Adopting Artificial Intelligence: Things Leaders Need to Know",
-      "excerpt": "Artificial intelligence (AI ... from movie recommendations to self-driving cars, and are expected to have a major impact on businesses in the coming years. Software leaders should be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
-      "originalUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/05/AI-leaders-need-know/en/headerimage/adopting-artificial-intelligenc-things-leaders-need-to-know-header-1684308986874.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

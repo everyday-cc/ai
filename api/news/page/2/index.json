@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-14-theres-only-one-way-to-alleviate-anxiety-about-aitalk-about-it.md",
+      "title": "There’s Only One Way To Alleviate Anxiety About AI—Talk About It",
+      "excerpt": "Embracing AI as a powerful tool, communicators unlock a world of endless possibilities, effortlessly crafting compelling narratives and delivering impactful messages that leave a lasting imprint on the minds of their audiences. (This isn't my favorite opening sentence. But more on that later.)",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
+      "publishedDateTime": "2023-07-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-why-ai-detectors-think-the-us-constitution-was-written-by-ai.md",
+      "title": "Why AI detectors think the US Constitution was written by AI",
+      "excerpt": "If you feed America's most important legal document—the US Constitution—into a tool designed to detect text written by AI models like ChatGPT, it will",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/madison_chatgpt_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/",
+      "publishedDateTime": "2023-07-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-this-small-chip-stock-is-up-200-in-a-year-on-ai-hype.md",
       "title": "This Small Chip Stock Is Up 200% in a Year on AI Hype",
       "excerpt": "Rambus has been on a tear due to optimism surrounding its memory interface chips, and an upgrade cycle from AI. The company has put its past behind it, but investor optimism might be running a bit too hot given the nature of this business model.",
@@ -356,7 +458,7 @@
       "originalUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -988,7 +1090,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1032,7 +1134,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 441,
+      "heat": 431,
       "tags": null,
       "images": [
         {
@@ -1077,21 +1179,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
-      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
-      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
+      "path": "_news/2023-07-14-artificial-intelligence-learning-check-how-ai-can-help-you-crack-govt-exams-2023.md",
+      "title": "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023",
+      "excerpt": "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
-      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "webUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "originalUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
-          "width": 480,
-          "height": 240,
+          "url": "https://img.jagranjosh.com//images/2022/May/2752022/Archana-Shandilya.jpeg",
+          "width": 630,
+          "height": 768,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1099,65 +1201,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "ampWebUrl": "https://www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "publishedDateTime": "2023-07-13T12:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-researchers-investigate-ethical-side-of-ai-impacts-on-meaningful-work.md",
-      "title": "Researchers investigate ethical side of AI impacts on meaningful work",
-      "excerpt": "Artificial intelligence threatens to dramatically change the work we do and how our workplaces operate. Macquarie University researchers examine some vital ethical questions raised by this new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-you.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
-      "publishedDateTime": "2023-07-13T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1167,60 +1217,8 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning.md",
-      "title": "Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning",
-      "excerpt": "Recent years have shown amazing growth in deep learning neural networks (DNNs). This growth can be seen in more accurate models and even opening new possibilities with generative AI: large language models (LLMs) that synthesize natural language, text-to-image generators, and more. These increased capabilities",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/effectively-solve-distributed-training.jpg",
-          "width": 1022,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T09:03:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

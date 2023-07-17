@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-17-australians-divided-over-voice-to-parliament-for-indigenous-people.md",
+      "title": "Australians divided over ‘Voice to Parliament’ for Indigenous people",
+      "excerpt": "A landmark referendum backed by the government would give Indigenous people constitutional recognition and greater say on legislation and policy affecting them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
+      "originalUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-aboriginal-file-mb-1450-32d8ba.jpg",
+          "width": 4695,
+          "height": 3017,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna94016",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016",
+      "publishedDateTime": "2023-07-16T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws.md",
       "title": "Another player heats up generative AI race as China introduces interim laws",
       "excerpt": "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1417,40 +1460,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-language-cognition-and-computational-models.md",
-      "title": "Language, Cognition, and Computational Models",
-      "excerpt": "Featuring contributions from a diverse group of experts, this interdisciplinary book bridges the gap between natural language processing and cognitive sciences. It is divided into three sections, focusing respectively on models of neural and cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/language-cognition-and-computational-models?format=HB",
-      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/computer-science/artificial-intelligence-and-natural-language-processing/language-cognition-and-computational-models?format=HB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

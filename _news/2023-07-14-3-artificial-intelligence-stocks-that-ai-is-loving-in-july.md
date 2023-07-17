@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intel
 webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717"
 type: article
 quality: 66
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Think Twice Before Jumping on the AMD AI Bandwagon"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Why would the experts on Wall Street be so bullish on Advanced Micro Devices"
-    publishedDateTime: 2023-07-12T10:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/think-twice-before-jumping-on-the-amd-ai-bandwagon-1032440573"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "3 Blockchain Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I’ve used Google’s Bard AI tool to help identify blockchain stocks"
     publishedDateTime: 2023-07-12T12:39:00Z

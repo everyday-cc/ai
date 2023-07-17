@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
 type: article
 quality: 51
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -24,49 +24,56 @@ topics:
   - AI in Finance
 
 related:
-  - title: "PayU, AWS India and Chiratae Ventures to launch fintech accelerator for early-stage start-ups"
-    excerpt: "The 45-day program offers mentorship, resources, AWS credits, and access to PayU's payment solutions. Selected start-ups to receive training, mentorship, and up to $25K in AWS credits"
-    publishedDateTime: 2023-07-12T10:47:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator-for-early-stage-start-ups/article67070907.ece/amp/"
+  - title: "India’s Think360 make top AI Fintech Companies List"
+    excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s most innovative AI solution providers for the financial services industry."
+    publishedDateTime: 2023-07-17T01:43:00Z
+    webUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/"
+    ampWebUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 30
-  - title: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures"
-    excerpt: "A new fintech startup accelerator programme was introduced by PayU, Amazon, and Chiratae Ventures - A new fintech accelerator programme called “inFINity” for early-stage Indian startups launched by"
-    publishedDateTime: 2023-07-13T03:11:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/a-new-fintech-startup-accelerator-programme-was-introduced-by-payu-amazon-and-chiratae-ventures-nid-224064-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 11
+      name: ThePrint
+      domain: theprint.in
+    quality: 59
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/4z8Sh1DY.jpg"
-        width: 570
-        height: 367
+      - url: "https://static.theprint.in/wp-content/uploads/2023/07/ANI-20230717000417.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "New accelerator programme for fintech startups in India launched"
-    excerpt: "FINity accelerator is a 45-day programme that brings together and supports the growth of early-stage fintech startups by providing access to mentorship from leading industry experts, curated resources,"
-    publishedDateTime: 2023-07-12T10:30:00Z
-    webUrl: "https://telanganatoday.com/new-accelerator-programme-for-fintech-startups-in-india-launched"
+  - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
+    excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
+    publishedDateTime: 2023-07-17T01:40:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 4
-  - title: "The Future of Fintech: Industry Leader Shares His Thoughts!"
-    excerpt: "The first indicator of Fintech's growth is the adoption rate increase. With emerging user-friendly platforms, businesses and customers have become comfortable with digital financial solutions. From mobile banking to crowdfunding platforms, Fintech has gained  widespread acceptance and has become an integral part of everyday life for many."
-    publishedDateTime: 2023-07-12T12:59:00Z
-    webUrl: "https://www.finextra.com/blogposting/24525/the-future-of-fintech-industry-leader-shares-his-thoughts"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://img.etimg.com/thumb/msid-101809096,width-280,height-210,imgsize-11894/ev-companies-to-return-fame-ii-sops-or-face-legal-action-after-centre-cracks-the-whip.jpg"
+        width: 280
+        height: 210
+        isCached: true
+  - title: "Why These 7 Stocks Are the Best Ways to Play Fintech Right Now"
+    excerpt: "Thomas Niel, contributor for InvestorPlace.com, has been writing single-stock analysis for web-based publications since 2016. The post Why These 7 Stocks Are the Best Ways to Play Fintech Right Now appeared first on InvestorPlace."
+    publishedDateTime: 2023-07-12T20:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-these-7-stocks-are-the-best-ways-to-play-fintech-right-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
+    excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
+    publishedDateTime: 2023-07-14T17:46:00Z
+    webUrl: "https://www.finextra.com/blogposting/24551/fintech-disrupted-the-financial-industry-now-ai-is-disrupting-fintech"
     type: article
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 4
+    quality: 19
   - title: "Payu To Launch Accelerator Program For Fintech Startups In India"
     excerpt: "PayU to launch accelerator program for FinTech startups in India  New Delhi, July 12 (KNN)  PayU, India's leading online paymen"
     publishedDateTime: 2023-07-12T19:20:00Z

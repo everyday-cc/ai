@@ -25,59 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Education: Embracing AI For Student Success"
-    excerpt: "It is only by deploying resources, training and policies at every level of our institutions that we can begin to realize the vast potential of what AI can offer."
-    publishedDateTime: 2023-07-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/"
+  - title: "Navigating The AI Regulatory Minefield: State And Local Themes From Recent Legislation"
+    excerpt: "In an era where AI is integrated into our everyday lives regulators are emphasizing the need for responsible governance — though the challenge lies in compliance."
+    publishedDateTime: 2023-07-12T13:54:00Z
+    webUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 79
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64aeaf21d8b14e270be9bcff/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 792
         isCached: true
-  - title: "VentureBeat Transform Day 2: Embracing partnerships for generative AI success"
-    excerpt: "Industry experts cited human-centric design and business partnerships among the important themes for successful integration of generative AI."
-    publishedDateTime: 2023-07-13T14:44:00Z
-    webUrl: "https://venturebeat.com/ai/venturebeat-transform-day-2-embracing-partnerships-for-generative-ai-success/"
+  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
+    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
+    publishedDateTime: 2023-07-14T08:40:00Z
+    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 38
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/cytonn-photography-n95VMLxqM2I-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
+        width: 1600
+        height: 1067
         isCached: true
-  - title: "Embracing the disruption of generative AI at speed, responsibly"
-    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
-    publishedDateTime: 2023-07-16T22:57:00Z
-    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
+  - title: "The Enormous Dangers of Military Artificial Intelligence Reveal the Need for International Regulation"
+    excerpt: "Artificial intelligence (AI) is bound to be a major technological force that will reshape the 21st century. But its reverberating effects will not be confined"
+    publishedDateTime: 2023-07-16T05:40:00Z
+    webUrl: "https://countercurrents.org/2023/07/the-enormous-dangers-of-military-artificial-intelligence-reveal-the-need-for-international-regulation/"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
+      name: Countercurrents
+      domain: countercurrents.org
+    quality: 22
     images:
-      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
-        width: 2254
-        height: 930
+      - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/07/Artificial-intelligence-AI-Military-Soldier.jpg"
+        width: 700
+        height: 367
         isCached: true
-  - title: "Banks are realizing value of embracing artificial intelligence"
-    excerpt: "It’s expected that banks will save $447 billion by the end of 2023 by implementing AI applications that assist in a myriad of areas."
-    publishedDateTime: 2023-07-12T16:01:00Z
-    webUrl: "https://rbj.net/2023/07/12/banks-are-realizing-value-of-embracing-artificial-intelligence/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 17
 
 secured: "kEBpSBj0iEDXQ/1kppsWtdylPIf2yAv22rNvbfmkqPfjF3AwWTVYeCQZ6ZmauZrPmebOBNWWCU0CNyKhpgIjbwYmwyU5XgdFvJ5Igk8WW2VmOMWXMd3Q9mQTX9BWg/bFLLqhIS//hRHo2RAv4Y6xNRhBYYh6rzLG7KyonRPQrsE1aMdD/qG7vg1A/fdlimIZh4UKjin9tS7GFiCEWhy/n9Lv9jZhZyn9unTCkQk4uUVC/eXypC+/DkCQS8e0ba+q27UcheP3y9JXXnnXL0h2UJP+Dm2TnR3bK6tUJljHTL6YG/2SODtuWYSdWggQvZyT+H/JGRqRWisOKlX6iKRGqtR3TgzAWcheCxgpvHRroSYTgrkPs24RI4Tl3rGqHRl84P9qamLltOSv1ZM+fiBI+z5XKu43fW7aL7z+nLHDOoDO0bE7scRoXhwX2I5520fioRgrCCV7o7pSQsnHVFc8NL0Xq+9Lr1I9S+y65LUKF3Z83DjlW1P8/Q/wAvyKKKNyaAN510GECpMn3MqmsT1Z/g==;B51Y3KtTW6Bf9/2ourWvrw=="
 ---

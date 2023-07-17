@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/person
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "India’s Think360 make top AI Fintech Companies List"
+    excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s most innovative AI solution providers for the financial services industry."
+    publishedDateTime: 2023-07-17T01:43:00Z
+    webUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/"
+    ampWebUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 59
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/07/ANI-20230717000417.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator"
+    excerpt: "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ..."
+    publishedDateTime: 2023-07-12T12:20:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
   - title: "Why These 7 Stocks Are the Best Ways to Play Fintech Right Now"
     excerpt: "Thomas Niel, contributor for InvestorPlace.com, has been writing single-stock analysis for web-based publications since 2016. The post Why These 7 Stocks Are the Best Ways to Play Fintech Right Now appeared first on InvestorPlace."
     publishedDateTime: 2023-07-12T20:27:00Z
@@ -45,7 +70,16 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Payu To Launch Accelerator Program For Fintech Startups In India"
+    excerpt: "PayU to launch accelerator program for FinTech startups in India  New Delhi, July 12 (KNN)  PayU, India's leading online paymen"
+    publishedDateTime: 2023-07-12T19:20:00Z
+    webUrl: "https://menafn.com/1106592943/Payu-To-Launch-Accelerator-Program-For-Fintech-Startups-In-India"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
-secured: "8YAlI4iY3BlNbcnaUCj4o5/jHpBCmAAZGd/z3TzPslLre4DboMeAyAvoPUWxUw/IpitV66hMlCJrmDIouKU6uv4+9RebtAOXtCCzwhU9H80cEcV7xu/yUiOb9HaJi7u7kaXhP8mm5CiWQBB3NOyyfgheJLC4t4nhFDb6omuD945RI7QHTDyJFTQ/T+tG/2YKPUg7b+Wq+gOImuq6Z5MKIZuAy01NiDI9DKRKroiN64x3XeArSuvJZ1cuihlCkHBBdVg79NPvT5Fn0hSWGqIYGVQN18KfPhkxTOP1EIzs4axubWtSvvQ7LygX6wbgmJR7v1g1fQ+n8JnehiP1sIz9IYB64YOzKtgdf430ghCk148=;/SyAayz/7FIDaQfDUaPuEg=="
+secured: "xxerQ/oQvFyiKhMMp2Dp6QDkjYossnV1eJdrjQQqTMghRAGHb9FDTP/N5OMMiYEHlRhX83emgW7V0yqceXhE8M0sB66iQlJGXPINlUWirw1vlnftxF0Z0ee4sGOu3xIW/Lp8TkSUyJ//+i48AmVqvCzK56BAwKnOAQhPEBXnHoE2zSYpGLHdOBySnwoBYk21LjOMttXqu+XGvTXAcNPGramWPRj6IVkc4Ge4hFMBmMRhyzaeQHtZ+qwv779JtvZIWJnTHTu24DH949naVPQ1g4EXhq4XUWX5F/ijeVbEcrLQiOJ3Pb23gEKxRmwoPNwvt25MmPWx+QQpYU7GVFBMlKk1nQwAFQJ4MF/LVhsz1kFk4NdGjcLNTAQLBSeHaLlygvyJQkWKBpa50TUziBBUDIRCAEAsL1Isnfo9gKCJYBgmn2vfUz4Pd5kECLRcTT4UhWrzVztP/28dxinPJ8c/OrwVXyr822XnGC13n1neL/iqBrQuAX7OCLCr+iIJqOLOW+QR0bqGt9Mpg02HYB25tQ==;eqD2LRD2kgmfKdDX5YoMWA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 441
+heat: 431
 published: true
 
 provider:
@@ -261,20 +261,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google’s AI Chatbot Is Trained by Humans Who Say They’re Overworked, Underpaid and Frustrated"
-    excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes"
-    publishedDateTime: 2023-07-12T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-12/google-s-ai-chatbot-is-trained-by-humans-who-say-they-re-overworked-underpaid-and-frustrated"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 56
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTnywOOoJLm8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
     excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."

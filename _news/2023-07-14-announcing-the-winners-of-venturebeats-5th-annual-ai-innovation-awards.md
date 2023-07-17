@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VentureBeat Transform Day 2: Embracing partnerships for generative AI success"
+    excerpt: "Industry experts cited human-centric design and business partnerships among the important themes for successful integration of generative AI."
+    publishedDateTime: 2023-07-13T14:44:00Z
+    webUrl: "https://venturebeat.com/ai/venturebeat-transform-day-2-embracing-partnerships-for-generative-ai-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/cytonn-photography-n95VMLxqM2I-unsplash.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "syVwEenVj3EC8h5o4/DhNBbOwI772p/oU0vEUEGY4vCt+NXnDifaPB6SRPcaizQPibeQjb0AJYVUxaSV70drV2shNoFKnKJq5j8JH4GTm9Qie2eb5F6ClTC0LvqHI/285z7VC+f2LssXNaGHBnBX2E5u8i9ehy19gCrsx2kA1D/SAHSBDp6hWtJ+4+TgWjqlFavfod23v0xnvYDBHoPCdsYuaGEVffQiQC83vgTFM0bdCX98ewZ5TtrKQR/zgZGLlY3fqQ4ZGvaBPINYomFXCgdk1IZXI9S7YSBxNsP6NkIzNekcebvadTNhX+OdmzizFOxwKqlQAPkyDD5PCBbXBEGTqV89DHHzZktQXHiw6DQwiff8wX9zsG9b1n21UJzaaoG945zEYTUSRASTH5co3KoLYekBNIhFlAD/AyEHWJ8/fZFwbkefsRaR6eAEZg2PJfTUh61JG9SaG59ZsQl4muh7r7uBjPuc8CEKTIB7VGR9owkDoyiOBgrTJA0kdJorlWdneauPdDz445aeTHnBBw==;mVm0aBNlCTKHMQePJGNwdQ=="
 ---

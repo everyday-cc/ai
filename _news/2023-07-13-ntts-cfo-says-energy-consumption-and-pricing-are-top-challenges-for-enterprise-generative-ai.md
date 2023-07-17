@@ -59,6 +59,20 @@ related:
         width: 729
         height: 373
         isCached: true
+  - title: "AI-driven Facial Recognition: Repression And Innovation"
+    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
+    publishedDateTime: 2023-07-13T05:34:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AP, Open AI agree to share select news content and technology in new collaboration"
     excerpt: "The Associated Press and OpenAI have reached an agreement to share access to select news content and technology as they examine potential use cases for generative AI in news products and services."
     publishedDateTime: 2023-07-13T13:05:00Z

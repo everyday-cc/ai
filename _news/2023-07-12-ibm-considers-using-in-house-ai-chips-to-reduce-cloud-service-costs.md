@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33197115"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33197115"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM may use its own AI chip in cloud service to lower costs"
-    excerpt: "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ..."
-    publishedDateTime: 2023-07-12T09:56:00Z
-    webUrl: "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195"
-    ampWebUrl: "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1"
-    type: article
-    provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 76
-    images:
-      - url: "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg"
-        width: 640
-        height: 395
-        isCached: true
   - title: "IBM considers in-house AI chip to save cost on operating its Watsonx"
     excerpt: "IBM said it is considering utilizing its in-house AI chip this time around, which could help lower the operating cost of the platform."
     publishedDateTime: 2023-07-13T00:15:00Z

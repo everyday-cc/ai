@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel AI chip sales in China to face market, time tests"
+    excerpt: "With widespread speculation about the US government considering further restrictions on the export of Nvidia's A800 and H800 GPUs to China, Intel has chosen this opportune moment to debut an AI acceleration chip tailored for Chinese clients with its fourth-generation Xeon processor at its core."
+    publishedDateTime: 2023-07-17T01:37:00Z
+    webUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 71
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230714pd202_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Intel Launches AI Accelerator Chip in China"
     excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
     publishedDateTime: 2023-07-13T03:08:00Z

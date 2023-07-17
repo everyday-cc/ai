@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Will Impact the Future of Your Work?"
-    excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
-    publishedDateTime: 2023-07-12T10:37:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Will AI Impact the Future of Your Work?"
     excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
     publishedDateTime: 2023-07-13T01:59:00Z
@@ -58,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A look at the Pentagon buying strategy for artificial intelligence"
+    excerpt: "The Defense Department has been steadily developing artificial intelligence capabilities. But how should it go about purchasing AI tools? To get some ideas, the Government Accountability"
+    publishedDateTime: 2023-07-12T19:32:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/a-look-at-the-pentagon-buying-strategy-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
   - title: "Build a Winning AI Strategy for Your Business"
     excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."
     publishedDateTime: 2023-07-14T12:08:00Z

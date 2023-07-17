@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-23-qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets.md",
+      "title": "Qualcomm Revs Up AI Capabilities for Snapdragon Laptops and Tablets",
+      "excerpt": "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "originalUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00zcg433I72hEGoITIdYLvP-1.fit_lim.size_1200x630.v1684800238.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-nvidia-gpus-see-massive-price-hike-and-huge-demand-from-ai.md",
       "title": "Nvidia GPUs see massive price hike and huge demand from AI",
       "excerpt": "It feels like we’ve only just emerged from the debilitating graphics card shortage of the last few years, but a new report suggests we can’t breathe easy just yet. Could a new GPU shortage be ...",
@@ -1376,58 +1428,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech.md",
-      "title": "This Web3 Ready Beauty Brand Is Co-Created By Its Community And Produced Using AI Tech",
-      "excerpt": "Web3 ready beauty brand KIKI is co-created by its community who can vote on the products that go to market and is also made using AI tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646234f2e8052ab0dec2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
-      "publishedDateTime": "2023-05-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

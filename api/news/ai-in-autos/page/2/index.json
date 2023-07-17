@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-artificial-intelligence-wont-replace-financial-advisors.md",
+      "title": "Artificial Intelligence Won’t Replace Financial Advisors",
+      "excerpt": "The new technology nobody can stop talking about is artificial intelligence ... Despite the rise of self-driving cars, many surveys indicate most people are hesitant to ride in them for safety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/financial-advice/artificial-intelligence-wont-replace-financial-advisors",
+      "originalUrl": "https://www.morningstar.com/financial-advice/artificial-intelligence-wont-replace-financial-advisors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/wqG9jcEvHPpGO8KvKtciCK3o6V8=/1200x675/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/M4RSOB6BXFEM3OV7WN3G4NJ4TQ.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks.md",
       "title": "Retail Leaderboard: Individual Investors Keep Buying Tesla, Tech, AI Stocks",
       "excerpt": "Individual investors' net purchases of U.S. stocks and ETFs stalled last week, but they kept buying certain favorite picks, according to Vanda Research. Tesla, Amazon.com, Apple, Nvidia and Advanced M",
@@ -1306,58 +1349,6 @@
         "name": "newsroom.businesswire.com",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-european-uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.md",
-      "title": "European Uber rival Bolt will deliver food to your door via self-driving robots",
-      "excerpt": "Ride-hailing firm Bolt will start offering food delivery via a fleet of robots supplied by U.S. robotics firm Starship Technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "originalUrl": "https://www.cnbc.com/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107260103-1687357149458-ysXefoX4.png?v=1687361595",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/06/21/uber-rival-bolt-will-deliver-food-to-your-door-via-self-driving-robots.html",
-      "publishedDateTime": "2023-06-21T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

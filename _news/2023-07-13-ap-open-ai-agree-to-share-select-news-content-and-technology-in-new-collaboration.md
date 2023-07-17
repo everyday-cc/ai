@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-driven Facial Recognition: Repression And Innovation"
+    excerpt: "Researchers reported that the regime employs AI-powered facial recognition technology to suppress dissent while advancing its capabilities in China"
+    publishedDateTime: 2023-07-13T05:34:00Z
+    webUrl: "https://www.electronicsforu.com/news/ai-driven-facial-recognition-repression-and-innovation"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/07/MIT-AI-tocracy-01-press_0.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "v6D9iqs/QJAD4NDUvR1iJCTT+gfg6K8LONdIvPLXsp/6S9+Qq371Ciubo1tKt6MJiHh7Jk1YVS160GzInqm1cCb3V6pGBczGNN4GK7XLWoX4VBwfJVwF8JPAJTuxOFfQnxE36wIBUGuyObQ/glvk6dbKsbTEf5uvbme3DmnaQ2dESME/OTM43NpwDpFzePukR+mEVnfiG4ZNeIs1nIplGd3LrgB3pM7M+cxQ5vp1AeEhJeBWfRKQV6D2LjljJqfUwLbjmxKwuRLh51ZbNflCDXMEWU4M1zGNMB8mBH+r4HxKdcSsDKlofRa/VbSrb3dZc9ic7TS20iL3v4y2AaJOQ2QzjNR6d7acbTu5/mN3b/8=;NJnaJXt4gjhVKB2JeO9C1Q=="
 ---

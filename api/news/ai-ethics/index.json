@@ -140,7 +140,7 @@
       "originalUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -246,7 +246,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -493,7 +493,7 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "More information: Tomohide Ibuki et al, Possibilities and ethical issues of entrusting nursing tasks to robots and artificial intelligence, Nursing Ethics (2023). DOI: 10.1177/09697330221149094",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
       "sourceUrl": null,
       "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
       "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
@@ -529,9 +529,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Robotics",
         "AI",
-        "AI in Robotics"
+        "AI Ethics"
       ]
     },
     {

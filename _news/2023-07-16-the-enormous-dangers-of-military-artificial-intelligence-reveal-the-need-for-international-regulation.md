@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 792
         isCached: true
+  - title: "The Future of AI Regulation: How Can We Get it Right?"
+    excerpt: "The EU AI Act is a sensible starting point but it is by no means the gold standard for AI regulation and there are concerns around the EU’s highly prescriptive legislative framework."
+    publishedDateTime: 2023-07-12T22:06:00Z
+    webUrl: "https://www.law.com/international-edition/2023/07/12/the-future-of-ai-regulation-how-can-we-get-it-right/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/06/Chat-GPT-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
     excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
     publishedDateTime: 2023-07-14T08:40:00Z

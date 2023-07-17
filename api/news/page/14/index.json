@@ -2,6 +2,151 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-05-flight-booking-platform-using-ai-to-make-travel-less-miserable.md",
+      "title": "Flight Booking Platform Using AI To Make Travel Less Miserable",
+      "excerpt": "Given the common frustration plaguing the experience of exploring new destinations, travel companies are testing out new options to ease that pain with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
+      "originalUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a594387c1a55c6f8b4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jordilippemcgraw/2023/07/05/flight-booking-platform-using-ai-to-make-travel-less-miserable/amp/",
+      "publishedDateTime": "2023-07-05T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learning-series.md",
+      "title": "AI for business leaders: Discover AI advantages in this Microsoft AI learning series",
+      "excerpt": "As a leader in all things AI, Microsoft has spearheaded a curriculum created especially for you and your colleagues to help you build the knowledge, insights, and skills needed to make the most of AI technologies. Transform Your Business with Microsoft AI is designed to bridge the gap between AI technology",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/ai-for-business-leaders-discover-ai-advantages-in-this-microsoft-ai-learn-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture5.jpg",
+          "width": 900,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-how-to-modernize-data-lakes-with-a-data-lakehouse-architecture.md",
+      "title": "How to modernize data lakes with a data lakehouse architecture",
+      "excerpt": "Learn how a data lakehouse architecture and watsonx.data can help you modernize you data management strategy.\nThe post How to modernize data lakes with a data lakehouse architecture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-modernize-data-lakes-with-a-data-lakehouse-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T08:58:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-ai-and-history-predicts-a-bull-market.md",
       "title": "AI (And History) Predicts A Bull Market",
       "excerpt": "But if we’re predicting the long-term direction of the stock market, despite or because of technological shifts, history provides us a much simpler answer: it goes up.",
@@ -1052,134 +1197,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast.md",
-      "title": "Ahead of AI, this other technology wave is sweeping in fast",
-      "excerpt": "It's all around us, and keeps proliferating unabated -- in sensors, trackers, production machines, appliances, wearables, vehicles, and buildings. Welcome to the edge, which is likely to shape and shift our jobs and businesses before AI makes its mark. Many of the devices and products seen here at ZDNET represent the edge wave.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "originalUrl": "https://www.zdnet.com/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7f8f9958018ed7ccbbceb5ed330adfe138127b6e/2023/07/04/2bb4198f-c7ab-4b46-8a2b-03680b9ce3e7/gettyimages-1395926351.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast/",
-      "publishedDateTime": "2023-07-05T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
-      "title": "Growing bio-inspired polymer brains for artificial neural networks",
-      "excerpt": "Advanced Functional Materials) While neural-network models have achieved remarkable success in applications such as image generation and cancer diagnosis, they still lag far behind the general processing abilities of the human brain. In part, this is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=63278.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/nanotechnology-news2/id63278_1.jpg",
-          "width": 1075,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-roland-corporation-fine-tunes-translation-with-language-weaver.md",
-      "title": "Roland Corporation Fine Tunes Translation With Language Weaver",
-      "excerpt": "CHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, the AI-driven machine translation technology powering enterprise and government, has partnered with Roland Corporation, the Japan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
-      "originalUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

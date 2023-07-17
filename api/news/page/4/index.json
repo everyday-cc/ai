@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-13-washington-tackles-potential-risks-of-ai.md",
+      "title": "Washington tackles potential risks of AI",
+      "excerpt": "Vice President Kamala Harris convened civil rights leaders and consumer advocates at the White House Wednesday to ensure AI tools don’t deepen inequality.",
+      "sourceUrl": null,
+      "webUrl": "https://fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/",
+      "originalUrl": "https://fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox40.com/wp-content/uploads/sites/13/2023/07/white-house-generic_35629247_ver1.0.png?w=1280",
+          "width": 650,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/amp/",
+      "cdnAmpWebUrl": "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/amp/",
+      "publishedDateTime": "2023-07-12T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX40 News",
+        "domain": "fox40.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-health-care-down-on-inflation-bias-health-care-roundup.md",
+      "title": "Health Care Down on Inflation Bias -- Health Care Roundup",
+      "excerpt": "Health-care companies ticked down as traders rotated into sectors with more to gain from a moderation in inflation. Health-care providers and drug makers",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-on-inflation-bias-health-care-roundup-a17ad3b5",
+      "publishedDateTime": "2023-07-12T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-amds-ai-chips-could-be-a-multibillion-dollar-opportunity-analyst-says.md",
+      "title": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says",
+      "excerpt": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says. Cowen says investors should overlook any short-term softness in Advanced Micro Devices’s business and",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-5d261e92",
+      "originalUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-5d261e92",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-815626/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e92",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e92",
+      "publishedDateTime": "2023-07-12T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-ai-and-cybersecurity-friends-foes-collaborators.md",
       "title": "AI and cybersecurity: Friends, foes, collaborators",
       "excerpt": "Johnson and Johnson CISO Gary Harbison talks the opportunities, risks and fears of AI in cybersecurity at this week's VentureBeat Transform.",
@@ -675,7 +812,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -985,7 +1122,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeseq/2023/07/12/navigating-the-ai-regulatory-minefield-state-and-local-themes-from-recent-legislation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1118,146 +1255,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly.md",
-      "title": "AMD-powered LUMI supercomputer lets TurkuNLP create new AI models quickly",
-      "excerpt": "Powered by Advanced Micro Devices chips, the LUMI supercomputer – recently ranked as the fastest supercomputer in Europe as well as one of the most energy efficient – has enabled the TurkuNLP Group to create new models quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
-      "originalUrl": "https://venturebeat.com/ai/amd-powered-lumi-supercomputer-lets-turkunlp-create-new-ai-models-quickly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/lumi-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-payu-aws-india-and-chiratae-ventures-to-launch-fintech-accelerator.md",
-      "title": "PayU, AWS India And Chiratae Ventures To Launch Fintech Accelerator",
-      "excerpt": "At AWS, we offer the broadest and deepest set of innovation tools, including machine learning (ML) and artificial intelligence (AI) capabilities, to help fintechs transform their ideas into tangible solutions to drive financial inclusion, and optimize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/payu-aws-india-and-chiratae-ventures-to-launch-fintech/455698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data.md",
-      "title": "Enterprises need generative AI tailored to their unique needs, with their own unique data",
-      "excerpt": "Learn why enterprises need generative AI, and how IBM watsonx offers a seamless, efficient, and governed approach to their AI deployment.\nThe post Enterprises need generative AI tailored to their unique needs, with their own unique data appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
-      "originalUrl": "https://www.ibm.com/blog/enterprises-need-generative-ai-tailored-to-their-unique-needs-with-their-own-unique-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],
