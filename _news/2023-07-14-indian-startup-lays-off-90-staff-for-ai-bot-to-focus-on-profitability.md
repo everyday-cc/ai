@@ -88,31 +88,6 @@ related:
         width: 1881
         height: 1060
         isCached: true
-  - title: "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions"
-    excerpt: "According to Delaporte, Wipro ai360 is meant to empower the company's talent pool and \"be ubiquitous across all operations and processes,\" as well as"
-    publishedDateTime: 2023-07-12T15:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/articleshow/101705193.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://static.toiimg.com/photo/msid-101705160/101705160.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Indian IT services firms doubling down on generative AI applications"
-    excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
-    publishedDateTime: 2023-07-15T12:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-it-services-firms-doubling-down-on-generative-ai-applications/article67080148.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 19
 
 secured: "y0VgeGrvyL3Ygc9Kkdxfy3oX1JlsdWKdWNlOfAwLVr1R1Oi4W/YUFg6TcKxtYAlTy27rbqaHrOuixSiEGJ+Ag16DmNVJnqxeVmGL00IeKDA5Q9DEKVtm7QecEiePfUVeTnpgugTPOK9ws8o/hnBpDmUGJdcrbhqpnbyItl+Aox7eWrs2VvHkt7sJJYovpLXikRbhY/URwSr/Q22Oa4hjNM7H4eD2EVywd8s8Edv+RDQFVcRRBhjVlUJVUvxSNk1d5FT3Rzwqh6zfb03t5ryyu1zQ40lb2IjjF4s+1/Q1P9jdICGZOrAJCOWMxmx7DlsxGoaOrQHjc60CqOtG5C4TbuHjO92uACOSwF2l7wn19e0=;JfoooMulNM2ViNQy6zFTJg=="
 ---

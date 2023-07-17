@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-i
 webUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: Digi Times
@@ -26,52 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Another player heats up generative AI race as China introduces interim laws"
-    excerpt: "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services."
-    publishedDateTime: 2023-07-14T20:21:00Z
-    webUrl: "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "China to Impose New Regulations for Generative AI"
-    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-14T21:10:00Z
-    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Intel Launches AI Accelerator Chip in China"
     excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
     publishedDateTime: 2023-07-13T03:08:00Z
@@ -85,6 +39,76 @@ related:
       - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
         width: 770
         height: 510
+        isCached: true
+  - title: "AI Speed Boost Coming With Intel’s Meteor Lake Chip for PCs This Year"
+    excerpt: "Spread the loveArtificial intelligence continues to make incredible strides in all sectors, and the rapid advancements in technology are a testament to the significant contributions that AI has to offer."
+    publishedDateTime: 2023-07-14T04:33:00Z
+    webUrl: "https://www.thetechedvocate.org/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2023/07/Intel-Meteor-Lake-CPUs-g-low_res-scale-2_00x-Custom-Custom.jpg"
+        width: 2560
+        height: 1438
+        isCached: true
+  - title: "IC test interface specialists overwhelmed by strong AI chip orders"
+    excerpt: "IC test interface specialists have been overwhelmed by strong demand for AI chips, according to industry sources."
+    publishedDateTime: 2023-07-14T02:13:00Z
+    webUrl: "https://www.digitimes.com/news/a20230713PD214/ai-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230713pd214_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Intel joins Nvidia in tackling the US ban with an AI chip for China"
+    excerpt: "Intel is producing a modified version of its AI chip – the Habana division's Guadi 2 – for the Chinese market."
+    publishedDateTime: 2023-07-14T04:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/intel-joins-nvidia-in-tackling-the-us-ban-with-an-ai-chip-for-china/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_398463883-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Intel keen to address AI computing power gap in China with customized Gaudi 2 chips"
+    excerpt: "It appears that Intel strategically announced the launch of its customized AI processor, Habana Gaudi 2, for the Chinese market at a press conference held July 11 in Beijing, shortly after the World Artificial Intelligence Conference (WAIC) ended July 8 in Shanghai."
+    publishedDateTime: 2023-07-14T04:05:00Z
+    webUrl: "https://www.digitimes.com/news/a20230713PD201/ai-server-chips-china-intel-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 48
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230713pd201_files/1_b.jpg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Intel's customized Gaudi 2 chips for China very likely to be made by TSMC 7 nm process"
+    excerpt: "Intel unveiled its Gaudi 2 China Special Edition deep learning processor in Beijing on July 11 and received almost unanimous praise from Chinese media outlets. In addition to mentioning the most significant advantage of Gaudi 2 over Nvidia's AI GPUs lies in its \"higher price/performance ratio,"
+    publishedDateTime: 2023-07-13T06:35:00Z
+    webUrl: "https://www.digitimes.com/news/a20230713PD206/china-intel-tsmc-7nm-ai-semiconductor.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 31
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230713pd206_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "tZSMUc2O4pEu3Vhe1puIRKeFNlVyAT+fpH93eKBN13AYV1YxFZuaNsY0QLuM7QjyuiZVks5FQ2hqnAWSCjCgXzAkMJhFcJ3GfdlinV6HBOZ9PvI9+35hzImkZWMdssFopcuN1MlMs4WwyEBgUpLaLwrZ+PttH3KlPF5wW9sjjuu/4mNbMehi8nLFmzUSZBd+3QgxrlWq0Okd/av3jhGZfdiAfK7RtBW2P8N2x26o3BvqtVCyIeakzjj5rEsQn434WCbI3RgF32BWz9iD6AfQN/b/pXz/nlE+hUA62JcaGQlHNHbMFVKAN87xXBtupx7NTurGFElegMRjwMEn7VNcT7/8lupZu57SFdpmcHwveq1o82fJ7hjFAKUj1xPuuAEAyOq3kStm1RN2aepOwbUmc1LcSIDYBrHcFZGTb9e3GH4FAuw8fMaWMu5w/tFBA2NES5CPRTqn41gRQa9AMolTXE/qHJkaUpqiiBZ461VLyVFkl06W9B/BDEKCx8buVkfGR/Y2BqzvhKNRksNNmXHPhg==;vUpJLB6LPuWaj0Os+FaJIQ=="

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Launches New WatsonX Foundation Models for Enterprise"
-    excerpt: "With the launch of watsonx.ai and watsonx.data, IBM is kicking off a platform-based approach to generative AI workbenches."
-    publishedDateTime: 2023-07-12T16:49:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-launches-watsonx-enterprise/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 73
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg"
-        width: 1400
-        height: 884
-        isCached: true
   - title: "IBM considers in-house AI chip to save cost on operating its Watsonx"
     excerpt: "IBM said it is considering utilizing its in-house AI chip this time around, which could help lower the operating cost of the platform."
     publishedDateTime: 2023-07-13T00:15:00Z
@@ -54,6 +40,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_2301582847-1-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "IBM mulls using its own AI chip in new cloud service to lower costs"
+    excerpt: "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction."
+    publishedDateTime: 2023-07-13T07:11:00Z
+    webUrl: "https://www.rappler.com/technology/ibm-mulls-using-own-ai-chip-new-cloud-service-lower-costs/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 56
+    images:
+      - url: "https://www.rappler.com/tachyon/2021/11/ibm-signage-september-8-2009-reuters.jpg"
+        width: 2876
+        height: 1984
         isCached: true
 
 secured: "6+D6WIuqh6LO8cDoNezM2OCXSX/QH8n66BtnmEs1iOgh95mDl2bCHMXye6YHEcpAvq9lxDJwl+zhPJMtETpVwBnJsEfHzNL1olh8KiViu0zsMM5l573UYQttenLSoTaRa6/T6q1A/a8P+ZUR2R52bid6DtkSnY0DZp0aVlmugiJDug1+n9dGvfrlohGp207BqBMReM1W9ezyOGlYtLD8ftfbb/Dv6U9M5/VeZVD4V1L2BbfqsGipQQBZ8fMUigQmgHOIx1j87cQjWAtvsAreFaUMrxsFg/sZQyZpnlPVut15wm0x8KU4VH/Is+HPRpIhAAUU1footDmVlAp9hLP41/ASBEM1/ougO2z0P4z12IN/rUwjHtbMmPrr10qP6JDJxCVM9BtrvG7jtXUB0PbCA/JbcXEdz1ae8zntLHLZrb0AqWcGtE5hvfA+CtD1B10YdynE1vw6R0WksJZJqJ3VbCFT//n6I7IlTnXFz60e0PrsIFw3FcGlkkRN3g2jQSTEUBAKWbwoot9d+6Pa1VLzMg==;WnGybvRowTNa8qnUPcQZhQ=="

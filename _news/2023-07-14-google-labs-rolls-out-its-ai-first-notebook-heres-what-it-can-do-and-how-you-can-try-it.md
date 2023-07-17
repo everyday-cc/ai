@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-its-ai-note
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -30,56 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing NotebookLM"
-    excerpt: "We’re rolling out NotebookLM, an experimental offering from Google Labs to summarize information, complex ideas and brainstorm new connections."
-    publishedDateTime: 2023-07-12T16:00:00Z
-    webUrl: "https://blog.google/technology/ai/notebooklm-google-ai/"
-    ampWebUrl: "https://blog.google/technology/ai/notebooklm-google-ai/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/notebooklm-google-ai/amp/"
+  - title: "Google Bard AI just got 4 big upgrades — here’s what it can do now"
+    excerpt: "Google Bard is being upgraded with four new features that mark the chatbot's \"biggest expansion to date\" as it continues to battle with ChatGPT. Alongside the new updates, Bard will also finally be available in Europe, where discussions over AI regulation had previously paused its rollout."
+    publishedDateTime: 2023-07-13T15:44:00Z
+    webUrl: "https://www.tomsguide.com/news/google-bard-ai-just-got-4-big-upgrades-heres-what-it-can-do-now"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 94
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_IO_social_share.width-1300.jpg"
-        width: 800
-        height: 418
+      - url: "https://cdn.mos.cms.futurecdn.net/Lq5ACgugCfMikZ3fyedm5T-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google’s new “NotebookLM” app builds a custom AI based on a source document"
-    excerpt: "Think of it as a virtual research assistant that can summarize facts, explain complex ideas, and brainstorm new connections—all based on the sources you select. A key difference between NotebookLM and traditional AI chatbots is that NotebookLM lets you “ground” the language model in your notes and sources."
-    publishedDateTime: 2023-07-12T20:49:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/07/googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/07/googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/07/googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 85
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/02/google-office-800x533.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Google drops two new big AI announcements: a better Bard and new NotebookLM service"
-    excerpt: "A massive update to its large language model (LLM) as well as the unveiling of Google NotebookLM, an AI-powered note-taking service."
-    publishedDateTime: 2023-07-13T18:23:00Z
-    webUrl: "https://venturebeat.com/ai/google-drops-two-new-big-ai-announcements-a-better-bard-and-new-notebooklm-service/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
-  - title: "Google NotebookLM AI notebook launches"
-    excerpt: "Google, in its ongoing quest to amplify learning through advanced technology, unveiled a selection of AI first experiments at this year's Google I/O"
-    publishedDateTime: 2023-07-14T11:50:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-notebooklm-ai-notebook/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "4IzWsGaCTawjjIQ3D1DpJI8MPVoT6mXHt4Yn/CBRxylLDybQRT3ikr6Bhhfgg02bg2KLyWihnfFfnpplkyNBK42LomxawwshGc9/jr3hgM+OV6gn2rOJtC3b/vQy1CM+9sRGPRvUvbBKnBFTX930yqVbSD7tan+0I/0UlXs/zyAFXBA/k+Z+48cxmhqjTGPrkx3yaEJuIpIrhaeuo5YNyrEaK4bRKuKeaHVLcUHF8R8SGQbo2pdqarpE33vC8N3/CVQeakM0KJXnTE0s5CX5taw7Uc2Hnmc0Y3vq/5Dgvczcd41EbQQSGTKShw6KPMZBxeOIZz6XduCBvk3FEqs05+VpZMgjhCg01Chdommx2dkzD8eA7/TANx8JZo2fdjDC+rp3l6psfZDghouxwVTe9SdDyZ4HZK5Q0G/PC26PiH6LKs/IOPrcVsCq/CieQxyAqtjO+VVj/hmnb9votZcXKMrwvjFr5jF+M4UpZ5vz06S4Mmiw1hqo4Niz/iDsSu2FEW9TSuFj8eX7Y2mniL0GsA==;A3CvBSMIPs9U7Q/M6Sqagw=="
 ---

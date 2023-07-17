@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "AI-driven neurotechnology ‘on steroids’ needs regulation, says Unesco"
-    excerpt: "Unesco will begin to develop a “universal ethical framework” for neurotechnology, which connects computers with the brain and increasingly uses artificial intelligence to analyse neural activity, at a conference of scientific and political leaders in Paris on Thursday."
-    publishedDateTime: 2023-07-12T22:03:00Z
-    webUrl: "https://www.ft.com/content/48afd321-5323-449c-aacf-7562f38b2799"
+  - title: "UN warns that implanting unregulated AI chips in your brain could threaten your mental privacy"
+    excerpt: "Officials from the United Nations said there needed to be a \"common ethical framework at the international level\" for neurotechnology."
+    publishedDateTime: 2023-07-16T20:03:00Z
+    webUrl: "https://www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/64b4484d64dab3001999e2df?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "cf/CE08gkyvmhXq24gwETwuWVGzirzMf/guwS9zx5C9E1B02k21fYMNKWw1Zjef/bMNMDLKTHbS/u3bQA+EsNANI22PHxZ8eyFZ3ypm9emm9jX476aKRceUS1ocs0Xu7fN/M0xmytnwYaov7p1Kz+aeSArqIbyqvW/Q0bGYteGCdCar14iqtjtKEd3MG3x7RZQrlscQXdxTyEfqi6BI3QNNo3M2wPeJPloXfc/qZnqnRFTT4r7ubLkYNJLR1ApNiSjGsLtMQRFX9IvbBRy5EO4tFG6VLGwtFC97p9PeVadB7uBADW4M3rQh5zsJaSTzTDQ/+vBQ8NRIh4926dzc2pv1qmVvm/8i3R6UW7CS76Cc1X9cqdS5iW+AwXjf5+wg955ydvQFKrmxNYIT0RqOMFyB+dspyro7heW1cA8jqPDa8CwSAIljJ9vgkYJVtFte7Pk/Sp3Ry7lg0384nM5f0Z+pNh1dcltzqSERVfwo4dMcCKnG+GoPwX3Adr48WXJItGl83wbHVn+0lcZYmKtUBOQ==;IUNrEdDmMd6/WDTBK33kQA=="
 ---

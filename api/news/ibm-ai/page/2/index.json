@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-05-the-hybrid-cloud-forecast-part-3.md",
+      "title": "The Hybrid Cloud Forecast: Part 3",
+      "excerpt": "If you have ever talked with one of them, you will know that IBM Fellows are storytellers. It’s part of their DNA. \nThe post The Hybrid Cloud Forecast: Part 3 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
+      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-part-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T05:51:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside.md",
       "title": "IBM: Acquiring Apptio, Dividends, AI, And Collaborations Position It For Future Upside",
       "excerpt": "IBM has underperformed in recent years; shares falling 28.28% in past decade, but strong fundamentals and focus on AI and cloud services could change investor sentiment. IBM's recent acquisition ...",
@@ -1338,40 +1380,6 @@
         "IBM AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-the-next-trillion-dollar-ai-companies-hidden-in-plain-sight.md",
-      "title": "The Next Trillion-Dollar AI Companies Hidden in Plain Sight",
-      "excerpt": "IBM is riding the current of both of these powerful megatrends. “IBM Watson” is the company’s core AI offering. It integrates with the Red Hat hybrid cloud to enable companies to pool data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-next-trillion-dollar-ai-companies-hidden-in-plain-sight",
-      "originalUrl": "https://www.nasdaq.com/articles/the-next-trillion-dollar-ai-companies-hidden-in-plain-sight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

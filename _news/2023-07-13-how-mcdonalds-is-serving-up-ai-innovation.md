@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-mcdonalds-is-serving-up-ai-innovati
 webUrl: "https://venturebeat.com/ai/how-mcdonalds-is-serving-up-ai-innovation/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "How Generative AI is redefining work and catalyzing innovation"
-    excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
-    publishedDateTime: 2023-07-16T06:42:00Z
-    webUrl: "https://www.dqindia.com/how-generative-ai-is-redefining-work-and-catalyzing-innovation/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "ybNfOvD5OvxXF0AFq/6PpulDLO2tGmIJKFkcPh+/54B7qI7/yHNZoShQ1uURTOxIY41J7LBTOAFzGe2dnzI8RgGbbh1erlDD4nGkiLQBeMtMmT3psg5jSb+ZQ69a8vjXlMdnfh6yHoY3coqRxMcIK9kjdKiOmHxs8mG6yNUBUA2EKdPI7C04D8DIdqIJvUZUP9sqF5rYaJVqLsgVjuBpGiIVVo+3hgtUMCM+FA9kLoU3LOrhadx2L0iP1y2GfrYwQVcgRnqhz9Z93w5wCA9glNg4gR4ABpd7zsJWP+xYsovjbpY2dkT0/QYvKwqwa7sP0jxgz/IRKbIdtZ1rCBPB6gDNKV0X2CkD/nUQ0V3TslEtJKkE+knluXKpVCDH1zG/Eiu3+zvVBcVZYoZwno6gUPGjYhfPJIPqslrjFJVSrY5MMEz9iz9fIKNv8QK6HmANHhqbbh4tO0ARZ/Giu6X2M7Gw8/gD/vGbGF1vvqjCUY/z+JwNh+nXhod1MhGsf6GM8iKwV3sy89fWelVHR6c0Uw==;EQsIn0P8eyj9+aYZxfJGzA=="
 ---

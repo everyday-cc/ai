@@ -2,40 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-23-news-tagged-with-cognitive-impairment.md",
-      "title": "News tagged with cognitive impairment",
-      "excerpt": "Women with atrial fibrillation progress more rapidly to cognitive impairment and dementia than men with the heart rhythm condition, according to research presented today at ACNAP 2023, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
-      "originalUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-cisco-launches-new-siliconone-ai-networking-chips-the-most-powerful-in-the-market.md",
       "title": "Cisco Launches New SiliconOne AI Networking Chips: The Most Powerful in the Market",
       "excerpt": "Cisco joins AI race with new networking chips to rival Broadcom and Marvell, targeting AI/ML workloads. Here are the",
@@ -1395,6 +1361,49 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-entrepreneurs-brains-researchers-reveal-increased-cognitive-flexibility.md",
+      "title": "Entrepreneurs' brains: Researchers reveal increased cognitive flexibility",
+      "excerpt": "Using resting-state functional magnetic resonance imaging (rs-fMRI), the study showed that serial entrepreneurs have higher connectivity between the right insula (associated with cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230613110035.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230613110035.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

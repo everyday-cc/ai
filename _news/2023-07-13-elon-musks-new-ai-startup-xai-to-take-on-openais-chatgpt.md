@@ -344,6 +344,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
+    excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
+    publishedDateTime: 2023-07-17T08:01:00Z
+    webUrl: "https://news.bloomberglaw.com/us-law-week/ftc-investigation-of-chatgpt-aims-at-ais-inherent-challenges"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
+        width: 1920
+        height: 740
+        isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
     publishedDateTime: 2023-07-13T23:42:00Z

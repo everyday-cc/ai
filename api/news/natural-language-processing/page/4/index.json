@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
-      "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
-      "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
-      "sourceUrl": null,
-      "webUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "originalUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.squarespace-cdn.com/content/v1/586d154f03596e5605562ea7/1686861909051-3NPADGDTEKDDVYNEYHWT/image-asset.jpeg?format=500w",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "cdnAmpWebUrl": "https://religionunplugged-com.cdn.ampproject.org/c/s/religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
-      "publishedDateTime": "2023-06-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Religion Unplugged",
-        "domain": "religionunplugged.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-06-16-why-experts-cant-understand-or-predict-ai-behaviors.md",
       "title": "Why Experts Can’t Understand Or Predict AI Behaviors",
       "excerpt": "These systems are engineered using techniques for optimization rather than engineered for specific purposes,” says Blake Richards, who worked in Geoffrey Hinton's lab.",
@@ -1393,6 +1349,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-sigmaos-launches-a-contextual-ai-assistant-for-its-browser.md",
+      "title": "SigmaOS launches a contextual AI assistant for its browser",
+      "excerpt": "LocalGlobe- and Y Combinator-backed web browser startup SigmaOS launched its own AI assistant on Thursday to a limited set of people.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Explain.jpg?resize=1200,750",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "publishedDateTime": "2023-06-02T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

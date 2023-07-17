@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming
 webUrl: "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: VentureBeat
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 660
     isCached: true
-
-related:
-  - title: "China unveils provisional rules for generative AI, including a licensing regime"
-    excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
-    publishedDateTime: 2023-07-17T03:56:00Z
-    webUrl: "https://www.businessghana.com/site/news/Technology/289952/China-unveils-provisional-rules-for-generative-AI,-including-a-licensing-regime"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 35
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-14-1723482.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "Ii0jSUj0Dg6lfMiQ5hzGVUOvDGnNwc9oQ7CAU3UBQdET7U1tfmAIsgkkbYoY6SkZuM5dTNUiOd/kiNuP4mwpyZnb1HY4+YFig3KxI5Vj5QsP353BCioTJr3whidGhv3Bd/D4SZB+AxYXwa3lRRZ7pvePp7Iq9ayJ1R6dmK/8Wl6b/kdHqji75A8h5CY5vqJIQ7NiWFGzClSt5OvDB3EmoxOJCHq1IYfdXsUcakMHmSiETYUSTr1TxTfIYW+YQFXDlxWo2ppBgA3ypduVTh6U87CktnEnVqVJRNRXxPl53BaZpuFZAj1WxTG9aFAN9gXClMDRdxPFA7QBmgNAYB9oaX3VKLDRzBsk+BHVw+NUvePM1HD2miO4aUbRO8/m3Dk47lmYWVV8USa9PbUowkZKQGgxTIttySiFqwrzrOCe8MPnHK9Wk7WZP6ZSi2E5tD5rgf6TF20wTRVgc5WdKmbRLvUSgFY5qxYuLQsMStNfQR3/2iUUcZKrE8ZhAP5O7ZkOWDU752ZpZhrO2kQsdUzJGA==;TlR8QTIt6M199Wts1fMNyQ=="
 ---

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-15-actors-vs-ai-strike-brings-focus-to-emerging-use-of-advanced-tech.md",
+      "title": "Actors vs. AI: Strike brings focus to emerging use of advanced tech",
+      "excerpt": "SAG-AFTRA has joined the Writer’s Guild of America in demanding a contract that explicitly demands AI regulations to protect writers and the works they create.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-LA-sag-aftra-members-ac-940p-b6307d.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna94191",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191",
+      "publishedDateTime": "2023-07-14T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-enterprises-are-not-going-to-miss-the-fourth-wave-of-ai.md",
+      "title": "Enterprises Are Not Going To Miss The Fourth Wave Of AI",
+      "excerpt": "IBM announced its Watsonx software development stack back in May, and today it is starting to ship it to customers. We wanted to know exactly what the heck it is. And so we reached out to Sriram Raghavan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/",
+      "originalUrl": "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/",
+      "publishedDateTime": "2023-07-14T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
       "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
       "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
@@ -143,7 +229,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -235,59 +321,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now.md",
-      "title": "Why generative AI just hits different – and why organizations need to embrace it now",
-      "excerpt": "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/",
-      "originalUrl": "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all",
-          "width": 875,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -694,6 +727,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-14-the-new-high-paying-jobs-in-generative-ai.md",
+      "title": "The new high-paying jobs in generative AI",
+      "excerpt": "The push to adopt generative AI in the cloud will lead to new roles and needed skills, and enterprises will likely pay top dollar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/jobs-sign_interview_job-search_now-hiring-100774984-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html",
+      "publishedDateTime": "2023-07-14T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
       "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
       "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
@@ -944,7 +1029,7 @@
       "originalUrl": "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1120,90 +1205,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-ai-could-help-reduce-fentanyl-shipped-into-us-dhs-says.md",
-      "title": "AI could help reduce fentanyl shipped into U.S., DHS says",
-      "excerpt": "The Department of Homeland Security says new AI scanning technology could help stop some fentanyl that is being shipped in the mail. NBC News’ Julia Ainsley spoke to Secretary Alejandro Mayorkas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-could-help-reduce-fentanyl-shipped-into-u-s-dhs-says-188362821522",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-could-help-reduce-fentanyl-shipped-into-u-s-dhs-says-188362821522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/Video_-_2023-07-13T192709.647-0plgfq.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188362821522",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188362821522",
-      "publishedDateTime": "2023-07-13T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-ai-helping-airlines-forecast-weather-to-reduce-flight-delays.md",
-      "title": "AI helping airlines forecast weather to reduce flight delays",
-      "excerpt": "The nation’s airlines are navigating a summer of weather extremes including record heat, rain, tornadoes, lightning and historic flooding. NBC News’ Tom Costello has more details on how artificial intelligence is now helping to micro-forecast the weather to help cut flight delays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-helping-airlines-forecast-weather-to-reduce-flight-delays-188361797722",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-helping-airlines-forecast-weather-to-reduce-flight-delays-188361797722",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689290656255_nn_tco_air_turbulence_can_ai_manage_flight_schedules_230713_1920x1080-n3jjnw.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188361797722",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188361797722",
-      "publishedDateTime": "2023-07-13T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

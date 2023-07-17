@@ -7,7 +7,7 @@ originalUrl: "https://www.latimes.com/opinion/newsletter/2023-07-15/opinion-news
 webUrl: "https://www.latimes.com/opinion/newsletter/2023-07-15/opinion-newsletter-sag-aftra-strike-hollywood-artificial-intelligence-opinion"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Fox News Artificial Intelligence Newsletter: AI Air Force wingman and countering Chinese deepfakes"
-    excerpt: "'HERE TO STAY': The Air Force is training artificial intelligence to operate drones and other aircraft and act as wingmen to pilots in the future. Experimentation lead Matthew \"Rico\" Niemiec stated that the Air Force is working fast to determine the competitive edge for the modern warfighter. Continue reading…"
-    publishedDateTime: 2023-07-12T15:39:00Z
-    webUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes.print"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 68
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "xVtUhTVWUK7jGIVifktcaxyemm0tNQsuTMDDog4KsSVAecQQQhkl/LhQ7Uux/sBIkURW/dAKTCADZfE4t9uvF002MFjmuKyU598p1KagVR8SD4fHZuXGH3BGYRA5ucBlmdjdpjWYe1xW9E9NOb4FLNbQZLcQ4ssp+OYQLBy6m47JhTlaZJY/zbZufSutxFzkcsQMYqdbyEyIFNILDsw4nAQTaQ/6edJahZ6WohifEhZtdmYqW7KtALnv+WPc86eu4Mf87xz6ty8L+FJI9Opbp6j2rjdD72hcfumtmID2b8BYf3rcfuzguxY5CENuYw2CD9tmoNLpe9R36NZhrBGpSl9Smpc1uvK3EmNMfSXGHCLwmNF/8seJwcX5VoLfhqUG5FMZsGTFZWebtewpo4Dv/E4rbbHG0X8qx0F3XQggjvnXjFx2kK+iODldj1gnE6yQrLsmxu09LZXuZi/mrWOW8+hE6xZvYmNJEwkCsAoGNJkp1gVU6sN5H9W0c91CDHapn0ppmRbcPddc+FnwShoCNg==;2ug6/jCDDCRCSwEyZqWrvg=="
 ---

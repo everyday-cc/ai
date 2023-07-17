@@ -74,22 +74,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions"
-    excerpt: "According to Delaporte, Wipro ai360 is meant to empower the company's talent pool and \"be ubiquitous across all operations and processes,\" as well as"
-    publishedDateTime: 2023-07-12T15:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/articleshow/101705193.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions/amp_articleshow/101705193.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://static.toiimg.com/photo/msid-101705160/101705160.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Indian startup lays off 90% staff for AI bot to focus on profitability"
     excerpt: "Dukaan, an Indian E-commerce startup, has laid off 90% of its customer support team with an artificial intelligence (AI) chatbot. The founder and CEO Sumit Shah informed on Tuesday that the decision was to prioritise profitability,"
     publishedDateTime: 2023-07-14T04:11:00Z
@@ -104,15 +88,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Indian IT services firms doubling down on generative AI applications"
-    excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
-    publishedDateTime: 2023-07-15T12:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-it-services-firms-doubling-down-on-generative-ai-applications/article67080148.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 19
 
 secured: "2QnK+0i/vTZSTCRTQmmFRLqRVWcF0myuvY+HB0+0YllwnkMlWEVUXGR9B81aToVyTZTkdwzZZAY4WykIJijYDsobtyVzCK8X7/OLPXWP4XxL2s7jnTHKEhv36seyQN2XSXog/kzowEYNffOHZkrHZN4OfNNDtKujca7nXIS5tW5OxewLMzEmjCVesN94TJqxdU3x+pCnx1zX61yIqbLDlNyaMZZ+USakfK/xZvNE1A5D0amcW32/30VDgPQD6D7SP9e60kYp3R2K5lx5nUf4XhfqtfZ78XiJ9Vp1Wq9VxRr2nDLa+jqxX+gzqYNJ9DBeSUSoI+8UUocLmDW4r/VunO2K0buOWmZuusb8DPSklz0=;KH6r3rVPNQ91YDNzp4dvEg=="
 ---

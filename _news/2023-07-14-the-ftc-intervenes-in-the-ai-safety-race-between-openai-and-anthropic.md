@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Anthropic-claude-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Elon Musk Launches AI Startup xAI With Team of Former Google, OpenAI Engineers"
-    excerpt: "Billionaire Elon Musk 's xAI on Wednesday announced the formation of the artificial intelligence (AI) startup with the launch of its website, unveiling a team made up of engineers who have worked at companies from Alphabet -owned Google to Microsoft and OpenAI."
-    publishedDateTime: 2023-07-12T17:02:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/elon-musk-artificial-intelligence-startup-xai-team-former-google-microsoft-open-engineers-4201933"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/elon-musk-artificial-intelligence-startup-xai-team-former-google-microsoft-open-engineers-4201933/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/elon-musk-artificial-intelligence-startup-xai-team-former-google-microsoft-open-engineers-4201933/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 53
-    images:
-      - url: "https://i.gadgets360cdn.com/large/xai_elon_musk_ai_startup_twitter_1689182796531.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Musk unveils xAI in new bid to rival startup OpenAI"
     excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."

@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
+  - AI
+  - Natural Language Processing
 
 related:
   - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
@@ -102,6 +102,6 @@ related:
         height: 779
         isCached: true
 
-secured: "432xO1GXDqAtzCr1vNJLNiyxtPuja2MhTcbIsv/gzdteKFjnLip5YvB4XeHa1Co5y/kvXifDI8Il9tNewMXE3GRKTCfywvEeFwxyiWZfD2NFwg6VwkeKYJf7T4hacWHI40+m83JpEmzyE5yjmDwDCPukJanzWJWBIBsusQ+vriz4M2giEUtLMSm1+oGaQEHPzvH3XAZNKTzDJBCoWhaBT/NifxqAmZoLhqUNoeXp2mvzErczZdoqhtxX3LoActYn563hFe3n4mbo1ev2CKlfOy3DeRCo1ablLd4IT4CP/yfwKqKWSoqf4ihjT0KGmcOx33O7n8cISK7OGtR2CJXmRn2WqOc9v04CS+5iSkhLOIUUaAznBJGeFAKMxnBSijQnteXBYtWGt7WpV0C1gbrWYD+k+f0d/KfPVkLfWgTM8zcC3ywTV54IY5OG46feBzudf9n1yxmXTU4QLUEL9SgCpNxUBLKqjX5teUp9Xn7KfjUxkA7Zad8YAfFLD2Dfo5gZcBUP2WV4M4epcvwuSEVZpg==;J/i73OmUjaqCuq883sTd/A=="
+secured: "+98MG8Vp5sDncIL2jIg3C8cDr8pGwiaKvshEP0tX4yDuL3WUkzJRUkvsk+zWwMVnlSjWIvrkjxEMKtr8g+3Pc4gOIDSL8Bw0V+CtX0/geO1Vb3FFvtWsu+d4YNaAhs0Og3+Qs7nuO5ZjAVL4br7dDWAjgCvtgWmEUpUQT7C/CkSqDeg0sw6fdZEy2/39c/hhpbG6ZmkjhV37Le9nxBNwVU9PLowz1+BRDuoV9yHIcAmIxsUmlp5JsVuOkyXyIciyiLz0IfyHDVsIWAYYCx0d4YODcDZCs5WqF2GL4a2S9SmkXfR4MUellVO8BJ5K0MzQoavf+4pE70SYfJa/gETNitJY5VuMwJ4ouIUA9sYQpT72QDB1FSj5o9UBBoOzIzQ2vN4XGiS4ofvpDDiyoefMOFHN9TOR17isqbPN4vV8ho9gaidkymkE/avasedajqlXJdbIuzk1EiFvJD7cImjobAuX9fDtVey5guiWEnbbbfbbrB0ABTxEANjOZourxMZrkhNDhFPEkxjZGiK5fTc7uQ==;oDd6zPjKDKtJ+um8L8o1Pg=="
 ---
 

@@ -26,17 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Virtual Triage Adoption Increase in 2023 as Self-Service Patient Care Routing Sees Growth Among Health Systems"
-    excerpt: "New research of digital patient tools finds online scheduling and AI virtual assistants growth across the top 647 U.S. health systems CHICAGO,  /PRNewswire/ -- Clearstep, a leader in patient-facing digital triage and AI healthcare assistants,"
-    publishedDateTime: 2023-07-12T16:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/12/9847245.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "tIuZGPFfgQ99GB0XB9q2qbls8IHoeUedoyZ/hyQU5F+6faUOtr6pbb+bnHcYXMyRp2rULfXwXKCTi/xj8tG4MCQdZO/2MJUVSuUG0xnWF8zaiCS6uJ4g1vzllV6x9wlxjU2CqrdD9/GJpLuP7BF2qaTOI3k7SY2js3UjCndkTkn6cXDb1gMPc+FyS0pFHz/Hfaw9v0FVMXK6ADxSFjxTCra7Gy616X8lkVaSPy9IaLyeu5C6Qt7pWtSB6dE4JCFGv3FZ1JFSm3rgU6zHjcUweFSPqDUlQvY3KGHAljEc3AVOAwffl3njvhH1ihNiw2u8uA8xvHadr1ktSP6PwYugrjeZfUuoVLuaKX6W7dzbw6g2FICmAzZ364Xhs/MgYo/k31afr9/XYBStAA/3ZffCKuAtHigl+QYNNwtOFMjdJZtBJCtc7kxJr/aiik8G1AW1WGty/G6p9YHvk0NOwj2C7xDvdQ76iAgFziKZkqsQY3DSp4GPscnJLQGdnPDXA39cGW6wfoU23KV1jvMW75ix7Q==;5xICp2fYLNdaZAB8INjgwA=="
 ---
 

@@ -43,15 +43,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Banks are realizing value of embracing artificial intelligence"
-    excerpt: "It’s expected that banks will save $447 billion by the end of 2023 by implementing AI applications that assist in a myriad of areas."
-    publishedDateTime: 2023-07-12T16:01:00Z
-    webUrl: "https://rbj.net/2023/07/12/banks-are-realizing-value-of-embracing-artificial-intelligence/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 17
 
 secured: "/Td37PF8fvJiItJx9LvsOO+zlhO+owHbGUi9FMM9qqPMKPLP4+tQA0iIGyzLxb/lNZSD37eNIIFECaliOmlEhWhuj2PVv0xYiyOQlWukOpI7hJny0bE7McAMnR8WSW0XjE7+ZaHPlFCb86WdFKrZbN5KccvxL0Y2sAmGuEljj8ksSM+8CrXHAumFeteTJG94PrKfnQTx37Bl0bi8AaTE8V68+L9+GEgViQlLvwyNNpBAAkHP19z4Kpj4yoPmKcZpaqklWGz4A9u89NDOhiihv1p5sFJ90uokSCs//wi+pUHMQvyWxKECfZLP9i4ZXylec7wmKR2ajGMwfJ74ZLC2+lvgY99XWhewLl8Vs87P/bcCS0ht3i0KF9v2X15/eR7UuWTKXNPdjDBJkwMH13DplMwOdb85jic1Fxpv2WhbgfPURHDHICNKKlk1JR6yo6fcNpVCvqcxsSyqayEW/X/iUMTM6PmHJhN0baWe3+C0lxPXZv7Q3xPcACg3mgmvuJ8Cwi9DSWqC5iiyxkuGVE0LRA==;dQXgG696L//IJA644/9sMA=="
 ---

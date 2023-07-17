@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "On AI: Microsoft Copilot Is Going To Be Huge. Here Are 6 Critical Things Every Business Owner Should Know."
-    excerpt: "Microsoft Copilot is going to be huge. Here are 6 critical things every business owner should know about Microsoft Copilot"
-    publishedDateTime: 2023-07-12T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/"
-    ampWebUrl: "https://www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/07/12/on-ai-microsoft-copilot-is-going-to-be-huge-here-are-6-critical-things-every-business-owner-should-know/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64aeac3d7cda7d0a1b8a3d01/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 710
-        isCached: true
   - title: "KPMG to invest $2 billion in AI in expanded partnership with Microsoft"
     excerpt: "KPMG has pledged a $2 billion investment in Microsoft Cloud and AI services over the next five years to streamline workforce efficiency."
     publishedDateTime: 2023-07-13T17:11:00Z
@@ -118,6 +102,20 @@ related:
       - url: "https://i.insider.com/64b06c7e29e5fd00190eedf2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "4 big analyst picks: Microsoft upgraded to Buy on Cloud & AI"
+    excerpt: "Here is your Pro Recap of the biggest analyst picks you may have missed since Friday: upgrades at Microsoft, Plug Power, Baidu, and General Mills. InvestingPro subscribers got this news first. Never miss another market-moving headline."
+    publishedDateTime: 2023-07-17T09:54:00Z
+    webUrl: "https://za.investing.com/news/4-big-analyst-picks-microsoft-upgraded-to-buy-on-cloud--ai-2811797"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://d1-invdn-com.investing.com/content/picda01a5582f86f02f497e7a0647263f19.jpg"
+        width: 450
+        height: 273
         isCached: true
   - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
     excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
