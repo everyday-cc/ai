@@ -2,36 +2,36 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-07-10-galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-trial-in-psc.md",
-      "title": "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC",
-      "excerpt": "OnKai's AI models redefine the methodologies and economics of clinical trials TEL AVIV, Israel, July 10, 2023 /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (NASDAQ:GLMD) (\"Galmed\" or the \"Company\"), a",
+      "path": "_news/2023-07-10-how-to-improve-employee-experience-and-your-bottom-line.md",
+      "title": "How to improve employee experience (and your bottom line)",
+      "excerpt": "In a nutshell, employee experience refers to the totality of interactions employees have with their organization. \nThe post How to improve employee experience (and your bottom line) appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
+      "webUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33164058",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33164058",
-      "publishedDateTime": "2023-07-10T05:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T06:01:38-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +40,103 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development.md",
+      "title": "As AI Becomes Mainstream, Who Will Remain In The Fourth Stage Of Technological Business Development?",
+      "excerpt": "The future belongs to those who can effectively harness the power of technologies, including AI, to solve real problems and create new opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b51b21f424212056aa415/0x0.jpg?format=jpg&crop=1392,783,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/10/as-ai-becomes-mainstream-who-will-remain-in-the-fourth-stage-of-technological-business-development/amp/",
+      "publishedDateTime": "2023-07-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-303-roi-the-total-economic-impact-of-ibm-security-randori.md",
+      "title": "303% ROI: The Total Economic Impact™ of IBM Security Randori",
+      "excerpt": "According to a new Forrester Consulting study, the IBM Security Randori platform delivered a 303% ROI over 3 years and paid for itself in less than 6 months.\nThe post 303% ROI: The Total Economic Impact™ of IBM Security Randori appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/303-roi-the-total-economic-impact-of-ibm-security-randori/",
+      "originalUrl": "https://www.ibm.com/blog/303-roi-the-total-economic-impact-of-ibm-security-randori/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T05:58:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
       ]
     },
     {
@@ -1042,110 +1137,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-volkswagen-is-testing-its-driverless-vehicles-in-austin.md",
-      "title": "Volkswagen Is Testing Its Driverless Vehicles in Austin",
-      "excerpt": "Volkswagen's autonomous driving program kicks off in Austin, Texas, this month with two all-electric ID. Buzz vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin",
-      "originalUrl": "https://www.pcmag.com/news/volkswagen-testing-driverless-vehicles-austin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04zsyA3dJ4DvBc0sOcGH1XJ-2.fit_lim.size_1200x630.v1688921824.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-09-liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training.md",
-      "title": "Liquid Neural Networks, A New Idea That Allows AI To Learn Even After Training",
-      "excerpt": "Daniela Rus currently serves as the Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT. She has made significant contributions to areas such as autonomous vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
-      "originalUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/07/09/6330833102112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6330833102112/liquid-neural-networks-a-new-idea-that-allows-ai-to-learn-even-after-training/amp/",
-      "publishedDateTime": "2023-07-09T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -117,15 +117,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "Amazon's Affordable AI Revolution: Unleashing Creativity with Low-Cost Cloud Computing"
-    excerpt: "In the rapidly evolving world of artificial intelligence (AI), Amazon is making waves with its low-cost cloud computing services,..|News Track"
-    publishedDateTime: 2023-07-12T06:46:00Z
-    webUrl: "https://english.newstracklive.com/news/amazons-affordable-ai-revolution-unleashing-creativity-with-lowcost-cloud-computing-sc71-nu378-ta318-1284219-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 11
 
 secured: "BOVGlHDy+m21D+mmCGNe5R+bEle6fdoCjppGaMiYTF/Mp7RT+quf2SjCCcbfNDGQGxAkbOnlS9J8tSjTMJz7JXQ6OyLn1iGJoaU2h3Wtj3vxTpySrZdxstqCPhXlYL2FQpILjsY9nVYj9pZkc7H72llspYmU/NO3fBx+eJYc7Z565sQjyScrxa4ZP6TsDDKV83VVqBnN7khkAN1Xc7jJ10h58qWoOJJRY55hCs265B/+xUxSaidFqi6Fu1RRtxqw8Eh0jvozP8GzWXMWrHaKHFo0hMLpdTvYT87SDA0TyTUNm9v+m3loqZfNhj+146cj3kx1KuTXvYCdpJ2b0rqW86zMHtrVYOPAyVSK1qOa4Kj4cRn+/WryM6AS6hl0P8cJJjWYGC0Fs8B75/TDSJJbtCd75j9lJ4TBsFvOMkEGty69wvmBlT38ZJ1t2MnWD9nx3OeyL0XCy1yrxoM96L//Redk/3RQg8YCBg5odFli95JYPr3XxPfhLZmmc/q2EnywtL7PwMuycSsXPvB8M08ZEQ==;UUduAf6cvCM0bHUSnrFb8w=="
 ---

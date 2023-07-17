@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-30-retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks.md",
+      "title": "Retail Leaderboard: Individual Investors Keep Buying Tesla, Tech, AI Stocks",
+      "excerpt": "Individual investors' net purchases of U.S. stocks and ETFs stalled last week, but they kept buying certain favorite picks, according to Vanda Research. Tesla, Amazon.com, Apple, Nvidia and Advanced M",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-29-2023/card/retail-leaderboard-individual-investors-keep-buying-tesla-tech-ai-stocks-swj2m9Dsp6rD0EC8mU3T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-809755?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-06-30-how-to-start-a-career-in-artificial-intelligence.md",
+      "title": "How to start a career in artificial intelligence",
+      "excerpt": "Global industry disruption brought about by artificial intelligence (AI ... how we live and work with technologies like self-driving cars and virtual assistants. If you’re interested in ...",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/58d12984-a56f-4a58-8ef9-1db84c7cbdeb.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/start-a-career-in-artificial-intelligence/amp",
+      "publishedDateTime": "2023-06-29T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-baidu-and-ai-history-investments-and-regulation.md",
       "title": "Baidu And AI: History, Investments, And Regulation",
       "excerpt": "Reflect the core values of socialism, and must not contain subversion of state power, overthrow of the socialist system, incitement to split the country. Beat Billions offers a wide range of tools ...",
@@ -1263,83 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-hacker-reveals-secret-elon-mode-in-tesla-cars-for-full-self-driving.md",
-      "title": "Hacker reveals secret ‘Elon Mode’ in Tesla cars for full self-driving",
-      "excerpt": "Feature reportedly didn’t require any attention from the driver while using Tesla’s full self-driving software",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/hacker-reveals-secret-elon-mode-062524332.html",
-      "originalUrl": "https://www.aol.com/hacker-reveals-secret-elon-mode-062524332.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/aa8766ac45362bf17b7129eda8cb1632",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/hacker-reveals-secret-elon-mode-062524332.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/hacker-reveals-secret-elon-mode-062524332.html",
-      "publishedDateTime": "2023-06-21T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-china-pushes-its-development-of-intelligent-vehicles.md",
-      "title": "China pushes its development of intelligent vehicles",
-      "excerpt": "China will support the commercial application of Level 3 and above autonomous driving systems, as part of its broader push to bolster the development of intelligent connected vehicles, the country's top industry regulator said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202306/21/WS64929b37a310bf8a75d6b1e6.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202306/21/WS64929b37a310bf8a75d6b1e6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T00:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
         "publishers": null,
         "authors": null
       },

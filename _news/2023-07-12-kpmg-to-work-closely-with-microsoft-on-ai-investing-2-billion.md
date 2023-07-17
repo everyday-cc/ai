@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Enoc Group opts for Microsoft Azure OpenAI Service"
-    excerpt: "UAE - Enoc Group, a leading integrated oil and gas player, intents to work with Microsoft to integrate Microsoft Azure OpenAI Service into its business operations leveraging ChatGPT AI capabilities. This will deliver insights to its businesses that improve ..."
-    publishedDateTime: 2023-07-12T05:51:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/enoc-group-opts-for-microsoft-azure-openai-service-rivd5udt?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 89
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjFhMmJjYTItMWRiMS00/1/afp_33cp4gc-jpg.jpeg?f=3%3A2"
-        width: 898
-        height: 599
-        isCached: true
   - title: "On AI: Microsoft Copilot Is Going To Be Huge. Here Are 6 Critical Things Every Business Owner Should Know."
     excerpt: "Microsoft Copilot is going to be huge. Here are 6 critical things every business owner should know about Microsoft Copilot"
     publishedDateTime: 2023-07-12T17:00:00Z

@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-12-four-legged-robot-traverses-tricky-terrains-thanks-to-improved-3d-vision.md",
+      "title": "Four-legged robot traverses tricky terrains thanks to improved 3D vision",
+      "excerpt": "The researchers will present their work at the 2023 Conference on Computer Vision and Pattern Recognition (CVPR), which will take place from June 18 to 22 in Vancouver, Canada. \"By providing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230612200423.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230612200423.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
       "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
       "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
@@ -1294,49 +1338,6 @@
         "name": "ABC7 San Francisco",
         "domain": "abc7news.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-robots-could-go-full-terminator-after-scientists-create-realistic-self-healing-skin.md",
-      "title": "Robots could go full 'Terminator' after scientists create realistic, self-healing skin",
-      "excerpt": "Armoring an artificial intelligence-powered robot with life ... that will be used to assist with household duties, while a robotics startup backed by OpenAI is working to commercialize humanoid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/robots-full-terminator-scientists-create-realistic-self-healing-skin",
-      "originalUrl": "https://www.foxnews.com/tech/robots-full-terminator-scientists-create-realistic-self-healing-skin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -114,15 +114,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
-  - title: "Amazon's Affordable AI Revolution: Unleashing Creativity with Low-Cost Cloud Computing"
-    excerpt: "In the rapidly evolving world of artificial intelligence (AI), Amazon is making waves with its low-cost cloud computing services,..|News Track"
-    publishedDateTime: 2023-07-12T06:46:00Z
-    webUrl: "https://english.newstracklive.com/news/amazons-affordable-ai-revolution-unleashing-creativity-with-lowcost-cloud-computing-sc71-nu378-ta318-1284219-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 11
 
 secured: "sXO+n2yNiHpr4UmGJDqtPC4h2w0l/QwH7zYujkLkpy54paXQvGq0y1RX+gU1IMTRzecRS1NQJi6bIsm8h9DeYF8+Ki01qhp6Eq7K2yugEUTkXBVY2A64rRdMHpFAprR4ttATslz+BqnayJtcGfBr+XjC0m0udFJ2GWpN0TczSgjSPeyq1bIUfTpMgSyiobl+o/IQI2v1sRfqCH4qy+IlVM6tHajO/n8HxDA1BBpXRKFJfuubFJ93l994Isr1fXlHMpCIlQycZkGWsf+wK7zKXw9y60Fj5SYzwchJnc0O5svQKXcNlSS/4iZC1Em56igUePDu1wAUKuGOSNm2aiaaQcUcMdE9qfSi9DNwrVrzk6I=;WiPD3RcyyohirVexvfpW3g=="
 ---

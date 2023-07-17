@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon's Affordable AI Revolution: Unleashing Creativity with Low-Cost Cloud Computing"
-    excerpt: "In the rapidly evolving world of artificial intelligence (AI), Amazon is making waves with its low-cost cloud computing services,..|News Track"
-    publishedDateTime: 2023-07-12T06:46:00Z
-    webUrl: "https://english.newstracklive.com/news/amazons-affordable-ai-revolution-unleashing-creativity-with-lowcost-cloud-computing-sc71-nu378-ta318-1284219-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 11
 
 secured: "EBvRZy875pPcKujjfb6pmhf21EKx/wgMe7l8V0ZKIRx+oUzSCccPZPDWrTm7TMgQ9WmIvHnzFCQLKFH2DaZ/90bj0ujK1mzB+eaYrsg56SUrVm7L6FYhfu188hEpNPb01FvCF7D5pXvbdwHFp8amgAoaN5+zWzsoTuoRlafQhwBYZ94H4d3s717iMpkuh6YizmyGxxb/nZWCtMVv+RZ/aZp09hhKsq4JoWXtXu69Y8Y96uB07+4exziMNOGgP4QlnMBzD6HAgqTt1d+J28KrIqzF/jse5mWB9NICV53aJKLfmkf7J5CkAN3qEhTYNdgo1RKxNk+lvQxmp1BhDaVsGbikjV6i644TFRFoB8adA2k=;womx2xBUdn8nBYgOlEJ2bw=="
 ---

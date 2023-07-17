@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33218847"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Here's the 12-slide pitch deck Prolific, a startup providing quality data to train AI models, used to raise $32 million"
-    excerpt: "The London-based startup, which is a graduate from Y Combinator, will use the fresh funds to expand in the US."
-    publishedDateTime: 2023-07-12T07:00:00Z
-    webUrl: "https://www.businessinsider.com/prolific-ai-research-startup-raises-32m-funding-for-us-expansion-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://i.insider.com/64ac2a518ed31300199e4a1e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Using bigger AI training data sets may produce more racist results"
     excerpt: "Contrary to Silicon Valley wisdom, training AIs on larger data sets could worsen their tendency to replicate societal biases and racist stereotypes"

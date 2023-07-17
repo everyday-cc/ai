@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-12T21:29:00Z
 originalUrl: "https://www.cnet.com/tech/elon-musk-announces-artificial-intelligence-company-xai/"
 webUrl: "https://www.cnet.com/tech/elon-musk-announces-artificial-intelligence-company-xai/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cnet.com/a/img/resize/a0d2e51b4e919ee49297946dc9fda07dac69b681/hub/2023/07/12/51a17895-547c-46ec-b4a7-39e3c78bd937/elon-musk-gettyimages-1258889149.jpg?auto=webp&fit=crop&height=675&width=1200"

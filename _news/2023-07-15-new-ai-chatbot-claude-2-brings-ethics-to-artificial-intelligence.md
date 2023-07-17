@@ -1,24 +1,28 @@
 ---
 category: news
 title: "New AI chatbot Claude 2 brings ethics to artificial intelligence"
-excerpt: "How do you keep an artificial intelligence chatbot on the straight and narrow? By using another AI to police its answers. That is the model behind a rival to ChatGPT that was released this week for British and US users."
-publishedDateTime: 2023-07-15T04:33:00Z
-originalUrl: "https://www.theaustralian.com.au/nation/new-ai-chatbot-claude-2-brings-ethics-to-artificial-intelligence/news-story/f388ac739752b922f7f702459943209f"
-webUrl: "https://www.theaustralian.com.au/nation/new-ai-chatbot-claude-2-brings-ethics-to-artificial-intelligence/news-story/f388ac739752b922f7f702459943209f"
-ampWebUrl: "https://www.theaustralian.com.au/nation/new-ai-chatbot-claude-2-brings-ethics-to-artificial-intelligence/news-story/f388ac739752b922f7f702459943209f?amp"
-cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/new-ai-chatbot-claude-2-brings-ethics-to-artificial-intelligence/news-story/f388ac739752b922f7f702459943209f?amp"
+excerpt: "How do you keep an AI chatbot on the straight and narrow? By using another AI to police its answers. That is the model behind a rival to ChatGPT that was releas"
+publishedDateTime: 2023-07-14T23:01:00Z
+originalUrl: "https://www.thetimes.co.uk/article/new-ai-chatbot-claude-2-brings-ethics-to-artificial-intelligence-bd7nbhd0c"
+webUrl: "https://www.thetimes.co.uk/article/new-ai-chatbot-claude-2-brings-ethics-to-artificial-intelligence-bd7nbhd0c"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Australian
-  domain: theaustralian.com.au
+  name: The Times
+  domain: thetimes.co.uk
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6f769778-2243-11ee-b9dc-95034bbd78f3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -494,6 +498,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "84EKJhaw468EdHPLn3t7xSqow4q4neDB/MQQ5IjUa+xNNvKDoLV3FQGL2HMwl0UTYIBJBQKNwKAlq71CPY8fzLljZwhOxrRl/D0Vp4HeAu6r0CtN4E97OXdl04ITi8y0qX+awt511CHV2LYvLPB4+iFcTyJvoAcewVtZOGrehvqqZG0XX6XPhWiWT0mweZ7GKpkSDDKb5ZTu+PQ/2mSh+WsUaxcFVjoQoZZXN6p1A6SgPOgWdMkN/8PpRMSiISZorxv75hAazdmO7p+BeHUXxktFnXu/oTVetqyzGvBRSgBeCbjeCv7PIh/TxWatgi9JHVZhofWjGUOb0qui83grM5omavtmVUp557XvymRfIzxBAnlTWauRVaF3ZIB4aqPbzNld9aYrAEIHAIIaAVvR+/NPuihELUAs/diU6PM0OB9Y32lEkouux8XHUNvFQpoPiyTuS/0FUyFmFtlrGt1NpLSWylrXLF4Pe+sO1t3F1PkRSmHQfHg5Uo/W5W4oNrMdG/llY+soapCkPwlX6RPbpQ==;Mtf1JG/UQp0a97jN+MaUkA=="
+secured: "al9vJ6XeNg1CwSKWt2SKJzEu6E6A1XHLPlElzrpIQFZ4XUpiIzbGhM9CdUFCMyg3/2qYFYpj+7wunBwe6De8FhpHkudo4O+cERG5/6QcagzmsRwUnSa3R7tlrbYgdqssrcXImYk3rlI/T+9my/sWTs/q1A6r5Qbom2HR7TLVUg8j2mncvuYeV+wbQ/qm6UXgXblopJZtECmb3K1wqAlvECVXwcl+qV6+jVl/Kl3Mxktcgz9CxsMhb8z3FHfc/T3Wsa3fJpZAxPwuZ3NPBWXxS28b+cfuXIQMytMqPQnwIoIBA/8OTp3szMCzUPwU9py49Jy5oZfmLXRDf5uWd1xH5oUuDcH+mhnx3aOaKyNtDo4=;T0fh7O99/EjIBO30jTGr5w=="
 ---
 

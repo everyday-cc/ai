@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-12T18:19:00Z
 originalUrl: "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a"
 webUrl: "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 69
+heat: 109
+published: true
 
 provider:
   name: Wall Street Journal
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://images.wsj.net/im-815887/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Elon Musk Will Feed xAI Twitter Data To Train Its Language Model And Develop Artificial General Intelligence"
@@ -66,7 +73,16 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Elon Musk launches a new AI startup ‘xAI’"
+    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
+    publishedDateTime: 2023-07-12T19:13:00Z
+    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 17
 
-secured: "UntYp5ArMp7s+FizPoBUb70hg7d1nrUDLzYMNQmqqM84buGFsQS8XwDrs6dSllGmH1IDnScnaPh65mgt2zCiWaHUN6uTx3NjKcJg2A6cU8wgbDlIRbN+0yest2iHHLBJ+PX8GY7EKnwaS+El1+2+PoNA/GF+jSG8EHogWjJCrcMDKTk7q9zwWxlW0Zy8KBVKNRXRwTR6LctTtXYdqkFMWTRf6O7zs93/ANAqQFuEnmwJuFRoMuGNBJkA2vm4MrnJrTBLV/g9Ndzha1EC0o3pk/2cFqVcXLVMTfl4dnuvpli4wS0rDfkCoQCIVnUxzpX7AYUg7eT4nGyHvIFdB1Jiux9wnFG1EqF+MmDO+X9luu3udD84AIUBKV5/giQhlrQVdS4PgRczu5wRvuP+R68D0gnXbQHMPwOaWezD6ytxcrcyhtWFHm6yHjQz/rHkEbPo2RqomGEaTXkVcPfwu/svgCXBQOdMrOWoCqZ3EZbSsGWiiem1fa6yI1wlbJ/GtTMF+T+PCjW/SG2c1rSbSHPBqw==;vtWXIG8qw4dnHNQyrt6GLQ=="
+secured: "vztLPCBzApA3ph6b56riWsJqVFTpYLHYgFre9vPIxGITmtToXm79PCVY+lVY4gMkKJ8x+hl74YwYm11aSd/h1HTBZWQF2+Gat2tCdU1YOSDk/p1wouuhyA/a6AYlMw8ZDtjmtS39ki1TY1Uf2xBupynRB82egA/PnA2kZusPZqd8WMnJbZopjCM+UR5mbyV+G6UcxmmHdCyjY+tB5Sd54aiVW18E2HUBUiSLRZlqozYEt5AyJE36pFz40QAaJkfRkVusuOAkhfO3q/1RiF7iR5krd3/AI/iCYnGY8sIsSZg0KtVDr6h2VSRfwV3LR2pUHbzC4zy+UgnZKgjSuNyaFHWxkJqoDE30Mm/ARN1RoVY=;pWqRClJJiMaMJehgZMeQYg=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1920
     isCached: true
 
-secured: "TidIR0YqZavVfc1iHPI4FsZIjJmlNNC8neYeT/Z++h7l6a6t5iiZ6BGsUqARyo0WEJfe7SffCXRwdJMySWfF2/CEiBmyFOmHiGIYutSgk29/bt7gxUz5/Ts8BeANkkIUyRH4YQIi2I+7unCb3tJjIOISjynsk3Tmo0jCsyVjFmbBRJpGQXYCUXd/73RoMu4U3CNtTl0ueexji/pZfbttOrbFWvIVZTu1tPu/5qBspg2134df6nClC8HX7oRGCuvn8/nYhvZkGovY9xDZvFlDp4K3YICSZGUv93S8PRwLk5ch5LAuaLs4+wPBeycSKdqq2CESCEW2bQuShzDq+jjyNUyVWm2a+JbnIqd6cFpW8ck=;iNq99fRPlUFj/NH4N0R3pQ=="
+secured: "o6bAn3YQvcmXXUiiIZOkXTFE/PaRHMRPDmEk/JQD3fJ8dy+59a2Ty0x718jfKdYTH6OWWlD9jDptST3M9TwvV2lD4UKfJkqxHI9dX11XTl55YnhNGbXAfUviAV6EJpiVxbwC8I2FLrXzbuLu7qbpqvHDoHSevt7KjW1c1mCBjJqkR8P8dsd/n9HpDnKf5QcxfMkA2+7ahSxmAE+YYctCjanrW4Pp/KKFQW8u2Ky4UrPpIeEJhjNC5glwOoz3jMbkPCZdSd9s4lprU2oHYsDAuBPsqHDgzAh5ScZmKB4zptHsC/rRPSNsLBV4TmO6KciMU7brr7TCQk+I6G0DsyOX5U5AIVoGODFgOi7z9WT+RyU=;cpvA2V48it6rBpYszw/ULA=="
 ---
 

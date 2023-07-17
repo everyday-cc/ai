@@ -35,7 +35,12 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 47
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-815887/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elon Musk Announces xAI: Who’s On the 12-Man Founding Team?"
     excerpt: "The team consists primarily of former researchers at OpenAI, DeepMind, Google, Microsoft, Tesla and the University of Toronto, where “A.I. godfather” Geoffrey Hinton teaches. The team is ..."
     publishedDateTime: 2023-07-12T21:16:00Z
@@ -64,6 +69,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Elon Musk launches a new AI startup ‘xAI’"
+    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
+    publishedDateTime: 2023-07-12T19:13:00Z
+    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 17
 
 secured: "oXzwsOz7c/yJYWQOUBs+yCzyeXoyPNN6Ml5BweZFKgumWim4bwFFxS46ypZqm6dKGuT4IxICUot7NdfVi77Dj+SU3y17XpXlDXETud3Bu76MNaJ67LIPP8JBRUtDXPwuDxIUJ43dc7lo8GeFw19XeXf9F5AVHiv/BeozqxABP9K6mfJ+u2IxbLBygCbgPDcS6L6ng8vzaVf3ENaESXqhauIi1SZf0yuyUV5pleK6ewDfGRoRrzkQpqUhZnhtG2Y0UGZZz8TFfK17X29KMuJMwi4ddGWvT3ZCmocRNkI/kgLl6pGKYJgpi8HtA1or3Zw6OH8ssVU0cNBIbdi8OFY8joe/GQ31tui9D5/3+tvv1wO1geZdBjNDjNw3tCCPwn5KvF6b8fgMLyYrL+k6uWgL/ahObCxEqOgY8dCwXAjzwFGlH5Qiby7d9f0ymrGvtKHJEudrUayNvnpnLGgy0iUCPVz6le/3gnNhZQWs9lowUvLJMKFosYjgI1SdQx2si5VSQp1e1hquqGD7ObZLTtaKBA==;SMFyv5XZ6qUHQbuNQBC/lA=="
 ---

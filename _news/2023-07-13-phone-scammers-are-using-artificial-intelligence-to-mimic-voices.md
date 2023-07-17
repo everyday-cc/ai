@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/news/artificial-intelligence-phone-scam-fake-vo
 ampWebUrl: "https://www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-phone-scam-fake-voice/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/11/02c3571f-e66b-4596-b9b3-3acb0880bb18/thumbnail/1200x630/04438267693e1ed7117b30f5b54cd64a/1689116974188.jpg?v=b9ad248140817530b57bedd1355bcccb"

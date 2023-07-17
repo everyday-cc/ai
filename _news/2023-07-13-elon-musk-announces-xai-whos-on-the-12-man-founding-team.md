@@ -33,7 +33,12 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 47
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-815887/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Elon Musk Will Feed xAI Twitter Data To Train Its Language Model And Develop Artificial General Intelligence"
     excerpt: "Elon Musk has unveiled his own AI company, xAI, which will train on Twitter data. Could Musk’s decision about implementing “Read Limits” on Tweets be related to this development?"
     publishedDateTime: 2023-07-15T05:53:00Z
@@ -64,6 +69,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Elon Musk launches a new AI startup ‘xAI’"
+    excerpt: "Elon Musk launched xAI on Wednesday to rival OpenAI. The billionaire will share more details on xAI this Friday."
+    publishedDateTime: 2023-07-12T19:13:00Z
+    webUrl: "https://invezz.com/news/2023/07/12/elon-musk-launches-ai-startup-xai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 17
 
 secured: "JD7g/LmiNekIztqvpIERoDDLO3+cZS2q2Te838haTCm8Wbug6O7gQ/d8m2jUohFqH52QqYU0hABh9N/vc7jCyOBYjpxRpTCIN2U2B0CrqAwSCkmJmM0otz+fUMta9ZRIOqoEWgvn5qOfdN8Zd4shWQYZ9831UrKcqevBvZzId0hMhojnCAOmpQIEMcwvI+Fa5pMR5pyFcnt6cj8WTjpSiqJHZaPMdhHXoZprIgFxsrzHcchk3JwW/XnJLX4WMupk56waoQ1DM6FjvYb1M5y17f15q65sqOL1x62siqFL7pm5IUl6HsQzspSLWqw6+Pi2/u6MS0pMAoS8HBBOBFBiM7Vl1GfPGSsiLRVoBtr0KZc=;5xuYhScP/R5aYkCO6TrX1g=="
 ---

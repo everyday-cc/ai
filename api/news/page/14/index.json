@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-05-nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools.md",
+      "title": "NYC begins enforcing new law targeting bias in AI hiring tools",
+      "excerpt": "The law, reported to be the first of its kind in the world, mandates third-party audits of AI employment decision tools in the Big Apple.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools/",
+      "originalUrl": "https://venturebeat.com/ai/nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-05T111055.174.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-ibms-cloud-for-education-service-is-shutting-down-after-only-two-years.md",
+      "title": "IBM's Cloud for Education service is shutting down after only two years",
+      "excerpt": "Since the Watson demonstration on the Jeopardy quiz show, IBM has attempted to position itself as a dominant player in the cloud and artificial intelligence business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99293-ibm-cloud-education-service-shutting-down-after-only.html",
+      "originalUrl": "https://www.techspot.com/news/99293-ibm-cloud-education-service-shutting-down-after-only.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-05-image-7.jpg",
+          "width": 2000,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts.md",
       "title": "New AI systems could speed up our ability to create weather forecasts",
       "excerpt": "The first, developed by Huawei, details how its new AI model, Pangu-Weather, can predict weekly weather patterns around the world much more quickly than traditional forecasting methods, but with comparable accuracy.",
@@ -1075,101 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed.md",
-      "title": "Tintra Shares Rise on Agreement to Repay Fintech Leaders Share Deed",
-      "excerpt": "By Joe Hoppe Tintra shares rose Wednesday after the company said it has agreed to fully repay and terminate a $3 million share placement deed with",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "originalUrl": "https://www.marketwatch.com/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-rise-on-agreement-to-repay-fintech-leaders-share-deed-32b31597",
-      "publishedDateTime": "2023-07-05T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-fintech-in-the-age-of-ai-4-trends-to-watch-out-for.md",
-      "title": "Fintech in the age of AI: 4 trends to watch out for",
-      "excerpt": "The fintech sector has seen rapid growth in India over the past few years and artificial intelligence is likely to have a major role in the space going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
-      "originalUrl": "https://www.indiatoday.in/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202307/fintech-trends-in-ai-051707-16x9.jpg?VersionId=STUAezWZDWYC2ivXyqLJYze3a3Tk7jpM",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/business/story/fintech-startup-artificial-intelligence-top-trends-2402102-2023-07-05",
-      "publishedDateTime": "2023-07-05T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

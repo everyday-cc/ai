@@ -2,6 +2,99 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-05-23-ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report.md",
+      "title": "IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report",
+      "excerpt": "IBM engages a third-party professional services firm to complete an independent review of IBM Cloud services and processes against the Agreed-Upon Procedures (AUP).\nThe post IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/21_58_p_gorodenkoff-023.lr_.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T07:02:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-configure-an-ibm-cloud-code-engine-application-to-use-custom-domains.md",
+      "title": "Configure an IBM Cloud Code Engine application to use custom domains",
+      "excerpt": "How to expose a IBM Cloud Code Engine application via custom domains.\nThe post Configure an IBM Cloud Code Engine application to use custom domains appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
+      "originalUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T06:57:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-kan-a-kubernetes-edge-environment-for-computer-vision.md",
       "title": "KAN: A Kubernetes edge environment for computer vision",
       "excerpt": "Microsoft’s open-source KubeAI Application Nucleus is a low-touch, Kubernetes-based system for building and running machine learning applications for edge devices. Computer vision is an ...",
@@ -1093,83 +1186,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-edge-ai-and-vision-alliance-announces-2023-edge-ai-and-vision-product-of-the-year-award-winners.md",
-      "title": "Edge AI and Vision Alliance™ Announces 2023 Edge AI and Vision Product of the Year™ Award Winners",
-      "excerpt": "Awards Celebrate Innovation and Achievement in Computer Vision and Edge AI SANTA CLARA, Calif.,  /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2023 winners of the Edge AI and Vision Product of the Year Awards.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/05/23/9819895.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/05/23/9819895.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-meta-open-sources-computer-vision-foundation-model-dinov2.md",
-      "title": "Meta Open-Sources Computer Vision Foundation Model DINOv2",
-      "excerpt": "Meta AI Research open-sourced DINOv2, a foundation model for computer vision (CV) tasks.DINOv2 is pretrained on a curated dataset of 142M images and can be used as a backbone for several tasks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/05/meta-dinov2-vision/",
-      "originalUrl": "https://www.infoq.com/news/2023/05/meta-dinov2-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/05/meta-dinov2-vision/en/headerimage/generatedHeaderImage-1683382074765.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
