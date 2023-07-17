@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro up 1%; company to invest $1 billion in AI over 3 years"
-    excerpt: "The Bengaluru-headquartered company also said that it will accelerate investments in startups through Wipro Ventures."
-    publishedDateTime: 2023-07-13T04:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/wipro-up-1-company-to-invest-1-billion-in-ai-over-3-years-10949671.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/stocks_market-stock_stock.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Wipro, which is hiring in NC, to invest $1B in AI, staff training"
     excerpt: "Wipro, one of India’s top providers of software services which also is hiring in North Carolina, wants everyone on staff to know how to use artificial intelligence. Here's what's happening."
     publishedDateTime: 2023-07-14T11:50:00Z

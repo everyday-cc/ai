@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
+    excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
+    publishedDateTime: 2023-07-17T21:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-anthology-accelerates-innovation-higher-education-with-microsoft-azure-/2023/07/17/9849359.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 77
+    images:
+      - url: "https://mma.prnewswire.com/media/1708867/Anthology_Logo.jpg"
+        width: 400
+        height: 234
+        isCached: true
   - title: "KPMG, Microsoft enter AI alliance"
     excerpt: "The companies forge a new multi-year cloud and AI alliance to supercharge accelerate innovation across audit, tax and advisory."
     publishedDateTime: 2023-07-13T08:53:00Z
@@ -76,22 +90,6 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2023/07/Satya-Nadella-2023.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "KPMG, Microsoft sign cloud and AI alliance mega deal"
-    excerpt: "KPMG and Microsoft have announced what they described as a “significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,"
-    publishedDateTime: 2023-07-13T02:17:00Z
-    webUrl: "https://www.itworldcanada.com/article/kpmg-microsoft-sign-cloud-and-ai-alliance-mega-deal/542748"
-    ampWebUrl: "https://www.itworldcanada.com/article/kpmg-microsoft-sign-cloud-and-ai-alliance-mega-deal/542748?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/kpmg-microsoft-sign-cloud-and-ai-alliance-mega-deal/542748?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/07/GettyImages-913588342.jpg"
-        width: 724
-        height: 483
         isCached: true
   - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
     excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"

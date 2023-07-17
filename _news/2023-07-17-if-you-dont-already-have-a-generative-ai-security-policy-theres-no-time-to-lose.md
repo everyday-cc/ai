@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/646291/if-you-dont-already-have-a-
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/646291/if-you-dont-already-have-a-generative-ai-security-policy-theres-no-time-to-lose.html/amp/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "Consultancies have started using generative AI"
-    excerpt: "Your next business strategy may be shaped by generative AI, with KPMG and other management consultancies embracing a technology that, new research shows, executives are racing to implement regardless of ongoing concerns about its accuracy and security."
-    publishedDateTime: 2023-07-13T03:03:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/consultancies-have-started-using-generative-ai.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/kpmg-generative-ai.jpg"
-        width: 1036
-        height: 583
-        isCached: true
 
 secured: "ZaZOuzIi9mm83b3gmY8bnPiKQdQj4qtsssIIioZkf013NLfTk7SSyXqwgHki+SeJteNBZTDurrTrEsJI0eu+LreeWVn7OCb7W67QHqljq96AUtHcUM9mrxYiFy2gcuJXW8P/Q/UzwwgQ9z5lGCFb8aDaC3K6Zdr10DbTo0dXZ1I9B2d8Se6c1GC8h50fcxiJV8+zLD2puvqAwL8dtjf+oeXaBGDvwQu/U6bJkGIaJVPP+NHTluCFQ2VdhCBaJl8kNWoiM0tob8GQSVMdRLExWls69/6XnMkCj0FeVUwLiTlaxVmC/s6YzJtx0JbxgWet8HyZeTpHKKSJlfFksQjRVzqZax6yJxAKpR1+ouLsOKU=;UazubvsZaIHp1XPMMO2gYA=="
 ---

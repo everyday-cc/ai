@@ -7,7 +7,7 @@ originalUrl: "https://www.constructiondive.com/press-release/20230713-constructi
 webUrl: "https://www.constructiondive.com/press-release/20230713-construction-fintech-startup-trunk-tools-announces-launch-with-99m-in-se/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Construction Fintech Trunk Tools Announces Launch with $9.9M in Funding"
+    excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage, announced its launch out of stealth."
+    publishedDateTime: 2023-07-17T20:07:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Construction-Real-Estate-Property.jpg"
+        width: 1200
+        height: 1080
+        isCached: true
 
 secured: "UzvnkPEQrLoBuhPtKuSyJoZ9+N65kxH7qQGt0TTewI7NISMj32zAzA7dZz3QnNsaAQDqwlaSmb2WTNVryFl4+mMgobI7c2sihlOGPydzF4TJKQwitCzz3qwWjTlJTfMMhiV1Q3W55K2fhIzB+tcMcpmpuz6IBqAyGyBjgLLMmhk7+nMCfJMITAYMx7Ziw8FS/TGvV0ihR9rbtApm0XoJmzhedP/VGMXyk9FOwYVxMM8uxxvhXzmO/VYTNspKhyv0msjXy+fxGlpe7K03GlA2WM1tEQBmWY6v6SdOY7x3dPmaKOe9uFFsAs53AJbAoFmKfyY+2YA6gVs1dfQQPkHYBs99N9ROBLX6DubXyf0kFvC0ArMopljZzI8dY2VpOt5dx4Qg/VQgRzmTjKnTeRBpNtSFxJodBaw6yZoTBQcp/z0Vfxn+3I4+NyZhUQhgWjysbhHsvHRoF3Q1qO2BkbaDuoCYXo/kdTbedoGbUqrQJP9vl8LvJ1QAxLRa/GW8qDY2kgbr2dGhmzO80LRTPaHEFg==;ziFTW0kWpLBSPrM7injCkA=="
 ---

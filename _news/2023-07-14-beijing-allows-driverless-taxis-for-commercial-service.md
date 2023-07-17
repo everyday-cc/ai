@@ -34,20 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
-  - title: "China Now Has Driverless Taxis"
-    excerpt: "The future is here – driverless taxis are now roaming the streets of Beijing. According to a press release from the head office of the Beijing High-Level Autonomous Driving Demonstration Area, as of Friday,"
-    publishedDateTime: 2023-07-13T05:05:00Z
-    webUrl: "https://www.thatsmags.com/china/post/36186/beijing-now-has-driverless-taxis-in-operation"
-    type: article
-    provider:
-      name: thatsmags.com
-      domain: thatsmags.com
-    quality: 39
-    images:
-      - url: "https://www.thatsmags.com/image/view/202307/52541689064370__pic.jpg"
-        width: 704
-        height: 460
-        isCached: true
 
 secured: "yCDKptpiXav0Ztc8whXHfqA2UWz+hUfEmM0hzNw1g4q9hdrwGfrHMNEMDFSmCzZWQZxu54kRfVLNBu7i6gkcj2oLLvb67I3CIbE0X3CXrTMTe73xffNNUtV2ZgDJSQaOULWp5ofc8uL5NEAXtXLPQPLoMhg/h9/eaQHgfvUgedZoN4QxQ0jyNDmkBswbs/yG/Y4nXkCWsWaIQBxN447F37bf3nE0CisKRI1cgeF302vU4wEJz2xwewAuguEuh1v4IoqGlpt0cbfY5MgZ27/YMfVcrVhkTBLrjIiAtz23TNMRajtfYEAXj66DbfCaqyKeTcTA+Oi1eYTVaufLPFRc3KxcsolyyopMqbGb/egklLIkDIKvqf7yxKHd8Qls6tzBOKBfVnvhxJEC9FAV8qonsDG8vUy4qdeEZTaoRWc3OVA4efCHx7MfTfYAGUVIIYsZTJyD6UoxYXRFSu/GTCUX9Nbj4bYfYuE4B9kTwn63usKDYGwXLR9IrTP7IXewfr5IDbuAl/ZoE9fwuTDkWzT5Xg==;AHRh1CUrqmrjnz1nnSB4ag=="
 ---

@@ -72,20 +72,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Intel Launches AI Accelerator Chip in China"
-    excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
-    publishedDateTime: 2023-07-13T03:08:00Z
-    webUrl: "https://www.yicaiglobal.com/news/intel-launches-ai-accelerator-chip-in-china"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
-        width: 770
-        height: 510
-        isCached: true
 
 secured: "tZSMUc2O4pEu3Vhe1puIRKeFNlVyAT+fpH93eKBN13AYV1YxFZuaNsY0QLuM7QjyuiZVks5FQ2hqnAWSCjCgXzAkMJhFcJ3GfdlinV6HBOZ9PvI9+35hzImkZWMdssFopcuN1MlMs4WwyEBgUpLaLwrZ+PttH3KlPF5wW9sjjuu/4mNbMehi8nLFmzUSZBd+3QgxrlWq0Okd/av3jhGZfdiAfK7RtBW2P8N2x26o3BvqtVCyIeakzjj5rEsQn434WCbI3RgF32BWz9iD6AfQN/b/pXz/nlE+hUA62JcaGQlHNHbMFVKAN87xXBtupx7NTurGFElegMRjwMEn7VNcT7/8lupZu57SFdpmcHwveq1o82fJ7hjFAKUj1xPuuAEAyOq3kStm1RN2aepOwbUmc1LcSIDYBrHcFZGTb9e3GH4FAuw8fMaWMu5w/tFBA2NES5CPRTqn41gRQa9AMolTXE/qHJkaUpqiiBZ461VLyVFkl06W9B/BDEKCx8buVkfGR/Y2BqzvhKNRksNNmXHPhg==;vUpJLB6LPuWaj0Os+FaJIQ=="
 ---

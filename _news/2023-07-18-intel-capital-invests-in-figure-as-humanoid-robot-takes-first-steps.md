@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/intel-capital-invests-in-figure-as-
 webUrl: "https://www.therobotreport.com/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,7 +57,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Humanoid robot startup Figure nabs $9M investment from Intel Capital"
+    excerpt: "TechCrunch reported the investment today. Intel’s capital infusion follows a $70 million raise that Figure disclosed in May. That round included the participation of several institutional investors as well as the startup’s founder and Chief Executive Officer Brett Adcock."
+    publishedDateTime: 2023-07-17T17:40:00Z
+    webUrl: "https://siliconangle.com/2023/07/17/humanoid-robot-startup-figure-nabs-9m-investment-intel-capital/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
-secured: "9K0OxgupZabmtSWHPTwuk66R9T9MSZL3mPFe00OCtrECNWMzngb1cAWlPsnbyGPfNvWpyUV/sBBu7/TmoPI5iOiiueuIPXjQdWdA6Vj+/XyivGh7/N2oTA6WXkpi3heNbfQt7Sfk6pYL0XkmR8GGWdWizE9dk7vF40AoD8wT89/dfjOjW7VN6icThToKuFwNohuyd6nFmCPojbDpQySRt7HJvBkve8PbyR2q6pj50Ht6nahoEYH8x+m7Z/bU04xSvxh+H4/Hft6ojuXctaMYxcGj6xubzMMxLmwSLAScFARz2X7FNzkK6RF/BK594k6lmI6OxlcQmqrTcIeAQmTS53zxPJRa7vs9/u4a9QPySjM=;uCmvMHCB/w6TT09uH6p7TQ=="
+secured: "KRKKrpKIyfIrrBB0Z5aLH4Uj7+04r0zJv/f4sXq/F9/dSd6qaTgFRiINMy2VcWYTOHVZK0yW8Hds471vX8VYRzvqSpSG6f0FWq1WAikW7xodRXSmmxf6dYo0BQKwoX2dCzHrshVeQOHzEcacmowta/E+Xoy6to/MN//hC5p2xzLVS7eIB+DAyi0x7cJuNvfppeLKQUhIV9HARnMyY0zbnxABma2M5FnuSyxclzwQojvshjzpFgDsLT6a7tDyf9ip07gHIh6DOMvoIHZSsCjRvFzi2y+RLFKYt5Dw3+Rt+ScgccYptjaiq53YRCp05QP4cH6F79SdGgGleDtDtNIsQZyslaBQVafUf/uOs5s82WH4Btur6hrJvIGzJkqRsynJZjgCphqmZNnNRkHTPmXlWIecBEGZQfPeWCiN694EPGxjeyYVyabxFdbWhntbASX/CfP12ZvSur+oppKiKLlBGdrPomjVEwos8a6oipZCvyVBn52uzo3Ge93HddSgIgTS90bGt7hsA9d+9Yfx4GDoQA==;Ca7t1Y/jk9xlOE97o6JEWQ=="
 ---
 

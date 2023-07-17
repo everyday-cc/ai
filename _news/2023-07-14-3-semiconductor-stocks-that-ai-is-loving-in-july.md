@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "3 Dividend Stocks That AI Is Loving in July"
+    excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
+    publishedDateTime: 2023-07-14T13:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "3 Quantum Computing Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Quantum computing is still a relatively nascent technology. If developed"
     publishedDateTime: 2023-07-17T10:43:00Z
@@ -67,15 +76,6 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "3 Dividend Stocks That AI Is Loving in July"
-    excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-14T13:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
     quality: 49
   - title: "3 Doomed AI Stocks Destined for Disaster"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"

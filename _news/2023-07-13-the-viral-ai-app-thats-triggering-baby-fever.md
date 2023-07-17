@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Why Overinvesting In Generative AI Could Be A Trap"
+    excerpt: "Generative AI is the hottest property in corporate innovation ... relatively cheap experiments to test your hypotheses before not after you commit resources. The typical startup is forced to de-risk a business model because it starts with relatively ..."
+    publishedDateTime: 2023-07-17T20:54:00Z
+    webUrl: "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5a8b0d0939b4ab7248079/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 888
+        isCached: true
   - title: "Is AI Taking Over?"
     excerpt: "A leading scientist argues that human beings are soon going to be eclipsed. The crux of the human mind is not intelligence but self-reflection, which often involves inner dialogue. A (G)I is passing the Turing test; we should turn to the Hamlet test: Can A (G)I originate a soliloquy?"
     publishedDateTime: 2023-07-15T00:15:00Z

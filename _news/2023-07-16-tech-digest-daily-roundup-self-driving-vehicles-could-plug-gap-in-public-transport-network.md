@@ -7,7 +7,7 @@ originalUrl: "https://www.techdigest.tv/2023/07/tech-digest-daily-roundup-self-d
 webUrl: "https://www.techdigest.tv/2023/07/tech-digest-daily-roundup-self-driving-vehicles-could-plug-gap-in-public-transport-network.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving vehicles 'could bridge gaps in UK's public transport network'"
-    excerpt: "A new report, led by the Department for Transport (DfT), involved trialling SDVs to ferry people around Alnwick in Northumberland, Manchester City's Etihad sports complex, and the town of Taunton in Somerset."
-    publishedDateTime: 2023-07-14T12:39:00Z
-    webUrl: "https://news.sky.com/story/self-driving-vehicles-could-bridge-gaps-in-uks-public-transport-network-12920858"
+  - title: "Tech Digest daily roundup: Musk launches ‘pro-humanity’ AI startup, xAI"
+    excerpt: "Elon Musk has launched xAI, an artificial intelligence startup that will be “pro-humanity” to avoid the most apocalyptic AI scenarios."
+    publishedDateTime: 2023-07-13T14:17:00Z
+    webUrl: "https://www.techdigest.tv/2023/07/tech-digest-daily-roundup-musk-launches-pro-humanity-ai-startup-xai.html"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 2
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/07/Renault-Scenic.webp?resize=675%2C447&#038;ssl=1"
+        width: 675
+        height: 447
+        isCached: true
 
 secured: "RqIxfqAuwfpLrXFKHQgg/hTaKRJI/NYMjhEQC9PQQnKOPIESXvSm/pBIR18AtVjzDdgFfTQi7895xYefhM93UmZbDvQmcxlscjdvPl8tNNmQ0ue5npnP2P/RGSJzCERavYiE4CFWOAZw5Q6ysDUj+gbdhb4lWr45OFVprY/6rzCEOfsxUTKLQ20D61LtMIzlMFLyZX0WxBOSAbJOtjd5uyL06KumZMsCB748z9UVrgHrI74oekTNvsQVeClt2nGyCV/RLnB7wYa43UAebyu7HyyBRXNYpuZCLqH55cUsiRDFQHJeM93btahMJbLI1Ja3P3dTZ5CZZ/GwF2QFJdZ/vKKDFK+0z8sO3szYbeXF8glq+WvnYSt1mALvI/h/Ft49VktJjDdz7hAoKn/9c24uziKfNBvd2bDmTUqLPPtyPeB5duxvzeOXIYTGwz+fj3ZogEUkwwnOsQONcLcWDZBNI6L3wu9RPrUgk/u6MM0wm56TP6rDhMmkELAyYKhOxtCe327IkJzfX2gnhnLXLJO1Zg==;A8xlXpgPm9Fo2VLp/d7XSQ=="
 ---

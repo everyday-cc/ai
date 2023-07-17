@@ -177,6 +177,15 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 21
+  - title: "Proliferation of AI agents raises fresh worries"
+    excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
+    publishedDateTime: 2023-07-17T19:45:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/07/17/proliferation-of-ai-agents-raises-fresh-worries"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
 
 secured: "kO2TvGIUyL6IxlqNMa+acbqoIWuwS8z/1Ak1M+YWHNNCmzvUTm4a28w3peRPaoa43SX8I6dA161MHM1OO2h+lhrdmzXJVaAeQjQS7rq0IQHvgxNVilUKC8L1fv6/KVyrunlvVYP/sdAJ7ygiB68hRAXJlXjrEmtFtCF46hwX9ETBcb4LM/QCuj0vae5Rrxcv4h7oJI/6las6Tx3uyuSR+T4NxU0Qhg4nvxdICJRl9RQugbbyXvo/I5dKYPo+Zdp82MHu+J4DNtOBdzwPkB6FBVT/PJsuZRzN+YO0zzjM4IoZO+QtYp+qbySPVh4RmMsFABCAf0q48m7B55NE+rN1G7fxVhNzbvJ5xk60qN/7hrY=;C7PFqAdrmZ8dJD5iAPYnnQ=="
 ---

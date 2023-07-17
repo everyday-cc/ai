@@ -54,20 +54,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Consultancies have started using generative AI"
-    excerpt: "Your next business strategy may be shaped by generative AI, with KPMG and other management consultancies embracing a technology that, new research shows, executives are racing to implement regardless of ongoing concerns about its accuracy and security."
-    publishedDateTime: 2023-07-13T03:03:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/consultancies-have-started-using-generative-ai.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/kpmg-generative-ai.jpg"
-        width: 1036
-        height: 583
-        isCached: true
 
 secured: "jvRncEjPVW7Sp78jvag6ggkAFWSZK+ZKOXaTmwne+xJfrbPfIVCBNQHeSnnDyEiXJYGqdYGdbKLyfsE1vTI7oZhAqqAJ625VWV0UOepbyRcWmIDQbXFoJERnb0BkI797XLKOI9XFn6vGbH5KhFvUjwhwGwdEySxV4cPTH0SAznGC3pp8dt7PeZEqjtZvEvHzpLp2lDACB0CvQYnPNYGWOvBr2yyKDNvzKKJi8yiD/+sMc1GZdD1oOy1LemoBprZMO0t+bHVCl1rGA8xg8cWqWSZIJo0nt2mjdXh75pPo3X0Qw0zFmvYxbYpL6fqi3D8Iv6quOd7UQTjUf/wTySlCA1z4OZD8RTR0NNdbjbfFiZ+3Lmsur5dKQw9g/SIF33PCC3XGJ427bxmNoCp1XwEmUl09+WC1ifndfFQqB3JUYQ3tcIghnr+8xSpAHXQlKDtjZibMc/X0VEISq9O/42H/s+kaFQh+x0yoRMa5Hjo3e3biMFUisbnUP27rqMADModYHs13xIkg3Oomi2fmePC+GQ==;c/3pQiPjphoRUDnluZ5nHQ=="
 ---

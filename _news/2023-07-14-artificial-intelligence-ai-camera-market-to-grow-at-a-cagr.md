@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-camera-market-grow-a-cagr-/2023/07/14/9848444.htm"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: TMCnet
@@ -36,22 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "FinTech Market to Grow Rapidly at a CAGR of 20.3% by 2030 | DataM Intelligence"
-    excerpt: "DataM Intelligence 4market Research\"The Global FinTech Market reached USD 140.1 billion in 2022 and is expected to reach USD 610.0 billion by 2030 and is expected to grow with a CAGR"
-    publishedDateTime: 2023-07-13T01:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33208806/fintech-market-to-grow-rapidly-at-a-cagr-of-20-3-by-2030-datam-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33208806"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33208806"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

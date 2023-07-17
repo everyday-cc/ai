@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "China Now Has Driverless Taxis"
-    excerpt: "The future is here – driverless taxis are now roaming the streets of Beijing. According to a press release from the head office of the Beijing High-Level Autonomous Driving Demonstration Area, as of Friday,"
-    publishedDateTime: 2023-07-13T05:05:00Z
-    webUrl: "https://www.thatsmags.com/china/post/36186/beijing-now-has-driverless-taxis-in-operation"
-    type: article
-    provider:
-      name: thatsmags.com
-      domain: thatsmags.com
-    quality: 39
-    images:
-      - url: "https://www.thatsmags.com/image/view/202307/52541689064370__pic.jpg"
-        width: 704
-        height: 460
-        isCached: true
   - title: "Beijing Allows Driverless Taxis For Commercial Service"
     excerpt: "The autonomous vehicles will serve the fare-paying public in a 193-square mile area following a series of trials and tests."
     publishedDateTime: 2023-07-13T17:23:00Z

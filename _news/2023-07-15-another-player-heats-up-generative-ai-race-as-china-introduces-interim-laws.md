@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-gen
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Intel Launches AI Accelerator Chip in China"
-    excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
-    publishedDateTime: 2023-07-13T03:08:00Z
-    webUrl: "https://www.yicaiglobal.com/news/intel-launches-ai-accelerator-chip-in-china"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
-        width: 770
-        height: 510
         isCached: true
 
 secured: "b/zCSJHfbebZqJFc990QEQK2ImJA13R2fICDN3saOqyIs55JBRFQzcTjsfoaxwbNHWQhkAPBQUR/NqKnzbnakMHboVcfQ0Xhz9JJUP7J4DQkg+2UVkdEh8ROySnUkdaPCSFMNp6bSsr7jSIX8wwI+vjuIDh/VmDzdrPObjuB/xhrPpoWmXuXVmd9tiNWJPOAwN0CHDtn+xDYIHHxH5t5s5y3mUa2MSsObjKeZTmawR2oS+KatKCDs3bzfmRvU7aC8khNGVwzrG9AguKOSRa+dOvwgHfB+xFl8tQGoash3YGmUJ+b4m6/p8+0YdErMifwJvGgQx7spG2AquZ6WE6uPCDUi8PBu/INTrxNy1sbqpDMaCOvdpt+HQGkO7BYeYZXnUsJw5OfX11qfL8ogNRnR8vpzjFOcUtdP/L9QtBer9nMflD0u+nhbjPgr4z0hqUHPZp8rEZmbtXV+iPajK3iml16Ks26Pchy5WnH/Nq/tHpWAh4luTS3LAX2DFRo7iDtOmWLBnXMhhTUu9cx0GkiyA==;zHAc12998RFYkFOpoT4MKg=="

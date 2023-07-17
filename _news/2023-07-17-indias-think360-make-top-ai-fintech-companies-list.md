@@ -1,28 +1,22 @@
 ---
 category: news
-title: "India’s Think360 make top AI Fintech Companies List"
-excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-publishedDateTime: 2023-07-17T07:23:00Z
-originalUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
-webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+title: "Indias Think360 make top AI Fintech Companies List"
+excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+publishedDateTime: 2023-07-17T14:12:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Defence News
-  domain: defencenews.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-    width: 720
-    height: 340
-    isCached: true
 
 related:
   - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
@@ -65,6 +59,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "qIVcLUNWtwhpUClKs/2buqe5DeOkqx3a8XVlP1uw5Vqp5+GdwhCx98oVjIS1JT2LEHDvb2FlNFkKR1n0S4+p4A66QIMzVIsr8pAe12iLrha7EuHf2Cw9dM0dxBXkb6QigJcOXZbK3I2uaWq4bV/ymRP8FQ6i3SV3JHlc4IO9a+liOUiGgKW6p4USh/Lgwrj7bH+hELhDuSI4D6miznilwy2zGdqiTLlgBNOhzuUniwp2YHqV7LxzX+zQ845Rui1RwM+FSDyy1FNzSoZdvbcvGkT9L7wnAdeaUlKCRWnkIElWLsP4+IuKF0XBWg955+NJxQy8lu4SbPPkOGXhyB+/yAozow0mEYyY8BFzrEWSAx05U6WjGRaf4DBdn+9WnLLUD0DQ0HMnjCQiMrOTVpMz21qBEpFIRa2Kgljx4VW69kUrb9kPqkxnFb7IqwapUZifwCG7+dA9TactJlMqMtRn6xekqq1h888rzuIhHY9u8qFVn99059UH89UllI3O9zK1YDUYgSAyoj0iDImYgODZrg==;CQLK5QOrdp8YBJWVpNTYYw=="
+secured: "6oyLJgPyZwC6gOIY7jbzCpzo20meWwXyOHXZzrR9aYCx2kcC80/WvRn0zYcHqiwhuYe5QjH23tYeDhisP/Jg+l49h2kye9ORctlRsqTugDCiUaunA9jkkB/CI4staGQ6Xmf7f0TVUauQPKMxayJWTpDyosVf1hAApl1DHjRtXrnk3iulzfauOE1jbqxIUawS4q7qU9asZuMQ1MntgalXGZMeVHWHt5sNqHY29YqVhTv//7Zp4LJL6rjSlTGXcuFdnaBdmIPVDzwOr87rwD6i1/JIqefkm+aiHEcAfcwZgq/XX3033r6I02roN1uPtBeMx2AYDV71vihGUJTeTcZnkKxDm1goR/lRHKhrmDcxz7c=;FECNWl7vbtpt9qfKl3xJ5g=="
 ---
 

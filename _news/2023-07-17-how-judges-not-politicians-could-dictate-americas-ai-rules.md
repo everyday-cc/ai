@@ -3,12 +3,10 @@ category: news
 title: "How judges, not politicians, could dictate America’s AI rules"
 excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
 publishedDateTime: 2023-07-17T16:06:00Z
-originalUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/"
-webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/"
-ampWebUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/amp/"
-cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/amp/"
+originalUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
+webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
 type: article
-quality: 61
+quality: 21
 heat: -1
 published: false
 
@@ -20,12 +18,6 @@ topics:
   - AI Ethics
   - AI
   - Computer Vision
-
-images:
-  - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/judges2.jpeg?w=3000"
-    width: 3000
-    height: 1688
-    isCached: true
 
 related:
   - title: "Bank of America Is Using AI and Metaverse to Train New Hires"
@@ -80,6 +72,6 @@ related:
       domain: eagletribune.com
     quality: 0
 
-secured: "enNv6jY8YavzPM2bdYeh8ETHWxeReS0hgMStB5wzTtyVy0ZHq1mAQnbRR3ueGrTBg+iQUMahBQE8TldULS8syh0gGKiS9R44LD9JdCnEcN+pbojPSEfdh4BHIYoOQG0KyXTTO4ioAEkN4ulIUpjnnN8GKcnKME+x1wjtlhIZfrZgewDwzM/3z3gBskhOuoGZqxlm2o/gvN6mlO58Cmex0yOjgopjyzSNtnQTvB2Sz5kN1E7KoyRPbfNyBL9FvZFm5LGz/tzT+fnkN/Ll2o9G5mpi0EwE3m8wCsm2/44f2yugi/DmHitlesSnN44iNN1uQfn4QSzNFJZu+wq8i+FFtsLZ7v/EQK301A9vTTJZnzA=;D+XC798JEjBaOLNELFrkkw=="
+secured: "ItCcYHvNiorAkMMWeEk5/zeJt4XfDxj+rR1vR5fNBLrw61rksXHbCz2NAp4CWCsl/gZWZIP3ALRhN064EJmcR2hLw38VxlqoCvgOCsXy6bdwfyKErTAWqmR3iFmld+/XLZOxuVl3JD0a3oZdQYD9JTJXd6kYud1wz4p2vV6i59wuRQp7tqdIhqrdstdaekKCSv+R3T289FGoPgMOdKll9zCW3uVqOtWkKPrlMwsYevbJzW+XwYDg80i9QuyAXmUIXqZ6Eiflo0GebNGk3/kn6CtijTqaxYh5BsEmoWKjuLOy3zWlhFPGvLovBb9hNuXeCqQH4D/SCx7aXVTLYpi9CFOTXMJvl1tI6wgxlPgb+btG3aiKuHV5DY4u4RMougCk4RjTO4opCLOGyTOhQNHL37P/9EPqZk+IpBayF0Z/klLiRKlilF/y8OzYrwN6/1vnwodu/UJF5EV3o+lNhPKt0mWCMS2/efIGl+aH4VDYiquSKaQOk3xcyrI+sU2P6HUkVJSfLwb/F6l7cSG5To2FJw==;Ugnt9nz556E7PgEnqJYbcw=="
 ---
 

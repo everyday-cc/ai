@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-14T13:25:00Z
 originalUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
 webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 related:
   - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"

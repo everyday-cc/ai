@@ -55,20 +55,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "Consultancies have started using generative AI"
-    excerpt: "Your next business strategy may be shaped by generative AI, with KPMG and other management consultancies embracing a technology that, new research shows, executives are racing to implement regardless of ongoing concerns about its accuracy and security."
-    publishedDateTime: 2023-07-13T03:03:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/consultancies-have-started-using-generative-ai.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/kpmg-generative-ai.jpg"
-        width: 1036
-        height: 583
-        isCached: true
 
 secured: "w/5JwF559Q3GDzcVdUNluNX7I/kyZrnQmeJFoXnZgmVmU+L826ogIb6I6pAaEPu0JiyPfs07ktdRMRLv1V3Y8gm2pmHCFR8A98+8tuuzOVlXMNcVvyUyrbMiG+AzN+jPbKRl6ZDsafhO7RywNLzRJABpkRezC6RGBVKG7XDEcx34oLHezkxqPX4iuZGswNMJWFyQC86YteN4sex4f2o3YV693Dn0KDwsd6yH1Kx+Wsjw/WXFJDKqqpTZHAfi7bSwnkffECF9sw6FRRZGD02xNFrD6KQRj+Ju7vt3eh2Cgbp1p0/w36j0IxCw9zlNBTX3+soUezsJ56vJUCI1cadFFJLeFXoNMb1+EAD873Xo/rCREEEbCY8iRytkFeRKACJBPgWGc5yxnUfr/VZwDuCvyPWnh6seysTB3Zvtp4Bi5gSBuqNazcPOPZ+gpd9+3tbg4z/hEvTQv3TjTK7o6Nri9Qtk+i+NFHz85z6Jb+4aNZU6xDIvv2An+czz6BYgTS+g4tnkpM5XPxk0z0W1d+4QUg==;Zwf+Wk0A0XnMJSGU7kwVfA=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Artificial intelligence: the next extinction?"
+    excerpt: "With technology developing ever faster, a new threat is looming in the form of Artificial Intelligence (AI) potentially interacting adversely with humanity. The concept of surveillance leading"
+    publishedDateTime: 2023-07-17T19:00:00Z
+    webUrl: "https://www.spectator.com.au/2023/07/artificial-intelligence-the-next-extinction/"
+    type: article
+    provider:
+      name: spectator.com.au
+      domain: spectator.com.au
+    quality: 19
+
 secured: "GBA5sGsi5Ipvq+XInrsigwJW1d5Y1h9+/ijXsV6yAfRwIneWuv7OxNcJzuCK5yldSEUnFiwXGf08Rjstrh81upyKJea3HvLhdRhMcBG2X5K+J4H/AXeBCXSlZdIg38wi8S8xhnUghGLxjJY3EXUi4f6A3CEScwyW3fSPTPzxSDw+AzfjXU2o63AwtH7dqUD6AI37M64IQ4ttS6AqeO19vUTt8vE5xFr9IIJ5PRAnSzG9KvujnVD+F+U2d8osYI8sgaDswLmz8utivzq4Mepzxk/OcDwCQySmDKr+p0vAbPMKyncr07vVaNLGfPot6CGJwDoq5taMvpktbJw5Mt0rMCAuoYAprXKroUUewuIFVm2qXcxadR50Ep9JIHyjQhsKLXWjdcnylT3bhO/32g67Yc49ky5GPX3FY/9X1TCbIIIykmrvQ9y4xmOA/lt++VqnbdA5qPrMTrS/FaLFYhi5O/DX8je0SjvMruXR0O8lZeGjeqCU0zQe4VezkIs24lsuh7lxXQYYlfR+K8ZHO5/iRg==;l6+PxIsFId26GuHaFokhZA=="
 ---
 

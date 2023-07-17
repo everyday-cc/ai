@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-17T17:45:00Z
 originalUrl: "https://www.financialsense.com/blog/20639/artificial-intelligence-adapt-or-be-terminated"
 webUrl: "https://www.financialsense.com/blog/20639/artificial-intelligence-adapt-or-be-terminated"
 type: article
-quality: 39
-heat: 39
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,6 +17,9 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://static.financialsense.com/styles/bli_2x1_100_custom_user_screen_lg_min_1x/public/images/2023-07/artificial_intelligence_robot_job_interview.jpg?itok=Kyy9N5Zz"
@@ -24,6 +27,6 @@ images:
     height: 570
     isCached: true
 
-secured: "j0HUVSQWU/e6hkFvi/aNPsiGsJl2m9qg8uwoPj0AT+Oz4BSTwrluWzgG18iVbjelUC92Bo99x5tzmW8XDhpmoszLOkHI6tmh8uISLf68Gfw0mmYEf8NFhnRNIa2iwyjW0U7lf8DEJmAc33f8GuE1LskhFT4dQ+OaRcKhGM/nVmisNJ2yzqFeJGE3CZZi0LqohbtksodYf2Lv9mbcwIeuq4NDYxVUkMRo1ZO8nhxQvdNDPeM23NvntdEqNQB2GfuXP3O5MVufQsw4wL0hS6sosDt1obymz0XhX9TuNOmBeCwGQaI+8rU2F6BAi5FgdXXsxuS7KsOQehw+jvFGFmd560tyKrAJllqTNmsQ8opOHsI=;9yABoZB+HdB8+yuNP0epgQ=="
+secured: "E3RnYxUbb5HwO54La5GHvh7XsEG2V/UsPt8yV8kohtNxZ77ziHF8tIArwLc3prqbIglQdyuTUXZGOgcrnDKn3dmQ0U17BmcwtmpXNa58/6D+EHCe44JVV8WKAceYs/Xz9BBlWAX97GBbdCiJgkhBoHD7CK5SH3IOeCXAotgyHp9uyyzgQVyW0rpJfhMmrLKwxR0zL3hRftK9TSrMJjUEpTOViQFE3PeT8Kz/eoHl0cZEHq0ArwXs+qrhiSggyZ8PrWt6g2wyNpq+a3YJa0jlCLWTzP1tkgBjo2juSXyDX92yJXhWxrR4wCqHg9t+rNK0AoiLzri7gt9HoFcwj2aJuzaH/B2DwVhYTaYoFW9JOqtT1cJpW5yqthRJB9OA7NmhnEsqq2n55rrJFGiV8RX1fonGcjYVqzE/T5nDUaTSGbQ/3wYq32aRSf1dS6W5NBhoDejFNqLYdPeq3SIciLhVoWht5KnYKjh8AAakV91eYMDVaIAh44rzBlYTSbo4di4LfedmQm6GNA/FADjl2ujtPA==;frWeJtT6Wh8+8OZtsLzplQ=="
 ---
 

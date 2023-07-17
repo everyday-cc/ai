@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Crypto miner Hive Digital drops 'blockchain' from name amid pivot to AI"
-    excerpt: "The crypto mining company formerly known as Hive Blockchain Technologies has changed its name to Hive Digital Technologies, as the firm looks to capitalize on the growing AI trend."
-    publishedDateTime: 2023-07-13T03:50:00Z
-    webUrl: "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot"
-    ampWebUrl: "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/8933e78d-a063-4430-85e4-949ed478575a.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "Crypto Mining Giant Hive Drops ‘Blockchain’ from Name in Pivot to AI"
     excerpt: "Popular crypto mining firm Hive Blockchain Technologies has recently decided to make a shift into the world of Web3 and AI."
     publishedDateTime: 2023-07-13T07:30:00Z

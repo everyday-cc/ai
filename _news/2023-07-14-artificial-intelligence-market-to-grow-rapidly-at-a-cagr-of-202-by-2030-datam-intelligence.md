@@ -42,22 +42,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "FinTech Market to Grow Rapidly at a CAGR of 20.3% by 2030 | DataM Intelligence"
-    excerpt: "DataM Intelligence 4market Research\"The Global FinTech Market reached USD 140.1 billion in 2022 and is expected to reach USD 610.0 billion by 2030 and is expected to grow with a CAGR"
-    publishedDateTime: 2023-07-13T01:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33208806/fintech-market-to-grow-rapidly-at-a-cagr-of-20-3-by-2030-datam-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33208806"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33208806"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "9SNn+QOk/uNmryfu9XnBIUa0/NnOvHmkkunHT6BxDRdNyQ2HumnuJ0AKAO4TLRm18ceX7mwuktQNNgpxRmAqXEmJFDZfGwxn9Lunh0knviFxgeMgGb50xjv3r5Y4zyGc74xt9FHzA8Iq0m/tDysb6QqIy7OHuZPW50boZlYEKDPoDkdNHjkGMQM8Pte1S7iRa0KJg3oEmEh2Q2N4rJkuEMnAA0ahI6BWa5AqqbL815RL0Nty8xxV9OMTo5YEfxnJTIu56RmoUaZZqJ3Dn5/hxdgWeTZwu2+FwWUgoNhD24lNtyzGWqPlOTtMgNuAFoZN6ovWjkZKyoPFMeDFCoGKTZJiILMs0mKjXwO9zioPyBE=;dcOaXGsOwdJ6JckjTEsclA=="
 ---

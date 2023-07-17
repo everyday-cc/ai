@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-15-looking-for-a-career-with-big-money-and-perks-how-much-jobs-in-artificial-intelligence-pay.md",
+      "title": "Looking for a career with big money and perks? How much jobs in artificial intelligence pay",
+      "excerpt": "There’s no question that artificial intelligence is changing our lives. A bot that sounds almost human can author your emails, teach you a new language, book your trip,s or even be your friend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/columnist/komando/2023/06/15/ai-jobs-pay-big-money-perks/70308009007/",
+      "originalUrl": "https://www.usatoday.com/story/tech/columnist/komando/2023/06/15/ai-jobs-pay-big-money-perks/70308009007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x1,y382&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-a-to-z-of-artificial-intelligence-ai-terminologies-buzzwords-worth-knowing.md",
       "title": "A-To-Z Of Artificial Intelligence: AI Terminologies & Buzzwords Worth Knowing",
       "excerpt": "From deep learning and environment to reinforcement learning and swarm intelligence, here's a handy glossary of AI-related terms worth knowing.",
@@ -1357,49 +1400,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai.md",
-      "title": "Not self-driving cars! Infosys' Narayana Murthy believes THIS is how India should use AI",
-      "excerpt": "shared his perspective on the strategic use of artificial intelligence (AI) in India. Murthy emphasised the importance of employing AI in a judicious and assistive manner rather than focusing on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "originalUrl": "https://www.businesstoday.in/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202306/dsc_3047-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/not-self-driving-cars-infosys-narayana-murthy-believes-this-is-how-india-should-use-ai-384005-2023-06-02",
-      "publishedDateTime": "2023-06-02T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

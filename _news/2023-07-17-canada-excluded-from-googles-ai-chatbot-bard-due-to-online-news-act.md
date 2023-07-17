@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Labour outlines law to ban training AI chatbot to spread terror"
+    excerpt: "Training AI to incite violence or radicalise the vulnerable would become an offence under a Labour government. Labour's Yvette Cooper said current laws were not fit for purpose in the face of emerging cyber threats."
+    publishedDateTime: 2023-07-17T20:00:00Z
+    webUrl: "https://www.bbc.com/news/uk-politics-66224052"
+    ampWebUrl: "https://www.bbc.com/news/uk-politics-66224052.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66224052.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A622/production/_130403524_cooperrusi.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
     excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
     publishedDateTime: 2023-07-17T11:38:00Z
@@ -528,6 +544,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "YPjffSE5GlAxit+IDgxL6PiF4h+pjDziMM53Zom8I4b0/k5fzrj2fyYVCaY9kLF+JgXgJ9hzR4j3GZ/VmdspIFTe4LxaI44+ybuxK1gtWmAf141ziawS+GpMWqwiRQeF2PdU3fzB+1GRw+3jsUVGhjAx0pRdhUOhF96/QM0joHtuLmQDI9YnRjZ4EH3LiT669flBJxRYM2kl20dPUOo//poa7WrSl99UgaFw9GGnQAo5ZFG6QrkpV0+PZzkXSTTr4wocZtwmqPSif+RNaSa8n6JKPKwk5QP+baoGf1E4Q/SPBsGfQkRhO/fsAmOkTgqDoY58zEoCN+ic2L/+xBO3jSZh4D16UNsoXmSwPknT8EM=;AZriSrMEoEfny7JD4Y7Gtg=="
+secured: "21dG4oGf5DkW9P9vpBXkjPS+xzeX3m6vvRXuWuPPls1U5zGkktkPFWzzXhvs5bv7JVV6eH4CQSPgSo+VznY4UjvKuliVUJnvqd8cm4SvmhExt4/VpOOt4yfhVh/yeOZZRVC8uoe48XZFQie6YKtAXKE0LZekayzXEUoNqD8W56hl6rZiBLAFyPgPbwTGw/Vg9XL4R0PXTku2oudhfzgIig55wLrSH13C56ydq5U3BgEzfYgno++T8Ydm2tA62BpRuMJFFx5hLbuNqLh6XDVur9V4mE064PayoVSPTxKy+db2wmRufe//PwyP3fP7qMhSlaxr/J5tybfucayeRk4QKgm1RWR/ii3Vs2Gz+MkToZiRDCMSFfNK/TeJNpsWP1DdasMx64VUh3xQFsiHD8sUgwfi5rDIZzsCmm/dYk43EbawTeAmrtTCpcJiJax3G4l5ueEVOwye0CXKIfK7BCiBWqH6zpgu1Ym6piD46yROkVt4KAq8eniRYhJ67zO5MT2NzMjw3lSG7PvBvuPQdCchDw==;UhUTop9skx2KYQLXi2iV8g=="
 ---
 

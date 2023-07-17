@@ -7,7 +7,7 @@ originalUrl: "https://daijiworld.com/news/newsDisplay?newsID=1099743"
 webUrl: "https://daijiworld.com/news/newsDisplay?newsID=1099743"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New Dataset to Train Machine Learning Models for Aerial Vehicle Design"
-    excerpt: "Designing and deploying aircrafts is a long and arduous process, but it might be sped up by deep learning models helping developers identify the most promising solutions or potential flaws with a specific aircraft."
-    publishedDateTime: 2023-07-13T04:00:00Z
-    webUrl: "https://i-hls.com/archives/119878"
+  - title: "Meta to train ASR models by clustering speech at an 'utterance level'"
+    excerpt: "The goal is to meld similar utterances from a diverse group of speakers together in one data set, and then use that to train the ASR model."
+    publishedDateTime: 2023-07-14T11:00:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/meta-to-train-asr-models-by-clustering-speech-at-an-utterance-level-10961141.html"
     type: article
     provider:
-      name: AUS&R
-      domain: i-hls.com
-    quality: 54
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
     images:
-      - url: "https://i-hls.com/wp-content/uploads/2023/07/circle-gcb12fc399_1280.jpg"
-        width: 1280
-        height: 877
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/meta-630x420.png"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Y+SZPtGwSbd8Df8HaQfEYdice8bS01R+iIMUk/Y2UisoerT2h8rdP1zGkdE+kz/N+eJD8M9gDV8cDZT31FU5qNe1h8Pa6nkYLDPT4lb/kMDyxXkAGHGKcJse45mgyIz7myvo8dT3hJpK2EJqiekXjXljRVkHb/Pv5TX8cis54Kf+qkKA4QXbyPqzmsczp7FAoz86DSiUVBjXI6LYeTIDjfy03sf/zfWmYGIPFw8OCpuFiZoOp7uWqWg/3XwaAeZyGuv0I0Amx5OMEDdDo2RrNQk4y2UWClDAxmpqMi04x//FR6aMO2VyFUVAO9DinojkK6Q6jrziS/lrBRRF6OlZxh4Nd5YM3tdFoNpR6kld7IU=;ROhIR4lTF+zmXICIJVZxJg=="

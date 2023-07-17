@@ -170,6 +170,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Proliferation of AI agents raises fresh worries"
+    excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
+    publishedDateTime: 2023-07-17T19:45:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/07/17/proliferation-of-ai-agents-raises-fresh-worries"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
   - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
     excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
     publishedDateTime: 2023-07-17T09:13:00Z

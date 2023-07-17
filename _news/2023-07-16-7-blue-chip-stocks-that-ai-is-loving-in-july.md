@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
+  - AI
+  - Natural Language Processing
 
 related:
   - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "3 Dividend Stocks That AI Is Loving in July"
+    excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
+    publishedDateTime: 2023-07-14T13:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 51
   - title: "3 Quantum Computing Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Quantum computing is still a relatively nascent technology. If developed"
     publishedDateTime: 2023-07-17T10:43:00Z
@@ -59,15 +68,6 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "3 Dividend Stocks That AI Is Loving in July"
-    excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-14T13:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
     quality: 49
   - title: "3 Doomed AI Stocks Destined for Disaster"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"
@@ -111,6 +111,6 @@ related:
         height: 779
         isCached: true
 
-secured: "7a5krJ8XqGW/IgGD30b31/Pe3qdXnlgt1MXptHjL3MJz6rAbjUp8M9msAbWB+JZYG6Yu/27yPa6TPctQt0LFqbjt214mv+m4ySK4B8NId+wMXhrn1RXv18jy7YiGg9lew512/VXN94nnA7LlwI9JVQaqwaOURr0ZQUuCuLq64iRYlJC2KY1v2IgZtTfrGh6wThcNl3dp+ynpZIyhGdnNG0CLOXx6k5GIBzVMQ46jIww9AqywbaKlP8a3urzX7X//gfnxvcoj8rXl6gS0W5feqd+ctGyjdbJjNcCu8SFMkjlsOg3FpTGoI26CZVJNwDpgG0RT1efN8GULr7ljLbC2odoxkp+gHGMe7491/UGpbEhO/5XwPlzCbaTVXwIG2dm2hP3CTeNLGRjHw8NR0QdU8yDz7TsNRrm22Cx8fpV/hc0LLTiRtUsfXjLSWhKzHR78OwVnWmUmVu98cVuKSw4jPXwS9xikbzJJ78sDjAhoOCIPNMX53V+Rwy1XOgItLPSUNp0m6py6SQT3N5EgeqQPRQ==;2hr15Oxo2f5laRI0Hv4+tw=="
+secured: "TfqQJFf414+3IDkFQ6s0cc2ti6P3pT2HSjms3wt2g2WyfNlX5USARa4MrLK4KLg7QfJdxM9tWUSim6mrwK4x/I+wnJ2OjoHKGYN81jGx4u14Q7dJA96OaETkJzpKSmSrLzY1QiKzWk/AmRdNqD3xfv6FHMow+Q3mTqj0TLNglFZJwfxVZxrEY4I7NzI/79ntSsYurThgJdM2LxRyjLDsAYrAZwtIqj2Cd5v444o3c39Ppu1+WQjjYrcT3xozSzfVDZLYSl+WZSjnuukubiGersSVtwUGeG1CPrePaxOuHdD04Iuhn6mx/1JR/UemMTuhTsywWu0/CAACxdRYfcDYHrMihV5UKMg+qUDlQRQX+b4DSvyp/AGde9UZYSD+vJ1SxJhGJhf21WD8KFaG7VU7exE9LFvmj0XkcxXMFdJ9Olb9H1qImePZYkaaR1lTvDkLvIDhAHDm5Ly74YQhpId5Lzh5LLALjafce/aadNYzrPUyvjH3Wt/5aVSjS2ReK+TGT92PWeYtOhIBj01koBNeoA==;n+bjOMF7q2pavWb+s5pxPw=="
 ---
 

@@ -60,6 +60,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Humanoid robot startup Figure nabs $9M investment from Intel Capital"
+    excerpt: "TechCrunch reported the investment today. Intel’s capital infusion follows a $70 million raise that Figure disclosed in May. That round included the participation of several institutional investors as well as the startup’s founder and Chief Executive Officer Brett Adcock."
+    publishedDateTime: 2023-07-17T17:40:00Z
+    webUrl: "https://siliconangle.com/2023/07/17/humanoid-robot-startup-figure-nabs-9m-investment-intel-capital/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "PQgQkQ36BCHeYEhgnNcvsfms9pjtevstiAKxPyK/H5kBKJHaRUUNrYkWdCCqVrUhqxT6jNrVHzNawzpJHN8eG4dnYRWdqIlt2eP4Yzr8TOq7haLvrPEk/AfS9kRBiK2N4U2FUyseSUPv9595W52N8pxNnjPqophi9Rvj/8wKMoJ6vpyZsbHkcP/ksEH1jkkITCPwOTY3vUtP9WKKREqaiMPMUVJ9xbKJ0hVt3zmsh0x4bJhJUUIDh+LXVzNy155dKjHMj4Kb+VC/rKhsTVJTu/KQ+ePK4mFOXBSe2cU5cRQpUl4te3fyjrQ4QTgq3UUyhRssVmRoSHnkJ1TbkVFIHQJUFKs3iP1ZMztMdfuv2rBRKRXLrKOicZgRfCKPYSAioXmtDqcId+YVGmoErjVhRf2QNFL3wQsUaJTGwomz06oHmBkctV5AxQ7ecQlu1883ffJ4wpfroaQisISho/mJfnBkwWQlEFHN32eOY3f4wX8gFk04snZqHOrewhFA4TpcttFibc3pJA+ZL394tO1J/g==;vbVeSrh83eHFz1GYPoRZbg=="
 ---

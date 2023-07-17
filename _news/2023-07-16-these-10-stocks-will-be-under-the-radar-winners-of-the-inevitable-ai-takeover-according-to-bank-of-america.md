@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How judges, not politicians, could dictate America’s AI rules"
-    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
-    publishedDateTime: 2023-07-17T16:06:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/judges2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Meta To Release Commercial Version of AI"
     excerpt: "Meta will make its open-source language model LLaMA more widely available and customizable by companies in an effort to catch up with artificial intelligence rivals."
     publishedDateTime: 2023-07-13T18:37:00Z
@@ -74,6 +58,15 @@ related:
         width: 1500
         height: 993
         isCached: true
+  - title: "How judges, not politicians, could dictate America’s AI rules"
+    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
+    publishedDateTime: 2023-07-17T16:06:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 21
   - title: "MATRIX Releases Beta Version of ‘Genesis’ Generative AI System Capable of Creating Metaverse Worlds Through Both Spoken Words and Text"
     excerpt: "The beta version of ‘Genesis’ is a technical verification edition of the generative AI system that automatically creates photorealistic Metaverse spaces. You can experience the generation of Metaverse worlds (virtual spaces) through simple spoken language or text prompts (Speech to World)."
     publishedDateTime: 2023-07-13T18:26:00Z

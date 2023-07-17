@@ -49,20 +49,15 @@ related:
         width: 2560
         height: 2560
         isCached: true
-  - title: "India’s Think360 make top AI Fintech Companies List"
-    excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-    publishedDateTime: 2023-07-17T07:23:00Z
-    webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+  - title: "Indias Think360 make top AI Fintech Companies List"
+    excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+    publishedDateTime: 2023-07-17T14:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
     type: article
     provider:
-      name: Defence News
-      domain: defencenews.in
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-        width: 720
-        height: 340
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "UHWSrj5KzdV1S6gHpl4MEoaQdVkztiTUqLLudCtSIPB3SF4cyyQMTuFzAKBVDQablmmWnILqYrak0nN0R5dZfOMq1mvXYrYQ2wWBBBJPKEWkmbrfUCrhMxMLfwNacXKES6eJlNJDA006BMGCF903Q0e69KE2AvLH/8tSQqVZMkvenENDdcL4jFt7QizRVk2ET3ajteG1jPHzt+qnwrazIqhL5chs2FWLNnmf/+b0Ma/foX02+u5Y2yUSh5lZyYHMBbk+3/k/1eRsYjefYLWcYS0aSC7toZXpgsaRSj9E482GzgAA9hg5xxT5fSDY2IJ0DB6cwzfjmBNsQ3iAzG8G7fxncTh6aD43LZ9/aCq+4Sg=;dElZn5JC9AxSaVziwU3c9w=="
 ---
