@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Why are people putting traffic cones on self-driving cars in San Francisco?"
-    excerpt: "Self-driving cars have become a consistent presence on the streets of San Francisco, but not everyone is happy about it. A group of protesters called Safe Street Rebel has taken to stopping the vehicles in their tracks by placing orange traffic cones on their hoods,"
-    publishedDateTime: 2023-07-12T21:59:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 42
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/0605953/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F44%2Fcf%2Ffc5dca444eab88d7941e527fcb8e%2Ftraffic-cone.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "kJA/k0Pocql8/RU4jnpJLv73b03n5KBUrIRPJP5ni/RTKQ5a0CulTWmUDrb4Q/N+ng2sjYBX0vZu3I6QvC3EnoZXSGi/RYQ7ebslD+kpVuH4Zdr/f8y+wm6+H8EBnNYLGTwRFbjv4jdgvQ/k9+LEszS9nPQmldahKTgukntehm4814CcKa/gzNPwWH4me6OcjTL0Fl4+aGQbyXfWIlOpqDmIzXGff93YClbWwy0eRvKKIvZG1geUJNNE39CrdN/jP+FNkksQ02wS6Jd/+oL5xWz/UI5JPLMsIsiOjAHQk0gdMOdPgc6AP66MyM4sKUfqouW7/URuA9ppFuLU7CzFm0jqJrbnf/XhTGJpYGfjIrTaxC8xN+cX6OWxFSQkRvNh9QhHJ6MOJbgP+gOooSmxg8lC3V8xUbfDRueXUA5v7hQd+ezQZfgzXKQnVBaYHwz+kbOD5hf66MN2An0JJI57vg5VJ1copE2bRp60Ysdmx9cxtmQbjHsELIOEMmW2oZwFQpSHN+TDkuDNCf+iCeUZ+A==;NvqE/pic7fi86awhfapuZA=="
 ---

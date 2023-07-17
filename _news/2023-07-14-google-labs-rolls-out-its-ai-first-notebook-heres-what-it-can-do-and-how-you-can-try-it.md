@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-its-ai-note
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google NotebookLM AI notebook launches"
+    excerpt: "Google, in its ongoing quest to amplify learning through advanced technology, unveiled a selection of AI first experiments at this year's Google I/O"
+    publishedDateTime: 2023-07-14T11:50:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-notebooklm-ai-notebook/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "4IzWsGaCTawjjIQ3D1DpJI8MPVoT6mXHt4Yn/CBRxylLDybQRT3ikr6Bhhfgg02bg2KLyWihnfFfnpplkyNBK42LomxawwshGc9/jr3hgM+OV6gn2rOJtC3b/vQy1CM+9sRGPRvUvbBKnBFTX930yqVbSD7tan+0I/0UlXs/zyAFXBA/k+Z+48cxmhqjTGPrkx3yaEJuIpIrhaeuo5YNyrEaK4bRKuKeaHVLcUHF8R8SGQbo2pdqarpE33vC8N3/CVQeakM0KJXnTE0s5CX5taw7Uc2Hnmc0Y3vq/5Dgvczcd41EbQQSGTKShw6KPMZBxeOIZz6XduCBvk3FEqs05+VpZMgjhCg01Chdommx2dkzD8eA7/TANx8JZo2fdjDC+rp3l6psfZDghouxwVTe9SdDyZ4HZK5Q0G/PC26PiH6LKs/IOPrcVsCq/CieQxyAqtjO+VVj/hmnb9votZcXKMrwvjFr5jF+M4UpZ5vz06S4Mmiw1hqo4Niz/iDsSu2FEW9TSuFj8eX7Y2mniL0GsA==;A3CvBSMIPs9U7Q/M6Sqagw=="
 ---

@@ -20,54 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "The new high-paying jobs in generative AI"
-    excerpt: "The push to adopt generative AI in the cloud will lead to new roles and needed skills, and enterprises will likely pay top dollar."
-    publishedDateTime: 2023-07-14T09:12:00Z
-    webUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/10/jobs-sign_interview_job-search_now-hiring-100774984-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Another player heats up generative AI race as China introduces interim laws"
-    excerpt: "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services."
-    publishedDateTime: 2023-07-14T20:21:00Z
-    webUrl: "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kakao ups its game in generative AI with Karlo 2.0, an AI image generator"
-    excerpt: "Kakao Brain, an AI unit of Korean tech firm Kakao, launched Karlo 2.0, an AI-powered tool that can produce images from prompts."
-    publishedDateTime: 2023-07-13T11:59:00Z
-    webUrl: "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/"
-    ampWebUrl: "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/이미지-카카오브레인-초거대-AI-이미지-생성-모델-‘칼로-2.0-공개_230710.png?resize=1200,581"
-        width: 1200
-        height: 581
-        isCached: true
   - title: "Generative AI Will Shape The Future Of IT. Here’s Why."
     excerpt: "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits."
     publishedDateTime: 2023-07-12T23:42:00Z
@@ -84,22 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The AI boom is screwing over Gen Z"
-    excerpt: "ChatGPT is commandeering the tasks that young employees rely on to advance their careers. That's going to crush Gen Z's career path."
-    publishedDateTime: 2023-07-17T09:26:00Z
-    webUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/64b03b8fc22d1a0019455239?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
     excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
     publishedDateTime: 2023-07-14T14:15:00Z
@@ -113,6 +49,20 @@ related:
     quality: 83
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64b001d6688702d8dcee1991/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Will AI Impact the Future of Your Work?"
+    excerpt: "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where."
+    publishedDateTime: 2023-07-13T01:59:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-will-impact-future-work/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg"
         width: 1200
         height: 800
         isCached: true
@@ -146,63 +96,49 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Navigating data governance, transparency and trust in a generative AI world"
-    excerpt: "While generative AI is democratizing analytics, it's also adding a new level of legal complexity and trust issues."
-    publishedDateTime: 2023-07-12T21:11:00Z
-    webUrl: "https://venturebeat.com/ai/navigating-data-governance-transparency-and-trust-in-a-generative-ai-world/"
+  - title: "Why generative AI just hits different – and why organizations need to embrace it now"
+    excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."
+    publishedDateTime: 2023-07-14T14:45:00Z
+    webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 64
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR7411.jpg?w=1200&strip=all"
-        width: 1200
-        height: 684
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
+        width: 875
+        height: 467
         isCached: true
-  - title: "Why learning the language of humans is key to enable generative AI for automation"
-    excerpt: "At VentureBeat Transform, Kognitos and Wipro Ventures execs discuss generative AI's potential in business process automation."
-    publishedDateTime: 2023-07-12T23:42:00Z
-    webUrl: "https://venturebeat.com/ai/why-learning-the-language-of-humans-is-key-to-enable-generative-ai-for-automation/"
+  - title: "More than a quarter of UK adults have used generative AI, survey suggests"
+    excerpt: "Adoption rate of latest AI systems exceeds that of voice-assisted smart speakers, with one in 10 using them at least once a day"
+    publishedDateTime: 2023-07-13T22:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM1294-e1689200748872.jpg?w=1200&strip=all"
-        width: 1200
-        height: 799
+      - url: "https://i.guim.co.uk/img/media/ae0b5321d2fc84b18a5b63e9990c08535d998472/0_77_6240_3744/master/6240.jpg?width=620&quality=85&auto=format&fit=max&s=9064862d39791e8fa17c6d430f41243b"
+        width: 620
+        height: 372
         isCached: true
-  - title: "China to Impose New Regulations for Generative AI"
-    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-14T21:10:00Z
-    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
+  - title: "Generative AI & the future of data centers: Part V - The Chips"
+    excerpt: "The Wafer Scale Engine 2 (WSE-2) chip has 2.6 trillion transistors, 850,000 'AI optimized' cores, 40GB of on-chip SRAM memory, 20 petabytes of memory bandwidth, and 220 petabits of aggregate fabric bandwidth. It is packaged in the Cerebras CS-2, a 15U box that also includes an HPE SuperDome Flex server."
+    publishedDateTime: 2023-07-13T14:53:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/analysis/generative-ai-the-future-of-data-centers-part-v-the-chips/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
-        width: 1024
-        height: 683
+      - url: "https://media.datacenterdynamics.com/media/images/AI_Feature_Part_5.2e16d0ba.fill-1200x630.jpg"
+        width: 900
+        height: 474
         isCached: true
   - title: "How generative AI can democratize content creation across the enterprise"
     excerpt: "Learn why content creation and productivity is one of gen AI's most transformative powers in this VB Transform 2023 panel."
@@ -213,15 +149,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
-  - title: "This is how generative AI will change the gig economy for the better"
-    excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/this-is-how-generative-ai-will-change-the-gig-economy-for-the-better/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Consultancies have started using generative AI"
     excerpt: "Your next business strategy may be shaped by generative AI, with KPMG and other management consultancies embracing a technology that, new research shows, executives are racing to implement regardless of ongoing concerns about its accuracy and security."
     publishedDateTime: 2023-07-13T03:03:00Z
@@ -235,20 +162,6 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/kpmg-generative-ai.jpg"
         width: 1036
         height: 583
-        isCached: true
-  - title: "UAE Artificial Intelligence Camp empowers new generations"
-    excerpt: "It addresses six cutting-edge themes, including web development and robotics, digital entrepreneurship and career planning, generative artificial intelligence, online safety and cybersecurity and deep dialogues in the field of artificial intelligence."
-    publishedDateTime: 2023-07-16T07:06:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/07/16/uae-artificial-intelligence-camp-empowers-new-generations"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/16/uae-ai-main1-750.ashx?h=450&w=750&hash=6DF4267865CDBC6945BE49881297AA73"
-        width: 750
-        height: 450
         isCached: true
   - title: "Embracing the disruption of generative AI at speed, responsibly"
     excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
@@ -264,75 +177,29 @@ related:
         width: 2254
         height: 930
         isCached: true
-  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
-    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
-    publishedDateTime: 2023-07-16T02:15:00Z
-    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
+  - title: "U.S. intelligence chiefs plan for a future where every spy uses AI"
+    excerpt: "U.S. spy agencies are preparing for a future where all of its analysts and spies use artificial intelligence to augment their work rather than rely on traditional tradecraft."
+    publishedDateTime: 2023-07-14T21:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jul/14/us-intelligence-chiefs-plan-future-where-every-spy/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 37
     images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "China unveils provisional rules for generative AI, including a licensing regime"
-    excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
-    publishedDateTime: 2023-07-17T03:56:00Z
-    webUrl: "https://www.businessghana.com/site/news/Technology/289952/China-unveils-provisional-rules-for-generative-AI,-including-a-licensing-regime"
+  - title: "Powered by Generative AI, The Future of Customer Experience for Ordering Arrives to 10,000 Brands With Orda Assistant"
+    excerpt: "New York-based digital ordering and fintech platform Orda launched a new immersive customer experience for ordering with generative AI. The conversational ordering experience is now available for customers of over 10,"
+    publishedDateTime: 2023-07-13T05:29:00Z
+    webUrl: "https://www.retaildive.com/press-release/20230712-powered-by-generative-ai-the-future-of-customer-experience-for-ordering-ar/"
     type: article
     provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 35
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-14-1723482.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "A look at generative AI and its ethical landscape"
-    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
-    publishedDateTime: 2023-07-17T07:00:00Z
-    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
-  - title: "Assembly Software Brings Generative AI to its Case Management Platform With NeosAI"
-    excerpt: "NeosAI, currently in beta, aims to bring new capabilities to Assembly Software’s case management platform Neos such as automatic document generation and audio and video transcription."
-    publishedDateTime: 2023-07-13T20:16:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/07/13/assembly-software-brings-generative-ai-to-its-case-management-platform-with-neosai/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 33
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/07/NeosAI-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Indian IT services firms doubling down on generative AI applications"
-    excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
-    publishedDateTime: 2023-07-15T12:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-it-services-firms-doubling-down-on-generative-ai-applications/article67080148.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 19
-  - title: "How Generative AI is redefining work and catalyzing innovation"
-    excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
-    publishedDateTime: 2023-07-16T06:42:00Z
-    webUrl: "https://www.dqindia.com/how-generative-ai-is-redefining-work-and-catalyzing-innovation/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 0
 
 secured: "PT3BKbpaJVzG0zI9cCIZ9SV3BbL+47Ml+YStvPB1MJuOrPaQyuQVtioei/hmpNGVveet7AIXXcijSvkUuGrTcOC6gAawTtPP+tpd7Kz76Jqn5heCRMLRY5r77z0l3dZsvNw25wQxHyKp7B2NH6lwIMdYT6C0EdvyHS8NAgrXnGqHNAPGqFibw5vfdfflUg9t3TiFYPe3OwUDfqjB3mH22tL1OhUKUCe3353YwIZOo49Nshax66dHqSqv1Sn9UT0t5STTrDwCCLYPNZCFq9DELs8mXf8qh2lsbFomDqE7+2aIFUfa9I+vb42njmFzBYEfaun+uEaesEL8+UDFIZUA8td81ZzvyRI4OBiptWnNWRwdv6PDlu03NU0jvEesyaxXpCo+Yt7Dys5QFnWpd/dXKtalpAJZnP9fnsT5CkMfIFijmHfMUfvjoqpu57ulHnBElD74+GS0bN4kAF6ihEmv9+a2bGNEs7JUZ4/4Qx501XEpxongoN0ugTccGAR9Oz1YrJHwkmVVq/ugthB/X4NgGQ==;sCEuWqt3derqaQoabUvDUw=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-17-generac-powers-business-transformation-with-data-ai.md",
+      "title": "Generac powers business transformation with data, AI",
+      "excerpt": "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html",
+      "originalUrl": "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/07/tim-dickson-100856016-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/",
+      "publishedDateTime": "2023-07-17T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-new-ml-benchmarks-show-best-algorithms-for-training-chatbots.md",
       "title": "New ML benchmarks show best algorithms for training chatbots",
       "excerpt": "As quickly as AI and ML have grown, MLCommons has been updating its MLPerf Training benchmarks. The latest revision, Training version 3.0, adds testing for training large language models (LLM), specifically for GPT-3, the LLM used in ChatGPT. This is the first revision of the benchmark to include such testing.",
@@ -97,7 +140,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -191,6 +234,58 @@
         "Microsoft AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-kakao-ups-its-game-in-generative-ai-with-karlo-20-an-ai-image-generator.md",
+      "title": "Kakao ups its game in generative AI with Karlo 2.0, an AI image generator",
+      "excerpt": "Kakao Brain, an AI unit of Korean tech firm Kakao, launched Karlo 2.0, an AI-powered tool that can produce images from prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/",
+      "originalUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/이미지-카카오브레인-초거대-AI-이미지-생성-모델-‘칼로-2.0-공개_230710.png?resize=1200,581",
+          "width": 1200,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/",
+      "publishedDateTime": "2023-07-13T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1278,102 +1373,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity.md",
-      "title": "Why healthcare in the cloud must move to zero trust cybersecurity",
-      "excerpt": "To protect patient identities and health records, healthcare providers must adopt zero trust cybersecurity amid increasing cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/why-healthcare-in-the-cloud-must-move-to-zero-trust-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/GettyImages-1251551602-e1634921639991.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities.md",
-      "title": "Tech Mahindra Leverages Microsoft Azure OpenAI for Enhanced Enterprise Search Capabilities",
-      "excerpt": "Tech Mahindra integrates Microsoft Azure OpenAI into its Enterprise Search offering, aiming to boost proficiency, productivity, and employee satisfaction through enhanced data accessibility and AI-driven capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388",
-      "originalUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-101399388,updatedat-1688133100045,width-1280,height-720,resizemode-75/101399388.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/tech-mahindra-leverages-microsoft-azure-openai-for-enhanced-enterprise-search-capabilities-article-101399388/amp",
-      "publishedDateTime": "2023-06-30T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
         "images": null,
         "publishers": null,
         "authors": null

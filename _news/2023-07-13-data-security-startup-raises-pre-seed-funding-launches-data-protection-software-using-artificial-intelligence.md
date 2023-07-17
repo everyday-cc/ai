@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33218847"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/07/12185443/SEI_163583017.jpg"
         width: 1350
         height: 900
+        isCached: true
+  - title: "AI startup raises funding to speed up number crunching in clinical trials"
+    excerpt: "The U.S. startup Readout AI has closed a pre-seed financing round to fuel the development of an artificial intelligence (AI)-based tool to speed up data analysis in clinical trials."
+    publishedDateTime: 2023-07-17T13:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/07/17/ai-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 36
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/ai-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials/16582599-1-eng-GB/AI-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials.jpg"
+        width: 1999
+        height: 1499
         isCached: true
 
 secured: "BjZf/mz1K/gjafCd+LystGtNdTfAoVPOKQ5RVnIw5SyM2CbeE33+cFElR2D/NxgKsH6BQyx5jFZiIXzpgxLHc8su7uyTU/BfCjN57wYq5uco74pZTabiaokjMve0VVEL2bkOg9CYVUEqMvb5/L0soxOaZQH1IXUklo9WNkyi2196bbsTHZD7l36yVfe5T3sTMFY+t+zbaa2Cdx7H+APGzIOu88knm2vJPLzOLlxrEUVa1sPlN/ouBralp6ZzD72oYCaT7c29yJUEUjHFZSelRcnTq0LeGAltbb6nX/sSP3gaSh4O3KKn4zvGTxHVXw2d44VJF54t+CrX3dOKhAiriEESvfpKWQdkgCYyQ4QfM/k=;rMGnNYIynhPaz7Djc4PoUw=="

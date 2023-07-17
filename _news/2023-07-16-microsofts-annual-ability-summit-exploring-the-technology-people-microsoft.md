@@ -81,6 +81,22 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
+    excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
+    publishedDateTime: 2023-07-17T15:07:00Z
+    webUrl: "https://www.benzinga.com/23/07/33251753/zuckerberg-and-musk-to-enter-the-ai-ring-and-challenge-openai-microsoft-and-google"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33251753"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33251753"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
+    images:
+      - url: "https://cdn.benzinga.com/files/girl-kickboxer.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "KPMG, Microsoft enter landmark agreement to put AI at forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across several business-critical areas including workforce"
     publishedDateTime: 2023-07-16T05:40:00Z
@@ -170,6 +186,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 29
+  - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
+    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
+    publishedDateTime: 2023-07-17T15:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-thetaray-earns-microsoft-cloud-solution-provider-status-/2023/07/17/9849169.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "qsdbWu0bVDA+RTfcJaeYZv0a1tzm9A/jeJzL2LnVz5CMK8IP7b0hi50EN1KHsoWnHi9JmtYw0OoZSTw0at5mTcE7mokNSP3fkOjndBmlhRMEd5brzmK/e/VDyhfMmHv7ObYrkz21ZtBGRHlCYuEnN1CrdqV7PI9UDa+XTaZ/4P+yL/lzsTjNmQJcUuXjApOYBtsoD5Rjd8vOVQdyol2bf/ovBKWyjrmckqxG1C1w+954eCfc5fmRYkj2XR5G6xXbLgTOA6/3qne30IglMgq5rt12z8PxXFj9weoXqXaNakMvXLnPqeEpQKXVMlgBdmiutyDDPR3sNkUeXXMIfTypFW0hy4BUD/2NeLy9cuMvKd4=;HUFRnSOU9Ylh+8MwiuNpWg=="
 ---

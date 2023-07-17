@@ -158,6 +158,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-17-developing-reliable-ai-tools-for-healthcare.md",
+      "title": "Developing reliable AI tools for healthcare",
+      "excerpt": "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. ",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
+      "originalUrl": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-the-next-frontier-for-large-language-models-is-biology.md",
       "title": "The Next Frontier For Large Language Models Is Biology",
       "excerpt": "AlphaFold was not built using large language models. It relies on an older bioinformatics construct called multiple sequence alignment (MSA), in which a protein’s sequence is compared to evolutionarily similar proteins in order to deduce its structure.",
@@ -1399,49 +1443,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-deepmind-co-founder-wants-the-new-turing-test-to-be-based-on-how-good-an-ai-is-at-getting-rich.md",
-      "title": "DeepMind Co-Founder Wants the ‘New Turing Test’ to Be Based on How Good an AI Is at Getting Rich",
-      "excerpt": "With artificial intelligence hype leaving venture capitalist firms foaming at the mouth, ready to buy into any new company that sticks an “A” and “I” in its name, we sure as hell need a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
-      "originalUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/06/21/7f93bbcb28942de51d929b39f7c7da7f.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/06/deepmind-co-founder-turing-test-ai/amp/",
-      "publishedDateTime": "2023-06-21T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

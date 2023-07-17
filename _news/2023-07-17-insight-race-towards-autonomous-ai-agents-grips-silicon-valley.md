@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-17T09:09:00Z
 originalUrl: "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/"
 webUrl: "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://www.reuters.com/resizer/I_m9gUSg6uTZa5qV4o8YNwmzPFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZK72INQPZIQ3N7ZMVCVJPJQJQ.jpg"
@@ -44,6 +45,6 @@ related:
         height: 533
         isCached: true
 
-secured: "aBZ7Am3T9BGWQEL3KtCvvhT4A+KV/RodfgrGj7Q3NSLnf7D4AnnmjCAPWtB6YUfs9uY4cLXz3/rPfSJF0d8BG1kNYzTPrAQMi1eoNhDQp1dOzwoH8j7/O7ZNl4CUtYGm+PCq+JmQzOiC3mETbNYM+r+gaiKyzyPOO2WXOjRWKIBdZzld98qudwvcts/piG3rctGer7oyJXTr0uuvLNiyh9XPesYpbNkWkkElcwCpT3IiGOzFcI17u4TxtZsKb4E+5Mi+1ffFk63WQsiUCYv78jvuGMQr5/OeezbOp4QER83W61Gnvj4PUiokRfD6YOUqeHN+MXS7QPGcS4evOyowcsbqITPWAmS1tUem5+A22q8=;6UDyudGhZeC8BdP4s5XapQ=="
+secured: "A3IIqxWD1v2Woo9HLDke88+gOIks5tuXt0aeUmbwzov7lYqZTCm22V4jiBvhZgooouqaSVnbI7WS9j93yKWZ4vi7dpKKpCap/5DjkfPBhixbpN62cvaTFVcHsXCoOtUnStkdoV01eC4DJtB0T8NbzA9o4Nq00rq+KaHb9DQlj1FetflTTn4IZznWTLsMoH7N3OOsqEKTepQt/ivAEWLCzk6dHCkXj4OIQLtBOIaNED/0xrdir3lIzpCwPNTsBGI3XYlsWYc1K4A2LSN2ungwtrKLYS86VgO0xXkfMV4t73hu5qEHkVDK6cnOG3q6+X5JCx8PNIQAMWx07e89N8LEtZhSHEWTEb7XMb3WcrhWu68eWVS/8VSNwpWiQMMjtlOLDCUQwYbsgej0uHLHVg/dXiePyVTrRtpMsSpFB8G8nF+lcG+csGuwIFB8CU5wGgu3qA3Tc63kroMJQETChmWhOBoQVwhYdoQcYPFqZ5w65ULURhQEA6irK77a4wxlru0TaBnr3YLjVFGcEJ8KDdgW1g==;wX1GbfgyS2xaOcVpxnIm7w=="
 ---
 

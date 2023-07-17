@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Developing reliable AI tools for healthcare"
+    excerpt: "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. "
+    publishedDateTime: 2023-07-17T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 86
   - title: "How Does the AI Bill of Rights Impact Healthcare?"
     excerpt: "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI."
     publishedDateTime: 2023-07-13T20:41:00Z
@@ -50,19 +59,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Google's healthcare AI on par with humans but not ready to see patients"
-    excerpt: "Google's AI-powered healthcare platform is as accurate as human providers, a new study shows. Mayo Clinic is testing Med-PaLM, but further evaluations are necessary but it's deployed in clinical settings."
-    publishedDateTime: 2023-07-12T21:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/googles-healthcare-ai-on-par-with-humans-but-not-ready-to-see-patients.html"
+  - title: "Opportunities and challenges for AI in healthcare"
+    excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
+    publishedDateTime: 2023-07-17T15:25:00Z
+    webUrl: "https://www.fieldfisher.com/en/insights/opportunities-and-challenges-for-ai-in-healthcare"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Fieldfisher
+      domain: fieldfisher.com
+    quality: 56
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "http://res-1.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/opportunities_and_challenges_for_ai_in_healthcare_bxxfqr"
+        width: 1080
+        height: 1080
         isCached: true
   - title: "Artificial intelligence can augment healthcare"
     excerpt: "Experts say generative artificial intelligence (AI) has the potential to revolutionise healthcare as a whole. It has the potential to improve patient"
@@ -78,20 +87,15 @@ related:
         width: 598
         height: 233
         isCached: true
-  - title: "Smartglasses in healthcare: why design matters"
-    excerpt: "Smartglasses have been used in the logistics sector for some time. Increasingly, their use in the healthcare sector is also being discussed. Unlike in logistics, however, healthcare professions depend on trusting interaction with patients."
-    publishedDateTime: 2023-07-13T11:14:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/smartglasses-healthcare-design.html"
+  - title: "Health Care Service Corp. using AI for prior authorization"
+    excerpt: "The parent of Blue Cross & Blue Shield of Illinois promises it will make the approval process for many procedures quicker and easier for both patients and providers."
+    publishedDateTime: 2023-07-13T18:03:00Z
+    webUrl: "https://www.modernhealthcare.com/insurance/health-care-service-corporation-hcsc-using-ai-prior-authorization"
     type: article
     provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 39
-    images:
-      - url: "https://healthcare-in-europe.com/media/story/28469/rect-01-smartglasses.jpg"
-        width: 400
-        height: 240
-        isCached: true
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
 
 secured: "ixya/xOcwZ5YcJtKK8d2PQE9wUXwpPkZcIbwTT0WhysUhH+wkfQxKCfZFvXe21hIPhd5OoPV43xKGXDLBdEVmCQ2FsKCcK2Wi0csAhUjSnNq3FHxc1JctzX/WXxqOnoP5CaUHhsgi8PkY5tvy9kKeUJWa3+0jflbrbxI0jGMGWT+KmH/Lb8lRatzhQS+hfpYU/JXqt7CqFO1F2fElsf7DAkBcY/cyIanx5i2MORIeke/D8lEHB/24at+1GvP8KBuopm95QTuguXnN/eyxACz+kctWPd3/28DmRc3Q21hznX4P6z4pKVvi56s7zghc+YwOXJqWEvOdZsgm0k3JnTcRgB7MTDCaY114nUkFnF/ql67pNbLSxWnFNwF8caJB6SPbj7d893XBHP4cyw1iaFfM8yfQ2/aL6S5yRcWgISf3x5zs0CAN8W7DhXvRsMRd8noZxFWYl/5S/ydpQPgk9Qx83BC95cKIHaYqknu+svbUAmujbNnSgvoGWAv1591utfPSgnshU3xNeZqqQOkzjmLmg==;cjhpOPa+7I6nRowQQxg+UA=="
 ---

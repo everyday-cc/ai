@@ -7,7 +7,7 @@ originalUrl: "https://koreajoongangdaily.joins.com/2023/07/16/business/industry/
 webUrl: "https://koreajoongangdaily.joins.com/2023/07/16/business/industry/Korea-Game-Changer-Morai/20230716060006448.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. to decide on GM request to deploy self-driving cars"
-    excerpt: "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls."
-    publishedDateTime: 2023-07-12T19:59:00Z
-    webUrl: "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107254059-1686311076798-gettyimages-1497020055-dsc02825_rsqpkpku.jpeg?v=1689198866"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "5 Best Self-Driving Car Stocks to Buy Today"
     excerpt: "Many investors are interested in investing in the best self-driving car stocks on the market. Way back in 1908, Ford released the Model T. And with it, the birth of the mass-produced automobile. Of course, many improvements and iterations have been made to ..."
     publishedDateTime: 2023-07-14T08:15:00Z
@@ -54,20 +38,6 @@ related:
       - url: "https://investmentu.com/wp-content/uploads/2022/01/best-self-driving-car-stocks.jpg"
         width: 730
         height: 467
-        isCached: true
-  - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
-    publishedDateTime: 2023-07-14T22:42:00Z
-    webUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 18
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/1600/1158000/0/1158031.jpg"
-        width: 1600
-        height: 1066
         isCached: true
 
 secured: "63zvAnCAWUTOOsMMDCpxCOzEgyY/fWWIbYnB9nvaf5uzCcbkuU8n7pRUwDJIopSxizW6y68wa2MInwkZdnr6TyfxNUV9X3bfzrgojueZ9rpqCNRPYndlvXrzhocmsmAsToDa6AYrtII4IOmu/MYk6qPT8Z+yP3Hbc6ptdDlHo4c7TBmmz/iNaIo44SxzUN4T/B14BhRdUF+Uzw9tnMgLuHYyPMvHG8RAorLXG1FzLMtvnz7ESSnwmBtl4YIxCcESSsO7jpziiiJI1olWOQAIQk+LBpf7mft5gSCKbOSj4oONxOaREYN9ftfm63U8JSy7YkyXKKLAQ3tE4XMeQMVcDO1IRold3ZDLAzNrPUrjJ3FhJXV20LqYoaoN3K9mAfIrCLwW3Xd1V0rSrYaQn8QdT9bl0VLPKWEC40+b2MSkSwyg3doTNrT3zlAdtd8XtfpwpHtzFeWBI9T06cOcEpocNcDpenX9ZVs6a8j5Yjfle/76rwpOYW1HS4hTh7Xmzi72g4keS9vxfk5LPrvM4gXu9A==;WTYvyQIHNIJvXXXXgGh/Pg=="

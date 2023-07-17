@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Chipotle testing avocado processing robot in test kitchen"
-    excerpt: "Chipotle tests Autocado, a cobotic avocado processing prototype, at the Chipotle Cultivate Center in Irvine, California."
-    publishedDateTime: 2023-07-12T20:21:00Z
-    webUrl: "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/07/Autocado-featured.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "Chipotle Gets Some Help in the Kitchen—a Robot"
     excerpt: "The fast-food company is developing a robot to help make the guacamole. It’s not alone. White Castle, McDonald’s, and Starbucks have similar projects. But it isn’t easy."
     publishedDateTime: 2023-07-14T23:15:00Z
@@ -58,22 +44,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 49
-  - title: "Chipotle Unveils ‘Autocado’ Robot Developed by Vebu That Peels and Cores Avocados for Guacamole"
-    excerpt: "Called \"Autocado,\" Chipotle unveiled Wednesday a new avocado processing collaborative robot (cobotic) that helps cut, core, and peel avocados before they are hand mashed to create its signature guacamole."
-    publishedDateTime: 2023-07-13T04:03:00Z
-    webUrl: "https://www.techtimes.com/articles/293731/20230713/chipotle-autocado-robot-vebu-peels-cores-avocados-guacamole.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293731/20230713/chipotle-autocado-robot-vebu-peels-cores-avocados-guacamole.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293731/20230713/chipotle-autocado-robot-vebu-peels-cores-avocados-guacamole.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 47
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431501/chipotle-unveils-autocado-robot-developed-by-vebu-that-peels-and-cores-avocados-for-guacamole.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Chipotle testing 'Autocado' robot to cut guac-making time in half"
     excerpt: "If Chipotle wasn't fast enough for you already, the popular restaurant chain is getting some help from a new robot. The company has teamed up with Vebu Labs to develop its new \"Autocado\" machine, which is estimated to cut guacamole prep time in half."
     publishedDateTime: 2023-07-13T15:27:00Z

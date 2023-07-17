@@ -2,6 +2,92 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-05-24-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
+      "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
+      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large language models. Nvidia’s AI Enterprise Suite aids in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
+      "originalUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence.md",
+      "title": "Fake image of explosion near Pentagon stirs concerns over artificial intelligence",
+      "excerpt": "A fabricated photo seems to show a fiery explosion near the Pentagon and went viral. Now experts say it was likely created by AI, fueling concerns about the technology’s use on social media. NBC News’ Hallie Jackson has more details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684882938191_nn_hja_ai_doctored_images_moves_markets_230523_1920x1080-5t44ym.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo176166981779",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo176166981779",
+      "publishedDateTime": "2023-05-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology.md",
       "title": "3 principles biometric vendors should embrace to promote trust in facial recognition technology",
       "excerpt": "Here's how vendors can contribute to more responsible and ethical use of facial recognition and other biometric tech and ensure privacy.",
@@ -1081,109 +1167,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-startups-outpace-others-in-securing-funding-from-vcs.md",
-      "title": "AI startups outpace others in securing funding from VCs",
-      "excerpt": "Sponsored Jobs Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More While fintech has enjoyed the largest stake of funding in recent years it seems to be losing its luster — in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
-      "originalUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
-      "publishedDateTime": "2023-05-23T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-hear-how-sensiai-is-building-ai-for-remote-patient-monitoring.md",
-      "title": "Hear how Sensi.AI is building AI for remote patient monitoring",
-      "excerpt": "Remotely monitoring patients without violating their privacy is a challenging task. But one co-founder believes that she's cracked the code.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/TCL-2023-05-24-featured-1920x1080-1.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/",
-      "publishedDateTime": "2023-05-23T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

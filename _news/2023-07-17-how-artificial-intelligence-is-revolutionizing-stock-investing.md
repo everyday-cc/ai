@@ -85,6 +85,20 @@ related:
         width: 363
         height: 250
         isCached: true
+  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
+    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
+    publishedDateTime: 2023-07-16T02:15:00Z
+    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Editorial: Profit-sharing and AI protection are the answers to the writers and actors strike"
     excerpt: "The solution that will bring back your favorite shows? Better profit-sharing, and when it comes to AI, humans should stand with other humans."
     publishedDateTime: 2023-07-16T10:00:00Z
@@ -109,6 +123,6 @@ related:
       domain: techbullion.com
     quality: 19
 
-secured: "UEmQsvFz0SXTmdSTSJTCYMNC+kfiF35xQzCBBYlLnBzIKvLf7OEoIXL2Ng2M53vJUBddvgjxlo4s6ttCWqmQlqcKc8kSb8A2GwOqhUV02qNZdLiFPTkeubcenZ8hwofNRBLnTCY12aiL1XzCPTPiw8cuZ9yyrWZOcl7a5qWmVyvFKG13vGDruk56QsLMOP0upSCRUC4c8FecrbhfinMDzUd14oY9ZXA8C2/Ce9giJgEGClFw4eiPZ2+omqsyXZ7k5JFDAJbo/59fhom/fFQGAXr5JSval3M55bHiX75uF39RJIUTR52D3wFa2ZNhi6hCbW8SRPDTqafBeeR6o3t30+Qo9C6WzkowW+SfI94i87U=;/4zNU2Z2pFGk1Y8SAbt2Yw=="
+secured: "4csGnjASteQyEaCz3NzkQyex+j0ONy/p9V6FaWh67wPJxs8XNRBV8dY8iBitHWd2dW6P+nm6X0md+n0TTsQpUiNnRgnFmFmSfDYB3TBvMBvJPf71X3abYCF9owQRfbY3Z3H3EiMeanhr/u8w+p4hazD7w2eXDvYxcIWqFffIeSS6TKLsEDwHiyxDkdBW9TCmMPeeb5rKzGSMiNe4EuVVVeY2gzecZK74JI/g8v9lcvSNh4ye4QySzymo2QcmEuuYrxb/GQK+ShAyZpxGn2sU7nqfq+Yq+sviOUS2JeAl4YRqTkCoduuIOBq3eqkKCoIAi0oRNzLr26ce/0vMER7dTMlb/7jvPu+VZ3GXXd4IwJkzi+F+V2jmpikKvWohrlYxOgyauMjiGhmpuu2t67yyq2IJk02pIpFVNz1avGmUVcfS888lDE6hnOKyhrdQRVHzX4/U0OqTOm41YpqyIKYzy+lyzKGiIu/CU/KrpPuHBj7P4M6Fx+Ss5mnYmSjvcRuWZKIRVFzRbb5543YBViDN4A==;ipA8moQKEy7yTk8rN2vJSQ=="
 ---
 

@@ -2,6 +2,93 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-05-26-a-call-for-safe-and-ethical-ai-artificial-intelligence-for-health.md",
+      "title": "A Call for Safe and Ethical AI (Artificial Intelligence) for Health",
+      "excerpt": "The World Health Organisation (WHO) urges caution while employing extensive language model tools (LLMs) produced by artificial intelligence (AI ... including LLMs, to support healthcare professionals, patients, researchers, and scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://countercurrents.org/2023/05/a-call-for-safe-and-ethical-ai-artificial-intelligence-for-health/",
+      "originalUrl": "https://countercurrents.org/2023/05/a-call-for-safe-and-ethical-ai-artificial-intelligence-for-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.countercurrents.org/wp-content/uploads/2023/05/artificial-intellingence-AI-Health-Doctor.jpg",
+          "width": 700,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Countercurrents",
+        "domain": "countercurrents.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-azure-communication-services-microsofts-powerful-tool-for-call-automation.md",
+      "title": "Azure Communication Services: Microsoft’s powerful tool for call automation",
+      "excerpt": "Microsoft's Azure Communication Services lets you build custom automated call centers. Learn more about this powerful tool with our article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/azure-communication-services-call-automation/",
+      "originalUrl": "https://www.techrepublic.com/article/azure-communication-services-call-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-a-new-antibiotic-discovered-with-artificial-intelligence-may-defeat-a-dangerous-superbug.md",
       "title": "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug",
       "excerpt": "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria. When they tested the antibiotic on the ...",
@@ -1085,111 +1172,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ibm-consulting-unveils-center-of-excellence-for-generative-ai.md",
-      "title": "IBM Consulting unveils Center of Excellence for generative AI",
-      "excerpt": "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T09:00:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack.md",
-      "title": "Get insights on your user’s search behavior from Amazon Kendra using an ML-powered serverless stack",
-      "excerpt": "Amazon Kendra is a highly accurate and intelligent search service that enables users to search unstructured and structured data using natural language processing (NLP) and advanced search algorithms. With Amazon Kendra, you can find relevant answers to your questions quickly, without sifting through",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/25/BDB2902-arch-01-1.png",
-          "width": 889,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:38:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

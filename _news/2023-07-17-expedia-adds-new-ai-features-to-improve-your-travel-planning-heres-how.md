@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/expedia-adds-new-ai-feature
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/"
 type: article
 quality: 86
-heat: 86
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "PpG3baLcT4BzWAzGyP30zuKVZ6afOx5HKroPqSEQOPHOrRedRtEqDwZja1fpCGPcqvA0Gtyo/DJtnYt1/LrAs7Eoz8T0F7+4/bFEqkt74IoPJ9htveqAOL4Z1sp4i4VTfU2mSvyKlSguVIu38D5uveu2ZrUZV5HIpHY0nYakuABcFkYB8YcoOcXIpj72ejVk5QevmtbBVwe7sRXBjwHBghRYFAXsaffoT39djpXWFj3haqxdNlG7ucVcXx1FWFXI7bAFGjGnRQ1pgyjO4lzu0yb9GoeT+MausV6y8WDbW33gbqsDAPeWhBk+KIXruwOEHtXMENG2g1aiQ/hcsSmeTxO/aGvg8dEgpbx+43JZJ0g=;XCFtLnQHDEAj9KEWFdtIOw=="
+secured: "n0IGxmwvQNSEXHI2FMjr1RvH+/IC2YBEZVLalTvCP3MGsDkQW5fd+pwEM2CDC2t5o29BLnN4GMFG0q+bZNc0gnwOZfVCpII8PY64m3KzMzhewxhewyaSliJL8TVool4ns6qQIhAO7lxA3ReLjbsgiWRhLazc1vV0n1Ptk8HaoYd1iuaOuKsYmcsSI84Ruv88ZPTAMhZbs9L7Yy55nLn3fREWvnUO7rAws9fKz1Uo5xcwmPHIFZEnk34V5urFAzIM5NNf6qce7g+1cM45E6Mi9dafvgAj8kf9urp6wH88BlkaT2u/tjzOngEih2mn2T8TN65rcQ/FPKL2sGHsKqfG+It+U3vuRriFZAz/OnAHfDQOhV1cYN9RyB26u2LxrmWBXnYX0/KayDKefyx4uOmAVRKd36s72Db1ZVrkYBc3DnInOEQQOASr15QdwNGElQWLKScPbA1A2fV566AJWPWSsLLtHth8Itl2ni3zG1pHhNMGDNMupBe1sw+JnOPDW9+/8md6W6I1q7wqHByrbHQ6Fg==;bHCYNxCJhSSoOZFzHXTOBA=="
 ---
 

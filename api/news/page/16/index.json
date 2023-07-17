@@ -2,6 +2,109 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-07-05-the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds.md",
+      "title": "The Future Of Home Decor Is Here: AI-Designed Drapes And Blinds",
+      "excerpt": "A new AI service called FabricGenie lets you create bespoke drapes, blinds or fabrics using text descriptions or images of your home",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/",
+      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a530df27a674dc03d23645/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/05/the-future-of-home-decor-is-here-ai-designed-drapes-and-blinds/amp/",
+      "publishedDateTime": "2023-07-05T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-05-unlocking-the-ai-powered-opportunity-in-the-uk.md",
+      "title": "Unlocking the AI-powered opportunity in the UK",
+      "excerpt": "AI is the most profound technology that humanity is working on today. It’s a critical part of solving big societal challenges and helping to make our everyday lives bett…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
+      "originalUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-dots_1.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/unlocking-the-ai-powered-opportunity-in-the-uk/amp/",
+      "publishedDateTime": "2023-07-05T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-05-ahead-of-ai-this-other-technology-wave-is-sweeping-in-fast.md",
       "title": "Ahead of AI, this other technology wave is sweeping in fast",
       "excerpt": "It's all around us, and keeps proliferating unabated -- in sensors, trackers, production machines, appliances, wearables, vehicles, and buildings. Welcome to the edge, which is likely to shape and shift our jobs and businesses before AI makes its mark. Many of the devices and products seen here at ZDNET represent the edge wave.",
@@ -433,20 +536,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-04T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1091,100 +1185,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-artificial-intelligence-could-change-outlook-of-education-in-the-near-future.md",
-      "title": "Artificial Intelligence could change outlook of education in the near future",
-      "excerpt": "It may not be long before schools and education as a whole change the way of learning due to recent advances in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "originalUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/OTtXcWqzkFBkso3YLO3pO1TUI7U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DUPMDHIGTFGE3GEHQIE2AGV3BA.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2023/07/03/artificial-intelligence-could-change-outlook-education-near-future/?outputType=amp",
-      "publishedDateTime": "2023-07-03T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wbng",
-        "domain": "wbng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-data-scientists-describe-the-arduous-ai-powered-task-of-getting-amazons-alexa-to-speak-in-an-irish-lilt.md",
-      "title": "Data scientists describe the arduous, AI-powered task of getting Amazon's Alexa to speak in an Irish lilt",
-      "excerpt": "Two data scientists told The New York Times that text-to-speech AI models helped them overcome the difficulty of creating Irish Alexa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "originalUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64a36df34cc8540019cb52b0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-scientists-use-ai-create-irish-accent-amazons-alexa-2023-7?amp",
-      "publishedDateTime": "2023-07-03T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

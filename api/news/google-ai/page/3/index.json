@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-31-google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots.md",
+      "title": "Google DeepMind introduces Barkour, a benchmark for quadrupedal robots",
+      "excerpt": "The team at DeepMind issued a research paper outlining a potential benchmarking system to quantify the performance of quadrupedal robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/",
+      "originalUrl": "https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-30-at-3.04.22-PM.jpg?resize=1200,678",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/amp/",
+      "publishedDateTime": "2023-05-30T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter.md",
       "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
       "excerpt": "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity.",
@@ -1363,58 +1415,6 @@
       "ampWebUrl": "https://blog.google/products/maps/google-maps-updates-io-2023/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-updates-io-2023/amp/",
       "publishedDateTime": "2023-05-10T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-turn-ideas-into-music-with-musiclm.md",
-      "title": "Turn ideas into music with MusicLM",
-      "excerpt": "Starting today, you can sign up to try MusicLM, a new experimental AI tool that can turn your text descriptions into music.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
-      "originalUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Music_Kitchen_800x418_2.width-1300.jpg",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
-      "publishedDateTime": "2023-05-10T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

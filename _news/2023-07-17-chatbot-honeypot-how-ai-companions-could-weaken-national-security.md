@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "These are my 4 favorite AI chatbot apps for Android"
+    excerpt: "While there's no official ChatGPT app for Android yet, there are some handy alternatives. Here are the four I reach for and what you can do with them."
+    publishedDateTime: 2023-07-17T14:21:00Z
+    webUrl: "https://www.zdnet.com/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/78f3d18eb01df4a0662ef95b26a05c8fb8fef589/2023/07/17/119cb6c4-624b-414a-bc52-86866fd6a8ae/gettyimages-1258475356.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google tests its new AI medical chatbot at Mayo Clinic"
     excerpt: "If a current Google test goes well, your next hospital visit might involve a little assistance from artificial intelligence (AI). According to recent reports, Google has been using its Med-PaLM-2 chatbot at the Mayo Clinic since April."
     publishedDateTime: 2023-07-13T07:37:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/be693b341c663a1ecd39552f641f931b5ce02e84/2023/07/12/6e44cc52-e730-4f9f-8352-7defa46b1116/gettyimages-1210454294.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "China takes major step in regulating generative AI services like ChatGPT"
-    excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."
-    publishedDateTime: 2023-07-14T08:03:00Z
-    webUrl: "https://www.cnn.com/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/china-ai-regulation-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 86
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230714011428-china-generative-ai-regulation-intl-hnk.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
         isCached: true
   - title: "New AI chatbot Claude 2 brings ethics to artificial intelligence"
     excerpt: "How do you keep an AI chatbot on the straight and narrow? By using another AI to police its answers. That is the model behind a rival to ChatGPT that was releas"
@@ -528,6 +528,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "fdbHBullrQ/enNGV0E0+8YjHkGvv6KMB6Kyw4LaMHNQAzj4VolN5Ocxkp6rLwDMB8nsPNN1XVM+SDZzmEuJ8glBihhz51C3IMLjbruJhLKwSq1gS30LgqIoMAFa1r1mpXny9T8veHPr7h3SDi+LtlhmFbE11JwtbuHjV6g4ZCCyHde9/f0m5J3waRWUSHiVPA4P5ulDMnUZ/M6PuULnS6HVXNWagMTLIoan31Su02nCkLcg6qkSimPzYK+mhDvTgwR1qgDjqE57xLNT/6veS3LR35NlRWBwmkmbr6iy5VMuAzuR/5ek2I7kbJlAZ6lA1F+Lh6+LW1EQjAcUa3gftCitQmaFTZdXVqr58GA24lmw=;5Cr2ossQrKTztrcxbbQd6w=="
+secured: "V9jGJvG3nSDRxjSoQkXuG+N7CgQTY9j1/mzRAeBfWsFCzniOUWhzhX6hWeVt4v8Zimuhvo1T/qSaSUHXl5EiUn9G+iVLuVpaJ2ar6aq9sxtMFBRhY8NrZQZHiFYkEG6AppkXLcRJgO/bMNjt7GlPamtgMNlFGxIRuX03dDeCL95Cn2o6YSmTDOqfyLRcN2UzdeP4qYhQw145VzsIfWmz+mCvNhsEIVPLrvvKrEI8i+gcQUJjq5i2uIozCQnqxst9j6f9J/W/SwCmRFpZS8er0gO0icVjdQmG372akxeuHibSbl79KmBTs0J5viV3q4AxmpCczW/kysGzI0nP7uAkw4s8Tr7ppjhFtfVIAzX35gcpCeir2SE8MaQQBvMC+X0dnpEnJu61cFYHaasT3dzxkxwM7okJhv9Kht8syktP0sLWMezd/92d+9kJjwi02AQipPDd8FIBDLb1R+9WpSzaiZ8dhE2/JIxcKprMQaaahQTJ4vK99yODuuWT6U2vxHt0Lz0ytEP46UdtRQY97EISRw==;3Q44n1rhIehUs4tiQWDLMA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "The Future of AI Is War"
+    excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
+    publishedDateTime: 2023-07-17T14:53:00Z
+    webUrl: "https://www.thenation.com/article/world/artificial-intelligence-us-military/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 39
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "OA5xgbpqMBlZh79+TBC7vRcTrC+KY51W53jIfJcl976jHoKrskNpfvpSe/lmH8Ysm2SmRxrRShIuRZaIM57SNoPzt03qewwDmgKxKn4JuA+bSG3R8XfRpC+lesUXhl22h3PiMwVmmUPYV17LWpO2ZIMaJmoIrJItzurMlAu6Wst42zBNNgFXLeBDO+SEQBfe0LWmvz8/gr2a7jug2ImDFQB9Isd/iB5UUKKmUKG7NOtZrz1XQK4kqHsI4xuoq3K/xQccUsj5dsOUYYohIib2iTrEXwTWQ7tEVlL7yqXBzD5Par4lzq2qX138wyxaMD3JsMCE4VnUZBU+q5LQarm7I/mchhDsOyODULrMO0iXPOo=;2hCL71V94INRIcsmSMaFlg=="

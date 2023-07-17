@@ -10,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1202,20 +1202,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1139930421076092946202235115251316877702---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/musk-predicts-tesla-self-driving-cars-later-this-year-c7a747f9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-04T17:01:00-07:00",
       "updatedDateTime": null,
       "provider": {

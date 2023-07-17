@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tec
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
 type: article
 quality: 90
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2023/07/GettyImages-913588342.jpg"
         width: 724
         height: 483
+        isCached: true
+  - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
+    excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
+    publishedDateTime: 2023-07-17T15:07:00Z
+    webUrl: "https://www.benzinga.com/23/07/33251753/zuckerberg-and-musk-to-enter-the-ai-ring-and-challenge-openai-microsoft-and-google"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33251753"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33251753"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 70
+    images:
+      - url: "https://cdn.benzinga.com/files/girl-kickboxer.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "KPMG, Microsoft enter landmark agreement to put AI at forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across several business-critical areas including workforce"
@@ -166,6 +182,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 29
+  - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
+    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
+    publishedDateTime: 2023-07-17T15:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-thetaray-earns-microsoft-cloud-solution-provider-status-/2023/07/17/9849169.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
     excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
     publishedDateTime: 2023-07-15T17:21:00Z

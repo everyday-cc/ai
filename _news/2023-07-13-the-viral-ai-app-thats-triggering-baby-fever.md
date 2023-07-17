@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/want-to-see-your-future-babies-this-v
 webUrl: "https://www.wsj.com/articles/want-to-see-your-future-babies-this-viral-app-can-show-you-f4f65bdd"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -28,15 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "A look at the Pentagon buying strategy for artificial intelligence"
-    excerpt: "The Defense Department has been steadily developing artificial intelligence capabilities. But how should it go about purchasing AI tools? To get some ideas, the Government Accountability"
-    publishedDateTime: 2023-07-12T19:32:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/a-look-at-the-pentagon-buying-strategy-for-artificial-intelligence/"
+  - title: "The AI boom is screwing over Gen Z"
+    excerpt: "ChatGPT is commandeering the tasks that young employees rely on to advance their careers. That's going to crush Gen Z's career path."
+    publishedDateTime: 2023-07-17T09:26:00Z
+    webUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/64b03b8fc22d1a0019455239?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Is AI Taking Over?"
+    excerpt: "A leading scientist argues that human beings are soon going to be eclipsed. The crux of the human mind is not intelligence but self-reflection, which often involves inner dialogue. A (G)I is passing the Turing test; we should turn to the Hamlet test: Can A (G)I originate a soliloquy?"
+    publishedDateTime: 2023-07-15T00:15:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/double-edged/202307/is-ai-taking-over"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/double-edged/202307/is-ai-taking-over?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/double-edged/202307/is-ai-taking-over?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/connection-g3ed302e2f_1280.jpg?itok=mH6-aM80"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "J9d4OWsJ4/wVTrItRrD8K3nM1og18VWxGljm6/YlmFk12G3WsixlhUQEiFlhr+I9BSosfbiIhIDlb9lCbqE197gCJrAg2V96t468QYgrRBUgRy+F6eC2zgIf7TKhEKZmLAQ+zh71CtCB4hlvDnllxsk9zZuVwwJ/uGo6eErhpWMd1BMRyC2sjBpMSK6UDos3WfTFJTfALg9+5hEBcwZ/sVzhtLWNEgudJmTtTurQ2VsNo/bjHOAuC+bFSbK54ZfCA5DljPC/f5IE20BmDF6h5EzukKX21ycao4qh0ob1Uen35C5kgq4EA9w+plC3yGf91FyJ6PHSvCHGIAnYZ81D91CSEJvbJxxIvEBfYU4uIlMwXhBjp0QAESY0R2Kybifb5B9QxzfXC0On77x/Zpdx2wTQv5u3aR9RjRrAfBJ98PsYLdWU7HBvxBLwmEMvhqLhtQOm6BBX6jdeEjy2L2ufe+MCT04JqcvQoNejLMgDAPoN4NaDVUmEDi+Sbx9oYl0jy1NySBZkDaCPyv4fkijUyA==;2akgWPl4TFPZl4xjFpmtgw=="
 ---

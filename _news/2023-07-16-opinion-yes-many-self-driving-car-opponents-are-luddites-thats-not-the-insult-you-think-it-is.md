@@ -41,6 +41,20 @@ related:
         width: 1465
         height: 915
         isCached: true
+  - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
+    publishedDateTime: 2023-07-14T22:42:00Z
+    webUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 18
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1158000/0/1158031.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
 
 secured: "Gs7BNG2w6D4JW+v8w+rgex+xRkRUH2KxJWs6sr15QIet8+RqD79E01VlDqlE0gD3HtHEr0caIRrA3Nwkd/aQIQX8ZMb0d48R1HDAM7IPbjIZE/TJGxDlZqFsuIvxBtNKm2xxx+NQm96DzqaP0nlgIciuheQLodc8ozP7L6FphhpcUwSPDEjQ4lBd1UkBvrrZoSVwSZnyWaJ9e1QByakrDHiH8XYZs1NpdyZuYlnxnKjD4aXQ/UQR1F3FoeLATeix1wTeMvgT0/jNrDfSNhXYLYyQNBSS1mwrT+zTCRXLGoEbQiKC18X5Lfse9d57Snf33Ya+3369mZUuyfaJ/L0KYITITbH2t6bGZFP5uPBmqBK3ROTT/TdA7uzOIewHFZltAFb1QSQVJG0gfxkcrHECMX21TAcFN6W9omifoKTItzxNBdkIlp+7cKqf6iFk/SvoGtNpLPs23BuPgZoO2m36SoE4Pr/cJ3hz9Ec+Wqiqe+ENap63Vfapo414/AxWtTWY5k3WnS9xA9Yt9+TIEGc1WQ==;zdryiU1TfKKFo2VPkejdVA=="
 ---

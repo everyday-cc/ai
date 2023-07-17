@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-16-ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential.md",
+      "title": "AI Appreciation Day: Startup CEOs on technogly's giant leap and potential",
+      "excerpt": "AI Appreciation Day is celebrated on July 16 annually to acknowledge its contribution to humanity and the significant role it plays in companies' prog",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-101798045/101798045.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "publishedDateTime": "2023-07-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-the-eu-urges-the-us-to-join-the-fight-to-regulate-ai.md",
+      "title": "The EU Urges the US to Join the Fight to Regulate AI",
+      "excerpt": "On his way to meeting US officials, the EU’s justice chief, Didier Reynders, tells WIRED the US must deliver on talk of tighter regulation on tech: “Enforcement is of the essence.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
+      "originalUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64b1c5e9e416fd283a85c576/191:100/w_1280,c_limit/Didier-Reynders-US-Tech-Regulation-Business-1258532578.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results.md",
+      "title": "3 ways AI is already transcending hype and delivering tangible results",
+      "excerpt": "Tailored recommendations and improved security are just two of the ways AI is already transforming business and society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "originalUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_leading_a_business_meeting._Colorful_futuristic_dbf87c4f-2578-4163-9e44-6f53b705e2ac.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-turn-ai-art-into-amazing-poster-prints.md",
       "title": "Turn AI Art Into Amazing Poster Prints",
       "excerpt": "Want to print your AI art creations? Here's how to enlarge AI-generated images so you can print them at any size you like and retain perfect image quality",
@@ -301,21 +447,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-15-enterprises-are-not-going-to-miss-the-fourth-wave-of-ai.md",
-      "title": "Enterprises Are Not Going To Miss The Fourth Wave Of AI",
-      "excerpt": "IBM announced its Watsonx software development stack back in May, and today it is starting to ship it to customers. We wanted to know exactly what the heck it is. And so we reached out to Sriram Raghavan,",
+      "path": "_news/2023-07-15-chipotle-gets-some-help-in-the-kitchena-robot.md",
+      "title": "Chipotle Gets Some Help in the Kitchen—a Robot",
+      "excerpt": "The fast-food company is developing a robot to help make the guacamole. It’s not alone. White Castle, McDonald’s, and Starbucks have similar projects. But it isn’t easy.",
       "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/",
-      "originalUrl": "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/",
+      "webUrl": "https://www.barrons.com/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
+      "originalUrl": "https://www.barrons.com/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://www.nextplatform.com/wp-content/uploads/2023/07/ibm-watsonx-logo-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
+          "url": "https://images.barrons.com/im-817005/social",
+          "width": 1279,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -323,13 +469,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/14/enterprises-are-not-going-to-miss-the-fourth-wave-of-ai/amp/",
-      "publishedDateTime": "2023-07-14T13:17:00-07:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
+      "publishedDateTime": "2023-07-14T16:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -339,9 +485,61 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws.md",
+      "title": "Another player heats up generative AI race as China introduces interim laws",
+      "excerpt": "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "originalUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "publishedDateTime": "2023-07-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI",
-        "IBM AI"
+        "Facebook AI"
       ]
     },
     {
@@ -353,7 +551,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -538,7 +736,7 @@
       "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/07/14/kamala-harris-struggles-with-aiand-so-do-older-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -589,7 +787,7 @@
       "originalUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -984,58 +1182,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-the-new-high-paying-jobs-in-generative-ai.md",
-      "title": "The new high-paying jobs in generative AI",
-      "excerpt": "The push to adopt generative AI in the cloud will lead to new roles and needed skills, and enterprises will likely pay top dollar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/jobs-sign_interview_job-search_now-hiring-100774984-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html",
-      "publishedDateTime": "2023-07-14T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
       "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
       "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
@@ -1085,144 +1231,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-microsoft-semantic-kernel-will-support-openai-plugins.md",
-      "title": "Microsoft Semantic Kernel will support OpenAI plugins",
-      "excerpt": "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
-      "originalUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
-      "publishedDateTime": "2023-07-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means.md",
-      "title": "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?",
-      "excerpt": "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/apple-vision-pro-dram-chip-1689315790.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "publishedDateTime": "2023-07-13T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-ai-can-help-blind-community-experience-world-in-new-ways-will-lead-to-quality-of-life-changes.md",
-      "title": "AI can help blind community experience world in new ways: 'will lead to quality of life changes'",
-      "excerpt": "A representative from the National Federation of the Blind argued that the greatest obstacle the blind community faces is attitudes and assumptions the general public make of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
-      "originalUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
-      "publishedDateTime": "2023-07-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

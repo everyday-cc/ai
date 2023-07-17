@@ -24,6 +24,17 @@ images:
     height: 1233
     isCached: true
 
+related:
+  - title: "Climax Foods Gains Competitive Edge in Sustainable Foods Market through Machine Learning with Benchling"
+    excerpt: "Climax Foods, Inc., a food-tech company using data science and machine intelligence to create animal-free products from plants, has gained a competitive edge in the next-generation foods space by embracing data science and relying on Benchling as its central source of truth for R&D data,"
+    publishedDateTime: 2023-07-17T13:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/17/9849063.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+
 secured: "9ANxlZ1RD5au6tggEw/+K+6ZaXWhJizmtbctSXKRxUFuydkI/mcx/v28YEFdFk+JY42Ijl1oOWGH/xII2ClWBraCUi6gDXuHcL9A+lZgjZxObF4ONBtSrwnzn0f9oM306szvqIBoc4llH1dFNyDqOvSWRWzfB/632YUUUt0+DvmDvcJ8VXrPIyCH3xaYsrBvfgoEIO9K2cN3SIQ2VxuxD0NF9vpayNwXv0KFoNZ4Q7k5ULtCq8bh9B0iHW3BWYTvAcIkjbO845JBOGn1d+Ed6A2Rbg3byTOZIi/+XCFYRHCztWLo1gs12CXvni0u1fzZ87CMaWVdB2EnY9DcRnQmrd3qzcwTwI+8umVupQpuQ+sSzpVlaQLiveVpq05D3qgY9x4F8x8i5doEhvspqDm4jGZxQhCjAWi/znjabXi5vnnbtCksKMM0lp8cMtTgZKnrdYV9AhbeXdqW1PJcLNL0AjISDGTTgkN6uj2xfcpjBFx4XDqmjWtJF9ntPVITgDf4+B1jTqiebCxnbi06vX0Zig==;RubhQWA5NRavz6saPaQgOA=="
 ---
 

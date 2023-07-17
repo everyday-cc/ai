@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google NotebookLM AI notebook launches"
+    excerpt: "Google, in its ongoing quest to amplify learning through advanced technology, unveiled a selection of AI first experiments at this year's Google I/O"
+    publishedDateTime: 2023-07-14T11:50:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-notebooklm-ai-notebook/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "JMjbbT/36w8FmWX/8AV7XSfOmQNvRLmcr72XET2vS2d8dfrbCXwhLOFlS1f40VtUlQhUrpS581s6Hx5EwPTTyRCQ1WtBNGegrqlodwZiht55nE4bCFKRKIvtuzKEJJ4AT2ofoKsAkKG79YzDxLNAEwTBX/E/7+mMaETZUoRdrYd7WcQ3Z5Pkgbgbm1kWDbqVwjpHa5lDyNLey3QRtkI9RCwzGgeYcyscZb++Cge8P9F6M293NRh1PDxZSwhNGFlognl75ASwsGq76shC3mrI1P3Y/JyMZ8jfm1FfkPsmwI0rzKHNl20EI/N7vIw2OjBdZjcP3etbF3kVluGYrGi/gdmg3joPiIxToobIg0Eaysk=;5YWTzSL48eF+XouxJTluMQ=="
 ---

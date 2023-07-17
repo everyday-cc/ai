@@ -68,6 +68,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Speaking out: opposing camps state their reasons for and against an Indigenous voice to parliament"
+    excerpt: "Australians will be told the ­Indigenous voice to parliament is a “leap into the unknown” when they receive the official No pamphlet in the mail, while the Yes ­brochure promises constitutional recognition with concrete results,"
+    publishedDateTime: 2023-07-17T14:45:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/speaking-out-opposing-camps-state-their-reasons-for-and-against-an-indigenous-voice-to-parliament/news-story/e73c3cc7eee2d90a249423d3452d09f7"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 5
   - title: "Long journey to spread ‘facts’ on Indigenous voice to parliament"
     excerpt: "The true story behind the voice to parliament – and the reasons why Aboriginal and Torres Strait Islander people are asking fellow Australians to put it in the Constitution – is not well known, according to the campaign of architects of the Uluru Statement."
     publishedDateTime: 2023-07-14T09:41:00Z

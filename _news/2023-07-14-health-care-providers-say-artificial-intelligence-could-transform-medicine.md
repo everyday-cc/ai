@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 Ways AI will Transform Work Life for Everyone"
+    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
+    publishedDateTime: 2023-07-13T13:48:00Z
+    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
+    type: article
+    provider:
+      name: ph-creative.com
+      domain: ph-creative.com
+    quality: 41
+    images:
+      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare execs should plan ahead for safe use of generative AI, McKinsey says"
     excerpt: "Generative artificial intelligence could lessen providers’ documentation workloads and more easily connect beneficiaries with their health plans, according to the consultancy."
     publishedDateTime: 2023-07-13T18:45:00Z
@@ -36,15 +50,6 @@ related:
       name: Healthcare Dive
       domain: healthcaredive.com
     quality: 30
-  - title: "Health Care Service Corp. using AI for prior authorization"
-    excerpt: "The parent of Blue Cross & Blue Shield of Illinois promises it will make the approval process for many procedures quicker and easier for both patients and providers."
-    publishedDateTime: 2023-07-13T18:03:00Z
-    webUrl: "https://www.modernhealthcare.com/insurance/health-care-service-corporation-hcsc-using-ai-prior-authorization"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "BM5IDkhC7Ngs36kvNdPs2MeUg1OkvBWwZ1YpE8YPxnIsjykNPsqZQ7DUD7hVwqmWEWiRGSxLlmu6B8lfwnV7n+PXXh1dyv8OMKKGgskm8J3VVo8NQZ7SqHZj4fsaPDn8a3G/AsFz1Q9viWfppqBuLjlhT4SV9VZBVABP1wPdzQNlUxzX+olEXT9hWFrLhO9ID9jphDJIrBA3ENvDro//LREjHwiOj4VxPNL8nGhylUp6BPXZxaSdHrP8JshFRxMbru1YUHslncRV3BeUOIYxoLacTMO1+5w1HUNRsYmqW6p6uhfZ/WnM4WcU4K3jhp5qVyFJ1v3zy/GyMpAWU4nBPGvyjK5qOhHNLyxUo0jsk0/WxJQNy3Dwl8evrUiiQ3cyHJk7Y8H2mE/tdNprTpc35LxWSOYhLDGfPaPg5/8uXJX2TvbUgfKnAXDFvDHOz8yZva00p9kdSb46z/V9J54u2KAaqp58SF9cDFFbhqyqnWU/H+MmOuRLUWQdNIAsk3LPeePxEKxlhxw9WZkdbkjgtA==;5jm+DsP0LR29I536zH9qhQ=="
 ---

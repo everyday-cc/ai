@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Feds Rallying For More Self-Driving Cars While Public Fight Back With Street Cones"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) is proposing an alternative regulatory route to accelerate the development of autonomous driving. The \"AV STEP\" allows companies to deploy more self-driving vehicles,"
+    publishedDateTime: 2023-07-14T22:42:00Z
+    webUrl: "https://carbuzz.com/news/feds-rallying-for-more-self-driving-cars-while-public-fight-back-with-street-cones"
+    type: article
+    provider:
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 18
+    images:
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1158000/0/1158031.jpg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Opinion: Yes, many self-driving car opponents are Luddites. That's not the insult you think it is"
     excerpt: "The Luddite label is apt - and maybe wouldn't be thought of as a derogatory gotcha if people had a better sense of what the actual Luddites were about."
     publishedDateTime: 2023-07-16T04:00:00Z

@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-17-diagnostic-robotics-ai-advances-predictive-personalized-medicine.md",
+      "title": "Diagnostic Robotics AI Advances Predictive, Personalized Medicine",
+      "excerpt": "Startup Diagnostics Robotics is making steady progress towards a more predictive, personalized, even personal practice of healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b54b7467fcc06271e9bcff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/",
+      "publishedDateTime": "2023-07-17T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-insight-race-towards-autonomous-ai-agents-grips-silicon-valley.md",
+      "title": "Insight: Race towards 'autonomous' AI agents grips Silicon Valley",
+      "excerpt": "Around a decade after virtual assistants like Siri and Alexa burst onto the scene, a new wave of AI helpers with greater autonomy is raising the stakes, powered by the latest version of the technology behind ChatGPT and its rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
+      "originalUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/I_m9gUSg6uTZa5qV4o8YNwmzPFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZK72INQPZIQ3N7ZMVCVJPJQJQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-how-can-humans-best-use-ai.md",
       "title": "How Can Humans Best Use AI?",
       "excerpt": "The relationship between humans and animals is a useful framework for how we might use AI in a constructive way.",
@@ -54,6 +159,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-15-chipotle-gets-some-help-in-the-kitchena-robot.md",
+      "title": "Chipotle Gets Some Help in the Kitchen—a Robot",
+      "excerpt": "The fast-food company is developing a robot to help make the guacamole. It’s not alone. White Castle, McDonald’s, and Starbucks have similar projects. But it isn’t easy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
+      "originalUrl": "https://www.barrons.com/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-817005/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
+      "publishedDateTime": "2023-07-14T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
       "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
       "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
@@ -62,7 +210,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -140,49 +288,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-amd-and-massrobotics-announce-winners-of-the-amd-robotics-innovation-challenge.md",
-      "title": "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge",
-      "excerpt": "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/215a71e9-f4f9-4721-b6c3-5aee79b092a8/Robot-award-news-Massrobotics-July-13-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -341,7 +446,7 @@
       "originalUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -373,59 +478,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-will-ai-impact-the-future-of-your-work.md",
-      "title": "How Will AI Impact the Future of Your Work?",
-      "excerpt": "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -789,6 +841,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
+      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "publishedDateTime": "2023-07-10T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1303,92 +1399,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-robots-say-they-have-no-plans-to-steal-peoples-jobs.md",
-      "title": "AI robots say they have no plans to steal people’s jobs",
-      "excerpt": "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an",
-      "sourceUrl": null,
-      "webUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "originalUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LADbible",
-        "domain": "ladbible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-industrial-robotics-australia.md",
-      "title": "AI Industrial Robotics - Australia",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$138.30m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.79%, resulting in a market volume of US$ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

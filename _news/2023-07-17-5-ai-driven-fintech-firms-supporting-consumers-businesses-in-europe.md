@@ -55,15 +55,6 @@ related:
         width: 720
         height: 340
         isCached: true
-  - title: "Why These 7 Stocks Are the Best Ways to Play Fintech Right Now"
-    excerpt: "Thomas Niel, contributor for InvestorPlace.com, has been writing single-stock analysis for web-based publications since 2016. The post Why These 7 Stocks Are the Best Ways to Play Fintech Right Now appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-12T20:27:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-these-7-stocks-are-the-best-ways-to-play-fintech-right-now"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
     excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
     publishedDateTime: 2023-07-14T17:46:00Z
@@ -74,6 +65,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "4w3L5xo3EPex5UShAM3dqTt3tgyQpmN9Rp77CJPydN2rZWO9hm9RHbeviP5okIXz6mOxe8A4intMTupwLmG633Vep9XL/O5PBd7qC8JcsaFNOAyUdsZ5G4ELw6nY4deyC35mfx4TJ8neEceZnTxZDleB/Sk2bWIlH5ZpApKPR7veDF46UiuuW9wPyuaRd5MdSQv/XttwNuko1yKYI7bX1aC3WmVRBG5OpTMQp5r4maF61KAG/DsDdQVx1WLRA1IRXt0VTlDkjsXMBQbiqwcGYoIrdr5zCYHkOyJHzSf3VCGbpRIBGu0FDybtkUfGCxXT0A/UpLC7Coz/seKzC9dCu0NsApEgqpCIzgHI/3PbJnE=;p0DHFp7PrKIxdoomGLdCcA=="
+secured: "pnYZlUhr6hLFsxmxc7y9fhWp7CPZfQjROsCPgoxIsAUFDrWLo0xI9vWUQ49Ul/VOvV+yjFGRweMG0bvcKsoYMItqxkvVSpi8NLKj7aQDw4png04UuVVEnH+KPBI7gKrHx+fvX0EMKTzFMD+RdXCZGpLGjMLrIpsM/cl8/jfXKiWOFTnzCLEAjeNX+vb484UKEJFoTlaLqrk2kXItuVyKXq7Rf0cehxJjQmEYKHMlc5TcJvd6q1DZijrlaXvB5MNNg62kXcbhVKbNtzIFDn++aRZ6FRMqrl/0bWPtAeyPNFz3YHAZ6KGxvDIOl8VPYMJ1qShaTZVgNEqH4EeTR7Pl5Mboq1trzS8u/uFTFtGLcN5qVvvAp4fGnJ9kgi0gxFzN5pas8IUztp62y/XmG+M441T+/UZ7z24OBh82BVcntotEv2+Ezba+5PmNfqPJwC+GoJequRY6ULdEcUu9Y3+ak03f7tkxCpOfOjgf8dUsE6EicI5yil5YNEV1GzxyqWMNDks2AkrX9uleJeLqg/YGIg==;CTkcYxgN7vUotvikNosufQ=="
 ---
 

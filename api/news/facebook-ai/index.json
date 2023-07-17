@@ -54,6 +54,59 @@
       ]
     },
     {
+      "path": "_news/2023-07-15-another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws.md",
+      "title": "Another player heats up generative AI race as China introduces interim laws",
+      "excerpt": "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "originalUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
+      "publishedDateTime": "2023-07-14T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-a-top-ai-expert-says-the-technology-is-still-in-its-very-early-phase-were-only-at-the-iphone-2g-3g-point.md",
       "title": "A top AI expert says the technology is still in its very early phase: 'We're only at the iPhone 2G, 3G point.'",
       "excerpt": "Stability AI's CEO, Emad Mostaque, said during a roundtable discussion that he believed the real force of AI would be felt next year.",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -158,6 +211,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-14-elon-musk-launches-artificial-intelligence-company-xai-what-to-know.md",
+      "title": "Elon Musk Launches Artificial Intelligence Company xAI: What to Know",
+      "excerpt": "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/",
+      "originalUrl": "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
       "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
       "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
@@ -166,7 +262,7 @@
       "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -207,59 +303,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-will-ai-impact-the-future-of-your-work.md",
-      "title": "How Will AI Impact the Future of Your Work?",
-      "excerpt": "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1447,58 +1490,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-25-the-ai-revolution-is-here-why-you-should-buy-amazon-stock.md",
-      "title": "The AI Revolution Is Here: Why You Should Buy Amazon Stock",
-      "excerpt": "Amazon doesn't ever seem to be satisfied with where it is. It's the top e-commerce stock by far, with about 38% of the market. For comparison, second-place Walmart has around 6%, and it only goes down from there. It's still only the second-largest company in the U.S. by sales though, behind Walmart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/25/ai-revolution-is-here-why-you-should-buy-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737024/amazon-worker-using-amazon-key.jpg",
-          "width": 2265,
-          "height": 1511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-25T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

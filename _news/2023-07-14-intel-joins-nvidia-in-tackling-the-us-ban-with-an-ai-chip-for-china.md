@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel AI chip sales in China to face market, time tests"
-    excerpt: "With widespread speculation about the US government considering further restrictions on the export of Nvidia's A800 and H800 GPUs to China, Intel has chosen this opportune moment to debut an AI acceleration chip tailored for Chinese clients with its fourth-generation Xeon processor at its core."
-    publishedDateTime: 2023-07-17T01:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 71
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230714pd202_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Intel Launches AI Accelerator Chip in China"
-    excerpt: "US chipmaker Intel has launched a second-generation artificial intelligence accelerator chipset for the Chinese market. Habana Gaudi2 can be used to accelerate AI training and interface, the Santa Clara-based firm announced on July 11."
-    publishedDateTime: 2023-07-13T03:08:00Z
-    webUrl: "https://www.yicaiglobal.com/news/intel-launches-ai-accelerator-chip-in-china"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/27871284174533.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "AI Speed Boost Coming With Intel’s Meteor Lake Chip for PCs This Year"
     excerpt: "Spread the loveArtificial intelligence continues to make incredible strides in all sectors, and the rapid advancements in technology are a testament to the significant contributions that AI has to offer."
     publishedDateTime: 2023-07-14T04:33:00Z
@@ -67,20 +39,6 @@ related:
         width: 2560
         height: 1438
         isCached: true
-  - title: "IC test interface specialists overwhelmed by strong AI chip orders"
-    excerpt: "IC test interface specialists have been overwhelmed by strong demand for AI chips, according to industry sources."
-    publishedDateTime: 2023-07-14T02:13:00Z
-    webUrl: "https://www.digitimes.com/news/a20230713PD214/ai-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230713pd214_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Intel keen to address AI computing power gap in China with customized Gaudi 2 chips"
     excerpt: "It appears that Intel strategically announced the launch of its customized AI processor, Habana Gaudi 2, for the Chinese market at a press conference held July 11 in Beijing, shortly after the World Artificial Intelligence Conference (WAIC) ended July 8 in Shanghai."
     publishedDateTime: 2023-07-14T04:05:00Z
@@ -94,20 +52,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230713pd201_files/1_b.jpg"
         width: 640
         height: 426
-        isCached: true
-  - title: "Intel's customized Gaudi 2 chips for China very likely to be made by TSMC 7 nm process"
-    excerpt: "Intel unveiled its Gaudi 2 China Special Edition deep learning processor in Beijing on July 11 and received almost unanimous praise from Chinese media outlets. In addition to mentioning the most significant advantage of Gaudi 2 over Nvidia's AI GPUs lies in its \"higher price/performance ratio,"
-    publishedDateTime: 2023-07-13T06:35:00Z
-    webUrl: "https://www.digitimes.com/news/a20230713PD206/china-intel-tsmc-7nm-ai-semiconductor.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 31
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230713pd206_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "prz7XwRuhu/cGbKEawESMshd6KCDDMwnWfLfyUrSiQOb+4xbFmF9SmPpAlbfg9jqG5RcQdeWACKMtErMc36VLohP89/4c4r8977B7W2J9PkTJju5sQzetYVl7YUpq57MxmkGS5HqaWGxlQrM98an2KyB5TDtgqiQR99Yh7wGaaqYQKd6nM5O2unaf/keU8c/34s8lsJqnjUR75n9hp3GJaHZjnx1jwgZHbMPXyn0DyYr9gnnyqmKguQgxS+hDf0bjI67UIM1rQdx5CGHoMXFkl+kBST0XQzSadDtR22gO3tpILNp/Rjue8KhneDmjLzF3s922tOWCCslf29fQAmj8Kw3O0ErgS/QSFrBAUfJ4tdTosv+D+IW95VGnBZQMhGl12FSvwqDsVhlM41Q88MqWm25ZkGTsLJ+s2sliCuV1qhQiUBQ9QTy2P1166+duAcRo2XAVrmkLgBjPH6vkP+mFupb300ZHDbmicfrY93prn+xVZ9L35aSEb8YLjiMqFtwN+XuTUtAXazQ3p4J4Rbcag==;RQhbkJe2Mn5Y4/IEGy4sDA=="

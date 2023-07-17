@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ai-startups-bringing-dollars-le
 webUrl: "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why are people putting traffic cones on self-driving cars in San Francisco?"
-    excerpt: "Self-driving cars have become a consistent presence on the streets of San Francisco, but not everyone is happy about it. A group of protesters called Safe Street Rebel has taken to stopping the vehicles in their tracks by placing orange traffic cones on their hoods,"
-    publishedDateTime: 2023-07-12T21:59:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-are-people-putting-traffic-cones-on-self-driving-cars-in-san-francisco?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 42
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/0605953/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F44%2Fcf%2Ffc5dca444eab88d7941e527fcb8e%2Ftraffic-cone.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "AI startups bringing dollars but lean workforces to ailing San Francisco"
     excerpt: "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco. But the rapid growth of the artificial-intelligence business may not be a panacea for the city's economic and commercial real-estate woes,"
     publishedDateTime: 2023-07-13T10:02:00Z

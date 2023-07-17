@@ -33,6 +33,15 @@ related:
         width: 1893
         height: 767
         isCached: true
+  - title: "GigaIO Introduces 32 GPU Single-Node Supercomputer"
+    excerpt: "GigaIO, provider of workload-defined infrastructure for AI and technical computing, recently announced that it successfully configured 32 AMD Instinct MI210 accelerators to a single-node server utilizing the company’s FabreX PCIe memory fabric."
+    publishedDateTime: 2023-07-17T13:15:00Z
+    webUrl: "https://insidehpc.com/2023/07/gigaio-introduces-32-gpu-single-node-supercomputer/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
 
 secured: "SWUb6bCCf1Y5B85u/aG9cXvxfZt4h9X2+iLvYu8BHF4I2hiRrBsjBQZP4epO3wJF2md6zgcf79/bSkZ7MS8FCN6OWJf0gYBd7640ZZoij2gBx5AK/TTOor8cAl894wq8ObPGYczTycVIgQQmtDYTwRCPR+vFFcfNMqdcvQB0O7T5l3BjMlQML9fxF4Kqm3eY8WVrRlIWWAWC/nWL5aW0Z4EDIQaBbVuwfDb5tgJj1ovDR3nDZk1Li/WyIDzMLW6HQbjvSuBl27O8pzOCkKABohVMKpc/EI9L4GHeRnZihczvWsO8uxOjobugR5iNOwv/evXmdzjQ97dcxAD3y9Ls4M5d3ULsf04nUVIwklpk5jA=;JKBNRPOP+nlMLAe/6jxmAg=="
 ---

@@ -35,15 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Health Care Service Corp. using AI for prior authorization"
-    excerpt: "The parent of Blue Cross & Blue Shield of Illinois promises it will make the approval process for many procedures quicker and easier for both patients and providers."
-    publishedDateTime: 2023-07-13T18:03:00Z
-    webUrl: "https://www.modernhealthcare.com/insurance/health-care-service-corporation-hcsc-using-ai-prior-authorization"
+  - title: "4 Ways AI will Transform Work Life for Everyone"
+    excerpt: "What does the effect of AI hold for the future of employment? While at RecFest we spoke to futurist Matt O'Neill to find out how we should embrace the new tools at our disposal and what comes"
+    publishedDateTime: 2023-07-13T13:48:00Z
+    webUrl: "https://www.ph-creative.com/blog/posts/4-ways-ai-will-transform-work-life-for-everyone/"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
+      name: ph-creative.com
+      domain: ph-creative.com
+    quality: 41
+    images:
+      - url: "https://www.ph-creative.com/media/3185/untitled-design-3.png?anchor=center&mode=crop&width=1200&height=630&quality=100"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "t4AS9d8ClzrPwZS/rW08MbQBCYCABqaFNedyY3r6nQAWfLs5MaYqOjT6VQAuFyVBb5YUN9+11tUOlR8f4IrJ7PSd2gTyw6vRfci9FXt5BQcBf3h+453zRHHRyQAisg/dtTyr3BNWZn1WQFBNpbFVQO5zrcOIi9zeDa7D8Otpqdx82BZlf041d0crsF5GxNSzvn5lLl4wlaGQwaE8x7Ma+MAOTnpCRnyhQ5RsBVHqnKSl5kUhsjZxDWPbHmGi6MV/9amqTgwl8SsCDnr3GCqIwAuyb3EdY42kYIn5DK/TMwUt9gelQ7G8yqbNn16v4c6DQ6xH1ICgjTCNleXAp0zbgh6MJsIHVpVVWyH5NieqY6c=;eufR+StI/RuliXH7Uv5FvA=="
 ---

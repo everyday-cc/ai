@@ -33,13 +33,13 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.reuters.com/resizer/I_m9gUSg6uTZa5qV4o8YNwmzPFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZK72INQPZIQ3N7ZMVCVJPJQJQ.jpg"
         width: 1200
         height: 628
         isCached: true
 
-secured: "xz5veqEO6UREhp0VYNgRoB9oQnZXS9XBhLGo5+4etNE19069wpDwNXUUwZ+oDfJW7Zz36tUG74HJzoYHMQWUtCLYRSD0rsvzJUDzqhVZqe6TZUKJlNMdwXGbjQdCPTvRqUYYhTT5Z15zum3ldcGqGZGfypWse7hhOnsQcHZ5uymg6RS6H5WanUgkouFgXNZgjKywgu8hYKgmRRQzeyPYs4++iACqrU9deg1gpmhQvsZqHtuWOA2z2tBpkqdeMH1QjdvqsTQ2x4sBHe0N5dS7Kcx+v4wPk8oexHc3dL76fwITY1WJVXzq6eWnazrCqTsBvo9EYKdvd1I2TnPza60gg7nHwiCjcmu2KXHTSybIX2I=;mNn5hJclihNKn7ZlNa/c+A=="
+secured: "7hynlhikqu0s3UN1/Hm6NZbkYm/VqD8vOx2juOZbK6/ynf0E7o2/IdlirCMo8S3/Csfmo7GfK1jlNYS8gfcLR8+sRXxupxfwF98Wkb4XpdwODWIhgSdLIJgRYHVCBwRi3Bq1Zkcmbv/cQkLp/Vm3BZxtgQjhxnlj628owIGkUXNU747axabiQpasr1Z1URg3a3MxauO4B2glRS9CFfYHBAZnx54biobT/plyolClzYJcDXubtUarY95gDgdS/bMJJqq9J5Vpwc7AWnoQ/OiO8I1G01AYOCYQA7PmD37PrejvoTQo/4imfJjQcJVbG+CWCkaGgqoD+LnK7SghqNCOswOxt285Sq0oNNP8RLVt+8k=;RRJsYzj3/FJ874LcyDV0Qg=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "GigaIO Introduces 32 GPU Single-Node Supercomputer"
+    excerpt: "GigaIO, provider of workload-defined infrastructure for AI and technical computing, recently announced that it successfully configured 32 AMD Instinct MI210 accelerators to a single-node server utilizing the company’s FabreX PCIe memory fabric."
+    publishedDateTime: 2023-07-17T13:15:00Z
+    webUrl: "https://insidehpc.com/2023/07/gigaio-introduces-32-gpu-single-node-supercomputer/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
   - title: "GigaIO Introduces the First Ever 32 GPU Single-Node Supercomputer for Next-Gen AI and Technical Computing"
     excerpt: "GigaIO's SuperNODE system was tested with 32 AMD Instinct MI210 accelerators on a Supermicro 1U server powered by dual 3 rd Gen MD EPYC ™ processors, using Hashcat and Resnet50. Both tests demonstrated unprecedented scalability, with Hashcat showing a 100% scale factor and Resnet 99%."
     publishedDateTime: 2023-07-13T19:09:00Z

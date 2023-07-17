@@ -55,15 +55,6 @@ related:
         width: 2560
         height: 2560
         isCached: true
-  - title: "Why These 7 Stocks Are the Best Ways to Play Fintech Right Now"
-    excerpt: "Thomas Niel, contributor for InvestorPlace.com, has been writing single-stock analysis for web-based publications since 2016. The post Why These 7 Stocks Are the Best Ways to Play Fintech Right Now appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-12T20:27:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-these-7-stocks-are-the-best-ways-to-play-fintech-right-now"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
     excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
     publishedDateTime: 2023-07-14T17:46:00Z

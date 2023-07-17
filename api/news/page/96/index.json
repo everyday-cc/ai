@@ -2,6 +2,111 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2023-05-15-cloud-partnerships-and-multi-year-contracts-look-before-you-leap.md",
+      "title": "Cloud Partnerships And Multi-Year Contracts: Look Before You Leap",
+      "excerpt": "Before you consider entering into such a strategic partnership where the cloud provider will use your services if you agree to spend a certain amount with them per year, my recommendation is to look before you leap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646235c328bd309432c2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
+      "publishedDateTime": "2023-05-15T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-facial-recognition-devices-market-research-2030.md",
+      "title": "Facial Recognition Devices Market Research, 2030",
+      "excerpt": "Research Reports has published a new report titled as \"Facial Recognition Devices Market\" by End User (Security",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-research-2030-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
       "title": "TSA tests facial recognition technology to boost airport security",
       "excerpt": "The technology is currently in 16 airports, but critics have have raised concerns about questions of bias in facial recognition technology.",
@@ -1121,100 +1226,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-nvidias-ai-chips-will-help-power-these-5-industries-for-years-to-come.md",
-      "title": "Nvidia's AI Chips Will Help Power These 5 Industries for Years to Come",
-      "excerpt": "Nvidia is the world leader in advanced semiconductor chips known as GPUs. The company has leaned into AI, developing hardware and software platforms for customers. Nvidia is poised to grow by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/731598/artificial-intelligence-ai-data-deep-processing-2.jpg",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-life-and-death-decisions-are-being-made-by-artificial-intelligence.md",
-      "title": "‘Life and death decisions are being made’ by artificial intelligence",
-      "excerpt": "Jacob Ward reports on how the invisible power structures we are assembling, by accident and on purpose, have the potential to change not just individual lives but the very future of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684078202095_mtp_clip_mtpr602_spot_230512_1920x1080-2b3j1a.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174337605845",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174337605845",
-      "publishedDateTime": "2023-05-14T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

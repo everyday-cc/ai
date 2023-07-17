@@ -95,6 +95,20 @@ related:
         width: 363
         height: 250
         isCached: true
+  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
+    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
+    publishedDateTime: 2023-07-16T02:15:00Z
+    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "The Revolution in AI powered by Transformer Architecture"
     excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
     publishedDateTime: 2023-07-14T07:21:00Z

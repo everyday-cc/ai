@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Robotics"
       ]
     },
     {
@@ -105,7 +106,7 @@
       "originalUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -146,102 +147,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-new-high-paying-jobs-in-generative-ai.md",
-      "title": "The new high-paying jobs in generative AI",
-      "excerpt": "The push to adopt generative AI in the cloud will lead to new roles and needed skills, and enterprises will likely pay top dollar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/jobs-sign_interview_job-search_now-hiring-100774984-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html",
-      "publishedDateTime": "2023-07-14T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-how-does-the-ai-bill-of-rights-impact-healthcare.md",
-      "title": "How Does the AI Bill of Rights Impact Healthcare?",
-      "excerpt": "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon",
-      "originalUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1468430468.jpg?itok=5eEFlLKP",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp",
-      "publishedDateTime": "2023-07-13T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -647,49 +552,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
-      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "in collaboration with medical ethics researcher Dr. Eisuke Nakazawa from The University of Tokyo and nursing researcher Dr. Ai Ibuki from Kyoritsu Women's University, recently explored whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-11-announcing-the-nominees-for-venturebeats-5th-annual-women-in-ai-awards.md",
       "title": "Announcing the nominees for VentureBeat’s 5th Annual Women in AI awards",
       "excerpt": "VentureBeat announces the nominees for the 5th annual Women in AI Awards. The winners will be announced at VentureBeat Transform on July 12.",
@@ -739,6 +601,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
+      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "publishedDateTime": "2023-07-10T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1463,6 +1369,101 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-the-vatican-releases-its-own-ai-ethics-handbook.md",
+      "title": "The Vatican Releases Its Own AI Ethics Handbook",
+      "excerpt": "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Center ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076",
+      "originalUrl": "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e3364c892e40304167feed0f80c8de71.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-ny-bills-would-ban-deepfakes-put-guardrails-on-artificial-intelligence.md",
+      "title": "NY bills would ban 'deepfakes,' put guardrails on artificial intelligence",
+      "excerpt": "Measures passed by the State Legislature this session include banning \"deepfake\" images online that most often are used to humiliate or coerce women.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "originalUrl": "https://www.newsday.com/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/ace/c:MTgxNzY1YzQtMmRiOS00:YzllNTEw/landscape/1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/state-legislature-deepfakes-artificial-intelligence-liquor-store-hours-kathy-hochul-ks257o8t",
+      "publishedDateTime": "2023-07-01T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

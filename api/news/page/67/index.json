@@ -2,6 +2,101 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-06-02-this-childrens-hospital-is-integrating-ai-with-healthcare.md",
+      "title": "This children's hospital is integrating AI with healthcare",
+      "excerpt": "As hype and anxiety drive interest in the rapid rise of artificial intelligence ... Highly-ranked healthcare facilities like Boston Children’s Hospital, connected as they are to major research ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/ai-healthcare-integration",
+      "originalUrl": "https://mashable.com/article/ai-healthcare-integration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04LtJkbsoOg0mZEYu4CLd75/hero-image.fill.size_1200x675.v1685580853.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-washington-boy-plummets-20-feet-deep-into-well-during-recess.md",
+      "title": "Washington boy plummets 20 feet deep into well during recess",
+      "excerpt": "A 12-year-old boy in Washington state fell into a well during recess on Tuesday afternoon. Fire officials in Marysville, Washington said in a press release that firefighters initially responded to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
+      "originalUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/10/340/340/23004538_10210746000863057_8699735736880323065_o.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/washington-boy-plummets-feet-deep-well-during-recess.amp",
+      "publishedDateTime": "2023-06-01T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-powerful-artificial-intelligence-ban-possible-government-adviser-warns.md",
       "title": "Powerful artificial-intelligence ban possible, government adviser warns",
       "excerpt": "Some very powerful artificial-general-intelligence systems may eventually have to be banned, a member of the government's AI Council has said. Marc Warner, also boss of Faculty AI, said AGI needed strong transparency and audit requirements as well as more inbuilt safety technology.",
@@ -1029,108 +1124,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson.md",
-      "title": "How Krista Software helped Zimperium speed development and reduce costs with IBM Watson",
-      "excerpt": "Successful businesses are embracing the power of AI to help streamline operations, generate insights, boost productivity and drive more value for clients. However, for many enterprises, the barrier to entry for integrating trustworthy, scalable and transparent AI remains high. In fact, 80% of enterprise",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
-      "originalUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/How-Krista-Software-helped-Zimperium-speed-development-and-reduce-costs-with-IBM-Watson-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-secs-climate-disclosure-rule-proposal-explained.md",
-      "title": "SEC’s climate disclosure rule proposal explained",
-      "excerpt": "The Securities and Exchange Commission&#160;(SEC) has issued a&#160;rule proposal&#160;to standardize the way organizations make climate-related disclosures. The rule proposal would require US publicly traded companies to disclose annually how their businesses are assessing, measuring and managing climate-related",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/sec-climate-disclosure-rule-proposal-explained/",
-      "originalUrl": "https://www.ibm.com/blog/sec-climate-disclosure-rule-proposal-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2022/12/084be9dd-1ef7-44a5-90e2b077523b9adb.xlr.jpg",
-          "width": 3168,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -41,22 +41,6 @@ related:
         width: 2880
         height: 2243
         isCached: true
-  - title: "Report: Robots with artificial intelligence might offer real human companionship"
-    excerpt: "Companion robots paired with artificial intelligence could one day help alleviate loneliness among isolated people, according to new research published Wednesday."
-    publishedDateTime: 2023-07-12T21:12:00Z
-    webUrl: "https://www.upi.com/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2023/07/12/research-robots-artificial-intelligence-reduce-loneliness/5821689194493/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 69
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5821689194493/2023/1/1acca51c47c52ff10817f3b95463593d/v1.5/Report-Robots-with-artificial-intelligence-might-offer-real-human-companionship.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Robots Could Play Future Role as Companions in Care Homes"
     excerpt: "Scientists like Nadia Magnenat Thalmann at Switzerland's University of Geneva think artificial intelligence (AI)-powered social robots could help care for the sick and aged in the future. Thalmann served as a model for Nadine, an android that produces human-like gestures and expressions."
     publishedDateTime: 2023-07-13T16:36:00Z

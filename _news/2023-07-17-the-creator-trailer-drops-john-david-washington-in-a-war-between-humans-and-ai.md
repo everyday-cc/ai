@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/video/the-creator-trailer"
 webUrl: "https://mashable.com/video/the-creator-trailer"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Mashable
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Washington tackles potential risks of AI"
-    excerpt: "Vice President Kamala Harris convened civil rights leaders and consumer advocates at the White House Wednesday to ensure AI tools don’t deepen inequality."
-    publishedDateTime: 2023-07-12T21:29:00Z
-    webUrl: "https://fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/"
-    ampWebUrl: "https://fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/amp/"
-    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/washington-dc-bureau/washington-tackles-potential-risks-of-ai/amp/"
-    type: article
-    provider:
-      name: FOX40 News
-      domain: fox40.com
-    quality: 57
-    images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2023/07/white-house-generic_35629247_ver1.0.png?w=1280"
-        width: 650
-        height: 370
-        isCached: true
 
 secured: "unxr1O1kOKwX4GVoNMJfWrtutxEbkFJ6DG5OFzI6qN+H+CsZdRJNiPZp2x+YxmDPXJMn5ZBqBIRw8l191gHwmNuo26W24rQqIwk24Hlk3W5j12pY8KIO77QvPsrypc6d3cYv0dtXrG5qomNMBegausdTVN/CyLwsP6TyhJC5lOiXAcoaVfumO0/C3pucQGme3eLMMy6JnKwp4CRQmSdmkByHBUKGXq9dL9Ld/hDltABtuevGg6ISJf3xYlcLUlHnLW5EdLFvYdmhoOnu23F+dp8a7Fi8J8NdfEwrq8vT76lGgqmsQOlSjlrQRVLJDVx1dVwaUT9VIfXNDYr47BdMQVIvc3Z0WRjtl16OFmZoA+0=;VrDCK+HaX99+fPycQVdLKg=="
 ---

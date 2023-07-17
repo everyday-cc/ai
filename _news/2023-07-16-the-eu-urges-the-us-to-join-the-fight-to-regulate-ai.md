@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-
 webUrl: "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of AI Regulation: How Can We Get it Right?"
-    excerpt: "The EU AI Act is a sensible starting point but it is by no means the gold standard for AI regulation and there are concerns around the EU’s highly prescriptive legislative framework."
-    publishedDateTime: 2023-07-12T22:06:00Z
-    webUrl: "https://www.law.com/international-edition/2023/07/12/the-future-of-ai-regulation-how-can-we-get-it-right/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/06/Chat-GPT-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "The EU wants to regulate Artificial Intelligence. What impact could that have on the industry?"
     excerpt: "As Europe’s executive branch discusses how to regulate Artificial Intelligence, tech leaders are debating the potential impacts of stricter rules."
     publishedDateTime: 2023-07-13T12:57:00Z
@@ -53,6 +39,6 @@ related:
       domain: euronews.com
     quality: 7
 
-secured: "oXK9Cs0CpSXEhOeHy6PzddFT+k4JR8MXg6YGlFhlvhufVOuhcT/lK7U4iMKncWES+9jcTlgpTd5Uw4bNegTULbzMrKo4eomgW7jXtMk2SMqGTbAiNn1upFF6KrrGtriwRH/WCkYjWBoVj3sp0pJ7yxOjXXAIc/xL6StU8rFgmS111xI+vCYLqMu/vKsGeqFfhP9/3zOM77iQYlZCJuJfJbc65YayDJpvLt5BhzVpiUuVvexdsWLfHGupX+DSQrRv/YaRxkjrXNp0oTntAGA5PIFH6SCjS3i/DZuA48YPUDINJlVugiAgaS6G6ydB0YFE8DXQdabBitACHdTmPmzIeMaWKi0MnkWqtj93npljpOQ=;1bi8LLp1GSUI5cOkm2eHRA=="
+secured: "O0xglsME5LllRje1ce1l7raZ5qb/4CuU9ft5aHp6l8cJpXBGJDUYpn2HkyrqRRc8W5jQG86xhzCkYaK9X+5bvvYc5RcgSYSdaIdY7dd99GKH1crfjOLRRAcSV3aWBA9Ke3+y+aLyX+Ru/mkhZ+DweQcFEHK2uJqn6lJx+9m8IEZcse3/wYTfqc+p1lms2UUe215cSxLw3eSmz/2KKOBoCF/nLQLibl+05EP4xFoeEzKTNrfCj3E/tUZqKUvXbCRzsbNm/HJatTbZrgdom81NrmhOndlSYJNbTdZP1+Oh0MBCfQJaxAPOiXmwXT5VAX95VKM9PVfvm6s656QDnzt3MvNXJViGvg/0+5cpErhz9D5d6nqTqFou89+0WTFi2HMFHyExuP0XUwLJ2ubafwNe8phc0JdhpCqhS8cM6peT/9O7YlDS0rTqYuRc4eZ1oDmb0GA2e4fEgeFKpeKzPhqd2+cfrHwStxD9oB6dYiPI0QDIZfkqRUHroHFrSrsfEZYB6iiiFYqn2NMerkV8J9x2Ug==;xQh+SgV/m5wi8gUYDZgwVw=="
 ---
 

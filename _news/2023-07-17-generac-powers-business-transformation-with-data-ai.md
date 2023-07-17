@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/646384/generac-powers-business-transform
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIO
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "UAE Artificial Intelligence Camp empowers new generations"
+    excerpt: "It addresses six cutting-edge themes, including web development and robotics, digital entrepreneurship and career planning, generative artificial intelligence, online safety and cybersecurity and deep dialogues in the field of artificial intelligence."
+    publishedDateTime: 2023-07-16T07:06:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/07/16/uae-artificial-intelligence-camp-empowers-new-generations"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/16/uae-ai-main1-750.ashx?h=450&w=750&hash=6DF4267865CDBC6945BE49881297AA73"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
     excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
     publishedDateTime: 2023-07-17T09:13:00Z

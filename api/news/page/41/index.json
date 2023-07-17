@@ -2,6 +2,102 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-06-20-jack-mas-lieutenants-return-to-oversee-tough-alibaba-reboot.md",
+      "title": "Jack Ma’s Lieutenants Return to Oversee Tough Alibaba Reboot",
+      "excerpt": "In Baidu’s wake, Alibaba unfurled its own large language model dubbed Tongyi Qianwen. That might be key to ensuring the company name endures 102 years, as co-founder Ma once famously and repeatedly declared was his over-arching ambition.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "originalUrl": "https://time.com/6288353/alibaba-eddie-wu-joseph-tsai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software.md",
+      "title": "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software",
+      "excerpt": "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
+      "originalUrl": "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2016/10/Microsoft-makes-its-deep-learning-tools-available-to-all.jpg",
+          "width": 1400,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-broadridge-secures-patent-for-machine-learning-tech-enhancing-securities-based-lending.md",
       "title": "Broadridge Secures Patent for Machine Learning Tech Enhancing Securities Based Lending",
       "excerpt": "Broadridge's patented machine learning technology delivers actionable ... Powered by decades of financial services expertise and a proven track record of helping wealth managers drive growth ...",
@@ -1048,108 +1144,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones.md",
-      "title": "Meta unveils Voicebox AI to replicate the voices of your friends and loved ones",
-      "excerpt": "The technology breakthrough was announced via a published paper. Though it's not widely available, you can listen to demos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "originalUrl": "https://www.zdnet.com/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0f6175641e6f073c41c25e1b3a165e2850ba2138/2023/06/19/d548baf5-4665-48c4-a867-b8e8acee2d6e/gettyimages-1385575023.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-voicebox-ai-to-replicate-the-voices-of-your-friends-and-loved-ones/",
-      "publishedDateTime": "2023-06-19T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle.md",
-      "title": "Most US workers want to adopt emerging tech like AI but see senior leaders as obstacle",
-      "excerpt": "More than half of surveyed employees say the emerging technologies are outdated by the time their companies decide to implement them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "originalUrl": "https://www.zdnet.com/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a16dfd27ed152a0030faf7e421304699720e6e91/2023/06/19/36f8bdbd-2b8e-44f4-a7f3-cb6eebaa6952/gettyimages-1403176138.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-us-workers-want-to-adopt-emerging-tech-like-ai-but-see-senior-leaders-as-obstacle/",
-      "publishedDateTime": "2023-06-19T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

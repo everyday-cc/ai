@@ -26,36 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI and cybersecurity: Friends, foes, collaborators"
-    excerpt: "Johnson and Johnson CISO Gary Harbison talks the opportunities, risks and fears of AI in cybersecurity at this week's VentureBeat Transform."
-    publishedDateTime: 2023-07-12T20:36:00Z
-    webUrl: "https://venturebeat.com/ai/ai-and-cybersecurity-friends-foes-collaborators/"
+  - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
+    excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
+    publishedDateTime: 2023-07-17T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR8793-e1689187348855.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Opinion: Can AI and Cybersecurity Coexist?"
-    excerpt: "As with any powerful new technology, the potential for artificial intelligence to analyze large volumes of data and automate processes comes with a risk that it will be used for nefarious purposes."
-    publishedDateTime: 2023-07-12T21:06:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/opinion-can-ai-and-cybersecurity-coexist"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/opinion-can-ai-and-cybersecurity-coexist?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/opinion-can-ai-and-cybersecurity-coexist?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a53e500/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F45%2F3b%2Fd0a6e1fe4b9fbcfc9b4864a534dc%2Fai-cybersecurity.jpg"
-        width: 840
-        height: 438
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 44
   - title: "Unveiling The Power Of AI In Cybersecurity: Three Questions CISOs Should Be Asking"
     excerpt: "2023 may go down in history as the year of artificial intelligence (AI)—or at least the year when business leaders and consumers alike became obsessed with generative AI tools like ChatGPT. Cybersecurity vendors are not immune to the hype. At the 2023 RSA conference, nearly every keynote included discussion on AI."
     publishedDateTime: 2023-07-13T12:44:00Z

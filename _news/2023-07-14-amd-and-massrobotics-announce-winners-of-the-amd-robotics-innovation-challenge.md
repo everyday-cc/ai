@@ -7,8 +7,8 @@ originalUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massroboti
 webUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Automation
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation"
-    excerpt: "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi"
-    publishedDateTime: 2023-07-12T21:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/12/9847425.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Downward envy and the politics of robo-debt and the Voice"
     excerpt: "Welfare bashing and scare stories about the Indigenous Voice have their roots in the same populist appeal, and the same basic failures of practical government."
     publishedDateTime: 2023-07-14T07:01:00Z

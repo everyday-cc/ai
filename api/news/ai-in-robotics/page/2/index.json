@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-10-ai-robots-say-they-have-no-plans-to-steal-peoples-jobs.md",
+      "title": "AI robots say they have no plans to steal people’s jobs",
+      "excerpt": "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an",
+      "sourceUrl": null,
+      "webUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
+      "originalUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LADbible",
+        "domain": "ladbible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-ai-industrial-robotics-australia.md",
+      "title": "AI Industrial Robotics - Australia",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$138.30m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.79%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/australia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-is-artificial-intelligence-advancing-too-quickly-what-ai-leaders-at-google-say.md",
       "title": "Is artificial intelligence advancing too quickly? What AI leaders at Google say",
       "excerpt": "Competitive pressure among tech giants is propelling society into the future of artificial intelligence, ready or not. Scott Pelley dives into the world of AI with Google CEO Sundar Pichai",
@@ -1215,94 +1301,6 @@
       "provider": {
         "name": "techtimes",
         "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
-      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
-      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
-          "width": 1184,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-the-robot-among-the-animals-an-optical-illusion-that-will-boggle-your-mind.md",
-      "title": "The Robot Among the Animals: An Optical Illusion That Will Boggle Your Mind",
-      "excerpt": "Did you know that Greek mathematician Archytas of Tarentum created the first known “robot” in the 5th century BC? Quite amazing isn’t it? This shows the power and skills of the human mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/find-the-hidden-robot-among-animals-1688292364-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
-          "width": 960,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/find-the-hidden-robot-among-animals-1688292364-1",
-      "publishedDateTime": "2023-07-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
         "images": null,
         "publishers": null,
         "authors": null

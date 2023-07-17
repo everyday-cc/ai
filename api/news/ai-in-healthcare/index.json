@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-17-developing-reliable-ai-tools-for-healthcare.md",
+      "title": "Developing reliable AI tools for healthcare",
+      "excerpt": "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. ",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
+      "originalUrl": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
       "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
       "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -129,50 +173,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-how-does-the-ai-bill-of-rights-impact-healthcare.md",
-      "title": "How Does the AI Bill of Rights Impact Healthcare?",
-      "excerpt": "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon",
-      "originalUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1468430468.jpg?itok=5eEFlLKP",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp",
-      "publishedDateTime": "2023-07-13T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "AI in Healthcare"
       ]
@@ -530,8 +530,8 @@
       "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
       "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
-      "originalUrl": "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
+      "webUrl": "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
+      "originalUrl": "https://www.stltoday.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/07/14/kamala-harris-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/07/14/kamala-harris-struggles-with-aiand-so-do-older-workers/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Harris hosts session on AI and civil rights"
-    excerpt: "The meeting is part of a broader administration push to identify and tackle concerns with artificial intelligence technologies as their use by employers and the general public has exploded."
-    publishedDateTime: 2023-07-12T21:22:00Z
-    webUrl: "https://www.bostonglobe.com/2023/07/12/nation/harris-hosts-session-ai-civil-rights/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/RSq9lV6wTI0GAYgNxPRa4sNzbZY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/D3QUYVPL5WYSUQPNOKRFPHK2KA.jpg"
-        width: 506
-        height: 337
-        isCached: true
 
 secured: "wOGdlu5A4lowIM9oSAEVnupK/t97pAURXO0bZjJkPe95h2sCailkl3uuCg3hPC/RUrhd6n5J9SrJv7ZYttRlCrD8lcTVZKsO0xq930XY+vyQfRmINnHvZWhebjSrRQ+nIgBXabuep1l6AqIRa2UQuPm3tyCzGTZt9bd+yuCOR5WykmtfcOa293ThECvSIJF41xdtWh3/wedcTjy6uvtiQ7OdssgxWxLPIRxsa/lHK+H4r4SxNDpmGAxgKAuT0gJx/GOt4HOR5A22Mco8xxN0MDgWvbDCjqro25UVuE0QXW05TGp7Njjb6HNWEs5PmQSHvpRe8KLHsVfsuQrdsP6weBoI4HJeUeZj+0xNUGs3nvwhrTwDQMfje6PPftwXyQanzyamHU3BFW+2NBpkxhsHIKYhny6GNV8AEQ1fk1mRN4+OXiWYDr7/mr/P0n0dL2nrFXvSzGRPuQxnx7Jf1J3gJO9XwBYYJKczQY1/mg+IM3Hxa0cbpTXGMap0d0CgTmGJIBk7R/AUgxU1NzC7BCBbEQ==;DkUa3CbW9EU0MR9NtA7oCQ=="
 ---

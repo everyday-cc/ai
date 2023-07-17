@@ -47,6 +47,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
+  - title: "The code breakers: Harnessing the power of AI to understand what animals say"
+    excerpt: "An international group of experts argue that tackling the long-standing challenge of decoding the communication systems of whales, crows, bats, and other animals is coming within reach, following breath-taking advances in artificial intelligence (AI) research."
+    publishedDateTime: 2023-07-13T18:52:00Z
+    webUrl: "https://phys.org/news/2023-07-code-breakers-harnessing-power-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 16
 
 secured: "sBUQGBPkC3kHsgHp/xJ1PDaINMpWOyxTxVPvDBUHDXefJov03oBmsH0/HnWfWd1V/Hd/NNVUyDKYP/JwE2A8w5HPV7NDid+wZyDpIU0cTjBmANTzuNnD2jWi+I7fRUhEJq+Z+Wa56bReGl1J5c4otgCDYdEseB8ZL/UOt7tg0BsYek1c2YEeOAu2/xEqqQWtV3YEgyi9qQsL+NLhQPp29v8sg1cb1G11A303pJ9ev4T4dKsmDOtlE8ZHW43RvygGgiVMIMRECt3xHL++A3/086g1TTTXM7r8fz43/rFR9+2Keq5q9dD9HbQRg5lWnewHf5bkJaNNTR0aXjCk8gfD6OJUb1rJQoo7Oy6GOoCH+/M=;LXZy5FgHUoYFQ0ovntVmGQ=="
 ---

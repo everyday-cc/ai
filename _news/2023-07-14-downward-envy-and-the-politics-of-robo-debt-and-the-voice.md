@@ -39,20 +39,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation"
-    excerpt: "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi"
-    publishedDateTime: 2023-07-12T21:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/12/9847425.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "/lDcvfI33Vigs7Ui5BOQFIxHCzmmk/H4LZfVmyGi+il9RMpKLk5VfL5LbjjEGllUY4OmvmoBhUvnY2XIi9acsEQ4jOFzWEBLukwntc8Wi9Y+pguK7/0esDtMGtHmwWYxgcccxYCniVXS6sdLpXmTN0IJ3e3LwStX5HakOhYI5GWA2dCXhNZegfmv5VU0QtO4DW/jwtVU4tA5S4haPmvruy8lKgiO2gW5sBCwvIells7heYz3JoL6PFq8ydmdylE0myA7E03bBfuao/7jOsIHltYZcgEaF6rd/gSzX40QQNCHNRdUzqY4VebzET4bwAsUdADFCHA+ONWVFqSmKTb7SFdm7LGSE8PUcpjd8wSrt75Tk/FM9j/N0iT6iQcuZKQkZ7afa9wqKWk0JGtVhriJHSwlXX0wIKw90Bop7tP1VYOklaaM8ylppPzZuV3qlGnEcIGwBIT7DzvNBQjTYwk/5hLqu8Tvm3vSpDqrkHCnKvwHZVUqbRUsHbxiTY4W6IY8V1eknq0w+HjxwHAiRZ2l0g==;uTebUQpja82/eARGWkYk2g=="
 ---

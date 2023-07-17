@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-14-microsoft-semantic-kernel-will-support-openai-plugins.md",
+      "title": "Microsoft Semantic Kernel will support OpenAI plugins",
+      "excerpt": "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
+      "originalUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
+      "publishedDateTime": "2023-07-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means.md",
+      "title": "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?",
+      "excerpt": "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/apple-vision-pro-dram-chip-1689315790.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
+      "publishedDateTime": "2023-07-13T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-ai-can-help-blind-community-experience-world-in-new-ways-will-lead-to-quality-of-life-changes.md",
+      "title": "AI can help blind community experience world in new ways: 'will lead to quality of life changes'",
+      "excerpt": "A representative from the National Federation of the Blind argued that the greatest obstacle the blind community faces is attitudes and assumptions the general public make of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
+      "originalUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
+      "publishedDateTime": "2023-07-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-yes-ai-could-profoundly-disrupt-education-but-maybe-thats-not-a-bad-thing.md",
       "title": "Yes, AI could profoundly disrupt education. But maybe that’s not a bad thing",
       "excerpt": "Humans need to excel at things AI can’t do – and that means more creativity and critical thinking and less memorisation, says academic Rose Luckin",
@@ -51,6 +189,49 @@
       "topics": [
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year.md",
+      "title": "AI Speed Boost Coming With Intel’s Meteor Lake Chip for PCs This Year",
+      "excerpt": "Spread the loveArtificial intelligence continues to make incredible strides in all sectors, and the rapid advancements in technology are a testament to the significant contributions that AI has to offer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetechedvocate.org/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
+      "originalUrl": "https://www.thetechedvocate.org/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetechedvocate.org/wp-content/uploads/2023/07/Intel-Meteor-Lake-CPUs-g-low_res-scale-2_00x-Custom-Custom.jpg",
+          "width": 2560,
+          "height": 1438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechedvocate.org",
+        "domain": "thetechedvocate.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -393,7 +574,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -495,7 +676,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -536,50 +717,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-how-does-the-ai-bill-of-rights-impact-healthcare.md",
-      "title": "How Does the AI Bill of Rights Impact Healthcare?",
-      "excerpt": "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon",
-      "originalUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1468430468.jpg?itok=5eEFlLKP",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp",
-      "publishedDateTime": "2023-07-13T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -877,6 +1014,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-14-elon-musk-launches-artificial-intelligence-company-xai-what-to-know.md",
+      "title": "Elon Musk Launches Artificial Intelligence Company xAI: What to Know",
+      "excerpt": "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/",
+      "originalUrl": "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
       "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
       "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
@@ -885,7 +1065,7 @@
       "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -972,49 +1152,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-amd-and-massrobotics-announce-winners-of-the-amd-robotics-innovation-challenge.md",
-      "title": "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge",
-      "excerpt": "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/215a71e9-f4f9-4721-b6c3-5aee79b092a8/Robot-award-news-Massrobotics-July-13-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning.md",
       "title": "Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning",
       "excerpt": "Recent years have shown amazing growth in deep learning neural networks (DNNs). This growth can be seen in more accurate models and even opening new possibilities with generative AI: large language models (LLMs) that synthesize natural language, text-to-image generators, and more. These increased capabilities",
@@ -1064,153 +1201,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-intelligence.md",
-      "title": "Data Security Startup Raises Pre-Seed Funding, Launches Data Protection Software Using Artificial Intelligence",
-      "excerpt": "New York-based Teleskope reduces manual overhead burdening security, data, and engineering teams, preventing alert fatigue Teleskope, a cybersecurity startup, today launched a data protection platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33218847",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847",
-      "publishedDateTime": "2023-07-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here.md",
-      "title": "‘Overwatch: Genesis’ Remembers Sentient Robot Aurora In Its Second Episode, Watch It Here",
-      "excerpt": "The second episode of Genesis, the Overwatch anime miniseries, just dropped, and you can watch it below. The latest installment is called “Innocence” and we get to learn more about Aurora, the first omnic that became sentient in this world. The robot travels the planet to learn more about humanity and herself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64af894e4461ffb2e7534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
-      "publishedDateTime": "2023-07-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-the-viral-ai-app-thats-triggering-baby-fever.md",
-      "title": "The Viral AI App That’s Triggering Baby Fever",
-      "excerpt": "A new AI photo app is triggering baby fever among a population better known for delaying parenthood plans .",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/want-to-see-your-future-babies-this-viral-app-can-show-you-f4f65bdd",
-      "originalUrl": "https://www.wsj.com/articles/want-to-see-your-future-babies-this-viral-app-can-show-you-f4f65bdd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-815855/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

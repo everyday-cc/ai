@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-10-turn-ideas-into-music-with-musiclm.md",
+      "title": "Turn ideas into music with MusicLM",
+      "excerpt": "Starting today, you can sign up to try MusicLM, a new experimental AI tool that can turn your text descriptions into music.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Music_Kitchen_800x418_2.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "publishedDateTime": "2023-05-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-ai-will-create-a-serious-number-of-losers-in-job-market-deepmind-co-founder-warns.md",
       "title": "AI will create a ‘serious number of losers’ in job market, DeepMind co-founder warns",
       "excerpt": "Mustafa Suleyman co-founded the Google-owned AI lab DeepMind. Bloomberg via Getty Images Suleyman asserted that the US and other governments will need to consider ways to support workers who lose ...",
@@ -1334,58 +1386,6 @@
         "Google AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-bard-now-helps-you-code.md",
-      "title": "Bard now helps you code",
-      "excerpt": "Bard can now help with programming and software development tasks, across more than 20 programming languages.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/code-with-bard/",
-      "originalUrl": "https://blog.google/technology/ai/code-with-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9_Bard_Coding_Social_Share_Still_Blog_Social_.width-1300.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/code-with-bard/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/code-with-bard/amp/",
-      "publishedDateTime": "2023-04-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

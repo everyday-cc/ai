@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/crayon-data-to
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/crayon-data-to-benchmark-personalized-experiences-empowered-by-generative-ai-models-iyy7vphh?amp=1"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Powered by Generative AI, The Future of Customer Experience for Ordering Arrives to 10,000 Brands With Orda Assistant"
-    excerpt: "New York-based digital ordering and fintech platform Orda launched a new immersive customer experience for ordering with generative AI. The conversational ordering experience is now available for customers of over 10,"
-    publishedDateTime: 2023-07-13T05:29:00Z
-    webUrl: "https://www.retaildive.com/press-release/20230712-powered-by-generative-ai-the-future-of-customer-experience-for-ordering-ar/"
+  - title: "Diagnostic Robotics AI Advances Predictive, Personalized Medicine"
+    excerpt: "Startup Diagnostics Robotics is making steady progress towards a more predictive, personalized, even personal practice of healthcare."
+    publishedDateTime: 2023-07-17T14:28:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/"
     type: article
     provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 119
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b54b7467fcc06271e9bcff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1000
+        isCached: true
 
-secured: "f39nZQ7ePWKO0i2srJ4ajFNb8WLhmazIlF8pMaqqC1pQk68FsVSj/uvyzN1v5/wIX4CYoB90cXrdqLRvtyxjBPHraA4aNezjUnqqxgX+AA5qCK1piswetaimHRsddtH/wp6v+8DuEVujMCzPX623E5E/bzCo2s0V7FfXu0deEzhezDbnFaVf/5tpZfqliWLotWUeboAcWynU9oisJOlAm2GgY+Yfm14MD1XqUZHSTuuUu72bFzYIwPG7PR/HFfApDJRZxpZiSUOaY05RQhjps+8SzkjLeuSgh0EdniH54btAiswoShV3lt2S7eiww5Rba/ygHhervW0zn1RTYpzNt3ttIoVaqBtAfuD5UR+76uY=;B6hY44wOqxiOVjFPJV9oug=="
+secured: "iTPtfANguJT50yl/ghN8a/xOqLlmjZAhSv9RMQDAU0JhTucdUdYhV8n5rnDR7Clh5yFdrQZU+t3LipJOyAKKUEnNsKpk7k1uy057t1SqABWPUqDtsuJfa3ghKc+CyMb4GYyUbEwIzbq20vYU/PtE6zYJM3cxHwjki4ccE/Ks8eRMSRGU+PH2WeNsP+iLQoNw5EtBCfkAh42A6PQHBLe+CrGIawH6h9nnRxbr6gBjzBIQEnTj/7AXW/8vMAA4yNX12jmT55KP72f7S8bnxThx5s8sAgFOict/6W47buAUanOygfMxcJCaolsVznDciF5EB0p0DALVqR5zqxFYDebjleojlbvANXEmRQQ+qG4cKeJHVhGoEZO1OzKtJsSgjD5nTeNfnaTjOQKA2FCG26pqZZ5tuTSNTx1mZPVibellmT9c/0u1XMCwKDGCYkZmzKSESOi2CIf2AXb5phE/xXFDO3otrnBHgH/ulvaGt2zCAHQEU366PNTkTxDXsSM/wpXmo+q3tHJOCxeRaopKwQwRPQ==;9XlDjw8qwwyJGyemQYj8Dg=="
 ---
 
