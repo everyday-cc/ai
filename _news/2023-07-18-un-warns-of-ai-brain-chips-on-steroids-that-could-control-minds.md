@@ -2,9 +2,9 @@
 category: news
 title: "UN warns of AI brain chips ‘on steroids’ that could control minds"
 excerpt: "A paralysed man walked for the first time in 12 years after being fitted with a pioneering mind-reading implant (Picture: EPFL) The United Nations (UN) has warned about the potential dangers of implanting artificial intelligence (AI) chips in the brain ..."
-publishedDateTime: 2023-07-17T21:45:00Z
-originalUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=tag-post-strip_item_3_news"
-webUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=tag-post-strip_item_3_news"
+publishedDateTime: 2023-07-18T01:49:00Z
+originalUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6"
+webUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6"
 ampWebUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
 type: article
@@ -69,6 +69,6 @@ related:
       domain: modernghana.com
     quality: 19
 
-secured: "V/tU9W/ct78AT0VnO/NuM0GzAY3F8SFG3+wvSNiMRoqQt66wl1dTefMNUYvXnuyyOQdBA669tYVLL0ZZLnGXiMxV2BeneGR1yykQO26BRv7h1PpQk8B3kJz7kmS5WsiiZrFZLlIeU0uAeEskgaXZ9cN6DgXVR3X/eD8fxucUdHkFawco1AbPqsMLt354DAe1cZwSRBizaOGdNGy7mrhj4Xp9RhKsxmTC2PBQHT2p6ye4M8W7PQlYTYwZwks5M5fui8V0RIhSbQu0v1aD0QkTvSytihTUmy5ystiGkbC6NW8z2a96/AecuCnYKQUipK3J+DKQ4sRY2lnbACysa91aceBKuuAplTb8XJHFIHFNUR8=;PA6nYz5qlb8+nO/bLQUdXQ=="
+secured: "ZXczqT9G/035ptqazmMwCVOwMbBWf243TZbRuqUaaPYLLSFxse1w9mQ962x5WrAho8m9rx9gtgK+w7dEfoccQOJ3Bw38QR3JbzrRXEYO1CZcmOp3K1WeHoEfXGbFCUKSX8W1gFyiRRVaCeNhHYgafd0ZUZbmhopea66Aps2fzSInwMoM+Ejb6izCuueRByML9xnQ9OBuo0GMh2gkbnvp1Fkd098X2jOUKBQN9I7PGTqd6TchJFLeefDNt1tYvl5TPYj5ZQ+WStLR+xJbIhhdSrccf9udCLKJzwg7QxBqGzLDnBhdKRX9Rd+w8eVLV1bugwWwKEEd1YLpWPP2ziACmXIvVRISDBVINR86ZdOBsBI=;KiUTcPtlRIut3YDYeeOBjQ=="
 ---
 

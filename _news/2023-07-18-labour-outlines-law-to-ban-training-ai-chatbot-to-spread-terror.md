@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google tests its new AI medical chatbot at Mayo Clinic"
-    excerpt: "If a current Google test goes well, your next hospital visit might involve a little assistance from artificial intelligence (AI). According to recent reports, Google has been using its Med-PaLM-2 chatbot at the Mayo Clinic since April."
-    publishedDateTime: 2023-07-13T07:37:00Z
-    webUrl: "https://www.zdnet.com/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/be693b341c663a1ecd39552f641f931b5ce02e84/2023/07/12/6e44cc52-e730-4f9f-8352-7defa46b1116/gettyimages-1210454294.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
     excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
     publishedDateTime: 2023-07-17T11:38:00Z
@@ -350,20 +334,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Elon Musk’s new AI startup xAI to take on OpenAI’s ChatGPT"
-    excerpt: "Elon Musk announced his long awaited AI based venture on Twitter on July 12. During an hour-long Twitter spaces event, Musk announced the formation of xAI, the AI startup, \"to understand reality\". xAI’s company website mentions that the goal of xAI is to \"understand the true nature of the universe.\""
-    publishedDateTime: 2023-07-13T08:21:00Z
-    webUrl: "https://www.afaqs.com/news/digital/elon-musks-new-ai-startup-xai-to-take-on-openais-chatgpt"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2Ff120fcc3-d6af-4564-88b3-2eb71408c3cb%2FMultiple_Promotion_secured_1st_position_with_51__share_of_Ad_Space_followed_by_Discount_Promotion___.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
     publishedDateTime: 2023-07-13T23:42:00Z
@@ -496,6 +466,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "G9oiKMWfucQWe1jYyqXjoVhKWn+ub3W1QJaaKaXpwd0Sudb/+BX8Y3guUdAtrlv2gs9KDhxgXEmq4FHAMT/2OpyG9gAuhFyE+wR3DpDLLKRM1DVMdCkgWE0uCwCsj+RKqoFH4i+OCOnBfGf1ZUOBrYdOHk5HZY+1BU7LtlbiEpIN2eLf5BIAqxaTuww43EVX5rn2BrMoFHv+y49j/So+FdGtZCXoaoVIOBcl6zpAAAzttOt3ORP0HHfuOwzY+7LTs51E61Gronss9F2sW5eZCkCpx1aYFtsp4XGz/Uo5OKGOs0uTRI1U/q8f9W0ZK5ozKYVnbMmueWohKg7Lhb+sFjGKiKH1k80PwlPNTXFRg30=;yfiRe5irf6Y5lp6rMl4GKA=="
+secured: "9x7/lGFPfoHeWDgtN50Mi2O99EieKboDhql7UnlRGJF+awhTlHMIow21upBivYWiFhk2UtFJxhEZkG26vy5mB4BeaxqATv/vxk9Pt6QZ2O2q11M6tchV+mpxbWCsTsaijhajU1MlPcwX2GHVe5x2K7oatgtw9ajRF2u7bF4sKRu8zoK58yfI9W4ZxFPb2mlQ7A8jUO+/iybctDPZOOLmVvTIm6Hmeq4BRHUkrlfWuhrFTNg9qKSIa2amPgU8qAXyb61+z4edMOk6GyPg1W3y++LCksvEYuwJDJK1zc+De5GE1ezf5re6LbR92jZyLGpX5g3Jx2L90bkQl5mPRCaKsGJyzn+FXFCuygsSTCA+yzsduUaP9zpl5d+rpLLoweEWKPSrW8e+5ugiQn9u9ed9eYt4UbCWfufR8uL43vQh6X1lbIpZN1yc4zo7WfjuQFbQlQcmvTQ169b/kvOEsA6OMSLrdJCUTdk3FIHJxO98t87WIJ2PSMsrcLPaS+93xozXvYbQeQqf+zbhaZ+7pegTIA==;E+D8zgipO/S7NlYl9m/Siw=="
 ---
 

@@ -2,6 +2,153 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-06-14-spaces-sdk-playing-starring-role-for-xr-app-developers.md",
+      "title": "Spaces SDK Playing Starring Role For XR App Developers",
+      "excerpt": "In a keynote address to thousands of AR cognoscenti and developers at Augmented World Expo (AWE) in Santa Clara two weeks ago, Qualcomm VP Hugo Swart, GM of XR, took a deep dive into how the company’s two year old Snapdragon Spaces SDK (software developer kit) enables users to deploy applications against multiple devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647b84cd801e7c78da0b6f29/0x0.jpg?format=jpg&width=1200",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/amp/",
+      "publishedDateTime": "2023-06-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-if-i-could-only-buy-1-ai-stock-right-now-this-would-be-it.md",
+      "title": "If I Could Only Buy 1 AI Stock Right Now, This Would Be It",
+      "excerpt": "considering how many AI start-ups are expected to launch in the coming decade. Amazon also stands to benefit from AI-driven advances in robotics. Automation can drastically reduce labor costs in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/06/14/if-i-could-only-buy-1-ai-stock-now-this-is-it/",
+      "originalUrl": "https://www.fool.com/investing/2023/06/14/if-i-could-only-buy-1-ai-stock-now-this-is-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031.md",
+      "title": "Artificial Intelligence Market Trends, Upcoming Trends, Future Demand, Comprehensive Research Study, Status, Future and 2023-2031",
+      "excerpt": "Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include brand purchase advertising, workflow management tools, trend predictions among others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031-2023-06-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031-2023-06-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-magic-mushrooms-1-hearing-aids-medical-marvels-disrupting-healthcare.md",
       "title": "Magic Mushrooms, $1 Hearing Aids: Medical Marvels Disrupting Healthcare",
       "excerpt": "Magic mushrooms for depression. $1 hearing aids. Meds for 85 percent less. These are just a few of the advances these healthcare disruptors are engineering.",
@@ -1023,143 +1170,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-expertai-and-ssc-blue-prism-will-enhance-natural-language-based-intelligent-automation.md",
-      "title": "Expert.ai and SS&C Blue Prism will enhance natural language-based intelligent automation",
-      "excerpt": "Processing unstructured language data for automation creates new potential for leveraging RPA in the enterprise. \"As the predecessor and natural extension of generative AI, natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3979540-expertai-and-ssc-blue-prism-will-enhance-natural-language-based-intelligent-automation",
-      "originalUrl": "https://seekingalpha.com/news/3979540-expertai-and-ssc-blue-prism-will-enhance-natural-language-based-intelligent-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-paul-mccartney-reveals-ai-was-used-to-create-the-last-beatles-record.md",
-      "title": "Paul McCartney reveals AI was used to create the 'last Beatles record'",
-      "excerpt": "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
-      "originalUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
-      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
-      "publishedDateTime": "2023-06-13T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-ai-and-coding-how-these-tech-companies-are-using-generative-ai-for-programming.md",
-      "title": "AI and coding: How these tech companies are using generative AI for programming",
-      "excerpt": "Diamond Bishop, CEO and co-founder at Augmend, a Seattle collaboration software startup Diamond Bishop, CEO of Augmend. (Augmend Photo) “AI is making it so small startups like ours can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
-      "originalUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/06/3743d9d0-77a9-4f15-8e09-b755373102f0.jpeg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

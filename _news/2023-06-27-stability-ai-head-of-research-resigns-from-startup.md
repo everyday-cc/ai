@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXreZVrCiv0Q/v0/1200x798.jpg"

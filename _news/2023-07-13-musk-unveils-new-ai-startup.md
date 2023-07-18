@@ -130,20 +130,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Musk launches AI company while Twitter flounders"
-    excerpt: "The new company spun up by Elon Musk will seek to provide an AI alternative to ChatGPT, one that will be \"truth seeking.\""
-    publishedDateTime: 2023-07-13T07:47:00Z
-    webUrl: "https://htxt.co.za/2023/07/13/musk-launches-ai-company-while-twitter-flounders/"
-    type: article
-    provider:
-      name: Htxt.Africa
-      domain: htxt.co.za
-    quality: 39
-    images:
-      - url: "http://htxt.co.za/wp-content/uploads/2022/12/elon-musk-giga-texas.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Elon Musk wants to master the universe with xAI"
     excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
     publishedDateTime: 2023-07-15T11:02:00Z

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ready to roll? A new driverless ride-hailing company is coming to Dallas"
+    excerpt: "A new way of getting around is coming to Dallas. In just a few months a new driverless ride-hailing service is about to become a reality. It's part of a growing trend in artificial intelligence, which some believe could be a key to safer roads in the future."
+    publishedDateTime: 2023-07-18T01:34:00Z
+    webUrl: "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/"
+    ampWebUrl: "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 73
+    images:
+      - url: "https://media.nbcdfw.com/2023/07/Driverless-ride-share-Cruise.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What enterprises can learn about data infrastructure from Cruise driverless cars"
     excerpt: "As AI permeates more aspects of business and society, Cruise's lessons on robust data infrastructure will only grow more relevant."
     publishedDateTime: 2023-07-13T12:01:00Z

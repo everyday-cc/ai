@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google tests its new AI medical chatbot at Mayo Clinic"
-    excerpt: "If a current Google test goes well, your next hospital visit might involve a little assistance from artificial intelligence (AI). According to recent reports, Google has been using its Med-PaLM-2 chatbot at the Mayo Clinic since April."
-    publishedDateTime: 2023-07-13T07:37:00Z
-    webUrl: "https://www.zdnet.com/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-tests-its-new-ai-medical-chatbot-at-mayo-clinic/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/be693b341c663a1ecd39552f641f931b5ce02e84/2023/07/12/6e44cc52-e730-4f9f-8352-7defa46b1116/gettyimages-1210454294.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Labour outlines law to ban training AI chatbot to spread terror"
     excerpt: "Training AI to incite violence or radicalise the vulnerable would become an offence under a Labour government. Labour's Yvette Cooper said current laws were not fit for purpose in the face of emerging cyber threats."
     publishedDateTime: 2023-07-17T20:00:00Z
@@ -357,20 +341,6 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
         width: 1920
         height: 740
-        isCached: true
-  - title: "Elon Musk’s new AI startup xAI to take on OpenAI’s ChatGPT"
-    excerpt: "Elon Musk announced his long awaited AI based venture on Twitter on July 12. During an hour-long Twitter spaces event, Musk announced the formation of xAI, the AI startup, \"to understand reality\". xAI’s company website mentions that the goal of xAI is to \"understand the true nature of the universe.\""
-    publishedDateTime: 2023-07-13T08:21:00Z
-    webUrl: "https://www.afaqs.com/news/digital/elon-musks-new-ai-startup-xai-to-take-on-openais-chatgpt"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/afaqs%2F2023-07%2Ff120fcc3-d6af-4564-88b3-2eb71408c3cb%2FMultiple_Promotion_secured_1st_position_with_51__share_of_Ad_Space_followed_by_Discount_Promotion___.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Elon Musk launches his own AI company to compete with ChatGPT"
     excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."

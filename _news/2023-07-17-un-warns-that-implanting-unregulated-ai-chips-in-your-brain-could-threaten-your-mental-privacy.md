@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "UN warns of AI brain chips ‘on steroids’ that could control minds"
     excerpt: "A paralysed man walked for the first time in 12 years after being fitted with a pioneering mind-reading implant (Picture: EPFL) The United Nations (UN) has warned about the potential dangers of implanting artificial intelligence (AI) chips in the brain ..."
-    publishedDateTime: 2023-07-17T21:45:00Z
-    webUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=tag-post-strip_item_3_news"
+    publishedDateTime: 2023-07-18T01:49:00Z
+    webUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6"
     ampWebUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
     cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
     type: article

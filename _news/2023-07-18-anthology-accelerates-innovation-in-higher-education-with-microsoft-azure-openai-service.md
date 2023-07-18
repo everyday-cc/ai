@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
-excerpt: "New AI enhancements unveiled at Anthology Together BOCA RATON, Fla., July 18, 2023 /PRNewswire/ -- Anthology, a leading provider of education solutions that support the entire learner lifecycle, today announced its future of incorporating generative AI capabilities into its ecosystem of EdTech solutions in collaboration with Microsoft."
-publishedDateTime: 2023-07-17T20:30:00Z
-originalUrl: "https://www.asiaone.com/business/anthology-accelerates-innovation-higher-education-microsoft-azure-openai-service"
-webUrl: "https://www.asiaone.com/business/anthology-accelerates-innovation-higher-education-microsoft-azure-openai-service"
+excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
+publishedDateTime: 2023-07-17T21:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-anthology-accelerates-innovation-higher-education-with-microsoft-azure-/2023/07/17/9849359.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-anthology-accelerates-innovation-higher-education-with-microsoft-azure-/2023/07/17/9849359.htm"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -20,9 +20,9 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/pr-newswire_500_4_796.jpg?h=7de12b8a&itok=nKMEEtUQ"
-    width: 600
-    height: 316
+  - url: "https://mma.prnewswire.com/media/1708867/Anthology_Logo.jpg"
+    width: 400
+    height: 234
     isCached: true
 
 related:
@@ -53,22 +53,6 @@ related:
     quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/KPMG-AI.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "KPMG, Microsoft enter AI alliance"
-    excerpt: "The companies forge a new multi-year cloud and AI alliance to supercharge accelerate innovation across audit, tax and advisory."
-    publishedDateTime: 2023-07-13T08:53:00Z
-    webUrl: "https://www.itweb.co.za/content/5yONP7Er21zMXWrb"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/5yONP7Er21zMXWrb"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/5yONP7Er21zMXWrb"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/07/Satya-Nadella-2023.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -141,15 +125,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 40
-  - title: "KPMG and Microsoft agree to focus on AI"
-    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernisation,"
-    publishedDateTime: 2023-07-13T07:16:00Z
-    webUrl: "https://it-online.co.za/2023/07/13/kpmg-and-microsoft-agree-to-focus-on-ai/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-07-16T04:12:00Z
@@ -196,6 +171,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "i9AIBrOP7OWOfcsboPh7dAoDrKnN58mIulfhHwpWMi2VftMCKIzKU74NQA+Xg8wQPlF9FDnNwB/VEQ7rl/J4lOG4/Cv15O3LuF8rP4TvmX3jTaIGrrTcDOxqTj1PZITliHQnPRbVw2xH/D2+MJ4uWbKjP/mLizuzTtB2pFbfucdYc1p8T6SVIx7yaxZ4wt3P5bAyVPUIyyHCgpVEATAkpc4+b8sbkNeNQhEBPDG98vm4xjYj4aHLYAd5iEiEANAqRCaMmLm4E/tsabZTmqNUpdLhH9YlOZw5yWrSm5J4bEbDhjmqfiH1c4fcjYYQlXWJfjWI1dF2RzgqhyZ6mlAPKaTh6iDe+/GnSEnIs6Yts78=;Oux+o6fCgSnXqD/HuZw5Qg=="
+secured: "wrUfwm4m/SVbj3l3tHyntKKOoRjV/nDvUfemkKD9udUy2TFP+q8Nl97+rMsqdL0qvrL0EUfVPn/o44FupYvoi+ugHtRoBSQOU/yvINq3AOttRJjZgHMd4pG9ynpSJZA8y4JuRwtEP9sgvax26T3bUZ3o03ZrpIAm8U7IhB5GaZX9C/KeJ8Eu9h438rQu9xvfU4IS/GCx8J3SD5deb9zBB2VjIxFrU3GQ89jpKvQzVVXzFT+f5aZ9zPyR0TqTJhmG3SXFxF9TFuco95Cg+WdXdyCzn5EC3PCu/BUBhFgy+q6oaw/Vi6cg27Cuztuqevad4e8l4z6puYPTVhsDbNq7OQeGN8cHRN80CAdxJfpAzp0=;U/Y1NQy2cNGMpfP0NWVR7g=="
 ---
 

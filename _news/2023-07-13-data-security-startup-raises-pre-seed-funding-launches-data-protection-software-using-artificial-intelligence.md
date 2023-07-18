@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33218847"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Using bigger AI training data sets may produce more racist results"
-    excerpt: "Contrary to Silicon Valley wisdom, training AIs on larger data sets could worsen their tendency to replicate societal biases and racist stereotypes"
-    publishedDateTime: 2023-07-13T09:00:00Z
-    webUrl: "https://www.newscientist.com/article/2381644-using-bigger-ai-training-data-sets-may-produce-more-racist-results/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/12185443/SEI_163583017.jpg"
-        width: 1350
-        height: 900
         isCached: true
   - title: "AI startup raises funding to speed up number crunching in clinical trials"
     excerpt: "The U.S. startup Readout AI has closed a pre-seed financing round to fuel the development of an artificial intelligence (AI)-based tool to speed up data analysis in clinical trials."

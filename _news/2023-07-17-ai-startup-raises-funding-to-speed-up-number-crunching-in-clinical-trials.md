@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Using bigger AI training data sets may produce more racist results"
-    excerpt: "Contrary to Silicon Valley wisdom, training AIs on larger data sets could worsen their tendency to replicate societal biases and racist stereotypes"
-    publishedDateTime: 2023-07-13T09:00:00Z
-    webUrl: "https://www.newscientist.com/article/2381644-using-bigger-ai-training-data-sets-may-produce-more-racist-results/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/12185443/SEI_163583017.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "AolkYjUq+Mq9ZK4fLBbTUPHps79YDwJK1arqMgeuaVQPE3FGQhhYR0RllEkdwTS22f4vc+SUeqN0FWuELH8bp0vDRRqyI5YoVUCgbcTSt4FQZ7rjvaI4+2C/DixSvHMkZ+ztzTcDUqO+d3qsBzHaDXsNk5bhWcMRtLwSIVzYS8wJ2XjMx2IPyNXUBxNNaaMmxXTwdFhJMftRkNTTZuo9lMefMm801X502+WkU8wKGeAbf/MyDBrrnZ4pqQRH8RbUau5grmWEatdh4pzeXtATXDZ1HLKwDIAmCO9ubrJN/b/ajAAMQA5lOnSI4wOTaET0N+QdVZGeGngw2A6561rAYuW3PV/UGqZhJEn5eU8WfdWfa9Nm1hT4bmT88ehYan2Uk3diIItBgYXYhxPytbDox6759ttMQhchysW+IzSvsm6sADZpTGb5hRRWrRQKZ6ShI+xB6nyvvjjNAHPDGaKEYRgEnrg2qgTmBw0mxZqqFDdUB7lFrNSFdqtENY20nGJUMsTtTYXRxbGVV2AhdXS5iA==;WjtevJx7IBoA3dCGSa4uFw=="
 ---

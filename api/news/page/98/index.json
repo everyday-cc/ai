@@ -2,6 +2,152 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-05-14-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
+      "title": "Humans could be controlled by robots, AI firm’s founder warns",
+      "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "originalUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-machine-learning-recommendation-algorithm-market.md",
+      "title": "Machine Learning Recommendation Algorithm Market",
+      "excerpt": "Research Reports has published a new report titled as \"Machine Learning Recommendation Algorithm Market\" by End",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-recommendation-algorithm-market-2023-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-13-playing-with-fire-how-to-adapt-to-the-new-realities-of-ai.md",
+      "title": "Playing with fire: How to adapt to the new realities of AI",
+      "excerpt": "AI is a disruptive force that will change the world. But for AI and humanity to thrive, we must be mindful of risks and properly manage them.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/",
+      "originalUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_artificial_intelligence_on_fire._Mischievous_playful_col_15e8e5da-3af6-41bc-9d8e-3578f3ae3bad.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/playing-with-fire-how-to-adapt-to-the-new-realities-of-ai/amp/",
+      "publishedDateTime": "2023-05-13T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-my-week-navigating-the-awkward-teenage-years-of-self-driving-cars.md",
       "title": "My week navigating the awkward teenage years of self-driving cars",
       "excerpt": "At the time, company staff still sat in the driver’s seat, ready to take over at a moment’s notice if the self-driving car didn’t behave the way it was supposed to. Fast forward a year later ...",
@@ -1087,145 +1233,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards.md",
-      "title": "Metaspectral Says Using AI And Computer Vision Can Monitor Environmental Hazards",
-      "excerpt": "This company belives that artificial intelligence and computer vision can be used to monitor for environmental hazards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d1a1d43ea8cfc1f2796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 924,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
-      "publishedDateTime": "2023-05-12T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-glioblastoma-found-to-hijack-cognitive-neural-networks-with-thrombospondin-1.md",
-      "title": "Glioblastoma found to hijack cognitive neural networks with thrombospondin-1",
-      "excerpt": "The current research discovered a much more nefarious relationship between TSP-1 and neural networks. The study found feedback between high-grade gliomas and neural networks was bidirectional ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/glioblastoma-found-to.jpg",
-          "width": 2122,
-          "height": 1261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-glioblastoma-hijack-cognitive-neural-networks.amp",
-      "publishedDateTime": "2023-05-12T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-perrone-robotics-rolling-out-self-driving-shuttle-program-for-colleges-and-universities.md",
-      "title": "Perrone Robotics rolling out self-driving shuttle program for colleges and universities",
-      "excerpt": "The “Auto Campus” program will allow students to get to their day to day activities through self-driving shuttles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
-      "originalUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/TihH-d-vB9iQxhRq9IIMPHd3Apo=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/I2EV3YZNFJED5BJKC7GTQFXC3A.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
-      "publishedDateTime": "2023-05-12T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC29",
-        "domain": "nbc29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

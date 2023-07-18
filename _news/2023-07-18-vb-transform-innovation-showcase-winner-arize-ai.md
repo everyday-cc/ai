@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner
 webUrl: "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-arize-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,22 @@ images:
     width: 750
     height: 500
     isCached: true
+
+related:
+  - title: "VB Transform Innovation Showcase winner: Unstructured.io"
+    excerpt: "VentureBeat Transform 2023 honored Unstructred.io, which uses natural language to transform unstructured data from raw to learning-ready."
+    publishedDateTime: 2023-07-18T01:07:00Z
+    webUrl: "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-unstructured-io/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 54
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/CARR9508-e1689610177766.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "3N+GNwstqycXgIJb/hW/W6GASf1mwtbwReh8NEfIA6WJvvOs80sqPuCLu8RjtGIlg6Efa8TNSSeHaNcDNOk6pLNfDchXG4M/lBvkFiMIlaIm0D6mipD57ylnYJQ0dje9S7yDQlxG1KmXwhCGWWqajU4ufaVjcTSoG3RX0W5fplar6h1oT6k3VO0igfj6tpkMSINJpJBw3bJ5m4g3v0ANiq7ZUVZHYFGQLHltSdgqIjqv2vyXgUBzhDJyEIbWlKxqPLmdESFyzcaP8Wxw15MnA+mF9/HUo/EIfueQ8ohJ3xyRyOlgRpa74/ss6iY2BEImROf4OKuFklNbWYvIgq2WFECcx+CffzAKCoDwwHhm8ao8P22wqT2IsOR0ecPSYy7aCZozg+QnWF9vjUWfW97l1zeVTt2N0XJCpF1wHvSsmTJxwRjNt/4oIWZEE3P1SfWCVMGdPUHShFWzojE+U1iJimDSKN/Vdo0phQcOj0aagA98wCq+6uvtOVlhYFon4m79Ro8fK7Yxk/juukM2VKEzyw==;gsRrIlyHBC8srkRURsyilQ=="
 ---

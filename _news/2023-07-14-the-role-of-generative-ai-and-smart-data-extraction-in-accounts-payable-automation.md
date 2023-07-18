@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
 type: article
 quality: 83
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/j7xWIjU2vpPvmgjtQF496l0oHro=/0x43:2000x1085/1200x625/media/img/mt/2023/07/languages_illo_horiz/original.jpg"
         width: 1200
         height: 625
+        isCached: true
+  - title: "This week in data: How to choose the right generative AI use cases"
+    excerpt: "Guest Head over to our on-demand library to view sessions from VB Transform 2023. Register Here With the rapid developments in generative AI today, what should your business be focusing on? This week,"
+    publishedDateTime: 2023-07-18T01:07:00Z
+    webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-right-generative-ai-use-cases/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_78287420-8e7b-471c-8e37-7be83210f0cc.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Why generative AI just hits different – and why organizations need to embrace it now"
     excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."

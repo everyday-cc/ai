@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/wix-announces-ai-text-to-website-genera
 webUrl: "https://venturebeat.com/ai/wix-announces-ai-text-to-website-generator/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,22 @@ images:
     width: 920
     height: 460
     isCached: true
+
+related:
+  - title: "Wix's AI Site Generator Builds Entire Websites in Seconds"
+    excerpt: "The results promise to drastically cut down the time it takes to build a website. In a video, Wix shows AI Site Generator asking for your request. You tell it the details—like what the website is for and what pictures you want to use—and it'll build the site in seconds. It appears to rely on stock images from Wix’s own media library,"
+    publishedDateTime: 2023-07-17T19:18:00Z
+    webUrl: "https://www.pcmag.com/news/wixs-ai-site-generator-builds-entire-websites-in-seconds"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03rshm4Jz16mmxFfR1MJleH-2.fit_lim.size_1200x630.v1689617790.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "0VhNUQ48foOZZjkswi6+MWjyWcrp0ab8nds28bDo5qa6nYYqtxiSj3epbwvnbf6gmM239p21nIoxSTwyA37MAJfRfgmEVfMDKAwRLIaq72CZXcCuFAmyOl4uKsc0N8TQeWNM4Z8KrfXckZ26Mrgz5WqcWcC5+3Dditmzq8DwP6JkYd3PRUBDAvz4w+wy5FHrwlhxbwJa3epDk/9z5idvRqDzzKGHs3CE6gqNnhMFMwogQrXBWhTgdo3ToeiNqZuaw37DCMYYICqlGcjzpTPdPUWAHWJrlHaYQVrOmf5/kNAFw3meTG1MfeTf9riILstIQe36BgD6E67GeX7sFt2YCACyHNL25C/oEP8+2CkBggs4kWeEXbkWr7R7u8te6vAJYIFlMqlrI+v+cAFInq9GGh5bQbBRmSt2t9PV89p7ODmilTYjTFM+7DKR4OGdy4XpscrRGzw6VAtX+L8k9K8V8Gfom7a5b1bMZnafC15/iggSbYENiH/gGcB1V765lf83ltRzdLt/H1xQ6UXK2eRG8w==;CAGeaYb9PAIdXWVrxjlC1g=="
 ---

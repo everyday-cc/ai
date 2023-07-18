@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Deepx Drives Innovation In The Evolving Edge Ai Landscape With Its State-Of-The-Art Ai Chip Product Lineup"
-excerpt: "DEEPX offers comprehensive solutions, including scalable AI chip products, commercial module solutions, reference boards, software development kits (SDKs), and application software packages, empowering customers and contributing to the growth of the domestic and global AI semiconductor ecosystem."
-publishedDateTime: 2023-07-17T22:43:00Z
-originalUrl: "https://menafn.com/1106614300/Deepx-Drives-Innovation-In-The-Evolving-Edge-Ai-Landscape-With-Its-State-Of-The-Art-Ai-Chip-Product-Lineup"
-webUrl: "https://menafn.com/1106614300/Deepx-Drives-Innovation-In-The-Evolving-Edge-Ai-Landscape-With-Its-State-Of-The-Art-Ai-Chip-Product-Lineup"
+title: "DEEPX Drives Innovation in the Evolving Edge AI Landscape with its State-of-the-Art AI Chip Product Lineup"
+excerpt: "high-performance AI chip product lineup. With a focus on revolutionizing application areas such as smart cities, surveillance, smart factories, and other industries, DEEPX unveiled its latest AI semiconductor solutions at the 2023 Samsung Foundry Forum ..."
+publishedDateTime: 2023-07-17T23:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepx-drives-innovation-in-the-evolving-edge-ai-landscape-with-its-state-of-the-art-ai-chip-product-lineup-1032451325"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepx-drives-innovation-in-the-evolving-edge-ai-landscape-with-its-state-of-the-art-ai-chip-product-lineup-1032451325"
 type: article
-quality: 36
-heat: 36
+quality: 66
+heat: 66
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?114633"
-    width: 411
-    height: 250
+  - url: "https://mma.prnewswire.com/media/2155237/Samsung_Foundry_Forum_DEEPX.jpg"
+    width: 400
+    height: 316
     isCached: true
 
-secured: "Em7nk43Vj1cggBZl6GpKQnTHUx7BFD7N3ZskxojD71S1kI31Rcr/ANDgXS+ZO7kGxNnezjd2u4MRZBUn2VcISeuMD9z3DR7gphr1nq8ypsPvr1Eg37eGdSG5Xrd4Rf3hTtAxc8Tm+HEYVIFzsp6Yv9gO2kksSay1dhQKUNDJ6S919aYQ6Cechdzj4XfO09V4CelXX+sRicmqhc5MBIlyFEDr10MaVNlrgy4/J/LCY5cacoL0XTj6+TigS6ZSSAEYuYfHW0xOwOPXxc9KHACa71zugLH0dYD7vjPox/jRNKT3gdiU/zeAHBxcvKqw2C+h6pw11zF24d3Nsy74bdhFeoRn+GTyT1H64UJCu6ZLNTk=;TMgTsP/ta+s9OJZB4nyCEg=="
+secured: "7PgFqwu0tGxNQRJmHnCgN1bAv5HTkTo8DtvlNgATKsFpCnidpmLORoTWMQc+/wLEeEQ+JDGrOLNNnC9UkYdyk+xTrKdj/NYmDUwUsfFPxYW8PEQmn2vJ8JribNs2HrhWw9C7HVL4dqQBtmFbZpB1sJXGZu6C9bZkh0dyGP2I0r63Db8lXbkZhEoO6Bee33BKWqRKTyNMTFI3YnXVrhN4Yql1fHeFEk8H+2O8CzcML0qCyyeK6Gg/fSxLmnoXA1AzJty5cnsy6Bc2KWfDM6Byhiy3/XyLy5OYO8g5o5CI/oBU8jTu7/N1bbd+o3yjt1IZBk5fONMWyNL7kSMa9NTtA77ou/UvWqQX5asewrE7Bjc=;UYSjxsstbki4EjJ3vgJdvw=="
 ---
 

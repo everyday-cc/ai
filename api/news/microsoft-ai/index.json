@@ -141,7 +141,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 230,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -193,7 +193,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 421,
+      "heat": 401,
       "tags": null,
       "images": [
         {
@@ -782,58 +782,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-06-indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.md",
-      "title": "India's TCS to upskill 25,000 engineers on Microsoft's Azure Open AI",
-      "excerpt": "Azure Open AI. The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
-      "originalUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/qlRP4wDgxGCejEtGgfWPucOaawE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNB4WIPJRRJB3CEUSDP2QDQILM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.md",
       "title": "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI",
       "excerpt": "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI.",
@@ -864,6 +812,49 @@
         "name": "telecom.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.md",
+      "title": "India's TCS to Upskill 25,000 Engineers on Microsoft's Azure Open AI",
+      "excerpt": "India's TCS to Upskill 25,000 Engineers on Microsoft's Azure Open AI BENGALURU (Reuters) - Indian information technology (IT) company Tata Consultancy Services on Thursday said it plans to train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-07-06/indias-tcs-to-upskill-25-000-engineers-on-microsofts-azure-open-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-07-06/indias-tcs-to-upskill-25-000-engineers-on-microsofts-azure-open-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

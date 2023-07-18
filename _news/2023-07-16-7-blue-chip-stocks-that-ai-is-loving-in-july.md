@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-15T19:25:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
 webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -19,8 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
+  - AI Hardware
 
 related:
   - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
@@ -110,6 +111,6 @@ related:
         height: 779
         isCached: true
 
-secured: "NxoIsas8+9mvsXuwEh8sf+Gy0sWWlQlylLA79KNlIJ0b5fg91WXVm1kTAcsM34w1T2n3GuMWPuqzf6B5wQ4OXu3ENKfy4H6yaIEHRNpbYdlNz82OkXbjJ5r1koSD83mLPqp3zdo1j2uIqcYEXJSBJV2PTy+9unsu/J8R27t4Ng22RZ+flLC8aqN6S9455kIg4Dnv73OxdsGcAcNgSTDHbuE1/Z3894quhxebOGUNmpMcY2pAxEiN3WpvJHVbMkj1xPCEG0EvbJ5ALSSvW1Vo54rOo+ofae7OrIlDWa6ojNN8hVhAxmtZJJae8JglhmPLfnyTAfKtdS9++RGwcbty4RJ0X+7cCNvqpgzgfjJnBmkjE61WZVW7cCNE5rKglaPcdKbjWvLoRWdn2GeSbgeb+y3VeCxCbG2gi0HMEkbblJQieIIoS6lgRBFHUjDFOaY75Rwosx7OJjrla/ERXd9VDnffV35BDy0U128VxbXTB9GLgDZMVSEBzBYAaLRfs7+es0H4a2b7mnKECFcBi7VU/w==;VmG8Ma1dCJJziVRw9//DUQ=="
+secured: "ZvrecrOfkjxToLVrcxX9n/hJlhuhrL33f+OyQM8ozDSK5SxKs/ZTNQijkTASBf0moVE4XT3Iis3dYmk33FlNU2w5alZS+HAXDDJHaqDzU9PWGFWgifBzVqzH0yTJmkb52OFyUa9+MITw4I3Bkt3NdF8PJogz+I9CQ8rXwg0tynnNAQH5QDQ0WtTSWPiYV8scvw/hSpN2t4opy/Ywda547lm4FVvnu3yy1SBc687rCqTGBZ9pe0Xjor2SuGxj/nKB5u27yTnOYBrzPS57ExYdDKF58EwJlrc5Fl/jWgMFOcO14DeaEBMaBF1QHc8rgRNhBr3MgOsET/QxOul/cDNSwSetMZBEtvGZFmD3iOZv52qcYGAEevVsxXZfG+3awM3WMSvZfUVyHoEiQp3582QIc3xU740YylQSqsZ31idLtF+zsQdYS7enSDQpRvuhep4Ru2Q/YP8mX50pPZl7jz/DqWMbCWHjX+6KPspCfiHCm6GX5vAQmvoG97yPxGRB6WmN9/c1kkQpPQ5j0rIicf0fmA==;NrViBZ8xCXBywMfagAESWw=="
 ---
 
