@@ -98,20 +98,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
-    excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
-    publishedDateTime: 2023-07-13T21:04:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/nvidia-invests-50m-in-recursion-to-boost-ai-platform-for-drug-discovery/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 38
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/07/GettyImages-1258974271.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Egyptian FinTechs & Fintech Galaxy join forces to expand into MENA market"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-18T08:49:00Z

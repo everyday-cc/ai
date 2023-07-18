@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 webUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Reuters
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Deep learning model could improve oil extraction"
-    excerpt: "A research team from Skoltech introduced a model to facilitate the planning stage of oil well development. It will help obtain important data about a well—for example, the model can compare a prospective well with those already functioning in the proximity to predict its oil-producing properties and improve well drilling."
-    publishedDateTime: 2023-07-13T21:03:00Z
-    webUrl: "https://techxplore.com/news/2023-07-deep-oil.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-deep-oil.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-deep-oil.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-model-im.jpg"
-        width: 1056
-        height: 792
-        isCached: true
 
 secured: "oLoJgMIjH8XffVTrYH+/fM2Xt9zfrPwS1Ojm/bWrdux8/M2jefLyYmiDuevYfOLbPZh0nsBbNItF2IBp2PcUEhkS2CR8LfHbPVjHvoFizm7fWljxURAGvCtu8o7hKbwmB8mzvCIrU4O7HdYDoPwxd92FkakqGbtqZDq+1cKwy5t6rg2CmlO8esmgZ8AmS25JSqOkEEGw0nvD+6ITJBsdu0SqyqO/iBEhpuAXfPtX467nBdnQZPnspiBGBoRfsUj8G0jLHUTu3A65tDUMqAfHdFT2uVM3Jmy0z98QJhNWi6+Zukc8jGe2UAJ8dU+HXNUHktwwlkxdgagBgKPS7+pMS4l91g8RaQi8YMJol94gSmg=;r8JJtH2bkEkx7f0IW+OBHQ=="
 ---

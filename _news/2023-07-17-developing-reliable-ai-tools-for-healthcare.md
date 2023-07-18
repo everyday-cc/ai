@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-f
 webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "How Does the AI Bill of Rights Impact Healthcare?"
-    excerpt: "The White House’s Blueprint for an AI Bill of Rights provides guidance on ethical and health equity concerns in healthcare as the industry aims to reduce repetitive tasks and boost clinical efficiency with AI."
-    publishedDateTime: 2023-07-13T20:41:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/ai-bill-of-rights-impact-on-healthcare-perfcon?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 76
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1468430468.jpg?itok=5eEFlLKP"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
     publishedDateTime: 2023-07-14T15:53:00Z

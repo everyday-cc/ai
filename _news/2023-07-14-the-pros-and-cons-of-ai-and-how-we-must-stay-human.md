@@ -7,7 +7,7 @@ originalUrl: "https://www.thehrdirector.com/business-news/digitalisation/pros-co
 webUrl: "https://www.thehrdirector.com/business-news/digitalisation/pros-cons-ai-must-stay-human/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How human nature & artificial intelligence could clash"
-    excerpt: "Artificial intelligence is now at every internet user's fingertips, even hackers and bad actors. Our tech talk discussion dives into the unethical uses of AI."
-    publishedDateTime: 2023-07-14T20:47:00Z
-    webUrl: "https://listen.sdpb.org/show/in-the-moment/2023-07-14/how-human-nature-artificial-intelligence-could-clash"
+  - title: "Meet A Founder Putting Humans At The Center Of His AI Startup"
+    excerpt: "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content."
+    publishedDateTime: 2023-07-18T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/"
+    ampWebUrl: "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/"
     type: article
     provider:
-      name: South Dakota Public Broadcasting
-      domain: sdpb.org
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/174b7dd/2147483647/strip/true/crop/2656x1394+0+50/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fsdpb%2Ffiles%2F201701%2FIntheMoment_Logo.jpg"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200"
+        width: 838
+        height: 471
         isCached: true
-  - title: "AI hits the music industry"
-    excerpt: "This is an audio transcript of the FT Weekend podcast episode: ‘AI hits the music industry’"
-    publishedDateTime: 2023-07-14T05:08:00Z
-    webUrl: "https://www.ft.com/content/0b5ee5ad-c7a9-4cd8-be6c-c292a0430338"
+  - title: "A kinder, more human AI – the Cork startup training tech to be emotionally intelligent"
+    excerpt: "Artificial intelligence (AI) needs to be more human and empathetic, according to the Irish co-founder of a startup training AI to be emotionally intelligent."
+    publishedDateTime: 2023-07-16T00:30:00Z
+    webUrl: "https://www.independent.ie/business/technology/a-kinder-more-human-ai-the-cork-startup-training-tech-to-be-emotionally-intelligent/a1247035183.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
+      name: Independent.ie
+      domain: independent.ie
+    quality: 29
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ec46dc5-44ce-49b0-ac62-a94e66385d46.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
+      - url: "https://focus.independent.ie/thumbor/jsHlV2S6F1KdGi2FX6t9kglK2T8=/0x535:4010x3209/4010x2674/prod-mh-ireland/b72cbb94-e034-4dcf-8342-cdc39474b61a/c1b228dd-50e9-4df6-9c25-aadd5f30dcd7/b72cbb94-e034-4dcf-8342-cdc39474b61a.jpg"
+        width: 4010
+        height: 2674
         isCached: true
 
 secured: "E5w1nEV/9Sb51j5LMKR66tA8S7q5UTDBYG7WGpnwctFc87jNm0LUyF+tOWsycqRGVsxB19FfV5l8d3fnFQv/M5v3W7brp4sHv4o7SB4joOEQWMT7gwB80GO7iISbEHHz0VkZccrh4uXLxQDv1GlurCoPGIW85KrVYepNhVZOVD8ujuJGhM6JOgIjV0cuzrv2DPH7hvvbc34JgJfRCT47QJr4CatEoP3VQ7ELbwHZzQY0MLOo4vuadzRB2vo+qipS5583MnM19DKoHNfEM2RK8XWwbY4117K9XbP11sNx6VCe9d8gmCljxgFSCSEHl3dE03EOGgexf1cK/VXkd0tfzeCsH4FqxNXQ0H8SQSc08Xw=;up/JOPJ+F7ItzwLW4gkIXw=="

@@ -30,21 +30,23 @@ images:
     isCached: true
 
 related:
-  - title: "Stable Doodle Uses AI to Transform Your Drawings Into Works of Art"
-    excerpt: "If you have aspirations of being an artist without the talent or perhaps the time to back it up, AI might be able to help. Clipdrop today launched Stable Doodle, which transforms even the most mundane of doodles into a work of art."
-    publishedDateTime: 2023-07-13T20:39:00Z
-    webUrl: "https://www.pcmag.com/news/stable-doodle-uses-ai-to-transform-your-drawings-into-works-of-art"
+  - title: "How AI is helping to translate the Bible into rare languages"
+    excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
+    publishedDateTime: 2023-07-18T15:09:00Z
+    webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+    ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+    cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Angelus
+      domain: angelusnews.com
+    quality: 74
     images:
-      - url: "https://i.pcmag.com/imagery/articles/07HHjZ1eQfEaUA9N5GvFDGw-5.fit_lim.size_1200x630.v1689279868.png"
-        width: 1120
-        height: 630
+      - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
+        width: 670
+        height: 376
         isCached: true
 
-secured: "9KHs6NEWYYdN+IDCwpcFF4VAduGFxq06Uqy/WxB9uiRgsJjbMnX7DqDhRIpNaSbr3+exMmvW/8G0Eqw7LNILEYJi2abLpUjkYvGmmfBzt4fFrtNZd7ZHyussXAQaZ9R5yWpk1bAuynKeYJlBONObxyM+Ft0g8SQYjgrJtkt7lHdrbcHW7e6T63C4kw1fSJ3VnmKNgamGtwBncmpXsLUsZlXt0T7Q2xGZWy8W6nC9sjxVF/op3tsYGYdHolyEuBKJnZu/EwP3VkEzmC7NiZGuYkchirX99yVa2VAcx40HYn6l7fgWnkxth6vCSMynYeDWCku7VnacuZC1CHfi7acDfIicwQBRYTBBj0IUgRfgbFU=;CQF1ABKwzXSaoRGLOVnjYg=="
+secured: "XsnBJ+FGIJSBwGMFV5/jkiu7WJjxyUgkOBahk/YfIBor4Kcz87MRH4m26yXuu95hL95832THK0PRrlBw7IohAHb6KC2CI+XOkPDk3e24b7OCfOKAXo2krNyR08lkfWfZxzhpJGsIvU6Xkzzwwuo+JE5DSSf5glnBGPAR1SYk1CuRpw7uRgJw6y/YLZh12/tMNJ7OycG/WNuF0VU1dJKoWV2GbOAvdb0CwqUwwRGYxq5CiO5BCkgqujVoS7Lf8BN0MO/XjEsvBtN4U4eOrsaMQWabsZSW0j3lCamGU9V/oRjQCbyo3qQDvg5CJlhqqKGRoOo2lT8pChTRRgW+FCxzQgu99/0RnlrfADpdjblk4mgznKeGINqTgS1YqPR4a6J6SIzlUL1TzuBlFxe8TCiHyaBSt7n6UhVZ4040Pg2WWP+Eq5i2VXZTvOtKS6rYl+fdZNwweXmHUsft9pwhLLcCWVJ13nbKvKoJS7GkIasSrP60hfXIyhTZPoluQUMD4k0yRCUzboQh3GbR97hooF6QZw==;FmEsA4WuMmo32uUkNrt5Ow=="
 ---
 

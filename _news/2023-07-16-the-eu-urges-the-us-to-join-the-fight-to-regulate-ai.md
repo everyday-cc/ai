@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-
 webUrl: "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1280
     height: 670
     isCached: true
+
+related:
+  - title: "EU AI Act: The Regulatory Framework on the Usage of Machine Learning in the European Union"
+    excerpt: "Subscribe for free. After the first publication of the regulative structure proposal on the operation and governance of machine learning applications in 2021, on June 14th negotiations have started for the realization of the legislation in the EU Council."
+    publishedDateTime: 2023-07-18T13:13:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/eu-ai-act/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
 
 secured: "O0xglsME5LllRje1ce1l7raZ5qb/4CuU9ft5aHp6l8cJpXBGJDUYpn2HkyrqRRc8W5jQG86xhzCkYaK9X+5bvvYc5RcgSYSdaIdY7dd99GKH1crfjOLRRAcSV3aWBA9Ke3+y+aLyX+Ru/mkhZ+DweQcFEHK2uJqn6lJx+9m8IEZcse3/wYTfqc+p1lms2UUe215cSxLw3eSmz/2KKOBoCF/nLQLibl+05EP4xFoeEzKTNrfCj3E/tUZqKUvXbCRzsbNm/HJatTbZrgdom81NrmhOndlSYJNbTdZP1+Oh0MBCfQJaxAPOiXmwXT5VAX95VKM9PVfvm6s656QDnzt3MvNXJViGvg/0+5cpErhz9D5d6nqTqFou89+0WTFi2HMFHyExuP0XUwLJ2ubafwNe8phc0JdhpCqhS8cM6peT/9O7YlDS0rTqYuRc4eZ1oDmb0GA2e4fEgeFKpeKzPhqd2+cfrHwStxD9oB6dYiPI0QDIZfkqRUHroHFrSrsfEZYB6iiiFYqn2NMerkV8J9x2Ug==;xQh+SgV/m5wi8gUYDZgwVw=="
 ---

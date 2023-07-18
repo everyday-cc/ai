@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/646291/if-you-dont-already-have-a-
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/646291/if-you-dont-already-have-a-generative-ai-security-policy-theres-no-time-to-lose.html/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "More than a quarter of UK adults have used generative AI, survey suggests"
-    excerpt: "Adoption rate of latest AI systems exceeds that of voice-assisted smart speakers, with one in 10 using them at least once a day"
-    publishedDateTime: 2023-07-13T22:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/ae0b5321d2fc84b18a5b63e9990c08535d998472/0_77_6240_3744/master/6240.jpg?width=620&quality=85&auto=format&fit=max&s=9064862d39791e8fa17c6d430f41243b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
     excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
     publishedDateTime: 2023-07-17T12:14:00Z

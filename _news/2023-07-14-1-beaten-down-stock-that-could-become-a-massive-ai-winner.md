@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that
 webUrl: "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that-could-become-a-massive-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Which generative AI companies could be on the fast-track to IPO?"
-    excerpt: "Generative AI solutions are flooding the market because of Microsoft, Google and OpenAI building up an emerging supply line of artificial intelligence companies on the way to IPO."
-    publishedDateTime: 2023-07-13T20:34:00Z
-    webUrl: "https://www.foxbusiness.com/markets/generative-ai-companies-could-be-fast-track-ipo"
-    ampWebUrl: "https://www.foxbusiness.com/markets/generative-ai-companies-could-be-fast-track-ipo.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/generative-ai-companies-could-be-fast-track-ipo.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/What-5-AI-companies-are-ripe-for-investment.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI won’t be a winner-takes-all market"
     excerpt: "The AI heard ’round the world has put the machine intelligence sector back in the spotlight."
     publishedDateTime: 2023-07-15T19:03:00Z

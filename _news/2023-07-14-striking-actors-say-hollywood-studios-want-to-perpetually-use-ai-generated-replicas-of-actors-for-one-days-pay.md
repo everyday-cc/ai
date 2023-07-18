@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bizarre AI proposal from studios helps explain SAG strike"
-    excerpt: "SAG-AFTRA, the union representing actors, made the historic move after negotiations with the big movie studios fell through. It is the first actor strike in decades, with commercial actors last striking in 2000 and film and theatrical actors last going on strike in 1986."
-    publishedDateTime: 2023-07-13T22:26:00Z
-    webUrl: "https://mashable.com/article/sag-aftra-actors-strike-ai-streaming"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051y08YyuZwfipkeXy2CO0L/hero-image.fill.size_1200x675.v1689284649.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever"
     excerpt: "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors."
     publishedDateTime: 2023-07-14T15:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-fra
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI has huge potential to bridge digital divide in India, says MeitY official"
-    excerpt: "Governance Division and Digital India Corporation said that there was an urgent need to provide startups and researchers access to compute, upskill India's software workforce due to the advent of gene"
-    publishedDateTime: 2023-07-17T08:04:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/generative-ai-has-huge-potential-to-bridge-digital-divide-in-india-says-meity-official-10972251.html"
+  - title: "AI and advanced applications are straining current technology infrastructures"
+    excerpt: "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads."
+    publishedDateTime: 2023-07-18T15:16:00Z
+    webUrl: "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 31
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/CR6L9725-653x435.jpg"
-        width: 653
-        height: 435
+      - url: "https://www.zdnet.com/a/img/resize/28e0c7652f5d2bd561c5c6d4f0ce4ad069b88299/2023/07/18/be068a2f-3083-43e1-bc85-8ee67d15ecf4/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qFH7tINrk5Iu2z7ZDRpOsT7brFFIqHK27HrVT4v0Bmbg3BzAehzyALAnY/hZrjssgwSKonMFJLbnsPuaZz2u7VEae6ktbp76YISmNJy5Td6xktuI6pHwdQNVBAsFcLNPaYitr5OpDxX3+hil3cXxgpuT44nAZHVGMcwBuEX5za57zMNgftTKnN9Z5KrwQ79KJC40pUUDgGS9MaILBIiPFn45W+fZ9KvAhNoHOWusqD3vlinP+TfCoHOpZ9a1Ztk0cD6rfRrxjH4K7Ik3B6UUsRtRBDf1ZKEFSTrbf0ZtiitdU/fMR6gI2n8muYXyAdxZyj1ZHr4MjJtfXwJY3P9MktR8QGu7E6/wUrvGiSSYoaXoyRzfdHrEyqe7w42JF2JImgv06YhdSo1okVIUWVKe191QFxgrfZzhqp9sVLyQz2eG+ydZC+Yvr8ISz7yJTAjqDm6hcZ2M7d2DHK4wsZBoH33DrnotIpq4XsWwp+xfDjmsX8CvxntgwRWuLfti9mFez584zwZPzKTgE8OYZYY5jA==;tmjAHNH/FZeNGaIQLvUk8g=="

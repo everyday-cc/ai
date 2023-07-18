@@ -41,20 +41,29 @@ related:
         width: 594
         height: 373
         isCached: true
-  - title: "India’s Infosys signs five-year AI deal with $2bln target spend"
-    excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to"
-    publishedDateTime: 2023-07-18T03:28:00Z
-    webUrl: "https://wsau.com/2023/07/17/indias-infosys-signs-five-year-ai-deal-with-2bln-target-spend/"
+  - title: "India's Infosys signs five-year AI deal with $2bln target spend"
+    excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to provide Artificial Intelligence (AI) and automation services that will span over five years,"
+    publishedDateTime: 2023-07-18T15:28:00Z
+    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2bln-target-spend-3635836"
     type: article
     provider:
-      name: WSAY
-      domain: wsau.com
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 39
     images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-07/18/2023-07-18T032711Z_1_LYNXMPEJ6H02K_RTROPTP_3_INFOSYS-RESULTS.JPG"
-        width: 800
-        height: 514
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
+        width: 1200
+        height: 676
         isCached: true
+  - title: "AI revolution: Stability AI CEO predicts grim future for outsourced coders in India"
+    excerpt: "Stability AI CEO Emad Mostaque predicts that most of the outsourced programmers in India will lose their jobs in the next year or two as a result of artificial intelligence (AI) playing a larger role in software development and reducing significantly the need for human involvement."
+    publishedDateTime: 2023-07-18T12:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-revolution-stability-ai-ceo-predicts-grim-future-for-outsourced-coders-in-india-10981501.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 13
 
 secured: "eXcGMGM8O3MGiD1BL1dveE9d6DTm+7bfiNyDNVklU1BfJCgNh5tR6W0eryOjzHH+1/VQaCA5TBrMcxbzHKHgl32pqh9sVr6QiB6dVs6XMw99Kjhi8TURnOeLulXhaTReFb+wlA38MQVYV6I0IeSQTzwbBep2QeOgds43Vh/b/AjnghUZww4/Q49jXVLhwdTqu7cG1I7kwWQ2Bkxr+mN8X4NKUsbBgEX0DeydtrqGDLN1TM5YiSjZkqdzZ4mnT0X18DXSFtEc4M1WIUsdnUhyLtSR9L6OkvZUD59DkHtadrOaYuAujn+c4odE4ywvNEToI6VnEMRMZRUHy41Vjdn0f8m4y0Dhii9UDQTkZWPcexs=;gMjFhN1Df4Tm38awHqHX2g=="
 ---

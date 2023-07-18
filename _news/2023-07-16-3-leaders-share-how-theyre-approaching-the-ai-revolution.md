@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 140
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64760b103ac0d58b057b69d9/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI scam calls imitating familiar voices are a growing problem—here's how they work"
-    excerpt: "Scam calls using AI to mimic voices of people you might know are being used to exploit unsuspecting members of the public. These calls use what's known as generative AI, which refers to systems capable of creating text,"
-    publishedDateTime: 2023-07-13T19:30:00Z
-    webUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-scam-imitating-familiar-voices.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-scam-calls-imitatin.jpg"
-        width: 1356
-        height: 668
         isCached: true
   - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
     excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."

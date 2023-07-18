@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html"
 type: article
 quality: 77
-heat: 99
+heat: 110
 published: true
 
 provider:
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "India’s Infosys signs five-year AI deal with $2bln target spend"
-    excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to"
-    publishedDateTime: 2023-07-18T03:28:00Z
-    webUrl: "https://wsau.com/2023/07/17/indias-infosys-signs-five-year-ai-deal-with-2bln-target-spend/"
+  - title: "India's Infosys signs five-year AI deal with $2bln target spend"
+    excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to provide Artificial Intelligence (AI) and automation services that will span over five years,"
+    publishedDateTime: 2023-07-18T15:28:00Z
+    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2bln-target-spend-3635836"
     type: article
     provider:
-      name: WSAY
-      domain: wsau.com
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 39
     images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-07/18/2023-07-18T032711Z_1_LYNXMPEJ6H02K_RTROPTP_3_INFOSYS-RESULTS.JPG"
-        width: 800
-        height: 514
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
+        width: 1200
+        height: 676
         isCached: true
   - title: "India’s Infosys signs five-year AI deal with $2bn target spend"
     excerpt: "BENGALURU: India’s second-largest software services exporter Infosys said on Monday it has signed a deal with an existing client to provide artificial intelligence (AI) and automation services that will span over five years, with a target spend estimated at $2 billion."
@@ -59,6 +59,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI revolution: Stability AI CEO predicts grim future for outsourced coders in India"
+    excerpt: "Stability AI CEO Emad Mostaque predicts that most of the outsourced programmers in India will lose their jobs in the next year or two as a result of artificial intelligence (AI) playing a larger role in software development and reducing significantly the need for human involvement."
+    publishedDateTime: 2023-07-18T12:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-revolution-stability-ai-ceo-predicts-grim-future-for-outsourced-coders-in-india-10981501.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 13
 
 secured: "ZjiIeOhZQD++bhDeZ8mi+BXb62e8D8Tk9qB6HDOuUCnqRWtk0WK+90HT1HphdBj5t/bZOrjPc2BbGHjnEk0Ynx4iCgvyH6Vl3H7GLBGMai31fkrt1kEFQzoN3EUIsQlMX4iJcBEp66TJ0OWtnj007SI3qKUHm1juo+itS1VxPpJTjqczsYNlZWEaiGIQqITcGT6pImvvYH8fgzNIZUIVYaQWdovNfgM4mWOAkNIz3siewR3AKRWMAzMKykT8idZzQ+4rxtYGrzqfvMfg6GvUsDCx+cPcS+zIIuwFsG8oaM0yIWkcjTyiVqzoijzyygWv1Z8IKBTmU0TRsmRpY6Af/bDfRiDgRz5TzrSKZzGG2qk=;sCB9vvjQAM3ZEyqSDJdWaQ=="
 ---

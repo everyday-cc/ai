@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft announces Azure AI trio at Inspire 2023"
+    excerpt: "Among them are three new AI capabilities that merit deeper exploration. These capabilities follow a substantial number of Azure-based AI releases this year from the Redmond-based corporation. Also: The best AI chatbots John Montgomery, Microsoft corporate ..."
+    publishedDateTime: 2023-07-18T15:35:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 119
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1496ee39182cc4443e405da8d169c49c0daabaf1/2023/07/18/29cb280f-8891-4ff4-a4ff-45b5cb9a0b61/gettyimages-1513927725.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Join AWS, Google Cloud, Microsoft Azure at free SANS Cloud Security Exchange"
     excerpt: "On 18 August, subject matter experts will speak on today’s pressing cloud security issues at the SANS Institute Cloud Security Exchange event."
     publishedDateTime: 2023-07-18T06:32:00Z
@@ -41,21 +57,49 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon, Microsoft and Google cloud services bet heavily on AI, but do their customers even want it?"
-    excerpt: "\"AI\" may be the two most frequently spoken letters in business this year, but the technology is not as high a priority as one might think when it comes"
-    publishedDateTime: 2023-07-13T21:01:00Z
-    webUrl: "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3"
+  - title: "Microsoft's Inspire 2023: 10 quick AI and partnership announcements you need to know"
+    excerpt: "We explore ten key takeaways from Microsoft's Inspire 2023, focusing on AI advancements and strategic partnerships in detail."
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-inspire-2023-10-quick-ai-and-partnership-announcements-you-need-to-know/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-inspire-2023-10-quick-ai-and-partnership-announcements-you-need-to-know/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-inspire-2023-10-quick-ai-and-partnership-announcements-you-need-to-know/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 90
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://images.mktw.net/im-816626/social"
-        width: 1280
-        height: 640
+      - url: "https://www.zdnet.com/a/img/resize/413f6dc41c8ce82ea61fe22829ec68eb6873f22b/2023/07/18/afe9175b-aa72-4137-b6f7-2e0039c5f587/gettyimages-1259154565.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft 365 Copilot AI’s steep price is an ill omen for Windows users"
+    excerpt: "Microsoft announced that it will charge businesses $30 per user per month for Microsoft 365 Copilot, its AI assistant for the Office apps. In some cases, that's more than double its price for Microsoft 365."
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://www.pcworld.com/article/1997371/microsofts-price-for-its-business-ai-is-insane.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 86
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/07/m365copilot_business_1920x1080_print.png?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Microsoft Continues Bringing AI Tools to Microsoft 365"
+    excerpt: "This means you can use images in Bing Chat to search for things. The enterprise AI market is expected to reach $88 billion by 2030, according to Verified Market Research. Given the rapid growth, it's not at all surprising that companies are being bullish ..."
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-continues-bringing-ai-tools-to-microsoft-365/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/resize/3d416123a1af9efd7b4bf5b094dbf8f9856e0ba2/hub/2023/07/17/f433b2f5-e46f-4b6f-b6fd-4ea405f6700d/blog-hero-image-under-embargo-until-7-18-8-30am-pt.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Semantic Kernel will support OpenAI plugins"
     excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
@@ -68,6 +112,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 84
+  - title: "Microsoft wants your next salesperson to have an AI copilot"
+    excerpt: "The basic goal of a copilot is to bring the power of generative AI, and in Microsoft’s case the Azure OpenAI service, to applications to help answer questions, provide recommendations, perform sentiment analysis and generate content. In March ..."
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-wants-your-next-salesperson-to-have-an-ai-copilot/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure"
     excerpt: "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI."
     publishedDateTime: 2023-07-17T17:14:00Z
@@ -81,6 +139,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft puts a steep price on Copilot, its AI-powered future of Office documents"
+    excerpt: "Microsoft is reportedly working on its own AI chips in an attempt to avoid a costly reliance on Nvidia. Microsoft is also bringing this Copilot experience to Teams, with integration into the Teams phone calling experience and inside Teams Chat threads."
+    publishedDateTime: 2023-07-18T15:31:00Z
+    webUrl: "https://www.theverge.com/2023/7/18/23798627/microsoft-365-copilot-price-commercial-enterprise"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 80
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/us3C3NVbjWs237WlxrGoBjQflZI=/0x0:1105x675/1200x628/filters:focal(553x338:554x339)/cdn.vox-cdn.com/uploads/chorus_asset/file/24794375/M365Copilot_HeroBanner_Apps_BLOG_FEATURE.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
     excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
@@ -142,6 +214,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Microsoft soars toward a record high after UBS turns bullish amid AI enthusiasm"
+    excerpt: "Microsoft's stock surged toward a record after UBS turned bullis, citing enthusiasm around pending artificial-intelligence catalysts."
+    publishedDateTime: 2023-07-14T12:53:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-neutral-at-ubs-on-cloud-stabilization-ai-catalysts-2eaff8ea"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
   - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
     excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."
     publishedDateTime: 2023-07-14T14:14:00Z
@@ -184,6 +265,20 @@ related:
         width: 505
         height: 315
         isCached: true
+  - title: "Inspire 2023: Microsoft continues AI push at Inspire"
+    excerpt: "Microsoft kicked off its annual event, Microsoft Inspire, with a focus on collaboration and the transformative power of artificial intelligence (AI)."
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://www.onmsft.com/news/inspire-2023-microsoft-continues-ai-push-at-inspire/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Inspire-2023-Update.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Partnership with Microsoft brings Splunk to Azure Marketplace"
     excerpt: "During its first keynote at .conf23 in Las Vegas, Splunk announced that it has formed a strategic partnership with Microsoft. With that, Splunk lands in"
     publishedDateTime: 2023-07-18T04:55:00Z
@@ -198,19 +293,19 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks"
-    excerpt: "Facebook and Microsoft continue their dominance as the most impersonated brands"
-    publishedDateTime: 2023-07-13T20:42:00Z
-    webUrl: "https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks"
+  - title: "Teladoc expands Microsoft partnership to add AI documentation tools"
+    excerpt: "The telehealth company will integrate artificial intelligence tools for clinical documentation, including Nuance’s Dragon Ambient eXperience, with its platform for hospitals and health systems."
+    publishedDateTime: 2023-07-18T15:23:00Z
+    webUrl: "https://www.healthcaredive.com/news/Teladoc-Microsoft-AI-clinical-documentation-partnership/688236/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
     images:
-      - url: "https://beta.darkreading.com/images/og-image.jpg"
-        width: 342
-        height: 342
+      - url: "https://www.healthcaredive.com/imgproxy/kOWfD2ShjgQn4cjAE4UozSetVvZ8l6nsoI0nDML5F-w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNTMzNTc0MTAuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
@@ -226,6 +321,29 @@ related:
         width: 1194
         height: 627
         isCached: true
+  - title: "Teladoc expands partnership with Microsoft to integrate AI and voice technology into its telehealth platform"
+    excerpt: "In an effort to further enhance its telehealth services, Teladoc, the leading telehealth company, has announced an extended collaboration with tech giant"
+    publishedDateTime: 2023-07-18T13:37:00Z
+    webUrl: "https://www.onmsft.com/news/teladoc-expands-partnership-with-microsoft-to-integrate-ai-and-voice-technology-into-its-telehealth-platform/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Teladoc-expands-partnership-with-Microsoft.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+    publishedDateTime: 2023-07-16T04:12:00Z
+    webUrl: "https://www.inferse.com/617589/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
     publishedDateTime: 2023-07-15T05:17:00Z
@@ -235,6 +353,24 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
+  - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
+    excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
+    publishedDateTime: 2023-07-14T11:41:00Z
+    webUrl: "https://seekingalpha.com/news/3987638-microsoft-rises-ubs-upgrades-citing-stabilizing-cloud-spending-ai-catalysts"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 29
+  - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
+    excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
+    publishedDateTime: 2023-07-18T13:09:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59601774-teladoc-health-inc-teladoc-health-expands-collaboration-in-ai-with-microsoft-to-address-healthcare-workforce-crisis-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
   - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
     excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
     publishedDateTime: 2023-07-15T17:21:00Z

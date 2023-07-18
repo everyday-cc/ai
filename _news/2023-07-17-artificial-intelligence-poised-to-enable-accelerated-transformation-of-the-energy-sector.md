@@ -158,6 +158,15 @@ related:
       name: gulftoday
       domain: gulftoday.ae
     quality: 19
+  - title: "The great acceleration: CIO perspectives on generative AI"
+    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
+    publishedDateTime: 2023-07-18T13:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "kO2TvGIUyL6IxlqNMa+acbqoIWuwS8z/1Ak1M+YWHNNCmzvUTm4a28w3peRPaoa43SX8I6dA161MHM1OO2h+lhrdmzXJVaAeQjQS7rq0IQHvgxNVilUKC8L1fv6/KVyrunlvVYP/sdAJ7ygiB68hRAXJlXjrEmtFtCF46hwX9ETBcb4LM/QCuj0vae5Rrxcv4h7oJI/6las6Tx3uyuSR+T4NxU0Qhg4nvxdICJRl9RQugbbyXvo/I5dKYPo+Zdp82MHu+J4DNtOBdzwPkB6FBVT/PJsuZRzN+YO0zzjM4IoZO+QtYp+qbySPVh4RmMsFABCAf0q48m7B55NE+rN1G7fxVhNzbvJ5xk60qN/7hrY=;C7PFqAdrmZ8dJD5iAPYnnQ=="
 ---

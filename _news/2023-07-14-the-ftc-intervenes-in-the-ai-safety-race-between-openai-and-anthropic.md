@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Anthropic-claude-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Generative AI And Data Science Have Mightily Paired Up To Reinvent Data Strategies, Exemplified Via Release Of OpenAI’s ChatGPT Code Interpreter"
+    excerpt: "Generative AI is increasingly going to be a front-end tool for data science, which will shake-up organizational data strategies. Here's the scoop and what to do about it."
+    publishedDateTime: 2023-07-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b4bdecf8d20b23cae9bcfd/0x0.jpg?format=jpg&crop=2308,1299,x0,y73,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "eyx0D+owo8kZjIBEZ34ylEsq7zJAEE6S+Rv9MKFLcptveEjI2Oxgq23mpAAp8drcB0GZO/e0a62KZWqn6LwMK4f+DB/Y1EaXUEKCmCdtFl32lYq3mrZqdT5XnF7RGQIU1LAxqVTRxNyNz41cZGV7zOGxi3PVY+4vb62FynxSmMRoGCgmDDI6VorJIWL0KK6onvNcyWxMl4//QzsIlmFzv9KdyyBWpQpg7tE7XzKzBEkdgSnbPHXMD/781JBaR5yhBtKGjpGvpkgGh0bCUh3Yc+c3ip6J7iKHNpYG3sg6u1P0u702lrpQfmzCmxj3IWep20/7ZTitjWo0FEYPF3eeEsLsK71T3cda9ZkB64ZUBzWdkxUA92WQMegh6Ai29A8XrhOrsBnfY4h9qfCCvZmoRj/XEgXGGTBsBtFORquji+Uxab2ofLTNP6/YDZgVqjv8y7xuKvMvZSp68db9vwZ2TrWQMeinFz8ua4kMleZuIQkxxEBBkrIyCaEjmpXUJ3AMDGT1KjSW+MYs2+PgXqpt1w==;zdryEZxVQCOON2qc8I48zQ=="

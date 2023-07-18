@@ -18,10 +18,33 @@ topics:
   - AI
 
 related:
+  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost ML Inferencing to the Cloud"
+    excerpt: "Wallaroo.AI, a leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic"
+    publishedDateTime: 2023-07-18T15:20:00Z
+    webUrl: "https://www.datanami.com/this-just-in/wallaroo-ai-and-ampere-computing-collaborate-to-bring-energy-efficient-low-cost-ml-inferencing-to-the-cloud/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
+    excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
+    publishedDateTime: 2023-07-18T12:08:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/wallaroo-ai-and-ampere-computing-to-bring-cost-effective-ml-inferencing-to-the-cloud"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 29
   - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost Machine Learning Inferencing to the Cloud"
     excerpt: "Wallaroo.AI, the leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic collaboration with Ampere ® Computing to create optimized hardware/software solutions that provide reduced energy consumption, greater efficiency, and lower cost per inference for cloud artificial intelligence (AI)."
-    publishedDateTime: 2023-07-18T11:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-wallarooai-ampere-computing-collaborate-bring-energy-efficient-low-/2023/07/18/9849543.htm"
+    publishedDateTime: 2023-07-18T12:25:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/18/9849543.htm"
     type: article
     provider:
       name: TMCnet

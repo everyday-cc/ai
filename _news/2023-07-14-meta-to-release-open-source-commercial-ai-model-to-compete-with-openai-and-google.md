@@ -62,6 +62,22 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Generative AI And Data Science Have Mightily Paired Up To Reinvent Data Strategies, Exemplified Via Release Of OpenAI’s ChatGPT Code Interpreter"
+    excerpt: "Generative AI is increasingly going to be a front-end tool for data science, which will shake-up organizational data strategies. Here's the scoop and what to do about it."
+    publishedDateTime: 2023-07-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 52
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b4bdecf8d20b23cae9bcfd/0x0.jpg?format=jpg&crop=2308,1299,x0,y73,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jXO+L0rLS2JZ6cJvElvqL61EVjZ6mX32Vp/EWtUOb2ZCuGcF7ntPKJk8pq004i8gvYj92ZD5zmsiZO5c3ZeuwlBdZ+28k54tYqHUlBEV8/GX01PSfySvi8RhRtFi92w0MnPT8LBxRGYWNKh0BEUQbM38zxRw133YLZrCKFokDZIc1DlEksyByNn+Uj+wnhldmp1BXRaJwd50o9NbV5ZnhvFIUZIbVMYu8Z10e27MK2EvPyqPhfOJbQLDQpZm8zODe71axPvBs0iZNvjaywHjAnJqAVyVzVdGQrJDjxnrNW5zz6OPdDHuDz9LQmx9HzkzeVTNH1OCsKXzZ1EkQDCPxRjZIkc5ljag3ePc02AWmf+UvKjjAFzIrXTyTC7aBcWhYwqS5cOk8pAmvjABsKC5Lh/vgt7IG8zDYGIX8zBWBVkXxMVaQdbZbwNcI+MlFYl/kB+JFwYkdE0YL7GeB3Amj6P989CO7wzQeEwaQZpl9UQlTIhmb5mjrOiaGDG7HBZeapGplVtweoEGn0QMNgYakg==;pL6iKSUfn2wf0uDeXpPFOA=="
 ---

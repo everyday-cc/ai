@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Actors say Hollywood studios want their AI replicas — for free, forever"
-    excerpt: "During today’s press conference in which Hollywood actors confirmed that they were going on strike, Duncan Crabtree-Ireland, SAG-AFTRA’s chief negotiator, revealed a proposal from Hollywood studios that sounds ripped right out of a Black Mirror episode."
-    publishedDateTime: 2023-07-13T20:34:00Z
-    webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 67
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/EOBvakgKZaoIGZu_qy6UzPlSD_s=/0x0:1422x750/1200x628/filters:focal(941x379:942x380)/cdn.vox-cdn.com/uploads/chorus_asset/file/24693367/black_mirror_s6.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How 2013 film The Congress predicted Hollywood's current AI crisis"
     excerpt: "With US actors striking in part because of the threat of AI to their livelihoods, a 10-year-old, little-seen movie starring Robin Wright now seems eerily prescient, writes Caryn James."
     publishedDateTime: 2023-07-17T23:01:00Z
@@ -52,29 +38,15 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Hollywood's 'Groundbreaking' AI Proposal for Actors Sounds Like a Nightmare"
-    excerpt: "SAG-AFTRA said that AMPTP's AI plan included scanning background actors and using their likeness \"for the rest of eternity.\""
-    publishedDateTime: 2023-07-13T22:45:00Z
-    webUrl: "https://gizmodo.com/sag-aftra-ai-actors-strike-amptp-ceos-likeness-image-1850638409"
+  - title: "Hollywood is on strike over AI, but companies see creative potential in digital humans"
+    excerpt: "As Hollywood protests the impact of generative AI on the film industry, AI video startups see the creative potential of digital humans."
+    publishedDateTime: 2023-07-18T13:13:00Z
+    webUrl: "https://venturebeat.com/ai/hollywood-is-on-strike-over-ai-but-companies-see-creative-potential-in-digital-humans/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 65
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/acbbd1a48a2600009a805233b0cc9ad8.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Could movie studios use AI to replicate an actor's image and use it forever?"
-    excerpt: "AI has made its way into nearly all of our favorite art forms including music, visual art, and now possibly even films. According to SAG-AFTRA, AI makes it possible for background performers' images and likenesses to be used forever."
-    publishedDateTime: 2023-07-14T19:39:00Z
-    webUrl: "https://www.zdnet.com/article/could-movie-studios-use-ai-to-replicate-an-actors-image-and-use-it-forever/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
   - title: "Artificial intelligence could prevent mediocrity in Hollywood: Simon Pegg"
     excerpt: "Simon Pegg believes that artificial intelligence could prevent mediocrity in Hollywood. The Mission: Impossible - Dead Reckoning Part One has spoken out in support of the technology as he is convinced that the threat it poses may lead to an enhancement of quality in the film industry with humans needing to raise their game."
     publishedDateTime: 2023-07-16T05:18:00Z

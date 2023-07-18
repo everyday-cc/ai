@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Biren Intelligent Technology Exploring IPO amid Rising AI Hype"
+    excerpt: "The proposed IPO and funding round comes at a time when the demand for AI chips is skyrocketing across various industries. Biren’s advanced chip solutions have gained recognition for their superior performance, energy efficiency, and scalability, positioning the company as a key player in the Chinese AI chip market."
+    publishedDateTime: 2023-07-18T12:17:00Z
+    webUrl: "https://www.coinspeaker.com/biren-intelligent-technology-exploring-ipo-amid-rising-ai-hype/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 19
+
 secured: "FjzDo/3KxAO3OCrCzYE5wgqtJauH+Ajfvol50NIPmIdyavz8V4qVYSBaQA6GsgXA1R0ts0+oo5BrLGqFisXoisK0FzjBuJyZKUOACM6Y1z3O73glcXgS2j54bmYHRL/4LX7AszHxjTfIMmOaJAllIiEePbUDC7WB9jX8yEprBsC7zsSXBQZ8/3fpNtjscoe+hepVVobS+EeoATogeqUft7tFi/EzPGySed7BxTirGdVVHGRSMFszCjmkclz8VED/CTP3Od8kqD1MDfwGVnj0S9zFsgte6ZeWF/IYGYlGnY9HEBpGl0UO2F6du7WdTT96Hw8/JiQJnvewTMNR3AzIS50GlGRv8YADqYgVUbc/HnCzRCQHiJUzWJ3R4EtNknNSIBjV1Ir2Irfe/0oA5WHc9uQwJ6DsqvjrScA4T5sqXn65mvLQ32g7xPFU62cZqZ6ZdUVcku9mdhgw8oAYdXq9mYp/3Rxm5Cqo2bDinxirTlJeqNV5d11TblpM+Trje2raa3ODEcWZcudye47w40S6oA==;/U7xI08GyC6mKItGb85cwg=="
 ---
 

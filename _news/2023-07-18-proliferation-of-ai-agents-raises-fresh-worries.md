@@ -150,6 +150,15 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 34
+  - title: "The great acceleration: CIO perspectives on generative AI"
+    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
+    publishedDateTime: 2023-07-18T13:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
   - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
     excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
     publishedDateTime: 2023-07-17T09:13:00Z

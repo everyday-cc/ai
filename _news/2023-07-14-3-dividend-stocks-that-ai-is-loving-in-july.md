@@ -20,15 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "3 Artificial Intelligence Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology"
-    publishedDateTime: 2023-07-13T19:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "7 Blue-Chip Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right"
     publishedDateTime: 2023-07-15T19:25:00Z
@@ -65,20 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "AI Can Write, But Is It Any Good at Picking Stocks?"
-    excerpt: "With its potential to boost productivity across multiple industries, artificial intelligence is the stock market investment theme of the year. But if you ask traders how AI is changing investing itself,"
-    publishedDateTime: 2023-07-17T01:58:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/07/17/ai-can-write-but-is-it-any-good-at-picking-stocks-quicktake/9f5bcb56-246f-11ee-9201-826e5bb78fa1_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
 
 secured: "ipKqKQV6WPKD6vBt/R4UDXhOn4afckFsRHxJxOchtsV6AJrQFJqoQpesKv4QboNC+uZkrbXJzUyGDSuGCFJOgYZ/ORugvIsLlgq5/GRrklmPulV5pDAlwVpCRTo5YdGK5w1jKbR56scY8MB59KHzOW2GdrKdrXTFTbdJWda0Reown5EkM8nWOwkw0hbJQO/dS/Sct6Tjs0pN0vYZHQzt9SgnVdfqJ4u4utluJ6ZnHtzg99c11zXGNxGJ2AdDlR5hN83NzWHW9T152mG12cuMy8OtCHRj6dIcWbP5QbRGz89ubYHfuGh11scKooRn2Wx4AapTqVoYcx5zlNM1x0tms3pZjaXt8oH9VrrcmLW0j+k=;36Ks/SYTwwBcMrqGgWvQjQ=="
 ---

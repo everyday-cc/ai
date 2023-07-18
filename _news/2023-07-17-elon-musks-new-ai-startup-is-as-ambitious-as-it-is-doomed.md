@@ -67,6 +67,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
+    excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
+    publishedDateTime: 2023-07-13T23:42:00Z
+    webUrl: "https://www.abccolumbia.com/2023/07/13/elon-musk-launches-his-own-ai-company-to-compete-with-chatgpt/"
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2023/07/g/t/wirestory-2e626553cf6333f642fb02fe247707ca-16x9-992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "hElwPa1orUhcZK8oxvKn9PYMmjV1jQIovHaHqhLCXY1NWZRKA0TW49NAsN8ozHu9Ni2Nk7Wo6KWMa3cMMPq2bgGBn+r8MLGomiDhzh88dLarfVJ7X+XP2weHDsmtMcubn4xVX7x6B49hq/Kw4Oh3K85tGrxime7MQR7YagJGDnfW3KG+jfyAE5uOiFh9ckAwRrPn1gN0qiLr7Be2kBQjKJrvNlJtoxYN18gcwG6vWKP2RbIpEowtbAaGQQh/9jgkEDizG/v6TE5gRfDdSNa/T/deZgRTzPMn08Hon9dYkFGUuJGct5SSDQdaffMBfm69NyPiwkvaDMHEJL3DroiZO1ChIEuaQwmBNbOboJdHk8O+BKc2pfxH86S4vmREFsprsi5RN4RHNTdrYLL016bTOti7Vu8dve5HFlt6xIyoMHPk5uxoaMLjvucRoX0cBopeEr6Jb/Q/voW2ahVe4jyN4A48ZsqtOjdeGQjy87Q9pqcSH87RfXFavuxXjKAhGeojzHJGZjyhGRMLgeXj44HJiA==;itHP7rquPnfvLd90ff+xyQ=="
 ---

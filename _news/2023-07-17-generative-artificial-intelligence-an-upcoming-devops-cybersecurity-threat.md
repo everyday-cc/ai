@@ -38,22 +38,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "More than a quarter of UK adults have used generative AI, survey suggests"
-    excerpt: "Adoption rate of latest AI systems exceeds that of voice-assisted smart speakers, with one in 10 using them at least once a day"
-    publishedDateTime: 2023-07-13T22:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/14/more-than-quarter-of-adults-have-used-generative-ai-artifical-intelligence-survey-suggests"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/ae0b5321d2fc84b18a5b63e9990c08535d998472/0_77_6240_3744/master/6240.jpg?width=620&quality=85&auto=format&fit=max&s=9064862d39791e8fa17c6d430f41243b"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "jvRncEjPVW7Sp78jvag6ggkAFWSZK+ZKOXaTmwne+xJfrbPfIVCBNQHeSnnDyEiXJYGqdYGdbKLyfsE1vTI7oZhAqqAJ625VWV0UOepbyRcWmIDQbXFoJERnb0BkI797XLKOI9XFn6vGbH5KhFvUjwhwGwdEySxV4cPTH0SAznGC3pp8dt7PeZEqjtZvEvHzpLp2lDACB0CvQYnPNYGWOvBr2yyKDNvzKKJi8yiD/+sMc1GZdD1oOy1LemoBprZMO0t+bHVCl1rGA8xg8cWqWSZIJo0nt2mjdXh75pPo3X0Qw0zFmvYxbYpL6fqi3D8Iv6quOd7UQTjUf/wTySlCA1z4OZD8RTR0NNdbjbfFiZ+3Lmsur5dKQw9g/SIF33PCC3XGJ427bxmNoCp1XwEmUl09+WC1ifndfFQqB3JUYQ3tcIghnr+8xSpAHXQlKDtjZibMc/X0VEISq9O/42H/s+kaFQh+x0yoRMa5Hjo3e3biMFUisbnUP27rqMADModYHs13xIkg3Oomi2fmePC+GQ==;c/3pQiPjphoRUDnluZ5nHQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3988297-samsung-said-to-make-teslas-
 webUrl: "https://seekingalpha.com/news/3988297-samsung-said-to-make-teslas-next-gen-self-driving-chips"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Electro-Mechanics Initiates Mass Production of Power Inductors for EVs, Self-Driving Cars"
-    excerpt: "Samsung Electro-Mechanics launches mass production of power inductors vital for electric vehicles (EVs) and self-driving cars. In a move to position the inductor as their next major product after the multilayer"
-    publishedDateTime: 2023-07-17T05:45:00Z
-    webUrl: "https://www.econotimes.com/Samsung-to-Mass-Produce-Power-Inductors-for-EVs-1659508"
+  - title: "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0"
+    excerpt: "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node"
+    publishedDateTime: 2023-07-18T13:54:00Z
+    webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 11
+      name: Electrek
+      domain: electrek.co
+    quality: 83
     images:
-      - url: "https://f1.econotimes.com/2023/07/f7khjkcmod_th_1024x0.jpeg"
-        width: 1024
-        height: 614
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-D1-Dojo-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "OUUgDVlM8cfMnC6iKG/WRPobTt5pz+MT+eBvuSkKe3WxqCGNIZNzJle+88Yl3KaKbO3XtTNFA6inn7cUxgBmP/JdozG7ql7G2Vr+8o6HCU99VjGn024Vf0kSZ6QTRz3lPy0s8eKWeAt1Y5ebFQ8eTNIhl/QSXs7Ft+Foil/gOGy9s7AVRkLmurzFGrdgcY0zs4XStKB2ouWzxrBTsoEfzrB2xMlKayVwIQtFEgNaCdPLHlOtg9bEH85H8QByBdUgM+2e0kguYFy2rWzZuGg5MaxlO0MEF07B29QA0KzF7eoaLjRuyQVgfhFofI9flvNMZrVQU+ABvMa0J8esMOmnh5h64wpBYDyXTQMSSZUSlxw=;DB/BgYXBsjeUGnGoOJcBMA=="

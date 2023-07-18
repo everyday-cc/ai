@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposa
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bizarre AI proposal from studios helps explain SAG strike"
-    excerpt: "SAG-AFTRA, the union representing actors, made the historic move after negotiations with the big movie studios fell through. It is the first actor strike in decades, with commercial actors last striking in 2000 and film and theatrical actors last going on strike in 1986."
-    publishedDateTime: 2023-07-13T22:26:00Z
-    webUrl: "https://mashable.com/article/sag-aftra-actors-strike-ai-streaming"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/051y08YyuZwfipkeXy2CO0L/hero-image.fill.size_1200x675.v1689284649.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
     excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
     publishedDateTime: 2023-07-14T06:47:00Z

@@ -112,20 +112,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
-    excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
-    publishedDateTime: 2023-07-13T21:04:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/nvidia-invests-50m-in-recursion-to-boost-ai-platform-for-drug-discovery/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 38
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/07/GettyImages-1258974271.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
     excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
     publishedDateTime: 2023-07-14T17:46:00Z

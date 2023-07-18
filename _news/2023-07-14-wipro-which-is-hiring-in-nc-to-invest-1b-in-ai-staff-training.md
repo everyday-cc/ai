@@ -58,6 +58,20 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "India's Infosys signs five-year AI deal with $2 billion target spend"
+    excerpt: "India's second-largest software services exporter Infosys said on Monday it has signed a deal with an existing client to provide artificial intelligence (AI) and automation services that will span over five years,"
+    publishedDateTime: 2023-07-18T15:28:00Z
+    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2-billion-target-spend-3635836"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Indian startup lays off 90% staff for AI bot to focus on profitability"
     excerpt: "Dukaan, an Indian E-commerce startup, has laid off 90% of its customer support team with an artificial intelligence (AI) chatbot. The founder and CEO Sumit Shah informed on Tuesday that the decision was to prioritise profitability,"
     publishedDateTime: 2023-07-14T04:11:00Z

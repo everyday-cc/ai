@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-07-13T19:22:00Z
-    webUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "These are my 4 favorite AI chatbot apps for Android"
     excerpt: "While there's no official ChatGPT app for Android yet, there are some handy alternatives. Here are the four I reach for and what you can do with them."
     publishedDateTime: 2023-07-17T14:21:00Z
@@ -71,6 +55,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A622/production/_130403524_cooperrusi.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "New ML benchmarks show best algorithms for training chatbots"
+    excerpt: "As quickly as AI and ML have grown, MLCommons has been updating its MLPerf Training benchmarks. The latest revision, Training version 3.0, adds testing for training large language models (LLM), specifically for GPT-3, the LLM used in ChatGPT. This is the first revision of the benchmark to include such testing."
+    publishedDateTime: 2023-07-14T15:38:00Z
+    webUrl: "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html"
+    ampWebUrl: "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 76
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/29/19/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-large-100935023-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
     excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
@@ -146,80 +146,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
-    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
-    publishedDateTime: 2023-07-15T09:42:00Z
-    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
-    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Generative AI And Data Science Have Mightily Paired Up To Reinvent Data Strategies, Exemplified Via Release Of OpenAI’s ChatGPT Code Interpreter"
-    excerpt: "Generative AI is increasingly going to be a front-end tool for data science, which will shake-up organizational data strategies. Here's the scoop and what to do about it."
-    publishedDateTime: 2023-07-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b4bdecf8d20b23cae9bcfd/0x0.jpg?format=jpg&crop=2308,1299,x0,y73,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
-    excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
-    publishedDateTime: 2023-07-14T10:26:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/meta-launching-its-own-generative-ai-to.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 39
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FT0Uew9kxKabym8o1iIGycg4mUfByuIM-giCSBwKkP7OP-Bj3RXXVJDZWlS9IeMlJiOdv3JX1OxDwZts4h5Ercs9wZtxtra1TIbWPyea2ObKtAbB1ujyZxFpzqv2swuhif7VfAAT6pRzusnDI3Fy2T2bOGDHWCM51WxnYM57tMV5WU3QJCNIxyvjATs/s16000/Untitled%20design.png"
-        width: 1000
-        height: 620
-        isCached: true
-  - title: "Meta to release commercial AI model like ChatGPT, Bard"
-    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in order to compete with Microsoft-backed OpenAI’s ChatGPT and Google’s AI experiment Bard,"
-    publishedDateTime: 2023-07-14T00:40:00Z
-    webUrl: "https://www.canindia.com/meta-to-release-commercial-ai-model-like-chatgpt-bard-6/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 39
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/07/meta-office.jpg"
-        width: 1540
-        height: 800
-        isCached: true
-  - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
-    excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
-    publishedDateTime: 2023-07-15T05:38:00Z
-    webUrl: "https://techstory.in/china-implements-landmark-regulations-for-ai-services-like-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/07/f0c3442c414a7bd1b039829a50849a4e-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Canada Excluded from Google’s AI Chatbot Bard due to Online News Act"
     excerpt: "Canada, unlike most countries, lacks access to Google's AI chatbot, Bard, due to the ongoing clash between Google and Canada's"
     publishedDateTime: 2023-07-17T16:19:00Z
@@ -233,50 +159,6 @@ related:
       - url: "https://thedeepdive.ca/wp-content/uploads/2023/07/bard.jpg"
         width: 879
         height: 494
-        isCached: true
-  - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
-    excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
-    publishedDateTime: 2023-07-17T08:01:00Z
-    webUrl: "https://news.bloomberglaw.com/us-law-week/ftc-investigation-of-chatgpt-aims-at-ais-inherent-challenges"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
-        width: 1920
-        height: 740
-        isCached: true
-  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
-    excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
-    publishedDateTime: 2023-07-13T23:42:00Z
-    webUrl: "https://www.abccolumbia.com/2023/07/13/elon-musk-launches-his-own-ai-company-to-compete-with-chatgpt/"
-    type: article
-    provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2023/07/g/t/wirestory-2e626553cf6333f642fb02fe247707ca-16x9-992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Evaluating the ability of ChatGPT and other large language models to detect fake news"
-    excerpt: "Large language models (LLMs) are an evolution of natural language processing (NLP) techniques that can rapidly generate texts closely resembling those written by humans and complete other simple language-related tasks."
-    publishedDateTime: 2023-07-17T10:00:00Z
-    webUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/evaluating-the-ability.jpg"
-        width: 748
-        height: 440
         isCached: true
   - title: "Google’s AI chatbot is trained by humans who say they’re overworked, underpaid and frustrated"
     excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes."
@@ -292,47 +174,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Open AI is being investigated by the FTC over data and privacy concerns. It could be ChatGPT's biggest threat yet."
-    excerpt: "The Federal Trade Commission opened an investigation into OpenAI's privacy and data-collection practices to determine whether it deceived consumers."
-    publishedDateTime: 2023-07-13T19:30:00Z
-    webUrl: "https://www.businessinsider.com/openai-ftc-investigation-chatgpt-data-privacy-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-  - title: "Can ChatGPT detect fake news?"
-    excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
-    publishedDateTime: 2023-07-18T08:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/can-chatgpt-detect-fake-news/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "Musk's xAI seeks to be alternative to ChatGPT"
-    excerpt: "Elon Musk, who has hinted for months that he wants to build an alternative to the popular ChatGPT artificial intelligence chatbot, announced the formation of what he's calling xAI, whose"
-    publishedDateTime: 2023-07-14T06:42:00Z
-    webUrl: "https://richmond.com/musks-xai-seeks-to-be-alternative-to-chatgpt/article_a3b2ce6e-cd90-560a-9fc5-1e468f056d63.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 19
-  - title: "ChatGPT and the Future of Health Care"
-    excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
-    publishedDateTime: 2023-07-14T13:43:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/chatgpt-future-health-care-medicine/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 4
 
 secured: "tuGhE5IcAQVFLliOUgOWckmApl3V7uggvL3uE17K6Pa29SBdS6PCuE5Oqa1YL6uyp+hfIqwYl6t8fu1A1OHKLWiuFg21PP49KWvCZF1qa2T6W0pzq2nvGMmpMrlUvBfqVmHZFNSI3Z+duK8V+Lsu5iDakioQEmzTqjMg3A42aYCP6KLI1szqrPIvbGQFCYcXMB5cFcAMZ4/fTCqdHMKsq7dUq0zIrSV43VsJznYv9+R6nxDmuOIQveUgVIXdxsknhUAEqfOIlcqp/h2JtA34gZXsJ9koQ/KX7Ba8VQGXlnz96T2MBT/yfXdE6xbFllLDYKXgtXGwzeQVDFUtChzILG8qX0NezDi82FWwGMCjsUN6GxRR9HEwYLbnzUFZB7nU8/tkXi2LOG0Cx7vzNGT3Wzv5Yv3LAsfkW6u4qdePZFo14sO+YWEQA2ytgLbzt47M74G14AZGZvI+jNW9I3TBFbfCBDsZlnHLGbd8ZxpqRaRjos0Mr0a7p/eE4eEcxHA4o3UF6gitlRjiURYKHw2rNg==;BhMJVhtcg6j0cEoHMPoDuw=="
 ---
