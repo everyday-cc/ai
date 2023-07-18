@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
 type: article
 quality: 83
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -149,6 +149,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A look at generative AI and its ethical landscape"
+    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
+    publishedDateTime: 2023-07-17T07:00:00Z
+    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
   - title: "Crawlers, search engines and the sleaze of generative AI companies"
     excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
     publishedDateTime: 2023-07-13T15:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-rid
 cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What enterprises can learn about data infrastructure from Cruise driverless cars"
-    excerpt: "As AI permeates more aspects of business and society, Cruise's lessons on robust data infrastructure will only grow more relevant."
-    publishedDateTime: 2023-07-13T12:01:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/what-enterprises-can-learn-about-data-infrastructure-from-cruise-driverless-cars/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "Beijing Allows Driverless Taxis For Commercial Service"
     excerpt: "The autonomous vehicles will serve the fare-paying public in a 193-square mile area following a series of trials and tests."
     publishedDateTime: 2023-07-13T17:23:00Z

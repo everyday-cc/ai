@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_dreamstime_7_2_1_2_3.jpg"
         width: 505
         height: 315
+        isCached: true
+  - title: "Partnership with Microsoft brings Splunk to Azure Marketplace"
+    excerpt: "During its first keynote at .conf23 in Las Vegas, Splunk announced that it has formed a strategic partnership with Microsoft. With that, Splunk lands in"
+    publishedDateTime: 2023-07-18T04:55:00Z
+    webUrl: "https://www.techzine.eu/news/security/109041/partnership-with-microsoft-brings-splunk-to-azure-marketplace/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/07/SplunkLogo-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "VNDonoimpeHLyxZg7t4NECzv6qSD9f+XTA2nHNzh1gbfr/8oHuwsD92jwYYd/kLBh1QIVZbn+HdFcXvOqoEougfcMmM/nma8lI+n4CL+rYadg2fe5rVFB2vFoJmWF4PD3XJLVJA9WjGwA/dlrT6QGbyMLVyzQzCPL0SFjyw6GHbUySz/TxU/2HAem5xEqRtcyc8GhQySmDIK0hUvLMT79/kV4hZI+8+Fkcm2oXb9vDYSddKykp9E5tzQRR/pJntZ6BIkSBomoU3kXaBqDYFJMy/vl3C9jkC0vZAmyRIiZp6GpndcgUHZZnNLOHE/h32xdkjC7Mq+IS+ec3ohUecpznPuoxoY0FGOnJoozOBH4OY=;rBqRC9mcAHUOpF4IzcJygg=="

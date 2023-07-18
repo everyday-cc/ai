@@ -64,22 +64,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Hollywood actors union votes to strike over pay, AI issues"
-    excerpt: "The television/theatrical/streaming contracts of the Hollywood actors union SAG-AFTRA expired late Wednesday. The national board is scheduled to vote Thursday on whether to strike."
-    publishedDateTime: 2023-07-13T11:23:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6041689244370/2023/1/13d24c8becf0402a502b60ae5afdf5b8/v1.5/Citing-studio-greed-Hollywood-actors-union-votes-to-strike-over-pay-AI-issues.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hollywood actors strike over use of AI in films and other issues"
     excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
     publishedDateTime: 2023-07-14T19:38:00Z

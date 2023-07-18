@@ -8,8 +8,8 @@ webUrl: "https://syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-tran
 ampWebUrl: "https://syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-transformer-for-arbitrary-size-resolution/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-transformer-for-arbitrary-size-resolution/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
@@ -26,6 +27,6 @@ images:
     height: 320
     isCached: true
 
-secured: "ptAl+nDsD5ujPZNjco/bpj5ASBiZRvy27/pe1lZB1IV1Q5PLZp/7ziv0sclE0h6QqBms2X7RtQ0USkcD9MBnNy0bfXW87gslO2Lx4bcu1yePrRsNv4m20V0SVGHk6j5UbL96+rtElxH0JZtsMD8qeQVZk3leAqrUDWG6CU0c1Y8Il9Nj/rXD91oxzJw/OhUOClBh+5wyc9KzqHglJH48xS7ZP9Wel9DvbZtXSCcmlLqaMMvlhLzzTkMs8VX5ug35cmVUambugXrSIxXQpZ34OJllY92Okn1BbGwEFfF9ilYQRWjWilB0kRTQhQF8/4peOyCbgcLRbeM6eg8Xn7f7hnPlEFpFYmFBX1y0vryc5yA=;kronanBZjbtZ+wLjEYUKSw=="
+secured: "i45o9uz00PYMXVRBZT5cRgu1jYBxO+yfrTFd2tMhyEEkA7J4ucnGNrDOsk/1uoYjYHWpe3KeV6Fb6G7vIowYOdWCDVOt1XBVFiVuqngruuA5pYVxgHmJu03jFMolIzeKSsbC//u56NB6MYiGuyOxEvf37iEwAT+Nr2x120VtZ92FXC9O8jZAbHhEBV8bbrcrvSo7eqhJTLzWkY+CS0zj++oIf0lYaKslJfRCkIyj/Z+VsLGrbpmkJAlk+oMndF02u+Z7htVug9pf1mfwcT95zUAVLOPbHQ0AR6yMQNtxUtO8uAlJvC6PHbALJUQi+V7TGQSkghFtMKNoJKh26Z/Q8h6GxAtY0LohDge9RIr2dZShoAcUQoTxrkFS6I/edqA3v3/2KqWkS2zp23BbUsvEAp9ZSJqBCBqtKVGhEmlAoalPIBgLCJM9jdsmgQm8eyeR/U9Zo5UR+HEnsf6RWmZKSHrQJFQEtQzy63bIC0Jj6+I/9aJuMPXZQ+UZVUVmiwhH5K8uLWFp1mE4aOgQ0c/ZXw==;Giy7fc5K2Zi4M2Ou9IxkWg=="
 ---
 

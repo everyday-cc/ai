@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-fra
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -26,28 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Unveiling The Power Of AI In Cybersecurity: Three Questions CISOs Should Be Asking"
-    excerpt: "2023 may go down in history as the year of artificial intelligence (AI)—or at least the year when business leaders and consumers alike became obsessed with generative AI tools like ChatGPT. Cybersecurity vendors are not immune to the hype. At the 2023 RSA conference, nearly every keynote included discussion on AI."
-    publishedDateTime: 2023-07-13T12:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/13/unveiling-the-power-of-ai-in-cybersecurity-three-questions-cisos-should-be-asking/"
+  - title: "Generative AI has huge potential to bridge digital divide in India, says MeitY official"
+    excerpt: "Governance Division and Digital India Corporation said that there was an urgent need to provide startups and researchers access to compute, upskill India's software workforce due to the advent of gene"
+    publishedDateTime: 2023-07-17T08:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/generative-ai-has-huge-potential-to-bridge-digital-divide-in-india-says-meity-official-10972251.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
-  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
-    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
-    publishedDateTime: 2023-07-14T08:40:00Z
-    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 38
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 31
     images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/CR6L9725-653x435.jpg"
+        width: 653
+        height: 435
         isCached: true
 
 secured: "qFH7tINrk5Iu2z7ZDRpOsT7brFFIqHK27HrVT4v0Bmbg3BzAehzyALAnY/hZrjssgwSKonMFJLbnsPuaZz2u7VEae6ktbp76YISmNJy5Td6xktuI6pHwdQNVBAsFcLNPaYitr5OpDxX3+hil3cXxgpuT44nAZHVGMcwBuEX5za57zMNgftTKnN9Z5KrwQ79KJC40pUUDgGS9MaILBIiPFn45W+fZ9KvAhNoHOWusqD3vlinP+TfCoHOpZ9a1Ztk0cD6rfRrxjH4K7Ik3B6UUsRtRBDf1ZKEFSTrbf0ZtiitdU/fMR6gI2n8muYXyAdxZyj1ZHr4MjJtfXwJY3P9MktR8QGu7E6/wUrvGiSSYoaXoyRzfdHrEyqe7w42JF2JImgv06YhdSo1okVIUWVKe191QFxgrfZzhqp9sVLyQz2eG+ydZC+Yvr8ISz7yJTAjqDm6hcZ2M7d2DHK4wsZBoH33DrnotIpq4XsWwp+xfDjmsX8CvxntgwRWuLfti9mFez584zwZPzKTgE8OYZYY5jA==;tmjAHNH/FZeNGaIQLvUk8g=="

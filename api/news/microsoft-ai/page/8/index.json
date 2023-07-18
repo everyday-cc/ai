@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-01-up-to-60-of-stroke-survivors-may-develop-cognitive-decline-within-a-year.md",
+      "title": "Up to 60% of stroke survivors may develop cognitive decline within a year",
+      "excerpt": "Up to 60% of all stroke survivors develop memory and thinking problems within a year, and one-third go on to develop dementia within five years, according to a new American Stroke Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230428154745-head-in-hands-stock-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/01/health/stroke-cognition-dementia-wellness/index.html",
+      "publishedDateTime": "2023-05-01T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure.md",
       "title": "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure",
       "excerpt": "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest",
@@ -1432,50 +1484,6 @@
         "Microsoft AI",
         "Facebook AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-6-ways-azure-ai-is-empowering-people-with-disabilities.md",
-      "title": "6 Ways Azure AI is Empowering People with Disabilities",
-      "excerpt": "Accessibility in technology is crucial for ensuring that everyone, regardless of their physical or cognitive abilities, can fully participate in the digital world., Technology & Science News, Times No",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313",
-      "originalUrl": "https://www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-99727313,updatedat-1682325428407,width-1280,height-720,resizemode-75/99727313.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/6-ways-azure-ai-is-empowering-people-with-disabilities-article-99727313/amp",
-      "publishedDateTime": "2023-04-24T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

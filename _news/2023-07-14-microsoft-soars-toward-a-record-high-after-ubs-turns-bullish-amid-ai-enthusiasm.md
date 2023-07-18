@@ -48,6 +48,20 @@ related:
         width: 505
         height: 315
         isCached: true
+  - title: "Partnership with Microsoft brings Splunk to Azure Marketplace"
+    excerpt: "During its first keynote at .conf23 in Las Vegas, Splunk announced that it has formed a strategic partnership with Microsoft. With that, Splunk lands in"
+    publishedDateTime: 2023-07-18T04:55:00Z
+    webUrl: "https://www.techzine.eu/news/security/109041/partnership-with-microsoft-brings-splunk-to-azure-marketplace/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/07/SplunkLogo-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "pUiEAF993Qe6PJVKQOzF4Y9k0UzRWt406gFcCy7b8fotdHdqwteELhUMLNyHQrPYwQkQciTbaPuKlkElYNmwT0zpU3kZXxyrbLuXX+6027lPXljnMA+aQAan0nnm85k7WC3SZuU3kgAfi2z+JZLdifM4kyV39Ef3Va7gAOYgPSwtpzrBd6L8KI51wDjY3w3zjov2KbCzZXLJRE+v+FCg8OdG4JqkbuwD55OSr7eeS8l4gCQkK5GGeIw9p4AhZunPzbkKN08BUu3QQ2rq7kFbNjbqxGoKL0kq1+9xhk7tm+l14aOz9aDhyHkuDTVT76dD6qoagR7eU9FUy1EloykUBhbkSZHsJsZNgwCxUSaabikyLlURVBsvD1z04aIELPYUSkTLkKIYBAfPnPt7NLlv3GXJwAoyLNzrN+gO6LFpXPnBW7YfBJsx64H6ifSY1YKdHHKGG1xcRLm8SfWs18QKR5ceARfmjXL5k2ljVPlC5U/Oh7VqHL6Upumqe8Kp94MW7ENxAYX4ct931EfKQJcRuA==;cMa1G8F2lncY4juNIfmVqg=="
 ---

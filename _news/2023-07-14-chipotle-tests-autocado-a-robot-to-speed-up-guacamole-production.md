@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chipotle Testing A Robot, Dubbed \"Autocado,\" That Makes Guacamole"
-    excerpt: "Chipotle Mexican Grill's new robot can make guacamole in half the time human workers need to prepare the dish, the restaurant chain said in unveiling the device on Wednesday."
-    publishedDateTime: 2023-07-13T12:51:00Z
-    webUrl: "https://www.newson6.com/story/64aff33409d6b8072583aed3/chipotle-testing-a-robot-dubbed-autocado-that-makes-guacamole"
-    type: article
-    provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 19
 
 secured: "VeTK/x7ghbCeP7diDlMjzseJOfYyfazWy79O4yhqWw5d53EXqRM6uFmSOKM88U+EBHYqsfRbUnfCRi3T5NBtkhxSU3h/uxecB0q1Rrg0OUWJOv6VCdhxCiGW9m6rKCkYIgbLB3wDx1SCX9tUnV24dmrwqZ7tjb/YsU1vi7EIBHsZaG5TwoLJKRuzx+SR0/zpixLrHuI9AWKiR7HoUWuwTEakgA33bcPv0E3gYsC0/EpRjHPh7qPkUNLQ/8a3927jXXHUzCGRLaNhO2OfaCctmyfhmrPc0fMPubrM8krOPJ+T1XMbG1HSmSErfMQBKyBzY8E/aw8V4/WfjStQUEc+xoriz3ZL03M9yipEk3j8CTo=;rYagRCcGA4y3iRCxOkhM5w=="
 ---

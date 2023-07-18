@@ -24,6 +24,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "PoliticsNow: Yes and No camps voice their reasons"
+    excerpt: "Australians will be told the ­Indigenous voice to parliament is a “leap into the unknown” when they receive the official No pamphlet in the mail, while the Yes ­brochure promises constitutional recognition with concrete results, as Anthony Albanese concedes the Yes case needs to be made stronger."
+    publishedDateTime: 2023-07-18T04:22:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politicsnow-yes-and-no-camps-voice-their-reasons/live-coverage/513d2c6c3f8a290e0d0d91c19e756632"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
+
 secured: "LCF9GWIqGq4qQhKSWJlI/9Lb1jIThYkZnXOtiZK7WkkUhKEFrc/CulJ7za3R8SkKgd0Y0I/yXGWJuIkmkbV59kZWv3TZ6MuKU/LL1YslvuO67HlQE7Yi/h54nrST6pN7YCQT9ijKT3wmQazJ7gnsIkS6Rwp3wZ5wlsDoH6XkQfYzEhdXlcvIR8SDXXj/5e5WivuFzhyCfS06q0yXqijwRNmN9MikFzg3M9qqvbsd7loNRnn70rcqWcAGZnemteHbKLODa8fud0jCpLOI/iltg5x/Uf+tNjMXiAF6lBhSIGe21ubKdQCIKLcrfaxcHvhDW6okG52nE6BjjQnx0N3jbKVopI4m1TfQ5+qjQrHrCqY=;WSiQkSph3bG71w0MNNxWhA=="
 ---
 

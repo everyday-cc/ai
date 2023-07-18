@@ -1,17 +1,17 @@
 ---
 category: news
-title: "India's TCS to Upskill 25,000 Engineers on Microsoft's Azure Open AI"
-excerpt: "India's TCS to Upskill 25,000 Engineers on Microsoft's Azure Open AI BENGALURU (Reuters) - Indian information technology (IT) company Tata Consultancy Services on Thursday said it plans to train ..."
-publishedDateTime: 2023-07-06T06:13:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-07-06/indias-tcs-to-upskill-25-000-engineers-on-microsofts-azure-open-ai"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-07-06/indias-tcs-to-upskill-25-000-engineers-on-microsofts-azure-open-ai"
+title: "India's TCS to upskill 25,000 engineers on Microsoft's Azure Open AI"
+excerpt: "Azure Open AI. The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space."
+publishedDateTime: 2023-07-06T16:07:00Z
+originalUrl: "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/"
+webUrl: "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "A5Z2fZ8w7R4eA4xJjPVaAtDBLfbVkk4djx5hmOQp914SWy6eft43C9xNZQ/ePxWnNHJl85HK+Yay8WPUYKe6CLdbFPBrAE9MSdOVH5HOa/U4GbuWBMYqb1LDE1ax+pNQmdm2nDgBlY3nGhhF08Rai9DIxMT1TJEY3WK1eravKu466ECjpse2P6SKg0fbbRH2g1TQjjJigDVsT1v83w0HC/LC0ljFUG2F2WtsNpzz41A421jtPAlgGM1Py7LdnnU83ekW8kedRC5BTE2N7VlqXQ1BSXPWUTjnCfePSTW7T/R3ARN29mpRqnxwticzYY4P1d4700nZxaardl5D9nQHahEeLz8Xs/igFfJRoxjrVSc=;NzBpEAH8qc+FZqSjtzLHGg=="
+images:
+  - url: "https://www.reuters.com/resizer/qlRP4wDgxGCejEtGgfWPucOaawE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNB4WIPJRRJB3CEUSDP2QDQILM.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "1R2HT0VBEPr6ubJEgfPcrKPlFb7j4SE1G90hwGqMmCqg2NHBe6M74drnfBu9UtFH7DEXx7fWMOV3KFanrOShk0kOn7bXCCx4Gb4rnmJirujhPmIosD1gIxJJSmeEa6SesmeXGFWAvlyUg/AyiETWBXzcNHSCy4PMjwd97gSqMYeCmN+OE+X6fE5KhVbzH8pfyRZWa8X3qbkctwT0Va9iu1P4WfEfCC9BIqH1WKV74/aiKmJm+FoJYIQoc0sadVTpcM1TjMS0rXKdQ9Yms54IWP/n7WB0vEOeUknWfzqUaIPqNdH9i3y2q1nTM4jWMkaatxKyXRPdfDXN1UNuJc2rKVpV2gs3Pl5xZM6IC3S1+aM=;ly+JTIe+dmJqA/fdM8KOqQ=="
 ---
 

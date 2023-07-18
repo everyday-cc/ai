@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In recent months, the world has gotten a firsthand look at the remarkable advances in AI",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/",
+      "originalUrl": "https://wtop.com/news/2023/07/artificial-intelligence-stocks-the-10-best-ai-companies-16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness.md",
       "title": "5 Artificial Intelligence apps you can use for your sports training and fitness",
       "excerpt": "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience.",
@@ -1089,57 +1133,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams.md",
-      "title": "This Week In Credit Card News: PayPal Launches Tap-To-Pay For Business; AI Tool Tackles Payment Scams",
-      "excerpt": "PayPal has announced the introduction of Tap to Pay technology for Venmo and PayPal Zettle businesses in the United States. Small businesses can now accept contactless payments—including cards and digital wallets—directly on their mobile devices without the need for additional hardware or upfront costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
-      "originalUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a868f7050ca7013b91cf1d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billhardekopf/2023/07/07/this-week-in-credit-card-news-paypal-launches-tap-to-pay-for-business-ai-tool-tackles-payment-scams/amp/",
-      "publishedDateTime": "2023-07-07T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

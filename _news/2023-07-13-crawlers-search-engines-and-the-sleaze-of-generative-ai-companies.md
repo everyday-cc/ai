@@ -154,6 +154,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A look at generative AI and its ethical landscape"
+    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
+    publishedDateTime: 2023-07-17T07:00:00Z
+    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
   - title: "Proliferation of AI agents raises fresh worries"
     excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
     publishedDateTime: 2023-07-17T19:45:00Z

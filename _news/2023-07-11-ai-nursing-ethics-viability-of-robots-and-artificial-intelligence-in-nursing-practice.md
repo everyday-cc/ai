@@ -1,24 +1,28 @@
 ---
 category: news
 title: "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice"
-excerpt: "in collaboration with medical ethics researcher Dr. Eisuke Nakazawa from The University of Tokyo and nursing researcher Dr. Ai Ibuki from Kyoritsu Women's University, recently explored whether ..."
-publishedDateTime: 2023-07-10T22:02:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
+excerpt: "More information: Tomohide Ibuki et al, Possibilities and ethical issues of entrusting nursing tasks to robots and artificial intelligence, Nursing Ethics (2023). DOI: 10.1177/09697330221149094"
+publishedDateTime: 2023-07-10T19:08:00Z
+originalUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+webUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "54GDZTOTztts7O8y+BJHuna+04AQNETESkxzGRbShGT1nIqIA8UyjCFcr8vVqhzlkMAdxFMXiwCVja7L6z0/8orgHgRnwTSAjwKCNqjIN1kOJvfXd65L0ZUORe/W55ffZHiEEvoFZ+g7rf+AutCenokYfCAAiNDNVyjQ1YFytfdukThjjCwrshdaywGzrptzW2vxdpvgrHJzyfZ0HS3Hq4wd6wTtDXL0wEQi/nQp8UqmWD/8ivgxuD16JETAOaIr1gU9y7XGfo+IRAzBfa7Ck+Hl1/wmbuGhAEUbQZLfUre0Wg6KP798iPCkcYKA8xm8FU6+aDKCvYxTHovobzukjuZ6R6WDpB+8TpaCgDuZUcs=;eZTl5biJ2vTSOpaAoF0Gmg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "iY2Sd0C6tb8JrsRghh4W8d3wAoD3nFNqeebohUnnW07wNkDNy4opsuvbDacTHHG8qRfEJ0sFIPWjdLJtcb4o8FJdGo3TAeW0ES/RTgWdnPoafQ3O5R6CHoPX0HSHZyY9MM3Q+TqX0mZTiQUMQP0DtjlmOy5i6eunNwjmUf6irfBK2ujQNsLJ/kcw7JYLXwjj/M7D5CxymS0EpD+puQD3WtiGps0Z/li4elJaUhhvPjBVhf4BKcnb0TYMmsUI03TTEISXNVOWapfIkRt0PTV77CAuAGzU1mK5w0klG7tCpG384qm6UsHW7SwbYcdFIf9N8CWAXrJLE0hGvfGpeNH8h0QcDMSY2kqwQZEFxMso7Ps=;7UjcAezSR7S/32kY3KSQGQ=="
 ---
 

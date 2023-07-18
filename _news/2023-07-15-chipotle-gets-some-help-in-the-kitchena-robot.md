@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 375
         height: 225
         isCached: true
-  - title: "Chipotle Testing A Robot, Dubbed \"Autocado,\" That Makes Guacamole"
-    excerpt: "Chipotle Mexican Grill's new robot can make guacamole in half the time human workers need to prepare the dish, the restaurant chain said in unveiling the device on Wednesday."
-    publishedDateTime: 2023-07-13T12:51:00Z
-    webUrl: "https://www.newson6.com/story/64aff33409d6b8072583aed3/chipotle-testing-a-robot-dubbed-autocado-that-makes-guacamole"
-    type: article
-    provider:
-      name: News on 6
-      domain: newson6.com
-    quality: 19
 
 secured: "oEqNy0/wSVLla50BgiiXlU9q4tRRYdVQl+K5O8IF4+Lyl9vc6r5C2VnXkaCkNrvsL42JYRd/KF0NkuQWkTEYLI1ML+G9chacmYuxyrzOEGgy5j7yISY6sHeuu93n1qYfHb9rkxCcRa5Rk503JjNIYe0Z0y99oiBu8awBiyMidfIVkZg5R/hpvwwfuzU4rdmCzui+Ly3hiJ1lRk/zXwCdVRPur89MYl41XUn1xZKEFpySR23QYLZJ6fV1elcyGT8UESYBvUT2VfQWR4jigwDRYdjNcUGN6WbMWUoHrNyYF69X3eT7gGeXxscEdMUHj70fn8NmEv/ooCYdYcCgDetVJnUthD2yGXesGH+73Lr4XGw=;gmd/fEnqp9b3kQT+o6YIJw=="
 ---

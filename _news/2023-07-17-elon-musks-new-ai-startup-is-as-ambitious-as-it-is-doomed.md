@@ -108,15 +108,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Elon Musk launches AI startup and warns of a ‘terminator future’"
-    excerpt: "Tesla boss claims xAI will be ‘pro-humanity’ and says development of large systems unlikely to be paused"
-    publishedDateTime: 2023-07-13T11:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Web fans excited as Elon Musk launches new company, xAI, to understand ‘true nature of the universe’"
     excerpt: "SpaceX, and owner of Twitter, Elon Musk, recently announced the debut of xAI, his new AI company. The company’s goal is to “understand the true nature of the universe,” as stated on its website. Musk,"
     publishedDateTime: 2023-07-14T18:00:00Z

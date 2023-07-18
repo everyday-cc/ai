@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-06-26-the-six-strategic-uses-cases-for-aiops.md",
+      "title": "The six strategic uses cases for AIOps",
+      "excerpt": "Six strategic use cases for AIOps and practical next steps to guide your AIOps journey.\nThe post The six strategic uses cases for AIOps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-six-strategic-uses-cases-for-aiops/",
+      "originalUrl": "https://www.ibm.com/blog/the-six-strategic-uses-cases-for-aiops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/amv-textilebusinessa141011.lr_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T09:33:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-soundhound-ai-shares-rise-11-after-inclusion-to-russell-3000.md",
       "title": "SoundHound AI Shares Rise 11% After Inclusion to Russell 3000",
       "excerpt": "By Chris Wack SoundHound AI shares were up 11%, to $4.06, after the company said it was selected to be included in the Russell 2000 and broad-market",
@@ -1166,41 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform.md",
-      "title": "Predactica integrates Azure OpenAI capabilities into its SaaS Machine Learning platform",
-      "excerpt": "Predactica is thrilled to announce the integration of Azure's OpenAI capabilities into its AI/ML platform, complementing its existing no-code SaaS AI capabilities aimed at citizen data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
-      "originalUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

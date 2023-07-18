@@ -117,15 +117,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
-  - title: "Elon Musk launches AI startup and warns of a ‘terminator future’"
-    excerpt: "Tesla boss claims xAI will be ‘pro-humanity’ and says development of large systems unlikely to be paused"
-    publishedDateTime: 2023-07-13T11:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "UM/plOPtHTrNqJFC7MU0woV8qI/pIn0K0NkkLPbF7Ttpvkdr/TQ++cJPFrQDiIx6sNKw3xGWu+qq2eSUhmjU+4GZtZlUslBkTqGwv16EEHSwpw7ELAf+mj4Rvm2TZl7ytkmPTU5RBBbJUQVBX5y39CgMmmywJZ5UUqesGOriYMUQls1WbgKiN3CyQxw22vP0vQeH7/1ntauLExyhpx/zQt98EZY6EKbIpJ89ijATx3Plf/kfzXu0m2Q6Zv0dFq2A9Q6BsAosEegqKXMY0cL4k+lvN+RYmyiqJxmOHzC6hJQ1Nsg6cN3VU5vNSITCx61TB6X95ay1KY43QRkWAfdZin7EIBa5xvEG7b6u8gxev/Fks3GRUDg/dunrPIvqytezxm6GjLBzqhlyF/KiZTwBx4O8yN1+VgLgB9miw6vDmYz6hNQnSuJ5aGmjsZXMJnyNx9cfq1Pt9jIIFtnDUGEU0+dZX1XK+BDQsXFf+v5ts/Mt+y/bTH7l4piVwgf7Whh8z9lg5uk8aDUdWIZPqruKkw==;fhuPQT5NX5gKtUiq4eow5w=="
 ---

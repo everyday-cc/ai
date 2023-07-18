@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strik
 webUrl: "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights"
 type: article
 quality: 67
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/acbbd1a48a2600009a805233b0cc9ad8.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Hollywood actors union votes to strike over pay, AI issues"
-    excerpt: "The television/theatrical/streaming contracts of the Hollywood actors union SAG-AFTRA expired late Wednesday. The national board is scheduled to vote Thursday on whether to strike."
-    publishedDateTime: 2023-07-13T11:23:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2023/07/13/sag-aftra-strike/6041689244370/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6041689244370/2023/1/13d24c8becf0402a502b60ae5afdf5b8/v1.5/Citing-studio-greed-Hollywood-actors-union-votes-to-strike-over-pay-AI-issues.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Could movie studios use AI to replicate an actor's image and use it forever?"
     excerpt: "AI has made its way into nearly all of our favorite art forms including music, visual art, and now possibly even films. According to SAG-AFTRA, AI makes it possible for background performers' images and likenesses to be used forever."

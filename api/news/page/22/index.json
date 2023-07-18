@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-06-30-scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report.md",
+      "title": "Scanbot SDK Named Among Vendors in Computer Vision Tools Landscape Report",
+      "excerpt": "Scanbot SDK has been included by research and advisory firm Forrester among vendors of computer vision technology in their recently released report \"The Computer Vision Tools Landscape, Q2 2023 - Forrester's Overview Of 38 Vendors\".",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/scanbot-sdk-named-among-vendors-in-computer-vision-tools-landscape-report-1032420153",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-deepmind-alum-wants-to-use-ai-to-speed-the-development-of-green-materials.md",
       "title": "DeepMind Alum Wants to Use AI to Speed the Development of Green Materials",
       "excerpt": "Ever since ChatGPT went viral last fall, companies have touted many ways artificial intelligence can make our lives easier. They’ve promised superhuman virtual assistants, tutors, lawyers and doctors.",
@@ -1097,57 +1140,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-meituans-insider-ai-deal-does-not-compute.md",
-      "title": "Meituan's insider AI deal does not compute",
-      "excerpt": "China's artificial intelligence frenzy has generated some eyebrow-raising deals; a purchase by Meituan is the latest example. The company on Thursday said it is buying AI firm Light Year from Meituan co-founder and former director Wang Huiwen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
-      "originalUrl": "https://www.reuters.com/breakingviews/meituans-insider-ai-deal-does-not-compute-2023-06-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9RwBFbGZUjVgql_o2mE9tzaQzQc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HXK3DLWTJNNK3FMHU4NRHNFTGU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T19:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
