@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-gen
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "China to Impose New Regulations for Generative AI"
-    excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
-    publishedDateTime: 2023-07-14T21:10:00Z
-    webUrl: "https://www.techtimes.com/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293828/20230714/china-impose-new-regulations-generative-ai.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431690/china-to-impose-new-regulations-for-generative-ai.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "b/zCSJHfbebZqJFc990QEQK2ImJA13R2fICDN3saOqyIs55JBRFQzcTjsfoaxwbNHWQhkAPBQUR/NqKnzbnakMHboVcfQ0Xhz9JJUP7J4DQkg+2UVkdEh8ROySnUkdaPCSFMNp6bSsr7jSIX8wwI+vjuIDh/VmDzdrPObjuB/xhrPpoWmXuXVmd9tiNWJPOAwN0CHDtn+xDYIHHxH5t5s5y3mUa2MSsObjKeZTmawR2oS+KatKCDs3bzfmRvU7aC8khNGVwzrG9AguKOSRa+dOvwgHfB+xFl8tQGoash3YGmUJ+b4m6/p8+0YdErMifwJvGgQx7spG2AquZ6WE6uPCDUi8PBu/INTrxNy1sbqpDMaCOvdpt+HQGkO7BYeYZXnUsJw5OfX11qfL8ogNRnR8vpzjFOcUtdP/L9QtBer9nMflD0u+nhbjPgr4z0hqUHPZp8rEZmbtXV+iPajK3iml16Ks26Pchy5WnH/Nq/tHpWAh4luTS3LAX2DFRo7iDtOmWLBnXMhhTUu9cx0GkiyA==;zHAc12998RFYkFOpoT4MKg=="

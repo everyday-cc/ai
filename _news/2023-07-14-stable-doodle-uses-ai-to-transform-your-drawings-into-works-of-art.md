@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI releases Stable Doodle, a sketch-to-image tool"
-    excerpt: "Stability has released a new tool through Clipdrop, the AI art platform it acquired recently, that turns sketches into artwork."
-    publishedDateTime: 2023-07-13T15:17:00Z
-    webUrl: "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/"
-    ampWebUrl: "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/imgonline-com-ua-twotoone-VgOccXiK2k1l.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "This new AI tool transforms your doodles into high-quality images"
     excerpt: "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt."
     publishedDateTime: 2023-07-17T18:06:00Z

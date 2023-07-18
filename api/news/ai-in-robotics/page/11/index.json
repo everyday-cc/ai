@@ -2,110 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2023-05-04-ai-powered-characters-changing-the-game.md",
-      "title": "AI-Powered Characters Changing The Game",
-      "excerpt": "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 961,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "publishedDateTime": "2023-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-these-robot-dogs-cant-bark-but-they-can-speak-in-full-sentences-thanks-to-chatgpt.md",
-      "title": "These robot dogs can't bark — but they can speak in full sentences thanks to ChatGPT",
-      "excerpt": "Boston Dynamics' robot dogs can now verbally respond in \"plain English\" when asked to describe their previous and future tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
-      "originalUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
-      "publishedDateTime": "2023-05-04T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-04-artificial-intelligence-and-robotics-updates.md",
       "title": "Artificial intelligence and robotics updates",
       "excerpt": "A US regulator put artificial intelligence in the crosshairs ahead of a White House meeting Thursday with tech firms to strategize about its dangers. \"While the technology is moving swiftly, we already can see several risks,",
@@ -1340,6 +1236,101 @@
       "provider": {
         "name": "Metro",
         "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
+      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 04/27/2023. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-robots-run-the-show-as-swiss-radio-tests-ai-voices-for-a-day.md",
+      "title": "Robots run the show as Swiss radio tests AI voices for a day",
+      "excerpt": "Listeners of an offbeat Swiss public radio station have been repeatedly given the message: Today’s programming is brought to you by Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/2023/04/27/switzerland-radio-gpt-artificial-intelligence/eda963fe-e536-11ed-9696-8e874fd710b8_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null

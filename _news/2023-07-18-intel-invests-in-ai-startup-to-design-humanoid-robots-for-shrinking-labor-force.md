@@ -39,6 +39,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Figure humanoid robotics receives investment from Intel"
+    excerpt: "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics"
+    publishedDateTime: 2023-07-18T08:56:00Z
+    webUrl: "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg"
+        width: 700
+        height: 495
+        isCached: true
   - title: "Intel backs Figure’s Humanoid robot to the tune of $9 million"
     excerpt: "Figure tells TechCrunch that it’s adding another $9 million to its war chest courtesy of Intel Capital to help build a humanoid robot."
     publishedDateTime: 2023-07-17T13:07:00Z

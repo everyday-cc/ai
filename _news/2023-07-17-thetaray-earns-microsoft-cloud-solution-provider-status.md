@@ -2,21 +2,27 @@
 category: news
 title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
 excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
-publishedDateTime: 2023-07-17T14:45:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/17/9849169.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/17/9849169.htm"
+publishedDateTime: 2023-07-17T13:56:00Z
+originalUrl: "https://www.eagletribune.com/region/thetaray-earns-microsoft-cloud-solution-provider-status/article_bd934ce6-c8f1-5843-b93a-73cb72858ff8.html"
+webUrl: "https://www.eagletribune.com/region/thetaray-earns-microsoft-cloud-solution-provider-status/article_bd934ce6-c8f1-5843-b93a-73cb72858ff8.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/f/83/f83c4fd7-50cb-5b94-892d-2b270aeac4f7/64b54d39aa78a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
+    width: 1194
+    height: 627
+    isCached: true
 
 related:
   - title: "Join AWS, Google Cloud, Microsoft Azure at free SANS Cloud Security Exchange"
@@ -262,6 +268,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "k4jBiVqubrVoUJ5abhPcyyswsBuJbbhbEZxr7/NDuo+1ChHKE2aFeQ/iEXAqKMXmTh9UD8Ly8VyX1bJHTXi5UYLwFh0WBoxEJdv+ZlzzEzFpjj3WtQJtxKEpwFB4RtfBdnJ49PQzW5ZKHzvE2jT0Q6rjt7+XHms0OpwYbq8KbKl8LtGfhPk7NCyFBEjPPKd1v5IjVJSVTzMXg6W9m0b8bqqSg/iDX4Elfy9IyETrYodAakeklrU2hJCojwyv4tmNUZdKvfwdD1HnwtrR35wa0e02M0QTcfi3EtXso3We4EMarcwA0yRE7MggjhQPWuK0vexPBDEEfZrkhZ24SKdPyYWqnCJ9tXZ2YJdikm8EXamsHXIfCoHOhNaC16xGKYgNTYijJe/bVaKzcWVz/tNLWz70kZMbynVWp7HDMtfA6kxhdCdiMPcmTlcXTdfo6+Vnsl2fffqiac7qeysZqvrjPsn+8S7meRkA0OgvcUFbbzQxnhXtiaXiHzvPU1OqtvGfljIsrUdi2iPFQGb95ihqFw==;Ml4PdnbVrCGgy6LohnyTfQ=="
+secured: "bdomAKf6r8ylzoCx/ul33rrv/smOW9Wc92TZBJxdwHnso2Y03HAaBBWQQGiNCn4jMZ+11kc3ikbDWB6o+4DraRtat6t4f2fyky9k0+Q/QSGWtZ0VdXQBPS5N6xlXO0Z/5C3HzB3GfpjhXJ3eNI4FlWLFAQjWM/nEmft1fAjsunPEJvt7q4vWSj+LquQlM5BHJGIb9VYrIB8P5RfOhlYIJXbJhlTjecCcNBsmpncF3Y9+QKEudgfsrOcOHAqUAfoOPCPNYOX3TPg7uEvI42lhK7+2bC/PqUaDlFFrakw1NfqVnqJLhX+F4UbthCihhbv8bhTXf4hdsqgLcCDUorz/GXT44hbmJJJ5BJkwR8gXzRc=;di7eqf9VXidhsk6PN/MUJg=="
 ---
 

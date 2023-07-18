@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
-      "title": "Medifakt: Empowering Healthcare through Decentralized Blockchain Technology",
-      "excerpt": "We created a platform using blockchain technology to improve the smart healthcare ecosystem for patients that permits and supports the transfer, transmission, storage, interpretation, second opinion, and evaluation by artificial intelligence of medical ...",
+      "title": "Medifakt: Empowering healthcare through decentralized blockchain technology",
+      "excerpt": "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/medifakt-empowering-healthcare-through-decentralized-blockchain-technology-1032453660",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/medifakt-empowering-healthcare-through-decentralized-blockchain-technology-1032453660",
+      "webUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
+      "originalUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/2155089/Medifakt_Image.jpg",
-          "width": 400,
-          "height": 272,
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg",
+          "width": 740,
+          "height": 492,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T00:24:00-07:00",
+      "ampWebUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
+      "publishedDateTime": "2023-07-18T02:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-the-state-of-cloud-data-security-in-2023.md",
+      "title": "The State Of Cloud Data Security In 2023",
+      "excerpt": "Explore the rising trend of cloud adoption and the need for robust security measures in 2023. Dive into key challenges, solutions, and the future of cloud security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b64a752cc6d30148248097/0x0.jpg?format=jpg&width=1200",
+          "width": 842,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
+      "publishedDateTime": "2023-07-18T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +92,51 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai.md",
+      "title": "Elon Musk Says His Artificial Intelligence Company xAI Is A Direct Competitor To Sam Altman’s OpenAI",
+      "excerpt": "Upon being probed by a user, Musk admitted that xAI is a direct competition to Sam Altman’s OpenAI. He also introduced the founding team of xAI that has many former employees of DeepMind, OpenAI, Google,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
+      "originalUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/default/el_jynx.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -202,7 +289,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -419,6 +506,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-this-new-ai-tool-transforms-your-doodles-into-high-quality-images.md",
+      "title": "This new AI tool transforms your doodles into high-quality images",
+      "excerpt": "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
+      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c0bca7db75625cc18335648e3423ac5669999a83/2023/07/17/5fada49b-6f21-41d1-a300-ac2d49133e89/screenshot-2023-07-17-at-11-24-40-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
+      "publishedDateTime": "2023-07-17T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-wix-announces-ai-text-to-website-generator.md",
       "title": "Wix announces AI text-to-website generator",
       "excerpt": "Wix today announced new generative AI tools that will help enterprises create, edit, and manage websites using natural language prompts.",
@@ -478,7 +616,7 @@
       "originalUrl": "https://www.therobotreport.com/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -568,11 +706,11 @@
       "title": "UK needs culture shift to become AI superpower - DeepMind co-founder",
       "excerpt": "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66166236",
-      "originalUrl": "https://www.bbc.com/news/technology-66166236",
+      "webUrl": "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -586,23 +724,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66166236.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66166236.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp",
       "publishedDateTime": "2023-07-17T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -611,8 +740,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -754,6 +883,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-17-how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai.md",
+      "title": "How New Rules And Regulations Can Help Create An Ethical Corporate Workspace With The Growth Of AI",
+      "excerpt": "As the growth of AI continues, it is important to ensure that companies prioritize ethical considerations and that technology is utilized diligently and transparently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
+      "publishedDateTime": "2023-07-17T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how.md",
       "title": "Expedia adds new AI features to improve your travel planning. Here's how",
       "excerpt": "Starting early next month, this conversational planning feature will also be coming to the Expedia Android app, which will add some new features, including the ability to save recommended activities to a Trip Planner.",
@@ -855,7 +1036,7 @@
       "originalUrl": "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -991,211 +1172,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-the-biggest-barrier-to-ai-productivity-is-people.md",
-      "title": "The biggest barrier to AI productivity is people",
-      "excerpt": "Generative AI is helping us churn out vastly more content at remarkable speed, when what we really need is better content. It’s up to humans to put the focus on quality and value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.html",
-      "originalUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/05/disaster_recovery_crisis_help_rescue_drowning_hand_rising_from_the_ocean_by_ian_espinosa_cc0_via_unsplash_1200x800-100759670-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html",
-      "publishedDateTime": "2023-07-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ai-needs-its-own-day-but-should-you-celebrate-it-on-july-16th.md",
-      "title": "AI Needs Its Own Day - But Should You Celebrate It On July 16th?",
-      "excerpt": "Artificial Intelligence needs its own day and there is substantial demand from the people willing to celebrate it. But should you celebrate it on July 16th?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/07/17/ai-needs-its-own-daybut-should-you-celebrate-it-on-july-16th/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/07/17/ai-needs-its-own-daybut-should-you-celebrate-it-on-july-16th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b4f1534319593f37534a19/0x0.jpg?format=jpg&crop=2062,966,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/07/17/ai-needs-its-own-daybut-should-you-celebrate-it-on-july-16th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/07/17/ai-needs-its-own-daybut-should-you-celebrate-it-on-july-16th/amp/",
-      "publishedDateTime": "2023-07-17T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-un-security-council-to-hold-first-talks-on-ai-risks.md",
-      "title": "UN Security Council To Hold First Talks On AI Risks",
-      "excerpt": "LONDON (Reuters) - The United Nations Security Council will hold its first formal discussion on artificial intelligence (AI) this week in New York, with Britain to call for an international dialogue about its impact on global peace and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee",
-      "originalUrl": "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64b4aad125000060004325f9.jpeg?ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp",
-      "publishedDateTime": "2023-07-16T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.md",
-      "title": "Artificial intelligence can detect 'sextortion' before it happens and help FBI: expert",
-      "excerpt": "Yaron Litwin, executive of AI-powered company Canopy, explains how \"AI can be used for good\" in an ongoing chess match with criminals using deepfakes in sextortion scams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
-      "originalUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AI-is-the-next-front-in-the-culture-war_1.gif",
-          "width": 602,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
-      "publishedDateTime": "2023-07-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -73,20 +73,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "OpenAI strikes deal with AP to pay for using its news in training AI"
-    excerpt: "OpenAI will pay the Associated Press for direct access to its archive of news stories in order to train its AI chatbots."
-    publishedDateTime: 2023-07-13T16:28:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/13/openai-chatgpt-pay-ap-news-ai/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRSTZQV2CPQGOHARXZZV42UL4I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "jXO+L0rLS2JZ6cJvElvqL61EVjZ6mX32Vp/EWtUOb2ZCuGcF7ntPKJk8pq004i8gvYj92ZD5zmsiZO5c3ZeuwlBdZ+28k54tYqHUlBEV8/GX01PSfySvi8RhRtFi92w0MnPT8LBxRGYWNKh0BEUQbM38zxRw133YLZrCKFokDZIc1DlEksyByNn+Uj+wnhldmp1BXRaJwd50o9NbV5ZnhvFIUZIbVMYu8Z10e27MK2EvPyqPhfOJbQLDQpZm8zODe71axPvBs0iZNvjaywHjAnJqAVyVzVdGQrJDjxnrNW5zz6OPdDHuDz9LQmx9HzkzeVTNH1OCsKXzZ1EkQDCPxRjZIkc5ljag3ePc02AWmf+UvKjjAFzIrXTyTC7aBcWhYwqS5cOk8pAmvjABsKC5Lh/vgt7IG8zDYGIX8zBWBVkXxMVaQdbZbwNcI+MlFYl/kB+JFwYkdE0YL7GeB3Amj6P989CO7wzQeEwaQZpl9UQlTIhmb5mjrOiaGDG7HBZeapGplVtweoEGn0QMNgYakg==;pL6iKSUfn2wf0uDeXpPFOA=="
 ---

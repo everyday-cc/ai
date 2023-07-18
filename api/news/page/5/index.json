@@ -2,6 +2,203 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-13-uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims.md",
+      "title": "UK Government Criticized Over Use OF AI To Evaluate Benefits Claims",
+      "excerpt": "The UK government is coming under fire for using AI to assess applications for social security benefits. The Department of Work and Pensions (DWP) has said it plans to use AI to identify patterns in claims that could indicate error or fraud as part of plans to cut £1.3 billion from the benefits bill this year and nex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64afd4a805dcc645cc534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/",
+      "publishedDateTime": "2023-07-13T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-focus-ai-startups-bringing-dollars-but-lean-workforces-to-ailing-san-francisco.md",
+      "title": "Focus: AI startups bringing dollars but lean workforces to ailing San Francisco",
+      "excerpt": "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/gXYoMFAb5zxeAnOH6AbLYw3Pgq4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQEPLSIBTRNXLOF4FHF44S2LRM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years.md",
+      "title": "Chinese robotics firm Fourier aims for mass production of humanoid robots in two years",
+      "excerpt": "Chinese tech startup Fourier Intelligence has set a goal of achieving mass production deliveries of humanoid robots within two years.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "originalUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-amazon-prime-day-deals-2023-all-the-best-offers-still-available.md",
+      "title": "Amazon Prime Day deals 2023 - all the best offers still available",
+      "excerpt": "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
       "title": "The looming addiction crisis fueled by AI",
       "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
@@ -1021,212 +1218,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-launches-xai-his-new-artificial-intelligence-company.md",
-      "title": "Elon Musk Launches xAI, His New Artificial-Intelligence Company",
-      "excerpt": "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "originalUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-815887/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-powers-a-new-era-in-construction.md",
-      "title": "Artificial Intelligence Powers A New Era In Construction",
-      "excerpt": "Exploring the transformative role of Artificial Intelligence in reshaping construction processes, from enhancing operational efficiency to improving on-site safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
-      "originalUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aeea4ea7246c2a9be9bcff/0x0.jpg?format=jpg&width=1200",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louismosca/2023/07/12/artificial-intelligence-powers-a-new-era-in-construction/amp/",
-      "publishedDateTime": "2023-07-12T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe.md",
-      "title": "Elon Musk wants to build AI to ‘understand the true nature of the universe’",
-      "excerpt": "Twitter CEO Elon Musk is founding an organization, xAI, to build AI to \"understand the true nature of the universe.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
-      "originalUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1258742140.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/elon-musk-wants-to-build-ai-to-understand-the-true-nature-of-the-universe/amp/",
-      "publishedDateTime": "2023-07-12T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-to-use-ai-in-professional-services-with-shamus-rae.md",
-      "title": "How To Use AI In Professional Services. With Shamus Rae",
-      "excerpt": "Since the arrival of generative AI, it looks like white-collar jobs will be impacted before blue-collar ones. Jobs like accounting, management consulting, and the law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ae6515822efcb616e9bcfd/0x0.jpg?format=jpg&width=1200",
-          "width": 987,
-          "height": 987,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/07/12/how-to-use-ai-in-professional-services-with-shamus-rae/amp/",
-      "publishedDateTime": "2023-07-12T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

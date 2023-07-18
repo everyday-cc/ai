@@ -82,20 +82,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Asia Falling Behind The Ai Regulation Race"
-    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
-    publishedDateTime: 2023-07-14T11:00:00Z
-    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
-        width: 363
-        height: 250
-        isCached: true
   - title: "Editorial: Profit-sharing and AI protection are the answers to the writers and actors strike"
     excerpt: "The solution that will bring back your favorite shows? Better profit-sharing, and when it comes to AI, humans should stand with other humans."
     publishedDateTime: 2023-07-16T10:00:00Z

@@ -69,20 +69,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "OpenAI strikes deal with AP to pay for using its news in training AI"
-    excerpt: "OpenAI will pay the Associated Press for direct access to its archive of news stories in order to train its AI chatbots."
-    publishedDateTime: 2023-07-13T16:28:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/13/openai-chatgpt-pay-ap-news-ai/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRSTZQV2CPQGOHARXZZV42UL4I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "yeIXrfDT/IPyzfPZns0vAUNr9tML1n4ow1mkkd/9n9LLWt9TUsJb5hrCKdpJrUhXZDgkhOkFipLaPuIO+UxRYvG+0o82j3gkOijrvO8/RdYPG2TbkXQP5mOu0sNZjlwUJX9+hEteSRfa7mD33Ql9aK50dcrOi8CqgKV58f3hUUnpW03nSzzkMvmALtC82gy6g82YdH+tqw33wO2oD8RlH7NCm1+Iux2eMKCBqXLnDldkGbzXrhsk+WM0zTzGyY5r7zjstFajYZAUZiFIeHWUX1Li13wLPkXh0GTCPd91sCGPieZD4ziRlUaysd8EfEN6jRzDlRLOX5EVhRjuMMslx/umidoO1k7PpJUdRPSoLaM3OdIxApO5G15tqm0CDMBENeUyrSMePJGnvYs89KGfIr+TlMS6EPD5u1HvxdbrrW4QD8Cn643In4QbW8Gn9Z9TfVAx2IkiA5G+SrHWt3xmLeSKa5X2ZAEEYRsIeB8Ecqy5XKI4oiPm1unewYqL8iwVrEdTbfFeZbjhg+NiLpbK/w==;WgbxH504lUWU0bsOZU24gQ=="
 ---

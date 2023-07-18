@@ -24,36 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Data Security Startup Raises Pre-Seed Funding, Launches Data Protection Software Using Artificial Intelligence"
-    excerpt: "New York-based Teleskope reduces manual overhead burdening security, data, and engineering teams, preventing alert fatigue Teleskope, a cybersecurity startup, today launched a data protection platform"
-    publishedDateTime: 2023-07-13T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33218847"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847"
+  - title: "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder"
+    excerpt: "Filmmakers and creators have been using the startup Runway to make video editing more efficient."
+    publishedDateTime: 2023-07-13T18:09:00Z
+    webUrl: "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg"
+        width: 480
+        height: 240
         isCached: true
-  - title: "Infinite Canvas raises $6M in funding, launches AI-powered Discord game"
-    excerpt: "UGC studio Infinite Canvas has raised $6 million in new funding, which it's putting towards GenAI projects such as new game CreatureCraft."
-    publishedDateTime: 2023-07-14T05:19:00Z
-    webUrl: "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/"
+  - title: "Stability AI Cofounder Says Emad Mostaque Tricked Him Into Selling Stake For $100"
+    excerpt: "Cyrus Hodes alleges that Mostaque, the CEO, “fraudulently cheated” him out of a stake that within months was worth $150 million on an undiluted basis."
+    publishedDateTime: 2023-07-13T18:13:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 42
+  - title: "A kinder, more human AI – the Cork startup training tech to be emotionally intelligent"
+    excerpt: "Artificial intelligence (AI) needs to be more human and empathetic, according to the Irish co-founder of a startup training AI to be emotionally intelligent."
+    publishedDateTime: 2023-07-16T00:30:00Z
+    webUrl: "https://www.independent.ie/business/technology/a-kinder-more-human-ai-the-cork-startup-training-tech-to-be-emotionally-intelligent/a1247035183.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 29
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://focus.independent.ie/thumbor/jsHlV2S6F1KdGi2FX6t9kglK2T8=/0x535:4010x3209/4010x2674/prod-mh-ireland/b72cbb94-e034-4dcf-8342-cdc39474b61a/c1b228dd-50e9-4df6-9c25-aadd5f30dcd7/b72cbb94-e034-4dcf-8342-cdc39474b61a.jpg"
+        width: 4010
+        height: 2674
         isCached: true
+  - title: "The code breakers: Harnessing the power of AI to understand what animals say"
+    excerpt: "An international group of experts argue that tackling the long-standing challenge of decoding the communication systems of whales, crows, bats, and other animals is coming within reach, following breath-taking advances in artificial intelligence (AI) research."
+    publishedDateTime: 2023-07-13T18:52:00Z
+    webUrl: "https://phys.org/news/2023-07-code-breakers-harnessing-power-ai.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 16
 
 secured: "AolkYjUq+Mq9ZK4fLBbTUPHps79YDwJK1arqMgeuaVQPE3FGQhhYR0RllEkdwTS22f4vc+SUeqN0FWuELH8bp0vDRRqyI5YoVUCgbcTSt4FQZ7rjvaI4+2C/DixSvHMkZ+ztzTcDUqO+d3qsBzHaDXsNk5bhWcMRtLwSIVzYS8wJ2XjMx2IPyNXUBxNNaaMmxXTwdFhJMftRkNTTZuo9lMefMm801X502+WkU8wKGeAbf/MyDBrrnZ4pqQRH8RbUau5grmWEatdh4pzeXtATXDZ1HLKwDIAmCO9ubrJN/b/ajAAMQA5lOnSI4wOTaET0N+QdVZGeGngw2A6561rAYuW3PV/UGqZhJEn5eU8WfdWfa9Nm1hT4bmT88ehYan2Uk3diIItBgYXYhxPytbDox6759ttMQhchysW+IzSvsm6sADZpTGb5hRRWrRQKZ6ShI+xB6nyvvjjNAHPDGaKEYRgEnrg2qgTmBw0mxZqqFDdUB7lFrNSFdqtENY20nGJUMsTtTYXRxbGVV2AhdXS5iA==;WjtevJx7IBoA3dCGSa4uFw=="
 ---

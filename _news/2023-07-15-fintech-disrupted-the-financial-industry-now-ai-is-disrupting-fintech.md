@@ -67,20 +67,6 @@ related:
         width: 280
         height: 210
         isCached: true
-  - title: "'Solopreneur' finance platform Collective raises $50m for AI"
-    excerpt: "US fintech Collective has raised US$50m from investors to integrate more AI tools into its platform for self-employed business owners – or 'solopreneurs'"
-    publishedDateTime: 2023-07-13T16:10:00Z
-    webUrl: "https://fintechmagazine.com/articles/solopreneur-finance-platform-collective-raises-50m-for-ai"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://assets.bizclikmedia.net/320/2c76d7f87aacacbcf0c4e511d4de7d89:4946421f9bba5b626f784e1047a05a10/collective-founders-group-photo-scaled.jpg"
-        width: 319
-        height: 241
-        isCached: true
   - title: "5 AI-driven FinTech firms supporting consumers, businesses in Europe"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-17T10:47:00Z
@@ -109,6 +95,17 @@ related:
         width: 720
         height: 340
         isCached: true
+  - title: "Egyptian fintechs team up with Fintech Galaxy's open finance platform"
+    excerpt: "Fintech Galaxy's FINX Connect now hosts over 10 prominent Egyptian fintechs, including Sympl, Synapse Analytics, and Valify, strengthening the bridge between Egypt and the Gulf region's financial sector. Joining FINX Connect allows these fintech firms to ..."
+    publishedDateTime: 2023-07-18T08:40:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/egyptian-fintechs-team-up-with-fintech-galaxys-open-finance-platform-pm08y6bh"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/egyptian-fintechs-team-up-with-fintech-galaxys-open-finance-platform-pm08y6bh?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/egyptian-fintechs-team-up-with-fintech-galaxys-open-finance-platform-pm08y6bh?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "Nvidia invests $50M in Recursion to boost AI platform for drug discovery"
     excerpt: "While relatively modest in size, the investment from Nvidia could help prove Recursion’s datasets give discovery platforms a speed-to-clinic edge."
     publishedDateTime: 2023-07-13T21:04:00Z
@@ -122,6 +119,20 @@ related:
       - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2023/07/GettyImages-1258974271.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Egyptian FinTechs & Fintech Galaxy join forces to expand into MENA market"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-18T08:49:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/egyptian-fintechs-fintech-galaxy-join-forces-to-expand-into-mena-market/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 23
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
+        width: 400
+        height: 224
         isCached: true
 
 secured: "UHWSrj5KzdV1S6gHpl4MEoaQdVkztiTUqLLudCtSIPB3SF4cyyQMTuFzAKBVDQablmmWnILqYrak0nN0R5dZfOMq1mvXYrYQ2wWBBBJPKEWkmbrfUCrhMxMLfwNacXKES6eJlNJDA006BMGCF903Q0e69KE2AvLH/8tSQqVZMkvenENDdcL4jFt7QizRVk2ET3ajteG1jPHzt+qnwrazIqhL5chs2FWLNnmf/+b0Ma/foX02+u5Y2yUSh5lZyYHMBbk+3/k/1eRsYjefYLWcYS0aSC7toZXpgsaRSj9E482GzgAA9hg5xxT5fSDY2IJ0DB6cwzfjmBNsQ3iAzG8G7fxncTh6aD43LZ9/aCq+4Sg=;dElZn5JC9AxSaVziwU3c9w=="

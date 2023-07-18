@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding
 webUrl: "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -28,36 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Data Security Startup Raises Pre-Seed Funding, Launches Data Protection Software Using Artificial Intelligence"
-    excerpt: "New York-based Teleskope reduces manual overhead burdening security, data, and engineering teams, preventing alert fatigue Teleskope, a cybersecurity startup, today launched a data protection platform"
-    publishedDateTime: 2023-07-13T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/b33218847/data-security-startup-raises-pre-seed-funding-launches-data-protection-software-using-artificial-i"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33218847"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33218847"
+  - title: "This AI-Powered Firm Is Ensuring Lending Practices Aren't Racist"
+    excerpt: "Fintech firm \"Stratyfy\" has partnered with the \"Beneficial State Foundation\" to innovate the underwriting process to benefit borrowers of color."
+    publishedDateTime: 2023-07-17T22:09:00Z
+    webUrl: "https://www.essence.com/news/money-career/fintech-stratyfy-racism-lending-wealth-gap-people-of-color/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 71
+      name: Essence
+      domain: essence.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.essence.com/wp-content/uploads/2023/07/GettyImages-1460296966-scaled.jpg?width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "AI startup raises funding to speed up number crunching in clinical trials"
-    excerpt: "The U.S. startup Readout AI has closed a pre-seed financing round to fuel the development of an artificial intelligence (AI)-based tool to speed up data analysis in clinical trials."
-    publishedDateTime: 2023-07-17T13:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2023/07/17/ai-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials"
+  - title: "ACI Learning Launches Proprietary AI-Powered Skills Gap Analysis Tool"
+    excerpt: "ACI Learning, the audit, cybersecurity and IT training leader, today launched Insights, a skills gap analysis tool for team leaders to continuously address staff knowledge gaps. The proprietary tool is the brain inside ACI Learning,"
+    publishedDateTime: 2023-07-13T17:41:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/13/9848207.htm"
     type: article
     provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 36
-    images:
-      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/ai-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials/16582599-1-eng-GB/AI-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials.jpg"
-        width: 1999
-        height: 1499
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Payment Asia launches AI-powered processing service"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-14T11:29:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/payment-asia-launches-ai-powered-processing-service/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 19
 
 secured: "IantTsZ/UAaYGeYpncdqMPXIuEVOMu90kKMnrIcTHDtgprqPMfh60UQGqh+ZAglnfaqi04YM5ffOo/ks7Qk9DmOxJLIdj1ef/vnsySt+IasmBpHE6hoaCiU9RxjITSr1GY0n3CQR3b2ZIjl4NyBpPFzANa0ZLI11kamKX/O8KmsOyqKbXpo3NiJLjuTeM0YNTV/8JCwZrNxEYM3zrcQwWPVoBIl12vsgFq0SYFnp002CRuGMgxT2bA5iBmu5uwbJJFXS9C6fVMOPkskSVv3GIrqMMTN9uPgbUewAQL3otez4pmGXZruoop5Znb6zTrSzgF4gZF2xhWI/uc9yPESkdiQN3SRtUXaqmJnEZqoOSMk=;qFrUqRnwYndXVpooWgTRFQ=="
 ---

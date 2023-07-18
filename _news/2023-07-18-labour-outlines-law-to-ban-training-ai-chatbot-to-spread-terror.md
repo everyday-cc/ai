@@ -120,22 +120,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
-    excerpt: "Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
-    publishedDateTime: 2023-07-13T15:59:00Z
-    webUrl: "https://abcnews.go.com/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/elon-musk-launches-ai-company-compete-chatgpt/story?id=101210078"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Business/elon-musk-rt-gmh-230713_1689261684208_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
     excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."
     publishedDateTime: 2023-07-17T07:00:00Z
@@ -151,22 +135,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_1982930069-100943419-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The FTC Is Investigating ChatGPT, the First Major Regulatory Hurdle for AI"
-    excerpt: "The FTC is examining whether OpenAI's chatbot has provided false information about individuals and whether it has leaked private personal data."
-    publishedDateTime: 2023-07-13T15:38:00Z
-    webUrl: "https://www.barrons.com/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ftc-chatgpt-open-ai-probe-consumers-96c29404"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 55
-    images:
-      - url: "https://images.barrons.com/im-816486/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
     excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
@@ -337,6 +305,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
+  - title: "Can ChatGPT detect fake news?"
+    excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
+    publishedDateTime: 2023-07-18T08:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/can-chatgpt-detect-fake-news/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Elon Musk forms his own artificial intelligence company xAI to compete with OpenAI's ChatGPT"
     excerpt: "OpenAI, the nonprofit AI research company that released the widely popular AI language model ChatGPT in November 2022, was established in 2015 to advance AI technology for the benefit of humanity, unconstrained by a need to generate a financial return, according an introductory statement on the company's website."
     publishedDateTime: 2023-07-13T18:20:00Z
@@ -369,15 +351,6 @@ related:
       name: Richmond
       domain: richmond.com
     quality: 19
-  - title: "ChatGPT maker investigated by US regulators over AI risks"
-    excerpt: "The US Federal Trade Commission has launched a wide-ranging investigation into ChatGPT maker OpenAI, as Washington’s top antitrust regulator turns its attention to artificial intelligence."
-    publishedDateTime: 2023-07-13T15:48:00Z
-    webUrl: "https://www.ft.com/content/8ce04d67-069b-4c9d-91bf-11649f5adc74"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "ChatGPT and the Future of Health Care"
     excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
     publishedDateTime: 2023-07-14T13:43:00Z

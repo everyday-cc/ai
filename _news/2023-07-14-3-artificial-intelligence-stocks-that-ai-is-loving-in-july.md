@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intel
 webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717"
 type: article
 quality: 66
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"
     publishedDateTime: 2023-07-14T12:53:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-doomed-ai-stocks-destined-for-disaster-1032447370"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 Semiconductor Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductors devices are crucial to the modern digital economy. These tiny"
-    publishedDateTime: 2023-07-13T17:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-semiconductor-stocks-that-ai-is-loving-in-july-1032445531"
     type: article
     provider:
       name: Business Insider

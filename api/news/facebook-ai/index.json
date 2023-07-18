@@ -114,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -315,36 +315,36 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-elon-musk-launches-artificial-intelligence-company-xai-what-to-know.md",
-      "title": "Elon Musk Launches Artificial Intelligence Company xAI: What to Know",
-      "excerpt": "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do.",
+      "path": "_news/2023-07-14-elon-musk-unveils-new-ai-startup-with-team-of-top-researchers.md",
+      "title": "Elon Musk unveils new AI startup with team of top researchers",
+      "excerpt": "The startup, xAI, formally launched on Wednesday and its goal “is to understand the true nature of the universe.”",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/",
-      "originalUrl": "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/",
+      "webUrl": "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/",
+      "originalUrl": "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/64b00804ca5782.83734212.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "ampWebUrl": "https://www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/",
+      "cdnAmpWebUrl": "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/elon-musk-ai-startup-top-researchers-chat-gpt/amp/",
+      "publishedDateTime": "2023-07-13T14:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "NewsNation",
+        "domain": "newsnationnow.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -353,8 +353,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -366,7 +366,7 @@
       "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {

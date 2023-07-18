@@ -75,6 +75,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Anthony Albanese urged to ‘drop’ Voice from referendum on constitutional recognition, legislate regional Voices to show they work"
+    excerpt: "Prime Minister Anthony Albanese has been urged to drop the Voice to Parliament from the upcoming referendum, paving the way for constitutional recognition to be achieved while legislated regional Voices can demonstrate they work."
+    publishedDateTime: 2023-07-18T08:18:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 15
+    images:
+      - url: "https://content.api.news/v3/images/bin/06b9884c510393391283604b26cd558b"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VyZTySyWNHyEkT8ASDfHasP14kq+V414ygO8nTjXQ4/VloojqR3BSNHNGn0hsDgV9W0H3owvU02G9+WHN0eGoetqs+XKAIdqFh8qQvlNGKg7Dcn3g7HmGV51R2jadDNKgYE+TuVyXqDnvgVi8+MyvcwM2hvWGkf2unmpcr+VcRFNg/G5ZhJJGkhphBiftYCDkscjzbwh8sH71f7g8GR6GKAJzwPn2ohfEOBXmGPG/1fsxAp+VcCqlMC1NQg6dZUI/0ysPUAmx2Tufjr6Jtz9OnFtteQPM7M5uPpp79P86RUZQQ6dsaDekyfk6khD/8NYjCmdLcvB+upLgoDENpRf7gvxtJ1Mb+dHyeSv+4bHQsZTbRhNVOjb+VWbOhNktZDoDchMKK7GdQOKZMZyZgAVMPgFhJL19DTx/ZKYbJktgs6/n2MPKeNdZromMNNNL8Da2OUj4ZBIH+mFNBgFYu6m6/uzu44OS6/MneVn75YpH5Y+ntg9lQcEGQIkeyXboDYX2/xt9wLUly0NPHM5raufpA==;iOuQOvDa/NpBW3m0e2o9Nw=="
 ---

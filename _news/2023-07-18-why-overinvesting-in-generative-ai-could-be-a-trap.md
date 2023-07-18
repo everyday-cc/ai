@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Viral AI App That’s Triggering Baby Fever"
-    excerpt: "A new AI photo app is triggering baby fever among a population better known for delaying parenthood plans ."
-    publishedDateTime: 2023-07-13T15:23:00Z
-    webUrl: "https://www.wsj.com/articles/want-to-see-your-future-babies-this-viral-app-can-show-you-f4f65bdd"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-815855/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Is AI Taking Over?"
     excerpt: "A leading scientist argues that human beings are soon going to be eclipsed. The crux of the human mind is not intelligence but self-reflection, which often involves inner dialogue. A (G)I is passing the Turing test; we should turn to the Hamlet test: Can A (G)I originate a soliloquy?"
     publishedDateTime: 2023-07-15T00:15:00Z

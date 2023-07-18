@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-01-aadsts65005-error-when-signing-in-to-microsoft-cloud-services.md",
+      "title": "AADSTS65005 error when signing in to Microsoft Cloud services",
+      "excerpt": "This post features solutions to fix the AADSTS65005 error when signing in to Microsoft Cloud services. The error usually occurs if the application isn’t registered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/aadsts65005-error-when-signing-in-to-microsoft-cloud-services",
+      "originalUrl": "https://www.thewindowsclub.com/aadsts65005-error-when-signing-in-to-microsoft-cloud-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-cisco-aims-for-ai-first-security-with-armorblox-buy.md",
       "title": "Cisco aims for AI-first security with Armorblox buy",
       "excerpt": "Looking to bolster the AI support in its Security Cloud strategy Cisco announced plans to acquire Armorblox, a 6-year old predictive and generative AI vendor that specializes in attack prediction and rapid threat detection.",
@@ -1346,50 +1380,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
-      "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
-      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large language models. Nvidia’s AI Enterprise Suite aids in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
-      "originalUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

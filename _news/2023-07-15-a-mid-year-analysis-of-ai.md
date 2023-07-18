@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ACI Learning Launches Proprietary AI-Powered Skills Gap Analysis Tool"
-    excerpt: "ACI Learning, the audit, cybersecurity and IT training leader, today launched Insights, a skills gap analysis tool for team leaders to continuously address staff knowledge gaps. The proprietary tool is the brain inside ACI Learning,"
-    publishedDateTime: 2023-07-13T17:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/13/9848207.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Project Analysis: Alaya, a Data Provision Service for Artificial Intelligence"
     excerpt: "Today we are going to focus on Alaya, a provider of underlying data-based services, which uses the concept of gamification to collect and label data for AI, and finally provide higher quality data to algorithms."
     publishedDateTime: 2023-07-16T10:42:00Z

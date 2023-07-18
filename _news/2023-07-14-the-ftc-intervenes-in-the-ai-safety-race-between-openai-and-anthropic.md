@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "OpenAI strikes deal with AP to pay for using its news in training AI"
-    excerpt: "OpenAI will pay the Associated Press for direct access to its archive of news stories in order to train its AI chatbots."
-    publishedDateTime: 2023-07-13T16:28:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/13/openai-chatgpt-pay-ap-news-ai/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NRSTZQV2CPQGOHARXZZV42UL4I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "eyx0D+owo8kZjIBEZ34ylEsq7zJAEE6S+Rv9MKFLcptveEjI2Oxgq23mpAAp8drcB0GZO/e0a62KZWqn6LwMK4f+DB/Y1EaXUEKCmCdtFl32lYq3mrZqdT5XnF7RGQIU1LAxqVTRxNyNz41cZGV7zOGxi3PVY+4vb62FynxSmMRoGCgmDDI6VorJIWL0KK6onvNcyWxMl4//QzsIlmFzv9KdyyBWpQpg7tE7XzKzBEkdgSnbPHXMD/781JBaR5yhBtKGjpGvpkgGh0bCUh3Yc+c3ip6J7iKHNpYG3sg6u1P0u702lrpQfmzCmxj3IWep20/7ZTitjWo0FEYPF3eeEsLsK71T3cda9ZkB64ZUBzWdkxUA92WQMegh6Ai29A8XrhOrsBnfY4h9qfCCvZmoRj/XEgXGGTBsBtFORquji+Uxab2ofLTNP6/YDZgVqjv8y7xuKvMvZSp68db9vwZ2TrWQMeinFz8ua4kMleZuIQkxxEBBkrIyCaEjmpXUJ3AMDGT1KjSW+MYs2+PgXqpt1w==;zdryEZxVQCOON2qc8I48zQ=="
 ---

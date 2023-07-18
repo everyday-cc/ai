@@ -27,50 +27,87 @@ images:
     isCached: true
 
 related:
-  - title: "Another player heats up generative AI race as China introduces interim laws"
-    excerpt: "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services."
-    publishedDateTime: 2023-07-14T20:21:00Z
-    webUrl: "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/"
+  - title: "How New Rules And Regulations Can Help Create An Ethical Corporate Workspace With The Growth Of AI"
+    excerpt: "As the growth of AI continues, it is important to ensure that companies prioritize ethical considerations and that technology is utilized diligently and transparently."
+    publishedDateTime: 2023-07-17T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 90
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Intel AI chip sales in China to face market, time tests"
-    excerpt: "With widespread speculation about the US government considering further restrictions on the export of Nvidia's A800 and H800 GPUs to China, Intel has chosen this opportune moment to debut an AI acceleration chip tailored for Chinese clients with its fourth-generation Xeon processor at its core."
-    publishedDateTime: 2023-07-17T01:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html"
+  - title: "Asia Falling Behind The Ai Regulation Race"
+    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
+    publishedDateTime: 2023-07-14T11:00:00Z
+    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 71
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://img.digitimes.com/newsshow/20230714pd202_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
+        width: 363
+        height: 250
         isCached: true
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
+  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
+    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
+    publishedDateTime: 2023-07-14T08:40:00Z
+    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: IFA Magazine
+      domain: ifamagazine.com
+    quality: 38
     images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
-        width: 1200
-        height: 628
+      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
+        width: 1600
+        height: 1067
         isCached: true
+  - title: "As employers expand artificial intelligence in hiring, few states have rules"
+    excerpt: "Only Illinois, Maryland and New York City require employers to ask for consent first if using AI during certain parts of the hiring process. Here's where pros say that can cause problems."
+    publishedDateTime: 2023-07-17T16:34:00Z
+    webUrl: "https://technical.ly/civic-news/employers-ai-hiring-states-laws/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 36
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2017/09/wit-job-fair-pic-4.jpg"
+        width: 1023
+        height: 683
+        isCached: true
+  - title: "The Enormous Dangers of Military Artificial Intelligence Reveal the Need for International Regulation"
+    excerpt: "Artificial intelligence (AI) is bound to be a major technological force that will reshape the 21st century. But its reverberating effects will not be confined"
+    publishedDateTime: 2023-07-16T05:40:00Z
+    webUrl: "https://countercurrents.org/2023/07/the-enormous-dangers-of-military-artificial-intelligence-reveal-the-need-for-international-regulation/"
+    type: article
+    provider:
+      name: Countercurrents
+      domain: countercurrents.org
+    quality: 22
+    images:
+      - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/07/Artificial-intelligence-AI-Military-Soldier.jpg"
+        width: 700
+        height: 367
+        isCached: true
+  - title: "How judges, not politicians, could dictate America’s AI rules"
+    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
+    publishedDateTime: 2023-07-17T16:06:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 21
 
 secured: "w7drPS1DcsCSnwwtrMnX1341qaCaNsWCzFqdRDxzYy7N0bDTndtNP9FTccdg1ti89ek3g7iuGyjqkvgUarS0yo63S2Aojdp8yBhGPfAU7BqCT+7GuOgJPfsLzowxbPmNVI3D3aZdDvlfeiLvJDyBU2+hwBuR2sfhdA1ZZ2rJbz08NThg01KmrUmdnZ4xNBPD41SasOFk88axwc2xERD03KeAGhE0Prc+Ry7+UEBguaTzMKOC16FwgiDxr6qDKmV75kU2n16heYYsHvlIyoW67mmmvwRefAKMxnZAFZiLtX7TSIl62hJ4qIFeCHG50HfwXKskqR5Q38dwEeHA4CeVr5CSFYFm+CriByMWlK7XuaY10UnlRhnr8YW4wHfrKq4ZLRWwF9r8RTvZe9ZL02jYeJ155roRXooWYIg/Fiw8efktJnmkFJhgmpLgI4QfhCURYxZ/2i3embkmxQshCXVsGWLasrWOd8S8RrloYeuI0r+RdY4FSQMv/6WW2rnvhHgAqTL06j/2J4bBcy5Z7W8NPw==;yWAucURbVeyaekZM0+RAkw=="
 ---

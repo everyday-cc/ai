@@ -42,20 +42,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Apple Vision Pro to use custom-designed DRAM Chip"
-    excerpt: "Apple's upcoming AR (augmented reality) headset Vision Pro will reportedly feature a new type of dynamic random access memory (DRAM) that has been custom designed to support Apple's R1"
-    publishedDateTime: 2023-07-13T16:01:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/apple-vision-pro-to-use-custom-designed-dram-chip-808935"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 41
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/07/13/1364654-apple-vision-pro.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Apple Vision Pro is first of ‘many’ Apple headsets — here’s what we know"
     excerpt: "This doesn’t necessarily come as a surprise to either us or Gurman. A cheaper version of the Apple Vision Pro headset has been tipped by Gurman and reported by us previously. However, this does seem to be confirming that Apple’s first headset certainly won’t be its last product powered by visionOS ."
     publishedDateTime: 2023-07-17T17:33:00Z

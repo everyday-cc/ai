@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese urged to ‘drop’ Voice from referendum on constitutional recognition, legislate regional Voices to show they work"
+    excerpt: "Prime Minister Anthony Albanese has been urged to drop the Voice to Parliament from the upcoming referendum, paving the way for constitutional recognition to be achieved while legislated regional Voices can demonstrate they work."
+    publishedDateTime: 2023-07-18T08:18:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 15
+    images:
+      - url: "https://content.api.news/v3/images/bin/06b9884c510393391283604b26cd558b"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VuYpimcJA1i3zoS4pZ0QBdjzdzYOp+62/avClT88EQi0Qd019Q84c/gwfFIXS1P4fmLOGDcTTj6X66yqr/jRLxwAiU7yOPec7Io/+FT17Y4VDZyEalB52SzAUIUZ7kjwbAYM96yj91SnCH4dEl37D8dqFfJkPKZhuJz5dGlTw6od5h9mRdgGUbiNWt02xuBoqp4AQxEuTijAwxs/kNZEFloioJvaJzG2szeH04Y3oGCeKlBT9sWrS3bleSXVKvd/yin4UQd1ygjZRa7ujT590g0Ki7cSxIZZvtHjehJLn5uzweOxC8CeJdL14Wg5thhDzTiy77G4l8EztXVj5OxH4E1/X0f/Jiymgp1evO28oCk=;EXI9zOp9b9zEp2ExfEM6jQ=="
 ---

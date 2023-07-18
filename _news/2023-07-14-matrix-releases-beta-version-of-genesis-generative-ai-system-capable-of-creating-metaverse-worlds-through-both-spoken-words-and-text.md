@@ -61,15 +61,6 @@ related:
         width: 1500
         height: 993
         isCached: true
-  - title: "How judges, not politicians, could dictate America’s AI rules"
-    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
-    publishedDateTime: 2023-07-17T16:06:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 21
 
 secured: "f9XZo8+lfkhPfEt2iZHOblrmQmBvGPruDGY4Tpx1B1InDpCaNx1jrng2fo/hNXhk5moNRIxeA6WL/oIkHI4ykxF8wyNqmzywJMZPQXeUkDOf1tcs17dVIcTvNCtl+d+BArPOCvdG7/NjZhgyM+bES4lPxNRl9Ary37PesQ//jdXM85ar0N0tUHnjdwGEq7RaGdsdf3eAAWqGIK78YBGZFef9M32M7f4NtKNSGTz0XOybB6o6Q4sv06XrwNCxms4MyITbWxsvXkDlRCAY1ivKxVkB5yZj4DddkUPUyqCVfvrwDKMmsko8QPTshfw6+VnTDPUTz27uLIlEU4E6amRHuA/oQzwhvTdbZjvO26CqRmelL1CMx9WEf1Bg4UziWcauTmYDJ/WNe93oxB2RJhcE+HgyXypDXUDF3KDMoGYcA2JH+cGXjYTMDBK3Y4PzbP/JrLVAhfcs/5FgWWvm0TH+p58ZWQjo/kNjVIzm0xuRhkCuYJGH2U/DWGkKcOr++5e0uN8TzUa8o75haYNELjGo6g==;JP0ghOUZCCeYfRW0bmmhgA=="
 ---

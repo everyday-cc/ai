@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-launches-its-ai-note
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Bard AI just got 4 big upgrades — here’s what it can do now"
-    excerpt: "Google Bard is being upgraded with four new features that mark the chatbot's \"biggest expansion to date\" as it continues to battle with ChatGPT. Alongside the new updates, Bard will also finally be available in Europe, where discussions over AI regulation had previously paused its rollout."
-    publishedDateTime: 2023-07-13T15:44:00Z
-    webUrl: "https://www.tomsguide.com/news/google-bard-ai-just-got-4-big-upgrades-heres-what-it-can-do-now"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Lq5ACgugCfMikZ3fyedm5T-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google NotebookLM AI notebook launches"
     excerpt: "Google, in its ongoing quest to amplify learning through advanced technology, unveiled a selection of AI first experiments at this year's Google I/O"
     publishedDateTime: 2023-07-14T11:50:00Z

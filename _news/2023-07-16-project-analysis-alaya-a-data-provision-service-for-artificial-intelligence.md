@@ -32,15 +32,6 @@ related:
         width: 500
         height: 271
         isCached: true
-  - title: "ACI Learning Launches Proprietary AI-Powered Skills Gap Analysis Tool"
-    excerpt: "ACI Learning, the audit, cybersecurity and IT training leader, today launched Insights, a skills gap analysis tool for team leaders to continuously address staff knowledge gaps. The proprietary tool is the brain inside ACI Learning,"
-    publishedDateTime: 2023-07-13T17:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/13/9848207.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "Rw41fcrZ5E7Jy8w346uJeJvZnm5yC3MM/5ddKeO/DMTGsDJfZJf4Q4dw16eMX/VEMhkiDCCYzRqfxzx7sZQJHnEo052OK1A5BL8aNUbSh72EYU+ku+vEoQ8BCwwKiiLIRtPqVwSRJ425tU8uCZ2PNEOR6zKL0+OJOX7NzuMmzCtdBMdlidMuscgHW3rImn3z8c6pW94pJqmSJsB0UwedQtfaCyRfgSxQBcevogEHS34TrG4qgvsscnyZNMg3ruBbIXs+6safUIU5Wg82QaoyKgXWoa54iYuil7GkQOQkUVXadV10X+EVdVBnWwZ8QGszlZiDw0xYiKqbLOJyH5OkSTc2fpnWlEwPHKjXtp0KVy3VUhTBgHrrZP1amZVOqdYN8kZpqPLHfN4HViVGCSKg+uY9j8eC0JWXmPVdeEYiVdO1kDlondOtZjxdiZruEOEEYfUW2eVaIP5KMVY+MHPFvwTnu/cWNHPxd/NIvYl/TOC9EnD3bJBvSKjC/qDQmqaDrcOJQvbmI741/eZRQLOO2Q==;wRVHISmS/zf6EE0MhnWiXw=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Anthony Albanese urged to ‘drop’ Voice from referendum on constitutional recognition, legislate regional Voices to show they work"
+    excerpt: "Prime Minister Anthony Albanese has been urged to drop the Voice to Parliament from the upcoming referendum, paving the way for constitutional recognition to be achieved while legislated regional Voices can demonstrate they work."
+    publishedDateTime: 2023-07-18T08:18:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 15
+    images:
+      - url: "https://content.api.news/v3/images/bin/06b9884c510393391283604b26cd558b"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SnolW+a+LlqivjPLmWSBQPyhmEu/JNm7bL0mrU76SvBKWWItg1+I6+UePgyMLGUrwdMznV4oPtCwqQky9Fad6xObL7y4H0g8GwnI8hqz94cNkION7F0OskBQ+QDBdrhoMsb4tL5Uvdgao+pCLlY5XAGidEvlVGjWum8pqRDp4LWVpLFlbNJM/G4Jdq4RttmVA1AWLbiyB/rn/aHpkex7shyKxov0l+ddnXby5sO9DHI3P1H8mRTY+8yL988ECewVRtCYpA3ItXMWthsrMbQO1vkM+fGgxyFpZFecwFsfYfZOFfkqF2PJNJluNM16XYz3Krt1cSaYaD1EXe5rbB1kVLOKqLpMoJYnyQxoOi2zLP2No2l/ZeVuhcXZXZx+PNuuEqCNhhCjyzrY7khVGGW33X2bjrA/OdmufRU6+wTPKeKE2xreHWFst5qhjmm/BhpOdXc0bPnOhI3SCqBTuJ6tCJ2xiBBBj02aBsthRJAUfTkM42RAwwHFTbvz0tErEEyjDQP1t8rs1wXwb8l/db7lGw==;1kx6PrD/IVQeym4lTtvfng=="
 ---

@@ -134,15 +134,6 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 34
-  - title: "Crawlers, search engines and the sleaze of generative AI companies"
-    excerpt: "AI companies see the openness of the web as permitting large-scale crawling to obtain training data. So what should publishers do?"
-    publishedDateTime: 2023-07-13T15:32:00Z
-    webUrl: "https://searchengineland.com/crawlers-search-engines-generative-ai-companies-429389"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 21
   - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
     excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
     publishedDateTime: 2023-07-17T09:13:00Z

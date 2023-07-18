@@ -223,6 +223,20 @@ related:
         width: 342
         height: 342
         isCached: true
+  - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
+    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
+    publishedDateTime: 2023-07-17T13:56:00Z
+    webUrl: "https://www.eagletribune.com/region/thetaray-earns-microsoft-cloud-solution-provider-status/article_bd934ce6-c8f1-5843-b93a-73cb72858ff8.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/f/83/f83c4fd7-50cb-5b94-892d-2b270aeac4f7/64b54d39aa78a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
+        width: 1194
+        height: 627
+        isCached: true
   - title: "Microsoft announced its first customer product features powered by … – Microsoft"
     excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
     publishedDateTime: 2023-07-18T07:28:00Z
@@ -246,15 +260,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
-  - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
-    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-07-17T14:45:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/17/9849169.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
     excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
     publishedDateTime: 2023-07-15T17:21:00Z

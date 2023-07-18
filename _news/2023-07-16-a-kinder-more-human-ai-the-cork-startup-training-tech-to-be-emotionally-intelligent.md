@@ -47,6 +47,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 42
+  - title: "AI startup raises funding to speed up number crunching in clinical trials"
+    excerpt: "The U.S. startup Readout AI has closed a pre-seed financing round to fuel the development of an artificial intelligence (AI)-based tool to speed up data analysis in clinical trials."
+    publishedDateTime: 2023-07-17T13:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2023/07/17/ai-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 36
+    images:
+      - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/markets-regulations/ai-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials/16582599-1-eng-GB/AI-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials.jpg"
+        width: 1999
+        height: 1499
+        isCached: true
   - title: "The code breakers: Harnessing the power of AI to understand what animals say"
     excerpt: "An international group of experts argue that tackling the long-standing challenge of decoding the communication systems of whales, crows, bats, and other animals is coming within reach, following breath-taking advances in artificial intelligence (AI) research."
     publishedDateTime: 2023-07-13T18:52:00Z

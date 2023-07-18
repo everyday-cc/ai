@@ -2,6 +2,187 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-12-cedar-rapids-airport-testing-facial-recognition-technology.md",
+      "title": "Cedar Rapids airport testing facial recognition technology",
+      "excerpt": "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "originalUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=767D8083-B298-4C59-86CF-FA5BEF92D3A4&type=preview&q=75&width=1200&height=800",
+          "width": 800,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "publishedDateTime": "2023-07-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs.md",
+      "title": "IBM may use its own AI chip in cloud service to lower costs",
+      "excerpt": "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
+      "originalUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg",
+          "width": 640,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
+      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
+      "publishedDateTime": "2023-07-12T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecom Lead",
+        "domain": "telecomlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-mission-impossible-dead-reckoning-part-one-treats-ai-as-the-threat-that-it-is.md",
+      "title": "'Mission: Impossible — Dead Reckoning Part One' Treats AI As The Threat That It Is",
+      "excerpt": "The latest epic in the Tom Cruise-led action franchise rightly challenges the phenomenon of artificial intelligence and how it impacts our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
+      "originalUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64adae5f2200006c00a7b10e.jpg?cache=AlTKxYFwSH&ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
+      "publishedDateTime": "2023-07-12T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ai-service-robotics-india.md",
+      "title": "AI Service Robotics - India",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-leaked-org-chart-reveals-the-58-top-leaders-and-engineers-at-google-deepmind-as-it-races-to-surpass-openai.md",
       "title": "Leaked org chart reveals the 58 top leaders and engineers at Google DeepMind as it races to surpass OpenAI",
       "excerpt": "Google announced it would combine DeepMind and its internal AI group Brain. These are the people with power in the new unit.",
@@ -993,188 +1174,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-11T07:33:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-the-benefits-of-ai-in-healthcare.md",
-      "title": "The benefits of AI in healthcare",
-      "excerpt": "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
-      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 316,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:31:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
-      "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
-      "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "publishedDateTime": "2023-07-11T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket.md",
-      "title": "Chip-Chip, Hooray: Nvidia, AMD Lead Semiconductor Rally Premarket",
-      "excerpt": "Shares of chipmakers are heading northwards in premarket trading on Tuesday, led by Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD). KeyBanc Capital Markets analyst John Vinh raised the price targets for several companies in the space,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Nvidia_11.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-the-economy-of-things-the-next-value-lever-for-telcos.md",
-      "title": "The Economy of Things: the next value lever for telcos",
-      "excerpt": "Over the years, the Internet of Things (IoT) has evolved into something much greater: the Economy of Things (EoT). The number of connected things surpassed the number of connected humans for the first time in 2022. The number of IoT connected devices are growing in practically every industry, and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-economy-of-things-the-next-value-lever-for-telcos/",
-      "originalUrl": "https://www.ibm.com/blog/the-economy-of-things-the-next-value-lever-for-telcos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

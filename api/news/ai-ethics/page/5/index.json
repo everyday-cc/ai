@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-10-hackers-look-for-ai-flaws-under-white-house-direction.md",
+      "title": "Hackers look for AI flaws under White House direction",
+      "excerpt": "A mass hacking event will target models from OpenAI, Microsoft and more, looking for flaws in AI systems at the direction of the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction",
+      "originalUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8413fe5c-9099-4c4d-88f4-ed26e5fe8c69/2fc9d027-6cf3-41fd-aa0c-dd12a69199d6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp",
+      "publishedDateTime": "2023-05-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-ai-will-be-the-political-lefts-single-greatest-weapon-against-religious-faith-and-truth-says-expert.md",
       "title": "AI will be the political left's 'single greatest weapon' against religious faith and truth, says expert",
       "excerpt": "As AI technologies grow, experts and faith leaders share concerns over AI and worship. Faith leaders weigh in, saying AI can learn the gospel, but can't ever experience and share it as humans can.",
@@ -1425,58 +1468,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-96-of-people-consider-ethical-and-responsible-ai-to-be-important.md",
-      "title": "96% Of People Consider Ethical And Responsible AI To Be Important",
-      "excerpt": "Undeniably, technology's ethical and responsible usage equates with a positive and sustainable future for the masses. With AI-powered technology playing a substantial role in our daily lives, it has become indispensable to consider its impact on society,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644996ddc91a2eb9d951f763/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/04/27/96-of-people-consider-ethical-and-responsible-ai-to-be-important/amp/",
-      "publishedDateTime": "2023-04-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

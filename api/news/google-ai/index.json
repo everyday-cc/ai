@@ -2,15 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-18-elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai.md",
+      "title": "Elon Musk Says His Artificial Intelligence Company xAI Is A Direct Competitor To Sam Altman’s OpenAI",
+      "excerpt": "Upon being probed by a user, Musk admitted that xAI is a direct competition to Sam Altman’s OpenAI. He also introduced the founding team of xAI that has many former employees of DeepMind, OpenAI, Google,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
+      "originalUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/default/el_jynx.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-uk-needs-culture-shift-to-become-ai-superpower-deepmind-co-founder.md",
       "title": "UK needs culture shift to become AI superpower - DeepMind co-founder",
       "excerpt": "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66166236",
-      "originalUrl": "https://www.bbc.com/news/technology-66166236",
+      "webUrl": "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -24,23 +67,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66166236.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66166236.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp",
       "publishedDateTime": "2023-07-17T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +83,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1399,50 +1433,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks.md",
-      "title": "DeepMind’s RoboCat learns to perform a range of robotics tasks",
-      "excerpt": "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
-      "originalUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1500
         height: 993
         isCached: true
-  - title: "How judges, not politicians, could dictate America’s AI rules"
-    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
-    publishedDateTime: 2023-07-17T16:06:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 21
   - title: "MATRIX Releases Beta Version of ‘Genesis’ Generative AI System Capable of Creating Metaverse Worlds Through Both Spoken Words and Text"
     excerpt: "The beta version of ‘Genesis’ is a technical verification edition of the generative AI system that automatically creates photorealistic Metaverse spaces. You can experience the generation of Metaverse worlds (virtual spaces) through simple spoken language or text prompts (Speech to World)."
     publishedDateTime: 2023-07-13T18:26:00Z

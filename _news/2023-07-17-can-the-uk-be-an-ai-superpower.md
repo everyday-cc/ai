@@ -27,18 +27,32 @@ related:
   - title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
     excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014."
     publishedDateTime: 2023-07-17T16:53:00Z
-    webUrl: "https://www.bbc.com/news/technology-66166236"
-    ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
+    webUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 104
+      domain: bbc.co.uk
+    quality: 74
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Brits need a mindset change if they want to be AI leaders"
+    excerpt: "Given it thought Brexit was a good idea...  DeepMind co-founder Mustafa Suleyman says that for the UK to become an AI superpower, it needs to change a bit of its thinking. Suleyman said that the UK needed to foster a culture of risk-taking and encourage large-scale investments."
+    publishedDateTime: 2023-07-18T08:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57263-brits-need-a-mindset-change-if-they-want-to-be-ai-leaders"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/a94e94e5ed37db6063799933eff6278c_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "ht6yEmy1m5+B2mc1/4mMm+h6fcTwRcDluuwhdHZV3zgpub1tEB8Lhdnu6alQvRv6MKrCyGE9uNw4xNiO8upanqdaWLiU5WI/b4bS5RztdvIFRCGlVxMXsxEGf0iWohWlZvDFos4+2BNaex5ObBDEXkZ0nHCbXtrjkbeXp9s5tl9cD9RTvJCklpdNk6tBGz8HwkhuKNGCQEb6vIOsa64Kl7MPOeBOAMm9RyN1Rteh2dSPlzoeHeU9okpLsTxVOrujQklPlexjJ6rbO3JhMRPOd5sSEUzXdHi3yJ0L6rOkY3h2Y+yur7P7OKbpO2W0URdFhxTZGmADdcR41zVLpbzl3/yegizsZT71JOp6fH+fsZBLTGCOTQdhBPfcaxOVyojenc8h53+cJwbf6KbsnlU6G9Dq3TkXmfYh6z3I0zcPyE3gJMcLnzPLT+3dbJjhKJVoNNNoWnXbpelr1qNUicy076hww8lOb6PtQf9JrSNq0OkGWuVL7W8Nhte7rZhQtWjolaSqf/8RPitwOB9EyMfQEw==;B7VVcJGnMOPADIusuJeyZQ=="

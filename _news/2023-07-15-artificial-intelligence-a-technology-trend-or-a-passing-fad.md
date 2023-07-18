@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
-    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
-    publishedDateTime: 2023-07-14T08:40:00Z
-    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 38
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-
 secured: "FjzDo/3KxAO3OCrCzYE5wgqtJauH+Ajfvol50NIPmIdyavz8V4qVYSBaQA6GsgXA1R0ts0+oo5BrLGqFisXoisK0FzjBuJyZKUOACM6Y1z3O73glcXgS2j54bmYHRL/4LX7AszHxjTfIMmOaJAllIiEePbUDC7WB9jX8yEprBsC7zsSXBQZ8/3fpNtjscoe+hepVVobS+EeoATogeqUft7tFi/EzPGySed7BxTirGdVVHGRSMFszCjmkclz8VED/CTP3Od8kqD1MDfwGVnj0S9zFsgte6ZeWF/IYGYlGnY9HEBpGl0UO2F6du7WdTT96Hw8/JiQJnvewTMNR3AzIS50GlGRv8YADqYgVUbc/HnCzRCQHiJUzWJ3R4EtNknNSIBjV1Ir2Irfe/0oA5WHc9uQwJ6DsqvjrScA4T5sqXn65mvLQ32g7xPFU62cZqZ6ZdUVcku9mdhgw8oAYdXq9mYp/3Rxm5Cqo2bDinxirTlJeqNV5d11TblpM+Trje2raa3ODEcWZcudye47w40S6oA==;/U7xI08GyC6mKItGb85cwg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Asia Falling Behind The Ai Regulation Race"
-    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
-    publishedDateTime: 2023-07-14T11:00:00Z
-    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
-        width: 363
-        height: 250
-        isCached: true
   - title: "Revolutionising innovation: The Generative AI approach by startups in India"
     excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
     publishedDateTime: 2023-07-16T02:15:00Z

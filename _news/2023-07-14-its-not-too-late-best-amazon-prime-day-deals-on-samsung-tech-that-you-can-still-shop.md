@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-o
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-deals-on-samsung-tech-you-can-still-get-2023-07-13/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Yes, you can still score a Prime Day deal on a robot vacuum the day after Amazon Prime Day 2023"
-    excerpt: "Jet Bot AI+ robot vacuum with object recognition, $664 (reduced from $1,299) Best iRobot vacuum deal: iRobot Roomba j7 robot vacuum, $399 (reduced from $650) The experts at CBS Essentials have rounded up the best robot vacuum deals."
-    publishedDateTime: 2023-07-13T15:39:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-13/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-13/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-13/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 49
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=867e41af7e860d9286e5bd7e91ee0db8"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "aQwdgDv7jCZpqXKlh+g9boxoInnzQfuqY1mvD32hyY13eA6mc+JPX5Rc4GVyvCr8kQBry6/CAhQ+kkemUXT3VL+lGYItRkI/p0PNyZ6+z20MW+zTABKSVWdFCfrkMOB1kb3g1ZNTvBP+mrtpQaNsxUH73Y5y92XaUrLdbWBTw+0SHaZnY13h9+aeINyZW5XsRw6rd5jtvd9h+uvVbUBk7VchtTZOtyEdvs+wMz6/K1ds/nNKAfF5g+4ELWQ5BqePIMfTfb+z8oTfB+i96JgDS75qsJJDc8+4x9vVUBMAJZpDH3bEqVxiuxJqBYdDDD3aSkLJeD3Zim4vj2Aqyp0zOtO8q6eOpJ34CV0MqmnvToxH2rOz0es6KP4Vcv1JW+fY12mtQtOOv1Yw84lPsDkIFKQiNVuj+1EWti3SahThKn6I9m81IGGh/Zpc7gYH5iq0Pie4Cu2BF7LNnyPS71gm++XZCdeoYcdkzC/aH26lwZcK/Z5hNUJd5hs2CjqevrI/sCMUxt6/2L2oQYmhqZmepw==;z7B1M3M3LPJvfRRDuhKjOw=="
 ---
