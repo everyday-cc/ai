@@ -2,6 +2,58 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2023-04-20-artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030.md",
+      "title": "Artificial Intelligence (AI) Chips Market Predictions: A Comprehensive Forecast for 2023-2030",
+      "excerpt": "Apr 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030-2023-04-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030-2023-04-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-accelerating-chip-design-with-gpus-and-adding-ai-to-push-it-further.md",
       "title": "Accelerating Chip Design With GPUs, And Adding AI To Push It Further",
       "excerpt": "Two decades ago, all the chip makers, including Intel, had to buy Unix machines, usually massive ranks of Sparc/Solaris systems, to do electronic design",
@@ -1143,49 +1195,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-this-might-be-what-the-chatgpt-humanoid-robot-will-look-like.md",
-      "title": "This might be what the ChatGPT humanoid robot will look like",
-      "excerpt": "These images provide clues as to how ChatGPT will look if its creators make a physical version of their hugely popular artificial intelligence ... OpenAI's Startup Fund led an investment round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/Is-ChatGPT-robot-look-like.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/Is-ChatGPT-robot-look-like.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/19/15/70003963-0-image-a-5_1681915643563.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/amp/Is-ChatGPT-robot-look-like.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11989731/amp/Is-ChatGPT-robot-look-like.html",
-      "publishedDateTime": "2023-04-19T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

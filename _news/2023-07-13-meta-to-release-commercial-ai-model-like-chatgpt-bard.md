@@ -119,22 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Millions of users are flocking to an AI-powered chatbot that lets them chat with famous figures like Elon Musk and Mario"
-    excerpt: "Character.AI has around a dozen versions of Elon Musk that users can chat with, including a \"kind, gassy, proud\" unicorn."
-    publishedDateTime: 2023-07-13T10:58:00Z
-    webUrl: "https://www.businessinsider.com/characterai-artificial-intelligence-chatbot-mimics-mario-elon-musk-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/characterai-artificial-intelligence-chatbot-mimics-mario-elon-musk-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/characterai-artificial-intelligence-chatbot-mimics-mario-elon-musk-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://i.insider.com/64afe049c22d1a0019453fd9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Meta set to release a commercial AI model like Bard and ChatGPT"
     excerpt: "Elon Musk, in a separate development, has recently launched a new AI company named xAI, with a mission to understand the true nature of the universe. The xAI includes members with prior experience at prominent AI organizations such as Microsoft Research,"
     publishedDateTime: 2023-07-13T14:25:00Z
@@ -360,20 +344,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2023/evaluating-the-ability.jpg"
         width: 748
         height: 440
-        isCached: true
-  - title: "Google rolls out AI chatbot Bard to Europe and Brazil and adds more languages"
-    excerpt: "Google says it’s rolling out its AI-powered chatbot Bard across Europe and in Brazil, expanding its availability to hundreds of millions more users"
-    publishedDateTime: 2023-07-13T10:17:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/google-rolls-ai-chatbot-bard-europe-brazil-adds-101206487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 34
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_718684c77171b2680280b7b915eefdda_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
     excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."

@@ -2,6 +2,49 @@
   "page": 165,
   "value": [
     {
+      "path": "_news/2023-03-28-ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk.md",
+      "title": "AI Prediction Tool Identifies Chemotherapy Drug Toxicity Risk",
+      "excerpt": "To further improve and refine prediction, the researchers incorporated artificial intelligence (AI ... This may enable more personalization of cancer therapy and minimize toxicity for patients. If leveraged in the clinical setting, a risk-scoring tool ...",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "originalUrl": "https://healthitanalytics.com/news/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-852404126-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-prediction-tool-identifies-chemotherapy-drug-toxicity-risk",
+      "publishedDateTime": "2023-03-27T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-closer-look-voice-typing-in-windows-11closer-look-voice-typing-in-windows-11.md",
       "title": "Closer Look: Voice typing in Windows 11Closer Look: Voice typing in Windows 11",
       "excerpt": "For other languages, Microsoft has recommended the use of Windows Speech Recognition instead. Voice typing settings in Windows 11 With Windows 11, the first thing I noticed was that Microsoft has ...",
@@ -1164,59 +1207,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues.md",
-      "title": "Machine Learning & Big Data Analytics Education Market to Experience a Significant Increase in Revenues",
-      "excerpt": "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (96 Pages) | Information Technology |",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues-2023-03-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-to-experience-a-significant-increase-in-revenues-2023-03-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-26T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

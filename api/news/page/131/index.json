@@ -2,6 +2,49 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2023-04-26-self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work.md",
+      "title": "Self-driving cars will bring vital innovation to our roads – but we need new laws for it to work",
+      "excerpt": "Ben Everitt is the Conservative MP for Milton Keynes North The ‘Pop.up next’ concept flying car, a hybrid vehicle that blends a self-driving car and passenger drone by Audi, italdesign and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/",
+      "originalUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2023/04/GettyImages-928219548-1-e1682430586738.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/self-driving-cars-will-bring-vital-innovation-to-our-roads-but-we-need-new-laws-for-it-to-work/?amp=1",
+      "publishedDateTime": "2023-04-26T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-jabil-is-building-reports-with-ibm-business-analytics-portfolio.md",
       "title": "Jabil is building reports with IBM Business Analytics Portfolio",
       "excerpt": "Learn how global supply chain expert Jabil is turning reporting change into business success with the IBM Business Analytics portfolio.\nThe post Jabil is building reports with IBM Business Analytics Portfolio appeared first on IBM Blog.\n",
@@ -1171,57 +1214,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns.md",
-      "title": "US federal agencies pledge to uphold fairness and equality in AI systems amid growing concerns",
-      "excerpt": "Four federal agencies pledged on Tuesday to enforce their respective laws and regulations to ensure AI is fair and law-abiding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/",
-      "originalUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/ian-hutchinson-ruQxygBJMOM-unsplash-e1682464842226.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/us-federal-agencies-pledge-to-uphold-fairness-and-equality-in-ai-systems-amid-growing-concerns/amp/",
-      "publishedDateTime": "2023-04-25T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

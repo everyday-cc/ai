@@ -76,6 +76,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "The Future of AI Is War"
+    excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
+    publishedDateTime: 2023-07-17T14:53:00Z
+    webUrl: "https://www.thenation.com/article/world/artificial-intelligence-us-military/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 39
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "JkRGPX9zyrboRDfN2fEu09C1MYGqRWHYln/FGrh1SOktD8K69owPbTp9yLb3k9i+T1Lxh3GG2bP0FILA9Qb0kDNx5IWtxQ3X5nu9ysHi7nMuR4m0smXJN0HvVfkpwv92JfoE2ZrOpJsSDzWN1rVq4ty8Io7a8K1GjOdYohRdHZ9cryvy7esj55S09Bl5nS0y/OwJGRHd9rUA0J8INOllyzPV9HlV8Rw7TlM8oYwOinzms5IRLzv+Vu1JvN8yLDqYd/6leSBkomNdD0nJtbDb1LkAdtV5V6ZRVDURRVjoLAy+tIxMiw4b2Kjhri2va4P2ZrXGQgh43VyFcL1qiurH1nE3s3YzK3pgcZND1rONwZI=;BSo6Iebg25GaQen7ihnusg=="
 ---

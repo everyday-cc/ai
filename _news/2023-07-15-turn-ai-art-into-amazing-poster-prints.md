@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rising Data Center Costs Linked to AI Demands"
-    excerpt: "Energy usage associated with running AI number-crunching is fast becoming a key driver of rising data center bills."
-    publishedDateTime: 2023-07-13T10:59:00Z
-    webUrl: "https://www.wsj.com/articles/rising-data-center-costs-linked-to-ai-demands-fc6adc0e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-816176/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Rising Data Center Costs Linked to AI Demands"
     excerpt: "Energy usage associated with running AI number-crunching is fast becoming a key driver of rising data center bills."
     publishedDateTime: 2023-07-13T19:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodl
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "This new AI tool transforms your doodles into high-quality images"
+    excerpt: "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt."
+    publishedDateTime: 2023-07-17T18:06:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/c0bca7db75625cc18335648e3423ac5669999a83/2023/07/17/5fada49b-6f21-41d1-a300-ac2d49133e89/screenshot-2023-07-17-at-11-24-40-am.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Stable Doodle Uses AI to Transform Your Drawings Into Works of Art"
     excerpt: "If you have aspirations of being an artist without the talent or perhaps the time to back it up, AI might be able to help. Clipdrop today launched Stable Doodle, which transforms even the most mundane of doodles into a work of art."
     publishedDateTime: 2023-07-13T20:39:00Z

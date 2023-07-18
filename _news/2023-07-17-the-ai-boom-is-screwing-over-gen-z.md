@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-em
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/connection-g3ed302e2f_1280.jpg?itok=mH6-aM80"
         width: 1528
         height: 800
+        isCached: true
+  - title: "The Future of AI Is War"
+    excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
+    publishedDateTime: 2023-07-17T14:53:00Z
+    webUrl: "https://www.thenation.com/article/world/artificial-intelligence-us-military/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 39
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
+        width: 1440
+        height: 907
         isCached: true
 
 secured: "Tx5qGscpQ4ae31T79Ewyl7o+Q0bnXjCMPfVi0eWGKcxE5oc5sz2fM8e4UhOeLm9P2/mOvaJCt9Jn901+T/kvVvcg5naZ2O+lW1bcGxFlAM5KBf3we/Y1yj7/hIRWHOdcwQ2DDOmPkImIBAttVAhdbF0IW0ATTGf80NUVq7Ly/CXDaQN//rXyQ/Ns7mLPp1SBq+xd1vDuxmYtQ8GZRpieTMyPqbBEM9YQhZqiEDIvzEgnmkXZ2GXIAQrt81mTu1InLo9NOaEKfzOfK1tX40WsfLVbAKZVKi5830gk3FzBOtSG9C8kQ0/S8Zj6L1Tl3giIo1cYmDudK9D0tZsyQsFxYqhFhsZrDyqFhw/xp5xetfA=;5I9+wBuyfAmmCJbMzwe9Eg=="

@@ -2,6 +2,57 @@
   "page": 148,
   "value": [
     {
+      "path": "_news/2023-04-14-elon-musk-to-tucker-carlson-ai-has-the-potential-to-destroy-civilization.md",
+      "title": "Elon Musk to Tucker Carlson: AI has the potential to destroy civilization",
+      "excerpt": "Twitter and Tesla CEO Elon Musk weighs in on the dangers of artificial intelligence, the future of Twitter and more in an exclusive 'Tucker Carlson Tonight' interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6325033515112",
+      "originalUrl": "https://www.foxnews.com/video/6325033515112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da690c3c-5e61-47c0-bccc-5beca326338b/1fbe27f8-e5d4-49cc-b091-9bc43566bf28/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-14T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-amazon-ceo-andy-jassys-5-boldest-remarks-on-layoffs-chips-and-ai.md",
       "title": "Amazon CEO Andy Jassy's 5 boldest remarks on layoffs, chips And AI",
       "excerpt": "From AWS facing \"short-term headwinds\" to customers looking at \"cost-optimizing\" versus cutting cloud costs, Amazon CEO Andy Jassy has some very bold statements regarding his vision for Amazon Web Services.",
@@ -1147,40 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-14-built-world-ai-is-the-present-and-the-future.md",
-      "title": "Built-world AI is the present and the future",
-      "excerpt": "Since the creation of AI technology, its use in fintech has proved the most popular and profitable. AI technologies can help fintech companies and institutions to keep in touch with their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/built-world-ai-present-future-1714995?user_id=[[email]]",
-      "originalUrl": "https://www.ibtimes.co.uk/built-world-ai-present-future-1714995?user_id=[[email]]",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

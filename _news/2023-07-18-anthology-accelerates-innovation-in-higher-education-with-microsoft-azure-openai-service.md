@@ -154,8 +154,8 @@ related:
     quality: 29
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-07-17T15:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-thetaray-earns-microsoft-cloud-solution-provider-status-/2023/07/17/9849169.htm"
+    publishedDateTime: 2023-07-17T14:45:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/17/9849169.htm"
     type: article
     provider:
       name: TMCnet
@@ -171,6 +171,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "wrUfwm4m/SVbj3l3tHyntKKOoRjV/nDvUfemkKD9udUy2TFP+q8Nl97+rMsqdL0qvrL0EUfVPn/o44FupYvoi+ugHtRoBSQOU/yvINq3AOttRJjZgHMd4pG9ynpSJZA8y4JuRwtEP9sgvax26T3bUZ3o03ZrpIAm8U7IhB5GaZX9C/KeJ8Eu9h438rQu9xvfU4IS/GCx8J3SD5deb9zBB2VjIxFrU3GQ89jpKvQzVVXzFT+f5aZ9zPyR0TqTJhmG3SXFxF9TFuco95Cg+WdXdyCzn5EC3PCu/BUBhFgy+q6oaw/Vi6cg27Cuztuqevad4e8l4z6puYPTVhsDbNq7OQeGN8cHRN80CAdxJfpAzp0=;U/Y1NQy2cNGMpfP0NWVR7g=="
+secured: "6034ARTCggMQHMnUqHPz3gDiRRKdHG+bqWqKHtN60YY/6npmHxdB7wbsy+a9rlkd8oXXarl8n54JQKoSOxUgt8dJlUXTPJZKyGPnHTA6CPuZHObbxvVZVRYiNxQPPtsaya+lyWMQ4M45gn+1ri41U+wq5gHGfezwlBnO++DHwg87w/xa6Si0+WiVqNJj7oOHrgYvAmH0/3bE/h26o59tuUKDCjfJ/X86bhiB2aVuKmBpTYZ6mJtK0zChWcHkZ2WjnpJa+ncXdniaCGoTYZ2oTUuIlTV9iaF66eR7amw9sSQz8ByejCsUy3ub3vEKCoTzKuzlNhzFdfaMe0WUvNLmYepPGEp3HMjGQV79U6P6VxQSokOZsHTTvHBuVdLRKvDWT48OWVzT+8wDpi5y1JtqP4gtqE2n+Bj1C4vSXwJaPm9SVzDHiuKBcIYi+wwhCsTAG7CeVwL+UQhPyOcivV1VoFYin+xTvimTjhVHXjalY1OlzAGdKwRGicdPorRqgV4I+YqcyDPsimHByFkJwh93Bg==;O28ukDg7IO+mBq4sbRz1ZQ=="
 ---
 

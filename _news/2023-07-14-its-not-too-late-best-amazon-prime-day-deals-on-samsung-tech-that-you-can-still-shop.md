@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Prime Day deals 2023 - all the best offers still available"
-    excerpt: "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ..."
-    publishedDateTime: 2023-07-13T09:52:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Yes, you can still score a Prime Day deal on a robot vacuum the day after Amazon Prime Day 2023"
     excerpt: "Jet Bot AI+ robot vacuum with object recognition, $664 (reduced from $1,299) Best iRobot vacuum deal: iRobot Roomba j7 robot vacuum, $399 (reduced from $650) The experts at CBS Essentials have rounded up the best robot vacuum deals."
     publishedDateTime: 2023-07-13T15:39:00Z

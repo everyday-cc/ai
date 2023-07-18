@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI, Automation And The Global Productivity Crisis"
+    excerpt: "As the workforce is stretched to accomplish more with fewer resources, the use of AI combined with intelligent automation will drive business agility."
+    publishedDateTime: 2023-07-14T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/ai-automation-and-the-global-productivity-crisis/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Search Engine is Added To Zest AI Product List"
     excerpt: "Learn about ZestFinance Inc., known as Zest AI, which is boosting its machine-learning credit underwriting capabilities with FairBoost."
     publishedDateTime: 2023-07-17T07:01:00Z

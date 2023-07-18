@@ -24,22 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Stuck in slow lane, NHTSA proposes new regulatory path for self-driving vehicles"
-    excerpt: "A top federal safety regulator outlined a new regulatory pathway called AV STEP that could speed the deployment of autonomous vehicles. A notice of proposed rulemaking is expected this fall."
-    publishedDateTime: 2023-07-13T10:27:00Z
-    webUrl: "https://www.autonews.com/mobility-report/nhtsa-proposes-av-step-new-regulatory-self-driving-path"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-02_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "iJdilgm2Jw9HwBKvb/BUDC6DXj9341dF7X1iMQGUREfj2sFq4wned872ps4Bgw7wXpULfIdMXGWsO+nVAuJvMAPoKPx1vey555KCqYBQb7UhWeK/SfG9YeQp9RQDKiLXW8W943lbnsGsofYeX4E8cb5u5w885prKZPEfPi4eyMZ8KhybPkZzCfIPco/eV+L9cKksa6Rl8GnWS505SXsoe4Rt/byrfHTmANAfmTw3eAbBzt6MFblIXgAKGXhzfGX8NZdEKguV6HJJCmwVJdHU6C3eWJ1HxvAUOJblWMquVLvuxzwoaU6dMksr7rkj88ae1DB80y/NdJvf7HuXhRpQxMmXXwHKPfHv2fmcADbsP5YdrhT3741a98V7MKVDMJFFwpMnj/9gJkxJs6L85G8IsHJVEvEmgw/vFaZXPWyBEWPFSjQaa8pKDdCpKDYkXs3T8x8lVeWt1U/yHvnUQUkEF/KTL8bGyM/e0mg2MNiUKKmlWZ8sjyfOo6HZK/esaJN6mMwgiRMW1GqBVppg9u1Bag==;AVdqd1n8rwSRgu45IBEPxQ=="
 ---
 

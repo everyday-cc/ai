@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-06-20-cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu.md",
+      "title": "Cognitive System & Artificial Intelligence (AI) Systems Market Likely to Boost Future Growth Prospects with Google, Brighterion, Microsoft, Baidu",
+      "excerpt": "The Cognitive System & Artificial Intelligence (AI) Systems Market report contains in-depth information on factors influencing demand, growth, opportunities, challenges, and restraints. It includes comprehensive details on the composition and outlook of global and local industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-likely-to-boost-future-growth-prospects-with-google-brighterion-microsoft-baidu-2023-06-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-20-opera-one-offers-an-ai-based-web-browsing-experience.md",
       "title": "Opera One Offers an AI-Based Web Browsing Experience",
       "excerpt": "The Opera One web browser is now available to download complete with an integrated AI called Aria. Opera offered an early access developer build of Opera One back in April, but the focus was on demonstrating the modular,",
@@ -1128,49 +1180,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-the-voice-referendum-bill-has-now-passed-the-senate-so-heres-everything-you-need-to-know.md",
-      "title": "The Voice Referendum Bill Has Now Passed The Senate So Here’s Everything You Need To Know",
-      "excerpt": "He also insisted the Voice’s purely advisory powers are “not about symbolism” but “about recognition, something that’s far more important”. “Consultation through the Voice is about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pedestrian.tv/news/indigenous-voice-to-parliament-referendum-details/",
-      "originalUrl": "https://www.pedestrian.tv/news/indigenous-voice-to-parliament-referendum-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pedestrian.tv/wp-content/uploads/2023/03/aboriginal-flag.png?quality=75",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PEDESTRIAN.TV",
-        "domain": "pedestrian.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

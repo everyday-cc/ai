@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-06-09-over-regulation-of-artificial-intelligence-could-lead-to-chinese-dominance-experts-warn-they-want-to-win.md",
+      "title": "Over-regulation of artificial intelligence could lead to Chinese dominance, experts warn: 'They want to win'",
+      "excerpt": "Experts argue difference between AI investment in China and the U.S. is the fact that the American model is driven by private companies whereas China takes a government approach",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win",
+      "originalUrl": "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/AI-can-stalk-unsuspecting-victims-with-ease-and-precision-2-1.gif",
+          "width": 550,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/over-regulation-artificial-intelligence-lead-chinese-dominance-experts-warn-they-want-to-win.amp",
+      "publishedDateTime": "2023-06-08T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-googles-generative-ai-platform-is-now-available-to-everyone.md",
       "title": "Google's Generative AI Platform Is Now Available To Everyone",
       "excerpt": "With the service becoming GA, enterprises and organizations could integrate the platform's capabilities with their applications.",
@@ -1147,58 +1199,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-introducing-googles-secure-ai-framework.md",
-      "title": "Introducing Google’s Secure AI Framework",
-      "excerpt": "Today Google released released the Secure AI Framework to help collaboratively secure AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/",
-      "originalUrl": "https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

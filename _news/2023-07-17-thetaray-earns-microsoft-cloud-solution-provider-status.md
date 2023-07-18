@@ -2,9 +2,9 @@
 category: news
 title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
 excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
-publishedDateTime: 2023-07-17T15:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-thetaray-earns-microsoft-cloud-solution-provider-status-/2023/07/17/9849169.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-thetaray-earns-microsoft-cloud-solution-provider-status-/2023/07/17/9849169.htm"
+publishedDateTime: 2023-07-17T14:45:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/17/9849169.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/17/9849169.htm"
 type: article
 quality: 19
 heat: -1
@@ -169,6 +169,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "TKjcCUXYohGk0VC5PilZLaSe8eA/H+iOuT/YslQxHD14eweqCEtIUmHtnvh6NgZodRBU94Zf+R7e1FQEzWU9qPNa9lH5ePHHuRQSk5I3fNm/XCgyoY31eAxSUhT+4iBHZxz8mG/HWp0wFiUrrvSu9SildkrCRhWn1QWBfjmHbm1nl2jaSE5Ign1blY8eiUdm/c0YO0EgLo18xM4lIAt2rwoofWEIvZA+ERAURjcdM+hZEyt6SKD7xVaYxyCs0sNeYW/ZYeewKoNq/w5IfK2zWtaeDD8gpeIpNgDB8bLkgILGeD+/JQwrQH/kDfDCejWJENREWjFwIEuckxkCRoxVsM+I6/BOR2C71ajth271k3iYQw10/k2++QB7vII5Zbde532Pne9p1m8UkG8vPwrUTksNgz5NGBVmEffA4eoJ5jm7yI3+iHZ1LJ8RTyaONuuBnEQZAb0s0J/+5+bfNjmA61QJIT75abyZkr+2TatrJqDSzhu2KdMJtX1rTzSBt1lh5vGkLWbrfKjpP8zghCrujg==;KarOKysbP3LBnNMfKFmtIg=="
+secured: "k4jBiVqubrVoUJ5abhPcyyswsBuJbbhbEZxr7/NDuo+1ChHKE2aFeQ/iEXAqKMXmTh9UD8Ly8VyX1bJHTXi5UYLwFh0WBoxEJdv+ZlzzEzFpjj3WtQJtxKEpwFB4RtfBdnJ49PQzW5ZKHzvE2jT0Q6rjt7+XHms0OpwYbq8KbKl8LtGfhPk7NCyFBEjPPKd1v5IjVJSVTzMXg6W9m0b8bqqSg/iDX4Elfy9IyETrYodAakeklrU2hJCojwyv4tmNUZdKvfwdD1HnwtrR35wa0e02M0QTcfi3EtXso3We4EMarcwA0yRE7MggjhQPWuK0vexPBDEEfZrkhZ24SKdPyYWqnCJ9tXZ2YJdikm8EXamsHXIfCoHOhNaC16xGKYgNTYijJe/bVaKzcWVz/tNLWz70kZMbynVWp7HDMtfA6kxhdCdiMPcmTlcXTdfo6+Vnsl2fffqiac7qeysZqvrjPsn+8S7meRkA0OgvcUFbbzQxnhXtiaXiHzvPU1OqtvGfljIsrUdi2iPFQGb95ihqFw==;Ml4PdnbVrCGgy6LohnyTfQ=="
 ---
 

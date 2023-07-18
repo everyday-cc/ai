@@ -68,38 +68,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "MIT Research Scientist Asks If AI Can Become Conscious, Elon Musk Says..."
-    excerpt: "The researcher posted this query in response to the first tweet by Elon Musk's new artificial intelligence startup, xAI."
-    publishedDateTime: 2023-07-13T09:13:00Z
-    webUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373"
-    ampWebUrl: "https://www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/mit-researcher-asks-if-ai-can-become-conscious-elon-musk-responds-4203373/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
-    images:
-      - url: "https://c.ndtvimg.com/2023-06/hhoa66ag_elon-musk-at-viva-technology-conference-paris_625x300_19_June_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Elon Musk launches AI startup as he warns of a ‘terminator future’"
-    excerpt: "Tesla boss says xAI will be ‘pro-humanity’ and admits development of large systems cannot be paused"
-    publishedDateTime: 2023-07-13T11:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/13/elon-musk-launches-xai-startup-pro-humanity-terminator-future"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=5b79594e39003269b2ff492348e38061"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Elon Musk’s new AI startup is as ambitious as it is doomed"
     excerpt: "Elon Musk’s new AI company, xAI, says its mission is to understand the universe. But Heisenberg’s Uncertainty Principle, the Anthropic Principle, Wigner’s Friend, and other classical and quantum physics theories would seemingly prevent this."
     publishedDateTime: 2023-07-17T16:02:00Z

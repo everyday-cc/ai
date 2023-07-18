@@ -2,6 +2,49 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-05-11-the-evolution-of-robotic-technology-from-robotic-assistance-to-augmented-intelligence-to-elevate-all-surgery.md",
+      "title": "The Evolution of Robotic Technology: From Robotic Assistance to Augmented Intelligence to Elevate All Surgery",
+      "excerpt": "Unlike artificial intelligence, augmented intelligence serves as a “navigation ... Surgeons are seeing these enhancements first-hand, from a more economical way to use robotics in more surgeries to improved ergonomics and reduced cognitive toll.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
+      "originalUrl": "https://www.mddionline.com/robotics/evolution-robotic-technology-robotic-assistance-augmented-intelligence-elevate-all-surgery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/MDDI%20graphic2%20web.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-google-launches-new-ai-tools.md",
       "title": "Google launches new AI tools",
       "excerpt": "As the race to dominate artificial intelligence escalates between tech giants, Google unveiled new AI software to build presentations, analyze and enter data, and write content. NBC News’ Jacob Ward has more details on growing concerns over the future of AI.",
@@ -1202,49 +1245,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-machine-learning-vs-deep-learning.md",
-      "title": "Machine Learning vs Deep Learning",
-      "excerpt": "Machine learning involves training computers to learn and make decisions from large datasets using algorithms, while deep learning is a subset of machine learning that uses neural networks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-100131536/100131536.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
-      "publishedDateTime": "2023-05-10T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

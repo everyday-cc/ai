@@ -2,6 +2,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-09-5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness.md",
+      "title": "5 Artificial Intelligence apps you can use for your sports training and fitness",
+      "excerpt": "AI in sports is gaining traction across the business, with applications ranging from post-game analysis to in-game activity and even the fan experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/Sports-AI-workout-app-fitness-trainer-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/5-artificial-intelligence-apps-you-can-use-for-your-sports-training-and-fitness-10928601.html/amp",
+      "publishedDateTime": "2023-07-09T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-how-does-chatgpt-decide-what-to-say-next-heres-a-quick-explainer.md",
       "title": "How does ChatGPT decide what to say next? Here's a quick explainer.",
       "excerpt": "Ever wonder how bots like ChatGPT figure out what the next word should be, but you don't have time to pore over AI white papers? You're not alone.",
@@ -1097,40 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-category-leader-ust-earns-zinnovs-pat-for-intelligent-automation-services.md",
-      "title": "Category leader. UST earns Zinnov’s pat for intelligent automation services",
-      "excerpt": "Microsoft, and Google, have enabled it to drive high-value outcomes for its customers. Also read: UST wins ‘Blue Seal’ certificate for North America, Asia-Pac a second time “UST SmartOps, the firm’s proprietary cognitive-AI automation platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece/amp/",
-      "publishedDateTime": "2023-07-07T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

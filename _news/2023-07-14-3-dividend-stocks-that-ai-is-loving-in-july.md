@@ -56,15 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "7 Blue-Chip Stocks to Sell in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chip stocks are some of the most popular equities that you can buy. But"
-    publishedDateTime: 2023-07-13T10:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-to-sell-in-july-1032443938"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 Doomed AI Stocks Destined for Disaster"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"
     publishedDateTime: 2023-07-14T12:53:00Z

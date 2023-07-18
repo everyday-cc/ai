@@ -2,6 +2,51 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-06-26-ai-will-it-help-humanity-or-doom-it.md",
+      "title": "AI: Will it help humanity or doom it?",
+      "excerpt": "In order to better understand AI’s promises and perils, Angelus spoke to two Catholics who have tracked the technology’s rise from different places.",
+      "sourceUrl": null,
+      "webUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
+      "originalUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://angelusnews.com/wp-content/uploads/2023/06/Ureneck-1-1024x689.jpg",
+          "width": 1024,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
+      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
+      "publishedDateTime": "2023-06-26T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Angelus",
+        "domain": "angelusnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock.md",
       "title": "Chip startup rides AI frenzy to become top-gaining topix stock",
       "excerpt": "Socionext Inc. has jumped more than 245% this year, with its market value touching a high of around ¥957 billion ($6.7 billion), making it the best-performing stock on the Topix index.",
@@ -1136,49 +1181,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.md",
-      "title": "AI chip giant Nvidia 'extremely likely' to invest in Europe",
-      "excerpt": "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
-      "publishedDateTime": "2023-06-23T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

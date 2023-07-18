@@ -157,8 +157,8 @@ related:
     quality: 29
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-07-17T15:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-thetaray-earns-microsoft-cloud-solution-provider-status-/2023/07/17/9849169.htm"
+    publishedDateTime: 2023-07-17T14:45:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/17/9849169.htm"
     type: article
     provider:
       name: TMCnet

@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-14-google-labs-rolls-out-its-ai-first-notebook-heres-what-it-can-do-and-how-you-can-try-it.md",
+      "title": "Google Labs rolls out its 'AI-first notebook'. Here's what it can do and how you can try it",
+      "excerpt": "Google has embraced AI and hit the ground running. This is evident with Google's rapid launch of its own chatbot, Google Bard. Now, the tech giant is expanding its AI offerings with the launch of its 'AI-first notebook '.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "originalUrl": "https://www.zdnet.com/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3453698a33fdef7f7590ae2346ad5bef5543e40b/2023/07/13/b80f3aab-4f68-4a63-8515-308a5e7d8590/screenshot-2023-07-13-at-2-40-15-pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-launches-its-ai-notebook-notebooklm-heres-what-you-need-to-know/",
+      "publishedDateTime": "2023-07-13T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch.md",
       "title": "This Week In XR: Musk Launches X.ai, Meta Threads Blasts Off, Roblox VR Launch",
       "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Shawn Frayne, CEO of 3D monitor LookingGlass. We can be found on Spotify, iTunes, and YouTube.",
@@ -267,7 +318,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -311,7 +362,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 401,
+      "heat": 381,
       "tags": null,
       "images": [
         {
@@ -407,7 +458,7 @@
       "originalUrl": "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 144,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -450,7 +501,7 @@
       "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -745,7 +796,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/13/stability-ai-releases-stable-doodle-a-sketch-to-image-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1169,48 +1220,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-asking-the-clergy-is-artificial-intelligence-a-help-or-hindrance-to-faith.md",
-      "title": "Asking the Clergy: Is artificial intelligence a help or hindrance to faith?",
-      "excerpt": "Since the OpenAI ChatGPT program was launched in the fall, it has gone viral, with even a Long Island rabbi using it to “plagiarize” a sermon. This week’s clergy discuss the religious implications of the technology, which uses artificial intelligence (AI) to generate text after a user enters a prompt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
-      "originalUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/ace/c:NjZkNGJkM2YtZjRiYi00:NDFiMjA5/landscape/1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
-      "publishedDateTime": "2023-07-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

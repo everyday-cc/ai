@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-hologram-clou
 webUrl: "https://markets.businessinsider.com/news/stocks/wimi-hologram-cloud-developed-an-image-processing-technology-based-on-machine-learning-and-ai-1032451065"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -22,24 +22,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
-
-related:
-  - title: "Generative AI Prompt Engineering Boosted Brightly Via Clever Use Of Macros And By Devising Prompts Based On Clearcut End-Goal Planning"
-    excerpt: "Generative AI can be useful or useless depending upon how you compose your prompts. This latest look at prompt engineering reveals breakthroughs you ought to know about."
-    publishedDateTime: 2023-07-13T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/13/generative-ai-prompt-engineering-boosted-brightly-via-clever-use-of-macros-and-by-devising-prompts-based-on-clearcut-end-goal-planning/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/13/generative-ai-prompt-engineering-boosted-brightly-via-clever-use-of-macros-and-by-devising-prompts-based-on-clearcut-end-goal-planning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/13/generative-ai-prompt-engineering-boosted-brightly-via-clever-use-of-macros-and-by-devising-prompts-based-on-clearcut-end-goal-planning/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64afa028f9d9641ac09b8924/0x0.jpg?format=jpg&crop=2436,1370,x0,y14,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "UC72aEQTFfcsMJEuq8ZMC/S7vwa777Rqe5Onx/CEfAhCbWlI0pb19/DmhZd5OM9a7B1cQqPD0DwGZ3NWS3OF4bseIbAQl3zi+kM3KI6FqB3te2fgK1Q1YcsUEiIhoRsgSJHvsBlHvvjwXLJMW6BcJkHt7F/xE62bos9P47pwldCZMW+e0Qd4ofxrK28fJakbzrbSufKomQBSdKMzItHn2uqLOm/RZBIyAk8fTKbAzQygzCTAparShEiw76zcDCycG4SFgKiJEPGOBfKIPXirzG9w3daHzO1j+KDa+p+XrQES6vwCAoy6FPJepK3r/WPT0FafUVb7SBsvTQNOPJj7HTNb907RcF/waktmTGFlx6k=;Ly6ytsD9uJNTTZiQS9iQiQ=="
 ---

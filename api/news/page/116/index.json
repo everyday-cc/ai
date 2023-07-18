@@ -2,6 +2,59 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-05-04-microsoft-confirms-speech-recognition-issues-in-windows-11-22h20-0.md",
+      "title": "Microsoft confirms speech recognition issues in Windows 11 22H20 0",
+      "excerpt": "According to the company, Windows 11 version 22H2 users might experience problems with speech recognition, expressive input, and handwriting after installing KB5022913 (and subsequent releases).",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2022/06/1654151911_windows_vulnerability_story.jpg",
+          "width": 760,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-protecto-boosts-privacy-protection-by-10x-with-lightning-fast-gpu-technology-from-nvidia.md",
       "title": "Protecto Boosts Privacy Protection by 10x with Lightning-Fast GPU Technology from NVIDIA",
       "excerpt": "Protecto, a leading provider of privacy intelligence solutions, today announced it has been able to boost the performance of its privacy models on NVI",
@@ -1162,59 +1215,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-microsofts-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws.md",
-      "title": "Microsoft's Premium ChatGPT Service Set to Supercharge Azure Growth: Analyst Predicts Even Wider Lead Over AWS",
-      "excerpt": "Microsoft's reportedly upcoming release of premium private ChatGPT service for enterprises should have a positive upwards bias to Horan's already industry-leading FY24E Azure growth of constant currency 24% (+27% USD),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-s-premium-chatgpt-service-set-to-supercharge-azure-growth-analyst-predicts-even-wider-lead-over-aws-1032288927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/05/03/openai_0.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

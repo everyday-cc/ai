@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-de
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-13/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Prime Day deals 2023 - all the best offers still available"
-    excerpt: "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ..."
-    publishedDateTime: 2023-07-13T09:52:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "It's not too late: Best Amazon Prime Day deals on Samsung tech that you can still shop"
     excerpt: "If you're looking for a new Samsung smartphone or earbuds, you can find some great deals on Amazon now. The Amazon Prime Day 2023 sale is technically over, but Amazon is still offering a number of deep discounts on top-rated Samsung products, including smart TVs, smartphones and robot vacuums."
     publishedDateTime: 2023-07-13T17:46:00Z

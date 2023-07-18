@@ -1,0 +1,81 @@
+---
+category: news
+title: "Anthony Albanese slams 'nonsense' No campaign's claims every detail must be known before Indigenous Voice to Parliament referendum"
+excerpt: "The Yes pamphlet does not explain how people will be chosen to be members of the Voice or how it will operate in practice. 1. This idea came directly from Aboriginal and Torres Strait Islander people. 2. Constitutional recognition for concrete results."
+publishedDateTime: 2023-07-18T03:43:00Z
+originalUrl: "https://www.dailymail.co.uk/news/article-12308959/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+webUrl: "https://www.dailymail.co.uk/news/article-12308959/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+ampWebUrl: "https://www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+type: article
+quality: 29
+heat: -1
+published: false
+
+provider:
+  name: Daily Mail
+  domain: dailymail.co.uk
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2023/07/18/04/73324071-0-image-a-2_1689651666458.jpg"
+    width: 636
+    height: 382
+    isCached: true
+
+related:
+  - title: "Anthony Albanese concedes voice yes campaign needs to be ‘stronger’ as poll shows slump in support"
+    excerpt: "Prime minster says he believes most Australians want ‘something better’ than the opposition’s ‘relentless negativity’ to the Indigenous voice to parliament"
+    publishedDateTime: 2023-07-17T07:26:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 45
+    images:
+      - url: "https://i.guim.co.uk/img/media/782cce16c75e78d949dbdfab35bf64cc16b4bb9c/0_0_7234_4341/master/7234.jpg?width=620&quality=85&auto=format&fit=max&s=07ad1eb88c97963385c1dd7b3fa49d7d"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Anthony Albanese concedes voice yes campaign needs to be ‘stronger’ as poll shows slump in support"
+    excerpt: "Albanese said he would not be attempting to guarantee the referendum’s success by altering the referendum question to only include constitutional recognition and then afterwards seek to legislate the voice through the parliament. “We are having a vote."
+    publishedDateTime: 2023-07-17T23:38:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament?ref=confidentialdaily.com"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 45
+    images:
+      - url: "https://i.guim.co.uk/img/media/782cce16c75e78d949dbdfab35bf64cc16b4bb9c/0_0_7234_4341/master/7234.jpg?width=620&quality=85&auto=format&fit=max&s=07ad1eb88c97963385c1dd7b3fa49d7d"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Victorian MP Michael Sukkar says it is ‘pretty strange’ for Albanese to blame the Yes campaign for Voice’s falling poll numbers"
+    excerpt: "Prime Minister Anthony Albanese has been attacked for “trying to distance himself” from the Yes campaign following the falling support for the Voice to Parliament."
+    publishedDateTime: 2023-07-17T08:30:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/victorian-mp-michael-sukkar-says-it-is-pretty-strange-for-albanese-to-blame-the-yes-campaign-for-voices-falling-poll-numbers/news-story/0fa853aa3e8b717c88f6ef2751ab8c0a"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/victorian-mp-michael-sukkar-says-it-is-pretty-strange-for-albanese-to-blame-the-yes-campaign-for-voices-falling-poll-numbers/news-story/0fa853aa3e8b717c88f6ef2751ab8c0a?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/victorian-mp-michael-sukkar-says-it-is-pretty-strange-for-albanese-to-blame-the-yes-campaign-for-voices-falling-poll-numbers/news-story/0fa853aa3e8b717c88f6ef2751ab8c0a?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 31
+    images:
+      - url: "https://content.api.news/v3/images/bin/5215790fe8ecb666427d98260568a509"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "VuYpimcJA1i3zoS4pZ0QBdjzdzYOp+62/avClT88EQi0Qd019Q84c/gwfFIXS1P4fmLOGDcTTj6X66yqr/jRLxwAiU7yOPec7Io/+FT17Y4VDZyEalB52SzAUIUZ7kjwbAYM96yj91SnCH4dEl37D8dqFfJkPKZhuJz5dGlTw6od5h9mRdgGUbiNWt02xuBoqp4AQxEuTijAwxs/kNZEFloioJvaJzG2szeH04Y3oGCeKlBT9sWrS3bleSXVKvd/yin4UQd1ygjZRa7ujT590g0Ki7cSxIZZvtHjehJLn5uzweOxC8CeJdL14Wg5thhDzTiy77G4l8EztXVj5OxH4E1/X0f/Jiymgp1evO28oCk=;EXI9zOp9b9zEp2ExfEM6jQ=="
+---
+

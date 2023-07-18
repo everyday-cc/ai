@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "This new AI tool transforms your doodles into high-quality images"
+    excerpt: "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt."
+    publishedDateTime: 2023-07-17T18:06:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/c0bca7db75625cc18335648e3423ac5669999a83/2023/07/17/5fada49b-6f21-41d1-a300-ac2d49133e89/screenshot-2023-07-17-at-11-24-40-am.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "EVrC56bRpzylA80jtlMEtmroObYwT0CbH3ryEzoYO1ElnnBfyyIXPD+w4AMJNMeYscsK2yryg0MnupEQD3mqFXJIdf+czogOoIo1/lXCja3BEFajhc05Sw3KSyMOBzpeqxIR12pJ2n6ZP/uoOT31mVBps6oHaNAYcqwuycZ51+TcvaWB1MRWZmWk4nTuk60CFjXd9I3sa0IUd1C0ShxdrmKpCdAz+hMSoAessN4CoIdZH1fodxpCFI9LfjYDE943RBSgw8LZo5biisr++XLM0+/coL26MQcM+vsXpdqWEDdWkrBmrGalfjsHKwSnszGtVT+KlSmatwxIGVdRfueguleAYioitany016SzqHsngf9L79w3+CGJj01MkhIuR+tYHuxF6ycZ/hE9sI1E7kUTl4BzbNX3lij88Dpl/Hf6iiQMa5m8L3skKmVp1ZxFH7JEAvJhDtTzXbzszN7tpegFtiWLHB4a9PyOwJiU9+5n0rGZroTzaY+jIiOCFdSmOIn9eV24zGMojQ6EvElEjMHhQ==;4YPc9HjxEHp+UyLcz9tFxQ=="
 ---

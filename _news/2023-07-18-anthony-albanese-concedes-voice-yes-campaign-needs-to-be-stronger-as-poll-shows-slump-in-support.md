@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese slams 'nonsense' No campaign's claims every detail must be known before Indigenous Voice to Parliament referendum"
+    excerpt: "The Yes pamphlet does not explain how people will be chosen to be members of the Voice or how it will operate in practice. 1. This idea came directly from Aboriginal and Torres Strait Islander people. 2. Constitutional recognition for concrete results."
+    publishedDateTime: 2023-07-18T03:43:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12308959/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 29
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/07/18/04/73324071-0-image-a-2_1689651666458.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "669aN6iL1qNvbkysdcvKjWx/eXI5DPjTutl7YyneUiPHFukVAMHHnIULC38tFhJ1NRuqPmdZTahMQv/kIhCY8rf9RBjHOXYcvXzkkBb7A11Ayuv3hMcnK0wxIuXBTcdPVubT6d6EFpk6jGFBRWgfnwc2kYgVEXYrCOEfwWEK8m34eeIo693ikgoZtYu4kudv7BETzpRgeU39yWnFIsZr4xYC5Xm5B47n9hRxJ5UqqaQu41Dvg9FBB9wLCi+bfQieGuurwX9h3Wdw1f4SPeytCNhjq4tq2Ct5pFdBL+b6FofWX5h/FXxst+ZoZPglq1d4Nzl80tcxAIS/WPmaMnHZWh36ObPqhODx2G7+Sjslfo4=;0mliJDn5aNVbYz5y9bgF+w=="
 ---

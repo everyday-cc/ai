@@ -94,22 +94,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
-  - title: "User-driven AI automation - a path to efficiency and job satisfaction"
-    excerpt: "The transformatve power of AI and automation goes far beyond technology - business users play a vital role. Acumatica's Doug Johnson explores the emergence of business process experts, and the different levels of AI-driven automation."
-    publishedDateTime: 2023-07-13T09:51:00Z
-    webUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction"
-    ampWebUrl: "https://diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/user-driven-ai-automation-path-efficiency-and-job-satisfaction?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2015-08/automatino-engineers.jpg"
-        width: 729
-        height: 373
-        isCached: true
   - title: "Generative AI & the future of data centers: Part V - The Chips"
     excerpt: "The Wafer Scale Engine 2 (WSE-2) chip has 2.6 trillion transistors, 850,000 'AI optimized' cores, 40GB of on-chip SRAM memory, 20 petabytes of memory bandwidth, and 220 petabits of aggregate fabric bandwidth. It is packaged in the Cerebras CS-2, a 15U box that also includes an HPE SuperDome Flex server."
     publishedDateTime: 2023-07-13T14:53:00Z

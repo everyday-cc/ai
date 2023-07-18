@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatg
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp"
 type: article
 quality: 69
-heat: 83
+heat: 84
 published: true
 
 provider:

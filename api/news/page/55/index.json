@@ -2,6 +2,57 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-06-12-ai-deepfakes-of-innocent-images-fuel-spike-in-sextortion-scams-fbi-warns.md",
+      "title": "AI ‘deepfakes’ of innocent images fuel spike in sextortion scams, FBI warns",
+      "excerpt": "There has been an uptick in sextortion victims reporting the use of artificial intelligence-generated deepfakes since April, according to the FBI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
+      "originalUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2dc9be95-a9de-408f-b909-3dcba83a1c8e/5656c770-0cfc-4904-8e70-c5c993136502/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-deepfakes-innocent-images-fuel-spike-sextortion-scams-fbi-warns.amp",
+      "publishedDateTime": "2023-06-11T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-12-juniper-research-regtech-spend-to-surge-to-207-billion-globally-by-2028-with-ai-machine-learning-unlocking-efficiencies.md",
       "title": "Juniper Research: Regtech Spend to Surge to $207 Billion Globally by 2028, with AI & Machine Learning Unlocking Efficiencies",
       "excerpt": "A new study from Juniper Research, the foremost experts in fintech, has found that spend on regtech by financial institutions and other industries will increase by 124% between 2023 and 2028 globally,",
@@ -1139,57 +1190,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-10-ron-desantis-angers-maga-with-ai-generated-trump-attack-ad-images.md",
-      "title": "Ron DeSantis Angers MAGA With AI-Generated Trump Attack Ad Images",
-      "excerpt": "On Thursday, Trump supporter Laura Loomer tagged Elon Musk —who hosted DeSantis last month on Twitter Spaces as he announced his candidacy to become president in 2024—as part of a tweet request to understand why Trump supporters receive a \"community note\" when posting about DeSantis, but the DeSantis War Room video did not.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687",
-      "originalUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2244911/ron-desantis-angers-maga.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ron-desantis-angers-maga-ai-generated-trump-attack-ad-images-1805687?amp=1",
-      "publishedDateTime": "2023-06-09T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

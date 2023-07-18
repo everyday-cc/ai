@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/how-runway-can-make-content-creati
 webUrl: "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 4010
         height: 2674
         isCached: true
-  - title: "The code breakers: Harnessing the power of AI to understand what animals say"
-    excerpt: "An international group of experts argue that tackling the long-standing challenge of decoding the communication systems of whales, crows, bats, and other animals is coming within reach, following breath-taking advances in artificial intelligence (AI) research."
-    publishedDateTime: 2023-07-13T18:52:00Z
-    webUrl: "https://phys.org/news/2023-07-code-breakers-harnessing-power-ai.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 16
 
 secured: "0qPifvVvhxUPKp6GtLra/BmX3WRvA47ktA8+94SsQLbjbuEns3vdvHc6wbWou/R+Kf85jDvjkteEYztzAmHrP1LfPdaPwnuT0KlWOMNOH14c0Ho7oVAZpsM2Xiadh6LBmbismrQpzlhQEqbE49jhy2B1mZXgmKDOxMn/Xyy20rGaNINMksYQ/BRbTZdEG71BMROWL72V8ewBRM4t5jnChDjT1M4WOcvHixj9gx2XB2j9TfrKVGwwEGehcVgfzzffv5kJfK8JmlKGT7RJOVPwqbFfdUDXzvRdUr47knwHGnKpVL2/qoqJNy5fLA+GrwRQIypPSliS64bv85cKpVg2tr+yip/3Rh2fMJISvWLgSm0=;Y+37dUfKrsQ8r0JtnPdeeA=="
 ---
