@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-14-dont-pause-act-how-to-unlock-ais-vast-potential-by-driving-more-trustworthy-and-responsible-ai.md",
+      "title": "Don't Pause, Act: How to Unlock AI's Vast Potential by Driving More Trustworthy and Responsible AI",
+      "excerpt": "While the pace of recent advancements has been breathtaking, some of the biggest AI advances just over the horizon could be even more profound.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
+      "originalUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2257353/keyboard.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
+      "publishedDateTime": "2023-07-14T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-seven-ways-ai-can-make-your-revenue-team-more-efficient.md",
       "title": "Seven Ways AI Can Make Your Revenue Team More Efficient",
       "excerpt": "Dead, lost or stalled opportunities are a drag, but all hope is not lost. You don’t want to spend a lot of time and effort on them, but with AI you can try to reengage them without a heavy human lift. With historical account data for context and generative AI, an AI email assistant can create relevant content that keeps you top of mind.",
@@ -256,6 +307,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-the-last-word-on-ai-and-the-atom-bomb.md",
+      "title": "The Last Word on AI and the Atom Bomb",
+      "excerpt": "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
+      "originalUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1089,7 +1192,7 @@
       "originalUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1129,101 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-lawsuit-highlights-legal-risks-of-facial-recognition-tech.md",
-      "title": "Lawsuit Highlights Legal Risks of Facial Recognition Tech",
-      "excerpt": "Multiple Minnesota law enforcement agencies face a civil rights lawsuit over the use of facial recognition technology in an arrest. However, the government denies facial recognition led to the arrest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech",
-      "originalUrl": "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/2899f4a/2147483647/strip/true/crop/770x402+0+95/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F74%2F9055ea2dd0d0f5fc70d551696745%2Ffacial.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/lawsuit-highlights-legal-risks-of-facial-recognition-tech?_amp=true",
-      "publishedDateTime": "2023-07-13T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-bank-of-america-is-using-ai-and-metaverse-to-train-new-hires.md",
-      "title": "Bank of America Is Using AI and Metaverse to Train New Hires",
-      "excerpt": "When you arrive at Bank of America’s new-employee boot camp at the New York Hilton Midtown, you’ll find a VR headset waiting for you. Slide it on, and you’ll be confronted with an angry customer, frustrated over a mix-up with their account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivytSQi0mxQc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

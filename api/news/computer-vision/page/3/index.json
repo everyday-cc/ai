@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-14-spaces-sdk-playing-starring-role-for-xr-app-developers.md",
-      "title": "Spaces SDK Playing Starring Role For XR App Developers",
-      "excerpt": "In a keynote address to thousands of AR cognoscenti and developers at Augmented World Expo (AWE) in Santa Clara two weeks ago, Qualcomm VP Hugo Swart, GM of XR, took a deep dive into how the company’s two year old Snapdragon Spaces SDK (software developer kit) enables users to deploy applications against multiple devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647b84cd801e7c78da0b6f29/0x0.jpg?format=jpg&width=1200",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/06/14/spaces-sdk-playing-starring-role-for-xr-app-developers/amp/",
-      "publishedDateTime": "2023-06-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-14-hybrid-ai-powered-computer-vision-combines-physics-and-big-data.md",
       "title": "Hybrid AI-powered computer vision combines physics and big data",
       "excerpt": "Researchers have laid out a new approach to enhance artificial intelligence-powered computer vision technologies by adding physics-based awareness to data-driven techniques. The study offered an overview of a hybrid methodology designed to improve how AI ...",
@@ -1322,6 +1270,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-meta-open-sources-computer-vision-foundation-model-dinov2.md",
+      "title": "Meta Open-Sources Computer Vision Foundation Model DINOv2",
+      "excerpt": "Meta AI Research open-sourced DINOv2, a foundation model for computer vision (CV) tasks.DINOv2 is pretrained on a curated dataset of 142M images and can be used as a backbone for several tasks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/05/meta-dinov2-vision/",
+      "originalUrl": "https://www.infoq.com/news/2023/05/meta-dinov2-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/05/meta-dinov2-vision/en/headerimage/generatedHeaderImage-1683382074765.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -119,34 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s AI Chatbot Bard Gets Belated European Release"
-    excerpt: "Alphabet Inc.’s Google released its Bard chatbot to users in the European Union and Brazil, and said the artificial intelligence tool can now generate responses in more than 40 languages, including Chinese,"
-    publishedDateTime: 2023-07-13T07:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/google-s-ai-chatbot-bard-gets-belated-european-release"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_aVjVRzw3SQ/v0/1200x837.jpg"
-        width: 1200
-        height: 837
-        isCached: true
-  - title: "Google’s Bard AI Chatbot Adds More Languages to Take on ChatGPT"
-    excerpt: "The latest version will also include a privacy hub for all users."
-    publishedDateTime: 2023-07-13T06:00:00Z
-    webUrl: "https://www.wsj.com/articles/googles-bard-ai-chatbot-adds-more-languages-to-take-on-chatgpt-a2acfc5b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-816148/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google's Bard AI Chatbot Now Supports Over 40 Languages"
     excerpt: "Google made its Bard AI chatbot available to the public in May, during Google I/O 2023, but only in English, Japanese and Korean to start, with more promised. Two months later, the tech giant's ChatGPT competitor now supports more than 40 total languages."
     publishedDateTime: 2023-07-13T23:38:00Z
@@ -447,20 +419,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk unveils new AI company to rival ChatGPT and unlock the secrets of the universe"
-    excerpt: "Twitter owner, Tesla, and SpaceX CEO Elon Musk has announced a new AI company that will rival ChatGPT and unlock the universe's secrets."
-    publishedDateTime: 2023-07-13T05:45:00Z
-    webUrl: "https://www.tweaktown.com/news/92319/elon-musk-unveils-new-ai-company-to-rival-chatgpt-and-unlock-the-secrets-of-universe/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 28
-    images:
-      - url: "https://static.tweaktown.com/news/9/2/92319_165_elon-musk-announces-new-company_full.png"
-        width: 1500
-        height: 914
-        isCached: true
   - title: "Google’s AI chatbot is trained by humans who say they’re overworked, underpaid and frustrated"
     excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes."
     publishedDateTime: 2023-07-17T00:24:00Z
@@ -507,15 +465,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk launches new AI start-up to rival ChatGPT"
-    excerpt: "Elon Musk has launched a new AI start-up to rival ChatGPT, having revealed his new baby to the world yesterday (Wednesday 12 July). The billionaire has, of course, dabbled in such technology before, having co-founded OpenAI – the company behind ChatGPT – as a non-profit in 2015."
-    publishedDateTime: 2023-07-13T06:39:00Z
-    webUrl: "https://www.unilad.com/technology/news/elon-musk-ai-start-up-chatgpt-rival-825619-20230713"
-    type: article
-    provider:
-      name: unilad
-      domain: unilad.com
-    quality: 19
   - title: "Musk's xAI seeks to be alternative to ChatGPT"
     excerpt: "Elon Musk, who has hinted for months that he wants to build an alternative to the popular ChatGPT artificial intelligence chatbot, announced the formation of what he's calling xAI, whose"
     publishedDateTime: 2023-07-14T06:42:00Z

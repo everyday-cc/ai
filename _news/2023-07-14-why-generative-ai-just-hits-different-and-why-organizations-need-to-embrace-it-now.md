@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "NTT’s vision for AI adoption — and why collaboration is key"
-    excerpt: "Explore NTT's approach to gen AI adoption, sustainable AI practices and why collaboration is a competitive advantage."
-    publishedDateTime: 2023-07-13T05:09:00Z
-    webUrl: "https://venturebeat.com/ai/ntts-vision-for-ai-adoption-and-why-collaboration-is-key/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM0153.jpg?w=1200&strip=all"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform"
     excerpt: "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management"
     publishedDateTime: 2023-07-17T16:26:00Z

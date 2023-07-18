@@ -58,18 +58,18 @@ related:
         height: 675
         isCached: true
   - title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
-    excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
-    publishedDateTime: 2023-07-17T21:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-anthology-accelerates-innovation-higher-education-with-microsoft-azure-/2023/07/17/9849359.htm"
+    excerpt: "New AI enhancements unveiled at Anthology Together BOCA RATON, Fla., July 18, 2023 /PRNewswire/ -- Anthology, a leading provider of education solutions that support the entire learner lifecycle, today announced its future of incorporating generative AI capabilities into its ecosystem of EdTech solutions in collaboration with Microsoft."
+    publishedDateTime: 2023-07-17T20:30:00Z
+    webUrl: "https://www.asiaone.com/business/anthology-accelerates-innovation-higher-education-microsoft-azure-openai-service"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Asia One
+      domain: asiaone.com
     quality: 77
     images:
-      - url: "https://mma.prnewswire.com/media/1708867/Anthology_Logo.jpg"
-        width: 400
-        height: 234
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/pr-newswire_500_4_796.jpg?h=7de12b8a&itok=nKMEEtUQ"
+        width: 600
+        height: 316
         isCached: true
   - title: "KPMG, Microsoft enter AI alliance"
     excerpt: "The companies forge a new multi-year cloud and AI alliance to supercharge accelerate innovation across audit, tax and advisory."

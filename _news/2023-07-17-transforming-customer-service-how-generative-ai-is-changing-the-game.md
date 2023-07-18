@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generat
 webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
 type: article
 quality: 99
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Rolling Out A Generative AI Strategy In 2023"
+    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
+    publishedDateTime: 2023-07-17T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 825
         isCached: true
   - title: "China takes major step in regulating generative AI services like ChatGPT"
     excerpt: "China has published new rules for generative artificial intelligence (AI), becoming one of the first countries in the world to regulate the technology that powers popular services like ChatGPT."

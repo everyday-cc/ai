@@ -27,7 +27,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://media.wired.com/photos/64b1c5e9e416fd283a85c576/191:100/w_1280,c_limit/Didier-Reynders-US-Tech-Regulation-Business-1258532578.jpg"
         width: 1280

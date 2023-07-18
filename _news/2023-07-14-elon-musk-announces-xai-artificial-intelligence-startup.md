@@ -79,20 +79,6 @@ related:
         width: 500
         height: 271
         isCached: true
-  - title: "Elon Musk launches xAI, his new artificial intelligence startup"
-    excerpt: "ELON MUSK IS finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched yesterday and its goal “is to understand the true nature of the universe”."
-    publishedDateTime: 2023-07-13T05:53:00Z
-    webUrl: "https://www.thejournal.ie/elon-musk-xai-6117265-Jul2023/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 52
-    images:
-      - url: "https://img2.thejournal.ie/article/6117265/river/?height=400&version=6117269"
-        width: 613
-        height: 400
-        isCached: true
   - title: "xAI New Artificial Intelligence Company By Elon Musk"
     excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."
     publishedDateTime: 2023-07-14T07:28:00Z

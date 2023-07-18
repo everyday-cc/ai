@@ -40,7 +40,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
+    quality: 64
   - title: "3 Dividend Stocks That AI Is Loving in July"
     excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
     publishedDateTime: 2023-07-14T13:25:00Z

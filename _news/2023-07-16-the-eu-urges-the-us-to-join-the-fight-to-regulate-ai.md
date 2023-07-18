@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-16T06:00:00Z
 originalUrl: "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/"
 webUrl: "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.wired.com/photos/64b1c5e9e416fd283a85c576/191:100/w_1280,c_limit/Didier-Reynders-US-Tech-Regulation-Business-1258532578.jpg"

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How 2013 film The Congress predicted Hollywood's current AI crisis"
+    excerpt: "With US actors striking in part because of the threat of AI to their livelihoods, a 10-year-old, little-seen movie starring Robin Wright now seems eerily prescient, writes Caryn James."
+    publishedDateTime: 2023-07-17T23:01:00Z
+    webUrl: "https://www.bbc.com/culture/article/20230717-how-2013-film-the-congress-predicted-hollywoods-current-ai-crisis"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1dc48.jpg"
+        width: 624
+        height: 351
+        isCached: true
   - title: "Hollywood's 'Groundbreaking' AI Proposal for Actors Sounds Like a Nightmare"
     excerpt: "SAG-AFTRA said that AMPTP's AI plan included scanning background actors and using their likeness \"for the rest of eternity.\""
     publishedDateTime: 2023-07-13T22:45:00Z

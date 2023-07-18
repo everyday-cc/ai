@@ -7,7 +7,7 @@ originalUrl: "https://www.jcnnewswire.com/pressrelease/85311/3/The-Future-Event-
 webUrl: "https://www.jcnnewswire.com/pressrelease/85311/3/The-Future-Event-Organised-Indias-Only-Speech-Tech-&-Voice-AI-Focussed-Conference"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "The Future Event Organised India's Only Speech-Tech & Voice Ai Focussed Conference"
+    excerpt: "The Future Event Organised India's Only Speech-Tech & Voice AI Focussed Conference <br /> NEW DELHI, Indai, July 17, 2023 - (ACN Newswire) - the f"
+    publishedDateTime: 2023-07-17T22:14:00Z
+    webUrl: "https://menafn.com/1106615967/The-Future-Event-Organised-Indias-Only-Speech-Tech-Voice-Ai-Focussed-Conference"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/17/AN_c3ca1279-7_Image_In_Body.jpg"
+        width: 650
+        height: 366
+        isCached: true
 
 secured: "bFT1zyohV7Zosfqqo1p/FvQv+UHAkxyneYdx3R6Fg5pM8AgK0t9ciqD8WXifgt8ja1jXo7YrTleEYfsNFlzIVRVhvBf9IJOjXIOoRCTuQ90DKrRmytzTp9xlhC8fsMlOeGtc99T4VFEctQjF8L8zAfmkO/vxESCls+X2VQKiR+LmYi8U/gfeCiFak7z/0BfxgCFVQkPQRn3lRCLGo7mm/FVAa+5ieoI/mU1OM3cFmYgtllo5YDJqfLqzJLEWUmcdn6Gi0nyey3qRz9QsB3QNXPa3WDoqWr1jzRJLxA6G4ZNWAo/lB0ABFTQXRsIv7TQXoAPPceW1dF87b+35M7OSJBdpgXwVD9oTDhkukpJ3Drc=;gDJ+TGEur1cw1CYet0+1vQ=="
 ---

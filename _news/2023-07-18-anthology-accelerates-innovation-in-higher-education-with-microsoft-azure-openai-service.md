@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
-excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
-publishedDateTime: 2023-07-17T21:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-anthology-accelerates-innovation-higher-education-with-microsoft-azure-/2023/07/17/9849359.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-anthology-accelerates-innovation-higher-education-with-microsoft-azure-/2023/07/17/9849359.htm"
+excerpt: "New AI enhancements unveiled at Anthology Together BOCA RATON, Fla., July 18, 2023 /PRNewswire/ -- Anthology, a leading provider of education solutions that support the entire learner lifecycle, today announced its future of incorporating generative AI capabilities into its ecosystem of EdTech solutions in collaboration with Microsoft."
+publishedDateTime: 2023-07-17T20:30:00Z
+originalUrl: "https://www.asiaone.com/business/anthology-accelerates-innovation-higher-education-microsoft-azure-openai-service"
+webUrl: "https://www.asiaone.com/business/anthology-accelerates-innovation-higher-education-microsoft-azure-openai-service"
 type: article
 quality: 77
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
@@ -20,9 +20,9 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://mma.prnewswire.com/media/1708867/Anthology_Logo.jpg"
-    width: 400
-    height: 234
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/pr-newswire_500_4_796.jpg?h=7de12b8a&itok=nKMEEtUQ"
+    width: 600
+    height: 316
     isCached: true
 
 related:
@@ -196,6 +196,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "xQnQPSbG6EJamTp0ZSp8g1tf8frj32ATHG1lTFo38rXa1bM03fU4WrMBa83c3WqK0RTapK/sIfcBUTNoDoUjkwA1qpXxaRu49EYOfvSleqrK3UtRt3HnGc3v+cG+uz3x30Pm6empuOGPzhjMVnXOiBag9CMnoPd/yYdJAupU19VWFMVpvC5BWk4tiK7zA7ruZXY5v0A8u9tDF9+LHpGJONH3aBKiFfqqXAhsv22bkR/mQWo4SmnOYR17woGfK6roDDmU9ku1hrR980niVWdKy3JA/x8a041aIW5LuSQcdEHvVInqzhM1OjeF3XIx8yXOPqmbqVASSJbop6IMZddAqcXwka5oJi7bAO+KovZEazA=;5Lcidu2A578z5qfGNtYMFA=="
+secured: "i9AIBrOP7OWOfcsboPh7dAoDrKnN58mIulfhHwpWMi2VftMCKIzKU74NQA+Xg8wQPlF9FDnNwB/VEQ7rl/J4lOG4/Cv15O3LuF8rP4TvmX3jTaIGrrTcDOxqTj1PZITliHQnPRbVw2xH/D2+MJ4uWbKjP/mLizuzTtB2pFbfucdYc1p8T6SVIx7yaxZ4wt3P5bAyVPUIyyHCgpVEATAkpc4+b8sbkNeNQhEBPDG98vm4xjYj4aHLYAd5iEiEANAqRCaMmLm4E/tsabZTmqNUpdLhH9YlOZw5yWrSm5J4bEbDhjmqfiH1c4fcjYYQlXWJfjWI1dF2RzgqhyZ6mlAPKaTh6iDe+/GnSEnIs6Yts78=;Oux+o6fCgSnXqD/HuZw5Qg=="
 ---
 

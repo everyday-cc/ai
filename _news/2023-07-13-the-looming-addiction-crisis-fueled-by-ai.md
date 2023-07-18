@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-adderall-targeted-advertising-opi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The Future of AI Is War"
+    excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
+    publishedDateTime: 2023-07-17T14:53:00Z
+    webUrl: "https://www.thenation.com/article/world/artificial-intelligence-us-military/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 39
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
 
 secured: "1Gw43VEN2AJsRK2sKBvYFH+nSkC8OcZofCNvc22+V0d449UDdGt6gxV2MliW8+DYyL4cPKb+kdV4Se+k51wedxU1csbO3oFe/j+QL+Yr2CEgts2ZmbzCcJ/AwMqvwVVyRzR0qZ0iMZT7Cpk2F1O+JrJ8cJek6/W5cZWGzbePJHOYgkITr9MHw0ZmFMDboByUwjvkcR6VkZmgjtwoKfSHgiiSnmlNSRu2ABUGPVNJMjO5pNKdUi8ZsYz+y/khI/a5KqY1C81+ncRy5DF/FT91M/zPZrEVQCa2sWTEl3/Kktfx53J2Vwg3JK16uJLWe45gEX2wtOtFDCGrjdlEpspXQD+UOk4A6f46unEKjBpXCphzwWEi7Tnb7rXvHCwmWJ6Wqk50ozKqbuInEu2XdFC3wLcH+/15z8qwnb/CCuA0hf14EsGKVowFp3E1U/K5Q1Wk5yiD7fvQkS6LuIO5CPZOiRJdNVvgxZXQH756IZTWT2Gs3NwVMGrcpMAPdB4rM1ExvKsHFuVnuIE0ChojkR9Wiw==;3bDg7LwAkJ/XD6Kz9cIlwA=="
 ---

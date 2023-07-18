@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/expedia-adds-new-ai-feature
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/"
 type: article
 quality: 86
-heat: 88
+heat: 90
 published: true
 
 provider:

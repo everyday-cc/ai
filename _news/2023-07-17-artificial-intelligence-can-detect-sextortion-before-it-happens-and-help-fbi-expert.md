@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp"
 type: article
 quality: 79
-heat: 81
+heat: 83
 published: true
 
 provider:

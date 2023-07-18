@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rolling Out A Generative AI Strategy In 2023"
+    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
+    publishedDateTime: 2023-07-17T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 825
+        isCached: true
   - title: "How Walmart’s Emerging Tech team is transforming retail with conversational AI"
     excerpt: "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity."
     publishedDateTime: 2023-07-14T15:57:00Z
