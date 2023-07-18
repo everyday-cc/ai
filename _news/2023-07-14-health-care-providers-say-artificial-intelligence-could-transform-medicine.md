@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wcvb.com/amp/article/health-care-providers-say-artificia
 cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Healthcare execs should plan ahead for safe use of generative AI, McKinsey says"
-    excerpt: "Generative artificial intelligence could lessen providers’ documentation workloads and more easily connect beneficiaries with their health plans, according to the consultancy."
-    publishedDateTime: 2023-07-13T18:45:00Z
-    webUrl: "https://www.healthcaredive.com/news/Healthcare-execs-should-plan-ahead-generative-AI-McKinsey/687174/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 30
 
 secured: "BM5IDkhC7Ngs36kvNdPs2MeUg1OkvBWwZ1YpE8YPxnIsjykNPsqZQ7DUD7hVwqmWEWiRGSxLlmu6B8lfwnV7n+PXXh1dyv8OMKKGgskm8J3VVo8NQZ7SqHZj4fsaPDn8a3G/AsFz1Q9viWfppqBuLjlhT4SV9VZBVABP1wPdzQNlUxzX+olEXT9hWFrLhO9ID9jphDJIrBA3ENvDro//LREjHwiOj4VxPNL8nGhylUp6BPXZxaSdHrP8JshFRxMbru1YUHslncRV3BeUOIYxoLacTMO1+5w1HUNRsYmqW6p6uhfZ/WnM4WcU4K3jhp5qVyFJ1v3zy/GyMpAWU4nBPGvyjK5qOhHNLyxUo0jsk0/WxJQNy3Dwl8evrUiiQ3cyHJk7Y8H2mE/tdNprTpc35LxWSOYhLDGfPaPg5/8uXJX2TvbUgfKnAXDFvDHOz8yZva00p9kdSb46z/V9J54u2KAaqp58SF9cDFFbhqyqnWU/H+MmOuRLUWQdNIAsk3LPeePxEKxlhxw9WZkdbkjgtA==;5jm+DsP0LR29I536zH9qhQ=="
 ---

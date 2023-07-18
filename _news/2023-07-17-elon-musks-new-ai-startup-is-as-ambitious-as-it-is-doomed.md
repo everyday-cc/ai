@@ -40,15 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
-    excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
-    publishedDateTime: 2023-07-13T18:09:00Z
-    webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
   - title: "Elon Wants to Master the Universe With xAI"
     excerpt: "The name of his latest venture plays into all sorts of Elon tropes, from using the letter X to announcing it on a date that adds up to 42, the number that “Hitchhiker's Guide to the Galaxy” author Douglas Adams cryptically offered as the single answer to the meaning of life."
     publishedDateTime: 2023-07-14T22:41:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/race-towards-autonomous-ai-agen
 webUrl: "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Race towards 'autonomous' AI agents grips Silicon Valley"
+    excerpt: "Experimental systems that run on GPT-4 or similar models are attracting billions of dollars of investment as Silicon Valley competes to capitalize on the advances in AI. The new assistants - often called \"agents\" or \"copilots\" - promise to perform more complex personal and work tasks when commanded to by a human,"
+    publishedDateTime: 2023-07-18T11:44:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/race-towards-autonomous-ai-agents-grips-silicon-valley/101854997"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/race-towards-autonomous-ai-agents-grips-silicon-valley/101854997"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/race-towards-autonomous-ai-agents-grips-silicon-valley/101854997"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101854997,imgsize-31368,width-1200,height=765,overlay-etbrandequity/digital/race-towards-autonomous-ai-agents-grips-silicon-valley.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Race towards 'autonomous' AI agents grips Silicon Valley"
     excerpt: "Around a decade after virtual assistants like Siri and Alexa burst onto the scene, a new wave of AI helpers with greater autonomy is raising the stakes, powered by the latest version of the technology behind ChatGPT and its rivals."
     publishedDateTime: 2023-07-17T10:09:00Z

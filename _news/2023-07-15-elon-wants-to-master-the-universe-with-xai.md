@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
-    excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
-    publishedDateTime: 2023-07-13T18:09:00Z
-    webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
   - title: "Elon Musk’s new AI startup is as ambitious as it is doomed"
     excerpt: "Elon Musk’s new AI company, xAI, says its mission is to understand the universe. But Heisenberg’s Uncertainty Principle, the Anthropic Principle, Wigner’s Friend, and other classical and quantum physics theories would seemingly prevent this."
     publishedDateTime: 2023-07-17T16:02:00Z

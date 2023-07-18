@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "KPMG to invest $2 billion in AI in expanded partnership with Microsoft"
-    excerpt: "KPMG has pledged a $2 billion investment in Microsoft Cloud and AI services over the next five years to streamline workforce efficiency."
-    publishedDateTime: 2023-07-13T17:11:00Z
-    webUrl: "https://venturebeat.com/ai/kpmg-to-invest-2-billion-in-ai-in-expanded-partnership-with-microsoft/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/KPMG-AI.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Semantic Kernel will support OpenAI plugins"
     excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
     publishedDateTime: 2023-07-14T09:00:00Z
@@ -212,15 +198,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
-    excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
-    publishedDateTime: 2023-07-13T17:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pinecone-speed-up-generative-ai-microsoft-azure-azure-/2023/07/13/9848149.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
   - title: "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks"
     excerpt: "Facebook and Microsoft continue their dominance as the most impersonated brands"
     publishedDateTime: 2023-07-13T20:42:00Z
@@ -268,6 +245,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "bdomAKf6r8ylzoCx/ul33rrv/smOW9Wc92TZBJxdwHnso2Y03HAaBBWQQGiNCn4jMZ+11kc3ikbDWB6o+4DraRtat6t4f2fyky9k0+Q/QSGWtZ0VdXQBPS5N6xlXO0Z/5C3HzB3GfpjhXJ3eNI4FlWLFAQjWM/nEmft1fAjsunPEJvt7q4vWSj+LquQlM5BHJGIb9VYrIB8P5RfOhlYIJXbJhlTjecCcNBsmpncF3Y9+QKEudgfsrOcOHAqUAfoOPCPNYOX3TPg7uEvI42lhK7+2bC/PqUaDlFFrakw1NfqVnqJLhX+F4UbthCihhbv8bhTXf4hdsqgLcCDUorz/GXT44hbmJJJ5BJkwR8gXzRc=;di7eqf9VXidhsk6PN/MUJg=="
+secured: "q/ezCwiY9ZpULuKOFGYsaWzhWNNJoG+7pmRbmeptnZYvhrZD8Fejarkus6xxJi7nTJMqo+fQuS1BpuTuZXYpDou33egRuxqX9uQq1DWaGpBE+KD53up/oIpdpC9cROQGJugEeaLTlqpHQbJWVkSejli0vUichEgk2c1uP+bES864ApgYi2Yp0YWLnu13TABJoWDCtp/+qdfjEBbRnVtl71vWr7E5bhF/LRZ4w8jjg0uYprBC4hZk4TYuo8fmNy7El6zyhhBlX9iLZDq9MbAww2P13lkGMDBHkuxutmm9dDC3i/fDeFghqrs13SyFBpY1AyTPMCYtMrrrpklivTdzZMDyAaDLamyK0MoVn9T7uKhi38vCM8qlISnFf8qx/jmaPYNjjaefshl+CfotA4KEfpfXLk0/XkEx56mnL+ZnfnGA+FWA3OrLy/gqxnJcFTbWf5WSC33XOi6V8bWhIP+FpTWZ7HfLytPev1NJdKsXxY+o903ZJwCjUBhzPIRjYpMtUM1wCj/NeorFIt4iQ0T5Ow==;XLgFX44j8LByeJK66EzRug=="
 ---
 

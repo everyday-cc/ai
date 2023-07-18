@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Eurostar passengers leaving London can skip passport checks with new facial recognition tech"
+    excerpt: "Eurostar passengers departing from London can avoid manual checks of tickets and passports by UK officials through a facial verification system launched to ease congestion at St Pancras International. To participate, passengers must use an app before ..."
+    publishedDateTime: 2023-07-18T09:52:00Z
+    webUrl: "https://www.independent.co.uk/travel/news-and-advice/eurostar-london-st-pancras-passport-checks-facial-recongition-b2377208.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 28
+    images:
+      - url: "https://static.independent.co.uk/2023/07/18/00/d42b2029c8f8fa2811848701da611ad1Y29udGVudHNlYXJjaGFwaSwxNjg5NjgyNjk2-2.73029854.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "bRlFpCK+AysJKUPIbzsepVPG145J72qqozqWWrjOVkqJOvYgQhJ9wgwnxNhguUQ0D5Y1nYiI3+CKhu+io5+vBAeKNLwt4Fdf5IoW77x3cNyfym4p0X8aFWc+9SrAOMjSp92fc9VFt8dfS+kSU0hJeAJ8tPLHHEMWX8TD6pwBNHJGH+muwfx3cnS+8ZLYEb6eQshVe54lV9UlNZ/iOisdyTahr8W4AtFBhOv9vXgSltqViHb1ac4U9B+6CfDDOy9+wWDo1b7H943vJI+rBZ2HjdhaCJqPck/MTHxlte1iaYI/1kHscpqKu738+8ElwcXSlM2JbS7M/0FII9oZnBO6564y4+73TH3W4CpIqe3CNug=;g0izPhMWa1qb1EbwJ9Y1OA=="
 ---
 

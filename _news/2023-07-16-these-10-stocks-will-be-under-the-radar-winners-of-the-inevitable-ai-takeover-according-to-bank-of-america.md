@@ -44,29 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta To Release Commercial Version of AI"
-    excerpt: "Meta will make its open-source language model LLaMA more widely available and customizable by companies in an effort to catch up with artificial intelligence rivals."
-    publishedDateTime: 2023-07-13T18:37:00Z
-    webUrl: "https://www.investopedia.com/meta-to-release-commercial-version-ai-7560608"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 39
-    images:
-      - url: "https://www.investopedia.com/thmb/WEdPnle0UBJgMvXiGc6X7t4vmi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1349793571-2a575ce3fe704e0aa5142c6996bbc5bc.jpg"
-        width: 1500
-        height: 993
-        isCached: true
-  - title: "MATRIX Releases Beta Version of ‘Genesis’ Generative AI System Capable of Creating Metaverse Worlds Through Both Spoken Words and Text"
-    excerpt: "The beta version of ‘Genesis’ is a technical verification edition of the generative AI system that automatically creates photorealistic Metaverse spaces. You can experience the generation of Metaverse worlds (virtual spaces) through simple spoken language or text prompts (Speech to World)."
-    publishedDateTime: 2023-07-13T18:26:00Z
-    webUrl: "https://www.eagletribune.com/region/matrix-releases-beta-version-of-genesis-generative-ai-system-capable-of-creating-metaverse-worlds-through/article_a69ea285-f708-5b76-a0af-1a5c3ee793ce.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 0
 
 secured: "nwzL4MKM982qJrgKwTcCGAOL6iG8v1Iy6MZt0Bw2CqOWH9JrqVrp9lLgiqset7M+MOzcjuS1lAoHrldKKa19dPASutW6BhhyQ1I1nRBhdYcAbNuj5gjxVyM8KflJEtpHFbvjfvbb8k+/IhQp4DN8xYYPs9jYvGb7gwP67yrneEKioWA4bT/bcf2ClkKX+HDIqUwUVOa4RqFc/j94sxlYjYS4iySHJ/wq/EWlV0V9kFJKCqgp1gk/1iW6CQRh8eD6QPJ+wpeGQdFxuUEg3SQXrF/T6mcne7CmaM7ZGVE2NS5H1RtUcAc3kOK8brs7gF1+jlbshG5O9CcfzNzKeiPbpVQsc6gnmuhF5nd2qXZ2nMg6HY8UwP7XPeUAUbVbpo3JMKXDfHTsg8eEM2+QykHwj3p/Vb0VTJ1YPvs1468n74WCzOEGl0GiUhn4XoSVb6/vncEofcP2V/VJsxuBx/YKwIorYLDGbl+6QT3JtwkcXpty7VcY8IMBcebe6QW1zZ+rXuE3aAhEhmXud3Abu2l5Uw==;ulGk/BM2kNW0f2zV8mKI8g=="
 ---

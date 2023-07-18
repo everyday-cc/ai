@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023"
-    excerpt: "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ..."
-    publishedDateTime: 2023-07-13T19:05:00Z
-    webUrl: "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1"
-    ampWebUrl: "https://www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1"
-    cdnAmpWebUrl: "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1"
+  - title: "Embracing Data-Driven AI And Machine Learning For Efficiency"
+    excerpt: "On this journey of improvement, a fail-fast approach in AI can help you quickly identify what doesn’t work and change to a better approach."
+    publishedDateTime: 2023-07-17T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/embracing-data-driven-ai-and-machine-learning-for-efficiency/"
     type: article
     provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 69
-    images:
-      - url: "https://img.jagranjosh.com//images/2022/May/2752022/Archana-Shandilya.jpeg"
-        width: 630
-        height: 768
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Can AI Lead Growth for Alphabet And Google - Earnings Preview"
     excerpt: "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal."
     publishedDateTime: 2023-07-14T19:59:00Z

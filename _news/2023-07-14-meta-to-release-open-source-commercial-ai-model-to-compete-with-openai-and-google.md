@@ -62,17 +62,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Musk unveils xAI in new bid to rival startup OpenAI"
-    excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
-    publishedDateTime: 2023-07-13T18:37:00Z
-    webUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/"
-    ampWebUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "jXO+L0rLS2JZ6cJvElvqL61EVjZ6mX32Vp/EWtUOb2ZCuGcF7ntPKJk8pq004i8gvYj92ZD5zmsiZO5c3ZeuwlBdZ+28k54tYqHUlBEV8/GX01PSfySvi8RhRtFi92w0MnPT8LBxRGYWNKh0BEUQbM38zxRw133YLZrCKFokDZIc1DlEksyByNn+Uj+wnhldmp1BXRaJwd50o9NbV5ZnhvFIUZIbVMYu8Z10e27MK2EvPyqPhfOJbQLDQpZm8zODe71axPvBs0iZNvjaywHjAnJqAVyVzVdGQrJDjxnrNW5zz6OPdDHuDz9LQmx9HzkzeVTNH1OCsKXzZ1EkQDCPxRjZIkc5ljag3ePc02AWmf+UvKjjAFzIrXTyTC7aBcWhYwqS5cOk8pAmvjABsKC5Lh/vgt7IG8zDYGIX8zBWBVkXxMVaQdbZbwNcI+MlFYl/kB+JFwYkdE0YL7GeB3Amj6P989CO7wzQeEwaQZpl9UQlTIhmb5mjrOiaGDG7HBZeapGplVtweoEGn0QMNgYakg==;pL6iKSUfn2wf0uDeXpPFOA=="
 ---

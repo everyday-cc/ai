@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires"
 type: article
 quality: 84
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -43,29 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Meta To Release Commercial Version of AI"
-    excerpt: "Meta will make its open-source language model LLaMA more widely available and customizable by companies in an effort to catch up with artificial intelligence rivals."
-    publishedDateTime: 2023-07-13T18:37:00Z
-    webUrl: "https://www.investopedia.com/meta-to-release-commercial-version-ai-7560608"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 39
-    images:
-      - url: "https://www.investopedia.com/thmb/WEdPnle0UBJgMvXiGc6X7t4vmi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1349793571-2a575ce3fe704e0aa5142c6996bbc5bc.jpg"
-        width: 1500
-        height: 993
-        isCached: true
-  - title: "MATRIX Releases Beta Version of ‘Genesis’ Generative AI System Capable of Creating Metaverse Worlds Through Both Spoken Words and Text"
-    excerpt: "The beta version of ‘Genesis’ is a technical verification edition of the generative AI system that automatically creates photorealistic Metaverse spaces. You can experience the generation of Metaverse worlds (virtual spaces) through simple spoken language or text prompts (Speech to World)."
-    publishedDateTime: 2023-07-13T18:26:00Z
-    webUrl: "https://www.eagletribune.com/region/matrix-releases-beta-version-of-genesis-generative-ai-system-capable-of-creating-metaverse-worlds-through/article_a69ea285-f708-5b76-a0af-1a5c3ee793ce.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 0
 
 secured: "GyWQBVWkA/N32Px1gfEOhnaBK8gFy7vh6REdj8UQV0iJGr+r7/R4+u3cwJPgzAeu3SMuKpXi/VjCS/dx9RWMmMzm3kaDgHpu7za0jazj3iHk0dUWPetAoXP6XTxeFrqidAU3NWkMlpzlNqRwbbBkib5PuMmPp31lNA20HRrTRBsfeR4QPMx+ZUv16NzXsC674n98HK9iYsZcq3oX27JdQosCYfHzv1xRXRe7bDYoIu/FHyk2keZFgJTb69d4zclW6FqFuxxC/J9weYPRYhfI4HnQyeovzep97+PwchnCRD3VqQEuUd8tMx0NxUXTqSI+ouW3TIbOGS2vOFwTXWsJxDMU4PK0B0c1hRucBSMPzfO0FCEoAmZw2vMnSqj4FF55V7bp+JxBfHD6BI4lF4JLdTdazSzNGCbLn1FNy/dyGbJXKEeupTVhGVEG/AyHb3IlxmhfAEYjYjWfR0Mx4SvqiWi6NhZ8Axw6XgzyT/TMDxs6xGmfUoWY7FGAVsVsBbczNvsIPGPwTejTosTivezzEg==;sq8MmjgB5Oh5mEo7o2bobg=="
 ---

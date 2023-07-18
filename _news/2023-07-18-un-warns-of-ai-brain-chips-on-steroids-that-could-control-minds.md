@@ -59,6 +59,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "AI is helping create the chips that design AI chips"
+    excerpt: "As artificial intelligence drives demand for more advanced semiconductors, new techniques in AI are becoming crucial to continued progress in chip manufacturing. The entire semiconductor supply chain,"
+    publishedDateTime: 2023-07-18T07:30:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2023/07/18/commentary/world-commentary/ai-microchips/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/07/np_file_229906-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
   - title: "Neurotech and AI together threaten 'mental privacy', says Unesco"
     excerpt: "Unesco has warned that the combination of neurotechnology and artificial intelligence poses a threat to mental privacy, as it works on a new global charter on scientific ethics. The UN's agency for science and culture has begun developing a global ethical framework to address human rights concerns posed by rapid scientific advances,"
     publishedDateTime: 2023-07-16T12:15:00Z

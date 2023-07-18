@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-i
 webUrl: "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Launches Artificial Intelligence Company xAI: What to Know"
-    excerpt: "The company's goal is to \"understand the true nature of the universe,\" but there's little info on what it'll actually do."
-    publishedDateTime: 2023-07-13T18:09:00Z
-    webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
   - title: "Elon Wants to Master the Universe With xAI"
     excerpt: "The name of his latest venture plays into all sorts of Elon tropes, from using the letter X to announcing it on a date that adds up to 42, the number that “Hitchhiker's Guide to the Galaxy” author Douglas Adams cryptically offered as the single answer to the meaning of life."
     publishedDateTime: 2023-07-14T22:41:00Z

@@ -95,15 +95,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 2
-  - title: "Mark Dreyfus: Suggestion Voice to Parliament will diminish Parliament’s power alarmist"
-    excerpt: "The Voice will have no power to prevent, delay or veto laws of the Parliament or decisions of the government. The Parliament and the government will retain decision-making power over all laws and policies."
-    publishedDateTime: 2023-07-13T17:59:00Z
-    webUrl: "https://thewest.com.au/opinion/mark-dreyfus-suggestion-voice-to-parliament-will-diminish-parliaments-power-alarmist-c-11266764"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 0
 
 secured: "I5pgwhMC9jmKDH8wTy7eqQ4iy6CqRZEYU8MicJ77soSTJUq8+NcNMwtaFmg5HXx8TmrfzI1sjBosh3+pbpvpMofevODz6v4Hw4ZEdVb5xum9Z4iEc7/FVjTlaEFdHRyovMWrqsDSLUmghRhJGq7F8z2p9Le7AXtK4fi3nFwSG5bd2mx6RkLn/1riT1vkZ0Fg7nkwEGE1/aG3GwCIsavEDOgLdRGC1eIPAvT8ksCJ5zk1c4pHKnEPiJ9oGADWSJN/0rZPLSYAy9d2bL+lQevALJRX072rU+TujVuGEM31idcucbSX+NU0/3yPcXDjKdI5+cU8n781kT/o8GlAFRciG8HrryMklJEukn/AuxWFg4QaqNmmrpmJDo8IwhtGYiq225KULaO/t5oJ1J2m+OCUzPXKFwRDwBtsb91WkmY3x/c3IKQAL2h4IXpnUs3T1pEDcfWEc99tb0LUaL0K6I+JgkohMldb7ruiETr5yo4bSw0QFsm+a32/wEAUPCnjzCbwTqPMHdax2OB2FoCfs2AIUQ==;LgUTspO+h7C05yJmCli8aw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Musk unveils xAI in new bid to rival startup OpenAI"
-    excerpt: "Elon Musk, who was involved with OpenAI, has criticized the startup since he left the board in 2018, especially after it created a for-profit arm the following year."
-    publishedDateTime: 2023-07-13T18:37:00Z
-    webUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/"
-    ampWebUrl: "https://www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/musk-unveils-xai-in-new-bid-to-rival-startup-openai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
 
 secured: "eyx0D+owo8kZjIBEZ34ylEsq7zJAEE6S+Rv9MKFLcptveEjI2Oxgq23mpAAp8drcB0GZO/e0a62KZWqn6LwMK4f+DB/Y1EaXUEKCmCdtFl32lYq3mrZqdT5XnF7RGQIU1LAxqVTRxNyNz41cZGV7zOGxi3PVY+4vb62FynxSmMRoGCgmDDI6VorJIWL0KK6onvNcyWxMl4//QzsIlmFzv9KdyyBWpQpg7tE7XzKzBEkdgSnbPHXMD/781JBaR5yhBtKGjpGvpkgGh0bCUh3Yc+c3ip6J7iKHNpYG3sg6u1P0u702lrpQfmzCmxj3IWep20/7ZTitjWo0FEYPF3eeEsLsK71T3cda9ZkB64ZUBzWdkxUA92WQMegh6Ai29A8XrhOrsBnfY4h9qfCCvZmoRj/XEgXGGTBsBtFORquji+Uxab2ofLTNP6/YDZgVqjv8y7xuKvMvZSp68db9vwZ2TrWQMeinFz8ua4kMleZuIQkxxEBBkrIyCaEjmpXUJ3AMDGT1KjSW+MYs2+PgXqpt1w==;zdryEZxVQCOON2qc8I48zQ=="
 ---

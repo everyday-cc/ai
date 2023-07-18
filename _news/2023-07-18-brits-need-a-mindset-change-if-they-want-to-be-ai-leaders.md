@@ -28,14 +28,14 @@ related:
   - title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
     excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014."
     publishedDateTime: 2023-07-17T16:53:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
+    webUrl: "https://www.bbc.com/news/technology-66166236"
+    ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      domain: bbc.com
+    quality: 104
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png"
         width: 1024
@@ -56,6 +56,6 @@ related:
         height: 675
         isCached: true
 
-secured: "M+p6ig/LrbUz4ML9MCaCxdiMd8RhgeLEu13uZRJECxzQKUEoZwP6JVrC66QA67XX+mP8Z1vGQa+1pM6mSq2Kd/QDugPkQToG0ezZe0PCf5oa2DZj417m+aRt3EKdK1avEPWCE76ObSZjK2Z+TQt+rZyFMrDszCKvLdsUR317ovSU7EWGMUpNajf2os+ktatw6eHZkSW/LVa2ZwazRXt1LbhFXUTg2ZCzUInsEeh1ECAbUm8q1NBJWfTexAmZYgLIdjb4DUMfI04P11avmSEdcruuJaJtAg1Pj+xg37SrgWSPkM9xrOgWMeuBzO3yfTL9ohOMaGBAFw4ODTVw+fJ1mQOpYHb8Q8bDONiOegbXos4=;n8mfInDcT0X0oQK8OlTqTg=="
+secured: "GulEw03E2l4Tu8QCOx280CrE3v+1QI/hWIz7m6GhQGuO2F2FoKrQx+weeNbgN0erkLv4kb5v7d+lRtp6hCKvpM04fyj+YEgTNI2unUDVCA75vHzRpk/h3UaLIsc7cQYhURVYshzO7un03ABjjCNCxVuxSvAtGUAxwdM+JX7TuulaZHDADc5u9hy1Y9ourJ+EebV04xjE+9WMwCpoJMIHUv1xgNwDdv5vVfqPDFt8FcbF/+0DnB/OcDOD5fROp6kxGyd26IgzyUlh/6vIFYrXFnT0NxeieNZc82UIFMpEYa6qoGaQuEiBn2dT7zZROvvEENb6z9Uli4vDjJiEbU3vC3ZyLDgP8vFHBiIYjuFLX6Lgnzc80FMYeVvvEjFo2l34ZVYRvF5w0sQDU94O0eQTuIsmPy4tX6o8ex72F8Tn+zWAax2lKPWyhuhgV4YcEmGdV0cpfmI+7tmdGB3BcwMuS4qS1xOPx2F22g29LbW78h4ZhjufoM4nkiUXkQq6bUJuwMiFxFQB0oBzyV78GzyEDw==;en/z/wYQMvapWDxSzGyfpQ=="
 ---
 

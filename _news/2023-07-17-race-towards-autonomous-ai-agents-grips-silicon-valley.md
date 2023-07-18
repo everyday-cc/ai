@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Race towards 'autonomous' AI agents grips Silicon Valley"
+    excerpt: "Experimental systems that run on GPT-4 or similar models are attracting billions of dollars of investment as Silicon Valley competes to capitalize on the advances in AI. The new assistants - often called \"agents\" or \"copilots\" - promise to perform more complex personal and work tasks when commanded to by a human,"
+    publishedDateTime: 2023-07-18T11:44:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/race-towards-autonomous-ai-agents-grips-silicon-valley/101854997"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/race-towards-autonomous-ai-agents-grips-silicon-valley/101854997"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/race-towards-autonomous-ai-agents-grips-silicon-valley/101854997"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101854997,imgsize-31368,width-1200,height=765,overlay-etbrandequity/digital/race-towards-autonomous-ai-agents-grips-silicon-valley.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "o/f3D/xUvgmkDWJzFI44OV3Qg3rDnA4Df1B+/fANkr6gGl+O1iu69+IRF2uOJ69gP/LxST+futhExMQ+Mq14qJo3rMGpX6IozapFNvDDv/G64I5JpMy5XbbwfRV0CXjFYygH5khCC44s6KbUfr70nCdgJbb1TOlksC53f/O3MXo1IqzoivFt9lzQV+XFrCgavfLbn76LFtgOodobUXhiQJWDP38iBSCjKJxrO0g67ko5AVEbxIXkkjkeBKGqEWPLE4lLHEEg8TFG7wZC4IwZjClug+p4MGIbXKc7ejDsiDSi01fk+Pj2LgPuccQdT6jgkgQfb3Vckq6JZSdCzciXlZZmnQ7BSfa3vWywvkih2UjSOrcIPjvBsm9KxSY4YQxW8IyGo9PNwuFfW2SmXynzsAjGgc2644eFLg6obu5h6rzw2hxvLEuLsjAFPa2IK41PNPTqVGeaUx+9pU28e3/iPGjXE/UNq3SgBgDZGY1708LLvwmUaznL6V1Eh3miiAZ9r05pzhIL8Er6R0NjnUu4mQ==;4W7dWo1hN6IvQCCWF9xYMg=="
 ---

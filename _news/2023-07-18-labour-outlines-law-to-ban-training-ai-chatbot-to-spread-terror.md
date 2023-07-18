@@ -319,29 +319,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Elon Musk forms his own artificial intelligence company xAI to compete with OpenAI's ChatGPT"
-    excerpt: "OpenAI, the nonprofit AI research company that released the widely popular AI language model ChatGPT in November 2022, was established in 2015 to advance AI technology for the benefit of humanity, unconstrained by a need to generate a financial return, according an introductory statement on the company's website."
-    publishedDateTime: 2023-07-13T18:20:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/trending/article/elon-musk-ai-startup-launch-18198516.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 21
-  - title: "Michael Hiltzik: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster"
-    excerpt: "Those of us who have spent the last few decades reporting on technology have seen fads and fashions rise and fall on investment bubbles. In the late 1990s it was"
-    publishedDateTime: 2023-07-13T18:19:00Z
-    webUrl: "https://thebrunswicknews.com/news/business/michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster/article_dfa23789-177c-500a-94fa-063d04efa862.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 20
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/4/68/468c75ea-146a-514e-8f52-193832f3c5a1/64b04cfef2b42.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Musk's xAI seeks to be alternative to ChatGPT"
     excerpt: "Elon Musk, who has hinted for months that he wants to build an alternative to the popular ChatGPT artificial intelligence chatbot, announced the formation of what he's calling xAI, whose"
     publishedDateTime: 2023-07-14T06:42:00Z

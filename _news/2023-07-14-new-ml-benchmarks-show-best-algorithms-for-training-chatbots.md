@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 88
 published: true
 
 provider:

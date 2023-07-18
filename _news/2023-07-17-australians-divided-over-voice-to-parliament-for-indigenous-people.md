@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94016"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 2
-  - title: "Mark Dreyfus: Suggestion Voice to Parliament will diminish Parliament’s power alarmist"
-    excerpt: "The Voice will have no power to prevent, delay or veto laws of the Parliament or decisions of the government. The Parliament and the government will retain decision-making power over all laws and policies."
-    publishedDateTime: 2023-07-13T17:59:00Z
-    webUrl: "https://thewest.com.au/opinion/mark-dreyfus-suggestion-voice-to-parliament-will-diminish-parliaments-power-alarmist-c-11266764"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 0
 
 secured: "oUqBUVK6HBcOMxx+mDGaupUZXWg898TeTC6it/8kAvcXRsedECCRAx+szZ/Nv/SCB9C0R7C6TbxTqe+5poQCYSPqOr66jFCYgkUSYHoAh/MR7SQX2VdA8QIBJhR5DR3liAjUCBoVIiTmgUKOlKmA5fGymRmwSUe6tOyQcF1sWfpiR413QZmicnLwhB4OOynFlSY1DebDjtNFq38U81HyXU24efV3GDv9j7c5nj+QlTj1YNBce47LI2ak7xebhd8YBd7BSzVKsiLOSAumRUXrDrW98Ws6olloMLFU7SOe7/2WPPPRLWbz9ppUfPvRpZTa+v+UT7dM4iSMbbRStzH627Tk07XPSs3sK6Os8Y4drjwG9dQ52va05gWbUvt4/7/UvWTcVxgF4f4x+y8gWLU824qVauy2YArXRXyhSd6QhjmiXn62sQ3ej/hzSoGI19w69AVJdV+1GNuT+stmCE1gEZVPmRTgrn3F0GcjpzIFvCZGNcqcVDzTMSkoR0hkqOZvh+zhv6CnHgd57qDI/qsGLg==;gL61ymNO/BSYc9IWpZUVPA=="
 ---

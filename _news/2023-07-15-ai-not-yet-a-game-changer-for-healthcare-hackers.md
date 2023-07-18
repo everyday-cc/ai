@@ -87,15 +87,6 @@ related:
         width: 598
         height: 233
         isCached: true
-  - title: "Health Care Service Corp. using AI for prior authorization"
-    excerpt: "The parent of Blue Cross & Blue Shield of Illinois promises it will make the approval process for many procedures quicker and easier for both patients and providers."
-    publishedDateTime: 2023-07-13T18:03:00Z
-    webUrl: "https://www.modernhealthcare.com/insurance/health-care-service-corporation-hcsc-using-ai-prior-authorization"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "ixya/xOcwZ5YcJtKK8d2PQE9wUXwpPkZcIbwTT0WhysUhH+wkfQxKCfZFvXe21hIPhd5OoPV43xKGXDLBdEVmCQ2FsKCcK2Wi0csAhUjSnNq3FHxc1JctzX/WXxqOnoP5CaUHhsgi8PkY5tvy9kKeUJWa3+0jflbrbxI0jGMGWT+KmH/Lb8lRatzhQS+hfpYU/JXqt7CqFO1F2fElsf7DAkBcY/cyIanx5i2MORIeke/D8lEHB/24at+1GvP8KBuopm95QTuguXnN/eyxACz+kctWPd3/28DmRc3Q21hznX4P6z4pKVvi56s7zghc+YwOXJqWEvOdZsgm0k3JnTcRgB7MTDCaY114nUkFnF/ql67pNbLSxWnFNwF8caJB6SPbj7d893XBHP4cyw1iaFfM8yfQ2/aL6S5yRcWgISf3x5zs0CAN8W7DhXvRsMRd8noZxFWYl/5S/ydpQPgk9Qx83BC95cKIHaYqknu+svbUAmujbNnSgvoGWAv1591utfPSgnshU3xNeZqqQOkzjmLmg==;cjhpOPa+7I6nRowQQxg+UA=="
 ---

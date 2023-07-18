@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 161
+heat: 138
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 500
         height: 271
         isCached: true
-  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
-    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
-    publishedDateTime: 2023-07-13T18:25:00Z
-    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "xAI New Artificial Intelligence Company By Elon Musk"
     excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."
     publishedDateTime: 2023-07-14T07:28:00Z
@@ -107,15 +98,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal"
-    publishedDateTime: 2023-07-13T19:08:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/12/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 9
 
 secured: "aPI2EY3AwRskIh1Qk5MvIvbuXK7S+AJzDmE1S9xOWPOwdHxMa4cNdPQcXA7ED9eD0nbRe3w7VGavgAuQbzXGfNxFqFvRdkJ9EbR975pIR89AubLfwZrfKWdY3Zu4Cl5F9vqb1YPu+JNk3DtZRL8HG3SJgjFMCfOS/0igFs7pcUTrTulNJbrPks0gfXKJBloCQ+CXD8LeuO6ox9oj+tfWRV638+g05BL7lbi0Wl/4x4AV/Xoqz+xpptGWIkrnDPSLRJfnJiMXEFs6OvZaezpWUYQz0PrfTf9SBqUpIJXOltJbmzwpSBEUB5xJTTsMGUULImKO9Jd6Uj/v/Sx9AZEj53ABAMaU0O7nLJp6OuzvLgTWNjiLnVyfOOo+gfklV3Yzq/pC2ukveEkcRP30FTvFkXdQgzqmBbRpNddZtJ4IycwKpWsZG46x4Qr0hw9iDLBWBXyB/pjG1sOUjt3ONJqnvLVPZcAtAzgTMk+Iz834njF8xPTprduSnIrEghnywOCIz4MUFiDet/AyLs/bi9gmQw==;Zl7iI29uU8aStcVHtVUZOg=="
 ---

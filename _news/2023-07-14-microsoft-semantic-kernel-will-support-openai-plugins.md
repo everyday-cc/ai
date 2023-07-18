@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "KPMG to invest $2 billion in AI in expanded partnership with Microsoft"
-    excerpt: "KPMG has pledged a $2 billion investment in Microsoft Cloud and AI services over the next five years to streamline workforce efficiency."
-    publishedDateTime: 2023-07-13T17:11:00Z
-    webUrl: "https://venturebeat.com/ai/kpmg-to-invest-2-billion-in-ai-in-expanded-partnership-with-microsoft/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/KPMG-AI.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure"
     excerpt: "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI."
     publishedDateTime: 2023-07-17T17:14:00Z
@@ -201,15 +187,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
-    excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
-    publishedDateTime: 2023-07-13T17:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pinecone-speed-up-generative-ai-microsoft-azure-azure-/2023/07/13/9848149.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
   - title: "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks"
     excerpt: "Facebook and Microsoft continue their dominance as the most impersonated brands"
     publishedDateTime: 2023-07-13T20:42:00Z

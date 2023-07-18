@@ -67,6 +67,20 @@ related:
         width: 600
         height: 343
         isCached: true
+  - title: "AI is helping create the chips that design AI chips"
+    excerpt: "As artificial intelligence drives demand for more advanced semiconductors, new techniques in AI are becoming crucial to continued progress in chip manufacturing. The entire semiconductor supply chain,"
+    publishedDateTime: 2023-07-18T07:30:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2023/07/18/commentary/world-commentary/ai-microchips/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 54
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/07/np_file_229906-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
 
 secured: "cf/CE08gkyvmhXq24gwETwuWVGzirzMf/guwS9zx5C9E1B02k21fYMNKWw1Zjef/bMNMDLKTHbS/u3bQA+EsNANI22PHxZ8eyFZ3ypm9emm9jX476aKRceUS1ocs0Xu7fN/M0xmytnwYaov7p1Kz+aeSArqIbyqvW/Q0bGYteGCdCar14iqtjtKEd3MG3x7RZQrlscQXdxTyEfqi6BI3QNNo3M2wPeJPloXfc/qZnqnRFTT4r7ubLkYNJLR1ApNiSjGsLtMQRFX9IvbBRy5EO4tFG6VLGwtFC97p9PeVadB7uBADW4M3rQh5zsJaSTzTDQ/+vBQ8NRIh4926dzc2pv1qmVvm/8i3R6UW7CS76Cc1X9cqdS5iW+AwXjf5+wg955ydvQFKrmxNYIT0RqOMFyB+dspyro7heW1cA8jqPDa8CwSAIljJ9vgkYJVtFte7Pk/Sp3Ry7lg0384nM5f0Z+pNh1dcltzqSERVfwo4dMcCKnG+GoPwX3Adr48WXJItGl83wbHVn+0lcZYmKtUBOQ==;IUNrEdDmMd6/WDTBK33kQA=="
 ---

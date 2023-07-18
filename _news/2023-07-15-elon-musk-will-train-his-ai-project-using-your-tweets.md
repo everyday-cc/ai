@@ -74,15 +74,6 @@ related:
         width: 500
         height: 271
         isCached: true
-  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
-    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
-    publishedDateTime: 2023-07-13T18:25:00Z
-    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "xAI New Artificial Intelligence Company By Elon Musk"
     excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."
     publishedDateTime: 2023-07-14T07:28:00Z
@@ -106,15 +97,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal"
-    publishedDateTime: 2023-07-13T19:08:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/12/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 9
 
 secured: "qNcO5JsjVXrSjm45F2A7BJpb6vhu1rpijINIPRr+9wARo8rgY6Ohnb1tmk0jCNy6wwsxY2lXdSdXjMXktgkbF0rzP+iW690rlKy0JJM03g5+YtNt0Ax2B81QCB9SbNA6d+L8RUVMWiX0xdxJayM10GQdC1GZ1eZW7IwU9wIMp9ZO6zxN6yY3uytZWLMdxb+HlrpVT5BfiNxEKdx/l+YcrOSwW0TIgeLyp0gp/2uCmfshxEzlY88NXQ1mmsuIoWEMhU/PNghb9sixUbpLqhUo67Dm86Rtgw0KFldbjtMCJ7qPedzVSbkqqciMzhNUmooGAQN1FKOVr1sRjVo1/eLxMFAW9mIfo03TYWUcQZH11Sorlr9Ho5GSVSIA3IlQ7VCJJ0DB4HwMMZsN6xqmxWiBd9tFWfc7qkG+ikx9docjJ+n337NxSspPDIj0Ph8sqfUpQYA4kSu0bSxSQ5Ns01JUj6dv1oDuSgyojFwRclvJsArZk2lkBLMzUOTg6RbkKoXskrjgX9sbZkZRoG3ry3AL0w==;ci8Yhxln9U1lPPCeacfsaQ=="
 ---

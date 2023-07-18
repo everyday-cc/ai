@@ -1,15 +1,15 @@
 ---
 category: news
 title: "‘It was as if my father were actually texting me’: grief in the age of AI"
-excerpt: "People are turning to chatbot impersonations of lost loved ones to help them grieve. Will AI help us live after we’re dead?"
-publishedDateTime: 2023-07-18T08:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/18/ai-chatbots-grief-chatgpt"
-webUrl: "https://www.theguardian.com/technology/2023/jul/18/ai-chatbots-grief-chatgpt"
+excerpt: "Irina Raicu, the Internet Ethics Program director at Santa Clara University, says that it is “very troubling” that AI is being used in this way. “I think there are dignitary rights even after somebody passes away, so it applies to their voices and ..."
+publishedDateTime: 2023-07-18T11:24:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jul/18/ai-chatbots-grief-chatgpt?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/jul/18/ai-chatbots-grief-chatgpt?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/18/ai-chatbots-grief-chatgpt"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/18/ai-chatbots-grief-chatgpt"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "xdH01FgSGEbn/fy4s9r7yvhe3Azdn7BTkJlAbwQl41e/zcZ+UioKcAiJCK8JKBNdpymNJOj06vYY469SyLpP4fmaFvS07+Q2SmSTwJ07029NDDI+taXzHAIMlerXPuv2cTpsWtol0SkczpPwgGj+/fdft/rrfVaS+dO4hPoh4/0ESkRtJcpqlTneY7eDb2CulG3CWsoqHdTzuXBWcjQFm/LTwD4AyrujG1QJiXiCPa1ajDRQkqLen+Q37kFD6+RuL6An/9T/dnHbIahCkEb5IqKda4GV6BKQ3Zg3LfZIHMexdk0ftVJ/Qxm7TrnCTL13ukenPTaEKTEwmEVCf0ExtXhJ5LI/aKZLwoTnyMAAQ+k=;iA4G4Om2D0pUMrnl9ulwWA=="
+secured: "xuNYis9Wc64bq89xkcGdgNfi4Ut9RXNhDngW6c8VWt6KYEo8oP2kkrlEf5iHCAaKkmmorgD2rqBl1wD/Oicb5wR6fAeBQsNrjkYtEC7NML8eHQJy9nhulyUyN0xb1Z5qwoYkYea6OIOfO1C3du8yHo5Cng3fPQJutHXJp40nvapDScaDYWy3Y8heQW8oneO7GeSxgsYWoxI6JW3vBrMHypcS0F4kkRdSuTjtb2d0bKnh0nL6GkMOI/BvcyqxZAvcXjJKwJpvXxcdPRJtcl6qurkVRJ9u0f5tf2X4t5j7rMB+PJYFC3QGQsul4uT4ISS76clH4WzNqnAkBurmzwfsz3ChgI6iMB+bTWnm908DpjA=;fLaGgLKXW6zlz8nrymVdew=="
 ---
 

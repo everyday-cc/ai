@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-f
 webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "Health Care Service Corp. using AI for prior authorization"
-    excerpt: "The parent of Blue Cross & Blue Shield of Illinois promises it will make the approval process for many procedures quicker and easier for both patients and providers."
-    publishedDateTime: 2023-07-13T18:03:00Z
-    webUrl: "https://www.modernhealthcare.com/insurance/health-care-service-corporation-hcsc-using-ai-prior-authorization"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "U1bJMbUwUaDTNVfDMmfxdjSzMex8cNHdabnK6+GVZnPzCCKuFO3GBIt5LOIajrEQZZPAR0Wonn1BUJ+GgmBCu+hn7PG4TeTYtGTs3g4y9zk9QeU2WvqhRjCib92Ah0M/fIJ6uKIV5Dh+G1JtLyjGC0st5KoU7gFUlE3HptC28db0Xbn+ZtjTvTu2LgMxyMM6oKd2SIX9vIDsi2H0Gr/9ohrTnUOlKOv6nUSiUtSwVe/L9UBU4VZseKx2yBpwEt6H0N8DMkQultINvLa8Ll+dAKQMx2yjQahXX9++nqyvAXb4tWjf2bnBNAacVuf/XM4o+SSlvSLeRr5+01+CZWDIcDSMYEDS0SLFM7O5tX4qNQw=;h4vO4Gu4yTHfLR4iY9ieUw=="
 ---

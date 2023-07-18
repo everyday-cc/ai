@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding
 webUrl: "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ACI Learning Launches Proprietary AI-Powered Skills Gap Analysis Tool"
-    excerpt: "ACI Learning, the audit, cybersecurity and IT training leader, today launched Insights, a skills gap analysis tool for team leaders to continuously address staff knowledge gaps. The proprietary tool is the brain inside ACI Learning,"
-    publishedDateTime: 2023-07-13T17:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/13/9848207.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Payment Asia launches AI-powered processing service"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-14T11:29:00Z

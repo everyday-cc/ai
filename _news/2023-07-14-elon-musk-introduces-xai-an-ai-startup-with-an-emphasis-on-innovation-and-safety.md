@@ -84,15 +84,6 @@ related:
         width: 500
         height: 271
         isCached: true
-  - title: "Elon Musk Announces xAI Artificial Intelligence Startup"
-    excerpt: "After asking everyone else to please stop making AI, Musk has announced the formation of his own artificial intelligence startup called xAI. The company's goal, articulated in Musk's signature overconfident bravado,"
-    publishedDateTime: 2023-07-13T18:25:00Z
-    webUrl: "https://www.extremetech.com/science/elon-musk-announces-xai-artificial-intelligence-startup"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "xAI New Artificial Intelligence Company By Elon Musk"
     excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."
     publishedDateTime: 2023-07-14T07:28:00Z
@@ -102,15 +93,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 34
-  - title: "Elon Musk unveils his new AI startup with a team of top researchers but a vague mission"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal"
-    publishedDateTime: 2023-07-13T19:08:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/12/elon-musk-unveils-his-new-ai-startup-with-a-team-of-top-researchers-but-a-vague-mission/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 9
 
 secured: "vy/EekhQsSXVUkKuQESwiQNdBMCOIn/OblEw9tak9xQkpSmLpT+O7kSGAvG+L6/BC5CbJJT+8/MyxfVX0yKGgwGbhhcDzW6Njmj51/B6a/Yuke5zDb8pnJc+Hm5wPrR7mKfkV/6j823J2HPqEBYaCa5FfYpZI05GkKJRNsvFA7QFbIYY71zDwWmshfYMoFrrOra4BaaOF5WyGDrTJhFxlJeZdpHn7ILos0TZKVnH+8pG+gE1GXZ86qALwaubZkA5I/+QUq21wvAQX1LksI2F6X3OL4sDYrw/9Yc2+CBpn6ug+WfW0deVjeP9Hapwxho9jtawnmnI72Pa/ePEW5LShlj5Nrksu2AFAXENmm8UnzF3+OKCVul07mHwhJtSZoYSYe3g/B00rYdsavgkuEWN8/68hiW9qH9hwz+z1ThS926DOhh+5C73SGf10UBHjXdxfzM/Iv09SC4zQ2oujTiD/81IAcPPzfEAs/0zc+y8GRx8kSWlt3Mm6oBU27WwdYgjI48UzAl25ftv2RDwH/86SQ==;xsamkS+RPmnZRvT7crTo5g=="
 ---

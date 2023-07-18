@@ -80,6 +80,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Are we ready for the profound impact of generative AI on accounting and finance? Here's what lies ahead"
+    excerpt: "Generative AI will have a profoundly disruptive impact on accounting and finance, but that doesn't necessarily mean job loss. It does mean embracing new tools, and deeper automations. Sage CTO Aaron Harris breaks down the top use cases - and what we need to do next."
+    publishedDateTime: 2023-07-18T10:29:00Z
+    webUrl: "https://diginomica.com/are-we-ready-profound-impact-generative-ai-accounting-and-finance-heres-what-lies-ahead"
+    ampWebUrl: "https://diginomica.com/are-we-ready-profound-impact-generative-ai-accounting-and-finance-heres-what-lies-ahead?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/are-we-ready-profound-impact-generative-ai-accounting-and-finance-heres-what-lies-ahead?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 60
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/Generative%20AI%20Finance.png"
+        width: 740
+        height: 450
+        isCached: true
   - title: "How generative AI can democratize content creation across the enterprise"
     excerpt: "Learn why content creation and productivity is one of gen AI's most transformative powers in this VB Transform 2023 panel."
     publishedDateTime: 2023-07-14T13:26:00Z
