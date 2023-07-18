@@ -2,58 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-05-01-emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain.md",
-      "title": "EMOTIV Enlists Two Machine Learning Heavyweights as AI Takes Aim at the Human Brain",
-      "excerpt": "Dr. Flake has been appointed CTO for EMOTIV after helming R&D teams for large technology companies across two decades. Author of the seminal book, The Computational Beauty of Nature, he earned renown as a scientist in academic and research circles before applying his knowledge within the commercial sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-01-deep-learning-pioneer-geoffrey-hinton-has-quit-google.md",
       "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
       "excerpt": "Linda Nylind / eyevine via Redux Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at the heart of modern AI ...",
@@ -1384,6 +1332,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-22-aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031.md",
+      "title": "AI/Machine Learning Market Report Industry Dynamics by Top Players 2023-2031",
+      "excerpt": "Global AI/Machine Learning Market Research Report 2023 is spread across 116 pages and 148 Number of Tables and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/aimachine-learning-market-report-industry-dynamics-by-top-players-2023-2031-2023-04-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
       ]
     }
   ],

@@ -545,8 +545,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?920793",
-          "width": 375,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?315664",
+          "width": 374,
           "height": 250,
           "title": null,
           "attribution": null,
@@ -785,7 +785,7 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "More information: Tomohide Ibuki et al, Possibilities and ethical issues of entrusting nursing tasks to robots and artificial intelligence, Nursing Ethics (2023). DOI: 10.1177/09697330221149094",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
       "sourceUrl": null,
       "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
       "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
@@ -821,8 +821,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
       ]
     },
     {

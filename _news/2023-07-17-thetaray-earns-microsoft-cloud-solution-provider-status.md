@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Join AWS, Google Cloud, Microsoft Azure at free SANS Cloud Security Exchange"
+    excerpt: "On 18 August, subject matter experts will speak on today’s pressing cloud security issues at the SANS Institute Cloud Security Exchange event."
+    publishedDateTime: 2023-07-18T06:32:00Z
+    webUrl: "https://www.itweb.co.za/content/O2rQGMAE2weMd1ea"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 105
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/07/SANS-18July2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon, Microsoft and Google cloud services bet heavily on AI, but do their customers even want it?"
     excerpt: "\"AI\" may be the two most frequently spoken letters in business this year, but the technology is not as high a priority as one might think when it comes"
     publishedDateTime: 2023-07-13T21:01:00Z
@@ -48,6 +64,31 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/KPMG-AI.png?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Semantic Kernel will support OpenAI plugins"
+    excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
+    publishedDateTime: 2023-07-14T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html"
+    ampWebUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
+  - title: "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure"
+    excerpt: "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI."
+    publishedDateTime: 2023-07-17T17:14:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 83
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
     excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
@@ -95,6 +136,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Splunk to Offer Enterprise Security and Observability Solutions on Microsoft Azure"
+    excerpt: "Splunk and Microsoft are partnering to build Splunk’s enterprise security and observability offerings on Microsoft Azure"
+    publishedDateTime: 2023-07-18T03:17:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32751-splunk-to-offer-enterprise-security-and-observability-solutions-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 65
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/7d2eaf8641c29b0abdd70b5c7c280e24.jpg?t=20230718_030445"
+        width: 752
+        height: 408
+        isCached: true
   - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
     excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."
     publishedDateTime: 2023-07-14T14:14:00Z
@@ -123,6 +178,34 @@ related:
         width: 450
         height: 273
         isCached: true
+  - title: "Microsoft Semantic Kernel will support OpenAI plugins"
+    excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
+    publishedDateTime: 2023-07-17T05:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_dreamstime_7_2_1_2_3.jpg"
+        width: 505
+        height: 315
+        isCached: true
+  - title: "Partnership with Microsoft brings Splunk to Azure Marketplace"
+    excerpt: "During its first keynote at .conf23 in Las Vegas, Splunk announced that it has formed a strategic partnership with Microsoft. With that, Splunk lands in"
+    publishedDateTime: 2023-07-18T04:55:00Z
+    webUrl: "https://www.techzine.eu/news/security/109041/partnership-with-microsoft-brings-splunk-to-azure-marketplace/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/07/SplunkLogo-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
     excerpt: "Availability on Microsoft's cloud computing platform will facilitate safe and accurate Generative AI applications. NEW YORK,  /PRNewswire/ -- Pinecone, the vector dat"
     publishedDateTime: 2023-07-13T17:48:00Z
@@ -132,15 +215,34 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 40
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
-    publishedDateTime: 2023-07-16T04:12:00Z
-    webUrl: "https://www.inferse.com/617589/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+  - title: "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks"
+    excerpt: "Facebook and Microsoft continue their dominance as the most impersonated brands"
+    publishedDateTime: 2023-07-13T20:42:00Z
+    webUrl: "https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
+  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
+    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
+    publishedDateTime: 2023-07-18T07:28:00Z
+    webUrl: "https://www.thehoopsnews.com/microsoft-announced-its-first-customer-product-features-powered-by-microsoft-153199"
+    type: article
+    provider:
+      name: thehoopsnews.com
+      domain: thehoopsnews.com
+    quality: 34
+    images:
+      - url: "https://www.thehoopsnews.com/wp-content/uploads/2023/07/wp-header-logo-455.png"
+        width: 1600
+        height: 1201
+        isCached: true
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
     publishedDateTime: 2023-07-15T05:17:00Z
@@ -150,15 +252,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
-  - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
-    excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
-    publishedDateTime: 2023-07-14T11:41:00Z
-    webUrl: "https://seekingalpha.com/news/3987638-microsoft-rises-ubs-upgrades-citing-stabilizing-cloud-spending-ai-catalysts"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 29
   - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
     excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
     publishedDateTime: 2023-07-15T17:21:00Z

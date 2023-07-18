@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence – a technology trend or a passing fad?"
-    excerpt: "AI can be described as a branch of computer science that creates intelligent systems capable of reasoning, learning, and acting autonomously. Although AI is not a brand-new technology and has been evolving for decades, its development has accelerated in recent years due to advancements in computational power and the availability of big data."
-    publishedDateTime: 2023-07-15T00:00:00Z
-    webUrl: "https://www.fanews.co.za/article/technology/41/general/1204/artificial-intelligence-a-technology-trend-or-a-passing-fad/37463"
+  - title: "Six Ways Law Firms Can Use Artificial Intelligence in Their Marketing Technology Efforts"
+    excerpt: "Artificial intelligence is here to stay and law firms would be wise to learn how to use AI tools to their advantage, particularly in their marketing and business development efforts. Small and mid-siz"
+    publishedDateTime: 2023-07-14T21:40:00Z
+    webUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-artificial-intelligence-their-marketing-technology"
     type: article
     provider:
-      name: FA News
-      domain: fanews.co.za
-    quality: 39
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 47
     images:
-      - url: "https://www.fanews.co.za/images/cmsimages/big/page-37463-37996-michelesantangelomedia.jpg"
-        width: 400
-        height: 600
-        isCached: true
-  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
-    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
-    publishedDateTime: 2023-07-14T08:40:00Z
-    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 38
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/Ai-Concept-Artificial%20Intelligence%20SMALL_3_0.jpg?itok=RWGXgbtE"
+        width: 500
+        height: 243
         isCached: true
 
 secured: "shPts5i7IZi3KRirsRYIBP4jZZohwGLLW/163fu4eJXGI/+jgCEEIiodsQ4e19I9sER0oTF4yHP/CwOPDN57WykIyXU6v0Ob3Xm9uXrypOTx7T/yXmGxtzaLPbsdp1cMX5F5v4UBoefI0/ORvux94XwFBbz7jYujNSDbKo2nC10gGxaiZBFFuKK7KBcGZ2zVtkdjehfDiIJUKN5FIYwC4AY2lMmSb3AFjdMX6cQ6B4ALfLQrUuBBJuQfTAXXpykpQGplAEdges4kO/1mRfuewNXG50cMvYVXF+nlkiKTqx3WKduM/kjWiZb6B3gsqG/jVBqxWG3jjpO0x/7pFoDwA4Xw6yul1j5+vR5nn6DbCEA=;8LWzW0oljD9TobIXyyuXpQ=="

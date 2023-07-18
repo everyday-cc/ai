@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-n
 webUrl: "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-neutral-at-ubs-on-cloud-stabilization-ai-catalysts-2eaff8ea"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: MarketWatch
@@ -23,45 +23,24 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Semantic Kernel will support OpenAI plugins"
-    excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
-    publishedDateTime: 2023-07-14T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html"
-    ampWebUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
+    publishedDateTime: 2023-07-16T04:12:00Z
+    webUrl: "https://www.inferse.com/617589/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
-  - title: "Microsoft Semantic Kernel will support OpenAI plugins"
-    excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
-    publishedDateTime: 2023-07-17T05:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/"
+      name: Inferse
+      domain: inferse.com
+    quality: 31
+  - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
+    excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
+    publishedDateTime: 2023-07-14T11:41:00Z
+    webUrl: "https://seekingalpha.com/news/3987638-microsoft-rises-ubs-upgrades-citing-stabilizing-cloud-spending-ai-catalysts"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_dreamstime_7_2_1_2_3.jpg"
-        width: 505
-        height: 315
-        isCached: true
-  - title: "Partnership with Microsoft brings Splunk to Azure Marketplace"
-    excerpt: "During its first keynote at .conf23 in Las Vegas, Splunk announced that it has formed a strategic partnership with Microsoft. With that, Splunk lands in"
-    publishedDateTime: 2023-07-18T04:55:00Z
-    webUrl: "https://www.techzine.eu/news/security/109041/partnership-with-microsoft-brings-splunk-to-azure-marketplace/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/07/SplunkLogo-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 29
 
 secured: "pUiEAF993Qe6PJVKQOzF4Y9k0UzRWt406gFcCy7b8fotdHdqwteELhUMLNyHQrPYwQkQciTbaPuKlkElYNmwT0zpU3kZXxyrbLuXX+6027lPXljnMA+aQAan0nnm85k7WC3SZuU3kgAfi2z+JZLdifM4kyV39Ef3Va7gAOYgPSwtpzrBd6L8KI51wDjY3w3zjov2KbCzZXLJRE+v+FCg8OdG4JqkbuwD55OSr7eeS8l4gCQkK5GGeIw9p4AhZunPzbkKN08BUu3QQ2rq7kFbNjbqxGoKL0kq1+9xhk7tm+l14aOz9aDhyHkuDTVT76dD6qoagR7eU9FUy1EloykUBhbkSZHsJsZNgwCxUSaabikyLlURVBsvD1z04aIELPYUSkTLkKIYBAfPnPt7NLlv3GXJwAoyLNzrN+gO6LFpXPnBW7YfBJsx64H6ifSY1YKdHHKGG1xcRLm8SfWs18QKR5ceARfmjXL5k2ljVPlC5U/Oh7VqHL6Upumqe8Kp94MW7ENxAYX4ct931EfKQJcRuA==;cMa1G8F2lncY4juNIfmVqg=="
 ---

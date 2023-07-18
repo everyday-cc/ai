@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
+      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
+      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
+          "width": 864,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "publishedDateTime": "2023-07-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-protecting-uk-jobs-will-be-a-challenge-says-new-ai-advisor.md",
+      "title": "Protecting UK jobs will be a challenge says new AI advisor",
+      "excerpt": "Protecting British jobs will be a challenge as artificial intelligence systems become more advanced, the new head of the government's AI taskforce has told the BBC. Ian Hogarth said it was \"inevitable\" that more jobs would become increasingly automated. The whole world will have to rethink the way in which people work, he added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-66128106",
+      "originalUrl": "https://www.bbc.com/news/technology-66128106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/82D7/production/_130359433_01h39w5xkrd7yy7xehkxa0vqbp.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-66128106.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66128106.amp",
+      "publishedDateTime": "2023-07-16T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-6-mujeres-lideran-la-lucha-contra-el-cambio-climatico.md",
       "title": "6 mujeres lideran la lucha contra el cambio climático",
       "excerpt": "Homenajeamos a Eunice Newton Foot, científica pionera de la ciencia climática, y a 6 organizaciones beneficiarias de Google.org dirigidas por mujeres que construyen un f…",
@@ -450,7 +544,7 @@
       "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -751,7 +845,7 @@
       "originalUrl": "https://www.bbc.com/sport/av/tennis/66183190",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -999,7 +1093,7 @@
       "originalUrl": "https://www.barrons.com/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1136,94 +1230,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
-      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
-      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
-          "width": 640,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "publishedDateTime": "2023-07-14T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-new-ml-benchmarks-show-best-algorithms-for-training-chatbots.md",
-      "title": "New ML benchmarks show best algorithms for training chatbots",
-      "excerpt": "As quickly as AI and ML have grown, MLCommons has been updating its MLPerf Training benchmarks. The latest revision, Training version 3.0, adds testing for training large language models (LLM), specifically for GPT-3, the LLM used in ChatGPT. This is the first revision of the benchmark to include such testing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html",
-      "originalUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/29/19/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-large-100935023-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html",
-      "publishedDateTime": "2023-07-14T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

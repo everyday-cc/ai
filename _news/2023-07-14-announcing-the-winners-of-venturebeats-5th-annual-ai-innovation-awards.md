@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-
 webUrl: "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-ai-innovation-awards/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "VentureBeat Transform Day 2: Embracing partnerships for generative AI success"
-    excerpt: "Industry experts cited human-centric design and business partnerships among the important themes for successful integration of generative AI."
-    publishedDateTime: 2023-07-13T14:44:00Z
-    webUrl: "https://venturebeat.com/ai/venturebeat-transform-day-2-embracing-partnerships-for-generative-ai-success/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/cytonn-photography-n95VMLxqM2I-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Integrating intelligent automation: Advice from Citi Ventures"
     excerpt: "Citi Ventures talked about the era of 'hyper automation' and generative AI experimentation at this week's VentureBeat Transform 2023."
     publishedDateTime: 2023-07-13T20:08:00Z

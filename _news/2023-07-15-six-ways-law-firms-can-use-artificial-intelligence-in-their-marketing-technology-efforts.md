@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-ar
 webUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-artificial-intelligence-their-marketing-technology"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Law Firms Can Utilize Artificial Intelligence for Marketing"
-    excerpt: "Artificial Intelligence will revolutionize law firm marketing forever. Law firms are now (or should be) leveraging the potential of AI in order to enhance their marketing efforts. By harnessing the capabilities of AI,"
-    publishedDateTime: 2023-07-13T14:58:00Z
-    webUrl: "https://www.law.com/2023/07/13/how-law-firms-can-utilize-artificial-intelligence-for-marketing/"
+  - title: "The growing influence of AI on the technology sector"
+    excerpt: "In this ever-changing business landscape, AI is the brain and bawn of revolutionizing the tech industry. Artificial intelligence has enhanced efficiency, accuracy and cost-effectiveness. Everything and anything can be"
+    publishedDateTime: 2023-07-16T11:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/travel/the-growing-influence-of-ai-on-the-technology-sector-56482/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 56
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2022/04/Artificial-intelligence_3-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "ppC2K7aiiorr9cr6NbR9JNA3XowF2I+jiFE3/YLgCJySKTP9hFX629aDTlsp1krLRfNED48BF7k2kOIIQpCY2zTJNdTfKVt/rYFVuv/kf86qLbBPZ54TV2MMIq5+wDs7No3vgN7KL6xFpKEUyilspvhrxTEQ+7DQaNyR32fFJhB8cKJgkhj6ZgDLV688Q91+yX9k76rooIGDr9VN7CB4GhSyu8wYieC6TfhH4mnzgOTB63tI1O0bjDlTDy6+GbyYUXdb9G7E/Cbmp4wk/ywRprm1Cs3rYnP5eJaqIdW17RA465Q9aPU7QbfDl/orGYpUmU6YEWYaAMfOVgjL4+wBPWKAS0At4+qDb35+ZOBIvm/Y8D9oTMdC9TurwZwMcBGd9eXdltFAhvBb4laLNMax89Q/oNnoBxAnFSSWGIm6OzNwaCFzJPNhNdl2UqU5igCEQ/woEUpOxLl+cc6Di4BxVuf2wOP7nO0TqM5ybsJSnaZY0bcDXOBrGxvw4ugDHjO/HFHzE+kR0xD1gf5JbUQiiw==;qCRdlCxs/US6tqGC4kOO+Q=="

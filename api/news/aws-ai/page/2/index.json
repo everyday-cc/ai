@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-28-aws-invests-100-million-in-generative-ai-innovation-center.md",
+      "title": "AWS invests $100 million in Generative AI Innovation Center",
+      "excerpt": "The head of the Generative AI Innovation Center reveals what customers can expect and explains which industries AWS is focused on first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/forrester-aws-cloud-computing-predictions.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-aws-announces-general-availability-of-aws-appfabric-to-enhance-leading-saas-applications-for-improved-productivity-and-security.md",
       "title": "AWS Announces General Availability of AWS AppFabric to Enhance Leading SaaS Applications for Improved Productivity and Security",
       "excerpt": "(NASDAQ: AMZN), today announced AWS AppFabric, a no-code service that enhances companies' existing investment in software as a service (SaaS) applications with improved security, management, and productivity.",
@@ -1308,49 +1361,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-bbva-selects-aws-to-accelerate-its-data-driven-transformation.md",
-      "title": "BBVA Selects AWS to Accelerate Its Data-Driven Transformation",
-      "excerpt": "(NASDAQ: AMZN), today announced that Banco Bilbao Vizcaya Argentaria, S.A. (BBVA), a global banking leader, will use AWS to deliver advanced analytics and data services in the cloud, taking a decisive step in its data and artificial intelligence (AI) transformation process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/bbva-selects-aws-to-accelerate-its-data-driven-transformation/article_72fe3707-2734-5763-9d0b-9bc4d2420a01.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/bbva-selects-aws-to-accelerate-its-data-driven-transformation/article_72fe3707-2734-5763-9d0b-9bc4d2420a01.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

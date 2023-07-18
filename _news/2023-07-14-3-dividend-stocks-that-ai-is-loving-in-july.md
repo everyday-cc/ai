@@ -38,15 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "The 7 Best Robotics Stocks to Buy in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robots play an increasingly large role in our lives, whether we realize it or"
-    publishedDateTime: 2023-07-13T14:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-robotics-stocks-to-buy-in-july-1032445069"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "3 Quantum Computing Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Quantum computing is still a relatively nascent technology. If developed"
     publishedDateTime: 2023-07-17T10:43:00Z

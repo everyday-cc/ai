@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
+      "title": "Medifakt: Empowering Healthcare through Decentralized Blockchain Technology",
+      "excerpt": "We created a platform using blockchain technology to improve the smart healthcare ecosystem for patients that permits and supports the transfer, transmission, storage, interpretation, second opinion, and evaluation by artificial intelligence of medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/medifakt-empowering-healthcare-through-decentralized-blockchain-technology-1032453660",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/medifakt-empowering-healthcare-through-decentralized-blockchain-technology-1032453660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2155089/Medifakt_Image.jpg",
+          "width": 400,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-artificial-intelligence-wheelchair-aims-to-put-users-in-control.md",
       "title": "Artificial intelligence wheelchair aims to put users in control",
       "excerpt": "More than a billion people around the globe need assistive technology to go about everyday tasks independently. A new artificial intelligence (AI) wheelchair is taking assistive technology a step further and giving people their freedom back.",
@@ -179,49 +231,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-health-care-providers-say-artificial-intelligence-could-transform-medicine.md",
-      "title": "Health care providers say artificial intelligence could transform medicine",
-      "excerpt": "Doctors at Mass General Brigham are using generative AI to record patient visits instead of typing in notes. Doctors say the technology not only saves them hours in administrative work, allowing them more time with patients, but they are able to focus on a patient’s social cues during appointments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
-      "originalUrl": "https://www.wcvb.com/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/d2da9836-1c08-410a-bf51-c3a491e807e6/1ea45c1b-a217-4615-ae61-f537adb0c5c8.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
-      "cdnAmpWebUrl": "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/health-care-providers-say-artificial-intelligence-could-transform-medicine/44536245",
-      "publishedDateTime": "2023-07-13T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCVB Channel 5 Boston",
-        "domain": "wcvb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-3-artificial-intelligence-stocks-that-ai-is-loving-in-july.md",
       "title": "3 Artificial Intelligence Stocks That AI Is Loving in July",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology",
@@ -230,7 +239,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": null,
       "content": "\r\n",

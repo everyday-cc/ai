@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 160
 published: true
 
 provider:

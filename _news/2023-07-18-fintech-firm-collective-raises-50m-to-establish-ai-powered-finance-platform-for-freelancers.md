@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collect
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/"
 type: article
 quality: 63
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Applications open for AWS Global Fintech Accelerator"
+    excerpt: "Amazon Web Services (AWS) is launching its first Global Fintech Accelerator, giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market by leveraging the power of AI/ML and the cloud."
+    publishedDateTime: 2023-07-18T07:00:00Z
+    webUrl: "https://disrupt-africa.com/2023/07/18/applications-open-for-aws-global-fintech-accelerator/"
+    ampWebUrl: "https://disrupt-africa.com/2023/07/18/applications-open-for-aws-global-fintech-accelerator/"
+    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/07/18/applications-open-for-aws-global-fintech-accelerator/"
+    type: article
+    provider:
+      name: disrupt-africa
+      domain: disrupt-africa.com
+    quality: 61
+    images:
+      - url: "https://disrupt-africa.com/wp-content/uploads/2019/11/46600198075_800187a13b_c.jpg"
+        width: 797
+        height: 461
+        isCached: true
   - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
     excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
     publishedDateTime: 2023-07-17T01:40:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-18T05:49:00Z
 originalUrl: "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts"
 webUrl: "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://thepeninsulaqatar.com/get/maximage/20230718_1689659446-844.jpg?1689659446"
@@ -24,6 +25,6 @@ images:
     height: 750
     isCached: true
 
-secured: "AeOHFa+0nGVzvy0JDdAyZfZIQVh7a14bzkIBYs4sYyZVy4wBZK6AzlOP4kplivKutmNTG9hq528vvgb7PXCOLG4MmuCdRgvpLMNQqghtsBpnrOh9cSW7Ivr8kfkiscK0mu9zmeZhdTef29IrSkh9mb/yCV/iupVaq8fwXidabZjQzWMNwudGxlpN+BXQkXMmAQ0N8zuyXs+MmbX+zInHhbrdx43C1jLQc850P+3cV8Zw+VhJDUMNgoHJXsZMB/AGG+IYx62wkj3QC0AKyBjgoDIe75XFfjqa1CqGfSnWlfJp1/+5nbQdQP8HpBEGAYvo887RRJxV3Lw1+Teeq03OFOdqbxEVPb79fIRNmHg/ugY=;2XlffYXLlOcdIvAFX677lA=="
+secured: "cynsAWOu3YLkV20ZNRAZ9MIrMDdxo9tVxrbKr69FWhgMGlbqZL014NTjWAjkMq5gWY9enBjm/cN7EJtuneO8/i083nYOo3Z872ESA885HtuWDInstAC5br3IOeIwG6E7whweZAETLpAWpKS9pLF7HKt+gQPgtTPCisXtgXEYnsKGpHy/6kHNOwFlhlCHphDktcXBl6WcTiEEMKcC2mlpTs9R1aqwIENNxRtswKPegtcrS1isbBEypGcdTA1s8x4RkrVeL4JBSxjqVKmDHlToZcxfBhpGJhVs4Wkp09+2u8c9YjrqxG5LHWJOpUSTHSlvIBLGsXzbmaR6QyZUMD+vVcUeuOEk4J+Yvlj/MhpCcy4JT81u2KjQbc3nsJF6LFvd/uu7XvUwMEgHJMpUHMvQz90yIJPaqZvlCG+TRHRv1T/+VuJsPgQ7wzoShOjPRsvL9UIIJ4zoXfdW/GwZlSfFTFqxofz01k+FZTxUm952SG4SXbGE8Bq+X45XKDCxHRXZfqAEliko9ZNf7FbB4bHe2w==;Uorbm/15RktJLwCLzmH0Pw=="
 ---
 

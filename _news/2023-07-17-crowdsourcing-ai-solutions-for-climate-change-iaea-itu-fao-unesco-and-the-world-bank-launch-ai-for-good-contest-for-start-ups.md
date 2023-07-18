@@ -7,7 +7,7 @@ originalUrl: "https://www.iaea.org/newscenter/news/crowdsourcing-ai-solutions-fo
 webUrl: "https://www.iaea.org/newscenter/news/crowdsourcing-ai-solutions-for-climate-change-iaea-itu-fao-unesco-and-the-world-bank-launch-ai-for-good-contest-for-start-ups"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 4000
     height: 2667
     isCached: true
+
+related:
+  - title: "IAEA and partners launch new contest for start-ups to develop AI solutions for climate change"
+    excerpt: "Read more about IAEA and partners launch new contest for start-ups to develop AI solutions for climate change on Devdiscourse"
+    publishedDateTime: 2023-07-18T06:29:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 46
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_06_2022_17_22_48_2366099.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "+Bdz2qQkQ59xiVpHDNvYbjCdGauCXgdr4eOa5nP2CBUOkfGKnHWgIOCjepEkgB/SN0MGAIULLLDZENPSZJExu72HRVt9UUqAgk3r9wsd28xjspExNu21HEl+6llrnmRSIpBJRW0QFOWLCZtVIr+2DiPhOh1QcS+s9Ov6jN4rlnoDr24NR2c3XevRtWNrIDCiT+UOJDc+uV0whQgUXqBnUvs0kVD9EsiRUt807NhcMibjoOnAQWfpBHAES2qhL+2566zZzdanE/uGNAhAObCvjD12FjaPRU6QXVw8AqGTcaW2Xe0Zb3/YnQpFRN4kXkzkLPQib2BkjgNzkv4yW1brL2+tbHKASu6UqNij61EAdDQ=;pL8+tsPVEzmxCNta751vyw=="
 ---

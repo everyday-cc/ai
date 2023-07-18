@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
+      "title": "Medifakt: Empowering Healthcare through Decentralized Blockchain Technology",
+      "excerpt": "We created a platform using blockchain technology to improve the smart healthcare ecosystem for patients that permits and supports the transfer, transmission, storage, interpretation, second opinion, and evaluation by artificial intelligence of medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/medifakt-empowering-healthcare-through-decentralized-blockchain-technology-1032453660",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/medifakt-empowering-healthcare-through-decentralized-blockchain-technology-1032453660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2155089/Medifakt_Image.jpg",
+          "width": 400,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-join-aws-google-cloud-microsoft-azure-at-free-sans-cloud-security-exchange.md",
+      "title": "Join AWS, Google Cloud, Microsoft Azure at free SANS Cloud Security Exchange",
+      "excerpt": "On 18 August, subject matter experts will speak on today’s pressing cloud security issues at the SANS Institute Cloud Security Exchange event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/O2rQGMAE2weMd1ea",
+      "originalUrl": "https://www.itweb.co.za/content/O2rQGMAE2weMd1ea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/07/SANS-18July2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea",
+      "publishedDateTime": "2023-07-17T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-infosys-edges-higher-after-signing-ai-deal-worth-2-billion.md",
+      "title": "Infosys Edges Higher After Signing AI Deal Worth $2 Billion",
+      "excerpt": "The agreement would provide artificial intelligence and automation led development, modernisation, and maintenance services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lrmhrsa5gfjybs1s_1689659396.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "publishedDateTime": "2023-07-17T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-most-outsourced-coders-in-india-will-be-gone-in-2-years-due-to-ai-stability-ai-boss-predicts.md",
       "title": "Most outsourced coders in India will be gone in 2 years due to A.I., Stability AI boss predicts",
       "excerpt": "Most outsourced programmers in India will see their jobs wiped out in the next year or two, Stability AI CEO Emad Mostaque said.",
@@ -62,7 +202,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -424,50 +564,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-18-teradata-vantagecloud-lake-brings-exciting-aiml-use-cases-to-microsoft-azure.md",
-      "title": "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure",
-      "excerpt": "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-07-17-uk-needs-culture-shift-to-become-ai-superpower-deepmind-co-founder.md",
       "title": "UK needs culture shift to become AI superpower - DeepMind co-founder",
       "excerpt": "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014.",
@@ -666,7 +762,7 @@
       "originalUrl": "https://www.zdnet.com/article/expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1084,100 +1180,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
-      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
-      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
-          "width": 864,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "publishedDateTime": "2023-07-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-protecting-uk-jobs-will-be-a-challenge-says-new-ai-advisor.md",
-      "title": "Protecting UK jobs will be a challenge says new AI advisor",
-      "excerpt": "Protecting British jobs will be a challenge as artificial intelligence systems become more advanced, the new head of the government's AI taskforce has told the BBC. Ian Hogarth said it was \"inevitable\" that more jobs would become increasingly automated. The whole world will have to rethink the way in which people work, he added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66128106",
-      "originalUrl": "https://www.bbc.com/news/technology-66128106",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/82D7/production/_130359433_01h39w5xkrd7yy7xehkxa0vqbp.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66128106.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66128106.amp",
-      "publishedDateTime": "2023-07-16T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

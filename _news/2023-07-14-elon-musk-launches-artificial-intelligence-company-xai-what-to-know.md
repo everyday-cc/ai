@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligen
 webUrl: "https://www.cnet.com/tech/elon-musk-launches-artificial-intelligence-company-xai-what-to-know/"
 type: article
 quality: 64
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
     quality: 40
     images:
       - url: "https://www.gizbot.com/img/2023/07/elon-musk-tweets-twitter-xai-data-scraping-1689400352.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Musk Unveils New AI Startup"
-    excerpt: "Elon Musk is finally starting to talk about the artificial intelligence company he founded to compete with ChatGPT-maker OpenAI. The startup, xAI, formally launched on Wednesday and its goal \"is to understand the true nature of the universe."
-    publishedDateTime: 2023-07-13T14:56:00Z
-    webUrl: "https://www.manufacturing.net/operations/news/22867237/musk-unveils-new-ai-startup"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/07/AP23193758715762.64b0073613ede.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C39%2C1920%2C1080&w=1200"
         width: 1200
         height: 675
         isCached: true

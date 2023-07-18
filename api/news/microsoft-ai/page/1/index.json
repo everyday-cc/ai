@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-18-join-aws-google-cloud-microsoft-azure-at-free-sans-cloud-security-exchange.md",
+      "title": "Join AWS, Google Cloud, Microsoft Azure at free SANS Cloud Security Exchange",
+      "excerpt": "On 18 August, subject matter experts will speak on today’s pressing cloud security issues at the SANS Institute Cloud Security Exchange event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/O2rQGMAE2weMd1ea",
+      "originalUrl": "https://www.itweb.co.za/content/O2rQGMAE2weMd1ea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/07/SANS-18July2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea",
+      "publishedDateTime": "2023-07-17T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-infosys-edges-higher-after-signing-ai-deal-worth-2-billion.md",
+      "title": "Infosys Edges Higher After Signing AI Deal Worth $2 Billion",
+      "excerpt": "The agreement would provide artificial intelligence and automation led development, modernisation, and maintenance services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lrmhrsa5gfjybs1s_1689659396.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html",
+      "publishedDateTime": "2023-07-17T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-most-outsourced-coders-in-india-will-be-gone-in-2-years-due-to-ai-stability-ai-boss-predicts.md",
       "title": "Most outsourced coders in India will be gone in 2 years due to A.I., Stability AI boss predicts",
       "excerpt": "Most outsourced programmers in India will see their jobs wiped out in the next year or two, Stability AI CEO Emad Mostaque said.",
@@ -54,50 +142,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-18-teradata-vantagecloud-lake-brings-exciting-aiml-use-cases-to-microsoft-azure.md",
-      "title": "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure",
-      "excerpt": "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-new-ml-benchmarks-show-best-algorithms-for-training-chatbots.md",
       "title": "New ML benchmarks show best algorithms for training chatbots",
       "excerpt": "As quickly as AI and ML have grown, MLCommons has been updating its MLPerf Training benchmarks. The latest revision, Training version 3.0, adds testing for training large language models (LLM), specifically for GPT-3, the LLM used in ChatGPT. This is the first revision of the benchmark to include such testing.",
@@ -142,74 +186,22 @@
       ]
     },
     {
-      "path": "_news/2023-07-14-microsoft-semantic-kernel-will-support-openai-plugins.md",
-      "title": "Microsoft Semantic Kernel will support OpenAI plugins",
-      "excerpt": "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases.",
+      "path": "_news/2023-07-14-microsoft-soars-toward-a-record-high-after-ubs-turns-bullish-amid-ai-enthusiasm.md",
+      "title": "Microsoft soars toward a record high after UBS turns bullish amid AI enthusiasm",
+      "excerpt": "Microsoft's stock surged toward a record after UBS turned bullis, citing enthusiasm around pending artificial-intelligence catalysts.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
-      "originalUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html",
+      "webUrl": "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-neutral-at-ubs-on-cloud-stabilization-ai-catalysts-2eaff8ea",
+      "originalUrl": "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-neutral-at-ubs-on-cloud-stabilization-ai-catalysts-2eaff8ea",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 80,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html",
-      "publishedDateTime": "2023-07-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-amazon-microsoft-and-google-cloud-services-bet-heavily-on-ai-but-do-their-customers-even-want-it.md",
-      "title": "Amazon, Microsoft and Google cloud services bet heavily on AI, but do their customers even want it?",
-      "excerpt": "\"AI\" may be the two most frequently spoken letters in business this year, but the technology is not as high a priority as one might think when it comes",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "originalUrl": "https://www.marketwatch.com/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-816626/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-is-driving-big-gains-in-tech-but-it-is-not-as-great-a-factor-in-cloud-spending-9bcab5c3",
-      "publishedDateTime": "2023-07-13T14:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T05:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -245,7 +237,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 381,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -834,58 +826,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-06-indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.md",
-      "title": "India's TCS to upskill 25,000 engineers on Microsoft's Azure Open AI",
-      "excerpt": "Azure Open AI. The company also launched its new Generative AI Enterprise adoption offering for clients, making a bet on the rapidly growing artificial intelligence space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
-      "originalUrl": "https://www.reuters.com/technology/indias-tcs-upskill-25000-engineers-microsofts-azure-open-ai-2023-07-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/qlRP4wDgxGCejEtGgfWPucOaawE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HNB4WIPJRRJB3CEUSDP2QDQILM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.md",
       "title": "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI",
       "excerpt": "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI.",
@@ -916,6 +856,49 @@
         "name": "telecom.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-indias-tcs-to-upskill-25000-engineers-on-microsofts-azure-open-ai.md",
+      "title": "India's TCS to Upskill 25,000 Engineers on Microsoft's Azure Open AI",
+      "excerpt": "India's TCS to Upskill 25,000 Engineers on Microsoft's Azure Open AI BENGALURU (Reuters) - Indian information technology (IT) company Tata Consultancy Services on Thursday said it plans to train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-07-06/indias-tcs-to-upskill-25-000-engineers-on-microsofts-azure-open-ai",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-07-06/indias-tcs-to-upskill-25-000-engineers-on-microsofts-azure-open-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

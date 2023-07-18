@@ -40,20 +40,6 @@ related:
         width: 400
         height: 600
         isCached: true
-  - title: "The growing influence of AI on the technology sector"
-    excerpt: "In this ever-changing business landscape, AI is the brain and bawn of revolutionizing the tech industry. Artificial intelligence has enhanced efficiency, accuracy and cost-effectiveness. Everything and anything can be"
-    publishedDateTime: 2023-07-16T11:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/travel/the-growing-influence-of-ai-on-the-technology-sector-56482/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "3JVSKYxb3jzuDFeLQF3zXU0OjkprZRl2MDe7ukMsPmvzPfDljuqAkg6xnU1iVWhyeM0VK8ybujC+ls0Bbz5LDlDuSQwG9H0vtB/UhQfe99mxER/HaV34T27UjhAwm2lhjdmWcdaAymZji0h4SlcqAQMmv2mM462zE5z672QWsg1koE3ZMu2OjIw/95Tu5B5GssERDRz3beAQSCBza3bVuurKO38lOnQHWnfI2pt1Z5rAou2eGTSbaG+ZwElR09fjAGEaNvG9ULy1RX0UKeJCCqjN+bbRf4qc9tj8S+5rzBWpyI3r0ft0g7cax+oFUWJCZGXNP8DsUJjuBoxPY4L8gvPisuYAk8mJBb28Ms5eYvgpC4y9NHVANk0YVPWKiJ0rINoCDbseGKn4+4/CJz57u8QK72h+ZI7xBRGugmrkyxY1AEfwXzJSxRUdcodeG3Y7RCJLg/+TtyNZd1R2ahm0joCXSPiHoiXJCOSsvkqqUK5kxq7lsclrhZsVBf5GYGFKmbN+DefR2qqwk0gYaVKTiQ==;73sq5xZTTNA5c1dJphjXiQ=="
 ---

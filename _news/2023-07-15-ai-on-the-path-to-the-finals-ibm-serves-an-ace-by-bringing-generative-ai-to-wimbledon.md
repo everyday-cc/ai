@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DAC 2023: AI and hardware talent dominate debate"
+    excerpt: "Industry is concerned about shortage of talent to address the chip design and manufacturing needed to address the explosion in demand for AI."
+    publishedDateTime: 2023-07-18T06:36:00Z
+    webUrl: "https://www.embedded.com/dac-2023-ai-and-hardware-talent-dominate-debate/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 19
 
 secured: "VjX5W9jw2HUMa99B0jJLq9bbOTtzBXRaU3KonF0ghPT0f6Q2EASjuRPkE09ZAMXU7BmaB67nCbgvRZYOl8SSinFqvdxWe+x0AwQ/+xIr8PBGOhoHy6ZVBaVhwley77YvUjrAIvS4Eqc8KpYmjo9n9DxfcPg5l4ieV+ITUEJlZ17psWv7rYlDeI+uNNdeKndHs3dLpARTU0FsSIuBTFv4B8pUplEjwgUpH7mrfFLSIllosvo8DieTyxrqaeEu4HT7ooQKc7QE7SR7tdhFw8+whfcQVtMJaZqfVaPN1rZGjYfKDaxnzFPec3AaS7S4Kk2bfvVoQoRkLY74ujgUpkKNFHvZUt8LJ/qF/q2yHbQnHT5Tbwf1YZT1gpfyR+gD0ML3w0azNrK/0snYpTeS84yTBp5XbRRd/FjtKFwhn7/VXaqgISO2JqGrg6HluJO+DJ1XIsdGI7k1KnwYvegJioRvPeEj3Zn+z5S4b5M7Z8KnRx802U83JJO6aQRo5BBvE7BUZY8S/UcYAQH97nFeYl00RA==;NaQCBELQ8kUIcq8u18CKMw=="
 ---

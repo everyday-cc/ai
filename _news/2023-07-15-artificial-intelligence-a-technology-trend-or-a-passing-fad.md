@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The growing influence of AI on the technology sector"
-    excerpt: "In this ever-changing business landscape, AI is the brain and bawn of revolutionizing the tech industry. Artificial intelligence has enhanced efficiency, accuracy and cost-effectiveness. Everything and anything can be"
-    publishedDateTime: 2023-07-16T11:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/travel/the-growing-influence-of-ai-on-the-technology-sector-56482/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
   - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
     excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
     publishedDateTime: 2023-07-14T08:40:00Z

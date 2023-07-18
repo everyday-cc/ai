@@ -42,15 +42,6 @@ related:
         height: 640
         isCached: true
   - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
-    excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring, and peeling avocados."
-    publishedDateTime: 2023-07-13T14:23:00Z
-    webUrl: "https://www.cnn.com/2023/07/13/business/chipotle-avocado-robot-guacamole/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 49
-  - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
     excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring and peeling avocados."
     publishedDateTime: 2023-07-14T02:39:00Z
     webUrl: "https://krdo.com/money/cnn-business-consumer/2023/07/13/chipotle-tests-autocado-a-robot-to-speed-up-guacamole-production/"

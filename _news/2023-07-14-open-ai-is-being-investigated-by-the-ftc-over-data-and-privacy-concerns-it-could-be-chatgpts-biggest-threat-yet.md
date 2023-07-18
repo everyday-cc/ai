@@ -114,38 +114,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta set to release a commercial AI model like Bard and ChatGPT"
-    excerpt: "Elon Musk, in a separate development, has recently launched a new AI company named xAI, with a mission to understand the true nature of the universe. The xAI includes members with prior experience at prominent AI organizations such as Microsoft Research,"
-    publishedDateTime: 2023-07-13T14:25:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-set-to-release-a-commercial-ai-model-like-bard-and-chatgpt-2023-07-13-880934"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/ai-freepik-1689257776.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Meta to release commercial AI model like ChatGPT, Bard"
-    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in"
-    publishedDateTime: 2023-07-13T14:01:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard"
-    ampWebUrl: "https://glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-to-release-commercial-ai-model-like-chatgpt-bard?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/Skill-Lync.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta’s Own AI Bot: Zuckerberg May Soon Release Its Own AI Chatbot Rival To Bard And ChatGPT"
     excerpt: "Additionally, Meta's Founder and CEO, Mark Zuckerberg, along with other executives, have hinted at their intention to create multiple AI chatbots for individuals, advertisers, and businesses across Meta's platforms, namely Instagram, WhatsApp, and Facebook. These chatbots will be powered by Meta's LLMs."
     publishedDateTime: 2023-07-14T06:09:00Z
@@ -175,22 +143,6 @@ related:
       - url: "https://s.abcnews.com/images/Business/elon-musk-rt-gmh-230713_1689261684208_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Setapp introduces a ChatGPT assistant & other AI tools into its service"
-    excerpt: "App subscription service Setapp has introduced new features powered by artificial intelligence, including an assistant, better search, and a new toolkit collection."
-    publishedDateTime: 2023-07-13T14:14:00Z
-    webUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service"
-    ampWebUrl: "https://appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/07/13/setapp-introduces-a-chatgpt-assistant-other-ai-tools-into-its-service/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/55375-112485-setapp-xl.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
     excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."

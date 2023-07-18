@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Terrible Downside of AI Language Translation"
-    excerpt: "To me, AI’s scariest aspect is the so-called Singularity—the threat of a runaway intelligence explosion leaving humanity in the dust. But today’s state of the art in artificial intelligence is already auguring in smaller but still shattering scenarios."
-    publishedDateTime: 2023-07-13T14:03:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 69
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/j7xWIjU2vpPvmgjtQF496l0oHro=/0x43:2000x1085/1200x625/media/img/mt/2023/07/languages_illo_horiz/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
   - title: "This week in data: How to choose the right generative AI use cases"
     excerpt: "Guest Head over to our on-demand library to view sessions from VB Transform 2023. Register Here With the rapid developments in generative AI today, what should your business be focusing on? This week,"
     publishedDateTime: 2023-07-18T01:07:00Z
@@ -102,20 +88,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2023/07/tim-dickson-100856016-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Generative AI & the future of data centers: Part V - The Chips"
-    excerpt: "The Wafer Scale Engine 2 (WSE-2) chip has 2.6 trillion transistors, 850,000 'AI optimized' cores, 40GB of on-chip SRAM memory, 20 petabytes of memory bandwidth, and 220 petabits of aggregate fabric bandwidth. It is packaged in the Cerebras CS-2, a 15U box that also includes an HPE SuperDome Flex server."
-    publishedDateTime: 2023-07-13T14:53:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/analysis/generative-ai-the-future-of-data-centers-part-v-the-chips/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/AI_Feature_Part_5.2e16d0ba.fill-1200x630.jpg"
-        width: 900
-        height: 474
         isCached: true
   - title: "How generative AI can democratize content creation across the enterprise"
     excerpt: "Learn why content creation and productivity is one of gen AI's most transformative powers in this VB Transform 2023 panel."

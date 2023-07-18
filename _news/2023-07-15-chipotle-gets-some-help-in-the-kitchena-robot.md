@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/chipotle-gets-some-help-in-the-kitchena-robot-271b9035"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chipotle tests ‘Autocado,’ a robot to speed up guacamole production"
-    excerpt: "Your Chipotle guacamole may soon be prepared by a robot. Meet “Autocado,” a Chipotle robot designed to perform the more tedious tasks of creating the chain’s guacamole, including cutting, coring, and peeling avocados."
-    publishedDateTime: 2023-07-13T14:23:00Z
-    webUrl: "https://www.cnn.com/2023/07/13/business/chipotle-avocado-robot-guacamole/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 49
   - title: "Chipotle testing 'Autocado' robot to cut guac-making time in half"
     excerpt: "If Chipotle wasn't fast enough for you already, the popular restaurant chain is getting some help from a new robot. The company has teamed up with Vebu Labs to develop its new \"Autocado\" machine, which is estimated to cut guacamole prep time in half."
     publishedDateTime: 2023-07-13T15:27:00Z
