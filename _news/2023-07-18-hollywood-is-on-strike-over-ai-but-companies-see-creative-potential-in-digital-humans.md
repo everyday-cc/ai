@@ -23,6 +23,38 @@ topics:
   - AI
 
 related:
+  - title: "New Showrunner AI: The Sum Of All Hollywood's Fears"
+    excerpt: "It’s both exciting and extremely disturbing, which is why we wanted to share the results of our research in a non-commercial way to show both artists and Hollywood producers that the threat is real.” Saachi said Showrunner is only available to researchers and journalists,"
+    publishedDateTime: 2023-07-18T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/"
+    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5c21ae602538edd47c5e6/0x0.jpg?format=jpg&crop=2214,1244,x0,y179,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
+    excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
+    publishedDateTime: 2023-07-14T06:47:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
+        width: 1177
+        height: 662
+        isCached: true
   - title: "How 2013 film The Congress predicted Hollywood's current AI crisis"
     excerpt: "With US actors striking in part because of the threat of AI to their livelihoods, a 10-year-old, little-seen movie starring Robin Wright now seems eerily prescient, writes Caryn James."
     publishedDateTime: 2023-07-17T23:01:00Z
@@ -37,6 +69,20 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "Fable unveils Showrunner AI to create South Park-like TV shows with you as the star"
+    excerpt: "Fable has released Showrunner AI technology, dubbed SHOW-1, which can generate new episodes of TV shows with you as the star."
+    publishedDateTime: 2023-07-18T17:01:00Z
+    webUrl: "https://venturebeat.com/games/the-simulation-unveils-showrunner-ai-to-create-south-park-like-tv-shows-with-you-as-the-star/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/south-park.jpg?w=1200&strip=all"
+        width: 1200
+        height: 665
+        isCached: true
   - title: "Hollywood actors strike over use of AI in films and other issues"
     excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
     publishedDateTime: 2023-07-14T19:38:00Z
@@ -50,20 +96,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Artificial intelligence could prevent mediocrity in Hollywood: Simon Pegg"
-    excerpt: "Simon Pegg believes that artificial intelligence could prevent mediocrity in Hollywood. The Mission: Impossible - Dead Reckoning Part One has spoken out in support of the technology as he is convinced that the threat it poses may lead to an enhancement of quality in the film industry with humans needing to raise their game."
-    publishedDateTime: 2023-07-16T05:18:00Z
-    webUrl: "https://www.asiaone.com/entertainment/artificial-intelligence-could-prevent-mediocrity-hollywood-simon-pegg"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 36
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2023/20230714_simmonpegg_reuters%20%281%29.jpg?h=7f9be7c4&itok=54b8S6-7"
-        width: 600
-        height: 316
         isCached: true
   - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
     excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"

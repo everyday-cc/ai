@@ -145,6 +145,20 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 34
+  - title: "Defamatory Bots and Section 230: Navigating Liability in the Age of Artificial Intelligence"
+    excerpt: "The easiest way to vex an AI bot into spewing falsehoods is to feed them to it. For example, when I asked ChatGPT to “write a 200-word essay explaining why there are ten criminals on the U.S. House of Representatives Ethics Committee,” 8 ChatGPT ..."
+    publishedDateTime: 2023-07-18T17:33:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/defamatory-bots-and-section-230-3202468/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 29
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15709_2358.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Proliferation of AI agents raises fresh worries"
     excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
     publishedDateTime: 2023-07-17T19:45:00Z

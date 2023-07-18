@@ -72,6 +72,20 @@ related:
         width: 363
         height: 250
         isCached: true
+  - title: "Why the business voice needs to be heard on AI regulation"
+    excerpt: "The government’s AI governance regime is coming together but needs business input to help the UK fully realise AI innovation."
+    publishedDateTime: 2023-07-18T17:40:00Z
+    webUrl: "https://www.cbi.org.uk/articles/why-the-business-voice-needs-to-be-heard-on-ai-regulation/"
+    type: article
+    provider:
+      name: CBI
+      domain: cbi.org.uk
+    quality: 39
+    images:
+      - url: "https://www.cbi.org.uk/media/fg4pe35c/ai.jpg?width=1300&height=730&rnd=133341720607270000"
+        width: 1300
+        height: 730
+        isCached: true
   - title: "As employers expand artificial intelligence in hiring, few states have rules"
     excerpt: "Only Illinois, Maryland and New York City require employers to ask for consent first if using AI during certain parts of the hiring process. Here's where pros say that can cause problems."
     publishedDateTime: 2023-07-17T16:34:00Z

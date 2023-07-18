@@ -30,52 +30,96 @@ images:
     isCached: true
 
 related:
-  - title: "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay"
-    excerpt: "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,"
-    publishedDateTime: 2023-07-14T00:02:00Z
-    webUrl: "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
-    ampWebUrl: "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html"
+  - title: "New Showrunner AI: The Sum Of All Hollywood's Fears"
+    excerpt: "It’s both exciting and extremely disturbing, which is why we wanted to share the results of our research in a non-commercial way to show both artists and Hollywood producers that the threat is real.” Saachi said Showrunner is only available to researchers and journalists,"
+    publishedDateTime: 2023-07-18T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/"
+    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/LCBOe1tGVBIEz4dd9flfVQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c08c39b0-21d5-11ee-a7f6-516698f83aed.cf.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5c21ae602538edd47c5e6/0x0.jpg?format=jpg&crop=2214,1244,x0,y179,safe&width=1200"
         width: 1200
-        height: 630
+        height: 674
         isCached: true
-  - title: "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever"
-    excerpt: "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors."
-    publishedDateTime: 2023-07-14T15:30:00Z
-    webUrl: "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever"
+  - title: "How 2013 film The Congress predicted Hollywood's current AI crisis"
+    excerpt: "With US actors striking in part because of the threat of AI to their livelihoods, a 10-year-old, little-seen movie starring Robin Wright now seems eerily prescient, writes Caryn James."
+    publishedDateTime: 2023-07-17T23:01:00Z
+    webUrl: "https://www.bbc.com/culture/article/20230717-how-2013-film-the-congress-predicted-hollywoods-current-ai-crisis"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05UVqeIZBS68CskksBnJeLB-1.fit_lim.size_1200x630.v1689344605.jpg"
-        width: 1120
-        height: 630
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1dc48.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "Would you let movie studios use an AI likeness of you in exchange for a day's pay? That's what striking actors say was offered to them."
-    excerpt: "Studios' AI proposal regarding background actors appears to be sparking fears of a \"Black Mirror\" scenario involving digital replacements on shows."
-    publishedDateTime: 2023-07-15T10:38:00Z
-    webUrl: "https://www.businessinsider.com/actors-strike-union-ai-body-likeness-scan-background-extras-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/actors-strike-union-ai-body-likeness-scan-background-extras-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/actors-strike-union-ai-body-likeness-scan-background-extras-2023-7?amp"
+  - title: "Fable unveils Showrunner AI to create South Park-like TV shows with you as the star"
+    excerpt: "Fable has released Showrunner AI technology, dubbed SHOW-1, which can generate new episodes of TV shows with you as the star."
+    publishedDateTime: 2023-07-18T17:01:00Z
+    webUrl: "https://venturebeat.com/games/the-simulation-unveils-showrunner-ai-to-create-south-park-like-tv-shows-with-you-as-the-star/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://i.insider.com/64b1bc5b9751e300192a358d?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/south-park.jpg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 665
         isCached: true
+  - title: "Hollywood is on strike over AI, but companies see creative potential in digital humans"
+    excerpt: "As Hollywood protests the impact of generative AI on the film industry, AI video startups see the creative potential of digital humans."
+    publishedDateTime: 2023-07-18T13:13:00Z
+    webUrl: "https://venturebeat.com/ai/hollywood-is-on-strike-over-ai-but-companies-see-creative-potential-in-digital-humans/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
+  - title: "Hollywood actors strike over use of AI in films and other issues"
+    excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
+    publishedDateTime: 2023-07-14T19:38:00Z
+    webUrl: "https://www.newscientist.com/article/2375009-hollywood-actors-strike-over-use-of-ai-in-films-and-other-issues/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
+    excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"
+    publishedDateTime: 2023-07-17T04:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/artificial-intelligence-hollywood-is-offering-actors-a-frightening-script-10970061.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 35
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Collage-Maker-04-May-2023-03-19-PM-9170-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
+  - title: "AI worries spread from UN and OECD to Hollywood"
+    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
+    publishedDateTime: 2023-07-14T17:15:00Z
+    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "7wKjFVe5kbwj0bS9onXo2tNAwLHKuPOELgbcewUrO7j8sq1z/wD0xE0dIPF1luFY0q48SQLwspQt7nHk4chXVBgrRQccZ+hKnCL2xVgE5JsuFI9sowoYhdVrNSoOyoCeDeQ6DhNIiEl7QkxgOsJg3dOb3o2eaFlna0Hnn6ABUKEnud/C7NvneAsilX+Gs656nURw1FA/AOgWgJn/SP7FuEOPrXLcQFtdFYB845UhPK1st8ZTnKGF00449OqyzXyl0E6/DhdNCJ+YNcLUB9UjyLpzT6gzdPfuf9kN5JdpqDUxhrWEuaVJAAUl3FZSKfYqj9oD9Bd7h7vS+tFZ/yIGJT+ozstfI/XB1/Ss+0XCdpw=;n80cWogmj4SOI/gv34uJ3g=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Should You Trust An AI Detector?"
+    excerpt: "As speculation about AI detector accuracy grows, we explore studies that reportedly demonstrate biases and false positives in AI detection."
+    publishedDateTime: 2023-07-18T17:44:00Z
+    webUrl: "https://www.searchenginejournal.com/should-you-trust-an-ai-detector/491949/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/ai-detector-64b6c71b83bed-sej.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "taIB1qBfOABhvkWxoG3tPOJm3NAxKk7AbFF2RRzks4f6Tfpb/usucIqj9+GrCcjIO+ZnT6vclOyuwDWPgicRuh15VPopZNep35pIxfPinuIa1zeoC19988lwJfILBGpFBahEQxvjF3pBZ3lRtPWeYYh+UNtf3ON5ftdoq/D01xWRp8M6GaV5PfVgQ06YXFi5pzqF+SFMwIS7dCTvNHmvfTSI7Vh0nlGUg/CWPljPGN8k7rjSTIp2bLji1XK9g8Ptnykrly2BPqyuBbMRvAt2D0r13z8TYHq+2NEBnQ3OhDXBjAnMQm9O0uGwygSjsyltj2kLrIbuws+TuE6XAoZbc6wA2i6xOnTRUAsOLNnaQHc5PXcd4vASZPdVW/1SMTg4KqzWgvmdRk4ilqNns4rTFz4MJQXlwZ0ylvFK3mA3RoNT5D/rXgnwKwJEHDi/BPYFkvtuqUW16m80/Rx7yQjlLNsDG9a/s/IFg6Eq1EcSEezrCtLdPQZcejhnUDKwN/lOMjayu7qkWBK2N6Ty+YiW4A==;Im1QiQpUks18wgkjEPhl7Q=="
 ---

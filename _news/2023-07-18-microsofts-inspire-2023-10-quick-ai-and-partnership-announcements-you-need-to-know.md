@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft goes beyond OpenAI, makes Meta's new A.I. model available to Azure customers"
+    excerpt: "Meta's new artificial intelligence language model, dubbed Llama 2, will be available on Microsoft's Azure cloud-computing service."
+    publishedDateTime: 2023-07-18T14:47:00Z
+    webUrl: "https://www.cnbc.com/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/microsoft-makes-metas-new-ai-model-available-to-azure-customers.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 111
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107268471-1688758329171-gettyimages-1259816455-MICROSOFT_COURT.jpeg?v=1689698925"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Join AWS, Google Cloud, Microsoft Azure at free SANS Cloud Security Exchange"
     excerpt: "On 18 August, subject matter experts will speak on today’s pressing cloud security issues at the SANS Institute Cloud Security Exchange event."
     publishedDateTime: 2023-07-18T06:32:00Z
@@ -158,6 +174,54 @@ related:
         width: 400
         height: 234
         isCached: true
+  - title: "Meta, Microsoft open access to next gen AI-language model Llama 2"
+    excerpt: "US technology giant Meta on Tuesday introduced Llama 2, the next generation of its large language model (LLM), which will be open source and free for both research and commercial uses. An LLM is an artificial intelligence (AI) model that has been trained with deep learning algorithms to generate and generally"
+    publishedDateTime: 2023-07-18T16:46:00Z
+    webUrl: "https://www.laprensalatina.com/meta-microsoft-open-access-to-next-gen-ai-language-model-llama-2/"
+    ampWebUrl: "https://www.laprensalatina.com/meta-microsoft-open-access-to-next-gen-ai-language-model-llama-2/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/meta-microsoft-open-access-to-next-gen-ai-language-model-llama-2/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 76
+    images:
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/1a76ba64fd777ce98087abd57bd5bee26e9f58e0w-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Meta, Microsoft team up to offer AI model Llama for commercial use"
+    excerpt: "The model, which Meta previously provided only to select academics for research purposes, also will be made available via direct download and through Amazon Web Services, Hugging Face and other"
+    publishedDateTime: 2023-07-18T17:19:00Z
+    webUrl: "https://nypost.com/2023/07/18/meta-microsoft-team-up-to-offer-ai-model-llama-for-commercial-use/"
+    ampWebUrl: "https://nypost.com/2023/07/18/meta-microsoft-team-up-to-offer-ai-model-llama-for-commercial-use/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/18/meta-microsoft-team-up-to-offer-ai-model-llama-for-commercial-use/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/mark-zuckerberg-microsoft-chatgpt.jpg?quality=75&strip=all&1689685038&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Microsoft and Meta announce Llama 2 open source generative AI tool"
+    excerpt: "At Microsoft Inspire 2023, Meta and Microsoft announced the availability of Llama 2, the latest version of Meta's open source large language model, on Azure and Windows."
+    publishedDateTime: 2023-07-18T17:01:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2527973-microsoft-and-meta-announce-llama-2-open-source-generative-ai-tool"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2527973-microsoft-and-meta-announce-llama-2-open-source-generative-ai-tool?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2527973-microsoft-and-meta-announce-llama-2-open-source-generative-ai-tool?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_07_2023_22_21_02_8107165.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
     excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
     publishedDateTime: 2023-07-17T15:07:00Z
@@ -173,6 +237,20 @@ related:
       - url: "https://cdn.benzinga.com/files/girl-kickboxer.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Inspire 2023: The Biggest News In AI, Copilots, Azure"
+    excerpt: "These are among the biggest announcements to come out of Microsoft’s annual partner-focused Inspire event this year. Inspire 2023 runs from Tuesday to Wednesday online. Solution providers and other partner business types have proven essential to Microsoft bringing AI to market and getting more Azure customers, according to the vendor."
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-inspire-2023-the-biggest-news-in-ai-copilots-azure"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 69
+    images:
+      - url: "https://www.crn.com/resources/0283-1885ad0cd13a-8613ed69c44e-1000/microsoft-inspire-intro.jpeg"
+        width: 611
+        height: 458
         isCached: true
   - title: "KPMG, Microsoft enter landmark agreement to put AI at forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across several business-critical areas including workforce"
@@ -269,6 +347,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft debuts Bing Chat Enterprise, as AI wars rage on"
+    excerpt: "Users can request information about spreadsheets, summarize meetings, and more, as well as access Bing AI web searches. Microsoft previously launched its Azure AI Studio, which allows companies to create their own AI-powered copilots, apps that pair a firm ..."
+    publishedDateTime: 2023-07-18T15:46:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-debuts-bing-chat-enterprise-153024576.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/F5VhTeMroMGieA4iOdBkqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/b983472aa5713b9ed094457a488b5fee"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Partnership with Microsoft brings Splunk to Azure Marketplace"
     excerpt: "During its first keynote at .conf23 in Las Vegas, Splunk announced that it has formed a strategic partnership with Microsoft. With that, Splunk lands in"
     publishedDateTime: 2023-07-18T04:55:00Z
@@ -296,6 +388,62 @@ related:
       - url: "https://www.healthcaredive.com/imgproxy/kOWfD2ShjgQn4cjAE4UozSetVvZ8l6nsoI0nDML5F-w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNTMzNTc0MTAuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Microsoft Advances Copilot and AI Products at Inspire Event"
+    excerpt: "Additionally, Microsoft touted the use of Copilot in Power BI with Microsoft Fabric, its AI-enabled collection of data platform tools (which includes Azure Data Factory and Azure Synapse, for example). Microsoft Fabric is now at the public preview stage ..."
+    publishedDateTime: 2023-07-18T17:05:00Z
+    webUrl: "https://redmondmag.com/articles/2023/07/18/microsoft-advances-copilot-ai-at-inspire-event.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CloudsSkyGrainySmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Microsoft builds on the cloud journey with Azure migration and cloud-native tools"
+    excerpt: "To provide enterprise businesses the tools needed to give them a leg up when migrating to the cloud, Microsoft Corp. today announced two new Azure offerings during Microsoft Inspire 2023, “Azure Migrate and Modernize” and “Azure Innovate,"
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://siliconangle.com/2023/07/18/microsoft-builds-cloud-journey-azure-migration-cloud-native-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 49
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/AdobeStock_314238595.jpeg"
+        width: 3600
+        height: 1800
+        isCached: true
+  - title: "Meta and Microsoft join forces to bring Llama 2 language models to Azure and Windows"
+    excerpt: "Meta and Microsoft have announced their collaboration at Microsoft Inspire to introduce support for the Llama 2 family of large language models (LLMs) on"
+    publishedDateTime: 2023-07-18T17:01:00Z
+    webUrl: "https://www.onmsft.com/news/meta-and-microsoft-join-forces-to-bring-llama-2-language-models-to-azure-and-windows/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 47
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Meta-and-Microsoft-join-forces.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Microsoft Inspire: Satya Nadella reveals new Microsoft AI Cloud Partner Program in keynote speech"
+    excerpt: "Satya Nadella, chairman and CEO of Microsoft, revealed the new Microsoft AI Cloud Partner Program and other artificial intelligence opportunities for partners during the Microsoft Inspire keynote, which took place on 18 July."
+    publishedDateTime: 2023-07-18T17:10:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-inspire-satya-nadella-reveals-new-microsoft-ai-cloud-partner-program-in-keynote-speech"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 41
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4489/ISV_Success-1-1200x638.jpg"
+        width: 1200
+        height: 638
         isCached: true
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
@@ -339,6 +487,15 @@ related:
         width: 1600
         height: 1201
         isCached: true
+  - title: "Microsoft to charge premium for generative AI features"
+    excerpt: "Microsoft is to charge $30 a month for generative artificial intelligence features in its widely used productivity software, slapping a bigger premium than expected on a technolog"
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://www.ft.com/content/a0bc149f-404b-45c3-836c-2297035526c9"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-07-16T04:12:00Z
@@ -385,6 +542,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "K44g2bGwQ48ZmxNE9SoyTQ9svyhFjBT/FpEujxyTNEwrCm+JQLW2Y8l7ANDvkfMNUsUPCDDYpq+re8XjN4XV6pZ2DJzqVWmF/PnNPrGhB/VJchrSvpfn9nVPMz7g+p5vZ8ULVK8lTJsSAoZ7SM5s9QRYQZ+LjGCSw8f4aTtpdTai2Dzzrt/RMK72wDPrY7K5BvqOFrhLWIXUT6u+7eIoAv5H5+BILN+M57BInucKgZqJpVl6SQFFv4UI/cRXVs8axsRNGdTwQiLsV+73Nxzgcvlkru1aO9QQxc3bBW68QBr4nqukMj1l2cR6+L3x3G/epeVZnDe1+J4uhsT1HJmLSLaXTkTcH04N/WneKZ7A7Bg=;GAkrXUv9Uz1hlN2WozdxcA=="
+secured: "aO9l/WjnDOe8mSArDRiL4JuJNndYzqo8tdpUMMRXXeyRN6SiX5G++43cvAFNqF1mLbdw24mnYHutO3YCwYQxtOwGkYJ5BfOWU/IrWDwl6AuipHyiIArAzDBNsH9vKbq9d+4W1b9hQKNpamNaB4MeQoJOdptHfnQLut/xjlnf3k6uppRyfsNuQWUFCn2R5+szhs9bcLjAcWSIb1h5ONDcsupfVprRKllrmuiREpoNYos88zDUz7p7nDB4ZtjDAFlP3ebQOAWzTMB7pE5qkHIPweh5WdkJ2jJp0h5BVZEUb1eSN5dvZvR7rtdUXG4GXcNnChoQYZwGAWhOQ5lZJAVFp1vEip8pxl9qiRg0wVH3LYH+JQ7oyDB4USiKfR21HpBnZhxsXyLMEEjID3E8c2/w9fvIjz3lH83vj/ja8ssZdvTFtRayVCwsbM6gavZgIhRxFy7Y59l1t6upPfM5IiEds3l7Y23bsJAjt/t5K79DnGZeJMxdvuPx0eunjZuRQmkMmp8d+pLbEXdU9mVY8BmyoQ==;hI7vTfSlx8K+ijmHjSVxAg=="
 ---
 

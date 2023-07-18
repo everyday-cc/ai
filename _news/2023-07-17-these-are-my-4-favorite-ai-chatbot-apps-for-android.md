@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
     quality: 69
     images:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6f769778-2243-11ee-b9dc-95034bbd78f3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google's Bard AI Chatbot Now Supports Over 40 Languages"
-    excerpt: "Google made its Bard AI chatbot available to the public in May, during Google I/O 2023, but only in English, Japanese and Korean to start, with more promised. Two months later, the tech giant's ChatGPT competitor now supports more than 40 total languages."
-    publishedDateTime: 2023-07-13T23:38:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/googles-bard-ai-chatbot-now-supports-over-40-languages/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/7d80e9ba429be13bbb37620bf1ff8765c4b26bdb/hub/2023/04/03/435e254d-8632-418e-9a4e-bf7b66cc9003/230331-yt-howto-bard-google-ai-v04.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

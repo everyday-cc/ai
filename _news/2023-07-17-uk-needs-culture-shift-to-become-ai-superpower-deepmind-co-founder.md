@@ -3,22 +3,26 @@ category: news
 title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
 excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014."
 publishedDateTime: 2023-07-17T16:53:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
+originalUrl: "https://www.bbc.com/news/technology-66166236"
+webUrl: "https://www.bbc.com/news/technology-66166236"
+ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
 type: article
-quality: 74
-heat: 94
+quality: 104
+heat: 124
 published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png"
@@ -56,6 +60,6 @@ related:
         height: 675
         isCached: true
 
-secured: "UcnkHOopWhggg91R4dBAWxdqbQsOnuc7qxFzieAXD3LTXK5MZE0HZ0lpLVzttM/UX/Sasfj9xXL1KhE0FJlcxHHWPhQgcLBcn2Ph35lysjynxZZBb2w5RKfMoHrhEnkpCmNmsjelVBR7dtIWecFTjkIheQeMfkJDduc99BGPuMdfCafnZ/oXwq+ITZDJQK320ZUgNrFsto2Fzk//RnO0KocDAslZYhSox8EIukyGknlr1e7ZxNx1WuEvGpqSUoYDuqHZ1ZbnlpK0BzOO0JwKzZuu4h9rdwm5G7ZW0NMyDIhoqz8Oo6I+79eBzhM0fYFScFtddCEPDiJ32k7GBvHkDU3/32rEQU8fOOw9vTSL9ZM=;aTL48JHIs8i1JFZSlfCAow=="
+secured: "MkyKPEe1bFxeiTXMBNT3INe1gJA6i2NlXM0RvCbD2rRc71K4DIz1mh3eaOL0lFiox2aDdduQWCAHN5n7rC2PZgPpzqdekq6PhZFPNhhIYzFjvFp5EhcrwJ3qO0D2FsTWSwGX2v0TGcl+knmrXHEz+yvQbHcsoqI/FxVmbMcrJMP0xgtLzQxAfONva1X/7dxxUvFipzEfO/0pbgz8WukjLrzzrB3jElzhxurTL2SdSu8cMrUmgLf6QToYTqtucF75Vwpy8Tj1NK6ylSXX7p4nDoieQmBIsqJOz8aEKjRIfKAYJ6c79bws5iEenvAqVx/y3wg9hWVm+Cm4dgKRdnrLDH5vKbEVChyMl+llXlh5uKk=;BQ++pS3MzUunIPfmpdDenA=="
 ---
 

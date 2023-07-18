@@ -67,20 +67,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Elon Musk launches his own AI company to compete with ChatGPT"
-    excerpt: "(ABC NEWS)—Billionaire entrepreneur Elon Musk launched an artificial intelligence company called xAI on Wednesday, vowing to develop a generative AI program that competes with established offerings like ChatGPT. The company employs some engineers who formerly worked for major companies in the field like Google and OpenAI, the xAI website said."
-    publishedDateTime: 2023-07-13T23:42:00Z
-    webUrl: "https://www.abccolumbia.com/2023/07/13/elon-musk-launches-his-own-ai-company-to-compete-with-chatgpt/"
-    type: article
-    provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2023/07/g/t/wirestory-2e626553cf6333f642fb02fe247707ca-16x9-992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "LRPhdtTFYZqZXjqDGeOGWbw5ILDR7cGwNgdlnFZKuz5je1e9OKHRpVXjDwFrdURVnm76hNigsJCNk1umvGeqDqWiP2l0PB/VLtnCuaXJL7B1OVz+L2qurPBpK37p05w29dpxgRBes/dC5NkDfFGp/hrXws1GbWaS3qWk7B+N9xvRNyx6ihFe3/Uxpag6qbCofSKlAcbE1aPAQ23mTyABBPyhrxV50PUajwZUk62Xr0MXSza0JDzqcD+SlQAxfcXj8QRHQuRSVdz6ZJ1YzqDis/himYOeH0SCbdRypbmQI/VReoNorWYYXEDniDYslt0UgplpJp5Wx4us7dqxxL1TLOe4Im5hKE76NR4jhtOM73HF8hhhm2kN56Txdm3y7z0E5ZDif2TWHjqk9wfnjoCQ3IbwDvX3oO9LZW8OdZNOEgTYzyk/viL2VHCWYZ102DLF48/FqXK/6mm/75uC+CPIBTZuUlcduoAQrY+U8a/FOZthcmDQLVluNI9tlEwOgG5+IMtHVxRavA3gsKIKzlovdQ==;5VyPJVKW0tjNxncp7YtpGg=="
 ---

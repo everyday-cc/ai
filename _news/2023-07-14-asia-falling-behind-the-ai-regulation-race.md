@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Why the business voice needs to be heard on AI regulation"
+    excerpt: "The government’s AI governance regime is coming together but needs business input to help the UK fully realise AI innovation."
+    publishedDateTime: 2023-07-18T17:40:00Z
+    webUrl: "https://www.cbi.org.uk/articles/why-the-business-voice-needs-to-be-heard-on-ai-regulation/"
+    type: article
+    provider:
+      name: CBI
+      domain: cbi.org.uk
+    quality: 39
+    images:
+      - url: "https://www.cbi.org.uk/media/fg4pe35c/ai.jpg?width=1300&height=730&rnd=133341720607270000"
+        width: 1300
+        height: 730
+        isCached: true
   - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
     excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
     publishedDateTime: 2023-07-14T08:40:00Z

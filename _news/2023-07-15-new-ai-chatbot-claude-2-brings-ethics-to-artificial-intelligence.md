@@ -89,20 +89,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "Google's Bard AI Chatbot Now Supports Over 40 Languages"
-    excerpt: "Google made its Bard AI chatbot available to the public in May, during Google I/O 2023, but only in English, Japanese and Korean to start, with more promised. Two months later, the tech giant's ChatGPT competitor now supports more than 40 total languages."
-    publishedDateTime: 2023-07-13T23:38:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/googles-bard-ai-chatbot-now-supports-over-40-languages/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/7d80e9ba429be13bbb37620bf1ff8765c4b26bdb/hub/2023/04/03/435e254d-8632-418e-9a4e-bf7b66cc9003/230331-yt-howto-bard-google-ai-v04.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta’s Own AI Bot: Zuckerberg May Soon Release Its Own AI Chatbot Rival To Bard And ChatGPT"
     excerpt: "Additionally, Meta's Founder and CEO, Mark Zuckerberg, along with other executives, have hinted at their intention to create multiple AI chatbots for individuals, advertisers, and businesses across Meta's platforms, namely Instagram, WhatsApp, and Facebook. These chatbots will be powered by Meta's LLMs."
     publishedDateTime: 2023-07-14T06:09:00Z

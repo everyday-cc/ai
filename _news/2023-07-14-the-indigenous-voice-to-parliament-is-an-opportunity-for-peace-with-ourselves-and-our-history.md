@@ -51,6 +51,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indigenous voice to parliament No campaigner Gary Johns says white settlement ‘a gift’ to Aboriginal Australians"
+    excerpt: "No campaigner Gary Johns says most Aboriginal people are “grateful for that gift” of modernisation and defended the work of churches and their involvement with the Stolen Generations, in comments made while campaigning against the Indigenous voice to parliament."
+    publishedDateTime: 2023-07-18T17:51:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 18
   - title: "Young Australians must vote down the Indigenous Voice's 'emotive' and 'abstract' rhetoric unless they want it to come back and haunt them"
     excerpt: "If I was to shout, “I’m against the Voice to Parliament!” in Federation Square, how many young people who overheard me would immediately shout back, “Yeah, because you’re a bigoted racist!”"
     publishedDateTime: 2023-07-14T19:59:00Z

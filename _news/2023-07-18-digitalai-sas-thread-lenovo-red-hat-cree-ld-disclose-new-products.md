@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red-hat-cree-ld-disclose-new-products/?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,31 @@ images:
     width: 590
     height: 332
     isCached: true
+
+related:
+  - title: "Lenovo unveils data management solutions for enterprise AI"
+    excerpt: "These all-flash arrays are designed to simplify AI workload enablement and unleash the value of data. The company has also revealed two integrated and engineered ThinkAgile SXM Microsoft Azure Stack servers. These provide a unified hybrid cloud option ..."
+    publishedDateTime: 2023-07-18T17:51:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Lenovo-Logo.jpg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Lenovo Unveils New Data Management Solutions to Enable AI Workloads"
+    excerpt: "Lenovo (HKSE: 992) (ADR: LNVGY) announced its next wave of data management innovation with new ThinkSystem DG Enterprise Storage Arrays and ThinkSystem DM3010H Enterprise Storage Arrays, designed to make it easier for organizations to enable AI workloads and unlock value from their data."
+    publishedDateTime: 2023-07-18T16:54:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/18/9849960.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "kko2sG1aQrMnw1yexEzcR1QXNlOkwVt1BbGze1llgXhaZUX9fzp+Zq3dllJzIHrcJzIfVDpFziH2qNvdhY7MEqsd9rbqC/6eFlLZ03EZ1xaqKIi0yvwcNKMzk6eaRo6VIBSfwoYXNfdm8xPdX2EVQGF+dbqCnC/O89wL57fKXRW82dCP4nUMNOBkq3i5YVbmxLNZjbPFh6n4A3BlEuTwEAhfe43KMg3AvILCaSXs4rbgFagm3MuaHsvseqb6gOEYDWqtfmSTJ7aWOX01UcLEErko08Gf7Z92sMxzdUp5lj6Ud75mI950xjbPKqDwwDgns0jMtbcYo844qylnwSGrjFJlPgz3hh+vgoGLRL97W5Y=;l5ZREpJBtVBbaJlktFAIcA=="
 ---

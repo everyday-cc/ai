@@ -1,29 +1,29 @@
 ---
 category: news
 title: "StrikeReady Sweeps 2023 Golden Bridge Awards, Winning Startup of the Year in AI and Security Categories"
-excerpt: "StrikeReady, an AI-driven security company, announced today that it has won two Gold 15th Annual 2023 Golden Bridge Awards for both Startup of the Year in Artificial Intelligence and Startup of the Year in Security Software. The rigorous judging process ..."
-publishedDateTime: 2023-07-18T10:18:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/strikeready-sweeps-2023-golden-bridge-awards-winning-startup-of-the-year-in-ai-and-security/article_fe605085-4335-5a9b-950f-d7bd12d63828.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/strikeready-sweeps-2023-golden-bridge-awards-winning-startup-of-the-year-in-ai-and-security/article_fe605085-4335-5a9b-950f-d7bd12d63828.html"
+excerpt: "StrikeReady, an AI-driven security company, announced today that it has won two Gold 15th Annual 2023 Golden Bridge Awards for both Startup of the Year in Artificial Intelligence and Startup of the Year in Security Software."
+publishedDateTime: 2023-07-18T09:58:00Z
+originalUrl: "https://www.wvnews.com/business/strikeready-sweeps-2023-golden-bridge-awards-winning-startup-of-the-year-in-ai-and-security/article_62f985ca-d7c6-5f29-bbb5-731f6fc54e4d.html"
+webUrl: "https://www.wvnews.com/business/strikeready-sweeps-2023-golden-bridge-awards-winning-startup-of-the-year-in-ai-and-security/article_62f985ca-d7c6-5f29-bbb5-731f6fc54e4d.html"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: wvnews
+  domain: wvnews.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/6/06/606821c3-758b-5063-986b-25300222f060/64b6657245edd.image.jpg?crop=612%2C321%2C0%2C145&resize=612%2C321&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/f/9b/f9b1cf83-2228-5e52-9da8-5a4b42bbe8db/64b665a6d33e3.image.jpg?crop=612%2C321%2C0%2C145&resize=612%2C321&order=crop%2Cresize"
     width: 612
     height: 321
     isCached: true
 
-secured: "W84ZW2xMaijpQz55YVUyVGyw7lM+uI1m+fFUkna56ID0Fd8UulQpGGexBj8jSyeZyTHH/bTiwTvYaxUbOgR+1n6f/6epviFcVEbqRTymZsQEKXcs5USNACAQjKE3lZa1KusHLjlIS3bn31F81qHiq6glyd+9K9gBFgXmimIeoSu7UhdtNh4RAqqk9Q3QJnP180GHgBDh2SYFNvxZV5vvf/oOKyi5xd2H9+ICJwtopna6kd5f4hqOPtUeTPjBTnjFwz3ys88QS4NiVqLE2QsH0JaXq8aFfS30++bYUc18RGCzexGHpSn/d6n6J2/WQJp4LzDumA5h5LuVDgpXs9Jj5Pew4ciMa9ZfDKBFDs2F1+4=;wqtGncQuMZc9FSZpoYzsZQ=="
+secured: "4XY89Ai3sILf9e3gIaUoexBO/OxMrefD2cDT2zWWwR94XgjEIFYRdeQiFy3PvqaqfZczeEpxbMrIaHDENzLXTvYaUqbcPtoTsLiDH55Oi1YhdQLJ3eFyQLgXlmUEW7gbYq8khHW/DbPVW2NAvi7oLXRdnoolEG5J7wx3VBeDSDGoLU9uWOvJRDrdHoKGcl4YGQlTqYz2rX9Pub7Jbr4iPDpm5YnKbfXlMJtfxXX8U1IDiS6S8b5scEMNxBIZljy8n3VYtWBRD0BbuOlVmXbL7xIKd7EFtrFRUINw0zqgu3TrEG3vYrw5W1WtofhgnSgESk6bV7OxKEngQVxSAwWWGsi9KxCTgfjdasysxT+MVGw=;CIPm00oxoOzGn7U6roBrlQ=="
 ---
 

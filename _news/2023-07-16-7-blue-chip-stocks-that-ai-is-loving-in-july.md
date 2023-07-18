@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "3 Doomed AI Stocks Destined for Disaster"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"
-    publishedDateTime: 2023-07-14T12:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-doomed-ai-stocks-destined-for-disaster-1032447370"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "7 Hypergrowth Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some stocks have skyrocketed year to date. Indeed, shares of some technology"
     publishedDateTime: 2023-07-14T23:37:00Z

@@ -23,42 +23,45 @@ topics:
   - AI
 
 related:
-  - title: "7 Blue-Chip Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right"
-    publishedDateTime: 2023-07-15T19:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
+  - title: "2 Top AI Stocks Ready for a Bull Run"
+    excerpt: "Semiconductor companies will play a central role in adopting AI as advanced chips are needed to train large language models and also for running inferences on the trained models. For instance, OpenAI's popular chatbot, ChatGPT, was reportedly trained using more than 30,000 graphics processing units from Nvidia."
+    publishedDateTime: 2023-07-18T15:27:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "3 Dividend Stocks That AI Is Loving in July"
-    excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-14T13:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740040/artificial-intelligence-ai-on-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
+  - title: "Meta’s latest AI model is free for all"
+    excerpt: "Meta is going all in on open-source AI. The company is today unveiling LLaMA 2, its first large language model that’s available for anyone to use—for free."
+    publishedDateTime: 2023-07-18T15:59:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
-  - title: "3 Quantum Computing Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Quantum computing is still a relatively nascent technology. If developed"
-    publishedDateTime: 2023-07-17T10:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-quantum-computing-stocks-that-ai-is-loving-in-july-1032450903"
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/llama2-business2.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Build a Winning AI Strategy for Your Business"
+    excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."
+    publishedDateTime: 2023-07-14T12:08:00Z
+    webUrl: "https://hbr.org/2023/07/build-a-winning-ai-strategy-for-your-business"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "7 Hypergrowth Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some stocks have skyrocketed year to date. Indeed, shares of some technology"
-    publishedDateTime: 2023-07-14T23:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hypergrowth-stocks-to-buy-1032448493"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
 
 secured: "lryg0dpQ3sJ+8V9hj5cnAlZUCSfgCHnbgsEq9vimqLrypuFSNIEzJXqZMeko+og2nUaU119KV/Hl4ulGXBc0MnLQFQ715haStfoBMdBhW1kjPcJkadSgfYN/FYzN6GT8nkwDNcOq34jcfCJgzPGj8ueOyOp5XOsFoIuFthSlF5XkWyH7NdqAUmcTDIZ4PXV9aRm8eLr8SjJNOsrrpK68bhYHsJK0uomvEetPwMib+Vmi+gUuGGKoeMFZ40TbzkHxxVmEV60jOAXM5+Gp/IOhWUDM7IRqKVRLFXEl3oi7WFYBEZHWRSi6a4aLMuqshLO8+UoaXWNDjYQ4WpkqNCbOTEKigSIzY3iC33/V9gc7cVuCQKB8ccoRC/JzsELu+RfHV/msESkmcQnGaTS3vNiYDO+AE80TJHiDnn1Xvbj2rHvNK+YJhY+W62nBDVS0HkxA9Uu6Vo7lILJ76iFOVHJF9igIfaBmBPqE6+Rdy2WmsoXkER6CEazvhqNwk2pRu6xBMaK5UqYqQWN8HOfrjr6ZuA==;heH0OywSSojNoeB5/B9XoA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94016"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indigenous voice to parliament No campaigner Gary Johns says white settlement ‘a gift’ to Aboriginal Australians"
+    excerpt: "No campaigner Gary Johns says most Aboriginal people are “grateful for that gift” of modernisation and defended the work of churches and their involvement with the Stolen Generations, in comments made while campaigning against the Indigenous voice to parliament."
+    publishedDateTime: 2023-07-18T17:51:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 18
   - title: "The Indigenous voice to parliament is an opportunity for peace with ourselves and our history"
     excerpt: "People with good intentions on both sides have launched an ocean of rhetoric and polemical squabbles, debating whether the voice is the best response to structural disadvantage."
     publishedDateTime: 2023-07-14T09:09:00Z

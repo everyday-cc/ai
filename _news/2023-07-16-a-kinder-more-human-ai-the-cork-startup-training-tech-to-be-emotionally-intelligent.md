@@ -40,20 +40,6 @@ related:
         width: 838
         height: 471
         isCached: true
-  - title: "The pros and cons of AI and how we must stay human"
-    excerpt: "AI is going to impact your life significantly and soon. The World Economic Forum says a quarter of jobs will be impacted over just the next five years as a result of technology and digitalisation. So where does this leave leaders and their teams?"
-    publishedDateTime: 2023-07-14T09:34:00Z
-    webUrl: "https://www.thehrdirector.com/business-news/digitalisation/pros-cons-ai-must-stay-human/"
-    type: article
-    provider:
-      name: theHRDIRECTOR
-      domain: thehrdirector.com
-    quality: 39
-    images:
-      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/01/Digital-Technology-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "sBUQGBPkC3kHsgHp/xJ1PDaINMpWOyxTxVPvDBUHDXefJov03oBmsH0/HnWfWd1V/Hd/NNVUyDKYP/JwE2A8w5HPV7NDid+wZyDpIU0cTjBmANTzuNnD2jWi+I7fRUhEJq+Z+Wa56bReGl1J5c4otgCDYdEseB8ZL/UOt7tg0BsYek1c2YEeOAu2/xEqqQWtV3YEgyi9qQsL+NLhQPp29v8sg1cb1G11A303pJ9ev4T4dKsmDOtlE8ZHW43RvygGgiVMIMRECt3xHL++A3/086g1TTTXM7r8fz43/rFR9+2Keq5q9dD9HbQRg5lWnewHf5bkJaNNTR0aXjCk8gfD6OJUb1rJQoo7Oy6GOoCH+/M=;LXZy5FgHUoYFQ0ovntVmGQ=="
 ---

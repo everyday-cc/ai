@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aac
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2018/03/shutterstock_657839185-2-1-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "UN chief warns of risks of artificial intelligence"
+    excerpt: "UN Secretary-General Antonio Guterres on Tuesday warned of the risks of artificial intelligence AI and called for a race t"
+    publishedDateTime: 2023-07-18T17:53:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273903016/un-chief-warns-of-risks-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "FisHEytwrhBtEzVI+iRv7cSJOW7X3ohtLRYPtH+pcDONy+WI97cWklvjKJI5DuEwaPodiZ0arfInL2f2wVgWQfhRZm308wvKOhi1PmbSmJ0vNfQHrGllReEacEIR50bJGfncjqh8Mo3dpqRFUu6wwV/ha+EKtDMDvE7F/P+NyqCIBjacl7XIAw4MXAl9C6So/+IQrbmTwfUMwL4f5coF7OaRS60UEkKkW/M4f/Wv3GtYZ+KCAB9CtEWjHUebUDJtpLsXEzR8KN/OhUfhFWit0xt0SNHq9u+zK196NPhE2oIAvLCvJBh6/fsoiDqIT3JdTF+J2wcgWutvMM3sj6qdZnoSen0q8rOGVrvv9mzQzWl/Q8bvUGb0ZNYaCnasVD+3MaVojFrQsNPFRjXk/pP2cdSv7no5uqLa8uJKNn/k/WoI4gCsX7flJ3bjwmV7z5bM/Yh3gkmd7GCPVun3dnpJ4QCRc5NPH9OnfqLNa+RLH4sQksz+PVC0iE8hewESF/vvE2aE7nSPVcW0pqz5MVE3Zg==;YrQYxuDIc+jEeJIHjuXhRw=="

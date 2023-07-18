@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/why-ai-detect
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/pic10516.jpg?itok=K3tPhtvK"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Should You Trust An AI Detector?"
+    excerpt: "As speculation about AI detector accuracy grows, we explore studies that reportedly demonstrate biases and false positives in AI detection."
+    publishedDateTime: 2023-07-18T17:44:00Z
+    webUrl: "https://www.searchenginejournal.com/should-you-trust-an-ai-detector/491949/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/ai-detector-64b6c71b83bed-sej.jpg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "ZyCisZNK0oq6Zc6LsNDZrBsskakn+CbM2g1Rr3SGanPAscqPh5tWjTOSzsWdxqSd5oxWs8equIht7s1RcTYEwlYPZDxHndVnVbzed7/Q3ftvG68hWPL5tizYXHupJQjbAyTB4/vuxoozqjSFdGGqP4Ilqmrhzc/p+32VhgKkJVkJBKq41KVEVA7taXb72Db7lCUXio26GtKuZPu8t5cUuaZ6X91eIsdwpefv+w3EQRnMqFXm2C/O5Bu2FJi3d5ANhx/2j1iPBoLdrGKpiYorArlEAfi3y1HuB9F/12ZxDfPgkJZqDCCUgvE0LbcvtI62QRGfBt6k7sa2Lki5/x2yc3EzGiUNJRkSId82hKK1ijVNq+FhbDBXUiPLM81KK1mPIrRf1lzPhRLxfhiGVDrnXl/0MrCHQv2LFJJW8t1ftt4BZIZJC1RA/zQuA7N8Hg1ssNmG8AbYZ7pz0xAc+u0iZlVJZSrjciqHgaVfPdw5o/x1BCnmKFO+zjff/lV3IiZIR8jP6xlA9yxHJm6QPz804w==;n6vkm96G6IRreKr07XDjQg=="

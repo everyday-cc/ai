@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China says generative AI rules to apply only to products for the public"
-    excerpt: "China published measures on Thursday to manage its booming generative artificial intelligence (AI) industry, softening its tone from an earlier draft, and said regulators would seek to support development of the technology."
-    publishedDateTime: 2023-07-14T00:36:00Z
-    webUrl: "https://www.reuters.com/technology/china-issues-temporary-rules-generative-ai-services-2023-07-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/puT155ErbAatgJdIKgFJ_nXaguE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2V4Z2M33JOSHPWHRUXBPHFTMI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "tZSMUc2O4pEu3Vhe1puIRKeFNlVyAT+fpH93eKBN13AYV1YxFZuaNsY0QLuM7QjyuiZVks5FQ2hqnAWSCjCgXzAkMJhFcJ3GfdlinV6HBOZ9PvI9+35hzImkZWMdssFopcuN1MlMs4WwyEBgUpLaLwrZ+PttH3KlPF5wW9sjjuu/4mNbMehi8nLFmzUSZBd+3QgxrlWq0Okd/av3jhGZfdiAfK7RtBW2P8N2x26o3BvqtVCyIeakzjj5rEsQn434WCbI3RgF32BWz9iD6AfQN/b/pXz/nlE+hUA62JcaGQlHNHbMFVKAN87xXBtupx7NTurGFElegMRjwMEn7VNcT7/8lupZu57SFdpmcHwveq1o82fJ7hjFAKUj1xPuuAEAyOq3kStm1RN2aepOwbUmc1LcSIDYBrHcFZGTb9e3GH4FAuw8fMaWMu5w/tFBA2NES5CPRTqn41gRQa9AMolTXE/qHJkaUpqiiBZ461VLyVFkl06W9B/BDEKCx8buVkfGR/Y2BqzvhKNRksNNmXHPhg==;vUpJLB6LPuWaj0Os+FaJIQ=="
 ---

@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
     excerpt: "Designed to Trounce Memory Wall, Accelerate Proliferation of Generative AI Implementations; Chip Architecture Provides up to 3.2 Petaflops with an Implementation Efficiency of Mor"
-    publishedDateTime: 2023-07-18T15:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9850176.htm"
+    publishedDateTime: 2023-07-18T16:41:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/07/18/9850176.htm"
     type: article
     provider:
       name: TMCnet

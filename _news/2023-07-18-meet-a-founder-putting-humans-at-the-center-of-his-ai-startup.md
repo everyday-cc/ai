@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The pros and cons of AI and how we must stay human"
-    excerpt: "AI is going to impact your life significantly and soon. The World Economic Forum says a quarter of jobs will be impacted over just the next five years as a result of technology and digitalisation. So where does this leave leaders and their teams?"
-    publishedDateTime: 2023-07-14T09:34:00Z
-    webUrl: "https://www.thehrdirector.com/business-news/digitalisation/pros-cons-ai-must-stay-human/"
-    type: article
-    provider:
-      name: theHRDIRECTOR
-      domain: thehrdirector.com
-    quality: 39
-    images:
-      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/01/Digital-Technology-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "A kinder, more human AI – the Cork startup training tech to be emotionally intelligent"
     excerpt: "Artificial intelligence (AI) needs to be more human and empathetic, according to the Irish co-founder of a startup training AI to be emotionally intelligent."
     publishedDateTime: 2023-07-16T00:30:00Z
@@ -59,6 +45,6 @@ related:
         height: 2674
         isCached: true
 
-secured: "6ZYHRgDW9EVCAQ2/FqTrpDBDQ8bviAvZj64FMQjRkaZ1UqInuz8+gFIFIJ1jpvMbwG6QuGChfBEiboqKEp11NELUUhy10hLIJnXkL729ObNgfsXRkWX7LgScwZvix90Oc71hY32A7KTlp172a4wCvjexfK3TISMRziwD/M7bpFZb5mfHnRstuKXEWFxqQA1EsVDxxABlF4KNiOakeJHnrYFDXXDgt1YIZjrNl5krWP20PRanJL2sNB22e4MOwfuvAVA5LQGbLCixWlipRKUS4bi7u8aXC7reOAwlH/DdzDb357ZWmgx/GIvHUdxYrJYTt55J5gruQ9YniWlmIeKdAMLhg8HCoBPr2+u4i1m8Ucg=;f9yQAjxoKxNBOWUISssOVA=="
+secured: "J4+OSwB2GOGuPNB+2dnqGORUNYhG9H61SwM6/DnLioSpza+qtS7skKvk8dFqQvKmx40rBzqkRq1JOb1+64FI5WygSo6I5TCt04P3jCwD3nQKDkEz6U2BSeV3arKnW9oGyTQoFyIgZPow+7wypQjk7WdIf2RrmkKJws5X7E8aaKry8fznlbJxi/wS3Te47Cb8q7PkJDyLT/acPoMKtDXDW6hiTNs/VNAHdBZOf/Si86NBT+3tplOrbjXTLSVeeRET+Q+cFi7iwvLwvUZjBB+fuAnVeteyW/tIxu9lhALuIhc12686NdJEDHE8MlKtNNjZe5o9SbT6Bsh+XlGMAaKYgB3UGZ+e2MP6Amax64iZqFO/ldFLeHzW+UKoyba5nWmlMRO4UZ++xENexY2YKsLL5w3eLPQNTZyFyEy4yDbV3L3sIcgAG3h0MBG0WKOXhWfNyXXQdgzPL4F1lSTurW4V5TRjcroeUt6PVGrPOLvNzB9zWIwns16T7iIAYAlLOhmjAKQF9QhkkSiA3fPm5vNLcA==;vyhvr7Mmwx29xKQt3LHwjg=="
 ---
 

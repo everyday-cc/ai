@@ -35,19 +35,19 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Meta to release commercial AI model like ChatGPT, Bard"
-    excerpt: "Meta (formerly Facebook) is reportedly planning to release a commercial version of its artificial intelligence (AI) model in order to compete with Microsoft-backed OpenAI’s ChatGPT and Google’s AI experiment Bard,"
-    publishedDateTime: 2023-07-14T00:40:00Z
-    webUrl: "https://www.canindia.com/meta-to-release-commercial-ai-model-like-chatgpt-bard-6/"
+  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
+    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
+    publishedDateTime: 2023-07-18T16:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 39
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 38
     images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/07/meta-office.jpg"
-        width: 1540
-        height: 800
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6H0OD-BASEIMAGE.jpg"
+        width: 800
+        height: 558
         isCached: true
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
