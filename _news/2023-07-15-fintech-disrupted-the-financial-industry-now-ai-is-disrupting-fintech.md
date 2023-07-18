@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "The fintech funding slump, by the numbers"
+    excerpt: "It’s no secret that venture capital investment in fintech companies had slowed down this year, and last week, we saw just by how much."
+    publishedDateTime: 2023-07-16T16:18:00Z
+    webUrl: "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/"
+    ampWebUrl: "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1078494932.jpg?resize=1200,792"
+        width: 1200
+        height: 792
+        isCached: true
   - title: "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers"
     excerpt: "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million."
     publishedDateTime: 2023-07-18T02:51:00Z
@@ -67,6 +83,38 @@ related:
         width: 280
         height: 210
         isCached: true
+  - title: "Construction Fintech Trunk Tools Announces Launch with $9.9M in Funding"
+    excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage, announced its launch out of stealth."
+    publishedDateTime: 2023-07-17T20:07:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Construction-Real-Estate-Property.jpg"
+        width: 1200
+        height: 1080
+        isCached: true
+  - title: "Fintech startups crowd NBFC queue to enter credit lane"
+    excerpt: "A growing number of fintechs are hoping to play the credit game to keep users sticky and expand revenue opportunities"
+    publishedDateTime: 2023-07-18T00:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/onecard-wintwealth-apply-for-nbfc-licences/articleshow/101835269.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/onecard-wintwealth-apply-for-nbfc-licences/amp_articleshow/101835269.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/onecard-wintwealth-apply-for-nbfc-licences/amp_articleshow/101835269.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1005828,msid-101835278/jupiter-nbfc-licence.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "5 AI-driven FinTech firms supporting consumers, businesses in Europe"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-17T10:47:00Z
@@ -106,6 +154,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
+  - title: "FULL TEXT: Q2 2023 Ghana Fintech Report"
+    excerpt: "The second edition of the quarterly Fintech Report titled “THE GHANA FINTECH REPORT” has been released. Ghana's Fintech sector has witnessed remarkable growth and innovation in recent years – and as technology continues to redefine financial services,"
+    publishedDateTime: 2023-07-17T07:48:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/FULL-TEXT-Q2-2023-Ghana-Fintech-Report-1805762"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/626/62632721.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Egyptian FinTechs & Fintech Galaxy join forces to expand into MENA market"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-18T08:49:00Z
@@ -120,6 +182,15 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Cyvatar Joins Mastercard's Start Path In Solidarity Program to Empower Underrepresented Fintech Founders"
+    excerpt: "Cyvatar's participation in the Start Path In Solidarity program further solidifies the company's dedication to fostering diversity and inclusivity within the fintech industry. By collaborating with Mastercard and like-minded organizations, Cyvatar aims to make transactions safe, simple, and accessible for everyone, everywhere."
+    publishedDateTime: 2023-07-17T13:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cyvatar-joins-mastercards-start-path-solidarity-program-empower-/2023/07/17/9848946.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "UHWSrj5KzdV1S6gHpl4MEoaQdVkztiTUqLLudCtSIPB3SF4cyyQMTuFzAKBVDQablmmWnILqYrak0nN0R5dZfOMq1mvXYrYQ2wWBBBJPKEWkmbrfUCrhMxMLfwNacXKES6eJlNJDA006BMGCF903Q0e69KE2AvLH/8tSQqVZMkvenENDdcL4jFt7QizRVk2ET3ajteG1jPHzt+qnwrazIqhL5chs2FWLNnmf/+b0Ma/foX02+u5Y2yUSh5lZyYHMBbk+3/k/1eRsYjefYLWcYS0aSC7toZXpgsaRSj9E482GzgAA9hg5xxT5fSDY2IJ0DB6cwzfjmBNsQ3iAzG8G7fxncTh6aD43LZ9/aCq+4Sg=;dElZn5JC9AxSaVziwU3c9w=="
 ---

@@ -43,6 +43,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
+    publishedDateTime: 2023-07-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-healthcare-stocks-using-ai-to-deliver-you-healthy-profits-1032456321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Opportunities and challenges for AI in healthcare"
     excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
     publishedDateTime: 2023-07-17T15:25:00Z
@@ -71,6 +80,15 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Insights on bolstering healthcare incident response with AI detailed"
+    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
+    publishedDateTime: 2023-07-18T17:48:00Z
+    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
 
 secured: "dXplW9845j881GSyHwnF3szAppdLjg15fmzZbOp9d8Hodx/wg9iM05lb1RyvETn4TKEsfqGRMVhDsARwqQ+owT5Qih4oTBqbwlNTnFWhmZ63oonoIEIKMmX0S+Y+G7DGNZiHDaNrQDWd125MVOBdjcp2omEwc7GDJd+w3ya91eYg8Nfcb444geztQ+NmFAl9SrvLiVpTEF9cio4dZeQpZAiJMcONl+PlNi0ZET8UNUGbLsyZ9OZfm3m8ulWQuwUE61ySX9hUEk7LJEPoxYslL5lyjVEwuGztXebU6TGi5REg9dMEXnkHmwVUaD1VBwZR0467Ox3dOO5OugkTyDQDfBTMP6uUcwGdeOJvI1C0Cjs=;BhCw6ksFcunBUsYWj8JOtg=="
 ---

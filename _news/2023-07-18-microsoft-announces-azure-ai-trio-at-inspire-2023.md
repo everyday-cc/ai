@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 type: article
 quality: 119
-heat: 499
+heat: 549
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2023/07/m365copilot_business_1920x1080_print.png?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft Continues Bringing AI Tools to Microsoft 365"
-    excerpt: "This means you can use images in Bing Chat to search for things. The enterprise AI market is expected to reach $88 billion by 2030, according to Verified Market Research. Given the rapid growth, it's not at all surprising that companies are being bullish ..."
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-continues-bringing-ai-tools-to-microsoft-365/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/resize/3d416123a1af9efd7b4bf5b094dbf8f9856e0ba2/hub/2023/07/17/f433b2f5-e46f-4b6f-b6fd-4ea405f6700d/blog-hero-image-under-embargo-until-7-18-8-30am-pt.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft Semantic Kernel will support OpenAI plugins"
     excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
@@ -282,6 +268,33 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Meta, Microsoft Team Up to Offer New AI Software for Businesses"
+    excerpt: "WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about AI tools and how the technology is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft will release a new version of Meta ..."
+    publishedDateTime: 2023-07-18T16:14:00Z
+    webUrl: "https://www.wsj.com/articles/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-c4f7b634?mod=rss_Technology"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+  - title: "Microsoft Continues Bringing AI Tools to Microsoft 365"
+    excerpt: "Artificial intelligence-powered Bing Chat is now rolling out to Microsoft 365 enterprise users in preview form, Microsoft said Tuesday. Microsoft is pushing privacy as a key selling point, saying AI-powered chat data is protected and won't leak outside an organization."
+    publishedDateTime: 2023-07-18T15:30:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-continues-bringing-ai-tools-to-microsoft-365/?n=@"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 64
+  - title: "Microsoft Stock on Pace for Record Close After AI-Related Announcements"
+    excerpt: "Shares of Microsoft were up more than 5% in afternoon trading following the company's announcements about artificial-intelligence-related products. That jump puts Microsoft on pace t"
+    publishedDateTime: 2023-07-18T19:31:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-18-2023/card/microsoft-stock-on-pace-for-record-close-after-ai-related-announcements-F5R82dmzO226eCO3rNO3"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
   - title: "Microsoft soars toward a record high after UBS turns bullish amid AI enthusiasm"
     excerpt: "Microsoft's stock surged toward a record after UBS turned bullis, citing enthusiasm around pending artificial-intelligence catalysts."
     publishedDateTime: 2023-07-14T12:53:00Z
@@ -445,6 +458,20 @@ related:
         width: 1200
         height: 638
         isCached: true
+  - title: "Splunk Unveils New AI Offerings And Edge Hub, Strikes ‘Digital Resilience’ Alliance With Microsoft"
+    excerpt: "At Splunk .conf23 the company unveiled Splunk AI and enhancements to the Splunk unified security and observability platform."
+    publishedDateTime: 2023-07-18T21:43:00Z
+    webUrl: "https://www.crn.com/news/software/splunk-unveils-new-ai-offerings-and-edge-hub-strikes-digital-resilience-alliance-with-microsoft"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 40
+    images:
+      - url: "https://www.crn.com/resources/0283-1885a968d91b-cfce421a55d4-1000/splunk-conf23.jpeg"
+        width: 611
+        height: 457
+        isCached: true
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
     publishedDateTime: 2023-07-17T13:56:00Z
@@ -496,6 +523,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Microsoft unveils pricing for 365 Copilot, its generative AI assistant"
+    excerpt: "Microsoft 365 Copilot, the company's generative AI-fueled productivity tool, will be priced at $30 per user, per month, the company announced Tuesday during its annual"
+    publishedDateTime: 2023-07-18T19:40:00Z
+    webUrl: "https://www.ciodive.com/news/microsoft-365-copilot-pricing-enterprise/688294/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
     publishedDateTime: 2023-07-16T04:12:00Z
@@ -523,6 +559,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 29
+  - title: "Meta partners with Microsoft to distribute next-gen LLaMA 2 AI model for commercial use"
+    excerpt: "The new family of large language models, called LLaMA 2, is the next generation of Meta’s AI research into generative AI. These AI models are capable of understanding human speech and responding conversationally, as well as producing research, answering questions, writing poetry and generating computer code."
+    publishedDateTime: 2023-07-18T18:14:00Z
+    webUrl: "https://siliconangle.com/2023/07/18/meta-partners-microsoft-distribute-next-gen-llama-2-ai-model-commercial-use/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 28
   - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
     excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
     publishedDateTime: 2023-07-18T13:09:00Z
@@ -542,6 +587,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "NOi7E/vNwg/L8ddnSBRvSKfKKSrjHXlRzjD3Fx2l+K8xpBDGJiqxux+tZ9vRgZuJrZ3W3vObBetO1VJcithaqwXszxGmwHTKKnG/vHJhT3hfJ4LeY+uzSGtDJiveL0Qv7qZq9m0e4OO0HU/2k1Ywu0W2NMtKEnsrVGbsAgeRFaSOQw84PHbSwCSGRFk24Vp7V4uMZikzcA+Db8chQw5GgN/8KtxGMg4AqfWCMM7QI1oeCloUNN8BsTQ6Nh9AJQPJJYjL9V7CEBRmBdREy34SjspZfDJ/ZShYfQD/Ls1sfnJZUZuaczz2rSipK2tgzYk0szDgnw/VfLke/ru8p4x2L4pPy5iO2T2p9/F78SEXYrU=;tmrhNXlmX5qQpZc+49F+Pg=="
+secured: "DHg2Ok2aTCbJDlnb25qFXtDBSsVmbJqu7rH0Jaj2hqAnzLQcmsk59wsrQXB40AGn+fVgQx5nuqjHjat6WZb2uQWD4lWMiv9Tt7Dw0iw0lnAO5h7wl4svH6XoYMYSMpLsC4biW6G7rORLBGfLLnxzYP3HkBpJZ6ho7xwj75H/Il/4gvVlzKAw3Vu98INm+HphGKT2bD4lV8nPO4lY/0VNFIa5PavwNn2CcDthvFebMcptejIQWxlZhoGlKYLn3EgSyKJzN3bGMJr2nLEtBc7mwPJoMQoZj8M+LnNTT+JfVqTBTff09IL9GoE8XOlZiqDpxm9/49lGJGgJG+8KDNQvsrC1hEi1CYETibVGuQVmYRyO4PLYtoyZxni3iU6zz9aGH4ChK9R3/BzttIQzCht1GKOpVljDf4yg6BL0RDioR/Eev41a0R0A6ITsMLyMUODe+FP+lGhDpNdXfzS9kRUQQlij2A5sAROykzrZig2vZVVhg+0MudXr+gtBY5/K/obG6S9mL0Al/7PIsdQgutOwrg==;JHn/ptvtPx4AwJ/V/Pv8fw=="
 ---
 

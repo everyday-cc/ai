@@ -33,6 +33,15 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
+  - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
+    publishedDateTime: 2023-07-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-healthcare-stocks-using-ai-to-deliver-you-healthy-profits-1032456321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Opportunities and challenges for AI in healthcare"
     excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
     publishedDateTime: 2023-07-17T15:25:00Z
@@ -75,6 +84,15 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Insights on bolstering healthcare incident response with AI detailed"
+    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
+    publishedDateTime: 2023-07-18T17:48:00Z
+    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
 
 secured: "q5OHM/7XYB9605hTTsBRjYz9AV7E/imfQCx+qtmXR/BNyz8Tb9zP5e8tae33l1eYBUgsixHOJWcRL88dnojAsXLaXtNiPaUwH9ddigOgh6XaAHgWGRadXmG7HrBI8SNy+iF0TxV0cVv/CHf8pi91N9jICjNglG+WcfEVU4e4d5HoBH0xtucXJfyVkA3rOqoK80xilw5d4aX3ZN+a5KrMqubQuNLWUOvqt0BtnIVAihVzNUE4g5i8iBlk9jlWyyFThkjlkXNhM2y2Bxs7tbnbAIDgtiibhklebWJKJPHt3O0XBpGkMrkDfo3/dPL5aowkG2ibsw3Cl3VvjXy2+RJwWrYs9Vl7PxBfk18ntoufG5AwiC2ebx17udkUPh62eAj4NDihNfj+SXWHyZ0F14TdQzTFCxqQpPhMk2echxxP7zpClUKCh2R/yCaUA3UavwMIRd+r+cnXiMsz2PvlO6wO8IqOtcbRlZsCik9CzCtYYcFlHLo1o+1Eq2O9AaCxQ6VXTDFLMf1n9eTgOc/TBdaHYw==;jVaqgsj+/UcHCs6AU9guIA=="
 ---

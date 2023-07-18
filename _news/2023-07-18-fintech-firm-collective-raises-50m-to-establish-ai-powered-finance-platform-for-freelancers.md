@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collect
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/"
 type: article
 quality: 63
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The fintech funding slump, by the numbers"
+    excerpt: "It’s no secret that venture capital investment in fintech companies had slowed down this year, and last week, we saw just by how much."
+    publishedDateTime: 2023-07-16T16:18:00Z
+    webUrl: "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/"
+    ampWebUrl: "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1078494932.jpg?resize=1200,792"
+        width: 1200
+        height: 792
+        isCached: true
   - title: "Applications open for AWS Global Fintech Accelerator"
     excerpt: "Amazon Web Services (AWS) is launching its first Global Fintech Accelerator, giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market by leveraging the power of AI/ML and the cloud."
     publishedDateTime: 2023-07-18T07:00:00Z
@@ -58,6 +74,38 @@ related:
       - url: "https://img.etimg.com/thumb/msid-101809096,width-280,height-210,imgsize-11894/ev-companies-to-return-fame-ii-sops-or-face-legal-action-after-centre-cracks-the-whip.jpg"
         width: 280
         height: 210
+        isCached: true
+  - title: "Construction Fintech Trunk Tools Announces Launch with $9.9M in Funding"
+    excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage, announced its launch out of stealth."
+    publishedDateTime: 2023-07-17T20:07:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210181-construction-fintech-trunk-tools-announces-launch-with-9-9m-in-funding/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Construction-Real-Estate-Property.jpg"
+        width: 1200
+        height: 1080
+        isCached: true
+  - title: "Fintech startups crowd NBFC queue to enter credit lane"
+    excerpt: "A growing number of fintechs are hoping to play the credit game to keep users sticky and expand revenue opportunities"
+    publishedDateTime: 2023-07-18T00:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/onecard-wintwealth-apply-for-nbfc-licences/articleshow/101835269.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/onecard-wintwealth-apply-for-nbfc-licences/amp_articleshow/101835269.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/onecard-wintwealth-apply-for-nbfc-licences/amp_articleshow/101835269.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1005828,msid-101835278/jupiter-nbfc-licence.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "5 AI-driven FinTech firms supporting consumers, businesses in Europe"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
@@ -98,6 +146,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
+  - title: "FULL TEXT: Q2 2023 Ghana Fintech Report"
+    excerpt: "The second edition of the quarterly Fintech Report titled “THE GHANA FINTECH REPORT” has been released. Ghana's Fintech sector has witnessed remarkable growth and innovation in recent years – and as technology continues to redefine financial services,"
+    publishedDateTime: 2023-07-17T07:48:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/FULL-TEXT-Q2-2023-Ghana-Fintech-Report-1805762"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/626/62632721.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Egyptian FinTechs & Fintech Galaxy join forces to expand into MENA market"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-18T08:49:00Z
@@ -121,6 +183,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Cyvatar Joins Mastercard's Start Path In Solidarity Program to Empower Underrepresented Fintech Founders"
+    excerpt: "Cyvatar's participation in the Start Path In Solidarity program further solidifies the company's dedication to fostering diversity and inclusivity within the fintech industry. By collaborating with Mastercard and like-minded organizations, Cyvatar aims to make transactions safe, simple, and accessible for everyone, everywhere."
+    publishedDateTime: 2023-07-17T13:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cyvatar-joins-mastercards-start-path-solidarity-program-empower-/2023/07/17/9848946.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "bQwo9kKloqwnpeANWcFlEyUCqWgGeBtPi3/Opk1Z+9hHfwCiNsZpLhuuXYuumS9AC2iSn0EWb++iwm1Ka95skekWBkAJwr1y3v/+I1EM7s5pLgrBsUqDz7kELUS+UfU+j3OTg8HQQykMfwQugOgx8/o+1bD6u3oKHnhgfKQFEbY6qlvL5SyZjN9DvV4myLH3Ar0A0SXBe5c1m8KkcNnVXp3LgxA0/CPTDVjjjnWRf7a9zeXnb7i3VeGE3ldZP42/SQN7xFpGcPxMFV21UQJvRe3KXW0K1UkEVQJXFCdDW8Ay7ltkA5oc2X6HU0rnIjNE6xsh0X1Wr3et6hwVqKGN7+GAeVLhvyJJr08SkAZB9U0=;xFx8fJICyqLjpy44NhpDrg=="
 ---

@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-04-25-why-c3ai-stock-cratered-on-monday.md",
-      "title": "Why C3.ai Stock Cratered on Monday",
-      "excerpt": "The bearish sentiment came courtesy of Wolfe Research analyst Joshua Tilton, who downgraded C3.ai to underperform (sell) from peer perform (hold). At the same time, the analyst assigned a price ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/24/why-c3ai-stock-cratered-on-monday/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/24/why-c3ai-stock-cratered-on-monday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729391/ai-artificial-intelligence-neural-network-technology.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-24-a-word-of-caution-before-ai-becomes-standard-in-health-care.md",
       "title": "A word of caution before AI becomes standard in health care",
       "excerpt": "This human form of learning, with the brain as the computer, is the standard that AI aspires to reach. But now, artificial intelligence has advanced to the point where it has become a highly useful medical tool.",
@@ -1373,6 +1321,41 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-02-facebook-parent-meta-touts-artificial-intelligence-robot-that-can-learn-from-humans.md",
+      "title": "Facebook parent Meta touts Artificial Intelligence robot that can learn from humans",
+      "excerpt": "One way that Meta's Facebook AI Research (FAIR) team is working to train the robots is by developing an artificial visual cortex, which in humans, is the region of the brain that enables ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
+      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-02T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

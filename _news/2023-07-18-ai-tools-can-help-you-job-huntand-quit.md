@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/emmylucas/2023/07/18/ai-tools-can-hel
 webUrl: "https://www.forbes.com/sites/emmylucas/2023/07/18/ai-tools-can-help-you-job-hunt-and-quit-severance-pay-and-using-emojis-at-work/?n=@"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "A simple guide to help you understand AI"
+    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
+    publishedDateTime: 2023-07-18T16:09:00Z
+    webUrl: "https://www.bbc.com/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 49
   - title: "A simple guide to help you understand AI"
     excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
     publishedDateTime: 2023-07-17T09:39:00Z

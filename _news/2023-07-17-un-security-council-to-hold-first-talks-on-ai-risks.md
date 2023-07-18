@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aac
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’"
+    excerpt: "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ..."
+    publishedDateTime: 2023-07-18T21:19:00Z
+    webUrl: "https://globalnews.ca/news/9840681/un-security-council-ai/"
+    ampWebUrl: "https://globalnews.ca/news/9840681/un-security-council-ai/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9840681/un-security-council-ai/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 75
+    images:
+      - url: "https://globalnews.ca/wp-content/uploads/2023/07/Untitled-design-56.png?w=276"
+        width: 275
+        height: 215
+        isCached: true
   - title: "Potential threats of artificial intelligence to global peace on agenda of UN council meeting"
     excerpt: "The UN Council meeting will include briefings by international AI experts and Secretary-General Antonio Guterres, who last month called the alarm bells over the most advanced form of AI “deafening,” and loudest from its developers."
     publishedDateTime: 2023-07-17T02:40:00Z

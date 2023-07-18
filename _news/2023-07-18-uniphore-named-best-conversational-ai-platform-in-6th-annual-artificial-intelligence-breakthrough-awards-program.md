@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-18T14:00:00Z
 originalUrl: "https://www.businesswireindia.com/uniphore-named-best-conversational-ai-platform-in-6th-annual-artificial-intelligence-breakthrough-awards-program-85556.html"
 webUrl: "https://www.businesswireindia.com/uniphore-named-best-conversational-ai-platform-in-6th-annual-artificial-intelligence-breakthrough-awards-program-85556.html"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_85556.jpg"

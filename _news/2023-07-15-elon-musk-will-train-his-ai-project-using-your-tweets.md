@@ -83,20 +83,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 34
-  - title: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety"
-    excerpt: "Elon Musk Introduces xAI, an AI Startup with an Emphasis on Innovation and Safety - Elon Musk, the renowned billionaire entrepreneur and CEO of Tesla, SpaceX, and Twitter, officially launched"
-    publishedDateTime: 2023-07-14T04:49:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/elon-musk-introduces-xai-an-ai-startup-with-an-emphasis-on-innovation-and-safety-nid-224089-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/tGq21I0V.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "qNcO5JsjVXrSjm45F2A7BJpb6vhu1rpijINIPRr+9wARo8rgY6Ohnb1tmk0jCNy6wwsxY2lXdSdXjMXktgkbF0rzP+iW690rlKy0JJM03g5+YtNt0Ax2B81QCB9SbNA6d+L8RUVMWiX0xdxJayM10GQdC1GZ1eZW7IwU9wIMp9ZO6zxN6yY3uytZWLMdxb+HlrpVT5BfiNxEKdx/l+YcrOSwW0TIgeLyp0gp/2uCmfshxEzlY88NXQ1mmsuIoWEMhU/PNghb9sixUbpLqhUo67Dm86Rtgw0KFldbjtMCJ7qPedzVSbkqqciMzhNUmooGAQN1FKOVr1sRjVo1/eLxMFAW9mIfo03TYWUcQZH11Sorlr9Ho5GSVSIA3IlQ7VCJJ0DB4HwMMZsN6xqmxWiBd9tFWfc7qkG+ikx9docjJ+n337NxSspPDIj0Ph8sqfUpQYA4kSu0bSxSQ5Ns01JUj6dv1oDuSgyojFwRclvJsArZk2lkBLMzUOTg6RbkKoXskrjgX9sbZkZRoG3ry3AL0w==;ci8Yhxln9U1lPPCeacfsaQ=="
 ---

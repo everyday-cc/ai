@@ -37,22 +37,6 @@ related:
         width: 2359
         height: 1270
         isCached: true
-  - title: "Meta’s latest AI model is free for all"
-    excerpt: "Meta is going all in on open-source AI. The company is today unveiling LLaMA 2, its first large language model that’s available for anyone to use—for free."
-    publishedDateTime: 2023-07-18T15:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/llama2-business2.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Build a Winning AI Strategy for Your Business"
     excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."
     publishedDateTime: 2023-07-14T12:08:00Z

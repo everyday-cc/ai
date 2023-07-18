@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/dealers/jm-family-invests-auto-retail-com
 webUrl: "https://www.autonews.com/dealers/jm-family-invests-auto-retail-computer-vision-ai-startup"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How to spot investment opportunities in AI"
-    excerpt: "One day the headlines are all about the existential threat that AI poses to humanity. The precise danger is not always spelt out but it is hard not to think of that Skynet program from the Terminator movies,"
-    publishedDateTime: 2023-07-14T04:00:00Z
-    webUrl: "https://www.ft.com/content/7a71efeb-b30e-4957-a1d1-469051f1e17b"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "6QaVhbJL5H8BXk0xb+be2Xzc0hNUQ4/aEek3setmEqAzOtML2ZRhrJFvIvjs1fIWWQG/uao6TZe34Y0GzYwIkEU9Ll6BYzQEvtK3iORDdSapsyrMUu/zYkuePMFTctxqsjcuJEMO3XrFe/nqNSj8lvMP369On64+eyD1QV89lczNZnOprDp2Gwt5MEwi8ntkCKqTyBrbUBBSo+ExdH5BlLLidSv548FfCuCrtprt7ma6O1qwEt4Xun9cxctupbpYo9x05kBXIdTgbdGXNyJbJq8CxKTwYtpDp+yIxuf6TvcwbOUPICUvkjAwKSvp2dsGjze/sqe+Js5piy8tyFoypYmhhMqvfutBcJttdy/JFlBYoZyv3fLg1sokPJsJbTQm0lvOwkUME4dKe0KJwCD8sy9SLGUudrTDGz7fouup10QuF7D/rhLEKZTvgyef+7dLVRNPs+b1C1LdHFfxpzfve/WtgbQoZK9fA0DkE4PbyrS+5XLUGQiyxgGGAGgTeCe9qmUX8XbCjtU1YBPWjMRtHg==;mfISoy9VUcCICrL5dWtGVA=="
 ---

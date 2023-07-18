@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-17-protecting-uk-jobs-will-be-a-challenge-says-new-ai-advisor.md",
+      "title": "Protecting UK jobs will be a challenge says new AI advisor",
+      "excerpt": "Protecting British jobs will be a challenge as artificial intelligence systems become more advanced, the new head of the government's AI taskforce has told the BBC. Ian Hogarth said it was \"inevitable\" that more jobs would become increasingly automated. The whole world will have to rethink the way in which people work, he added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-66128106",
+      "originalUrl": "https://www.bbc.com/news/technology-66128106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/82D7/production/_130359433_01h39w5xkrd7yy7xehkxa0vqbp.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-66128106.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66128106.amp",
+      "publishedDateTime": "2023-07-16T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-6-mujeres-lideran-la-lucha-contra-el-cambio-climatico.md",
+      "title": "6 mujeres lideran la lucha contra el cambio climático",
+      "excerpt": "Homenajeamos a Eunice Newton Foot, científica pionera de la ciencia climática, y a 6 organizaciones beneficiarias de Google.org dirigidas por mujeres que construyen un f…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists-es/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists-es/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Eunice_Foote_800x418_gQvNB4Q.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-6-women-leading-the-fight-against-climate-change.md",
       "title": "6 women leading the fight against climate change",
       "excerpt": "We’re celebrating climate science pioneer Eunice Newton Foote and six women-led Google.org grantees building a more sustainable future.",
@@ -157,7 +260,7 @@
       "originalUrl": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 146,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -348,6 +451,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-16-the-fintech-funding-slump-by-the-numbers.md",
+      "title": "The fintech funding slump, by the numbers",
+      "excerpt": "It’s no secret that venture capital investment in fintech companies had slowed down this year, and last week, we saw just by how much.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/",
+      "originalUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1078494932.jpg?resize=1200,792",
+          "width": 1200,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/",
+      "publishedDateTime": "2023-07-16T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-16-christopher-nolan-warns-of-ais-oppenheimer-moment-it-will-be-in-charge-of-nuclear-weapons.md",
       "title": "Christopher Nolan warns of AI’s ‘Oppenheimer moment’: It will ‘be in charge of nuclear weapons’",
       "excerpt": "On a panel of physicists moderated by Chuck Todd, Christopher Nolan spoke about modern-day lessons from his soon-to-be-released film “Oppenheimer,” 78 years after a group of scientists gathered at the Trinity site to test the first atomic bomb.",
@@ -398,7 +553,7 @@
       "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -449,7 +604,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -544,7 +699,7 @@
       "originalUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -633,21 +788,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-15-meta-aims-to-take-on-chatgpt-and-bard-with-its-own-commercial-ai-model-report.md",
-      "title": "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report",
-      "excerpt": "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI.",
+      "path": "_news/2023-07-15-3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results.md",
+      "title": "3 ways AI is already transcending hype and delivering tangible results",
+      "excerpt": "Tailored recommendations and improved security are just two of the ways AI is already transforming business and society.",
       "sourceUrl": null,
-      "webUrl": "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/",
-      "originalUrl": "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/",
+      "webUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "originalUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg",
-          "width": 750,
-          "height": 500,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_leading_a_business_meeting._Colorful_futuristic_dbf87c4f-2578-4163-9e44-6f53b705e2ac.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -655,14 +810,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/",
-      "publishedDateTime": "2023-07-15T02:42:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -671,7 +835,6 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1070,154 +1233,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
-      "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33232796",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33232796",
-      "publishedDateTime": "2023-07-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever.md",
-      "title": "Hollywood's AI Proposal: Cloning an Actor's Likeness and Using It Forever",
-      "excerpt": "Hollywood actors are striking partly because the big studios allegedly floated a controversial AI proposal for background actors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever",
-      "originalUrl": "https://www.pcmag.com/news/hollywoods-ai-proposal-cloning-an-actors-likeness-and-using-it-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05UVqeIZBS68CskksBnJeLB-1.fit_lim.size_1200x630.v1689344605.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic.md",
-      "title": "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic",
-      "excerpt": "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "publishedDateTime": "2023-07-14T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

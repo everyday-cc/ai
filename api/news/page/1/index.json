@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-19-meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications.md",
+      "title": "Meta launches Llama 2, an open source AI model that allows commercial applications",
+      "excerpt": "Meta announced Llama 2, a new open source family of AI language models notable for its commercial license, which means the models can be integrated into commercial products, unlike its predecessor. They range in size from 7 to 70 billion parameters and reportedly \"outperform open-source chat models on most benchmarks we tested,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cyberllama-800x448.jpg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/",
+      "publishedDateTime": "2023-07-18T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-lenovo-unveils-data-management-solutions-for-enterprise-ai.md",
       "title": "Lenovo unveils data management solutions for enterprise AI",
       "excerpt": "These all-flash arrays are designed to simplify AI workload enablement and unleash the value of data. The company has also revealed two integrated and engineered ThinkAgile SXM Microsoft Azure Stack servers. These provide a unified hybrid cloud option ...",
@@ -312,6 +364,48 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear.md",
+      "title": "AI is a concern for writers. But actors could have even more to fear",
+      "excerpt": "\"If we don't' stand tall right now, we are all going to be in trouble. We are all going to be in jeopardy of being replaced by machines,\" said Fran Drescher, at a press conference last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "originalUrl": "https://www.cbsnews.com/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/18/74bea2e9-3bf3-472e-aea4-dc2072fefc0b/thumbnail/1200x630/a66c5746f06f5b1f9456ba17977609ae/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtmzmznwuxntaxzmeyzji5yjc2zjlimzhmnjexyzdizte-l19wywdlcy9oxzu1nze1ndqxnwzimzbjmzvmzdc2nzhmowq0mwrkyty4.jpg?v=596294ea7cf1c3a6f60cc964b1b476a6",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "publishedDateTime": "2023-07-18T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-ai-tools-can-help-you-job-huntand-quit.md",
       "title": "AI Tools Can Help You Job Hunt—And Quit",
       "excerpt": "The published version of this week’s Forbes Careers newsletter brings the latest news, insights and ideas about the workplace straight to your inbox every Tuesday.",
@@ -320,7 +414,7 @@
       "originalUrl": "https://www.forbes.com/sites/emmylucas/2023/07/18/ai-tools-can-help-you-job-hunt-and-quit-severance-pay-and-using-emojis-at-work/?n=@",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -414,7 +508,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 499,
+      "heat": 549,
       "tags": null,
       "images": [
         {
@@ -466,7 +560,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -620,7 +714,7 @@
       "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -659,7 +753,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -767,7 +862,7 @@
       "originalUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -898,6 +993,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023.md",
+      "title": "China AI Chip Firm Targeting Nvidia Seeks Hong Kong IPO in 2023",
+      "excerpt": "Chinese chip startup Shanghai Biren Intelligent Technology Co. is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the matter, aiming to capitalize on a wave of local clients turning to its AI chips as an alternative to banned Nvidia Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023",
+      "originalUrl": "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-infosys-edges-higher-after-signing-ai-deal-worth-2-billion.md",
       "title": "Infosys Edges Higher After Signing AI Deal Worth $2 Billion",
       "excerpt": "The agreement would provide artificial intelligence and automation led development, modernisation, and maintenance services.",
@@ -949,7 +1087,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -989,49 +1127,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers.md",
-      "title": "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers",
-      "excerpt": "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
-      "publishedDateTime": "2023-07-17T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1127,101 +1222,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-robotics-new-skin-like-sensors-fit-almost-everywhere.md",
-      "title": "Robotics: New skin-like sensors fit almost everywhere",
-      "excerpt": "Researchers have developed an automatic process for making soft sensors. These universal measurement cells can be attached to almost any kind of object. Applications are envisioned especially in robotics and prosthetics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230717115843.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230717115843.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-how-ai-can-improve-the-future-of-incident-response.md",
-      "title": "How AI can improve the future of incident response",
-      "excerpt": "At VentureBeat Transform 2023, Providence healthcare CISO Adam Zoeller emphasized the importance of proactive incident response with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/",
-      "originalUrl": "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/TVBM3015-e1689628821703.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

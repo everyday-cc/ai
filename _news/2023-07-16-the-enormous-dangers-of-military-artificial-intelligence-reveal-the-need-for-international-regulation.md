@@ -56,6 +56,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "States Consider Regulating Artificial Intelligence in Hiring"
+    excerpt: "About a quarter of businesses across the nation have adopted AI and many are beginning to use the tech in their hiring process. Only three states currently require employers to ask for consent first if using AI in hiring."
+    publishedDateTime: 2023-07-18T21:01:00Z
+    webUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring"
+    ampWebUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
   - title: "Asia Falling Behind The Ai Regulation Race"
     excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
     publishedDateTime: 2023-07-14T11:00:00Z
@@ -121,6 +132,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 21
+  - title: "As employers expand artificial intelligence in hiring, few states have rules"
+    excerpt: "As artificial intelligence finds its way into aspects of everyday life and becomes increasingly advanced, some state legislators feel a new urgency to create regulations for its use in the hiring process."
+    publishedDateTime: 2023-07-18T18:48:00Z
+    webUrl: "https://www.penncapital-star.com/government-politics/as-employers-expand-artificial-intelligence-in-hiring-few-states-have-rules/"
+    type: article
+    provider:
+      name: penncapital-star
+      domain: penncapital-star.com
+    quality: 16
 
 secured: "qZZ4N40AOSASnDuT/3+KvCibk3eIh6zBVxzH3/U+2eetPE3P9pzE9FaPcewDtvVMN3PXELbY2QDZFOqXixVVCxKzx9Rkl7NQtBvj4+tK6I5vdp3KlJmz/A+lMnxewjXwHyMkHXfP6lgs9O8uiIDravSLle0/kn7t866U1MggTfCx8Ta1X4znGt72+kZcSPhezRzS7Mpc4TghxR+1+8kbi0oWfSRkXL8yqreg2Lwvjw6xr41HfV6s9WzYDW8uaZPoZ5IsOz/RpFcz1l2qLAHz2nkbrB0VZz7voU1iVwfziqhdFSdPqHHMJGPmfl/a/5h6uvcI+OKdoHOGgqRH3hWDz5a2jQXHgXbqYfPpyTRdhqg=;k3cBjbEJlfOYeGRNb9WIHQ=="
 ---

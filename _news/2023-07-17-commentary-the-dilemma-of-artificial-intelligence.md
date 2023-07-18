@@ -7,7 +7,7 @@ originalUrl: "https://www.eagletribune.com/opinion/columns/commentary-the-dilemm
 webUrl: "https://www.eagletribune.com/opinion/columns/commentary-the-dilemma-of-artificial-intelligence/article_1a2a627c-240a-11ee-9fcb-67e181ac6306.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Commentary: Should the AI doctor see you now?"
-    excerpt: "The promise of artificial intelligence is that it will transform productivity. Nowhere is that needed more than in healthcare."
-    publishedDateTime: 2023-07-14T04:00:00Z
-    webUrl: "https://www.todayonline.com/commentary/commentary-should-ai-doctor-see-you-now-2211286"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--bDGGNvBN--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/07/14/20230714-freepik-comdoc.jpg?itok=Afj5-Itz"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "84xtLA4L4GMQF0vNvabURg+I/RXRwxP1RyrJSyL9KxagrFcfNPro3BLP3xeOTIUdU+rY6dPQKhtH0zEkyqGVFEDsjlhX3ZgXVUFk16r+hTmch9Tvocg+T+WrbGNtOXKKIWeTus3gXxEA8AMjvCjKPjFbkhtcFpFe1BoGAmZeYac2z7tTrbBe7AYYIq0RUchrk7f9ybkbUrIVwGY1z8fjzQvD3DNy4sJpojoZBbsirqV8SGF4OBYSrSp6j1E31kM0Gp80H8FqxiGDGQuWdpqMCP4BtmHLAoXh6J6hzR1/O+t97jCTxjNR/bhRMwepL/O8YFw3XzYdBzw9UPBN+wSW/d0yJVsA4aprBH/3BeVymYEJUEMSe5GiSfDUUIsxmJQZE3j58EOs7z1XbiYZ9fjT91OVw4Q2Xkj1YwcclHNL0lqSELJRHCzU0bny/RE0jTmW4DqW+8ZFVFiEYGCmIsikgkRMEWBcCp9zPz7Dgj81ooQRL3CWHY+xpFJTepkHuXs9sx2qv4Yugt7Cb+gZFNBA8Q==;fX2Fkdh/HL2pAFgWbyQw1A=="
 ---

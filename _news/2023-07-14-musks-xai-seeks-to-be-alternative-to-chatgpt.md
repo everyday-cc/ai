@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
-    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
-    publishedDateTime: 2023-07-15T09:42:00Z
-    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
-    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
-    publishedDateTime: 2023-07-18T16:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 38
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6H0OD-BASEIMAGE.jpg"
-        width: 800
-        height: 558
-        isCached: true
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
     publishedDateTime: 2023-07-18T08:38:00Z
@@ -63,6 +33,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Where DeepL Beats ChatGPT in Machine Translation with Graham Neubig"
+    excerpt: "Graham Neubig on the cost, performance, and potential applications of language models, as well as the evolving landscape of machine translation."
+    publishedDateTime: 2023-07-14T09:20:00Z
+    webUrl: "https://slator.com/where-deepl-beats-chatgpt-in-machine-translation-graham-neubig/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
   - title: "ChatGPT and the Future of Health Care"
     excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
     publishedDateTime: 2023-07-14T13:43:00Z

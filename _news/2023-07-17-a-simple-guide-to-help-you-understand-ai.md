@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A simple guide to help you understand AI"
+    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
+    publishedDateTime: 2023-07-18T16:09:00Z
+    webUrl: "https://www.bbc.com/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 49
 
 secured: "ivPNyEJjliwHNTWTW6D4t3/M2QW5MS5gIwsrHqEsi06GwkvVrnVnvQTb/+rMrtUSBVekelQ9CdIl32B8HPsJSZUPgygYizvumzUnkQmkAsqrPW5Kj0Jxkcuv1b20uPZGoE5+xs8rSiGTXn89EE99b0YXhKtXNPApzX+mcDVbVssMr+BZlr17xvtBimRR5nlANK9NM2C/r+XIeTzBR6aOcV33vdAXMz8I0kWhhW+fwk2sN1FJeYPPVDd0NFUebV+RzGlZZ8R/6X8fEOsnazO7+pMkkdyCq/Y6HQMCjReUtFzR6NAuxfQOGnFK978TJ+ZyaKw9x9gwG0kHTuJb81boYkIZenMx0R7YqYtijyDcQZjrGSSY2XtIUbn5tq6HL5/USI67Jk6nwRzI7JSpWT92s9VrLNzEOIZAbXzPuwIXU9YY6i01T4rqbVvwIFRIcIjxAKv1Trhps7/CluzcpoyXqwiGSsIYLK/RJYgNMifI5n1ipbZvoOHqXI2hE5vVCCkumpW2KJEmZLcizh2uFa/zRg==;e1l/S9P1j9B26rEI5V6w/Q=="
 ---

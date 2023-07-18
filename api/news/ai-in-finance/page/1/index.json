@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-18-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers.md",
-      "title": "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers",
-      "excerpt": "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million.",
+      "path": "_news/2023-07-16-the-fintech-funding-slump-by-the-numbers.md",
+      "title": "The fintech funding slump, by the numbers",
+      "excerpt": "It’s no secret that venture capital investment in fintech companies had slowed down this year, and last week, we saw just by how much.",
       "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
+      "webUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/",
+      "originalUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 194,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg",
-          "width": 1280,
-          "height": 960,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1078494932.jpg?resize=1200,792",
+          "width": 1200,
+          "height": 792,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
-      "publishedDateTime": "2023-07-17T19:51:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/",
+      "publishedDateTime": "2023-07-16T09:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -246,20 +255,20 @@
     },
     {
       "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
-      "title": "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS",
-      "excerpt": "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ...",
+      "title": "Alteryx Fuels Finance Transformation With Decision Intelligence And Intelligent Automation Leveraging The Power Of Aws",
+      "excerpt": "2 Modernize with new technologies : Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science, robotic process ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33172863/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leverag",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33172863/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leverag",
+      "webUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
+      "originalUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?876535",
+          "width": 298,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -267,13 +276,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33172863",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33172863",
-      "publishedDateTime": "2023-07-10T13:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T13:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

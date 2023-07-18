@@ -28,6 +28,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 7
+  - title: "Voice Biometric Market To Witness An Increase In Revenue Of Us$ 9.03 Billion By 2031"
+    excerpt: "Global voice biometric market revenue was US$ 1.68 billion in 2022 and is estimated to reach a valuation of US$ 9.03 billion by 2031, growing at a CAGR of 23.4% during the forecast period from 2023 to 2031."
+    publishedDateTime: 2023-07-18T18:36:00Z
+    webUrl: "https://menafn.com/1106622897/Voice-Biometric-Market-To-Witness-An-Increase-In-Revenue-Of-Us-903-Billion-By-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "Y2Vv1kOJXFVgTh+TmZot8GRbkaQcd5coAupH2xsyniNGkeXdmBPnDTISCjYtxHBMZeUe7a278sPsvkW1B2dXv0Wh4YY5y27dKbeG2HKFbdawFtbaCjUc8ucI4QhQKC6uF0azeP9abQYkuExwFEAxHF0+iR6q3DJFs8fjuyjuKnh8Es95k3nKEVgM1pDNKOl0JKYx3WBga//6NCFqgQvcmwb4Sur08uHrRaWmmm/5/yEs+mtC8GlQemnS+I4U6ilhu3pPBMjLRneRCAsCc4eaDdnWlHSeHtTtbgdDcLXs7gu5Y23j5FRpxmHkjw5sTOGv/szY10QK42ZBCuEQrwrjQw9kNf5aYu3srY4n5qMIdmw=;gcGklDMYoWKOubv9/0MWaA=="
 ---

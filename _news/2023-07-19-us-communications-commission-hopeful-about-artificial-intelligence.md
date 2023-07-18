@@ -1,0 +1,118 @@
+---
+category: news
+title: "US Communications Commission Hopeful About Artificial Intelligence"
+excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
+publishedDateTime: 2023-07-18T19:47:00Z
+originalUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
+webUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: Voice of America
+  domain: voanews.com
+
+topics:
+  - AI
+
+related:
+  - title: "Meta launches Llama 2, an open source AI model that allows commercial applications"
+    excerpt: "Meta announced Llama 2, a new open source family of AI language models notable for its commercial license, which means the models can be integrated into commercial products, unlike its predecessor. They range in size from 7 to 70 billion parameters and reportedly \"outperform open-source chat models on most benchmarks we tested,"
+    publishedDateTime: 2023-07-18T20:07:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cyberllama-800x448.jpg"
+        width: 800
+        height: 448
+        isCached: true
+  - title: "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use"
+    excerpt: "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta."
+    publishedDateTime: 2023-07-18T18:46:00Z
+    webUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Meta’s latest AI model is free for all"
+    excerpt: "Meta is going all in on open-source AI. The company is today unveiling LLaMA 2, its first large language model that’s available for anyone to use—for free."
+    publishedDateTime: 2023-07-18T15:59:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/llama2-business2.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
+    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
+    publishedDateTime: 2023-07-15T09:42:00Z
+    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
+    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 55
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
+    excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
+    publishedDateTime: 2023-07-18T18:32:00Z
+    webUrl: "https://www.androidauthority.com/ai-products-meta-microsoft-3346204/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 49
+  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
+    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
+    publishedDateTime: 2023-07-18T16:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 38
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6H0OD-BASEIMAGE.jpg"
+        width: 800
+        height: 558
+        isCached: true
+  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
+    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
+    publishedDateTime: 2023-07-18T18:54:00Z
+    webUrl: "https://www.aol.com/news/meta-opens-ai-model-commercial-155458860.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 20
+
+secured: "0e58KzFAD3QAU9fxb6LSjVMw7d4jM+D0FJIYh1LTvdC2l3MA+GF3047NtMz3npltJiNL/bx0Zo93o0hYFTeTb09PMaiac7eGtVqZhbTUqjdpkP4b8C3WWOSDtD/070Vbe+UeKimm73EgIhQTEp9Klh44LX8tG/vjeLCUWvrfazB5Lq2R3ErbhwQQQaxm7L9uRC86lAwSoObFtI8cIOAmg/NynIkLjrCDRX3+7I/iAL6NlUu4Xbl1DxPPQEbiWIx1tderb4aciaXVVlkCVNoZDJrOQSgA7MYZxncXVveIKRKd/QKVJpyntpYLSpWeCVY1Z5ovCtY/CLz5xIR0RPLJQN38/j5YNCdD4YdxwRNZVIdiJAo3Ai+v477IVRpP6aQZ0hrW81xl/mevdhRAe7q8zI5yHZxCdmZjc/A/TWCqZBrJ9ALsXgieeyXEPqNfn6qByOQu8rKZ9RiegIeMIauNIu2Ff//3NWCwIPmQjvZtZ9kT080hs96FnbTKUy1LXHz2+/OuoBjR3/ahTUDgYS3V8Q==;ssQuOfrXo8+neJOzFQolvQ=="
+---
+

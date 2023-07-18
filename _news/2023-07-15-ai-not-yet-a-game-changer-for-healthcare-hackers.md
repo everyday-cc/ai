@@ -43,6 +43,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
+  - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
+    publishedDateTime: 2023-07-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-healthcare-stocks-using-ai-to-deliver-you-healthy-profits-1032456321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Opportunities and challenges for AI in healthcare"
     excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
     publishedDateTime: 2023-07-17T15:25:00Z
@@ -71,6 +80,15 @@ related:
         width: 598
         height: 233
         isCached: true
+  - title: "Insights on bolstering healthcare incident response with AI detailed"
+    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
+    publishedDateTime: 2023-07-18T17:48:00Z
+    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
 
 secured: "ixya/xOcwZ5YcJtKK8d2PQE9wUXwpPkZcIbwTT0WhysUhH+wkfQxKCfZFvXe21hIPhd5OoPV43xKGXDLBdEVmCQ2FsKCcK2Wi0csAhUjSnNq3FHxc1JctzX/WXxqOnoP5CaUHhsgi8PkY5tvy9kKeUJWa3+0jflbrbxI0jGMGWT+KmH/Lb8lRatzhQS+hfpYU/JXqt7CqFO1F2fElsf7DAkBcY/cyIanx5i2MORIeke/D8lEHB/24at+1GvP8KBuopm95QTuguXnN/eyxACz+kctWPd3/28DmRc3Q21hznX4P6z4pKVvi56s7zghc+YwOXJqWEvOdZsgm0k3JnTcRgB7MTDCaY114nUkFnF/ql67pNbLSxWnFNwF8caJB6SPbj7d893XBHP4cyw1iaFfM8yfQ2/aL6S5yRcWgISf3x5zs0CAN8W7DhXvRsMRd8noZxFWYl/5S/ydpQPgk9Qx83BC95cKIHaYqknu+svbUAmujbNnSgvoGWAv1591utfPSgnshU3xNeZqqQOkzjmLmg==;cjhpOPa+7I6nRowQQxg+UA=="
 ---

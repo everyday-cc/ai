@@ -25,68 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Indian tech giant Wipro will invest $1 billion in AI, including training all staff"
-    excerpt: "Wipro, one of India's top providers of software services, wants everyone on staff to know how to use artificial intelligence."
-    publishedDateTime: 2023-07-14T04:20:00Z
-    webUrl: "https://www.cnn.com/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/14/tech/wipro-ai-training-investment-intl-hnk/index.html"
+  - title: "Most outsourced coders in India will be gone in 2 years due to A.I., Stability AI boss predicts"
+    excerpt: "Most outsourced programmers in India will see their jobs wiped out in the next year or two, Stability AI CEO Emad Mostaque said."
+    publishedDateTime: 2023-07-18T03:17:00Z
+    webUrl: "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 81
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230713221815-wipro-ai-investment-restricted.jpg?c=16x9&q=w_800,c_fill"
+      - url: "https://image.cnbcfm.com/api/v1/image/107271734-1689340892876-gettyimages-1246453963-raa-openaida230122_npUgT.jpeg?v=1689657468"
+        width: 594
+        height: 373
+        isCached: true
+  - title: "India's Infosys signs five-year AI deal with $2bln target spend"
+    excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to provide Artificial Intelligence (AI) and automation services that will span over five years,"
+    publishedDateTime: 2023-07-18T15:28:00Z
+    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2bln-target-spend-3635836"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "India’s Infosys signs five-year AI deal with $2bn target spend"
+    excerpt: "BENGALURU: India’s second-largest software services exporter Infosys said on Monday it has signed a deal with an existing client to provide artificial intelligence (AI) and automation services that will span over five years, with a target spend estimated at $2 billion."
+    publishedDateTime: 2023-07-18T04:59:00Z
+    webUrl: "https://www.brecorder.com/news/40253177"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 39
+    images:
+      - url: "https://i.brecorder.com/large/2023/07/18095950b0f6c30.jpg?r=095959"
         width: 800
-        height: 450
+        height: 600
         isCached: true
-  - title: "Wipro, which is hiring in NC, to invest $1B in AI, staff training"
-    excerpt: "Wipro, one of India’s top providers of software services which also is hiring in North Carolina, wants everyone on staff to know how to use artificial intelligence. Here's what's happening."
-    publishedDateTime: 2023-07-14T11:50:00Z
-    webUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/"
-    ampWebUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
+  - title: "AI revolution: Stability AI CEO predicts grim future for outsourced coders in India"
+    excerpt: "Stability AI CEO Emad Mostaque predicts that most of the outsourced programmers in India will lose their jobs in the next year or two as a result of artificial intelligence (AI) playing a larger role in software development and reducing significantly the need for human involvement."
+    publishedDateTime: 2023-07-18T12:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-revolution-stability-ai-ceo-predicts-grim-future-for-outsourced-coders-in-india-10981501.html"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/12/artificial-intelligence-g85614e566_1920-e1672408920584.jpg"
-        width: 1881
-        height: 1060
-        isCached: true
-  - title: "Musk Announces New AI Start-Up; Wipro to Invest USD$1bn in AI Capabilities"
-    excerpt: "In today's ExchangeWire news digest: Elon Musk announces a new AI start-up; India's Wipro to invest USD$1bn (~£763.6m) in its AI capabilities; and Binance cuts 1,000 staff following executive exits."
-    publishedDateTime: 2023-07-17T10:14:00Z
-    webUrl: "https://www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 55
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2023/07/ai-bot.jpg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "Indian startup lays off 90% staff for AI bot to focus on profitability"
-    excerpt: "Dukaan, an Indian E-commerce startup, has laid off 90% of its customer support team with an artificial intelligence (AI) chatbot. The founder and CEO Sumit Shah informed on Tuesday that the decision was to prioritise profitability,"
-    publishedDateTime: 2023-07-14T04:11:00Z
-    webUrl: "https://www.tbsnews.net/world/global-economy/indian-startup-lays-90-staff-ai-bot-focus-profitability-665014"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 37
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2021/08/12/1200x-1.jpg"
-        width: 600
-        height: 314
-        isCached: true
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 13
 
 secured: "sRUtfqhejj4JmV9gn5PHLiIdAkWaOfaiPXQmMd/zMmWgQGrlyn0Xjrtf9ZnJ6ptFOiZZ2kyfUl0DUThcjKsYmN2w16Kp/gK5eiqhRhTZFbI6tEy4T3YS95lQ+RoXJVqJxlMbpBpMXdczu4horIP/bH7zMQh13TnG1NatEOxQV5xuHpWAWz1yoDp1DIbUJ+zbMbqLUGeDTbo+nhUoGjpL18s8VGO+ayDC6DZWd37JGEzZLdmlQHpkD8Jbx0TSfQS3eMjvzM2b8Xm7apg7NsyKi9Zz32h3/iCtTt+C22bGiJhvG+Bxq38dAhiCc3/Ti9Yhrik5xFnfrnyUq1rzhL9GFRg7lztqzduMDz9H4wxYqN8=;TOo02qLeTpejLSHzgeb9HQ=="
 ---

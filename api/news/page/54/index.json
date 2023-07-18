@@ -2,6 +2,194 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-06-13-artificial-intelligence-can-help-with-hearing-loss.md",
+      "title": "Artificial Intelligence can help with hearing loss",
+      "excerpt": "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,",
+      "sourceUrl": null,
+      "webUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
+      "originalUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
+      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
+      "publishedDateTime": "2023-06-13T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOOD-TV",
+        "domain": "woodtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-cadence-ai-can-increase-chip-designer-productivity-by-over-10x.md",
+      "title": "Cadence AI Can Increase Chip Designer Productivity By Over 10X",
+      "excerpt": "Company’s clients have readied over 180 new chips using Cerebras AI to speed development and make chips that run faster, use less energy, and cost less.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64597b7ef0c1a34df22796e1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
+      "publishedDateTime": "2023-06-13T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-13T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-13-ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise.md",
+      "title": "AI startup Synthesia gains unicorn status after Nvidia-backed fundraise",
+      "excerpt": "June 13 (Reuters) - Synthesia, a UK-based artificial intelligence (AI) startup, said on Tuesday it has raised about $90 million at a valuation of $1 billion from a funding round led by venture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise-2023-06-13/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise-2023-06-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-13-molina-healthcare-and-partners-share-results-of-obstetrics-health-care-model-incorporating-artificial-intelligence.md",
       "title": "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence",
       "excerpt": "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management.",
@@ -990,203 +1178,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-why-taiwan-semiconductor-manufacturing-rose-on-monday.md",
-      "title": "Why Taiwan Semiconductor Manufacturing Rose on Monday",
-      "excerpt": "However, management also noted very strong demand for artificial intelligence (AI)-related chips, and especially tight capacity for advanced packaging needed for 3D-stacked CPU-GPU AI chipsets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/12/why-taiwan-semiconductor-manufacturing-rose-on-mon/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/12/why-taiwan-semiconductor-manufacturing-rose-on-mon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-12T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare.md",
-      "title": "Are You Ready To Work With AI As A Copilot? 4 Strategies To Prepare",
-      "excerpt": "Billions of humans across the globe are about to be working with AI 'copilots', which will redefine the nature of work itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/",
-      "originalUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64873077523c869c0bf4b945/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/avanade/2023/06/12/are-you-ready-to-work-with-ai-as-a-copilot-4-strategies-to-prepare/amp/",
-      "publishedDateTime": "2023-06-12T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-nature-bans-ai-generated-art-from-its-153-year-old-science-journal.md",
-      "title": "Nature bans AI-generated art from its 153-year-old science journal",
-      "excerpt": "Nature publishes peer-reviewed research from various academic disciplines, mainly in science and technology. It is one of the world's most cited and most influential scientific journals. Nature says its recent decision on AI artwork followed months of intense discussions and consultations prompted by the rising popularity and advancing capabilities of generative AI tools like ChatGPT and Midjourney.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/nasa_fireball_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/nature-bans-ai-generated-art-from-its-153-year-old-science-journal/amp/",
-      "publishedDateTime": "2023-06-12T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-with-52-of-atts-traffic-drivenets-aims-at-ai-networking.md",
-      "title": "With 52% Of AT&T’s Traffic, DriveNets Aims At AI Networking",
-      "excerpt": "DriveNets aims to capture a chunk of the market for AI networks that train and operate large language models like ChatGPT",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6486104a1b90265922d8baa2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/06/12/with-52-of-atts-traffic-drivenets-aims-at-ai-networking/amp/",
-      "publishedDateTime": "2023-06-12T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

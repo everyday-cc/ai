@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-18-how-modern-natural-language-processing-is-improving-healthcare.md",
+      "title": "How Modern Natural Language Processing Is Improving Healthcare",
+      "excerpt": "This is where natural language processing (NLP) can be of immense value. NLP software can read and understand unstructured clinical notes, extract data from them in a structured format ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
+      "originalUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2019/03/GettyImages-905433516.jpg",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-using-ai-to-translate-human-language-into-data-qa-with-inuvos-melodie-du.md",
       "title": "Using AI To Translate Human Language Into Data: Q&A With Inuvo's Melodie Du",
       "excerpt": "Inuvo has created a language-model-based, generative AI capable of identifying the words associated with the audience for any product, service, or brand.",
@@ -1215,49 +1259,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-01-timekettle-ai-translator-earbuds-empower-international-medical-workers.md",
-      "title": "Timekettle AI Translator Earbuds Empower International Medical Workers",
-      "excerpt": "Established in 2016, Timekettle is an industry-leading translation solutions provider recognized by winning numerous international awards such as CES Innovation Award, iF Design Award, and TechCrunch. As the top-selling brand in the Translator Device industry, Timekettle now serves over 300,000 users worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-international-medical-workers-1032209879",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/timekettle-ai-translator-earbuds-empower-international-medical-workers-1032209879",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

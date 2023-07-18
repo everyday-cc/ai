@@ -19,20 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence – a technology trend or a passing fad?"
-    excerpt: "AI can be described as a branch of computer science that creates intelligent systems capable of reasoning, learning, and acting autonomously. Although AI is not a brand-new technology and has been evolving for decades, its development has accelerated in recent years due to advancements in computational power and the availability of big data."
-    publishedDateTime: 2023-07-15T00:00:00Z
-    webUrl: "https://www.fanews.co.za/article/technology/41/general/1204/artificial-intelligence-a-technology-trend-or-a-passing-fad/37463"
+  - title: "China AI Chip Firm Targeting Nvidia Seeks Hong Kong IPO in 2023"
+    excerpt: "Chinese chip startup Shanghai Biren Intelligent Technology Co. is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the matter, aiming to capitalize on a wave of local clients turning to its AI chips as an alternative to banned Nvidia Corp."
+    publishedDateTime: 2023-07-18T06:44:00Z
+    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023"
     type: article
     provider:
-      name: FA News
-      domain: fanews.co.za
-    quality: 39
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 54
     images:
-      - url: "https://www.fanews.co.za/images/cmsimages/big/page-37463-37996-michelesantangelomedia.jpg"
-        width: 400
-        height: 600
+      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Chinese AI Chip Firm Challenging Nvidia Seeks IPO Later This Year"
+    excerpt: "The company has become the de facto alternative to Nvidia's AI accelerators, which have been banned in the country due to sanctions."
+    publishedDateTime: 2023-07-18T18:30:00Z
+    webUrl: "https://www.extremetech.com/computing/chinese-ai-chip-firm-challenging-nvidia-seeks-ipo-later-this-year"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "AI-powered brain surgery becomes a reality in Hong Kong"
+    excerpt: "The Centre for Artificial Intelligence and Robotics, under the Chinese Academy of Sciences, completed successful trials of a robot that treats brain tumors."
+    publishedDateTime: 2023-07-14T14:05:00Z
+    webUrl: "https://cacm.acm.org/news/274635-ai-powered-brain-surgery-becomes-a-reality-in-hong-kong"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "Gmy0DQBPItKAVBe8fuOLEeEBoKZ3U1/9mW12BeRB9xz45uzBslwRq7/nsXHQSS1AxHJu1hDtabAaV7dyo0MTBgpRb2f/D6v084K/xPGUJxOjDX7CVPP9ujSCn55DfbF2zuB31iT4J4xLiP11Pm/nB30rjKuDzfYBVNUnGnEbb0kXaLT9cw8aAoumrqQJVcVtqX8+prlZnfV3qNAxQhwEyaxYFm+AlxvfJygm3755sx/OBo/jn5tkO9Sufkc09e+Nid24uz9tDoNFNKZa6QXHQFqUBAioFgwAFwguAtf3OVm5jPna2HRM+B9xdX44er9Vkpg63tJJ6bqAdGwvPGU5EpdFRi6nuLjsj/sz4S+bVNC8fGHoMgLdvIW3ynqCFmp0lXZBfxdCu9TPb98OwnhIzoHkfuDsvpTdbZrrJkrh3bip8DzyRda70qzWK18X/tcrr1oRE5QGNUZccQ+Es056b1uLQ62peEDkUrMMwS2knscIuRfM8zkTrnCoF8ZOxaa4ANgze7+F5SoUTfI0n/vNCw==;5Rz/F2DNy81w/l+tojoqvA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-ru
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/"
 type: article
 quality: 90
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "States Consider Regulating Artificial Intelligence in Hiring"
+    excerpt: "About a quarter of businesses across the nation have adopted AI and many are beginning to use the tech in their hiring process. Only three states currently require employers to ask for consent first if using AI in hiring."
+    publishedDateTime: 2023-07-18T21:01:00Z
+    webUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring"
+    ampWebUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
   - title: "Asia Falling Behind The Ai Regulation Race"
     excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
     publishedDateTime: 2023-07-14T11:00:00Z
@@ -126,6 +137,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 21
+  - title: "As employers expand artificial intelligence in hiring, few states have rules"
+    excerpt: "As artificial intelligence finds its way into aspects of everyday life and becomes increasingly advanced, some state legislators feel a new urgency to create regulations for its use in the hiring process."
+    publishedDateTime: 2023-07-18T18:48:00Z
+    webUrl: "https://www.penncapital-star.com/government-politics/as-employers-expand-artificial-intelligence-in-hiring-few-states-have-rules/"
+    type: article
+    provider:
+      name: penncapital-star
+      domain: penncapital-star.com
+    quality: 16
 
 secured: "sluT1rumL0xioByrbnvTITv0woTrgWdahfJ4tRDLS3GJ4HxNktg3QRwXIrOgn4wMk8lP2xBLOeZ3bKyi/ZAzq272DMUMvpDc7Ao2oP2bUHFS7gzwyTUSTsTiFw4JBDgTdQeAysTKe3wEtYG3zcl1Z5LVwWp4fIVfnszgydcO1K7/Dj+PRUiAvIeqRlqviL0UhAs+khyEswOe0JAzyL83Fyar4z/AI2DxMUcn2h5JROtYx4bHIbnygE2ZD02T89G1qthS6rcLNr4Ci0BSZmnLWbIJUr79I3CxBjlILkGK/g3hIC/SmulAAE8U8ns0vEn/Bn7AV83rb6ZyA7gODo06le1ftWShVcGs3EGASY62JCs=;VbMqoLMPZep68VPfn8vy/g=="
 ---

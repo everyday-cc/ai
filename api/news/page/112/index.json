@@ -2,6 +2,204 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-05-08-chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity-in-exciting-and-frightening-ways.md",
+      "title": "ChatGPT and the new AI are wreaking havoc on cybersecurity in exciting and frightening ways",
+      "excerpt": "Unrestrained by ethics or law, cybercriminals are racing to use AI to find innovative new hacks, says Recorded Future CEO Christopher Ahlberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0f069f7582c82f625117f92909ccd4f7bb840cdf/2023/05/07/0c2625f3-8f61-483b-8cbb-b39dfadd09fe/alhberg-recorded-future.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-and-the-new-ai-are-wreaking-havoc-on-cybersecurity/",
+      "publishedDateTime": "2023-05-07T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-the-geopolitics-of-ai-chips-will-define-the-future-of-ai.md",
+      "title": "The Geopolitics Of AI Chips Will Define The Future Of AI",
+      "excerpt": "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645743bb6563f17e999c02fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/05/07/the-geopolitics-of-ai-chips-will-define-the-future-of-ai/amp/",
+      "publishedDateTime": "2023-05-07T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-5g-mobile-subscriptions-to-rise-to-55-billion-in-2027.md",
+      "title": "5G mobile subscriptions to rise to 5.5 billion in 2027",
+      "excerpt": "G mobile subscriptions is expected to rise from 1.7 billion at the end of 2022 to 5.5 billion in 2027 occupying a total share of 48%, according to data and analytics company GlobalData. GlobalData’s 5G - Thematic Report reveals 5G penetration will rise from 53% at the end of 2022 to 162% in the",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/your-it-news/5g/5g-mobile-subscriptions-to-rise-to-5-5-billion-in-2027.html",
+      "originalUrl": "https://itwire.com/your-it-news/5g/5g-mobile-subscriptions-to-rise-to-5-5-billion-in-2027.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/550ff7c44167a7738f6e2181f116ebe2_L.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-the-jobs-ai-wont-take-yet.md",
+      "title": "The jobs AI won't take yet",
+      "excerpt": "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
+      "originalUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0flr5cn.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-07T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-this-week-in-xr-after-ai-sucks-the-air-out-of-the-metaverse-it-will-remake-xr.md",
       "title": "This Week In XR: After AI Sucks The Air Out Of The Metaverse, It Will Remake XR",
       "excerpt": "On the “This Week In XR” podcast Friday morning, co-host and Magic Leap founder Rony Abovitz said “ AI is what XR has been waiting for. ” Co-host Ted Schilowitz, Futurist at Paramount Global says “the Apple Mixed Reality headset will change everyone’s thinking. ” He should know. He’s seen it.",
@@ -990,194 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-america-forgot-about-ibm-watson-is-chatgpt-next.md",
-      "title": "America Forgot About IBM Watson. Is ChatGPT Next?",
-      "excerpt": "In early 2011, Ken Jennings looked like humanity’s last hope. Watson, an artificial intelligence created by the tech giant IBM, had picked off lesser Jeopardy players before the show’s all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
-      "originalUrl": "https://www.theatlantic.com/technology/archive/2023/05/ibm-watson-irrelevance-chatgpt-generative-ai-race/673965/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/rM09fLf4J3qOZe6sbPJlqlPYlfI=/0x102:4792x2598/1200x625/media/img/mt/2023/05/IBM_Watson_/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-worlds-top-ai-researchers-debate-the-technologys-next-steps.md",
-      "title": "World’s Top AI Researchers Debate the Technology’s Next Steps",
-      "excerpt": "After ChatGPT sparked a frenzy among tech companies, a conference in Africa is focusing on AI’s promise and peril for poorer nations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
-      "originalUrl": "https://www.wsj.com/articles/worlds-top-ai-researchers-debate-the-technologys-next-steps-55be2849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-777121/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-buffett-shares-good-news-on-profits-ai-thoughts-at-meeting.md",
-      "title": "Buffett shares good news on profits, AI thoughts at meeting",
-      "excerpt": "Warren Buffett's company said its first-quarter profits soared along with the paper value of its investment portfolio",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_125f7fd2fc2830d74fb8f246727fedcd_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/profits-jump-buffetts-company-ahead-annual-meeting-99136381",
-      "publishedDateTime": "2023-05-06T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-caytu-robotics-deploys-delivery-robots-at-byu.md",
-      "title": "CAYTU Robotics deploys delivery robots at BYU",
-      "excerpt": "CAYTU Robotics, a startup based in Dakar, Senegal, has partnered with BYU to roll out its robotic delivery service on the campus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
-      "originalUrl": "https://www.therobotreport.com/caytu-robotics-deploys-delivery-robots-at-byu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/CAYTU-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
