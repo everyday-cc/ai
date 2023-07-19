@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bakersfield.com/news/sbdc-webinar-will-focus-on-artifici
 cdnAmpWebUrl: "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/sbdc-webinar-will-focus-on-artificial-intelligence-as-small-business-tool/article_7d7247dc-25e0-11ee-bd40-473d01a2b7fa.amp.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "The AI Growth Formula For Small Businesses: Unveiling The Strategies Behind Rapid Success"
+    excerpt: "It’s no secret that AI technology has made its way into the mainstream. This article will explore some of the ways AI can be used to drive growth in small businesses."
+    publishedDateTime: 2023-07-19T18:02:00Z
+    webUrl: "https://www.forbes.com/sites/byroncole/2023/07/19/the-ai-growth-formula-for-small-businesses-unveiling-the-strategies-behind-rapid-success/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 38
 
 secured: "GnMXu5V99noD7RcZNuzAb4ncG77rclCbd6+lK436nZf9oBNhF8A5RFkcAw8+wkvoc8UEchGW5RqoQw97+n5E1hrtjDJH6w7iZfnIohx5iYrab//0CdpxyRlGuFBSjAhm44k/hXLCMYVqgqpXTQ75Igyc1mnwTyjp8GBnfyPoMJ9G8UoyiQtfIVRR5ZH8CVWMTP+DoDgYBYmSUY6qLg4umLHv9BSPk+8FUe7D7gc2Hygnioepl15bNQXpXfoeLv0OTw7XDC1mZCqfyU8ehlLItjyqDOvHuqAevt7OVCdGz/BknKTHHGwtb7OAIJD0yU1hYAAsX1CEGymLtifk3EAY13+VW+qYMU8jOqgwMwBXHKU=;OXqgSjQsMoHJ8w5WL+Tm3g=="
 ---

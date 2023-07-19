@@ -77,6 +77,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
+    excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
+    publishedDateTime: 2023-07-19T18:57:00Z
+    webUrl: "https://siliconangle.com/2023/07/19/shaping-ai-landscape-aws-prioritizes-security-genai-adoption-supercloud3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
   - title: "Proliferation of AI agents raises fresh worries"
     excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
     publishedDateTime: 2023-07-17T19:45:00Z

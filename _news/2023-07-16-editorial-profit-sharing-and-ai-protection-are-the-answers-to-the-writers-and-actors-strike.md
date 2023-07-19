@@ -70,6 +70,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Tech leaders say they're creating an AI cluster in the Triangle"
+    excerpt: "Executives at Triangle tech companies say the opportunity for job creation through AI is enormous and that the Triangle could be uniquely positioned to benefit."
+    publishedDateTime: 2023-07-19T18:59:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/07/19/raleigh-durham-tech-ai-cluster-new-investment-jobs.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "gLI0fZNLWjfiB1LG7StH7l+6lqtUTnoE3AVfeBdN801Ob4cQKe3lKI95qgrSMgVMEmoxmlyzw5YDXUInpevNDlPO8J3EXr8xWNrNmcm47dDqI+a3pqLjD/MRYMW60a06oCuUOkGBDsYpYCezf1BSutkaKViBFYqJNNr4lFfZFhO/WI3nKU8q6OxIpKKgClpz9CoPT3Yve4V7tucwrxR8MTuQN7LbKymNi2jNhQyaKHhnkw/wT3uHQMKonMrsOE7jWtNqr4CVzeAszKjZcj0ej66ipTP8xipCKhoIsl4jJY9j8f8cP9T8KWlx7SRoPqoSnupJlVF7F07FhivrN9GQ6drzpZWQys0GusZlaqk8q2GVqvoWgALA7Fq48Dnmb7yumB3iY7UyWnZJQnx0nEfiq4xsp/Q+p0dvO3O1yBMQfuTumM7QWk77VF08QEg+2WcqrSs8mcHewjoSJzQckeWLG2ssBEYGOVOjAKG/lixLOtBj8k9bG7yeSr3Bzzy3PX7q+XhoIk1Bd5VddrXrBrGPHw==;iv7Yr0l6VG8blevbLhUUaA=="
 ---

@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Meta's President Downplays AI Risks, Calls Current Models 'Quite Stupid'"
+    excerpt: "Speaking on the BBC's Today Programme, Clegg downplayed the dangers posed by AI, saying that the \"hype has somewhat run ahead of the technology.\" He asserted that the AI models now cannot reach genuine autonomy or make independent decisions."
+    publishedDateTime: 2023-07-19T17:50:00Z
+    webUrl: "https://www.techtimes.com/articles/293999/20230719/metas-president-downplays-ai-risks-calls-current-models-quite-stupid.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/293999/20230719/metas-president-downplays-ai-risks-calls-current-models-quite-stupid.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293999/20230719/metas-president-downplays-ai-risks-calls-current-models-quite-stupid.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 58
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431953/metas-president-downplays-ai-risks-calls-current-models-quite-stupid.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "p1IongThaULvNhyq4nhmlixxKLvg4Ncv+iVk9eQqgOH+HfwOmRqwdUsEtnYOq4V79shfau375IyizmlIMD48FwIVWfn6mQAQRRvfUh7e7UGFur5PTLwnHzBSqPeqaZr1+aZJtHalITROU9DVtJsiJhDvbv8VaAjYk5NDvGK8w3zTLe5d1781QB4hsAMRA8BR5hgbtsF3JjaZFMdyR2+T8sVTRx9/97ihN1M1PH3shtAV7PnePSw0OeULpOZgknf8MAATEEks4vxIELDrLFYWwhpjRuot1/B3LKfSwNHFUFMOzjF6eDzYOK8hA/b5fD4LcN4aMHHt/RgYW/UtzgjcCcT4Y3cJpoJuIyidt/3XvAnE3slEH4umXuhpMYh8TRUf8WDLoiE7T7yzrDUXfkbcJgR2LrkLzsFHYCyOqJFtRvL/IchCbrM2ZJGHcHCP0pPbh4MSBOJb/Ym/a02o3q29sReBc3lwK8OSz/fS/XwvCXYAIcY+VHs40tM0oOSw+pFds7vGCQKJHcdJsYEi25v5eQ==;XcJoaLhHILAGyNhZxMutHw=="
 ---

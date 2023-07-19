@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/automation/ai-beyond-the-buzzwords-choosin
 webUrl: "https://venturebeat.com/automation/ai-beyond-the-buzzwords-choosing-the-right-automations-to-elevate-customer-experience/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 691
     isCached: true
+
+related:
+  - title: "The Rise Of Robotics And Automation: Transforming Smart Home Security"
+    excerpt: "The impact of robotics and automation on smart home security extends beyond protection. These technologies offer enhanced convenience and peace of mind to homeowners. With remote access and control, individuals can monitor their homes from anywhere, ensuring the safety of their loved ones and belongings."
+    publishedDateTime: 2023-07-19T19:26:00Z
+    webUrl: "https://menafn.com/1106630697/The-Rise-Of-Robotics-And-Automation-Transforming-Smart-Home-Security"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
 
 secured: "wVWY8UvmcXNe1KqNdRIrLCKrV7xpN9SiobPkBVdEqal8AwWhP9CYScisHlpfraDxQq/uivurEpKP26KZ8DOJ7659vZLmfAOqcXfkaH8R+vJpyTjnkYdxuYADvAa0ep7kU5JGrFA+3kdZpKJx4VAlPW3xz15refo2kVeEIqL0GIYe2BA7w+HRke5zKDcubAUVmnKFZWFVHhayq6FyAz5JtveUXZZyw2jbyzTsr6vBuTA7Y3hmeiefyptwcaeJ4346HWytGntwvhctXgocB55MkB8Kx+5y4NJ3oQVv0rsOrmVUxg1rAszKH0JY5bwmvZ2hz+vDBB0RyakxiwDz1Uf0O5xdSgYquLynei5tm3Q1ecoBLuEg1g+vTZVcqU/ZRZuPn5mPAeVj/orYV+W1C+VbCohp9hza19VHWGmecgscdMoBqDnHB8Kkta/XJZ6MJdKHsX8koOFfKVF1UGwL5x9g8f9joqJviTk6e4U81nqkdiVQvcFoT42l8Zby9UQkejWlGL3nC8iHIeiWLohFNTXNEw==;zEFg3sy1LtcqnVGxNSvbNA=="
 ---

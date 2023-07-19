@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tech giants join forces on AI"
-    excerpt: "Kate Pounder, Tech Council CEO, said “in this time of high inflation and low productivity growth, our economy needs a productivity shot in the arm. “The report shows the enormous potential for generative AI to catalyse growth and innovation across a wide range of sectors, shaping a prosperous future for our nation.”"
-    publishedDateTime: 2023-07-19T03:44:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/tech-giants-join-forces-on-ai.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Microsoft%20Chairman%20and%20CEO%20Satya%20Nadella%20announces%20Meta%20Llama%20AI%20joint%20venture%20to%20partner%20attendees%20at%20Microsoft%20Inspire%202023.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "More than 1,300 experts call AI a force for good"
     excerpt: "An open letter signed by more than 1,300 experts says AI is a \"force for good, not a threat to humanity\". It was organised by BCS, the Chartered Institute for IT, to counter \"AI doom\". Rashik Parmar,"
     publishedDateTime: 2023-07-18T15:59:00Z

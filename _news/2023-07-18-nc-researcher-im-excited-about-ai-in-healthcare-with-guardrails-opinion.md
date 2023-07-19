@@ -41,6 +41,15 @@ related:
       name: The Herald-Sun
       domain: heraldsun.com
     quality: 31
+  - title: "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group"
+    excerpt: "Info-Tech's blueprint advises that healthcare organizations use a benefits realization model for AI use case analysis. This type of approach emphasizes the importance of identifying, quantifying, and developing a framework to prioritize potential use case initiatives across the business capability map."
+    publishedDateTime: 2023-07-19T19:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9851160.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "QGtklxugcGGYGN44cjJLRgH4apU2F9TSPk4jhmLQcC9eQMDXvoFJbRKpy2KJktlgs0Ct9DqYnKd8b273nnRMKZZGzXhDCrajA0p9oCsP9/k2M7CyOtiBI6mLo5NlJhwUlaoLABhNpAIUgrAS213XktJlJ+pJbBQv1Y4lzWivTRXDJVm2AVbdSO+SbBy86GkQ/SL6ts8+Jsf+GJtEVX6FqNzITyeoQ2setPc3pYvwFjyCKRZQteSb+Driobw/jea5zC7NjCkCgyLN+W0cqaXtdElV98JLPpPxdNOx2m2sv0j6CLOyeBIjd7G90WCsjsWeBXaGmioZS7hIkU9alnM6gKUfbGRlAwhIYVuIOVwan9Q5jdFa/uWPPUfgiAJm759fqHt6ukwYh3TInDV0GFgOwRih8j8Wyzx8C83mMftQswNOfUBntRAfDcGf5kd1SHrTCdR17jeqr3kkTOec7Io+tDmxGJy0ZSF102mzz4N1wFHqRcaHPVbbc2I7K9lDUyTwbBA8d+oGDyKgsorul0ImTw==;MDkCccPcvXhj++ovgiWkVQ=="
 ---

@@ -100,6 +100,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Setting Up Generative AI In Your Enterprise"
+    excerpt: "A practical framework for implementing Generative AI in the enterprise - including strategy, governance, technology stack and talent."
+    publishedDateTime: 2023-07-19T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/07/19/setting-up-generative-ai-in-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "China unveils provisional rules for generative AI, including a licensing regime"
     excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
     publishedDateTime: 2023-07-17T03:56:00Z

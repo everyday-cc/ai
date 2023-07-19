@@ -62,6 +62,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "China panel probes AI, chip funding"
+    excerpt: "A bipartisan duo has launched investigations into U.S. venture capital funds investing in Chinese artificial intelligence and semiconductor companies."
+    publishedDateTime: 2023-07-19T18:34:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/07/19/china-panel-probes-ai-chip-funding"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
 
 secured: "KRKKrpKIyfIrrBB0Z5aLH4Uj7+04r0zJv/f4sXq/F9/dSd6qaTgFRiINMy2VcWYTOHVZK0yW8Hds471vX8VYRzvqSpSG6f0FWq1WAikW7xodRXSmmxf6dYo0BQKwoX2dCzHrshVeQOHzEcacmowta/E+Xoy6to/MN//hC5p2xzLVS7eIB+DAyi0x7cJuNvfppeLKQUhIV9HARnMyY0zbnxABma2M5FnuSyxclzwQojvshjzpFgDsLT6a7tDyf9ip07gHIh6DOMvoIHZSsCjRvFzi2y+RLFKYt5Dw3+Rt+ScgccYptjaiq53YRCp05QP4cH6F79SdGgGleDtDtNIsQZyslaBQVafUf/uOs5s82WH4Btur6hrJvIGzJkqRsynJZjgCphqmZNnNRkHTPmXlWIecBEGZQfPeWCiN694EPGxjeyYVyabxFdbWhntbASX/CfP12ZvSur+oppKiKLlBGdrPomjVEwos8a6oipZCvyVBn52uzo3Ge93HddSgIgTS90bGt7hsA9d+9Yfx4GDoQA==;Ca7t1Y/jk9xlOE97o6JEWQ=="
 ---

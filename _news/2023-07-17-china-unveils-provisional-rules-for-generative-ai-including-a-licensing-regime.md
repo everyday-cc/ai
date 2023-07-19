@@ -107,6 +107,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Setting Up Generative AI In Your Enterprise"
+    excerpt: "A practical framework for implementing Generative AI in the enterprise - including strategy, governance, technology stack and talent."
+    publishedDateTime: 2023-07-19T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/07/19/setting-up-generative-ai-in-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Generative AI is redefining work and catalyzing innovation"
     excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
     publishedDateTime: 2023-07-16T06:42:00Z

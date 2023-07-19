@@ -1,12 +1,12 @@
 ---
 category: news
 title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
-excerpt: "(Reuters) - Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that ..."
-publishedDateTime: 2023-07-18T12:52:00Z
-originalUrl: "https://www.aol.com/news/mckinsey-partners-startup-cohere-help-120140421.html"
-webUrl: "https://www.aol.com/news/mckinsey-partners-startup-cohere-help-120140421.html"
+excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
+publishedDateTime: 2023-07-18T15:01:00Z
+originalUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/59b9ca713905e11914629ed7d3b9e79f"
-    width: 800
-    height: 522
-    isCached: true
 
 related:
   - title: "Cohere is teaming up with McKinsey to bring AI to enterprise clients"
@@ -62,6 +56,6 @@ related:
       domain: newelectronics.co.uk
     quality: 29
 
-secured: "iHUWSD4U+bfHIIxbg53XwkxAzQE1ex4eFdHfBTD0jvdMRi7HpKpQyjwcHuazwImX8oTfwK3Mjs8GWWlAHGXUtnApxZBRjnLyzB6oknl1/ynF3NKp/58cCnwV1OeYHYKxsZtb4BCwUrUjZql83pQYcVU0PbUWI3ZarFv6hospwqvA8F+XIOr56eqYFqQDnn7eAhLTFtK1fld+AgD0Wq0nkTHY4BuraBJ8jkGAJHq+9heHAXKd1E1m5ynTIjtdo0NLrWj4T58umw4ICS4VUGuXA5id/kv74aA4+EXrNC7BvZj3mIVBmAdz1+w1jqfHprAOBJ4UG5CSqexmpUtt7abJ+NNHWC9/O0CQgjlzBm4qmso=;VsUeDo7ituaHslsYorfrvQ=="
+secured: "J1002w79msZNMvIAQHEFxL8DKRa0E9krrh8mTpCG7FbnpSuOH51gxO4Q66+QR8xuzcEiu1XRxQai78xT8AtoGBeFmFOHtR0em1DCkTVL/zj4satJwqKDLd86LkBo1x4HNbcHC+Pm9R1OcuWo0dsF4Fpe3cBnP2nNJZDwccHFiJtLrEThM+/rWSlPh3IxCC+G15WVUM6bi+VPZML5SGqEyA2UK8Jlba4e6D1maOhRY67gr3GrC4RYbqG0zO+VT1DCVG9gi4YgDkdhwp9pa5yQNsbkiXDTdyfOWRb3OnrBvx9vPJmi1fJdW7Bhvi/WtwbLgI03zhQx7JKEVLgfaMQDvq1+hH0T8SBcTm95CGU69QwDTpHZ+hcotx/9tJeTyUzawhNY1Xpjx51XXcpy/M5FUVHYNtBxlI2/jsAsxf8sW/iHF6gJAXwJkJjvIo4EMHMPAFiQpJYUsz9niEUXhFu92AdoweAzyUVybkUlr3j9LxkmRU/EXaKhSq19mg6vPRgX0y4j72LvSWks1QIXHWeB4w==;gWwTjxJstSIor25++vP5Tg=="
 ---
 

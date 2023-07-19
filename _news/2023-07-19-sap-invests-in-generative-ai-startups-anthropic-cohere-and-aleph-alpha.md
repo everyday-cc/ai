@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-start
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SAP Announces Major Investment in Aleph Alpha, Anthropic, and Cohere to Advance Responsible Business AI"
+    excerpt: "SAP SE announced the next step in its commitment to deliver Business AI that's relevant, reliable and responsible,"
+    publishedDateTime: 2023-07-19T19:38:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sap-announces-major-investment-in-aleph-alpha-anthropic-and-cohere-to-advance-responsible-business-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 3
 
 secured: "O0Zr8mZSF03W0Om6v/zy6YSD5nIUKNvUdfh44D/hi5Ud7xRG1XwfX05Uwn3Yo2CkdZ/mfHthdZLykGO+rjTAMpr523EJ6iVHvY92Nu6eWdqM+UcoHudaC8esFrbbrUuhYNfaEbd3clPCC4Asu2lEEMaY9cWLkk6K2vgkxnXWn9jvZnjX7yrg09kMEZhP5rUdSEjdCLii2aYVgqpEEASusfUa8EQzGzVkuLFzTTtK7cDMxFZWNYfuvFq/uT187AYHnf3/mOnqKV1vG8khxushxRVsvhYoBWXmRziHKp+1LKsguz01onSt4gAlAxGcmLl+KprrWZfpAkWeSSIlJvReIDsU/cI3teVG30bx8K7XhB8=;9DHTJmRD2h8vYxFCXq3cHw=="
 ---

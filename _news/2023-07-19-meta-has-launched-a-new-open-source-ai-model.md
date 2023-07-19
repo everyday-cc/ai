@@ -99,6 +99,29 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Meta's new 'open source' AI isn't so open after all"
+    excerpt: "Meta describes its Llama 2 AI model as open source despite restrictions on use. This does not follow official open source standards."
+    publishedDateTime: 2023-07-19T17:55:00Z
+    webUrl: "https://www.businessinsider.com/meta-llama-2-ai-model-not-open-source-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Meta unleashes AI free-for-all with release of Llama 2"
+    excerpt: "Trained on 2 trillion tokens, the open source large language model's release clears a no-cost path for research and commercial use."
+    publishedDateTime: 2023-07-19T20:39:00Z
+    webUrl: "https://www.ciodive.com/news/Meta-Llama-2-generative-AI-large-language-model/688449/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/xMaFRj7OzAFFlNR1XVSa-vZd6ZPrXWz2aWbi4qCknCo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL01ldGEuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "10 Things To Know About Meta's New Large Language Model - Llama 2"
     excerpt: "On June 18th, Meta launched the second version of the most popular large language model (LLM), Llama. Unlike its predecessor, Llama 2 is freely available for research and commercial usage. Because of its impressive capabilities, it is causing quite a stir in the generative AI community."
     publishedDateTime: 2023-07-19T12:28:00Z

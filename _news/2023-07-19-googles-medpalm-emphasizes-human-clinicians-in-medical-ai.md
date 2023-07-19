@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-medpalm-emphasizes-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "MedPerf aims to speed medical AI while keeping data private"
+    excerpt: "Compiled by the MLCommons group that benchmarks AI chips, MedPerf allows clinicians to keep patient information private while letting algorithm developers test their programs on real-world data."
+    publishedDateTime: 2023-07-19T18:22:00Z
+    webUrl: "https://www.zdnet.com/article/medperf-a-new-computing-platform-aims-to-speed-medical-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "sBGnnyu7rycYDKfyWs8PvnXyF2/23rH6wGzJWeWqRpqZQ2i2aJwOcCIDJy2QiI3mgVhrL9x63+L0UMDMEfJcIFqf+zhNkQERuwBJ1NMtvjXp4jMc2YBQWfpjr4nlX/Ci3Jy9IMGnrcwUezUMPGFznsBOVmxzA01Dx3S8JszIalRvgu9YjA65FaWZIpFM28NmJU8gxJSh1o07UYzst8uJE5UiKD6JGXGvYJPhPCfH7aDrErDGQZk5iQmnmtzF+BCWw7PPJUkgBoJcG3w/qQ7kBToZESMj1sE1R5eFwHNfqCdSSoTZ4Ntzz7va2on4VyP7Am5BID6n/2yQFTlQ0QTbjieOVGvSyuS75W0gGX9lpgG3S48zEIzpNXYKVADdKXv+hpyD+lLo/RQQxswqpH8a6cIMjqWEl0r/+vWJEb2ec+sJpWzKsHjXo41lbbzlbm1GWpHw7YVGDT3zsMP5f+b1S3oyJQ2hcXuveRwhu2GcIEjIThdoFbV4wm5FtWYo9kmycy2dzNBAbTOSrA9BjyNepQ==;9regrq64QkcLPJF1WLGl4Q=="
 ---

@@ -53,22 +53,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 36
-  - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
-    excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
-    publishedDateTime: 2023-07-15T03:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai"
-    ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 35
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_07_2023_03_50_41_7693228.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "PxjOLjST3vvGoD5coa4RVn+Li5+97cXiLYoIAz6JaXYdpIp7Rui14/72TS3eyOUkuzGiI5KWiPSZ+Vkk7TDCIK4ZurzuWveHEcYUrnZjU8JDsXBDnDDQtCvVUj7u02TgAwDAZ5Avyq/q8UbBVTe5ORWju2riVOaAgtt2pQ6uNYk3o34J32nWYn8igQDK6+PdJ1bEY7Ro/FSJHBqAyZu88mFUvlcbSF00d+WK6GMyl1f4DDC2WgRUuntfyd66sCiOkUaIFW1VaNxQHmsBWKtsCquh8tMgGSWWYzTG51KpxVzEkurzAOp35BsRrLCLnpQvAh/MhW98IGoZKxeiQqL2tJKHomvoxq29GSsvD6Ni1+o=;qBahdMbSV1QITD0ph6PNTg=="
 ---

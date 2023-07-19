@@ -15,9 +15,9 @@ provider:
   domain: sacbee.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI Ethics
+  - AI
+  - AI in Healthcare
 
 related:
   - title: "GenHealth.AI Accelerates into Healthcare AI Market with New Funding, Advisor Appointments and Use Cases Across Healthcare"
@@ -30,6 +30,6 @@ related:
       domain: star-telegram.com
     quality: 9
 
-secured: "7kaJB88WlRtU5iJLCtPcRI7kre7XPeGm6D+YSZf9tttrvzQOTIn9gBdjILX6zCbPNIABZUAosOUO0E9wAADr/ZhlQ/yb8p3Jyto0JBtX5k39wI4r5QJ9DdD5QAoomgnUYnbJITwecJD0lYpsKuIce99mGHGPPoD7P1oZbjQaHaIT9vS7qNjwA0hYcZ3uS+hjeZ5eupPmFGhHiGjyz4h4B9IfvuC3iMPlx9DGLbZrVMc/c7vrGgsHciDTA8Q7kzBwY0Tyf3KzHo6FiKZH7ToYyzUhxC2czsiFGeq1j74JaLNTe1uMdeFnxxBBgvDwCHrMPdX5mtxx42Az8vKk4bdxk2qeG3f0bnv7grutUowIw6c=;25Kj1oewEy1R6DPHXUPd/g=="
+secured: "EHxbziodRQLaeW0dIgNWMN9arxWYCgr23xesI2om8tnJmB5RSZ4Q/wVIfbSP63hxPyLGzjfwPfmn8Qak/sFS8xMo1QydoxRt/0PMk+vNWPw32gq7jEOT58cqfOl2RPyUX/N6DsBlzuatEdHUyMSOIJPU/i8LtYpF5CGZPUYG6a0LvHTf3inxULoRsrgXN8+c9uVIrwyTGqeFx0tWg3lpCwxnDA46X2c7ZhN+FZTmMCj2vRIpSUb3tmJvJsbZ70+oMqSiqo/wmDVK7YNfVms1olzkQhdPww6MgSObIi3df3/7WUhreiZ0CiU6NG2g7PRKIWBfbs9Z+kImdhCyUu2Xfs6CyQsjNoQn6HIroXNkCaI=;1k4rTV9R2s8kR/d4LE6hdg=="
 ---
 

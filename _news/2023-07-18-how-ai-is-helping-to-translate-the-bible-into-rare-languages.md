@@ -27,22 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "This new AI tool transforms your doodles into high-quality images"
-    excerpt: "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt."
-    publishedDateTime: 2023-07-17T18:06:00Z
-    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+  - title: "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector"
+    excerpt: "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this."
+    publishedDateTime: 2023-07-19T21:33:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.zdnet.com/a/img/resize/c0bca7db75625cc18335648e3423ac5669999a83/2023/07/17/5fada49b-6f21-41d1-a300-ac2d49133e89/screenshot-2023-07-17-at-11-24-40-am.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200"
+        width: 940
+        height: 600
         isCached: true
+  - title: "Developing reliable AI tools for healthcare"
+    excerpt: "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. "
+    publishedDateTime: 2023-07-17T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 86
+  - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
+    publishedDateTime: 2023-07-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-healthcare-stocks-using-ai-to-deliver-you-healthy-profits-1032456321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Opportunities and challenges for AI in healthcare"
+    excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
+    publishedDateTime: 2023-07-17T15:25:00Z
+    webUrl: "https://www.fieldfisher.com/en/insights/opportunities-and-challenges-for-ai-in-healthcare"
+    type: article
+    provider:
+      name: Fieldfisher
+      domain: fieldfisher.com
+    quality: 56
+    images:
+      - url: "http://res-1.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/opportunities_and_challenges_for_ai_in_healthcare_bxxfqr"
+        width: 1080
+        height: 1080
+        isCached: true
+  - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
+    excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
+    publishedDateTime: 2023-07-17T09:13:00Z
+    webUrl: "https://www.pv-magazine.com/2023/07/17/ai-poised-to-enable-accelerated-transformation-of-the-energy-sector/"
+    type: article
+    provider:
+      name: pv magazine International
+      domain: pv-magazine.com
+    quality: 8
 
 secured: "PrH3eW+R+otCjt8Q/wO5JWTQf7KShVQo1iz4BA+HKVXoSUL0FPti+7+aLZBH+/1q71WL7LQYVC0DFvh04CUo2qxIQWe3Khu/g+hrAKBTS2To8alMOdactCsxI5k5Fljz2qKvNWCOnAAB/AteyHBL2rm1kyKt6p85u3KfEAenb6yUjPDVg2dmWMNLGpduC/GBjUZKOFWXAPD9Txj4HZ4N/4bvbUlX7cKVrk8k5LdA5D1PNTnQpxxvlaRJX1ZMTwsHkeOPKi4nE/JJETGOkY5No9tyEXfsbi7cR5bF5smELOjkgCW15kpD+jfZiIvXsgrx7JcEFk1ZJGBkqyJVBxQy5S+6/tcbM4CVyRHKGsd4jWE=;VrMMIxKaKaaZsbo9VtmQXQ=="
 ---

@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apple sneaks into the AI chatbot race with 'Apple GPT'"
+    excerpt: "The news comes through reports from Bloomberg that the company is quietly working on a tool that engineers dub \"Apple GPT,\" indirectly referring to ChatGPT, the most famous AI chatbot and, until recently, fastest-growing 'app' of all time."
+    publishedDateTime: 2023-07-19T20:27:00Z
+    webUrl: "https://www.zdnet.com/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/76a73b14c05051fca5a16ac8d7091d54dfd725c4/2023/07/19/9414b9c4-6c98-4b78-9290-d60e8e12683d/tim-cook.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
     excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
     publishedDateTime: 2023-07-17T11:38:00Z
@@ -89,6 +105,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "LLaMA 2: How to access and use Meta’s versatile open-source chatbot right now"
+    excerpt: "A comprehensive guide on how to use Meta's LLaMA 2, the new open-source AI model challenging OpenAI's ChatGPT and Google's Bard."
+    publishedDateTime: 2023-07-19T21:12:00Z
+    webUrl: "https://venturebeat.com/ai/llama-2-how-to-access-and-use-metas-versatile-open-source-chatbot-right-now/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_a_llama_programming_8c825672-172b-4e69-a6f1-b7c9e8bf5294.png?w=1200&strip=all"
+        width: 803
+        height: 642
+        isCached: true
+  - title: "Details emerge on 'Apple GPT,' the company's AI chatbot it's testing internally"
+    excerpt: "A so-called \"Apple GPT\" is in the works. Now we have some details on the company's upcoming AI-powered chatbot."
+    publishedDateTime: 2023-07-19T19:02:00Z
+    webUrl: "https://www.androidauthority.com/apple-gpt-3346580/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 43
   - title: "Meta Challenges ChatGPT With Own AI-Powered Chatbot"
     excerpt: "The tech giant has launched Llama 2 in partnership with Microsoft, and it will be free to use for research and commercial purposes."
     publishedDateTime: 2023-07-19T15:56:00Z
@@ -117,6 +156,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple reportedly developing ChatGPT-like AI chatbot"
+    excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"
+    publishedDateTime: 2023-07-19T17:49:00Z
+    webUrl: "https://invezz.com/news/2023/07/19/apple-reportedly-developing-chatgpt-like-ai-chatbot/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 19
 
 secured: "21dG4oGf5DkW9P9vpBXkjPS+xzeX3m6vvRXuWuPPls1U5zGkktkPFWzzXhvs5bv7JVV6eH4CQSPgSo+VznY4UjvKuliVUJnvqd8cm4SvmhExt4/VpOOt4yfhVh/yeOZZRVC8uoe48XZFQie6YKtAXKE0LZekayzXEUoNqD8W56hl6rZiBLAFyPgPbwTGw/Vg9XL4R0PXTku2oudhfzgIig55wLrSH13C56ydq5U3BgEzfYgno++T8Ydm2tA62BpRuMJFFx5hLbuNqLh6XDVur9V4mE064PayoVSPTxKy+db2wmRufe//PwyP3fP7qMhSlaxr/J5tybfucayeRk4QKgm1RWR/ii3Vs2Gz+MkToZiRDCMSFfNK/TeJNpsWP1DdasMx64VUh3xQFsiHD8sUgwfi5rDIZzsCmm/dYk43EbawTeAmrtTCpcJiJax3G4l5ueEVOwye0CXKIfK7BCiBWqH6zpgu1Ym6piD46yROkVt4KAq8eniRYhJ67zO5MT2NzMjw3lSG7PvBvuPQdCchDw==;UhUTop9skx2KYQLXi2iV8g=="
 ---

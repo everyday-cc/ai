@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 842
     height: 596
     isCached: true
+
+related:
+  - title: "Navigating the future of multicloud environments and AI-driven security with supercloud"
+    excerpt: "The Supercloud 3 event in Palo Alto brought together industry experts to discuss the intersection of security and AI in the next generation of cloud computing. In a special analyst panel, Johal shared valuable insights on the ongoing trends and challenges in this rapidly evolving landscape."
+    publishedDateTime: 2023-07-19T19:21:00Z
+    webUrl: "https://siliconangle.com/2023/07/19/navigating-future-multicloud-environments-ai-driven-security-supercloud-supercloud3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
 
 secured: "obYExk4gnF4bmm7uc7iVuAZskiRylpQcUI0L4SO5jiJ52m6NvvMUlIM9xe+9eKnG/vMWujUVZdekYTOWrdfDfvLjKoVna4uU9J95RFGTYMIXz7HI9ytFVUx+OChvyRelvBuK1qNizmzF8OWnfNocTk/ObKZ+w/eF2gRAWqQRm6iAFK8uHpas0rG8CNrH6XuBqthLafEklMFpjKZEODisVGMYWCPD98I1JvSwWUBzspQYZIoKQnY6cXs0f1E+UZsKuEOiZekdOo4M7nz7++3m/q5M9BXwN4vENJixIg1lKe5UraMC1Oe1HZ2/9v7VM61VysnWYcEyCTW6309I49XSVJyegGcTRDSPP9VLPoQ7b5nRcdrDJjYYHF8JgMWVlBXLoje8rwfwhOnOL3Zp12z/t/gTgGdPhW/aKvg7/hR4QE6SUEf1NmcuBLr7yQKL1c46ttsVqTi8lBPEozrf6s32tRC4cQ5WU12Gi0GKaKhx8ue2lWzv/+uKRt9nGPvjMKRXCd1s+43mp3q5tbbZEujt4g==;wDKQTCu4YGJO0FfGmjqZdw=="
 ---

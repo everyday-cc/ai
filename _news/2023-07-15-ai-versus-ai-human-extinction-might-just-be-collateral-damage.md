@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks"
+    excerpt: "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance."
+    publishedDateTime: 2023-07-19T18:50:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "A simple guide to help you understand AI"
     excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
     publishedDateTime: 2023-07-18T16:09:00Z

@@ -42,20 +42,6 @@ related:
         width: 1893
         height: 767
         isCached: true
-  - title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
-    excerpt: "(Reuters) - Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that ..."
-    publishedDateTime: 2023-07-18T12:52:00Z
-    webUrl: "https://www.aol.com/news/mckinsey-partners-startup-cohere-help-120140421.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/59b9ca713905e11914629ed7d3b9e79f"
-        width: 800
-        height: 522
-        isCached: true
   - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
     excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
     publishedDateTime: 2023-07-18T12:08:00Z
@@ -65,6 +51,15 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 29
+  - title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
+    excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
+    publishedDateTime: 2023-07-18T15:01:00Z
+    webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 16
 
 secured: "JtXTAaBbFMklZTmffaFuaWix8sNNbHenAepEwfbIA9048+L4N+ePeg3z39SBhr47SJTz5MJYJh4RGmpYWBiUC5lN4v5YXdHXpJC1irNUs0rhFG+pBs03uGBT/wm5VgM258jWRHQIS5Vaa7AY00gHF9zX8foxmubLoQYLiT9iTDQ4+CXKwBruGyZW3hlOL17EhzXDA4W3fR4fHYkrwuNAtlGdcqCdiSZ9H/2ylqmfWF57GKADYE/aBEs0YtknsSDO95yXzzGo3i4rx/MyhJFGSr3udRJOa8Yx99Hlue28ZAloAEfwcF8f0aXoaYA73si4K/619s1d8gWvdeIvib1Ij83objbg2Ify66LDQjiN1kSfFeRovfBZY6P40aSLtI4wr8VBPqiGxFlVNzC8srXURLIzG18ntmlSaJtDBPz5+yA0aWdobyKTnlCkuG8HVjA8SNc/YggsLs99UWD7685MkTbLlSCU1ww/JDTYaXkK5fe5jvTJ6NHpEt7gvXhSs2Z02ZHnykt0vj3LZXLlu8Wp0g==;k15++6YEyJKskrhQDW493w=="
 ---

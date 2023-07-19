@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Not just in your head: ChatGPT’s behavior is changing, say AI researchers"
+    excerpt: "The paper notes how opaque the current view is of closed LLMs, and the authors say that improving monitoring and transparency can avoid pitfalls of LLM drift."
+    publishedDateTime: 2023-07-19T20:03:00Z
+    webUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_numbers_fly_out_of_a_young_mans_head_as_he_stares_at_a__83b36958-aca0-419b-a3da-9863a6344d72.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "More AI: Meta launches ChatGPT rival Llama"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
     publishedDateTime: 2023-07-18T22:00:00Z
@@ -123,22 +137,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/06/06195842/chatgpt-phone-glasses.jpg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "Evaluating the ability of ChatGPT and other large language models to detect fake news"
-    excerpt: "Large language models (LLMs) are an evolution of natural language processing (NLP) techniques that can rapidly generate texts closely resembling those written by humans and complete other simple language-related tasks."
-    publishedDateTime: 2023-07-17T10:00:00Z
-    webUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/evaluating-the-ability.jpg"
-        width: 748
-        height: 440
         isCached: true
 
 secured: "6va5BXxO3jI2bX9tXRsV2hPuL5/BK0AYUK/ePyuQSB5mtsCv0kkooPDf/q4ZWZuUsUHdDo1Z6Kszglj5t1/TLdj23jDFRNlDpe0ceQ0uAc2/x9s3muenrG3jhIumKWHS+u+a6ghCLwUnl++LV5rXMfRHbKjWDyjno7uIi8s+SSGWzMMJE1BKZduJk+MytObnwFga+LyHOk4OKP8QPjXXdDaoaEvwL88ATMZ8xc7YoXrzTGfVdhdJJipggbM9lXSOZmjbkFjV4w+pFiXn+wzzwj3FWSyKvHtx7Sc9XgpI+frIBfU8OLRfrX+7fqlP2RN6Va3ts7u+LzDZbV/Ro3NWZankosYAnZBONU4y9dqY3JY=;CzXmEQh6SCcTaCUlni7u7A=="

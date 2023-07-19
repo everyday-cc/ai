@@ -41,6 +41,15 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 51
+  - title: "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group"
+    excerpt: "Info-Tech's blueprint advises that healthcare organizations use a benefits realization model for AI use case analysis. This type of approach emphasizes the importance of identifying, quantifying, and developing a framework to prioritize potential use case initiatives across the business capability map."
+    publishedDateTime: 2023-07-19T19:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9851160.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "PhiXT/s59m6Z5hI5EG8Rhjtw7qTqB7Rl1QnE2EhfGBk3LRRMyu12Tr67pQQGrCz1Yg1KT6a3NZeNTxg1xsEXxrMx8FZRIeuqvS+L6qSsHUgpYzTqcJLmOPDw7fxf71uB0px2mx/0BOuW0po5XaZg7zr71atgfPo7chxYqr6q2rjuIqlTL7+8Ubbtqic8ujZRDOvs72fhIjJ5EWqHqkzDFESiwRsNklF7lRGsTSdrs2M5jtrYQrFWPOSJmEMlkGG/cV6zf9apphcKhMMtCsLLTN1ObwilLqaVxOzUmHCU6Z5s+m2XkY9U/75DSq0b4B/o6U2t73hp8veYf5gYmkSei7QBFrpGSidKDxqJ41ey1dG2tyQNb9JStJt3YxlAFOavXpKBqwbEdq7E1IBWY8XDRurW2yphuwKTVZiN9Au+V0RChu55uSZPwZzVrGGjkamAfoHfUbGapoYqeQy9859e0OGJTlHVGtxrSneN5OOa7Grw2QrFX54pjySqNUMJCewOGaozzbOPqM4T3XaCXkHXDw==;bR+zKyDWGkww+4eEzdzxIg=="
 ---

@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SAP Announces Major Investment in Aleph Alpha, Anthropic, and Cohere to Advance Responsible Business AI"
+    excerpt: "SAP SE announced the next step in its commitment to deliver Business AI that's relevant, reliable and responsible,"
+    publishedDateTime: 2023-07-19T19:38:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sap-announces-major-investment-in-aleph-alpha-anthropic-and-cohere-to-advance-responsible-business-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 3
 
 secured: "B/BHLsSeIJJcHnYgYH5I10KdmA6w1iR2dFURfcMtmvj3dRahg+0et5LgAaMthQfZ69SxXpR1AQbpmKDCwgcJO7HO2sXD5to2MV+H67TYSIuINaGfnuLFBu5D7yrl9YIvtx62O2uQIp6c1g3y8mg1WN4ISdJu3i5q+Jtty8LsnrSdTx5x3FEGu4EqNYBbGUBdtbJWeJ7hxffWQOWyP4q1mgsH/648v8MxtYJUXVgUrCYRBkp5gr4s1Q3RXQEqoDWFyivdMdWZLXBx0MjtRI2E6neKydskjDQTVoo3ulh1Jed+kpdFqBuGJ3kWVDiwmBMtFJFE5e+z6rLQM3GYQJCeAH1opvxrNeR7XUC1d6+bZBWB8wqRLofyeb/NnQ0uLSTvzBaTq5TAK60X6a3f4V3XSKignEjWpI+KruO4hyedCQiel1VH5tPczt+ywJ5RRGFrHcjAMXmBe6TYobSMxYtxzNeNT8JJsBSuT9I3wE8KcFTMmNcYjgCzB41lscC9VzEPKslxLYewnw4GDPIwT7Pp4A==;d/RDQosALJtXsOnRMOJGMQ=="
 ---

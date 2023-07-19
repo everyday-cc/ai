@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Predicting pandemics with machine learning"
+    excerpt: "Research in the International Journal of Electronic Security and Digital Forensics, investigates the potential for machine learning models to predict the occurrence of disease pandemics with greater accuracy than other approaches."
+    publishedDateTime: 2023-07-19T18:24:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-pandemics-machine.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 19
   - title: "Climax Foods Gains Competitive Edge in Sustainable Foods Market through Machine Learning with Benchling"
     excerpt: "Climax Foods, Inc., a food-tech company using data science and machine intelligence to create animal-free products from plants, has gained a competitive edge in the next-generation foods space by embracing data science and relying on Benchling as its central source of truth for R&D data,"
     publishedDateTime: 2023-07-17T13:22:00Z

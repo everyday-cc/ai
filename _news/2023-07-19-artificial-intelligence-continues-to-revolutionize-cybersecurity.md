@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -49,22 +49,6 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 36
-  - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
-    excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
-    publishedDateTime: 2023-07-15T03:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai"
-    ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 35
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_07_2023_03_50_41_7693228.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "3 emerging threats to healthcare cybersecurity"
     excerpt: "Emerging AI and large language models, ransomware groups, and software vendors pose a threat to the healthcare industry, according to a new report from Trustwave."
     publishedDateTime: 2023-07-17T18:29:00Z

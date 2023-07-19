@@ -40,6 +40,20 @@ related:
         width: 838
         height: 471
         isCached: true
+  - title: "Media Startups Draw Less Backing, But AI Is A Bright Spot"
+    excerpt: "To the extent they are making bets in media, startup investors are often wagering that AI will play a growing role in producing content."
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://news.crunchbase.com/media-entertainment/media-startups-vc-funding-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2018/01/movie-background-vector-id465478487-2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "A kinder, more human AI – the Cork startup training tech to be emotionally intelligent"
     excerpt: "Artificial intelligence (AI) needs to be more human and empathetic, according to the Irish co-founder of a startup training AI to be emotionally intelligent."
     publishedDateTime: 2023-07-16T00:30:00Z
@@ -55,6 +69,6 @@ related:
         height: 2674
         isCached: true
 
-secured: "pDAtVY3BFxbuAPoAFUmWTH5iv7V9JEmIS8wl4lVUbMI9pJhlrf8rRaLC3fKqap/J4aNou4YLF63T79WEarjVowiVZmAXW+rVW2H7Tp9hQ51TZXjlK8+DDLMIh7rYuRp6AhWVCyE8WQUszPBdZrYzo9JSEwjr693v0R9QwuS619+x2D4paWmP23JrgwsUGr46bYmYmDKt6KGfG8z+CWtQbwMsQFAvs/C2xzhbo/48rOkGI4EUVoPnAT33dP6fW9I59oE1QjPRdi3D39yujttuJuz8OucPcdoa5Qn+LmEx4Dt244HfE+FBu2zzuMTMfnJPSiOYWFD+R93bQuWT4qGMhq82GZ9cG5mDpITlRKuddtk=;cDKr5So3NjaCpnDWDqSJHg=="
+secured: "Est+V7nMZMOB2lMn+cxIcB9/q3+K5DKREF1B2GvbZXDzEP4rdL9BTva7+Z62HvQe4IoU7xQvFeb11behQ4ZUYI+s14WKabSfmAe8BBYEuN9T2hKKmhexZMIDl+EpYprtn+K5h/aS6N0V0KJNMbOg3uHMfdNiDUix2SUbjf7fYDOHGm/Ph6LQweI8HjsTZXlYThTZgYX31RWItbnfBsxm7CuJwh+axu4L9/sCHxxEouzceNKgcv+PXZaE/vJkH/rqSNkQgQ5nHt+ytjfKsKfnajOX0bcZC51b9LJtN1x4KLp1NSDmDzGc9qNN9Q9xQwFExJCI5SICqgmPVdCqLVP/MHrHkJGIhBwFxDAvK2J4Q5UTUzdQgSp5qeY9eI7CayvuPnDCc1qTWyGqkG4/xSqrQmx9QAK1eLqadbfAX0Lra8DPRzkkTLqvTValSkm/aT8W6CbcwRCcaRTRAk4dMa7PgQyBGh+KWdCe0ZC1qrPNQrvXiTCiGKyX62fc+sev+oMEWz7t9ksnIt8Yu333UJ/nvg==;yspUKpDhhbco0QRbxdPIpg=="
 ---
 

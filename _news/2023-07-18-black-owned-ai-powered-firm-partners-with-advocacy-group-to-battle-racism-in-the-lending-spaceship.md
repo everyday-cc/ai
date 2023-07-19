@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI-powered clean power startup raises almost $6 mln in seed funding, inks deal with prominent removals firm"
+    excerpt: "A San Francisco-based startup that uses generative AI to help companies transition to clean power has secured nearly $6 mln in seed funding and has signed an agreement with a prominent carbon removals firm."
+    publishedDateTime: 2023-07-19T21:47:00Z
+    webUrl: "https://carbon-pulse.com/212994/"
+    type: article
+    provider:
+      name: carbon-pulse.com
+      domain: carbon-pulse.com
+    quality: 19
+    images:
+      - url: "https://carbon-pulse.com/wp-content/uploads/2023/07/CF2023-TS1.gif"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "UcjIYEARvUkSXaPUqUvEQIHcDXTrtST5I7USccEe++DLCTktcYsy36kUz0odDJS93izT6kACz7JbTQR9TpIMriRHhdnNhNO3kBoUXtakDufdNDJ5zS9MtOHqfmDSpXt4uQcjaqvsvbE6AB0WK8ZAMwCkApl9duTUnaOihk798/LrDcd1EXVhTGo8Sn2T9YUHVLcP+cK9AHNgZS5T+nqDfaAjAPLOgUa/yDSFgo99V2zbUbIIm1jtxHr96uL0Sdt8c/lJEkDjd0meJ7H1yjkv/zD7PRp+WaiRFjzTbwmJsywJJ7QmJbnKGxW2/wVIwyqVCyxDFRXJ2fg5cTZX838KkGEEjP9CaWpMljotSYK+XVk=;GvRnMT02o/QIKN7z56/y1Q=="
 ---

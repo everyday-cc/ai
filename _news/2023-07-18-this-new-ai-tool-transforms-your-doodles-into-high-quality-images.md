@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-transforms
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
 type: article
 quality: 87
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How AI is helping to translate the Bible into rare languages"
-    excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    type: article
-    provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 74
-    images:
-      - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
-        width: 540
-        height: 360
-        isCached: true
 
 secured: "XsnBJ+FGIJSBwGMFV5/jkiu7WJjxyUgkOBahk/YfIBor4Kcz87MRH4m26yXuu95hL95832THK0PRrlBw7IohAHb6KC2CI+XOkPDk3e24b7OCfOKAXo2krNyR08lkfWfZxzhpJGsIvU6Xkzzwwuo+JE5DSSf5glnBGPAR1SYk1CuRpw7uRgJw6y/YLZh12/tMNJ7OycG/WNuF0VU1dJKoWV2GbOAvdb0CwqUwwRGYxq5CiO5BCkgqujVoS7Lf8BN0MO/XjEsvBtN4U4eOrsaMQWabsZSW0j3lCamGU9V/oRjQCbyo3qQDvg5CJlhqqKGRoOo2lT8pChTRRgW+FCxzQgu99/0RnlrfADpdjblk4mgznKeGINqTgS1YqPR4a6J6SIzlUL1TzuBlFxe8TCiHyaBSt7n6UhVZ4040Pg2WWP+Eq5i2VXZTvOtKS6rYl+fdZNwweXmHUsft9pwhLLcCWVJ13nbKvKoJS7GkIasSrP60hfXIyhTZPoluQUMD4k0yRCUzboQh3GbR97hooF6QZw==;FmEsA4WuMmo32uUkNrt5Ow=="
 ---

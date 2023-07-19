@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Insights on bolstering healthcare incident response with AI detailed"
+    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
+    publishedDateTime: 2023-07-18T17:48:00Z
+    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
 
 secured: "TuEt/XMI+8J/X0/1YwIPSdD/XHp8B33w3/UUjPTRugVB/fzn6iLcIGtyQNbFma0PiDyKahdkg1SjC5qK3ffwjYqw8bwl4hJ5feUqmoAjFw8FHCV/Snx+wWB437++NwYpyJ5XHWQW3WUpG+L9PUfhN1dBLsEzuMbqOsXICz83yalIZEKQcsAZE0X6dDWVsAGpxwgKR/c4+TmDRIpL2LLxuFfm+pVybWq7NT8tKxwuswXbJDg/KK1C8TcsCmt5n96tub05ZJC0Yw42F5G3W7bTQ9D4mI2alncVoO3ZeU6wun0nfAxoXQXof971qzz+AcXPRCarjnjDV+ABdV61ScEmq4bNkRrt5erKCbO94Y4ReS4=;8KONnHtmsOkeEPi3GLyQfg=="
 ---

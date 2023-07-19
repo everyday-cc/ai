@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Top Artificial-Intelligence ETFs Have a Common Ingredient"
-excerpt: "AI-themed exchange-traded funds have grown in popularity this year. While they differ somewhat under the hood, nearly all of them have Nvidia as the biggest holding. The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight."
-publishedDateTime: 2023-07-06T22:01:00Z
-originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW?mod=Searchresults_pos17&page=1"
-webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW?mod=Searchresults_pos17&page=1"
+excerpt: "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ..."
+publishedDateTime: 2023-07-06T19:33:00Z
+originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW"
+webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "MDIgU8+fahvL+hP/yuXawMhtb0WFZ1AnG98pF95Ys5M8ic+bDml0BK5uXl6l+VM63wXJHme5W5xzDwVy5L9eyrpQLHcrjXh63Xq6HPXjfNPSgchLb/YbsUsCjU7jP5BcaPgs8mauapJJcrXiTz0RuOVbinGMVTyaF6axeVsESj328WDTEf1DTNKeOiCLNzdFhIRRq404hPfU322VgBR3M7Wb9y+GUQuakPstGHHvuQim97NjWNBGq07jkPPgdBIMz9zV2w0TP2hWd59lineJyDE7A7QTtIb5vB4iu2bEO/ILck0j3+HWiaAPnADGbIFiCBcn2r3jvBem5ckpE9NlBZj7xnHLdwxs6Cg1wKjt19URocdHHsK+KFjFfryO8DiKk7Qlm1qQ4KIqECG3/f5e7A7OjJKILc27Y8NTL4Wrv8LMUGFPR+4pn8mA83nRQsgtQ7+8k+Sz1BjMD/NegW0PQEbk0FGJjgj8deCzoPmOcTedS2oJfauXsJRbVLTxcoKxsVWVPxAtljD77/wN9pepUw==;epyXfiiNMFXACm2yqNJnYg=="
+secured: "ZhtQjj57wvzA2/0GOPBsy9dZcN7t71zdMVrQykOrLvhQJWJpRWT+3xb6uHDGeHH/duDIRwqyt2W8oX5vkHnENos45Hsc2QOVivoizPu96xF8HFTef1IIZNl6cm/TVthBSXhjnYxbUyYhKGC9frEySrO56n4kouyU35wqSwgdy3nCfB1WQ/iGsoJKg/miUhriejN27uPk66eGeg7SG2FqxXjMDcQAf6eUc4WJKlz1RlaP9D+fbqJPbz9kRJS4dt1r8yX5+ixLTXqGU3eONk79VYlpAC6TdEaBUS3NkzFWbRpv/umTVatQUZM//GJeXI/2fVlcYS/2ypAvzoyjbHNyedyi/o89yjkeccnmjU+aXK4=;F4eXPQdp0IRVYzzHWk2h6A=="
 ---
 

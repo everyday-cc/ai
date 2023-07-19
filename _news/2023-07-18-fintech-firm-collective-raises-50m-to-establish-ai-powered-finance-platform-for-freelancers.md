@@ -62,7 +62,7 @@ related:
   - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
     excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
     publishedDateTime: 2023-07-17T01:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr"
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
     ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
     cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
     type: article
@@ -71,9 +71,9 @@ related:
       domain: indiatimes.com
     quality: 57
     images:
-      - url: "https://img.etimg.com/thumb/msid-101809096,width-280,height-210,imgsize-11894/ev-companies-to-return-fame-ii-sops-or-face-legal-action-after-centre-cracks-the-whip.jpg"
-        width: 280
-        height: 210
+      - url: "https://img.etimg.com/photo/msid-101813436/gaming.jpg"
+        width: 1396
+        height: 744
         isCached: true
   - title: "Construction Fintech Trunk Tools Announces Launch with $9.9M in Funding"
     excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage, announced its launch out of stealth."
@@ -187,6 +187,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
         width: 400
         height: 224
+        isCached: true
+  - title: "Seven fintech companies to feature at second annual Future Proof festival"
+    excerpt: "Seven technology companies have been selected to showcase innovative products for advisors at the second Future Proof festival in September."
+    publishedDateTime: 2023-07-19T20:19:00Z
+    webUrl: "https://www.investmentnews.com/seven-fintech-companies-to-feature-at-second-annual-future-proof-festival-240110"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 23
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2022/09/FutureProof_900x600.jpg.optimal.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Africa’s FinTech Outlook: Opportunities and Challenges"
     excerpt: "Spread This NewsIn many countries, the fintech sector is seeing considerable growth. According to a new study, the fintech market in Africa is projected to reach $65 billion (₦50 trillion) by 2030 — a 13-fold increase over 2021."

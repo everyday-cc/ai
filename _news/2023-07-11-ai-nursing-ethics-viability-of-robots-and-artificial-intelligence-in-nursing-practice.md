@@ -1,24 +1,29 @@
 ---
 category: news
 title: "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice"
-excerpt: "in collaboration with medical ethics researcher Dr. Eisuke Nakazawa from The University of Tokyo and nursing researcher Dr. Ai Ibuki from Kyoritsu Women's University, recently explored whether ..."
-publishedDateTime: 2023-07-10T22:02:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
-webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
+excerpt: "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ..."
+publishedDateTime: 2023-07-10T19:08:00Z
+originalUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+webUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI Ethics
+  - AI in Robotics
   - AI
+  - AI Ethics
 
-secured: "99nsU/7FnDGXy+Jt2RRbtYBJVDIVI2JQWsYKNijp1shnfgWtWnhHUho4zLwQyFAct8EkqAN3BK2f5wuNzDfF6QRZ1P7jPXTdBVMbaMrx+182IlVvDcKciH/SkOYgJxtEfSNW5Tcuk1aq1SEKYaP/jfoPUh8vOK0Ihqubg1M4iTAK6r6zHncVcJvSskHKigKbgeepmguZtdSD09pxRMLZ3ZHcVRf8/M+uhDjPufwVTyw4KGXk4GiSxmyrdxfKaMnov9bzJXwok6lStqDKE5HFbFm/XKIYn7vVapLHwQXVBg1c1q4yAJbIE/YCs3bEfLv2yQLnI5eK2gqnHgugD5bO9Ss1TwHelyqKGvCcQ0qtaLA=;Jmb554/Tn1bL+ZYXJMr3jw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "achjUt9IGHgErJaZTKnW0lr+PGo5jHOzZR/4lcihQ2XQwHnMjoe039JoRfaZP9842shHvFEx7S52vJtW141A0sHXK9ZHgWdkTICdatRGU162gYrlImFHKXBLJkegAnWscAmFPNHc4O2je4sChAhAmYdAn80UTw8CyMQvstS1XcIXA3BLlJ88CeA6JVCpB5peqLUCrvXwzF0tpr6RXmDJQqkJEEadxYAI1RaCkYiqDLmbxAosoqoR8FhdyZ8EI8GH6hkr5ORrA7cgPIbIHHhcmtjpV4disUDa+jCWPGwy2BlVvYlGmsRr1OIe9KAK8Bxj65p6dYLtusPJRpUoQipIBYF0L7rwl7TtZhJVU4yO+DI=;088+MsjDTtDBP8v/bCSdTQ=="
 ---
 

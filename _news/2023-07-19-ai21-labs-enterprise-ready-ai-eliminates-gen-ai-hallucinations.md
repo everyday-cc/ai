@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "AI21 Labs debuts Contextual Answers, a plug-and-play AI engine for enterprise data"
+    excerpt: "AI21 Labs today announced Contextual Answers, a plug-and-play AI API to implement large language model technology on enterprise data."
+    publishedDateTime: 2023-07-19T18:11:00Z
+    webUrl: "https://venturebeat.com/ai/ai21-labs-debuts-contextual-answers-a-plug-and-play-ai-engine-for-enterprise-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 43
+
 secured: "roaYz0MCvDkK2bAtH9H3i4IJzBog+KJOPS5TC523qYNxZpNgpfVVxPjE68oqeavQV3Hv3x3MQoAoRx2w2UamZYxtxJZnWAAYro3N+8NgLt9RdEBS4IZlM6J/yG06mE8DK+aK60RGtSs5dst6m+2FsnpMxdUx7SmVrZbgykWj+Ryi/kOEpQ/R4ebQP7K2chsmIKaYlWeLv0iSQDK44s1NitJxRY2gExkVY3py/nacPhlCt9K4bhrfXLYXLJ4khhcSQUwxFd+Z075v167qmoW4i3udK5HwBh3N2CyR/ljQZ4zzQakDVAIksCEXhd7c5G1lwOJywnG+hV986ffuuTxyUKdLSbS50wkA3PTpMjkjuYQ=;uVOnR1Y9L/f8ncmxRWmN9Q=="
 ---
 

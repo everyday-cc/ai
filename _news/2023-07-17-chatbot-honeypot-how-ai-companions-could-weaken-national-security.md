@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apple sneaks into the AI chatbot race with 'Apple GPT'"
+    excerpt: "The news comes through reports from Bloomberg that the company is quietly working on a tool that engineers dub \"Apple GPT,\" indirectly referring to ChatGPT, the most famous AI chatbot and, until recently, fastest-growing 'app' of all time."
+    publishedDateTime: 2023-07-19T20:27:00Z
+    webUrl: "https://www.zdnet.com/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/76a73b14c05051fca5a16ac8d7091d54dfd725c4/2023/07/19/9414b9c4-6c98-4b78-9290-d60e8e12683d/tim-cook.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
     excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."
     publishedDateTime: 2023-07-17T07:00:00Z
@@ -75,6 +91,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "LLaMA 2: How to access and use Meta’s versatile open-source chatbot right now"
+    excerpt: "A comprehensive guide on how to use Meta's LLaMA 2, the new open-source AI model challenging OpenAI's ChatGPT and Google's Bard."
+    publishedDateTime: 2023-07-19T21:12:00Z
+    webUrl: "https://venturebeat.com/ai/llama-2-how-to-access-and-use-metas-versatile-open-source-chatbot-right-now/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_a_llama_programming_8c825672-172b-4e69-a6f1-b7c9e8bf5294.png?w=1200&strip=all"
+        width: 803
+        height: 642
+        isCached: true
+  - title: "Details emerge on 'Apple GPT,' the company's AI chatbot it's testing internally"
+    excerpt: "A so-called \"Apple GPT\" is in the works. Now we have some details on the company's upcoming AI-powered chatbot."
+    publishedDateTime: 2023-07-19T19:02:00Z
+    webUrl: "https://www.androidauthority.com/apple-gpt-3346580/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 43
   - title: "Canada Excluded from Google’s AI Chatbot Bard due to Online News Act"
     excerpt: "Canada, unlike most countries, lacks access to Google's AI chatbot, Bard, due to the ongoing clash between Google and Canada's"
     publishedDateTime: 2023-07-17T16:19:00Z
@@ -117,6 +156,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple reportedly developing ChatGPT-like AI chatbot"
+    excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"
+    publishedDateTime: 2023-07-19T17:49:00Z
+    webUrl: "https://invezz.com/news/2023/07/19/apple-reportedly-developing-chatgpt-like-ai-chatbot/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 19
 
 secured: "V9jGJvG3nSDRxjSoQkXuG+N7CgQTY9j1/mzRAeBfWsFCzniOUWhzhX6hWeVt4v8Zimuhvo1T/qSaSUHXl5EiUn9G+iVLuVpaJ2ar6aq9sxtMFBRhY8NrZQZHiFYkEG6AppkXLcRJgO/bMNjt7GlPamtgMNlFGxIRuX03dDeCL95Cn2o6YSmTDOqfyLRcN2UzdeP4qYhQw145VzsIfWmz+mCvNhsEIVPLrvvKrEI8i+gcQUJjq5i2uIozCQnqxst9j6f9J/W/SwCmRFpZS8er0gO0icVjdQmG372akxeuHibSbl79KmBTs0J5viV3q4AxmpCczW/kysGzI0nP7uAkw4s8Tr7ppjhFtfVIAzX35gcpCeir2SE8MaQQBvMC+X0dnpEnJu61cFYHaasT3dzxkxwM7okJhv9Kht8syktP0sLWMezd/92d+9kJjwi02AQipPDd8FIBDLb1R+9WpSzaiZ8dhE2/JIxcKprMQaaahQTJ4vK99yODuuWT6U2vxHt0Lz0ytEP46UdtRQY97EISRw==;3Q44n1rhIehUs4tiQWDLMA=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 838
         height: 471
         isCached: true
+  - title: "Media Startups Draw Less Backing, But AI Is A Bright Spot"
+    excerpt: "To the extent they are making bets in media, startup investors are often wagering that AI will play a growing role in producing content."
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://news.crunchbase.com/media-entertainment/media-startups-vc-funding-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2018/01/movie-background-vector-id465478487-2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "This Startup Is Unlocking AI for Asset Managers"
     excerpt: "Using OpenAI and other large language models, Alai is building tools that investment firms can use to safely leverage their proprietary resources."
     publishedDateTime: 2023-07-18T20:48:00Z

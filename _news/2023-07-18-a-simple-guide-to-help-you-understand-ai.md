@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks"
+    excerpt: "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance."
+    publishedDateTime: 2023-07-19T18:50:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "AI versus AI: Human extinction might just be collateral damage"
     excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
     publishedDateTime: 2023-07-15T12:00:00Z

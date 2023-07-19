@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-
 webUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 2254
         height: 930
         isCached: true
+  - title: "Insights on bolstering healthcare incident response with AI detailed"
+    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
+    publishedDateTime: 2023-07-18T17:48:00Z
+    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
 
 secured: "tzFIoSGN9voIEP3RDKx72Krub/RNzGBEXbKEZFqoFi96FFgyjbRNprPh1KyhrCOopy3BOs7ENF2RRoNW9fvlnULVXUKj7g5IeP0scDP/K9ChlA/rsEinm3fVObna4yqE6VnfUbLzUiaRxfiDCK4o94HgGiYPafMxa2N0D5lNrqU480oSR7i0xqUxJ8oIMJolfvdjU+tCcLczelOyS3gVh8QzNoSRocnLVqbeWji+OwESw2BhveuC6DsVEsfbJkFq9pFCrGlq2xMu+uwrRo3U2NVrihBhwYpei50yO5oxaUkg8r6NVo1K373xoql+/feoFH80owYp4a7z8ROLvkNISoxPRK6EPGcQ3OHMYEJ6+zA=;D275E5aYx/U195GhiLMtiA=="
 ---

@@ -163,6 +163,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Teams is adding Maybelline’s AI-powered ‘makeup’ filters"
+    excerpt: "The new feature is rolling out to global Microsoft Teams Enterprise customers starting today and can be located under the “Video Effects” tab within the Teams meeting settings. We’ve asked Microsoft if the filters will also be available to users on the free Microsoft Teams tier and will update this story if we hear back."
+    publishedDateTime: 2023-07-19T20:11:00Z
+    webUrl: "https://www.theverge.com/2023/7/19/23800648/microsoft-teams-maybelline-ai-beauty-filter-virtual-makeup"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/VchrOdbiz5Cn1lm5r32XqVRfwAA=/0x0:1450x960/1200x628/filters:focal(724x492:725x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/24797533/Maybelline_beauty_app_Microsoft_teams.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure"
     excerpt: "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI."
     publishedDateTime: 2023-07-17T17:14:00Z
@@ -586,6 +600,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Microsoft's Copilot has Wall Street more bullish on AI prospects"
+    excerpt: "Microsoft's Copilot pricing has analysts across Wall Street boosting their projections for the stocks performance over the next 12 months."
+    publishedDateTime: 2023-07-19T20:03:00Z
+    webUrl: "https://www.aol.com/finance/microsofts-copilot-wall-street-more-200307642.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Uez7wTg0lmOAzfsFDqeOIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/085d57465ba41ea508e3eb795e10e84e"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft builds on the cloud journey with Azure migration and cloud-native tools"
     excerpt: "To provide enterprise businesses the tools needed to give them a leg up when migrating to the cloud, Microsoft Corp. today announced two new Azure offerings during Microsoft Inspire 2023, “Azure Migrate and Modernize” and “Azure Innovate,"
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -628,6 +656,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Intel, Microsoft, Other Tech Giants Want To Boost AI, HPC With ‘Ultra Ethernet’ Solution Stack"
+    excerpt: "Intel, Microsoft, Hewlett Packard Enterprise and other tech giants seek to build an 'Ultra Ethernet' solution stack that addresses the growing network demands of AI."
+    publishedDateTime: 2023-07-19T21:42:00Z
+    webUrl: "https://www.crn.com/news/networking/intel-microsoft-other-tech-giants-want-to-boost-ai-hpc-with-ultra-ethernet-solution-stack"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 46
+    images:
+      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
     excerpt: "In recent months, the remarkable strides made in AI innovation have ignited a wave of transformative possibilities, captivating our collective imagination with the promise of reshaping industries and the way we work."
     publishedDateTime: 2023-07-18T17:04:00Z
@@ -636,6 +678,15 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
+    quality: 44
+  - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
+    excerpt: "Meta has open-sourced Llama 2, now available on Windows and Azure. Microsoft and Meta are extending their long-standing partnership. Meta has open-sourced Llama 2, allowing more developers to leverage its capabilities. Llama 2 is now supported on Azure and Windows."
+    publishedDateTime: 2023-07-19T17:55:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
     quality: 44
   - title: "Meta Partners with Microsoft to Release Llama-2"
     excerpt: "At Microsoft Inspire, Meta and Microsoft partnered to release Llama 2, the cutting-edge iteration of their renowned open source LLM, LLaMa."
@@ -793,6 +844,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
+  - title: "Microsoft Shares Rally To An All-Time-High As Software Giant Adds The AI Subscription"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) shares closed at a record after the company announced pricing for its new AI subscription service, Microsoft Copilot."
+    publishedDateTime: 2023-07-19T17:17:00Z
+    webUrl: "https://www.benzinga.com/23/07/33289673/microsoft-shares-rally-to-an-all-time-high-as-software-giant-adds-the-ai-subscription"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
   - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
     excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
     publishedDateTime: 2023-07-18T13:09:00Z

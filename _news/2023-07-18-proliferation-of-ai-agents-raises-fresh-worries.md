@@ -85,6 +85,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
+    excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
+    publishedDateTime: 2023-07-19T18:57:00Z
+    webUrl: "https://siliconangle.com/2023/07/19/shaping-ai-landscape-aws-prioritizes-security-genai-adoption-supercloud3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
 
 secured: "EpPPWM+WHMYMXEMiFjYCR/vZy7pTwAPGrBZPAEbxjbssEDb+kg2wPTUpopKcffvNrf0XF73sq4T0WJ+xGidbbDvwT1iN+m7YWJkAzoMYkZDe4QhVPx9vSiZBFbNz4MljedmM9LASqvNMnGiHaa4vtrYtsgMk5Igf57dKNDJzXHjhYBjFGIq2vMJHI7zBUIL0Muz1eji0TdOkF26gxX6IPwXeE5Gr7rS7xywWgATe7DLSv2ZVw5vxKAzkT7JxkfOSRSXfERJ1dRE/TNjsyWp/pwDfNTG4IQSP4JvcsPbhjdHHm8IRzRZupAY78EVYAhBhd49fkqjDuGBpcCrRwUugW+rIJ5zStezqIb6qK3ykvXCxtQ3LRfaIQQozejGYoT07RLMPO5i9fe47uotW8hfokRP0cV7tKoKjl0Rr5iTDJcIWYzDqudbLIegZrSNGXRBt/54lSYU4enPL4a4+IsljjUs29PcbHWbx6AYjhyCvNh7d+HwOc2zf6mrSRT24Vz8Ko11rUI9Y2PbVvzr/dcrOJg==;j/AubUY1MchXgVEQmoCfsg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-i
 webUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "China panel probes AI, chip funding"
+    excerpt: "A bipartisan duo has launched investigations into U.S. venture capital funds investing in Chinese artificial intelligence and semiconductor companies."
+    publishedDateTime: 2023-07-19T18:34:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/07/19/china-panel-probes-ai-chip-funding"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
 
 secured: "tZSMUc2O4pEu3Vhe1puIRKeFNlVyAT+fpH93eKBN13AYV1YxFZuaNsY0QLuM7QjyuiZVks5FQ2hqnAWSCjCgXzAkMJhFcJ3GfdlinV6HBOZ9PvI9+35hzImkZWMdssFopcuN1MlMs4WwyEBgUpLaLwrZ+PttH3KlPF5wW9sjjuu/4mNbMehi8nLFmzUSZBd+3QgxrlWq0Okd/av3jhGZfdiAfK7RtBW2P8N2x26o3BvqtVCyIeakzjj5rEsQn434WCbI3RgF32BWz9iD6AfQN/b/pXz/nlE+hUA62JcaGQlHNHbMFVKAN87xXBtupx7NTurGFElegMRjwMEn7VNcT7/8lupZu57SFdpmcHwveq1o82fJ7hjFAKUj1xPuuAEAyOq3kStm1RN2aepOwbUmc1LcSIDYBrHcFZGTb9e3GH4FAuw8fMaWMu5w/tFBA2NES5CPRTqn41gRQa9AMolTXE/qHJkaUpqiiBZ461VLyVFkl06W9B/BDEKCx8buVkfGR/Y2BqzvhKNRksNNmXHPhg==;vUpJLB6LPuWaj0Os+FaJIQ=="
 ---

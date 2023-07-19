@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230719PD200/china-chips+componen
 webUrl: "https://www.digitimes.com/news/a20230719PD200/china-chips+components-east-asia-ic-design-distribution.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 427
     isCached: true
+
+related:
+  - title: "How to Build the Ultimate GPU Cloud to Power AI"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+    publishedDateTime: 2023-07-19T20:50:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "SzQ+DWLbV32vdygBM8Mg2kVNaJwQhYaetMVEFK4hvkg3yjdjblG+fALy6NnnDan2WacnfDWJUZOcaG4ncZIKJYciiG5VTQDzJgnyftvZ5mzv1n0lmo/oIIzOtRQLUNYRt+m0Vzzl3O6N969JcGIScaodl9FV2vcQhw4C58ckRmjFVfRXRdw3r2NFaGbru6LXv54ZUf6X9Lve/ejih5jRq0d3kNOEO2fYioO8AWw3SmVIxzZLb5UveZTtlggLqOe0nxQZPcFgXkx4uay2Efdm/vYUojStHKeQbulvlirH9IeD2r7gJOXwg9XFlZoQzVYaMMEk7z/6azqs5vz5j4Qxbyz2YovGmjhe6xpMQyEtqW8=;0T316uIhxZBtyOb4048Ihg=="
 ---

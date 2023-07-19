@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 149
+heat: 189
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apple sneaks into the AI chatbot race with 'Apple GPT'"
+    excerpt: "The news comes through reports from Bloomberg that the company is quietly working on a tool that engineers dub \"Apple GPT,\" indirectly referring to ChatGPT, the most famous AI chatbot and, until recently, fastest-growing 'app' of all time."
+    publishedDateTime: 2023-07-19T20:27:00Z
+    webUrl: "https://www.zdnet.com/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/76a73b14c05051fca5a16ac8d7091d54dfd725c4/2023/07/19/9414b9c4-6c98-4b78-9290-d60e8e12683d/tim-cook.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
     excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
     publishedDateTime: 2023-07-17T11:38:00Z
@@ -79,6 +95,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "LLaMA 2: How to access and use Meta’s versatile open-source chatbot right now"
+    excerpt: "A comprehensive guide on how to use Meta's LLaMA 2, the new open-source AI model challenging OpenAI's ChatGPT and Google's Bard."
+    publishedDateTime: 2023-07-19T21:12:00Z
+    webUrl: "https://venturebeat.com/ai/llama-2-how-to-access-and-use-metas-versatile-open-source-chatbot-right-now/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_a_llama_programming_8c825672-172b-4e69-a6f1-b7c9e8bf5294.png?w=1200&strip=all"
+        width: 803
+        height: 642
+        isCached: true
+  - title: "Details emerge on 'Apple GPT,' the company's AI chatbot it's testing internally"
+    excerpt: "A so-called \"Apple GPT\" is in the works. Now we have some details on the company's upcoming AI-powered chatbot."
+    publishedDateTime: 2023-07-19T19:02:00Z
+    webUrl: "https://www.androidauthority.com/apple-gpt-3346580/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 43
   - title: "Canada Excluded from Google’s AI Chatbot Bard due to Online News Act"
     excerpt: "Canada, unlike most countries, lacks access to Google's AI chatbot, Bard, due to the ongoing clash between Google and Canada's"
     publishedDateTime: 2023-07-17T16:19:00Z
@@ -121,6 +160,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple reportedly developing ChatGPT-like AI chatbot"
+    excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"
+    publishedDateTime: 2023-07-19T17:49:00Z
+    webUrl: "https://invezz.com/news/2023/07/19/apple-reportedly-developing-chatgpt-like-ai-chatbot/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 19
 
 secured: "WUFVGj4mhrkJ16tZ2fWmgkUvUpnhGyjoNfrbqa3VI4laCICWlWqJqHr8LB6ABkbxy6sM/8PqGAoWnegyg/IN5g2UVlK4OGB16GORfseU3qEemTnVauHjl4mMDcmiY4R/D6w48Y4YwY/r1QYmFPRSd4KdHb3WgVO1RArfZVFJ4kZrqFtQG4ybdFPY4V2Y1dEy2vp2ruTxjircJ/fJzGxeFLuGFWyBkEvALRR5tNiR0gURWcfjfGiLKSplC1aOmVRv8u3uoLqWzyrgaD7bvHA5V/nIus2pVAXv47hUTRq3r2jmuX+MKabYtcRb23YzXWAv3QavV54jmvNE+M/l9oU4XgAcFxnC+tzGAKY+70ClT5xHhcHlyC2eiTvkZm7Pb/zIAOyiCpSp7N38wI6wXPB3333KzfTH0QT8G54FA9M6PRwmM5qk7U2gZqKM/KpUsVaSh0Wo9b5t5av58ssZHTg12IT3XhjD+h9u55cHIkMXkRynIp9ACKVIbab96wluy3W8LwmChuoSJfoTo650awVBFA==;WZRuYutOu0LQWm6b5cOEIg=="
 ---

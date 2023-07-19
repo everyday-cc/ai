@@ -33,6 +33,15 @@ related:
         width: 2000
         height: 1233
         isCached: true
+  - title: "Predicting pandemics with machine learning"
+    excerpt: "Research in the International Journal of Electronic Security and Digital Forensics, investigates the potential for machine learning models to predict the occurrence of disease pandemics with greater accuracy than other approaches."
+    publishedDateTime: 2023-07-19T18:24:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-pandemics-machine.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 19
 
 secured: "4lLf8Bd/EFx2Zo8rIDn/iGACUVm3th8AyNMNoRZxXZtMxmj13v7/S3Xjz9nf+FeRa6SZCBZ6RDyl4C07z6GkHniHU4a31T08KoS69/jAvqsbC1iILCWADqv+CtD/dn6m4Zlr2ZtgngFTze7YCoKBVh9sdBLqSbX9RUy6hzPZan2Ld27YGSk3J4OP759TSPM/zYm0dQvAZBy3IOtqfKwg9hi0YNCawSX+En2O4pI9gqHvIouNq6uBx+D08M7g43yRhPQ41OflzDhQnq11ldolufPI3J01kz+M3xb33iSR/HWeC3pYlMBTRZsVq673nDA77LbPRSBnQnpBvr9wHWfSmMu0P6/GpdTOn8fz98LvZjw=;E44DMtEn0yECcmcyTrFkqg=="
 ---

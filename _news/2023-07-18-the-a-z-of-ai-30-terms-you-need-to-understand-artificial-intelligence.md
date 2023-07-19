@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/future/article/20230717-what-you-should-know-a
 webUrl: "https://www.bbc.com/future/article/20230717-what-you-should-know-about-artificial-intelligence-from-a-z"
 type: article
 quality: 82
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks"
+    excerpt: "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance."
+    publishedDateTime: 2023-07-19T18:50:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "A simple guide to help you understand AI"
     excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
     publishedDateTime: 2023-07-18T16:09:00Z
@@ -105,6 +114,6 @@ related:
         height: 549
         isCached: true
 
-secured: "DnqnpZeZtzwwAp7l1c/c20YDA6zJT9dSYzfsL4yOu8UYLYa/muGlUFcg24C8GK6NapqSM9pg6lmo/VDd2tnYEz9W68qpccf4oagfosDiIaIloO9tq1UQPVCVmJ2TiDEsFl1j3Iy2PohICvMiVt99NKlJ7Suqkyc2TdBqmJyu5FYbj30BoIcMvcPXBV8NM9L2mzyWKkI8ZkeN3I9t9OmgargCj7DG8DFiEN2SkGt2d65o3rCB+9ILlG3mbq4Do1HP6hpJvyyiRJkhUxqUFLq4/3efhv14D84LKu14kMtqYq9aAXuhqAydnU/XoDiYOk+ka/emVSMR4GbYoINX9H+g4yJ0PmUlhCpXKUiDLwfa8z0=;dWdbkJ2fvuTeAVkuzJIe+w=="
+secured: "6KH2Q3CA8JJYNsnxNaceK1kCMYvBdFHfQR6QoGr9qLzHXlGm81U/tuOvdinBYmpYJkdJZjDTKtz0kHeGtbNTYpvLsACg6RGDknP9E47laBKIS2QeYS7TEsVkk5PFnfpy7AVI1aq96px27nDvRm5Vv+EBzSXMejj1hdqEfivMW684Ofo6i8qMXlBfyKUWgbsfXHJsXSXH9wln8WLGIJXBnEUs/nSg6HmZvvLCCIbmkh8XtShT+GzvmhwzeDBiG2wH2nXbtSC9OVWi53536sIyu/3FGlQraXhcF/pnRGKZ+saAsYVMotwBlMyqvCyQesbYI+ntlDqRqbaJMQ90mwjbycIPNpm1dc/KYuYN3/8CtcNq3S/a0XlCX7uRAaStYjh/SFnXSeoNjvSKvbHnTXp3flPhziILNavR1Nz+V9WYuZ13nXTqLcZc4/rDmhirL8p6DBvwYK0NX8Cs/Lz96HM0ndcAwHNnEXMWtOIAPvluDxX9jAj07xl55lm7hFIdrGEXjdIcYQLAeYZUW9gkndX/SQ==;aTrkiNATP5Bv1Ga+IOt+rQ=="
 ---
 

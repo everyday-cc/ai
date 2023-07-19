@@ -65,6 +65,15 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "China panel probes AI, chip funding"
+    excerpt: "A bipartisan duo has launched investigations into U.S. venture capital funds investing in Chinese artificial intelligence and semiconductor companies."
+    publishedDateTime: 2023-07-19T18:34:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2023/07/19/china-panel-probes-ai-chip-funding"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
 
 secured: "RBhPEi775FVAxHmslg0EuSIOQarTSjJMyRmtyowbuKdGEagnX+myn7E/acmoYoDeTShSeTPNA8zQRyBXILwbLauv/xkG/VTPLUAt3lrb1ubuW0j9YZUZSLsun6ZqYs+WSR/MT7fp3i774Zljy1c9e6yRaa41v5+iCQLCFGNcITN8qHL47WYbZJPFu2vJyYd2DLz4p5BwgyvTUrgw9TdJbmzFmZLuqwc6+vtYXkUJlRobZ/mppupg1d8QH8UOFuzBo3v4gSJojOkZf00Ng/1cQ4OtJ4MewjVRQ0FViI+KjapxGdq/um3EvT+Ago8VaHMXh7XgPszcn8VgfnQzBBEQvNhat2wN5DURGxLkgfss9W4=;v6+4d5YNbXVC9dNvCR9gKw=="
 ---

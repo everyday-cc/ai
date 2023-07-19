@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 943
     isCached: true
+
+related:
+  - title: "Causal AI: Pioneering the Next Era of Artificial Intelligence"
+    excerpt: "Concerns emerge about the limitations of AI, machine learning, and large language models, and causal AI is seen as a potential solution."
+    publishedDateTime: 2023-07-19T21:43:00Z
+    webUrl: "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/brain_07.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Ld5k9bDCd9XCC/kA1quAA/THd6qV3R+FNWemtVVacGZOVitOGgR0LgeMnFf09Kd6y55E4xNd9QRO8+u5zqVhf7uNVI8xy/2Ntjv9rn6rUCTWbUQZ0H3lV4mmujiL8Og4nZJ8h9eHsivqsvwORfluGmxMfOQMb/5m15jq5xPnBmidk+a7KlgqTlwrOb8P/K3RhBwoo25nrWFWQVCHkNiWJuUGC1TF6E1PO1gU5ij3XQwGbF+t77i30OHX6bX+KZPNV4nJ8YptdYHvksenTiZTdV4Fod8LkCNPBjKRGSeTrK27DutRj2NqvB7kaEXXq78h208AU1pj0gm/c/xPPWLuZYBsH/1siCGZzxtqT4LCz1U=;5Z0S52zsPhOM95/98Zu39w=="
 ---

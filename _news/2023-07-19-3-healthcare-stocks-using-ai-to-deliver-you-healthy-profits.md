@@ -23,21 +23,46 @@ topics:
   - AI
 
 related:
-  - title: "What Can Ubiquitous Radio Waves Do For Healthcare?"
-    excerpt: "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare."
-    publishedDateTime: 2023-07-19T16:43:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
+  - title: "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector"
+    excerpt: "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this."
+    publishedDateTime: 2023-07-19T21:33:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200"
+        width: 940
+        height: 600
+        isCached: true
+  - title: "Developing reliable AI tools for healthcare"
+    excerpt: "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. "
+    publishedDateTime: 2023-07-17T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 86
+  - title: "How AI is helping to translate the Bible into rare languages"
+    excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
+    publishedDateTime: 2023-07-18T13:00:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 74
+    images:
+      - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
+        width: 540
+        height: 360
         isCached: true
   - title: "Opportunities and challenges for AI in healthcare"
     excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
@@ -53,20 +78,15 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "Digital health tools can revolutionise healthcare, says Brunei health minister"
-    excerpt: "Digital health tools have the potential to provide remote monitoring and data capture in healthcare, teleconsultations and information exchange and virtual care."
-    publishedDateTime: 2023-07-17T09:24:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/17/digital-health-tools-can-revolutionise-healthcare-says-brunei-health-minister"
+  - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
+    excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
+    publishedDateTime: 2023-07-17T09:13:00Z
+    webUrl: "https://www.pv-magazine.com/2023/07/17/ai-poised-to-enable-accelerated-transformation-of-the-energy-sector/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/17/2181557.jpg"
-        width: 696
-        height: 392
-        isCached: true
+      name: pv magazine International
+      domain: pv-magazine.com
+    quality: 8
 
 secured: "5QmXUuSRVJ7c/GJT7mkGXC0VKYXkkMtzvrv/P0kwUFU2PggmbNdxqxdNQHTudVrH3Pd445O5WmxiprILQsETqItQvb85SJAMgRFfYJFzc2OTmS4bEQdFOYQtiPpwWYweAdYMbiIqGlDglMwx5qTx3jnmxdwyj4QKDQ5Fd7e1k+wSIcqNZb4GQ4CL9uAZWGGKJ6/LWbSuKpnbAjrs+8cH84YisurkgtFNsgZkCkVCDl/GYIy6T/7Q4YAIlTcO1s0t1/zCIIbGssIrbSJ9OfQkgxY1P6FiEwEe9SLmFdPr7/WeObZ3637ooKscRZWjMINPXIOIsngaQ+1KQHpGIKaECZCfaV8foNLETPZwDXXJ2N0=;kY2kMKkcoRwNOIJzYgYlRA=="
 ---

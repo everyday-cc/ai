@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: The National Law Review
       domain: natlawreview.com
     quality: 17
+  - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
+    excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"
+    publishedDateTime: 2023-07-19T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33289997/introducing-paintit-ai-revolutionizing-interior-design-with-ai-generated-visualizations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "rskSINCiqvmmWNXhAtbiOl0Um79V10ENHvy5WsiJ086Knoq7QiU/WZdulH49ozZp+s6JCbw5qCTMb+KwW84RdTEYK8jQ3SySkhwL7QIobaKx2h+NiJ560zCUAEcWn2a3KvERWLLCMHdiEq/M1SNXrXd4A0GOeJAta2d5rqCNrD8qp2KqBnQ/udrIoR5ZR+l7AjC+MqXb3L3brevclD9EyVqq+Di0Wxfde3RrBy5o7WYyMd2dhchHJKeqEAjJQwo1BM9/4wA6zj/RxkpSM8gOa6gM8so3emi1JLLI1GSkVGsxyw+kk2+sO1pG8b9xk46UneX2wUFPmM4TwkOnI/yW/SliXceGYxlCNLeAyKmTWjfehXcLbe5TojHqBed2UYP/RZtQZ9cp5W1302CrEq/yS69IfUrVnywQ+3cgrQI1PkFywLKTqqeoIbTtabeTNaWSPoIO8hBg7xqI2JwFWQRlYq9MQTiN+ODLE1Auh2t1ydf70AMSLTivDspfO5HSz2PuJM+vehSeqdkEevcSbY4xTw==;yxzv7S0S7wU05h9u5IUaLw=="
 ---

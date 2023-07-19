@@ -25,44 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "More than 1,300 experts call AI a force for good"
-    excerpt: "Mr Carter, who founded an AI-powered startup cybersecurity business ... pointed to agricultural uses of the tech, from robots that use artificial intelligence to pollinate plants to those that \"identify weeds and spray or zap them with lasers, rather ..."
-    publishedDateTime: 2023-07-18T23:56:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-66218709?at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-66218709.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66218709.amp"
+  - title: "How 3 big tech companies are capitalizing on AI"
+    excerpt: "Club names Salesforce (CRM), Microsoft (MSFT) and Apple (AAPL) are showing their pricing power when it comes to artificial intelligence, as Big Tech expands its efforts to turn a profit with the rapidly-evolving technology."
+    publishedDateTime: 2023-07-19T18:02:00Z
+    webUrl: "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3426/production/_130405331_gettyimages-1422094538.jpg"
-        width: 1024
-        height: 576
+      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1689796952&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "UN envoy calls for AI balance of power"
-    excerpt: "China's permanent representative to the United Nations, talks with other delegates before a UN Security Council briefing on artificial intelligence at the UN headquarters in New York, July 18, 2023. [UN Photo/Handout via Xinhua] A Chinese top envoy to the United Nations on Tuesday called artificial intelligence a \"double edged sword\","
-    publishedDateTime: 2023-07-19T02:35:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/19/WS64b73acaa31035260b8173bf.html"
+  - title: "How militaries are using artificial intelligence"
+    excerpt: "Artificial intelligence has been a crucial tool for many nations’ militaries for years. Now, with the war in Ukraine driving innovation, AI’s role is likely to grow. Paul Scharre, vice president and director of studies at the Center for a New American Security,"
+    publishedDateTime: 2023-07-19T13:35:00Z
+    webUrl: "https://www.pbs.org/newshour/classroom/2023/07/how-militaries-are-using-ai/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/19/64b73ae4a310352610b92a07.jpeg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "More than 1,300 experts call AI a force for good"
-    excerpt: "An open letter signed by more than 1,300 experts says AI is a \"force for good, not a threat to humanity\". It was organised by BCS, the Chartered Institute for IT, to counter \"AI doom\". Rashik Parmar,"
-    publishedDateTime: 2023-07-18T15:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-66218709"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: PBS
+      domain: pbs.org
     quality: 17
 
 secured: "CoJue2y38CThnoVvnkxBNrA+vA28eDeRA847RhDAAscMhCvNmmk6z+/TmtIoD3aHGv24ImEmFNI/V8IYEvkY2I4/xZW4etbqpSFWwABSFpNsCGuuO9AxOaFfyty/4a0QwrnFezpT9nFNVLtlsd8ANkTx/pl653kb0bm2lpFTV+5sL10Xq54I4/uBuVO4YvMu54EwOf3EV/Wx4ey2doPG7gLxOL0s9WZ7MbBt/X8gQYb6wV111TnkcaqyenUIbS5+SMqMPslDsGwQTtv7pRKPsfWDOldXEnoNPKN55xhe8Q/x+q3ibcDN93W9VcA7Mz6J3T0Vtaa5qw4YQvflYJUS/ghDUhF6MsjTNg0nRfB5iMI=;9ICnQTjfYG62US7TWupxZQ=="

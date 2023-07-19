@@ -46,22 +46,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free"
-    publishedDateTime: 2023-07-18T21:25:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-makes-public-chatgpt-rival-llama-101422359"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-makes-public-chatgpt-rival-llama-101422359"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-makes-public-chatgpt-rival-llama-101422359"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_9431120efcc8e598c3d34af9b5201d1c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Facebook parent Meta to make ChatGPT rival Llama public"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T22:44:00Z
@@ -156,6 +140,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
+    publishedDateTime: 2023-07-19T13:00:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 24
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T21:00:00Z
@@ -171,6 +169,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ACYy6CTkACKzxmpEkmiVE1HRAFXW9UXBNqG5SetommxZuTPIuYlozBC99j8jT0+AKg5ZpTxogekdDRkVldvX1y3badwlebxKRP97gzE+7kaTOi9whpk27FSmz5l+/+2TJWz2X2LLu34f3FtnYksBrLSE4tnGnSg5Fehrta/+el2OkYVycVbvFjN4gNLY4J2KCA7a1ZVbn8Ps4yb7Qn3EFDmHtWbGAH5UzMAstZGnVJvY2unFQMdTjx+N0OCIei0Oweyf66XCSxiDoIQFX5k/cfRhjaa8pYtb/MeK7fp5Ja6MxvkCn2Rrz6Hvh83m/n+GfwI+amTlk2DZZVkfiHdhn6wzzpQlPKerj4rPCa7FF1M=;OUeGiqgZx4rnmMeTLou30w=="
+secured: "JjGvJjGek+zN5ouFcF/aEFp/IyGERcrMTt8MivBtx95k8I8mxRyt0cd7KhaFr/6XCq9mxZ9G/53z1mKYve+61HdWFpdtUPrfB2yaY1nCFcbQzVOEBDElDKdGIU+a8LFkGsXHwE1VqRqNwDrw32l8RyAo3ESqz5uMXH0Uwr4Uob+c/EhyoJ4bhVI/+jNwa600JwMoh+m3ExRqdoatEUpdgLb9I/XbIz22roOzIb5aA37JrFfbkquAwIw5jIQa2WHi5wo4ynxqwx1AdqjAxoK8Re1PGvwbzLMiOVagGO9ktycAL2r69hphOOQkR89aEzi7WVHCHVyMNq4b6/HG9B4C7bK/Cz9VI3budM0F6nqlfiX2aYHw4mFqYoTjy8NaDGBigTgCBDgBwi8AmI9gxUSSTdaxQOspqLqckuCzA+ngocxIw23atmX4WMs95NbpFarb+bVE9+yRpk9T5XEf8HQVQHAGGN5mIThQbLOq3IW8wgc7n6AlvCZBIhRuGTAGGON0T1zqCu9gq6RsyXhtQxaztg==;DiqS24G0ZwoshkIzsnXHRg=="
 ---
 
