@@ -91,19 +91,14 @@ related:
         height: 420
         isCached: true
   - title: "UN holds first-ever talks on artificial intelligence"
-    excerpt: "UN Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
-    publishedDateTime: 2023-07-19T07:50:00Z
-    webUrl: "https://www.yenisafak.com/en/news/un-holds-first-ever-talks-on-artificial-intelligence-3666982"
+    excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
+    publishedDateTime: 2023-07-19T04:57:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1205926"
     type: article
     provider:
-      name: Yeni Şafak
-      domain: yenisafak.com
-    quality: 37
-    images:
-      - url: "https://img.piri.net/piri/upload/3/2023/7/19/f6846f9c-8vucy46lnqi0zy34ienb9.jpeg"
-        width: 640
-        height: 359
-        isCached: true
+      name: pna
+      domain: pna.gov.ph
+    quality: 17
 
 secured: "LsZLQdjaSXPIrMexfA3sZTxnlkRUxk1TqhfzQUo/zOg7lMDprMf5luBLAN+GhtGwojQYUz/3larrzlMx2i3U7tkXgKwAdv41lLjLsqFXUCiBAIpDB1SScBdChZIjiEgVp0WXBDKcXofo/eAw1gH4ZqzeNXKE2viV/H1KoBRASC4Ev4v72fFrlpU9K0ppeS2Yej2Sk730bEGISBW97Bq2fVFeymJlq61o7CSUckWfbrMfYX4KMTH60SQhTMffH1TxNaPl6oLK8UZ2R2fHwLCt81MgOO3szpBH44ylAAnU2imqMJxALHPa9/j2xMPaAi0O1/gygWnR+vrfxryTDThID6UIflr+k19auA2ry22Ky3w=;bNITWMRHY4qqlo7jksZGlQ=="
 ---

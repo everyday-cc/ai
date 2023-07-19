@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 825
         isCached: true
-  - title: "How Walmart’s Emerging Tech team is transforming retail with conversational AI"
-    excerpt: "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity."
-    publishedDateTime: 2023-07-14T15:57:00Z
-    webUrl: "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VB-Transform-2023-banner.jpg?w=1200&strip=all"
-        width: 1200
-        height: 660
-        isCached: true
   - title: "What next for AI and ML in financial services?"
     excerpt: "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance."
     publishedDateTime: 2023-07-17T15:40:00Z

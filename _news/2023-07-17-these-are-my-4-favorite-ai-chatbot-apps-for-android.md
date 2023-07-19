@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A622/production/_130403524_cooperrusi.png"
         width: 1024
         height: 576
-        isCached: true
-  - title: "New ML benchmarks show best algorithms for training chatbots"
-    excerpt: "As quickly as AI and ML have grown, MLCommons has been updating its MLPerf Training benchmarks. The latest revision, Training version 3.0, adds testing for training large language models (LLM), specifically for GPT-3, the LLM used in ChatGPT. This is the first revision of the benchmark to include such testing."
-    publishedDateTime: 2023-07-14T15:38:00Z
-    webUrl: "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.html"
-    ampWebUrl: "https://www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3701939/new-ml-benchmarks-show-best-algorithms-for-training-chatbots.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 76
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/29/19/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-large-100935023-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
     excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"

@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Explainable-AI Image Recognition startup initiates Medical Imaging for pathology"
-excerpt: "ZAC has an impressive team of scientists and developers. The development is headed by Saied Tadayon, a scientist and veteran software developer and a math prodigy, who ranked 1 st as an undergrad at Cornell and got his PhD from Cornell at age 23."
-publishedDateTime: 2023-07-17T17:25:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/17/9849265.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/17/9849265.htm"
+title: "Explainable-Ai Image Recognition Startup Initiates Medical Imaging For Pathology"
+excerpt: "ZAC has an impressive team of scientists and developers. The development is headed by Saied Tadayon, a scientist and veteran software developer and a math prodigy, who ranked 1st as an undergrad at Cornell and got his PhD from Cornell at age 23."
+publishedDateTime: 2023-07-17T17:53:00Z
+originalUrl: "https://menafn.com/1106615494/Explainable-Ai-Image-Recognition-Startup-Initiates-Medical-Imaging-For-Pathology"
+webUrl: "https://menafn.com/1106615494/Explainable-Ai-Image-Recognition-Startup-Initiates-Medical-Imaging-For-Pathology"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2154746/Z_Advanced_Computing_Inc.jpg"
-    width: 400
-    height: 287
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?428809"
+    width: 375
+    height: 250
     isCached: true
 
-secured: "ZomyoTgcSw8RuaoSQiB31VP9ZJG0Ss/mS4oqEphvYTZ/h403AT6n6ID5a2Fa+iHyWF1JlHTzYeUjX15JEX/LohGMK9Q49FSutMMZ3rX2LuZ2qjtoMoKPa3IE83ZDGL5PXjH89/TyXaQkUtD8aSCeIRXkoz2ondmBwxjQ7/khPJ0gekFLaJPa+pS04lrm0B9RPas6BOkhY6t2zzMcXYsEIsWaj0FX+z0dD98zH3ayfTKCy888f2csF0qZhOJu08omAnGNaAEIxJfNbFuMY1FQQHG2PraRhUHGqZW/SzqtbIow54CYaHRqVFdOCHXglpbShZNccWUFvJRfaDdCaIkbXx0UuuE2F4oxau9tq6kldVc=;0+ERLqZm56aZ8Ncxr5H4JQ=="
+secured: "v7SrGI5qiNKuFjY+ycGF+qJysOQkzK/0suCPGg4ZgASsYTgHg57Rxq33kT3SOPUp6T2m0KYVOFpXtDXe29Rn4ao13EFdwa2nPPLeap8dWEVEreNuhmWl1DS9Sdm72NZSHdgRZHSXkFXUQBomsosCDCV/GmGVdBPrWH4Qh8EFZdCRkA8c9doTfPdl+w69burz9N82VPcRbmQWpIZitTBTGlWsoQWC8OzjJgQSaovZvwipKjCCf/Mj6wTFA3qmuf/GtncxIZOvjn2j8qoHx1zIUofO7RthGG3T4pD2SyOBam/ga5b/8eqTG6NreTFfX+cDVnUebeI9DAcdwnsWgd1ZDmQnZlZp/PFYW7Vng4CFEkA=;zpnvQymx5V7CBj5oVLkDww=="
 ---
 

@@ -67,6 +67,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Ben Fordham doubles down on blistering assessment of Anthony Albanese's leadership on the Voice to Parliament"
+    excerpt: "He said the government could drop the Voice as part of the referendum, legislate the advisory body and instead propose constitutional change via recognition of First Nations people. “Take the win-win, at the moment he’s got a lose-lose,” Fordham told ..."
+    publishedDateTime: 2023-07-19T09:33:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 25
+    images:
+      - url: "https://content.api.news/v3/images/bin/7e389e4362267d89db6430f8cd9e56a1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Young Australians must vote down the Indigenous Voice's 'emotive' and 'abstract' rhetoric unless they want it to come back and haunt them"
     excerpt: "If I was to shout, “I’m against the Voice to Parliament!” in Federation Square, how many young people who overheard me would immediately shout back, “Yeah, because you’re a bigoted racist!”"
     publishedDateTime: 2023-07-14T19:59:00Z

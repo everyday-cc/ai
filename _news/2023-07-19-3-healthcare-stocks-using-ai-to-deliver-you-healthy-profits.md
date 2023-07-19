@@ -32,15 +32,6 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 86
-  - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
-    publishedDateTime: 2023-07-14T15:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-biotech-stocks-using-ai-to-change-healthcare-forever-1032448046"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Opportunities and challenges for AI in healthcare"
     excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
     publishedDateTime: 2023-07-17T15:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 type: article
 quality: 119
-heat: 619
+heat: 629
 published: true
 
 provider:
@@ -256,6 +256,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_07_2023_22_21_02_8107165.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft, Meta open AI model for commercial use"
+    excerpt: "According to a Microsoft blog post, the new free-to-use model enables developers and organisations to build generative AI-powered tools and experiences. Llama 2 will be distributed by Microsoft through its Azure cloud service and will run on the Windows ..."
+    publishedDateTime: 2023-07-19T09:34:00Z
+    webUrl: "https://www.itweb.co.za/content/KBpdgvpm4Zk7LEew"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KBpdgvpm4Zk7LEew"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdgvpm4Zk7LEew"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/07/Meta-mobile-2023.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta and Microsoft Team Up to Distribute New AI Software for Commercial Use"
     excerpt: "Announcement, coupled with details of Microsoft’s pricing plans for artificial intelligence in some software, underscores rapid AI development at big tech companies"

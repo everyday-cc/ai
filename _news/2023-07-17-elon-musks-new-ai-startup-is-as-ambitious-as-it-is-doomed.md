@@ -67,6 +67,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "OpenAI will give local news millions to experiment with AI"
+    excerpt: "Some of the funding will go to form a \"studio\" within the American Journalism Project; the rest will go to about 10 of AJP's grantees."
+    publishedDateTime: 2023-07-18T20:09:00Z
+    webUrl: "https://www.niemanlab.org/2023/07/openai-will-give-local-news-millions-to-experiment-with-ai/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 39
+    images:
+      - url: "https://www.niemanlab.org/images/midjourneyopenaiajp-700x392.png"
+        width: 700
+        height: 392
+        isCached: true
 
 secured: "hElwPa1orUhcZK8oxvKn9PYMmjV1jQIovHaHqhLCXY1NWZRKA0TW49NAsN8ozHu9Ni2Nk7Wo6KWMa3cMMPq2bgGBn+r8MLGomiDhzh88dLarfVJ7X+XP2weHDsmtMcubn4xVX7x6B49hq/Kw4Oh3K85tGrxime7MQR7YagJGDnfW3KG+jfyAE5uOiFh9ckAwRrPn1gN0qiLr7Be2kBQjKJrvNlJtoxYN18gcwG6vWKP2RbIpEowtbAaGQQh/9jgkEDizG/v6TE5gRfDdSNa/T/deZgRTzPMn08Hon9dYkFGUuJGct5SSDQdaffMBfm69NyPiwkvaDMHEJL3DroiZO1ChIEuaQwmBNbOboJdHk8O+BKc2pfxH86S4vmREFsprsi5RN4RHNTdrYLL016bTOti7Vu8dve5HFlt6xIyoMHPk5uxoaMLjvucRoX0cBopeEr6Jb/Q/voW2ahVe4jyN4A48ZsqtOjdeGQjy87Q9pqcSH87RfXFavuxXjKAhGeojzHJGZjyhGRMLgeXj44HJiA==;itHP7rquPnfvLd90ff+xyQ=="
 ---

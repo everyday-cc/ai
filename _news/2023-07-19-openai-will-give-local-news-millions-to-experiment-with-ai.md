@@ -25,93 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic"
-    excerpt: "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information."
-    publishedDateTime: 2023-07-14T15:28:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
+  - title: "Elon Musk Says His Artificial Intelligence Company xAI Is A Direct Competitor To Sam Altman’s OpenAI"
+    excerpt: "Upon being probed by a user, Musk admitted that xAI is a direct competition to Sam Altman’s OpenAI. He also introduced the founding team of xAI that has many former employees of DeepMind, OpenAI, Google,"
+    publishedDateTime: 2023-07-18T08:08:00Z
+    webUrl: "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: in.mashable
+      domain: mashable.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 848
+      - url: "https://sm.mashable.com/mashable_in/seo/default/el_jynx.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Anthropic CEO to testify at US Senate hearing on AI regulation"
-    excerpt: "WASHINGTON, July 18 (Reuters) - Artificial intelligence startup Anthropic's CEO Dario Amodei will testify on July 25 at a U.S. Senate hearing on artificial intelligence as lawmakers consider potential regulations for the fast-growing technology, the Senate ..."
-    publishedDateTime: 2023-07-19T00:54:00Z
-    webUrl: "https://www.reuters.com/technology/anthropic-ceo-testify-us-senate-hearing-ai-regulation-2023-07-18/?n=@"
+  - title: "Elon Wants to Master the Universe With xAI"
+    excerpt: "The name of his latest venture plays into all sorts of Elon tropes, from using the letter X to announcing it on a date that adds up to 42, the number that “Hitchhiker's Guide to the Galaxy” author Douglas Adams cryptically offered as the single answer to the meaning of life."
+    publishedDateTime: 2023-07-14T22:41:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/44IaGqngsHdIVZKOFKflFDq7gmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DSFZ3QT2C5LWHAK5BJJNEXVI5M.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Anthropic launches Claude 2, the next-gen of 'friendly' AI chatbot"
-    excerpt: "Anthropic, the company founded by former OpenAI research executives, has released the next generation of their conversational"
-    publishedDateTime: 2023-07-14T15:13:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
     quality: 59
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Anthropic-claude-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/14/1600x900/Elon-Musk-Artificial-Intelligence-0_1689332861988_1689332882200.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "AI Startup Anthropic CEO to Testify at US Senate Hearing on AI Regulation"
-    excerpt: "An annual defense bill is expected to have many AI-related provisions including a report on AI regulation in the financial services industry."
-    publishedDateTime: 2023-07-19T06:24:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
+  - title: "Elon Musk’s new AI startup is as ambitious as it is doomed"
+    excerpt: "Elon Musk’s new AI company, xAI, says its mission is to understand the universe. But Heisenberg’s Uncertainty Principle, the Anthropic Principle, Wigner’s Friend, and other classical and quantum physics theories would seemingly prevent this."
+    publishedDateTime: 2023-07-17T16:02:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed"
+    ampWebUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 56
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 57
     images:
-      - url: "https://i.gadgets360cdn.com/large/canthropic_reuters_1689747892578.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/30cf8b46-4f22-46e2-8965-e48a1780903a.jpg"
+        width: 740
+        height: 492
         isCached: true
-  - title: "Generative AI And Data Science Have Mightily Paired Up To Reinvent Data Strategies, Exemplified Via Release Of OpenAI’s ChatGPT Code Interpreter"
-    excerpt: "Generative AI is increasingly going to be a front-end tool for data science, which will shake-up organizational data strategies. Here's the scoop and what to do about it."
-    publishedDateTime: 2023-07-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
+  - title: "Elon Musk wants to master the universe with xAI"
+    excerpt: "Elon Musk announced xAI, a new AI company, on Wednesday with the goal of understanding the true nature of the universe. He's assembled a team of AI researchers, many of whom have left Google, and has access to data and powerful chips from Tesla."
+    publishedDateTime: 2023-07-15T11:02:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-wants-to-master-the-universe-with-xai/article67078830.ece/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b4bdecf8d20b23cae9bcfd/0x0.jpg?format=jpg&crop=2308,1299,x0,y73,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intellectual Property and Artificial Intelligence Art"
-    excerpt: "The growing popularity of art generated by Artificial Intelligence (AI) is no longer just a question of whether it is morally right to replace human artists. Now the discussion has expanded to consider the possible legal ramifications of art that is ..."
-    publishedDateTime: 2023-07-18T19:00:00Z
-    webUrl: "https://www.natlawreview.com/article/intellectual-property-and-artificial-intelligence-art"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 17
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "Oq5oCjharyx10DZ1T7VJYv+lJWAlayljDkMYgI7o3YJvqXUjFWHdZYd8iMz3eqHKUlDd0W3lApURj7LEwOUVvH0X4XlYYOi0YR3AujtdtKOdkggoVanDaa2Y1+K+fX8Nsuq7Fj5iPF2nFZ258iCVr4zCB6JKgz14jUeYVG2WxDbltk52G3fScXkHIa7Y4raWP0GOl89wQOBL7Hp8xD3MbF0kyJ/0FscDIiCi0jUw0mpnj7kZKd8xxJ8afTjxcgiEtPtWq25Y+lYxS1j5YkwshuBb7qjK8ZGAAM9ewzfGPp7SP5GmYBN9sawg81i1BHE3ccomVNpCEGpVk9TAUsSrEfFg1F/FWKb6AZVtRPvWZtw=;XjGOod4VfsZKER3kKjl0yA=="
 ---

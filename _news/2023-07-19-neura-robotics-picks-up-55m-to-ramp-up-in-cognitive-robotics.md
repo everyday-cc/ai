@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ram
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

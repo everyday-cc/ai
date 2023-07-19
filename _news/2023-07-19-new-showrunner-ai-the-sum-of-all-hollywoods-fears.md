@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -100,15 +100,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "AI worries spread from UN and OECD to Hollywood"
-    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
-    publishedDateTime: 2023-07-14T17:15:00Z
-    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "9IMyXE00KQ4zIcp9dxlqw/QkfJtM+BYdXF0FfiM4khCfLQ97aRZCHWGsiPqulyVyIZy1nTnzTrGZmVuUDWqI84K/u6ifBuLhAQj7ApmsIEYcOG7Gx0G14gdtRZp8AME5qoxUZQDmXdFEunVXrbY4cWDsxRh2zO9vOOGvT5EA2PCmEBtwAf0oU73GL0g55T2zUcXAGLBOGqHsSnP0JpeI+Vlt9e1MtZ1DBNBrUyhqHYYDacmiele6s+qqvQPoZ9BFbg1HvHPNZOj542B/QEIhPkbr5EwaB2+LxUqgp7fvvlXB5Jn5oir9IrygJGSbKjz/DXP8IQh42lrPmbkGuKbgZkqOyI1G2jPcO5kAGpVgUjgC8t3ozvztRVamRpb8zWgjkMG9y1xSrnv6oRi0+KfOHpqeRg5PqREUbQC6OPETGt1fDATwyBQ0iT+QnrsZbQ1bPXgpVF34id5v7jWV9eZS4KwJ4ABJ8q/SzNXIBMJ7i+n3p3UGUTZ5B9ljaVYPGMzlCoKMNMSvNSOv9Pm/xxPzXQ==;8exfUrpw7LOF0v2CZePNjw=="
 ---

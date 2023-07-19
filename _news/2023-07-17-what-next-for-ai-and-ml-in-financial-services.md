@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 825
         isCached: true
-  - title: "How Walmart’s Emerging Tech team is transforming retail with conversational AI"
-    excerpt: "Conversational AI use cases at Walmart include shopping assistance, customer care automation, and improving associate productivity."
-    publishedDateTime: 2023-07-14T15:57:00Z
-    webUrl: "https://venturebeat.com/ai/walmart-emerging-tech-team-transforming-retail-with-conversational-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/VB-Transform-2023-banner.jpg?w=1200&strip=all"
-        width: 1200
-        height: 660
-        isCached: true
   - title: "This is how generative AI will change the gig economy for the better"
     excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
     publishedDateTime: 2023-07-15T12:00:00Z

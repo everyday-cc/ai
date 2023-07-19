@@ -1,27 +1,21 @@
 ---
 category: news
 title: "UN holds first-ever talks on artificial intelligence"
-excerpt: "UN Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
-publishedDateTime: 2023-07-19T07:50:00Z
-originalUrl: "https://www.yenisafak.com/en/news/un-holds-first-ever-talks-on-artificial-intelligence-3666982"
-webUrl: "https://www.yenisafak.com/en/news/un-holds-first-ever-talks-on-artificial-intelligence-3666982"
+excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
+publishedDateTime: 2023-07-19T04:57:00Z
+originalUrl: "https://www.pna.gov.ph/articles/1205926"
+webUrl: "https://www.pna.gov.ph/articles/1205926"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Yeni Şafak
-  domain: yenisafak.com
+  name: pna
+  domain: pna.gov.ph
 
 topics:
   - AI
-
-images:
-  - url: "https://img.piri.net/piri/upload/3/2023/7/19/f6846f9c-8vucy46lnqi0zy34ienb9.jpeg"
-    width: 640
-    height: 359
-    isCached: true
 
 related:
   - title: "UN Security Council To Hold First Talks On AI Risks"
@@ -103,6 +97,6 @@ related:
         height: 420
         isCached: true
 
-secured: "O+57YRpdEIggmXtFgxYCurFlTG/ax6Lyq2t/9GL41iCR6e60wpsUDfJ2iZK2RriJMLFd1uf4oefvXQaVGu9U5Hc0qGPO/gM/cpWPSC0GA7Gsjhci1DlyqG4YRyjcSts2QwErYrP5sNlAcH+E0ltauenIqsPXjy6frqKW9vfD+fqWCNzISxhblCrndrZSI7uc7J4savXgrdEZYPa+kq3wMtKyhzy7hh63zMsAqtOjwBiINgkEJeFrhv9LOIAxENSjU99YEXlEMLIK/ufELk/+ED6WTO8gvnEua+iwIYmPUT8wTuu0jaZjwFAKDbCkJscOydF6WbiX9HTdYZfaZ3N5AY9hh+JXFhjKO2uh4U9+suE=;m3kORGGN/XQ2P5OxE3dTdQ=="
+secured: "7rnnKWcgRW0W7S32nuFzIj9en29M1MVRhz4hfBPSGF0GP2WtLKFPlWJsloOgdrwbflBMha0I8xBhlL9y4Nhqh80NcCaacm4CYCcf5oEMFQ479UmyNUzLXhH4x3OJ43tjWqZUD+hZ22K/k2qD9Hl0qBN5cxZGQ/LNqARQ8nq4TJzOUJoSOrFQTtC6wTCmWfoEAL/jPK1STky3/aWfs1GIc5a39aG33k44+C/WUKUODWNoQqD6K1Ucrvsqv56Ba9aQylrHfyTQedszOEigv0lyUKqMUVvWcq9jGukZTaqY4YFQWY3Re9R/fB8jtuP+qH6l+6aCJIQGgE8Tmduq2+NCvmz8jm67tXsp0IxdgK3TZHk=;JqpG/eVwgXoKlbqPV3rRuQ=="
 ---
 

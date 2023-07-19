@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Authentication May Not Be As Secure As We Think"
-    excerpt: "In a digital age, security has become an increasingly prominent focus. You’ve probably heard about massive security breaches where people’s per | Technology"
-    publishedDateTime: 2023-07-14T17:00:00Z
-    webUrl: "https://www.labroots.com/trending/technology/25576/voice-authentication-secure"
-    ampWebUrl: "https://www.labroots.com/trending/technology/25576/voice-authentication-secure/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/25576/voice-authentication-secure/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 24
 
 secured: "sD9CaCBMUIhVSikzjR+3KeXq4MLhLfHenxQLRHjGefFLymnsx5BpYnVYAu8vkh4GfqHojclO/I9gxEk85766pkmYUMkyrCbDqo6Bz28i+DdNLTN/GLy6IgEefjyVD8n3RFXCeg+HyyBrw6pbAIOxw6XtAOYH7dS0+Fet9zN2mJbh04w72sH9HZaUB9XEOp2mylNrxpRCb8XoQGfvhqUk/2S/iyh3K6Bpo8XhKrVphwhAAP05PfyLop0BVM9FqYKC2+nwvOiOxk1nK0gYV/Bd1EoZXyo52WvsAskDgo2MI4pWpviRp8A4EtsvJBD+DtUDCIcahbDN8FXZA2LtB2emaZW/zMJtOwyZmcveqx0jux4=;cQxg2VPvPOqY2iYf5hry1w=="
 ---

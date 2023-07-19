@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Brings Ethical Concerns, Say Pa. Ethics, Tech Experts"
-    excerpt: "From a purely competence standpoint, [the technology] is not at a stage where, in my view, it’s particularly useful or reliable, said Fox Rothschild partner Robert Tintner, who oversees the Philadelphia Bar Association's ethics hotline."
-    publishedDateTime: 2023-07-17T20:18:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/17/generative-ai-brings-ethical-concerns-say-pa-ethics-tech-experts/"
+  - title: "New Startup Looks To Blend AI And Nuclear Energy"
+    excerpt: "OpenAI's founder, Sam Altman, foresees a future where AI and nuclear energy work together to tackle the energy demands of AI operations and help solve the global energy trilemma."
+    publishedDateTime: 2023-07-15T21:00:00Z
+    webUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.html"
+    ampWebUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 69
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 57
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/07/AI-Ethics-Law-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-07-14_0fjd7wmdfp.jpg"
+        width: 718
+        height: 300
         isCached: true
 
 secured: "hix9VtIhkI7hlS7+X73kyr6kfFWiTfmgF/MvZjEjLfN61UAMsLA6bwDIX46V4fvGYti7YuoSSl3ciERJN0+/o10uuCbrRa0mN7126YEIvnN3Go0G7FMYtkNT8Tk3EN1PIm3Yh7PkoukNuPSwzaYwBWmqXH3RjF6edaI/IRvvngzPAH7NtWvQelMdv/d4eQQO/Iis3q1Seh0x+szl1nwNB2a9dTW13J3KoQInQ/gZcTEEa9RSL113pJYGcNWl8H27G9WlRZwO8XCQHKKjNos7pCxmc5J3JOQiusBMjjYko6h5c6nA3LI7zcm62eRUnDzdGOMWzK/ar7gkMWgVlDzQN6HAsPclnK44HoUrtdxuwyB2qhTmw7s671nN7P4nKKnEomLbNI2oroazUU7TYLv4caN6tKw9dafqgaNFSz+udsI/BGvt2iGUuuXlNOKolD2c3RuGE69CnLNkFj0kzxDyBzXyPXPomujGxVh9FrfWgchXlFqj5GKvLhfpFav/Q0etLzskT6qwQZOB0378RmjyMA==;J3ivhfOR4gtTncp7sydptA=="

@@ -101,15 +101,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "AI worries spread from UN and OECD to Hollywood"
-    excerpt: "For Unesco, the UN’s scientific and cultural organisation, the implications are much darker. It weighed in on Wednesday, arguing that AI-driven neurotechnology, which connects computers with the brain, was advancing so fast that it threatened human rights and needed global regulation ."
-    publishedDateTime: 2023-07-14T17:15:00Z
-    webUrl: "https://www.ft.com/content/ff29c447-4f9b-4a6b-b009-c224d0eee139"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "IKG4X8PPoakip7x3FK6Ctulo6BJfgp54FvPYIIM6okBiCtEjsEYQrmhEYrOIsci7LVgFJAU1WebEYC3s1fAo0RzwHeSzMp7jK1diZya+DzT6qFnbZCem1d+0zvZG794g8y5eSEaC+PfO6NpuEGOx4Ma4zLiE+UCQYH+cLyXUEOZfqYq7urnRX9C6HGiYdNsof/JVVPHij4ZufyTqhnusNlwwur1ATejN0XGlIRV/HwCtYPMZRH3tgi3MMiJQpCqLJaHiuLshcgfv6vEoHDMEmAsi9SGgiPAPnUAJYKwUBWrmDEZRDmWuJ6vSJXZ2ODfux5xAevmhRSZ0NyiCF9XMZ6UfODoeHPwMoFN5nRTcrvM=;Td+kRNVuRMn3Nhv+bHoZhw=="
 ---

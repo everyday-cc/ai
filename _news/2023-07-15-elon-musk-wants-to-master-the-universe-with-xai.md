@@ -67,6 +67,20 @@ related:
         width: 740
         height: 492
         isCached: true
+  - title: "OpenAI will give local news millions to experiment with AI"
+    excerpt: "Some of the funding will go to form a \"studio\" within the American Journalism Project; the rest will go to about 10 of AJP's grantees."
+    publishedDateTime: 2023-07-18T20:09:00Z
+    webUrl: "https://www.niemanlab.org/2023/07/openai-will-give-local-news-millions-to-experiment-with-ai/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 39
+    images:
+      - url: "https://www.niemanlab.org/images/midjourneyopenaiajp-700x392.png"
+        width: 700
+        height: 392
+        isCached: true
 
 secured: "LRPhdtTFYZqZXjqDGeOGWbw5ILDR7cGwNgdlnFZKuz5je1e9OKHRpVXjDwFrdURVnm76hNigsJCNk1umvGeqDqWiP2l0PB/VLtnCuaXJL7B1OVz+L2qurPBpK37p05w29dpxgRBes/dC5NkDfFGp/hrXws1GbWaS3qWk7B+N9xvRNyx6ihFe3/Uxpag6qbCofSKlAcbE1aPAQ23mTyABBPyhrxV50PUajwZUk62Xr0MXSza0JDzqcD+SlQAxfcXj8QRHQuRSVdz6ZJ1YzqDis/himYOeH0SCbdRypbmQI/VReoNorWYYXEDniDYslt0UgplpJp5Wx4us7dqxxL1TLOe4Im5hKE76NR4jhtOM73HF8hhhm2kN56Txdm3y7z0E5ZDif2TWHjqk9wfnjoCQ3IbwDvX3oO9LZW8OdZNOEgTYzyk/viL2VHCWYZ102DLF48/FqXK/6mm/75uC+CPIBTZuUlcduoAQrY+U8a/FOZthcmDQLVluNI9tlEwOgG5+IMtHVxRavA3gsKIKzlovdQ==;5VyPJVKW0tjNxncp7YtpGg=="
 ---

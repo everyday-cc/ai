@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-f
 webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "3 Biotech Stocks Using AI to Change Healthcare Forever"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The past year provided a peek into the future of biotech and healthcare."
-    publishedDateTime: 2023-07-14T15:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-biotech-stocks-using-ai-to-change-healthcare-forever-1032448046"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
     publishedDateTime: 2023-07-18T21:36:00Z

@@ -269,6 +269,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft, Meta open AI model for commercial use"
+    excerpt: "According to a Microsoft blog post, the new free-to-use model enables developers and organisations to build generative AI-powered tools and experiences. Llama 2 will be distributed by Microsoft through its Azure cloud service and will run on the Windows ..."
+    publishedDateTime: 2023-07-19T09:34:00Z
+    webUrl: "https://www.itweb.co.za/content/KBpdgvpm4Zk7LEew"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KBpdgvpm4Zk7LEew"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdgvpm4Zk7LEew"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/07/Meta-mobile-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
     excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
     publishedDateTime: 2023-07-17T15:07:00Z

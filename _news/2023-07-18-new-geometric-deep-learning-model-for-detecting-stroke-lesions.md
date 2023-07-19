@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Model Can Detect Stroke Lesions More Accurately"
+    excerpt: "The proposed approach outperforms other neural network architectures by leveraging rich geometric information to segment brain stroke lesion images."
+    publishedDateTime: 2023-07-19T09:13:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/deep-learning-model-can-detect-stroke-lesions-more-accurately-376425"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/376425/deep-learning-model-can-detect-stroke-lesions-more-accurately-376425-640x360.jpg?cb=20230719"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Novel geometric deep learning model improves stroke lesion segmentation"
     excerpt: "Ischemic stroke, which occurs when a blood vessel in the brain gets blocked by a clot, is among the leading causes of death worldwide."
     publishedDateTime: 2023-07-18T19:25:00Z

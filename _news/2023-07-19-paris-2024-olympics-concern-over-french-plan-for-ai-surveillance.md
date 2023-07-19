@@ -2,29 +2,28 @@
 category: news
 title: "Paris 2024 Olympics: Concern over French plan for AI surveillance"
 excerpt: "Abandoned luggage and unexpected crowds - real-time cameras will use artificial intelligence (AI) to detect suspicious activity on the streets of Paris during next summer's Olympics. But civil rights groups say the technology is a threat to civil liberties, as the BBC's Hugh Schofield reports."
-publishedDateTime: 2023-07-19T01:47:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-europe-66122743"
-webUrl: "https://www.bbc.co.uk/news/world-europe-66122743"
-ampWebUrl: "https://www.bbc.co.uk/news/world-europe-66122743.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-66122743.amp"
+publishedDateTime: 2023-07-19T08:47:00Z
+originalUrl: "https://www.aol.com/news/paris-2024-olympics-concern-over-014723746.html"
+webUrl: "https://www.aol.com/news/paris-2024-olympics-concern-over-014723746.html"
 type: article
-quality: 57
-heat: 57
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8625/production/_130414343_cctv-gettyimages-1210191122.jpg"
-    width: 1024
-    height: 576
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/0887ffd432c459742af0f44d32e2c754"
+    width: 976
+    height: 549
     isCached: true
 
-secured: "+wR08LmwSFfa29YFuaC7LhnwW98X4aKQU2zcEDWC+kusefbRhHABRBPLi1MT7t5IjMDJTCmABVdBFNwBPhbs85weDB8m+jWSwujs5CZ0A8YOC9oThUrL+b5B0kOsCOthS7Lcx2CJXfBzGPwG1n+hRv6LJm4HjmL3QHQFSic6433GW1nNmZXnxdIcbL+uHwHUrrpe4kA3Wp8z7EEcimp4/WJXlfP7zm62tIvIiUwDvlZF6+Z0qtrI/4dOkQPQEKtdNyxTTmuNYOKwPc659B5IdoGWskdxpqHlnGlkVFuMCxt0IHSo9LMRLmyifJZIn4XoQDr/d+g3B4xyZZ3pkZDHxTw+M06TBrI1RaoXdlm5rEM=;EU52FOwPcHrHUMo3xGRDRg=="
+secured: "nYFfeOAdioIIYMsdZo7DRojXSqNf4mpRjlnn2Oawpd0JGQzpgseofC5AalTrug2isYPAY4J771fUXSbDVzqAInX3Fx5ab4C8gvPj6G2mnUPAUMf6tpFfp5QKfMedoh71Hv1Ni6XOG3dTc4AvLZVIV/f28d0Mn8h8krvvUtOWhf5HpbSthBkoMk2/kWmKSZq4GIEstrDiJqCa1IfeKlIdSmwdo37mSOK3YRxw5WrfhCwH+/Zc1QkVJCLgyRZ1z1saXawqMXZHi8gBh4ZwuCIj3DfuBr+luZoMktBn/8NXff3/L7Xs83QcL8AjXnLLTFWz+m8XYio/1hjzGFFXt0sQLdWs6srvJtq/dti5iaOOEgQ=;lun+lhAK/tdHS0IRiP/BFg=="
 ---
 

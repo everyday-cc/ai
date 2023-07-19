@@ -2,26 +2,26 @@
 category: news
 title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
 excerpt: "Meta used the acronym LLaMA, for Large Language Model Meta AI, to describe the first version of its model, announced in February. It’s now dropped the capital letters for its second version, Llama 2."
-publishedDateTime: 2023-07-19T02:53:00Z
-originalUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-webUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-ampWebUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
-cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+publishedDateTime: 2023-07-19T04:52:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+webUrl: "https://www.hawaiinewsnow.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KKTV11
-  domain: kktv.com
+  name: Hawaii News Now
+  domain: hawaiinewsnow.com
 
 topics:
-  - Microsoft AI
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/B9O2QGh-Ac987PiZ9xUWNpLO5IE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7OTPU7Z2UJCC3ODOSZOJSAPX6Y.JPG"
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/nFxYq75KH6YVtIQqW2ExUEQptOs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QLM44RBFJVFVRD5D33GKAF7PTQ.png"
     width: 800
     height: 450
     isCached: true
@@ -143,6 +143,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UszJEuqsrQDm0OHXOIAVFyVXDBOnD8FmT9IssVEEBTQXI64v3+5JPaclTH1J8frY709taT/8IscJHFEx0hoZTUist8YaFPlh2d8ShsBrEpBn1RKLs9tADoLTHNgIXLFfC5HPT6XG1vnT6Q70TBIXoyKRvVbO5rITNZxL3Oo2ARF8rUQ39E3LwC3pHmI5MM3u4hmeda1t2ConiGs0GjpUldZ0m0pwip3I5oE3oVTjl3BPv298pAkw8M2CtQ2aWu/kWuFzD2fMEbp8M14dZjWwMxwidEquey0iAjABLDrgOqQR3F6TaiI/uWeq2IWTule2O0rR0WM+XQwoh5chSFsPrRjxAWZ8r/qdoynRl6ZOYHo=;9G50hAzStRonLNHUplvosA=="
+secured: "URFFvF+8u+V64/zPTqJKYRWzif5hm79EHSEDhgJ9+qLWesO1fhI2LDl0LvFkgxR1xTemjc3DFvo3UjLE6MZY9Oy1loXgnIHFIdxzbivIj0aWgcVcn/K2Ojlx08JW8Yf/gU5fbvUXZpN3poRv82SyS9r57YhoD72Hq3Ry9O7ymxPiBoJtmLL3DRIzfgzqycyjNB9M+0Ypghe7Bg2oqWT1d1JD+Mpei24olJusN89MOtmBHJIp12QnN9+/uu2QudymdwEB9LRPwphJE9DIYY95+uK11gjTEJMn3+Trj9S5nHpYuo0EwxpmvVU9X3LrMVs4+VSvzHWCNUsSlTEdet1W31Ev10GGDSuiknjwIhyGyCA=;aFqBfLz9om8r2rGqeqS8Sg=="
 ---
 

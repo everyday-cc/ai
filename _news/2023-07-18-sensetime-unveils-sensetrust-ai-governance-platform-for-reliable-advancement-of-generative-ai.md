@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SenseTime Unveils \"SenseTrust\" AI Governance Platform for Reliable Advancement of Generative AI"
-excerpt: "SenseTime, a leading global artificial intelligence (AI) software company, has announced the introduction of its trustworthy AI toolbox, \"SenseTrust\", following the successful launch of its upgraded \"SenseNova\" foundation model sets at the World Artificial Intelligence Conference (WAIC) 2023."
-publishedDateTime: 2023-07-18T05:50:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/18/9849452.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/18/9849452.htm"
+excerpt: "Zhang Wang, Vice President and Chairman of the Al Ethics and Governance Committee of SenseTime stated, \"The widespread adoption of AI is fuelled by affordable and versatile technology, but ensuring systems have reliable security is a crucial component for large-scale implementation."
+publishedDateTime: 2023-07-18T07:08:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/18/9849452.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/18/9849452.htm"
 type: article
 quality: 27
 heat: 27
@@ -24,6 +24,6 @@ images:
     height: 267
     isCached: true
 
-secured: "W2rkUZLrCkMLIHqLDqLpQouf59OJhCfBp2TuYa3RPEkBIRQdWqFqdY95DGR5SX8PT2tmjQXaiQifwnuBrB1MexUWpiIHxK+K8YtESrDT0OnaiVRdm5ccJ2rYpxzDCtgCMHcCWsYcXvIJs1jMDRIVJHdtvWlt/6PNo1RhTTIwIH0IswJrbbNtO87PO4WOxlHMBav+C6QD8JTHHsb0xi8lviT5d/+Y/vpn5AnPZ0YukGgsDLvNt4exfb7OAqcQkyi9upC8OTOKoZwjF1SbkNmQ7rhSTWvtxiezCyfcRbKMPmOLYn9KM2e4YRT6imTOcbJHTUQIKRrpzVgnCmfCQnHS2PnV6Qd23lWmn9CtR/pxYJk=;o1wl6ezLLGf+CJZThY961A=="
+secured: "BePTFNUScixkThdKwy6LIQb+K10WnfCEOoMRWgS5AGR5fLuPVCDwyvPFxfOMouRJOfKU+HIZ/SJI20QLwrLltHGQye1aEOH97Nj7L5DgLmMtaMyLTIYX4SN7dg2uG5FYh5tXZTnHcX5AaImF5XPYkOqmJKuVtPi4G7kdLxzn0AIhr7Zq6B1vVRKQWbzehF6lk6ersiVEEaoGw+nXQ1EeSGGU+ZVyaExr0mIGsdAA5CpknxBGziA5qppswLNOYlYESFDzYFyBKSD40ofopf+N/eb+AD2TzPg+jZOmIWpPbhxA2fy4ThDQb1W6Zw6TcevFX6eJoQUHlD8plg5DBqQsh+9HeYI93hexX8gxwh9mfto=;lYq0/mB/aKP1L1kYvqW9Qw=="
 ---
 

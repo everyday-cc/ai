@@ -193,6 +193,40 @@
       ]
     },
     {
+      "path": "_news/2023-07-17-nc-researcher-im-excited-about-ai-in-healthcare-with-guardrails-opinion.md",
+      "title": "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion",
+      "excerpt": "We’ve recently seen a big jump in the capabilities of these technologies, especially the kind known as generative AIs. Some publicly available generative AIs, such as OpenAI’s ChatGPT, can write an essay or answer questions on seemingly any topic — and can do so in a natural-sounding, conversational style.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/opinion/article277237823.html",
+      "originalUrl": "https://www.newsobserver.com/opinion/article277237823.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.newsobserver.com/opinion/article277237823.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article277237823.html",
+      "publishedDateTime": "2023-07-17T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-developing-reliable-ai-tools-for-healthcare.md",
       "title": "Developing reliable AI tools for healthcare",
       "excerpt": "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. ",
@@ -201,7 +235,7 @@
       "originalUrl": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -642,24 +676,33 @@
     {
       "path": "_news/2023-07-10-galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-trial-in-psc.md",
       "title": "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC",
-      "excerpt": "OnKai's AI models redefine the methodologies and economics of clinical trials",
+      "excerpt": "OnKai's AI models redefine the methodologies and economics of clinical trials TEL AVIV, Israel, July 10, 2023 /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (NASDAQ:GLMD) (\"Galmed\" or the \"Company\"), a",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T06:44:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33164058",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33164058",
+      "publishedDateTime": "2023-07-10T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1329,40 +1372,6 @@
       "topics": [
         "IBM AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028.md",
-      "title": "Artificial Intelligence In Healthcare Market Growth Set to Surge Significantly during 2022 to 2028",
-      "excerpt": "What important contenders are dominating the Global Artificial Intelligence In Healthcare Market industry and how competitive will the market be by 2023? Global Artificial Intelligence In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/skyquest-technology-consulting-pvt-ltd-/artificial-intelligence-in-healthcare-market-growth-set-to-surge-significantly-during-2022-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

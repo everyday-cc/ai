@@ -18,97 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic"
-    excerpt: "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information."
-    publishedDateTime: 2023-07-14T15:28:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
+  - title: "Turn AI Art Into Amazing Poster Prints"
+    excerpt: "Want to print your AI art creations? Here's how to enlarge AI-generated images so you can print them at any size you like and retain perfect image quality"
+    publishedDateTime: 2023-07-15T09:35:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b260acd82031801c534a0d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 848
-        isCached: true
-  - title: "Anthropic CEO to testify at US Senate hearing on AI regulation"
-    excerpt: "WASHINGTON, July 18 (Reuters) - Artificial intelligence startup Anthropic's CEO Dario Amodei will testify on July 25 at a U.S. Senate hearing on artificial intelligence as lawmakers consider potential regulations for the fast-growing technology, the Senate ..."
-    publishedDateTime: 2023-07-19T00:54:00Z
-    webUrl: "https://www.reuters.com/technology/anthropic-ceo-testify-us-senate-hearing-ai-regulation-2023-07-18/?n=@"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/44IaGqngsHdIVZKOFKflFDq7gmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DSFZ3QT2C5LWHAK5BJJNEXVI5M.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Anthropic launches Claude 2, the next-gen of 'friendly' AI chatbot"
-    excerpt: "Anthropic, the company founded by former OpenAI research executives, has released the next generation of their conversational"
-    publishedDateTime: 2023-07-14T15:13:00Z
-    webUrl: "https://www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html"
-    ampWebUrl: "https://www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/anthropic-launches-claude-2-ai-chatbot.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 59
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/03/Anthropic-claude-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "AI Startup Anthropic CEO to Testify at US Senate Hearing on AI Regulation"
-    excerpt: "An annual defense bill is expected to have many AI-related provisions including a report on AI regulation in the financial services industry."
-    publishedDateTime: 2023-07-19T06:24:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 56
-    images:
-      - url: "https://i.gadgets360cdn.com/large/canthropic_reuters_1689747892578.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI And Data Science Have Mightily Paired Up To Reinvent Data Strategies, Exemplified Via Release Of OpenAI’s ChatGPT Code Interpreter"
-    excerpt: "Generative AI is increasingly going to be a front-end tool for data science, which will shake-up organizational data strategies. Here's the scoop and what to do about it."
-    publishedDateTime: 2023-07-17T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/17/generative-ai-and-data-science-have-mightily-paired-up-to-reinvent-data-strategies-exemplified-via-release-of-openais-chatgpt-code-interpreter/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b4bdecf8d20b23cae9bcfd/0x0.jpg?format=jpg&crop=2308,1299,x0,y73,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI will give local news millions to experiment with AI"
-    excerpt: "Some of the funding will go to form a \"studio\" within the American Journalism Project; the rest will go to about 10 of AJP's grantees."
-    publishedDateTime: 2023-07-18T20:09:00Z
-    webUrl: "https://www.niemanlab.org/2023/07/openai-will-give-local-news-millions-to-experiment-with-ai/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 39
-    images:
-      - url: "https://www.niemanlab.org/images/midjourneyopenaiajp-700x392.png"
-        width: 700
-        height: 392
+        height: 800
         isCached: true
 
 secured: "C+kVOONmsJWkSz/gx2jAyRpERpLtwWJZMyeV61iZPn2MegDrMXntyCLUM9w06K0rfz1ysqVGvHlWzCRI0M+9PuGH8nxD92WmkkBFaCnwmFB+aLLqnvy180E5/x6gtcme0GdVc2hpPbItBrnXHLhyD69v89g/JqDcXuLDcJD1tQPF/em+GUh9Oim0XQnOrDHmWTGph8+F2VCbh9icbvpPXIvYsX2QrIhBSNpxYL4arTFt0wSJ4yca8fR20Eb3gl7/r0iuH8kUF37hksKPqhwAKJ2W0yJR5IaZ+IEkK9LIpEduNBB+/+HMjF6fbQlrAvfPV1EZZtNpNI7qeMA7axT7MMBqtbHwtU1oSU1GYHBow6E=;hwyEs/JE5JrZ/xozx/f8KA=="

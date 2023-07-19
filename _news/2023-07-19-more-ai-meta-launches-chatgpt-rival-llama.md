@@ -46,17 +46,17 @@ related:
         isCached: true
   - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
     excerpt: "Meta used the acronym LLaMA, for Large Language Model Meta AI, to describe the first version of its model, announced in February. It’s now dropped the capital letters for its second version, Llama 2."
-    publishedDateTime: 2023-07-19T02:53:00Z
-    webUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-    ampWebUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+    publishedDateTime: 2023-07-19T04:52:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+    ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
     type: article
     provider:
-      name: KKTV11
-      domain: kktv.com
+      name: Hawaii News Now
+      domain: hawaiinewsnow.com
     quality: 44
     images:
-      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/B9O2QGh-Ac987PiZ9xUWNpLO5IE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7OTPU7Z2UJCC3ODOSZOJSAPX6Y.JPG"
+      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/nFxYq75KH6YVtIQqW2ExUEQptOs=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QLM44RBFJVFVRD5D33GKAF7PTQ.png"
         width: 800
         height: 450
         isCached: true
