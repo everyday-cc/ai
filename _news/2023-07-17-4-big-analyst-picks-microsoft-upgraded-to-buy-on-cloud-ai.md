@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How To Get Your Team Comfortable With AI: Insights From A Microsoft Executive"
+    excerpt: "AI offers freedom from the excessive inflow of data, emails, meetings, and notifications. But you've got to employ a few strategies to get your team using AI."
+    publishedDateTime: 2023-07-19T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/"
+    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 101
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b807d0cd14666c57bd34f2/0x0.jpg?format=jpg&crop=2246,1496,x0,y0,safe&width=1200"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Microsoft launches vector search in preview, voice cloning in general availability"
     excerpt: "Microsoft announced a number of new services at its Inspire annual conference, including a new AI-powered vector search tool."
     publishedDateTime: 2023-07-18T17:40:00Z
@@ -314,6 +330,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/07/18/600x338/microsoft_1689696711251_1689696724070.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Google, Microsoft face off in AI healthcare race"
+    excerpt: "Tech giants Google and Microsoft are pushing into the healthcare industry with generative AI, creating medical chatbots, integrating AI into EHRs."
+    publishedDateTime: 2023-07-19T15:40:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/google-microsoft-face-off-in-ai-healthcare-race.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 71
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
     excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
@@ -570,6 +600,20 @@ related:
         width: 3600
         height: 1800
         isCached: true
+  - title: "Meta partners with Microsoft to distribute next-gen LLaMA 2 AI model for commercial use"
+    excerpt: "The new family of large language models, called LLaMA 2, is the next generation of Meta’s AI research into generative AI. These AI models are capable of understanding human speech and responding conversationally, as well as producing research, answering questions, writing poetry and generating computer code."
+    publishedDateTime: 2023-07-18T18:14:00Z
+    webUrl: "https://siliconangle.com/2023/07/18/meta-partners-microsoft-distribute-next-gen-llama-2-ai-model-commercial-use/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/artificial-intelligence-g69d523a71_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Meta and Microsoft join forces to bring Llama 2 language models to Azure and Windows"
     excerpt: "Meta and Microsoft have announced their collaboration at Microsoft Inspire to introduce support for the Llama 2 family of large language models (LLMs) on"
     publishedDateTime: 2023-07-18T17:01:00Z
@@ -593,6 +637,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 44
+  - title: "Meta Partners with Microsoft to Release Llama-2"
+    excerpt: "At Microsoft Inspire, Meta and Microsoft partnered to release Llama 2, the cutting-edge iteration of their renowned open source LLM, LLaMa."
+    publishedDateTime: 2023-07-19T05:46:00Z
+    webUrl: "https://analyticsindiamag.com/meta-partners-with-microsoft-to-release-llama-2/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/llama.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Inspire: Satya Nadella reveals new Microsoft AI Cloud Partner Program in keynote speech"
     excerpt: "Satya Nadella, chairman and CEO of Microsoft, revealed the new Microsoft AI Cloud Partner Program and other artificial intelligence opportunities for partners during the Microsoft Inspire keynote, which took place on 18 July."
     publishedDateTime: 2023-07-18T17:10:00Z
@@ -735,15 +793,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
-  - title: "Meta partners with Microsoft to distribute next-gen LLaMA 2 AI model for commercial use"
-    excerpt: "The new family of large language models, called LLaMA 2, is the next generation of Meta’s AI research into generative AI. These AI models are capable of understanding human speech and responding conversationally, as well as producing research, answering questions, writing poetry and generating computer code."
-    publishedDateTime: 2023-07-18T18:14:00Z
-    webUrl: "https://siliconangle.com/2023/07/18/meta-partners-microsoft-distribute-next-gen-llama-2-ai-model-commercial-use/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 28
   - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
     excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
     publishedDateTime: 2023-07-18T13:09:00Z

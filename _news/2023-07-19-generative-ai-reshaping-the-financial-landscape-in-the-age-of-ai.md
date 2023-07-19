@@ -25,49 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can improve the future of incident response"
-    excerpt: "At VentureBeat Transform 2023, Providence healthcare CISO Adam Zoeller emphasized the importance of proactive incident response with AI."
-    publishedDateTime: 2023-07-17T21:21:00Z
-    webUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/"
+  - title: "The A-Z of AI: 30 terms you need to understand artificial intelligence"
+    excerpt: "Artificial intelligence is arguably the most important technological development of our time – here are some terms you should know as the world wrestles with this new technology."
+    publishedDateTime: 2023-07-18T13:17:00Z
+    webUrl: "https://www.bbc.com/future/article/20230717-what-you-should-know-about-artificial-intelligence-from-a-z"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 82
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1rbq6.jpg"
+        width: 624
+        height: 351
+        isCached: true
+  - title: "The secret to enterprise AI success: Make it understandable and trustworthy"
+    excerpt: "Be it healthcare or fintech, companies across sectors are racing to implement ... In the field of healthcare, for instance, AI has the potential to predict clinical outcomes or discover drugs. If a model veers off-track in such scenarios, it could provide ..."
+    publishedDateTime: 2023-07-16T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM3015-e1689628821703.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_interpreting_and_understanding_a_neural_network._Colorf_873eba1a-a1fb-415a-b2fe-e2bc803c07ee.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
-    excerpt: "With the recent public launch of large language model chatbots like ChatGPT, the buzz around how the health care industry can best make use of artificial intelligence is reaching a crescendo."
-    publishedDateTime: 2023-07-17T20:02:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/07/17/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health-care/"
-    ampWebUrl: "https://www.eastbaytimes.com/2023/07/17/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health-care/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/07/17/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health-care/amp/"
+  - title: "A simple guide to help you understand AI"
+    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
+    publishedDateTime: 2023-07-18T16:09:00Z
+    webUrl: "https://www.bbc.com/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 47
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/07/US-NEWS-HEALTHSYSTEM-CHANGING-LANDSCAPE-MCT-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Embracing the disruption of generative AI at speed, responsibly"
-    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
-    publishedDateTime: 2023-07-16T22:57:00Z
-    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
+      name: BBC
+      domain: bbc.com
+    quality: 49
+  - title: "AI versus AI: Human extinction might just be collateral damage"
+    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
+    publishedDateTime: 2023-07-15T12:00:00Z
+    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
+      name: Salon
+      domain: salon.com
     quality: 39
     images:
-      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
-        width: 2254
-        height: 930
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Emotion AI: Understanding and Responding to Human Emotions"
+    excerpt: "In the rapidly advancing world of artificial intelligence, Emotion AI, also known as Affective Computing, is a fascinating field that seeks ..|News Track"
+    publishedDateTime: 2023-07-19T07:25:00Z
+    webUrl: "https://english.newstracklive.com/news/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 39
+  - title: "A simple guide to help you understand AI"
+    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
+    publishedDateTime: 2023-07-17T09:39:00Z
+    webUrl: "https://www.bbc.co.uk/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://c.files.bbci.co.uk/12067/production/_130313837_ai_simpleguide_promo-nc.png"
+        width: 976
+        height: 549
         isCached: true
 
 secured: "zwQoYlw6z0H3gS7jN+H06LaGTem4gSPTfK0LOCJqK9IqIPS/ZSOiEjxCBFpEBlCdOjrEr5mWbeTHumM5c9Iq6q1xAIWvlK258ag/MQ9TVXPldnmho/cHcv5tV+kPdGnatOXVTpoxG+hUzPl4sorPj3Qbm7xdV//FyEnskiYa9c7BvktLB7cmh4yYTG45ZxsgYo2IQmijAMu/luyCJDGFWxP589eKh4IvnTQ1SJX0hpI5JY6OKiTUwaevddC4FNB8ntqg98GvWbcPMJwlpANQaefN2NUe2QVUNexjsG97LmUJn3b3hsDAj/vi1LQqm8zkMTSbx7QNB/Sa0KHN/ndHJPWnmf3Dt5nQqbPDJtzfKR8=;qWTSZIH1uaVLNEYieGUjdg=="

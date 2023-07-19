@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-
 webUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
         width: 2254
         height: 930
-        isCached: true
-  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
-    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
-    publishedDateTime: 2023-07-19T03:30:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
-        width: 450
-        height: 308
         isCached: true
 
 secured: "tzFIoSGN9voIEP3RDKx72Krub/RNzGBEXbKEZFqoFi96FFgyjbRNprPh1KyhrCOopy3BOs7ENF2RRoNW9fvlnULVXUKj7g5IeP0scDP/K9ChlA/rsEinm3fVObna4yqE6VnfUbLzUiaRxfiDCK4o94HgGiYPafMxa2N0D5lNrqU480oSR7i0xqUxJ8oIMJolfvdjU+tCcLczelOyS3gVh8QzNoSRocnLVqbeWji+OwESw2BhveuC6DsVEsfbJkFq9pFCrGlq2xMu+uwrRo3U2NVrihBhwYpei50yO5oxaUkg8r6NVo1K373xoql+/feoFH80owYp4a7z8ROLvkNISoxPRK6EPGcQ3OHMYEJ6+zA=;D275E5aYx/U195GhiLMtiA=="

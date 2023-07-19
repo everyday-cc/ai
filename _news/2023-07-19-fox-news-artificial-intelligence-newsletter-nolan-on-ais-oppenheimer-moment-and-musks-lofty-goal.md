@@ -1,14 +1,16 @@
 ---
 category: news
 title: "Fox News Artificial Intelligence Newsletter: Nolan on AI's 'Oppenheimer' moment and Musk's lofty goal"
-excerpt: "‘OPPENHEIMER MOMENT’: Hollywood director Christopher Nolan spoke with Fox News Digital on artificial intelligence's \"Oppenheimer moment.\" Nolan compared AI to the creation of the atomic bomb and stated, \"It's really the looking back through Oppenheimer ..."
-publishedDateTime: 2023-07-19T15:22:00Z
-originalUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.print"
-webUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.print"
+excerpt: "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future."
+publishedDateTime: 2023-07-19T15:14:00Z
+originalUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal"
+webUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal"
+ampWebUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp"
 type: article
-quality: 67
-heat: -1
-published: false
+quality: 87
+heat: 107
+published: true
 
 provider:
   name: Fox News
@@ -22,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bea4177d-fc89-447a-a047-adafe41d7d1d/198a0a87-17b4-45ca-b298-3ee6cc53798c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bea4177d-fc89-447a-a047-adafe41d7d1d/198a0a87-17b4-45ca-b298-3ee6cc53798c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -44,23 +46,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Christopher Nolan Compares Artificial Intelligence To The Atomic Bomb"
-    excerpt: "After a screening of his new film, Oppenheimer Saturday night, director Christopher Nolan suggested that his period piece couldn't have come at a better time, as we're in an “Oppenheimer moment,” he said. But this time, the dangerous technology isn't being created in a lab in a New Mexico lab; it's coming from Silicon Valley."
-    publishedDateTime: 2023-07-16T16:51:00Z
-    webUrl: "https://www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb"
-    ampWebUrl: "https://www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2023/07/christopher-nolan-compares-artificial-intelligence-to-the-atomic-bomb/amp"
+  - title: "Newsletter: Do we want a future where humans are truly entertained by AI?"
+    excerpt: "The strikes by actors and writers get at fundamental questions of what will entertain humans in the future, plus more from the week in Opinion."
+    publishedDateTime: 2023-07-15T11:00:00Z
+    webUrl: "https://www.latimes.com/opinion/newsletter/2023-07-15/opinion-newsletter-sag-aftra-strike-hollywood-artificial-intelligence-opinion"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 57
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 36
     images:
-      - url: "https://media.vanityfair.com/photos/64b4110c80282abf33846d55/master/pass/1530967111"
-        width: 2125
-        height: 1417
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/dd8f503/2147483647/strip/true/crop/7323x3845+0+519/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0f%2F4b%2F3755aaed411eb228b788fc479c29%2F1290944-et-ct-wga-strike-jlc-019.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "8eYDk8RaF9t+ORMyD/g/KJXErKarxMgfcuGI/5HWrxwWDFPjneOx3S4h9wa1cE2dw7HeDATVDTqnCuQqz0TsC2xHKKH3G0le5Ki1Ae59HXII87cGGo9+w/n5kgsJjgZndJKDUc7dMgJrdPmmd4bMZ1Uvs4Z3KljSZrZHnWlZ//5iIaPtjRgBt5IKcEvn0YAYtRm3SYZJAwd0wWpAvX/YoQEcNp/D3BzfvUz/mTuanec9o70YU9evGFDPDRQo+rwlCMG2M0NeWB7u6dCl7AP1lN63/STSUjZngX2ZoJcVoPvQlow1jEj8lRLBKhbXPOrMtjOWZSrF6wGMljPTE0F5S2WxN2GOQnrF+1l/V7RifBc=;AguI9qP/ZGHalLh7d9Oj1w=="
+secured: "1RvUx6i1vYyoWvj1hMtA/uCoXZvAQQtDYw2rZVhFXzutpMvTZP2/x16UZD5AacLlbtc/36CbskX7EJP8HJo2fmm/8ZlUosxsPf/mnN1LehJFBgoxTTpDa7rml8NZCdJVIKqHZ7Xc4pAlE/rxBRGENTiL9Yc44t+dC7zCfQBoklDXRRSNL59rFvwzPALlcYXxEu4NhtNcsWGEnL1nyeTnWWWTCLPUC91HZGLp32gEg0iGUPFkHZbsClg2jHXexknDorNV38kDCsFYxMvAw4w2Ew/ilZb56XZtEDrJ7+FA+0dwZpWRQ3Vn1eV59PsciwLyZ9l3XvsBSZxe1iWMmS8zjme1ImH70wdBaXigaw3ayYQ=;ocwPd7sfQKiwl3Sqn2+KTw=="
 ---
 

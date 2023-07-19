@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/meta-releases-big-new-open-source-ai-large-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -255,7 +255,7 @@
       "originalUrl": "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -272,58 +272,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-17T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency.md",
-      "title": "Meta reveals new AI image generation model CM3leon, touting greater efficiency",
-      "excerpt": "Looking at the sample sets of generated images that Meta has shared in its blog post about CM3leon, the results are impressive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency/",
-      "originalUrl": "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_of_a_synthwave_chameleon_wearing_sunglasses__2fa6f127-4a16-4870-8e41-40b48eb2f81f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T22:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1481,6 +1429,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-meta-explains-how-ai-influences-what-we-see-on-facebook-and-instagram.md",
+      "title": "Meta explains how AI influences what we see on Facebook and Instagram",
+      "excerpt": "Meta has published a deep dive into the company’s social media algorithms in a bid to demystify how content is recommended for Instagram and Facebook ... info dump on the AI systems behind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/6/29/23778068/meta-facebook-instagram-social-media-algorithms-ai-transparency",
+      "originalUrl": "https://www.theverge.com/2023/6/29/23778068/meta-facebook-instagram-social-media-algorithms-ai-transparency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/pUe-zw8AOJo1BER_38fPHl_lZ-Q=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24386138/VRG_illo_K_Radtke_Nick_Clegg_STK199.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

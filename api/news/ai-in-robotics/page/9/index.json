@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-05-17-uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region.md",
-      "title": "UAE company launches first-of-a-kind locally-made robot to fight fires in the region",
-      "excerpt": "Dubai, UAE - FFBOTS, the Jebel Ali Industrial Area-based Emirati firm, has launched the first locally-made firefighting robot of its kind in the Middle East, with world-class technical specifications and operational capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ZGJiNmE4NDMtMDYyZS00/0/civildeffensetesthd-jpg.jpeg?f=3%3A2",
-          "width": 697,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1",
-      "publishedDateTime": "2023-05-17T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-tesla-updates-ai-trained-robot-army-takes-new-bots-for-a-walk.md",
       "title": "Tesla updates AI-trained robot army, takes new bots for a walk",
       "excerpt": "When it was first revealed at the Tesla AI Day 2022, the humanoid robot needed assistance from staff and could barely stand.",
@@ -1370,6 +1327,49 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-advanced-navigation-unveils-australias-largest-subsea-robotics-centre.md",
+      "title": "Advanced Navigation Unveils Australia's Largest Subsea Robotics Centre",
+      "excerpt": "Sydney, New South Wales - Advanced Navigation, the world's most determined innovator in artificial intelligence (AI) for robotic and navigation technologies, is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32322249/advanced-navigation-unveils-australias-largest-subsea-robotics-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32322249",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32322249",
+      "publishedDateTime": "2023-05-10T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

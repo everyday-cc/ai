@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/stuartanderson/2023/07/16/internation
 webUrl: "https://www.forbes.com/sites/stuartanderson/2023/07/16/international-students-key-to-ai-as-researchers-and-entrepreneurs/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,49 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Foreign Secretary to call for ‘international cooperation’ over AI threat"
-    excerpt: "James Cleverly, the UK Foreign Secretary will today chair the first ever UN Security Council (UNSC) session on Artificial Intelligence (AI)."
-    publishedDateTime: 2023-07-18T08:13:00Z
-    webUrl: "https://bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/"
-    ampWebUrl: "https://bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 58
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/07/image001-1.png"
-        width: 751
-        height: 422
-        isCached: true
-  - title: "Generative AI, meet the contact center - the latest silver bullet to kill off the traditional operating model?"
-    excerpt: "There are other ways that customer experience can leverage generative AI, including chatbots, and language translation, suggests Michael Ringman, CIO of TELUS International. TELUS International is a spin-off from TELUS focused on serving customers across several business lines, including many customer experience capabilities."
-    publishedDateTime: 2023-07-19T10:49:00Z
-    webUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model"
-    ampWebUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 39
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-07/call-center-gfb4b76c60_640.jpg"
-        width: 640
-        height: 512
-        isCached: true
-  - title: "The great acceleration: CIO perspectives on generative AI"
-    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "fQnJls0CC9CEwXk12kMgzysBgadxBRFnfo+N5vaUUX48rcOLUCg9jDHec2Ly+V2BelnQjARQYioH/G1g29306QvX4FIQ2IoDR8s+xXKU804bbHaAQAQVTFpyPdiiwCDRgpRh9zS/cNyOwUbqT3lTGdj36CBFvLxgOi4IG5wxdtZYCcnWm79tyQFXx/pu9xteuBUn500e0qApLG1thgkQCnMS65TTIQbLskGE/uu0mEWJClXEbjBGS4fxm5CFmm/TMNl76x7Q5Gevc3N5PheZLu612tcmjcUa8HDs1obkUJAuP+qAs+jv7Co+s5SPJ/VQIbRWT7xl6Ehl6b8AEF+5VOoEhmZLdP68uQzqofH+XH8XhajzlFNL0kkM+QSH6Zyk3heE1rBbavtaYl5qE6G8xx/PuZg3ZKx+BIJQ3RGDCKPU2aPR1w0hbYBT1seK7WilZcP2X9YmM/qSJ7ZZE3In40lLPkx16WA0IAMklb71FXOC3p1vBDYivrnh/P/mBkdxHL/8mL5JH8ZUNc6s/mmdkw==;SR/qSZQYjQwYXXZllRksIg=="
 ---

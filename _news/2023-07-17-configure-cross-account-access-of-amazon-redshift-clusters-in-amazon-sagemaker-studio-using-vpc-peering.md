@@ -51,6 +51,20 @@ related:
         width: 1022
         height: 510
         isCached: true
+  - title: "Integrate Amazon SageMaker Model Cards with the model registry"
+    excerpt: "Amazon SageMaker Model Cards enable you to standardize how models are documented, thereby achieving visibility into the lifecycle of a model, from designing, building, training, and evaluation. Model cards are intended to be a single source of truth for business and technical metadata about the model"
+    publishedDateTime: 2023-07-19T16:19:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-model-cards-with-the-model-registry/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/12/ML-14808-image001.png"
+        width: 931
+        height: 411
+        isCached: true
 
 secured: "qxCRwNLprYffBlY7NDFzzqZNJpEjhZ25o4E2UAZ/a7suzz96ENDkMbU7r8bsiGLEJMowKLYq4xCqVLwv6K5HhQRQVK4T3milOHgThpdJa9H0mVGBV37R/GcZjRT9Abc5V+3sEZ2fTRox5YJt5u9okGkTgZe0j7j0oVc7XW37ad1Ud9Vn7im27qk0BQgwNH8p8UA1mxUACeu50pVYQrRZZPSVDNgqx/4U+EYDl07+Wt03BykkWjPQBmuAAdKEIST0S65d3TBUtB9Qmn2cpGN7W2DwymsHkOkKxvdHl/lLmtApfD3NxgsLTVMLeomXXgXtOqak7rMY5i5eZx5KEmlpNI93RUFc8wLmbBB5FBx2IEc=;+VG2Lchnr1SHLNnNan6B1w=="
 ---

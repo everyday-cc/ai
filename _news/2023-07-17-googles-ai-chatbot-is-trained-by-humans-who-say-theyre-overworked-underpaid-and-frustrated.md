@@ -103,6 +103,20 @@ related:
         width: 879
         height: 494
         isCached: true
+  - title: "Meta Challenges ChatGPT With Own AI-Powered Chatbot"
+    excerpt: "The tech giant has launched Llama 2 in partnership with Microsoft, and it will be free to use for research and commercial purposes."
+    publishedDateTime: 2023-07-19T15:56:00Z
+    webUrl: "https://tech.co/news/meta-ai-chatbot-rival"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/07/04111356/meta-novi.jpg"
+        width: 1920
+        height: 960
+        isCached: true
 
 secured: "NpbXRLDhfS64LK02huFe/yYf+Foq0G3cDPhRg861zTIGnf0H/QuNOTo18TMED7tshkZYxEDjfwGxjK7uZ7bPm66AT2GnxmwWpPmeNR9VCMZnwbram883NjiXYGqCgydYMeN8TJqhuDNyRlhf92NE/hrzT/8Tu02/7AolXx5eotE2TqVhbCgwjpnPP5FgTukkkGGZHQkUGuP/bHzmIGPKlmAezgeoUtkhTrovpowzeuGN8HA4Au/g76yADk7gbKZnC4tOSB3rNfafzcAazLbF3gsTqNr31mEU8AsKSAXu4++TcQ2p8x9pIDR5GNaqgpE73s+3YohIrjvLlAVI9yvwrpjU/86cpu66pYT6SldClge6OSdYt0toARhSOUn9QwddlcVdtso8wyXnX79+bR2LNnETI9ddMXFNkblYLrSU3QwgI+cuDssb6nbqKZoIya7rOBGhJE+B8A6mUD/EXoGSWdcrYOIoKbPB26/f1hZC9GH2ghoiNIFLJ9hobzd2YqWWVTUnmlWCr2FyknymXtPaUQ==;TXCqbac2kre0J1r3uXOzsQ=="
 ---

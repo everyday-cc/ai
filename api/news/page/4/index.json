@@ -2,6 +2,151 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-17-artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.md",
+      "title": "Artificial intelligence can detect 'sextortion' before it happens and help FBI: expert",
+      "excerpt": "Yaron Litwin, executive of AI-powered company Canopy, explains how \"AI can be used for good\" in an ongoing chess match with criminals using deepfakes in sextortion scams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
+      "originalUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AI-is-the-next-front-in-the-culture-war_1.gif",
+          "width": 602,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
+      "publishedDateTime": "2023-07-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
+      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
+      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
+          "width": 864,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
+      "publishedDateTime": "2023-07-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-protecting-uk-jobs-will-be-a-challenge-says-new-ai-advisor.md",
+      "title": "Protecting UK jobs will be a challenge says new AI advisor",
+      "excerpt": "Protecting British jobs will be a challenge as artificial intelligence systems become more advanced, the new head of the government's AI taskforce has told the BBC. Ian Hogarth said it was \"inevitable\" that more jobs would become increasingly automated. The whole world will have to rethink the way in which people work, he added.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-66128106",
+      "originalUrl": "https://www.bbc.com/news/technology-66128106",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/82D7/production/_130359433_01h39w5xkrd7yy7xehkxa0vqbp.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-66128106.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66128106.amp",
+      "publishedDateTime": "2023-07-16T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-6-mujeres-lideran-la-lucha-contra-el-cambio-climatico.md",
       "title": "6 mujeres lideran la lucha contra el cambio climático",
       "excerpt": "Homenajeamos a Eunice Newton Foot, científica pionera de la ciencia climática, y a 6 organizaciones beneficiarias de Google.org dirigidas por mujeres que construyen un f…",
@@ -253,7 +398,7 @@
       "originalUrl": "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -440,48 +585,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-16-christopher-nolan-warns-of-ais-oppenheimer-moment-it-will-be-in-charge-of-nuclear-weapons.md",
-      "title": "Christopher Nolan warns of AI’s ‘Oppenheimer moment’: It will ‘be in charge of nuclear weapons’",
-      "excerpt": "On a panel of physicists moderated by Chuck Todd, Christopher Nolan spoke about modern-day lessons from his soon-to-be-released film “Oppenheimer,” 78 years after a group of scientists gathered at the Trinity site to test the first atomic bomb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/christopher-nolan-warns-of-ai-s-oppenheimer-moment-it-will-be-in-charge-of-nuclear-weapons-188569157614",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/christopher-nolan-warns-of-ai-s-oppenheimer-moment-it-will-be-in-charge-of-nuclear-weapons-188569157614",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689519574491_mtp_clip_nolanai_230716_1920x1080-pmkgsh.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188569157614",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188569157614",
-      "publishedDateTime": "2023-07-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -693,7 +796,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -985,58 +1088,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-15-meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency.md",
-      "title": "Meta reveals new AI image generation model CM3leon, touting greater efficiency",
-      "excerpt": "Looking at the sample sets of generated images that Meta has shared in its blog post about CM3leon, the results are impressive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency/",
-      "originalUrl": "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_of_a_synthwave_chameleon_wearing_sunglasses__2fa6f127-4a16-4870-8e41-40b48eb2f81f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-15-actors-vs-ai-strike-brings-focus-to-emerging-use-of-advanced-tech.md",
       "title": "Actors vs. AI: Strike brings focus to emerging use of advanced tech",
       "excerpt": "SAG-AFTRA has joined the Writer’s Guild of America in demanding a contract that explicitly demands AI regulations to protect writers and the works they create.",
@@ -1045,7 +1096,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1075,6 +1126,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-teamsters-city-leaders-rally-against-self-driving-trucks-in-san-francisco.md",
+      "title": "Teamsters, city leaders rally against self-driving trucks in San Francisco",
+      "excerpt": "Teamsters and city leaders rallied against self-driving trucks outside San Francisco City Hall on Friday. Assembly Bill 316 would regulate autonomous trucks over 10,000 pounds and would mandate, among other requirements that someone be in the truck while it's on public roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/",
+      "originalUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2023/07/24311038085-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/?amp=1",
+      "publishedDateTime": "2023-07-14T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1129,102 +1223,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-nvidia-stock-nasdaqnvda-a-massive-ai-winner-but-rivals-exist.md",
-      "title": "Nvidia Stock (NASDAQ:NVDA): A Massive AI Winner, but Rivals Exist",
-      "excerpt": "Nvidia (NADSAQ:NVDA) stock continues climbing higher, with the $1.13 trillion GPU (Graphics Processing Unit) titan adding another 6%+ to its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasdaq-nvda-a-massive-ai-winner-but-rivals-exist-1032448317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-nasdaq-nvda-a-massive-ai-winner-but-rivals-exist-1032448317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/07/image-360.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 782,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
-      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
-      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
-          "width": 640,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "publishedDateTime": "2023-07-14T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "7 Hypergrowth Stocks That AI Is Loving in July"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some stocks have skyrocketed year to date. Indeed, shares of some technology"
-    publishedDateTime: 2023-07-14T23:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hypergrowth-stocks-to-buy-1032448493"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "ZvrecrOfkjxToLVrcxX9n/hJlhuhrL33f+OyQM8ozDSK5SxKs/ZTNQijkTASBf0moVE4XT3Iis3dYmk33FlNU2w5alZS+HAXDDJHaqDzU9PWGFWgifBzVqzH0yTJmkb52OFyUa9+MITw4I3Bkt3NdF8PJogz+I9CQ8rXwg0tynnNAQH5QDQ0WtTSWPiYV8scvw/hSpN2t4opy/Ywda547lm4FVvnu3yy1SBc687rCqTGBZ9pe0Xjor2SuGxj/nKB5u27yTnOYBrzPS57ExYdDKF58EwJlrc5Fl/jWgMFOcO14DeaEBMaBF1QHc8rgRNhBr3MgOsET/QxOul/cDNSwSetMZBEtvGZFmD3iOZv52qcYGAEevVsxXZfG+3awM3WMSvZfUVyHoEiQp3582QIc3xU740YylQSqsZ31idLtF+zsQdYS7enSDQpRvuhep4Ru2Q/YP8mX50pPZl7jz/DqWMbCWHjX+6KPspCfiHCm6GX5vAQmvoG97yPxGRB6WmN9/c1kkQpPQ5j0rIicf0fmA==;NrViBZ8xCXBywMfagAESWw=="
 ---

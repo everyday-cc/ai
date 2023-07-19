@@ -2,6 +2,144 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-06-05-tsa-expands-controversial-facial-recognition-program.md",
+      "title": "TSA expands controversial facial recognition program",
+      "excerpt": "At 25 airports in the U.S. and Puerto Rico, the TSA is expanding a controversial digital identification program that uses facial recognition. This comes as the TSA and other divisions of Homeland ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/newyork/news/tsa-facial-recognition-program-airports-expands/",
+      "originalUrl": "https://www.cbsnews.com/newyork/news/tsa-facial-recognition-program-airports-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/06/05/3affcfd9-5415-4c0a-ad36-c70430eb2c34/thumbnail/1200x630/c0e2aa04e10814ca6a8433e8cf5505e3/facial.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/newyork/news/tsa-facial-recognition-program-airports-expands/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/tsa-facial-recognition-program-airports-expands/",
+      "publishedDateTime": "2023-06-05T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-winnai-announces-general-availability-ga-of-their-no-typing-crm-ai-tool-for-modern-sales-teams.md",
+      "title": "Winn.AI Announces General Availability (GA) of Their 'No-Typing CRM' AI Tool for Modern Sales Teams",
+      "excerpt": "Source: Winn.ai To view an enhanced version of this graphic, please visit:  In a 2023 report by Salesforce, sales representatives only spend 28% of their time selling, with 72% consumed by record keeping,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/winn.ai-announces-general-availability-ga-of-their-notyping-crm-ai-tool-for-modern-sales-teams-1032370792",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/winn.ai-announces-general-availability-ga-of-their-notyping-crm-ai-tool-for-modern-sales-teams-1032370792",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newsfilecorp.com/files/9219/168755_5c312d6e149cfbb0_001.jpg",
+          "width": 550,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-scientists-use-machine-learning-to-see-how-the-brain-adapts-to-different-environments.md",
+      "title": "Scientists use machine learning to 'see' how the brain adapts to different environments",
+      "excerpt": "Johns Hopkins scientists have developed a method involving artificial intelligence to visualize and track changes in the strength of synapses—the connection points through which nerve cells in the brain communicate—in live animals.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/scientists-use-machine.jpg",
+          "width": 1540,
+          "height": 2341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
+      "publishedDateTime": "2023-06-05T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-google-emphasizes-android-ai-large-screens-pixel-and-its-new-pixel-fold.md",
       "title": "Google Emphasizes Android AI, Large Screens, Pixel And Its New Pixel Fold",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead talk about Google's new AI features for Android and the three new Pixel products announced at Google I/O 2023.",
@@ -1056,135 +1194,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-rishi-sunak-to-lobby-joe-biden-for-uk-leadership-role-in-ai-development.md",
-      "title": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development",
-      "excerpt": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on facebook (opens in a new window) Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
-      "originalUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-duet-ai-for-google-workspace-what-is-it-and-how-does-it-work.md",
-      "title": "Duet AI for Google Workspace: What is it and how does it work?",
-      "excerpt": "Google has unveiled a new basket of features for its suite of apps, collectively called Duet AI for Workspace. Here's how to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/",
-      "originalUrl": "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-duet-ai-for-workspace.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-how-self-driving-cars-will-change-the-roads.md",
-      "title": "How Self-Driving Cars Will Change the Roads",
-      "excerpt": "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/self-driving-cars/",
-      "originalUrl": "https://www.rd.com/article/self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

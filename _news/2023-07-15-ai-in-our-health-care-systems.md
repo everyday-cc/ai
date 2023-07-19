@@ -26,6 +26,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "16 health systems join generative AI consortium"
+    excerpt: "Avia's Generative AI Strategic Collaborative to research AI opportunities, risks, data ownership, privacy, regulations, and ethics."
+    publishedDateTime: 2023-07-19T14:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/16-health-systems-join-generative-ai-consortium.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "tIuZGPFfgQ99GB0XB9q2qbls8IHoeUedoyZ/hyQU5F+6faUOtr6pbb+bnHcYXMyRp2rULfXwXKCTi/xj8tG4MCQdZO/2MJUVSuUG0xnWF8zaiCS6uJ4g1vzllV6x9wlxjU2CqrdD9/GJpLuP7BF2qaTOI3k7SY2js3UjCndkTkn6cXDb1gMPc+FyS0pFHz/Hfaw9v0FVMXK6ADxSFjxTCra7Gy616X8lkVaSPy9IaLyeu5C6Qt7pWtSB6dE4JCFGv3FZ1JFSm3rgU6zHjcUweFSPqDUlQvY3KGHAljEc3AVOAwffl3njvhH1ihNiw2u8uA8xvHadr1ktSP6PwYugrjeZfUuoVLuaKX6W7dzbw6g2FICmAzZ364Xhs/MgYo/k31afr9/XYBStAA/3ZffCKuAtHigl+QYNNwtOFMjdJZtBJCtc7kxJr/aiik8G1AW1WGty/G6p9YHvk0NOwj2C7xDvdQ76iAgFziKZkqsQY3DSp4GPscnJLQGdnPDXA39cGW6wfoU23KV1jvMW75ix7Q==;5xICp2fYLNdaZAB8INjgwA=="
 ---
 

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "British Political Candidate Uses Artificial Intelligence to Draw up Election Manifesto"
+title: "British political candidate uses artificial intelligence to draw up election manifesto"
 excerpt: "An independent candidate for a U.K. Parliament has turned to artificial intelligence to come up with his campaign promises"
-publishedDateTime: 2023-07-19T14:34:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2023-07-19/british-political-candidate-uses-artificial-intelligence-to-draw-up-election-manifesto"
-webUrl: "https://www.usnews.com/news/business/articles/2023-07-19/british-political-candidate-uses-artificial-intelligence-to-draw-up-election-manifesto"
+publishedDateTime: 2023-07-19T14:54:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/british-political-candidate-artificial-intelligence-draw-election-manifesto-101487431"
+webUrl: "https://abcnews.go.com/Business/wireStory/british-political-candidate-artificial-intelligence-draw-election-manifesto-101487431"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/british-political-candidate-artificial-intelligence-draw-election-manifesto-101487431"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/british-political-candidate-artificial-intelligence-draw-election-manifesto-101487431"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
-secured: "TtfF3so1mzFOKwwdREd++kat6kxBYwdmDJAgBh6HzzAekIf9IGcvmQOKyh4QkBTlAM2+oG0iXuu/ybVcNN5n1q+0RkZ2AWDyUs9AtCF4QcW9fHRiADdoa8AlT7449VzIOS8zts3R+T9vlxD5+BK+o20WwliUR+Opjpp2b6OzI8mIKXqPvBB8FdeuHyd3UDy/gJXifQlRbAgcL6EO7jqwNxXzvx+9fa1cuh70lMqi8HB8LPGNmLhPBRcg/bIKXO3GWu0/1IwPBor2bGVxYwhvh7sCz92RkWaup18F/lG5IgZY45hD1RyMGZ8y+AsdxzsMs700jfCBHCKT4NJovxYC7i3mToN5bCUcyHp9+GzpGilNWQTNR+MOkSFn+f69A3e7HzRm0bnZcLX776Z3zCPj9twfCeAIcqhA9P2V3UlFHF/6ryJxWOF3zOoyZe7z7LVh08qbsC66sUJ6jPw/7GL0sdi6p/8EiVVqx922TjnuwLtqX/dWLR4TPVV4pYkHWkFr4bJEDTawx81QYZy5IdlnBA==;3plNhyH0EUGWPHL/orytGw=="
+images:
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
+    isCached: true
+
+secured: "BjDislJQ027ecpWSid8rII9+ZUNRpvNgnuHnIMpDh8od0llz7NKKF8saulyXjigj04u2TCcQopG8E7f2Z74Ud1BmP9obG11VBFgoa6XNAFOrgVTJ3J1sc0aiTnBL3arwkxjlLqCsAJnCW0FqMTbowVqDChUMB30TDS8GB8TTTRSbaAdp1yCnYpfJzktP5mS15RH0XKsxYZaR8E+wrEAM5yhzQw5K8CXNZxOCfzkgB7Gp2/Fcw3kmMcSKOzOkf02mNMHIMEt3mrm7U7faJWI2WAAk7SYcR5UFF5qAoXS9CRRdSdleRfPd1xzXf3asb/86BXhwG65BDyPED4Ot8SJydXZM43sZOLftZwx6XEqdpbo=;VYwIRq90pSKEzIucfsoCfA=="
 ---
 

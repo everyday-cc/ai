@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-j
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:

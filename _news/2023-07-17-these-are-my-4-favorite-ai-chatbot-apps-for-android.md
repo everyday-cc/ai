@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://thedeepdive.ca/wp-content/uploads/2023/07/bard.jpg"
         width: 879
         height: 494
+        isCached: true
+  - title: "Meta Challenges ChatGPT With Own AI-Powered Chatbot"
+    excerpt: "The tech giant has launched Llama 2 in partnership with Microsoft, and it will be free to use for research and commercial purposes."
+    publishedDateTime: 2023-07-19T15:56:00Z
+    webUrl: "https://tech.co/news/meta-ai-chatbot-rival"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/07/04111356/meta-novi.jpg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Google’s AI chatbot is trained by humans who say they’re overworked, underpaid and frustrated"
     excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes."

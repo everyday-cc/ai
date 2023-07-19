@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/17/dig
 webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/17/digital-health-tools-can-revolutionise-healthcare-says-brunei-health-minister"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 696
     height: 392
     isCached: true
+
+related:
+  - title: "What Can Ubiquitous Radio Waves Do For Healthcare?"
+    excerpt: "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare."
+    publishedDateTime: 2023-07-19T16:43:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
+    publishedDateTime: 2023-07-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-healthcare-stocks-using-ai-to-deliver-you-healthy-profits-1032456321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Opportunities and challenges for AI in healthcare"
+    excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
+    publishedDateTime: 2023-07-17T15:25:00Z
+    webUrl: "https://www.fieldfisher.com/en/insights/opportunities-and-challenges-for-ai-in-healthcare"
+    type: article
+    provider:
+      name: Fieldfisher
+      domain: fieldfisher.com
+    quality: 56
+    images:
+      - url: "http://res-1.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/opportunities_and_challenges_for_ai_in_healthcare_bxxfqr"
+        width: 1080
+        height: 1080
+        isCached: true
 
 secured: "wkdzHz8Kn1ZppkZ9wpnccQuArc/5VFLKoif0EK3uFWRLkIbXTZ+UOeUYzdKIf2GEHZ4QWsN469tieBDcJ6rba8OVXrjXWP31bRfPSBmLNQI2MQOfE40G0dZNPmm2/omJyS4vTyFDAmq8bn43qy13DY4+1rIb3idbq4OL8XRgqptZpSUVbM0mBRhsxhSoue8xyapoaAZBm9Age+ou/DWnGV77YDOKEKyXcgO4jAp8O42hCokffb68G9RJ1caxtUoECD44C2Fk6YCF1tcLYIt17w2LHkFtkq3mfXigFwL7ySI2zDE/5jLXstpxWTX4nG7a2zjPx2/eI1qY6LCj8hHYxBDthGL8GSpIVgcrBRV471U=;l8fv2DXZ4ca02ulchMjXKg=="
 ---

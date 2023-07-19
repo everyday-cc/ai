@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transf
 webUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
 type: article
 quality: 116
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 825
+        isCached: true
+  - title: "Use Generative AI To Design Now — It’s The Beginning Of A Major Transformation"
+    excerpt: "Don’t make the mistake of thinking generative AI’s impact on design is about image services. Images have always been just the visible tip of the design iceberg."
+    publishedDateTime: 2023-07-19T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2023/07/19/use-generative-ai-to-design-now---its-the-beginning-of-a-major-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/19/use-generative-ai-to-design-now---its-the-beginning-of-a-major-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/19/use-generative-ai-to-design-now---its-the-beginning-of-a-major-transformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b7f32577f2440d53fb68d3/0x0.png?format=png&width=1200"
+        width: 1050
+        height: 788
         isCached: true
   - title: "Generac powers business transformation with data, AI"
     excerpt: "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI."

@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-04-masters-app-and-website-to-include-generative-ai-commentary-for-every-shot.md",
+      "title": "Masters app and website to include generative AI commentary for every shot",
+      "excerpt": "In a joint activation with IBM, the Masters’ futuristic digital outlets will not only livestream every shot from every player for every round but will include Generative AI commentary based on Masters-specific machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessdaily.com/Journal/Issues/2023/04/03/Technology/masters-tournament-ibm-ai-app.aspx",
+      "originalUrl": "https://www.sportsbusinessdaily.com/Journal/Issues/2023/04/03/Technology/masters-tournament-ibm-ai-app.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-ai-will-help-generate-commentary-for-masters-golf-tourney.md",
       "title": "AI Will Help Generate Commentary for Masters Golf Tourney",
       "excerpt": "IBM's modern tech will augment the historic event, using generative AI tech to add audio commentary to video highlights.",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta's AI image generator says language may be all you need"
+    excerpt: "The CM3Leon program can generate high-resolution images with a fraction of the compute of approaches such as diffusion."
+    publishedDateTime: 2023-07-19T14:26:00Z
+    webUrl: "https://www.zdnet.com/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/69e5f2675fbf308fac71d7be5387b38dcb274dba/2023/07/18/3affcd0d-bf61-488f-89d4-cb09a60e6ab7/meta-2023-cm3leon-image-examples.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta launches Llama 2, an open source AI model that allows commercial applications"
     excerpt: "Meta announced Llama 2, a new open source family of AI language models notable for its commercial license, which means the models can be integrated into commercial products, unlike its predecessor. They range in size from 7 to 70 billion parameters and reportedly \"outperform open-source chat models on most benchmarks we tested,"
     publishedDateTime: 2023-07-18T20:07:00Z
@@ -99,6 +115,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "fcSH4Q0XSzAhEnQ3F0tXwn1ZOe5GEDKSpgsfA/CC2u0LvxPC8DUVh/PVES1xqlzfDPFEmYlchyCYB5VoakarLXXAcPM5itvRMAslD6ARsReWftFKHUasuUwJAhzXTz6QLcDHl657dPlhSs45pBtbs06HlNm+y5utkxGoEMAHwo5HMltn897JUX7lLMo0fIGO+Qx7/dqFJ/Ma7Iv6biiS0Gs1Uwn1ZGu61DCRBlfnrV17PJcZd5LJM4DERczmitYCe+uW/oPTXH0vwya/YsHUXCB5ZneHG2/lYsNf9/k7HZ2T8sYOs0nkmw2jOQp84KdU/ByUg4kfRLz2K9bVEYxyWJnr8nML/ZUU8xyLH+ppqjg=;bh2hS1SkkGzZZWQO7CS8ZQ=="
+secured: "kkByIVK+UmzWMaJOjrPyotmFFxp7hRNfu7s2tyABSaGnuLsDiPdv2PAK76i1MtB8FjhMTJzdpzDj9TqF0L4fK94DW2dX//TkFLT0MpAKixq8qU6bWCFNq9hEzT4Ee2K5ry4Q10nnxfZ8obz4RWUmEeSvKLF+mT+5xaFjTRfntCm4ATFS0zrRbQFyPvrny9D4YNk++r6ulKDt3FoMNSYzwwREQEyo/mUYCjf7EfgOvZViMHoEVmHrQa3VTzmcsqj4jzStvLwYbhfcc+hVWlJzd6v6YuWHDBSEVA1TqX+0+qFgbEqdD85WzK/DUPt/9Hg/J0s79QHoKGl4UfbOfxbq7KtEBKi70Xbgcgpd2S2B3N5PosLkcSUfOMuAjIldBOrA8EhRu/z42Kh/REd+gHyXZdZK7aGMbyPFyCW356+I+rScj592Rh1y1RkJFh7rC8JcDpRk4FjTdTK1X/8UiVoJ1rtAyYIAvtXqSs8ApBOghgAtvwARj9NJsqdUkV2yY44MrDPA9XFvcwGmvUAnTlztBw==;CDFr16LXRzEmLtzqrqnf4Q=="
 ---
 

@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Developing reliable AI tools for healthcare"
-    excerpt: "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. "
-    publishedDateTime: 2023-07-17T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
+  - title: "What Can Ubiquitous Radio Waves Do For Healthcare?"
+    excerpt: "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare."
+    publishedDateTime: 2023-07-19T16:43:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
     publishedDateTime: 2023-07-18T21:36:00Z
@@ -44,29 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "AI not yet a game-changer for healthcare hackers"
-    excerpt: "Hackers are hitting healthcare targets as hard as ever, and now researchers say the emergence of generative AI will make future attacks even easier for adversaries – eventually."
-    publishedDateTime: 2023-07-14T23:29:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/ai-not-yet-a-game-changer-for-healthcare-hackers"
+  - title: "Digital health tools can revolutionise healthcare, says Brunei health minister"
+    excerpt: "Digital health tools have the potential to provide remote monitoring and data capture in healthcare, teleconsultations and information exchange and virtual care."
+    publishedDateTime: 2023-07-17T09:24:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/17/digital-health-tools-can-revolutionise-healthcare-says-brunei-health-minister"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 54
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
     images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/0714_chatgpt.jpg"
-        width: 1280
-        height: 800
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/17/2181557.jpg"
+        width: 696
+        height: 392
         isCached: true
-  - title: "Insights on bolstering healthcare incident response with AI detailed"
-    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
-    publishedDateTime: 2023-07-18T17:48:00Z
-    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 34
 
 secured: "J7LE+ia8ZL7SEZRZ6S6Umybg9q99hjiQHvimN6LuNmamHRnaCOG6D/bNhGNu486j2WcWKaNG60vkh645pAl24XITd3Wid+J4h98aO9C/m8zNsgtKlsP+uFVqEb47Ac9x2Ek3IYb15/QcgC2WvBKWdC4rkW8Chy22e9niwfofXMGvmV/pEUkaT0oVIdgRyzYEjTrZ5dN+XK0DkbWjjZijI0a/3xFQ+JHvCqerDMbv99940TRUusTgP7Es8IrRBeOrZLiLPpun3xNurSTJj1T1+hFoWYxNf938aUnjjh20jusJolhxJlrbyNXbQhQfb/8F/DcrfwDycr3u0pjqB1K6yh5qR0bMpKLGH7m8ToWns1tvkETpD2xSyqYj4zcqyJwPZJ1WyjLHnda4jtaIPtytvGGz9gdclMhN7GQuVW57RMtASE6dHuuR+qWE5ZOzPoRe+cOo4P5Ep5dizeHCHREG0PTNBnrh4cDBauvC/AOBGQfDkf4yHkAZqpPOYLNjazPkPd4GP7nnm3ctUZT1NvBB2g==;chC4EIl1UJMm3xOOUu+ziw=="
 ---

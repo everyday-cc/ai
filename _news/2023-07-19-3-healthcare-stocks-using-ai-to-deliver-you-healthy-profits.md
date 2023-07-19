@@ -23,15 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Developing reliable AI tools for healthcare"
-    excerpt: "We’ve published our joint paper with Google Research in Nature Medicine, which proposes CoDoC (Complementarity-driven Deferral-to-Clinical Workflow), an AI system that learns when to rely on predictive AI tools or defer to a clinician for the most accurate interpretation of medical images. "
-    publishedDateTime: 2023-07-17T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
+  - title: "What Can Ubiquitous Radio Waves Do For Healthcare?"
+    excerpt: "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare."
+    publishedDateTime: 2023-07-19T16:43:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Opportunities and challenges for AI in healthcare"
     excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
     publishedDateTime: 2023-07-17T15:25:00Z
@@ -46,29 +53,20 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "AI not yet a game-changer for healthcare hackers"
-    excerpt: "Hackers are hitting healthcare targets as hard as ever, and now researchers say the emergence of generative AI will make future attacks even easier for adversaries – eventually."
-    publishedDateTime: 2023-07-14T23:29:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/ai-not-yet-a-game-changer-for-healthcare-hackers"
+  - title: "Digital health tools can revolutionise healthcare, says Brunei health minister"
+    excerpt: "Digital health tools have the potential to provide remote monitoring and data capture in healthcare, teleconsultations and information exchange and virtual care."
+    publishedDateTime: 2023-07-17T09:24:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/17/digital-health-tools-can-revolutionise-healthcare-says-brunei-health-minister"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 54
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
     images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/0714_chatgpt.jpg"
-        width: 1280
-        height: 800
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/17/2181557.jpg"
+        width: 696
+        height: 392
         isCached: true
-  - title: "Insights on bolstering healthcare incident response with AI detailed"
-    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
-    publishedDateTime: 2023-07-18T17:48:00Z
-    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 34
 
 secured: "5QmXUuSRVJ7c/GJT7mkGXC0VKYXkkMtzvrv/P0kwUFU2PggmbNdxqxdNQHTudVrH3Pd445O5WmxiprILQsETqItQvb85SJAMgRFfYJFzc2OTmS4bEQdFOYQtiPpwWYweAdYMbiIqGlDglMwx5qTx3jnmxdwyj4QKDQ5Fd7e1k+wSIcqNZb4GQ4CL9uAZWGGKJ6/LWbSuKpnbAjrs+8cH84YisurkgtFNsgZkCkVCDl/GYIy6T/7Q4YAIlTcO1s0t1/zCIIbGssIrbSJ9OfQkgxY1P6FiEwEe9SLmFdPr7/WeObZ3637ooKscRZWjMINPXIOIsngaQ+1KQHpGIKaECZCfaV8foNLETPZwDXXJ2N0=;kY2kMKkcoRwNOIJzYgYlRA=="
 ---

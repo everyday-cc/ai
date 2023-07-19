@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta's AI image generator says language may be all you need"
+    excerpt: "The CM3Leon program can generate high-resolution images with a fraction of the compute of approaches such as diffusion."
+    publishedDateTime: 2023-07-19T14:26:00Z
+    webUrl: "https://www.zdnet.com/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/69e5f2675fbf308fac71d7be5387b38dcb274dba/2023/07/18/3affcd0d-bf61-488f-89d4-cb09a60e6ab7/meta-2023-cm3leon-image-examples.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Next Frontier For Large Language Models Is Biology"
     excerpt: "AlphaFold was not built using large language models. It relies on an older bioinformatics construct called multiple sequence alignment (MSA), in which a protein’s sequence is compared to evolutionarily similar proteins in order to deduce its structure."
     publishedDateTime: 2023-07-16T22:00:00Z

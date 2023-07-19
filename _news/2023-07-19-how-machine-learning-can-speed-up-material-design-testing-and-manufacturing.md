@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/h
 cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/how-machine-learning-can-speed-up-material-design-testing-and-manufacturing/101928830"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1200
     height: 765
     isCached: true
-
-related:
-  - title: "Emotion AI: Understanding and Responding to Human Emotions"
-    excerpt: "In the rapidly advancing world of artificial intelligence, Emotion AI, also known as Affective Computing, is a fascinating field that seeks ..|News Track"
-    publishedDateTime: 2023-07-19T07:25:00Z
-    webUrl: "https://english.newstracklive.com/news/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 39
 
 secured: "DZMiCnQ5UCeNfbVeBstWssQIW6DfMMmxiGVXGbhG/7T8ZL50tGBBhcJjba14aPYkVRNYQHKPrvRA0IlMI/danbLZ50eCKcEMaKvexVpChWsxWYwQ7LdKitkDYCHv+YnrlVtJokoJPHDhpYglH23NRze4NdG3k1mFKoj7W4K7mUZMDKuRIc/HHULxrFQwA3kidTv/vZnAavuXUOA9KzkX8pxc7vBpCtV7v3e0ZQNup0de98vEU6XtQI6LvpKR/jm+tfmoYujr0MxuiB/sUZSky99D/nshzC8pXRUzLdKoqVm1SgYlC7KrpzdXiIycHYI9FMFtWZ3610BRqNDnpY4+02n3Wi6OOmqA+q5aTw3pup4=;e3qfYb42tyVNy88BUL0KEg=="
 ---
