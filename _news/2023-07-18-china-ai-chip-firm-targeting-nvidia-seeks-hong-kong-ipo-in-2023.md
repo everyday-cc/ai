@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-ch
 webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "AI-powered brain surgery becomes a reality in Hong Kong"
-    excerpt: "The Centre for Artificial Intelligence and Robotics, under the Chinese Academy of Sciences, completed successful trials of a robot that treats brain tumors."
-    publishedDateTime: 2023-07-14T14:05:00Z
-    webUrl: "https://cacm.acm.org/news/274635-ai-powered-brain-surgery-becomes-a-reality-in-hong-kong"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
   - title: "Biren Intelligent Technology Exploring IPO amid Rising AI Hype"
     excerpt: "The proposed IPO and funding round comes at a time when the demand for AI chips is skyrocketing across various industries. Biren’s advanced chip solutions have gained recognition for their superior performance, energy efficiency, and scalability, positioning the company as a key player in the Chinese AI chip market."
     publishedDateTime: 2023-07-18T12:17:00Z

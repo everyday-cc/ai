@@ -2,6 +2,333 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-06-23-ai-investment-value-at-every-link-of-the-value-chain.md",
+      "title": "AI: Investment Value at Every Link of the Value Chain",
+      "excerpt": "This is the second article in a series. The first article can be found here: “Although AI is a Bubble, It’s Still Investible.“",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-530-1024x465.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-the-generative-ai-investment-sprints-for-supremacy.md",
+      "title": "The Generative AI Investment Sprints For Supremacy",
+      "excerpt": "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1391,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
+      "publishedDateTime": "2023-06-23T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-aws-invests-100-mn-to-help-customers-build-generative-ai-solutions.md",
+      "title": "AWS invests $100 mn to help customers build generative AI solutions",
+      "excerpt": "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879",
+      "originalUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp",
+      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp",
+      "publishedDateTime": "2023-06-23T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News Minute",
+        "domain": "thenewsminute.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-ai-has-the-potential-to-automate-40-of-the-average-work-day.md",
+      "title": "AI has the potential to automate 40% of the average work day",
+      "excerpt": "Research says AI could automate two-thirds of your work. Making the most of that potential will depend on the ability and motivation of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "originalUrl": "https://www.zdnet.com/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "publishedDateTime": "2023-06-23T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-get-a-clue-says-panel-about-buzzy-ai-tech-its-being-deployed-as-surveillance.md",
+      "title": "Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”",
+      "excerpt": "Earlier today at a Bloomberg conference in San Francisco, some of the biggest names in AI turned up, including, briefly, Sam Altman of OpenAI, who just ended his two-month world tour, and Stability AI founder Emad Mostaque.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Meredith-Whittaker.jpg?resize=1200,1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
+      "publishedDateTime": "2023-06-22T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
+      "title": "Aws Announces Generative Ai Innovation Center",
+      "excerpt": "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
+      "originalUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
+      "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
+      "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
+      "originalUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png",
+          "width": 620,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
+      "publishedDateTime": "2023-06-22T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-facial-recognition-attendance-for-sanitation-staff-soon.md",
       "title": "Facial recognition attendance for sanitation staff soon",
       "excerpt": "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon.",
@@ -868,341 +1195,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-the-last-ai-boom-didnt-kill-jobs-feel-better.md",
-      "title": "The Last AI Boom Didn't Kill Jobs. Feel Better?",
-      "excerpt": "ChatGPT is stoking fears of mass layoffs, but a study of several EU countries found the deep-learning boom of the 2010s actually created job opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/649386a2e416fd283a85c3dd/191:100/w_1280,c_limit/The-Last-AI-Boom-Didn&#x27;t-Kill-Jobs-Business-1253019033.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws.md",
-      "title": "How Light & Wonder built a predictive maintenance solution for gaming machines on AWS",
-      "excerpt": "This post is co-written with Aruna Abeyakoon and Denisse Colin from Light and Wonder (L&amp;W). Headquartered in Las Vegas, Light &amp; Wonder, Inc. is the leading cross-platform global game company that provides gambling products and services. Working with AWS, Light &amp; Wonder recently developed",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/09/lnw-figure3.png",
-          "width": 974,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T08:59:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.md",
-      "title": "AMD to spend $135M on chip R&D in Ireland for AI, data center, mobile tech",
-      "excerpt": "A year after AMD acquired Xilinx, the chipmaker has announced plans to build on the semiconductor ecosystem Xilinx had already established in Ireland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
-      "originalUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/06/amd_hq-100942505-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
-      "publishedDateTime": "2023-06-22T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt.md",
-      "title": "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT",
-      "excerpt": "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/",
-      "originalUrl": "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more.md",
-      "title": "Q&A: DexCare CEO on raising $75M in a ‘rough’ market, using generative AI, and more",
-      "excerpt": "We didn’t really start looking at this seriously until April ... Can you explain how the company incorporates generative AI into the product? We use quite a bit of sophisticated, AI-driven decisioning in our platform now so we can ensure patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/",
-      "originalUrl": "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/06/Untitled-design-20.jpeg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-kibsi-raises-93m-for-its-no-code-computer-vision-platform.md",
-      "title": "Kibsi raises $9.3M for its no-code computer vision platform",
-      "excerpt": "Kibsi is an Irvine, California-based startup that is building a no-code computer vision platform that allows businesses to build and deploy computer vision applications. Among the things that set Kibsi apart from many other players in this space is that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Kibsi-Founders.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "publishedDateTime": "2023-06-22T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-ai-is-changing-the-way-humans-interact-with-machines.md",
-      "title": "How AI is changing the way humans interact with machines",
-      "excerpt": "Language translation is another frontier where NLP and AI have made remarkable progress. Translation apps can now interpret text and speech in real time, dismantling language barriers and fostering cross-cultural communication. A paper in The Lancet notes ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines",
-      "originalUrl": "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/991fa864-787b-4587-8a65-60ad62c203da.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp",
-      "publishedDateTime": "2023-06-22T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Proliferation of AI agents raises fresh worries"
+    excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
+    publishedDateTime: 2023-07-17T19:45:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/07/17/proliferation-of-ai-agents-raises-fresh-worries"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
   - title: "Movie critic reacts to AI-generated films"
     excerpt: "Movie critic Rhianna Dhillon and BBC technology correspondent Marc Cieslak watch and react to four examples."
     publishedDateTime: 2023-07-17T09:59:00Z
@@ -34,6 +43,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "xac/6vultJ3CY4T2Lhle++ReA4UaPupiCaH3Tik1pmM9N46sKfxT4c5MoVpWUYIv/rzheip2F4NHVquV8ppS59mtXvxey3aaOwzsLa5pKOSfD0M1rb+Qw9xa3LrnHudrD8KlhlnE3qxnKjm+rDhTabm2OgU78E5bF/taL5lblzCAe6iFL2FSj2ZMzA6+VYRIUfl36vn5M2F6PM6AzG29/GtmvVD2ad+RZgo9Hkqm3InlDMJFhy039hn+HGIpsFyAkYCUKqOquRWv3WgR0D3vA4XDt8D7OI20KnflFdgtw/3IAvRV8m7Dk19ffSHDku4n/zlrGmE1miQ/FqvJLhqTWQo9Cc7z9BVkWTr6tExQo4A=;ogtDLDzVKyf+rIdhXX6JGQ=="
+secured: "Etgy9JB4Q/c1zB7vwphiBKVCao5GB7VLe4T4kpmsqJlCcchkX86u1HBEu5o8MlbHiO+wM9ANtzYo0yUdxcy6McKeySzLsOjZyzp2sUZ2UEB/PLPMF+eiUoLIsyNFz3WrBt+9KhGh8KlJWFL5SNKlBC47iCKwwmKTOuzpjmg+CyYPur+N9tDuoWWJ9yXyHzt497bpUZ7nLtHKFpifAI7vpLv9cRm/DeutirfntLDK0LCIyxlL0gBmAQvbGlITkK/TEIkUwDcaPlTYpioGmHxp/cB0ljwPtYJKO17ayojkMS9bJaj4g85UTYxFA3aYt236r6C7uSN1Cm6JJjbKjffktFfhpVx8y61wHlU4OYi6MdqKbMb5DQVIaZo6AHg4Yag0nbVmj09pBehfdpDhRHhiCyFpkW/nDsfDOS9aNGftm13vmshXSyhh005xy1O4YKibgV+rsZLjb7GIHjMvDkDjbGYFFAoWdWsgV2Ju4RgvPG3VPpNM26Zg+FTA97EpEwFk2Lryq1iv7GFDkTf2pj0SKw==;JDJy4IgLlR7OXzeNIs6kVw=="
 ---
 

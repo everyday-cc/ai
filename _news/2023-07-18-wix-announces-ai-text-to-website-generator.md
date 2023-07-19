@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/wix-announces-ai-text-to-website-genera
 webUrl: "https://venturebeat.com/ai/wix-announces-ai-text-to-website-generator/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "This new Wix AI tool will generate your entire website for you"
+    excerpt: "Need to build a website but don't know how to code? Soon you will be able to produce a whole website using ChatGPT-powered tools in Wix."
+    publishedDateTime: 2023-07-18T19:58:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/754ecc47d3f776ed93ef9aa5efbac1f0102187f1/2023/07/18/6e3d31e2-c3e2-409c-8b03-0c2ccc80939a/984ed3-c5c8927aeee243d79c40e0215283e645mv2.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Wix's AI Site Generator Builds Entire Websites in Seconds"
     excerpt: "The results promise to drastically cut down the time it takes to build a website. In a video, Wix shows AI Site Generator asking for your request. You tell it the details—like what the website is for and what pictures you want to use—and it'll build the site in seconds. It appears to rely on stock images from Wix’s own media library,"
     publishedDateTime: 2023-07-17T19:18:00Z
@@ -42,15 +58,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
-    excerpt: "Designed to Trounce Memory Wall, Accelerate Proliferation of Generative AI Implementations; Chip Architecture Provides up to 3.2 Petaflops with an Implementation Efficiency of Mor"
-    publishedDateTime: 2023-07-18T16:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/18/9850176.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
 
 secured: "0VhNUQ48foOZZjkswi6+MWjyWcrp0ab8nds28bDo5qa6nYYqtxiSj3epbwvnbf6gmM239p21nIoxSTwyA37MAJfRfgmEVfMDKAwRLIaq72CZXcCuFAmyOl4uKsc0N8TQeWNM4Z8KrfXckZ26Mrgz5WqcWcC5+3Dditmzq8DwP6JkYd3PRUBDAvz4w+wy5FHrwlhxbwJa3epDk/9z5idvRqDzzKGHs3CE6gqNnhMFMwogQrXBWhTgdo3ToeiNqZuaw37DCMYYICqlGcjzpTPdPUWAHWJrlHaYQVrOmf5/kNAFw3meTG1MfeTf9riILstIQe36BgD6E67GeX7sFt2YCACyHNL25C/oEP8+2CkBggs4kWeEXbkWr7R7u8te6vAJYIFlMqlrI+v+cAFInq9GGh5bQbBRmSt2t9PV89p7ODmilTYjTFM+7DKR4OGdy4XpscrRGzw6VAtX+L8k9K8V8Gfom7a5b1bMZnafC15/iggSbYENiH/gGcB1V765lf83ltRzdLt/H1xQ6UXK2eRG8w==;CAGeaYb9PAIdXWVrxjlC1g=="
 ---

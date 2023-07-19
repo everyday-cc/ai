@@ -24,17 +24,6 @@ images:
     height: 823
     isCached: true
 
-related:
-  - title: "Vaping advocates fight for recognition: Bill fails to differentiate harm reduction from smoking"
-    excerpt: "The debate around vaping and its regulation is ongoing. Advocates argue that vaping can play a crucial role in harm reduction and smoking cessation efforts. They believe that regulating vaping based on its harm profile, rather than applying blanket restrictions, would be a more sensible approach."
-    publishedDateTime: 2023-07-14T14:01:00Z
-    webUrl: "https://www.iol.co.za/sunday-tribune/lifestyle/vaping-advocates-fight-for-recognition-bill-fails-to-differentiate-harm-reduction-from-smoking-b2866000-8b42-45f5-b300-193d784417d0"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 7
-
 secured: "w4d2vunBv3zjSuwwtS0C3zT7P04pLSp2bfUxL9LBsJpgfWCJ/IFmViVCZKzickX6xuNfSamRKoHCgNtiBm7fdKgo/8bjzb78lvKKGxviCVPdMWjNBZKoVFXjoaRQun1AlOtpbUfOWdFNkefp6qT+4qn6MfCiCAgzMO9Z0E4+2t0K3zVKLaIKDP4wil6NyM3Vaam7p0kcpDaiTdbFcvBSt6RP9dvFrW9ssNjjkK7h5o7Qhi5JpPywpuXYA+S83mkXnmi5MK+rpAat3jplNXu54ioRv5f73bpeIHrbbL4nCYh8XhXg7mY40thbuk7Ceh5CjEp8AoclELPLTmrI/aoeKYTYXOItWwE1zC8PdxdEOXxr7lB9IqI4DNFVW60L1Y9IwsMcUUPps8w5+bYoIM8TKqKMhd7ARkGjhHOPRU/HFoNj3VRKLYt1BiRMs4Vy/O6wY+VJ1bPxA7xoJIAgSJAGDAkikfYUI2EaQeMDeg/vl8l7PBBnrLos+KvOF/9nxF5T77SUejUNsFmjS5PUIYdK0g==;xnztXxowDlLExzeUolP8mQ=="
 ---
 

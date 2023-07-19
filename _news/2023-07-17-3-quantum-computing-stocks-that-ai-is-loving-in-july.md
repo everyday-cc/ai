@@ -33,15 +33,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "3 Dividend Stocks That AI Is Loving in July"
-    excerpt: "The post 3 Dividend Stocks That AI Is Loving in July appeared first on InvestorPlace."
-    publishedDateTime: 2023-07-14T13:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-dividend-stocks-that-ai-is-loving-in-july"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
   - title: "3 Machine Learning Stocks for Getting Rich in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) exploded in 2023 as generative AI programs,"
     publishedDateTime: 2023-07-18T21:06:00Z

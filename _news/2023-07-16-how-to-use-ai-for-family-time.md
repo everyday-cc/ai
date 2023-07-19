@@ -20,35 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "Don't Pause, Act: How to Unlock AI's Vast Potential by Driving More Trustworthy and Responsible AI"
-    excerpt: "While the pace of recent advancements has been breathtaking, some of the biggest AI advances just over the horizon could be even more profound."
-    publishedDateTime: 2023-07-14T13:31:00Z
-    webUrl: "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872"
-    ampWebUrl: "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1"
+  - title: "JM Family leads investment round for computer vision AI startup"
+    excerpt: "The startup, Skaivision, believes its technology can boost retail efficiency and improve the customer experience."
+    publishedDateTime: 2023-07-14T20:09:00Z
+    webUrl: "https://www.autonews.com/dealers/jm-family-invests-auto-retail-computer-vision-ai-startup"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 73
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
     images:
-      - url: "https://d.newsweek.com/en/full/2257353/keyboard.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "The secret to enterprise AI success: Make it understandable and trustworthy"
-    excerpt: "Be it healthcare or fintech, companies across sectors are racing to implement ... In the field of healthcare, for instance, AI has the potential to predict clinical outcomes or discover drugs. If a model veers off-track in such scenarios, it could provide ..."
-    publishedDateTime: 2023-07-16T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_interpreting_and_understanding_a_neural_network._Colorf_873eba1a-a1fb-415a-b2fe-e2bc803c07ee.png?w=1200&strip=all"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/PearlPercy-MAIN_i.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "LVQr0oGh3NrCL9z5oMLofreL2vFNAMXAx68h9Ov8ofq4jG1KTz0rjN4gveV+Ka9R3JHUgA00HfrjE1CyVAivHfH7tDqPR0ccS8BWrmivFBK1fehl9Y7oTOm0XxZsrycm1RolnE+FQ8N3v4j7mZndHERsIeYvaaKV3fmCB2CRwhTHo6o9lybpvBl8ddXJpnIqrhymNXW2KPEdno1vaT9M6zfRuRaSjXMXkNgGccNlsQ81WMajiseke4905qmmxvbj6XlWplRZZ0l7rRCvzO1Oz55safEhP9LwIS/tNg/KNiwbA4XZt0zIRfbv29pFPL0s0RuPiKxSmePRisdxCyHdxtSHRVVdOB3QMVnfqVd1UwR/RyTKJat6vhtZKfZ7Wv7zuQwEPGgWP8j1mzF5o1qiw2k4/1vKitM5B8M5DfqZbtC5uXvKCSMHhOz+793Hsx6DYFYCY+3IwuV0TkQ4wiDSD0iQ40TuxAG8Pdi4eF1D25yZ+kBhr7hSIvlxGZ4BVg4cxGAEV0morpO17GESw6RCTQ==;UDh0bYwpF4FQU/EQT+c3+g=="

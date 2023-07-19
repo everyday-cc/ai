@@ -58,6 +58,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 16
+  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost Machine Learning Inferencing to the Cloud"
+    excerpt: "Wallaroo.AI, the leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic collaboration with Ampere ® Computing to create optimized hardware/software solutions that provide reduced energy consumption,"
+    publishedDateTime: 2023-07-18T10:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9849543.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "lB75H/pl56y8nlUHUom1/XNnYTneRkPxTNlJXRoPohWX++xtlZxH7ERbKSYInlVbFtuJL3snmSPMXCBc1IzEV7mgoWkE3r3qzfrTaG51GyspeU/AgjuNZemVoThfbXdUyOLtrINvU1A0r5HhoJbyXeP7PlmEJF9GwsiN+zYXMZAG6rR+Qo+9RUeTxdSVi3oxzuwf6g10IUKYllSmG6ezlbiMvoFRPVI3Q/6SEbnKQbyKdceZYttmKLNv+C0BoLrZ2LJH1g4HmBGoRud/vXbCQZYVGACunQYu445mKPhXpZZfQG7IEkUD3wrPhq4IuLjk8Lm5HVYexzONWT0LJfx7fCmQoTE5SfmnxUf1UzCVM+Y=;HBp0qxs24/JM/Pce1NtNXA=="
 ---

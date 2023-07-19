@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-
 webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418906269/image_1418906269.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
+    excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
+    publishedDateTime: 2023-07-19T07:33:00Z
+    webUrl: "https://www.econotimes.com/Samsung-to-Supply-Tesla-with-Full-Self-Driving-FSD-chips-1659663"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 33
+    images:
+      - url: "https://f1.econotimes.com/2023/07/mv7n3g4h3x_th_1024x0.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "smyIexny2TRL53clMq84BduP38iZXcdI4QuMzOdmHzUaICpvbLCZli2MlSX92lrmsyt/DZy5Wm5Jli/jWQjL3f+QUCmMuYyZmFZSap1FQNQOff4YeupavJyreHUuUOh5GRixjYBEIpQJ8HB8NYLEr8iUGPcG2NB868YlWM7RKA9g4M7wTrNjoac1HRhW0VuC0AzcyZNJ8wjfqUR78FsL6U05JK6//lCc+MwJqU/ITF/OGGoy2rrPhMBy5SbYovnpetmq7NcM4PZGAZ3KukAStkeY76FbpkiMxl1cny+Omg996Wh50XgwxsXMWrFquyZxKRchwH2RaiqX7TXa8VqqNBIJv4bV7ZzfIspg6o0lVefaa0hY+WnyuX03VWcqnwRbzppaMVsaf5GLNJt7h867jMQP9ZcIDlU7FQDzfR3BonIbz1j695fnziH6D+HEVqehAUeuWKeaSfEwlxR8FAZilc47X+D/bHu8xhvFbgQxethTCVfYi81cJukweEvTzaD4eFp7VEoVjdPmG41LoJcasQ==;oP73UmFi3sDymPHllhET8A=="

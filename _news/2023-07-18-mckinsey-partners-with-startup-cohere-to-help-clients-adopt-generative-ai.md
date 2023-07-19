@@ -55,6 +55,15 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 29
+  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost Machine Learning Inferencing to the Cloud"
+    excerpt: "Wallaroo.AI, the leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic collaboration with Ampere ® Computing to create optimized hardware/software solutions that provide reduced energy consumption,"
+    publishedDateTime: 2023-07-18T10:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9849543.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "StffFQOjVnT4t2YCYiTVni6wVMTHrvbxY3h6llEegGn4+NoP7sge5txdUGAiXNZoLI2TVMbIzB7XJv/IOp3oo7zLwKBqTjt8MRaFAg5yWof/lKe0f2UlbABuEfF8kfmIwbe/CwOiYvMoW2slaYZFDNx8CQ/9kdRsZ0Om4i0unATm3fwPECF5tPwPGQ/GVAiTCNGUVMM1N2Rgx3OacY9DUf35isVjTotkkYvdrRWhKrJUdDw64HcHo7JjNNVERh1+2kJ792CcZF1RnL5R8shEUuvXIwr2HsGko1fLt49653Q0YTUheJyeKnPxgFAGoB6NrxDxH5mYU/dhi+yfT4FPrikPf33wrSSlUDPU/T4vxEfJuTggDqg3HUdWDhmUSZdiZcwj/RBgm1ChueekTvTrvvyJJvXAxJsN3SBfao03pky7VePgNAJKQI0y6Hct/+n4hqRiK9RJ5dAjMt0QzeKLP7PM1Y4MhWWjuW6/8f3uoAS9LUVHmK71IXRW2Nf98kKsSJDhsErEXW6wyChVsAH6kg==;PMv8r7xDfdg0iFN/id+3hw=="
 ---

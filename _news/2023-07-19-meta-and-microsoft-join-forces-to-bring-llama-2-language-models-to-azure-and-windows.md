@@ -189,6 +189,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Capgemini partners with Microsoft over generative AI-based Azure Intelligent App Factory"
+    excerpt: "Capgemini has announced an Azure Intelligent App Factory, developed in collaboration with Microsoft, that aims to empower organisations to scale generative AI capabilities for their business. This solution is expected to see Capgemini and Microsoft combine ..."
+    publishedDateTime: 2023-07-19T07:49:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 80
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-19T131714.030.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
     excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
     publishedDateTime: 2023-07-17T21:56:00Z
@@ -297,6 +313,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Microsoft Inspire 2023: Key updates on AI, Azure, Copilot"
+    excerpt: "Find Microsoft Inspire 2023 innovations, investments, programs, and partner opportunities in new forms of AI like ChatGPT, Copilot, and more."
+    publishedDateTime: 2023-07-19T07:14:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-inspire-2023-key-updates-on-ai-azure-copilot-809947"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 69
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/07/19/1365879-microsoft-inspire.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "KPMG, Microsoft enter landmark agreement to put AI at forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across several business-critical areas including workforce"
     publishedDateTime: 2023-07-16T05:40:00Z
@@ -396,20 +426,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
-  - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
-    excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."
-    publishedDateTime: 2023-07-14T14:14:00Z
-    webUrl: "https://www.businessinsider.com/ai-data-centers-energy-cloud-microsoft-chatpgt-amazon-google-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/64b06c7e29e5fd00190eedf2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "4 big analyst picks: Microsoft upgraded to Buy on Cloud & AI"
     excerpt: "Here is your Pro Recap of the biggest analyst picks you may have missed since Friday: upgrades at Microsoft, Plug Power, Baidu, and General Mills. InvestingPro subscribers got this news first. Never miss another market-moving headline."
     publishedDateTime: 2023-07-17T09:54:00Z

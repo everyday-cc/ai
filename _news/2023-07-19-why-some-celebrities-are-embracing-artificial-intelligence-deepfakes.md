@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-65995089.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
+  - title: "Singapore actress and model Jamie Yeo has embraced AI deepfakes"
+    excerpt: "Singaporean actress, model and former radio DJ Jamie Yeo has no problem with being deepfaked. In fact, she signed up for it. \"It's a bit like that Black Mirror episode with Salma Hayek,\" Ms Yeo jokes."
+    publishedDateTime: 2023-07-19T06:27:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/business-66242058"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/EF38/production/_130204216_jamie.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "E+c1cFNB2b3ymvaRX+EcBDepPnvaFCcircFTWuWCb9EMkgUn9tOUIr1PEO2ZQe+QsC69ukKJpdHJgNTNKLlrxk+h3xJQSwiwBgdSFlKvox3R0eV6YWQaQdl1AwJwDikifmuoN+2FJF0VHZzcyyp5uxtSM9CzCN65f0jEbiscJq6L/+G+wS4PZia9tLQdzrM7m4Tk+dUGJ3AnVn21h2oJNR28eJQlBlESb8ZkEwNRumW685tCpLUg1TPfaEBTrPZ+z3Wr0mBexsjI3fuZQSKYE8TDHdq+0KHYIHua9PJVKQKJNRTq5YpVrKFyG+AROErUAwSI2UlJ8rrj3+2DYAIba2Zb3g91WdfZ0xYcGdlg1HA=;VTBoZCV88j5Yy0PauHxHdA=="
 ---

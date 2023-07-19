@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "A top AI expert says the technology is still in its very early phase: 'We're only at the iPhone 2G, 3G point.'"
-    excerpt: "Stability AI's CEO, Emad Mostaque, said during a roundtable discussion that he believed the real force of AI would be felt next year."
-    publishedDateTime: 2023-07-14T13:59:00Z
-    webUrl: "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp"
+  - title: "Six Ways Law Firms Can Use Artificial Intelligence in Their Marketing Technology Efforts"
+    excerpt: "Artificial intelligence is here to stay and law firms would be wise to learn how to use AI tools to their advantage, particularly in their marketing and business development efforts. Small and mid-siz"
+    publishedDateTime: 2023-07-14T21:40:00Z
+    webUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-artificial-intelligence-their-marketing-technology"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 47
     images:
-      - url: "https://i.insider.com/64b13a4a9751e300192a14db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/Ai-Concept-Artificial%20Intelligence%20SMALL_3_0.jpg?itok=RWGXgbtE"
+        width: 500
+        height: 243
+        isCached: true
+  - title: "The growing influence of AI on the technology sector"
+    excerpt: "In this ever-changing business landscape, AI is the brain and bawn of revolutionizing the tech industry. Artificial intelligence has enhanced efficiency, accuracy and cost-effectiveness. Everything and anything can be"
+    publishedDateTime: 2023-07-16T11:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/travel/the-growing-influence-of-ai-on-the-technology-sector-56482/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "NxC2cCOlYn4WnR9EEnyL3qvzVQW3vfNjF/JoLISgHsZ+5pRqLEOqEWLYM9YRaq0FGrd7vhHdE7ZekP0ax7HShQT4ZlFPRJ0qrOwHmnTWO9LSdpVMxCPuGMgjJTIe3M0TrXGhWGn1UiY87JndhHhCOoWLoKiSRvGsS57hQzgjoEY3F28xUh5XNMvbKUZlqr3wEGJkkUz87q3FS7zLcsrYNXzDQseqCBuvQ3T8B85v9iyS9WeLa08LsOFmVU/WnyS/qlq7eARbIb1J/HG76E9kNf20iJshJni57pEG7/OdVEaIyviuLl8q8fyiGAACoApUgmmROo98lfg4RCby8W59zpqfXrr1gZtZCW/RBdoBj4s=;1Ki3qTHx8WohFCiv1fFLkQ=="

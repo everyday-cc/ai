@@ -9,8 +9,8 @@ ampWebUrl: "https://bmmagazine.co.uk/news/foreign-secretary-to-call-for-internat
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/?amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Matters
@@ -36,6 +36,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The great acceleration: CIO perspectives on generative AI"
+    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
+    publishedDateTime: 2023-07-18T13:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "uGTxxdkweUq5y/tVKm7ORt84utNv0m61fLSjxw7+08bcKIddmWfG1OeuWtFahZxKC9TRExKfEix+i+NqAsGxde/POVMMtB/8MyP9yQvi0HJJLmN8Vt1Fs8lGcsFRenI820zrRsuXEClcwZj6Y1lFs3T6esYd+MrYcogkssrpYZNT+3yWKVZOin/xm1Uym3nSmtOkScKENMF5Qc0J6kyxPpAF0L4gl6CGmUw8GaAdxVhEEqe3c7E33m/cpHhHyi1cGne7+Xv2c5m/9POCYa5Kzl99uUGDxtl4mESVSCj2ERd/rg/9sc1V5XW9JtxUPSybHkuCzgX8u205YXPE+TrYxKROtdNqKcb9WlxpJKNezIw=;AzBhR6v8mL8n+kaMeJwo5A=="
 ---

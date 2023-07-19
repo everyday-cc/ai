@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-06-build-high-performance-ml-models-using-pytorch-20-on-aws-part-1.md",
+      "title": "Build high-performance ML models using PyTorch 2.0 on AWS – Part 1",
+      "excerpt": "PyTorch is a machine learning (ML) framework that is widely used by AWS customers for a variety of applications, such as computer vision, natural language processing, content creation, and more. With the recent PyTorch 2.0 release, AWS customers can now do same things as they could with PyTorch 1.x but",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-high-performance-ml-models-using-pytorch-2-0-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T12:31:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-to-avoid-ai-doom-learn-from-nuclear-safety.md",
+      "title": "To avoid AI doom, learn from nuclear safety",
+      "excerpt": "The single biggest thing the AI community could learn from nuclear risk is the importance of traceability: putting every single action and component under the microscope to be analyzed and recorded in meticulous detail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/06/06/1074077/to-avoid-ai-doom-learn-from-nuclear-safety/",
+      "originalUrl": "https://www.technologyreview.com/2023/06/06/1074077/to-avoid-ai-doom-learn-from-nuclear-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/06/nukes-and-ladders1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/06/06/1074077/to-avoid-ai-doom-learn-from-nuclear-safety/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/06/06/1074077/to-avoid-ai-doom-learn-from-nuclear-safety/amp/",
+      "publishedDateTime": "2023-06-06T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-eu-asks-big-tech-to-label-ai-generated-content.md",
       "title": "EU asks Big Tech to label AI-generated content",
       "excerpt": "The European Commission has called on online platforms to detect and label AI-generated content to tackle disinformation. Can the EU keep pace with tech developments?",
@@ -1335,110 +1424,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-big-name-investors-are-going-all-in-on-ai.md",
-      "title": "Big-name investors are going all-in on AI",
-      "excerpt": "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp",
-      "publishedDateTime": "2023-05-18T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-2-ai-stocks-to-buy-before-they-skyrocket.md",
-      "title": "2 AI Stocks to Buy Before They Skyrocket",
-      "excerpt": "Known for its social media businesses, Facebook and Instagram, Meta Platforms is another tech giant that could be greatly influenced by the AI megatrend. While management has spent recent years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-to-buy-before-they-skyrocket/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-to-buy-before-they-skyrocket/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/732436/gettyimages-1364859722.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

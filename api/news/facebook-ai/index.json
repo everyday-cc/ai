@@ -46,6 +46,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-this-week-in-data-how-to-choose-the-right-generative-ai-use-cases.md",
+      "title": "This week in data: How to choose the right generative AI use cases",
+      "excerpt": "Guest Head over to our on-demand library to view sessions from VB Transform 2023. Register Here With the rapid developments in generative AI today, what should your business be focusing on? This week,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-right-generative-ai-use-cases/",
+      "originalUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-right-generative-ai-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_78287420-8e7b-471c-8e37-7be83210f0cc.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-how-ai-can-improve-the-future-of-incident-response.md",
       "title": "How AI can improve the future of incident response",
       "excerpt": "At VentureBeat Transform 2023, Providence healthcare CISO Adam Zoeller emphasized the importance of proactive incident response with AI.",
@@ -54,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -95,6 +147,50 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-hoot-launches-ai-integration-on-its-myopia-management-marketing-automation-platform.md",
+      "title": "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform",
+      "excerpt": "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hoot-launches-ai-integration-on-its-myopia-management-marketing-automation-platform-1032451921",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hoot-launches-ai-integration-on-its-myopia-management-marketing-automation-platform-1032451921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -1403,111 +1499,6 @@
         "AI in Autos",
         "AI in Security",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-aws-invests-100-million-in-generative-ai-innovation-center.md",
-      "title": "AWS invests $100 million in Generative AI Innovation Center",
-      "excerpt": "The head of the Generative AI Innovation Center reveals what customers can expect and explains which industries AWS is focused on first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-innovation-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/forrester-aws-cloud-computing-predictions.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ai-is-making-cloudflare-even-faster.md",
-      "title": "AI Is Making Cloudflare Even Faster",
-      "excerpt": "The effort has paid off in terms of lower response times, and it's spawned a new product that lets customers run their own AI models. While generative artificial intelligence (AI) seems to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/27/ai-is-making-cloudflare-even-faster/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/27/ai-is-making-cloudflare-even-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/737585/man-in-the-middle-of-ai_deep-learning.jpg",
-          "width": 1839,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

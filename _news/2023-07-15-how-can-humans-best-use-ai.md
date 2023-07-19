@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why are actors so worried about AI?"
-    excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
-    publishedDateTime: 2023-07-14T13:40:00Z
-    webUrl: "https://www.bbc.com/news/technology-66200334"
-    ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Quiz on AI: How Much Do You Know About Artificial Intelligence?"
     excerpt: "Artificial intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of human lives. From chatbots to self-driving cars, AI is already being used in a variety of ways. In this quiz, you will be tested on your knowledge ..."
     publishedDateTime: 2023-07-15T20:27:00Z

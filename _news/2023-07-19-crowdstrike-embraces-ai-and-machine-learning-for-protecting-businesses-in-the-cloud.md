@@ -24,22 +24,6 @@ images:
     height: 651
     isCached: true
 
-related:
-  - title: "How Companies Strike the Right Balance In Managing AI Initiatives"
-    excerpt: "As companies embrace the potential of artificial intelligence (AI) and its transformative impact on various white-collar functions, they are faced with a critical question: Who should be responsible for managing these AI initiatives?"
-    publishedDateTime: 2023-07-16T17:06:00Z
-    webUrl: "https://www.cryptopolitan.com/strike-right-balance-managing-ai-initiatives/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/JasperArt_2023-07-16_19.40.47_upscaled.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-
 secured: "mSheQx2i1psW+1NKrMSrzyXHPUvn4Fyiqq7mqVy0Fj6fnlTJPQXz46tN4/TwqZPQAp2QRT90LDw/+onWjgvytk6dEI4gH0/in9c1SbcK51SkdAVSO+Xh2SVdya0zL39Tx6fsNjkUHw3J+mATQ7Jtuqy7qnGbpAX8PzexMy+SPZkK/26E8ImRfvA6rZpH7FEd+q74jc0QS0vjj/j8lCPCcIv92WZKpSZnKnV+IGE8c7ThE5eyZ/CfetpPnQfrKIOK7miz12ChtY1ry1O2Je7g6/74Z8RaNpuuBQQHC1Trrq/l12nZVIf74yWph65WkqTbUi2apM6pev1AbOXbA3znZ7ozpIRKsqZc4gdXmrbpNYpZZrqhdobmF71Clavq/YHsSB7LuaY2J3mvKRbCdQgim/Y4bpsXgL3k2yRVYQTsMLf13JhEHNNj27nISvUMaiL3MpaCGNKfDJAFtdh4TtYoyRm4gRWtu6QtLVb3bZ2jj+R4ZJqTLNU/xJN3qBtL1VsiFL7ud7E7TJ004BfhFvH8bw==;PRbC9vOKqFgC+pDcN+Tndg=="
 ---
 

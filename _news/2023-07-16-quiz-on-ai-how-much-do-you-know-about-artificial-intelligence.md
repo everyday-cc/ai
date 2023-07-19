@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why are actors so worried about AI?"
-    excerpt: "The strike comes after US actors' union the Screen Actors Guild failed to reach an agreement on increased safeguarding around AI rights. The union warned that \"artificial intelligence poses an existential threat to creative professions\"."
-    publishedDateTime: 2023-07-14T13:40:00Z
-    webUrl: "https://www.bbc.com/news/technology-66200334"
-    ampWebUrl: "https://www.bbc.com/news/technology-66200334.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66200334.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6F20/production/_130384482_gettyimages-1401980646.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "What's next for artificial intelligence?"
     excerpt: "We're continuing our exploration into artificial intelligence with another Tech Talk conversation about what the technology could revolutionize next."
     publishedDateTime: 2023-07-14T21:36:00Z

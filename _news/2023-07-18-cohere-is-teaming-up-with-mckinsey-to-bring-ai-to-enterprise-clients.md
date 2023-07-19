@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-b
 webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -60,7 +60,16 @@ related:
       name: AOL
       domain: aol.com
     quality: 16
+  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost Machine Learning Inferencing to the Cloud"
+    excerpt: "Wallaroo.AI, the leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic collaboration with Ampere ® Computing to create optimized hardware/software solutions that provide reduced energy consumption,"
+    publishedDateTime: 2023-07-18T10:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9849543.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
-secured: "4oqqFE70hNJ1/GFgKaWY3MVXeMm1G8MELIZ+5bmEZLCUq2GirfklaY6cjzQxrlPIiuqYvtvvpyjy5SSlA3Mqpg6YfstUP8aU+Nn+lyDJsS7/5eobvzIZNHnAKM978XgfaZczk75hYWVWcrkRx/uy1yXX7Y/Rb5ABGvZdVG0sWScvegwTzBnN4SjxkCC4CZLakbhB6GlKS7zpIL3KkGHvzd95m5+Gc06F9YOsmLiHg1gjVtSc3myljorUxFOlSSOIakiCVHt7QuRw1yuVL/13rA0VNYkpdeJZJFVfUDhiGpNUmUYYxhvz41JXPqMGWstxY56Wok00UGJt78K3TzGVP49V3DYFZHqfILOhrEjCpQE=;NEkl/xK9yT6UZt/dzM5ZLA=="
+secured: "JtXTAaBbFMklZTmffaFuaWix8sNNbHenAepEwfbIA9048+L4N+ePeg3z39SBhr47SJTz5MJYJh4RGmpYWBiUC5lN4v5YXdHXpJC1irNUs0rhFG+pBs03uGBT/wm5VgM258jWRHQIS5Vaa7AY00gHF9zX8foxmubLoQYLiT9iTDQ4+CXKwBruGyZW3hlOL17EhzXDA4W3fR4fHYkrwuNAtlGdcqCdiSZ9H/2ylqmfWF57GKADYE/aBEs0YtknsSDO95yXzzGo3i4rx/MyhJFGSr3udRJOa8Yx99Hlue28ZAloAEfwcF8f0aXoaYA73si4K/619s1d8gWvdeIvib1Ij83objbg2Ify66LDQjiN1kSfFeRovfBZY6P40aSLtI4wr8VBPqiGxFlVNzC8srXURLIzG18ntmlSaJtDBPz5+yA0aWdobyKTnlCkuG8HVjA8SNc/YggsLs99UWD7685MkTbLlSCU1ww/JDTYaXkK5fe5jvTJ6NHpEt7gvXhSs2Z02ZHnykt0vj3LZXLlu8Wp0g==;k15++6YEyJKskrhQDW493w=="
 ---
 

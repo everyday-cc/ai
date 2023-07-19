@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-19-neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics.md",
+      "title": "Neura Robotics picks up $55M to ramp up in cognitive robotics",
+      "excerpt": "Neura Robotics, a German startup that since 2019 has been building cognitive robots ... That includes not just fashioning all the sensors and other components, but building the AI that powers it. This also means that Neura can collaborate better ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
+      "originalUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/000_David_Reger_MAiRA_4NE-1.jpg?resize=1200,788",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
+      "publishedDateTime": "2023-07-19T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-more-than-1300-experts-call-ai-a-force-for-good.md",
       "title": "More than 1,300 experts call AI a force for good",
       "excerpt": "Mr Carter, who founded an AI-powered startup cybersecurity business ... pointed to agricultural uses of the tech, from robots that use artificial intelligence to pollinate plants to those that \"identify weeds and spray or zap them with lasers, rather ...",
@@ -244,7 +296,7 @@
       "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1352,59 +1404,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law.md",
-      "title": "Are We Going Too Far By Allowing Generative AI To Control Robots, Worriedly Asks AI Ethics And AI Law",
-      "excerpt": "Generative AI such as ChatGPT is increasingly being used to control robots. This bodes for concern since the AI might produce faulty instructions and endanger humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ab64847d894a41bf534a0b/0x0.jpg?format=jpg&crop=2557,1917,x116,y106,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/10/are-we-going-too-far-by-allowing-generative-ai-to-control-robots-worriedly-asks-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-07-10T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "AI in Robotics"
       ]

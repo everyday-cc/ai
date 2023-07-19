@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-17T14:59:00Z
 originalUrl: "https://www.pcinvasion.com/where-to-find-gpu-in-warzone-2-dmz/"
 webUrl: "https://www.pcinvasion.com/where-to-find-gpu-in-warzone-2-dmz/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "oiLB+Lv/J6F/pNKsDqw/bs9htgIFpEX8TE1pMvTphcsOR8AN8whW/5c7g9PbW/DuKGYs1KSZZWM9Z/e8ei2+Ccas4PEQq06JkQAAg1z3I5OVkfDacXM2/syWqWeUbCY5N64hrAboVf/M4w4vLqOm57sSn9LQteKxt6XEzv6ebeKhg6UZjaRngRMuL++NiEfX/PDHmORjCrCj1v2UozpqLVv4am/rrMqtQJvD3zPf0Hrmr+ci5EZY3Ra/O4bEYego8Xjk8Y6KrCC8VfuqhN3lSVKkTt5yFzC/w1aYegFND2XSlmjZc9pGBEjqX3yP/rQxuLwLeiBG8YJWDdZDDxCv7abbkFFSb3A7jV4mqIV7MCI=;jb5Zse2ocRVPZ4UKz5Xrkg=="
+images:
+  - url: "https://www.pcinvasion.com/wp-content/uploads/2023/07/gpu-title.jpg"
+    width: 1200
+    height: 768
+    isCached: true
+
+secured: "qN52XeJD/6NGnAuCW4rs194Lse1sZb8lDfn4sVySysu9tKr86EiEuu07ui2y8XFqGhEz3/vQFmn34Xi675CxalmH4tiMYqx0vSt7y2rLojuwHfVmk2gx700OaJ6hGBlO7ODNT5oDX0H5tXnfX06BvXmiNU7LIYZA/25V+CW0ClikXGtqSm38OobyobBZJiZTI2Zj6Ng5/jBElFgMjTJtE4+KL4hmFNPCijLWIx+pXF4q/HB91RtFHeLQTL9ktLVFWS7WvUKUFtUitqXdPMzzaoE3YwJEJOWYcccpf5uAKUwy48xjay3nlDI580b9Rsv6JlfNsvDbWZLBjLioEsVu2+vCRX2J9XkWelnk8Kr+LjI=;G/DaOmmIBciqsrI0330VeQ=="
 ---
 

@@ -1,0 +1,59 @@
+---
+category: news
+title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
+excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
+publishedDateTime: 2023-07-19T07:33:00Z
+originalUrl: "https://www.econotimes.com/Samsung-to-Supply-Tesla-with-Full-Self-Driving-FSD-chips-1659663"
+webUrl: "https://www.econotimes.com/Samsung-to-Supply-Tesla-with-Full-Self-Driving-FSD-chips-1659663"
+type: article
+quality: 33
+heat: -1
+published: false
+
+provider:
+  name: EconoTimes
+  domain: econotimes.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://f1.econotimes.com/2023/07/mv7n3g4h3x_th_1024x0.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+related:
+  - title: "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0"
+    excerpt: "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node"
+    publishedDateTime: 2023-07-18T13:54:00Z
+    webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-D1-Dojo-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Samsung said to make Tesla's next-gen self-driving chips"
+    excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
+    publishedDateTime: 2023-07-18T11:22:00Z
+    webUrl: "https://seekingalpha.com/news/3988297-samsung-said-to-make-teslas-next-gen-self-driving-chips"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418906269/image_1418906269.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+
+secured: "1rrZjhUAdGaFoYTCNvMq6NRmPPB/8xeVx41ZxQZ6wxsZ9MyGl5sD36YCzwd4YwcEt6syKswY3SJWhSIAqeuRShW50dfmmvMAONB9DN4wrSJVfUphYlVkoutRqN4gY5MbEL0SbbrsxA2xSU8VJJQbgKMV5wPz3p0NDqhBXe48OGoVLiQXaC3xSM5r09AeWnOm2qhhThP7xQfHUjGsqE2o0uEEVWJoCKf40oi44Yits3KtApbzNTHMDulRL3dUjNZOe909MzaNDYd7iV5a8GZTM58Faf3A5REw54BCvoy7mNdkbyNwuyWKzGfS2yIX5xfyDfNUUju3s26AM0omgwYN5rafalWqI2A9FSnBVdpq3H4=;OuK5aZqx/Uk5nkh5ntSKnQ=="
+---
+

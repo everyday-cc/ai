@@ -58,20 +58,20 @@ related:
         height: 202
         isCached: true
   - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T22:01:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+    excerpt: "Meta used the acronym LLaMA, for Large Language Model Meta AI, to describe the first version of its model, announced in February. It’s now dropped the capital letters for its second version, Llama 2."
+    publishedDateTime: 2023-07-19T02:53:00Z
+    webUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+    ampWebUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: KKTV11
+      domain: kktv.com
     quality: 44
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/b97a2bb7-2255-49be-81c7-cd00198ba40f/thumbnail/1200x630/8fa8182596b299afef316114648f9f32/9b36e8d006fafd1e651176d6010dec18.jpg?v=ed1888effc334856324ceac60c145559"
-        width: 1200
-        height: 630
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/B9O2QGh-Ac987PiZ9xUWNpLO5IE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7OTPU7Z2UJCC3ODOSZOJSAPX6Y.JPG"
+        width: 800
+        height: 450
         isCached: true
   - title: "Facebook parent Meta to make ChatGPT rival Llama public"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
@@ -117,6 +117,17 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Facebook makes its ChatGPT rival Llama free to use"
+    excerpt: "Facebook’s parent company Meta has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T09:11:00Z
+    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 24
   - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T21:00:00Z
@@ -131,15 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT and the Future of Health Care"
-    excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
-    publishedDateTime: 2023-07-14T13:43:00Z
-    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/chatgpt-future-health-care-medicine/"
-    type: article
-    provider:
-      name: psychiatryadvisor.com
-      domain: psychiatryadvisor.com
-    quality: 4
 
 secured: "498215TQiu9QWRlYu6bd7XacrFCSZo/Qc2W+VRrDvfh3epOcevx36RnuCZ5x9rpu8dEztHH9so7jqm22JjnnSjrAsPRuo8HN6ZQogkCARZbGxyUpyxFUPLOlC48ioJtMIBYqR0juTcccMNJtz/KBriMuozufURh5MiLRGueJZkG1e5951waoIeIV/pkAUAO93gIXaFX6NWs5ZhpdC4YL6KUGYYgp3HEIm1BI82lJ0U0tRMzbugjRiIP78IUxfV6bz/+AgBCbq+Yjw26WXKZt848tbFlrxle8uu2OMklemkDxZhFwiAwDFVHWM8FIRFce0tEluP7IzyPwOfu7o2uNK7BOQN74scdX0y8vfB1pHak=;jWOmaNfpBvnjxdFXae6pGQ=="
 ---

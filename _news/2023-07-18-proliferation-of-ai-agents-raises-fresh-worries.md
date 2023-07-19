@@ -19,183 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "The Role Of Generative AI And Smart Data Extraction In Accounts Payable Automation"
-    excerpt: "A fundamental use case for generative AI within AP automation is its capacity to extract and process data from invoices."
-    publishedDateTime: 2023-07-14T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
+  - title: "AIs trained on AI-generated images produce glitches and blurs"
+    excerpt: "Using AI-generated images to train AI quickly creates a loop where the results get worse in either quality or visual diversity"
+    publishedDateTime: 2023-07-18T11:00:00Z
+    webUrl: "https://www.newscientist.com/article/2382519-ais-trained-on-ai-generated-images-produce-glitches-and-blurs/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b001d6688702d8dcee1991/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "This week in data: How to choose the right generative AI use cases"
-    excerpt: "Guest Head over to our on-demand library to view sessions from VB Transform 2023. Register Here With the rapid developments in generative AI today, what should your business be focusing on? This week,"
-    publishedDateTime: 2023-07-18T01:07:00Z
-    webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-right-generative-ai-use-cases/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_3_ways_businesses_can_develop_technology._Colorful_futu_78287420-8e7b-471c-8e37-7be83210f0cc.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Why generative AI just hits different – and why organizations need to embrace it now"
-    excerpt: "Learn how gen AI burst onto the scene, why it's not going anywhere and why business leaders need to embrace it, in this VB Transform panel."
-    publishedDateTime: 2023-07-14T14:45:00Z
-    webUrl: "https://venturebeat.com/ai/why-generative-ai-just-hits-different-and-why-organizations-need-to-embrace-it-now/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screenshot-2023-07-14-at-10.26.42-AM.png?w=1200&strip=all"
-        width: 875
-        height: 467
-        isCached: true
-  - title: "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform"
-    excerpt: "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management"
-    publishedDateTime: 2023-07-17T16:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hoot-launches-ai-integration-on-its-myopia-management-marketing-automation-platform-1032451921"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-  - title: "Are we ready for the profound impact of generative AI on accounting and finance? Here's what lies ahead"
-    excerpt: "Generative AI will have a profoundly disruptive impact on accounting and finance, but that doesn't necessarily mean job loss. It does mean embracing new tools, and deeper automations. Sage CTO Aaron Harris breaks down the top use cases - and what we need to do next."
-    publishedDateTime: 2023-07-18T10:29:00Z
-    webUrl: "https://diginomica.com/are-we-ready-profound-impact-generative-ai-accounting-and-finance-heres-what-lies-ahead"
-    ampWebUrl: "https://diginomica.com/are-we-ready-profound-impact-generative-ai-accounting-and-finance-heres-what-lies-ahead?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/are-we-ready-profound-impact-generative-ai-accounting-and-finance-heres-what-lies-ahead?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 60
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-07/Generative%20AI%20Finance.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "Generac powers business transformation with data, AI"
-    excerpt: "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI."
-    publishedDateTime: 2023-07-17T09:59:00Z
-    webUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html"
-    ampWebUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/07/tim-dickson-100856016-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "How generative AI can democratize content creation across the enterprise"
-    excerpt: "Learn why content creation and productivity is one of gen AI's most transformative powers in this VB Transform 2023 panel."
-    publishedDateTime: 2023-07-14T13:26:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-democratize-content-creation-across-the-enterprise/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
-  - title: "Embracing the disruption of generative AI at speed, responsibly"
-    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
-    publishedDateTime: 2023-07-16T22:57:00Z
-    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
-        width: 2254
-        height: 930
-        isCached: true
-  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
-    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
-    publishedDateTime: 2023-07-19T03:30:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Banks get clearer views of risk using AI, data integration and the cloud"
-    excerpt: "Experts and industry leaders said banks are pumping investment into technology that can connect information silos."
-    publishedDateTime: 2023-07-14T20:53:00Z
-    webUrl: "https://www.americanbanker.com/news/banks-get-clearer-views-of-risk-using-ai-data-integration-and-the-cloud"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 38
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/23d5d46/2147483647/strip/true/crop/3763x1976+0+102/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F6f%2Fc8%2F694baaa243e69e44a12b5b3aac45%2Fadobestock-602893037.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "A look at generative AI and its ethical landscape"
-    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
-    publishedDateTime: 2023-07-17T07:00:00Z
-    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
-  - title: "Defamatory Bots and Section 230: Navigating Liability in the Age of Artificial Intelligence"
-    excerpt: "The easiest way to vex an AI bot into spewing falsehoods is to feed them to it. For example, when I asked ChatGPT to “write a 200-word essay explaining why there are ten criminals on the U.S. House of Representatives Ethics Committee,” 8 ChatGPT ..."
-    publishedDateTime: 2023-07-18T17:33:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/defamatory-bots-and-section-230-3202468/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 29
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15709_2358.jpg"
-        width: 1200
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/17171810/SEI_164438494.jpg"
+        width: 1350
         height: 900
         isCached: true
-  - title: "The great acceleration: CIO perspectives on generative AI"
-    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
+  - title: "Movie critic reacts to AI-generated films"
+    excerpt: "Movie critic Rhianna Dhillon and BBC technology correspondent Marc Cieslak watch and react to four examples."
+    publishedDateTime: 2023-07-17T09:59:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/technology-66103532?at_link_origin=BBCScotlandNews&at_format=link&at_campaign_type=owned&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial&at_link_id=8D51A636-24A3-11EE-AA38-94B8FF7C7F44&at_campaign=Social_Flow&at_medium=social"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
-  - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
-    excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
-    publishedDateTime: 2023-07-17T09:13:00Z
-    webUrl: "https://www.pv-magazine.com/2023/07/17/ai-poised-to-enable-accelerated-transformation-of-the-energy-sector/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 8
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "EpPPWM+WHMYMXEMiFjYCR/vZy7pTwAPGrBZPAEbxjbssEDb+kg2wPTUpopKcffvNrf0XF73sq4T0WJ+xGidbbDvwT1iN+m7YWJkAzoMYkZDe4QhVPx9vSiZBFbNz4MljedmM9LASqvNMnGiHaa4vtrYtsgMk5Igf57dKNDJzXHjhYBjFGIq2vMJHI7zBUIL0Muz1eji0TdOkF26gxX6IPwXeE5Gr7rS7xywWgATe7DLSv2ZVw5vxKAzkT7JxkfOSRSXfERJ1dRE/TNjsyWp/pwDfNTG4IQSP4JvcsPbhjdHHm8IRzRZupAY78EVYAhBhd49fkqjDuGBpcCrRwUugW+rIJ5zStezqIb6qK3ykvXCxtQ3LRfaIQQozejGYoT07RLMPO5i9fe47uotW8hfokRP0cV7tKoKjl0Rr5iTDJcIWYzDqudbLIegZrSNGXRBt/54lSYU4enPL4a4+IsljjUs29PcbHWbx6AYjhyCvNh7d+HwOc2zf6mrSRT24Vz8Ko11rUI9Y2PbVvzr/dcrOJg==;j/AubUY1MchXgVEQmoCfsg=="
 ---

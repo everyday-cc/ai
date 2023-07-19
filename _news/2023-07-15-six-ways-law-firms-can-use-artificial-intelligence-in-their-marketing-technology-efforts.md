@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "AI only at its infancy, says top technology expert"
+    excerpt: "During a virtual roundtable, Emad Mostaque, CEO of Stability AI, claimed that AI is only at its infancy despite its growing popularity."
+    publishedDateTime: 2023-07-15T15:22:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-only-at-its-infancy"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/15/image/jpeg/3NgbRdfQ6vyVNMGW46fsxn3EA9TWfslrvprV7pMo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ppC2K7aiiorr9cr6NbR9JNA3XowF2I+jiFE3/YLgCJySKTP9hFX629aDTlsp1krLRfNED48BF7k2kOIIQpCY2zTJNdTfKVt/rYFVuv/kf86qLbBPZ54TV2MMIq5+wDs7No3vgN7KL6xFpKEUyilspvhrxTEQ+7DQaNyR32fFJhB8cKJgkhj6ZgDLV688Q91+yX9k76rooIGDr9VN7CB4GhSyu8wYieC6TfhH4mnzgOTB63tI1O0bjDlTDy6+GbyYUXdb9G7E/Cbmp4wk/ywRprm1Cs3rYnP5eJaqIdW17RA465Q9aPU7QbfDl/orGYpUmU6YEWYaAMfOVgjL4+wBPWKAS0At4+qDb35+ZOBIvm/Y8D9oTMdC9TurwZwMcBGd9eXdltFAhvBb4laLNMax89Q/oNnoBxAnFSSWGIm6OzNwaCFzJPNhNdl2UqU5igCEQ/woEUpOxLl+cc6Di4BxVuf2wOP7nO0TqM5ybsJSnaZY0bcDXOBrGxvw4ugDHjO/HFHzE+kR0xD1gf5JbUQiiw==;qCRdlCxs/US6tqGC4kOO+Q=="
 ---

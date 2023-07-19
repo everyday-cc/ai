@@ -158,7 +158,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 609,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -337,6 +337,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-generac-powers-business-transformation-with-data-ai.md",
+      "title": "Generac powers business transformation with data, AI",
+      "excerpt": "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html",
+      "originalUrl": "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/07/tim-dickson-100856016-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/",
+      "publishedDateTime": "2023-07-17T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1358,50 +1401,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week.md",
-      "title": "ChatGPT Vs. Microsoft, Runway's Funding, and Tesla's Predictions: AI Developments This Week",
-      "excerpt": "Nikola Tesla Predicted The Rise AI Over 100 Years Ago With Scary Accuracy. A reexamination of Nikola Tesla’s writings revealed his prescient envisioning of AI. He predicted the emergence of autonomous machines capable of learning and adjusting their actions based on external influences. Read the full article here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33088892/chatgpt-vs-microsoft-runways-funding-and-teslas-predictions-ai-developments-this-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Artificial,Intelligence,(ai),machine,Learning,With,Data,Mining,Technology,On,Virtual_6.jpeg?width=1200&height=800&fit=crop",
-          "width": 626,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33088892",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33088892",
-      "publishedDateTime": "2023-07-01T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Microsoft AI"
       ]
     }
   ],

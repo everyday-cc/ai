@@ -41,6 +41,34 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Embracing the disruption of generative AI at speed, responsibly"
+    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
+    publishedDateTime: 2023-07-16T22:57:00Z
+    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
+        width: 2254
+        height: 930
+        isCached: true
+  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
+    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
+    publishedDateTime: 2023-07-19T03:30:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "/j97JAFOrGIMWf9X7HmutcnzN1tfOXEexWw2rDy1QsXnYWlYVkEVCdggGG/YhkwFvkpivoCQeYqVG0uvp80Cy/hGiBtarYm09RET1C8+TUa4Tv5i/6VAyjnmbZfCyeq4oxli/C+JfvqYV4Y9+bE1ijMP19j6EhRZXLXHQPqGGJuNR2TNgNjGbVs2lLFADjfjNWe+N+ntZwCoTzDmkRsCQKHBvYgoEs5ncdBtpo8wbhZ0dJHvbERLs/8fTv/+d2NwXTzemGPIdjS9rZSr9fDIz+M1kWM70jmnaU5BjsWPyiBFcQbhGHFoiAL6BCXlIk6okJnyvlae72xt8GjDm6yE9GMZuXXmI5CCzPdCRsE9kXM=;ZlvYlBQGz0CbY0yP/ayhYA=="
 ---

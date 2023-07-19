@@ -38,6 +38,15 @@ related:
         width: 751
         height: 422
         isCached: true
+  - title: "The great acceleration: CIO perspectives on generative AI"
+    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
+    publishedDateTime: 2023-07-18T13:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "fQnJls0CC9CEwXk12kMgzysBgadxBRFnfo+N5vaUUX48rcOLUCg9jDHec2Ly+V2BelnQjARQYioH/G1g29306QvX4FIQ2IoDR8s+xXKU804bbHaAQAQVTFpyPdiiwCDRgpRh9zS/cNyOwUbqT3lTGdj36CBFvLxgOi4IG5wxdtZYCcnWm79tyQFXx/pu9xteuBUn500e0qApLG1thgkQCnMS65TTIQbLskGE/uu0mEWJClXEbjBGS4fxm5CFmm/TMNl76x7Q5Gevc3N5PheZLu612tcmjcUa8HDs1obkUJAuP+qAs+jv7Co+s5SPJ/VQIbRWT7xl6Ehl6b8AEF+5VOoEhmZLdP68uQzqofH+XH8XhajzlFNL0kkM+QSH6Zyk3heE1rBbavtaYl5qE6G8xx/PuZg3ZKx+BIJQ3RGDCKPU2aPR1w0hbYBT1seK7WilZcP2X9YmM/qSJ7ZZE3In40lLPkx16WA0IAMklb71FXOC3p1vBDYivrnh/P/mBkdxHL/8mL5JH8ZUNc6s/mmdkw==;SR/qSZQYjQwYXXZllRksIg=="
 ---
