@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UK Needs Culture Shift To Become AI Superpower"
+    excerpt: "Mustafa Suleyman's views represent one of the challenges facing Ian Hogarth, a British entrepreneur and investor who has been appointed to lead the UK's AI"
+    publishedDateTime: 2023-07-18T15:44:00Z
+    webUrl: "https://www.inferse.com/623130/uk-needs-culture-shift-to-become-ai-superpower/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 19
 
 secured: "XuTdQGEQdGieSLZ2ViuomYigPpk6wPf8+MVvC3xXZjdNl1njFFhi8Bvs0QhKv34k6Rd4ArS6pR8GsO8Po8u2//2ga+G5EDH4/ZL8qNRav9H6OKhUMGIDdazcStLOvoYD4/VJFh1ShhQisk7RDF7mYeiX5ysR4gbmbUaOPCCb6cY2VQOjtlqdRDm8X/qvFfGF2RZ1vV4GgH5Sp2nHC2FiUtknk67Qzh3Xp78409ukQ29TSwACApDzCxfncCB9OZKc3spn4LYHNxr+1C7cooBkShN40++A0kIQ6XUz5q4p+7EW7qZ7jhtO8J+DN82qDPudvUq2fEcfYPCButvidI8z0/U6EOtR/rjHqf54VCOTtACeTq8S9rWbmsMml6mMM6RpWFiyPBWopMZNHAheNnDXXMX5uDpOU+cftoZEKVp7LzpwObF3aIRA2XzTsUP1qMPfvSDrE4oL1Hb6k+qpwIZUDp/4ZE9LDiZB4jwRFt1VMlvZHeN8Xqr7vYjFHTl59zQ9+M+rtcZLTjuJ6rcIQQML1A==;tFkb2F79bndk17mkH+iLTg=="
 ---

@@ -87,7 +87,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1185699754.jpg?resize=1200,800"
         width: 1200
@@ -240,6 +240,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_07_2023_22_21_02_8107165.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Meta and Microsoft Team Up to Distribute New AI Software for Commercial Use"
+    excerpt: "Announcement, coupled with details of Microsoft’s pricing plans for artificial intelligence in some software, underscores rapid AI development at big tech companies"
+    publishedDateTime: 2023-07-19T03:43:00Z
+    webUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-11689691313329.html"
+    ampWebUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 72
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/18/600x338/microsoft_1689696711251_1689696724070.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
     excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
@@ -665,6 +681,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "cbN1DFnoY3L3932tYid2DiYKwddn0TG1uOR5eFkQZO/hMOjDPKR7qnr6ccCZvbGh7TAUUHujZVWsz5Y23cOyIyIeoFY3OqWCisaYm5jzZ1Cw5XIenvCz225ew6ESCmWyUT3vIVxZrlWnBMALQAW1Q3W2JrfHd5W1QrVmBwPkMFLVBWbWDTZGMxAJcq7/VT8EtphJCtTUruyOJ8Pt5nuklk2OAVbfcDRtgd5jMsZRjDL2wBhND4tpO2H60l9y8JXFoB+BlTU3zay98B4YG/GVf8Bx4sM77kC5n9ZnIWyu8cDOefu69zq51uyGoAMH2efLti8H4lZfhNbFBfM8WIJvZ09MAHIuBps6NCT5O+iizjk=;6gU3s5c9Sy/eXsKoh7h72w=="
+secured: "vBFfM6PhCP4jiSoxEgelHwNRDnEwItDLMG+mFUQN8v4tTTjTPBpl5bCTb5hkeiCCJknEaPGg2ml7DSm5jmELCf3dS/jxbMfz/rP9Q7z6HG4zszPgkllGueQmxwS+9QS1Qwe+Cn5rH7MVe6FWv7pWivUIcZVSnbGM42TF5uAgNothklz5FN+mFXp0cwX/PtDffWY7nXPA+ayzPBxyyyicZFf3z0tY7LUvnskI/kMMqEfhhGXUAeefwJluAccazDuKQzv/VPhS1SD2q7ENpN6FDTRmKRGa/8DbGq1aGc/MQ0Yd2BWoT5O2Cyr9CNu20UrnHzSginYByIcCq3bY//b0WkK7eI8zm4+dkq3Foq35qJsN03WCa95NFoIbDnZKYvCKewm2gdfkmoMJBac4EYW3RBPr//qVNyakYWI7cp+JkmTweisxw7eA27qAIRpIOcGeH7N1GmWFyB6/pJbhjveI/D8+VpqydkT3X5QCG1qBhi4QU+clHNwhxcRdeOHWK9T2DF+X17qLAM9n/B5FICUkFg==;v7DQJQnfOZJpjkTFBoxLfA=="
 ---
 

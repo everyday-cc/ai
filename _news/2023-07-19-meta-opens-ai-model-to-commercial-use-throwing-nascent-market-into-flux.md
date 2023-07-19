@@ -2,22 +2,28 @@
 category: news
 title: "Meta opens AI model to commercial use, throwing nascent market into flux"
 excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-publishedDateTime: 2023-07-18T18:54:00Z
-originalUrl: "https://www.aol.com/news/meta-opens-ai-model-commercial-155458860.html"
-webUrl: "https://www.aol.com/news/meta-opens-ai-model-commercial-155458860.html"
+publishedDateTime: 2023-07-19T03:54:00Z
+originalUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
+webUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Facebook AI
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--lTOynVss--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t155458z_1_lynxmpej6h0od_rtroptp_3_usa-layoffs.jpg?itok=jUtRWYj0"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "Meta launches Llama 2, an open source AI model that allows commercial applications"
@@ -105,6 +111,15 @@ related:
         width: 800
         height: 558
         isCached: true
+  - title: "Meta has launched a new, open-source AI model"
+    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
+    publishedDateTime: 2023-07-19T02:04:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "US Communications Commission Hopeful About Artificial Intelligence"
     excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
     publishedDateTime: 2023-07-18T19:47:00Z
@@ -115,6 +130,6 @@ related:
       domain: voanews.com
     quality: 17
 
-secured: "hO3ycPJrOnqXcy4IlkJjztb40vF8Ycn0BaRFkub3b55KeAixR6JggOo6xgW6QKsiY2bO6M/zQfp518ZOcW4sYeBXIHH8rEuvZHOSPhL9xzYzMStD547qXCQjz7nBB/l2k7M1a+XvpfRZ6Qc7n2z60kJs9jwwQHQlPNPa/Jopb+2Lc2Xo1HJB10UfrVGKoqGUd9elehQBpAP+xTdukaCHD1YTjdg5bLZ6nrNIw2Hm9a0bMCpwkciDtzgTK7BYvuACtRYtQe0VFaJybzKxj35UteT0I2cmG727AgqORZWKjZKEacirJHuPxrMQ1Gp8BfKsmGOSD0gY12dlYYdHTcm7KFUZYJYkhPpSWYbndClroaM=;Ucw9bohqCU5To1I1oQUrmA=="
+secured: "++pOK4moOkgbP1IOUbyM7lyi6nIymkm5ckbJ3GJtaaFPagLSJPwQ8TP15+8E2D0ZX6tS4xpGE/PC0Z7FeYi6EyEH1mk0Y7sUnH18WBlSIX+c1N/ZMT8lbdqlYK/vg3aRg9g9zJyF8mWHDRoGizU7IhK3z9vYnZLmlRr8vTqo76iiO+fj6uMnlJFyrtA/bt6OzF1ihqqeUqOkh2ThlLHu6DglwkIj9MUWBb3RmpmN2UePSeevORSqQUhnuOT0aOo4ywlYUmsNJ12kslBSx4V+YWKdBYQdYW3Nnwb8WwjnoCsI3mje7qMwKfRcf7cnWt7E22gDqpDYYjcMsvt+U6rcaaL84+RAMJlRWlSXaBY32p0=;FwLpsp7e6zx4y2wdO0/CpQ=="
 ---
 

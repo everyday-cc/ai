@@ -76,7 +76,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 41
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-17-at-8.52.10-PM.png?w=1200&strip=all"
+        width: 1199
+        height: 603
+        isCached: true
   - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
     excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"
     publishedDateTime: 2023-07-17T04:45:00Z

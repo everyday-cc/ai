@@ -66,20 +66,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "Artificial intelligence can augment healthcare"
-    excerpt: "Experts say generative artificial intelligence (AI) has the potential to revolutionise healthcare as a whole. It has the potential to improve patient"
-    publishedDateTime: 2023-07-14T09:34:00Z
-    webUrl: "https://health-e.org.za/2023/07/14/artificial-intelligence-can-augment-healthcare/"
-    type: article
-    provider:
-      name: health-e
-      domain: health-e.org.za
-    quality: 54
-    images:
-      - url: "https://health-e.org.za/wp-content/uploads/2023/01/logo_size_invert-1.jpg"
-        width: 598
-        height: 233
-        isCached: true
   - title: "Insights on bolstering healthcare incident response with AI detailed"
     excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
     publishedDateTime: 2023-07-18T17:48:00Z

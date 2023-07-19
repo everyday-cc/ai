@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-f
 webUrl: "https://www.deepmind.com/blog/codoc-developing-reliable-ai-tools-for-healthcare"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "http://res-1.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/opportunities_and_challenges_for_ai_in_healthcare_bxxfqr"
         width: 1080
         height: 1080
-        isCached: true
-  - title: "Artificial intelligence can augment healthcare"
-    excerpt: "Experts say generative artificial intelligence (AI) has the potential to revolutionise healthcare as a whole. It has the potential to improve patient"
-    publishedDateTime: 2023-07-14T09:34:00Z
-    webUrl: "https://health-e.org.za/2023/07/14/artificial-intelligence-can-augment-healthcare/"
-    type: article
-    provider:
-      name: health-e
-      domain: health-e.org.za
-    quality: 54
-    images:
-      - url: "https://health-e.org.za/wp-content/uploads/2023/01/logo_size_invert-1.jpg"
-        width: 598
-        height: 233
         isCached: true
   - title: "AI not yet a game-changer for healthcare hackers"
     excerpt: "Hackers are hitting healthcare targets as hard as ever, and now researchers say the emergence of generative AI will make future attacks even easier for adversaries – eventually."

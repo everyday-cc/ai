@@ -66,7 +66,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 41
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-17-at-8.52.10-PM.png?w=1200&strip=all"
+        width: 1199
+        height: 603
+        isCached: true
   - title: "Hollywood actors strike over use of AI in films and other issues"
     excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
     publishedDateTime: 2023-07-14T19:38:00Z

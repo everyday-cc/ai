@@ -82,20 +82,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 41
-  - title: "Asia Falling Behind The Ai Regulation Race"
-    excerpt: "In 2023, the EU Parliament debated the Artificial Intelligence (AI) Act, China publicly commented on draft generative AI rules and US industry leade"
-    publishedDateTime: 2023-07-14T11:00:00Z
-    webUrl: "https://menafn.com/1106602709/Asia-Falling-Behind-The-Ai-Regulation-Race"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106092"
-        width: 363
-        height: 250
-        isCached: true
   - title: "As employers expand artificial intelligence in hiring, few states have rules"
     excerpt: "Only Illinois, Maryland and New York City require employers to ask for consent first if using AI during certain parts of the hiring process. Here's where pros say that can cause problems."
     publishedDateTime: 2023-07-17T16:34:00Z

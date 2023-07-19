@@ -84,17 +84,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
-  - title: "The Indigenous voice to parliament is an opportunity for peace with ourselves and our history"
-    excerpt: "People with good intentions on both sides have launched an ocean of rhetoric and polemical squabbles, debating whether the voice is the best response to structural disadvantage."
-    publishedDateTime: 2023-07-14T09:09:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 13
   - title: "Speaking out: opposing camps state their reasons for and against an Indigenous voice to parliament"
     excerpt: "Australians will be told the ­Indigenous voice to parliament is a “leap into the unknown” when they receive the official No pamphlet in the mail, while the Yes ­brochure promises constitutional recognition with concrete results,"
     publishedDateTime: 2023-07-17T14:45:00Z
@@ -104,15 +93,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 5
-  - title: "Long journey to spread ‘facts’ on Indigenous voice to parliament"
-    excerpt: "The true story behind the voice to parliament – and the reasons why Aboriginal and Torres Strait Islander people are asking fellow Australians to put it in the Constitution – is not well known, according to the campaign of architects of the Uluru Statement."
-    publishedDateTime: 2023-07-14T09:41:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/long-journey-to-spread-facts-on-indigenous-voice-to-parliament/news-story/45ce7d575b4761dbfed33c8155949709"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "I5pgwhMC9jmKDH8wTy7eqQ4iy6CqRZEYU8MicJ77soSTJUq8+NcNMwtaFmg5HXx8TmrfzI1sjBosh3+pbpvpMofevODz6v4Hw4ZEdVb5xum9Z4iEc7/FVjTlaEFdHRyovMWrqsDSLUmghRhJGq7F8z2p9Le7AXtK4fi3nFwSG5bd2mx6RkLn/1riT1vkZ0Fg7nkwEGE1/aG3GwCIsavEDOgLdRGC1eIPAvT8ksCJ5zk1c4pHKnEPiJ9oGADWSJN/0rZPLSYAy9d2bL+lQevALJRX072rU+TujVuGEM31idcucbSX+NU0/3yPcXDjKdI5+cU8n781kT/o8GlAFRciG8HrryMklJEukn/AuxWFg4QaqNmmrpmJDo8IwhtGYiq225KULaO/t5oJ1J2m+OCUzPXKFwRDwBtsb91WkmY3x/c3IKQAL2h4IXpnUs3T1pEDcfWEc99tb0LUaL0K6I+JgkohMldb7ruiETr5yo4bSw0QFsm+a32/wEAUPCnjzCbwTqPMHdax2OB2FoCfs2AIUQ==;LgUTspO+h7C05yJmCli8aw=="
 ---

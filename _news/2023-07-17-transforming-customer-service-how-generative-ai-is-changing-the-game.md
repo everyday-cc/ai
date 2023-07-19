@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generat
 webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
 type: article
 quality: 99
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The new high-paying jobs in generative AI"
-    excerpt: "The push to adopt generative AI in the cloud will lead to new roles and needed skills, and enterprises will likely pay top dollar."
-    publishedDateTime: 2023-07-14T09:12:00Z
-    webUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702650/the-new-high-paying-jobs-in-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/10/jobs-sign_interview_job-search_now-hiring-100774984-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI And Government: Transforming Public Services For The Digital Age"
     excerpt: "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures."
     publishedDateTime: 2023-07-17T11:45:00Z

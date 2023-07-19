@@ -133,6 +133,20 @@ related:
         width: 2254
         height: 930
         isCached: true
+  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
+    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
+    publishedDateTime: 2023-07-19T03:30:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "A look at generative AI and its ethical landscape"
     excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
     publishedDateTime: 2023-07-17T07:00:00Z

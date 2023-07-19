@@ -83,6 +83,20 @@ related:
       domain: androidauthority.com
     quality: 49
   - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
+    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
+    publishedDateTime: 2023-07-19T03:54:00Z
+    webUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 40
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--lTOynVss--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t155458z_1_lynxmpej6h0od_rtroptp_3_usa-layoffs.jpg?itok=jUtRWYj0"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
     excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
     publishedDateTime: 2023-07-18T16:42:00Z
     webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
@@ -96,15 +110,15 @@ related:
         width: 800
         height: 558
         isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-18T18:54:00Z
-    webUrl: "https://www.aol.com/news/meta-opens-ai-model-commercial-155458860.html"
+  - title: "Meta has launched a new, open-source AI model"
+    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
+    publishedDateTime: 2023-07-19T02:04:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 20
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "US Communications Commission Hopeful About Artificial Intelligence"
     excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
     publishedDateTime: 2023-07-18T19:47:00Z

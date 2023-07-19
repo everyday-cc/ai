@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-p
 ampWebUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
 type: article
-quality: 98
+quality: 100
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1185699754.jpg?resize=1200,800"
@@ -240,6 +241,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_07_2023_22_21_02_8107165.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Meta and Microsoft Team Up to Distribute New AI Software for Commercial Use"
+    excerpt: "Announcement, coupled with details of Microsoft’s pricing plans for artificial intelligence in some software, underscores rapid AI development at big tech companies"
+    publishedDateTime: 2023-07-19T03:43:00Z
+    webUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-11689691313329.html"
+    ampWebUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 72
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/18/600x338/microsoft_1689696711251_1689696724070.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
     excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
@@ -665,6 +682,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "HPiZKmX2KDLEDGh+ZLDJlPEw27s6LcSh1g/tDXvKToJOvGkDrt3gAfntQdj0P295TnpLfYWWc7nHb7CEMq3bM/5EKw5v0adp6CNHujENtuepSydO9lGYPFeGNunwLk8uLH054W3Em/NwMckZtlsQt51lvxzGkKu7fLtBfXnUpuZzxyjZ4P/SucIygiLwesluCbqj9tRr+4y+3xv8l3m6JWTZHRytHrfq2Qx3xdHszMGpx5+Sq1Tym04/p2kFI3CGiMLNKFOsQwMlF6i5BGJ0jbJqe1wyuXZ04WbgJ3xQJbL8qZEivJ9YB/rZqbcGCtuO75Ii4A/Hfie4zaY1MUgMiwir5sateYc4s1rasFjgCrM=;lblRt1u46MYkPj9TJVKusg=="
+secured: "K6DfJaS0RgnC65V2KFk3aPy2I9NZOJkOZ+gqVdA4WNIsNeYDJMPcFrPt5vCM1IXhMKOAzc84yKPWHVBPWLQM8WE7W2GZTXMRIhIq+kqye0anCQU1Bv4MxsTc3d1H0IicQ2ruri3/6poYKYcrWbpbqgWAOCDMo/KXokMPb6Fs2L0YoERZFMAX7YHWpIgdJ5oUvOSK3uoEmj25tGXkc5+YVkcebU5Go0odPBAK6S9/gfw7sYgqtSwI1AtyHGktKHrWbqVhcHafh2GeSRx1g/UGs13PWS72YH9wdzSj62yLFiTu9SOLsZGXFY+0v75m+I3XbrfRxIhsA2eTfWhAWy9nwvLQqE6FoI3Cw2/VZ9M5MyEDaLiGr03kfYaf1np/BFRcvyr1qt+n/v5MVAvkr8Pr7E/GWbkdDwX4J/e40Bel74mF/bLLZ1WZhGQQmkvzAjgL4lobSxMxLmSj35PZ7x1ZQusvVQxrHdgi46cacQyX0F9j99Y6Jznz1dS403hJ+Rh+r5UlnOZX/VpCl5X3+K8Bzg==;xIQPhYV8RrcXmo6MWVAebw=="
 ---
 

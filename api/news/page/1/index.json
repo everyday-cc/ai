@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-19-more-than-1300-experts-call-ai-a-force-for-good.md",
+      "title": "More than 1,300 experts call AI a force for good",
+      "excerpt": "Mr Carter, who founded an AI-powered startup cybersecurity business ... pointed to agricultural uses of the tech, from robots that use artificial intelligence to pollinate plants to those that \"identify weeds and spray or zap them with lasers, rather ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-66218709?at_medium=RSS",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-66218709?at_medium=RSS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3426/production/_130405331_gettyimages-1422094538.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66218709.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66218709.amp",
+      "publishedDateTime": "2023-07-18T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-why-some-celebrities-are-embracing-artificial-intelligence-deepfakes.md",
       "title": "Why some celebrities are embracing Artificial Intelligence deepfakes",
       "excerpt": "The deal allows it to use an artificial intelligence or AI-generated deepfake version of the Hollywood A-lister to \"star\" in their new TV drama. What she says and does in the show is controlled by the computer.",
@@ -165,7 +208,7 @@
       "originalUrl": "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -196,7 +239,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -251,7 +295,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -458,7 +502,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -749,7 +793,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 609,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -1049,49 +1093,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-marketing-software-anyword-adds-integrations-to-chatgpt-notion-ai-and-canva-ai.md",
-      "title": "Marketing software Anyword adds integrations to ChatGPT, Notion AI, and Canva AI",
-      "excerpt": "Anyword was early to some of the technology trends and buzzwords now gripping Silicon Valley — natural language processing (NLP) and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/marketing-software-anyword-adds-integrations-to-chatgpt-notion-ai-and-canva-ai/",
-      "originalUrl": "https://venturebeat.com/ai/marketing-software-anyword-adds-integrations-to-chatgpt-notion-ai-and-canva-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     },
     {

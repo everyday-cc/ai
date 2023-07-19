@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 848
         isCached: true
-  - title: "Meta to release open-source commercial AI model to compete with OpenAI and Google"
-    excerpt: "Developers could use the open-source LLM to build generative AI applications, like ChatGPT, for startups or established businesses."
-    publishedDateTime: 2023-07-14T09:47:00Z
-    webUrl: "https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3cb1369242d9b94a61c6c6fb17422e9fc7bec91d/2023/06/09/bd65c844-cb3b-4d00-842d-a37b9fd63337/meta.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Anthropic launches Claude 2, the next-gen of 'friendly' AI chatbot"
     excerpt: "Anthropic, the company founded by former OpenAI research executives, has released the next generation of their conversational"
     publishedDateTime: 2023-07-14T15:13:00Z
@@ -116,6 +100,6 @@ related:
       domain: natlawreview.com
     quality: 17
 
-secured: "mso2VeUL4xa0dosinRNgVcvZ+RQm4E/54JVJO4lWJF19MNb+Moc+4jeO8kvu0vCslp+Len8Vce0rcw2Pzy3N+qx00e4ygZkSvYS8T2GSWs1ySwOx/EOah6+XyTD3o5qKs9/sTnxGvBcaLEWG9/y4lO7WyECS6qMai0xu0srEjokq0fDGF8SWpcMMoce8zFYW+UGs3hIUloRQQ0MKzxJjJ1HST4jrOW0x+fxu8fEIOV4X8XJoMs1tVu6hL699ckx4PR5Leli3uHmSvb7t37cemqQ/rxj/I5qOW+MVHRgOricIuUKMOXrWrSC6x5ofBcc8XMz8VRVZmR6KzG8LjjmHM/xnALBUwQqYX6RWPC9zXm0=;fqh2nF5Uv7XCKdG0ZVaJAw=="
+secured: "B/BHLsSeIJJcHnYgYH5I10KdmA6w1iR2dFURfcMtmvj3dRahg+0et5LgAaMthQfZ69SxXpR1AQbpmKDCwgcJO7HO2sXD5to2MV+H67TYSIuINaGfnuLFBu5D7yrl9YIvtx62O2uQIp6c1g3y8mg1WN4ISdJu3i5q+Jtty8LsnrSdTx5x3FEGu4EqNYBbGUBdtbJWeJ7hxffWQOWyP4q1mgsH/648v8MxtYJUXVgUrCYRBkp5gr4s1Q3RXQEqoDWFyivdMdWZLXBx0MjtRI2E6neKydskjDQTVoo3ulh1Jed+kpdFqBuGJ3kWVDiwmBMtFJFE5e+z6rLQM3GYQJCeAH1opvxrNeR7XUC1d6+bZBWB8wqRLofyeb/NnQ0uLSTvzBaTq5TAK60X6a3f4V3XSKignEjWpI+KruO4hyedCQiel1VH5tPczt+ywJ5RRGFrHcjAMXmBe6TYobSMxYtxzNeNT8JJsBSuT9I3wE8KcFTMmNcYjgCzB41lscC9VzEPKslxLYewnw4GDPIwT7Pp4A==;d/RDQosALJtXsOnRMOJGMQ=="
 ---
 

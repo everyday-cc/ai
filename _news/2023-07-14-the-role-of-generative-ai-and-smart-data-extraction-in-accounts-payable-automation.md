@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/14/the-role-of-generative-ai-and-smart-data-extraction-in-accounts-payable-automation/amp/"
 type: article
 quality: 83
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
         width: 2254
         height: 930
+        isCached: true
+  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
+    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
+    publishedDateTime: 2023-07-19T03:30:00Z
+    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Banks get clearer views of risk using AI, data integration and the cloud"
     excerpt: "Experts and industry leaders said banks are pumping investment into technology that can connect information silos."

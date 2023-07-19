@@ -84,7 +84,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1185699754.jpg?resize=1200,800"
         width: 1200
@@ -237,6 +237,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_07_2023_22_21_02_8107165.jpg?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Meta and Microsoft Team Up to Distribute New AI Software for Commercial Use"
+    excerpt: "Announcement, coupled with details of Microsoft’s pricing plans for artificial intelligence in some software, underscores rapid AI development at big tech companies"
+    publishedDateTime: 2023-07-19T03:43:00Z
+    webUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-11689691313329.html"
+    ampWebUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 72
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/18/600x338/microsoft_1689696711251_1689696724070.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
     excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"

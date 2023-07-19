@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/07/15/ai-wont-winner-takes-market/"
 webUrl: "https://siliconangle.com/2023/07/15/ai-wont-winner-takes-market/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 10984
     height: 7897
     isCached: true
-
-related:
-  - title: "1 Beaten-Down Stock That Could Become a Massive AI Winner"
-    excerpt: "The smartphone market's slowdown has weighed heavily on Qualcomm, but the company is looking to make the most of the opportunity in AI."
-    publishedDateTime: 2023-07-14T10:03:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that-could-become-a-massive-ai/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/739465/abstract-human-skull-representing-ai.jpg"
-        width: 2119
-        height: 1415
-        isCached: true
 
 secured: "4XKIhfJlWkHjDBIZscFo/9ZDWe/KN1kdoBdyhnJw/c4TWT6n6SWJO2t69EMDGELiNnO0vKsBz0rkuNTkSxl2a6c1MA02tGes4vh7jDhVZb9cDStRCdFK8j6OXyMoFiZ2aX0egd/bK6rgdHZvwZ70uMjC6W9Xa5F2TH5jJ8CUMa14mVYthQTDMXly72OwyYTONzJ4gs+2/0+x5U5Y7nAKO2XLNIt+HtEqf6GLGyl44TLa4EGASEHQ6sACGJyoVrjt5yX0FOAsSLJmXOiyy2/lFmEkqilZQHzpBi8ECXjHkhN79UdR/QboCm9YaPS7dXlMpAoVw+SA6AsspUg8HJKWvBSvg1TtTm5p9ut98Xo7SKFMza2Fk5/3pNRNsAvyHuZyq+NwexPAH3KEy+Gzi0OgfZNF41x3XiPCmN6MYGwEciUmImpyc/FK17Ik1qnfqX6z1//61AgcxSMtAQ7nhDlyzs/1Y/t+zRk6gisO3PHGZmYCRMUMJPX72SXlEbYogTgjuKILvM/k7xtM3eO/5UUP1Q==;yGPZVf9AnTtRLnVtXzQ1kg=="
 ---

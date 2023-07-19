@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 webUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Should You Trust An AI Detector?"
+    excerpt: "As speculation about AI detector accuracy grows, we explore studies that reportedly demonstrate biases and false positives in AI detection."
+    publishedDateTime: 2023-07-18T17:44:00Z
+    webUrl: "https://www.searchenginejournal.com/should-you-trust-an-ai-detector/491949/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 39
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/07/ai-detector-64b6c71b83bed-sej.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "oLoJgMIjH8XffVTrYH+/fM2Xt9zfrPwS1Ojm/bWrdux8/M2jefLyYmiDuevYfOLbPZh0nsBbNItF2IBp2PcUEhkS2CR8LfHbPVjHvoFizm7fWljxURAGvCtu8o7hKbwmB8mzvCIrU4O7HdYDoPwxd92FkakqGbtqZDq+1cKwy5t6rg2CmlO8esmgZ8AmS25JSqOkEEGw0nvD+6ITJBsdu0SqyqO/iBEhpuAXfPtX467nBdnQZPnspiBGBoRfsUj8G0jLHUTu3A65tDUMqAfHdFT2uVM3Jmy0z98QJhNWi6+Zukc8jGe2UAJ8dU+HXNUHktwwlkxdgagBgKPS7+pMS4l91g8RaQi8YMJol94gSmg=;r8JJtH2bkEkx7f0IW+OBHQ=="
 ---

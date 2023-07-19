@@ -67,17 +67,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The Indigenous voice to parliament is an opportunity for peace with ourselves and our history"
-    excerpt: "People with good intentions on both sides have launched an ocean of rhetoric and polemical squabbles, debating whether the voice is the best response to structural disadvantage."
-    publishedDateTime: 2023-07-14T09:09:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/whats-in-the-voice-for-us/news-story/53832ba3779b40abc517cb4c33520857?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 13
   - title: "Young Australians must vote down the Indigenous Voice's 'emotive' and 'abstract' rhetoric unless they want it to come back and haunt them"
     excerpt: "If I was to shout, “I’m against the Voice to Parliament!” in Federation Square, how many young people who overheard me would immediately shout back, “Yeah, because you’re a bigoted racist!”"
     publishedDateTime: 2023-07-14T19:59:00Z
@@ -103,15 +92,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 5
-  - title: "Long journey to spread ‘facts’ on Indigenous voice to parliament"
-    excerpt: "The true story behind the voice to parliament – and the reasons why Aboriginal and Torres Strait Islander people are asking fellow Australians to put it in the Constitution – is not well known, according to the campaign of architects of the Uluru Statement."
-    publishedDateTime: 2023-07-14T09:41:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/long-journey-to-spread-facts-on-indigenous-voice-to-parliament/news-story/45ce7d575b4761dbfed33c8155949709"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "+UCEDLNCvRaf2GnLNjPNVzq2k9H9CN183keLq2gAN/Ze9DAbCNdyWLvtTJH0VaLzpobkJEHyNgzya1yPjLYmsJ5KRZwLP3EpBZO+kibv6GOMSSQF7G4egvxGACQ7ZGtnHEFjUFGgwY7fwQWbEJtnGvch/MuhDGbtx5rEikzDheXMvvqldu8KHXwOqfSUIu3mMBSqbfRE0oTTX1q0DYmExrGp88CUtIvx59kFeUtCOps8p29682jQ3PuEXhc8Mch5K059ToPK5KW0hI6R40ho8PoKgEeqI8tmBT9guq122L1jAyrn2lXn6y4Z2GkyBv2YrFq39iYWd/tt0DVCy8EhVXpI2l1gR65xdxvQWjhoRFQ=;gNRnhRbhr5uIIjUgKdFMPQ=="
 ---

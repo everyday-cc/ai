@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The pros and cons of AI and how we must stay human"
-    excerpt: "AI is going to impact your life significantly and soon. The World Economic Forum says a quarter of jobs will be impacted over just the next five years as a result of technology and digitalisation. So where does this leave leaders and their teams?"
-    publishedDateTime: 2023-07-14T09:34:00Z
-    webUrl: "https://www.thehrdirector.com/business-news/digitalisation/pros-cons-ai-must-stay-human/"
-    type: article
-    provider:
-      name: theHRDIRECTOR
-      domain: thehrdirector.com
-    quality: 39
-    images:
-      - url: "https://www.thehrdirector.com/wp-content/uploads/2021/01/Digital-Technology-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "A Mid-Year Analysis of AI"
     excerpt: "The past six months of 2023 have been a notable period for advancements in artificial intelligence (AI) and generative AI in particular. This article includes a review of the implications that AI h"
     publishedDateTime: 2023-07-14T19:17:00Z

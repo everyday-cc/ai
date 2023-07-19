@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-18T13:13:00Z
 originalUrl: "https://venturebeat.com/ai/hollywood-is-on-strike-over-ai-but-companies-see-creative-potential-in-digital-humans/"
 webUrl: "https://venturebeat.com/ai/hollywood-is-on-strike-over-ai-but-companies-see-creative-potential-in-digital-humans/"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-17-at-8.52.10-PM.png?w=1200&strip=all"
+    width: 1199
+    height: 603
+    isCached: true
 
 related:
   - title: "New Showrunner AI: The Sum Of All Hollywood's Fears"
@@ -105,6 +111,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "wPSCo7LO7pKtd+Ae/dD5pH2Akn28is4nvFpq7XsdCEH3NcXfl8RfakluZBLQuwSxuzs2pMpPzwF7CAoDM8d7TRsgT+3o3wQ3DrCoJcnrnpdImoTq6RH2ii3CJ9DpAKrZgWUUCk+93LiNBxeILqe6aLIwtm3hiAKnbHqYj3z2eDfHXkpQR3JZypGAskfxU/QlY04Y7m/XIAPEGOWFiDHBntJV+ismzvRzQFFI5vKPWFJgpNxLyL+wODApHsc0JnMmD4w7MvYKod2setxqH4K5VAg3Tv/q2JxmsZHgyODMJGJu17yF5rnM3C5ic2rZ5EJ+bB8EJFhw7Hb/GmhnRFlvSqdjfPzKKr2eRZQY4hGiRP8=;65hLQFcLinerFYmtjLbmyA=="
+secured: "Wn4M4r87Q3oFwk1IkrNt1Avgnjds3nJ65EB0q5iLUwjzqIAu+PxFv+WGmqi9pL4AFECfjil24biG7GXttJTsqV1M5tfk2p/AkeUvRJ/DT/XkuaXjP9dcpM+ZNhTyCqFPosUbhwu0xcJKhXlvQmvQa1rPucL0dNYxMq1Hcav2gwaCm7NZbN8RQrvZZkqBsra24hOexcGInAPyoMA6NsLsAwgDRo47Lb4k4CTH+U7NxsbJv4mrGYVW2t4T1H3hrXhTEjL5IQ5tQUe73odo2UOLKKKXlI//zeM6dmBGdS3ApjPXI/M4ZKozV27Hcg/m3F/jsaH+XkRVG0M/TWZGMc5L3tI913N4BNRFKoiFe0FLMnI=;vyeIUmzD9gyZB3/MUQg1zw=="
 ---
 

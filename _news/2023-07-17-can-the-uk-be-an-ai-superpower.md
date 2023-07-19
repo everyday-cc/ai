@@ -54,6 +54,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "UK Needs Culture Shift To Become AI Superpower"
+    excerpt: "Mustafa Suleyman's views represent one of the challenges facing Ian Hogarth, a British entrepreneur and investor who has been appointed to lead the UK's AI"
+    publishedDateTime: 2023-07-18T15:44:00Z
+    webUrl: "https://www.inferse.com/623130/uk-needs-culture-shift-to-become-ai-superpower/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 19
 
 secured: "ht6yEmy1m5+B2mc1/4mMm+h6fcTwRcDluuwhdHZV3zgpub1tEB8Lhdnu6alQvRv6MKrCyGE9uNw4xNiO8upanqdaWLiU5WI/b4bS5RztdvIFRCGlVxMXsxEGf0iWohWlZvDFos4+2BNaex5ObBDEXkZ0nHCbXtrjkbeXp9s5tl9cD9RTvJCklpdNk6tBGz8HwkhuKNGCQEb6vIOsa64Kl7MPOeBOAMm9RyN1Rteh2dSPlzoeHeU9okpLsTxVOrujQklPlexjJ6rbO3JhMRPOd5sSEUzXdHi3yJ0L6rOkY3h2Y+yur7P7OKbpO2W0URdFhxTZGmADdcR41zVLpbzl3/yegizsZT71JOp6fH+fsZBLTGCOTQdhBPfcaxOVyojenc8h53+cJwbf6KbsnlU6G9Dq3TkXmfYh6z3I0zcPyE3gJMcLnzPLT+3dbJjhKJVoNNNoWnXbpelr1qNUicy076hww8lOb6PtQf9JrSNq0OkGWuVL7W8Nhte7rZhQtWjolaSqf/8RPitwOB9EyMfQEw==;B7VVcJGnMOPADIusuJeyZQ=="
 ---

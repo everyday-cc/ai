@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 848
         isCached: true
-  - title: "Meta to release open-source commercial AI model to compete with OpenAI and Google"
-    excerpt: "Developers could use the open-source LLM to build generative AI applications, like ChatGPT, for startups or established businesses."
-    publishedDateTime: 2023-07-14T09:47:00Z
-    webUrl: "https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3cb1369242d9b94a61c6c6fb17422e9fc7bec91d/2023/06/09/bd65c844-cb3b-4d00-842d-a37b9fd63337/meta.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Anthropic CEO to testify at US Senate hearing on AI regulation"
     excerpt: "WASHINGTON, July 18 (Reuters) - Artificial intelligence startup Anthropic's CEO Dario Amodei will testify on July 25 at a U.S. Senate hearing on artificial intelligence as lawmakers consider potential regulations for the fast-growing technology, the Senate ..."
     publishedDateTime: 2023-07-19T00:54:00Z

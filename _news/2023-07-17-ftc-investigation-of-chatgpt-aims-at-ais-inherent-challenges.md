@@ -25,28 +25,69 @@ images:
     isCached: true
 
 related:
-  - title: "Marketing software Anyword adds integrations to ChatGPT, Notion AI, and Canva AI"
-    excerpt: "Anyword was early to some of the technology trends and buzzwords now gripping Silicon Valley — natural language processing (NLP) and AI."
-    publishedDateTime: 2023-07-18T13:13:00Z
-    webUrl: "https://venturebeat.com/ai/marketing-software-anyword-adds-integrations-to-chatgpt-notion-ai-and-canva-ai/"
+  - title: "More AI: Meta launches ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
+    publishedDateTime: 2023-07-18T22:00:00Z
+    webUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/"
+    ampWebUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-  - title: "Meta Launching Its Own Generative AI To Compete With ChatGPT and Google"
-    excerpt: "Meta (Facebook) is all set to release a commercial version of its own artificial intelligence model in line with OpenAI's ChatGPT and Google's Bard"
-    publishedDateTime: 2023-07-14T10:26:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/meta-launching-its-own-generative-ai-to.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 39
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 61
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FT0Uew9kxKabym8o1iIGycg4mUfByuIM-giCSBwKkP7OP-Bj3RXXVJDZWlS9IeMlJiOdv3JX1OxDwZts4h5Ercs9wZtxtra1TIbWPyea2ObKtAbB1ujyZxFpzqv2swuhif7VfAAT6pRzusnDI3Fy2T2bOGDHWCM51WxnYM57tMV5WU3QJCNIxyvjATs/s16000/Untitled%20design.png"
-        width: 1000
-        height: 620
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Llama 2: Meta's new free AI model takes on ChatGPT and Google's Bard"
+    excerpt: "Developers and researchers can collectively identify and address potential issues faster, facilitating collaborative growth in the AI field. Llama 2 can be found in the Azure AI model catalog, providing developers using Microsoft Azure with easy access to ..."
+    publishedDateTime: 2023-07-19T03:54:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/meta-launched-llama-2-1689738128.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
+    excerpt: "Meta used the acronym LLaMA, for Large Language Model Meta AI, to describe the first version of its model, announced in February. It’s now dropped the capital letters for its second version, Llama 2."
+    publishedDateTime: 2023-07-19T02:53:00Z
+    webUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+    ampWebUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+    type: article
+    provider:
+      name: KKTV11
+      domain: kktv.com
+    quality: 44
+    images:
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/sbXv70yqE7wGiiySMZ6vJKay1GA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/UPVY5MTDARHCHEFZAG46VWL7GY.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Facebook parent Meta to make ChatGPT rival Llama public"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T22:44:00Z
+    webUrl: "https://www.wcvb.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    ampWebUrl: "https://www.wcvb.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 44
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
+        width: 500
+        height: 282
         isCached: true
   - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
     excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
@@ -62,6 +103,43 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Can ChatGPT detect fake news?"
+    excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
+    publishedDateTime: 2023-07-18T08:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/can-chatgpt-detect-fake-news/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T21:00:00Z
+    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ChatGPT and the Future of Health Care"
+    excerpt: "In the past year, discussion of digital health and, specifically, the impact of artificial intelligence (AI) has made headlines. Digital health refers to the use of technology, such as mobile devices,"
+    publishedDateTime: 2023-07-14T13:43:00Z
+    webUrl: "https://www.psychiatryadvisor.com/home/practice-management/chatgpt-future-health-care-medicine/"
+    type: article
+    provider:
+      name: psychiatryadvisor.com
+      domain: psychiatryadvisor.com
+    quality: 4
 
 secured: "HN9hpziRpJ6d5WeHsuZ8zYBK/oVUrxVn+im9oxNFQsvlUIqnZmFcllA9jW2UBzti3k4Z1yIbfDO69koAs7feui3rFqKqJh/xncMeYNChST4W01nJ9gr7Q3I62CL1zj9yPdNEFXBK3yBz2njNqgWJp6Qi11JfbDcKSLydnElHEI3qP3udktqqzmRnc9PiFMMZBdevCjPdKkqKTCrQnE9UbWjWoCLA2sJw5pdcP1kkro1+6yGQAB0BWO9Kk2nL3Yzm3Pzh6mKFkgmspkloCd9DU31TbfYHolbfJAtJCIEdLyIKKxotK1T9SwNL7aWOJ9ert/dLsvQf2qBrU9R3f6TRYMwontvGFMrFr/AEyhtoxMEXdDIIBk6oTn2w6PJNzLqg2m12i3Zkh4XSCgi/8CQ8YPDz781d3BXiNIQqQhU1Z5oCoXEiWMUmwkSetGtDp7uvU+4tmlklbYN+KhRrybr5pXetEZFGgp0gGFztXg/TUhj/TvOruUYioYbBLTHeqfnwLmrR8XHUWizvuode+B+FhQ==;a0rRITVwWOqqDMJYdRknTQ=="
 ---

@@ -84,6 +84,20 @@ related:
       domain: androidauthority.com
     quality: 49
   - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
+    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
+    publishedDateTime: 2023-07-19T03:54:00Z
+    webUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 40
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--lTOynVss--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t155458z_1_lynxmpej6h0od_rtroptp_3_usa-layoffs.jpg?itok=jUtRWYj0"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
     excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
     publishedDateTime: 2023-07-18T16:42:00Z
     webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
@@ -97,15 +111,15 @@ related:
         width: 800
         height: 558
         isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-18T18:54:00Z
-    webUrl: "https://www.aol.com/news/meta-opens-ai-model-commercial-155458860.html"
+  - title: "Meta has launched a new, open-source AI model"
+    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
+    publishedDateTime: 2023-07-19T02:04:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 20
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "US Communications Commission Hopeful About Artificial Intelligence"
     excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
     publishedDateTime: 2023-07-18T19:47:00Z
@@ -116,6 +130,6 @@ related:
       domain: voanews.com
     quality: 17
 
-secured: "5eoWtaLpL7eSlznjpy/5LbWmvn77JtT8usbn2p23sVifAMAUVOA1Tpw+bYtt3JK70pF0o32zlw4Ydf7UDNBqi5JyMuzgrU/EkzJkWD7MXKgUboNhigDy/oo9WrBu12dM0nQBJ+VKxfjAyoUlJeUgBrrHQTCnNirs596YVqACN3Pv+3DXIX2oD4Zt+yDnRF7sBiWpc5eT344K39oUuIHc2aWPK511DK+cS56acQq6r+/gr05a3GIXO8UAYF0MLhqjyjnXCIBAzyHmp7xAfiM4n2vOzYn/0qPXC6BYrYvlW9IKPf8WuH9JL3xReeCSPO2L+we0VnFxqfnBk1Uy7qEKrphSN2hx5TgH50g3nzySWiQ=;HvZg1VRP3IOqofSrn2GGiA=="
+secured: "1mUfCiZebX7H/USZq8Q97g4wa2bTFK7yaFwo+QevGTO5AT46jSm9Me0Uu0dTHDZE6q33bvJoTNl6ZTY9zEWvuPQh0zZ3wzZjtBtvGy+veaJX3Qj93r/TPeput86pS5Cj76hiEEZq6gZFxHHJBuVLxygEv+J/hO8Vmw2o9Wlb04IxQokjUJ3cxzf93czcngpOCA4M/cQICYLpo80mxZ4E5vvIuKFM6RdVnopy7Kb2hkZ3vEso4A2CrmlBQuKg3kymZ0WauykKTndoxm3UPvyn3ss+h4WULdI/2QonLsu2JESkedH35RX6hiV6Qei/EEcnGwjBBqLlg2ATMb6RZB3BnfRTYQSsHDqRq3zQ/67YwyI0HSrdbtZSCzMmD4jkFHkcPTZQ5M6IsVr2JPSMX14905cYL0e0gAl0hzGJ2oNrwPwD3zPq4SYaxe/Yu4/CcMtPD9sXE2+AUVVIES1f+U5PCY0DX5XlL/G4bHwVqY1tcVtmURxp8e5v6rYu9rFI7mPEsy2He6S0o7fi/KRDftTgxg==;5dyVy5JGNz4mq+rdx5ij9w=="
 ---
 
