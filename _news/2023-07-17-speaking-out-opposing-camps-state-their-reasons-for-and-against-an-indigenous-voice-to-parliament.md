@@ -103,22 +103,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
-  - title: "Young Australians must vote down the Indigenous Voice's 'emotive' and 'abstract' rhetoric unless they want it to come back and haunt them"
-    excerpt: "If I was to shout, “I’m against the Voice to Parliament!” in Federation Square, how many young people who overheard me would immediately shout back, “Yeah, because you’re a bigoted racist!”"
-    publishedDateTime: 2023-07-14T19:59:00Z
-    webUrl: "https://www.skynews.com.au/insights-and-analysis/young-australians-must-vote-down-the-indigenous-voices-emotive-and-abstract-rhetoric-unless-they-want-it-to-come-back-and-haunt-them/news-story/00e3507becd8d468ca0299d3b6944321"
-    ampWebUrl: "https://www.skynews.com.au/insights-and-analysis/young-australians-must-vote-down-the-indigenous-voices-emotive-and-abstract-rhetoric-unless-they-want-it-to-come-back-and-haunt-them/news-story/00e3507becd8d468ca0299d3b6944321?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/insights-and-analysis/young-australians-must-vote-down-the-indigenous-voices-emotive-and-abstract-rhetoric-unless-they-want-it-to-come-back-and-haunt-them/news-story/00e3507becd8d468ca0299d3b6944321?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 11
-    images:
-      - url: "https://content.api.news/v3/images/bin/bed2797d03e78b061eb0a41d64954d44"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Npi5xIZsQRPfCX5Y/cD8jxut6He/2iCpK7+JjJ0VbY3oBGm6euBvJcKrH5pq3iSOCAK1U9g+8oK91ep3Qz/WT+DGzRv9NwEkvaPb6e3cXptbrP2PYrKW93tXH4+4bAxEEgzfz/d1ge0IeVdWWSxbBxXcRf9A5ElFeeO+ww2aWZUwuCoEnk60YDeNL7DKZEp7e0flDLMRhm2Osu2qIEotXB7+V+4WTKTfppLhL8XFZSqWhT+fWFbwWkDv3HzCFUhSELUV0tLzIfRbbXioSOQTuvgEaq2UK6+XdJ/WMpfjM9ooSelCKGI0ftMpmhEvhfY87FTg5riS/KI9DM/A8dqrQ+j9TzqMZjFOnC48eDfzckxeOuhUGC88tdx7KwPDJDg3gmYUCMrN2cJzyjWlifXOPZgpva/zFpjqi7xL/340g+KdZskx07tlPNbQZX//aorAKD9zEW8uIcU1fLojJOW3FlrkTx0Xbo7E+TEF33eAJ35Qbe0ffwlrWRdXnuBmuRWF/rE8oQmy8Rbi77MTtXyUKQ==;bfVWnE/VY3rtHHxQNgbHIw=="
 ---

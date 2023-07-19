@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. intelligence chiefs plan for a future where every spy uses AI"
-    excerpt: "U.S. spy agencies are preparing for a future where all of its analysts and spies use artificial intelligence to augment their work rather than rely on traditional tradecraft."
-    publishedDateTime: 2023-07-14T21:53:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jul/14/us-intelligence-chiefs-plan-future-where-every-spy/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 37
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Britain’s MI6 intelligence chief says AI won’t replace human spies"
     excerpt: "PRAGUE – Artificial intelligence will change the world of espionage, but it won’t replace human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
     publishedDateTime: 2023-07-19T11:41:00Z
@@ -51,6 +37,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/S5P4EMZOQZHDFGRN3UGY7I2BV4.jpg?_a=ATAPphC0"
         width: 700
         height: 467
+        isCached: true
+  - title: "Britain’s MI6 chief says his spies are using AI to disrupt flow of weapons to Russia"
+    excerpt: "The head of Britain’s MI6 intelligence agency says British spies are already using artificial intelligence to hamper the supply of weapons to Russia."
+    publishedDateTime: 2023-07-19T14:56:00Z
+    webUrl: "https://apnews.com/article/mi6-spy-chief-moore-prague-russia-iran-cfb837ebdfa3db8043dc655cbf3573d5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://dims.apnews.com/dims4/default/1044dc8/2147483647/strip/true/crop/5287x2974+0+276/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F49%2Fdf%2Fb5746bf56c64a407a533168a531d%2Fab0d8aac9c1d422f927ebfa1e74c0952"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "Q+QJ0Yqn4UnjJM+7eYEUMqunV0o5/kxKJWOnr5MwAGZXfp6L7X5RSZF4uE8WYRMPMo42IznwK5IdjSlSarUAHA9t38N1fDF90DxLiSAy7+OtYZNwIBdC5jIY+CfP9uxoN3g1qua5XGTJmulSCJK9WQWcQAnceCusUIQKNlVlRyKUrkgkPiCYyEp6anGRJkLfB4nj8mgfnvZAnYeP6OiU6KOva8BHEXJ9lMfO0uAzuL+kJfIa5ezo1+A6o4c5+UVtVW+gOYPgW/B5Kb3yfwhTa+0LeM67r4av347lnS+CLKo6h24MxQi+XG0sSDGAy3X/EuTiEO3jQoUCVFlxyam1UuVrEm6jWsM5f0bDLiD6TrU=;3fmxceRB+G430FgWbw7eVQ=="

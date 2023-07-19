@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-17-transforming-customer-service-how-generative-ai-is-changing-the-game.md",
-      "title": "Transforming customer service: How generative AI is changing the game",
-      "excerpt": "Whether placing an order, requesting a product exchange or asking about a billing concern, today&#8217;s customer demands an exceptional experience that includes quick, thorough answers to their inquiries. They also expect service to be delivered 24/7 across multiple channels. While traditional AI approaches",
+      "path": "_news/2023-07-19-leveraging-generative-ai-on-aws-to-transform-life-sciences.md",
+      "title": "Leveraging Generative AI on AWS to transform Life Sciences",
+      "excerpt": "The exponential leap in Generative AI is already transforming many industries: optimizing workflows, helping human teams focus on value added tasks and accelerating time to market. Life Sciences industry is beginning to take notice and aims to leapfrog the technological advances. Life Sciences industry",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/",
-      "originalUrl": "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/",
+      "webUrl": "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/",
+      "originalUrl": "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 186,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T07:36:20-07:00",
+      "publishedDateTime": "2023-07-19T08:02:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -410,35 +411,35 @@
     },
     {
       "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
-      "title": "IBM Mulls Using Its Own AI Chip in New Cloud Service to Lower Costs",
+      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
       "excerpt": "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction.",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-101684996,imgsize-34314,width-1200,height=765,overlay-etcio/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T16:57:00-07:00",
+      "publishedDateTime": "2023-07-11T23:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

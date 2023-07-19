@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A Mid-Year Analysis of AI"
-    excerpt: "The past six months of 2023 have been a notable period for advancements in artificial intelligence (AI) and generative AI in particular. This article includes a review of the implications that AI h"
-    publishedDateTime: 2023-07-14T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/mid-year-analysis-ai"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/Generative%20AI%20Artificial%20Intelligence%20Intellectual%20Property_2_0.jpg?itok=dSBPKUDO"
-        width: 500
-        height: 271
-        isCached: true
   - title: "The Future of AI Is War"
     excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
     publishedDateTime: 2023-07-17T14:53:00Z

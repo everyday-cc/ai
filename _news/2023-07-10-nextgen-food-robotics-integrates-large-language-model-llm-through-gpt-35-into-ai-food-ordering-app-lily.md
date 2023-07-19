@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

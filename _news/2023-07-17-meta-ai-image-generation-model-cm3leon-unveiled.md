@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Meta lets loose second generation of Llama AI models"
+    excerpt: "Meta says organizations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
+    publishedDateTime: 2023-07-19T12:21:00Z
+    webUrl: "https://www.infoworld.com/article/3702732/meta-lets-loose-second-generation-of-llama-ai-models.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 53
 
 secured: "Q0lDY34P6K7IDUKmLR4Qg147e3GcRKStEFyPQOlM/LdAUmrLcZyzireDD419zKsOuflWRDJA+TQlWv+5wZ0HaXXs5aHBFw0+dD8k7pIZogRHQdCPTnmhSANi6lH+z+HIquyRId2X2dpLDc9zocvksS6ZLJTBYvf1hsmMU7vmsZYLIxibUoOjGDNxagjBaTabyiKLcK5N4ZJOL5KlR4OTGsYwhgcYOt+6pp+AKgk6JfmtdnwxqSz2TL5u02sT4CA6n+5L3pC2b6kth2NYPEx7/CUoL2C6Upl5bkFETorkQe9wLG/L/a6hB+/t0t82Z4vuABHQYo61T61wO9OFCQwM5eyhONtcEBHfUHKXGGzTeDhQQuEd//9Zgg2bOkOGUNyCLBSgey25ZXMNTdxmQCJV624DmZgDIerrofmkCzUnLvxOOydBlrM+iW+73lgBPao9JihYISquTZztSqoRkqhBuSeuW5aDLXhGhgW5f6bFNF3DRjpvzK4w1ACEi8K3jGkokKuwA1WC1XGk6TPbGZo4pw==;l+Qa8DvOs4xnuEyWvbkTRA=="
 ---

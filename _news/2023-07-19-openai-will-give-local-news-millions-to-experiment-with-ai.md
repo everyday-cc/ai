@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Wants to Master the Universe With xAI"
-    excerpt: "The name of his latest venture plays into all sorts of Elon tropes, from using the letter X to announcing it on a date that adds up to 42, the number that “Hitchhiker's Guide to the Galaxy” author Douglas Adams cryptically offered as the single answer to the meaning of life."
-    publishedDateTime: 2023-07-14T22:41:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/elon-wants-to-master-the-universe-with-xai-71689331150401.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/14/1600x900/Elon-Musk-Artificial-Intelligence-0_1689332861988_1689332882200.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Elon Musk’s new AI startup is as ambitious as it is doomed"
     excerpt: "Elon Musk’s new AI company, xAI, says its mission is to understand the universe. But Heisenberg’s Uncertainty Principle, the Anthropic Principle, Wigner’s Friend, and other classical and quantum physics theories would seemingly prevent this."
     publishedDateTime: 2023-07-17T16:02:00Z
@@ -83,6 +67,6 @@ related:
       domain: thehindubusinessline.com
     quality: 39
 
-secured: "Oq5oCjharyx10DZ1T7VJYv+lJWAlayljDkMYgI7o3YJvqXUjFWHdZYd8iMz3eqHKUlDd0W3lApURj7LEwOUVvH0X4XlYYOi0YR3AujtdtKOdkggoVanDaa2Y1+K+fX8Nsuq7Fj5iPF2nFZ258iCVr4zCB6JKgz14jUeYVG2WxDbltk52G3fScXkHIa7Y4raWP0GOl89wQOBL7Hp8xD3MbF0kyJ/0FscDIiCi0jUw0mpnj7kZKd8xxJ8afTjxcgiEtPtWq25Y+lYxS1j5YkwshuBb7qjK8ZGAAM9ewzfGPp7SP5GmYBN9sawg81i1BHE3ccomVNpCEGpVk9TAUsSrEfFg1F/FWKb6AZVtRPvWZtw=;XjGOod4VfsZKER3kKjl0yA=="
+secured: "iRD/xduCukWLCiCgJmapJx7DwOT/6P0j+EVU0lgnOOwapaaXDxmT6hZF9xOqmk7HtomJLD5RF03fVjjHCuUa1+C/88X4beTfIqgH8qwUdetmgLgKwBPE5pGvaQYMuy3hLhOvxfvQpBpA3CAK/q264yJGcVZ5tqzAIBAdK0vCzxQ3wPil02JWJcgpiAKMtsMVqxAQTv/lvUWkzwA058ZUxFyoVK6ObRqyRn5w3XPPqLlV3jZRu66zHjEJHrCOvNbjp9MlgubnunaG9wANiU+9NDq7ItPsjRJQ14dmipDy5Ozyc3ZvNZLdDNyNDcJMCcpc6QKuM/+1PRxKCHF4XXPMgqmx+U6Xbg1RXTMhgaj5VVv7UWCGYFnHxf3Ip256irmTHNyfeRjVbYUvhKJzKxreXm4cEQP9PaZI1YgAUI0uZ+IoXnTCcq8QwqinCciMpjPmKW9aLZcYRJmnseZMiERvVfoCzm03K23Y56Teq5PubrgUfXpCSn6iWzbfmvJGxKdtP6EtR25GOtWFHjU1yfLCLA==;FFtGvnhPQzSX8MyeldtzVQ=="
 ---
 

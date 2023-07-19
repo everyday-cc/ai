@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-mo
 webUrl: "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meta lets loose second generation of Llama AI models"
+    excerpt: "Meta says organizations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
+    publishedDateTime: 2023-07-19T12:21:00Z
+    webUrl: "https://www.infoworld.com/article/3702732/meta-lets-loose-second-generation-of-llama-ai-models.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 53
   - title: "Meta AI image generation model CM3leon unveiled"
     excerpt: "Meta continues the AI revolution as it research team unveiled a new text-to-image creation tool called CM3leon. The CM3leon — pronounced as “chameleon” — is a text-to-image and image-to-text creation tool, which means that it can also easily generate captions for images."
     publishedDateTime: 2023-07-17T07:29:00Z

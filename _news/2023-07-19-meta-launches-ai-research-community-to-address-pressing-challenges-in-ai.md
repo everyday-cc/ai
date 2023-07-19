@@ -9,8 +9,8 @@ ampWebUrl: "https://glamsham.com/world/technology/meta-launches-ai-research-comm
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: glamsham.com
@@ -35,6 +35,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 22
+  - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
+    excerpt: "VSORA, an innovative startup offering silicon intellectual property (IP) solutions and silicon chips, today unveiled Jotunn™, an all-in-one single-chip family to provide a massive jump in performance for Generative AI inferencing processing challenges."
+    publishedDateTime: 2023-07-19T13:21:00Z
+    webUrl: "https://www.design-reuse.com/news/54462/vsora-chatgpt-on-chip-architecture.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
     quality: 22
 
 secured: "hYpmo+LywVRSfDXuVa/yxaIhXAd3zaHaSpVjhHX1zo3C9ZCx+szR3QBmxM5Purycm/aSv8uh3cJncbIinh/tsDjt/TBN0WWimx0x0OUzptP3QM8sM31LvdB2eGKnMu+ACUnf2OQ4i0gIszY6ulvRBAkQfGeC5SmNZxOigBPjH0TTzqeRHltGCxA/X7FSz7Ds5A4ATUb09VaAQheIUcpUkbNA0UW1Rx0IYX8eDjOiZ0poyTmGX8B4pDjXJVCVUy/ftQ7Yd6wCjNxkONcmTdjOuokOSQGuapADv40zZh/3nmq9SX4pqsLa3YPAs2eKqptEKZnvRdPLw8RAwXl+7UgNIwML/zO5WGsOX5wNNjSteECGKx3y3QdtHmNwgmNmXLDE7MBAO/4VvyS6K3/tbEbBfYKELFDrN3fhYOff3h4QkFh01wHpw8TVe3KrtLsIupecw/7tkTtu9F/me1fPMMhIuq37sVgpqQXOHIShf1sQN0C+skngYFRflFpWIYBrzDShqPHrXlCAP5yATdZfIMO9Yw==;GCPfhNaYjxlMlRsc4q3/gw=="

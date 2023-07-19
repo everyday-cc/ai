@@ -9,8 +9,8 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CTV News
@@ -41,6 +41,20 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg"
         width: 1020
         height: 574
+        isCached: true
+  - title: "James Cameron Weighs In On The ‘Weaponization of AI’ And The Possibility Of Robots With Nukes: ‘I Warned You in 1984’"
+    excerpt: "James Cameron is finally sharing his thoughts on the controversial debate over artificial intelligence, which has become a pressing topic in recent months thanks to the growing use of machine-learning writing tools like ChatGPT."
+    publishedDateTime: 2023-07-19T15:14:00Z
+    webUrl: "https://uproxx.com/movies/james-cameron-ai-nuclear-holocaust-terminator/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 31
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2023/01/terminator-feat.jpg?w=710"
+        width: 710
+        height: 400
         isCached: true
 
 secured: "vVk03mt5OUmP6XYAhPondmohaKhn3gnOhZjUs6hvweR/jC9+rruaV1OSeGJiwal5OrX2300A0LMgYaqygWC+so8RSP8KzA5p6Qj45Xz1MWNsN+fTw0YSVh7chiC05OD5r/Vlw05RSqmJe+fl8SdKy/nXGzFKMih9klD9/rd/9ddYWBC2c6xi/u4Pz4JF/wCW61HixNjbYR29Ly9KGVKgrJSB9qpKXZEnTelKCpehCaEO/Elifs6AqZneu+jlooM6zcrxnDffARQavb3wI2nN73gENqnGq53YlUvjwmOOOMjnbBVRiS+EWfyElYCbG6GJn9UHbzlrchp3D2AgvNn4pi+C2P9bUIBBv5SDFpt8IgU=;NK/egmfNjM4IXoYqAENz+g=="

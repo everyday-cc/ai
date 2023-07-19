@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/23/07/n33279745/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/33279745"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33279745"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

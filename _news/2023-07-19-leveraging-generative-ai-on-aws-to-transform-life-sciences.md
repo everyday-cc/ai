@@ -1,0 +1,119 @@
+---
+category: news
+title: "Leveraging Generative AI on AWS to transform Life Sciences"
+excerpt: "The exponential leap in Generative AI is already transforming many industries: optimizing workflows, helping human teams focus on value added tasks and accelerating time to market. Life Sciences industry is beginning to take notice and aims to leapfrog the technological advances. Life Sciences industry"
+publishedDateTime: 2023-07-19T15:02:50Z
+originalUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
+webUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
+type: article
+quality: 116
+heat: 186
+published: true
+
+provider:
+  name: IBM
+  domain: ibm.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+  - AI
+  - AWS AI
+
+related:
+  - title: "Transforming customer service: How generative AI is changing the game"
+    excerpt: "Whether placing an order, requesting a product exchange or asking about a billing concern, today&#8217;s customer demands an exceptional experience that includes quick, thorough answers to their inquiries. They also expect service to be delivered 24/7 across multiple channels. While traditional AI approaches"
+    publishedDateTime: 2023-07-17T14:36:20Z
+    webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Rolling Out A Generative AI Strategy In 2023"
+    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
+    publishedDateTime: 2023-07-17T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 825
+        isCached: true
+  - title: "Generac powers business transformation with data, AI"
+    excerpt: "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI."
+    publishedDateTime: 2023-07-17T09:59:00Z
+    webUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html"
+    ampWebUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/07/tim-dickson-100856016-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "TCS to work on digital transformation of GE HealthCare's IT operating model"
+    excerpt: "and standardization of GE HealthCare's enterprise IT applications. In a press statement, TCS added that the objective is to leverage advanced software engineering practices, artificial intelligence, and digital technologies to achieve faster value ..."
+    publishedDateTime: 2023-07-19T11:48:00Z
+    webUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/TCS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "China unveils provisional rules for generative AI, including a licensing regime"
+    excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
+    publishedDateTime: 2023-07-17T03:56:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/289952/China-unveils-provisional-rules-for-generative-AI,-including-a-licensing-regime"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 35
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-14-1723482.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "How Generative AI is redefining work and catalyzing innovation"
+    excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
+    publishedDateTime: 2023-07-16T06:42:00Z
+    webUrl: "https://www.dqindia.com/how-generative-ai-is-redefining-work-and-catalyzing-innovation/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
+  - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
+    excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
+    publishedDateTime: 2023-07-17T12:51:00Z
+    webUrl: "https://www.waste360.com/recycling/how-automation-and-artificial-intelligence-are-transforming-e-recycling"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 17
+
+secured: "viXuxGyJfajIDqWwkPN2JVk8uX6OeCygtUI+8b2Efq1V+gXzH/k+PPcHbPeB2Cdk3KZt32JEkcEPWUFcYl+w+jp33MutwzWScUnrIanHs4N4HmsyK3FbRMX/Nlo/KT1B8k7KuhmNj/SwQvmGuy7hxC5v51voQtTp14u+dwJxUJwjp96E6ihXfMsCZlpGx6rseGT5QaEvttoBcrBvtddqGF/MjwCgk+Ygnvyue+ULGPnx376dRo0+CXCn2LphDP8dL4B8nCOUekRAs8tsEQaM1sZon1gb8DmTZdGPT7St0LyPlgVBsqvoeh1FZ42SPw2vnjnSGNb4LjjQrwQP3kxJeXh0pxWM5caIh773so4ce94=;1jQQIqrTxTizi/iBFObjxw=="
+---
+

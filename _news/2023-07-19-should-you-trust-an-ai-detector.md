@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google's Latest AI Can Diagnose Patients"
+    excerpt: "Less than a year into the AI revolution that started with the release of Chat-GPT in November 2022, you have seen what AI can and can’t do well. At first, many believed the chatbot could give them the answers to life,"
+    publishedDateTime: 2023-07-19T02:21:00Z
+    webUrl: "https://247wallst.com/technology-3/2023/07/18/googles-latest-ai-can-diagnose-patients/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 19
 
 secured: "90hI7o31CGioSHi0MoPl2uM6IXksrwb0mFF0+GhSRzqLSsfI1DsEPd0QsL2T+kcqBsswwXIrG+4c8KIkY6eGi9dG6WxhZfIKrZbgf3h8A/LfehKN2x253wkRHuEUk9cI+uJ3P8h2lUECWWpwV0lAmEfgZMEtG9KO5vMDbij/v3YdeQbCJ5is3Lkmdjn7lHzcfPnAd1bSBQfxqE2pABS6l+Eg/3l4nU4NCXFyaff0ke8RDdixF63kwrYcfbMdOHO0SEbP4SQBZ8ECfhmvCA7rKv0//vQB3QawyvZqpUD0lQbRSEmNelpo/nLbc8T7RP2iE0W4ZWzLdGB3lj1dURdJXgsoUJPj4QW32e0Dpuh2sRU=;/E/4QjMl85QrXsIrnDr8nw=="
 ---

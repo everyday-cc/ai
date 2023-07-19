@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What's next for artificial intelligence?"
-    excerpt: "We're continuing our exploration into artificial intelligence with another Tech Talk conversation about what the technology could revolutionize next."
-    publishedDateTime: 2023-07-14T21:36:00Z
-    webUrl: "https://listen.sdpb.org/science/2023-07-14/whats-next-for-artificial-intelligence"
-    type: article
-    provider:
-      name: South Dakota Public Broadcasting
-      domain: sdpb.org
-    quality: 37
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/891c89c/2147483647/strip/true/crop/1640x861+0+32/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2Fee%2F08256fb4434abef861f6c29f1095%2Fblack-flatlay-photo-motivational-finance-quote-facebook-cover-1.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QQ1ZHLJn2cd6MrbWjxTDFnIACXfRZN+ednBvIqUja0vWY+fR07Y12d4tDCa3hwNs27wUgv+CAfdA2tj62hiY3pmyQKE03UCTPoFAuTovk0lBApQy8/TVtwQg/KkadhVI2oxrxlFTSU34BrckRPfPYLQx650Qyckxs6jAcVnnUKhPg25A1v7szd83W8IRVsRmYjk33sKn4mvdsquijWIQD9+IgK0lxXZLeYmgmwI5iqAKCWHyjvbTO2Q8VjuvVUCmLCMt3aPfPcebLQZYZdb1lJpsK3j9xX7YUCAhURW+IQeOypKgMW7sqRjKa3W5V2x1BzAeiSbuemjBSdx1q+SSf1KYRlNC4V72snWcZIhC3wE=;I8nJ9pDlmh+78qxMAA+rPQ=="
 ---

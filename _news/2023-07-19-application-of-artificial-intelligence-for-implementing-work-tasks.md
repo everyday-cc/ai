@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/applicati
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 141
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64b695ca0ac602a9705f1dc3/0x0.jpg?format=jpg&width=1200"
@@ -47,6 +48,15 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
+    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform"
     excerpt: "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management"
     publishedDateTime: 2023-07-17T16:26:00Z
@@ -66,7 +76,7 @@ related:
     provider:
       name: Deadline.com
       domain: deadline.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://deadline.com/wp-content/uploads/2023/05/iatse-2.jpg?w=1024"
         width: 1024

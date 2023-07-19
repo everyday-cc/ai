@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 webUrl: "https://www.reuters.com/video/watch/idRCV007NYN"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Google's Latest AI Can Diagnose Patients"
+    excerpt: "Less than a year into the AI revolution that started with the release of Chat-GPT in November 2022, you have seen what AI can and can’t do well. At first, many believed the chatbot could give them the answers to life,"
+    publishedDateTime: 2023-07-19T02:21:00Z
+    webUrl: "https://247wallst.com/technology-3/2023/07/18/googles-latest-ai-can-diagnose-patients/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 19
 
 secured: "oLoJgMIjH8XffVTrYH+/fM2Xt9zfrPwS1Ojm/bWrdux8/M2jefLyYmiDuevYfOLbPZh0nsBbNItF2IBp2PcUEhkS2CR8LfHbPVjHvoFizm7fWljxURAGvCtu8o7hKbwmB8mzvCIrU4O7HdYDoPwxd92FkakqGbtqZDq+1cKwy5t6rg2CmlO8esmgZ8AmS25JSqOkEEGw0nvD+6ITJBsdu0SqyqO/iBEhpuAXfPtX467nBdnQZPnspiBGBoRfsUj8G0jLHUTu3A65tDUMqAfHdFT2uVM3Jmy0z98QJhNWi6+Zukc8jGe2UAJ8dU+HXNUHktwwlkxdgagBgKPS7+pMS4l91g8RaQi8YMJol94gSmg=;r8JJtH2bkEkx7f0IW+OBHQ=="
 ---

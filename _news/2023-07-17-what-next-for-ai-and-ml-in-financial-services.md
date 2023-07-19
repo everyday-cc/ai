@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml
 webUrl: "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,113 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming customer service: How generative AI is changing the game"
-    excerpt: "Whether placing an order, requesting a product exchange or asking about a billing concern, today&#8217;s customer demands an exceptional experience that includes quick, thorough answers to their inquiries. They also expect service to be delivered 24/7 across multiple channels. While traditional AI approaches"
-    publishedDateTime: 2023-07-17T14:36:20Z
-    webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
+  - title: "The AI puzzle: Balancing threat and potential across financial services"
+    excerpt: "At first glance, AI might seem like a threat to traditional human-centric advice, but actually, it could become a tool that could augment the capabilities of financial advisers, writes Laith Khalaf"
+    publishedDateTime: 2023-07-18T13:40:00Z
+    webUrl: "https://www.professionaladviser.com/opinion/4119746/ai-puzzle-balancing-threat-potential-financial-services"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "AI And Government: Transforming Public Services For The Digital Age"
-    excerpt: "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures."
-    publishedDateTime: 2023-07-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Rolling Out A Generative AI Strategy In 2023"
-    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
-    publishedDateTime: 2023-07-17T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 825
-        isCached: true
-  - title: "This is how generative AI will change the gig economy for the better"
-    excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/this-is-how-generative-ai-will-change-the-gig-economy-for-the-better/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "Generative AI, meet the contact center - the latest silver bullet to kill off the traditional operating model?"
-    excerpt: "There are other ways that customer experience can leverage generative AI, including chatbots, and language translation, suggests Michael Ringman, CIO of TELUS International. TELUS International is a spin-off from TELUS focused on serving customers across several business lines, including many customer experience capabilities."
-    publishedDateTime: 2023-07-19T10:49:00Z
-    webUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model"
-    ampWebUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
+      name: Professional Adviser
+      domain: professionaladviser.com
     quality: 39
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-07/call-center-gfb4b76c60_640.jpg"
-        width: 640
-        height: 512
+      - url: "https://image.chitra.live/api/v1/wps/457401f/6ba1c5b7-3e8e-4c67-8faa-314b8539b770/8/KHALAF-Laith-AJ-Bell-2018-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
-  - title: "China unveils provisional rules for generative AI, including a licensing regime"
-    excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
-    publishedDateTime: 2023-07-17T03:56:00Z
-    webUrl: "https://www.businessghana.com/site/news/Technology/289952/China-unveils-provisional-rules-for-generative-AI,-including-a-licensing-regime"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 35
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-14-1723482.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Indian IT services firms doubling down on generative AI applications"
-    excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
-    publishedDateTime: 2023-07-15T12:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/indian-it-services-firms-doubling-down-on-generative-ai-applications/article67080148.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 19
-  - title: "How Generative AI is redefining work and catalyzing innovation"
-    excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
-    publishedDateTime: 2023-07-16T06:42:00Z
-    webUrl: "https://www.dqindia.com/how-generative-ai-is-redefining-work-and-catalyzing-innovation/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
-  - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
-    excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
-    publishedDateTime: 2023-07-17T12:51:00Z
-    webUrl: "https://www.waste360.com/recycling/how-automation-and-artificial-intelligence-are-transforming-e-recycling"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 17
 
 secured: "MA0w/In9BGMsxN5pLnrWIt81AWzqPDZOJJqr2qu7thOqeTEta3xAfEkogXm70lJ4HWz+1nbdJwea0qPNUo5raMZftjKQP73CnnW3ENLVv0bVW8CfqGsvXtx2jy6zJRSS0REcyzdP4NvXhD7gf2EUA0Qfyz0ssNmhwIDUqPis8kCjsoM65VBR0KqJ0IulP+JcYHGvIr862oCPmQZjoplDo3LRsY+AnCHl+UCKHVdT85000aR2CCgbJDKsx0/NjvdOX5qOVpZtJDESfuzxEz9PdOu0vJCGCJkV2mh9624UvNAO1/CMCCsgEu1uj2pETX0M7mxcnk85lYqqbysoCIYs+6giC9Bl8b/tHVvFLfp/zcM=;ssc/EWLE08yf19XvAjjw/g=="
 ---

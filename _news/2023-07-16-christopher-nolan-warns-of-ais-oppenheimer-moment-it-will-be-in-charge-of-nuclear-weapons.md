@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188569157614"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188569157614"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fox News Artificial Intelligence Newsletter: Nolan on AI's 'Oppenheimer' moment and Musk's lofty goal"
+    excerpt: "‘OPPENHEIMER MOMENT’: Hollywood director Christopher Nolan spoke with Fox News Digital on artificial intelligence's \"Oppenheimer moment.\" Nolan compared AI to the creation of the atomic bomb and stated, \"It's really the looking back through Oppenheimer ..."
+    publishedDateTime: 2023-07-19T15:22:00Z
+    webUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.print"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 67
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bea4177d-fc89-447a-a047-adafe41d7d1d/198a0a87-17b4-45ca-b298-3ee6cc53798c/1280x720/match/720/405/image.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Christopher Nolan Compares Artificial Intelligence To The Atomic Bomb"
     excerpt: "After a screening of his new film, Oppenheimer Saturday night, director Christopher Nolan suggested that his period piece couldn't have come at a better time, as we're in an “Oppenheimer moment,” he said. But this time, the dangerous technology isn't being created in a lab in a New Mexico lab; it's coming from Silicon Valley."
     publishedDateTime: 2023-07-16T16:51:00Z

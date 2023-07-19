@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-17-at-8.52.10-PM.png?w=1200&strip=all"
         width: 1199
         height: 603
-        isCached: true
-  - title: "Hollywood actors strike over use of AI in films and other issues"
-    excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
-    publishedDateTime: 2023-07-14T19:38:00Z
-    webUrl: "https://www.newscientist.com/article/2375009-hollywood-actors-strike-over-use-of-ai-in-films-and-other-issues/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
-        width: 1350
-        height: 900
         isCached: true
   - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
     excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"

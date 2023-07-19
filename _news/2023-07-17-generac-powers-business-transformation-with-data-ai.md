@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/646384/generac-powers-business-transform
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIO
@@ -27,43 +27,88 @@ images:
     isCached: true
 
 related:
-  - title: "Absolute Translations Warns Businesses of the Risks of Replacing Certified Translation Services With AI"
-    excerpt: "detailed translations completed by skilled first-language speakers, especially for clients who need verified translations for private or business purposes. The use of AI has made translation more accessible, but all too often, we work with customers who ..."
-    publishedDateTime: 2023-07-19T07:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/absolute-translations-warns-businesses-of-the-risks-of-replacing-certified-translation-services-with-ai-1032456419"
+  - title: "Leveraging Generative AI on AWS to transform Life Sciences"
+    excerpt: "The exponential leap in Generative AI is already transforming many industries: optimizing workflows, helping human teams focus on value added tasks and accelerating time to market. Life Sciences industry is beginning to take notice and aims to leapfrog the technological advances. Life Sciences industry"
+    publishedDateTime: 2023-07-19T15:02:50Z
+    webUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
+      name: IBM
+      domain: ibm.com
+    quality: 116
+  - title: "Transforming customer service: How generative AI is changing the game"
+    excerpt: "Whether placing an order, requesting a product exchange or asking about a billing concern, today&#8217;s customer demands an exceptional experience that includes quick, thorough answers to their inquiries. They also expect service to be delivered 24/7 across multiple channels. While traditional AI approaches"
+    publishedDateTime: 2023-07-17T14:36:20Z
+    webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Rolling Out A Generative AI Strategy In 2023"
+    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
+    publishedDateTime: 2023-07-17T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.newsfilecorp.com/files/8568/173825_figure1_550.jpg"
-        width: 550
-        height: 376
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 825
         isCached: true
-  - title: "UAE Artificial Intelligence Camp empowers new generations"
-    excerpt: "It addresses six cutting-edge themes, including web development and robotics, digital entrepreneurship and career planning, generative artificial intelligence, online safety and cybersecurity and deep dialogues in the field of artificial intelligence."
-    publishedDateTime: 2023-07-16T07:06:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/07/16/uae-artificial-intelligence-camp-empowers-new-generations"
+  - title: "TCS to work on digital transformation of GE HealthCare's IT operating model"
+    excerpt: "and standardization of GE HealthCare's enterprise IT applications. In a press statement, TCS added that the objective is to leverage advanced software engineering practices, artificial intelligence, and digital technologies to achieve faster value ..."
+    publishedDateTime: 2023-07-19T11:48:00Z
+    webUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
     images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/16/uae-ai-main1-750.ashx?h=450&w=750&hash=6DF4267865CDBC6945BE49881297AA73"
-        width: 750
-        height: 450
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/TCS.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
-    excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
-    publishedDateTime: 2023-07-17T09:13:00Z
-    webUrl: "https://www.pv-magazine.com/2023/07/17/ai-poised-to-enable-accelerated-transformation-of-the-energy-sector/"
+  - title: "China unveils provisional rules for generative AI, including a licensing regime"
+    excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
+    publishedDateTime: 2023-07-17T03:56:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/289952/China-unveils-provisional-rules-for-generative-AI,-including-a-licensing-regime"
     type: article
     provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 8
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 35
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-14-1723482.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "How Generative AI is redefining work and catalyzing innovation"
+    excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
+    publishedDateTime: 2023-07-16T06:42:00Z
+    webUrl: "https://www.dqindia.com/how-generative-ai-is-redefining-work-and-catalyzing-innovation/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
+  - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
+    excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
+    publishedDateTime: 2023-07-17T12:51:00Z
+    webUrl: "https://www.waste360.com/recycling/how-automation-and-artificial-intelligence-are-transforming-e-recycling"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 17
 
 secured: "06h7+ueJNeBNjRSMDORDXX5vPUHHgP6NlgfAw8owpSSOYxO9/0wTDlXyuUgS5as1AJxip+skfbfR1J/C/TZtilc5LCTjPjCPownvdqiUgQCWkv4g7KslblpB3XNMfzUkTQWhXdZzGoGTwBUDlMeZ8IqVWLzwZBF7eebGEqugdc/FT15+2lVMBm1VgaXzfpRenMv4oBWox4SNG+LcpKlpSP9L5kZaVdb1UTRAKsHz9z+M+Ns6FzDHa4jvTq390Y38atA/vLWLt+VneRfwgNV1d3k0ozT6zCeLdlITzdVTMZ25msr3G4vp+LrqSEmbKztW3qfZyFAWCqiUW8OeQJeUll6TOMuqaYfH1KIXqeC7RsU=;4z1mv+T7zX7UsDEvIvjBug=="
 ---

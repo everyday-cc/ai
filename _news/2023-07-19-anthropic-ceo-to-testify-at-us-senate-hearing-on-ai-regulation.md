@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/anthropic-ceo-testify-us-senate
 webUrl: "https://www.reuters.com/technology/anthropic-ceo-testify-us-senate-hearing-ai-regulation-2023-07-18/?n=@"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "SAP invests in generative AI startups Anthropic, Cohere and Aleph Alpha"
+    excerpt: "In case one needed more evidence that there’s a massive appetite for generative AI, SAP, the Germany-based consulting giant, yesterday invested in three major generative AI players: Anthropic, Cohere and Aleph Alpha. The terms of the direct investments ..."
+    publishedDateTime: 2023-07-19T15:09:00Z
+    webUrl: "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/"
+    ampWebUrl: "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-474787219.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI Startup Anthropic CEO to Testify at US Senate Hearing on AI Regulation"
     excerpt: "An annual defense bill is expected to have many AI-related provisions including a report on AI regulation in the financial services industry."
     publishedDateTime: 2023-07-19T06:24:00Z

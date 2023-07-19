@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/sport/av/tennis/66183190"
 webUrl: "https://www.bbc.com/sport/av/tennis/66183190"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Is Changing The Way We Communicate"
+    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
+    publishedDateTime: 2023-07-19T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "DAC 2023: AI and hardware talent dominate debate"
     excerpt: "Industry is concerned about shortage of talent to address the chip design and manufacturing needed to address the explosion in demand for AI."
     publishedDateTime: 2023-07-18T06:36:00Z

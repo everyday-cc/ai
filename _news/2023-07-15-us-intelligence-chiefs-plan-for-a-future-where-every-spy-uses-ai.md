@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
@@ -53,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3FfKjhADhivKtwxFWcnceJ/6Cd4FfKfg17N86EZM7QfyOOP0HLZqxoknG85L71G/BdzDI463p8UdpJrOL4J0Y1DwAgXDzfC8KPoYSsDm+K8nTw2Mn7JDf5xNwYa5FCdMM3Lcu61zt3S2fNgcEpUIgk1o17lnTVXcMQjOMCoQmUnaTX0EN/GbeVin7A0SD07DhOHqR7WTKeeClxNzMYPhS9vO2st+GwRtw8GRdpQdvG8J62kM9iXbt3kmC6hgOgsFi/qyvejk4fza2G5+OARa+/ro+frMFQqPCBLD3QZ7XEFADRAorBXQATneWJumesD9r/8JVfMXK83/JCJo97YiPkq0V0SBFK+WALLf7oC/FRg=;ZMi/P2SxjHPDCNRpeXnO/g=="
+secured: "/P0ws1HkvdHw4QKcHFNgz690ipvTfszugAvhhOallBCxohMDcnx08w3mzNdfKVy0FAZ5GN9FNWu9BbOpGDVcgO3nVDgm+wiwyhe/mdy5ml37wSDNmtiZ7Obs8zszIZeld3+90WuH74GJ4NkpPzDUCwUgY4wFcLdeI8dnhorifFgIN378BsvjUAJnLBXCq4ARv7XFUwfhXl9QfjfYEbZxBJFuJExLPSfpYT/P+/Lf0kapCDSsuBpj+Hva4a3qYJ+gGEHq5G56CoQKc+sUW2d+wxkOhRJxTE+L83wzz35qtxVRRANzm5On9BX3qSM+7KM4yD5w4/tsI17l8bl9qdqAbdYch1VqoGqErdmXlxisXLAWmKGQvS/tqDuhvVv+iMIsv138km4ysx91xchK4YIbC6SMiIPjWEQ0tvgtC2OvwbFH72IeI12Z1sx57wt4kacZVJ03FuDNWzbSVbKPTHVXBTLFPKsc1ma1e3hyVeBtqpXSa6yN9x1cnDl1VV9/TRAnhnPCgBhHPQuhqG0xUAX23g==;Mm6qWrZVNX4YjZT1QhbrFw=="
 ---
 

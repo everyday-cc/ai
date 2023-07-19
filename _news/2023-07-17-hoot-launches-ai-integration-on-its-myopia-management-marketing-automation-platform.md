@@ -34,7 +34,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64b695ca0ac602a9705f1dc3/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -56,6 +56,15 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
+    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "IATSE Unveils “Core Principles” For Application Of AI In Entertainment Industry"
     excerpt: "The move follows the union’s creation of a Commission on Artificial Intelligence in May. “With AI , the stakes for IATSE members in all crafts is high,” said IATSE president Matthew Loeb."
     publishedDateTime: 2023-07-15T05:47:00Z
@@ -66,7 +75,7 @@ related:
     provider:
       name: Deadline.com
       domain: deadline.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://deadline.com/wp-content/uploads/2023/05/iatse-2.jpg?w=1024"
         width: 1024

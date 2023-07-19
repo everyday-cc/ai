@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta launches Llama 2, an open source AI model that allows commercial applications"
-    excerpt: "Meta announced Llama 2, a new open source family of AI language models notable for its commercial license, which means the models can be integrated into commercial products, unlike its predecessor. They range in size from 7 to 70 billion parameters and reportedly \"outperform open-source chat models on most benchmarks we tested,"
-    publishedDateTime: 2023-07-18T20:07:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cyberllama-800x448.jpg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use"
     excerpt: "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta."
     publishedDateTime: 2023-07-18T18:46:00Z
@@ -56,47 +40,63 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Meta’s latest AI model is free for all"
-    excerpt: "Meta is going all in on open-source AI. The company is today unveiling LLaMA 2, its first large language model that’s available for anyone to use—for free."
-    publishedDateTime: 2023-07-18T15:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
+  - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T22:01:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/llama2-business2.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/b97a2bb7-2255-49be-81c7-cd00198ba40f/thumbnail/1200x630/8fa8182596b299afef316114648f9f32/9b36e8d006fafd1e651176d6010dec18.jpg?v=ed1888effc334856324ceac60c145559"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
-    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
-    publishedDateTime: 2023-07-15T09:42:00Z
-    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
-    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+  - title: "Facebook parent Meta to make ChatGPT rival Llama public"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T22:44:00Z
+    webUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    ampWebUrl: "https://www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 44
     images:
-      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
-        width: 750
-        height: 500
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
+        width: 500
+        height: 282
         isCached: true
-  - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
-    excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
-    publishedDateTime: 2023-07-18T18:32:00Z
-    webUrl: "https://www.androidauthority.com/ai-products-meta-microsoft-3346204/"
+  - title: "Facebook unveils more powerful AI and makes it free to use"
+    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
+    publishedDateTime: 2023-07-18T20:40:00Z
+    webUrl: "https://www.watoday.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
+      name: WAtoday
+      domain: watoday.com.au
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.22428057992202727%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_30%2C$y_129/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/af6351c718b5c3d92e72b58f9e49b19c7ecdd0c0"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Facebook unveils more powerful AI model and makes it free to use"
+    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
+    publishedDateTime: 2023-07-18T22:45:00Z
+    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
+    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 39
   - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
     excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
     publishedDateTime: 2023-07-18T16:42:00Z
@@ -111,24 +111,54 @@ related:
         width: 800
         height: 558
         isCached: true
-  - title: "Meta has launched a new, open-source AI model"
-    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
-    publishedDateTime: 2023-07-19T02:04:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
+  - title: "Facebook makes its ChatGPT rival Llama free to use"
+    excerpt: "Facebook’s parent company Meta has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T09:11:00Z
+    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "US Communications Commission Hopeful About Artificial Intelligence"
-    excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
-    publishedDateTime: 2023-07-18T19:47:00Z
-    webUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 24
+  - title: "Facebook parent makes public ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach:"
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://www.avpress.com/business/facebook-parent-makes-public-chatgpt-rival-llama/article_3ce164d4-25d9-11ee-aa8d-7fdc01ce7b98.html"
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 17
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg?resize=600%2C300"
+        width: 600
+        height: 300
+        isCached: true
+  - title: "Battle to win the AI race hots up as Facebook owner unveils ChatGPT rival"
+    excerpt: "Mark Zuckerberg has unveiled the latest version of Meta’s AI model LLaMa (Picture: Getty) Facebook parent company Meta Platforms ... known as LLaMa 2 (Large Language Model Meta AI), free for research and commercial use. Much like tech peers Google ..."
+    publishedDateTime: 2023-07-19T13:44:00Z
+    webUrl: "https://metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/?ico=trending-post-strip_item_2"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 18
+  - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T21:00:00Z
+    webUrl: "https://democratherald.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_d01ee602-22eb-5881-a44e-f5c96df91f18.html"
+    type: article
+    provider:
+      name: Albany Democrat-Herald
+      domain: democratherald.com
+    quality: 12
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/d/01/d01ee602-22eb-5881-a44e-f5c96df91f18/64b6fea8a1207.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "++pOK4moOkgbP1IOUbyM7lyi6nIymkm5ckbJ3GJtaaFPagLSJPwQ8TP15+8E2D0ZX6tS4xpGE/PC0Z7FeYi6EyEH1mk0Y7sUnH18WBlSIX+c1N/ZMT8lbdqlYK/vg3aRg9g9zJyF8mWHDRoGizU7IhK3z9vYnZLmlRr8vTqo76iiO+fj6uMnlJFyrtA/bt6OzF1ihqqeUqOkh2ThlLHu6DglwkIj9MUWBb3RmpmN2UePSeevORSqQUhnuOT0aOo4ywlYUmsNJ12kslBSx4V+YWKdBYQdYW3Nnwb8WwjnoCsI3mje7qMwKfRcf7cnWt7E22gDqpDYYjcMsvt+U6rcaaL84+RAMJlRWlSXaBY32p0=;FwLpsp7e6zx4y2wdO0/CpQ=="
 ---

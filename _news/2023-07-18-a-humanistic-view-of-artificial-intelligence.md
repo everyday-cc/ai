@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Mid-Year Analysis of AI"
-    excerpt: "The past six months of 2023 have been a notable period for advancements in artificial intelligence (AI) and generative AI in particular. This article includes a review of the implications that AI h"
-    publishedDateTime: 2023-07-14T19:17:00Z
-    webUrl: "https://www.natlawreview.com/article/mid-year-analysis-ai"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 39
-    images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/44926/Generative%20AI%20Artificial%20Intelligence%20Intellectual%20Property_2_0.jpg?itok=dSBPKUDO"
-        width: 500
-        height: 271
-        isCached: true
   - title: "Sanctuary AI Building Human Like AGI"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2023-07-16T13:37:00Z

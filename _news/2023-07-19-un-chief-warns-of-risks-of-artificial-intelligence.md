@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UN Security Council discusses AI risks, need for ethical regulation"
+    excerpt: "The UN Security Council met with two artificial intelligence experts this week to debate the benefits and challenges posed by current and future AI applications."
+    publishedDateTime: 2023-07-19T11:07:00Z
+    webUrl: "https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.html"
+    ampWebUrl: "https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 91
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/united_nations-100943560-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’"
     excerpt: "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ..."
     publishedDateTime: 2023-07-18T21:19:00Z

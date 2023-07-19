@@ -23,51 +23,37 @@ topics:
   - AI
 
 related:
-  - title: "Meta launches Llama 2, an open source AI model that allows commercial applications"
-    excerpt: "Meta announced Llama 2, a new open source family of AI language models notable for its commercial license, which means the models can be integrated into commercial products, unlike its predecessor. They range in size from 7 to 70 billion parameters and reportedly \"outperform open-source chat models on most benchmarks we tested,"
-    publishedDateTime: 2023-07-18T20:07:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
+  - title: "More AI: Meta launches ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
+    publishedDateTime: 2023-07-18T22:00:00Z
+    webUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/"
+    ampWebUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cyberllama-800x448.jpg"
-        width: 800
-        height: 448
-        isCached: true
-  - title: "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use"
-    excerpt: "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta."
-    publishedDateTime: 2023-07-18T18:46:00Z
-    webUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Meta’s latest AI model is free for all"
-    excerpt: "Meta is going all in on open-source AI. The company is today unveiling LLaMA 2, its first large language model that’s available for anyone to use—for free."
-    publishedDateTime: 2023-07-18T15:59:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1076479/metas-latest-ai-model-is-free-for-all/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: Boston Herald
+      domain: bostonherald.com
     quality: 61
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/llama2-business2.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Llama 2: Meta's new free AI model takes on ChatGPT and Google's Bard"
+    excerpt: "Developers and researchers can collectively identify and address potential issues faster, facilitating collaborative growth in the AI field. Llama 2 can be found in the Azure AI model catalog, providing developers using Microsoft Azure with easy access to ..."
+    publishedDateTime: 2023-07-19T03:54:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/meta-launched-llama-2-1689738128.jpg"
+        width: 360
+        height: 202
         isCached: true
   - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
     excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
@@ -85,52 +71,78 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-19T03:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
+  - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
+    excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
+    publishedDateTime: 2023-07-15T05:38:00Z
+    webUrl: "https://techstory.in/china-implements-landmark-regulations-for-ai-services-like-chatgpt/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 40
+      name: tech
+      domain: techstory.in
+    quality: 39
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--lTOynVss--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t155458z_1_lynxmpej6h0od_rtroptp_3_usa-layoffs.jpg?itok=jUtRWYj0"
-        width: 1200
-        height: 676
+      - url: "https://techstory.in/wp-content/uploads/2023/07/f0c3442c414a7bd1b039829a50849a4e-360x240.jpg"
+        width: 360
+        height: 240
         isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
-    publishedDateTime: 2023-07-18T16:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
+  - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
+    excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
+    publishedDateTime: 2023-07-17T08:01:00Z
+    webUrl: "https://news.bloomberglaw.com/us-law-week/ftc-investigation-of-chatgpt-aims-at-ais-inherent-challenges"
     type: article
     provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 38
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
     images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6H0OD-BASEIMAGE.jpg"
-        width: 800
-        height: 558
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
+        width: 1920
+        height: 740
         isCached: true
-  - title: "Meta has launched a new, open-source AI model"
-    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
-    publishedDateTime: 2023-07-19T02:04:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
+  - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
+    excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
+    publishedDateTime: 2023-07-19T12:46:00Z
+    webUrl: "https://tech.co/news/chatgpt-prviacy-concerns-images"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "US Communications Commission Hopeful About Artificial Intelligence"
-    excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
-    publishedDateTime: 2023-07-18T19:47:00Z
-    webUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/06/06195842/chatgpt-phone-glasses.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Evaluating the ability of ChatGPT and other large language models to detect fake news"
+    excerpt: "Large language models (LLMs) are an evolution of natural language processing (NLP) techniques that can rapidly generate texts closely resembling those written by humans and complete other simple language-related tasks."
+    publishedDateTime: 2023-07-17T10:00:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 17
+      name: techxplore
+      domain: techxplore.com
+    quality: 37
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/evaluating-the-ability.jpg"
+        width: 748
+        height: 440
+        isCached: true
+  - title: "Can ChatGPT detect fake news?"
+    excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
+    publishedDateTime: 2023-07-18T08:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/can-chatgpt-detect-fake-news/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "kf18c7+sK0S8HNkUvZF6Lf43HsiXZOtOLuxJ5PuYcoorDakAm3v8c0zOJCPy5EhRfBYv2sjAhChKyPD/5iznawX2quA4QWwZHfKgAN16bS4fd1xNbCSWcsT9U9hdLUbwgAYSWdrxqcER5y9N0L4FZJ+Avt0ePSAgvWS/JN8nWhmwXiJ/PTGulYDjPu7w78UVJeBgI27jsrKvnaRH/a8ZY1aBUdLpRmT1MgD4A98INacRkZNMI7i05beFTHXqFrJ0B3Eibfli+fNxQhPA2SdIKa8cY9o+c8hn9hHwAWk1R995ysGQCm2M1jPSWMxKAs5IiIAFvIXaeCz45cp6RDAmfpHTZYCDnPQEjXipzJAF/RU=;99Bn0Ms6QOWk9tX3iz0R2Q=="
 ---

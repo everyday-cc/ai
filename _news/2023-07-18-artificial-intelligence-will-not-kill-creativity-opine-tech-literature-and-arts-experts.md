@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence will not kill creativity, opine tech, literature and arts experts"
-excerpt: "Despite the almost daily development in programs and applications of artificial intelligence (AI), it is impossible to abandon the human creator,"
-publishedDateTime: 2023-07-18T05:49:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts"
-webUrl: "https://thepeninsulaqatar.com/article/18/07/2023/artificial-intelligence-will-not-kill-creativity-opine-tech-literature-and-arts-experts"
+title: "Artificial Intelligence Will Not Kill Creativity, Opine Tech, Literature And Arts Experts"
+excerpt: "QNA Despite the almost daily development in programs and applications of artificial intelligence (AI), it is impossible to abandon the human"
+publishedDateTime: 2023-07-18T16:39:00Z
+originalUrl: "https://menafn.com/1106620181/Artificial-Intelligence-Will-Not-Kill-Creativity-Opine-Tech-Literature-And-Arts-Experts"
+webUrl: "https://menafn.com/1106620181/Artificial-Intelligence-Will-Not-Kill-Creativity-Opine-Tech-Literature-And-Arts-Experts"
 type: article
-quality: 32
-heat: 32
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://thepeninsulaqatar.com/get/maximage/20230718_1689659446-844.jpg?1689659446"
+  - url: "https://menafn.com/updates/pr/2023-07/18/TP_b6163image_story.jpg"
     width: 1000
     height: 750
     isCached: true
 
-secured: "cynsAWOu3YLkV20ZNRAZ9MIrMDdxo9tVxrbKr69FWhgMGlbqZL014NTjWAjkMq5gWY9enBjm/cN7EJtuneO8/i083nYOo3Z872ESA885HtuWDInstAC5br3IOeIwG6E7whweZAETLpAWpKS9pLF7HKt+gQPgtTPCisXtgXEYnsKGpHy/6kHNOwFlhlCHphDktcXBl6WcTiEEMKcC2mlpTs9R1aqwIENNxRtswKPegtcrS1isbBEypGcdTA1s8x4RkrVeL4JBSxjqVKmDHlToZcxfBhpGJhVs4Wkp09+2u8c9YjrqxG5LHWJOpUSTHSlvIBLGsXzbmaR6QyZUMD+vVcUeuOEk4J+Yvlj/MhpCcy4JT81u2KjQbc3nsJF6LFvd/uu7XvUwMEgHJMpUHMvQz90yIJPaqZvlCG+TRHRv1T/+VuJsPgQ7wzoShOjPRsvL9UIIJ4zoXfdW/GwZlSfFTFqxofz01k+FZTxUm952SG4SXbGE8Bq+X45XKDCxHRXZfqAEliko9ZNf7FbB4bHe2w==;Uorbm/15RktJLwCLzmH0Pw=="
+secured: "073OxwamFHrsVkCvDtucQVsdswdtaaA2If+fLG6x11hJGfUXQCMprbvJ2/1wLmQDvil/3fLRk9XzOcyGy0MfXvGNCcJRbryIHfrfhDtOhdkMfK3/CNV/Q3KR+OjgylluGMsMOEKOcBn3P+grVG+zEg34gAs4FWeHeyYDFA3dQRPmRq6K0ozCD3mLBfjM5Kf9xgobkzDbDhfupYOXNzC9llRPlAjtuJKrfosHLqITR3PVwjl2koh0jrWZ66caJDshu1TprFsWXR6oOigMOEGmyLCXkCsZ8UYGQNtd3b6iTRhOS5LnFFZeIVSNm24ZgnirUiMS0yxMECDLae0HT5Yo/6PLX97HpZk0whLTDEYGUt8=;UIZcyEfR4Vxp3DBdvjNRng=="
 ---
 

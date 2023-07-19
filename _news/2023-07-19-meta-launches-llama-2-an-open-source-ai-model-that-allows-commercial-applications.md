@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
 type: article
 quality: 83
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -31,19 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use"
-    excerpt: "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta."
-    publishedDateTime: 2023-07-18T18:46:00Z
-    webUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
+  - title: "Meta releases big, new open-source AI large language model"
+    excerpt: "Open-sourced by accident -- or was it? -- back in March, Meta has now officially opened up Llama-v2, its newest large language model."
+    publishedDateTime: 2023-07-19T13:14:00Z
+    webUrl: "https://www.zdnet.com/article/meta-releases-big-new-open-source-ai-large-language-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/a60ec8ab8c07738a9f253710c543fc9254cdb375/2023/07/19/fe9388c3-04db-4f20-823e-2e7c62e5d8ea/gettyimages-1452459995.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 672
+        height: 675
+        isCached: true
+  - title: "The Next Frontier For Large Language Models Is Biology"
+    excerpt: "AlphaFold was not built using large language models. It relies on an older bioinformatics construct called multiple sequence alignment (MSA), in which a protein’s sequence is compared to evolutionarily similar proteins in order to deduce its structure."
+    publishedDateTime: 2023-07-16T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b19a27ab6a497e66e9bcfd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 786
         isCached: true
   - title: "Meta’s latest AI model is free for all"
     excerpt: "Meta is going all in on open-source AI. The company is today unveiling LLaMA 2, its first large language model that’s available for anyone to use—for free."
@@ -61,59 +79,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
-    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
-    publishedDateTime: 2023-07-15T09:42:00Z
-    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
-    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+  - title: "10 Things To Know About Meta's New Large Language Model - Llama 2"
+    excerpt: "On June 18th, Meta launched the second version of the most popular large language model (LLM), Llama. Unlike its predecessor, Llama 2 is freely available for research and commercial usage. Because of its impressive capabilities, it is causing quite a stir in the generative AI community."
+    publishedDateTime: 2023-07-19T12:28:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/19/10-things-to-know-about-metas-new-large-language-modelllama-2/"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
-    excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
-    publishedDateTime: 2023-07-18T18:32:00Z
-    webUrl: "https://www.androidauthority.com/ai-products-meta-microsoft-3346204/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-19T03:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 40
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--lTOynVss--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t155458z_1_lynxmpej6h0od_rtroptp_3_usa-layoffs.jpg?itok=jUtRWYj0"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
-    publishedDateTime: 2023-07-18T16:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 38
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6H0OD-BASEIMAGE.jpg"
-        width: 800
-        height: 558
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "Meta has launched a new, open-source AI model"
     excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
     publishedDateTime: 2023-07-19T02:04:00Z
@@ -123,15 +97,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "US Communications Commission Hopeful About Artificial Intelligence"
-    excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
-    publishedDateTime: 2023-07-18T19:47:00Z
-    webUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 17
 
 secured: "Q1bSucd7GDBryk1Sp5j1T+AZbKpuo9OnwSnwwWDfVhA/gkTN3ntWt5CiT+uHlW6QrAQ48NCm/3CQKPgeN0aemj3lSJwFi43ngza9wx3iua20ITn/xQqwDB9/sczRaH5YUilUhQvt5rT01MMoePhOfn12D5/9QT7Cs6e/sl/TUczM3hcwZUlJ9YRG8LF1uatX5fZAzZEHD4JH4sFYJg8rjTI6B/ITMwRw/EHbuvcDKxboV7H48XDsIYJ5qvDQ5DXKK46I287DZeIN2r3bsko0vuT5MUfr/Ql7Ya4IfmDn1sxGnVI8h+CfbAIt532i7fHO28ea1GKtu2ssEbtfowMJw2U5p9/J5zqFhhApj17Dm+I=;3gHwjuNaKtm74gbeYOxr1Q=="
 ---

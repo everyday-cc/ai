@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -29,36 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Podcast: Tesla people-mover leaks, Cybertruck body, Elon AI startup, and more"
-    excerpt: "On the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this"
-    publishedDateTime: 2023-07-14T19:29:00Z
-    webUrl: "https://electrek.co/2023/07/14/podcast-tesla-people-mover-leaks-cybertruck-body-elon-ai-startup-and-more/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 81
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk Will Train His AI Project Using Your Tweets"
-    excerpt: "Musk sheds more light on his plans for xAI, a new startup to counter OpenAI's ChatGPT and Google's Bard. 'We are definitely the competition,' he says."
-    publishedDateTime: 2023-07-14T22:28:00Z
-    webUrl: "https://www.pcmag.com/news/elon-musk-will-train-his-ai-project-using-your-tweets"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05uyfAeIkPGBdn2DgIKTtUU-1.fit_lim.size_1200x630.v1689369120.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "aPI2EY3AwRskIh1Qk5MvIvbuXK7S+AJzDmE1S9xOWPOwdHxMa4cNdPQcXA7ED9eD0nbRe3w7VGavgAuQbzXGfNxFqFvRdkJ9EbR975pIR89AubLfwZrfKWdY3Zu4Cl5F9vqb1YPu+JNk3DtZRL8HG3SJgjFMCfOS/0igFs7pcUTrTulNJbrPks0gfXKJBloCQ+CXD8LeuO6ox9oj+tfWRV638+g05BL7lbi0Wl/4x4AV/Xoqz+xpptGWIkrnDPSLRJfnJiMXEFs6OvZaezpWUYQz0PrfTf9SBqUpIJXOltJbmzwpSBEUB5xJTTsMGUULImKO9Jd6Uj/v/Sx9AZEj53ABAMaU0O7nLJp6OuzvLgTWNjiLnVyfOOo+gfklV3Yzq/pC2ukveEkcRP30FTvFkXdQgzqmBbRpNddZtJ4IycwKpWsZG46x4Qr0hw9iDLBWBXyB/pjG1sOUjt3ONJqnvLVPZcAtAzgTMk+Iz834njF8xPTprduSnIrEghnywOCIz4MUFiDet/AyLs/bi9gmQw==;Zl7iI29uU8aStcVHtVUZOg=="
 ---

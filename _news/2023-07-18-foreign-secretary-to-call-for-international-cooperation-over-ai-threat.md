@@ -9,7 +9,7 @@ ampWebUrl: "https://bmmagazine.co.uk/news/foreign-secretary-to-call-for-internat
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/?amp"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Generative AI, meet the contact center - the latest silver bullet to kill off the traditional operating model?"
+    excerpt: "There are other ways that customer experience can leverage generative AI, including chatbots, and language translation, suggests Michael Ringman, CIO of TELUS International. TELUS International is a spin-off from TELUS focused on serving customers across several business lines, including many customer experience capabilities."
+    publishedDateTime: 2023-07-19T10:49:00Z
+    webUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model"
+    ampWebUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 39
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/call-center-gfb4b76c60_640.jpg"
+        width: 640
+        height: 512
+        isCached: true
   - title: "The great acceleration: CIO perspectives on generative AI"
     excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
     publishedDateTime: 2023-07-18T13:00:00Z

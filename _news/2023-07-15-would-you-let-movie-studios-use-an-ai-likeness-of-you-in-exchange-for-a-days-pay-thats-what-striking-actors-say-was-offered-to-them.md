@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/actors-strike-union-ai-body-likeness
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/actors-strike-union-ai-body-likeness-scan-background-extras-2023-7?amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Could movie studios use AI to replicate an actor's image and use it forever?"
-    excerpt: "AI has made its way into nearly all of our favorite art forms including music, visual art, and now possibly even films. According to SAG-AFTRA, AI makes it possible for background performers' images and likenesses to be used forever."
-    publishedDateTime: 2023-07-14T19:39:00Z
-    webUrl: "https://www.zdnet.com/article/could-movie-studios-use-ai-to-replicate-an-actors-image-and-use-it-forever/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
 
 secured: "7HVUO2Z+0fJVGHQVOstJyPsA2a7Wo10p1aQhV7S1JWrI79yXKBUB3Sa+DbXAluZiQQ7UaStVFen1NwK1peZioao/WeVlEkuJS/M+u0w0/4x69P+5a2mi0vDvh2DpHl8FQFSwrL+HXFFx0i2s/GZmu4iY3Lt2qty7+9c0ifoUgJZwafXf+gDXTHMv3Dob3k+Y54wol+NfsJwPMzbkgA45NvR8znbmOea+dQzmAZ3xyu8nlVvKAIuVUp7VOEw5rCzGkWrsV7nmhUU5U5ylfrO6eBW48L7NAc1MatOhGcnhjL/rebBKbn6olssa7FvmTub7aQvi5NEr5NoGJUHlav84A7u7JrOc3bmO/C/bpxqC78dZcw3aDlMqpo2h0f/+9Ul64YNUQ6E6wyTFOkKl5zCncs2fXI2te3hX8U7/y+nca3egv94E4pN001L9mHX8WbMWrTh7LjbmCQhYOQ6uKktBPUJrnVIrFklka8GiePL0kMENOrrkFntVZy8ZuOI+8kMqVwIbAUDdmLMVkL0GJmLSow==;8LuLZHHoskbK1rS/XznIvg=="
 ---

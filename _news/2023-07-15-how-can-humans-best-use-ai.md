@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg"
         width: 960
         height: 1280
-        isCached: true
-  - title: "What's next for artificial intelligence?"
-    excerpt: "We're continuing our exploration into artificial intelligence with another Tech Talk conversation about what the technology could revolutionize next."
-    publishedDateTime: 2023-07-14T21:36:00Z
-    webUrl: "https://listen.sdpb.org/science/2023-07-14/whats-next-for-artificial-intelligence"
-    type: article
-    provider:
-      name: South Dakota Public Broadcasting
-      domain: sdpb.org
-    quality: 37
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/891c89c/2147483647/strip/true/crop/1640x861+0+32/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2Fee%2F08256fb4434abef861f6c29f1095%2Fblack-flatlay-photo-motivational-finance-quote-facebook-cover-1.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "Of9kA3rrDB5Gvtgi4zcq/m5UKdXUnndsBYkJaLly9SabE3f81s/lGzV77uMvwaHpaScEDO08XrxEdPAorgOWeYttLGHTChZoYo7BFtoOoyusCnW2IcTieGKSBRLycE31JrIGFjZCx86omKeMor6YxkAHyqeSsXtF8MA2tXxJu8I2j3xqaYiAf0grE7cvk2r109iL90EprOeEjD6BiU71JvOQiSTR2WJ07ZiraODexPi1ot/JN9RA+StkrXGeoUjdEY0G6JRX49LuUUu1W28kqUPpNC+/GxLjwqawRpWbFisGwfJVP0NhUWHC3XmQkhOc7f6RiNWKC8hnx9qV7fVo5SIP/O1XCtZ5Dh7xrT9B1ffmcoPrzLGGEeEINBnM2vcnWMYEkwJigoGWDRHEp+W0ZTjJwxl9RnnRIggWJW7h42kTD0yWYtDL+KoQR2IWZjfhmz5KTWtPQhYDzwfDaDXzcacOXFtb+VOQhIa6Cfqu/3QKOmGcOICLidNKiKvfgdpyxeyd227uxJbdSV0zylGC9A==;XPvJVMUN8hLnQ2378DSaRQ=="

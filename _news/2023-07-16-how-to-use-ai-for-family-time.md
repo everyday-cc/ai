@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/how-to-use-ai-for-f
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/how-to-use-ai-for-family-time/?amp=1"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,19 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "JM Family leads investment round for computer vision AI startup"
-    excerpt: "The startup, Skaivision, believes its technology can boost retail efficiency and improve the customer experience."
-    publishedDateTime: 2023-07-14T20:09:00Z
-    webUrl: "https://www.autonews.com/dealers/jm-family-invests-auto-retail-computer-vision-ai-startup"
+  - title: "I did not use artificial intelligence to write this column"
+    excerpt: "To be honest, you don’t have to be all that smart to write a daily column in a large metropolitan newspaper. You just have to be curious, possess a certain level of stamina, and believe the perfect is the enemy of the good."
+    publishedDateTime: 2023-07-16T09:00:00Z
+    webUrl: "https://www.washingtonpost.com/dc-md-va/2023/07/16/chatgpt-writes-a-biography/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/PearlPercy-MAIN_i.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFS4SFYYXCYUDB4YV2NMMMELZM.jpg&w=1440"
+        width: 1440
+        height: 1019
         isCached: true
 
 secured: "LVQr0oGh3NrCL9z5oMLofreL2vFNAMXAx68h9Ov8ofq4jG1KTz0rjN4gveV+Ka9R3JHUgA00HfrjE1CyVAivHfH7tDqPR0ccS8BWrmivFBK1fehl9Y7oTOm0XxZsrycm1RolnE+FQ8N3v4j7mZndHERsIeYvaaKV3fmCB2CRwhTHo6o9lybpvBl8ddXJpnIqrhymNXW2KPEdno1vaT9M6zfRuRaSjXMXkNgGccNlsQ81WMajiseke4905qmmxvbj6XlWplRZZ0l7rRCvzO1Oz55safEhP9LwIS/tNg/KNiwbA4XZt0zIRfbv29pFPL0s0RuPiKxSmePRisdxCyHdxtSHRVVdOB3QMVnfqVd1UwR/RyTKJat6vhtZKfZ7Wv7zuQwEPGgWP8j1mzF5o1qiw2k4/1vKitM5B8M5DfqZbtC5uXvKCSMHhOz+793Hsx6DYFYCY+3IwuV0TkQ4wiDSD0iQ40TuxAG8Pdi4eF1D25yZ+kBhr7hSIvlxGZ4BVg4cxGAEV0morpO17GESw6RCTQ==;UDh0bYwpF4FQU/EQT+c3+g=="

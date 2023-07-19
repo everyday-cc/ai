@@ -62,6 +62,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "How AI is bringing film stars back from the dead"
+    excerpt: "Celebrities such as James Dean can be brought back to life thanks to artificial intelligence, but it is raising troubling questions about what rights any of us have after we die."
+    publishedDateTime: 2023-07-19T14:52:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20230718-how-ai-is-bringing-film-stars-back-from-the-dead"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1l1xg.jpg"
+        width: 624
+        height: 351
+        isCached: true
 
 secured: "JkRGPX9zyrboRDfN2fEu09C1MYGqRWHYln/FGrh1SOktD8K69owPbTp9yLb3k9i+T1Lxh3GG2bP0FILA9Qb0kDNx5IWtxQ3X5nu9ysHi7nMuR4m0smXJN0HvVfkpwv92JfoE2ZrOpJsSDzWN1rVq4ty8Io7a8K1GjOdYohRdHZ9cryvy7esj55S09Bl5nS0y/OwJGRHd9rUA0J8INOllyzPV9HlV8Rw7TlM8oYwOinzms5IRLzv+Vu1JvN8yLDqYd/6leSBkomNdD0nJtbDb1LkAdtV5V6ZRVDURRVjoLAy+tIxMiw4b2Kjhri2va4P2ZrXGQgh43VyFcL1qiurH1nE3s3YzK3pgcZND1rONwZI=;BSo6Iebg25GaQen7ihnusg=="
 ---

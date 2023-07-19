@@ -592,6 +592,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
+    excerpt: "In recent months, the remarkable strides made in AI innovation have ignited a wave of transformative possibilities, captivating our collective imagination with the promise of reshaping industries and the way we work."
+    publishedDateTime: 2023-07-18T17:04:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/07/18/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 44
   - title: "Microsoft Inspire: Satya Nadella reveals new Microsoft AI Cloud Partner Program in keynote speech"
     excerpt: "Satya Nadella, chairman and CEO of Microsoft, revealed the new Microsoft AI Cloud Partner Program and other artificial intelligence opportunities for partners during the Microsoft Inspire keynote, which took place on 18 July."
     publishedDateTime: 2023-07-18T17:10:00Z
@@ -648,6 +657,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Meta launches its AI counter to ChatGPT, Bard in Microsoft partnership"
+    excerpt: "Meta CEO Mark Zuckerberg says the company is partnering with Microsoft to introduce the next generation of its AI large language model and making the technology, known as Llama 2, free for research and commercial use."
+    publishedDateTime: 2023-07-19T13:24:00Z
+    webUrl: "https://wraltechwire.com/2023/07/19/meta-launches-its-ai-counter-to-chatgpt-bard-in-microsoft-partnership/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 36
   - title: "Microsoft announced its first customer product features powered by … – Microsoft"
     excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
     publishedDateTime: 2023-07-18T07:28:00Z
@@ -670,6 +688,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Microsoft increases channel exposure to AI"
+    excerpt: "Vendor rolls out fresh specialisation encouraging the channel to embrace the benefits artificial intelligence can deliver."
+    publishedDateTime: 2023-07-19T09:45:00Z
+    webUrl: "https://www.computerweekly.com/microscope/news/366545114/Microsoft-increases-channel-exposure-to-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 34
   - title: "Microsoft puts a price tag on AI for business"
     excerpt: "Microsoft announced Tuesday it will charge $30 per user per month for businesses that want to use its AI-infused copilots to automate work in Office products such as Word, PowerPoint and Excel."
@@ -697,6 +724,15 @@ related:
     provider:
       name: Inferse
       domain: inferse.com
+    quality: 31
+  - title: "Microsoft partners with Capgemini and Splunk to drive AI and cloud innovation"
+    excerpt: "In an announcement by Capgemini, Microsoft and Capgemini introduced the Azure Intelligent App Factory, a solution to revolutionize business intelligence"
+    publishedDateTime: 2023-07-19T13:35:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-capgemini-and-splunk-to-drive-ai-and-cloud-innovation/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
     quality: 31
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"

@@ -35,6 +35,15 @@ related:
         width: 304
         height: 288
         isCached: true
+  - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
+    excerpt: "VSORA, an innovative startup offering silicon intellectual property (IP) solutions and silicon chips, today unveiled Jotunn™, an all-in-one single-chip family to provide a massive jump in performance for Generative AI inferencing processing challenges."
+    publishedDateTime: 2023-07-19T13:21:00Z
+    webUrl: "https://www.design-reuse.com/news/54462/vsora-chatgpt-on-chip-architecture.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 22
 
 secured: "E2Hskd/Xi+rIUqub1FGn8QvYEqREhOO61Nc5PSWH1xrX6r+WDl+dtzJWXbtHs8ZR6PuMqIoz4rF+HJK6zXPXFwfbgD+eWAE2g5VjKgO6IjCWsR3NbDT0vW6PYYgBwAk2wzdIJ6DMaaEKEQJsiOf5gtqZ2WjcIG5GI+qUC+59JsNzQWYWHXkmpAMI6O9BzeK5OXBa0MiZ5LMM2D5fmgcOOTGcQTiEwN5Y40/2ptF5XjCWU1Xcxa47Z1n2nTqsxtzgV+sZoY+/Q4z+VtHdgaDeyv3din/jAQWxKJJukNMFTgirxmOWGbGNXG8s14+OIEXeh1PgKv5uByq9jbDPNtiUnQso9DIYy00BBocgsoqAUPw=;Ioxn64gsGyoNt+7WHroCMg=="
 ---

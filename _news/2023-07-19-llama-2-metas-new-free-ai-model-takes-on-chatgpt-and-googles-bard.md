@@ -43,54 +43,31 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Battle to win the AI race hots up as Facebook owner unveils ChatGPT rival"
-    excerpt: "Mark Zuckerberg has unveiled the latest version of Meta’s AI model LLaMa (Picture: Getty) Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it is taking a different approach – releasing it for free."
-    publishedDateTime: 2023-07-19T09:39:00Z
-    webUrl: "https://metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/"
-    ampWebUrl: "https://metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/amp/"
+  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
+    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
+    publishedDateTime: 2023-07-15T09:42:00Z
+    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
+    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 58
+      name: Beebom
+      domain: beebom.com
+    quality: 55
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/07/SEC_164624020-8c4d.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T22:01:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+  - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
+    excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
+    publishedDateTime: 2023-07-18T18:32:00Z
+    webUrl: "https://www.androidauthority.com/ai-products-meta-microsoft-3346204/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/b97a2bb7-2255-49be-81c7-cd00198ba40f/thumbnail/1200x630/8fa8182596b299afef316114648f9f32/9b36e8d006fafd1e651176d6010dec18.jpg?v=ed1888effc334856324ceac60c145559"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook parent Meta to make ChatGPT rival Llama public"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T22:44:00Z
-    webUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    ampWebUrl: "https://www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    type: article
-    provider:
-      name: WTAE-TV
-      domain: wtae.com
-    quality: 44
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
-        width: 500
-        height: 282
-        isCached: true
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 49
   - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
     excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
     publishedDateTime: 2023-07-15T05:38:00Z
@@ -119,6 +96,36 @@ related:
         width: 1920
         height: 740
         isCached: true
+  - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
+    excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
+    publishedDateTime: 2023-07-19T12:46:00Z
+    webUrl: "https://tech.co/news/chatgpt-prviacy-concerns-images"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/06/06195842/chatgpt-phone-glasses.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Evaluating the ability of ChatGPT and other large language models to detect fake news"
+    excerpt: "Large language models (LLMs) are an evolution of natural language processing (NLP) techniques that can rapidly generate texts closely resembling those written by humans and complete other simple language-related tasks."
+    publishedDateTime: 2023-07-17T10:00:00Z
+    webUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.html"
+    ampWebUrl: "https://techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ability-chatgpt-large-language-fake.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 37
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/evaluating-the-ability.jpg"
+        width: 748
+        height: 440
+        isCached: true
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
     publishedDateTime: 2023-07-18T08:38:00Z
@@ -132,45 +139,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
         width: 700
         height: 466
-        isCached: true
-  - title: "Facebook makes its ChatGPT rival Llama free to use"
-    excerpt: "Facebook’s parent company Meta has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T09:11:00Z
-    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 24
-  - title: "Facebook parent makes public ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach:"
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.avpress.com/business/facebook-parent-makes-public-chatgpt-rival-llama/article_3ce164d4-25d9-11ee-aa8d-7fdc01ce7b98.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg?resize=600%2C300"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T21:00:00Z
-    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "7VPEyCXf1UvI8SiYIP2qDkCN9JSMvtaeh4VTyBCIgefN6FIVsUZ+uPVSPlKXAEo2t79vXilQdg0Bd1NSaoUhI2EiWpHWt1Wnq0moiW2zuMB6kg5kn7ub3cRs81+YtWs3clBAAXxgOjdmkPLnO+kPj+d0ApvS1snMn4xQVSUyOkgTCu63V5lnIT5CKq+V/jaUbtHe0uItk+KwsnZn65Ifeovwd6+UEVPAMOUvRzKa9q3lhWDYCs1K2ah2N32UkhmX7OCwyYYvhdMoXBfmY7QSxj7gBtzAiDeWyuWMMKIZZnj7kpfTYrLdhnp4O2ngyIoRPEtHagjuPVOesmWlhbUJiUXEEveZIxnuB2TS/r/i6PU=;tKj3zcLJTeXIlMke0JgwhA=="

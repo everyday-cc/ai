@@ -27,21 +27,118 @@ images:
     isCached: true
 
 related:
-  - title: "The Next Frontier For Large Language Models Is Biology"
-    excerpt: "AlphaFold was not built using large language models. It relies on an older bioinformatics construct called multiple sequence alignment (MSA), in which a protein’s sequence is compared to evolutionarily similar proteins in order to deduce its structure."
-    publishedDateTime: 2023-07-16T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
+  - title: "More AI: Meta launches ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
+    publishedDateTime: 2023-07-18T22:00:00Z
+    webUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/"
+    ampWebUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 61
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b19a27ab6a497e66e9bcfd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 786
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Llama 2: Meta's new free AI model takes on ChatGPT and Google's Bard"
+    excerpt: "Developers and researchers can collectively identify and address potential issues faster, facilitating collaborative growth in the AI field. Llama 2 can be found in the Azure AI model catalog, providing developers using Microsoft Azure with easy access to ..."
+    publishedDateTime: 2023-07-19T03:54:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/meta-launched-llama-2-1689738128.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
+    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
+    publishedDateTime: 2023-07-15T09:42:00Z
+    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
+    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 55
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
+    excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
+    publishedDateTime: 2023-07-18T18:32:00Z
+    webUrl: "https://www.androidauthority.com/ai-products-meta-microsoft-3346204/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 49
+  - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
+    excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
+    publishedDateTime: 2023-07-15T05:38:00Z
+    webUrl: "https://techstory.in/china-implements-landmark-regulations-for-ai-services-like-chatgpt/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/07/f0c3442c414a7bd1b039829a50849a4e-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
+    excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
+    publishedDateTime: 2023-07-17T08:01:00Z
+    webUrl: "https://news.bloomberglaw.com/us-law-week/ftc-investigation-of-chatgpt-aims-at-ais-inherent-challenges"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
+        width: 1920
+        height: 740
+        isCached: true
+  - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
+    excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
+    publishedDateTime: 2023-07-19T12:46:00Z
+    webUrl: "https://tech.co/news/chatgpt-prviacy-concerns-images"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/06/06195842/chatgpt-phone-glasses.jpg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Can ChatGPT detect fake news?"
+    excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
+    publishedDateTime: 2023-07-18T08:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/can-chatgpt-detect-fake-news/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
+        width: 700
+        height: 466
         isCached: true
 
 secured: "v5mcOqHLhxr6Fu41qmCMfqswetqgcHsSSJcT7vuAshxRZpIHoJtxCMFkZih+wdOlnZ0kqIghbZ1JAPJ8yrRf/8O21fLF17BAL6OhUwskdRL8/BxKkAd2xWwZx7L0By6vvFW0u5AU7kpOfdWpZVOUeD/RvY6NTdRki4skGrQOh2jtLGeyHVPBJmwHtpGk8YTezNy6C0rG5pAKMGAwnla6QeAI/rNfk4c3BrgL5yOarSfhQGOBRqYj+v4/7bBzRsgYj6Hkcovwpf+T63FAZfsQXO2x0XNDsJ3DAILMu44ZXxeWC6xCRFMR8ukBg+uiOdP0f3Rat4OBXBGPBjXReU+xkTtMgwF3oFRerbKmmHepn+EwOSlKOgPd2NPvuYyGXCFef1DC5jO+YdggE7AlRcJNLvmJivIR7P4qT5KSs4/ZKUqFaKTkC2KTavDE9vRI0l3zRZCT8KBEAjW9VZAijbPC9UVqU7RmuKGmuB1NxaweJm8qBDDbCsLsMQv0IpaYpZeINmeAFr4OOp987EjaA9kTTw==;E+7wzxPRNyUNyNdCCtKnfA=="

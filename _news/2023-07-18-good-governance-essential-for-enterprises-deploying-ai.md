@@ -28,45 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Lenovo unveils data management solutions for enterprise AI"
-    excerpt: "These all-flash arrays are designed to simplify AI workload enablement and unleash the value of data. The company has also revealed two integrated and engineered ThinkAgile SXM Microsoft Azure Stack servers. These provide a unified hybrid cloud option ..."
-    publishedDateTime: 2023-07-18T17:51:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/"
+  - title: "AI And Government: Transforming Public Services For The Digital Age"
+    excerpt: "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures."
+    publishedDateTime: 2023-07-17T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Lenovo-Logo.jpg?w=1200&strip=all"
-        width: 1024
-        height: 512
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Digital.ai, SAS, Thread, Lenovo, Red Hat, Cree LD disclose new products"
-    excerpt: "designed to make it easier for organizations to enable AI workloads and unlock value from their data. Also announced are two new integrated and engineered ThinkAgile SXM Microsoft Azure Stack solutions, enabling a unified hybrid cloud solution for seamless ..."
-    publishedDateTime: 2023-07-18T14:22:00Z
-    webUrl: "https://wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red-hat-cree-ld-disclose-new-products/"
-    ampWebUrl: "https://wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red-hat-cree-ld-disclose-new-products/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red-hat-cree-ld-disclose-new-products/?amp=1"
+  - title: "The Evolving Battle Between Social Media and the Government"
+    excerpt: "A recent court ruling dramatically curtails the federal bureaucracy’s ability to communicate with Internet platforms. What’s at stake when free speech harms the public?"
+    publishedDateTime: 2023-07-15T17:26:00Z
+    webUrl: "https://www.newyorker.com/news/q-and-a/the-evolving-free-speech-battle-between-social-media-and-the-government"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/01/newspaper-business-news-online-news-e1547465759139.jpg"
-        width: 590
-        height: 332
-        isCached: true
-  - title: "Lenovo Unveils New Data Management Solutions to Enable AI Workloads"
-    excerpt: "Lenovo (HKSE: 992) (ADR: LNVGY) announced its next wave of data management innovation with new ThinkSystem DG Enterprise Storage Arrays and ThinkSystem DM3010H Enterprise Storage Arrays, designed to make it easier for organizations to enable AI workloads and unlock value from their data."
-    publishedDateTime: 2023-07-18T16:54:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/18/9849960.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 4
 
 secured: "lPEoPferD/lYACnp598P+UP8XJCzmby0M+DLYPKXDEtlZtpwzPaiIkF0jSSM9XoSt0nogsuzHbLIQHp+na1JrTTA517lvFInhDJGaDY+y9UPg3e/ioIsCo4jx5VwcCFQSaqz2PAoNl+VGI10FFezd5OWABMu1hvaSffMOe+1hUuao508vAhnThsNST87ndXOz6OMPb4C2Q4+fNYz5ZUPm9wOaxKg8uEyKHrFm7eA9xwuwWxqYPNpWLHP0PLUX+pgwr4iDiOhkBcbjMLQBAf2ardlQbD5fdzghCtjrpKVSkbEiTQhkCTYp04Aly4T2D3Gw7QTh7U2mRGBN84zJ2PtL8ilsO4WnfTfdZpqkVZQVWltsxH5IAvZ3hfAXSRxvbjmALjY6Z43h9+nsaPTf1VFGLoFdesB2/C7AcEyrGwWcYvCLsAT1jRZ5CZNY+iIpCQgMcDhjRPHGyBNgDScGD+zB5ch2IzFrlJzldobyyCMjFfhrXCVuUPi+t0WFU/mhKz2nfu7dwpsmwSdR0AWa4LqCw==;146ZtfDvbIuLLH6XgrKSJw=="
 ---

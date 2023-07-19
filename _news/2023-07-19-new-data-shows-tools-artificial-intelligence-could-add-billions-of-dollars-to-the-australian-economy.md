@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/news/podcast-episode/new-data-shows-tools-a
 webUrl: "https://www.sbs.com.au/news/podcast-episode/new-data-shows-tools-artificial-intelligence-could-add-billions-of-dollars-to-the-australian-economy/e65oqkedu"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI insurtech partners with Australian insurance consulting practice"
-    excerpt: "CLARA Analytics (CLARA), an artificial intelligence (AI) technology for personal injury claims optimization, has announced its partnership with OPEX Consultants (OPEX), a boutique growth strategy and profit improvement insurance consulting practice based in Australia, as reported by Fintech Finance News."
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.insurancebusinessmag.com/au/news/technology/ai-insurtech-partners-with-australian-insurance-consulting-practice-453081.aspx"
+  - title: "Tesla chair Robyn Denholm joins Australian AI healthcare start-up"
+    excerpt: "Tesla chair Robyn Denholm has joined the board of an Australian healthcare start-up backed by Hong Kong billionaire Li Ka-shing, as it seeks global adoption of its artificial intelligence-based medical imaging technology."
+    publishedDateTime: 2023-07-19T14:02:00Z
+    webUrl: "https://www.ft.com/content/b4170e35-8f59-4bac-8e08-76d9e434a54e"
     type: article
     provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 19
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
 
 secured: "fnVqstrgC7qxsTCaN70DQHAY+RwKYCCQUbPcMV2S6olYoyaLotFjSIcto7/kJMBImZ4wdk3IhHTOwuk33MdLjzZaCVuXsXtCqEfK1uTKfrpAAHcgda1HUAEHTv65mYj25MNMcjOMzoof2DbivxxLycwiI8HmYby7EgrWgN1kMKIpKjpDEOJ/1JWlIzAmPqCbbvI5visJeHAoRH0UQLUslzjwvZmI6+87lcNCRxt5AQJnNUc49HngQ4jZ957cKriG2KHQzlvH7hZCIoEdIskDik07tRexM4OjTCQo9kxpyZnFcjBrs5BstaYYavgMzHLzikT0OlOWFMJ+HX8NFEvSvZByJesI5GlNYlrygTMVYog=;/jKd9GxuVcHKd3PayJ4NTw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-tha
 ampWebUrl: "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64b59cc0cc207a8b885f1dc1/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "HEYuwYoTm2eRCTOVupVdWvXH1ABqxGlOtnCL2fPE4/Wlp/3cBGzkoQB86/nM0trz2HI0AArGab/Jv4eGzpyWf52kzyr06jbLQJK/kTIKvyPHeiVy/Jml3fWVG+YENn9KL5a6Glz2ysCN9IFA2Esi9UQzIxmEL9UQJFY4I0EXtH8ZSKvG+hr+8JPsL0GnHXeFO0JioY68Yy8alAd7n1A+7sHFai4o+qSv2knZ3PRYVaCh0TtTiwEKZDvE3zYM2Vruc2UOBCb82EkZLPipVSE7TbSQgSBJr55cW9NcML+p56hBs8OpczE7iExXmHExTSadWhEAbWSCY5ljp1FijbQ2TRumP9IrUJIstDBTPsXHsrM=;dm2RS63er/+ffzil2+S8Fg=="
+secured: "RmYpK14roikujA+OWr9iGMpxuh5FvyB5m38qUqjNkXGflKVGn0HJcRfNnkQBoOBEXVDzks/qprKmCc9b5ecVgr2TgkhtVgZ9vPeOpRYukCGVLvy8r0sYTCIJ79QipI1p1/thc5F190ker9YwQkTDmWEQ1hTdvzMh/cs2iJKDXfKI+vpx/hAPvCSn9Rb2dYg3I3bjLHkHM7RecWRS+FBbs5SMsQiQCLlntFOFntwJB0xCCv6HZLCBTw9hVnROFuewZn3S49qxLvT/x9hGG5pCkRii4pdwKWGehfq//nxCFXJCq05Cq7/tDy/8lzKw83rOPKPkStcP1VtjwwhGJw6qyFvfZOLqdW53BeTdjeBLDfkVnLs+T0YfLtTcuqLIGCC900Xw6edz7INH07EHc2b0wIx3UsC87W+AfKZxDl5oHOdsU9+xLPcWTjtPEkRq81Xl61jOWGs5e60WoqvUX2Z+x3kHO3ep4SGc3VElV1xoOYybbRkCkufqxlTr33S9LVvgthMXB507ycDfpsTwIGKymw==;2Y7V+s2Oii98zlOnZR1+WQ=="
 ---
 

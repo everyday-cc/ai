@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-n
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 224
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
+  - title: "FinTech Magazine’s Top 10 banking technology companies"
+    excerpt: "Discover FinTech Magazine's Top 10 Banking Tech companies reshaping finance globally. Find out who clinched the coveted number one spot!"
+    publishedDateTime: 2023-07-19T15:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-banking-technology-companies"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/deb69e89e1011e6ec06bcea4ac6c5a69:93e2f0c46b126e3707f823c2089083a8/gettyimages-1351571961.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FULL TEXT: Q2 2023 Ghana Fintech Report"
     excerpt: "The second edition of the quarterly Fintech Report titled “THE GHANA FINTECH REPORT” has been released. Ghana's Fintech sector has witnessed remarkable growth and innovation in recent years – and as technology continues to redefine financial services,"
     publishedDateTime: 2023-07-17T07:48:00Z
@@ -186,6 +200,24 @@ related:
     provider:
       name: Zimbabwe
       domain: newzimbabwe.com
+    quality: 4
+  - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
+    excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
+    publishedDateTime: 2023-07-19T13:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9850921.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+  - title: "The Senate’s fintech fight"
+    excerpt: "A bipartisan group of senators and the Biden administration are about to clash over the future of fintech lending."
+    publishedDateTime: 2023-07-19T11:59:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2023/07/19/the-senates-fintech-fight-00106983"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 4
   - title: "Cyvatar Joins Mastercard's Start Path In Solidarity Program to Empower Underrepresented Fintech Founders"
     excerpt: "Cyvatar's participation in the Start Path In Solidarity program further solidifies the company's dedication to fostering diversity and inclusivity within the fintech industry. By collaborating with Mastercard and like-minded organizations, Cyvatar aims to make transactions safe, simple, and accessible for everyone, everywhere."

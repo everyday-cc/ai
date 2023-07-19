@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Six Ways Law Firms Can Use Artificial Intelligence in Their Marketing Technology Efforts"
-    excerpt: "Artificial intelligence is here to stay and law firms would be wise to learn how to use AI tools to their advantage, particularly in their marketing and business development efforts. Small and mid-siz"
-    publishedDateTime: 2023-07-14T21:40:00Z
-    webUrl: "https://www.natlawreview.com/article/six-ways-law-firms-can-use-artificial-intelligence-their-marketing-technology"
+    excerpt: "Artificial intelligence is here to stay and law firms would be wise to learn how to use AI tools to their advantage, particularly in their marketing and business development efforts. Small and mid-size law firms with limited staff and resources could ..."
+    publishedDateTime: 2023-07-17T16:22:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/six-ways-law-firms-can-use-artificial-5201742/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 47
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 45
     images:
-      - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/28/Ai-Concept-Artificial%20Intelligence%20SMALL_3_0.jpg?itok=RWGXgbtE"
-        width: 500
-        height: 243
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.4304_1612.jpg"
+        width: 1200
+        height: 899
         isCached: true
   - title: "The growing influence of AI on the technology sector"
     excerpt: "In this ever-changing business landscape, AI is the brain and bawn of revolutionizing the tech industry. Artificial intelligence has enhanced efficiency, accuracy and cost-effectiveness. Everything and anything can be"

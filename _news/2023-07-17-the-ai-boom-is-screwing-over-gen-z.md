@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-em
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-07/connection-g3ed302e2f_1280.jpg?itok=mH6-aM80"
         width: 1528
         height: 800
+        isCached: true
+  - title: "How AI is bringing film stars back from the dead"
+    excerpt: "Celebrities such as James Dean can be brought back to life thanks to artificial intelligence, but it is raising troubling questions about what rights any of us have after we die."
+    publishedDateTime: 2023-07-19T14:52:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20230718-how-ai-is-bringing-film-stars-back-from-the-dead"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1l1xg.jpg"
+        width: 624
+        height: 351
         isCached: true
 
 secured: "Tx5qGscpQ4ae31T79Ewyl7o+Q0bnXjCMPfVi0eWGKcxE5oc5sz2fM8e4UhOeLm9P2/mOvaJCt9Jn901+T/kvVvcg5naZ2O+lW1bcGxFlAM5KBf3we/Y1yj7/hIRWHOdcwQ2DDOmPkImIBAttVAhdbF0IW0ATTGf80NUVq7Ly/CXDaQN//rXyQ/Ns7mLPp1SBq+xd1vDuxmYtQ8GZRpieTMyPqbBEM9YQhZqiEDIvzEgnmkXZ2GXIAQrt81mTu1InLo9NOaEKfzOfK1tX40WsfLVbAKZVKi5830gk3FzBOtSG9C8kQ0/S8Zj6L1Tl3giIo1cYmDudK9D0tZsyQsFxYqhFhsZrDyqFhw/xp5xetfA=;5I9+wBuyfAmmCJbMzwe9Eg=="

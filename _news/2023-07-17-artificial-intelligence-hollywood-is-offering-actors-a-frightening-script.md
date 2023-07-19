@@ -82,20 +82,6 @@ related:
         width: 1199
         height: 603
         isCached: true
-  - title: "Hollywood actors strike over use of AI in films and other issues"
-    excerpt: "The US actors’ union is striking over disagreement with Hollywood studios about using AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
-    publishedDateTime: 2023-07-14T19:38:00Z
-    webUrl: "https://www.newscientist.com/article/2375009-hollywood-actors-strike-over-use-of-ai-in-films-and-other-issues/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/14185559/SEI_164100721.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "6T90GtICozFbHT5bPeQd+UskF1Qve9gTlW+oC9vwQD/zGwrO/DnKfdo1JSZhod1WASyDOnFzaJEd/ScfjHNNSJ2K7MvASusu043pEjdUjVPml7u9ELi697VGs67mUJbhWtQUePEHnZr0KdqjIOckwfAOKwzZPmjN7qZjdCL/IL88nmn9DGD1m3PCqDGjbWTCDx7DrRDutfcAA/9m+crRtFQ09aTtRiYaumq0g0fhotJP6/iySQ9G3xmvlR2N4OxylZtUi4EbyNkqIrYp9SzHgGHU41w8oMQy+BuhtyQeJtQNZ0EKdQXgqq80LdEWNGAwpY0qpPGwUqQO4HjhcM6PqosOWAWhfxMbehCHhrUZiGo=;IlKoNqpzBR+4wsi+RZZCNA=="
 ---

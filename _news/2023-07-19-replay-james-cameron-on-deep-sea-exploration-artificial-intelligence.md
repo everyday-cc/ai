@@ -42,6 +42,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "James Cameron Weighs In On The ‘Weaponization of AI’ And The Possibility Of Robots With Nukes: ‘I Warned You in 1984’"
+    excerpt: "James Cameron is finally sharing his thoughts on the controversial debate over artificial intelligence, which has become a pressing topic in recent months thanks to the growing use of machine-learning writing tools like ChatGPT."
+    publishedDateTime: 2023-07-19T15:14:00Z
+    webUrl: "https://uproxx.com/movies/james-cameron-ai-nuclear-holocaust-terminator/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 31
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2023/01/terminator-feat.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
 
 secured: "PzG86sizZPG5Ynp2k2/jsvk6AFLY52Op/xxSAAdW6NO9Nh591lYnT+UAJZD5ISfs4KUa1uzT9i/WDLb/MoH3vRHhswJYw39QDaAVh2BslJe9dXk2LcogL77+ZE7i/1TNCtKRTLLb4HH8AwEPMP3lyN6rXWGqirh/jgEp7i07fUIZxDzofnv0XmSiiWvdZDggASkVVYuviY3jhe+Zsal6gfgQLDtBrBvzfHCvE/wdp7bcrsCJFWlwe2aPjkGl4DhVM+W36XzsJCwlhXtOvlEoloDrtNvXEWicRA7eFXnctUv7pW7Dhl2a+F3hpsQ2rre29YPzaRXru2SIarK1c15nGLfTbVw1nOguZwechFi90fY=;NxNEYSD80DKybfzVkGNecQ=="
 ---
