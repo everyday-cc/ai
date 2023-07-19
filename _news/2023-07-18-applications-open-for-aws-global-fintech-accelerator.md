@@ -184,6 +184,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Africa’s FinTech Outlook: Opportunities and Challenges"
+    excerpt: "Spread This NewsIn many countries, the fintech sector is seeing considerable growth. According to a new study, the fintech market in Africa is projected to reach $65 billion (₦50 trillion) by 2030 — a 13-fold increase over 2021."
+    publishedDateTime: 2023-07-19T03:41:00Z
+    webUrl: "https://www.newzimbabwe.com/africas-fintech-outlook-opportunities-and-challenges/"
+    type: article
+    provider:
+      name: Zimbabwe
+      domain: newzimbabwe.com
+    quality: 4
   - title: "Cyvatar Joins Mastercard's Start Path In Solidarity Program to Empower Underrepresented Fintech Founders"
     excerpt: "Cyvatar's participation in the Start Path In Solidarity program further solidifies the company's dedication to fostering diversity and inclusivity within the fintech industry. By collaborating with Mastercard and like-minded organizations, Cyvatar aims to make transactions safe, simple, and accessible for everyone, everywhere."
     publishedDateTime: 2023-07-17T13:37:00Z

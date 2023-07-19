@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Hollywood Actors Strike Will Revolutionize the AI Fight"
-    excerpt: "Bold-faced names like Meryl Streep and the halting of production could give artificial intelligence a whole new level of awareness."
-    publishedDateTime: 2023-07-14T13:00:00Z
-    webUrl: "https://www.wired.com/story/hollywood-sag-strike-artificial-intelligence/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Revolutionising innovation: The Generative AI approach by startups in India"
     excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
     publishedDateTime: 2023-07-16T02:15:00Z

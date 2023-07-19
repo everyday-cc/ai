@@ -24,17 +24,6 @@ images:
     height: 1152
     isCached: true
 
-related:
-  - title: "Self-driving vehicles 'could bridge gaps in UK's public transport network'"
-    excerpt: "A new report, led by the Department for Transport (DfT), involved trialling SDVs to ferry people around Alnwick in Northumberland, Manchester City's Etihad sports complex, and the town of Taunton in Somerset."
-    publishedDateTime: 2023-07-14T12:39:00Z
-    webUrl: "https://news.sky.com/story/self-driving-vehicles-could-bridge-gaps-in-uks-public-transport-network-12920858"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 2
-
 secured: "RqIxfqAuwfpLrXFKHQgg/hTaKRJI/NYMjhEQC9PQQnKOPIESXvSm/pBIR18AtVjzDdgFfTQi7895xYefhM93UmZbDvQmcxlscjdvPl8tNNmQ0ue5npnP2P/RGSJzCERavYiE4CFWOAZw5Q6ysDUj+gbdhb4lWr45OFVprY/6rzCEOfsxUTKLQ20D61LtMIzlMFLyZX0WxBOSAbJOtjd5uyL06KumZMsCB748z9UVrgHrI74oekTNvsQVeClt2nGyCV/RLnB7wYa43UAebyu7HyyBRXNYpuZCLqH55cUsiRDFQHJeM93btahMJbLI1Ja3P3dTZ5CZZ/GwF2QFJdZ/vKKDFK+0z8sO3szYbeXF8glq+WvnYSt1mALvI/h/Ft49VktJjDdz7hAoKn/9c24uziKfNBvd2bDmTUqLPPtyPeB5duxvzeOXIYTGwz+fj3ZogEUkwwnOsQONcLcWDZBNI6L3wu9RPrUgk/u6MM0wm56TP6rDhMmkELAyYKhOxtCe327IkJzfX2gnhnLXLJO1Zg==;A8xlXpgPm9Fo2VLp/d7XSQ=="
 ---
 

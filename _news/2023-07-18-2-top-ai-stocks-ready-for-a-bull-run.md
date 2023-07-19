@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-fo
 webUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Motley Fool
@@ -27,26 +27,6 @@ images:
     width: 2359
     height: 1270
     isCached: true
-
-related:
-  - title: "3 Doomed AI Stocks Destined for Disaster"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Venturing into the intricate world of artificial intelligence (AI) stocks can"
-    publishedDateTime: 2023-07-14T12:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-doomed-ai-stocks-destined-for-disaster-1032447370"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Build a Winning AI Strategy for Your Business"
-    excerpt: "As an example, PwC is using Azure OpenAI Service to expand and scale its own AI offerings while also helping clients in industries like insurance or healthcare reimagine their businesses by leveraging the power of generative AI. CarMax is using it to ..."
-    publishedDateTime: 2023-07-14T12:08:00Z
-    webUrl: "https://hbr.org/2023/07/build-a-winning-ai-strategy-for-your-business"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 19
 
 secured: "GXyx+bw3LUx0xUNfG0SPISJ9ShcX+URr1unLk0XInrOckIvAujvvoDROz1pPSqG74Dpc+U7hixHypblCtpzhdJjBK9bs55n/tGEweVTJw9b0moiqcAZPI2vVGDjdwBwjNz7/Ny3fPtd641Uh7lkm/0PmTn3HqVh019JtGL1GnA7XtmtipEpq004em4i5QShWkDi+tKr1/LUvfTosSDBH9MkWiNO6TD2jz8JOgVl5TNwxzTHNyMR8Jrpp+36auOcqwCuMpKOAg/Nu2aFXhg6+fYhHQA54xy2X0zq3Nlzn6gvq26JSxxT0BXEG8ZTaPrzCdbDPibhZjBQ+sz5FOux6aWctqGuAUjvk0LSH4eJTFXk=;XcsfnppciicPKmdmD9hZKQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aac
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 275
         height: 215
         isCached: true
+  - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
+    excerpt: "An artificial intelligence company executive told the first U_N_ Security Council meeting on AI’s threats to global peace that the handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems"
+    publishedDateTime: 2023-07-18T23:26:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/Technology/wirestory_5a184197c4281365866b5963d56f84ea_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Potential threats of artificial intelligence to global peace on agenda of UN council meeting"
     excerpt: "The UN Council meeting will include briefings by international AI experts and Secretary-General Antonio Guterres, who last month called the alarm bells over the most advanced form of AI “deafening,” and loudest from its developers."
     publishedDateTime: 2023-07-17T02:40:00Z
@@ -77,15 +93,15 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
-    excerpt: "The handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems we don’t yet understand and that are prone to “chaotic or unpredictable behavior,"
-    publishedDateTime: 2023-07-19T03:00:00Z
-    webUrl: "https://www.chron.com/news/world/article/exec-tells-first-un-council-meeting-that-big-tech-18207557.php"
+  - title: "UN holds first-ever talks on artificial intelligence"
+    excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
+    publishedDateTime: 2023-07-19T04:57:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1205926"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 10
+      name: pna
+      domain: pna.gov.ph
+    quality: 19
 
 secured: "FisHEytwrhBtEzVI+iRv7cSJOW7X3ohtLRYPtH+pcDONy+WI97cWklvjKJI5DuEwaPodiZ0arfInL2f2wVgWQfhRZm308wvKOhi1PmbSmJ0vNfQHrGllReEacEIR50bJGfncjqh8Mo3dpqRFUu6wwV/ha+EKtDMDvE7F/P+NyqCIBjacl7XIAw4MXAl9C6So/+IQrbmTwfUMwL4f5coF7OaRS60UEkKkW/M4f/Wv3GtYZ+KCAB9CtEWjHUebUDJtpLsXEzR8KN/OhUfhFWit0xt0SNHq9u+zK196NPhE2oIAvLCvJBh6/fsoiDqIT3JdTF+J2wcgWutvMM3sj6qdZnoSen0q8rOGVrvv9mzQzWl/Q8bvUGb0ZNYaCnasVD+3MaVojFrQsNPFRjXk/pP2cdSv7no5uqLa8uJKNn/k/WoI4gCsX7flJ3bjwmV7z5bM/Yh3gkmd7GCPVun3dnpJ4QCRc5NPH9OnfqLNa+RLH4sQksz+PVC0iE8hewESF/vvE2aE7nSPVcW0pqz5MVE3Zg==;YrQYxuDIc+jEeJIHjuXhRw=="
 ---

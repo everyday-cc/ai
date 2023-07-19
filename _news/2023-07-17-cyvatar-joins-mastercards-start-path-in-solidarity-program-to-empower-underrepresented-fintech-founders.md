@@ -191,6 +191,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Africa’s FinTech Outlook: Opportunities and Challenges"
+    excerpt: "Spread This NewsIn many countries, the fintech sector is seeing considerable growth. According to a new study, the fintech market in Africa is projected to reach $65 billion (₦50 trillion) by 2030 — a 13-fold increase over 2021."
+    publishedDateTime: 2023-07-19T03:41:00Z
+    webUrl: "https://www.newzimbabwe.com/africas-fintech-outlook-opportunities-and-challenges/"
+    type: article
+    provider:
+      name: Zimbabwe
+      domain: newzimbabwe.com
+    quality: 4
 
 secured: "7NseCxjVAyhMYtSMpaMJz0EZ4XY7IQFr3iYVrAWk+G55i6fBmafFMzaQytjAJ/1Nj2Vutg2+A+EKKecQNqHZ1kVP4gUk8sr5tMk6dX7qX249sNXUj0NP021YRikkc97ZO4fbZt+eAGqjhz53cY/lGOl4VRQnvRkBHKE2V98bAv6IjRnQVbunR0r94a/goEiBhO3Hdrpsz7cJ36oIGjGQK2yeYQuHuPNFdnRgSK+dUlE/ZOIop6xDso2ka3mmUZgf0+E811CGB0QPpZ7g7ehPacFfud4CMxQg1uKeSLvy8gNFKJi5bM/UeZvZ/6pkGNFlMRBtRZ01JvVbBFCEt4zC+g0MIyxkMv5JPofh0TuE2Uk=;hwwYAGEnai86HzFPcJmx9Q=="
 ---

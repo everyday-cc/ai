@@ -51,15 +51,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AI, Automation And The Global Productivity Crisis"
-    excerpt: "As the workforce is stretched to accomplish more with fewer resources, the use of AI combined with intelligent automation will drive business agility."
-    publishedDateTime: 2023-07-14T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/ai-automation-and-the-global-productivity-crisis/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "knr0ZCYEKKDpYlEMco5zLmEXF3jRCxeM9RLSkNf3IXDpJ7FulJZGrvVZSzuoDw+3TxUG1hg2vfoOVFHihyNASQKQlv0dDDtB5W+8XYXVvfuI8v8m8OxalT2t2sBkjX8TORTDLiSExyVbrO5ByAfPZicKIXh0uPJrCEUNwe9qxzerS2hSyQKkFmGpT09AyvpaIS38YOk6ltL9x2Y5Sqf9gn/FxD7gdwYJV82IOfkoWlAvCWHihG8lLfQ6Z8p0LdhgaEnmKjqwdrwLs3vSCR4N8q0RVYf8cGDY6dOmpH3MSYLEvbqtefk6UzcKmo003qYn9fOi2r50dgJaIgZ1W2+P0hz+VGsXADqmX3AcPQttHfSs9J1e53fUhdbuSrKLls8RpGBUEtrMGQjThmiDHepUbgIwwesyvWXAdsoUF1aYtqxTuNS9QAAZq3jSORbTdYTpePYpBiaPv1D7je/hQMPA+od7rXz9oeEjKB217k0Vc+qdb7JtwJmXCkkACfgNxnTcP9augsuCA08KwM7cfINX/Q==;ff5zIUAtsZY1XyfSaEdFuA=="
 ---

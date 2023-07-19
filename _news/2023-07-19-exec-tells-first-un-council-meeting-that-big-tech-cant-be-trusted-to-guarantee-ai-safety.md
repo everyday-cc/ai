@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
-excerpt: "The handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems we don’t yet understand and that are prone to “chaotic or unpredictable behavior,"
-publishedDateTime: 2023-07-19T03:00:00Z
-originalUrl: "https://www.chron.com/news/world/article/exec-tells-first-un-council-meeting-that-big-tech-18207557.php"
-webUrl: "https://www.chron.com/news/world/article/exec-tells-first-un-council-meeting-that-big-tech-18207557.php"
+excerpt: "An artificial intelligence company executive told the first U_N_ Security Council meeting on AI’s threats to global peace that the handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems"
+publishedDateTime: 2023-07-18T23:26:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+webUrl: "https://abcnews.go.com/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
 type: article
-quality: 10
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/wirestory_5a184197c4281365866b5963d56f84ea_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "UN Security Council To Hold First Talks On AI Risks"
@@ -81,7 +89,16 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "UN holds first-ever talks on artificial intelligence"
+    excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
+    publishedDateTime: 2023-07-19T04:57:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1205926"
+    type: article
+    provider:
+      name: pna
+      domain: pna.gov.ph
+    quality: 19
 
-secured: "iZ2pKlN/Wu9935qggKCKCZv6BC9C9NT2mbsCmuU5sErDZR190R/8u3CCUROrdq1Qksz+CGHkvPGUm878U58TBOxBD5bBkfy5aE4k790vBw37nNfFGX8N4p6ZiRo8Sjzh+ebuH/Oi1eoBO8G8BFGam8+ZpRPgdyamtks2Ek+IRf7lfNL2SPe+nCMzgPbHH2rXCGhd8XVS9UqvQTb/X8yy4VEMtIa5AN7VnNS/D1wfuZe8rynugalMkqXvE8OwcyWYoih2YOOFO+PWOQlca18cdglxmxUPaV6iyd5MDwrnT5kfrmiTVNxqCow7O2exKbXuovZ2EXXHsUbDktqp3zXn1sqdsCDRHoa5AW06Xxk0XPU=;gJmUtKEowDPvbCdJpn0JRw=="
+secured: "cTOyDLHy7aAMY7fGx5ED0LhzK40OcGzshVAcGNsBtSFJEK/b1WjWjYMgfIR8RF7KxwckmAmnUv7GXluPfclm1+BDTyArjVDm75X1uUl+hcCovRx2/+9sFGMV5rJMDxi4DIJmlofy6r2nGSXXt+9mWRgnZVzBzDAzzq1MVNvmd4fb/uy+awdDdw1VJkaqWI3QLyToQl4h12Y+T0gWHHnUXZsKCSFbuPnb2rXBVJveBsO152/zGyKZlXhJ270riy7R/8mYX95J7JhWUKYRPR55eYQm+q+XKCDcFJQ1bKH4mAR2HIUOe6/IZXzl3Y09vaZVOEqxuc2MZU6cwH+m26tGO3sOn5YXP37P4/36GqAOlB0=;wkl8UKlYmrza8c+IFFM9wQ=="
 ---
 

@@ -58,6 +58,22 @@ related:
         width: 275
         height: 215
         isCached: true
+  - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
+    excerpt: "An artificial intelligence company executive told the first U_N_ Security Council meeting on AI’s threats to global peace that the handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems"
+    publishedDateTime: 2023-07-18T23:26:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/Technology/wirestory_5a184197c4281365866b5963d56f84ea_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "UN chief warns of risks of artificial intelligence"
     excerpt: "UN Secretary-General Antonio Guterres on Tuesday warned of the risks of artificial intelligence AI and called for a race t"
     publishedDateTime: 2023-07-18T17:53:00Z
@@ -72,15 +88,15 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
-    excerpt: "The handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems we don’t yet understand and that are prone to “chaotic or unpredictable behavior,"
-    publishedDateTime: 2023-07-19T03:00:00Z
-    webUrl: "https://www.chron.com/news/world/article/exec-tells-first-un-council-meeting-that-big-tech-18207557.php"
+  - title: "UN holds first-ever talks on artificial intelligence"
+    excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
+    publishedDateTime: 2023-07-19T04:57:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1205926"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 10
+      name: pna
+      domain: pna.gov.ph
+    quality: 19
 
 secured: "O8f2JPTzsMKvi0t8RK6L4Ji0oR2i+TllPLKDllDumyeD24e2IIckyr/5xCNWhfIrmVShK2hiYdNHh2MGPfpm6OdYRZ132hxhMnciuYQlokC69oLaWyVhQ+aaLG1JKkDbC8Rzu1J1z7eADKfV81V8AetK7sqxtSYPmBOWV6pheaqwzpiQhf94u1UMikTVHnP3G1qqa/LXxWJrRz2uE4SL9AIHLGUF3G1YHmKi9kkTiUu6sIHFQquypPFAmMElyxfN+sq8u/M/lHWH6s5FTmSDisJ2TRgnBxGBQMjruzHh0ER2XUHSZna12is75niw+CG+JsfEnM1Qhxibfs5IrdZIXxAbAVRUCglKhxvx9mFnRQs=;fNByZuNw66qcUI5Tri++qA=="
 ---

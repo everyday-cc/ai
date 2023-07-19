@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-18T11:57:00Z
 originalUrl: "https://9to5mac.com/2023/07/18/face-recognition-powered-by-ipad/"
 webUrl: "https://9to5mac.com/2023/07/18/face-recognition-powered-by-ipad/"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "JLRTXNOTRDN6CoQwwXR4zc38MsQLFAbimiPOkCeAZubksduWAbmlR9MLYTlYNYU03c3Y4kmb/tRGVhyAevj9twqhrXHpvoKA7DpUemaDakAySTLE/b3Oyiq235gyVJYRSw/I6+96nbkcvvvhS2etGRsbSWg2+ksQGYjtxq/joOHAWfWQqzxvlebZafNeTeaAKD3r0AaIYBf7M055mAKpgeuk+bxnaN508Q3E/cPe+H1TWKRtuG+wwIZ/h6ZtmZwvCpMvxt0x8uxQPz1P3LmxLLJVIJEXwaLNDhe5fHSf8jd/h/c87yjwYP1JmjzX3bZ5AGujraZjSMTtarE8sU/+NigW0WNxz5WJto6XatdynLk=;28hhgZABdMoKKVRNJhH1OA=="
+images:
+  - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/07/Face-recognition-powered-by-iPad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "67kRfPJlaLzw8ZGfO/2g0+QGbZDeMugeiIjnAI69mhx1g1Btg51VvoD4+ELF6yzTgmzbVHfWo5atNUFXXFQ1ABjVnss5iJOLP/5O9B8zaGdes3ExA8sa2Q50RuNuqH+MKAjWIr+F1sYJ1RviY35kCvBYUnJ6FcLa5lqtzziaiYhKLhKcljOKnBK1RcIDDUAmDiR9D4zwyVN6D/WdWzFMPxK8Jbn2FA1F/HlNmu2ZHO/3HcUbzbmtwXoHxa5OdPUXuTRf5JnvuHR/s0fpbKDy9u7FBM0ru7YklIt+mJzxBNc0W8C8fj9PVlSJWnQJFUTfOLLnRvQUicyQwoyXkdGfRf7huVXO8wEUFB7xfsnN8eM=;6MoV4ya2omTvrqExa4CIWQ=="
 ---
 

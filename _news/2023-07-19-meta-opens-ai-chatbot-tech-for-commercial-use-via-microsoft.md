@@ -360,15 +360,17 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
-  - title: "Microsoft soars toward a record high after UBS turns bullish amid AI enthusiasm"
-    excerpt: "Microsoft's stock surged toward a record after UBS turned bullis, citing enthusiasm around pending artificial-intelligence catalysts."
-    publishedDateTime: 2023-07-14T12:53:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-upgraded-to-buy-from-neutral-at-ubs-on-cloud-stabilization-ai-catalysts-2eaff8ea"
+  - title: "Meta launches AI language model for Microsoft and Amazon cloud users"
+    excerpt: "Meta isn’t charging for access or usage of the model it developed. Instead, by opening up the technology to other companies, Meta says it will benefit from improvements that can be made when more developers use,"
+    publishedDateTime: 2023-07-19T05:11:00Z
+    webUrl: "https://mybroadband.co.za/news/software/500755-meta-launches-ai-language-model-for-microsoft-and-amazon-cloud-users.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/500755-meta-launches-ai-language-model-for-microsoft-and-amazon-cloud-users.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/500755-meta-launches-ai-language-model-for-microsoft-and-amazon-cloud-users.html/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 56
   - title: "Wall Street loves Microsoft’s hefty price tag for corporate AI products"
     excerpt: "Microsoft's announcement that new corporate artificial intelligence tools will cost $30 per user per month on top of what most business customers already pay boosted its stock price Tuesday. Microsoft jumped as much as 6% after providing details on pricing for"
     publishedDateTime: 2023-07-19T00:37:00Z
@@ -640,15 +642,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
-  - title: "Microsoft rises as UBS upgrades, citing stabilizing cloud spending, AI catalysts"
-    excerpt: "Microsoft (MSFT) shares rose 1.5% in pre-market trading on Friday after investment firm UBS upgraded the tech giant. Read for more."
-    publishedDateTime: 2023-07-14T11:41:00Z
-    webUrl: "https://seekingalpha.com/news/3987638-microsoft-rises-ubs-upgrades-citing-stabilizing-cloud-spending-ai-catalysts"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 29
   - title: "Meta partners with Microsoft to distribute next-gen LLaMA 2 AI model for commercial use"
     excerpt: "The new family of large language models, called LLaMA 2, is the next generation of Meta’s AI research into generative AI. These AI models are capable of understanding human speech and responding conversationally, as well as producing research, answering questions, writing poetry and generating computer code."
     publishedDateTime: 2023-07-18T18:14:00Z

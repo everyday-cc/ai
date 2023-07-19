@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-19T01:32:00Z
 originalUrl: "https://global.chinadaily.com.cn/a/202307/19/WS64b730d4a31035260b817322.html"
 webUrl: "https://global.chinadaily.com.cn/a/202307/19/WS64b730d4a31035260b817322.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img2.chinadaily.com.cn/images/202307/19/64b732baa310352610b927c4.jpeg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-s
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/07/17/musk-announces-new-ai-start-up-wipro-to-invest-usd1bn-in-ai-capabilities/?amp"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 800
     height: 480
     isCached: true
-
-related:
-  - title: "Wipro, which is hiring in NC, to invest $1B in AI, staff training"
-    excerpt: "Wipro, one of India’s top providers of software services which also is hiring in North Carolina, wants everyone on staff to know how to use artificial intelligence. Here's what's happening."
-    publishedDateTime: 2023-07-14T11:50:00Z
-    webUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/"
-    ampWebUrl: "https://wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/14/wipro-which-is-hiring-in-nc-to-invest-1b-in-ai-staff-training/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/12/artificial-intelligence-g85614e566_1920-e1672408920584.jpg"
-        width: 1881
-        height: 1060
-        isCached: true
 
 secured: "pnZHYqJdbc+1X+nFPpHDHTKVmQyCaEPnxBAt9K+kPa4lJPQub8m87a5nvejebfG6bJM/PPX2HlU8tPUM9n7xc548BgdRAMoCB+eSuptM2GCViooTjiZHc9UKljPOyOW24opqaQEVs4cXAbZvMUZBc5MVaavqnFOnEhK2FTM4GAjYBXWqzQv1/boRSX3vm6m4HQNj6xPYMUm7WoAfbjrL3TfNYv3mM7BCaTrV1rjr5yTaJg87M0J2kXCaq5sUrlkSmdmFrU8azOpubEfJaljf4Os72XZg7y99ZHe8V39PWZX75DxrP7kBWlkh2DxOAYMGSFVR05fWEVNTHOVYaz5CBYVz8Ax2pIQbbkfQE4/RtxPB3HA9wDxMO5afdQLWjt964rE2QLeGGjjkDD1HaaCgTGiUGg8JnuJv9pHsvwlQD2y6w+NWF6lEKXGMy4utQUdE8LBWDuSZyUory62vkI1PEeqFjoITDwrqRFoK3Y81tXV6xpmN789FaxW9JXwEMuKzCwfEW+mogLpj6B5nVo/rDQ==;+XJXtrkhJ2yqabbv8P5xWg=="
 ---

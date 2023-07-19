@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-excerpt: "Meta used the acronym LLaMA, for Large Language Model Meta AI, to describe the first version of its model, announced in February. It’s now dropped the capital letters for its second version, Llama 2."
-publishedDateTime: 2023-07-19T02:53:00Z
-originalUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-webUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-ampWebUrl: "https://www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
-cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/?outputType=amp"
+excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+publishedDateTime: 2023-07-18T22:01:00Z
+originalUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: KKTV11
-  domain: kktv.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
-  - Microsoft AI
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/sbXv70yqE7wGiiySMZ6vJKay1GA=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/UPVY5MTDARHCHEFZAG46VWL7GY.jpg"
-    width: 800
-    height: 450
+  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/b97a2bb7-2255-49be-81c7-cd00198ba40f/thumbnail/1200x630/8fa8182596b299afef316114648f9f32/9b36e8d006fafd1e651176d6010dec18.jpg?v=ed1888effc334856324ceac60c145559"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -62,13 +62,13 @@ related:
   - title: "Facebook parent Meta to make ChatGPT rival Llama public"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T22:44:00Z
-    webUrl: "https://www.wcvb.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    ampWebUrl: "https://www.wcvb.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    webUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    ampWebUrl: "https://www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
     type: article
     provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
+      name: WTAE-TV
+      domain: wtae.com
     quality: 44
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
@@ -141,6 +141,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "BCi/OVfc3KsL/hCcxpDfFSba/AWC2gGOOobR3Cl9ClPG34G1AelxhQuczyt9/0t7WZqhVj31GeVSmpPk5P6+i9Ylk6YcUFwEuuuZ8DxLA6Q9JcPUh7t0mPBSFlY0K/ZFlVGPW3BDfMq7IUWR+HWRMtB5pch853SlkESLCzZNb6+42who6emVeTlb7sPxbAOjpn3zVFuKhg6PSZgHhFW8giheGKTOeBWlpTZfFLaTtINQWh0zl0OSCM8iz0gUBC26ALknH+A4TuJa5JIUggiAFhEFyI/AJv9ek9itdjBVFhEHTT3Eo9FVVgt8FsDyp9dpqemgsKedrZTfpuc+7CQI6WgzyfeChCe4QBbIVSu5hVE=;LItsJshL5ZeiUR4Bgj+DiQ=="
+secured: "mUDPGnNQE/x6yoXVK2W8gx7oh/nzd4Oe96f4MSJWCH2ek2keYjmZCBVBpKKW9dPABz4cYBJnDE4s2VIiMc7+IPtrWENUTsP2waTw2OVDll7jzCp5LnH2xaHM1budZG4Z6euf6k7M0uwZlZzkuaQX1I2gg1IfGHu33nrOlRs7y/s27d5BYjM1UAcgUAqQW3A9rA2VeU1C1XaxFvMiaL+e6ayB/Z0taMFhBB4lXKD9Ml31hJm/NglZaRg/JQR1u/QaaAytFyu1y4e9E61uRkxyknmi3L7hmw8ddEKOiiuMX2GZYFtElYUBin4VVxMDuDWf02WK9KUPjnQBFcpAIVTToodqdeBifkVDLTxSivIta10=;dq/DHIjYWcrsW/lEM2hsWw=="
 ---
 

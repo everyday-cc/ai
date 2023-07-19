@@ -7,7 +7,7 @@ originalUrl: "https://wusfnews.wusf.usf.edu/2023-07-17/thousands-of-authors-urge
 webUrl: "https://wusfnews.wusf.usf.edu/2023-07-17/thousands-of-authors-urge-ai-companies-to-stop-using-work-without-permission"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "James Patterson, Margaret Atwood, and 8,000 other authors want AI companies to pay them for using their works"
+    excerpt: "\"Generative AI threatens to damage our profession by flooding the market with mediocre, machine-written books, stories, and journalism based on our work,\" the letter reads."
+    publishedDateTime: 2023-07-19T05:25:00Z
+    webUrl: "https://www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/64b750641ccd1e00198ab8f5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "fohrFFIZIH/BnnAtR+Rba4JuBhtZYjFxY1uCz9C8lM21qWsCVrMgpiDh3nDGSvB/RgGf8E4qBnQDFnQnBZHOrA37d7jmkxA33yGHHMw0+ZBFw9jaRvdG523+OQN492StQYnc1TrWKIdgqZHEyQq3EAzRQqiIfPBHRVMtUcaHtvcI0yOhSAlMJFCdND3lb3w47SYR4DMM5Hu00BRQtuXFfVshTfaJ5cV6R1w0WUiWTVmkHgzgp1/HCriC++t0dwSUOaKUPm388G/8Jg1I50BcVs7RtYbF6kZrR8Fg89UJ+WJqna2WMP2Cbnr5cSu+4rApNlF33A62Rorh9Ve+L2Y0yqTxKaEZF73JeQVN25znIVI=;SADRMIn6I/vMwOQOqjcdYQ=="
 ---

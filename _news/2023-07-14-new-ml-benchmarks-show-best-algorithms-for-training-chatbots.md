@@ -120,20 +120,6 @@ related:
         width: 879
         height: 494
         isCached: true
-  - title: "Indian startup fired 90 percent of its staff, replaced them with an AI chatbot"
-    excerpt: "CEO of an Indian startup gets called heartless and insensitive after he lays off 90 percent of the company's customer support staff and replace them with an AI chatbot."
-    publishedDateTime: 2023-07-14T12:03:00Z
-    webUrl: "https://interestingengineering.com/innovation/indian-startup-fired-staff-replaced-ai-chatbot"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 33
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/14/image/jpeg/HdGuCtkRWMdQDpbu6Vp8AZzW6cFE1gwlqPCJxjAm.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google’s AI chatbot is trained by humans who say they’re overworked, underpaid and frustrated"
     excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes."
     publishedDateTime: 2023-07-17T00:24:00Z

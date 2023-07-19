@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/five-way
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/five-ways-ai-could-revolutionize-e-grocery-commerce-in-2023/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "ChatOMG: How AI Can Revolutionize Coding"
-    excerpt: "Although real, modern-day AI innovations like ChatGPT are less authoritarian, people today are understandably still wary of AI's risks and challenges. However, its true capabilities serve a much less scary purpose."
-    publishedDateTime: 2023-07-14T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/14/chatomg-how-ai-can-revolutionize-coding/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "CZIkGqYoWuQp2NcSsF50uOM2viK6bo7cnzcZv88CHkGMJdETZhuyLYSyd6u8MprnegyY5BmIpDV6/Vwe3PABUXhkNZ4ak7bCtLctnzNNSvqQdYHjcpLCiTrOPk854xuslsSxTeQM3Z2N68iDUM+BFL1u4LETMAS0ybXr38wyh0RSf/ySQkyMw41dII4WxU4inGgiwU/1mkFSBFoaHVr126DIT116BO67Vj3BxPEMnptbQcl74/oNyBFryrOe7JY8JUpqvnuokWb3Q/qodQHYBpsn3WFvaT4oZPeyCYHd8xEsXgccOTeWxKvxhq/sDI+//GbW6AvbzFCeq6tuuEvKiCsWQZ2wv6xeH4j0uhERrATfBLMjQQ6lTmAWv4uCuPXC9b/LhWGc8xAx29obKnoSfhPLX8hU16bhEM6QMoiBGZjOjETZ/2Arpftmn/Fa+rF1Ss39X+EYbu6rCAzh6xsALDf5/l3V8lsCtMBSSdiDKLXuVAv82AFR1bynihvu/hAPmCYPsRI5iSnrt1WSXMwrAg==;U1r++v/B8Ch16EInHHaIAw=="
 ---
