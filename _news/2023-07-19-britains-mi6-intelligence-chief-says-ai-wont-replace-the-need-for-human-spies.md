@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Britain’s MI6 intelligence chief says AI won’t replace human spies"
-    excerpt: "PRAGUE -- Artificial intelligence will change the world of espionage, but it won’t replace the need for human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
-    publishedDateTime: 2023-07-19T07:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "U.S. intelligence chiefs plan for a future where every spy uses AI"
     excerpt: "U.S. spy agencies are preparing for a future where all of its analysts and spies use artificial intelligence to augment their work rather than rely on traditional tradecraft."
     publishedDateTime: 2023-07-14T21:53:00Z
@@ -53,6 +37,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Britain’s MI6 intelligence chief says AI won’t replace human spies"
+    excerpt: "PRAGUE – Artificial intelligence will change the world of espionage, but it won’t replace human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
+    publishedDateTime: 2023-07-19T11:41:00Z
+    webUrl: "https://www.click2houston.com/news/world/2023/07/19/britains-mi6-intelligence-chief-says-ai-wont-replace-human-spies/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/S5P4EMZOQZHDFGRN3UGY7I2BV4.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "Q+QJ0Yqn4UnjJM+7eYEUMqunV0o5/kxKJWOnr5MwAGZXfp6L7X5RSZF4uE8WYRMPMo42IznwK5IdjSlSarUAHA9t38N1fDF90DxLiSAy7+OtYZNwIBdC5jIY+CfP9uxoN3g1qua5XGTJmulSCJK9WQWcQAnceCusUIQKNlVlRyKUrkgkPiCYyEp6anGRJkLfB4nj8mgfnvZAnYeP6OiU6KOva8BHEXJ9lMfO0uAzuL+kJfIa5ezo1+A6o4c5+UVtVW+gOYPgW/B5Kb3yfwhTa+0LeM67r4av347lnS+CLKo6h24MxQi+XG0sSDGAy3X/EuTiEO3jQoUCVFlxyam1UuVrEm6jWsM5f0bDLiD6TrU=;3fmxceRB+G430FgWbw7eVQ=="

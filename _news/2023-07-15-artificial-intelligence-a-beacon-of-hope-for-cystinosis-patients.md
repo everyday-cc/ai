@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-a-beacon-o
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-a-beacon-of-hope-for-cystinosis-patients-212696-1.htm"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "AI-powered drug discovery offers hope for cystinosis patients"
-    excerpt: "Artificial intelligence is becoming increasingly important in drug discovery. Advances in the use of Big Data, learning algorithms and powerful computers have now enabled researchers at the University of Zurich (UZH) to better understand a serious metabolic disease."
-    publishedDateTime: 2023-07-14T18:11:00Z
-    webUrl: "https://www.news-medical.net/news/20230714/AI-powered-drug-discovery-offers-hope-for-cystinosis-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "YU7a78pE4xPwjplQ8wkDGasHC2MLHvoF6h0SCujzFgn3D66ccem4T9VO/bME7yF3G+XKYeon7ypX+7LWlNERSGDt/XG+LKKcGd8Ja97cj93jKY3qH2A9ZLfLCweSzvT5/0dE9CO8YGFCfXpMzhQcwHB7FYEOVwaoC8k1OwKLuXiu4zV0jMQEh+A4wGG/lVKgWULO8jDVtHFvoafL2nhfzly2k/UE+aJZqLOEAaUmcjODDcQzRzS0aJyi8fmvnQQD8bFHQ4rfsoNtED9fbjLCMOYcFAaML0MSP3Sn+9Y+3FKeB/qhFAs/Ikjwtld9yyA0KxEDhu5hZYjY9Rp+/GmxMAzmE4NitYaXQJ/NgQ2eFCDrJ4qKl4COLqdTwru/DL8ECRlMtFP+O7j4ZcxvX5ubIjmcAcTNF1JT2FcbdprqfHPPy1hPuXljlquGW1XW+T06qv8NaCKuhC9qWK/Cv/wR1fQNQUP1CgW5kpFOs59ae5nHOTdQjBKfLaQSTtZogbW6L06R/VXkNQyZsqoK3FyONw==;5c2CdKOTah3QJHlNenVHKQ=="
 ---

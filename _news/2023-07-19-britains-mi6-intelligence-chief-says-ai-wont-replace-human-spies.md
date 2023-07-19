@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Britain’s MI6 intelligence chief says AI won’t replace human spies"
-excerpt: "PRAGUE -- Artificial intelligence will change the world of espionage, but it won’t replace the need for human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
-publishedDateTime: 2023-07-19T07:02:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-webUrl: "https://abcnews.go.com/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
+excerpt: "PRAGUE – Artificial intelligence will change the world of espionage, but it won’t replace human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
+publishedDateTime: 2023-07-19T11:41:00Z
+originalUrl: "https://www.click2houston.com/news/world/2023/07/19/britains-mi6-intelligence-chief-says-ai-wont-replace-human-spies/"
+webUrl: "https://www.click2houston.com/news/world/2023/07/19/britains-mi6-intelligence-chief-says-ai-wont-replace-human-spies/"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Click2Houston
+  domain: click2houston.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/S5P4EMZOQZHDFGRN3UGY7I2BV4.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -55,6 +53,6 @@ related:
         height: 630
         isCached: true
 
-secured: "meF0fVHZGe72W4VEo01CuT29JO50sFl+wmBbbgtpHZihsztAsrXzx5rVGbKSxX/Iu3YMgJYGWl1PJhzUNpjNrb6s1xWbPk+ekbSL6k/1kU1KU7KSz8dSKUSuqeccGzX2ARZf/Q8FIh78EUWNRiWSeHleq+zHWeU05gF6BlAm2xmkEDgNk5hmDjL856PiPWNn67ejG3lBvsp18upwoDUUNWiKMVTIuIEPzDlYOAt1zl1qBL8WysfKostEKq7R/80tD7wMteraQKbbrMyKBPywVENZ+Goc/3pwR0kn3x53ywzyCjF6Z1dg+m71J1yIs+riYXmJ4JaF1qCMdwxhblqg6/X/ZkrXFdSBMKYJNMWwz4c=;5JGE7Kx9I5Tv0pItKeSAlQ=="
+secured: "e7X45maxrfZzx4L1QLfPmo8KLBG3NFbTLDHKgSMlapFldjZTmu8zwUc2t4+O5oBKzo/ABiYQW0kk2nvR3v984kMUUJY+WAsPfybZcZmdf9PzcNcaLfBpgA4XL6TTRafFkWvr0fNkR5O9KVNrpJoEkPsp1Pj5kRtI7nnuLZor60AKuGLRK6mLbsftgEIRXEPmRiaZvQQIkJNi/Uzbuj/yHcxOcK0VsnUIfl2z49GXLroPQ26bxGzhIlLQSHIIkEa2/KqAotYXSeFR5yA3TX0pB7faNCx2l+Zcqsa80ejqiJjPwq77n9rIdl03UBeglFeVGw5NdSFN/xJsYpCPBoqpXIKsrfvsokPPnmjM8ijhmco=;XwY0sDLKP7EZXO+rad0fZg=="
 ---
 

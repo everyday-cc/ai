@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-advanced-application
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
-    excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
-    publishedDateTime: 2023-07-15T03:49:00Z
-    webUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai"
-    ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 35
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_07_2023_03_50_41_7693228.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
 
 secured: "iWxoEylW1kUR+AglSxQAZfJXpuiQo1HNdEgOy4rlHwgTP5DYVNndyErYjoqGPujtXl4rXRTHmN3L7WSYWifhkp73oF2pTyfldq7OjhIeq4FulV/DLIe75lmYvq6fRMUjrGbB9k+0X6ZmQ11WeDls0s45z6pUb8M842dD8oqX12hEJe6mXQg6pcifNVP3vgvRoQB72D1IqD1ccLjbX9i2mRDEmMRkM6inbQ8pRkKRwVnXndN8Pu/6XfCtN14gV5m1Qmxp+97d+II8681OXwGrZ2hVKm0lHjSXH6aQTpgsirqHaKGovAM/46XdLGJ5OKxnz4F/pM3B7C2fFqclHqNsI5oXh5NTqN7Jn6s/VMZBjm2SQchJ81Iy45e9oPox03OOFFN3aY8khdW0VvZ3xhoqSDzTT8rCJd4/9a3yfCFjqEUj1P3V6P6W2APkB7tHsSEUgWrX7NRJS9r5HGUIRBCfSmvgygXGucX8VohMB8Ih2eqJ9d9bXDjQkTr+vEdz+VssKHpcWPQSNiuk5flEC/2uIg==;Lrqp3olaOz6LO/cwYRq7ZA=="
 ---

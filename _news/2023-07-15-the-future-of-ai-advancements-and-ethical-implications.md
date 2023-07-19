@@ -27,38 +27,56 @@ images:
     isCached: true
 
 related:
-  - title: "Actors vs. AI: Strike brings focus to emerging use of advanced tech"
-    excerpt: "SAG-AFTRA has joined the Writer’s Guild of America in demanding a contract that explicitly demands AI regulations to protect writers and the works they create."
-    publishedDateTime: 2023-07-15T01:42:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/hollywood-actor-sag-aftra-ai-artificial-intelligence-strike-rcna94191"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94191"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191"
+  - title: "Application Of Artificial Intelligence For Implementing Work Tasks"
+    excerpt: "According to the IDC report, global spending on the artificial intelligence (AI ... people and actions in images and videos in security systems and self-driving cars. • Data Analysis: Used to predict future events and trends in marketing, as well ..."
+    publishedDateTime: 2023-07-19T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-LA-sag-aftra-members-ac-940p-b6307d.jpg"
-        width: 2500
-        height: 1664
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b695ca0ac602a9705f1dc3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Hollywood actors join writers on strike, demanding higher pay and AI protections"
-    excerpt: "In Hollywood, SAG-AFTRA actors joined the Writer’s Guild of America on strike after contract negotiations with Alliance of Motion Picture and Television Producers collapsed, demanding higher pay and AI protections so studios can’t use their images without permission."
-    publishedDateTime: 2023-07-14T23:21:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/hollywood-actors-join-writers-on-strike-demanding-higher-pay-and-ai-protections-188510789532"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188510789532"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188510789532"
+  - title: "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform"
+    excerpt: "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management"
+    publishedDateTime: 2023-07-17T16:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hoot-launches-ai-integration-on-its-myopia-management-marketing-automation-platform-1032451921"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 82
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+  - title: "IATSE Unveils “Core Principles” For Application Of AI In Entertainment Industry"
+    excerpt: "The move follows the union’s creation of a Commission on Artificial Intelligence in May. “With AI , the stakes for IATSE members in all crafts is high,” said IATSE president Matthew Loeb."
+    publishedDateTime: 2023-07-15T05:47:00Z
+    webUrl: "https://deadline.com/2023/07/iatse-union-artificial-intelligence-core-principals-hollywood-ai-1235430492/"
+    ampWebUrl: "https://deadline.com/2023/07/iatse-union-artificial-intelligence-core-principals-hollywood-ai-1235430492/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/07/iatse-union-artificial-intelligence-core-principals-hollywood-ai-1235430492/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 55
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689376796115_nn_dgr_actors_join_writers_on_picket_lines_230714_1920x1080-ugxzy1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://deadline.com/wp-content/uploads/2023/05/iatse-2.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Proliferation of AI agents raises fresh worries"
+    excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
+    publishedDateTime: 2023-07-17T19:45:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/07/17/proliferation-of-ai-agents-raises-fresh-worries"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
 
 secured: "bhZWXLd/e0gvVZ3hEUDIi+TGOgu9oEKAK3IlgXWQEg4qXBTDi6aKSEMG8Iq5FzlJmcnDgec29IMvdLtIqPGrvZkF1QWr4PeIzSCA1JMP/Osa+dIdm2l7HeNsKLSUEFHlhaJKff34xl5rU6Uhgz1CbFFei2Cum2lJyxGc8lD8OTQ1q707d2qkNjoDQxqowUJ9ZU5T0CbNWsXgAjh/82qlZFjwMi1DXFpxexPGvnHnYkWAnOyCcvMGhbO+ZJB+jjuxlPkW+Z5LnbYZLibfTtejQrhjCmSPgV6+3P5slpUBZ81hCDjvJgipAdDO3NzYqLMYBU2KLBhmLuV0hxUmqxkaG3L7NZ+Nz9kQ4jzLHmZ4j2o=;+9yyF+ltcfctRClQb2XZtw=="
 ---

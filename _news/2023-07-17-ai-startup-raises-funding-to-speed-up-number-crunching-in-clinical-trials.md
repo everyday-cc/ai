@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Insurtech Startup, MyCover.ai Secures $1.25M Pre-Seed Funding Led by Ventures Platform"
+    excerpt: "Nigeria-based insurtech startup, MyCover.ai has today announced the close of a $1.25 million pre-seed funding round, led by Ventures Platform."
+    publishedDateTime: 2023-07-19T11:23:00Z
+    webUrl: "https://pctechmag.com/2023/07/insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding-led-by-ventures-platform/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 29
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2023/07/MyCover-Founders.jpg"
+        width: 1735
+        height: 1200
+        isCached: true
   - title: "Establishing the Self-Driving Clinical Trial"
     excerpt: "What does a self-driving clinical trial look like and what does it mean for the industry? Explore the ins and outs of AI in clinical development in this article.<br /><br />"
     publishedDateTime: 2023-07-17T00:00:00Z

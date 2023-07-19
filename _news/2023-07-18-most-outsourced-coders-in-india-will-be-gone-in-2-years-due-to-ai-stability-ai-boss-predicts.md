@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html"
 type: article
 quality: 77
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 13
+  - title: "Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    excerpt: "CSE:PMED) Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    publishedDateTime: 2023-07-19T11:34:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/07/19/predictmedix-ai-unveils-cutting-edge-contactless-integrative-ai-solutions-for"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "ZjiIeOhZQD++bhDeZ8mi+BXb62e8D8Tk9qB6HDOuUCnqRWtk0WK+90HT1HphdBj5t/bZOrjPc2BbGHjnEk0Ynx4iCgvyH6Vl3H7GLBGMai31fkrt1kEFQzoN3EUIsQlMX4iJcBEp66TJ0OWtnj007SI3qKUHm1juo+itS1VxPpJTjqczsYNlZWEaiGIQqITcGT6pImvvYH8fgzNIZUIVYaQWdovNfgM4mWOAkNIz3siewR3AKRWMAzMKykT8idZzQ+4rxtYGrzqfvMfg6GvUsDCx+cPcS+zIIuwFsG8oaM0yIWkcjTyiVqzoijzyygWv1Z8IKBTmU0TRsmRpY6Af/bDfRiDgRz5TzrSKZzGG2qk=;sCB9vvjQAM3ZEyqSDJdWaQ=="
 ---

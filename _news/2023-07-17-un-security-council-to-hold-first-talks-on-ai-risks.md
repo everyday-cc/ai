@@ -101,7 +101,7 @@ related:
     provider:
       name: pna
       domain: pna.gov.ph
-    quality: 17
+    quality: 19
 
 secured: "FisHEytwrhBtEzVI+iRv7cSJOW7X3ohtLRYPtH+pcDONy+WI97cWklvjKJI5DuEwaPodiZ0arfInL2f2wVgWQfhRZm308wvKOhi1PmbSmJ0vNfQHrGllReEacEIR50bJGfncjqh8Mo3dpqRFUu6wwV/ha+EKtDMDvE7F/P+NyqCIBjacl7XIAw4MXAl9C6So/+IQrbmTwfUMwL4f5coF7OaRS60UEkKkW/M4f/Wv3GtYZ+KCAB9CtEWjHUebUDJtpLsXEzR8KN/OhUfhFWit0xt0SNHq9u+zK196NPhE2oIAvLCvJBh6/fsoiDqIT3JdTF+J2wcgWutvMM3sj6qdZnoSen0q8rOGVrvv9mzQzWl/Q8bvUGb0ZNYaCnasVD+3MaVojFrQsNPFRjXk/pP2cdSv7no5uqLa8uJKNn/k/WoI4gCsX7flJ3bjwmV7z5bM/Yh3gkmd7GCPVun3dnpJ4QCRc5NPH9OnfqLNa+RLH4sQksz+PVC0iE8hewESF/vvE2aE7nSPVcW0pqz5MVE3Zg==;YrQYxuDIc+jEeJIHjuXhRw=="
 ---

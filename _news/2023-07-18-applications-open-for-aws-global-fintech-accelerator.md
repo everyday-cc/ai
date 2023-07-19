@@ -175,15 +175,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
-    excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
-    publishedDateTime: 2023-07-14T17:46:00Z
-    webUrl: "https://www.finextra.com/blogposting/24551/fintech-disrupted-the-financial-industry-now-ai-is-disrupting-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "Africa’s FinTech Outlook: Opportunities and Challenges"
     excerpt: "Spread This NewsIn many countries, the fintech sector is seeing considerable growth. According to a new study, the fintech market in Africa is projected to reach $65 billion (₦50 trillion) by 2030 — a 13-fold increase over 2021."
     publishedDateTime: 2023-07-19T03:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 type: article
 quality: 119
-heat: 629
+heat: 649
 published: true
 
 provider:
@@ -240,6 +240,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/mark-zuckerberg-microsoft-chatgpt.jpg?quality=75&strip=all&1689685038&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Meta’s Llama 2 Joins The AI Race In Collaboration With Microsoft"
+    excerpt: "Meta has unveiled its Llama 2 Large Language Model for businesses and researchers as an open-source AI model for commercial use."
+    publishedDateTime: 2023-07-19T09:20:00Z
+    webUrl: "https://beebom.com/metas-llama-2-ai-model-announced/"
+    ampWebUrl: "https://beebom.com/metas-llama-2-ai-model-announced/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/metas-llama-2-ai-model-announced/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 74
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/07/Met-unveils-Lllama-2-as-commercial-AI-model.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Microsoft and Meta announce Llama 2 open source generative AI tool"
     excerpt: "At Microsoft Inspire 2023, Meta and Microsoft announced the availability of Llama 2, the latest version of Meta's open source large language model, on Azure and Windows."
@@ -650,6 +666,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Microsoft puts a price tag on AI for business"
+    excerpt: "Microsoft announced Tuesday it will charge $30 per user per month for businesses that want to use its AI-infused copilots to automate work in Office products such as Word, PowerPoint and Excel."
+    publishedDateTime: 2023-07-19T10:00:00Z
+    webUrl: "https://www.axios.com/2023/07/19/microsoft-price-tag-ai-business-office"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 34
   - title: "Microsoft unveils pricing for 365 Copilot, its generative AI assistant"
     excerpt: "Microsoft 365 Copilot, the company's generative AI-fueled productivity tool, will be priced at $30 per user, per month, the company announced Tuesday during its annual"

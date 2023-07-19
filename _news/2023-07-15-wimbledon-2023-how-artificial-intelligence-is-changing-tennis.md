@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/sport/av/tennis/66183190"
 webUrl: "https://www.bbc.com/sport/av/tennis/66183190"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI on the Path to the Finals: IBM Serves an Ace by Bringing Generative AI to Wimbledon"
-    excerpt: "New IBM AI Draw Analysis and AI Commentary features are here for tennis fans enjoying their Wimbledon experiences."
-    publishedDateTime: 2023-07-14T17:42:00Z
-    webUrl: "https://www.techzone360.com/topics/techzone/articles/2023/07/14/456474-ai-the-path-the-finals-ibm-serves-an.htm"
-    ampWebUrl: "https://www.techzone360.com/topics/techzone/articles/2023/07/14/456474-ai-the-path-the-finals-ibm-serves-an.htm/amp"
-    cdnAmpWebUrl: "https://www-techzone360-com.cdn.ampproject.org/c/s/www.techzone360.com/topics/techzone/articles/2023/07/14/456474-ai-the-path-the-finals-ibm-serves-an.htm/amp"
-    type: article
-    provider:
-      name: Tech Zone 360
-      domain: techzone360.com
-    quality: 31
   - title: "DAC 2023: AI and hardware talent dominate debate"
     excerpt: "Industry is concerned about shortage of talent to address the chip design and manufacturing needed to address the explosion in demand for AI."
     publishedDateTime: 2023-07-18T06:36:00Z

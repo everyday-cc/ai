@@ -77,6 +77,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    excerpt: "CSE:PMED) Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    publishedDateTime: 2023-07-19T11:34:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/07/19/predictmedix-ai-unveils-cutting-edge-contactless-integrative-ai-solutions-for"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "y0YAUIvW2mAgM+Xw5yvTZP60EHP47CtcW+4CNA7NSa+1ePVOrhIi46uemugXZva5/QY6sRO3f3P6PpUcWxWLQsSVL0Gye70rmdfBjeDWcXwj9p1ykLxrAJgZD0GnXqOZEcQNssPRaY/ozTH0WSAdhWwc/Es+M98N7SbELcR3iOEj0eeYXNR2sGIXTq6GVZ/kXKBicouPUucDUQdACcY4yELxld13DRZJvxZ6osy1Aqy7bHcqFmS2ZfjRnNKCxDlICNCGOBH1WPpKvB/NZQcWaAQO0mBIODqROU44PJyFnIFlAixJN5ad65N73wCgYZhnBHJkBy2M/ZKBe2NlUb8lNOfXlzxob1TAj8Bh0Q4Swc4=;cQEnJCLVrYTXB7XzPCcGkA=="
 ---

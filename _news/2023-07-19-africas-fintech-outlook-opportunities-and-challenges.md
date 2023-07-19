@@ -182,15 +182,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Fintech disrupted the financial industry; Now AI is disrupting fintech"
-    excerpt: "Finally, AI technology has now advanced to the point where it can be used to make better decisions about a consumer's creditworthiness based on more than just their credit score. Of course, much more disruption is in store for the fintech industry as AI  technology continues to improve."
-    publishedDateTime: 2023-07-14T17:46:00Z
-    webUrl: "https://www.finextra.com/blogposting/24551/fintech-disrupted-the-financial-industry-now-ai-is-disrupting-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "Cyvatar Joins Mastercard's Start Path In Solidarity Program to Empower Underrepresented Fintech Founders"
     excerpt: "Cyvatar's participation in the Start Path In Solidarity program further solidifies the company's dedication to fostering diversity and inclusivity within the fintech industry. By collaborating with Mastercard and like-minded organizations, Cyvatar aims to make transactions safe, simple, and accessible for everyone, everywhere."
     publishedDateTime: 2023-07-17T13:37:00Z

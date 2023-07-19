@@ -89,6 +89,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Generative AI, meet the contact center - the latest silver bullet to kill off the traditional operating model?"
+    excerpt: "There are other ways that customer experience can leverage generative AI, including chatbots, and language translation, suggests Michael Ringman, CIO of TELUS International. TELUS International is a spin-off from TELUS focused on serving customers across several business lines, including many customer experience capabilities."
+    publishedDateTime: 2023-07-19T10:49:00Z
+    webUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model"
+    ampWebUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 39
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/call-center-gfb4b76c60_640.jpg"
+        width: 640
+        height: 512
+        isCached: true
   - title: "Indian IT services firms doubling down on generative AI applications"
     excerpt: "Indian IT firms are doubling down on GenAI, with TCS, Wipro and HCL Tech keen to show investors their commitment. TCS plans to create a talent pool of 100K trained associates, Wipro will invest $1B in AI capabilities,"
     publishedDateTime: 2023-07-15T12:53:00Z

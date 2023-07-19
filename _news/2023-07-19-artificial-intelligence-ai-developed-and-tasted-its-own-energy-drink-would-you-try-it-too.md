@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence (A.I.) developed and tasted its own energy drink: would you try it too?"
-excerpt: "Let's take a moment to remember some of the significant milestones and inventions in the history of food and drink: the world's first food delivery (1768), the refrigerator (early"
-publishedDateTime: 2023-07-19T09:52:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1334978&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1334978&cat=PR News Wire"
+excerpt: "Picture this: an Artificial Intelligence (AI) that not only designs a drink but also carefully selects its ingredients, formulates the complete recipe, and even tastes it"
+publishedDateTime: 2023-07-19T09:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33279745/artificial-intelligence-a-i-developed-and-tasted-its-own-energy-drink-would-you-try-it-too"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33279745/artificial-intelligence-a-i-developed-and-tasted-its-own-energy-drink-would-you-try-it-too"
+ampWebUrl: "https://www.benzinga.com/amp/content/33279745"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33279745"
 type: article
-quality: 27
-heat: 27
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2157309/HELL_ENERGY_AI_production.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -35,6 +36,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "gSynkjAcGwnP7vqXmONB6QJE11dKCCKaNf72yB8SqykzyFySmiKIQvt6TaiTize2lriCPeltBD788EWDA6MQxLUnU5PlIZajvWVYSHRuIktESOKWxS1YmetTKpgpXNO3hxh8ZU3B8RMPZzJApKQ3Rc+fg5XhACoZQQhArOep1EiFWr+zf6yxXPlsE3fF5fRiF9NQQo+Yj4/8qyNwzNc+1Ml86RwoE3dwxRTaDRrt1Is3RARJFol/sOw/Wev3zmHVXBxNEoyPGGrhD/KCPSBzjq6cGAF0WLKQGuOY6Q6xqgj/veIGxG9ryNpknSkjDN/uqQ+p/rxuarZtO4RNj0yaF89QaI+UT1/XfBbl4hVTA34=;yPU3jVrIdLQb3f3VOAXmhA=="
+secured: "HzZWFVNBsGD/twwRBv7prdbbjFjq+KxBThQ0AFf6SZYYdfllJH/FeDEBI8Ycjv6BI+lwX2eM//lyxBp1FquzxJeqomiY8f4KI8sSehFDu6LihDpEAnFCvdhCPM17rOI8MMnqNlib6HcBN+ORGHLGkG9hnth5UTc6CyCBHNu3AqN4BSzrSGsOAND2qEakA87lO09L69VTNQ/Wl2eDQO5A9t3iEOlRMjw28cxdUuaJlQsCR0g+ckVPYea5V8X1U4KhRtU533dCMi0pAjNz0kNqcfihKzU6+Pc3fq94VUmqaDtQIcmHT/vmr6g4WfWEkzJEFx7NB9WAfDPSF42Cwytvbi3bsbgLEW1ByPIydX+T8y0=;Dl3Bsr3Pv1y+CMCjD5BVZA=="
 ---
 

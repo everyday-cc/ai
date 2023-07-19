@@ -43,6 +43,17 @@ related:
         width: 4695
         height: 3017
         isCached: true
+  - title: "Indigenous voice to parliament: Prominent campaigners stand up to be counted"
+    excerpt: "Prominent campaigners in favour of the voice to parliament, including Indigenous Affairs Minister Linda Burney and Indigenous leaders Noel Pearson and Thomas Mayo, gathered at Sydney’s town hall on Wednesday evening for an event organised by the City of Sydney and hosted by Stan Grant in his first major public appearance since stepping down from the chair of the ABC’s Q+A."
+    publishedDateTime: 2023-07-19T10:29:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 36
   - title: "Voice to Parliament: Yes campaign set to submit its case for referendum pamphlet"
     excerpt: "The Yes campaign for the Indigenous Voice to Parliament has consulted across political parties before submitting its case for the referendum pamphlet."
     publishedDateTime: 2023-07-16T21:49:00Z

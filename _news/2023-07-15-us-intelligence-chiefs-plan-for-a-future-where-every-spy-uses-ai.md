@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtontimes.com/news/2023/jul/14/us-intelligence-c
 webUrl: "https://www.washingtontimes.com/news/2023/jul/14/us-intelligence-chiefs-plan-future-where-every-spy/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,18 @@ images:
 
 related:
   - title: "Britain’s MI6 intelligence chief says AI won’t replace human spies"
-    excerpt: "PRAGUE -- Artificial intelligence will change the world of espionage, but it won’t replace the need for human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
-    publishedDateTime: 2023-07-19T07:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/britains-mi6-intelligence-chief-ai-wont-replace-human-101471061"
+    excerpt: "PRAGUE – Artificial intelligence will change the world of espionage, but it won’t replace human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
+    publishedDateTime: 2023-07-19T11:41:00Z
+    webUrl: "https://www.click2houston.com/news/world/2023/07/19/britains-mi6-intelligence-chief-says-ai-wont-replace-human-spies/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 37
     images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/S5P4EMZOQZHDFGRN3UGY7I2BV4.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
         isCached: true
   - title: "Britain’s MI6 intelligence chief says AI won’t replace the need for human spies"
     excerpt: "The head of Britain’s MI6 intelligence agency says artificial intelligence will never replace the need for human spies. Richard Moore will use a speech Wednesday in Prague to highlight evolving"

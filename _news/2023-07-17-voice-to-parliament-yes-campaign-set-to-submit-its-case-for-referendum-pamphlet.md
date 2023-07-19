@@ -41,6 +41,17 @@ related:
         width: 4695
         height: 3017
         isCached: true
+  - title: "Indigenous voice to parliament: Prominent campaigners stand up to be counted"
+    excerpt: "Prominent campaigners in favour of the voice to parliament, including Indigenous Affairs Minister Linda Burney and Indigenous leaders Noel Pearson and Thomas Mayo, gathered at Sydney’s town hall on Wednesday evening for an event organised by the City of Sydney and hosted by Stan Grant in his first major public appearance since stepping down from the chair of the ABC’s Q+A."
+    publishedDateTime: 2023-07-19T10:29:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 36
   - title: "Australia news live: Anthony Albanese defends voice in fiery radio encounter with Ben Fordham over referendum"
     excerpt: "Photograph: Dan Himbrechts/AAP The prime minister, Anthony Albanese, has just spoken to Ben Fordham on 2GB Radio about the Indigenous voice referendum. Fordham repeatedly asked about why the government is not proposing constitutional recognition and ..."
     publishedDateTime: 2023-07-19T01:45:00Z

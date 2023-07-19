@@ -253,6 +253,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Meta’s Llama 2 Joins The AI Race In Collaboration With Microsoft"
+    excerpt: "Meta has unveiled its Llama 2 Large Language Model for businesses and researchers as an open-source AI model for commercial use."
+    publishedDateTime: 2023-07-19T09:20:00Z
+    webUrl: "https://beebom.com/metas-llama-2-ai-model-announced/"
+    ampWebUrl: "https://beebom.com/metas-llama-2-ai-model-announced/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/metas-llama-2-ai-model-announced/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 74
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/07/Met-unveils-Lllama-2-as-commercial-AI-model.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Microsoft, Meta open AI model for commercial use"
     excerpt: "According to a Microsoft blog post, the new free-to-use model enables developers and organisations to build generative AI-powered tools and experiences. Llama 2 will be distributed by Microsoft through its Azure cloud service and will run on the Windows ..."
     publishedDateTime: 2023-07-19T09:34:00Z
@@ -646,6 +662,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Microsoft puts a price tag on AI for business"
+    excerpt: "Microsoft announced Tuesday it will charge $30 per user per month for businesses that want to use its AI-infused copilots to automate work in Office products such as Word, PowerPoint and Excel."
+    publishedDateTime: 2023-07-19T10:00:00Z
+    webUrl: "https://www.axios.com/2023/07/19/microsoft-price-tag-ai-business-office"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 34
   - title: "Microsoft unveils pricing for 365 Copilot, its generative AI assistant"
     excerpt: "Microsoft 365 Copilot, the company's generative AI-fueled productivity tool, will be priced at $30 per user, per month, the company announced Tuesday during its annual"

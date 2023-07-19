@@ -78,6 +78,15 @@ related:
       name: moneycontrol.com
       domain: moneycontrol.com
     quality: 13
+  - title: "Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    excerpt: "CSE:PMED) Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    publishedDateTime: 2023-07-19T11:34:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/07/19/predictmedix-ai-unveils-cutting-edge-contactless-integrative-ai-solutions-for"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "eXcGMGM8O3MGiD1BL1dveE9d6DTm+7bfiNyDNVklU1BfJCgNh5tR6W0eryOjzHH+1/VQaCA5TBrMcxbzHKHgl32pqh9sVr6QiB6dVs6XMw99Kjhi8TURnOeLulXhaTReFb+wlA38MQVYV6I0IeSQTzwbBep2QeOgds43Vh/b/AjnghUZww4/Q49jXVLhwdTqu7cG1I7kwWQ2Bkxr+mN8X4NKUsbBgEX0DeydtrqGDLN1TM5YiSjZkqdzZ4mnT0X18DXSFtEc4M1WIUsdnUhyLtSR9L6OkvZUD59DkHtadrOaYuAujn+c4odE4ywvNEToI6VnEMRMZRUHy41Vjdn0f8m4y0Dhii9UDQTkZWPcexs=;gMjFhN1Df4Tm38awHqHX2g=="
 ---

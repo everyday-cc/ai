@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-19T04:57:00Z
 originalUrl: "https://www.pna.gov.ph/articles/1205926"
 webUrl: "https://www.pna.gov.ph/articles/1205926"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "UN Security Council To Hold First Talks On AI Risks"

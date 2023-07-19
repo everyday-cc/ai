@@ -20,18 +20,20 @@ topics:
 
 related:
   - title: "Artificial Intelligence (A.I.) developed and tasted its own energy drink: would you try it too?"
-    excerpt: "Let's take a moment to remember some of the significant milestones and inventions in the history of food and drink: the world's first food delivery (1768), the refrigerator (early"
-    publishedDateTime: 2023-07-19T09:52:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1334978&cat=PR News Wire"
+    excerpt: "Picture this: an Artificial Intelligence (AI) that not only designs a drink but also carefully selects its ingredients, formulates the complete recipe, and even tastes it"
+    publishedDateTime: 2023-07-19T09:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33279745/artificial-intelligence-a-i-developed-and-tasted-its-own-energy-drink-would-you-try-it-too"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33279745"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33279745"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 27
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/2157309/HELL_ENERGY_AI_production.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "q+1ApN6LLSWxQ4lQTyS/+h+G+FyMItuDx3QpYLrIcYFgZypv9+55BPuEIi2Cg/XKREQ8CXxpzO96FiISmMOHER6eH8e1LXEgFfDJN3nsdqfPUGA+93JKTxovDeCF8fc1+rsAsXlF8vWNvn9WNfiaXmpw7U1hecojJekrufvk8uh1XVkrQAc5d55pPDE7/UHuEajeUMnnGfBcIrKBFn589qLGlbkkP/FFHfwKXvoQK+QF0GR5PsBsej7C/3cfNB+S4eWOj54yvP/JGZq8R2jp7FVvkpRPAoBEB4BZBYqZbNtkazEYUSvJcHJfIZWRQJyVBErVskKmPnJ25DDLupxvoCFRHui22ScCoVIK4tCaHuU=;e5DWp2ar096Q6EBbw6iL5A=="

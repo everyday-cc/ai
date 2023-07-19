@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94191"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94191"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689376796115_nn_dgr_actors_join_writers_on_picket_lines_230714_1920x1080-ugxzy1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "The future of AI: Advancements and ethical implications"
-    excerpt: "Artificial Intelligence (AI) has become ubiquitous in the 21st century, reshaping society, industry, and individual lives. AI algorithms now possess an unprecedented level of predictive and prescriptive capabilities."
-    publishedDateTime: 2023-07-15T05:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
         isCached: true
 
 secured: "w+X8JmNSHIiR10Bw4TMdWlY3Pzq/B+A9hIKAV4NBlhir01Kafvkmz69VN15jD2I/bAOj1jmXPfm+vAIs30fxqcAtuynzO1gdD1Ps22C28hHCXIVgXuQ8rA4PF1BqaUm8XF0cJg8alRGEXK80FO07sslj7sDgOP0YOuHTsYaxfB5SSpafNLuYg/nXXlgq5wlMIceELNQAbBNSofYahxNArKh5d/Q3UiihIFMh9bBKvmQ3UBUGw3p6AKHs4IekMdMVYiJ8iqJHDznBFyqqUeeFTrtryyn4S/3QdeOQ610/4jZr3aAU8p7apgZRglnDcTF27HXqD61ig1lBkCDiNvWPaFfYticfIg7jXOyHAu47AbM+B/olDrT14LzFEGy8NJgg7A0SBT9H3E6zLpzfJ+S2MIrI6dfCSZ/Y/3vzLE2LBYD/uH7gxoVkYZ5GlSjQAHBXqNadzN7gC9oxGziMzWitSJtnUDf92SDGMWDCwQHPDXqo+ta1l3fzUlploaIxw6u+h+ZpAYpKk1vVfOXfdNGkuQ==;Oj9vl56B415QBBA4H79vDw=="

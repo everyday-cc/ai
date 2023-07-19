@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generat
 webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
 type: article
 quality: 99
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Generative AI, meet the contact center - the latest silver bullet to kill off the traditional operating model?"
+    excerpt: "There are other ways that customer experience can leverage generative AI, including chatbots, and language translation, suggests Michael Ringman, CIO of TELUS International. TELUS International is a spin-off from TELUS focused on serving customers across several business lines, including many customer experience capabilities."
+    publishedDateTime: 2023-07-19T10:49:00Z
+    webUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model"
+    ampWebUrl: "https://diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-meet-contact-center-latest-silver-bullet-kill-traditional-operating-model?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 39
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/call-center-gfb4b76c60_640.jpg"
+        width: 640
+        height: 512
+        isCached: true
   - title: "China unveils provisional rules for generative AI, including a licensing regime"
     excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
     publishedDateTime: 2023-07-17T03:56:00Z

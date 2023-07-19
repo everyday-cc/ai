@@ -42,22 +42,6 @@ related:
         width: 2500
         height: 1664
         isCached: true
-  - title: "The future of AI: Advancements and ethical implications"
-    excerpt: "Artificial Intelligence (AI) has become ubiquitous in the 21st century, reshaping society, industry, and individual lives. AI algorithms now possess an unprecedented level of predictive and prescriptive capabilities."
-    publishedDateTime: 2023-07-15T05:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
 
 secured: "+HVvfw6gbcVJD49H7D/4JNiC6RHmI+Dw/GtTSlyUzSIHExwUe1BinPwgwXMwE4IoJ9jwXlY/kSiy5t8mQajPpfv8rVlz/DlHjoZVRwf7ZZvd5pUmsEMwjD+rHCpzlp6TTqIEfO5pnfCSrcsU2m6kSJQqkdrtP+Usaqtt5o0xwiQn7p8s2+BvyuHMIRUQYcWzlmUcHYmzZuAGcPx7Gj2SmrC282X9WUCWZPvRubc8lvx2y6GRbE2V2z8+vIN2qTIrusNurH04DfIXjHpYg31OGElZtbDZmMJITcw3vJ7VgN8QWNmaUKZyAU61RvpZWfRgsXZMBcZFINEd6lMRKGTh5xszJtHdh1sqMsf8Ts+Q8c3zrORbyMsA6VdGZpLejvsXbAMCLJxWfVF8rlWwTjk3J2y5/phyhTYcsZPh96k16mfgcMijog/AavNWJkGb/ozkQQ1La4jXPLqlKJM3x4IMBF9S7sXuzrgOY7Gamat7S9OXhhlTAtFk2sVD75GpS1YweJCKoCUkA6gWR1phaSoZJw==;P80WuXV7ON2VrwQ7NcoYYQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.csoonline.com/article/646291/if-you-dont-already-have-a-
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/646291/if-you-dont-already-have-a-generative-ai-security-policy-theres-no-time-to-lose.html/amp/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: CSOonline
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
-    excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
-    publishedDateTime: 2023-07-17T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
 
 secured: "ZaZOuzIi9mm83b3gmY8bnPiKQdQj4qtsssIIioZkf013NLfTk7SSyXqwgHki+SeJteNBZTDurrTrEsJI0eu+LreeWVn7OCb7W67QHqljq96AUtHcUM9mrxYiFy2gcuJXW8P/Q/UzwwgQ9z5lGCFb8aDaC3K6Zdr10DbTo0dXZ1I9B2d8Se6c1GC8h50fcxiJV8+zLD2puvqAwL8dtjf+oeXaBGDvwQu/U6bJkGIaJVPP+NHTluCFQ2VdhCBaJl8kNWoiM0tob8GQSVMdRLExWls69/6XnMkCj0FeVUwLiTlaxVmC/s6YzJtx0JbxgWet8HyZeTpHKKSJlfFksQjRVzqZax6yJxAKpR1+ouLsOKU=;UazubvsZaIHp1XPMMO2gYA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-rid
 cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

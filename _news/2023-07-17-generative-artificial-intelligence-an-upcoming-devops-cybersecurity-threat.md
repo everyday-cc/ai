@@ -22,22 +22,56 @@ topics:
   - AI
 
 related:
-  - title: "If you don’t already have a generative AI security policy, there’s no time to lose"
-    excerpt: "Businesses are finding more and more compelling reasons to use generative AI, which is making the development of security-focused generative AI policies more critical than ever."
-    publishedDateTime: 2023-07-17T09:04:00Z
-    webUrl: "https://www.csoonline.com/article/646291/if-you-dont-already-have-a-generative-ai-security-policy-theres-no-time-to-lose.html"
-    ampWebUrl: "https://www.csoonline.com/article/646291/if-you-dont-already-have-a-generative-ai-security-policy-theres-no-time-to-lose.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/646291/if-you-dont-already-have-a-generative-ai-security-policy-theres-no-time-to-lose.html/amp/"
+  - title: "Artificial Intelligence Continues To Revolutionize Cybersecurity"
+    excerpt: "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ..."
+    publishedDateTime: 2023-07-19T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/07/shutterstock_402496765-100939558-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 683
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Cyber security on alert as WormGPT exposes AI’s dark side"
+    excerpt: "A new generative AI cyber crime tool, WormGPT ... indicating our commitment to adhere to the Code of Ethics for Print and online media which prescribes that our reportage is truthful, accurate and fair. Should you wish to lodge a complaint about our ..."
+    publishedDateTime: 2023-07-18T13:55:00Z
+    webUrl: "https://www.itweb.co.za/content/WnpNgq21OxaMVrGd"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 36
+  - title: "India, France commit to further deepening cooperation in digital public infrastructure, cybersecurity, startup, AI"
+    excerpt: "The two countries have recognised the rapid advancement and transformation in digital technologies and have agreed to harness their respective strengths and philosophical convergence in their approaches to digitalization,"
+    publishedDateTime: 2023-07-15T03:49:00Z
+    webUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai"
+    ampWebUrl: "https://www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2524017-india-france-commit-to-further-deepening-cooperation-in-digital-public-infrastructure-cybersecurity-startup-ai?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 35
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_07_2023_03_50_41_7693228.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "3 emerging threats to healthcare cybersecurity"
+    excerpt: "Emerging AI and large language models, ransomware groups, and software vendors pose a threat to the healthcare industry, according to a new report from Trustwave."
+    publishedDateTime: 2023-07-17T18:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/cybersecurity/3-emerging-threats-to-healthcare-cybersecurity.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "jvRncEjPVW7Sp78jvag6ggkAFWSZK+ZKOXaTmwne+xJfrbPfIVCBNQHeSnnDyEiXJYGqdYGdbKLyfsE1vTI7oZhAqqAJ625VWV0UOepbyRcWmIDQbXFoJERnb0BkI797XLKOI9XFn6vGbH5KhFvUjwhwGwdEySxV4cPTH0SAznGC3pp8dt7PeZEqjtZvEvHzpLp2lDACB0CvQYnPNYGWOvBr2yyKDNvzKKJi8yiD/+sMc1GZdD1oOy1LemoBprZMO0t+bHVCl1rGA8xg8cWqWSZIJo0nt2mjdXh75pPo3X0Qw0zFmvYxbYpL6fqi3D8Iv6quOd7UQTjUf/wTySlCA1z4OZD8RTR0NNdbjbfFiZ+3Lmsur5dKQw9g/SIF33PCC3XGJ427bxmNoCp1XwEmUl09+WC1ifndfFQqB3JUYQ3tcIghnr+8xSpAHXQlKDtjZibMc/X0VEISq9O/42H/s+kaFQh+x0yoRMa5Hjo3e3biMFUisbnUP27rqMADModYHs13xIkg3Oomi2fmePC+GQ==;c/3pQiPjphoRUDnluZ5nHQ=="
 ---
