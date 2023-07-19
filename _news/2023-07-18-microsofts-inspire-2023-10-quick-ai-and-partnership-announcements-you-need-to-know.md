@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft launches vector search in preview, voice cloning in general availability"
+    excerpt: "Microsoft announced a number of new services at its Inspire annual conference, including a new AI-powered vector search tool."
+    publishedDateTime: 2023-07-18T17:40:00Z
+    webUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/"
+    ampWebUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 98
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1185699754.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft 365 Copilot AI’s steep price is an ill omen for Windows users"
     excerpt: "Microsoft announced that it will charge businesses $30 per user per month for Microsoft 365 Copilot, its AI assistant for the Office apps. In some cases, that's more than double its price for Microsoft 365."
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -93,17 +109,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Microsoft Semantic Kernel will support OpenAI plugins"
-    excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
-    publishedDateTime: 2023-07-14T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.html"
-    ampWebUrl: "https://www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702772/microsoft-semantic-kernel-will-support-openai-plugins.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
   - title: "Microsoft wants your next salesperson to have an AI copilot"
     excerpt: "The basic goal of a copilot is to bring the power of generative AI, and in Microsoft’s case the Azure OpenAI service, to applications to help answer questions, provide recommendations, perform sentiment analysis and generate content. In March ..."
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -117,6 +122,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
         width: 1200
         height: 599
+        isCached: true
+  - title: "Meta, Microsoft Team Up to Offer New AI Software for Businesses"
+    excerpt: "WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about AI tools and how the technology is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft will release a new version of Meta ..."
+    publishedDateTime: 2023-07-18T20:09:00Z
+    webUrl: "https://www.wsj.com/articles/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-c4f7b634?mod=hp_listb_pos3"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-818923/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure"
     excerpt: "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI."
@@ -300,6 +319,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
+  - title: "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its"
+    publishedDateTime: 2023-07-18T13:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Microsoft Stock on Pace for Record Close After AI-Related Announcements"
     excerpt: "Shares of Microsoft were up more than 5% in afternoon trading following the company's announcements about artificial-intelligence-related products. That jump puts Microsoft on pace t"
     publishedDateTime: 2023-07-18T19:31:00Z
@@ -318,6 +346,28 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+  - title: "Meta opens AI chatbot tech for commercial use via Microsoft"
+    excerpt: "Meta Platforms Inc. is making its artificial intelligence large language model, Llama 2, available for commercial use through partnerships with major cloud providers including Microsoft Corp. Meta isn’t charging for access or usage of the model it developed,"
+    publishedDateTime: 2023-07-19T00:53:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/meta-opens-ai-chatbot-tech-commercial-use-microsoft"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/artificial-intelligence/meta-opens-ai-chatbot-tech-commercial-use-microsoft"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/artificial-intelligence/meta-opens-ai-chatbot-tech-commercial-use-microsoft"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 56
+  - title: "Wall Street loves Microsoft’s hefty price tag for corporate AI products"
+    excerpt: "Microsoft's announcement that new corporate artificial intelligence tools will cost $30 per user per month on top of what most business customers already pay boosted its stock price Tuesday. Microsoft jumped as much as 6% after providing details on pricing for"
+    publishedDateTime: 2023-07-19T00:37:00Z
+    webUrl: "https://www.seattletimes.com/business/wall-street-loves-microsofts-hefty-price-tag-for-corporate-ai-products/"
+    ampWebUrl: "https://www.seattletimes.com/business/wall-street-loves-microsofts-hefty-price-tag-for-corporate-ai-products/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/wall-street-loves-microsofts-hefty-price-tag-for-corporate-ai-products/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 56
   - title: "The cloud uses massive amounts of energy. Generative AI will be way worse. A Microsoft data center veteran warns big changes are coming."
     excerpt: "Generative AI workloads will use up to three times more energy than traditional cloud computing task. Data centers will need radical revamps."
     publishedDateTime: 2023-07-14T14:14:00Z
@@ -415,6 +465,20 @@ related:
       - url: "https://www.healthcaredive.com/imgproxy/kOWfD2ShjgQn4cjAE4UozSetVvZ8l6nsoI0nDML5F-w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNTMzNTc0MTAuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Meta and Microsoft launch open-source AI model Llama 2"
+    excerpt: "Meta and Microsoft have teamed up to release Meta’s latest AI model Llama 2 which was built specifically for and made freely available to enterprises and researchers."
+    publishedDateTime: 2023-07-19T01:15:00Z
+    webUrl: "https://cointelegraph.com/news/llama-2-open-source-ai-model-launched-by-meta-microsoft"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNGVmY2NkNmEtMjg5Ny00NTY4LWIwNzMtMWI1YzYwODcwNTc3LmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Microsoft Advances Copilot and AI Products at Inspire Event"
     excerpt: "Additionally, Microsoft touted the use of Copilot in Power BI with Microsoft Fabric, its AI-enabled collection of data platform tools (which includes Azure Data Factory and Azure Synapse, for example). Microsoft Fabric is now at the public preview stage ..."

@@ -1,0 +1,48 @@
+---
+category: news
+title: "James Cameron on deep sea exploration, artificial intelligence"
+excerpt: "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ..."
+publishedDateTime: 2023-07-19T01:37:00Z
+originalUrl: "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095"
+webUrl: "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095"
+ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
+cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
+type: article
+quality: 57
+heat: 67
+published: false
+
+provider:
+  name: CTV News
+  domain: ctvnews.ca
+
+topics:
+  - AI
+
+images:
+  - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg"
+    width: 1020
+    height: 574
+    isCached: true
+
+related:
+  - title: "REPLAY: James Cameron on deep sea exploration, artificial intelligence"
+    excerpt: "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ..."
+    publishedDateTime: 2023-07-18T23:37:00Z
+    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/replay-james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 57
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+
+secured: "vVk03mt5OUmP6XYAhPondmohaKhn3gnOhZjUs6hvweR/jC9+rruaV1OSeGJiwal5OrX2300A0LMgYaqygWC+so8RSP8KzA5p6Qj45Xz1MWNsN+fTw0YSVh7chiC05OD5r/Vlw05RSqmJe+fl8SdKy/nXGzFKMih9klD9/rd/9ddYWBC2c6xi/u4Pz4JF/wCW61HixNjbYR29Ly9KGVKgrJSB9qpKXZEnTelKCpehCaEO/Elifs6AqZneu+jlooM6zcrxnDffARQavb3wI2nN73gENqnGq53YlUvjwmOOOMjnbBVRiS+EWfyElYCbG6GJn9UHbzlrchp3D2AgvNn4pi+C2P9bUIBBv5SDFpt8IgU=;NK/egmfNjM4IXoYqAENz+g=="
+---
+

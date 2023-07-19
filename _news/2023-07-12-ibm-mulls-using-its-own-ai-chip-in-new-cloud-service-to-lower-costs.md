@@ -20,6 +20,6 @@ topics:
   - AI
   - AI Hardware
 
-secured: "/h/Y7yNX00Hisj4onezaJhfyT8PGsXA6CZannOxz11kfx4vPFgCRE/dSscrVHWHnlcbq2ORNovnoeWof0TaSnR5Nz4/eyyYtdrMivDTqVVlebcfQ9ju6UslFtPMwJtWrwAhtxn7tgguM9Jsvb8RrziGNv+0TF6l3r+eU/ASHK/J1PmoKwh2KIk9lNR75VXEELMJucSIZTkRRZQ0symjrs+le9251U5uaHJtvb9kTX9qgmGqOFaxg72CFkhakA5g1U/x69SN3ymoiBk/XF39gHo0zZ4R8bN+XjgNhnMink7/Fjq4q1e4dm/WEJs6qBI6cIUVCp1wocaSHdX6XM0E51YsL2ZwvRqn7MRbX3eaG89o=;gn+JqDq2iCCt+0sOXn9NtQ=="
+secured: "zJcjh5isrGV3CRhYYK8msaU4x7bQZVBB4i7+Dz/4C4sUsQncUxqOOOsz5gma9zT5ezigwsSp/DVHht+9rQHTsgfuFf0Sac0q5RgljJeIpP4zn5txlW6rF6fBcAwQyzpm4+0/mFh3OEhrPUFPg7QpManyuC+sH+MoBIIt9M1D5HsugA14hQNuJ+tdBKG0CV8dxjODDGiFnBCHc/EuOzoB7kbY2s62Vf0ZBVmYhgxjlUC/fRn2eANDACWpbdEAAZOh/9RhNYHRhBN6uQi/z6/F4M6x6z3lkuZ/YsiS5tb0l55Sn5Tg6WNRNCDpGjMkAzR3cIVvJ5bFi42H3/I37yvWg+SWtgu7VrqIRiZflHnSr5A=;ZI9IRajikFrEVVoOCwshOA=="
 ---
 

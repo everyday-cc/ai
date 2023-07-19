@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/real-time-deepfake-detection-how-int
 webUrl: "https://www.zdnet.com/article/real-time-deepfake-detection-how-intel-labs-uses-ai-to-fight-misinformation/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Why some celebrities are embracing Artificial Intelligence deepfakes"
+    excerpt: "The deal allows it to use an artificial intelligence or AI-generated deepfake version of the Hollywood A-lister to \"star\" in their new TV drama. What she says and does in the show is controlled by the computer."
+    publishedDateTime: 2023-07-18T23:08:00Z
+    webUrl: "https://www.bbc.com/news/business-65995089"
+    ampWebUrl: "https://www.bbc.com/news/business-65995089.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A118/production/_130204214_jamie.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "b+7pN0B5X0CjRBAgQE2Odx/tivH0RF48ETF9LsOJ8YpiVRiPwptE2SvM4/XFw6P4a1HB5zZdslpXAOrVezPNnrGZx4mQYvaSQJB+TpqhSI51cUyP4xAkXSQMoY4OMnk/2yedeg68PomIDRNkrsAgVRVV9oaiOeZgoF814D6zvvNk6z8U/EFMN8C7TexUWqKwJyKIPnzlJ7WkYIcOzEs7A+IWfx1lj1sGG6kqYAiifRJtDPEzCcC/UIPE7JBmqtiTi4Y9JSlwdcOjZsFSA5dx0Euh+rVNagMSbLKgTbV10nxxx2hHy4Ce84ffXmmKBHStsPm4uMOWFqH9JBxXLj/alnZjU5aTicEwnJ/uXvzHY07fsMDf5v55AOBAauAhdcFupKqFM2hSeNdH7T8peJosbn2uZmYI0tkXazUL5LdpckUAhhIIGFFOig9RQ5qfI68GKjXULNrwk65G7PTgXrGErKqxUv6Vx7qEWHxwwuO4UqMeks3w9iRcCd4IG3S8qi9+etK6JYgQk0tSlBLLTE73LQ==;pRdMwiwb+tDPRIhPYWnyMA=="
 ---

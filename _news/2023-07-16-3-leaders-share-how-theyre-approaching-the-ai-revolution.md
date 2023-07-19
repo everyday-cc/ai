@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Revolution in AI powered by Transformer Architecture"
-    excerpt: "Introduction: The field of machine learning is constantly evolving, with groundbreaking discoveries that push the boundaries of what is possible. One such discovery that has captivated the attention of researchers and developers alike is the transformer architecture."
-    publishedDateTime: 2023-07-14T07:21:00Z
-    webUrl: "https://techbullion.com/the-revolution-in-ai-powered-by-transformer-architecture/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "BOVGlHDy+m21D+mmCGNe5R+bEle6fdoCjppGaMiYTF/Mp7RT+quf2SjCCcbfNDGQGxAkbOnlS9J8tSjTMJz7JXQ6OyLn1iGJoaU2h3Wtj3vxTpySrZdxstqCPhXlYL2FQpILjsY9nVYj9pZkc7H72llspYmU/NO3fBx+eJYc7Z565sQjyScrxa4ZP6TsDDKV83VVqBnN7khkAN1Xc7jJ10h58qWoOJJRY55hCs265B/+xUxSaidFqi6Fu1RRtxqw8Eh0jvozP8GzWXMWrHaKHFo0hMLpdTvYT87SDA0TyTUNm9v+m3loqZfNhj+146cj3kx1KuTXvYCdpJ2b0rqW86zMHtrVYOPAyVSK1qOa4Kj4cRn+/WryM6AS6hl0P8cJJjWYGC0Fs8B75/TDSJJbtCd75j9lJ4TBsFvOMkEGty69wvmBlT38ZJ1t2MnWD9nx3OeyL0XCy1yrxoM96L//Redk/3RQg8YCBg5odFli95JYPr3XxPfhLZmmc/q2EnywtL7PwMuycSsXPvB8M08ZEQ==;UUduAf6cvCM0bHUSnrFb8w=="
 ---

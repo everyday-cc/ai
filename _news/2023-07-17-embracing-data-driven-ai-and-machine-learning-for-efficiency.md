@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/embracin
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/embracing-data-driven-ai-and-machine-learning-for-efficiency/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Can AI Lead Growth for Alphabet And Google - Earnings Preview"
-    excerpt: "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal."
-    publishedDateTime: 2023-07-14T09:00:00Z
-    webUrl: "https://www.cmcmarkets.com/en/news-and-analysis/alphabet-google-earnings-preview"
-    ampWebUrl: "https://www.cmcmarkets.com/en/news-and-analysis/alphabet-google-earnings-preview_amp"
-    cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en/news-and-analysis/alphabet-google-earnings-preview_amp"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 59
-    images:
-      - url: "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png"
-        width: 768
-        height: 576
-        isCached: true
   - title: "Can AI Lead Growth for Alphabet And Google - Earnings Preview"
     excerpt: "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal."
     publishedDateTime: 2023-07-14T19:59:00Z

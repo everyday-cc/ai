@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1020
     height: 574
     isCached: true
+
+related:
+  - title: "James Cameron on deep sea exploration, artificial intelligence"
+    excerpt: "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ..."
+    publishedDateTime: 2023-07-19T01:37:00Z
+    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 57
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg"
+        width: 1020
+        height: 574
+        isCached: true
 
 secured: "PzG86sizZPG5Ynp2k2/jsvk6AFLY52Op/xxSAAdW6NO9Nh591lYnT+UAJZD5ISfs4KUa1uzT9i/WDLb/MoH3vRHhswJYw39QDaAVh2BslJe9dXk2LcogL77+ZE7i/1TNCtKRTLLb4HH8AwEPMP3lyN6rXWGqirh/jgEp7i07fUIZxDzofnv0XmSiiWvdZDggASkVVYuviY3jhe+Zsal6gfgQLDtBrBvzfHCvE/wdp7bcrsCJFWlwe2aPjkGl4DhVM+W36XzsJCwlhXtOvlEoloDrtNvXEWicRA7eFXnctUv7pW7Dhl2a+F3hpsQ2rre29YPzaRXru2SIarK1c15nGLfTbVw1nOguZwechFi90fY=;NxNEYSD80DKybfzVkGNecQ=="
 ---

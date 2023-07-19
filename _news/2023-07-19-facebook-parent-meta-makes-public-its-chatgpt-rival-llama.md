@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-excerpt: "(AP) — Facebook parent company Meta Platforms has ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it’s been overshadowed as the release of ChatGPT sparked a rush to profit ..."
-publishedDateTime: 2023-07-18T23:15:00Z
-originalUrl: "https://www.dailypress.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-webUrl: "https://www.dailypress.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+publishedDateTime: 2023-07-18T22:01:00Z
+originalUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+webUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: CBS News
+  domain: cbsnews.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.dailypress.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
-    width: 1024
-    height: 682
+  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/b97a2bb7-2255-49be-81c7-cd00198ba40f/thumbnail/1200x630/8fa8182596b299afef316114648f9f32/9b36e8d006fafd1e651176d6010dec18.jpg?v=ed1888effc334856324ceac60c145559"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,16 +44,16 @@ related:
         height: 682
         isCached: true
   - title: "Facebook parent Meta to make ChatGPT rival Llama public"
-    excerpt: "Meta already is a customer of Microsoft's Azure cloud computing platform.Microsoft also ... such as with its development of the widely used machine-learning framework PyTorch. But the research paper introducing the new model reflects less openness than ..."
-    publishedDateTime: 2023-07-18T23:49:00Z
-    webUrl: "https://www.kcra.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    ampWebUrl: "https://www.kcra.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T22:44:00Z
+    webUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    ampWebUrl: "https://www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
     type: article
     provider:
-      name: kcra.com
-      domain: kcra.com
-    quality: 46
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 44
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
         width: 500
@@ -95,6 +97,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "9uyi9Rw8QaC0ob27VcZpcxhCWMHVRsgl+tBeRzb1eK6ZKjW14kEAEVx55TdFZLgBWbxv67xq0SqfYbbHC3Vd6QC684fmU7/hqtGPjWfcVOK7n1uytUmoIQJBDuIn9J8V08P2RSRHPBxZVtNRFRWxrhfQCqYhMcA9/pe0xkJRpSikkwjKIv9nFL3PHDUZj12peXGfCIkR5O63v1T4bsSYp+TWA3UytfTcTqu2deXFRVexosUCuXqOAZKJy6GeGEg99hNA2f4YiMH8AUOdMqgPxDBjWFPpzCYc017McQ9pVmuJUbOxvoBBvRfGxnJ0l4wNMh9Gd6OvqJ6Ec7o3O3dWj9d+6BFut3lgaiIqITZMRRw=;v0yogF/kRn9CtZFc98S5uw=="
+secured: "IFU2C8SvB430wEwvIvqfbEsMz0mPZ8rsEQIWm8ZDB0LGn0gkD0WnHuXmVok+I0xWMuJaDV4GK9wICoDx8IROr0VTF+s7smLgWS2VCuPTqTR0jC+i8R3pJgkSvLoUfemQ0aeA6hqRaTw0AhoahdJSawMBAMhgOWdaeIwnIiB3JRoI+cRVYJJFrHrGZ4S/kznZok8vv7Pjm6bP61rHLdIeqoJpJnXrMx1OQD0/w2DKh2cp7evVbCynTbGqH+huQx4UijvbGoO+ZUQbtXs3o2r5duyOVfvinBMpRE1oDaobyg3D3HwjJlvxycoN6l2UenmwsIlk/S+/ogsuPKjL21llaT4V0Q/OPBIunCY5nujB0vo=;H4Fyf5zgNq/3jgjf4oxehQ=="
 ---
 

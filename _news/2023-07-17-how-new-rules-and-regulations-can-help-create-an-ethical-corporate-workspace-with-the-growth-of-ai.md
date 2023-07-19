@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-ru
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/"
 type: article
 quality: 90
-heat: 200
+heat: 190
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://www.cbi.org.uk/media/fg4pe35c/ai.jpg?width=1300&height=730&rnd=133341720607270000"
         width: 1300
         height: 730
-        isCached: true
-  - title: "The biggest challenges facing the tech industry – from cyber-security threats and AI ethics, to talent retention and evolving regulations"
-    excerpt: "The technology industry is faced with many challenges due to rapid advancements - requiring companies to constantly innovate in order to stay ahead of the compe"
-    publishedDateTime: 2023-07-14T08:40:00Z
-    webUrl: "https://ifamagazine.com/the-biggest-challenges-facing-the-tech-industry-from-cyber-security-threats-and-ai-ethics-to-talent-retention-and-evolving-regulations/"
-    type: article
-    provider:
-      name: IFA Magazine
-      domain: ifamagazine.com
-    quality: 38
-    images:
-      - url: "https://ifamagazine.com/wp-content/uploads/2023/07/SmartSearchs-Jade-Kirk-Enterprise-Business-Development-Manager.jpg"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "As employers expand artificial intelligence in hiring, few states have rules"
     excerpt: "Only Illinois, Maryland and New York City require employers to ask for consent first if using AI during certain parts of the hiring process. Here's where pros say that can cause problems."

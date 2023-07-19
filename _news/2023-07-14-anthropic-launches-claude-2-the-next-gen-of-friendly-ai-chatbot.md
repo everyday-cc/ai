@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Anthropic CEO to testify at US Senate hearing on AI regulation"
+    excerpt: "WASHINGTON, July 18 (Reuters) - Artificial intelligence startup Anthropic's CEO Dario Amodei will testify on July 25 at a U.S. Senate hearing on artificial intelligence as lawmakers consider potential regulations for the fast-growing technology, the Senate ..."
+    publishedDateTime: 2023-07-19T00:54:00Z
+    webUrl: "https://www.reuters.com/technology/anthropic-ceo-testify-us-senate-hearing-ai-regulation-2023-07-18/?n=@"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/44IaGqngsHdIVZKOFKflFDq7gmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DSFZ3QT2C5LWHAK5BJJNEXVI5M.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Generative AI And Data Science Have Mightily Paired Up To Reinvent Data Strategies, Exemplified Via Release Of OpenAI’s ChatGPT Code Interpreter"
     excerpt: "Generative AI is increasingly going to be a front-end tool for data science, which will shake-up organizational data strategies. Here's the scoop and what to do about it."
     publishedDateTime: 2023-07-17T11:00:00Z

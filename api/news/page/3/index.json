@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-17-the-biggest-barrier-to-ai-productivity-is-people.md",
+      "title": "The biggest barrier to AI productivity is people",
+      "excerpt": "Generative AI is helping us churn out vastly more content at remarkable speed, when what we really need is better content. It’s up to humans to put the focus on quality and value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.html",
+      "originalUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/05/disaster_recovery_crisis_help_rescue_drowning_hand_rising_from_the_ocean_by_ian_espinosa_cc0_via_unsplash_1200x800-100759670-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html",
+      "publishedDateTime": "2023-07-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-ai-needs-its-own-day-but-should-you-celebrate-it-on-july-16th.md",
       "title": "AI Needs Its Own Day - But Should You Celebrate It On July 16th?",
       "excerpt": "Artificial Intelligence needs its own day and there is substantial demand from the people willing to celebrate it. But should you celebrate it on July 16th?",
@@ -750,7 +801,7 @@
       "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -801,7 +852,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1146,7 +1197,7 @@
       "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1238,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency.md",
-      "title": "Meta reveals new AI image generation model CM3leon, touting greater efficiency",
-      "excerpt": "Looking at the sample sets of generated images that Meta has shared in its blog post about CM3leon, the results are impressive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency/",
-      "originalUrl": "https://venturebeat.com/ai/meta-reveals-new-ai-image-generation-model-cm3leon-touting-greater-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_of_a_synthwave_chameleon_wearing_sunglasses__2fa6f127-4a16-4870-8e41-40b48eb2f81f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

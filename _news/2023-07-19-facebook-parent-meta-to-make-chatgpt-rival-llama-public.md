@@ -1,25 +1,24 @@
 ---
 category: news
 title: "Facebook parent Meta to make ChatGPT rival Llama public"
-excerpt: "Meta already is a customer of Microsoft's Azure cloud computing platform.Microsoft also ... such as with its development of the widely used machine-learning framework PyTorch. But the research paper introducing the new model reflects less openness than ..."
-publishedDateTime: 2023-07-18T23:49:00Z
-originalUrl: "https://www.kcra.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-webUrl: "https://www.kcra.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-ampWebUrl: "https://www.kcra.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+publishedDateTime: 2023-07-18T22:44:00Z
+originalUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+webUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+ampWebUrl: "https://www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
 type: article
-quality: 46
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: WTAE-TV
+  domain: wtae.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Facebook AI
+  - AI
 
 images:
   - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
@@ -44,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T22:01:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/llama-facebook-parent-meta-chatgpt-rival-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/b97a2bb7-2255-49be-81c7-cd00198ba40f/thumbnail/1200x630/8fa8182596b299afef316114648f9f32/9b36e8d006fafd1e651176d6010dec18.jpg?v=ed1888effc334856324ceac60c145559"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
     publishedDateTime: 2023-07-18T08:38:00Z
@@ -57,20 +72,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
         width: 700
         height: 466
-        isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-    excerpt: "(AP) — Facebook parent company Meta Platforms has ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it’s been overshadowed as the release of ChatGPT sparked a rush to profit ..."
-    publishedDateTime: 2023-07-18T23:15:00Z
-    webUrl: "https://www.dailypress.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 24
-    images:
-      - url: "https://www.dailypress.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
@@ -96,6 +97,6 @@ related:
       domain: psychiatryadvisor.com
     quality: 4
 
-secured: "rDrmolZK10ylhFIcQeW72hhNiqS8gVAwZh5Nwx7xj6qELfOv4zha2BJiVZJK8pSIhXzZ48UnSZQREYwgMcUMirlHexVO/InAhJNzh1I94NUAwLS4T1xFbbA+H+OUzoNcAQOkIuvqKPGBPiLhoY1vauSyX6AfOa9RCppF5CfqREKMVjck0yEjIF+chbLV3wxFxQtewRKpWT6MASSYe2yDpVORML7YtvWRF36Ko7mu9ciYhndSyZMB/JyuVqa3YHPW0qFop29F+vgztWlMFXS9Y79OwtK1556ajjqNxxLmgHg6qUTlCpPc7O4ZQ97Lo6zWf3D89zCUgJUKHro7z4Q8BVsXJofHVMMRrb3gZjLm1ms=;xJaXnmbMM/+muuY7RgGZHg=="
+secured: "37xrS6xDo4Xb/+cWq8rnATMWYORiBYV2zMN48gdfvNAm/IQ+7jgD0csI+yXegMtxkvHS0HgKq3mKeI+6co/p9eJPD4xF9BMWUqAm4kleWPVydjwxmL58vdJHisabGAj5s4ZU3j2WtovwvkF6M+PwYxQk+tvVAOUGiq661k7SJLgMwce1TbN66MgallT1iBjExjWd96HX1cg2rIPwiFzE3uIyLwKurmMrozzUHJM/Vx+RfcQ+0xnPh8swD8Un+1JO0H10ovx89gGgGkutjGj7IBuBo0tsfv5lHDRqtFfRQW/LmQjnebouUqzVAeIPnlDaoWO4pP5ODah91xU6hFWHWqARJMnQjuWTYmwGqHFnHRo=;+Ncsq6EYybWVM8Zpqx+CFg=="
 ---
 

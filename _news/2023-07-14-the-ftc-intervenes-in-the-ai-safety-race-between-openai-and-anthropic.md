@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3cb1369242d9b94a61c6c6fb17422e9fc7bec91d/2023/06/09/bd65c844-cb3b-4d00-842d-a37b9fd63337/meta.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Anthropic CEO to testify at US Senate hearing on AI regulation"
+    excerpt: "WASHINGTON, July 18 (Reuters) - Artificial intelligence startup Anthropic's CEO Dario Amodei will testify on July 25 at a U.S. Senate hearing on artificial intelligence as lawmakers consider potential regulations for the fast-growing technology, the Senate ..."
+    publishedDateTime: 2023-07-19T00:54:00Z
+    webUrl: "https://www.reuters.com/technology/anthropic-ceo-testify-us-senate-hearing-ai-regulation-2023-07-18/?n=@"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/44IaGqngsHdIVZKOFKflFDq7gmQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DSFZ3QT2C5LWHAK5BJJNEXVI5M.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Anthropic launches Claude 2, the next-gen of 'friendly' AI chatbot"
     excerpt: "Anthropic, the company founded by former OpenAI research executives, has released the next generation of their conversational"
