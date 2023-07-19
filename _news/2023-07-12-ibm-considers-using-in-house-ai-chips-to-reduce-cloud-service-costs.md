@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://cdn.benzinga.com/files/images/story/2023/07/12/ibm_bangalore_manyata_2.jpg?width=1200&height=800&fit=crop"

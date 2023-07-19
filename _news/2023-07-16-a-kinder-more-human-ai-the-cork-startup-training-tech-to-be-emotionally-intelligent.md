@@ -40,6 +40,20 @@ related:
         width: 838
         height: 471
         isCached: true
+  - title: "This Startup Is Unlocking AI for Asset Managers"
+    excerpt: "Using OpenAI and other large language models, Alai is building tools that investment firms can use to safely leverage their proprietary resources."
+    publishedDateTime: 2023-07-18T20:48:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/2bxxg16ng9uds7jcye1a8/corner-office/this-startup-is-unlocking-ai-for-asset-managers"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 37
+    images:
+      - url: "https://cdn.assetmg.info/dims4/default/8fef1b2/2147483647/strip/true/crop/1000x563+0+44/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-in-investor-prod.s3.amazonaws.com%2Fbrightspot%2F5a%2F6b%2F3b2c79c94e22bebf35910bead09b%2Fart-alaiai-0718.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "sBUQGBPkC3kHsgHp/xJ1PDaINMpWOyxTxVPvDBUHDXefJov03oBmsH0/HnWfWd1V/Hd/NNVUyDKYP/JwE2A8w5HPV7NDid+wZyDpIU0cTjBmANTzuNnD2jWi+I7fRUhEJq+Z+Wa56bReGl1J5c4otgCDYdEseB8ZL/UOt7tg0BsYek1c2YEeOAu2/xEqqQWtV3YEgyi9qQsL+NLhQPp29v8sg1cb1G11A303pJ9ev4T4dKsmDOtlE8ZHW43RvygGgiVMIMRECt3xHL++A3/086g1TTTXM7r8fz43/rFR9+2Keq5q9dD9HbQRg5lWnewHf5bkJaNNTR0aXjCk8gfD6OJUb1rJQoo7Oy6GOoCH+/M=;LXZy5FgHUoYFQ0ovntVmGQ=="
 ---

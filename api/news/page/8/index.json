@@ -2,6 +2,291 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-07-12-the-future-of-education-embracing-ai-for-student-success.md",
+      "title": "The Future Of Education: Embracing AI For Student Success",
+      "excerpt": "It is only by deploying resources, training and policies at every level of our institutions that we can begin to realize the vast potential of what AI can offer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6479ea8344eabdf4ac13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/07/12/the-future-of-education-embracing-ai-for-student-success/amp/",
+      "publishedDateTime": "2023-07-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-cedar-rapids-airport-testing-facial-recognition-technology.md",
+      "title": "Cedar Rapids airport testing facial recognition technology",
+      "excerpt": "The Eastern Iowa Airport in Cedar Rapids is one of 25 airports in the U.S. that are testing new facial recognition technology in TSA lines. The new technology adds to the previous authentication methods by taking a picture of the traveler to match against their ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "originalUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=767D8083-B298-4C59-86CF-FA5BEF92D3A4&type=preview&q=75&width=1200&height=800",
+          "width": 800,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/news/cedar-rapids-airport-testing-facial-recognition-technology/?amp=1",
+      "publishedDateTime": "2023-07-12T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs.md",
+      "title": "IBM may use its own AI chip in cloud service to lower costs",
+      "excerpt": "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
+      "originalUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg",
+          "width": 640,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
+      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
+      "publishedDateTime": "2023-07-12T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecom Lead",
+        "domain": "telecomlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-mission-impossible-dead-reckoning-part-one-treats-ai-as-the-threat-that-it-is.md",
+      "title": "'Mission: Impossible — Dead Reckoning Part One' Treats AI As The Threat That It Is",
+      "excerpt": "The latest epic in the Tom Cruise-led action franchise rightly challenges the phenomenon of artificial intelligence and how it impacts our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
+      "originalUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/64adae5f2200006c00a7b10e.jpg?cache=AlTKxYFwSH&ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/mission-impossible-dead-reckoning-part-one-review-ai-threat_n_64adab24e4b07252cc1499d6/amp",
+      "publishedDateTime": "2023-07-12T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ai-service-robotics-india.md",
+      "title": "AI Service Robotics - India",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-leaked-org-chart-reveals-the-58-top-leaders-and-engineers-at-google-deepmind-as-it-races-to-surpass-openai.md",
+      "title": "Leaked org chart reveals the 58 top leaders and engineers at Google DeepMind as it races to surpass OpenAI",
+      "excerpt": "Google announced it would combine DeepMind and its internal AI group Brain. These are the people with power in the new unit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-ai-deepmind-org-chart-2023-7",
+      "originalUrl": "https://www.businessinsider.com/google-ai-deepmind-org-chart-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64adb4828ed31300199e8251?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
       "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
       "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
@@ -570,6 +855,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-mastering-chatgpt-ethical-challenges-of-chatgpt.md",
+      "title": "Mastering ChatGPT: Ethical Challenges of ChatGPT",
+      "excerpt": "we will delve into the complexities of AI ethics, including data privacy, misinformation, bias, and job displacement. Roberts, extensive knowledge and experience in the field make him a relatable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2237_2750.jpg",
+          "width": 691,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-what-types-of-ai-are-being-used-in-healthcare.md",
       "title": "What Types of AI Are Being Used in Healthcare?",
       "excerpt": "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold.",
@@ -869,334 +1197,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-upwork-launches-new-generative-ai-tools-and-services-hub.md",
-      "title": "Upwork Launches New Generative AI Tools and Services Hub",
-      "excerpt": "Upwork is launching a new generative AI tools and services hub. Discover more about Upwork's latest news with our article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
-      "originalUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/Upwork-Laptop.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-bringing-observability-to-business.md",
-      "title": "Bringing observability to business",
-      "excerpt": "IBM is pleased to announce IBM Instana Observability Business Monitoring to empower teams with real-time business context for IT operations.\nThe post Bringing observability to business appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/bringing-observability-to-business/",
-      "originalUrl": "https://www.ibm.com/blog/bringing-observability-to-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:33:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-the-benefits-of-ai-in-healthcare.md",
-      "title": "The benefits of AI in healthcare",
-      "excerpt": "AI is used in healthcare for everything from answering patient questions to assisting with surgeries and developing new pharmaceuticals.\nThe post The benefits of AI in healthcare appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
-      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 316,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T07:31:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-best-amazon-prime-day-2023-deals-on-robot-vacuums-that-are-50-off.md",
-      "title": "Best Amazon Prime Day 2023 deals on robot vacuums that are 50% off",
-      "excerpt": "Amazon's biggest sales event of the year, Amazon Prime Day 2023, is officially here. Right now, you can score an unbeatable deal on a top-rated robot vacuum with these hot deals on top-rated robovacs from iRobot, Samsung and more. Keep reading to shop our selection of the most impressive Amazon Prime Day deals on robot vacuums.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/01/3a6f8bea-c425-41ba-8405-fdf1900cf318/thumbnail/1200x630/375b52121913f22863901df2bafdd767/roborock-robot-vacuum-header.png?v=758b39f312cc5ee6054d0eb9bad6c0cd",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-amazon-prime-day-2023-deals-on-robot-vacuums-half-off-2023-07-11/",
-      "publishedDateTime": "2023-07-11T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket.md",
-      "title": "Chip-Chip, Hooray: Nvidia, AMD Lead Semiconductor Rally Premarket",
-      "excerpt": "Shares of chipmakers are heading northwards in premarket trading on Tuesday, led by Nvidia Corp. (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD). KeyBanc Capital Markets analyst John Vinh raised the price targets for several companies in the space,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chip-chip-hooray-nvidia-amd-lead-semiconductor-rally-premarket-1032437607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Nvidia_11.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-the-economy-of-things-the-next-value-lever-for-telcos.md",
-      "title": "The Economy of Things: the next value lever for telcos",
-      "excerpt": "Over the years, the Internet of Things (IoT) has evolved into something much greater: the Economy of Things (EoT). The number of connected things surpassed the number of connected humans for the first time in 2022. The number of IoT connected devices are growing in practically every industry, and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-economy-of-things-the-next-value-lever-for-telcos/",
-      "originalUrl": "https://www.ibm.com/blog/the-economy-of-things-the-next-value-lever-for-telcos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-beyond-nvidia-5-ai-chip-stocks-to-buy-in-july.md",
-      "title": "Beyond Nvidia: 5 AI Chip Stocks to Buy in July",
-      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/11/beyond-nvidia-5-ai-chip-stocks-to-buy-in-july/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/739252/jose-najarro-2023-07-10t183517759.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

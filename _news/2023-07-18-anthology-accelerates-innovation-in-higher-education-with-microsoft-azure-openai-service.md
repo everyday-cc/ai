@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Teams Up With Microsoft, Qualcomm on Llama 2 AI Large Language Model"
+    excerpt: "The next generation of Meta's large language model, Llama 2, is now available for free commercially in a partnership with Microsoft, Meta said Tuesday. Under this partnership with Meta, Microsoft will now also offer access to Llama 2 through Azure AI and on Windows,"
+    publishedDateTime: 2023-07-18T23:26:00Z
+    webUrl: "https://www.cnet.com/tech/meta-teams-up-with-microsoft-qualcomm-on-llama-2-ai-large-language-model/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 83
+    images:
+      - url: "https://www.cnet.com/a/img/resize/af7aa605783b600c7df53215364756cdff17665d/hub/2022/11/10/e953c2ad-22ab-4908-a566-a6c217e847c7/meta-blue-red.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft puts a steep price on Copilot, its AI-powered future of Office documents"
     excerpt: "Microsoft is reportedly working on its own AI chips in an attempt to avoid a costly reliance on Nvidia. Microsoft is also bringing this Copilot experience to Teams, with integration into the Teams phone calling experience and inside Teams Chat threads."
     publishedDateTime: 2023-07-18T15:31:00Z

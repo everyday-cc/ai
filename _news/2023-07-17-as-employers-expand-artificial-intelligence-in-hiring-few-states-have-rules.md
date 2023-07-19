@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "U.N. Officials Urge Regulation of Artificial Intelligence"
+    excerpt: "The U.N. Security Council for the first time held a session on Tuesday on the threat that artificial intelligence poses to international peace and stability, and Secretary General António Guterres called for a global watchdog to oversee a new technology that has raised at least as many fears as hopes."
+    publishedDateTime: 2023-07-18T22:40:00Z
+    webUrl: "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/08/18/multimedia/18un-ai-1-cpwj/18un-ai-1-cpwj-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "China to Impose New Regulations for Generative AI"
     excerpt: "China has become among the first nations worldwide to publish new guidelines that regulate generative artificial intelligence (AI)."
     publishedDateTime: 2023-07-14T21:10:00Z
@@ -133,6 +147,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 21
+  - title: "WV Press Convention Update: Seminar to look at ‘ethics and implications’ with use of Artificial Intelligence (AI) in communications"
+    excerpt: "From the GPS in our cars to interacting with a chatbot while ordering groceries, expert says AI continues to ingrain itself into our societ Association Report CHARLESTON, W.Va. – “We need to be able to tell snake oil from legitimate technological innovation."
+    publishedDateTime: 2023-07-17T13:44:00Z
+    webUrl: "https://www.morganmessenger.com/2023/07/17/wv-press-convention-update-seminar-to-look-at-ethics-and-implications-with-use-of-artificial-intelligence-ai-in-communications/"
+    type: article
+    provider:
+      name: Morgan Messenger
+      domain: morganmessenger.com
+    quality: 19
   - title: "As employers expand artificial intelligence in hiring, few states have rules"
     excerpt: "As artificial intelligence finds its way into aspects of everyday life and becomes increasingly advanced, some state legislators feel a new urgency to create regulations for its use in the hiring process."
     publishedDateTime: 2023-07-18T18:48:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 121
 published: true
 
 provider:

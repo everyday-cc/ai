@@ -79,6 +79,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Figure AI has landed fresh funds from Intel Capital after its humanoid robots took its first steps"
+    excerpt: "A startup working on a robot that could take over dangerous and unwanted jobs got some new funding from Intel Capital."
+    publishedDateTime: 2023-07-18T20:12:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/07/18/figure-lands-9m-from-intel-to-developer-robot.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 20
 
 secured: "hALxd3Xu/cFyxnIxxw3uitkFZkxeGz32iHTE1/krwVSfp8zFill5Ufwm4gooP/Jk7OjxN7YvHO/D1amy7bz7lPgceYqlTcrASYJDyIHYU0ZS3oWqA9p16o2kuuiQcGcksYhHlGkPAX8i+9aR6uxm17/fm1cGJjyCGl1pfO3wcHdBnu66wlNweiuYxXfRgk1LSrvYjsc9rqX4wsyTQtgW4nrpPZEf1RkniHX+m6WA+ylm4WVBEuRkl+qJPWGZfPKA9rHgFOjhY8JtzeXmskpYQFajG6e49jcv5rVtfUd7+cBzJPrWcgjuCl1MEhhH7YfQyPoUm5SUObeffKtul2oRzeJck6n7jEBnBUTkRWufzqkX9K/HIWn563OvwhVZ+A9WBrnNaYvts2sSRLeTRTnFFWlvDboaAEzvGj38NX4AoXrMPx1kKVm8F3zTgf8vp4jQNHoI+G6DJuW2Ng1TJSP1YZk4SKmZZNpDMGvshggO6SyGrjjmdDjsvXt6nCry1tS1vjyL7qYFh28PK1Ubkh/Tjw==;DESrWWJjBI9WPU8au9j79g=="
 ---

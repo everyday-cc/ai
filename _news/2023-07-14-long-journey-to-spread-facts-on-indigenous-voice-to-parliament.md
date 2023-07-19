@@ -49,6 +49,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australia news live: Anthony Albanese defends voice in fiery radio encounter with Ben Fordham over referendum"
+    excerpt: "Photograph: Dan Himbrechts/AAP The prime minister, Anthony Albanese, has just spoken to Ben Fordham on 2GB Radio about the Indigenous voice referendum. Fordham repeatedly asked about why the government is not proposing constitutional recognition and ..."
+    publishedDateTime: 2023-07-18T23:51:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament?filterKeyEvents=false&page=with:block-64b719f08f0835a0b4953262"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 25
+    images:
+      - url: "https://i.guim.co.uk/img/media/fa5b3f4594cc2f964f06bb0e1bff96cbcdc12167/0_173_7182_4309/master/7182.jpg?width=620&quality=85&auto=format&fit=max&s=f1671c8dbae6f294c3a8793510e89bda"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Indigenous voice to parliament No campaigner Gary Johns says white settlement ‘a gift’ to Aboriginal Australians"
     excerpt: "No campaigner Gary Johns says most Aboriginal people are “grateful for that gift” of modernisation and defended the work of churches and their involvement with the Stolen Generations, in comments made while campaigning against the Indigenous voice to parliament."
     publishedDateTime: 2023-07-18T17:51:00Z
@@ -96,15 +112,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 5
-  - title: "First Nations people have ‘great curiosity and want’ for Voice information"
-    excerpt: "A group of First Nations community leaders say there’s “great curiosity and want” for more information on the Voice to parliament among regional Indigenous communities."
-    publishedDateTime: 2023-07-14T06:12:00Z
-    webUrl: "https://www.news.com.au/national/politics/first-nations-people-have-great-curiosity-and-want-for-voice-information/news-story/222ada0194380ce9f83e21fea14ddf2f"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 2
 
 secured: "yarxpT7BW3I/aY8N4BCO/frDzGYELtzWBeFzriJg1MyF9MMpxbYb4ZYlOaLjh4ZTu67YrE0Q0DGG3GmNyhEnfQEYREFANnJAleY6sMw6mvffim7NCQ/o8ttqsPMEl0TxsjHl8So06xOMmheEbzV3iKIo2jyOmvlXM+ZfDbefJP8AyEHRlnC3v/6oVApUoJo0DOf67rS6wR7q9DuNPHI2jEHS/dVEEYuQYTQSaGgB94j7zOrj/RvJHV+Inv3HE9XLAbRGIAX5iSGalhk4u55wEUFvJVdCddv5Mxg9gh1NmBSgIJ31WyPD+0BZKgI4K2ZXxXzCfYg/Dhkl6DNXU+C1VEUxvpDrFw3QzfCBuXw+F7vM+wpu9VrVLI3fhJkFJ6436v/CGC3pTW16Y5T6oKm3x34qUoxQmn1aw928GimySH2wtiVNyHGfPhkVvgNhZYGIAQQZdUeqodQLiRGQEvIhznGpn4dENbtTVWBwCo2qg7iv7IRc2UOLFP4tYd9Hbk5C33XPkwDT9omVlj1ipHKAzg==;7Ri43ewYfzbSZ4sxszS9vg=="
 ---

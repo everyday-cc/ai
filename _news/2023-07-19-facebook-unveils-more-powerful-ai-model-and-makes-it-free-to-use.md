@@ -2,19 +2,19 @@
 category: news
 title: "Facebook unveils more powerful AI model and makes it free to use"
 excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-publishedDateTime: 2023-07-18T20:41:00Z
-originalUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-webUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-ampWebUrl: "https://amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+publishedDateTime: 2023-07-18T22:45:00Z
+originalUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
+webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
+ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Age
-  domain: theage.com.au
+  name: Sydney Morning Herald
+  domain: smh.com.au
 
 topics:
   - AWS AI
@@ -35,21 +35,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-    excerpt: "(AP) — Facebook parent company Meta Platforms has ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it’s been overshadowed as the release of ChatGPT sparked a rush to profit ..."
-    publishedDateTime: 2023-07-18T21:44:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 24
-    images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
-secured: "S/MZgd98nylTl6Hac6m6saZpNjzedcoQ8ROy0coWtQQQ77Ay2f4siHK7B3aH9LwwJ0u750qV3NuEbTdJgF9KPOYp1KKssWJrBwAuaFpD7Y2g9fUwoKxt2XPuSQxSgl1D2rq4YjEfPKeIcDA9zB7LdoEexC8Y7+dUNsNvh/7En7SBxR8QAH8xVfnjtWOL3JGTqGx4YheBq4E74Q3X9tY0GD9g66NCQFI7tO7AZ+rtOIgH2zkQHd/9QZUMZ2UoblkV6CVO/VmMaNjCd9m7lY2cCHak0Dpi3z3GwG63mudSjon3rTqY7j1XLFLhMEYM7eg6q4G2CAmiH7AaJbCXGCHaMwvh/SepArpKW2EO08wgVJDz7GbVXzkXaRvMc9uXxmcNQ5AHlVdxuKob9DBguHkugNYshirpfK0krzrBlDkZAFRMi8nSKLty22aB6rqx0ClTs8e5kC+U+gqwAs1WBXXnDHvBYaUbPvraicqG8jBVJFuftwCSL35Nl4Crw0fofONSdR1Z8g1OBDNlWocQa3DkQg==;D3BHyqvog4DAnTVjkN9FAg=="
+secured: "1cdaCI2qc+5BbBDF6aZ+hL3VFFwWkX1CuF0fxYut/lUJdLALRvbz1kqranLIY99B+pXJ0qjJ2baXIsd9cIWCueDwgAWgZ5nrw4si3aQ22IJBC9/up/GeDCctvqhezd6NS5IhD8xiYvt3OE8Y2uQ9K9bSYp39nTbve2bpINUzzv0WmUve0FY6YtWv+BW003T5kunjuFK4WePfCL9MvyjptMDBDyR8+WR+oHuhFE54Lajchf3Wj+cdtI5EDEWBs68qPD4EmHqE4DpIUG1beNC/Qp2WanwU5hIyfarRlc1FKFNM29kDpMbiCr5nj9CN7er+KSQyDHNhb5R6VPPviUx+w+20zjxI5gtRHKofj0En+1IcmhJQm7ikXS4C3y4zug3tdAMnOmc7mk+9r9WiNVMHrkLNXUp5ot1dP02+4a9ckCNKg1j4U/v5PGSrCDCvqJUgvNZ3h4Yr37qkAIINmdkD59c7+g5dDCun4342i+BZfLk9yX1SwR3fARdZtwQ2GOPnaXfT7kzIxQQa0LUa4/1B8A==;5aACUfVhrhOZ4ZOtoY6IuA=="
 ---
 

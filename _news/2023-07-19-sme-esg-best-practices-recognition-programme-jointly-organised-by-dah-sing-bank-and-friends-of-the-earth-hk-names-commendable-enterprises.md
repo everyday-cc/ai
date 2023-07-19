@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Sme Esg Best Practices Recognition Programme Jointly Organised By Dah Sing Bank And Friends Of The Earth (Hk) Names Commendable Enterprises"
-excerpt: "\"sme esg best practices recognition programme\" (\"the programme\") jointly organised by dah sing bank, limited (\"dah sing bank\") and friends of the earth (hk) (\"foe (hk)\") announced today that 19 small to medium-sized enterprises (\"smes\") have received the certificate of recognition for taking the first steps in adopting environmental,"
-publishedDateTime: 2023-07-18T19:03:00Z
-originalUrl: "https://menafn.com/1106623536/Sme-Esg-Best-Practices-Recognition-Programme-Jointly-Organised-By-Dah-Sing-Bank-And-Friends-Of-The-Earth-Hk-Names-Commendable-Enterprises"
-webUrl: "https://menafn.com/1106623536/Sme-Esg-Best-Practices-Recognition-Programme-Jointly-Organised-By-Dah-Sing-Bank-And-Friends-Of-The-Earth-Hk-Names-Commendable-Enterprises"
+title: "\"SME ESG Best Practices Recognition Programme\" Jointly Organised by Dah Sing Bank and Friends of the Earth (HK) Names Commendable Enterprises"
+excerpt: "Ms Phoebe Wong, Deputy Chief Executive, Senior Executive Director, Group Head of Personal Banking, Dah Sing Bank, delivering speech in the SME ESG Best Practices Recognition Programme Results Announcement Ceremony Mr Anthony Cheung, Vice-chairperson ..."
+publishedDateTime: 2023-07-18T22:00:00Z
+originalUrl: "https://www.asiaone.com/business/sme-esg-best-practices-recognition-programme-jointly-organised-dah-sing-bank-and-friends"
+webUrl: "https://www.asiaone.com/business/sme-esg-best-practices-recognition-programme-jointly-organised-dah-sing-bank-and-friends"
 type: article
-quality: 0
-heat: 0
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Finance
 
-secured: "zxMrrOXp7PF3qDJKs3bafwpu+hPT3rauxK41dRJTAPIgLmgubvd0vEQRMhEYpI/ZoaQ0HV9rVD5RQAeN1Zo5juV68cVpp/YJmre2T0AJ0ZYnsGt2T3lTbmoiRmg9BdMpkXEfaa3aftqTtPIV/atNTUmS8NC0PV6N2DwzUJa/tD2TzCsFhnRGUmAzXC+eVoJyfsOm6f8BdKtewyrOliZTWyPVvU870VvBHSiajnTLtn2RA28bNrGmRHtMF4wyxNRBclHpt01dfrkFXs4ab6Fp3w/CLSHr4D+yZv3VTkvWFsxYJf78eM+Dsw01edGVFoPFK4a4+SYcch1uRXsk2gRSEQKJEMED6BnQQqmGTT9TFr8=;cv+oQCBO4/rzQ+yjQfImeg=="
+images:
+  - url: "https://photos.acnnewswire.com/tr:n-650/DahSing202307181.jpg"
+    width: 650
+    height: 975
+    isCached: true
+
+secured: "68EpB+vHNvFUfYkwJBC7xq3ajxnPAy8KAuDos9f+We+a50BoO6KQkklN+e8rP72aOoH0hlueFB8aAj7s5XEko1kq3IVmVARQsDfykROEamkqMlfmkcTAwTVNIkYl8ejM1yNBS+uU4rYkUVbDzR1tOO5TvKLhNDDGOKt3fn3/KeJqysZFG4gcHfaP39JuPg+uQr44ZC9L/c4bIZgx11C8RjfXo2SYAkAqkOOwONm9OMwYVne87kGV41UvJEQ9jTF9R6R+GR8QJM7naixadBm8jBGJQ+NY50xUZXtcXzGnCJZXtzrZlRccCqvFGzK1VwCN4YGXppBJMEsepLDH0FCPRdvlMGd30hMWk4Lvbf7AN24=;37l1AhDYjEROrMOZcK6Fpw=="
 ---
 

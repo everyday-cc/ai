@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 93
 published: true
 
 provider:

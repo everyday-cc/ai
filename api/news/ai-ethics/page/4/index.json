@@ -2,6 +2,206 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-31-openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter.md",
+      "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
+      "excerpt": "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 317,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
+      "publishedDateTime": "2023-05-30T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-10-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
+      "title": "10 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
+      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "publishedDateTime": "2023-05-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
+      "title": "How the generative AI boom could deliver a wave of successful businesses",
+      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-ai-is-a-nuclear-bomb-and-the-entire-world-has-already-got-it-palantir-ethics-expert-warns.md",
+      "title": "AI is 'a nuclear bomb and the entire world has already got it,' Palantir ethics expert warns",
+      "excerpt": "An expert on artificial intelligence ethics for a company that builds software used in war zones likened the emergence of widely-available advanced AI to the atomic bomb this week, voicing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e411ac96-aa6b-4cff-8544-75f535f21996/3051c914-44d6-4e64-b3d4-b809d56b5ce9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
+      "publishedDateTime": "2023-05-26T21:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-a-call-for-safe-and-ethical-ai-artificial-intelligence-for-health.md",
       "title": "A Call for Safe and Ethical AI (Artificial Intelligence) for Health",
       "excerpt": "The World Health Organisation (WHO) urges caution while employing extensive language model tools (LLMs) produced by artificial intelligence (AI ... including LLMs, to support healthcare professionals, patients, researchers, and scientists.",
@@ -1258,208 +1458,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint.md",
-      "title": "2023 To 2030, Data and AI Ethics Market Size With The Rising Need To Broaden Viewpoint",
-      "excerpt": "This Data and AI Ethics Market report researches the key producers of Data and AI Ethics, also provides the sales of main regions and countries. Highlights of the upcoming market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-ethics-of-artificial-intelligence-ai-in-brazil.md",
-      "title": "Ethics of Artificial Intelligence (AI) in Brazil",
-      "excerpt": "Artificial intelligence (AI) has enormous potential for benefiting humanity and promoting sustainable development, but only if it develops in a way that benefits humanity, respects global norms and standards, and is anchored in peace and sustainable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "originalUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-11/brz_brasilia_Itamarati_palace_UNESCO-EdsonFogaca.jpg?h=3d3477a3&itok=vyJlWReC",
-          "width": 400,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-unveils-advanced-ai-model-to-beef-up-bard-search-maps-and-more.md",
-      "title": "Google unveils advanced AI model to beef up Bard, Search, Maps and more",
-      "excerpt": "With its new PaLM 2 large language model, Google said its key products and services will be simpler and smarter thanks to a huge dose of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "originalUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tr51023-Figure-Top-Google-unveils-advanced-AI-model-to-beef-up-Bard-Search-Maps-and-more.jpg",
-          "width": 1080,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/google-unveils-advanced-ai-bard-search-maps/amp/",
-      "publishedDateTime": "2023-05-10T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals.md",
-      "title": "Google I/O 2023 Live Blog: Pixel 7A, Fold, Tablet and Bard AI Reveals",
-      "excerpt": "Google I/O 2023, the company's annual developer conference is now underway and is already including reveals for Google's AI plans, the new Pixel 7A, Pixel Fold and Pixel Tablet. Google's keynote has just wrapped, but you can check out all the major highlights from our live blog below.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "originalUrl": "https://www.cnet.com/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/0ca7c8055796ec105c7002853ee5ae9fabf8ea1e/hub/2023/04/20/b51b4ccc-c533-42a5-bf98-62ba415a1b56/google-io-2023-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news-live/google-io-2023-live-blog-pixel-7a-fold-tablet-and-bard-ai-reveals/",
-      "publishedDateTime": "2023-05-10T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

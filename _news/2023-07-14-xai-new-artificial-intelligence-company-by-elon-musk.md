@@ -63,22 +63,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Elon Musk launches AI startup xAI"
-    excerpt: "Musk said this was part of efforts to build 'safer AI'"
-    publishedDateTime: 2023-07-14T05:52:00Z
-    webUrl: "https://www.exchange4media.com/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 57
-    images:
-      - url: "https://exchange4media.gumlet.com/news-photo/128561-musk.webp?w=500"
-        width: 500
-        height: 271
-        isCached: true
 
 secured: "3rYXm69rmvrBTXa7SW32zZJQs4UKCd18KU0HPOzY1FNRaJhSmPkuTWmndmklAXIAC0h0DqC1zrvauLLr6yZ2OHHpLGbBmp3bOU4WVwsko5pVXjyaql7JOSqp9CvrLYLVZMCYeNPldYhOkesy+kT5X7cw3aaOTUQF1LRXqcFhQrcuvrALRCOnd1/ewagh+Iadz1xZFK+sFRyb4sfWpfm1Lpdweco8chFpVOfY6nnxUyhwyhoAIayonCqme/ISqWSnfmRjw2lnOiuRsaSymwzSUHi4k/1KBVlVxHR7SIPG3ccfy/izG522jFc2s+Apd6/QwKJhXy52jsSdqOOPj+6qMZCc6D9zpLez49twkYOgh2ENI807hN43Z3ew/Vxle+Yd8DRT/3UcXMuOa4Gq+Y7nmjFQiKBPvDOF3efuz7v6csefVwlgTEHlryEtmf9ZI+y70A4Qe7TKaf7MmV8SsEV4mTghQBC+HqsYF+Bteg/4fo1eOtXXCvLYvOn6KiFPd6OvUG+jv51ZvtSuDSZpn+do4A==;EGRjirvMV6yc3HvjceLKOw=="
 ---

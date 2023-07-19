@@ -74,6 +74,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Figure AI has landed fresh funds from Intel Capital after its humanoid robots took its first steps"
+    excerpt: "A startup working on a robot that could take over dangerous and unwanted jobs got some new funding from Intel Capital."
+    publishedDateTime: 2023-07-18T20:12:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/07/18/figure-lands-9m-from-intel-to-developer-robot.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 20
   - title: "Humanoid robot startup Figure nabs $9M investment from Intel Capital"
     excerpt: "TechCrunch reported the investment today. Intel’s capital infusion follows a $70 million raise that Figure disclosed in May. That round included the participation of several institutional investors as well as the startup’s founder and Chief Executive Officer Brett Adcock."
     publishedDateTime: 2023-07-17T17:40:00Z

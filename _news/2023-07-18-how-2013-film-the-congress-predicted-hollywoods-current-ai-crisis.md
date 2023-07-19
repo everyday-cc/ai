@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
-    excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
-    publishedDateTime: 2023-07-14T06:47:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
-        width: 1177
-        height: 662
-        isCached: true
   - title: "Fable unveils Showrunner AI to create South Park-like TV shows with you as the star"
     excerpt: "Fable has released Showrunner AI technology, dubbed SHOW-1, which can generate new episodes of TV shows with you as the star."
     publishedDateTime: 2023-07-18T17:01:00Z

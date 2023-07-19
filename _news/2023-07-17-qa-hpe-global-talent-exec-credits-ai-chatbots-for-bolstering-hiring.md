@@ -104,20 +104,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta’s Own AI Bot: Zuckerberg May Soon Release Its Own AI Chatbot Rival To Bard And ChatGPT"
-    excerpt: "Additionally, Meta's Founder and CEO, Mark Zuckerberg, along with other executives, have hinted at their intention to create multiple AI chatbots for individuals, advertisers, and businesses across Meta's platforms, namely Instagram, WhatsApp, and Facebook. These chatbots will be powered by Meta's LLMs."
-    publishedDateTime: 2023-07-14T06:09:00Z
-    webUrl: "https://in.mashable.com/tech/56336/metas-own-ai-bot-zuckerberg-may-soon-release-its-own-ai-chatbot-rival-to-bard-and-chatgpt"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 59
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/untitled-design-1_d8b9.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Canada Excluded from Google’s AI Chatbot Bard due to Online News Act"
     excerpt: "Canada, unlike most countries, lacks access to Google's AI chatbot, Bard, due to the ongoing clash between Google and Canada's"
     publishedDateTime: 2023-07-17T16:19:00Z

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-18-enhance-amazon-lex-with-conversational-faq-features-using-llms.md",
+      "title": "Enhance Amazon Lex with conversational FAQ features using LLMs",
+      "excerpt": "Amazon Lex is a service that allows you to quickly and easily build conversational bots (“chatbots”), virtual agents, and interactive voice response (IVR) systems for applications such as Amazon Connect. Artificial intelligence (AI) and machine learning (ML) have been a focus for Amazon for over 20 years,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-lex-with-conversational-faq-features-using-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/18/enhance-lex-conversational-faq-llm.jpg",
+          "width": 1021,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T15:48:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-alterme-ai-the-next-generation-photo-editing-app-powered-by-aws.md",
+      "title": "AlterMe AI: The Next-Generation Photo Editing App Powered by AWS",
+      "excerpt": "Amazon Web Services (AWS) has been collaborating closely with our team to develop an innovative and groundbreaking photo enhancement app called Alterme AI. This next-gen app harnesses the power of art",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/ab33275812/alterme-ai-the-next-generation-photo-editing-app-powered-by-aws",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/ab33275812/alterme-ai-the-next-generation-photo-editing-app-powered-by-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33275812",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33275812",
+      "publishedDateTime": "2023-07-18T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-build-an-email-spam-detector-using-amazon-sagemaker.md",
       "title": "Build an email spam detector using Amazon SageMaker",
       "excerpt": "Spam emails, also known as junk mail, are sent to a large number of users at once and often contain scams, phishing content, or cryptic messages. Spam emails are sometimes sent manually by a human, but most often they are sent using a bot. Examples of spam emails include fake ads, chain emails, and impersonation",
@@ -387,34 +482,25 @@
     },
     {
       "path": "_news/2023-07-11-alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws.md",
-      "title": "Alteryx Fuels Finance Transformation With Decision Intelligence And Intelligent Automation Leveraging The Power Of Aws",
-      "excerpt": "2 Modernize with new technologies : Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science, robotic process ...",
+      "title": "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS",
+      "excerpt": "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
-      "originalUrl": "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?876535",
-          "width": 298,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T13:40:00-07:00",
+      "publishedDateTime": "2023-07-10T14:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1354,101 +1440,6 @@
         "AWS AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-the-best-movies-on-amazon-prime-video-july-2023.md",
-      "title": "The best movies on Amazon Prime Video (July 2023)",
-      "excerpt": "As with other streamers, movies are always coming and going on Amazon Prime Video. And while Prime Video’s original films are picking up more momentum, Amazon is still largely dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/american-sniper-1.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
-      "publishedDateTime": "2023-06-30T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-6-ways-you-didnt-know-ai-can-help-with-your-side-gig.md",
-      "title": "6 Ways You Didn’t Know AI Can Help With Your Side Gig",
-      "excerpt": "“Moreover, Rekognition by Amazon Web Services is yet another helpful AI tool. I can now offer services like content moderation, object recognition and facial analysis thanks to Rekognition’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/6-ways-didn-t-know-190004758.html",
-      "originalUrl": "https://www.aol.com/6-ways-didn-t-know-190004758.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/HTRB65PBcZTgoXWrYFVJlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/830fa60e94844d97ed0eeb4ac34f6f41",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

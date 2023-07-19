@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "3 Machine Learning Stocks for Getting Rich in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) exploded in 2023 as generative AI programs,"
+    publishedDateTime: 2023-07-18T21:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-for-getting-rich-in-2023-1032456294"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "7 Hypergrowth Stocks That AI Is Loving in July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Some stocks have skyrocketed year to date. Indeed, shares of some technology"
     publishedDateTime: 2023-07-14T23:37:00Z

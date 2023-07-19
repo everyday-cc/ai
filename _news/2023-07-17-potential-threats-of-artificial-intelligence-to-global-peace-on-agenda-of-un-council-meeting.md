@@ -58,6 +58,22 @@ related:
         width: 275
         height: 215
         isCached: true
+  - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
+    excerpt: "An artificial intelligence company executive told the first U_N_ Security Council meeting on AI’s threats to global peace that the handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems"
+    publishedDateTime: 2023-07-18T23:26:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 50
+    images:
+      - url: "https://s.abcnews.com/images/Technology/wirestory_5a184197c4281365866b5963d56f84ea_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "UN chief warns of risks of artificial intelligence"
     excerpt: "UN Secretary-General Antonio Guterres on Tuesday warned of the risks of artificial intelligence AI and called for a race t"
     publishedDateTime: 2023-07-18T17:53:00Z

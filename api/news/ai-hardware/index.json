@@ -262,7 +262,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -403,7 +403,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -455,7 +455,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/14/this-small-chip-stock-is-up-200-in-a-year-on-ai-hy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1018,7 +1018,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {

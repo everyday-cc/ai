@@ -42,22 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "'Oppenheimer' director Christopher Nolan says AI in film carries ‘responsibilities’ like atomic bomb creation"
-    excerpt: "Christopher Nolan believes that the surge of artificial intelligence could bare the same responsibilities that the creation of the atomic bomb had as new technology."
-    publishedDateTime: 2023-07-14T06:00:00Z
-    webUrl: "https://www.foxnews.com/entertainment/oppenheimer-director-christopher-nolan-says-ai-film-carries-responsibilities-atomic-bomb-creation"
-    ampWebUrl: "https://www.foxnews.com/entertainment/oppenheimer-director-christopher-nolan-says-ai-film-carries-responsibilities-atomic-bomb-creation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/oppenheimer-director-christopher-nolan-says-ai-film-carries-responsibilities-atomic-bomb-creation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 68
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bea4177d-fc89-447a-a047-adafe41d7d1d/198a0a87-17b4-45ca-b298-3ee6cc53798c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "qOXSxo1FRZbAFr9b/vkZVTSGwFJVvjCA+Ji40oqHaT9B7dPZbUPWnT4Jv2sxQGIP+bC+HD7qJ6pA3xQGliv4rcy9oAEAv/yyk7GTDjzyTn9RsFie9iP4szZcRqZ5lL6WlGH+wI1y0y+g98B0EU+Emoj5G73ko7MPR5MfvxyyUzgCZydxZpcKot+qLX2AfbWC0cc1+SaJALa1lTQ7WVQiWXyvtS+rqyZ2LehhQOqd41ulGlE3KeRYPG6RH99eJtqgXlDS0swWzghiEE0qp+p0yw8oiCSYII3e5yuuUYEF5w4HFzX9oqciC0OdZTjlbYYGsYctbcqyADjW2qUqtc4sqHUe7cY9rfvv3eirnXyUUtOayh+AoToLh9Kddhz7U3rs6ilYLYQ9ZDM/yAeMBWrMB8SRXVPgjhi+JeLDO0DwzSWfty1edhneQJVtmgp6NGKjLPy1o/6K/Pfs5R0Y2KLGnT83jcfMVwNcNyqymcVkgHwBSfEhNsKisxHA8+NMNM3uFiUhsy/Q+IesDhtWCAIwCw==;yLrdQpJvZdCDKvGrRbPGEg=="
 ---

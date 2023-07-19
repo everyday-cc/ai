@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -298,6 +298,75 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-seven-things-to-know-about-responsible-ai-microsoft.md",
+      "title": "Seven things to know about Responsible AI – Microsoft",
+      "excerpt": "Artificial intelligence is rapidly transforming our world. Whether it’s ChatGPT or the new Bing, our recently announced AI-powered search experience, there",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/609516/seven-things-to-know-about-responsible-ai-microsoft/",
+      "originalUrl": "https://www.inferse.com/609516/seven-things-to-know-about-responsible-ai-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-big-tech-ai-partnership-promotes-critical-race-theory-marxist-teachings.md",
+      "title": "Big Tech AI Partnership Promotes Critical Race Theory, Marxist Teachings",
+      "excerpt": "Big Tech AI Partnership Promotes Critical Race Theory, Marxist Teachings Jason Cohen on July 12, 2023 Partnership on AI (PAI), a nonprofit connected to",
+      "sourceUrl": null,
+      "webUrl": "https://www.shorenewsnetwork.com/2023/07/12/big-tech-ai-partnership-promotes-critical-race-theory-marxist-teachings/",
+      "originalUrl": "https://www.shorenewsnetwork.com/2023/07/12/big-tech-ai-partnership-promotes-critical-race-theory-marxist-teachings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "shorenewsnetwork",
+        "domain": "shorenewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
       "title": "Top 6 AI Trends 2023",
       "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
@@ -496,6 +565,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-mastering-chatgpt-ethical-challenges-of-chatgpt.md",
+      "title": "Mastering ChatGPT: Ethical Challenges of ChatGPT",
+      "excerpt": "we will delve into the complexities of AI ethics, including data privacy, misinformation, bias, and job displacement. Roberts, extensive knowledge and experience in the field make him a relatable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2237_2750.jpg",
+          "width": 691,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -836,6 +948,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-09-experts-call-for-ethically-responsible-ai-solutions.md",
+      "title": "Experts call for ethically responsible AI solutions",
+      "excerpt": "Joint efforts have been put forward by academics, researchers and government authorities to call for reliable and ethically responsible artificial intelligence solutions. An LLM is one of the hottest types of AI algorithm that uses deep-learning tools and large data sets to understand, summarize, generate and predict new content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shine.cn/biz/tech/2307086446/",
+      "originalUrl": "https://www.shine.cn/biz/tech/2307086446/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://obj.shine.cn/files/2023/07/08/6298dfcf-55c6-43a9-a223-6f0fc5b1ebc8_0.jpg",
+          "width": 576,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHINE",
+        "domain": "shine.cn",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1290,189 +1445,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-debunking-ai-myths-the-truth-behind-5-common-misconceptions.md",
-      "title": "Debunking AI Myths: The Truth Behind 5 Common Misconceptions",
-      "excerpt": "Unravel the enigma of AI as this article busts five pervasive myths, from fears of robotic world domination to the mistaken belief in machines' unbiased judgment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5031dc7bbf308cbb4ddd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/05/debunking-ai-myths-the-truth-behind-5-common-misconceptions/amp/",
-      "publishedDateTime": "2023-07-04T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-teaching-kids-the-ethics-of-artificial-intelligence.md",
-      "title": "Teaching Kids The Ethics Of Artificial Intelligence",
-      "excerpt": "But a new kind of summer camp wants kids to know that artificial intelligence (AI) is far from perfect. Welcome to AI Ethics camp. In a classroom on the second floor of the Massachusetts Institute of Technology’s Media Lab, two dozen middle school-aged ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/science-and-technology/2019/07/31/teaching-kids-the-ethics-of-artificial-intelligence",
-      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2019/07/31/teaching-kids-the-ethics-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
-      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
-      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
-          "width": 1184,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-the-vatican-releases-its-own-ai-ethics-handbook.md",
-      "title": "The Vatican Releases Its Own AI Ethics Handbook",
-      "excerpt": "The Vatican is getting in on the AI craze. The Holy See has released a handbook on the ethics of artificial intelligence as defined by the Pope. The guidelines are the result of a partnership between Francis and Santa Clara University’s Markkula Center ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076",
-      "originalUrl": "https://gizmodo.com/pope-francis-vatican-releases-ai-ethics-1850583076",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e3364c892e40304167feed0f80c8de71.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-02T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

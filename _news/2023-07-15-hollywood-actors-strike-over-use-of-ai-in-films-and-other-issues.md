@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Striking Actors Say Hollywood Studios Want To Perpetually Use AI-Generated Replicas Of Actors For One Day’s Pay"
-    excerpt: "In their proposal studios want to gain ownership of a background actor’s image and likeness and “use it for the rest of eternity” without any consent in return for a day’s pay, the striking actors alleged."
-    publishedDateTime: 2023-07-14T06:47:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/14/striking-actors-say-hollywood-studios-want-to-perpetually-use-ai-generated-replicas-of-actors-for-one-days-pay/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b0ef566fd25ebd02ee197f/0x0.jpg?format=jpg&crop=1177,662,x0,y1,safe&width=1200"
-        width: 1177
-        height: 662
-        isCached: true
   - title: "How 2013 film The Congress predicted Hollywood's current AI crisis"
     excerpt: "With US actors striking in part because of the threat of AI to their livelihoods, a 10-year-old, little-seen movie starring Robin Wright now seems eerily prescient, writes Caryn James."
     publishedDateTime: 2023-07-17T23:01:00Z

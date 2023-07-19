@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese's fiery Ben Fordham interview: PM fires up as he's grilled about Voice Yes campaigner Thomas Mayo's 'pay the rent' comments"
+    excerpt: "Everyone says stop talking about the Voice. As important as Indigenous recognition is, we need to do something about this (cost of living) now. 'It's really tough for people at the moment.' The Prime Minister acknowledged that support for the Voice is ..."
+    publishedDateTime: 2023-07-18T23:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12313123/Anthony-Albaneses-fiery-Ben-Fordham-interview-PM-fires-hes-grilled-Voice-Yes-campaigner-Thomas-Mayos-pay-rent-comments.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-12313123/amp/Anthony-Albaneses-fiery-Ben-Fordham-interview-PM-fires-hes-grilled-Voice-Yes-campaigner-Thomas-Mayos-pay-rent-comments.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12313123/amp/Anthony-Albaneses-fiery-Ben-Fordham-interview-PM-fires-hes-grilled-Voice-Yes-campaigner-Thomas-Mayos-pay-rent-comments.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 24
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/07/19/01/73363217-0-image-a-4_1689724813500.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Anthony Albanese urged to ‘drop’ Voice from referendum on constitutional recognition, legislate regional Voices to show they work"
     excerpt: "Prime Minister Anthony Albanese has been urged to drop the Voice to Parliament from the upcoming referendum, paving the way for constitutional recognition to be achieved while legislated regional Voices can demonstrate they work."
     publishedDateTime: 2023-07-18T08:18:00Z

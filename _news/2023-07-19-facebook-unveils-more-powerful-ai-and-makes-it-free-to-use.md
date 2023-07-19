@@ -27,30 +27,16 @@ images:
 related:
   - title: "Facebook unveils more powerful AI model and makes it free to use"
     excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T20:41:00Z
-    webUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    ampWebUrl: "https://amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    publishedDateTime: 2023-07-18T22:45:00Z
+    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
+    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
     type: article
     provider:
-      name: The Age
-      domain: theage.com.au
+      name: Sydney Morning Herald
+      domain: smh.com.au
     quality: 39
-  - title: "Facebook parent Meta makes public its ChatGPT rival LLaMA"
-    excerpt: "(AP) — Facebook parent company Meta Platforms has ... the social media company has long had a big research team of computer scientists devoted to advancing AI technology. But it’s been overshadowed as the release of ChatGPT sparked a rush to profit ..."
-    publishedDateTime: 2023-07-18T21:44:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 24
-    images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
-secured: "+zjoQyIAacV5xY7woYLN1T9Ockzvszkw8uz1YT4V4Jnplvr5J+JZS1sWbF2dL0RcV4taAxxgC8mimykHIKfDzkVMG6cgGouJQiQlb1pP9GB3AaJIHUlUTf5wTM0aukX3UCECRrRqlXQJyRntAU3qwyPG85g92wCBfYd/bRE7skh0dyBGhI7BmJONYcFkfHqhSpTVN1vedr07XCSHpr6PMutgMn06LFcjNbniLb9RdS0AWIgxN4E8eu8hPMcJXXe4llNtPhc4q+c7tbg85BeWyOJetyWPS/xiQYmDoNTthyMRIGTWjo+872o682oIkEn+P509TJW5wPZCP1JO06eVQVJB/w4TGlGwG8BxGl/AJbc=;jnET/ddPT8s1X1GFPmDzgw=="
+secured: "8jYXZgXiXFwTnGURMfvz87QdVJjInWVV5fo94jmYzaRz9HufN02ul/0CZk/c8pI6aXOtbORN+RxeqY5uhHFtcl7kD1LdRUJ3ONOm0MOOuu6Dp/uJsSuZeGGfHne/xq4x+eZU9Z+a3wMlplwQgqCTfNpIy/VxbQHk62dZYeVChk9jDBb95xCLMzVXjnB8e2qSUwXJRlmrKYO8vliN7sL6IeamIvY3yfd0StIpHN+BDqdUvZJMZDp8fKcSj3Au+TjO0Wi1PBVgXaQvFzAZbo1IgIwy60AwBUB1SvMJgwfxpLQpy/S6g6ZvIaHeDhzyG+TQolTScfTqP3C2mrbl0HJW4yXi6dPCyuU4bh8byP8XgOrnKgOmDBQdKtJHAJyIZcUWzA1lvMoKnNYJScqGS3ZdzYUMSJBgTYEXqoE6TDXf1BRbO4obmiENK+HI/so61nc6GJ84ZfuxSoyi8mSCoy9QEMSd9u0G/qxpjDpEX9z08EdOulr64fvOfYh3MwgMTQtKSnf22J3hntRP5JJBihtu2Q==;D+M0grO7EpgLDgk/rXQM6Q=="
 ---
 

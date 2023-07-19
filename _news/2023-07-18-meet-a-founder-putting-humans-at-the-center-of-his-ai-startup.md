@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "This Startup Is Unlocking AI for Asset Managers"
+    excerpt: "Using OpenAI and other large language models, Alai is building tools that investment firms can use to safely leverage their proprietary resources."
+    publishedDateTime: 2023-07-18T20:48:00Z
+    webUrl: "https://www.institutionalinvestor.com/article/2bxxg16ng9uds7jcye1a8/corner-office/this-startup-is-unlocking-ai-for-asset-managers"
+    type: article
+    provider:
+      name: Institutional Investor
+      domain: institutionalinvestor.com
+    quality: 37
+    images:
+      - url: "https://cdn.assetmg.info/dims4/default/8fef1b2/2147483647/strip/true/crop/1000x563+0+44/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-in-investor-prod.s3.amazonaws.com%2Fbrightspot%2F5a%2F6b%2F3b2c79c94e22bebf35910bead09b%2Fart-alaiai-0718.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "A kinder, more human AI – the Cork startup training tech to be emotionally intelligent"
     excerpt: "Artificial intelligence (AI) needs to be more human and empathetic, according to the Irish co-founder of a startup training AI to be emotionally intelligent."
     publishedDateTime: 2023-07-16T00:30:00Z

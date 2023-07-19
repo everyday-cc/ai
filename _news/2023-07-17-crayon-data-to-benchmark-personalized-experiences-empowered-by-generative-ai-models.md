@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
+    excerpt: "Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, t"
+    publishedDateTime: 2023-07-18T22:23:00Z
+    webUrl: "https://menafn.com/1106625051/Crayon-Data-to-benchmark-personalized-experiences-empowered-by-Generative-AI-models"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/18/pr_11591_936594a6_image_story.png"
+        width: 2765
+        height: 4148
+        isCached: true
 
 secured: "iTPtfANguJT50yl/ghN8a/xOqLlmjZAhSv9RMQDAU0JhTucdUdYhV8n5rnDR7Clh5yFdrQZU+t3LipJOyAKKUEnNsKpk7k1uy057t1SqABWPUqDtsuJfa3ghKc+CyMb4GYyUbEwIzbq20vYU/PtE6zYJM3cxHwjki4ccE/Ks8eRMSRGU+PH2WeNsP+iLQoNw5EtBCfkAh42A6PQHBLe+CrGIawH6h9nnRxbr6gBjzBIQEnTj/7AXW/8vMAA4yNX12jmT55KP72f7S8bnxThx5s8sAgFOict/6W47buAUanOygfMxcJCaolsVznDciF5EB0p0DALVqR5zqxFYDebjleojlbvANXEmRQQ+qG4cKeJHVhGoEZO1OzKtJsSgjD5nTeNfnaTjOQKA2FCG26pqZZ5tuTSNTx1mZPVibellmT9c/0u1XMCwKDGCYkZmzKSESOi2CIf2AXb5phE/xXFDO3otrnBHgH/ulvaGt2zCAHQEU366PNTkTxDXsSM/wpXmo+q3tHJOCxeRaopKwQwRPQ==;9XlDjw8qwwyJGyemQYj8Dg=="
 ---

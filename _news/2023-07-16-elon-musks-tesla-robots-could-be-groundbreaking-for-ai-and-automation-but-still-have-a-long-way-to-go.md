@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05uyfAeIkPGBdn2DgIKTtUU-1.fit_lim.size_1200x630.v1689369120.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Elon Musk launches AI startup xAI"
-    excerpt: "Musk said this was part of efforts to build 'safer AI'"
-    publishedDateTime: 2023-07-14T05:52:00Z
-    webUrl: "https://www.exchange4media.com/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/elon-musk-launches-ai-startup-xai-128561.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 57
-    images:
-      - url: "https://exchange4media.gumlet.com/news-photo/128561-musk.webp?w=500"
-        width: 500
-        height: 271
         isCached: true
   - title: "xAI New Artificial Intelligence Company By Elon Musk"
     excerpt: "Elon Musk has announced the formation of a new artificial intelligence company xAI. Company was announced on twitter by Elon Musk."

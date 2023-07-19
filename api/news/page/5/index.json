@@ -2,6 +2,192 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-14-striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay.md",
+      "title": "Striking actors say rejected 'AI proposal' would let studios use their likeness without fair pay",
+      "excerpt": "On Thursday, leaders at the Screen Actors Guild-American Federation of Television and Radio Artists announced that the group was going on strike after negotiations with Hollywood studios fell apart. According to the Alliance of Motion Picture of Television Producers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "originalUrl": "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/LCBOe1tGVBIEz4dd9flfVQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/c08c39b0-21d5-11ee-a7f6-516698f83aed.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+      "publishedDateTime": "2023-07-13T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-ai-could-help-reduce-fentanyl-shipped-into-us-dhs-says.md",
+      "title": "AI could help reduce fentanyl shipped into U.S., DHS says",
+      "excerpt": "The Department of Homeland Security says new AI scanning technology could help stop some fentanyl that is being shipped in the mail. NBC News’ Julia Ainsley spoke to Secretary Alejandro Mayorkas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-could-help-reduce-fentanyl-shipped-into-u-s-dhs-says-188362821522",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-could-help-reduce-fentanyl-shipped-into-u-s-dhs-says-188362821522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/Video_-_2023-07-13T192709.647-0plgfq.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188362821522",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188362821522",
+      "publishedDateTime": "2023-07-13T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-ai-helping-airlines-forecast-weather-to-reduce-flight-delays.md",
+      "title": "AI helping airlines forecast weather to reduce flight delays",
+      "excerpt": "The nation’s airlines are navigating a summer of weather extremes including record heat, rain, tornadoes, lightning and historic flooding. NBC News’ Tom Costello has more details on how artificial intelligence is now helping to micro-forecast the weather to help cut flight delays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-helping-airlines-forecast-weather-to-reduce-flight-delays-188361797722",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-helping-airlines-forecast-weather-to-reduce-flight-delays-188361797722",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689290656255_nn_tco_air_turbulence_can_ai_manage_flight_schedules_230713_1920x1080-n3jjnw.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188361797722",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188361797722",
+      "publishedDateTime": "2023-07-13T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite.md",
+      "title": "Navigating The AI Combinatorial Explosion: A Guide For The C-Suite",
+      "excerpt": "Creators of the new technology say that businesses will soon be inundated with new products and services now under development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/",
+      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b07c52c6f7abae94534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/07/13/navigating-the-ai-combinatorial-explosion-a-guide-for-the-c-suite/amp/",
+      "publishedDateTime": "2023-07-13T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-google-labs-rolls-out-its-ai-first-notebook-heres-what-it-can-do-and-how-you-can-try-it.md",
       "title": "Google Labs rolls out its 'AI-first notebook'. Here's what it can do and how you can try it",
       "excerpt": "Google has embraced AI and hit the ground running. This is evident with Google's rapid launch of its own chatbot, Google Bard. Now, the tech giant is expanding its AI offerings with the launch of its 'AI-first notebook '.",
@@ -1022,194 +1208,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years.md",
-      "title": "Chinese robotics firm Fourier aims for mass production of humanoid robots in two years",
-      "excerpt": "Chinese tech startup Fourier Intelligence has set a goal of achieving mass production deliveries of humanoid robots within two years.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
-      "originalUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-amazon-prime-day-deals-2023-all-the-best-offers-still-available.md",
-      "title": "Amazon Prime Day deals 2023 - all the best offers still available",
-      "excerpt": "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
-      "title": "The looming addiction crisis fueled by AI",
-      "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac50bf8ed31300199e5355?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "publishedDateTime": "2023-07-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-asking-the-clergy-is-artificial-intelligence-a-help-or-hindrance-to-faith.md",
-      "title": "Asking the Clergy: Is artificial intelligence a help or hindrance to faith?",
-      "excerpt": "Since the OpenAI ChatGPT program was launched in the fall, it has gone viral, with even a Long Island rabbi using it to “plagiarize” a sermon. This week’s clergy discuss the religious implications of the technology, which uses artificial intelligence (AI) to generate text after a user enters a prompt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
-      "originalUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/ace/c:NjZkNGJkM2YtZjRiYi00:NDFiMjA5/landscape/1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
-      "publishedDateTime": "2023-07-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

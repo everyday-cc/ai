@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-19-73-of-consumers-trust-what-generative-ai-wants-us-to-see.md",
+      "title": "73% of consumers trust what generative AI wants us to see",
+      "excerpt": "Eager to use generative artificial intelligence to save effort and time, most consumers trust content created by such tools, including ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
+      "originalUrl": "https://www.zdnet.com/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b3ee67379bffce0c874b5c8b8a44664e3895e0f7/2023/06/19/17423dc3-cd27-4476-bf7e-d899a3679ceb/gettyimages-1490711125.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/73-of-consumers-trust-what-generative-ai-wants-us-to-see/",
+      "publishedDateTime": "2023-06-19T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics.md",
+      "title": "From manufacturing to mosquitoes, universities explore AI uses, ethics",
+      "excerpt": "University of Wisconsin-Milwaukee student Kathryn Pecha (left) and professor of industrial engineering Wilkistar Otieno pictured in the school’s Connected Systems Institute, an AI-optimized mini factory designed to support the development of advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "originalUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/06/061923-SR-Innovation-Research-and-Development-photo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/from-manufacturing-to-mosquitoes-universities-explore-ai-uses-ethics/?amp",
+      "publishedDateTime": "2023-06-19T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-19-ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.md",
+      "title": "'AI Jesus' talks dating, relationships, morals — even offers video-gaming tips",
+      "excerpt": "An AI \"version\" of Jesus nicknamed \"AI Jesus\" takes questions via livestream and gives answers on topics from dating to faith to video gaming. Faith leaders weighed in on where truth can be found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
+      "originalUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c85df20d-1b6f-439b-a609-8fcc7f5d33f2/95dc3e58-3f6c-463e-97b3-ac92fda0f9e5/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/ai-jesus-talks-dating-relationships-morals-even-offers-video-gaming-tips.amp",
+      "publishedDateTime": "2023-06-18T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-18-data-and-ai-ethics-market-making-progress-with-tips-and-deceives-by-our-specialists.md",
+      "title": "Data and AI Ethics Market | Making Progress with Tips and Deceives by Our Specialists",
+      "excerpt": "In addition, the examination report gives definite information about the main considerations affecting the development of the Data and AI Ethics market at the public and neighbourhood level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-making-progress-with-tips-and-deceives-by-our-specialists-2023-06-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-making-progress-with-tips-and-deceives-by-our-specialists-2023-06-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-17T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-17-these-are-the-3-biggest-fears-about-ai-do-they-really-stack-up.md",
       "title": "These are the 3 biggest fears about AI. Do they really stack up?",
       "excerpt": "Abhishek Gupta, founder of the Montreal AI Ethics Institute, said the prospect of AI-induced job losses was the most \"realistic, immediate, and perhaps pressing\" existential threat. \"We need to ...",
@@ -1258,206 +1458,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter.md",
-      "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
-      "excerpt": "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 317,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "publishedDateTime": "2023-05-30T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-10-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
-      "title": "10 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
-      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "publishedDateTime": "2023-05-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
-      "title": "How the generative AI boom could deliver a wave of successful businesses",
-      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-ai-is-a-nuclear-bomb-and-the-entire-world-has-already-got-it-palantir-ethics-expert-warns.md",
-      "title": "AI is 'a nuclear bomb and the entire world has already got it,' Palantir ethics expert warns",
-      "excerpt": "An expert on artificial intelligence ethics for a company that builds software used in war zones likened the emergence of widely-available advanced AI to the atomic bomb this week, voicing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
-      "originalUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/e411ac96-aa6b-4cff-8544-75f535f21996/3051c914-44d6-4e64-b3d4-b809d56b5ce9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-nuclear-bomb-entire-world-already-palantir-ethics-expert-warns.amp",
-      "publishedDateTime": "2023-05-26T21:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-01-ionq-demonstrates-world-first-quantum-cognition-models.md",
+      "title": "IonQ Demonstrates World-First Quantum Cognition Models",
+      "excerpt": "IonQ (NYSE: IONQ), an industry leader in quantum computing, today announced results from its early research into applying quantum computers for modeling human cognition. The recently published paper describes the world's first publicly known method in which basic human cognition models have been run on quantum hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/01/9824736.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/01/9824736.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-aadsts65005-error-when-signing-in-to-microsoft-cloud-services.md",
       "title": "AADSTS65005 error when signing in to Microsoft Cloud services",
       "excerpt": "This post features solutions to fix the AADSTS65005 error when signing in to Microsoft Cloud services. The error usually occurs if the application isn’t registered ...",
@@ -1326,49 +1360,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-it-services-firms-leverage-generative-ai-capabilities-for-clients.md",
-      "title": "IT services firms leverage generative AI capabilities for clients",
-      "excerpt": "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
-      "publishedDateTime": "2023-05-23T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

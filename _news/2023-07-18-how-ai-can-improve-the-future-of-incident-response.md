@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-
 webUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/"
 type: article
 quality: 69
-heat: 79
+heat: 81
 published: true
 
 provider:

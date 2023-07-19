@@ -114,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 549,
+      "heat": 559,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -262,7 +262,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -408,6 +408,41 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-seven-things-to-know-about-responsible-ai-microsoft.md",
+      "title": "Seven things to know about Responsible AI – Microsoft",
+      "excerpt": "Artificial intelligence is rapidly transforming our world. Whether it’s ChatGPT or the new Bing, our recently announced AI-powered search experience, there",
+      "sourceUrl": null,
+      "webUrl": "https://www.inferse.com/609516/seven-things-to-know-about-responsible-ai-microsoft/",
+      "originalUrl": "https://www.inferse.com/609516/seven-things-to-know-about-responsible-ai-microsoft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inferse",
+        "domain": "inferse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1375,40 +1410,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-soul-machines-recognized-as-a-finalist-of-2023-microsoft-azure-ai-partner-of-the-year.md",
-      "title": "Soul Machines recognized as a finalist of 2023 Microsoft Azure AI Partner of the Year",
-      "excerpt": "The award highlights Soul Machines' groundbreaking Generative AI technology SAN FRANCISCO, June 30, 2023 /PRNewswire/ -- Soul Machines today announced it has been named a finalist in the Azure AI category of the 2023 Microsoft Partner of the Year Award.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/30/9842393.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

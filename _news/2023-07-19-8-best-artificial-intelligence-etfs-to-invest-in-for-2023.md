@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-18T20:52:00Z
 originalUrl: "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html"
 webUrl: "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/dGRN4QGQPzon723VUNgqLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/8b9eb79f9593d38fcbba2c62865b289d"

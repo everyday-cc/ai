@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/MWI5N2RhZDMtMzc4NC00/0/yondata-jpg.jpeg?f=3%3A2"
         width: 900
         height: 600
+        isCached: true
+  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
+    excerpt: "Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, t"
+    publishedDateTime: 2023-07-18T22:23:00Z
+    webUrl: "https://menafn.com/1106625051/Crayon-Data-to-benchmark-personalized-experiences-empowered-by-Generative-AI-models"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/18/pr_11591_936594a6_image_story.png"
+        width: 2765
+        height: 4148
         isCached: true
 
 secured: "naakENihojVQjkedu+mvBGUKDX21WcAxCu4/RUdUfHOWHmhi5vuw9En0OwQ2XjaPCAo3bjPl7AZq/tdij6YpXNJ1D1SVz2/9zxIfNFvJviSA2Y1WZk1/I/q5mkjXNSd9KFFjztocZYyiilBjUy9LId1WGVs97BNGJifruLrcoovA933vlvrFJorANMFzgUIypDWZzE5ZJRpPKQ/iG3wlJNrOtcZ5wVDsFHrY6c5WNIQ2yda6903NahDjLOYiwINA80qOmttBFOflMtTXWewOKHGGvmB8fi8atI9SNJY4xvVBkXETA8gSHL0qoNul39/uqQhTKSxTceIHq7gBlp0M3E7yeWsQ5l7qPdkMU4S91liEYJvVBISQfIDfIoH3xi86XcxyW+EBhrOSJgj7kYBWvdI86JLvUeRXnRsiINNBbLI/Ysl5evDznoBQrv2RKfwIjlF4GVU4NO2T13Y3UNoht+6+tcva0q7SiHXG/3bRAX4fY7i2zSwm3xODTAP4v8CeQqUlYCClisX4gj4b7E956A==;6IG96GERrEHlZcpF16MEUA=="

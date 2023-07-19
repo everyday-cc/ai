@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
     quality: 69
     images:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6f769778-2243-11ee-b9dc-95034bbd78f3.jpg?crop=6000%2C3375%2C0%2C312&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta’s Own AI Bot: Zuckerberg May Soon Release Its Own AI Chatbot Rival To Bard And ChatGPT"
-    excerpt: "Additionally, Meta's Founder and CEO, Mark Zuckerberg, along with other executives, have hinted at their intention to create multiple AI chatbots for individuals, advertisers, and businesses across Meta's platforms, namely Instagram, WhatsApp, and Facebook. These chatbots will be powered by Meta's LLMs."
-    publishedDateTime: 2023-07-14T06:09:00Z
-    webUrl: "https://in.mashable.com/tech/56336/metas-own-ai-bot-zuckerberg-may-soon-release-its-own-ai-chatbot-rival-to-bard-and-chatgpt"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 59
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/untitled-design-1_d8b9.1200.jpg"
         width: 1200
         height: 675
         isCached: true

@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "AI versus AI: Human extinction might just be collateral damage"
-    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
+  - title: "AlterMe AI: The Next-Generation Photo Editing App Powered by AWS"
+    excerpt: "Amazon Web Services (AWS) has been collaborating closely with our team to develop an innovative and groundbreaking photo enhancement app called Alterme AI. This next-gen app harnesses the power of art"
+    publishedDateTime: 2023-07-18T21:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33275812/alterme-ai-the-next-generation-photo-editing-app-powered-by-aws"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33275812"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33275812"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "7i9qTfqq+iG0yPd4lP5jXqoajNgzogk/OQnA/ea5k3vzV7oHOJ7r694UE/2DMkLElqCy/3Twa4Lz6XO/9dPhwBwcsbRioxPPKMEHjVxte1zA2P+h1baPLzr4TWQyKEROQ1wVq0POjpnbobAUB9HeKMAz9MJZghPwHUYlR1bYZfdBlrdXXK3ZSr8ZcG3uZii5YbfqF+mXVcAwh6AN9dIbR7tk+iQ01+YZGJbxlTfg6ZuhBKuOf286I1FfWxP9aYMmCfcb5bIcg8OgFwOefpyOD5e8GR1QoPM2dVMG62koNnm32WJhB1o4YwZvbndeyLKuLe8SBkFBVogTSEfH1njkf4Mq5lxEA8SaJ3Va1SjY4Mk=;2GC/y/+2WZyEjBJlKjWRTg=="
