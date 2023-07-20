@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-20-opinion-as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits.md",
+      "title": "Opinion: As investors worry about lower Tesla margins, Musk says Full Self-Driving is key to future profits",
+      "excerpt": "“Autonomy will make all of these numbers look silly.” And of course, that bigger picture, in Musk’s crystal ball, is Tesla’s TSLA, -0.71% Full-Self Driving technology, which he envisions will turn its cars into robotaxis in the not-too-distant futur",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "originalUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-804723/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "publishedDateTime": "2023-07-19T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-review-airrobo-pc100-pool-cleaning-robot.md",
       "title": "Review: AiRROBO PC100 Pool Cleaning Robot",
       "excerpt": "The AiRROBO PC100 is a cordless pool robot with 2-hour battery life and powerful suction that employs AI for a claimed 10X gain in cleaning efficiency.",
@@ -271,7 +323,7 @@
       "originalUrl": "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -415,7 +467,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -519,7 +571,7 @@
       "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1210,58 +1262,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics.md",
-      "title": "Neura Robotics picks up $55M to ramp up in cognitive robotics",
-      "excerpt": "Neura Robotics, a German startup that since 2019 has been building cognitive robots ... That includes not just fashioning all the sensors and other components, but building the AI that powers it. This also means that Neura can collaborate better ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
-      "originalUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/000_David_Reger_MAiRA_4NE-1.jpg?resize=1200,788",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
-      "publishedDateTime": "2023-07-19T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

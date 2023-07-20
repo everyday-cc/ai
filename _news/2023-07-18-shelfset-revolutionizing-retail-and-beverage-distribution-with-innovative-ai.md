@@ -41,6 +41,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
+    excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"
+    publishedDateTime: 2023-07-19T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33289997/introducing-paintit-ai-revolutionizing-interior-design-with-ai-generated-visualizations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "ta9g46zvAli/FdhCd4UZSAqDjmm8PvuxhzBUJ3ngxi5VbD0PfMGmwODtUzhBu9gYlNyW09WUmoylJAfOHfomfrbEuCT+3FeZ5JaTSl7c8iluUcWd595a+4jcq5mpEihtcFRa1uGi+yp4R/I5PvBL/52AYqatzK9nHNyB5+sHsOmFgCE6QwGYNL95nnYapu5yhYeG20KkuYecHJeo1yJTo5hitk0Dj8eWZFCKZOZ67ymLgBNgux/KPi0to0GAun5TXniVlXElYwfXExhEyCZMf4HgLmdgJMECPFCPjamDdpn9SaukM59Tgt2lRysnGi9SUCDOTOeMSC8OdUQUjk/L7C6FkHVgYianaZkzWI8KHnqKmC8iPmaYAkuBxFxjZ8ZfOwZpVZmsbdZ/OsdGRP+9XO0aKrmvviuJ05iDNc9k5WhuBUdmSbb4pxVuD6DXtDMp3Px+DE54kfJ4PuRigytA1A379tHA3PKs9fyqLHKGO2R271EoM1PseYPt8oia7PRyIGLTyK8RUwTxq9gr10DPhQ==;DfNysLIfGIglXkp7zRUtzQ=="
 ---

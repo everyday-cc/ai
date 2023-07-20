@@ -2,6 +2,186 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-16-new-startup-looks-to-blend-ai-and-nuclear-energy.md",
+      "title": "New Startup Looks To Blend AI And Nuclear Energy",
+      "excerpt": "OpenAI's founder, Sam Altman, foresees a future where AI and nuclear energy work together to tackle the energy demands of AI operations and help solve the global energy trilemma.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.html",
+      "originalUrl": "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-07-14_0fjd7wmdfp.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html",
+      "publishedDateTime": "2023-07-15T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-quiz-on-ai-how-much-do-you-know-about-artificial-intelligence.md",
+      "title": "Quiz on AI: How Much Do You Know About Artificial Intelligence?",
+      "excerpt": "Artificial intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of human lives. From chatbots to self-driving cars, AI is already being used in a variety of ways. In this quiz, you will be tested on your knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "publishedDateTime": "2023-07-15T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-7-blue-chip-stocks-that-ai-is-loving-in-july.md",
+      "title": "7 Blue-Chip Stocks That AI Is Loving in July",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results.md",
+      "title": "3 ways AI is already transcending hype and delivering tangible results",
+      "excerpt": "Tailored recommendations and improved security are just two of the ways AI is already transforming business and society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "originalUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_leading_a_business_meeting._Colorful_futuristic_dbf87c4f-2578-4163-9e44-6f53b705e2ac.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-turn-ai-art-into-amazing-poster-prints.md",
       "title": "Turn AI Art Into Amazing Poster Prints",
       "excerpt": "Want to print your AI art creations? Here's how to enlarge AI-generated images so you can print them at any size you like and retain perfect image quality",
@@ -1048,205 +1228,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-last-word-on-ai-and-the-atom-bomb.md",
-      "title": "The Last Word on AI and the Atom Bomb",
-      "excerpt": "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "originalUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
-      "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
-      "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7",
-      "originalUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b072df29e5fd00190eeee9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp",
-      "publishedDateTime": "2023-07-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means.md",
-      "title": "Apple Vision Pro headset to feature custom-designed DRAM chip: Know what it means?",
-      "excerpt": "Apple Vision Pro AR headset features visionOS, the world's first spatial operating system that allows users to interact with digital content as if it were physically present in their surroundings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/apple-vision-pro-dram-chip-1689315790.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-vision-pro-headset-to-feature-custom-designed-dram-chip-know-what-it-means-2023-07-14-881034",
-      "publishedDateTime": "2023-07-13T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-ai-can-help-blind-community-experience-world-in-new-ways-will-lead-to-quality-of-life-changes.md",
-      "title": "AI can help blind community experience world in new ways: 'will lead to quality of life changes'",
-      "excerpt": "A representative from the National Federation of the Blind argued that the greatest obstacle the blind community faces is attitudes and assumptions the general public make of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
-      "originalUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
-      "publishedDateTime": "2023-07-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

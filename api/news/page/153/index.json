@@ -2,6 +2,212 @@
   "page": 153,
   "value": [
     {
+      "path": "_news/2023-04-13-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant.md",
+      "title": "UP Fintech unveils TigerGPT, the industry's first AI investment assistant",
+      "excerpt": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3956059-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant",
+      "originalUrl": "https://seekingalpha.com/news/3956059-up-fintech-unveils-tigergpt-the-industrys-first-ai-investment-assistant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-amazon-will-charge-customers-a-fee-for-some-ups-returns.md",
+      "title": "Amazon will charge customers a fee for some UPS returns",
+      "excerpt": "Amazon is attempting new measures to get customers to return fewer of their online orders, including charging a fee to return items to UPS stores. For decades, Amazon built its business by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/04/12/business/amazon-returns-ups-store-fee/index.html",
+      "originalUrl": "https://www.cnn.com/2023/04/12/business/amazon-returns-ups-store-fee/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230412153011-amazon-box-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/04/12/business/amazon-returns-ups-store-fee/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/04/12/business/amazon-returns-ups-store-fee/index.html",
+      "publishedDateTime": "2023-04-12T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-nvidia-slips-even-as-it-unveils-new-lower-priced-ai-enhanced-gpu.md",
+      "title": "Nvidia slips even as it unveils new lower priced AI-enhanced GPU",
+      "excerpt": "Nvidia (NASDAQ:NVDA) shares slipped slightly more than 1% on Wednesday even as the company unveiled a new lower priced GPU that utilizes artificial intelligence. In a statement, Nvidia (NVDA ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3956050-nvidia-slips-unveils-new-lower-priced-ai-enhanced-gpu",
+      "originalUrl": "https://seekingalpha.com/news/3956050-nvidia-slips-unveils-new-lower-priced-ai-enhanced-gpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-automl-the-promise-vs-reality-according-to-practitioners.md",
+      "title": "AutoML: the Promise vs. Reality According to Practitioners",
+      "excerpt": "Unfortunately, true end-to-end automation is not yet available. AutoML is currently most frequently used in hyperparameter tuning and model selection. The failure of AutoML to be end-to-end can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "originalUrl": "https://www.infoq.com/articles/auto-ml-promise-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-13-decoding-insomnia-machine-learning-model-predicts-sleep-disorders-from-patient-records.md",
+      "title": "Decoding insomnia: Machine learning model predicts sleep disorders from patient records",
+      "excerpt": "A machine learning model can effectively predict a patient's risk for a sleep disorder using demographic and lifestyle data, physical exam results and laboratory values, according to a new study published this week in the open-access journal PLOS ONE by Samuel Y.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/decoding-insomnia-mach.jpg",
+          "width": 2880,
+          "height": 1922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-decoding-insomnia-machine-disorders-patient.amp",
+      "publishedDateTime": "2023-04-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-how-offshoring-and-artificial-intelligence-threaten-us-white-collar-workers.md",
       "title": "How Offshoring And Artificial Intelligence Threaten U.S. White-Collar Workers",
       "excerpt": "A recent Federal Reserve Bank of Atlanta survey found that 7.3% of leadership in the United States plans to move more jobs offshore as the next step from remote work within America.",
@@ -877,240 +1083,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-motion-control-software-in-robotics-market-growth-strategies-2029.md",
-      "title": "Motion Control Software in Robotics Market Growth Strategies 2029",
-      "excerpt": "Apr 11, 2023 (The Expresswire) -- [124 Insights] “Motion Control Software in Robotics Market” Size 2023 Key players Profiled in the Report are [Company 1, Company 2, Company 3, Company 4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness.md",
-      "title": "Detect real and live users and deter bad actors using Amazon Rekognition Face Liveness",
-      "excerpt": "Financial services, the gig economy, telco, healthcare, social networking, and other customers use face verification during online onboarding, step-up authentication, age-based access restriction, and bot detection. These customers verify user identity by matching the user’s face in a selfie captured",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T13:31:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-the-collaboration-technology-making-meetings-more-equitable.md",
-      "title": "The Collaboration Technology Making Meetings More Equitable",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, examines how a pronounced focus on equity and inclusion in meetings has evolved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64358d75411e5df1626ba1b0/0x0.jpg?format=jpg&width=1200",
-          "width": 480,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/amp/",
-      "publishedDateTime": "2023-04-11T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-amazon-prime-day-2023-what-we-know-so-far.md",
-      "title": "Amazon Prime Day 2023: What we know so far",
-      "excerpt": "Promotions are subject to availability and retailer terms. Amazon Prime Day is one of the biggest shopping events of the year. Alongside Black Friday, it's the best opportunity to score doorbuster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/03/23/34c582b1-19f6-41be-ba69-c0ff2b62eb6b/thumbnail/1200x630/797f673b033164ff6863589d01b687ac/when-is-prime-day-2022-main.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2023-what-we-know-so-far/",
-      "publishedDateTime": "2023-04-11T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps.md",
-      "title": "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps",
-      "excerpt": "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T08:39:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

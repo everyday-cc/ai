@@ -60,6 +60,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apple has an AI chatbot up its sleeve: report"
+    excerpt: "As Microsoft and Alphabet duke it out in the world of AI chatbots, Apple may harbor dreams of getting into the game as well."
+    publishedDateTime: 2023-07-20T02:51:00Z
+    webUrl: "https://www.marketwatch.com/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://images.mktw.net/im-810056/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Apple sneaks into the AI chatbot race with 'Apple GPT'"
     excerpt: "The news comes through reports from Bloomberg that the company is quietly working on a tool that engineers dub \"Apple GPT,\" indirectly referring to ChatGPT, the most famous AI chatbot and, until recently, fastest-growing 'app' of all time."
     publishedDateTime: 2023-07-19T20:27:00Z

@@ -2,6 +2,240 @@
   "page": 154,
   "value": [
     {
+      "path": "_news/2023-04-12-motion-control-software-in-robotics-market-growth-strategies-2029.md",
+      "title": "Motion Control Software in Robotics Market Growth Strategies 2029",
+      "excerpt": "Apr 11, 2023 (The Expresswire) -- [124 Insights] “Motion Control Software in Robotics Market” Size 2023 Key players Profiled in the Report are [Company 1, Company 2, Company 3, Company 4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-growth-strategies-2029-2023-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness.md",
+      "title": "Detect real and live users and deter bad actors using Amazon Rekognition Face Liveness",
+      "excerpt": "Financial services, the gig economy, telco, healthcare, social networking, and other customers use face verification during online onboarding, step-up authentication, age-based access restriction, and bot detection. These customers verify user identity by matching the user’s face in a selfie captured",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-real-and-live-users-and-deter-bad-actors-using-amazon-rekognition-face-liveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T13:31:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-the-collaboration-technology-making-meetings-more-equitable.md",
+      "title": "The Collaboration Technology Making Meetings More Equitable",
+      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue, examines how a pronounced focus on equity and inclusion in meetings has evolved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64358d75411e5df1626ba1b0/0x0.jpg?format=jpg&width=1200",
+          "width": 480,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/04/11/the-collaboration-technology-making-meetings-more-equitable/amp/",
+      "publishedDateTime": "2023-04-11T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-amazon-prime-day-2023-what-we-know-so-far.md",
+      "title": "Amazon Prime Day 2023: What we know so far",
+      "excerpt": "Promotions are subject to availability and retailer terms. Amazon Prime Day is one of the biggest shopping events of the year. Alongside Black Friday, it's the best opportunity to score doorbuster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2023-what-we-know-so-far/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2023-what-we-know-so-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/03/23/34c582b1-19f6-41be-ba69-c0ff2b62eb6b/thumbnail/1200x630/797f673b033164ff6863589d01b687ac/when-is-prime-day-2022-main.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2023-what-we-know-so-far/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2023-what-we-know-so-far/",
+      "publishedDateTime": "2023-04-11T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps.md",
+      "title": "Create your RStudio on Amazon SageMaker licensed or trial environment in three easy steps",
+      "excerpt": "RStudio on Amazon SageMaker is the first fully managed cloud-based Posit Workbench (formerly known as RStudio Workbench). RStudio on Amazon SageMaker removes the need for you to manage the underlying Posit Workbench infrastructure, so your teams can concentrate on producing value for your business. You",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-your-rstudio-on-amazon-sagemaker-licensed-or-trial-environment-in-three-easy-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T08:39:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-cadence-ceo-drives-growth-beyond-chip-design-with-ai-and-computational-software.md",
       "title": "Cadence CEO Drives Growth Beyond Chip Design With AI And Computational Software",
       "excerpt": "Dr. Devgan and his company have a vision of bringing the power of simulation, modeling and computational software to far more than just semiconductor chip design.",
@@ -931,241 +1165,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-shanghai-opens-first-industrial-park-dedicated-to-cell-and-gene-therapy.md",
-      "title": "Shanghai opens first industrial park dedicated to cell and gene therapy",
-      "excerpt": "The city's first dedicated industrial park for cell and gene therapy will be unveiled later this year in the latest bid to implement Shanghai's three-year action plan for the booming sector. The Shanghai International Medical Zone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.shine.cn/biz/economy/2304105729/",
-      "originalUrl": "https://www.shine.cn/biz/economy/2304105729/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://obj.shine.cn/files/2023/04/10/e6269de4-c55c-4061-a51d-647f37d8600a_0.jpg",
-          "width": 576,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SHINE",
-        "domain": "shine.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-dashcam-footage-shows-driverless-cars-clogging-san-francisco.md",
-      "title": "Dashcam Footage Shows Driverless Cars Clogging San Francisco",
-      "excerpt": "The 54, brought to a halt by an autonomous vehicle belonging to Alphabet’s Waymo, isn’t the only bus that’s run into trouble with San Francisco’s growing crowd of driverless vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/",
-      "originalUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6430be5f3715dbabc0357bd9/master/pass/Autonomous-Vehicles-Are-Clogging-San-Francisco-Business-1390904981.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/amp",
-      "publishedDateTime": "2023-04-10T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe.md",
-      "title": "Artificial Intelligence In Space: The Amazing Ways Machine Learning Is Helping To Unravel The Mysteries Of The Universe",
-      "excerpt": "AI is revolutionizing space exploration, from autonomous spaceflight to planetary exploration and charting the cosmos. ML algorithms help astronauts and scientists navigate and study space, avoid hazards,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6433d43c3391e77bbcb0e670/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/04/10/artificial-intelligence-in-space-the-amazing-ways-machine-learning-is-helping-to-unravel-the-mysteries-of-the-universe/amp/",
-      "publishedDateTime": "2023-04-10T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-machine-learning-as-a-service-mlaas-market-forecasts-2023-2029.md",
-      "title": "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029",
-      "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-apple-sued-by-baidu-over-fake-ernie-chatbot-apps-on-app-store.md",
-      "title": "Apple sued by Baidu over fake Ernie chatbot apps on App Store",
-      "excerpt": "Chinese tech giant Baidu has sued Apple and a number of app developers over fake versions of its AI chatbot that have appeared in the App Store. Baidu unveiled its own version of OpenAI’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/apple-sued-by-baidu-over-fake-ernie-ai-apps-on-app-store/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/apple-sued-by-baidu-over-fake-ernie-ai-apps-on-app-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

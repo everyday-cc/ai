@@ -2,27 +2,27 @@
 category: news
 title: "Musk predicts Tesla self-driving cars 'later this year'"
 excerpt: "I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai."
-publishedDateTime: 2023-07-06T03:39:00Z
-originalUrl: "https://www.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
-webUrl: "https://www.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
-ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
-cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20230706-musk-predicts-tesla-self-driving-cars-later-this-year"
+publishedDateTime: 2023-07-06T04:01:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566"
+webUrl: "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year/101531566"
 type: article
 
 provider:
-  name: Radio France Internationale
-  domain: www.rfi.fr
+  name: ET Auto
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.rfi.fr/media/display/3ea8b5cc-1bae-11ee-b855-005056a90321/w:1280/p:16x9/90f81fa89c63d18158509247c2231fa2329ddf66.jpg"
-    width: 1280
-    height: 720
+  - url: "https://etimg.etb2bimg.com/thumb/msid-101531566,imgsize-40988,width-1200,height=765,overlay-etauto/passenger-vehicle/musk-predicts-tesla-self-driving-cars-later-this-year.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
-secured: "EtjIwXX6AtPKRWXBwgcfz/6lVeRGS0Kv4KB332Xkx81i9EQbl5oiwy3SfS9VCl2icCjmTW3Yi89bETskntisHOejazdoDaX6RM1t6vU0uPsCNXk8mFVdZPo8JYd13gTSkcZQHq5Kllm25P6vjSn2VJpkqBVdj6vhM31BCKupbUyA2lfarvgtSLCCYBjwMgRIQ2W5KGoQs09fWayicryZzGxbo5pA/RH3rUTfSjEmV8Fl3oVKjN7iXAbJdI7HHFwWy0MIX7u7Mu5qmbiCnOmB9XOqICwmRM//6QuTdWVjDT5BV1CODXbIl6FTa1zRPqt1oUetYtsdwc7XKsVRK023vNruJNo3+pg1enpmQAdmaAE=;jjQ1yCfSHvJ8CK0dzY1D+A=="
+secured: "ev3NOCcTp+x+PE+fsl1tjbARTisPK1Tbyld2kDquUIyDjz3GtaGrYL/PKtQMcAELjUw65UzZqjz3veBNd0/VYNKJoE1qu3YcE+fRmx1SW4Q0EUsI+pJYDtz3GOD/pEF2PHS21yChL3SST9C4sEm7DVdL+TD7ZTye/k6KNpibZQJ6xUczL7TcM1uaP1LiKez44VZh2/O/ch+wJC0BI8ppybKSdEwo5KHp3+TIyE5m9dQbo6L5qOAbZHKtB1pUFKgVIcrNf6RUBW9xR+4lRRs0rHVOPw220PwmLMlnjrAcH3sRkNYXiNpTJhGy9mMq+QS/C7tVsxvi7kYKW53AcSq8ZP4Erv6DT/AtmcdjEdagdDw=;mqLd6W0HRGKoTaTt/v9Q4g=="
 ---
 

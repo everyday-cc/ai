@@ -3,20 +3,26 @@ category: news
 title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
 excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
 publishedDateTime: 2023-07-19T17:46:00Z
-originalUrl: "https://www.kpbs.org/news/news/politics/2023/07/19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
-webUrl: "https://www.kpbs.org/news/news/politics/2023/07/19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+originalUrl: "https://www.knau.org/npr-news/npr-news/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+webUrl: "https://www.knau.org/npr-news/npr-news/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: KPBS
-  domain: kpbs.org
+  name: KNAU Arizona Public Radio
+  domain: knau.org
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/00de5d3/2147483647/strip/true/crop/7673x4028+0+863/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F19%2Fap23200549299825-454cf20a50e7305cfc777623ed92fa1f49e8e926.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
@@ -34,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1adxAKIoEBi/JNhad/JfUPR0j7R6HHiP+aLgBMojFcKL2aJv+LvsZsckMqusy49ucS6BPDfc0/ArpM6sjUCVo4UHG2VGtjJ5VtsMyrllH4KJRe4xpCe8ujvD2vOThpJLHqoitWRHnuUiDO/5nE6GquULVbSkpspujjT/lLod66uzhlp5Ctiv8CACO1FbIBRY1cWPzFrouf2w75j+N20+CUj6bGxqffwQxW6vvdz3KnnmW4Q8/lj3u5bTTRhiw487h/7Zqqu/1OIL/PBIsDp0K5ejOu+7mzReKCXAoI8BFjs1Xn5V2t393vY62qcia31pcV4DQWcx+dG6KYegItAqygsUo9z2pvyep2ysI/rseR9FPiHJOUhXb4YOTaAV3UQE3yzwoe9ZBUUNWWkrs2f9B8j+Pp406gyZ0P9bppt++0GUVHhgLo0Vr9A2N91MB3Q4rFygFGqBLJNNwUYnoTUSxqsprztjvF0qT967ua7l9iCqBE1giPPBT33UNOEcszzZMVjtKNFQFNZHd1yRfuUY6A==;WQXOXLcARpUsJlB3sbHZiw=="
+secured: "Ll8Wy1KkL3VOQIvneAyeczsR9WY27dJbksYgbotyP5+wrxZT0cLbtMZYdbQv03vNmCRKXW5SEPmrS+JkYMmRULB63QHT7LGKt3MhK/BekCWJL+5fxSn8wN4r5ApONLPqZYQ+Gxq/I+N1p5X5SWQcRqIvYAxDzpTX7xGDa84DDpnIEJJ+YcelLCur084ANUUF0yOz0bIUAB+ZnmAZJkIdpZIVaA1NK18NDDSfwZqisbSazLgmE0K7+1qCHoURPsuBO2k6aPEhx+c855VhCHY0xA6h8Ju/8MsfVJIJBhyY/N7ZthuZOzNoXlY3/OCgRn/DOcqBreHf89qjD8386oUeS/B16wIbTnNDtTXtGRdLuuM=;XUD7vA/GPLezlb88qfqz3Q=="
 ---
 

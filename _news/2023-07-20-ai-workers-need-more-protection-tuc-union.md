@@ -3,8 +3,8 @@ category: news
 title: "AI: Workers need more protection - TUC union"
 excerpt: "The UK is falling behind in protecting workers from artificial intelligence (AI), a trade union has warned. The TUC said the UK had no plans, like the EU's AI Act, to regulate its use in hiring, firing and setting work conditions. The union has asked a taskforce to draft legal protections."
 publishedDateTime: 2023-07-19T23:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-66248125?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/business-66248125?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/business-66248125"
+webUrl: "https://www.bbc.co.uk/news/business-66248125"
 ampWebUrl: "https://www.bbc.co.uk/news/business-66248125.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66248125.amp"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "xZ/8alTCpefNDLVtjI8nm7B21Je7dNtAEhRRJITMU195B7SSA/F+uQSjC7HEOti5u6gS2vN+PeOT6HHft5CR9+GXJo98JyNBCxUTbLlANtYTOzxdTlN+dDbDf1OMlS3kcXlMBvydw3WkjnWIzs6xfX296TTWoy0ZXhG+zqbBkW+6t7eYd/Ubo4ooIEih+7xFd0qe85sRI50N53JiY5RuGirJaiOTZhAMyXTEBuNXS0XNBJl1/YHZ+7Qr8zyI0u8AqAhpvP81XzZW+TrCZKWm5rbrBOtA8bVNniv4amrynRq6Z8SqZAFsMUocXbEyx0y0y41/mvoRSRjhR/hzLOTINYfdaanJVSiTO2NnuD657q0=;RBn/eLT0FDyXWWJrUxR4Jw=="
+secured: "CAZ7RDrDucI+noqOlBINl+s2fs3gW2wmP8dUKprYYBEGOwPjhD87qrLvg/8st12e8xwMvTd3+1rWUIEjebBbbvs1/6XxxNfHt0s2xvyy/A1VuccLBlxsl3vG6TuhZ1keJHHKd3oxpOVh2G4Gef6VbCa7aEA9C/Vfvg1QV4iG4nH9s948W8g4ljise3Uqujz4nlLcaWwWQBkUokjtBfgXSK08ImSsDA1RqkU0wrWFX4P3gBcSAqjK4I1y/rlbLVcyu2WWc3OkloMNPSqCtVYim04X+NgksQFEm+11202kXX/HfVVng4Tt/6gzsZCrdvpIWwt1peh8Iea8NT6P2rFhuH/NGh86MOVWDgQBk3uAs3k=;kfE+5v17l6y5QICyK1G5tA=="
 ---
 

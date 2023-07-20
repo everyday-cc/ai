@@ -149,6 +149,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
+      "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
+      "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/07/1689667515_ml_story.jpg",
+          "width": 760,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "publishedDateTime": "2023-07-18T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-what-next-for-ai-and-ml-in-financial-services.md",
       "title": "What next for AI and ML in financial services?",
       "excerpt": "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance.",
@@ -1327,58 +1379,6 @@
         "IBM AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-techcrunch-roundup-vertical-ai-crypto-losses-decline-machine-learning-investor-survey.md",
-      "title": "TechCrunch+ roundup: Vertical AI, crypto losses decline, machine learning investor survey",
-      "excerpt": "We’re publishing on a lighter schedule to commemorate Independence Day, so I’ll return on Friday, July 7 with a new TC+ roundup.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/",
-      "originalUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-499840007.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/30/techcrunch-roundup-vertical-ai-crypto-losses-down-ml-investor-survey/amp/",
-      "publishedDateTime": "2023-06-30T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

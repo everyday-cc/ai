@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-18-ai-and-advanced-applications-are-straining-current-technology-infrastructures.md",
+      "title": "AI and advanced applications are straining current technology infrastructures",
+      "excerpt": "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "originalUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/28e0c7652f5d2bd561c5c6d4f0ce4ad069b88299/2023/07/18/be068a2f-3083-43e1-bc85-8ee67d15ecf4/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "publishedDateTime": "2023-07-18T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-meet-a-founder-putting-humans-at-the-center-of-his-ai-startup.md",
+      "title": "Meet A Founder Putting Humans At The Center Of His AI Startup",
+      "excerpt": "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200",
+          "width": 838,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "publishedDateTime": "2023-07-18T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
+      "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
+      "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/07/1689667515_ml_story.jpg",
+          "width": 760,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "publishedDateTime": "2023-07-18T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-tesla-is-rumored-to-partner-with-samsung-for-4-nm-chip-in-self-driving-hw-50.md",
       "title": "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0",
       "excerpt": "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node",
@@ -253,7 +408,7 @@
       "originalUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -970,7 +1125,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1054,152 +1209,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-exploring-the-ai-and-data-capabilities-of-watsonx.md",
-      "title": "Exploring the AI and data capabilities of watsonx",
-      "excerpt": "Discover the capabilities of watsonx, a new AI and data platform empowering enterprises to leverage their data and scale AI for business.\nThe post Exploring the AI and data capabilities of watsonx appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ai-and-government-transforming-public-services-for-the-digital-age.md",
-      "title": "AI And Government: Transforming Public Services For The Digital Age",
-      "excerpt": "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "publishedDateTime": "2023-07-17T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai.md",
-      "title": "How New Rules And Regulations Can Help Create An Ethical Corporate Workspace With The Growth Of AI",
-      "excerpt": "As the growth of AI continues, it is important to ensure that companies prioritize ethical considerations and that technology is utilized diligently and transparently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "publishedDateTime": "2023-07-17T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

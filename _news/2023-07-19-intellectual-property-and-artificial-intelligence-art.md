@@ -18,31 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Turn AI Art Into Amazing Poster Prints"
-    excerpt: "Want to print your AI art creations? Here's how to enlarge AI-generated images so you can print them at any size you like and retain perfect image quality"
-    publishedDateTime: 2023-07-15T09:35:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/07/15/turn-ai-art-into-amazing-poster-prints/amp/"
+  - title: "New Startup Looks To Blend AI And Nuclear Energy"
+    excerpt: "OpenAI's founder, Sam Altman, foresees a future where AI and nuclear energy work together to tackle the energy demands of AI operations and help solve the global energy trilemma."
+    publishedDateTime: 2023-07-15T21:00:00Z
+    webUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.html"
+    ampWebUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b260acd82031801c534a0d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-07-14_0fjd7wmdfp.jpg"
+        width: 718
+        height: 300
         isCached: true
-  - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
-    excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"
-    publishedDateTime: 2023-07-19T17:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33289997/introducing-paintit-ai-revolutionizing-interior-design-with-ai-generated-visualizations"
+  - title: "A look at generative AI and its ethical landscape"
+    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
+    publishedDateTime: 2023-07-17T07:00:00Z
+    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
 
 secured: "C+kVOONmsJWkSz/gx2jAyRpERpLtwWJZMyeV61iZPn2MegDrMXntyCLUM9w06K0rfz1ysqVGvHlWzCRI0M+9PuGH8nxD92WmkkBFaCnwmFB+aLLqnvy180E5/x6gtcme0GdVc2hpPbItBrnXHLhyD69v89g/JqDcXuLDcJD1tQPF/em+GUh9Oim0XQnOrDHmWTGph8+F2VCbh9icbvpPXIvYsX2QrIhBSNpxYL4arTFt0wSJ4yca8fR20Eb3gl7/r0iuH8kUF37hksKPqhwAKJ2W0yJR5IaZ+IEkK9LIpEduNBB+/+HMjF6fbQlrAvfPV1EZZtNpNI7qeMA7axT7MMBqtbHwtU1oSU1GYHBow6E=;hwyEs/JE5JrZ/xozx/f8KA=="
 ---

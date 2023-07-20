@@ -2,6 +2,237 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-06-14-paul-mccartney-reveals-ai-was-used-to-create-the-last-beatles-record.md",
+      "title": "Paul McCartney reveals AI was used to create the 'last Beatles record'",
+      "excerpt": "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
+      "originalUrl": "https://abcnews.go.com/GMA/Culture/paul-mccartney-reveals-ai-create-beatles-record/story?id=100052489&ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/mccartney-1-ap-er-230613_1686693220455_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
+      "cdnAmpWebUrl": "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/culture/story/paul-mccartney-reveals-ai-create-beatles-record-100052489",
+      "publishedDateTime": "2023-06-13T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-and-coding-how-these-tech-companies-are-using-generative-ai-for-programming.md",
+      "title": "AI and coding: How these tech companies are using generative AI for programming",
+      "excerpt": "Diamond Bishop, CEO and co-founder at Augmend, a Seattle collaboration software startup Diamond Bishop, CEO of Augmend. (Augmend Photo) “AI is making it so small startups like ours can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
+      "originalUrl": "https://www.geekwire.com/2023/ai-and-coding-how-seattle-tech-companies-are-using-generative-ai-for-programming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/06/3743d9d0-77a9-4f15-8e09-b755373102f0.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise.md",
+      "title": "AI Everywhere: Salesforce Unveils Its Vision Of The AI-First Enterprise",
+      "excerpt": "All of this is part of a massive vision Salesforce is unveiling that deeply integrates generative AI into almost everything a company does, from sales to service to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6488f2ccaa9dbc12a1b12f50/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/13/ai-everywhere-salesforce-unveils-its-vision-of-the-ai-first-enterprise/amp/",
+      "publishedDateTime": "2023-06-13T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-from-m3gan-to-black-mirror-here-are-13-movies-and-tv-shows-about-ai.md",
+      "title": "From \"M3GAN\" to \"Black Mirror,\" Here Are 13 Movies and TV Shows About AI",
+      "excerpt": "In the 22nd century, humanoid robots are created ... of the greatest films of all time due to its exploration of artificial intelligence and human evolution. The film centers on a group of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667",
+      "originalUrl": "https://www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.popsugar-assets.com/files/thumbor/MYSa931qojs2gmSgxqLBOyWMRT4=/fit-in/828x1500/filters:format_auto():extract_cover():upscale()/2023/06/13/819/n/1922283/tmp_FpfoXc_5c51f38cee8c996d_MCDMEGA_UV011.jpg",
+          "width": 828,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667/amp",
+      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/entertainment/artificial-intelligence-movies-tv-shows-49152667/amp",
+      "publishedDateTime": "2023-06-13T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PopSugar",
+        "domain": "popsugar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-entrepreneurs-brains-researchers-reveal-increased-cognitive-flexibility.md",
+      "title": "Entrepreneurs' brains: Researchers reveal increased cognitive flexibility",
+      "excerpt": "Using resting-state functional magnetic resonance imaging (rs-fMRI), the study showed that serial entrepreneurs have higher connectivity between the right insula (associated with cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230613110035.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230613110035.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-amd-preps-gpu-to-challenge-nvidias-grip-on-the-generative-ai-market.md",
       "title": "AMD Preps GPU to Challenge Nvidia's Grip on the Generative AI Market",
       "excerpt": "The AMD Instinct MI300X supports up to 192GB of HBM3 memory, and it's designed to train large language models that power programs such as ChatGPT.",
@@ -1027,228 +1258,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-13T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise.md",
-      "title": "AI startup Synthesia gains unicorn status after Nvidia-backed fundraise",
-      "excerpt": "June 13 (Reuters) - Synthesia, a UK-based artificial intelligence (AI) startup, said on Tuesday it has raised about $90 million at a valuation of $1 billion from a funding round led by venture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-synthesia-gains-unicorn-status-after-nvidia-backed-fundraise-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-molina-healthcare-and-partners-share-results-of-obstetrics-health-care-model-incorporating-artificial-intelligence.md",
-      "title": "Molina Healthcare and Partners Share Results of Obstetrics Health Care Model Incorporating Artificial Intelligence",
-      "excerpt": "Molina Healthcare, Inc. (\"Molina\") recently shared some notable results of a groundbreaking health care model that uses artificial intelligence (AI) to impact the full cycle of obstetrical care, from early pregnancy detection to post-NICU community-based care management.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/06/13/9831670.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/06/13/9831670.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-the-benefits-of-automated-attack-surface-management.md",
-      "title": "The benefits of automated attack surface management",
-      "excerpt": "Start automating attack surface management with IBM Security Randori Recon.\nThe post The benefits of automated attack surface management appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-management/",
-      "originalUrl": "https://www.ibm.com/blog/the-benefits-of-automated-attack-surface-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/21_58_p_gorodenkoff-023.lr_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T06:13:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-nice-announces-launch-of-digital-and-ai-advice-service-for-healthcare-sector.md",
-      "title": "NICE announces launch of digital and AI advice service for healthcare sector",
-      "excerpt": "The AI and Digital Regulations Service is a multi-agency collaboration between NICE, the Care Quality Commission, the Health Research Authority and the Medicines and Healthcare products Regulatory Agency (MHRA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003",
-      "originalUrl": "https://www.pmlive.com/pharma_news/nice_announces_launch_of_digital_and_ai_advice_service_for_healthcare_sector_1493003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pmlive.com/__data/assets/image/0006/1453227/Clinical_development.jpg",
-          "width": 480,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PMLiVE",
-        "domain": "pmlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

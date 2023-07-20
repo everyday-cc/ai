@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-chips-732
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-chips-732d4e7d"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Barron's
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud service providers perceive AMD's AI chip as alternative to Nvidia, say sources"
+    excerpt: "Large-scale cloud service providers are reportedly considering the MI300 series of AI GPUs from Advanced Micro Devices (AMD) as an alternative to GPUs from Nvidia, such as the H100."
+    publishedDateTime: 2023-07-20T01:34:00Z
+    webUrl: "https://www.digitimes.com/news/a20230719PD215/ai-chips-ai-server-amd-cloud-h100-ic-manufacturing-mi300-nvidia-server-ipc-cloud-computing-iot.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230719pd215_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Wall Street research is a 'clown show', markets guru Larry McDonald says after Citi boosts its price target for Nvidia's stock"
     excerpt: "Citi boosted its price target for Nvidia to $520 a share in what markets guru Larry McDonald mocked as poor sell-side research."
     publishedDateTime: 2023-07-18T09:29:00Z

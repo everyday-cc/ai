@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
+    excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
+    publishedDateTime: 2023-07-20T02:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33295767/elon-musk-drops-clues-about-teslas-potential-partnership-with-major-automaker-to-license-self-drivin"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33295767"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33295767"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
     excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."
     publishedDateTime: 2023-07-20T00:30:00Z
@@ -60,6 +76,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "M+WSMQMc8y+NMMnvyWGGYlnHyEnk2spiYVy4mYUubMlZ/AJ8DaJRJR1jplCqP3DHkQEDqj0gAdUjwLqKs0bCp1m91s3HuYySNjAWSOm4nPmKCgo9yVRr7bpwNNz7nHoj1DpEqchmn+WxpZpJBm6MvYxWuHJXNFIhaQP1xwg1CjCMdmVJrf2tpYAEBwtmkQ4F0u75NjOejOCuRkQtkW5uRh6JXVO8mNFYU+KE7iwxEOI1vXxVTKwWiJCHRYcwiM65m9YcckpCpX08kzyen1U8hz0srr7YaKx2WyYCVgUGwZxfLiUX9sQ2W0GAw4ssQPH5+1kZmGEML0ODRHqToHUxGN1yP4bKKR3BsPhGAM2y3co=;8orRuSWiVRqz7xMh7ocZzg=="
+secured: "1AYSQX0E5hK70+aa8rtUWdhvB4oGhTEi3M0ab445zJHCOcArFhdxRjFzXUkeyyo9oplhLLb+0voeBW4y8lXKAa1ex5/mOvPxLYim/mNZg8sMctNa++CHd2OtlAzT7VsG3NBwYoeVYZaGcr1piPZv18+CoPOIHPfM4/o9hvQK54Nbhp2IgYX+zLWUEyCtiaE+hgrWry5ha3xkLMBrimU65Lx0gxwlTPYf8UE3gQOC5/fiBKkqZBlE7Wnx71XUDWvMX0diBOtxXyUGlZARTf6LF7dOJA0JtIarGAMyYYgz8vMJ56UJB095SEcwAS+GtVkwAAmM3JOQddoeZLSIieYU4Xcki9c6KmoxlNzcVKHP5SC9BpgSTNd624eJIqGT4U9vM7/6PIPdOKZtWu8FPOt24gI2qMM5Xq2ep+BC3z9EnCU7lDiIKvj3x+Fh0x3jrzBsEzJec0x7hTYkUnKOKjkKjuCn1Uu/9ndb2e6wD7MMzzTkMFnY1qE1bAQR4h1UAvKT5thXCVdjh2uHioGOKqpItA==;iJvks+n2EKhFPB/XN8NZ0g=="
 ---
 

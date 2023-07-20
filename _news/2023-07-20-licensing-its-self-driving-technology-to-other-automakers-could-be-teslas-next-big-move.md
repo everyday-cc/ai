@@ -55,7 +55,23 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
+    excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
+    publishedDateTime: 2023-07-20T02:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33295767/elon-musk-drops-clues-about-teslas-potential-partnership-with-major-automaker-to-license-self-drivin"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33295767"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33295767"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
-secured: "LBmbxAr3DMNb7kKVFKfmdrs7q+S9yyx1dQUsSGUqYhUvAN6EJSVfDcFTqi7HQju9NRDc3dUirUtFGFSfC9/jhkHotcg6wwZLkixvgKcO82sNzrrAkS7A8O9T84xCPCHg0pvmUJcMxCtgQz7j8IPhFhcGvhsNDSjPCCebkB76+4SyvBEJluTY9NLUKCOm3cdP9EQHC7MRymdau6mRNwrjFrUwvzOlf2K8Z5igtLoOrtdTdErW8CNE8MAIymMURbHnpqL/tQNkX0xNlrEaUzM64KMvXWURzxVIrnvIDRwOJ9s1EoqqpZvzP8yWNgXmdiTr/5Lre8aPyXlBQmDBbGG8iFWjVaREKr5OnvQpyqi6ggo=;Klqpzb8k/GH8YiwPNucz6A=="
+secured: "BlFqAlOXNzYYgcwaZ8q+xhkMR9hyb8tJZzhS1D9F8I1uYpM8pSlOxY1z/x0gJUReX3IzvA3f3h4hPW7KDMmfElTPvhH2yFC9XQlNQwX7S4nevGa5XzInuWbDku4o35ApRe0WYHaPh9meD1tac8mXSl/xv3PCoj2rIhKVI9ZrzTC7OBDApnd+nVhrIUOdGhaM0Pm8N+ge4ICaUzaHMIZjmVf1CmMix+FePPHILpMY38wKtZ9borQpIQfg910z8o9OwEkoePX8Q95HDeA+vfDFAz59ngYmSGSgWRUQaodjzb6AkAxgO/orPEVtQdjT8vprV0E+qN0KKRKZDZyejBLIcUJvJUAstcXFr0FBh4vwDKNaCW37GQT7vAgkmtB+eccccBLGzSbV466XMltYA0SQDSgnkIAPpBFMP1t8BWERCaY0RAdAIJPkxksiOSHEgdAIoJNZXOPTaJe8YDOMknrriUJhRSGtjWxZSRRovCiZ5gVAKztdyEi0RXY2aBUfSUVKUqEw/eqaIrErIUnt3OXcAg==;Nx/caDwPo+/fT1ZbRxQnyw=="
 ---
 

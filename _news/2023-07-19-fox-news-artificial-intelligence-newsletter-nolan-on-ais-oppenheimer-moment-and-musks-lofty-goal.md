@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsle
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689519574491_mtp_clip_nolanai_230716_1920x1080-pmkgsh.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Newsletter: Do we want a future where humans are truly entertained by AI?"
-    excerpt: "The strikes by actors and writers get at fundamental questions of what will entertain humans in the future, plus more from the week in Opinion."
-    publishedDateTime: 2023-07-15T11:00:00Z
-    webUrl: "https://www.latimes.com/opinion/newsletter/2023-07-15/opinion-newsletter-sag-aftra-strike-hollywood-artificial-intelligence-opinion"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 36
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/dd8f503/2147483647/strip/true/crop/7323x3845+0+519/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0f%2F4b%2F3755aaed411eb228b788fc479c29%2F1290944-et-ct-wga-strike-jlc-019.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "uXWXxQr1x+xKSLqsq7CsbFCFzix4QCC9SCV1GDzrKWObJCtrWPlYB8NvWfIE5Nt6WJDcyVy3Ew/lMNln7eHTbRaBmmQwRQyuwO4q3vrRmWNEmNp7VbQ7KwXA3GC4xYqHvadFDGqqjmCfY2jLNwLCA9VpQKh99zMIXmSd3huODHrN2bhqfZCJb9fT6gamYZHYlP/lC2HoOt4eK+VkxAsYFREImYVRCFlvYkhOqFBAJB/q6D9RkOxS1AMmqyMLgqTShFimFNS0YjpV32echxs7VLcB8JVabE3v7Z7/OeBzuzTc9TjDg8ndCQhHeGsWkZh1bqpZWmefXcNq1BBsW3G6QbqetZwqDZF/1mfiuhsUjhyCPodSfyY2CzOJj/eJdNLoJtDAnQ99VNlutaskpLni+RCstLhOx1BAHNjyV0QK5mv4e4h4O+0WlJQxIbCag4q+ZA3Av3hLBwHcrD/mgp7RxC0sRtYS6J7IojQpKNqDJB2kIdfshY73IhYBVaSgNaCwSQBAA7oJFFdSkDVSegxPIA==;DcFEiNS3vXkF4Ec8HuL0VA=="

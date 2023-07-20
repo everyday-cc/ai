@@ -58,22 +58,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Meta Aims to Take on ChatGPT and Bard with Its Own Commercial AI Model: Report"
-    excerpt: "Meta is planning to release a commercial version of its generative AI model to take on the likes of Google and OpenAI."
-    publishedDateTime: 2023-07-15T09:42:00Z
-    webUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/"
-    ampWebUrl: "https://beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/meta-commercial-ai-model-take-on-chatgpt-bard/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 55
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/07/The-Meta-logo-on-a-smartphone-with-the-Facebook-logo-in-the-background.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
     excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
     publishedDateTime: 2023-07-18T18:32:00Z

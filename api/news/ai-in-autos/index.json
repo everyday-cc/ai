@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-20-opinion-as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits.md",
+      "title": "Opinion: As investors worry about lower Tesla margins, Musk says Full Self-Driving is key to future profits",
+      "excerpt": "“Autonomy will make all of these numbers look silly.” And of course, that bigger picture, in Musk’s crystal ball, is Tesla’s TSLA, -0.71% Full-Self Driving technology, which he envisions will turn its cars into robotaxis in the not-too-distant futur",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "originalUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-804723/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "publishedDateTime": "2023-07-19T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-application-of-artificial-intelligence-for-implementing-work-tasks.md",
       "title": "Application Of Artificial Intelligence For Implementing Work Tasks",
       "excerpt": "According to the IDC report, global spending on the artificial intelligence (AI ... people and actions in images and videos in security systems and self-driving cars. • Data Analysis: Used to predict future events and trends in marketing, as well ...",
@@ -256,7 +308,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1298,64 +1350,12 @@
       ]
     },
     {
-      "path": "_news/2023-07-07-elon-musk-believes-tesla-will-have-level-4-or-5-self-driving-this-year-what-does-that-mean.md",
-      "title": "Elon Musk believes Tesla will have ‘level 4 or 5’ self-driving this year – what does that mean?",
-      "excerpt": "Elon Musk has again decided to share a timeline about Tesla’s self-driving effort – again claiming it will achieve",
+      "path": "_news/2023-07-07-tesla-self-driving-cars-later-this-year-musk.md",
+      "title": "Tesla self-driving cars 'later this year' – Musk",
+      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-driving-this-year/",
-      "originalUrl": "https://electrek.co/2023/07/06/elon-musk-tesla-level-4-or-5-self-driving-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-testing-real-driverless-cars-in-a-virtual-environment.md",
-      "title": "Testing real driverless cars in a virtual environment",
-      "excerpt": "Researchers have developed new software to aid in the development, evaluation and demonstration of safer autonomous, or driverless, vehicles. Called the Vehicle-in-Virtual-Environment (VVE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230706124531.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230706124531.htm",
+      "webUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
+      "originalUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1363,23 +1363,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T12:07:00-07:00",
+      "ampWebUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },

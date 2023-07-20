@@ -2,55 +2,21 @@
   "page": 170,
   "value": [
     {
-      "path": "_news/2022-05-27-how-to-use-windows-speech-to-text-for-hands-free-typing.md",
-      "title": "How to Use Windows Speech-to-Text for Hands-Free Typing",
-      "excerpt": "Both versions of speech-to-text use online speech recognition to convert your spoken words into text, so you’ll need an internet connection for the technology to work. Speech-to-text is built ...",
+      "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
+      "title": "Object Recognition Imaging Systems Market Growth by 2031",
+      "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",
       "sourceUrl": null,
-      "webUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
-      "originalUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techlicious",
-        "domain": "techlicious.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-a-face-search-engine-anyone-can-use-is-alarmingly-accurate.md",
-      "title": "A Face Search Engine Anyone Can Use Is Alarmingly Accurate",
-      "excerpt": "Unlike Clearview AI, a similar facial recognition tool available only to law enforcement, PimEyes does not include results from social media sites. The sometimes surprising images that PimEyes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/05/29/business/00PimEyes-Kashmir-Hill/00PimEyes-Kashmir-Hill-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -58,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
-      "publishedDateTime": "2022-05-26T11:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -88,54 +54,12 @@
       ]
     },
     {
-      "path": "_news/2022-05-27-california-dmv-suspends-another-ponyai-test-permit.md",
-      "title": "California DMV suspends another Pony.ai test permit",
-      "excerpt": "Pony.ai had its permit to test its autonomous vehicle technology with a driver revoked due to the DMV's concerns about its safety drivers.",
+      "path": "_news/2023-03-25-tech-summit-on-artificial-intelligence-robotics.md",
+      "title": "Tech Summit on Artificial Intelligence & Robotics",
+      "excerpt": "Tech Summit on Artificial Intelligence & Robotics will be held in Tokyo, Japan. AI & Robotics 2023 offers an opportunity to interact with the researchers in the field of AI & Robotics, making Congress a perfect platform to share experience, foster ...",
       "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/",
-      "originalUrl": "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-ponyai.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-build-conference-heralds-era-of-ai-assisted-software-development.md",
-      "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
-      "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "webUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "originalUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -143,56 +67,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:14:00-07:00",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "publishedDateTime": "2023-03-24T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-northwestern-engineers-invent-worlds-smallest-remote-controlled-walking-robots.md",
-      "title": "Northwestern engineers invent world's smallest remote-controlled walking robots",
-      "excerpt": "Engineers at Northwestern University have invented the world's smallest remote-controlled walking robots. Each one is about half a millimeter wide, not even as thick as a penny. The students designed robots that looked like crabs and other animals.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/northwestern-university-robots-robot-worlds-smallest/11896519/",
-      "originalUrl": "https://abc7chicago.com/northwestern-university-robots-robot-worlds-smallest/11896519/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11896776_052622-wls-cnn-nu-mini-robots-7avo-vid.jpg?w=1600",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -207,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-27-responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot.md",
-      "title": "Responsible AI Institute and Standards Council of Canada Launch First Artificial Intelligence Certification Pilot",
-      "excerpt": "AUSTIN, Texas, May 26, 2022 (GLOBE NEWSWIRE) -- Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced its partnership ...",
+      "path": "_news/2023-03-25-the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year.md",
+      "title": "The top 10 AI mobile apps have already pulled in over $14 million this year",
+      "excerpt": "What's clear is that integrating \"AI\" features and references to things like ChatGPT or OpenAI has been helping drive demand.",
       "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/",
+      "webUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -229,93 +110,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T10:50:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "publishedDateTime": "2023-03-24T15:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-amd-instincttm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure.md",
-      "title": "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure",
-      "excerpt": "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
-      "originalUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-researchers-build-worlds-smallest-remote-controlled-walking-robot.md",
-      "title": "Researchers build world's smallest remote-controlled walking robot",
-      "excerpt": "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "originalUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg",
-          "width": 2388,
-          "height": 1624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "publishedDateTime": "2022-05-26T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -331,155 +135,25 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-26-4how-high-frequency-trading-machines-are-taking-billions-of-dollars.md",
-      "title": "4How High-Frequency Trading Machines Are Taking Billions Of Dollars...",
-      "excerpt": "Moreover, machine learning can analyze gigabytes of data to read and react to financial markets rapidly ... of dollars just to purchase that service. BuyAlerts believes it’s critical to ...",
+      "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
+      "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
+      "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/22/05/27423676/how-high-frequency-trading-machines-are-taking-billions-of-dollars-from-retail-investors-each-year",
-      "originalUrl": "https://www.benzinga.com/markets/22/05/27423676/how-high-frequency-trading-machines-are-taking-billions-of-dollars-from-retail-investors-each-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/05/26/screenshot_2022-05-26_at_9.00.12_pm.png?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27423676",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27423676",
-      "publishedDateTime": "2022-05-26T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says.md",
-      "title": "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says",
-      "excerpt": "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defensenews.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-pramana-labs-to-power-natural-language-search-in-the-domo-platform.md",
-      "title": "Pramana Labs to Power Natural Language Search in the Domo Platform",
-      "excerpt": "Raleigh, N.C., May 26, 2022 (GLOBE NEWSWIRE) -- Raleigh, N.C. - Pramana Labs, an AI technology company, today announced that its powerful natural language processing (NLP) will be integrated into ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
-      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
-      "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
-      "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
+      "webUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
+      "originalUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
       "featuredContent": null,
       "highlight": null,
       "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6286108612fba45d9fab7b9e/0x0.jpg?format=jpg&width=1200",
-          "width": 904,
-          "height": 732,
+          "url": "https://d.newsweek.com/en/full/2213891/cat-royale-utopia-environment.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -487,16 +161,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "publishedDateTime": "2022-05-26T08:11:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "publishedDateTime": "2023-03-24T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -512,583 +186,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
-      "title": "Baidu Announces First Quarter 2022 Results",
-      "excerpt": "\"Baidu delivered solid first quarter results, especially with regard to our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
-      "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
-      "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "publishedDateTime": "2022-05-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-will-ai-text-to-image-generators-put-illustrators-out-of-a-job.md",
-      "title": "Will AI text-to-image generators put illustrators out of a job?",
-      "excerpt": "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
-      "originalUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "publishedDateTime": "2022-05-26T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-managing-disaster-and-disruption-with-ai-one-tree-at-a-time.md",
-      "title": "Managing disaster and disruption with AI, one tree at a time",
-      "excerpt": "Ingesting loads of fine-grained data helps, but it's not enough to make fine-grained predictions. You need domain expertise too, and that's what AiDash is applying for its Disaster and Disruption Management System.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
-      "originalUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/73bae000afbb29e45de6d36562f743d03de03834/2020/03/04/1467e396-e73a-4bed-9fa9-9071765a45f9/bushfires-2020-1024x341.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
-      "publishedDateTime": "2022-05-26T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace.md",
-      "title": "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace",
-      "excerpt": "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-baidu-beats-revenue-estimates-helped-by-ai-cloud-services.md",
-      "title": "Baidu beats revenue estimates helped by AI, cloud services",
-      "excerpt": "Last month Baidu received permits to deploy robotaxis without humans in the driving seat on open Chinese roads for the first time. read more Apollo Go, Baidu's robotaxi service, currently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
-      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/bt56uaK0VeprSa4dkcOzpiHOTlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AZP3TMSZFJ65FSRIOARA2MSEQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-top-7-ways-to-cultivate-creative-excellence-with-ai.md",
-      "title": "Top 7 Ways to Cultivate Creative Excellence with AI",
-      "excerpt": "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426406",
-      "originalUrl": "https://www.entrepreneur.com/article/426406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets.md",
-      "title": "The DMV said it would investigate Tesla over self-driving claims. Then, crickets.",
-      "excerpt": "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
-      "originalUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/OsmwzgiZQI3JRU4IML5KOA--~B/aD01MjQ7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/0e6f928d9e0be878635e948bc13ce1f3",
-          "width": 840,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-facial-recognition-technology-not-about-mass-surveillance-mcentee.md",
-      "title": "Facial recognition technology 'not about mass surveillance' - McEntee",
-      "excerpt": "The Minister for Justice has said the introduction of legislation to enable gardaí to use facial recognition technology (FRT) in criminal investigations \"is not about mass surveillance\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "originalUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/001bca3b-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
-      "title": "AI and machine learning are improving weather forecasts, but they won’t replace human experts",
-      "excerpt": "Would you trust a weather forecast made by a machine that had learned how weather systems behaved by reviewing thousands of past weather maps?",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
-      "originalUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-will-robots-change-business-for-the-better.md",
-      "title": "Will robots change business for the better?",
-      "excerpt": "“The AI journey has developed impressively over the past couple of years with the likes of voice generation and facial, voice and object recognition, which are becoming widely available and at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/ready-and-enabled/artificial-intelligence-companies-transformation/",
-      "originalUrl": "https://www.telegraph.co.uk/business/ready-and-enabled/artificial-intelligence-companies-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/spark/brother-ready-enabled/robots-ai-xlarge.jpg?imwidth=1200",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-tcs-partners-with-deakin-university-to-co-develop-corporate-learning-programme.md",
-      "title": "TCS partners with Deakin University to co-develop corporate learning programme",
-      "excerpt": "Deakin University’s corporate learning and development division, DeakinCo. has partnered with Tata Consultancy Services (TCS ... as artificial intelligence, machine learning, data analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/",
-      "originalUrl": "https://www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/CUET-12.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/lite/",
-      "publishedDateTime": "2022-05-26T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-will-revolutionize-dentistrybut-only-if-we-free-our-data-first.md",
-      "title": "AI Will Revolutionize Dentistry—But Only If We Free Our Data First",
-      "excerpt": "We’re on the brink of a technological revolution that will bring dentistry into the 21st century. But we can only reach that point if we break down silos and logjams and set our data free.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628e3f96f806031d28cbc757/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/amp/",
-      "publishedDateTime": "2022-05-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }
   ],
-  "nextPage": 171
+  "nextPage": null
 }

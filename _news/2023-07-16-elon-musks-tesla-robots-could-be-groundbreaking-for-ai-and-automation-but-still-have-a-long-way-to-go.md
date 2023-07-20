@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
+    excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
+    publishedDateTime: 2023-07-20T02:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33295767/elon-musk-drops-clues-about-teslas-potential-partnership-with-major-automaker-to-license-self-drivin"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33295767"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33295767"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
     excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."

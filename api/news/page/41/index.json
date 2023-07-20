@@ -2,6 +2,247 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-06-22-take-the-lead-with-ai-and-machine-learning-skills-from-msoe.md",
+      "title": "Take the lead with AI and machine learning skills from MSOE",
+      "excerpt": "Today’s leading companies need professionals with machine learning and artificial intelligence (AI) experience to process data, make predictions, inform",
+      "sourceUrl": null,
+      "webUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
+      "originalUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.biztimes.com/2023/06/msoe_innovation_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
+      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
+      "publishedDateTime": "2023-06-21T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTimes",
+        "domain": "biztimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-marvel-used-ai-to-create-secret-invasions-opening-credits-and-it-looks-awful.md",
+      "title": "Marvel used AI to create Secret Invasion’s opening credits and it looks awful",
+      "excerpt": "The first episode of Secret Invasion is getting good reviews, but Marvel has already invited a backlash over the show's AI-generated opening sequence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "originalUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/06/Secret-Invasion-AI-Opening.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/secret-invasion-ai-used-to-create-opening-credits/?amp",
+      "publishedDateTime": "2023-06-21T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat.md",
+      "title": "The EU AI Act is near. US AI regulation is coming. Here’s what you need to know | The AI Beat",
+      "excerpt": "Six months after ChatGPT became an overnight success, The U.S. and the EU are racing to develop rules and draft laws to address both the benefits and risks of generative AI. These days, the news on AI regulation efforts is piling up so fast that it’s hard to keep track.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/the-eu-ai-act-is-near-us-ai-regulation-is-coming-heres-what-you-need-to-know-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AI-3.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks.md",
+      "title": "DeepMind’s RoboCat learns to perform a range of robotics tasks",
+      "excerpt": "Researchers at DeepMind, the Google AI research division, have devised a model called RoboCat that can learn to perform new robotics tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "originalUrl": "https://techcrunch.com/2023/06/21/deepminds-robocat-learns-to-perform-a-range-of-robotics-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-the-economic-benefits-of-innovating-with-azure-ai.md",
+      "title": "The economic benefits of innovating with Azure AI",
+      "excerpt": "While business and technology leaders are ready to invest in AI, they need help making the financial case for tools they need to build great products. That’s why today we’re sharing a new commissioned Total Economic Impact™ (TEI) study conducted by Forrester Consulting, which captures the costs and benefits",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/the-economic-benefits-of-innovating-with-azure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Forrester-pic-1-1.jpg",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-ekinops-offers-direct-routing-voice-and-security-abilities-to-microsoft-teams-clients-from-the-azure-marketplace.md",
       "title": "Ekinops Offers Direct Routing Voice and Security Abilities to Microsoft Teams Clients from the Azure Marketplace",
       "excerpt": "Ekinops is available on the Microsoft Azure Market place. Telecom service vendors can benefit from developing their voice services.",
@@ -924,246 +1165,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global.md",
-      "title": "Saifr® Named One of the World’s Most Innovative AI Solution Providers for Financial Services By FinTech Global",
-      "excerpt": "Saifr®, an AI-focused regulatory technology (RegTech) and financial technology (FinTech) business that assists financial services clients in the review and approval of public communications to help mitigate brand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelbiz.co.uk/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global/",
-      "originalUrl": "https://www.channelbiz.co.uk/press-release/saifr-named-one-of-the-worlds-most-innovative-ai-solution-providers-for-financial-services-by-fintech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel Biz",
-        "domain": "channelbiz.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx.md",
-      "title": "Enhancing the Wimbledon fan experience with AI from watsonx",
-      "excerpt": "IBM&#8217;s partnership with the All-England Lawn Tennis Club (AELTC) has driven digital transformation at Wimbledon for more than 30 years. And this year, Wimbledon is tapping into the power of generative AI, producing new digital experiences on the Wimbledon app and website using IBM&#8217;s new trusted",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/enhancing-the-wimbledon-fan-experience-with-ai-from-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Enhancing-the-Wimbledon-fan-experience-with-AI-from-watsonx-1-1.jpg",
-          "width": 1197,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T04:15:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-focus-the-key-to-early-growth-in-a-startup.md",
-      "title": "Focus: The Key To Early Growth In A Startup",
-      "excerpt": "Certainly, focusing on one specific area can be transformative for any business. Here are some key steps founders or business leaders can follow to align their strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6410de4905a61afb1fe740b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/06/21/focus-the-key-to-early-growth-in-a-startup/amp/",
-      "publishedDateTime": "2023-06-21T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-a-new-accelerator-for-ai-first-startups-in-europe-and-israel.md",
-      "title": "A new accelerator for AI-first startups in Europe and Israel",
-      "excerpt": "This 10-week program supports startups using AI in their core business through tailored training and mentoring by making use of the best of Google and its network.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
-      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_GFS_CLIMACC23_2537.width-1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-first/amp/",
-      "publishedDateTime": "2023-06-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-to-save-the-planet-start-digging.md",
-      "title": "To Save the Planet, Start Digging",
-      "excerpt": "Environmentalist Jamie Beard has been pushing her vision to tap into geothermal energy—by working with Big Oil. Can it ever work?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/have-a-nice-future-podcast-11/",
-      "originalUrl": "https://www.wired.com/story/have-a-nice-future-podcast-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6492655bf2de86183cf5b51f/master/pass/HANF-jamie-beard.jpg",
-          "width": 1350,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/have-a-nice-future-podcast-11/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/have-a-nice-future-podcast-11/amp",
-      "publishedDateTime": "2023-06-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquito
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

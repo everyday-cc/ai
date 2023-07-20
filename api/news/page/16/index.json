@@ -2,6 +2,223 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-07-07-enhanced-ai-security-on-the-horizon-with-nvidia-and-intel-collaboration.md",
+      "title": "Enhanced AI security on the horizon with Nvidia and Intel collaboration",
+      "excerpt": "Nvidia Corp. is collaborating with Intel Corp. to provide extensive attestation services for Nvidia H100 GPUs, using Intel Trust Domain Extensions and Intel’s trust service, “Project Amber,” for customers that deploy confidentiality-preserving artificial intelligence solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/",
+      "originalUrl": "https://siliconangle.com/2023/07/06/enhanced-ai-security-horizon-nvidia-intel-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/intelnvidia.jpg",
+          "width": 910,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-all-symbols-in-tensorflow-decision-forests.md",
+      "title": "All symbols in TensorFlow Decision Forests",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/decision_forests/api_docs/python/tfdf/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-learning-the-language-of-molecules-to-predict-their-properties.md",
+      "title": "Learning the language of molecules to predict their properties",
+      "excerpt": "Guo's co-authors include MIT-IBM Watson AI Lab research staff members Veronika Thost, Payel Das, and Jie Chen; recent MIT graduates Samuel Song '23 and Adithya Balachandran '23; and senior author ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230707153847.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230707153847.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-robot-can-detect-gas-pipe-leaks.md",
+      "title": "Robot Can Detect Gas Pipe Leaks",
+      "excerpt": "Aging, failing underground pipes carrying natural gas can be notoriously difficult to troubleshoot. Now, a self-propelled robot developed by MIT researchers promises to detect leaks quickly and accurately. The most recent gas pipe explosion happened in New ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/GasLeakRobot-2.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-tesla-self-driving-cars-later-this-year-musk.md",
+      "title": "Tesla self-driving cars 'later this year' – Musk",
+      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
+      "originalUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
+      "publishedDateTime": "2023-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-the-ai-boom-isnt-breaking-the-memory-chip-slumpyet.md",
       "title": "The AI Boom Isn’t Breaking the Memory-Chip Slump—Yet",
       "excerpt": "Samsung Electronics forecast a 96% drop in its operating profit for its second quarter—a sign that even the world’s largest maker of memory chips isn’t able to capitalize on the moment.",
@@ -974,250 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition.md",
-      "title": "Musk praises Chinese artificial intelligence as Tesla faces tough competition",
-      "excerpt": "Tesla CEO Elon Musk praised China's work on artificial intelligence during a conference in the country on Thursday, July 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
-      "originalUrl": "https://www.cbtnews.com/musk-praises-chinese-artificial-intelligence-as-tesla-faces-tough-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/07/shutterstock_2318800289.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cbtnews",
-        "domain": "cbtnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications.md",
-      "title": "Integrate SaaS platforms with Amazon SageMaker to enable ML-powered applications",
-      "excerpt": "Amazon SageMaker is an end-to-end machine learning (ML) platform with wide-ranging features to ingest, transform, and measure bias in data, and train, deploy, and manage models in production with best-in-class compute and services such as Amazon SageMaker Data Wrangler, Amazon SageMaker Studio, Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-saas-platforms-with-amazon-sagemaker-to-enable-ml-powered-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/27/ML-14213-Arch-3-979x630.jpg",
-          "width": 979,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T08:17:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-top-10-artificial-intelligence-ai-cryptocurrencies.md",
-      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
-      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/pietro-jeng-n6B49lTx7NM-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-people-are-uncomfortable-with-ai-led-healthcare.md",
-      "title": "People are uncomfortable with AI-led healthcare",
-      "excerpt": "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence ... about the new frontier of healthcare technology, according ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
-      "originalUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/50c181b/2147483647/strip/true/crop/3729x1958+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6e%2F0f%2Ff516ae5d44d4b5de9c80dd60a5d4%2Fistock-863492778.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls.md",
-      "title": "Amid Possible Expanded China Chip Restrictions, The State Department Melds Human Rights And Export Controls",
-      "excerpt": "Export controls are depicted as protecting the United States’ national security interests and competitive technological and economic edge against China. But another, less public, impetus for the curbs is a factor that has long been central to the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6d1908a417ec697b1aad2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/06/amid-possible-expanded-china-chip-restrictions-the-state-department-melds-human-rights-and-export-controls/amp/",
-      "publishedDateTime": "2023-07-06T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

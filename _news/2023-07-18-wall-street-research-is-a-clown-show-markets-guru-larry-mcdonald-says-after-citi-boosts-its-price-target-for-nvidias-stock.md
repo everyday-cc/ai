@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cloud service providers perceive AMD's AI chip as alternative to Nvidia, say sources"
+    excerpt: "Large-scale cloud service providers are reportedly considering the MI300 series of AI GPUs from Advanced Micro Devices (AMD) as an alternative to GPUs from Nvidia, such as the H100."
+    publishedDateTime: 2023-07-20T01:34:00Z
+    webUrl: "https://www.digitimes.com/news/a20230719PD215/ai-chips-ai-server-amd-cloud-h100-ic-manufacturing-mi300-nvidia-server-ipc-cloud-computing-iot.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230719pd215_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "OmiAIJvAtm7fkyfrBuuP6S2wfC1T2JQTyhKEMPewIg0MSm4+nnzP8e/ZsLX8I3EpDUMV9e26Uh7ksl3I36mlCIjMTv5FskMTuIgjl6Ycx0Utx3Ppx+x6Q0L5UvtFIoNxIDmRveRZsJSjBcHEFDjM9pVOhI1KFo4dZwdRDfxrO1vfKSu2shVVKempBFaWdKtwLgT9i8ooGFOa1/GUc/YJwiX6uETY7AUPhpvogSqJZTI6W/p0HgET8w8xnEKa5yUBCnmVYiB04zU2VF5M9ZtkywzdWd2TBT5SsIjUqAo7gplyEVlejj2OS01hb3sPOVxVLFmH7rF1CMANIcuVxE3f4i4QDdgH1UOWCxhATtyZ18s=;V5xcDmAmudcB8F111hFbDg=="
 ---

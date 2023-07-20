@@ -62,6 +62,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Apple has an AI chatbot up its sleeve: report"
+    excerpt: "As Microsoft and Alphabet duke it out in the world of AI chatbots, Apple may harbor dreams of getting into the game as well."
+    publishedDateTime: 2023-07-20T02:51:00Z
+    webUrl: "https://www.marketwatch.com/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://images.mktw.net/im-810056/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
     excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
     publishedDateTime: 2023-07-17T11:38:00Z
