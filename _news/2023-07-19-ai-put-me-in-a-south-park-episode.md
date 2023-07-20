@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-
 webUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 17
+  - title: "AI tool creates South Park episodes with user in starring role"
+    excerpt: "Episodes can feature a character based on user’s own looks and voice – but tool will not be released to public"
+    publishedDateTime: 2023-07-20T17:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
 
 secured: "CCD2BkFNzma3cKuYj1DYuVxrobrLnk03bBFAnOJlZz28ByDGLAkrPXqNKOMLrQ3KIk1BzVyblCjdxNHXevtKUZicspoJzi+7vVrSkd5Lpdnm1nDhO2+Br2AgVEqWWTNGpgwWYoqCEvOfRk/v0Emzya3CBwALJzNzzpmMuPNVtZbeP2h4t8sdbYtFla9MmZm2KMnvU5Xg7l7ETm/ZMIIEGgBFMTjEku3vfmUA6HtO1dk+gv0bCoHuRPM6GrocfpofCuGYQnzEnNaX56uRMh0IN67TFkcA46KN3G94B+d/qQqb3oHmWjmXDBQdtPQFdkvMjfmiQNcpreDYFcGSlGIVFvHB6EZ9g6VIPmlURO1OhNJtNpj5lcJtyD2PIvXONM3wel4z1IxjLIS9bsqE2XyGxwrMnkX1yoqd6+6XFslXdN6DPDw9EwAEHO10ZuN60xgtXBYexKxB16T+Q1A5kc/iu70qzPl7mzK4J4VN+Fmdx7tm7D+5qGS4aTN94AgXRpxV/7XUhQO0V4qHwRRdRdKVOQ==;ksX2szsLplNWYENBq9sMQw=="

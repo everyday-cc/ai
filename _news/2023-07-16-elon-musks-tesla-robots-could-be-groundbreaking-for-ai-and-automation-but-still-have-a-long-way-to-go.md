@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013421.jpg?quality=80&#038;strip"
         width: 4071
         height: 2524
+        isCached: true
+  - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
+    excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
+    publishedDateTime: 2023-07-20T13:53:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/tesla-q2-earnings-net-income-surge-margins-slip"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
     excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."

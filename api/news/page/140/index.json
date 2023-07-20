@@ -2,6 +2,110 @@
   "page": 140,
   "value": [
     {
+      "path": "_news/2023-04-24-how-ai-can-transform-the-software-engineering-process.md",
+      "title": "How AI Can Transform The Software Engineering Process",
+      "excerpt": "Generative AI will expedite the pace of modern software development, promote experimentation and even transform the current software engineering funnel in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6058b5411e82e550078f5886/0x0.jpg?format=jpg&width=1200",
+          "width": 790,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/24/how-ai-can-transform-the-software-engineering-process/amp/",
+      "publishedDateTime": "2023-04-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-24-how-gpt-4-could-affect-marketing-leaders.md",
+      "title": "How GPT-4 Could Affect Marketing Leaders",
+      "excerpt": "Marketers have always had to adapt to their changing technological environment. GPT technologies are no different.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6442c991c58a2f3beb23907c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/04/24/how-gpt-4-could-affect-marketing-leaders/amp/",
+      "publishedDateTime": "2023-04-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai.md",
       "title": "KPMG: US executives unprepared for immediate adoption of generative AI",
       "excerpt": "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date.",
@@ -1078,91 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-manufacturers-hope-for-ai-boost-in-factories.md",
-      "title": "Manufacturers Hope For AI Boost In Factories",
-      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "originalUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
-      "publishedDateTime": "2023-04-23T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-23-michael-schumacher-magazine-editor-sacked-over-ai-generated-interview-with-seven-time-f1-champion.md",
-      "title": "Michael Schumacher: Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion",
-      "excerpt": "The editor of a German magazine that published an artificial intelligence-generated 'interview' with Michael Schumacher has been sacked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/formula1/65361193",
-      "originalUrl": "https://www.bbc.com/sport/formula1/65361193",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/1086B/production/_129419676_hi020461788.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/formula1/65361193.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/formula1/65361193.amp",
-      "publishedDateTime": "2023-04-22T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -22,6 +22,28 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Can computer chips the size of dinner plates feed the AI boom?"
+    excerpt: "The Cerebras chips stand out for their size — 56 times as large as commonly used for AI. And each packs the computing power of hundreds of traditional chips."
+    publishedDateTime: 2023-07-20T20:04:00Z
+    webUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/"
+    ampWebUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
+    publishedDateTime: 2023-07-20T19:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+
 secured: "oY6aJ5iJP3MuXkxMUxerTPi83xXjyFS+LCp3/YbjkkNxmK3FozNlzffSQr+8LMWGT9+1giFW4EGzYN+cJhj4mxYyZ/MuHlwpt0pcXEA7xyNTURcKHPLdaOPg/6pT/8e+yj8JjVsk4vnQtzj8X8OG+AQiNcmz0kb/oS3va6anCXmxKxGXwLD6WJVto7MR43VyUfx146/NhU+9e08qzTKjBW5JhspwBXsW3iMGHOLGG7QbLlDrJ4g7vJ6BCK2Mwe7Mek1uhL/WAVX0qt5P5D4cNv7Lm3/UzW314oxzwRtAxl8Qw8CfKR1R24CqmhA8SE3K48kWRVYBvj6elfYRx9oYe2SVb3PX4BzXjZfVWSoyqTlana5rMJKQh3LtckDqRcaPPO6+xTUCS5W44SGn99sGeWkvxPKoELIDU33EjbHTjFWuTb+h03S12l0S75rWalkpnMj2y/9I3WbKoMW546B/50MscFcB5h43LAcCjarbF5SCm0dcmxktKZTf+URPfTv+ybOAQXC0wmSK4uHbJHXZIw==;2TcMg++IyYPE/tT7+VgTDQ=="
 ---
 

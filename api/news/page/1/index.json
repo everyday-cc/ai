@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-21-us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china.md",
+      "title": "US Tech Leaders Aim for Fewer Export Curbs on AI Chips for China",
+      "excerpt": "Intel Corp. has introduced a processor in China that is designed for AI deep-learning applications despite reports of the Biden administration considering additional restrictions on Chinese companies to address loopholes in chip export controls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/a/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
+      "originalUrl": "https://www.voanews.com/a/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gdb.voanews.com/01000000-0a00-0242-0616-08db8965d0ef_w1080_h608_s_b.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
+      "publishedDateTime": "2023-07-20T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market.md",
+      "title": "AI, Big Tech And Blue Chips: These 3 Charts Signal Shift In The Market",
+      "excerpt": "One of the most popular ETFs investing in AI-driven equities, the Global X Artificial Intelligence & Technology ETF AIQ -2.75% + Free Alerts , fell 2.7% in a single day, marking its second-worst performance since the start of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/23/07/33312274/ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market",
+      "originalUrl": "https://www.benzinga.com/markets/equities/23/07/33312274/ai-big-tech-and-blue-chips-these-3-charts-signal-shift-in-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/editorial.benzinga.com/wp-content/uploads/2023/07/20161847/DJI_2023-07-20_21-40-00_e63bc-1-1024x875.png",
+          "width": 1024,
+          "height": 875,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33312274",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33312274",
+      "publishedDateTime": "2023-07-20T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics.md",
       "title": "AI Economics Must Avoid The Ethical Mistakes Of Climate Economics",
       "excerpt": "There is increased danger that AI economics research will turn into a tool to advance a preset policy agenda, similar to what has played out in climate change economics.",
@@ -114,7 +200,7 @@
       "originalUrl": "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -208,7 +294,7 @@
       "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV?siteid=yhoof2&yptr=yahoo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -363,7 +449,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1159,110 +1245,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group.md",
-      "title": "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group",
-      "excerpt": "Info-Tech's latest research highlights how technology leaders in the healthcare industry can strategically and responsibly implement artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2157776/Info_Tech_Research_Group_The_Top_AI_Use_Cases_in_the_Healthcare.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers.md",
-      "title": "Not just in your head: ChatGPT’s behavior is changing, say AI researchers",
-      "excerpt": "The paper notes how opaque the current view is of closed LLMs, and the authors say that improving monitoring and transparency can avoid pitfalls of LLM drift.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/",
-      "originalUrl": "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_numbers_fly_out_of_a_young_mans_head_as_he_stares_at_a__83b36958-aca0-419b-a3da-9863a6344d72.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

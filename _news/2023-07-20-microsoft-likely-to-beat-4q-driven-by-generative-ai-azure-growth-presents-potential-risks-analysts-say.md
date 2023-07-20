@@ -543,6 +543,34 @@ related:
         width: 920
         height: 630
         isCached: true
+  - title: "Microsoft, Meta Release Powerful AI Chatbot Backbone To Developers"
+    excerpt: "Two of the world's largest technology companies teamed up to build the foundation of an artificial intelligence language software that could rival industry leading ChatGPT."
+    publishedDateTime: 2023-07-20T21:07:00Z
+    webUrl: "https://www.ibtimes.com/microsoft-meta-release-powerful-ai-chatbot-backbone-developers-3705962"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 56
+    images:
+      - url: "https://d.ibtimes.com/en/full/4472599/mark-zuckerberg-pictured-has-mostly-ignored-provocations-elon-musk.jpg"
+        width: 768
+        height: 511
+        isCached: true
+  - title: "The AI Launch Pushing Microsoft Higher"
+    excerpt: "Shares of Microsoft jumped almost 6% on the Copilot news, setting an intraday record of $366.78. Microsoft is being ruthless to maintain its position as an early leader in AI. But the other seats at the top table are still up for grabs."
+    publishedDateTime: 2023-07-20T20:13:00Z
+    webUrl: "https://moneymorning.com/2023/07/20/the-ai-launch-pushing-microsoft-higher/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 56
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/image001-3.png"
+        width: 613
+        height: 369
+        isCached: true
   - title: "4 big analyst picks: Microsoft upgraded to Buy on Cloud & AI"
     excerpt: "Here is your Pro Recap of the biggest analyst picks you may have missed since Friday: upgrades at Microsoft, Plug Power, Baidu, and General Mills. InvestingPro subscribers got this news first. Never miss another market-moving headline."
     publishedDateTime: 2023-07-17T09:54:00Z
@@ -787,6 +815,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Azure Managed Lustre for HPC and AI Workloads Now Generally Available"
+    excerpt: "Subscribe for free. Microsoft recently announced the general availability (GA) of Azure Managed Lustre, a managed file system for high-performance computing (HPC) and AI workloads. Wolfgang De Salvador, an EMEA GBB HPC, and AI Senior Specialist at ..."
+    publishedDateTime: 2023-07-20T10:06:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/azure-managed-lustre-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 45
   - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
     excerpt: "In recent months, the remarkable strides made in AI innovation have ignited a wave of transformative possibilities, captivating our collective imagination with the promise of reshaping industries and the way we work."
     publishedDateTime: 2023-07-18T17:04:00Z
@@ -948,15 +985,6 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 34
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from writing a sales pitch or catching up on a missed meeting to generating images for a presentation or planning a themed dinner party."
-    publishedDateTime: 2023-07-16T04:12:00Z
-    webUrl: "https://www.inferse.com/617589/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "Microsoft partners with Capgemini and Splunk to drive AI and cloud innovation"
     excerpt: "In an announcement by Capgemini, Microsoft and Capgemini introduced the Azure Intelligent App Factory, a solution to revolutionize business intelligence"
     publishedDateTime: 2023-07-19T13:35:00Z
@@ -994,6 +1022,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "3VL+jR7RMZkHjOMhn17ZHtMQ4WHnq6Q7e45CVhYEs7Lh3zOMPrcHxpKdzT40gBx+6WFxMsGnTpOHKXe/P3KJayxf0oWarBUxiQ9W9GiA/ISl74QSKBsiUfbsIAs/iq/kMb8aYGcuI9SWF7PON3xdtDnERDS++6lwA2/6Si8VwVNOO0G8oTKuRui0b2b+rj65cSon5oZo4nF3xGEe6VsWPux8oalYPWxCi3Js1GB36UQ+qj6MvcsV52172/PffWlmXM9g2uTlHWqEWdUwRMQdWHF8rurlSUvDoNznXg82bkae/n3+WTM/zWGszE2603HEH30ZTppxfe9ZL8uIoYGoRVQOuK/1B1I3WWHO9lbH/Gw=;GmmupmoSHZgMgK6X/XFb1g=="
+secured: "XRb+/Yd50JMV4w/CIkfcbmCummWp1RUgZ+R4JmAc226feMueopEPZnU76Q/eQ2JeN/GqzM+SYJbpQr/8+zy4vw7gRQHxiog8dt2BEXirV0e84ozbX6SekTsoY9Khm+HTrEnwxYMQTRqtceyRe+o211zA6xqIRw7ciucyYUBlqVMbiExTo/9p2uOdZqQatXI1MSfvdn8zbD9H8IswHojifvFnq/ZX81A7v27DEzTfVat90hn8ADG5FeWx8ouwMlWcasO+Xk2shv0VL6XGAa+yGIQoxEjQk1VdwJr7BUn1SDG8Hrodj4lK5LXlvY2HoK7G8snYyxPBpLSyn3NsZ0OMnvkZxSEE9KjK25UU4U/TSBTbjf5Qr/X2zENUAnQkpftZm7Or3lODUzw5VQhZOnrX4IdGYU0g58ATRsl+AF+0IGMN8nxxpElMBUZNdpy/BJDe/JraYw2t5KxlMla0ut4Ez1u53Fuguz0Z8l5OAh7unZYwAjn0lig/RnoovIV2voELiaXVirAVAyRhOQtLo4cshw==;KpGu9GVKIXietFvqkC6p3g=="
 ---
 

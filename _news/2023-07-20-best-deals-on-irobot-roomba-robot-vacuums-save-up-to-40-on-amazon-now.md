@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/best-deals-on-irobot-roomba-robot-va
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-deals-on-irobot-roomba-robot-vacuums-save-up-to-48-on-amazon-this-weekend-2023-07-20/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-deals-on-irobot-roomba-robot-vacuums-save-up-to-48-on-amazon-this-weekend-2023-07-20/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/17/699aa5d6-42ec-4e97-9b6d-360dc5ef7181/thumbnail/620x620/930717a9a709c3bc839bc5c7177efa98/roomba-j7.png?v=95745651c879c36458baff76f9d6c670#"
@@ -26,6 +27,6 @@ images:
     height: 620
     isCached: true
 
-secured: "4LGJ2E9NO9LjmGNMRsoP9PZM5xfwXkNVwMNmRbf7JOvzCPZBB78EN1PB7dCyjyLGrbydY10h1o1sdq+RbE3U+UWdoMXaJvCAbaW4b6UB8je3dQoIHKefGhqK16PdUvVYGET+jXWHsNzoe1cpJQ6QwKoHDDf7nnp2yv7dKNpyj0Mw5Y5U8iYwy4OvpDdcG3gkeh4ty3BuO2Ogh9gERu67t5EaqoG0OIWx1C6SwgBxaZZRDjNZHxoD3WBM2QF9+ZIBepmG1RQwDfpFJ9BkwUTGttKu3TlidyExFUhYwG4ImVlvNY7v1fQv3Y6dDEEePgN0kVVYiHG9Q8m1yPpAe21de+w6eRWX4gJ9ql/ejmHaPzM=;63yEXtJUO4jxHHtllq3R7g=="
+secured: "N2Ukb+oH5fFQztsD0k8TEcB3g0C8dskwKHKCnuu2d3bgZ7YCo87A/647opgQdRya/SmHU04vIR1F7vlYZtOrOUn15q6QxTMyPurn36bXHeivVzngW+KkYRMqgsa1IF/jk0iOWyd/C8JsXxTQp0dFaLAihinjQWTHvbrlWE/CAEPE47n+1gcU4lS85oBzma6lvJm52MjjnkzJwUuOi5/5ZjlLxbDlNEhg+HpNBRTkp+8vfHvXixXjW5GxuwvaEVPJ2dDRoBEcaIeJdCgDof9r8XtEA9b7WyaZ7PBHfV//ocaYj1KaMSt5mSKR2tsy14L5NT8iR/wluliFVVsehfSEBNM1X1TWoOndoSwOpbK7l9foyT/VivJJUOardWWIldnehhjUhvUmekXMD86h20PVTBLhQUInbwXAAj7vmLPR/1HDN82MsNEf54PDsGkIjuxsB11ZO4mhy9IgUf5OwhElqAVLkNng5gCW2HAs5EdDQKU0lkmNdq5N/svKk0zqcN/nQd7CEWdOwAWKxQKgRO+nJQ==;bP8+sqtMamOLWHWTLkhu2Q=="
 ---
 

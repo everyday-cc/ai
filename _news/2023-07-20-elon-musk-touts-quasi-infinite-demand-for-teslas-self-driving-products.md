@@ -103,6 +103,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
+    excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
+    publishedDateTime: 2023-07-20T13:53:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/tesla-q2-earnings-net-income-surge-margins-slip"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
     excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."
     publishedDateTime: 2023-07-20T00:30:00Z
@@ -147,6 +161,6 @@ related:
       domain: indiatimes.com
     quality: 17
 
-secured: "oMqlPOBzNU2ISBZ8ScbJV4RAAhdyIhoph6OYHSQNqj1U+R+rRUGqjXrE9yEDLW4RZakDjPozSglqo2jRFRhQQIPYtNp0zD24/dQVUSTgNK4J/DrF+xhcygw1wjhCT6DoF1JMj7DYbvWj0ET5bUOGWXC/MU1K53N8wzeCIAjjgNC2OWkQuoEfEU1f48JGSIoC514hPSNZR29o9hbwroyKUn7p9OLseDkxB/myLWdfDweYwm/fmRS75X3WMmerTnkkJnVs+iXVLa1hlbO1T4GC3M/jzCoKqgog4/JYiHZdqDSj9gTpSqHt+HvtZLgB48HKtFHmN0fuDFIm0ptbx+T0/chHTxa41Znlca0typ6//zU=;inQS7Gf28CbSVKuwW7gjxQ=="
+secured: "O2WTdIjNpTJ2ZBIFyTDQyvRDDoxHdWiM2jhag8WYn55rpBHHeBMPhZFT7uVOBPp9Og+x8CKtkREWaDMwj+jCJdUCuEEjO9Jm9mge2x2XXylSlwuUKY+zUdEWQBGbvPzBYWJ0YlLp8m1RHdWxUneIUTnqS9cSylje4juVkYDbRkB02tgCSfWm8gG4rphZjZ+htHtD2vULvta4Jc6jFfCs+xVRdC4HzI4r2OvVi4x/oA/DlyOBxCD3mJ91hjA0YDfqpwaJuqksAS8fYbDW/JFVN3ILVkj48y/U8ubf+Rj+FxD1bZdzyCzAGCneS2p6kjZmV3NNgaFn+HEf2EKUAe5XQS7oUdnNB9cPnzTHTlUFmWxBo3vjVG4S0S0SAwR757i70/taKeetBnJ4L2PH4SQ3VMPvWcp4Ip2cm0r9ktm+1MjxcbfRayLuXRq6sbFVkD/FGzgRuw33BpqXwoS+uKVYLC11VvqMvdQfsZSET+jL69lxUOp9hc66FStHZSqB7FUjubsuSPr9xqWPyTTunKYy5A==;/Jfo5reZ5oWWDZlZsAXMmQ=="
 ---
 

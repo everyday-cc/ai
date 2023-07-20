@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UN security council delegates urge AI controls to defuse potential global threat"
+    excerpt: "The United Nations supports calls for a separate UN entity to facilitate collective efforts to govern artificial intelligence."
+    publishedDateTime: 2023-07-20T20:22:00Z
+    webUrl: "https://www.zdnet.com/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/cf3cdc6d1b378c3ca5e98e61eece6580fe50846a/2023/07/20/0a08f888-c62e-4d03-8dbb-516a6290b6b0/gettyimages-1543007160.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "UN Security Council discusses AI risks, need for ethical regulation"
     excerpt: "The UN Security Council met with two artificial intelligence experts this week to debate the benefits and challenges posed by current and future AI applications."
     publishedDateTime: 2023-07-19T11:07:00Z
@@ -83,22 +99,6 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 70
-  - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
-    excerpt: "An artificial intelligence company executive told the first U_N_ Security Council meeting on AI’s threats to global peace that the handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems"
-    publishedDateTime: 2023-07-18T23:26:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/exec-tells-council-meeting-big-tech-trusted-guarantee-101444339"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 50
-    images:
-      - url: "https://s.abcnews.com/images/Technology/wirestory_5a184197c4281365866b5963d56f84ea_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Potential threats of artificial intelligence to global peace on agenda of UN council meeting"
     excerpt: "The UN Council meeting will include briefings by international AI experts and Secretary-General Antonio Guterres, who last month called the alarm bells over the most advanced form of AI “deafening,” and loudest from its developers."
     publishedDateTime: 2023-07-17T02:40:00Z
@@ -124,6 +124,15 @@ related:
       name: pna
       domain: pna.gov.ph
     quality: 19
+  - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
+    excerpt: "An artificial intelligence company executive told the first U_N_ Security Council meeting on AI’s threats to global peace that the handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems we don’t yet understand and that are prone to “chaotic or unpredictable behavior."
+    publishedDateTime: 2023-07-18T18:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/07/18/artificial-intelligence-un-big-tech-first/0251b48c-25bf-11ee-9201-826e5bb78fa1_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 10
 
 secured: "RdDmkRTwWIJPReTSLHmFuF+fOYC8HMQN2ZdzItPUV0TqorVXWK4i857HHaIM4PDLKy6x9aJYRV7r5TYdGioKSNWls/ZWpFwVHexQ4hmz7j8ieue5/gVEjKFDv6QEFa0nh95kJ3QPdDOYRG9txlYYK443GIriDzn1XPPavHYtIS/CyhufBNdLNTLrlzP/oalascFPgSNKviZJf6468Y/Q6JRtmcUcqJk9MGn3owI61AWslj/fg2hQ2BEypF4s02fYnHkBYGXIZc4pomUnaIvcqQXx4PSmbfkb7eUBcwIOAw8lQV9DuXU5dhb0VQinqWdMhNBYpPbksgemeg2rwTt/AIVUEPvwfxIwhfcHh8AwTec=;tayIvlI0O9xkSO8qWSk3lw=="
 ---

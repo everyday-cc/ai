@@ -71,6 +71,20 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Meta’s Llama 2 Is an Open-Source Rival to ChatGPT"
+    excerpt: "Meta is making its Llama 2 large language model open source, the Facebook parent company announced on July 18. The update to the model, which had been released as the first-generation LLaMA (also stylized as Llama 1) in February 2023, was first revealed at the Microsoft Inspire event. Microsoft will be a preferred partner with Meta on Llama 2."
+    publishedDateTime: 2023-07-20T20:26:00Z
+    webUrl: "https://www.techrepublic.com/article/meta-llama-2-open-source-rival-chatgpt/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72023-meta-llama-2.jpeg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
     excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
     publishedDateTime: 2023-07-18T18:32:00Z

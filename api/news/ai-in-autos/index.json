@@ -395,7 +395,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -582,27 +582,18 @@
       "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
       "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
-      "originalUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
+      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
+      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "publishedDateTime": "2023-07-14T11:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-14T12:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CMC Markets",

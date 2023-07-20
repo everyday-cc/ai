@@ -117,6 +117,20 @@ related:
         width: 4071
         height: 2524
         isCached: true
+  - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
+    excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
+    publishedDateTime: 2023-07-20T13:53:00Z
+    webUrl: "https://www.autonews.com/automakers-suppliers/tesla-q2-earnings-net-income-surge-margins-slip"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk optimistic on progress for self-driving software, robots"
     excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories. The electric vehicle maker is in early talks with a major automaker to license its full self-driving technology,"
     publishedDateTime: 2023-07-20T10:04:00Z

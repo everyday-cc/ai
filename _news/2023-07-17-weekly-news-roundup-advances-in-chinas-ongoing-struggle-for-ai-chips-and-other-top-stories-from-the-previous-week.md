@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230717VL201/us-china-chip-war-sa
 webUrl: "https://www.digitimes.com/news/a20230717VL201/us-china-chip-war-samsung-tsmc.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "China-developed AI chips enter 7nm and below era"
-    excerpt: "The manufacturing of AI chips developed by China-based companies has started to enter the 7nm node and below despite the US' frequent sanctions on China's AI products, according to sources from the AI chip supply chain."
-    publishedDateTime: 2023-07-17T08:49:00Z
-    webUrl: "https://www.digitimes.com/news/a20230717PD210/china-7nm-ai-chips.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230717pd210_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "RMzQ29r/nWCqxIXbeTT9UCF2flXKBodEKkoqoVoPxnQClKgoIcHyn+eifjauJmaC5gflC3ufiVOUp9D7xrvsLiaxhaJ4sIOpJI//d/insumgrNMbnmLQIofGApQxc3yQjVXfzjtqP/ZC9SO1i7cLzLeHMMpbRvAZPJbXxzHh+tGyFc30ivnzBy/SpELEE1FLMGEkLYFGFQUVd3WqjLE8VUzq03qzRiMWAF/4kLzd5R6fqcgTjB1YUqXI8rdDMlxs32PxJy9oNZOfjgwBNV5cCV4KoTTf6mQHIvpx7Ad6HW+7YO8/4bYeuvLVPCD+8ufWeRXp0ixGy80dS3OF7moAVDXA8O2VJSeYa/zbmVe+z4ZXb5dpfWesxa4u9wgGfp8R8An0S267wDpFd///Yc04ebd8gL/TOcQeSxDPr4Ovsg/FMjTR8vAZD5AbFeiWpwJvJ7ljTkr4RPmUWDqbE9h/Nr/rQJVVltLErIC84L2rrYMdU5sKw+ng86/AoGtNfyptjEJ0biLhk27LbG9sLX8cPQ==;8GMDuv7eojVk07rFAyTVMg=="
 ---

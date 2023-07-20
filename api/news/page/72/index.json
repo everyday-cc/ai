@@ -2,6 +2,101 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-06-02-artificial-intelligence-ai-in-finance.md",
+      "title": "Artificial Intelligence (AI) in Finance",
+      "excerpt": "Artificial intelligence is poised to reshape the finance industry, yet finance companies face numerous concerns about this emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative.md",
+      "title": "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative",
+      "excerpt": "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "originalUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-watch-artificial-intelligence-dominates-london-robot-show.md",
       "title": "Watch: Artificial intelligence dominates London Robot Show",
       "excerpt": "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language.The robot is built by Engineered Arts, a UK-based company.",
@@ -1042,92 +1137,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-self-driving-cars-could-clear-light-rails-troubles.md",
-      "title": "Self-driving cars could clear light rail’s troubles",
-      "excerpt": "We propose that large, building-shaking trains be replaced with 6-9 passenger self-driving vehicles, propelled with plug-in technology (just like a Volt or Tesla automobile). Such vehicles would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/opinion/article227311534.html",
-      "originalUrl": "https://www.newsobserver.com/opinion/article227311534.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-augmented-reality-is-already-changing-healthcare-for-the-better.md",
-      "title": "Augmented Reality Is Already Changing Healthcare For The Better",
-      "excerpt": "Ari Grobman is the Chief Executive Officer at Lumus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64776950a4d59f3c17a62ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/amp/",
-      "publishedDateTime": "2023-06-01T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

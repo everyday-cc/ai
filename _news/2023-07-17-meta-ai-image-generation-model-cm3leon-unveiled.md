@@ -86,6 +86,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Artificial Intelligence integration to empowers international expansion of Theravada Buddhism"
+    excerpt: "President Ranil Wickremesinghe reaffirmed his dedication to securing and promoting Theravada Buddhism on an international scale. He announced the implementation of an Artificial Intelligence program to support these efforts,"
+    publishedDateTime: 2023-07-20T21:51:00Z
+    webUrl: "https://island.lk/artificial-intelligence-integration-to-empowers-international-expansion-of-theravada-buddhism/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 26
+    images:
+      - url: "http://island.lk/wp-content/uploads/2023/07/Upasampada-Maha-Vinaya-Karma-09-1.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "The great acceleration: CIO perspectives on generative AI"
     excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
     publishedDateTime: 2023-07-18T13:00:00Z

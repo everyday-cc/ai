@@ -53,6 +53,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 17
+  - title: "AI tool creates South Park episodes with user in starring role"
+    excerpt: "Episodes can feature a character based on user’s own looks and voice – but tool will not be released to public"
+    publishedDateTime: 2023-07-20T17:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "2ba23aZKInJcN3mcukfajnYkgMqJs6RgHKy1YLz26TeXZTH6J7ZEIHwJu6hrq6kQbViJlUw0gisoVViBPNq26gfjTe/PmpabbFD1/Ij+r2h+2ufscMDn6TcZtpkHIYsRFfuE4PrDFB+PQH0iv64co9Q/HTQWNxECwYjGHfUZLixB7SEUnHQy3aV9jUNZrJeO41gM64lMWMNyT2YfbtOIvZKDx7kTvsQy3wthOlGy7luj5+JAoKwkHzd951VlNbT4O4trE1lR/pMqToQh+l/qND+DKaGMB4/GraWCL5GBBpO9Jqh744zEfTl5F9m+YbwKjfFAVRTlXicCWqGk/BlaIxDlD0x2y5xE5siakHedmrY=;CWt5YrivNQgtUFI3jdlihQ=="
 ---

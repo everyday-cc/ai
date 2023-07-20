@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capit
 webUrl: "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech giants join forces on AI"
-    excerpt: "Kate Pounder, Tech Council CEO, said “in this time of high inflation and low productivity growth, our economy needs a productivity shot in the arm. “The report shows the enormous potential for generative AI to catalyse growth and innovation across a wide range of sectors, shaping a prosperous future for our nation.”"
-    publishedDateTime: 2023-07-19T03:44:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/tech-giants-join-forces-on-ai.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Microsoft%20Chairman%20and%20CEO%20Satya%20Nadella%20announces%20Meta%20Llama%20AI%20joint%20venture%20to%20partner%20attendees%20at%20Microsoft%20Inspire%202023.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "How militaries are using artificial intelligence"
     excerpt: "Artificial intelligence has been a crucial tool for many nations’ militaries for years. Now, with the war in Ukraine driving innovation, AI’s role is likely to grow. Paul Scharre, vice president and director of studies at the Center for a New American Security,"
     publishedDateTime: 2023-07-19T13:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help
 webUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346"
 type: article
 quality: 67
-heat: 77
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,45 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Is Reportedly Testing an AI Tool That Can Write This Article"
+    excerpt: "Google has already shown its new Genesis tool to several of the nation's top news outlets and is positioning it as an assistant for journalists, The New York Times reports."
+    publishedDateTime: 2023-07-20T20:15:00Z
+    webUrl: "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03Vkml6DGAYaSTMqJh3hSxM-1.fit_lim.size_1200x630.v1689879397.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Google says it’s developing AI tools to help journalists create headlines, stories"
+    excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
+    publishedDateTime: 2023-07-20T19:35:00Z
+    webUrl: "https://www.knoe.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+    ampWebUrl: "https://www.knoe.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-knoe-com.cdn.ampproject.org/c/s/www.knoe.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+    type: article
+    provider:
+      name: KNOE
+      domain: knoe.com
+    quality: 53
+    images:
+      - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/YO5HMaZ80XRxBaP090nwXiJ7PXk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DQ6HAAL4R5B4ZMJI3ZP3UIK3RU.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Google developing AI tools to help journalists create headlines, stories"
+    excerpt: "Google says it is in the early stages of developing tools that use artificial intelligence to help journalists write stories and headlines."
+    publishedDateTime: 2023-07-20T14:12:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/google-developing-tools-journalists-create-headlines-stories-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 18
 
 secured: "QSqLGTqSuVs7iN3j/oJd6ldvMJTV7gElPWZjOl0eAakRVju/X34HZWV8DzYrkJ08zq0pS3jdZAdT4lfPr8Q28sSnHB/3y4luloPs0cYjsNTwPTmKQhh1VlT3bXP108solHHaFB94kIFuAfpvjWRK7k5rsOy8eNFNXirq3r7EMDXsuTfCBoJD5mtSwqBPg0jlZSG4Qp5m6IA3Ybq1MzPei5zdfC31WuxAGSWAWvRQLfE/JiMcZBV7CBt09G6taL2fcMQB+H8sSzJtpa+YNh8xGdkOPc4b7hEgWUt5rvpR5GgCd9FARVFkAr3J6ibjEoScN1Wu/w8JTgCPArjW3oDUcsPnNp+Cnb4iiI4D8wbof1s=;dZle3WTGoQDPuOtWMVBNpw=="
 ---

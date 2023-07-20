@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Artificial intelligence at the heart of fifth industrial revolution"
     excerpt: "A key component of industry 5.0, AI has potentially enormous benefits for everything from safety and quality control to sustainability"
     publishedDateTime: 2023-07-19T23:00:00Z
@@ -59,34 +73,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/ZZLf-r-E8Rso6R3VyDAc08PgLnU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/GQR2M4RLRJCWXDT6RDVFY4EJFY.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
-    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
-    publishedDateTime: 2023-07-16T02:15:00Z
-    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
-    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
-    publishedDateTime: 2023-07-20T14:20:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "Editorial: Profit-sharing and AI protection are the answers to the writers and actors strike"
     excerpt: "The solution that will bring back your favorite shows? Better profit-sharing, and when it comes to AI, humans should stand with other humans."
@@ -111,6 +97,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
+    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
+    publishedDateTime: 2023-07-20T19:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
 secured: "BOVGlHDy+m21D+mmCGNe5R+bEle6fdoCjppGaMiYTF/Mp7RT+quf2SjCCcbfNDGQGxAkbOnlS9J8tSjTMJz7JXQ6OyLn1iGJoaU2h3Wtj3vxTpySrZdxstqCPhXlYL2FQpILjsY9nVYj9pZkc7H72llspYmU/NO3fBx+eJYc7Z565sQjyScrxa4ZP6TsDDKV83VVqBnN7khkAN1Xc7jJ10h58qWoOJJRY55hCs265B/+xUxSaidFqi6Fu1RRtxqw8Eh0jvozP8GzWXMWrHaKHFo0hMLpdTvYT87SDA0TyTUNm9v+m3loqZfNhj+146cj3kx1KuTXvYCdpJ2b0rqW86zMHtrVYOPAyVSK1qOa4Kj4cRn+/WryM6AS6hl0P8cJJjWYGC0Fs8B75/TDSJJbtCd75j9lJ4TBsFvOMkEGty69wvmBlT38ZJ1t2MnWD9nx3OeyL0XCy1yrxoM96L//Redk/3RQg8YCBg5odFli95JYPr3XxPfhLZmmc/q2EnywtL7PwMuycSsXPvB8M08ZEQ==;UUduAf6cvCM0bHUSnrFb8w=="
 ---

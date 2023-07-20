@@ -2,6 +2,92 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-07-02-ibm-is-bringing-ai-to-the-maker-movement.md",
+      "title": "IBM is Bringing AI to the Maker Movement",
+      "excerpt": "IBM has announced a new experimental platform, Project Intu, that aims to bring the various machine learning capabilities of its Watson artificial intelligence (AI) system to developers at all levels -- even ones that use a Raspberry Pi. The goal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/ibm-bringing-ai-maker-movement",
+      "originalUrl": "https://www.designnews.com/electronics-test/ibm-bringing-ai-maker-movement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_0.png",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-knightscopes-k5-robot-stops-crime-before-it-happens.md",
+      "title": "Knightscope's K5 Robot Stops Crime Before it Happens",
+      "excerpt": "The K5 can monitor spaces such as parking lots and structures for suspicious activity and go where it predicts a crime is likely to happen. (Image source: Knightscope) It's not part man, it's all machine, but this robot can still be a cop. Robotics company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/knightscopes-k5-robot-stops-crime-it-happens",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/knightscopes-k5-robot-stops-crime-it-happens",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/MG_6251-Edit.jpg",
+          "width": 500,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-rage-against-the-machine-refuses-to-play-venues-with-facial-recognition.md",
       "title": "Rage Against the Machine Refuses to Play Venues With Facial Recognition",
       "excerpt": "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ...",
@@ -1102,100 +1188,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-rd-speech-recognition-technology-that-can-handle-new-topics-of-conversation.md",
-      "title": "R&D Speech recognition technology that can handle new topics of conversation",
-      "excerpt": "After working at the Hiroshima Station, he moved to the Science & Technology Research Laboratories (STRL) in 2019, where he is involved in speech recognition research. His hobbies include running ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/3.html",
-      "originalUrl": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nhk.or.jp/strl/english/publica/giken_dayori/218/img/3_0.jpg",
-          "width": 720,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy.md",
-      "title": "The EU Wants to Protect You From AI. Some Companies Aren't Happy",
-      "excerpt": "Tech and other executives say the EU's AI Act stifles competition during a critical time of technological development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
-      "originalUrl": "https://www.cnet.com/tech/the-eu-wants-to-protect-you-from-ai-some-companies-arent-happy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1bcd1a2f3d58e57809d2440b723a2d20e89d3d68/hub/2023/06/30/18b4a82a-874c-4f85-a2e8-c560a9890c6b/gettyimages-1468369907.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

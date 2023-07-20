@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
-    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
-    publishedDateTime: 2023-07-16T02:15:00Z
-    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
     excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
     publishedDateTime: 2023-07-20T14:20:00Z
@@ -79,7 +65,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
         width: 800
@@ -108,6 +94,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
+    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
+    publishedDateTime: 2023-07-20T19:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
 secured: "kTxdm7zZb9E0lHaOJwwNqZEaZ33pPqiqJve8Xy0xgWWtH27q5OLT/QNU74Q3uD/+rTIdix/jTV+fz2nwQruc2HGMQrI3++ilUrgzzMZ7h9ajgz7KaLnDQhESWJ/2ru0f8nte2GCqoaTiLs/SM5Ege4tU9yplEPDAeKanFVT3C21LX6pPKKFb80rST65N/FSdSADpj4nzjmI4BYZBQdKNTHHK6EINSrvTU3jUOzvP+9Cye4Qz1tKqYHZUjyBX89eYXr5C2pIR2jzOc27xU6QUrjapPB57zsHiTd49FE8OdkqsWt5RR98xFG7BB6AcR8xKLI+Rjkz1mFybFihuLRtEP7TfSQFjhubQJtbEBXscPPWNTmpDHcQDJAkn0huZwlDeRwijFu300b3H5k7Sjf2I5PLeXgIiWgZ6xlh2JMJTxSdWmAb1CerSGsQH+o1HBCf+9jS6zd/1t3VUYTnnL8fBmp8TDBqhj6rStn7f9jU3zKtlA+1a6k4FQQQKOsmRpvIDW4EGfc7GTJYRplEBLlXhmg==;OnXbqnzYBQxfXcQi4zJzRA=="
 ---

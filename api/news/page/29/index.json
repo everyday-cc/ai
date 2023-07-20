@@ -2,6 +2,83 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-06-29-wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone.md",
+      "title": "Wordly Wins Virtual Events Innovation Award and Passes 2 Million AI Translation User Milestone",
+      "excerpt": "Wordly, the leading provider of AI translation for meetings and ... the Wordly translation platform provides real-time translation into 30+ languages for in-person and virtual meetings and events.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33056781",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33056781",
+      "publishedDateTime": "2023-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
+      "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
+      "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "originalUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis.md",
       "title": "Quantum-Inspired Tensor Networks Offer New Hope For The Climate Crisis",
       "excerpt": "While the list of beneficial applications of quantum-inspired tensorized networks for deep learning is growing, it remains a nascent technology.",
@@ -1063,92 +1140,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-natural-language-processing-south-america.md",
-      "title": "Natural Language Processing - South America",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.56bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.60%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-speech-recognition-south-america.md",
-      "title": "Speech Recognition - South America",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$160.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.79%, resulting in a market volume of US$506 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -3,23 +3,23 @@ category: news
 title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
 excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
 publishedDateTime: 2023-07-18T21:00:00Z
-originalUrl: "https://democratherald.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_d01ee602-22eb-5881-a44e-f5c96df91f18.html"
-webUrl: "https://democratherald.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_d01ee602-22eb-5881-a44e-f5c96df91f18.html"
+originalUrl: "https://www.stltoday.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_5af8ebc6-2960-5f70-90e3-09792b0d99a8.html"
+webUrl: "https://www.stltoday.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_5af8ebc6-2960-5f70-90e3-09792b0d99a8.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Albany Democrat-Herald
-  domain: democratherald.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/d/01/d01ee602-22eb-5881-a44e-f5c96df91f18/64b6fea8a1207.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/af/5af8ebc6-2960-5f70-90e3-09792b0d99a8/64b6fe95dc2e8.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -173,6 +173,6 @@ related:
       domain: abcnews.go.com
     quality: 4
 
-secured: "j1Gc/8vHg1YRZ86UTzUc4rQl6CW8T6iPoLgXyj0eGN4NdbCJikaO2pKu7x2ceVdidBO2c0RBJIvMvOobIp/M2cvILPVFU0cB1oArhO33oI5CsFZzMvPHeVO32ojdIp/W0REkyhJPsEBbRwAXzcFg2qFxVodpDEfXA4+RqiOvKW9m2aBMMSF8GMWMl8kYj3/8z2DyDfzZwhEA4yIsKBdxbNYSadNFSbJf2bdec1xESv8IjOM3+Lk1/ndHGRHcAnYkdbZVvEPNYb8LiPxuLtBDNSWRFbUhUQjsYKPVynEVxka12AqYtFDumB3pizd4eIAFNELOlddORjC7oKugwdPBBBNLrXifd6q2uUIFqzWQvlI=;FiQBvhybwRBGyEa8/lDQ8Q=="
+secured: "gom5z9DWdpBaZ9+GJnTJp0WzGuv2xVkGlCpUeEdP7LuimbqQeziniEaY/vMPSNxp6IN2SkrR6a1y+9GvGgenW+NRu5wUkZ/DSSXP1wSRsIj5OJ+0nGpSvXN5raG1SkER58+MsN1+/wIZRJYrdnvplIa5pAiqjpq3asqddlTubi1aaHD93tWl7i+PwO2Y9sV+LRO/g8Z0CrsE51hydOmWv5u0nosDpkUZVde+BJKH8A85LsbgXTCgVvzD+nyX75RalS5z9+GiNfiJPnJncPSWywrhIav62murJZAYFrNhVzJeqtK/HqgxB47AkbTuaV6LJEhO4Ry4+cGqLMpV+m6RrwrWEM7Yc3sOMh91P6PO/ew=;N9ZanTowMOPnfzRJu6eJiA=="
 ---
 

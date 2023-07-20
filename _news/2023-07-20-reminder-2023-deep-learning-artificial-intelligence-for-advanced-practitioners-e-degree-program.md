@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-20T06:00:00Z
 originalUrl: "https://www.geeky-gadgets.com/reminder-2023-deep-learning-artificial-intelligence-for-advanced-practitioners-e-degree-program-20-07-2023/"
 webUrl: "https://www.geeky-gadgets.com/reminder-2023-deep-learning-artificial-intelligence-for-advanced-practitioners-e-degree-program-20-07-2023/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Deep-Learning-.jpg"

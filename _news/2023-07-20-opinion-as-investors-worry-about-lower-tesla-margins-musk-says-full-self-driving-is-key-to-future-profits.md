@@ -31,20 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Yes, many self-driving car opponents are Luddites. That's not the insult you think it is"
-    excerpt: "The Luddite label is apt - and maybe wouldn't be thought of as a derogatory gotcha if people had a better sense of what the actual Luddites were about."
-    publishedDateTime: 2023-07-16T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/07/16/opinion-yes-many-self-driving-car-opponents-are-luddites-that039s-not-the-insult-you-think-it-is"
+  - title: "Tesla in 'early discussions with a major OEM' to license full self-driving software"
+    excerpt: "Electric vehicle giant, Tesla (NASDAQ: TSLA) held their 2Q earnings call on Wednesday where CEO Elon Musk spoke about the direction of the company, and confirmed that the electric automaker is in early discussions to license its Full Self-Driving software to a major automaker."
+    publishedDateTime: 2023-07-20T19:03:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/tesla-in-early-discussions-with-a-major-oem-to-license-full-selfdriving-software-432SI-3130253"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 11
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/14/2177449.jpg"
-        width: 1240
-        height: 795
-        isCached: true
+      name: Investing
+      domain: investing.com
+    quality: 13
 
 secured: "1nFaVNCQsHfAh5DhIYE1NH/+/vIM7OLmrPY5suclmipfDnw72/OxAs0ki0elv7wsWz57BjCrDTxZEU+yMhDPVuJBdlnv3U4b+KvuNt0MWxjk3xMW0Y/7HpgjB8KSQfcJw24wJBJjcxrN5m9bjPq+F/Swa0kxE88n0MfCj79aFr6NaiA/jl7h4Q//kGVNYIuZIllgALIwud3GEV/qk8PE8jPsdTOQj5dRjU3fLW3+Qa1PBWDZLsBb3c801aIrLOJnvU/0DPXzau3UGTXhFK5ImyCHYkZdO0lJgWcwITKxpt74O2v4oGxHhFmGbk3+rASwKVVeRvA/FtmmUzXtGHr6SVYTCOtA3vst5tcc9HNllUs=;AVXCIS+UZPPdZr4+SkHmZg=="
 ---

@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-19-everyday-ethics-worry-about-natural-intelligence-not-ai.md",
+      "title": "Everyday ethics: Worry about natural intelligence, not AI",
+      "excerpt": "Don’t worry about the future of A.I. (Artificial Intelligence), fret over the lack of intelligence now on earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/",
+      "originalUrl": "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/migration/2021/07/4fad38256b63469c4cff987f4a671305.jpg?w=1024&h=670",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/amp/",
+      "publishedDateTime": "2023-07-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-why-some-celebrities-are-embracing-artificial-intelligence-deepfakes.md",
+      "title": "Why some celebrities are embracing Artificial Intelligence deepfakes",
+      "excerpt": "The actors' union has warned that \"artificial intelligence poses an existential threat to creative professions\" as it prepared to dig in over the issue. However, Ms Yeo is not worried. She is one of a growing number of celebrities embracing AI-generated advertising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
+      "originalUrl": "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/059E/production/_130183410_aaaaqfa3b6haqofh7zbfvipolgbt5ku-bkndsttedaciktjwhjrzthlpww-0afeimombx7zejjqxdcvapy9mlypgrzx84cf8pmal_uic1h_fmqmfjpbs_md0xsmqfs_hkd-h8hp31a7smho7bioqm0t0mnbb.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65995089.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp",
+      "publishedDateTime": "2023-07-18T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-james-patterson-margaret-atwood-and-8000-other-authors-want-ai-companies-to-pay-them-for-using-their-works.md",
       "title": "James Patterson, Margaret Atwood, and 8,000 other authors want AI companies to pay them for using their works",
       "excerpt": "\"Generative AI threatens to damage our profession by flooding the market with mediocre, machine-written books, stories, and journalism based on our work,\" the letter reads.",
@@ -113,7 +207,7 @@
       "originalUrl": "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -458,7 +552,7 @@
       "originalUrl": "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -895,7 +989,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 859,
+      "heat": 879,
       "tags": null,
       "images": [
         {
@@ -1142,111 +1236,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
-      "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
-      "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
-      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/07/1689667515_ml_story.jpg",
-          "width": 760,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
-      "publishedDateTime": "2023-07-18T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-tesla-is-rumored-to-partner-with-samsung-for-4-nm-chip-in-self-driving-hw-50.md",
-      "title": "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0",
-      "excerpt": "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/",
-      "originalUrl": "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-D1-Dojo-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

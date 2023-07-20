@@ -27,6 +27,17 @@ images:
     height: 844
     isCached: true
 
+related:
+  - title: "Fivetran Expands Data Movement Platform to Multiple Geographies Helping More Customers Unlock Data to Power AI/ML Services"
+    excerpt: "Amid exponential growth in data and growing demand from customers for a scalable, secure and reliable platform to manage"
+    publishedDateTime: 2023-07-20T19:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fivetran-expands-data-movement-platform-to-multiple-geographies-helping-more-customers-unlock-data-to-power-ai-ml-services-and-data-driven-decisions/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 10
+
 secured: "wkPg8Xyj65ZJoFXY4ipZDdhPabYS9dOeeGv2LKe2REzJjmdvERYCwTFyfCFqmNb9ioRIZIKIUfY28FMQplcSUCzdK3+EdY3cY0tIFDkSA5PYrPCXj1y53QuLihAiXCVeyc8icncszLf/MSWQ1173zirGXc87XcIgi5B0r2qBxJJ487RygvBWOgQlS5dWD3fZpTd17Ct452P3+fVNRqaQBBbggAGIxDgxyK1Gkwmc1dj3Lznf3/V7quLuhdNYqtTEAABxUWwxQ/bzIO1BeAe+KB8j1RI0ktTKxWoEwoYPLj1yHSI9ZKgcViHwusx9fCR5Ruo1ulqHEfGgIjQJDNcLU9BB2TyfA8zR3YgqwHGBBU0=;98EFmVasvwKrjkR9wzXC0w=="
 ---
 

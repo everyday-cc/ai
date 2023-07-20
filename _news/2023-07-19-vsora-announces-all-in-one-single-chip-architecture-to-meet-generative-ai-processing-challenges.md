@@ -35,6 +35,20 @@ related:
         width: 304
         height: 288
         isCached: true
+  - title: "AVIA launches health care AI research collaborative"
+    excerpt: "Digital health consulting firm AVIA announced a collaborative that will help hospitals, health systems and others research and share strategies to responsibly and ethically adopt artificial intelligence algorithms in health care."
+    publishedDateTime: 2023-07-20T21:42:00Z
+    webUrl: "https://www.aha.org/news/headline/2023-07-20-avia-launches-health-care-ai-research-collaborative"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2018-06/aha-medicaid-data-900x400.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
     excerpt: "Designed to Trounce Memory Wall, Accelerate Proliferation of Generative AI Implementations; Chip Architecture Provides up to 3.2 Petaflops with an Implementation Efficiency of Mor"
     publishedDateTime: 2023-07-18T16:41:00Z

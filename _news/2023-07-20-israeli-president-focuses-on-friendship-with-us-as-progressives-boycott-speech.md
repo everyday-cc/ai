@@ -3,25 +3,27 @@ category: news
 title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
 excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
 publishedDateTime: 2023-07-19T17:46:00Z
-originalUrl: "https://www.kpbs.org/news/news/politics/2023/07/19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
-webUrl: "https://www.kpbs.org/news/news/politics/2023/07/19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+originalUrl: "https://www.wvtf.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+webUrl: "https://www.wvtf.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+ampWebUrl: "https://www.wvtf.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech?_amp=true"
+cdnAmpWebUrl: "https://www-wvtf-org.cdn.ampproject.org/c/s/www.wvtf.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech?_amp=true"
 type: article
-quality: 18
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: KPBS
-  domain: kpbs.org
+  name: WVTF
+  domain: wvtf.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.kpbs.org/dims4/default/5c8f25d/2147483647/strip/true/crop/7673x4028+0+863/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F19%2Fap23200549299825-454cf20a50e7305cfc777623ed92fa1f49e8e926.jpg"
-    width: 1200
-    height: 630
+  - url: "https://npr.brightspotcdn.com/dims4/default/ffa19d5/2147483647/strip/true/crop/7313x4504+0+490/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F18%2Fgettyimages-1258335841-54ec62b50efb9c73e250628ee9bab28c088c1a74.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -54,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mdwWRQpC7GMNKbXc3UnbzTz0C8oPQIvI0MjgbiSWUxfj+mUpUVzqqAQxCXSWTsax5MBpgACDN1Aytp/02xmoEKgoBFH+k+gm0Pyewu7BMAPlzT2DJ6kgllXqs6a5tLFkB4jP/mx0wPB1sWin7YLmINQLp/4Arj5LGVr4Cv+BuEgRudBoyOojkgKhitp2vFReHkDeA7QukJAkgRc6+SiAWqFAkZ3j6fbehIf5z+8XFi0UrejwWP8bt2AkTbmOMs1LeqGaRIn0I9tnvwfvIqP11fPptceDdSXKXEutrTu3tJT1qm7AmRsa3cOJyLYhp7NgI3VErlxFVIwZ+v/PgOYwwJhYkhw2jGJDbIoGhGvvsorOqUOjACJezSNtYjCHyh/jmpMl3MaDe8OovQkeX+IsMG6zWKrtE4p41YosY6OT1f+lbQaJ8NNR+zIOZlDb7lIFcZvvdjmE+xRnIbvG9V8SzCH8kgve+X0UaqlxJLWNHGv5SbEB4ybHYwKZc/FK+/tVqPQO516WoGZ9vv0uxxvRew==;x/trYa3ax1E9K2xqkB7b5Q=="
+secured: "6egz3Z9Gd81tn/OVRhW2GtBKG0DKbfzceHAD1CiGEtNDL8Jrur2Nrnch5Bjdnl0gHbCmlId4Eda+n9wd7X6bkyImcvWqMEb4eUfKjtlqH8bOexfgeE47GSDZWEJb2SgaDKxO/0NYn7cQeTJ6zbuMd9MNk2bVopnnayRyNNRttR8t66yyNjofEp4FQkD6tie2n8PJOrFp5XeIu3yWSTR79llqqCT18WjkOyLOSNzmuRElogEFmjsQM8z0lSOrzch8bhXq+vuVMJJv6PbWfwd78GDR9BMNo4w5Nk+v3PyYmv8f98TEa6gQpkA84yTdJbbI8v6A3T6f9LRrv86mOmS+tNcua7MvQuPnCxXeTiQRfEs=;m+ZUL/qZzNWV/aP0RWlHnw=="
 ---
 

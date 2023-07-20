@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-20T14:20:00Z
 originalUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
 webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
 type: article
-quality: 37
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
@@ -70,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Revolutionising innovation: The Generative AI approach by startups in India"
-    excerpt: "Startups across various sectors are leveraging generative AI to develop innovative solutions, drive efficiency, and create new market opportunities."
-    publishedDateTime: 2023-07-16T02:15:00Z
-    webUrl: "https://yourstory.com/2023/07/revolutionising-innovation-the-generative-ai-approach-india-startups"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Editorial: Profit-sharing and AI protection are the answers to the writers and actors strike"
     excerpt: "The solution that will bring back your favorite shows? Better profit-sharing, and when it comes to AI, humans should stand with other humans."
     publishedDateTime: 2023-07-16T10:00:00Z
@@ -107,7 +95,16 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
+    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
+    publishedDateTime: 2023-07-20T19:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
 
-secured: "DLvoqp19R13yLqS24gF8NOQEl9YDLNOtr+MAHLlN2/aR1duVuT3ebj6dsU9nTyH++soD8xWiIaZuDJT/3dPfbSby56uJXvcaGbFIE5uIWjTO7I89xGVe1evBsa2PbihJbKt3oo6haKfyx1r+1qQPrRAclN9kXGV+PyFNYPncfcBHLqHynidZE5kuaYSVTGn2T30uBDI2xBrKHK65WguD8d2EB7h1fUnWFnVlb40VlR1eKw9GxVUo/ts/dBDBn3corc0+ZRvIdDhwAcVcIPKmTBiu1Dpe8n+Y5gUIC3iC63espmpU1e9WvPh0x0O9pQe/x3oeAsV9pLT3Gzzo9SJverDlX5SH9fgxLNQo/hXFagI=;tDR/7uZIrE802PSzK+P3UQ=="
+secured: "GbRJFX1soGIf+OoIkEDP5cCIkxXK6HX4w2Qa/wsxdulqzDC+agDRu8PP2PZKmZDNX6g5bSUHPGgWol/PSzYzLtfr3YbKJF4OCcfYHYA+RU7IxJ9OWtNUAAd2Xl8Oeh5eorviXXW4NFSAUbGlDs+8hmswlkZzQdMEpVz6e8aLZtSsC1wrjf95/+6w8oAkNRXm7b6YrRNvSHb4Ut6oUXR70bGAZNRS5lSyjRdSpBDproZ2ZJBZHuSSeg7Yuv6Iv/3Aoa3/WHI4qW2KXYwBa2Ha1iX13/6TrnLm2/NoVnLezZijJ+3imakBBLaAUQlhoiUBLN8ElGQ5Rj25BwjE6+hLMNxJiqZlj2XY/Z77OxfIbC3dJ/XHuriw/FyqZ6vlcLwCJ1fwJhpAL8EkyyVWZzwZ1cg3cbr+N3tHtQg7jki/rinG5HWBeU8+DnkJUY5Jhv8T1i5UGv1HrE+J3A8V2I6mdD+x7c6vEtyUnJEf43gF/GKOeoUTDKtA6RqwkfaM7H7uUDT1CL/QtO9Lr5a7tJMShg==;qZv1352ipayhk4GDEHNTxQ=="
 ---
 

@@ -78,6 +78,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Artificial Intelligence integration to empowers international expansion of Theravada Buddhism"
+    excerpt: "President Ranil Wickremesinghe reaffirmed his dedication to securing and promoting Theravada Buddhism on an international scale. He announced the implementation of an Artificial Intelligence program to support these efforts,"
+    publishedDateTime: 2023-07-20T21:51:00Z
+    webUrl: "https://island.lk/artificial-intelligence-integration-to-empowers-international-expansion-of-theravada-buddhism/"
+    type: article
+    provider:
+      name: Island
+      domain: island.lk
+    quality: 26
+    images:
+      - url: "http://island.lk/wp-content/uploads/2023/07/Upasampada-Maha-Vinaya-Karma-09-1.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Meta AI image generation model CM3leon unveiled"
     excerpt: "Meta continues the AI revolution as it research team unveiled a new text-to-image creation tool called CM3leon. The CM3leon — pronounced as “chameleon” — is a text-to-image and image-to-text creation tool, which means that it can also easily generate captions for images."
     publishedDateTime: 2023-07-17T07:29:00Z

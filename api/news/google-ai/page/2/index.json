@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-23-googles-deepmind-unveils-ai-robot-that-can-teach-itself-without-supervision.md",
+      "title": "Google’s DeepMind unveils AI robot that can teach itself without supervision",
+      "excerpt": "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/google-deepmind-unveils-ai-robot-133922285.html",
+      "originalUrl": "https://www.aol.com/google-deepmind-unveils-ai-robot-133922285.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/30c3e726818c4deab3a7caf00c74cce8",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/google-deepmind-unveils-ai-robot-133922285.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/google-deepmind-unveils-ai-robot-133922285.html",
+      "publishedDateTime": "2023-06-23T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-our-support-for-early-warning-systems.md",
       "title": "Our support for early warning systems",
       "excerpt": "Google’s Yossi Matias and WMO Director of Infrastructure Anthony Rea discuss the Early Warnings For All Initiative.",
@@ -1440,50 +1484,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use.md",
-      "title": "Singapore's Central Bank Partners With Google to Explore AI for Internal Use",
-      "excerpt": "The Central Bank of Singapore is partnering with Google’s cloud unit to explore potential internal use cases of the burgeoning artificial intelligence (AI) space and advance the development of innovative technologies in the Asian hub,",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "originalUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry16-Xbo.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "publishedDateTime": "2023-05-31T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Google AI"
       ]
     }
   ],

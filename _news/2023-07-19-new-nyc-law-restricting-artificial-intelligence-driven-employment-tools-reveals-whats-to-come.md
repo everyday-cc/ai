@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/new-nyc-law-restricting-artif
 webUrl: "https://www.natlawreview.com/article/new-nyc-law-restricting-artificial-intelligence-driven-employment-tools-reveals-what"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "NYC subway using AI to track fare evasion"
+    excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
+    publishedDateTime: 2023-07-20T14:09:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-subway-using-ai-track-fare-evasion-rcna93045"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
   - title: "New NYC Law Restricting Artificial Intelligence-Driven Employment Tools Reveals What’s to Come"
     excerpt: "Up until now, employers have been able to use artificial intelligence (AI)-powered hiring and promotional tools without worry about compliance with AI-specific laws. On July 5, 2023, that changed. New York City passed Local Law 144, legislation restricting ..."
     publishedDateTime: 2023-07-19T19:31:00Z

@@ -46,6 +46,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Oracle Announces the General Availability of MySQL HeatWave Lakehouse"
+    excerpt: "Oracle today announced the general availability of MySQL HeatWave Lakehouse, delivering an industry first by enabling"
+    publishedDateTime: 2023-07-20T19:10:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-mysql-heatwave-lakehouse/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "8cgsB4ggS6DTIyVbwPAC1zZvvk9qhBioxS+m7s+Vi6/Gi8JYKhDpszQUfaUqOlMZYeqkEco9RpzFUbGgHkWBqhOy1ASbecgENoDLlM4IhjPpB20/1U7VZOduORbrrNOc2mgkMbu3LP/wSDXsyF9Kno0kc2sA4GZNCNqzKXzhZF4NcLTPZzXEvJei4im3myJ/2umsDg/6w3O7g4th31S3o8zqfhXjnNo9NK7iEtB9v3LoPX8r7w+gqB2vNEmOzHQ2sHNJWow8p4o6DDssYyCKyH27b6DBYPjysPqQ2TLw48w5egeVxSKlFl2jiT/PLlHKJxMO47ARyCCQBX6xf5fvtnUVRkq8DZg1+MhTN+BA/EZGW2knbsLof1e/jlpxFKJ5+y2cffWvPxbR1gY9uWejkxd1sOn4emKbM9kyOpSlHa10vrF3jebGkSiWd99nRipJgdRvLo3QJNio0ABrDKNSzI6Nz/UL5dNyr3pfML33KK6ljvk4kDtc8vap4tRBfvNl0/oH3YWOW6eLi1DNUuUwKQ==;w+/VtUzr/YWd3ARQjgoOdg=="
 ---

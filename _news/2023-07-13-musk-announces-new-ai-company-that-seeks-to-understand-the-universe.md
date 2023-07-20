@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 related:
   - title: "Elon Musk launches new AI company to 'understand the true nature of the universe'"

@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "James Cameron On Dangers Of Artificial Intelligence: ‘I Warned You Guys In 1984!'"
+    excerpt: "The “Terminator” director said he’s more concerned AI will cause a nuclear disaster than write “a good story.”"
+    publishedDateTime: 2023-07-20T18:38:00Z
+    webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 44
   - title: "James Cameron Weighs In On The ‘Weaponization of AI’ And The Possibility Of Robots With Nukes: ‘I Warned You in 1984’"
     excerpt: "James Cameron is finally sharing his thoughts on the controversial debate over artificial intelligence, which has become a pressing topic in recent months thanks to the growing use of machine-learning writing tools like ChatGPT."
     publishedDateTime: 2023-07-19T15:14:00Z
