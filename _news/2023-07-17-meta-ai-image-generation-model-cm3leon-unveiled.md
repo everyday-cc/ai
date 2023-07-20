@@ -58,6 +58,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 53
+  - title: "Meta lets loose second generation of Llama AI models"
+    excerpt: "Meta says organisations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
+    publishedDateTime: 2023-07-19T23:35:00Z
+    webUrl: "https://www.reseller.co.nz/article/708087/meta-lets-loose-second-generation-llama-ai-models/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 41
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_meta_hq.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "The great acceleration: CIO perspectives on generative AI"
     excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
     publishedDateTime: 2023-07-18T13:00:00Z

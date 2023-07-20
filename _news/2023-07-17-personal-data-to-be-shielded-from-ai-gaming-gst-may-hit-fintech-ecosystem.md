@@ -3,8 +3,8 @@ category: news
 title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
 excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
 publishedDateTime: 2023-07-17T01:40:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
+originalUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
+webUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
 ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
 type: article
@@ -14,7 +14,7 @@ published: false
 
 provider:
   name: Indiatimes
-  domain: indiatimes.com
+  domain: economictimes.com
 
 topics:
   - AI in Finance
@@ -239,6 +239,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "F6EOhmBOn1Pp5iYGHP6QMQ4rUwdwsjWBgQVwH84OEeYk6k2UqKFjtVny1ThFQ+KJ7OLS9hanJZivV3Fdzs8wUeaSk4asm1euNig88LwEnUIpjsVr7DF6SeeWAxp01QySH7bVk1BKkHyy7yzqXNzOQKQ7nE9oR3C/pE+qlnhaXi6ICFhfeNW0alHMd8nuIOi1U88u1Kkgmb7l5vvjlZaGMV0DcQ7sBvB9o68EY2qy0PlJ44xrXsrgcmSSDutxrpupsbf4nSvgn22YLRe4XwjkXUQfzOE5U3PbyHeFWIk08B/KA1EpH42xJqqWSQ4KVrKRtcjK5ZZzj73As27BSpculGE01qx4c+v3vcidkVPN6Js=;AB0dC1SFrejuzyP4OA6vSA=="
+secured: "sl6DXYvJ217jjPrJF3NAPeHSYURRH+2GH9XvuKGZjnVhln3PzEjUweYnqe9r3phDnsOvpMsx76e5sLrG4U2EuxJ6eTH5XQ7+3rLyMEc4ZH4h3POXsa5hM+IK8mD67m2zvQTnvtrxNk/HiGysaClaK7frICKjhTMzmx2CEPeBEVuNGv97DBbeSAU49M7FUXJApCzlXZfnvvYVqHrZry4GeM/DO8cX1V/B0BcA10FSqxD9Zy3v3JGjroz+U9C9npPOzun0DPl5zB2hGewAYvOvK9fV6pSpVfcrNpUjSMkoffT+ZvH0cfL8jxSEyDVe+M6LNLA+qCH+MwH2mN2PMxgOE2cYzD251+fNrtzcqZzHglI=;ljYZXN41gi5NGNV8+Bil4A=="
 ---
 

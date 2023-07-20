@@ -85,17 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Emotion AI: Understanding and Responding to Human Emotions"
-    excerpt: "In the rapidly advancing world of artificial intelligence, Emotion AI, also known as Affective Computing, is a fascinating field that seeks ..|News Track"
-    publishedDateTime: 2023-07-19T07:25:00Z
-    webUrl: "https://english.newstracklive.com/news/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 39
   - title: "A simple guide to help you understand AI"
     excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
     publishedDateTime: 2023-07-17T09:39:00Z

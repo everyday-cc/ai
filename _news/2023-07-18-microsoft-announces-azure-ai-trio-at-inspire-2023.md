@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 type: article
 quality: 119
-heat: 769
+heat: 759
 published: true
 
 provider:
@@ -839,15 +839,6 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 31
-  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
-    excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
-    publishedDateTime: 2023-07-15T05:17:00Z
-    webUrl: "https://www.inferse.com/615174/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
   - title: "Microsoft Shares Rally To An All-Time-High As Software Giant Adds The AI Subscription"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) shares closed at a record after the company announced pricing for its new AI subscription service, Microsoft Copilot."
     publishedDateTime: 2023-07-19T17:17:00Z

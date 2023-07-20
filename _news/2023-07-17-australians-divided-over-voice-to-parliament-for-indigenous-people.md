@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94016"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://images.sbs.com.au/dims4/default/3b06a24/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F22%2F0a%2F3f1821ae4de7a07a2f9374c07003%2F20230705001817462108-original.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Indigenous Voice to Parliament: Advocate fears low trust in government is hampering Yes campaign"
+    excerpt: "Uluru Dialogue member Geoff Scott says a general lack of trust in governments is making the Yes campaign’s task harder but he is hopeful voters will dismiss the ‘political noise’ around the Voice."
+    publishedDateTime: 2023-07-19T23:45:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-advocate-fears-low-trust-in-government-is-hampering-yes-campaign-c-11321100"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 26
+    images:
+      - url: "https://images.thewest.com.au/publication/C-11321100/8daa1c374c9cc2c619e45ee0b0799233bf9372f0-16x9-x2350y263w1417h797.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Australia news live: Anthony Albanese defends voice in fiery radio encounter with Ben Fordham over referendum"
     excerpt: "Photograph: Dan Himbrechts/AAP The prime minister, Anthony Albanese, has just spoken to Ben Fordham on 2GB Radio about the Indigenous voice referendum. Fordham repeatedly asked about why the government is not proposing constitutional recognition and ..."

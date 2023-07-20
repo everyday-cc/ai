@@ -58,6 +58,20 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 53
+  - title: "Meta lets loose second generation of Llama AI models"
+    excerpt: "Meta says organisations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
+    publishedDateTime: 2023-07-19T23:35:00Z
+    webUrl: "https://www.reseller.co.nz/article/708087/meta-lets-loose-second-generation-llama-ai-models/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 41
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_meta_hq.jpg"
+        width: 504
+        height: 315
+        isCached: true
   - title: "Meta AI image generation model CM3leon unveiled"
     excerpt: "Meta continues the AI revolution as it research team unveiled a new text-to-image creation tool called CM3leon. The CM3leon — pronounced as “chameleon” — is a text-to-image and image-to-text creation tool, which means that it can also easily generate captions for images."
     publishedDateTime: 2023-07-17T07:29:00Z

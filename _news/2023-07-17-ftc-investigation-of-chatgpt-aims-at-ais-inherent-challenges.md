@@ -96,20 +96,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 49
-  - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
-    excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
-    publishedDateTime: 2023-07-15T05:38:00Z
-    webUrl: "https://techstory.in/china-implements-landmark-regulations-for-ai-services-like-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/07/f0c3442c414a7bd1b039829a50849a4e-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
     excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
     publishedDateTime: 2023-07-19T12:46:00Z

@@ -76,13 +76,13 @@ related:
   - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
     excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
     publishedDateTime: 2023-07-17T01:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
+    webUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
     ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
     cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
     type: article
     provider:
       name: Indiatimes
-      domain: indiatimes.com
+      domain: economictimes.com
     quality: 57
     images:
       - url: "https://img.etimg.com/photo/msid-101813436/gaming.jpg"
@@ -239,6 +239,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Y42oh1Am7o0dvlhDM9L4O4rMVjMYdPw5v0E0HJRmjEAzdcWOFJ4uEA47oxehPGi6UDmVaM3cV3oxjWLCI+i7HqIeRqMqU0StAUUdWh2B8kUqqtC0B8RmzjUpv3qbo+hSen4/e+eo8nCWVDLXx3+CPDQOpBfzic/M2OU64F0LRoax99nNR8Abuom/4sXOvb2UpoyMlTCHJDH9G3pk6xRKmQ0bhxQQX+vmTQvsSzNK+xzST8y5qu2/6kHgHi32HNEp4nNyYr/m+fCFiPAjGuKvPihgc1APtJZVQwPC3ws0axT7kD0QP45X6IeM6Jbskh6U8+yDt1lqdE2nW2c94ewobWyEvcJjkRvsOdwj6IrRgus=;K1dQ23kDb4uW7fvZhEYriQ=="
+secured: "if/lBG2wNE8uwYGEc4AZqNdwSj02/hciltdWc/eSKjyrszK9iYMx6tU4S5Z0fqg48XWYekQz/AX5KxCCHspl/QvVqrIf5rEnhlo4I9BYuHMLI6BeF2X+eNYufDpM40hmuptJGrQvXSc9HKLz7nOvXNwkr4kL3vyD+aLFeef+MNYxXxKfNayknCv4ZgCp8rEMNqYGX1O/8eIpDzfJVBF9woki7lfHRQXQmCUA+oE+IbrLudytigHkHha4Cv6dbu1zPOEqjjDiWwtTAef7padDeZ3eqa1HGlLocJjG3PXG1UnpZEcS7iV65rTVFwa8ayKA1F8HVn0+6im+Suzy1CNk8gLi0teGUJXDtsHLH9uQ4rNsul1ysmr8KO9XCmvYVdjQn22JkGd2FiGpeVArr7r87ChUh7DDiGnVajfnuUpKNmgx8U/3QBlY5q83DASVse9HrdpPJyuxWKugJdEu2VrNbKhOeWxu+1fKzj4VE8KMxPn0XMGuIfw6koc++iAHFp7Y1KC03XN5J01RK0Fs6yauTQ==;rg5u4Ekd4Iv1lTH6IDW1yw=="
 ---
 

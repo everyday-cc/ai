@@ -89,6 +89,20 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "Apple Has Created Its Own AI Chatbot, Report Says"
+    excerpt: "Apple has created its own generative artificial intelligence tools to compete with ChatGPT, according to a Bloomberg report Wednesday. Apple built its own framework that can create large language models, called \"Ajax,\" as well as a chatbot service that internal engineers are calling Apple GPT, according to Bloomberg citing unnamed sources."
+    publishedDateTime: 2023-07-19T23:25:00Z
+    webUrl: "https://www.cnet.com/tech/apple-has-created-its-own-ai-chatbot-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/15762c3fcd72f09b4ff1a19723d6d1c24d7211f2/hub/2023/01/18/a9dbaafe-478e-44e1-a966-4cf7231453a3/apple-green-leaf-store.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
     excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."
     publishedDateTime: 2023-07-17T07:00:00Z
@@ -113,7 +127,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_a_llama_programming_8c825672-172b-4e69-a6f1-b7c9e8bf5294.png?w=1200&strip=all"
         width: 803
@@ -166,6 +180,6 @@ related:
       domain: invezz.com
     quality: 19
 
-secured: "L31QvrHkeJvffUC0DtmJg1Wdwk62unzx6olRBf3ZbQGqoOYtIt8Tkqj1OtkGr9IyFXcsvbrBdxlTMPXkxhm1DuBtWgC8LNdxkvhSzXqvU4KYv26OAsvZisXAFAPGnbb07Ha0k8yoI5F6Tu4RcICCVjmnBRLvcWhgVtTNTS52bDvAMnN4v+0WT8OlqpyVo/E02VumkjtXOB5NRWNWebLDZt+TbTV3d82dbsK5qf+iUSiEvfbXEFA2FjrMhjzfxbXj8RR/1lTasurAc6natUt5YZi7pKHorVbIBRqEYJpZfqrXmg5PhMFWgBrFER/48owBIL0KOHvzkoftMMO98fzatZmU1EG5qXFQ/TBY6c3tjKE=;ybBAeXTH7a6hGXJyFJtirw=="
+secured: "YC7eflAfwLHpigRfm1UkTtw14OSUyHzxVb+DKmTsYz9xOlL13FMysyiyyta9R7zEfpqflhk62OrBZfPOqajzj4vC1yJMc01r6BeJCX6mHfMZ5ACLUKFC7MvrkUVrzPwrFQGPmaWfitsFM4oGFONSnTDFglSSL7Uz0Mp0z/KM5P5R1z/iSptmev/Ayj0sZsb0r5g09OqPnq1UHfca8y4uuN+vi8qM03+TgFpqdqwASgeV3h//K8q0OWmNxO6/cUOc/360lGpqX5rpt8YBiQhUeqHdOCbtYEA46las/YobC87Vn25qPAVTFBdzNbH5tZvqaQalqLc6ZCvmu9QBcpv13eNOgZCwxXbeb14i9uqZCB+WQxuZXxrD7t3RpXh+FhoxeutGK4cPJ/uhY8lw+fVvU7Pr1d12zMM3YxjIEhuPArJ/t5kuHgvlOOFotLKf1AARMaHa7k0eLd7UDqnn/KMgNTryObh6rl/F7r0vYgIFLN0qae7JpeONfGJtQqIdoh5jUOv7trWp25bH+bchLUvrVw==;30Qusq/cK37V+VmWW3tmdw=="
 ---
 

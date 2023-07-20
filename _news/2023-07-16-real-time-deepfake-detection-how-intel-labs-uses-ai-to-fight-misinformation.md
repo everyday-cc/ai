@@ -23,9 +23,9 @@ topics:
 
 related:
   - title: "Why some celebrities are embracing Artificial Intelligence deepfakes"
-    excerpt: "The deal allows it to use an artificial intelligence or AI-generated deepfake version of the Hollywood A-lister to \"star\" in their new TV drama. What she says and does in the show is controlled by the computer."
-    publishedDateTime: 2023-07-18T23:08:00Z
-    webUrl: "https://www.bbc.com/news/business-65995089"
+    excerpt: "The actors' union has warned that \"artificial intelligence poses an existential threat to creative professions\" as it prepared to dig in over the issue. However, Ms Yeo is not worried. She is one of a growing number of celebrities embracing AI-generated advertising."
+    publishedDateTime: 2023-07-19T05:41:00Z
+    webUrl: "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld"
     ampWebUrl: "https://www.bbc.com/news/business-65995089.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp"
     type: article
@@ -34,7 +34,7 @@ related:
       domain: bbc.com
     quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A118/production/_130204214_jamie.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/059E/production/_130183410_aaaaqfa3b6haqofh7zbfvipolgbt5ku-bkndsttedaciktjwhjrzthlpww-0afeimombx7zejjqxdcvapy9mlypgrzx84cf8pmal_uic1h_fmqmfjpbs_md0xsmqfs_hkd-h8hp31a7smho7bioqm0t0mnbb.jpg"
         width: 1024
         height: 576
         isCached: true

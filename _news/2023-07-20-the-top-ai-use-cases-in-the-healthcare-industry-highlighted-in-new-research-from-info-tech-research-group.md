@@ -1,22 +1,33 @@
 ---
 category: news
 title: "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group"
-excerpt: "Info-Tech's blueprint advises that healthcare organizations use a benefits realization model for AI use case analysis. This type of approach emphasizes the importance of identifying, quantifying, and developing a framework to prioritize potential use case initiatives across the business capability map."
-publishedDateTime: 2023-07-19T19:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/19/9851160.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/19/9851160.htm"
+excerpt: "Info-Tech's latest research highlights how technology leaders in the healthcare industry can strategically and responsibly implement artificial"
+publishedDateTime: 2023-07-19T20:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154"
+webUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 69
+heat: 109
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2157776/Info_Tech_Research_Group_The_Top_AI_Use_Cases_in_the_Healthcare.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
@@ -50,7 +61,21 @@ related:
       name: The Herald-Sun
       domain: heraldsun.com
     quality: 31
+  - title: "Policymakers who want to regulate AI need to start talking to health care industry representatives"
+    excerpt: "Health care deserves particular consideration because it presents a much broader spectrum of risks than most other uses of AI."
+    publishedDateTime: 2023-07-19T08:29:00Z
+    webUrl: "https://www.statnews.com/2023/07/19/medical-ai-regulation-health-care-industry/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 29
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/07/GettyImages-1500363054-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "qq+jjgMmaiTtndUFcY6FGWJ+anndYRJ9iyKrB9r57QIfvJU3XnhQvjZjPT+IdOX0ohXh3FRD3wTvFh08kGUXb+ZCfBH8gbUtz4QP1YBfgJIUIziwYOUr/iLTq6B4RMq+9461lw4kHbOJ+NWZn9TzcuzoVIt1R3oUfJmJGku+npjgj3a4Lkz1UkSsSkDd/5dSuSYSbxOoEwuJBi2y/k2HVJisgciEUGzZr8Tx6pmlSktoq/XXmIughSM8fIwTFCh54US1r4sBfydJh2BX73uXB/iOSCFeKP4baM4IJ4HlodcawvgIAH7iXxXJLmBjLnu/PXDB9y0yEeIlIBmxmPwBq4HSrdoBgV4Ao+Ngx7LeatY=;HExu0L2B2e8HM9uGJ985bA=="
+secured: "s0OL0GlCLafYqJAy9Umq6oSj5uOx2SP3eOyOuxo9sDJXu7cBTCOZmJ8wMhwF3vmSFm/OIpfgUbBtaIFWWlcbjJTJkNT3JZeCGxGPP6cy8Ue//M9r1oyfm9xcfQ5tpxZ0mKi18S7q4P8GLhZmUljtnCPLYJWcywBANiSQxUSct7jGRi7+KxnI+/9Xhs/NVlP9x80hFrIzSU+Jb2tPHv1zfhAazxszetVYD01DsK2KIh5NrOBrkmr84b3ySDt6R4T00uVyIo09U4UIw5tZ0SdMT9OCxH/VfUlOQAdXiSFa3rr550M7mJVc859NfEef/xTWQS6sPTJTyZOIVKSqEDND7PvBl0h0qBVnfIxoni4YDkM=;KGDCO98DlOnTPSHvnYwCpA=="
 ---
 

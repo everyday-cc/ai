@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-19T21:12:00Z
 originalUrl: "https://venturebeat.com/ai/llama-2-how-to-access-and-use-metas-versatile-open-source-chatbot-right-now/"
 webUrl: "https://venturebeat.com/ai/llama-2-how-to-access-and-use-metas-versatile-open-source-chatbot-right-now/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_a_llama_programming_8c825672-172b-4e69-a6f1-b7c9e8bf5294.png?w=1200&strip=all"
@@ -92,6 +93,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/4F4BB410-B9BA-4D91-8737E7D82CE8E44C.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Apple Has Created Its Own AI Chatbot, Report Says"
+    excerpt: "Apple has created its own generative artificial intelligence tools to compete with ChatGPT, according to a Bloomberg report Wednesday. Apple built its own framework that can create large language models, called \"Ajax,\" as well as a chatbot service that internal engineers are calling Apple GPT, according to Bloomberg citing unnamed sources."
+    publishedDateTime: 2023-07-19T23:25:00Z
+    webUrl: "https://www.cnet.com/tech/apple-has-created-its-own-ai-chatbot-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/15762c3fcd72f09b4ff1a19723d6d1c24d7211f2/hub/2023/01/18/a9dbaafe-478e-44e1-a966-4cf7231453a3/apple-green-leaf-store.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
     excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."
@@ -170,6 +185,6 @@ related:
       domain: invezz.com
     quality: 19
 
-secured: "6oMSd7jwSZCtmD2fLsIwaPDhaNUETRrxxs2C1AvMNYwimulBscw5Ji40+HuP/EKmYExzSs0WMLeeIQBaUGXAStYrNdnTRbhrMpTj78tjS6E9EydhRESmXHifrDYWjCG9ZezE4YFCwvZKUfWiKVki8H4rNU1XUoIo2Ki4KdqaqsBnumLUh+36xKvbJQGIXGK4ZyyqYPsWYTqfiaFbbxn2y/dvBo3KluI1aBNcO7T41x3ptwrKXKdaUMWMqFyqf9BQGY2gc004YgwxhwaSV87X7fXDHYaY5ilDZVfmwc4PGCBhfw1Yhzb9X5UsaqjEKEBEKKMtdcAmFHDev9J4R2vBfb1DY8iTPqpLSUi1e8WWIhE=;iYhZKqcaqPOEJqe4U+bqWQ=="
+secured: "Cp2uGFssnm/IoDDGLGfn/Ss0GzPyCLFZKwwIsvUXpHDctpVTgRltyWPrA2KW11reLj5rdc2Y+arEwmR79RVlWCjB3LgFAaKYn1dvAJ3hv6HH9crqtH6cVsCwQCgTzbrq8c7gbz/vtjP/bKRuAEp73NuwU94pAuXCeC0S7rNgbB2xfvz6nCGPCbcjs9Im/PeDtkrXp/4+1Q1AR61vo88jiuqBsJLQ44Oy9fI9X7zprFyqRuWo6460jfMNa7OT0E023WG6FpWgm7yBOkzqupr7WdqLBI2m1KydDdHsyKU97J9uBS/qczm26eTR9Zz9Ayx1wAwMMqttmW77YLItya+QqbBpRf4WhqCI0N6/sdx7NqvhHpB9m3XPOljhfJ57rQouGRSQoWWNetWlC/iBJwgtmkR5xaHNmomdoKuiP+nywuFYqRxVvkVQCeD9voAD40/DaJRu0yPG1Wce7/P889aM56bnvnKFBeAsB8VxQcuM9YKMYXr8w/ycD+fyvGZzZq23l9OlO0zWM8nZW8fnlfD+RA==;4Kkwmcn+oWzVkkxP2JhDyw=="
 ---
 

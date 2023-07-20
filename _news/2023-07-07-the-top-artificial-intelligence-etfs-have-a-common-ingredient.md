@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Top Artificial-Intelligence ETFs Have a Common Ingredient"
-excerpt: "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ..."
-publishedDateTime: 2023-07-06T19:33:00Z
-originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW"
-webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW"
+excerpt: "AI-themed exchange-traded funds have grown in popularity this year. While they differ somewhat under the hood, nearly all of them have Nvidia as the biggest holding. The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight."
+publishedDateTime: 2023-07-06T22:01:00Z
+originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW?mod=Searchresults_pos17&page=1"
+webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW?mod=Searchresults_pos17&page=1"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ZhtQjj57wvzA2/0GOPBsy9dZcN7t71zdMVrQykOrLvhQJWJpRWT+3xb6uHDGeHH/duDIRwqyt2W8oX5vkHnENos45Hsc2QOVivoizPu96xF8HFTef1IIZNl6cm/TVthBSXhjnYxbUyYhKGC9frEySrO56n4kouyU35wqSwgdy3nCfB1WQ/iGsoJKg/miUhriejN27uPk66eGeg7SG2FqxXjMDcQAf6eUc4WJKlz1RlaP9D+fbqJPbz9kRJS4dt1r8yX5+ixLTXqGU3eONk79VYlpAC6TdEaBUS3NkzFWbRpv/umTVatQUZM//GJeXI/2fVlcYS/2ypAvzoyjbHNyedyi/o89yjkeccnmjU+aXK4=;F4eXPQdp0IRVYzzHWk2h6A=="
+secured: "eA0+LH5uLjnwh9elGRmv7/zQTqiUAffOZJ0FvHH9S6WmNuaTx8D1/iNBkeXqjClY991tHd6f0hDRPOnMPkkiPHpolpQWqsuRp2I1KUKLMI1pfG1mnDQqRyyXYAweMS7+9MppjfVmTTcorMQIahE9Ddax8KImy90TU2WXmgJe+BBBHLDMefFhN1RdmtO9LI/4PhBnKariMSTMFtkArQ/wQtRli8MYIOxvNd34v9qPbLYMGc9TETGIIfPRvsoDh1Aaw0Il0MA80nBppD268cPZ0hCa0MOHUOljR420IR/tLrEI4/MMdFIQz17aY9D3460FooR14/ZatcqWb5FycdnOahdFqTf0MA4kNM7AXYoEgRg=;1VWSJpf6amKiaa0genMSZA=="
 ---
 

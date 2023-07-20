@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.newsobserver.com/opinion/article277237823.html"
 cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article277237823.html"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Raleigh News & Observer
@@ -21,6 +21,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group"
+    excerpt: "Info-Tech's latest research highlights how technology leaders in the healthcare industry can strategically and responsibly implement artificial"
+    publishedDateTime: 2023-07-19T20:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/2157776/Info_Tech_Research_Group_The_Top_AI_Use_Cases_in_the_Healthcare.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
     excerpt: "Jonathan McCall/Duke AI Health In March, a group of artificial intelligence experts published an ... As a researcher who works with AI in the field of healthcare, I share in the enormous interest for using AI to improve patient care. But I also understand ..."
     publishedDateTime: 2023-07-17T22:52:00Z
@@ -41,15 +55,20 @@ related:
       name: The Herald-Sun
       domain: heraldsun.com
     quality: 31
-  - title: "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group"
-    excerpt: "Info-Tech's blueprint advises that healthcare organizations use a benefits realization model for AI use case analysis. This type of approach emphasizes the importance of identifying, quantifying, and developing a framework to prioritize potential use case initiatives across the business capability map."
-    publishedDateTime: 2023-07-19T19:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9851160.htm"
+  - title: "Policymakers who want to regulate AI need to start talking to health care industry representatives"
+    excerpt: "Health care deserves particular consideration because it presents a much broader spectrum of risks than most other uses of AI."
+    publishedDateTime: 2023-07-19T08:29:00Z
+    webUrl: "https://www.statnews.com/2023/07/19/medical-ai-regulation-health-care-industry/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: STAT
+      domain: statnews.com
+    quality: 29
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/07/GettyImages-1500363054-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "KvzJkaQcfK9/iJygE8np8pv/9+gQiOszhV4Vz3r4P7YDmivX6przy1M+UAemG2roIkKzo4krDlLEObJS4Nm9aNfyAFizwyDrD0qy82MnnABzUO58XDmxotVNlyZayRwu4a2lay9+hIavAixaXyrLIg4Kn9G3NxgoG/L2WRdm5yuVPwJWINbtVyNWF8vYTW3Cg+jtQ+KjElwgNF4abYzQTrmNGc8ADfG8Dj0zoeNWGLSC9hzWS5D/JZ6TZG4MaS2B7EfnDCwnAorwcEXQPeiLDl5PbBdEhIMrMgAWK+gqvysXIIcI/4h8yfc8+so1V8CGsdjsiQ0I+ZuHL096uZGz4PVFlFptmVHomLJoY+ndnhlVj4MK1OFgd540TyDeRYkBxf3y5UORrqQYIbHHa59LqzF28e2xXzJ/ZxFYvJ5S1fY4wrJtn18xYtu08n6GhkI/N5jvoY5XLer12IKzQUgdnOPhkwYqRDMOyz+p7vhxREQZa/9XNbPvFzJrmiXQwZWjV1sfnOI4B6tNkVBT3ooG8Q==;M13yGbvt1VtNEVVVgJSSlg=="
 ---

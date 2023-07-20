@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-19T20:39:00Z
 originalUrl: "https://www.ciodive.com/news/Meta-Llama-2-generative-AI-large-language-model/688449/"
 webUrl: "https://www.ciodive.com/news/Meta-Llama-2-generative-AI-large-language-model/688449/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.ciodive.com/imgproxy/xMaFRj7OzAFFlNR1XVSa-vZd6ZPrXWz2aWbi4qCknCo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL01ldGEuanBn.jpg"

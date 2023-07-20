@@ -39,6 +39,22 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "China Diplomat warns Washington of further restrictions on investment, AI chips"
+    excerpt: "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation."
+    publishedDateTime: 2023-07-19T23:14:00Z
+    webUrl: "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
+    ampWebUrl: "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 70
+    images:
+      - url: "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Intel Invests In AI Startup To Design Humanoid Robots For Shrinking Labor Force"
     excerpt: "Intel Capital has made a $9 million equity investment into Figure, an AI Robotics company building general-purpose humanoid robots. Today's announcement follows the Figure 01 robot taking its first steps,"
     publishedDateTime: 2023-07-17T17:32:00Z

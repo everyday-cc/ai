@@ -844,15 +844,6 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 31
-  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
-    excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
-    publishedDateTime: 2023-07-15T05:17:00Z
-    webUrl: "https://www.inferse.com/615174/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
   - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
     excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
     publishedDateTime: 2023-07-18T13:09:00Z

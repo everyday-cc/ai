@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Neura Robotics picks up $55M to ramp up in cognitive robotics"
     excerpt: "Neura Robotics, a German startup that since 2019 has been building cognitive robots ... That includes not just fashioning all the sensors and other components, but building the AI that powers it. This also means that Neura can collaborate better ..."
-    publishedDateTime: 2023-07-19T07:42:00Z
-    webUrl: "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/?trk=public_post_comment-text"
+    publishedDateTime: 2023-07-19T10:23:00Z
+    webUrl: "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/"
     ampWebUrl: "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/"
     type: article

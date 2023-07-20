@@ -9,7 +9,7 @@ ampWebUrl: "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-
 cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

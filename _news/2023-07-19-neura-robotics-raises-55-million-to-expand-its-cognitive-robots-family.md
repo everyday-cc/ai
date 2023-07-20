@@ -29,8 +29,8 @@ images:
 related:
   - title: "Neura Robotics picks up $55M to ramp up in cognitive robotics"
     excerpt: "Neura Robotics, a German startup that since 2019 has been building cognitive robots ... That includes not just fashioning all the sensors and other components, but building the AI that powers it. This also means that Neura can collaborate better ..."
-    publishedDateTime: 2023-07-19T07:42:00Z
-    webUrl: "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/?trk=public_post_comment-text"
+    publishedDateTime: 2023-07-19T10:23:00Z
+    webUrl: "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/"
     ampWebUrl: "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/"
     type: article
@@ -53,6 +53,6 @@ related:
       domain: siliconangle.com
     quality: 49
 
-secured: "MsouASYYfIE8EIA5jQlDWYrwmWfO+W1Py38MnEvfgM1V7d9dtwDwb18WXMn2zFeL2XKhSouEoVWn0KT2MFhiDih31bgy8mE1/lgUbGev2KbZkWEn+IhRNjeYG12qT97ePrDbutdIRvR/Odr8bastA695izti4YF4wi4yYvB0YOu7fy/CI0vFHcc1aN5+jPOl2ONyhYciYB7+3QXB1ut+fSVGU+u5YQlrqp8WzJwV/27WYJmleIt5pDTCjllwroVE5bMmuY7Zku5xwNxnfpvYjUaUGWMxBaWIsTXyPLnkU6iqJJFHX7x+OD7ehNIsLRFtAdzZn73NlfKjbm93s225crLwSeqdg+0KhXPkRLX01dI=;o/napvNEFz0fg2xLqVcK8g=="
+secured: "uNhQh+gCGhAQ2rDo2F/FFbKSID4+v0gkDvqj4Vu+tQd0purnQy0U8WHcVwnsl4n9vjCfnb9A4DWTgVIxaEi7hQ6ZJxRsxtHVHzXOSzYafWeqGbnwVZLMuYUlNjRk2PgSRV2QtoC++lXqrBJ+InxxXxX91c45Sl39K9DKfE9upS03zkixLBotBahOrJIp1Khbe2JKeD1ClZ8N0OCnpWFq12qUYmAwQoktVrmrDCLupsNgKGaVYwic1gkPm8MHzDju7+wwR/drJ675PnX8l1ub5URk8l+4iw3qFwyLRNWLl4RqyzGTrH21izd+jwBThzUm+0XnJBhqLGCEiWuuaYX9+D8H/VqpYWaNksrhlg5lMPGK/VKPe1HwP09bZmIfoZo4DXhpih+xO19Rbwj/GAebNNd9I5OwzC7NPzUsWu8hNrKCLMNLEw/8r2bQRkIx9FaDPWFx1IdNgpTGF1bysBBNP1J1zY546i/h6E9yDFcWREvEHSAfRs4j8EWE0toPBWwQRSni57sqA1Nw7u4K4OuUHA==;YM+WoGqIplSgE/Z1jXdt5g=="
 ---
 

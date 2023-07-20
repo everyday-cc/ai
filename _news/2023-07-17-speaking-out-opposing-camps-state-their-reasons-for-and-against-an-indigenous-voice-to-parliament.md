@@ -60,6 +60,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indigenous Voice to Parliament: Advocate fears low trust in government is hampering Yes campaign"
+    excerpt: "Uluru Dialogue member Geoff Scott says a general lack of trust in governments is making the Yes campaign’s task harder but he is hopeful voters will dismiss the ‘political noise’ around the Voice."
+    publishedDateTime: 2023-07-19T23:45:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-advocate-fears-low-trust-in-government-is-hampering-yes-campaign-c-11321100"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 26
+    images:
+      - url: "https://images.thewest.com.au/publication/C-11321100/8daa1c374c9cc2c619e45ee0b0799233bf9372f0-16x9-x2350y263w1417h797.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Australia news live: Anthony Albanese defends voice in fiery radio encounter with Ben Fordham over referendum"
     excerpt: "Photograph: Dan Himbrechts/AAP The prime minister, Anthony Albanese, has just spoken to Ben Fordham on 2GB Radio about the Indigenous voice referendum. Fordham repeatedly asked about why the government is not proposing constitutional recognition and ..."
     publishedDateTime: 2023-07-19T01:45:00Z

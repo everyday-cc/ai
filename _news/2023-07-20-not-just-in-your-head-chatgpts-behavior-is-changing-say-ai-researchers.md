@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior
 webUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/"
 type: article
 quality: 66
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 49
-  - title: "China Implements Landmark Regulations for AI Services like ChatGPT"
-    excerpt: "China pioneers AI regulation. New guidelines by Cyberspace Administration to oversee generative AI like ChatGPT. Effective August 15"
-    publishedDateTime: 2023-07-15T05:38:00Z
-    webUrl: "https://techstory.in/china-implements-landmark-regulations-for-ai-services-like-chatgpt/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/07/f0c3442c414a7bd1b039829a50849a4e-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
     excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
     publishedDateTime: 2023-07-17T08:01:00Z
@@ -142,6 +128,6 @@ related:
         height: 466
         isCached: true
 
-secured: "tkCyirVrBKHiPUdUTlvkzfDQfpbrZDyx6w41ox2YyVBON5C0ndtK2hVqyxzlo52TTttZ238uaAQ1TAMVdA2O6HEoiKW162ClRCahY8uJIerLM0yvotAZefNkyGJhuGeBnG5PIpR4J5ZUsoo7OoAyl6cg4BmBqLW0B/3/rDe4Iw+1IvPcX0Fd83jnk/sADAWW5zs8nIi862QPzRpGDHSfd9tnlQU07ZxFvBp6n44eOyhVi8Ez3rOSwSJcZFF7zm7gP3goFJQJksNXUQBOSLqdVeOoyGybjZnaCLlY6a/7np6CMPy/Mlft+kUdp1xujfLuxYV8ABSKZzGk45Mu6vsg84qlgxZACFr2A1eaorP6L/E=;A1dVRdo86TqK69dXfmhFcA=="
+secured: "yT+FXM9dXHiwwUxHbaClKKf4HrEPtdhc2R1FtTqSgYM0U5gGJVAoFE8FHOzMKGjYRtKutP6kDtoG96aiEGHF/T4v8WdexOxTWzW96dywHVErzPXR5ZgfaO7KAbacDXb0dtwFl+UmohInQtnKXUvS8ePQFMnCTcjwVFYbwcDsGqxLMdhHL3YRFTx3lWNb1BZrZTb1a0QIZFTG1QXx7L4O/5jKqmGc5ib3PTWry71Crlj58KAn6IVvwXyh7GFl0lW/3znFFkglRV8XuKtXUu66BtbVSnfiRMs6ja4xio46Fm+xQnCzMYjnwdw6B6ZSYN5rpMZGTxGp7Sx4jF3iItZHJ8puyha7BtwGUwcLtDFuImmJDXnr6dRtxGfAnlxb/2Aq6N9IoJeI/G4mVRThQdrVG15IolS6kX7VtKdGjJBMO8f28hhNS9l0vABwiKr/nRboGmNptzh1adDLwG5CYdrvlRjpV5bqrzBjAiO8dm0Xsli6mKtFqTTiYCU5FD2WBWa+LLGYvNfRdNA4nSStuoTEoQ==;ToMNpjScBtryHhcViCQKJA=="
 ---
 

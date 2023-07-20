@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The future of AI: Advancements and ethical implications"
-    excerpt: "Artificial Intelligence (AI) has become ubiquitous in the 21st century, reshaping society, industry, and individual lives. AI algorithms now possess an unprecedented level of predictive and prescriptive capabilities."
-    publishedDateTime: 2023-07-15T05:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-ai-advancements-and-ethical-implications/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
     excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
     publishedDateTime: 2023-07-19T11:00:00Z
@@ -65,22 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "IATSE Unveils “Core Principles” For Application Of AI In Entertainment Industry"
-    excerpt: "The move follows the union’s creation of a Commission on Artificial Intelligence in May. “With AI , the stakes for IATSE members in all crafts is high,” said IATSE president Matthew Loeb."
-    publishedDateTime: 2023-07-15T05:47:00Z
-    webUrl: "https://deadline.com/2023/07/iatse-union-artificial-intelligence-core-principals-hollywood-ai-1235430492/"
-    ampWebUrl: "https://deadline.com/2023/07/iatse-union-artificial-intelligence-core-principals-hollywood-ai-1235430492/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2023/07/iatse-union-artificial-intelligence-core-principals-hollywood-ai-1235430492/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 57
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2023/05/iatse-2.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
     excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
     publishedDateTime: 2023-07-19T18:57:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml
 webUrl: "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Finextra
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "What Financial Services Should Know about SASE"
+    excerpt: "Automation tools and careful planning can help banks successfully adopt secure access service edge to boost cybersecurity."
+    publishedDateTime: 2023-07-19T22:32:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 44
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202307/GettyImages-1430330223.jpg?itok=38gFSrqP"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "The AI puzzle: Balancing threat and potential across financial services"
     excerpt: "At first glance, AI might seem like a threat to traditional human-centric advice, but actually, it could become a tool that could augment the capabilities of financial advisers, writes Laith Khalaf"
     publishedDateTime: 2023-07-18T13:40:00Z

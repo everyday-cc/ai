@@ -837,15 +837,6 @@ related:
       name: On MSFT
       domain: onmsft.com
     quality: 31
-  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
-    excerpt: "By Chris Barry, Microsoft Canada President More than one billion people worldwide live with a disability – this includes over 6.2 million Canadians. Whether it’s"
-    publishedDateTime: 2023-07-15T05:17:00Z
-    webUrl: "https://www.inferse.com/615174/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
   - title: "Microsoft Shares Rally To An All-Time-High As Software Giant Adds The AI Subscription"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) shares closed at a record after the company announced pricing for its new AI subscription service, Microsoft Copilot."
     publishedDateTime: 2023-07-19T17:17:00Z
@@ -874,6 +865,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "t9yEXGjsSp2lqqFNW9xMZc7LsvyFhj8Fo3Fyds0qwh0LBi0nEGbzyvoUYBN7YQGtYbdkK2FRkAIHoYvo8uhepQ7V80cNyB0GrXp1IoWVSUCfuX2o0q50Kz4DjQGsz16OckTMOM24tJsFa/Ub5AIn2xYN/7ZaWPd774KDywqd426f4V4iPWYmm8sWJii3fygj0rkV5S0ViGhqZ9T7DKXJyheEN84WAL0pzLNA3lJjBRgfCiR9zAt16OWzRy38YQrsE+gu1hjYR55BrU2PZfzuvTyIMXDvLsPb3Qs7/xndNof9Y0pAFXvw1OmI54vsquF8H1l/rpvVtnWwsYWxzNcFTbJRqYf3DbZub5vUP8wGajE=;eb1pKPsZOO4lt7m6FMrNOA=="
+secured: "ZXu/0v63Z9ekheQ1080iug5ORjrvfv0xsGjPhoedPZubNhmk79Z96qnHtV3G+Esnqy6fezyGaz+NpVe4FGDWnHKm+7mBFwl5FxJV6C94Hr1sX2NDDc4xm2rXS4yVoaZNJSaEZxalv9FbRj97icchgraBM7ftosHhJoh09SFHLp7PLpdkFiO08Mw/uX5X6j+vzWsnM8Hbz6JnV00aD5DFLTWBBeNpyHJ+zgL2Ka2stnu40tQNZ8D4FZGinfO9DFDyXtbBfXTGKacdU62ehCDKM+C/KkihAg06kyXKR6JrVIldKNJyIZTJy+1nNNVTIdAg7Xt6x4r2IHEVw4+jz2WfFxiZtZ6HhpNrnzxO2s9P8j+/F4IQE0s6RGn1l9JGtDNxZcI7t62HO189A9Ve1BYZ5sBSyJAk2jZd6ZwkJ/evMO8z7YUXuGhqMIpJZJVZNMkmJYAPWaTvIghB/aPVFsTRBnK4f0QzYrQriCNEIp4vmGNDRsZA5ZkB5VnIGjpA3ffarYy209IlwaptQ8alfsGMmw==;1/ri9eR6YAgE12dfA51ZLw=="
 ---
 

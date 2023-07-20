@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-artificial-intelligence-wheel
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-artificial-intelligence-wheelchair-aims-users.amp"
 type: article
 quality: 76
-heat: 82
+heat: 76
 published: true
 
 provider:

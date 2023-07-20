@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Why some celebrities are embracing Artificial Intelligence deepfakes"
-excerpt: "The deal allows it to use an artificial intelligence or AI-generated deepfake version of the Hollywood A-lister to \"star\" in their new TV drama. What she says and does in the show is controlled by the computer."
-publishedDateTime: 2023-07-18T23:08:00Z
-originalUrl: "https://www.bbc.com/news/business-65995089"
-webUrl: "https://www.bbc.com/news/business-65995089"
+excerpt: "The actors' union has warned that \"artificial intelligence poses an existential threat to creative professions\" as it prepared to dig in over the issue. However, Ms Yeo is not worried. She is one of a growing number of celebrities embracing AI-generated advertising."
+publishedDateTime: 2023-07-19T05:41:00Z
+originalUrl: "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld"
+webUrl: "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld"
 ampWebUrl: "https://www.bbc.com/news/business-65995089.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp"
 type: article
@@ -24,7 +24,7 @@ topics:
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A118/production/_130204214_jamie.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/059E/production/_130183410_aaaaqfa3b6haqofh7zbfvipolgbt5ku-bkndsttedaciktjwhjrzthlpww-0afeimombx7zejjqxdcvapy9mlypgrzx84cf8pmal_uic1h_fmqmfjpbs_md0xsmqfs_hkd-h8hp31a7smho7bioqm0t0mnbb.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 576
         isCached: true
 
-secured: "E+c1cFNB2b3ymvaRX+EcBDepPnvaFCcircFTWuWCb9EMkgUn9tOUIr1PEO2ZQe+QsC69ukKJpdHJgNTNKLlrxk+h3xJQSwiwBgdSFlKvox3R0eV6YWQaQdl1AwJwDikifmuoN+2FJF0VHZzcyyp5uxtSM9CzCN65f0jEbiscJq6L/+G+wS4PZia9tLQdzrM7m4Tk+dUGJ3AnVn21h2oJNR28eJQlBlESb8ZkEwNRumW685tCpLUg1TPfaEBTrPZ+z3Wr0mBexsjI3fuZQSKYE8TDHdq+0KHYIHua9PJVKQKJNRTq5YpVrKFyG+AROErUAwSI2UlJ8rrj3+2DYAIba2Zb3g91WdfZ0xYcGdlg1HA=;VTBoZCV88j5Yy0PauHxHdA=="
+secured: "C+ijfNYlK0NMp0NAokWNImyXM7LO2vKUS5ijldVaBrNgZTR8SWomBC1Frd33vqA6DFG7cjY6oVwW9hNytDq8shQXdYoziHqm7eKOZm6oJEm2EdxNRCAei0WJrNzVtI/87Yv6zYVUhi8GulMPBMz5vkzQpnRxD1LYwbDOFo0yzKcnVA7za12pLdp3ledWIY1U4qUo74tPqu638pUnmOi3hBfZXz2rtddR9iSy97eogs/OI+0/9hd5C7Y53uETb35cqwSb50mJ5ds8PGuS7HXcdS+5LbXzBskgLn6mkLRplaE23rh26nKwjmbiNHbVIdmyCotQg1OEGAA95LFBeWcQ5eYrfSxZEGTKpUO3SGO9uas=;KiFCXZoX1JDPAnejCtT5rw=="
 ---
 

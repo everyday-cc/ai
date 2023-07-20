@@ -111,7 +111,7 @@ related:
     provider:
       name: CIO Dive
       domain: ciodive.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.ciodive.com/imgproxy/xMaFRj7OzAFFlNR1XVSa-vZd6ZPrXWz2aWbi4qCknCo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL01ldGEuanBn.jpg"
         width: 770

@@ -39,6 +39,22 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "What Financial Services Should Know about SASE"
+    excerpt: "Automation tools and careful planning can help banks successfully adopt secure access service edge to boost cybersecurity."
+    publishedDateTime: 2023-07-19T22:32:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 44
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202307/GettyImages-1430330223.jpg?itok=38gFSrqP"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "pFZSYyTHCSuPboI0H3RrOKcqiP51HwLvAOyOiXUlr3vECFtGoG0QnMJrqcNCa+mzRSx4ih4Z50LTqmY7620EmVbuM3xScxLibHwhnpJWG1WUa+Au2B/3LRrjIEnZ3wR59G7WeN8a4DITuB4qNKukW7nBE6E+0gXi+pw8dt+CYaVJMuyY6JG1qtWGl0XONRcsnIkX7UxPlcV8ZeoCvjja+ieCBFer6wbHwZTbb364XG5Tsd14CIIvNeb1p9F78UtM8gfZtwyqbZN1gFb2OGOCgPknj1I0Pc/3Ek9XxJSCYFuvTqXbyQPV+jK8RusaYfSnXg/qAat7ZPfMEet8+2nDd43MaL+SMcHs+JSApktO92M=;LV9w1epMhU4qXUyaxH5a9g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2023/07/17/ai-startup-r
 webUrl: "https://www.outsourcing-pharma.com/Article/2023/07/17/ai-startup-raises-funding-to-speed-up-number-crunching-in-clinical-trials"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Insurtech Startup, MyCover.ai Secures $1.25M Pre-Seed Funding Led by Ventures Platform"
-    excerpt: "Nigeria-based insurtech startup, MyCover.ai has today announced the close of a $1.25 million pre-seed funding round, led by Ventures Platform."
-    publishedDateTime: 2023-07-19T11:23:00Z
-    webUrl: "https://pctechmag.com/2023/07/insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding-led-by-ventures-platform/"
+  - title: "Karat, a startup building financial tools for content creators, raises $70M"
+    excerpt: "Karat Financial, a startup offering credit to creators, has raised $70 million in venture capital on the heels of a Visa partnership."
+    publishedDateTime: 2023-07-19T22:38:00Z
+    webUrl: "https://techcrunch.com/2023/07/19/karat-a-startup-building-financial-tools-for-content-creators-raises-70m/"
     type: article
     provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 29
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/07/MyCover-Founders.jpg"
-        width: 1735
-        height: 1200
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816"
+        width: 1200
+        height: 816
         isCached: true
-  - title: "Establishing the Self-Driving Clinical Trial"
-    excerpt: "What does a self-driving clinical trial look like and what does it mean for the industry? Explore the ins and outs of AI in clinical development in this article.<br /><br />"
-    publishedDateTime: 2023-07-17T00:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/articles/establishing-the-self-driving-clinical-trial-375702"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 4
 
 secured: "AolkYjUq+Mq9ZK4fLBbTUPHps79YDwJK1arqMgeuaVQPE3FGQhhYR0RllEkdwTS22f4vc+SUeqN0FWuELH8bp0vDRRqyI5YoVUCgbcTSt4FQZ7rjvaI4+2C/DixSvHMkZ+ztzTcDUqO+d3qsBzHaDXsNk5bhWcMRtLwSIVzYS8wJ2XjMx2IPyNXUBxNNaaMmxXTwdFhJMftRkNTTZuo9lMefMm801X502+WkU8wKGeAbf/MyDBrrnZ4pqQRH8RbUau5grmWEatdh4pzeXtATXDZ1HLKwDIAmCO9ubrJN/b/ajAAMQA5lOnSI4wOTaET0N+QdVZGeGngw2A6561rAYuW3PV/UGqZhJEn5eU8WfdWfa9Nm1hT4bmT88ehYan2Uk3diIItBgYXYhxPytbDox6759ttMQhchysW+IzSvsm6sADZpTGb5hRRWrRQKZ6ShI+xB6nyvvjjNAHPDGaKEYRgEnrg2qgTmBw0mxZqqFDdUB7lFrNSFdqtENY20nGJUMsTtTYXRxbGVV2AhdXS5iA==;WjtevJx7IBoA3dCGSa4uFw=="
 ---
