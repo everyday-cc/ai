@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-i
 webUrl: "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html"
 type: article
 quality: 71
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2023/07/figure-robot-featured.jpg"
         width: 700
         height: 500
+        isCached: true
+  - title: "Why Nvidia, Intel and Other Chip Stocks Are Dipping"
+    excerpt: "It turns out there’s more to chip stocks than just AI. The world’s biggest contract chip maker had a disappointing update for investors, and semiconductor stocks are selling off. Taiwan Semicond"
+    publishedDateTime: 2023-07-20T15:35:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-785590/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Intel Invests In AI Startup To Design Humanoid Robots For Shrinking Labor Force"
     excerpt: "Intel Capital has made a $9 million equity investment into Figure, an AI Robotics company building general-purpose humanoid robots. Today's announcement follows the Figure 01 robot taking its first steps,"

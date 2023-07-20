@@ -41,6 +41,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Expand Research on the Use of Artificial Intelligence in Education"
+    excerpt: "The application of artificial intelligence in education is still minimal, even though the technology can bring positive developments. However, research is needed on the impact of using artificial intelligence."
+    publishedDateTime: 2023-07-20T15:09:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/07/20/en-perbanyak-riset-penggunaan-kecerdasan-buatan-di-pendidikan"
+    type: article
+    provider:
+      name: Kompas.id
+      domain: kompas.id
+    quality: 58
+    images:
+      - url: "https://dmm0a91a1r04e.cloudfront.net/8kyZp4pGnkPE1sQ2RyONGj6jClw=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F20%2F9a3dc9e4-1dd3-47ad-9f61-f255f9ac36b3_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
     excerpt: "We’ve recently seen a big jump in the capabilities of these technologies, especially the kind known as generative AIs. Some publicly available generative AIs, such as OpenAI’s ChatGPT, can write an essay or answer questions on seemingly any topic — and can do so in a natural-sounding, conversational style."
     publishedDateTime: 2023-07-17T13:33:00Z

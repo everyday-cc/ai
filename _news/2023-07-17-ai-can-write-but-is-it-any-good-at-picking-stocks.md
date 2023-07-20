@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "This Artificial Intelligence Biotech Stock Is Crushing the Market, but Is It a Buy?"
-    excerpt: "Schrödinger (NASDAQ: SDGR) stock is going bonkers, gaining 191% this year so far thanks to snappy top-line growth and the hype surrounding artificial intelligence (AI), which it uses in its software platform for discovering leads for biopharma drug development."
-    publishedDateTime: 2023-07-17T14:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-artificial-intelligence-biotech-stock-is-crushing-the-market-but-is-it-a-buy"
+  - title: "3 Quantum Computing Stocks That AI Is Loving in July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Quantum computing is still a relatively nascent technology. If developed"
+    publishedDateTime: 2023-07-17T10:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-quantum-computing-stocks-that-ai-is-loving-in-july-1032450903"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
 secured: "TFZaG+cIwP1cQLZ2uhLUCRZr0j3WabiiVzUx3cKvFqkf5azuKF/C+hiOY/7rIYMwi5xpPykTrvKd/YX/jg1cIcglFkeJBmUkffi2JUEekDEX3ZaQR9uxy6uS1R+o5MoQS8SlP9+VsLmT131agBeikFYe+oKoHncuX2myUC8ez/C6xGj6PHP8GXFBH7RP+e9GrzH7zgoVTryGFidc+f+vBvjLFUhOOoqrc9f53PW1ZvHb9C/zuDxRo7ebFhMhgW4gi5P/bKJSEdEbty/EwNAggt3UtJGvtHXhcJ4/ATOVyYQM57lD3SctO8d7Xvq/12bUjGp2MHWhRDNrsBLrrEt1Qlx7HlZtXK5j1+vnj/LVO8w=;+ZLbk0xUs95t4VGq9QLrmw=="
 ---

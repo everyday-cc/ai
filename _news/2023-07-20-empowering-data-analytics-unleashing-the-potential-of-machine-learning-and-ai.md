@@ -28,6 +28,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 114
+  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
+    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
+    publishedDateTime: 2023-07-20T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "Zcd3KnpBXcTHKWCFWJ4p/kHQ3I9LZPHzwF1WyHI4A2+aVxOqerPrPcbGROgSwp3o8jHkacbEoi39Tt6anMbXOsaBRbPPWZKZUoqwfMLM4bFhHlfT33LK2DuEPIBsyN6ABXK/eb2Jo/e/wRIdqJqfiaG8/E1urcrvyBzvSHXqJwqYlo/RngzTjsvrxtL/dE+PRg98uSE/i036n59mgprjj9sfYmQ20cKZGG6qt5t1KyWodjp6NpkreYbZMK1eoWHUaeVQqmBXbVC9aDUgIg6e1c433wqMKrh/mjN1E1v8sKtQycbGTK3xPUYvlxwCddps8Z9XtWreL0HCNd0WlQbzk6d68IesgMp+aqmEasnwFLe34bTVYp4JabcAZBdY8qUBO6Hv3YDj2MLZAKSqDFQ28TXH2D8Ze56ashurz17To8Ih4GIDr45tBMLSvr6udIjVmm2akRdNd3hpppY/bRPPx+gsjMko9QynbOZvI2eG9aOcbPXErOisrgiJN1lpG5o7J1Z+0I08+UiVOCPDIUXyzw==;fzuOA1q1tnO77Md6ORaf8Q=="
 ---

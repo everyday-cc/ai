@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Timely steps seen facilitating breakthroughs in generative AI"
-    excerpt: "He added that \"the real opportunity of generative AI\" lies in business applications rather than consumer-oriented uses. His views were echoed by Goldman Sachs Research, which predicted in a report that generative AI could drive a 7 percent increase in global GDP, or almost $7 trillion, over a 10-year period."
-    publishedDateTime: 2023-07-19T01:32:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/19/WS64b730d4a31035260b817322.html"
+  - title: "UAE Artificial Intelligence Camp empowers new generations"
+    excerpt: "It addresses six cutting-edge themes, including web development and robotics, digital entrepreneurship and career planning, generative artificial intelligence, online safety and cybersecurity and deep dialogues in the field of artificial intelligence."
+    publishedDateTime: 2023-07-16T07:06:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/07/16/uae-artificial-intelligence-camp-empowers-new-generations"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: gulftoday
+      domain: gulftoday.ae
     quality: 41
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/19/64b732baa310352610b927c4.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Unveiling The Latest AI Breakthroughs: From Chatbots To Self-Driven Cars"
-    excerpt: "Welcome to the future, where artificial intelligence (AI) is revolutionizing every aspect of our lives. From intelligent chatbots that can have natural conversations with users to self-driven cars navigating through busy streets,"
-    publishedDateTime: 2023-07-20T11:12:00Z
-    webUrl: "https://techbullion.com/unveiling-the-latest-ai-breakthroughs-from-chatbots-to-self-driven-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-2.jpg"
-        width: 800
-        height: 400
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/7/16/uae-ai-main1-750.ashx?h=450&w=750&hash=6DF4267865CDBC6945BE49881297AA73"
+        width: 750
+        height: 450
         isCached: true
 
 secured: "TBr2/rcK45MPuxjPLycQp9IwzFuuJEZX43kVfk2UT321K9lnkWf/CCkpNDtNWk/Jj6Kw1Cyl7UGHoDJKJGM31iS0fm5lTMoqFVGQWnc0h/KngRRCNXE9A/i1ltd69WZgr5hqPtQ85GU8yyj66fJg8yXOiAwknxDhDx9kgd6pVXYtr0ke3UbABHhZ9R9vRhZqKOFlFwPkvDikFO6gkqztSQAxbF+P0+/GyuJStsMIWop3naXhqK/hnK5RCI1A3Atjzj0qpK4ocZ6dwwvw2YOnFY8s5DkoviFWNnsYR0i7OtBtmd/31E4Bh6ZP1izVAt7zPVzTOnV7yY9FJgRg/SKWJgv24BpCsNrCUrpOB48RQK0=;HiWlrJVA5Oj7v4X5qEmS8A=="

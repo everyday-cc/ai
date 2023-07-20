@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-20-how-3-big-tech-companies-are-capitalizing-on-ai.md",
+      "title": "How 3 big tech companies are capitalizing on AI",
+      "excerpt": "Club names Salesforce (CRM), Microsoft (MSFT) and Apple (AAPL) are showing their pricing power when it comes to artificial intelligence, as Big Tech expands its efforts to turn a profit with the rapidly-evolving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1689796952&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-red-teaming-101-what-is-red-teaming.md",
       "title": "Red teaming 101: What is red teaming?",
       "excerpt": "Red teaming is the process of testing your cybersecurity effectiveness through the removal of defender bias by applying an adversarial lens to your organization.\nThe post Red teaming 101: What is red teaming? appeared first on IBM Blog.\n",
@@ -104,7 +155,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -259,7 +310,7 @@
       "originalUrl": "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -544,7 +595,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -988,7 +1039,7 @@
       "originalUrl": "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1173,48 +1224,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-james-cameron-on-deep-sea-exploration-artificial-intelligence.md",
-      "title": "James Cameron on deep sea exploration, artificial intelligence",
-      "excerpt": "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095",
-      "originalUrl": "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html",
-      "publishedDateTime": "2023-07-18T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

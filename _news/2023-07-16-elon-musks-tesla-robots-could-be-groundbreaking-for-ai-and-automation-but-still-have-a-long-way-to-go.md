@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 19
+  - title: "Elon Musk ready to deepen EV price war as Tesla bets on self-driving future"
+    excerpt: "Getting more cars on the road would help Tesla maintain its dominant US market share in \"turbulent times\" and give it access to precious usage data needed to train the artificial intelligence models behind its self-driving technology."
+    publishedDateTime: 2023-07-20T12:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/musk-ready-to-deepen-ev-price-war-as-tesla-bets-on-self-driving-future/articleshow/101990488.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "aPI2EY3AwRskIh1Qk5MvIvbuXK7S+AJzDmE1S9xOWPOwdHxMa4cNdPQcXA7ED9eD0nbRe3w7VGavgAuQbzXGfNxFqFvRdkJ9EbR975pIR89AubLfwZrfKWdY3Zu4Cl5F9vqb1YPu+JNk3DtZRL8HG3SJgjFMCfOS/0igFs7pcUTrTulNJbrPks0gfXKJBloCQ+CXD8LeuO6ox9oj+tfWRV638+g05BL7lbi0Wl/4x4AV/Xoqz+xpptGWIkrnDPSLRJfnJiMXEFs6OvZaezpWUYQz0PrfTf9SBqUpIJXOltJbmzwpSBEUB5xJTTsMGUULImKO9Jd6Uj/v/Sx9AZEj53ABAMaU0O7nLJp6OuzvLgTWNjiLnVyfOOo+gfklV3Yzq/pC2ukveEkcRP30FTvFkXdQgzqmBbRpNddZtJ4IycwKpWsZG46x4Qr0hw9iDLBWBXyB/pjG1sOUjt3ONJqnvLVPZcAtAzgTMk+Iz834njF8xPTprduSnIrEghnywOCIz4MUFiDet/AyLs/bi9gmQw==;Zl7iI29uU8aStcVHtVUZOg=="
 ---

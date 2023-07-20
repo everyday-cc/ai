@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/infos
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Infosys Leads In AI With 80 Generative AI Projects For Clients"
+    excerpt: "Infosys envisions building a solid groundwork for future expansion by introducing its all-encompassing AI solution, Topaz."
+    publishedDateTime: 2023-07-20T13:19:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/infosys-leads-in-ai-with-80-generative-ai-projects-for-clients-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 19
 
 secured: "x+aVXWJHPHDxc99WhmIOEJ+JmktX1Jua8XXOwCUzt8wpSm9MhVM5rfyQRK/1Sn4jn9Y5cXWMUW/JDmRp6gPAc5y7pr4GbkjLfkq6YX8lqp1PzaoKzKfbGXlgdnvpaHCGckY9CnP0KAhHkpM/sdK9ORiH4jsw6yYD+W+T5JoAoNDQLf0/5I+djYquSYLN+BhvOmrkdA+gjM/eBlyTJnDaAJex5+WUKOcS0RTki7Y2U6h7IQ6713Cre8YcV2PyDKJOSMXsDEHYmwFLG0dNlFjo79Wl+kWyoyTqrsQ9u1RJbObQ1utcyuyg0h6acCQBai5Pfj3vNB4qxQl9HvQ+t6I4hzjaACt4azF0b9KkmlS8RyA=;5as5uyOGhBzd4sytLeI5Gg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-pa
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Crowdsourcing AI Solutions for Climate Change: IAEA, ITU, FAO, UNESCO and the World Bank Launch AI for Good Contest for Start-ups"
-    excerpt: "AI for Good, which is managed by the ITU in partnership with 40 other UN system organizations including the IAEA, is a digital platform where AI innovators collaborate to identify and develop practical AI applications to advance the UN Sustainable Development Goals and to scale up those solutions for global impact."
-    publishedDateTime: 2023-07-17T08:43:00Z
-    webUrl: "https://www.iaea.org/newscenter/news/crowdsourcing-ai-solutions-for-climate-change-iaea-itu-fao-unesco-and-the-world-bank-launch-ai-for-good-contest-for-start-ups"
+  - title: "LSU Partners to Launch AI and Machine Learning Program"
+    excerpt: "LSU Online & Continuing Education and national tech education provider Fullstack Academy have announced the launch of an Artificial Intelligence and Machine Learning Bootcamp program. The curriculum,"
+    publishedDateTime: 2023-07-20T13:49:00Z
+    webUrl: "https://www.bizneworleans.com/lsu-partners-to-launch-ai-and-machine-learning-program/"
     type: article
     provider:
-      name: iaea.org
-      domain: iaea.org
-    quality: 25
+      name: New
+      domain: bizneworleans.com
+    quality: 54
     images:
-      - url: "https://www.iaea.org/sites/default/files/aiforgoodsummit530274906655aeb481595o.jpg"
-        width: 4000
-        height: 2667
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.bizneworleans.com/content/uploads/2023/07/f/l/bootcamponlinelsuedu-programs-ai-machine-learning-utm-sourcepressutm-mediumreferralutm-campaignlsu-aiml-launch.png"
+        width: 800
+        height: 505
         isCached: true
 
 secured: "698zuzw3aZ4VT3g+hVir2CsK7FszEWhUFWjkmh+ETuW4Y7EEsMT4pEinMv1tj7E61tuzVVqeRso+AppUuP9qHj+oMYBqmwRiTr37R1INmdbjeOGMitlIcF9jxdJYkzHBLooDl/ths7t6jJmHUWLjZW4OLJwVdJOaJjEstMMinQCiWxrG6bmQZ32hOEZhYuiTJwVfuJ4p2p13o2eeZF4IBX58d7mjYAhM4EQ2y80Sgww+srjmZxCwbs3n73HfOld3j1NqiCt7SDoKRclEZ+py5Zfp/UfWt2SapU2SdUI5ERJtfvvWpouK+EAFNVVtXeAPuTSuY7vkOFl5TCxddxyP7GXZXXfT4dbCVD+ofV4NMeQ=;KCvL9UYxTPUjubuOgi0+Yw=="

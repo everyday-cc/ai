@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Musk open to price cuts as Tesla bets on self-driving future"
-excerpt: "Wells Fargo analysts said FSD’s adoption could be impeded by its price, which Musk said was low. At $15,000 per car, the technology is about half the cost of the cheapest Tesla vehicle after a $7,500 federal tax credit. Musk, who on Wednesday called himself “the boy who cried FSD”, said “it is one of the hottest problems ever.”"
-publishedDateTime: 2023-07-20T11:42:00Z
-originalUrl: "https://www.shorenewsnetwork.com/2023/07/20/musk-open-to-price/"
-webUrl: "https://www.shorenewsnetwork.com/2023/07/20/musk-open-to-price/"
+excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
+publishedDateTime: 2023-07-20T12:57:00Z
+originalUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
+webUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: shorenewsnetwork
-  domain: shorenewsnetwork.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6J0AN-BASEIMAGE.jpg"
-    width: 800
-    height: 533
-    isCached: true
 
 related:
   - title: "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0"
@@ -82,6 +76,6 @@ related:
         height: 683
         isCached: true
 
-secured: "+d6vWy8k1PdUfmWidwdMgrRPLfgfzMDmTebobuTbrUS5IQjAdWy8WOODOf5xpaTs5ROV4/ThCnIyD0UxEP8vUJf1En7uzKES8ai8AZUBugcOz3F0KSAphvCGdvbE0oiuhmXLt7xITOe31ONAKLQjxor53NfT/DyZ5z4Pb36YxtrTxxKzN7jfoTgBiRo/FTb0HGn73GJw17ytZAfWk+POx+l/+bhYdq6yYoLOYWOQnDgOcKiJ+BHW8sJOqQDom3byn3OQKeDlNGF34zFwCaI4rvTjLaMDm0XzgbJNCw8OX/IfB3LOX71tq0aqe3KyjXj1rorkFjVSQsrcU1aGbdQKu60bK2ClLCgzSfCxi+EAZ3U=;pZMa5ZmghGGoyXUd/nNTbA=="
+secured: "qS27kYpUuWRH05nL/pbgvXOYw+ikydQqnRXOoMsVXp5BiaJZXalgMEiYwgEsZIhVlvMe7sJ+P+9w0a1PeKJnj3HMsmIoRB3bTB+8tR2zgEwdndWWyU/UhE6WrBrNMWdoGTgvw4Zo2P8jBJlPLPKVSk4oIGC8xC9HH/39o4VHYehYhdJqQPNSOgX2BQ521dmrmp5BidKf0hcPt+R6LmhaL5v6YRVvrCaih1IrI5zQY/577ujGrF/AzHor9b7xOwLHp4kZpqEand4DalR3BsN47kmE1BanlypQ9L27tjZxo5yfBGbxgbifYO9UwYH885IGQgoL4LYqnLhH9kmR1AoEFZrwy/JMf4XEBypGkCtcfig/GyomNKEPlL1LHFH1RQB6VoK7zgWqqpyxFZcYj43tQXxZLPFrscaJaxyzSIRF7MPLPutvWJ4gpvL4iOXp9D8cpOIXP/iIAdJlBtL0L5fGLTZl70/vEOIQ5GooH3SwQqWY0KE8QjeMKVAKmttVGwEeEdCBmLVpJ8F3qhLCz0EniA==;dA82AM/71UFCaY6+BGWBhg=="
 ---
 

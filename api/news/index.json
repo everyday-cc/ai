@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-20-google-is-pushing-ai-tool-on-newsrooms-to-help-journalists.md",
+      "title": "Google Is Pushing AI Tool on Newsrooms to 'Help' Journalists",
+      "excerpt": "Google is inserting itself in newsrooms with the promotion of its new AI tool that it says will “help” journalists create articles. The company has reportedly pitched its software to The New York Times, The Washington Post, and News Corp, which owns The Wall Street Journal, saying it can effectively produce news stories.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346",
+      "originalUrl": "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8207b7d5338a19dc74b78bbf70ac99b4.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world.md",
+      "title": "Chip Giant AMD Says AI To Be 'Mega-trend' For Computing World",
+      "excerpt": "AI will be the \"defining mega-trend\" for the global computing industry, the head of chip giant AMD said Thursday in Taiwan, where the majority of the world's semiconductors powering the technology is produced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "originalUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1111428094401440029311815910956682994861---1.jpg",
+          "width": 768,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "publishedDateTime": "2023-07-20T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-why-chip-stocks-are-dipping-this-morning.md",
+      "title": "Why Chip Stocks Are Dipping This Morning",
+      "excerpt": "It turns out there’s more to chip stocks than just AI. The world’s biggest contract chip maker had a disappointing update for investors, and semiconductor stocks are selling off. Taiwan Semicond",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV?siteid=yhoof2&yptr=yahoo",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV?siteid=yhoof2&yptr=yahoo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-785590/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-generative-ai-and-solving-the-blank-page-problem.md",
       "title": "Generative AI And Solving The 'Blank Page' Problem",
       "excerpt": "As we white-knuckle the early days of generative AI, here’s my viewpoint on where the machine and human value begins and ends.",
@@ -102,49 +248,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world.md",
-      "title": "Chip Giant AMD Says AI To Be 'Mega-trend' For Computing World",
-      "excerpt": "AI will be the \"defining mega-trend\" for the global computing industry, the head of chip giant AMD said Thursday in Taiwan, where the majority of the world's semiconductors powering the technology is produced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3?refsec=topics_afp-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1111428094401440029311815910956682994861---1.jpg",
-          "width": 768,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
-      "publishedDateTime": "2023-07-20T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -342,57 +445,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-google-wants-ai-to-write-the-news-articles-you-read.md",
-      "title": "Google wants AI to write the news articles you read",
-      "excerpt": "Google is reportedly testing an AI tool that can write news stories. The company has apparently presented this artificially intelligent news writer to major media organizations, including The New York Times, The Washington Post, and News Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-news-writing-ai-3346754/",
-      "originalUrl": "https://www.androidauthority.com/google-news-writing-ai-3346754/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-5.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1015,7 +1067,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1211,57 +1263,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-how-3-big-tech-companies-are-capitalizing-on-ai.md",
-      "title": "How 3 big tech companies are capitalizing on AI",
-      "excerpt": "Club names Salesforce (CRM), Microsoft (MSFT) and Apple (AAPL) are showing their pricing power when it comes to artificial intelligence, as Big Tech expands its efforts to turn a profit with the rapidly-evolving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1689796952&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

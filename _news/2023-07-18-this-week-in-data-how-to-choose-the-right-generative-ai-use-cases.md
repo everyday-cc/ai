@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-rig
 webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-choose-the-right-generative-ai-use-cases/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI Is Coming For People Data: Are You Ready?"
+    excerpt: "The rise of generative AI will undoubtedly impact workforces—and the HR teams that support them—in deep and lasting ways."
+    publishedDateTime: 2023-07-20T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/generative-ai-is-coming-for-people-data-are-you-ready/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Companies Strike the Right Balance In Managing AI Initiatives"
     excerpt: "As companies embrace the potential of artificial intelligence (AI) and its transformative impact on various white-collar functions, they are faced with a critical question: Who should be responsible for managing these AI initiatives?"
     publishedDateTime: 2023-07-16T17:06:00Z

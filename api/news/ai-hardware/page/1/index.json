@@ -6,8 +6,8 @@
       "title": "Chip Giant AMD Says AI To Be 'Mega-trend' For Computing World",
       "excerpt": "AI will be the \"defining mega-trend\" for the global computing industry, the head of chip giant AMD said Thursday in Taiwan, where the majority of the world's semiconductors powering the technology is produced.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3?refsec=topics_afp-news",
+      "webUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
+      "originalUrl": "https://www.barrons.com/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
       "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3",
-      "publishedDateTime": "2023-07-20T03:39:00-07:00",
+      "publishedDateTime": "2023-07-20T07:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -40,8 +40,60 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-why-chip-stocks-are-dipping-this-morning.md",
+      "title": "Why Chip Stocks Are Dipping This Morning",
+      "excerpt": "It turns out there’s more to chip stocks than just AI. The world’s biggest contract chip maker had a disappointing update for investors, and semiconductor stocks are selling off. Taiwan Semicond",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV?siteid=yhoof2&yptr=yahoo",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV?siteid=yhoof2&yptr=yahoo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-785590/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -547,7 +599,7 @@
       "originalUrl": "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1401,50 +1453,6 @@
         "AI Hardware",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs.md",
-      "title": "IBM may use its own AI chip in cloud service to lower costs",
-      "excerpt": "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
-      "originalUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecomlead.com/wp-content/uploads/2021/06/IBM-at-MWC.jpg",
-          "width": 640,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
-      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs-111195?amp=1",
-      "publishedDateTime": "2023-07-12T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecom Lead",
-        "domain": "telecomlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

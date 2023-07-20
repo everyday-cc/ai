@@ -1,27 +1,29 @@
 ---
 category: news
 title: "India’s Think360 make top AI Fintech Companies List"
-excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-publishedDateTime: 2023-07-17T07:23:00Z
-originalUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
-webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s most innovative AI solution providers for the financial services industry."
+publishedDateTime: 2023-07-17T01:43:00Z
+originalUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/"
+webUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/"
+ampWebUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Defence News
-  domain: defencenews.in
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-    width: 720
-    height: 340
+  - url: "https://static.theprint.in/wp-content/uploads/2023/07/ANI-20230717000417.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -266,6 +268,15 @@ related:
       name: Politico
       domain: politico.com
     quality: 4
+  - title: "Visa calls on fintech founders for accelerator programme"
+    excerpt: "Visa has pledged to spend $1bn in Africa by 2027 and initiatives like the Africa Fintech Accelerator helps the payments giant achieve that goal, while also strengthening the continent's payments ecosystem. The programme is focused on startups operating in Africa and will run over 12 weeks twice a year with up to 20 startups per cohort."
+    publishedDateTime: 2023-07-20T12:34:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/837/240349.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 4
   - title: "Cyvatar Joins Mastercard's Start Path In Solidarity Program to Empower Underrepresented Fintech Founders"
     excerpt: "Cyvatar's participation in the Start Path In Solidarity program further solidifies the company's dedication to fostering diversity and inclusivity within the fintech industry. By collaborating with Mastercard and like-minded organizations, Cyvatar aims to make transactions safe, simple, and accessible for everyone, everywhere."
     publishedDateTime: 2023-07-17T13:37:00Z
@@ -276,6 +287,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "yJlKhC1iLDml6r0JGr/37pPo+qip0wAm3XOMDGcY8SKF205Qk6To0FjhH1fAXtCbafuNJRTac88Y+Gge+C4pwD2hGKAKk2kMLDI6udryh2WHG1cfMVdmXVN6EqcS3mIXFxPkRcvql7S6s2F/miWkSvj3pqZg3RtJUYCgi5hp7dhznA2QhhBUsanySkmeKA6GRCxU8WukInZgWcV8b6LNrp/coFsgLOoT4xRBoEYYA3GoAka+Mfkslt3DdsPldWydmsLWjbdeau+TUOUHvVqYszveHHc4AgMCUJ0JnvaB9P10SsGyX4bYXNHOCSSKBJDqQpLUjmDschRkUCtHIYsTOFMgIqce1LH3r7qfXG2gGcE=;t61oOSoBJKH2k+lRKxOkoQ=="
+secured: "zXTZHMF+WKWqQWK18B/k+0Fov0PdTa7YANJAaeivjh6uoyFWUz2onyi+j2KbDHbKKew6BI222cNI6KPkvHPHHDWzxBThp6bpUz+OTpPDe8wcY0GmdPWaOPp7ELQkR1h7h9SA9MHQJRlF1htlzZ1MIwBOO4n3gwm0QuM5jSC3Am+n7qw5FxMmI6hLxX7R6RQSsMpRZcthIjPx/8QmRwDWMkQNaaUn3e6464BmwoeDG3Mj14z7NY4RJx3ieOD+/YrBqnTdwgIKXt8ls15fYabCWwjqaIUH42KWZzMhWCMTy6QTuDAaZ0jk6Dogd7KI5iQgn9kVeBfrJeRo6fqgW2jvpkKOqIClfSyQ3fPnxAAHZ08=;YByRRxR4+duNIV8IvNqbXA=="
 ---
 

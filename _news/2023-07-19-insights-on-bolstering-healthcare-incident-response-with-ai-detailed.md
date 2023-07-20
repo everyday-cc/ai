@@ -63,6 +63,15 @@ related:
         width: 2254
         height: 930
         isCached: true
+  - title: "The Future of AI (Artificial intelligence)"
+    excerpt: "Artificial intelligence (AI) has become a prominent topic of discussion and a sought-after skill in today’s job market. While the media often portrays AI in extremes, either as a sci-fi fantasy or a job-stealing menace,"
+    publishedDateTime: 2023-07-20T11:26:00Z
+    webUrl: "https://techbullion.com/the-future-of-ai-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
 
 secured: "XUe+88rF40vq+I6IP1NlGsmxLBhDN1LSApwn7BBs9Gz86AGRbi8Dr8iPBEl8cC04WK94hwoPbPIPKo32VUkA7NCLqXVpMPGHKYCjN1s3LQbQ7HAO8C+vfckRToFn6V4WfC7BHlkOtfuVgu57mZ45qU4KdmU1ecC6yIv6gVTxDwP3ZnI+CftsZGU54evxekh0/PD3nLnCGGRheftRcPaaD9X4FByv/HD1fsNL7pOsVtxelUnzsrZepZBRn0AqhnvRJP262tkodN2WCx20BOtTj+77MlPaX24pLbV9SkLbSe15B1Onv9wFAfmogPaselX6gun2ruTltDz8CwosJHVfDJzTtPvXEWiA35zjoL9eeoI=;1G43eGTAqAzbqJpDIt+sQw=="
 ---

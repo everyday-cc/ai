@@ -7,7 +7,7 @@ originalUrl: "https://www.wuwm.com/politics-government/politics-government/2023-
 webUrl: "https://www.wuwm.com/politics-government/politics-government/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "In Speech to Congress, Herzog Praises U.S-Israel Relationship and Laments Growing Divides"
+    excerpt: "WASHINGTON — In his speech to a joint session of Congress, Israeli President Isaac Herzog made sure to repeatedly laud the warm ties between the United States and Israel. And he got the response Israeli leaders have traditionally received from U.S. lawmakers, earning at least 16 bipartisan standing ovations."
+    publishedDateTime: 2023-07-20T14:48:00Z
+    webUrl: "https://www.jewishexponent.com/in-speech-to-congress-herzog-praises-u-s-israel-relationship-and-laments-growing-divides/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 30
+    images:
+      - url: "http://www.jewishexponent.com/wp-content/uploads/2023/07/07-19-2023-Herzog-2048x1139-1.jpg"
+        width: 994
+        height: 553
+        isCached: true
   - title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
     excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
     publishedDateTime: 2023-07-19T17:46:00Z

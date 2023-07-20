@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google DeepMind’s latest research at ICML 2023"
+    excerpt: "Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i. "
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "Can the UK be an AI superpower?"
     excerpt: "The tech entrepreneur Ian Hogarth got his big break in the industry by creating an app which tells music fans when their favourite bands are playing gigs nearby. Now, after years as an investor, he's been asked by the Prime Minister to lead the UK's efforts in Artificial Intelligence as chair of the UK AI Foundation Model Taskforce."
     publishedDateTime: 2023-07-17T05:22:00Z

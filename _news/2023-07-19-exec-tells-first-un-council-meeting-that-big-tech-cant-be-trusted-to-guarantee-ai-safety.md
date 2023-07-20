@@ -75,6 +75,17 @@ related:
         width: 275
         height: 215
         isCached: true
+  - title: "UN Security Council Debates Virtues, Failings of Artificial Intelligence"
+    excerpt: "UN Secretary-General Antonio Guterres says, 'AI will have an impact on every area of our lives' and advocated for the creation of 'new United Nations entity to support collective efforts to govern thi"
+    publishedDateTime: 2023-07-20T13:38:00Z
+    webUrl: "https://www.voanews.com/a/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
+    ampWebUrl: "https://www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 70
   - title: "Potential threats of artificial intelligence to global peace on agenda of UN council meeting"
     excerpt: "The UN Council meeting will include briefings by international AI experts and Secretary-General Antonio Guterres, who last month called the alarm bells over the most advanced form of AI “deafening,” and loudest from its developers."
     publishedDateTime: 2023-07-17T02:40:00Z

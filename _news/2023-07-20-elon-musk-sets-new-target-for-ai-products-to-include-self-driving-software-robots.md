@@ -123,6 +123,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 19
+  - title: "Elon Musk ready to deepen EV price war as Tesla bets on self-driving future"
+    excerpt: "Getting more cars on the road would help Tesla maintain its dominant US market share in \"turbulent times\" and give it access to precious usage data needed to train the artificial intelligence models behind its self-driving technology."
+    publishedDateTime: 2023-07-20T12:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/musk-ready-to-deepen-ev-price-war-as-tesla-bets-on-self-driving-future/articleshow/101990488.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "XYFvWfoOgi8L6sOnBC4HUks7SPbW25V0X1hSMRAdwUx1wryS9I059llXSt0jbeb0iEAXVJC/HU3pjRjdPpq9q/5vX6LGV0x21HGVtlFdV0JgM8koVIVmJwWREUN7CLJfA/SSVKAwN9NfmmDC+kVjgD3wL9bAob48XLQq07qDkGE0OxTpvuOcqychUpc+qc4ChmO5Dp2DUIvGFvuWvz98HBODZykyhrAiUvTAfN2U0lUOlItUm9Nk19hobDnvEw7oWFUUMS8basLp3ey4k90+GDnRzFVRniZTruhCI7RD0i6XJ6QVmpBi1TTF4VA6JrT/8tlxLe+ITo7Hget7tc//S4LjnHiHeqmACBGwFYpwijH3NtgLGN9ka02WK39xP5OZjY0cOnBzIo8dmG0G0MF4WDMstcUUguG0gQxnqxL7tKCQARk8EdxXcxPKYEf4bWksRVIn34VLw3h9YPDUL2Gi/EYv984PycDl3kbW5RUukvEsjXz2lUzRReeaBPZm99HKM5jj2Z0tqBB4OZQqnboQ9g==;gI1HBYlpTn+fo++UwLZGzA=="
 ---

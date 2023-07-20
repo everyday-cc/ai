@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Generative AI Is Coming For People Data: Are You Ready?"
+    excerpt: "The rise of generative AI will undoubtedly impact workforces—and the HR teams that support them—in deep and lasting ways."
+    publishedDateTime: 2023-07-20T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/generative-ai-is-coming-for-people-data-are-you-ready/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "bSWEJopiHGf6KT2klFRLFe6Zq+1gsm6BSqY6wYGpWI7yqjTK5enRUoL0iSGxVHDKG+eofFy51m2StW81LfrJqr9VSxKW6jzBuB4wEkghuCFGzeWeIny85CYTihGQjhkZ8FSTA5Db8OMi2eHkGPB780UHxT6ERcqNWf34DGFcWAvyiNl5OQCgWL1QsDrIkpq8L4YDw/fajJoRGtuNGYp2DWlcX0yFWChGu4zIelqEgUygwh/GZXRH2RT+DdOPuOwbpPG5Vcn0gVtvfzyruOPjU9QwHX46Yve03ECz6MEhTqGamhz0wjz4RnHacZv+awuwhdMzaJ7Cgn03ZZzRQ3eHlsdOLHx2n+VPrigiJC9hmCJ9mtcgQUhk6F9zE6W/zMQwcvK+TbnFZpYKeocA+sSQKrgj6lhniAbaDMDRahsS+4r7/+yjDoj62XFWyljd3YPdT+UP+0LKCWdTVGqAVGsKSbRH9LnD67MaELSoaPaQrJtaa4wcqNTSLhpON8wmjaWCgUTX8muIRVf/3BvJtT80HA==;u6iEce5YTFjJBn1WqMHUwA=="
 ---

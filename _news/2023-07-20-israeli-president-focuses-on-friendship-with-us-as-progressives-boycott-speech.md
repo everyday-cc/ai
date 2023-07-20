@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "In Speech to Congress, Herzog Praises U.S-Israel Relationship and Laments Growing Divides"
+    excerpt: "WASHINGTON — In his speech to a joint session of Congress, Israeli President Isaac Herzog made sure to repeatedly laud the warm ties between the United States and Israel. And he got the response Israeli leaders have traditionally received from U.S. lawmakers, earning at least 16 bipartisan standing ovations."
+    publishedDateTime: 2023-07-20T14:48:00Z
+    webUrl: "https://www.jewishexponent.com/in-speech-to-congress-herzog-praises-u-s-israel-relationship-and-laments-growing-divides/"
+    type: article
+    provider:
+      name: The Jewish Exponent
+      domain: jewishexponent.com
+    quality: 30
+    images:
+      - url: "http://www.jewishexponent.com/wp-content/uploads/2023/07/07-19-2023-Herzog-2048x1139-1.jpg"
+        width: 994
+        height: 553
+        isCached: true
   - title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
     excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
     publishedDateTime: 2023-07-19T14:00:00Z
@@ -40,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZL+5cNjjmKvU+MGPozb8YGfrM+LoPfS2VtVzxKTbDWkaLH35zuPk4rdI3ZobqfPGcmPRY72EtClmgxzernDCQWnYs+VHD5TGxEWlhoG2Y0P1TC4cfUZRuneyBBghDOZRyOJy0x5l3p9+8UCgoHubUd96cIZF96SHN7VwQxV+lX50p5uEWGCG5Y61u2UEHUvJRR0Y4le+cJEB2n5w5QKS2EUSNklyqkNDNtKuDUsXBG9ycRQ708bpZi3ck2H/fh/XZ6LVhrC25UuJY62U0HL7PC5EK8LWTK/tOnlibnzLJPKuTXCuHyg14nMrsJHY+iLXEcPsF/pF9QSBiaYj06yGad92DnMSfLrGnWkswMnYNNw=;xDhjAjlgDw/zEehb2SS78A=="
+secured: "mdwWRQpC7GMNKbXc3UnbzTz0C8oPQIvI0MjgbiSWUxfj+mUpUVzqqAQxCXSWTsax5MBpgACDN1Aytp/02xmoEKgoBFH+k+gm0Pyewu7BMAPlzT2DJ6kgllXqs6a5tLFkB4jP/mx0wPB1sWin7YLmINQLp/4Arj5LGVr4Cv+BuEgRudBoyOojkgKhitp2vFReHkDeA7QukJAkgRc6+SiAWqFAkZ3j6fbehIf5z+8XFi0UrejwWP8bt2AkTbmOMs1LeqGaRIn0I9tnvwfvIqP11fPptceDdSXKXEutrTu3tJT1qm7AmRsa3cOJyLYhp7NgI3VErlxFVIwZ+v/PgOYwwJhYkhw2jGJDbIoGhGvvsorOqUOjACJezSNtYjCHyh/jmpMl3MaDe8OovQkeX+IsMG6zWKrtE4p41YosY6OT1f+lbQaJ8NNR+zIOZlDb7lIFcZvvdjmE+xRnIbvG9V8SzCH8kgve+X0UaqlxJLWNHGv5SbEB4ybHYwKZc/FK+/tVqPQO516WoGZ9vv0uxxvRew==;x/trYa3ax1E9K2xqkB7b5Q=="
 ---
 

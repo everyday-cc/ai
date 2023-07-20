@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Meet Cleanlab, the startup that helps data teams manage noisy labels for enterprise AI"
+    excerpt: "Cleanlab, a startup that provides a data curation solution, announced that it has raised $5 million in a seed funding round led by Bain Capital Ventures."
+    publishedDateTime: 2023-07-20T13:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/meet-cleanlab-the-startup-that-helps-data-teams-manage-noisy-labels-for-enterprise-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_an_open-source_product_that_identifies_1d4861ec-97f7-4b9a-b85c-2e347c1fc53f.png?w=1200&strip=all"
+        width: 883
+        height: 706
+        isCached: true
   - title: "Lenovo Unveils New Data Management Solutions to Enable AI Workloads"
     excerpt: "Lenovo (HKSE: 992) (ADR: LNVGY) announced its next wave of data management innovation with new ThinkSystem DG Enterprise Storage Arrays and ThinkSystem DM3010H Enterprise Storage Arrays, designed to make it easier for organizations to enable AI workloads and unlock value from their data."
     publishedDateTime: 2023-07-18T16:54:00Z

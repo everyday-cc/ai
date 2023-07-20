@@ -35,6 +35,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google DeepMind’s latest research at ICML 2023"
+    excerpt: "Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i. "
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
   - title: "Brits need a mindset change if they want to be AI leaders"
     excerpt: "Given it thought Brexit was a good idea...  DeepMind co-founder Mustafa Suleyman says that for the UK to become an AI superpower, it needs to change a bit of its thinking. Suleyman said that the UK needed to foster a culture of risk-taking and encourage large-scale investments."
     publishedDateTime: 2023-07-18T08:47:00Z

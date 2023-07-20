@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202307/20/WS64b867bda31035260b8
 webUrl: "https://global.chinadaily.com.cn/a/202307/20/WS64b867bda31035260b81761e_4.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 720
     height: 360
     isCached: true
+
+related:
+  - title: "Rise of the robots"
+    excerpt: "The release of ChatGPT was a landmark step in the advancement of AI, but what do the developments mean for the current workforce, and how are governments addressing the risks as AI increases its dominance?"
+    publishedDateTime: 2023-07-20T15:27:00Z
+    webUrl: "https://www.worldfinance.com/special-reports/rise-of-the-robots"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 41
+    images:
+      - url: "http://www.worldfinance.com/wp-content/uploads/2023/06/Screenshot-2023-06-19-at-16.06.25-948x1024.png"
+        width: 948
+        height: 1024
+        isCached: true
 
 secured: "18koo/PY4F3NgM6EId9mqnGJbWrifEqjh/Ul5Oq/k7V9iCUaIwWg2GEZu+LCblxtua4Iv93sOCyXQP3JOPtkCGZ4pHbV7ezdQVcw9KPnFuFfeViBqTledUOtzPqZzm1yPcU2yqLdqsIqY2Rz2XLG4W/oQhUu+3BksLqMNTCjoR/QLMnbN/qvTZXnOmnH97WJNyYxc3vAo1KNML1cunDYApExEQzTI5cDRZUI6DHuk3fcImBGmt1Onh4VDVEpk936YKHX6qdO4q7Pb0qrhdNUnjBidLsFmVe3qen0XSmyNP1WoR4vb7rvppcxj+4WIfSEKPOrnM1bwlkhrYOHsMyUtVJQJ0DDbUKsqViGdeN11ZfUClrPQxzUX2i0CGVPvsSjMIlnLIkHQ9QW5epn/NC7oIZo/tStuZhO3ClVZco4iGwQ1Exz4x6BNcad2DoMgsYe0JkHFlHeIxiiQtWgpH0xi21cpo96J4AUXr8MCZ8jPxKzU5DnUXkQSHMl+HNudyPaPcXUzaekfT4tvcgGxoB+FQ==;2UpCrvBgqZieslV0l30KdA=="
 ---

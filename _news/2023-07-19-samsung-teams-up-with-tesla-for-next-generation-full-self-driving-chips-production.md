@@ -68,19 +68,14 @@ related:
         height: 500
         isCached: true
   - title: "Musk open to price cuts as Tesla bets on self-driving future"
-    excerpt: "Wells Fargo analysts said FSD’s adoption could be impeded by its price, which Musk said was low. At $15,000 per car, the technology is about half the cost of the cheapest Tesla vehicle after a $7,500 federal tax credit. Musk, who on Wednesday called himself “the boy who cried FSD”, said “it is one of the hottest problems ever.”"
-    publishedDateTime: 2023-07-20T11:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/20/musk-open-to-price/"
+    excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
+    publishedDateTime: 2023-07-20T12:57:00Z
+    webUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
     type: article
     provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6J0AN-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
+      name: Autoblog
+      domain: autoblog.com
+    quality: 19
 
 secured: "1rrZjhUAdGaFoYTCNvMq6NRmPPB/8xeVx41ZxQZ6wxsZ9MyGl5sD36YCzwd4YwcEt6syKswY3SJWhSIAqeuRShW50dfmmvMAONB9DN4wrSJVfUphYlVkoutRqN4gY5MbEL0SbbrsxA2xSU8VJJQbgKMV5wPz3p0NDqhBXe48OGoVLiQXaC3xSM5r09AeWnOm2qhhThP7xQfHUjGsqE2o0uEEVWJoCKf40oi44Yits3KtApbzNTHMDulRL3dUjNZOe909MzaNDYd7iV5a8GZTM58Faf3A5REw54BCvoy7mNdkbyNwuyWKzGfS2yIX5xfyDfNUUju3s26AM0omgwYN5rafalWqI2A9FSnBVdpq3H4=;OuK5aZqx/Uk5nkh5ntSKnQ=="
 ---

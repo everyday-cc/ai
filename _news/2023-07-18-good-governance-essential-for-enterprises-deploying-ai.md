@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Governance: Guiding Global Adoption for Ethical Innovations"
+    excerpt: "Exploring the worldwide adoption of AI, its inherent challenges, and the imperative of responsible AI governance."
+    publishedDateTime: 2023-07-20T14:52:00Z
+    webUrl: "https://www.techopedia.com/ai-governance-guiding-global-adoption-for-ethical-innovations"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/modern_metal_court_02.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lPEoPferD/lYACnp598P+UP8XJCzmby0M+DLYPKXDEtlZtpwzPaiIkF0jSSM9XoSt0nogsuzHbLIQHp+na1JrTTA517lvFInhDJGaDY+y9UPg3e/ioIsCo4jx5VwcCFQSaqz2PAoNl+VGI10FFezd5OWABMu1hvaSffMOe+1hUuao508vAhnThsNST87ndXOz6OMPb4C2Q4+fNYz5ZUPm9wOaxKg8uEyKHrFm7eA9xwuwWxqYPNpWLHP0PLUX+pgwr4iDiOhkBcbjMLQBAf2ardlQbD5fdzghCtjrpKVSkbEiTQhkCTYp04Aly4T2D3Gw7QTh7U2mRGBN84zJ2PtL8ilsO4WnfTfdZpqkVZQVWltsxH5IAvZ3hfAXSRxvbjmALjY6Z43h9+nsaPTf1VFGLoFdesB2/C7AcEyrGwWcYvCLsAT1jRZ5CZNY+iIpCQgMcDhjRPHGyBNgDScGD+zB5ch2IzFrlJzldobyyCMjFfhrXCVuUPi+t0WFU/mhKz2nfu7dwpsmwSdR0AWa4LqCw==;146ZtfDvbIuLLH6XgrKSJw=="
 ---

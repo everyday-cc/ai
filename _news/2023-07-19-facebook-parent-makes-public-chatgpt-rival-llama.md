@@ -138,20 +138,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
-    publishedDateTime: 2023-07-19T13:00:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 26
-    images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facebook makes its ChatGPT rival Llama free to use"
     excerpt: "Facebook’s parent company Meta has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T09:11:00Z
@@ -177,6 +163,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free"
+    publishedDateTime: 2023-07-18T21:25:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-makes-public-chatgpt-rival-llama-101422359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 4
 
 secured: "RkWVEIg90HD/dLCd+4/KLC1JO5y/lcIuB5OeAiE9bcVEnONEwPZ529VLCTwSiuwOc5DquHOgovKaLM3KZQEfuJnmzl/tz+2hOuEJYMB+J7Gwm5EKZ1fZaBJGUeKLNjwvRFWuxKXNvqaXyclc+0j5cCl3W63iATkEZCPbWaV+a4yVFfepW4Q5doLLCoixHzbV/q8NuDS3zmeJ04pGpO43Vx0252Oiq67NXxJ9h5t5X0qE3+af8Ge5U2J9EucrGUo9WozPWZuoZ6uVPTOv+QglvnGcCDkpiUGsa7VRwtznn6CtEX0tXP6WTM+yYfY3YGMnDbUuL9di6SdmTEdS7zPQ9azUf4WavHsLzx2JpBtBHYY=;tYuX5SIyCkN1BNUDl/+aoQ=="
 ---

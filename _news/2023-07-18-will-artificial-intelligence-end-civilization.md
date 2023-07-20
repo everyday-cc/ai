@@ -32,6 +32,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "When it comes to next-generation AI models, synthetic data is the way to go"
+    excerpt: "An AI feedback loop is threatening to destroy the future of generative AI algorithms, so big tech corporations are scrambling to find a solution that could"
+    publishedDateTime: 2023-07-20T14:10:00Z
+    webUrl: "https://www.techspot.com/news/99473-when-comes-next-generation-ai-models-synthetic-data.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 65
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-20-image-15.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Foreign Secretary to call for ‘international cooperation’ over AI threat"
     excerpt: "James Cleverly, the UK Foreign Secretary will today chair the first ever UN Security Council (UNSC) session on Artificial Intelligence (AI)."
     publishedDateTime: 2023-07-18T08:13:00Z

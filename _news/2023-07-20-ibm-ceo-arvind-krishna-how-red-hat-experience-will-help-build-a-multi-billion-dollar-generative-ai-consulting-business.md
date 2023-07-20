@@ -26,6 +26,17 @@ images:
     height: 876
     isCached: true
 
-secured: "ZP1AT3hOxw0jM45fBI0dFUWVpQZ4ZBiGmGxBU4MkZwv2cZ/FUTbb2MqSkRV339vULQxNRvkP3fajjeu/LpSTvmsnlXIe286LWYYlRXrL42BnYjPj/Efp8WfVPionzKewHRN2jA6uU0ERICnhV3sjjWvKXOk8cUGSkAHDZIDueN4QCxsipWsSSHNoOZe7wUEu/q9yNDD23Q+U+GAfzCUCZDLtvc63d9Rpj1OernNXIL3dxUL5Q1hZ10EWw7aO7pHSS2inoKWLuQaiohz1LLC61JeiQkZDAhskYCOacM1C/UtvgqsYGOHKIlqhhp7gIlTUhxLqO5G2BGdI9UmLTSij4n6AF75Nl8IBTwj6zu3pylc=;Z1J6+ggcVqprWwFyF1JxGA=="
+related:
+  - title: "Why IBM CEO Krishna says Big Blue is all in on artificial intelligence"
+    excerpt: "IBM CEO Arvind Krishna says the company will keep making investments in products and skills to “seize the AI opportunity.”"
+    publishedDateTime: 2023-07-20T11:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2023/07/20/ibm-ceo-krishna-says-big-blue-is-all-in-on-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
+secured: "KtcfhxggpYWNVNcJe5zp+6wMi7UOW7A7mg7/Aecz3L79MLGR2wfFYeQIqov1Tn7udBtn/XAKqlZ2/aOHHYzy2gW/8/TLrTMJ7skUingsFasoiTPrXGcfTtionaNgQMiJh86zB1V7prGJ/xvT09xi9/Hrh9fB493wnK3iDE+qaAYY5SqLVZeZX1oUt+JopsWZ52uk06YjRf7OvCx09jgZSrtxaMdZSPkI/FLiYfC9OK68Vdnk7uN7jYzZyDcb2tkdoWomfNvAK95NGLCqtw/9PI72SphOyxsfdyqGGnC7k4MkairmOwNArhQx2kyHuGVf6J8m/g6Vj6S/RGZmwn3Rq96hvkLfeRDnyFjhzLhnS2nyEVDVWbRzKy1JISdcJXtayY8bQI9zOetTSzualfyMCfVBHVMK6wcf32VGw2issan1BM6NKvCoRHZNbv58AJGx01HnOWm5Yn5bzwzHL7mS0hV7z1LCOqe5GpL8BC899BNlxN65fbAU9jVkXTXRdKpyTTLuVNDuPLFil7gJE2MqFw==;ugzu6mX64Bc9tzfJTZTI1g=="
 ---
 

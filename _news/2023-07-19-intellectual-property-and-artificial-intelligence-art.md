@@ -18,22 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "New Startup Looks To Blend AI And Nuclear Energy"
-    excerpt: "OpenAI's founder, Sam Altman, foresees a future where AI and nuclear energy work together to tackle the energy demands of AI operations and help solve the global energy trilemma."
-    publishedDateTime: 2023-07-15T21:00:00Z
-    webUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.html"
-    ampWebUrl: "https://oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Alternative-Energy/Nuclear-Power/New-Startup-Looks-To-Blend-AI-And-Nuclear-Energy.amp.html"
+  - title: "The prophecy of Black Mirror and AI misdeeds"
+    excerpt: "Black Mirror’s ‘Joan Is Awful’ episode paints a scary picture of AI’s ability to potentially record and replicate one’s life for an audience."
+    publishedDateTime: 2023-07-18T11:46:00Z
+    webUrl: "https://www.iol.co.za/news/world/the-prophecy-of-black-mirror-and-ai-misdeeds-1cfe0bb3-8129-433b-8a29-d6e3388cdf3b"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 57
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-07-14_0fjd7wmdfp.jpg"
-        width: 718
-        height: 300
-        isCached: true
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "C+kVOONmsJWkSz/gx2jAyRpERpLtwWJZMyeV61iZPn2MegDrMXntyCLUM9w06K0rfz1ysqVGvHlWzCRI0M+9PuGH8nxD92WmkkBFaCnwmFB+aLLqnvy180E5/x6gtcme0GdVc2hpPbItBrnXHLhyD69v89g/JqDcXuLDcJD1tQPF/em+GUh9Oim0XQnOrDHmWTGph8+F2VCbh9icbvpPXIvYsX2QrIhBSNpxYL4arTFt0wSJ4yca8fR20Eb3gl7/r0iuH8kUF37hksKPqhwAKJ2W0yJR5IaZ+IEkK9LIpEduNBB+/+HMjF6fbQlrAvfPV1EZZtNpNI7qeMA7axT7MMBqtbHwtU1oSU1GYHBow6E=;hwyEs/JE5JrZ/xozx/f8KA=="
 ---

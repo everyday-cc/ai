@@ -64,6 +64,15 @@ related:
       name: SC Media
       domain: scmagazine.com
     quality: 34
+  - title: "The Future of AI (Artificial intelligence)"
+    excerpt: "Artificial intelligence (AI) has become a prominent topic of discussion and a sought-after skill in today’s job market. While the media often portrays AI in extremes, either as a sci-fi fantasy or a job-stealing menace,"
+    publishedDateTime: 2023-07-20T11:26:00Z
+    webUrl: "https://techbullion.com/the-future-of-ai-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
 
 secured: "TuEt/XMI+8J/X0/1YwIPSdD/XHp8B33w3/UUjPTRugVB/fzn6iLcIGtyQNbFma0PiDyKahdkg1SjC5qK3ffwjYqw8bwl4hJ5feUqmoAjFw8FHCV/Snx+wWB437++NwYpyJ5XHWQW3WUpG+L9PUfhN1dBLsEzuMbqOsXICz83yalIZEKQcsAZE0X6dDWVsAGpxwgKR/c4+TmDRIpL2LLxuFfm+pVybWq7NT8tKxwuswXbJDg/KK1C8TcsCmt5n96tub05ZJC0Yw42F5G3W7bTQ9D4mI2alncVoO3ZeU6wun0nfAxoXQXof971qzz+AcXPRCarjnjDV+ABdV61ScEmq4bNkRrt5erKCbO94Y4ReS4=;8KONnHtmsOkeEPi3GLyQfg=="
 ---

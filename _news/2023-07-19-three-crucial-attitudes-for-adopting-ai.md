@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/three-cruc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "3 AI Stocks for Getting Rich in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With businesses and countries across the world elevating artificial"
+    publishedDateTime: 2023-07-20T14:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-for-getting-rich-in-2023-1032463133"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "oIuZOb5vI4cxDXOI7tTDKXVUXychFt+U225uEKOkuDyJ+zPiz/qmFZBcleVuzdI1q7X6bo51XfrdPYpJMPhKo1i3quMZMw5bjVdfaE0GOuIU1ybwfbNez0zpiYjMdiq6IDomniHRFCvdDKM7RgZKX2mujVNcEcpgBHs8vkh82AKGwwpB69dACxWhBA4th5aw3szAmAAWF7iwUDapwB+t9PCkUTPyEOXxFXZ4+cedPG/pQMbVQWd69rK7K+IioLLxKFgFS3iuh5tG2Us8Dr/Tfk/ZzGgPaPV+HcWVveM8z4lGpF1ofzf6eAcGlxInpAQQbO9cZ8fgZeU8yeTV0/B5F+zRDepxdx9I4kSmU3i7blo=;KK8/avSF0C8k9IwGTgy9wQ=="
 ---

@@ -484,6 +484,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
+  - title: "Troy Medicare Selects nirvanaHealth’s Aria Platform that Runs on Microsoft Azure"
+    excerpt: "Press Release nirvanaHealth and Troy Medicare announce their partnership to implement nirvanaHealth's Medicare Advantage Platform-in-a-Box enterprise solution that runs on Microsoft Azure. These solutions run on Aria,"
+    publishedDateTime: 2023-07-20T12:26:00Z
+    webUrl: "https://venturebeat.com/business/troy-medicare-selects-nirvanahealths-aria-platform-that-runs-on-microsoft-azure/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
   - title: "Meta launches AI language model for Microsoft and Amazon cloud users"
     excerpt: "Meta isn’t charging for access or usage of the model it developed. Instead, by opening up the technology to other companies, Meta says it will benefit from improvements that can be made when more developers use,"
     publishedDateTime: 2023-07-19T05:11:00Z
@@ -710,6 +719,15 @@ related:
         width: 3600
         height: 1800
         isCached: true
+  - title: "Meta makes its AI model Llama 2 available on Microsoft Azure and Windows"
+    excerpt: "Meta has expanded its long-standing partnership with Microsoft to make Llama 2, its new family of large language models (LLMs), freely available to commercial customers for the first time via Microsoft Azure and Windows."
+    publishedDateTime: 2023-07-19T00:00:00Z
+    webUrl: "https://www.technologyrecord.com/article/meta-makes-its-ai-model-llama-2-available-on-microsoft-azure-and-windows"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 48
   - title: "Meta and Microsoft join forces to bring Llama 2 language models to Azure and Windows"
     excerpt: "Meta and Microsoft have announced their collaboration at Microsoft Inspire to introduce support for the Llama 2 family of large language models (LLMs) on"
     publishedDateTime: 2023-07-18T17:01:00Z
@@ -949,6 +967,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 27
+  - title: "Meta Launches Generative AI Model Llama 2 in Partnership with Microsoft to Compete with Google and OpenAI"
+    excerpt: "Meta releases its new generative AI model Llama 2 in continuation with its advancement in Artificial Intelligence field."
+    publishedDateTime: 2023-07-20T13:45:00Z
+    webUrl: "https://www.ibtimes.sg/meta-launches-generative-ai-model-llama-2-partnership-microsoft-compete-google-openai-70976"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 17
 
 secured: "Y/dRhNB9fzK2iBaFbL989eZz0KZqpWj8nz38YTpAFbdHxjCfsaouWnlQZ5JofxPZuQa/tQ25JDSS+3A42+t0wwZ2pxJ2533s6wMmlmYdn1rvv8/7kqrR3lsdIoEWAl3lkiee/wPJ5PvnBwFDMqgJ3zEPMTmtavayf2rdPPEJSwz6FXfeag44Qxsz3Ec9VWqxJJJfmKQoXukgRq5i10aigIsRCD1Sfcv8HuogFGOHWeodBzeqwEDZ9qVj2qMc1lddxjHYSGzcPeRqWSbxTmznfI/UOjBr5+zc1wjgB+PEiqZpCPIW74ld29WMoTi0aNdWZXLcfu8gEb1RvmdPekEb6EsBQjD14nnnJ15ZjEa/FzVQ80RKRxTaO2QtBJHgXFaPqxb9excnKXu6+qWAQKHF4fovYctPns6cOXH/S3p4ZSQpoVtXGrsS2/2TZJDN9fFtoOkpJ/m0xA8Xb3LA5qzT7g9EIHW6J8BMlLtQuQnVdFupjThi95wyWK/78Um2juVW55wzMQniPdrofnNTBQP1IA==;Zq7qEiKBgfJaIdlcAtFSTg=="
 ---

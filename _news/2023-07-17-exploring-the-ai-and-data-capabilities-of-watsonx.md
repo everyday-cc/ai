@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of
 webUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/"
 type: article
 quality: 114
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
+    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
+    publishedDateTime: 2023-07-20T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
+    images:
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Empowering Data Analytics: Unleashing the Potential of Machine Learning and AI"
     excerpt: "In today’s data-driven world, businesses are constantly seeking innovative ways to leverage the vast amounts of information they collect. Traditional data analytics tools are often limited in their ab"
     publishedDateTime: 2023-07-20T10:01:00Z

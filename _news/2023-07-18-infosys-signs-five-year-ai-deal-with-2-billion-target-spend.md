@@ -59,6 +59,15 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Infosys Leads In AI With 80 Generative AI Projects For Clients"
+    excerpt: "Infosys envisions building a solid groundwork for future expansion by introducing its all-encompassing AI solution, Topaz."
+    publishedDateTime: 2023-07-20T13:19:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/infosys-leads-in-ai-with-80-generative-ai-projects-for-clients-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 19
 
 secured: "FRx13+F3qidac+dqBppSRWBlgfFTgsSKiWlq8ito/ynGpcBtNBEuYcp0rpXfoWQeuj2hx7A0hRJOYv7twkKhweo9ZZXoEecMmcptVrdcLZUpVt/CDH16BKyF8mU1EYnxjpxA5Gkc3BYi0WldNkZYqg94ByickutEZPbTVlmtlY/ndQ1Qn2/FDwCaoC7GzdUgbdFBK0k/PD1ZoqWSStns4/9xuAFWwK2XzUyFvm3MdNz7dHta0a+3ao1f8xvr83eGUOBn7O9TZCqYJqD56ezymJknD9753X8R1s5UzQnmcztTDMTCDeIAkvxQIWaOg7wcdnSW4jFRqwI3xm46d9aWQ9p4paSvkb/J3Lrx3Z2C64Q=;P23BJKV1OXrNeRisG9WrCg=="
 ---

@@ -53,20 +53,6 @@ related:
         width: 969
         height: 631
         isCached: true
-  - title: "Musk open to price cuts as Tesla bets on self-driving future"
-    excerpt: "Wells Fargo analysts said FSD’s adoption could be impeded by its price, which Musk said was low. At $15,000 per car, the technology is about half the cost of the cheapest Tesla vehicle after a $7,500 federal tax credit. Musk, who on Wednesday called himself “the boy who cried FSD”, said “it is one of the hottest problems ever.”"
-    publishedDateTime: 2023-07-20T11:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/20/musk-open-to-price/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6J0AN-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
     excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
     publishedDateTime: 2023-07-19T07:33:00Z
@@ -81,6 +67,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Musk open to price cuts as Tesla bets on self-driving future"
+    excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
+    publishedDateTime: 2023-07-20T12:57:00Z
+    webUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 19
 
 secured: "OUUgDVlM8cfMnC6iKG/WRPobTt5pz+MT+eBvuSkKe3WxqCGNIZNzJle+88Yl3KaKbO3XtTNFA6inn7cUxgBmP/JdozG7ql7G2Vr+8o6HCU99VjGn024Vf0kSZ6QTRz3lPy0s8eKWeAt1Y5ebFQ8eTNIhl/QSXs7Ft+Foil/gOGy9s7AVRkLmurzFGrdgcY0zs4XStKB2ouWzxrBTsoEfzrB2xMlKayVwIQtFEgNaCdPLHlOtg9bEH85H8QByBdUgM+2e0kguYFy2rWzZuGg5MaxlO0MEF07B29QA0KzF7eoaLjRuyQVgfhFofI9flvNMZrVQU+ABvMa0J8esMOmnh5h64wpBYDyXTQMSSZUSlxw=;DB/BgYXBsjeUGnGoOJcBMA=="
 ---

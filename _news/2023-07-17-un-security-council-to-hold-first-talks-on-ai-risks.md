@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aac
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 275
         height: 215
         isCached: true
+  - title: "UN Security Council Debates Virtues, Failings of Artificial Intelligence"
+    excerpt: "UN Secretary-General Antonio Guterres says, 'AI will have an impact on every area of our lives' and advocated for the creation of 'new United Nations entity to support collective efforts to govern thi"
+    publishedDateTime: 2023-07-20T13:38:00Z
+    webUrl: "https://www.voanews.com/a/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
+    ampWebUrl: "https://www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 70
   - title: "Exec tells first UN council meeting that big tech can't be trusted to guarantee AI safety"
     excerpt: "An artificial intelligence company executive told the first U_N_ Security Council meeting on AI’s threats to global peace that the handful of big tech companies leading the race to commercialize AI can’t be trusted to guarantee the safety of systems"
     publishedDateTime: 2023-07-18T23:26:00Z

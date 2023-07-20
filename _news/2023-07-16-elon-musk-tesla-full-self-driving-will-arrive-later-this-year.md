@@ -122,6 +122,15 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 24
+  - title: "Elon Musk ready to deepen EV price war as Tesla bets on self-driving future"
+    excerpt: "Getting more cars on the road would help Tesla maintain its dominant US market share in \"turbulent times\" and give it access to precious usage data needed to train the artificial intelligence models behind its self-driving technology."
+    publishedDateTime: 2023-07-20T12:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/musk-ready-to-deepen-ev-price-war-as-tesla-bets-on-self-driving-future/articleshow/101990488.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "7rmkYTp753SLtSit470+mXwcmZRERWJqYZqi6OXA633yEGf2xTkacPUEi+8G2uYWuyPCQ/pZEl02+6si6pX0NHqIZ3s/ScedTFPJ+GJOqVloh/VeyfLlRLqgYCpKmLOxhaMB475qpGkSBGtcCsNDxpzEDfCf8TTSnuSBq/9dhlHTMcLQHz7Ph2cxvbogSc7BPxYpvsOlu/pAsv79hguZma7x78aK3qlfenMFCHgCHBCtYPn17tuLc1BXkM6TatE/+FPhj2hrbfBT/bNst+rRvrglN9iZxCiadqaJlWM8qSpNvL/7Je8BxoJ2N7sMuMpCGbzzxbdnGvBBBB49GBGvjDAyiV6epTjw9srTutfkr2mafZlqsCWbuhiJztEa7NgBkq6QolsMNJyN2ffwmSWl471coRJBPzK19U5NN+qXLUV5fuc0/iQVmbbfnVGGeHLWi6S61d8Tm+3hRYJvooUTz9NgPiewJICKUDMVHVJZ4+ScmesFHCRis8smHtvsbfY4xAUewkIBFuBjpn7fnDKSSQ==;Ltg2F/fFu9Qg0URBvPXmbA=="
 ---

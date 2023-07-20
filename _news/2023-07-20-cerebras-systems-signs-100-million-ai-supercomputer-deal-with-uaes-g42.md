@@ -1,0 +1,43 @@
+---
+category: news
+title: "Cerebras Systems signs $100 million AI supercomputer deal with UAE's G42"
+excerpt: "Cerebras Systems on Thursday said that it has signed an approximately $100 million deal to supply the first of three artificial intelligence (AI) supercomputers to the United Arab Emirates-based technology group G42."
+publishedDateTime: 2023-07-20T13:02:00Z
+originalUrl: "https://www.aol.com/news/cerebras-systems-signs-100-million-130216021.html"
+webUrl: "https://www.aol.com/news/cerebras-systems-signs-100-million-130216021.html"
+type: article
+quality: 18
+heat: -1
+published: false
+
+provider:
+  name: AOL
+  domain: aol.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Cerebras Systems signs $100 mln AI supercomputer deal with UAE's G42"
+    excerpt: "Cerebras Systems on Thursday said that it has signed an approximately $100 million deal to supply the first of three artificial intelligence (AI) supercomputers to the United Arab Emirates-based technology group G42."
+    publishedDateTime: 2023-07-20T12:02:00Z
+    webUrl: "https://www.reuters.com/technology/cerebras-systems-signs-100-mln-ai-supercomputer-deal-with-uaes-g42-2023-07-20/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Cerebras unveils world’s largest AI training supercomputer with 54M cores"
+    excerpt: "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here Cerebras Systems, the AI accelerator pioneer, and UAE-based technology holding group G42, have unveiled the world’s largest supercomputer for AI training,"
+    publishedDateTime: 2023-07-20T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/cerebras-unveils-worlds-larges-ai-training-supercomputer-with-54m-cores/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 48
+
+secured: "94riME6hvCopDuHwNJMwOPYtDZmQdYHV+cA1h0aWZ1v7jLSCq7ahc0V1kLGiIiv/hmSyvlhpBriN+pjsqpj3jiUWWbKWZZuKLE02S6FhF0yY+4/JdYidnOqwgbyrbWpdPIRosEriHYFiDf4AQsoucmlMJBysSCLOFrUrFq9F3XsdpDHLRh1wqNitpEGXUOX3ZdJR4pGnVCE6PkWQwLgI13EIhiAO0ccBW1AdDUz8IdwuR+F0hamhEGJhxMZbTPQh7WhbpSYGa0YYw5XPeor+jL3rd1pbf66gWH65sQj/4zC6DLXGMWwLft4h2MBcForveqBQBxsKeR9U9Sz3lVES0zqq3aAvX0q3+t8aAv1mzzE=;5k6IFmzBJahjXfmZgjN6Vw=="
+---
+

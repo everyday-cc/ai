@@ -41,6 +41,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI Ethics: Principles, Guidelines & Problems To Discuss"
+    excerpt: "Artificial intelligence is gradually creeping into every aspect of our lives - but do we have the ethical tools to keep ourselves safe?"
+    publishedDateTime: 2023-07-20T11:31:00Z
+    webUrl: "https://tech.co/news/ai-ethics-principles-and-issues"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 34
 
 secured: "vjfKSrxWO4DmshAHqCYYTGarZGw4zrqr1T4DUwoP1UsHbdkgqE0QyLsAc4BePN1U1ZdxK+qFZ0/bXzCHolzP5qpOiNe3jXN2uzjchgJd6b1txdhPXtQhxyCpYMZ44FpLAiG/l6Ak9Em3PK60mevh0GPVNAqiZ0YO914hcC+nPAUvuE24BhK8vLyrMpnA0VEXWnglCLa2SecbYQ/5O/HcQLEJpKEHlAQfSvKaedGWlXWe7Ypyx/cu9toOC3dDDLpTeicwshzc4U6oZiaUekTxgp6rqPsEWGy1tzEwy+OeVcqgIhikouRkqY3DUj+skN8ES4geVqXdLmwmqMBdQE+XZfXfjkOOKfbh8dgEYUToQT8=;uSwmvOP2FlmZVYkSLzjUzw=="
 ---

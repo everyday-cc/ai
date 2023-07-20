@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-gov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/Stephanie-Zhang_REV.png?w=1200"
         width: 1200
         height: 671
+        isCached: true
+  - title: "AI Governance: Guiding Global Adoption for Ethical Innovations"
+    excerpt: "Exploring the worldwide adoption of AI, its inherent challenges, and the imperative of responsible AI governance."
+    publishedDateTime: 2023-07-20T14:52:00Z
+    webUrl: "https://www.techopedia.com/ai-governance-guiding-global-adoption-for-ethical-innovations"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 54
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/modern_metal_court_02.png"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "wL9zETmpHGtL5JBK6WWacfOCKUJMtLQwmZVnMMJzTsIogfLJpMXOhNUOMMzw2WbmeGys6Fgeq8pKhSAf4zva7QWsxcV3ZJgHhBwxm3L5CnJtwKl+F2T9MmKPaVIiquRsBVpCYRFg6+OGMKi/XUMr2QZaeN4X0Lxn3xwoFwUl4Y6mso2dEEZF7OKulaVLne8ceAwgYNBA8rklqt6SHCPes1IzxNGwLGbmFmp5wkz8txeGxivBmWWS7v08nYAqvj0NjqR3XKr5q0qwoRulCnDLBnyzhqv8CdqDzDD93T9sE/kjC38rj18TL5KWkRedJTi5NvWqMRULXD3/6PLrSZ1pkiLiw5GSq8l9n3gZJGBch5iLTP191yDQzXMyvyB7KVmTYRHUeS1flCxh///RPS3RVpebgNgk96tpBX+1LS8rGccD3p7MkqbZY6l0cJ40V4e3g7dz9x4PPXEOLyQcocvtYHc7RDbc+FAMSRilkkIlKaJ+/0obSO1kw+a7WCPFTWsINB3Et2nUR+U5YcdP0lzP2A==;52uQR7fawI0Fn4nB6JHbiQ=="

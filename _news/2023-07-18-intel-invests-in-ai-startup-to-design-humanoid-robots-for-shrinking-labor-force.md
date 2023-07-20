@@ -69,6 +69,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "Why Nvidia, Intel and Other Chip Stocks Are Dipping"
+    excerpt: "It turns out there’s more to chip stocks than just AI. The world’s biggest contract chip maker had a disappointing update for investors, and semiconductor stocks are selling off. Taiwan Semicond"
+    publishedDateTime: 2023-07-20T15:35:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-785590/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Intel Capital invests in Figure as humanoid robot takes first steps"
     excerpt: "Intel Capital is a notable addition to Figure's Series A funding round and is joining other top-tier investors such as Parkway Venture Capital, Brett Adcock, Aliya Capital, Bold Capital Partners, Tamarack Global, FJ labs, and former KUKA Robotics CEO Till Reuter."
     publishedDateTime: 2023-07-17T12:03:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/google-news-writing-ai-3346754/"
 webUrl: "https://www.androidauthority.com/google-news-writing-ai-3346754/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "I did not use artificial intelligence to write this column"
-    excerpt: "To be honest, you don’t have to be all that smart to write a daily column in a large metropolitan newspaper. You just have to be curious, possess a certain level of stamina, and believe the perfect is the enemy of the good."
-    publishedDateTime: 2023-07-16T09:00:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2023/07/16/chatgpt-writes-a-biography/"
+  - title: "Google Is Pushing AI Tool on Newsrooms to 'Help' Journalists"
+    excerpt: "Google is inserting itself in newsrooms with the promotion of its new AI tool that it says will “help” journalists create articles. The company has reportedly pitched its software to The New York Times, The Washington Post, and News Corp, which owns The Wall Street Journal, saying it can effectively produce news stories."
+    publishedDateTime: 2023-07-20T15:20:00Z
+    webUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GFS4SFYYXCYUDB4YV2NMMMELZM.jpg&w=1440"
-        width: 1440
-        height: 1019
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8207b7d5338a19dc74b78bbf70ac99b4.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "WOsCuvnyfcgk7KpHdIvj5W+vpnHEpqAE8pqVSr9QBHXlzlGSNFhd4xk9l8wYSiy5LBvkY1zqrEbndQkwmeXUZwcI9u6aob7r/sShSBXOdlI5NfsY5NaAVq7PDpWoxF1Im5Ih2DsoNos5jQ5HAs1ywMBbmB6gTh1AkHKa4P+BzeeNZrWpjALsLt/fKx6AqtPMMoTJs6pSwENF0Sf8VvQnqx3vZzJBYQfbRBcxRI/kPHcGGNP6V43xFLu6aCxxJd9q0pQF/lZybEpQ325wU7jUX8J5PXnEh64EFIOBHdqtJEXybeiAvCZe9v9a4pn4EgCUTWMow9b25g7n4rSNiMlMQb7uSEWn8DMSs839aL9Q86bzQOBgOgOWQ7wMQY524z4qSz2QaPFK2zaNgJyD49ghQgjrAFfVAHKt3PLHKeKmcKhCg1QTop7IwMQ8W0GXhuRQY8ijTaw6IjW3SqGDvfayP57ISnszGYsoIH3XnHzptwMifgUMGSIvJyRrp6uSH2YESWJE4xZhux2LiGSg3EI1/Q==;Q02FvXEIIKl/XR/2DtMeSA=="

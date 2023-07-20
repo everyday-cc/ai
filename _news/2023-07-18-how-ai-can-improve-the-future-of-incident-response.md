@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-
 webUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
       name: SC Media
       domain: scmagazine.com
     quality: 34
+  - title: "The Future of AI (Artificial intelligence)"
+    excerpt: "Artificial intelligence (AI) has become a prominent topic of discussion and a sought-after skill in today’s job market. While the media often portrays AI in extremes, either as a sci-fi fantasy or a job-stealing menace,"
+    publishedDateTime: 2023-07-20T11:26:00Z
+    webUrl: "https://techbullion.com/the-future-of-ai-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
 
 secured: "tzFIoSGN9voIEP3RDKx72Krub/RNzGBEXbKEZFqoFi96FFgyjbRNprPh1KyhrCOopy3BOs7ENF2RRoNW9fvlnULVXUKj7g5IeP0scDP/K9ChlA/rsEinm3fVObna4yqE6VnfUbLzUiaRxfiDCK4o94HgGiYPafMxa2N0D5lNrqU480oSR7i0xqUxJ8oIMJolfvdjU+tCcLczelOyS3gVh8QzNoSRocnLVqbeWji+OwESw2BhveuC6DsVEsfbJkFq9pFCrGlq2xMu+uwrRo3U2NVrihBhwYpei50yO5oxaUkg8r6NVo1K373xoql+/feoFH80owYp4a7z8ROLvkNISoxPRK6EPGcQ3OHMYEJ6+zA=;D275E5aYx/U195GhiLMtiA=="
 ---

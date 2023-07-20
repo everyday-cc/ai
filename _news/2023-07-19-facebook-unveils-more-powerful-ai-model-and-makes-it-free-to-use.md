@@ -123,20 +123,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
-    publishedDateTime: 2023-07-19T13:00:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 26
-    images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facebook makes its ChatGPT rival Llama free to use"
     excerpt: "Facebook’s parent company Meta has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T09:11:00Z
@@ -176,6 +162,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free"
+    publishedDateTime: 2023-07-18T21:25:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-makes-public-chatgpt-rival-llama-101422359"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 4
 
 secured: "1cdaCI2qc+5BbBDF6aZ+hL3VFFwWkX1CuF0fxYut/lUJdLALRvbz1kqranLIY99B+pXJ0qjJ2baXIsd9cIWCueDwgAWgZ5nrw4si3aQ22IJBC9/up/GeDCctvqhezd6NS5IhD8xiYvt3OE8Y2uQ9K9bSYp39nTbve2bpINUzzv0WmUve0FY6YtWv+BW003T5kunjuFK4WePfCL9MvyjptMDBDyR8+WR+oHuhFE54Lajchf3Wj+cdtI5EDEWBs68qPD4EmHqE4DpIUG1beNC/Qp2WanwU5hIyfarRlc1FKFNM29kDpMbiCr5nj9CN7er+KSQyDHNhb5R6VPPviUx+w+20zjxI5gtRHKofj0En+1IcmhJQm7ikXS4C3y4zug3tdAMnOmc7mk+9r9WiNVMHrkLNXUp5ot1dP02+4a9ckCNKg1j4U/v5PGSrCDCvqJUgvNZ3h4Yr37qkAIINmdkD59c7+g5dDCun4342i+BZfLk9yX1SwR3fARdZtwQ2GOPnaXfT7kzIxQQa0LUa4/1B8A==;5aACUfVhrhOZ4ZOtoY6IuA=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "‘Rubbish’: Lidia Thorpe slams Voice in Blak Sovereign Movement’s referendum material"
+    excerpt: "Lidia Thorpe’s political movement has handed down its view on the Voice to parliament pamphlets, saying voters are being “coerced”."
+    publishedDateTime: 2023-07-20T12:17:00Z
+    webUrl: "https://thewest.com.au/news/rubbish-lidia-thorpe-slams-voice-in-blak-sovereign-movements-referendum-material-c-11338785"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 0
+
 secured: "SnyVNnIHWRkaCCtz7hvSdSYOZoV3CyeyfAF3wp7qnXojeQAmCKxrXEqHJOfPYMavlInE4ZxksYvMAtk5yi3U7dP9i9a0JV9HpvYtuY9FAeQtlfJxjKqHigCgGGWQVUYwfRdkudChxUFBQ5dRlG886XK7yV2Eqf6mtSlDx3y+ZSO1coqGaGYkxw/mnnA1cNctg8UJvsVucp+H+SWXUCppNU5owDWU1/TcVSxaRMpA48iLxHoi3RMLDyY4XVqkuyH0VWsrRjGsax1sQI7qHmQ4b/QpZL55kraqrLfNmNf39CHJQnOoSOguRVJnclKQBz2kFVaVfFC07PnsTkOYBRUThcrNobWmMcscX3HknZz2Gmw=;rEPfpqAH42x4PiQZne/QQg=="
 ---
 
