@@ -403,6 +403,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Microsoft, Meta Deepen AI Collaboration with Llama 2 on Azure and Windows"
+    excerpt: "At Microsoft Inspire, Meta and Microsoft announced support for the Llama 2 family of large language models (LLMs) on Azure and Windows. Llama 2 is designed to enable developers and organizations to build generative AI-powered tools and experiences."
+    publishedDateTime: 2023-07-20T06:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32787-microsoft-meta-deepen-ai-collaboration-with-llama-2-on-azure-and-windows"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 68
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/f12d50e3ed2dbb84ce4b8fb7dd052110.jpg?t=20230720_062013"
+        width: 752
+        height: 408
+        isCached: true
   - title: "KPMG, Microsoft enter landmark agreement to put AI at forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across several business-critical areas including workforce"
     publishedDateTime: 2023-07-16T05:40:00Z
@@ -655,6 +669,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/Uez7wTg0lmOAzfsFDqeOIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/085d57465ba41ea508e3eb795e10e84e"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft Announces $30 AI Subscription, Doubles Down On AI Partnerships"
+    excerpt: "Microsoft announced an AI-powered premium version of its Microsoft 365 product that would cost users $30 per month. And it's doubling down on AI applications through tie-ups with companies like Meta."
+    publishedDateTime: 2023-07-18T19:34:00Z
+    webUrl: "https://www.investopedia.com/microsoft-announces-usd30-ai-subscription-doubles-down-on-ai-partnerships-7562505"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 53
+    images:
+      - url: "https://www.investopedia.com/thmb/IdYjX68LfmBvgL6Q77v79coUGUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1447492153-9b197bfc7c2548c2a7d54f09359c9b1f.jpg"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Microsoft builds on the cloud journey with Azure migration and cloud-native tools"
     excerpt: "To provide enterprise businesses the tools needed to give them a leg up when migrating to the cloud, Microsoft Corp. today announced two new Azure offerings during Microsoft Inspire 2023, “Azure Migrate and Modernize” and “Azure Innovate,"
@@ -919,6 +947,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "xwC6YOZv8hbZLx/63ZIBLsJIyrZEBk08oDVKBBLLmyY47uba5f/u+7Q+zRk9fsrVM5imSlBKJg4jLJHNTJGmB7+tSIYoF+ocP8OZJ3gPIQGRDyYR83m49A0Q4TRePADY13+9f2vRJzjfmCKJklFX+HI38S/QX5+YL2JtfyuSz3tYpbBfT8r7v8yBkWuNTjKToiUBMNDfHpLUGCCnR7x/Zgn7a2HTIxsVt0Ylg3rBFjEZWlNubGoEeid9cA6Lh7rcedtzSf09i8RgGbwX0LvIoWVz0LxxFmYp8UOW1vKfmRANEuBMMegAnXo+T8bOON+8a4Hvtu3CdGd10TVsFU03dotdUubgv6tTHX7vtWBSprs=;VTaO9Dz6Vcm7T/VlLFeOtw=="
+secured: "7QgA/K7jUs2MTknUxVNd5xb/dUcet2Dya+f9wNkcvh634bjOx4CUZeUUTQipjxV7xn3dI0NqdPbA423InI5G74QqQJMc3NBIImvw7p1diI9jfH+BFo17YcT38RGpBK68li3a5GmiZTMS0YVB00u65/xqTcksUHexnPZds4dNqr+/tovgJA7khy/vWkouUXOQP8xyRtMFXwpo49fgRmwPBS5vArsgQ6hexcDkuP5A9Io3rhMiQqIDJN7QOGDQP8nH4JG7AeeyqOLe9qRoM0eSR0wZedlqgECA9ndJr4kcN3CCwpWy2/G4ExQbUi4cbpg4OFrCYOvYO4b1YhHXwzD1ccWEf+ha4PkKDGD6RttFScfu6HtN59xr5KsxRaZEP7vy54WTFvOdpz68rc1evQnJJYAXY+Ls0/Ou1p++TOtz0E0Z1+b4vKrgdHQaHrmbtlBL0Zdt4LgHwtJ5HfO8Cio0JtT6t41gRJqlBMX3ezGdgIEl3bEF5sA5B4ALl0rdWXRpDpeLHEhJ6fcCQ/CzbO3H4w==;kCSf3LMsRHSWiFY6tOwP5Q=="
 ---
 

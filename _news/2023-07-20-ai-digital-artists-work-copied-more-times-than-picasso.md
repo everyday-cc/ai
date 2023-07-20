@@ -1,24 +1,20 @@
 ---
 category: news
 title: "AI: Digital artist's work copied more times than Picasso"
-excerpt: "When he checked, his name had been used as a prompt more times than the artists Pablo Picasso and Leonardo da Vinci. Polish-born artist Greg has had his work used in games such as Dungeons and Dragons and Magic: The Gathering but said his new found AI fame has caused concern for his future work."
-publishedDateTime: 2023-07-19T22:02:00Z
-originalUrl: "https://www.bbc.com/news/uk-wales-66099850"
-webUrl: "https://www.bbc.com/news/uk-wales-66099850"
-ampWebUrl: "https://www.bbc.com/news/uk-wales-66099850.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-66099850.amp"
+excerpt: "When he checked, his name had been used as a prompt more times than the artists Pablo Picasso and Leonardo da Vinci. Polish-born artist Greg has had his work used in games such as Dungeons and Dragons and Magic: The Gathering, but said his new found AI fame has caused concern for his future work."
+publishedDateTime: 2023-07-20T05:22:00Z
+originalUrl: "https://www.bbc.co.uk/news/uk-wales-66099850"
+webUrl: "https://www.bbc.co.uk/news/uk-wales-66099850"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-66099850.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-66099850.amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "G1axBULV1XyGb5GO2ZeAdExs/+TBshq6lCS0lq3Vl3Cn+ARKOOhPy8XcVCB4cTBgFka0Uto2+OaOZD7EXHvSsveknI8wtmUnkSAExtu38DhXd2VuZp7M7zw+Ani2BlrkOIr9UatyPVZcs2JQ1X1dvNqETiF2J+BZzlGQZLFrtj4cxfnGzR+ky4BHoPLevc/XisGS073W3oHbPi46NhFg/Ise6CuRoYLuqZ7BE2kLCK783KKSR63oxjl9H2QsBavFq3rKD5sAxBKqU10lCOsQKFH0ngKGHA5WRDVwnB0qVWGAUK17a+x3pg/7yCpjpQrEmCvcLaaqr6gA4wJwHCPi7/sIOi931JRHw392dHpwLtY=;fik23AJP00l3zLFuJbvzWw=="
+secured: "ZqndjKtAcEuzschrwvZtT9dYF5oY/KSqClidcnqQy21Cb/yf5KMhgdTSENDCJReqK3Uy/npGApUVGTKr4ladj+VbKuPB4ZLjp5WT5XxLqL9069xITAXhwtVY8lvmVAPSU+bP4N6cMEx+VUVL9g1r/ImE8ClXA7V3k509arGJqcy8eiBQnLUnMWfqzYG3Q942MFtahnFexFG2j2SG9C5bNaT0EKAsFl5sBCYYIviX/5sk94slVhs/J0LgreRNk74JzF0bFUWKSTVoiGl3Ma3TkALp5xWYg8N0ckZdExQWzV8ZsMw1cAlpaUMWaCQBPLp99plQoJv63bhmMMPgsrbFQSkx+KpCJGovYNNCFYhWAYg=;2eCfxeuACH1MPi/FvTZ5Mg=="
 ---
 

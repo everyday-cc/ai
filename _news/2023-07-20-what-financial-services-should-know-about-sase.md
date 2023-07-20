@@ -63,7 +63,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29730386-e3f3-420f-b566-85b8ce49ad79.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900

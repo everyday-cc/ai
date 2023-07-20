@@ -34,6 +34,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 51
+  - title: "Tesla chair Robyn Denholm joins Australian AI start-up Harrison.ai"
+    excerpt: "Tesla chair and Blackbird Ventures operating partner Robyn Denholm has joined the board of Sydney-based healthcare tech start-up Harrison.ai as it moves to scale up its AI-based medical solutions."
+    publishedDateTime: 2023-07-20T06:30:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/tesla-chair-robyn-denholm-joins-australian-ai-startup-harrisonai/news-story/6499c96367a79123aae3c51cbd1a72d8"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
 
 secured: "fnVqstrgC7qxsTCaN70DQHAY+RwKYCCQUbPcMV2S6olYoyaLotFjSIcto7/kJMBImZ4wdk3IhHTOwuk33MdLjzZaCVuXsXtCqEfK1uTKfrpAAHcgda1HUAEHTv65mYj25MNMcjOMzoof2DbivxxLycwiI8HmYby7EgrWgN1kMKIpKjpDEOJ/1JWlIzAmPqCbbvI5visJeHAoRH0UQLUslzjwvZmI6+87lcNCRxt5AQJnNUc49HngQ4jZ957cKriG2KHQzlvH7hZCIoEdIskDik07tRexM4OjTCQo9kxpyZnFcjBrs5BstaYYavgMzHLzikT0OlOWFMJ+HX8NFEvSvZByJesI5GlNYlrygTMVYog=;/jKd9GxuVcHKd3PayJ4NTw=="
 ---

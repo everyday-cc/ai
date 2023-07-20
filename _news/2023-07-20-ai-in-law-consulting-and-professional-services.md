@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-20T04:00:00Z
 originalUrl: "https://www.ft.com/content/d2401cde-cd49-476b-83f0-5647054d9f99"
 webUrl: "https://www.ft.com/content/d2401cde-cd49-476b-83f0-5647054d9f99"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29730386-e3f3-420f-b566-85b8ce49ad79.jpg?source=next-opengraph&fit=scale-down&width=900"
@@ -69,6 +70,6 @@ related:
         height: 229
         isCached: true
 
-secured: "IAltcSae57yiW6W+2lFzMWVYqrdIdQNKUVFsRkXYUjZZG2a8RXWZXi65fEXnnjA650LYTfUZv+1p31dtJfCwfcObIEWhJCtccGFeYEP54Y1Jmnyppfi6PmWvVSLeXDfFK/asthZAiLK5issdygIgoHbIh3MQLEQJVvSKpFSnBt649g9BO6X1Y9hFXf5QeWP2rMxAUA6YH2KaqY4qI58/nKz8a1stvJ7KOZaieosza9RPFHaubZ51Gjv+dK4xigVzj2zn3OC3GBpuNO4M/PbojXhg/uND5hoSuq44x19v3KBXABtGy3IPWV0LBBuKYoUFkUngL6mvrJBLW8/x5Y4fPY4MTKFpgteHMaS+zbAJ3JY=;uXh2LZrKo0N1DP4SPTbhRg=="
+secured: "K/NQQY8UMtb5n6deY0qufTYQ6zXFtTQaIbLQRetOXO3WRzNuAgP5EVZKdre66yXOC1yI/ZdqexAUqUT4Z+wqB9iIhTnTBpW4MROSA+DD0jKcEp+rmptJsYcEg85/01CsE0/1im2Zfl0wPhwpRtlFaNRNxSPa6LvIAVlo9rbsOxxbklWX3ymZZOTAxy76pOl7Bay2CO1NaroB/N19bObef2iPOskMtLwr/6zy6T0dOoSkd9kxVP2apJhFCzic2PLMeV09fuPsY/+kmKu6vF1RGwvIUJlBq5nnECc3i3+A7Mi/DfjArbtuENXPGAyVfYn85Ck/dg+GGt7a3uOmgQhBv8WhpFMQeU9DIPhEuS+PesdNB+BCdkl+TKEE8SLTwMnH9LeOoqsihyl6/AEroxNMSWuTI4GQoblqoJ/CTR/7xrbrrkAsbVmQvYkKg8NsEWrkyg7nkpxCTnzsQIIoJiv7CiZVmHF58G1PLddMJ5OwwHwxmuJpt4qhc3VsntxIipHtwk5pVrkdJZT7Id1LIXpGVQ==;h46e5vd8mYepul28ojxrZQ=="
 ---
 

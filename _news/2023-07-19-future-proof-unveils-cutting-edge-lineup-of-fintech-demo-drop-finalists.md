@@ -168,6 +168,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Women-focused super fintech Verve raises $3 million pre-Series A"
+    excerpt: "Verve Money' launched this week as an ethical investing platform for women, with a minimum 20% investment in climate solutions."
+    publishedDateTime: 2023-07-20T06:40:00Z
+    webUrl: "https://www.startupdaily.net/topic/funding/women-focused-super-fintech-verve-raises-3-million-pre-series-a/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 39
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/09/Alex-Christina-_-Zoe-scaled-e1632536206304.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "FULL TEXT: Q2 2023 Ghana Fintech Report"
     excerpt: "The second edition of the quarterly Fintech Report titled “THE GHANA FINTECH REPORT” has been released. Ghana's Fintech sector has witnessed remarkable growth and innovation in recent years – and as technology continues to redefine financial services,"
     publishedDateTime: 2023-07-17T07:48:00Z

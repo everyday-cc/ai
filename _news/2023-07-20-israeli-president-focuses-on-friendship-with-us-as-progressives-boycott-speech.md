@@ -3,16 +3,16 @@ category: news
 title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
 excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
 publishedDateTime: 2023-07-19T17:46:00Z
-originalUrl: "https://www.knau.org/npr-news/npr-news/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
-webUrl: "https://www.knau.org/npr-news/npr-news/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+originalUrl: "https://www.wmfe.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+webUrl: "https://www.wmfe.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: KNAU Arizona Public Radio
-  domain: knau.org
+  name: WMFE
+  domain: wmfe.org
 
 topics:
   - Natural Language Processing
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0o4ZW9bNz3VTz63DWl3clpGMxDmTllCa1iG77jfaxyNrCww3UiZkDmtb7h2Rvg8J0PeEJW3cQoXmtN8zb7C3WdcAUe3EKaLA2yGj9bS7174BgUk/pUu6ZGFYbtbNsmhfcv2F46kfRL6SU829b1f6LBDDbulhxDUsH/tl59PKwVXLjo67HKHtOkK9wvKzQ+zY84OiC9o6fEOcX7vIriXNNSklNmob7IfhmvvGlgZ8OlvP+QmRExunjEsTDFvj1Y3FjhCjTAStXGBXy0rEekcxislmchLZ5zgInYq5tEZxZfWYJ8VMgQbAddp99EL7WukOP4ddBX2MEesszE7tIv5O2HpWH+zM6zw5yKXgjSjuZ+eSp4zo2ljkPjWYU6HG+YvFEg8Il8BZzXJRt0edc4pEQYNIjKVa+b0XA3mxLtkoI85huviuOdysdrZfomfJktVb7zZG+t1vOwDLG6+x9tUPZUbbTyRY6MhjsLROKlHVPrJuxHn6rfUzLc3H3mvCPvGiCRMBXZ+V+6svRN+E8LV85Q==;E1nYz14jaNpwIFRrxNfTAw=="
+secured: "ZgQ4FurrPma2ND5XNXvmkeoXRJyWtc6gJl7fGsbjfxu2pJiWm0UmdU/T8v95CT1qk1MZKwF8BnY+2j8/YDIO96NhEt7uxI0fwvAZxXuUBrNyCURmhrwJUjLHx2+cfLqtOlZWpoVnoGZ9mpxlq4ifzgItfRiciuXNjGiKCmJ5nbopZ9ApsPYUM72vcSxE+CjNqpAKISJP+ZpFsDV9ZZ0IEyNQwrq4lzxTv9DA5vTnsbZjGrRdKLiXO298oLjVOBPMPNgxHvHpRtH1XmbA5L32HJhWj9Vk/9hNaiPNsoIBicnnM7p2Ldsze05d+ggnu7SN1kYupWkqVfJnf7p82QPokV36AajCRmL3a1/UEtgMMME=;XIA342ljnXYJuWe/YhVpcQ=="
 ---
 

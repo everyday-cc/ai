@@ -174,6 +174,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Women-focused super fintech Verve raises $3 million pre-Series A"
+    excerpt: "Verve Money' launched this week as an ethical investing platform for women, with a minimum 20% investment in climate solutions."
+    publishedDateTime: 2023-07-20T06:40:00Z
+    webUrl: "https://www.startupdaily.net/topic/funding/women-focused-super-fintech-verve-raises-3-million-pre-series-a/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 39
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2021/09/Alex-Christina-_-Zoe-scaled-e1632536206304.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "Egyptian FinTechs & Fintech Galaxy join forces to expand into MENA market"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-18T08:49:00Z

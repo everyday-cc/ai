@@ -1,10 +1,10 @@
 ---
 category: news
 title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
-excerpt: "(Reuters) - Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that ..."
-publishedDateTime: 2023-07-18T12:52:00Z
-originalUrl: "https://www.aol.com/news/mckinsey-partners-startup-cohere-help-120140421.html"
-webUrl: "https://www.aol.com/news/mckinsey-partners-startup-cohere-help-120140421.html"
+excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
+publishedDateTime: 2023-07-18T15:01:00Z
+originalUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
 type: article
 quality: 36
 heat: -1
@@ -62,6 +62,6 @@ related:
       domain: newelectronics.co.uk
     quality: 29
 
-secured: "942b3MK7ZeaxM9E5O42kHB1pQyOYfzUwL/Ve29hxoozJiWY04BRzRMs36SEVYpFkFkRMYhFl+S4jmmB+7JhJ+Ob9HGcdWYfOU+8dBiRRMtHEey+yVTNLY9s+QfLI0/bg+tWmNPZroExnjN5VgPdCfT+k8al0dVhOGeV/xEkD8LYa8TVz7/Mws8ggrD7CQ3JAurCw+q9wKXn7T8O4jjpOneuhQKBHCfyqF52kwLZTNgis1xofM8/sIYrmjPkwmKb/Gz+Hzuw0p/1BI961Fc2qWTkIA6/RMrHY6TYMbCANlX1uc2IG+ExNhd4c74m2WsH/qRN36EF7LYm8tyV47kHUkaSjRequ+MFw/YChJ/p5e7w=;kfE2uPRTdyExjEGc8wuptw=="
+secured: "Rh9kfCEZzNU7UMqieK7g9vk5UzuNODMPD/bys+voCwoQr2rKZc+ohamouM4mk4r+j1BZ6cQRN0UgT+rHJnS9WEjetehevfHoNkTyYeqB85xQqNOP9FUUTdz3DXa+aqvn4OaN2U2QJ9wHXk79HYsp0pxOedZdsXtam6ek7Cxb92OllriBxGJJDg9cMCWbigUxfduoKU923o0ZkWhpIq+ZE6F0iFLcbXpzAGFP6YaMHke4orbtmvYIEPoVo5gRsWIuWHh9RlBhHRjU+SnWCe5Ndkx9AAHZK8S4rDYoioOtdOcgHvMfqX+JPPIrXzDOZjmw601UGw2fRHxGi164UKGdUOBBbYrDlDgmeDpO8Vi/UBE=;SbcOUXd+oEkNFB5mQmlpqg=="
 ---
 
