@@ -514,7 +514,7 @@ related:
   - title: "Microsoft Semantic Kernel will support OpenAI plugins"
     excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
     publishedDateTime: 2023-07-17T05:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/"
+    webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/?fp=2&fpid=1"
     type: article
     provider:
       name: ARN
@@ -752,6 +752,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/f/83/f83c4fd7-50cb-5b94-892d-2b270aeac4f7/64b54d39aa78a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
         width: 1194
         height: 627
+        isCached: true
+  - title: "Microsoft Earnings Forecast & Preview: The MSFT Stock 2023 Rally"
+    excerpt: "Our Microsoft earnings forecast and preview will cover everything from Azure's profit levels to the potential future of the Activision Blizzard merger."
+    publishedDateTime: 2023-07-20T01:54:00Z
+    webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/microsoft-earnings-forecast-preview-msft-stock"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/microsoftearningsbakery_medium.png"
+        width: 768
+        height: 576
         isCached: true
   - title: "Teladoc expands partnership with Microsoft to integrate AI and voice technology into its telehealth platform"
     excerpt: "In an effort to further enhance its telehealth services, Teladoc, the leading telehealth company, has announced an extended collaboration with tech giant"

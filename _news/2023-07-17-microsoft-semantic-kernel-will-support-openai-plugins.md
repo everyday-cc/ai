@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Semantic Kernel will support OpenAI plugins"
 excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
 publishedDateTime: 2023-07-17T05:08:00Z
-originalUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/"
-webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/"
+originalUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/?fp=2&fpid=1"
+webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/?fp=2&fpid=1"
 type: article
 quality: 54
 heat: -1
@@ -744,6 +744,20 @@ related:
         width: 1194
         height: 627
         isCached: true
+  - title: "Microsoft Earnings Forecast & Preview: The MSFT Stock 2023 Rally"
+    excerpt: "Our Microsoft earnings forecast and preview will cover everything from Azure's profit levels to the potential future of the Activision Blizzard merger."
+    publishedDateTime: 2023-07-20T01:54:00Z
+    webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/microsoft-earnings-forecast-preview-msft-stock"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 39
+    images:
+      - url: "https://assets.cmcmarkets.com/images/microsoftearningsbakery_medium.png"
+        width: 768
+        height: 576
+        isCached: true
   - title: "Teladoc expands partnership with Microsoft to integrate AI and voice technology into its telehealth platform"
     excerpt: "In an effort to further enhance its telehealth services, Teladoc, the leading telehealth company, has announced an extended collaboration with tech giant"
     publishedDateTime: 2023-07-18T13:37:00Z
@@ -863,6 +877,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "kn1o0lNnmN75RyLITa/MUSE2d8HYBlW9xmJVx7TekZ4fW2P3vd+X1anJWfIVqGCMT2ZWzKpeVEh77IYgDThBVlHeVhppOL1Pvq1MGBT18sbdRYD5vXav3d58r17rv6NIMV3PhkVAwcib/9PVymFAdv2NA8vyoQ3Unq7GoSehtoJvwgqOvG01aXOy4ZQCGV1z8g+9mUhHYWS2AD/JEkexisyILJCpUH+XSlXLfDbiZrC7JdLF+TAQjeb/zU2N88DLRW1CAyZpPH8ChZD9tirKWP3ql10zuwomUL1iCkrJFgSCST0e8OD3dpVWNSBFw304eS0TBcEe2+5O7L6OZM0ARuYK5T58tOcsg3XL6onGTXILzoKBcxphpNIUkEPp6aGc2w849FrOMolf5tHHdi4tNoX3aNuQNIboB8ZeE3YGEoi71UWgIeV157hH2G+AC2plXI7qPWY1lYm6prJEeZa49AsdHgSNMlh5TlpLh16Ja9Ft7vEE5/7AhcZbtutd444DdXMOpz6u7oHk4LqA+sExLw==;K6zywWxOJdxzZMjBgd9EHA=="
+secured: "vVGQU6DNWM8LKGc/Jmq9VIxxgjTFntDUPMNzpI1welsiTxF4NGIuSeRjFf3xv1Plaz9X0+v0gQcGPk2vCeJKLSu9L549thYK4NIWXnjS+ayDPd+CCb1Pn/s85KjeNqiu1fR516BETziFNAYwXF6v/XOqF3sdzsTMoKFUkTUasGuUEeJorLX1epfZ3z7QhkZSik7iLF/F2ghSn4A9xB1oqM3+7UPM97ih3VuRoT/skPT1xzm7X4Kpvbd3oVYl8+t9YKOlFiAlg8MchfxdxmUUkSX706MCjMzkPKJL8te/ipEBwF3G2fTrfLVZ2p6Zju4cYHr4PLPbc9COBEn7xTHsWLJ13fOllYpbGa336ZFlw0A=;FVpEkR9HMnFBrGh8IdYyDg=="
 ---
 

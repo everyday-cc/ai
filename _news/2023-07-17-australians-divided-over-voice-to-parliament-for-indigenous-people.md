@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna94016"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://images.sbs.com.au/dims4/default/3b06a24/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F22%2F0a%2F3f1821ae4de7a07a2f9374c07003%2F20230705001817462108-original.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "‘Parliament remains supreme’: Albanese says the Voice will be denied veto power over government"
+    excerpt: "In a heated debate, Prime Minister Albanese has confirmed that no reparations or Australia Day date change will happen if The Voice referendum succeeds."
+    publishedDateTime: 2023-07-20T01:02:00Z
+    webUrl: "https://startsat60.com/media/news/politics/parliament-remains-supreme-albanese-says-the-voice-will-be-denied-veto-power-over-government"
+    type: article
+    provider:
+      name: startsat60.com
+      domain: startsat60.com
+    quality: 27
+    images:
+      - url: "https://images.startsat60.com/wp-content/uploads/20230720093634/albo-the-voice-referendum--720x405.jpg"
+        width: 720
+        height: 405
         isCached: true
   - title: "Indigenous Voice to Parliament: Advocate fears low trust in government is hampering Yes campaign"
     excerpt: "Uluru Dialogue member Geoff Scott says a general lack of trust in governments is making the Yes campaign’s task harder but he is hopeful voters will dismiss the ‘political noise’ around the Voice."

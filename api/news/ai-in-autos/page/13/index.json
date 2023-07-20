@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-05-scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go.md",
+      "title": "Scott Reeder | Artificial intelligence daunting but has a ways to go",
+      "excerpt": "Truck drivers may soon face a similar threat as artificial intelligence is perfected and self-driving vehicles become commonplace. I was reading a Wall Street Journal article that said the future of truck stops is imperiled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
+      "originalUrl": "https://www.news-gazette.com/opinion/columns/scott-reeder-artificial-intelligence-daunting-but-has-a-ways-to-go/article_46570be0-2f50-5820-9ca2-19f08d4e46fa.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-05T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News-Gazette",
+        "domain": "news-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-05-ai-could-have-a-7-trillion-impact-in-10-years-here-are-4-top-stocks-to-buy-now.md",
       "title": "AI Could Have a $7 Trillion Impact in 10 Years: Here Are 4 Top Stocks to Buy Now",
       "excerpt": "It estimates that AI could drive a 7% increase in annual global gross domestic product (GDP) over the next 10 years. This translates to an economic impact of close to $7 trillion. As you might expect,",
@@ -1213,49 +1247,6 @@
       "provider": {
         "name": "timesnownews",
         "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-27-robotaxis-in-beijing-open-new-chapter-of-intelligent-transport.md",
-      "title": "Robotaxis in Beijing open new chapter of intelligent transport",
-      "excerpt": "CHINA DAILY Driverless cars ready for hire in suburb ... It then processes and judges through artificial intelligence algorithms to achieve autonomous driving. The robotaxi is also expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202303/27/WS6420dbcea31057c47ebb69ea.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202303/27/642108a1a31057c4b4b7fe1d.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Rise of the robots a lift for Shanghai"
-excerpt: "At Shanghai University of Sport, a table tennis training partner robot is helping players hone their skills. The device has been mass produced in China since 2020, said Ren Jie, deputy dean of the China Table Tennis College."
+excerpt: "Fourier Intelligence unveiled its latest humanoid robot, GR-1, at the sixth World Artificial Intelligence Conference in Shanghai this month. Electric vehicle maker Tesla also exhibited its general-purpose worker droid, Optimus. Tesla CEO Elon Musk has projected the robot will sell for less than $20,000."
 publishedDateTime: 2023-07-19T23:22:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202307/20/WS64b867bda31035260b81761e_2.html"
-webUrl: "https://global.chinadaily.com.cn/a/202307/20/WS64b867bda31035260b81761e_2.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202307/20/WS64b867bda31035260b81761e_4.html"
+webUrl: "https://global.chinadaily.com.cn/a/202307/20/WS64b867bda31035260b81761e_4.html"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "Qc+mg9DdxYttwwUtY6MeTcQqutfOoGK7mRGX8DnEryfK7LDpMemEAYKQ+DXKG2fwYEH6UYhmg5r2ZDixqPa88ekAWc5LwMXibOEQS+W/R7VpEViJQDRjQZwSRmOoLmu/lBy5Sm3pflv/Wy5lrvZ0Muh7W5K8FYE2WEScwDqoVC7Giv965BSZ2to58XXkVr6h6GkdQR4PRbvGhokPi99gJdDLxkPH6+R8fGoD8ROBH8qqPY2xnJqo9NLpL+e9+rsZGwysFuC7E6QwHZxyPGMu/4MgGcYONxjSUN8M5pY76nCJkmn2WJoi2jabijFnFhgkSH08nBWJapw8I9S3q/Ri5zuiiyMJl2qGexpQ94rHA/o=;RyjZLqRgClw2IJQ/3uDfWA=="
+secured: "htc+SkbQrvLf0nDNScxqwbPRXhb2+5gHrcIe+xoQOu0zoObjJ4cGmfyKXoD3PzaR+Nbq6aJTx1GBcJOUEeW6nrdBDKkQUlz8tCVGKHJ0CJobfPwRA7rsSUx5Efxu2mn32bggnrenn4SVM7tYMV/FqCFds8E2RPINjR1j9K6RliIU04aj9URknEFI3qVpjO9DaPRyYY87q+YLTDECoR8Gk6b+2zLMuLpZSYw+95e96GfzV6Q5LQuXbYbpbaqEVMltewX6gEoAp1qoE22IVF7vpQVp468hwrMejklF4HCJ+iVJWKxjlNUIv5WSI168eeNLY9xIN+M5qDXaq7DeF6qITwRdmJKSM4OYSK2hHeslpA4=;3ORJIqzP45R1vm0R4FIuUA=="
 ---
 

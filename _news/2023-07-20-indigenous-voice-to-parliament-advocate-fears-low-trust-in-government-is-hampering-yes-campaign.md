@@ -66,6 +66,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘Parliament remains supreme’: Albanese says the Voice will be denied veto power over government"
+    excerpt: "In a heated debate, Prime Minister Albanese has confirmed that no reparations or Australia Day date change will happen if The Voice referendum succeeds."
+    publishedDateTime: 2023-07-20T01:02:00Z
+    webUrl: "https://startsat60.com/media/news/politics/parliament-remains-supreme-albanese-says-the-voice-will-be-denied-veto-power-over-government"
+    type: article
+    provider:
+      name: startsat60.com
+      domain: startsat60.com
+    quality: 27
+    images:
+      - url: "https://images.startsat60.com/wp-content/uploads/20230720093634/albo-the-voice-referendum--720x405.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Australia news live: Anthony Albanese defends voice in fiery radio encounter with Ben Fordham over referendum"
     excerpt: "Photograph: Dan Himbrechts/AAP The prime minister, Anthony Albanese, has just spoken to Ben Fordham on 2GB Radio about the Indigenous voice referendum. Fordham repeatedly asked about why the government is not proposing constitutional recognition and ..."
     publishedDateTime: 2023-07-19T01:45:00Z

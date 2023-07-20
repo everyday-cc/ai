@@ -2,19 +2,19 @@
 category: news
 title: "Facebook parent Meta to make ChatGPT rival Llama public"
 excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-publishedDateTime: 2023-07-18T22:44:00Z
-originalUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-webUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-ampWebUrl: "https://www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+publishedDateTime: 2023-07-18T23:43:00Z
+originalUrl: "https://www.wjcl.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+webUrl: "https://www.wjcl.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+ampWebUrl: "https://www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: WTAE-TV
-  domain: wtae.com
+  name: WJCL
+  domain: wjcl.com
 
 topics:
   - Facebook AI
@@ -178,6 +178,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SEaIm8sgA+IGP9kL+7AIDSmBD3NyhdlEE7hjY9JhOAHZG5wM6YZMc53NegL/9QWvM4ndwrVSanI9BDHdeLVbvPajVnf7IkebCqbySXGdR85uKIF4dRIzL629LaGQgjIsau4W5z4OGHp5iMQMeleH7TD3FQFR0kmfiMhU0v0E4jucCPfEVxy0cHbVFqzdTzBI9JrnIQ7fkjBzabboTXn2RM4rw5F/gti+yuzwgNh01joGXTQElOf3H7zxVDMq1ARasNzX/CZC7zKrY5ZAzl941RseG5p1GLT6z8hscAwJdtItLpfPCett8k6SoO56Yx5m+YP9yrlmVfmugMBPiJPlhuhBItiwCbuqYTd0PVBFu7iZnZNbB2lFG9b2x+Uj0N3gm0zeArVD0DzV7HO2brnGz1IThvZ9jVtS7X9+mMwOeyxknabga0GZtLK3wiQRZya8NqGWp6EENQ+YkMfDnzeg2PiCSs8DsKIPw5RyId1vgWOeFEn1e4RDqpPrBu3vhADbPF0bt5q9qdQGej8L/v2wUA==;D++j6PqzP7/sqX25CQjW2Q=="
+secured: "1WjPHtDhKzOzVWOE4jrC47koejrt+HaHFij4uF2gU6k+AP2DiF/dIyuTosTH8ImuTIaVVpRupZETLiOEIsWHky10TS8DVpe46yuwuJn92uRBOwejJA1GFNBk+IUXwP2xl7uZjOoZKWabyT7BwYn6RvvnQZ4Sv7EnhNVgYZ0hSpOy2Qga8hyYbu+27H4D98Ikel5tzG8Bpsp7cmUAG4+K+I63nsfJw222BIt/dRnlaAup0AQPupZEBfUAPT5cqOVDVUYTQn/ObLytqRQhFF2PP2NNoEm+38S49wrGFe7laUNSZAZNwu5sWgUSYuLaeYK0NaHMSZqJvTBsl1gDUWIRRrU0WPp8JVQ17W0H18WK2Lg=;WpSyfIhNMR3JS+uh0d+rHA=="
 ---
 

@@ -974,18 +974,27 @@
       "title": "DiamiR Biosciences Partners with JADBio to Utilize Machine Learning in Assay Development",
       "excerpt": "MONMOUTH JUNCTION, N.J. and LOS ANGELES, July 5, 2023 /PRNewswire/ -- DiamiR Biosciences, a developer of innovative non-invasive blood-based diagnostic tests for brain health and other diseases, today announced that it has entered into an agreement with JADBio to utilize its Automated Machine Learning (AutoML) Platform and Services for development of predictive models based on DiamiR's microRNA panels and other factors for risk assessment in Alzheimer's disease and Rett syndrome.",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/07/05/9843362.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/07/05/9843362.htm",
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/05/9843362.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/05/9843362.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/894818/DiamiR_Logo.jpg",
+          "width": 343,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T06:30:00-07:00",
+      "publishedDateTime": "2023-07-05T05:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

@@ -52,6 +52,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 36
+  - title: "‘Parliament remains supreme’: Albanese says the Voice will be denied veto power over government"
+    excerpt: "In a heated debate, Prime Minister Albanese has confirmed that no reparations or Australia Day date change will happen if The Voice referendum succeeds."
+    publishedDateTime: 2023-07-20T01:02:00Z
+    webUrl: "https://startsat60.com/media/news/politics/parliament-remains-supreme-albanese-says-the-voice-will-be-denied-veto-power-over-government"
+    type: article
+    provider:
+      name: startsat60.com
+      domain: startsat60.com
+    quality: 27
+    images:
+      - url: "https://images.startsat60.com/wp-content/uploads/20230720093634/albo-the-voice-referendum--720x405.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Indigenous Voice to Parliament: Advocate fears low trust in government is hampering Yes campaign"
     excerpt: "Uluru Dialogue member Geoff Scott says a general lack of trust in governments is making the Yes campaign’s task harder but he is hopeful voters will dismiss the ‘political noise’ around the Voice."
     publishedDateTime: 2023-07-19T23:45:00Z

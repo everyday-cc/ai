@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-19T22:42:00Z
 originalUrl: "https://www.biometricupdate.com/202307/chatgpt-facial-recognition-potential-makes-openai-nervous"
 webUrl: "https://www.biometricupdate.com/202307/chatgpt-facial-recognition-potential-makes-openai-nervous"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
@@ -42,6 +43,6 @@ related:
         height: 675
         isCached: true
 
-secured: "b/a8AhPTzFgv4yoPgIkW7iM6EsdUt1epbRWn1zQSU4HppIiVB3WSwgZwXW1zm9mB8SD+7au+5IeuBi+aZaoKZvV6udLrC7CbkKJBOTvsuq4r0y+3ak0O600Cs8wtPdqSQWbVcYfg2hbbnmYMQvTdMCOmuHXgVQp8cmsDvuJi1fgXYyYrWpE+o5PHgYnVfK1a99od0lf7LdyIOK2QoxP4b+cMQ7OBUfuACEk8o2LlaSgdCE7M+oKsCcNvjTIoGNqeWTgg88/r6FZkEOb7FRThsPp2d1+HLLCVbez6KuoJc2ssrizF/Vr4xb7tRTX4Hit2f2d3wYZTixa734fuYjBe3JY4Fcs/8M+kKuDidtOM418=;oNjISgUehJVcwq56QNGbdA=="
+secured: "IEGyWmghUjp8KaUdd43OlZ71q4PfKhpqjD0k/CTVizjhKPEPFJ/nxYcy+YqWUu7EjgAweuOSu57OCdpV0ojDViegqy9YTiv1MA2BIhTEG8ux9y4AXFFbgMkT65qTxTiuyuKhfmeiwhnqemCZVwAD3eF0c2gviu8xoHl2F7vBml3qV8vqKVdqoA0cMvxq3C+IdYizwCXhCdAkPYwj0kB2fSHsOgdvSZ7OAPuAXjQL1Iu8p06T9OKqE2GKUW/r5PmbZ/oecIo+sG4vhYDBgRYVnOTJGDWyMvNIEkoLpqU+KFxLWCk2/JxZv5NWl7UBKHgMN8usCb7HzVDeBvMPZqIWBlV6kJ5gOSb9rDP/TDP9huJuohbSeo9HcDgNEEp3YQxRv8O46Vu6ux19X3WAgYNZzW98wfZx22vzD2Z15Z9Eoet4g82l3IuMmLzEz7MqA13s1n5Z7VheERFkZ4XZZ1XAnXfwpNSCmiZWnFz1JUIkHlfn98nGELFxaM53JQMb4fWRlRoxLIrDZSFKIW9FJgqk1A==;krq+qhQqVNq97S4DZRDLPg=="
 ---
 

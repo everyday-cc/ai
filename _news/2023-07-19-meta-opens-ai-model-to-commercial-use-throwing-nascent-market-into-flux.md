@@ -58,14 +58,14 @@ related:
         isCached: true
   - title: "Facebook parent Meta to make ChatGPT rival Llama public"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T22:44:00Z
-    webUrl: "https://www.wtae.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    ampWebUrl: "https://www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    publishedDateTime: 2023-07-18T23:43:00Z
+    webUrl: "https://www.wjcl.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    ampWebUrl: "https://www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
     type: article
     provider:
-      name: WTAE-TV
-      domain: wtae.com
+      name: WJCL
+      domain: wjcl.com
     quality: 44
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"

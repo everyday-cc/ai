@@ -2,109 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-07-17-ai-and-government-transforming-public-services-for-the-digital-age.md",
-      "title": "AI And Government: Transforming Public Services For The Digital Age",
-      "excerpt": "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/",
-      "publishedDateTime": "2023-07-17T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai.md",
-      "title": "How New Rules And Regulations Can Help Create An Ethical Corporate Workspace With The Growth Of AI",
-      "excerpt": "As the growth of AI continues, it is important to ensure that companies prioritize ethical considerations and that technology is utilized diligently and transparently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5eea6576a0bb000007673ddd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/",
-      "publishedDateTime": "2023-07-17T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-07-17-expedia-adds-new-ai-features-to-improve-your-travel-planning-heres-how.md",
       "title": "Expedia adds new AI features to improve your travel planning. Here's how",
       "excerpt": "Starting early next month, this conversational planning feature will also be coming to the Expedia Android app, which will add some new features, including the ability to save recommended activities to a Trip Planner.",
@@ -810,7 +707,7 @@
       "originalUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1059,7 +956,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1199,6 +1096,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-16-quiz-on-ai-how-much-do-you-know-about-artificial-intelligence.md",
+      "title": "Quiz on AI: How Much Do You Know About Artificial Intelligence?",
+      "excerpt": "Artificial intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of human lives. From chatbots to self-driving cars, AI is already being used in a variety of ways. In this quiz, you will be tested on your knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "publishedDateTime": "2023-07-15T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-16-7-blue-chip-stocks-that-ai-is-loving-in-july.md",
       "title": "7 Blue-Chip Stocks That AI Is Loving in July",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right",
@@ -1240,6 +1180,57 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results.md",
+      "title": "3 ways AI is already transcending hype and delivering tangible results",
+      "excerpt": "Tailored recommendations and improved security are just two of the ways AI is already transforming business and society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "originalUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_leading_a_business_meeting._Colorful_futuristic_dbf87c4f-2578-4163-9e44-6f53b705e2ac.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

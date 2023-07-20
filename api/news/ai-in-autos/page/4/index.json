@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-19-keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence.md",
+      "title": "Keeping An Eye On AI: The New Skills Needed To Embrace Artificial Intelligence",
+      "excerpt": "The transformational technology has been hailed as a revolutionary force in science and medicine, but it has widespread applications in business too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64902945286542b0783b3640/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alliancembs/2023/06/19/keeping-an-eye-on-ai-the-new-skills-needed-to-embrace-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-06-19T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-beyond-driverless-trucks-building-infrastructure-for-autonomous-ev-systems.md",
       "title": "Beyond Driverless Trucks: Building Infrastructure for Autonomous EV Systems",
       "excerpt": "Jesse Orrall (he/him/his) is a Senior Video Producer for CNET. He covers future tech, sustainability and the social impact of technology. He is co-host of CNET's \"What The Future\" series and ...",
@@ -1329,58 +1381,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-08-self-driving-waymo-car-kills-dog-amid-increasing-concern-over-robotaxis.md",
-      "title": "Self-driving Waymo car kills dog amid increasing concern over robotaxis",
-      "excerpt": "Collision occurred as canine ran out from behind another car, but autonomous vehicle could not stop in time to avoid contact",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e00f02701042ab5e25107c0616d98bbbf908dad3/0_190_4704_2823/master/4704.jpg?width=620&quality=85&auto=format&fit=max&s=f3e82d73872bffddfbf35a8c1eaa33f8",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/07/waymo-car-kills-dog-self-driving-robotaxi-san-francisco",
-      "publishedDateTime": "2023-06-07T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

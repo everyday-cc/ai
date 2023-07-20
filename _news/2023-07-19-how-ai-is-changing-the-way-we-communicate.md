@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,29 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "Wimbledon 2023: How artificial intelligence is changing tennis"
-    excerpt: "BBC Sport's Liam Loftus takes a look at how artificial intelligence is changing the future of tennis. Follow Wimbledon coverage across, BBC iPlayer, BBC Sounds & the BBC Sport website & app."
-    publishedDateTime: 2023-07-15T08:31:00Z
-    webUrl: "https://www.bbc.com/sport/av/tennis/66183190"
+  - title: "Mundy Cruising predicts how artificial intelligence will change sector"
+    excerpt: "Mundy Cruising and Mundy Adventures have tried to predict how artificial intelligence (AI) will change the cruise sector. The companies, which have published articles discussing developments in ship design, are forecasting significant improvements which will help with fuel efficiency and boost the guest experience."
+    publishedDateTime: 2023-07-17T11:32:00Z
+    webUrl: "https://travelweekly.co.uk/news/travel-agents/mundy-cruising-predicts-how-artificial-intelligence-will-change-sector#!"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
+      name: Travel Weekly
+      domain: travelweekly.co.uk
+    quality: 37
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102D0/production/_130365266_p0g0jf7n.jpg"
-        width: 1024
-        height: 576
+      - url: "https://travelweekly.co.uk/images/cmstw/original/9/4/2/0/d/easid-497238-media-id-41044.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "DAC 2023: AI and hardware talent dominate debate"
-    excerpt: "Industry is concerned about shortage of talent to address the chip design and manufacturing needed to address the explosion in demand for AI."
-    publishedDateTime: 2023-07-18T06:36:00Z
-    webUrl: "https://www.embedded.com/dac-2023-ai-and-hardware-talent-dominate-debate/"
+  - title: "Artificial Intelligence in Mechanical Contracting"
+    excerpt: "Artificial intelligence is dominating headlines around the world. But how practical is it? Can it be integrated into business operations in a way that boosts the bottom line without introducing costly errors? Some companies in the mechanical contracting ..."
+    publishedDateTime: 2023-07-19T15:33:00Z
+    webUrl: "https://www.contractormag.com/technology/article/21269819/artificial-intelligence-in-mechanical-contracting"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 19
+      name: CONTRACTOR
+      domain: contractormag.com
+    quality: 37
+    images:
+      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/07/dreamstime_xxl_48306788.64b7fd4dcb240.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US Communications Commission Hopeful About Artificial Intelligence"
+    excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
+    publishedDateTime: 2023-07-18T19:47:00Z
+    webUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 17
 
 secured: "WJJ6WXANPwP9UOn/KWyR336p/GJLkfgRDQxVhaHShRCRPk2RtCiYj0Bb2SFo+KU5qKrhHJu/aBIZOXoxINP/fcf2cuKpzTS00ga6qE7zwzXKFBtD0mNQ4r1fqCCtD0IMeYbbt/zI+a0pB9K86GhVfagqRIQANe/cquQcUQXMHbFQztWs7IKZJCirQmHmvlaRPS36yZvg7m976tF2QqhG0OAdwY1dMc54JZoGTDDW4TunKBkFy0EpV9BPFBQ1Hz8aoHhra3YQ2iWXHiOpZOdH1X9Bpe4n88ZNFjTkygkttq9I0DVeFEhuazHENnjswZc5tT3Z1jhwRN/P6I6jWR4E6T1eh8NB9CdXyFCwCi4B2+s=;LOmWMH6hD8ank3NT8mvWKQ=="
 ---
