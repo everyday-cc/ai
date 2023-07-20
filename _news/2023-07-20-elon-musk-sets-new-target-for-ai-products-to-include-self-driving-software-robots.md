@@ -103,6 +103,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Elon Musk optimistic on progress for self-driving software, robots"
+    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories. The electric vehicle maker is in early talks with a major automaker to license its full self-driving technology,"
+    publishedDateTime: 2023-07-20T10:04:00Z
+    webUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/"
+    ampWebUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 24
   - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
     excerpt: "One of Tesla’s most notable projects is Full Self-Driving (FSD), which aims to make vehicles completely autonomous. After having worked on the technology for"
     publishedDateTime: 2023-07-16T05:30:00Z
@@ -113,6 +124,6 @@ related:
       domain: inferse.com
     quality: 19
 
-secured: "0oByjYWO/tTSgr9cmW+4Gu8SN854zy4Md9qFFQ7sFMU4xTpLr/4XwBZc07pQqNVkgeTyjZnRN9On0LVMYRO0zY280nM0gocIRNY6zy5Ppxq1FJk35sb1+GoyDGp37/8t7WtT4auKlKYNMZsuZVy6u2pBAV1mLJ9eWYt81lBDrxBQlJTK9wEI8lKHHun1A1cw2n2FJ4IkVqWqXZRYFSc9MzoFyWSMPSHOfXGDFCyzZG8QHWbCcMO1+RcCZk1H36e6ARvQ2osR2dnzuR2Aa2zC342DEY46el8/w7cvjniwhRUhtLC3nksRlf6mYmlmdLuOdi+cY2Zwju7Jev9DfvdPvcp9l05l3DvNjT8w/ucVisU=;d8kjiz82UEyokRNQzAZ4Zw=="
+secured: "XYFvWfoOgi8L6sOnBC4HUks7SPbW25V0X1hSMRAdwUx1wryS9I059llXSt0jbeb0iEAXVJC/HU3pjRjdPpq9q/5vX6LGV0x21HGVtlFdV0JgM8koVIVmJwWREUN7CLJfA/SSVKAwN9NfmmDC+kVjgD3wL9bAob48XLQq07qDkGE0OxTpvuOcqychUpc+qc4ChmO5Dp2DUIvGFvuWvz98HBODZykyhrAiUvTAfN2U0lUOlItUm9Nk19hobDnvEw7oWFUUMS8basLp3ey4k90+GDnRzFVRniZTruhCI7RD0i6XJ6QVmpBi1TTF4VA6JrT/8tlxLe+ITo7Hget7tc//S4LjnHiHeqmACBGwFYpwijH3NtgLGN9ka02WK39xP5OZjY0cOnBzIo8dmG0G0MF4WDMstcUUguG0gQxnqxL7tKCQARk8EdxXcxPKYEf4bWksRVIn34VLw3h9YPDUL2Gi/EYv984PycDl3kbW5RUukvEsjXz2lUzRReeaBPZm99HKM5jj2Z0tqBB4OZQqnboQ9g==;gI1HBYlpTn+fo++UwLZGzA=="
 ---
 

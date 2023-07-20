@@ -53,6 +53,20 @@ related:
         width: 969
         height: 631
         isCached: true
+  - title: "Musk open to price cuts as Tesla bets on self-driving future"
+    excerpt: "Wells Fargo analysts said FSD’s adoption could be impeded by its price, which Musk said was low. At $15,000 per car, the technology is about half the cost of the cheapest Tesla vehicle after a $7,500 federal tax credit. Musk, who on Wednesday called himself “the boy who cried FSD”, said “it is one of the hottest problems ever.”"
+    publishedDateTime: 2023-07-20T11:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/20/musk-open-to-price/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6J0AN-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
     excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
     publishedDateTime: 2023-07-19T07:33:00Z

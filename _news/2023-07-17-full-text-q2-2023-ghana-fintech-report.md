@@ -202,6 +202,15 @@ related:
         width: 770
         height: 513
         isCached: true
+  - title: "One to Buy: Why SOFI Stock Is a Compelling Pick in the Booming Fintech Space"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors have enjoyed a strong year with the Nasdaq Composite Index up 35%,"
+    publishedDateTime: 2023-07-20T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "Egyptian FinTechs & Fintech Galaxy join forces to expand into MENA market"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-07-18T08:49:00Z

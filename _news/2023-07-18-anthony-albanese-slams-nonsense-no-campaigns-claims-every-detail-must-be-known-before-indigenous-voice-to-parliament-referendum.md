@@ -107,6 +107,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese could be on the brink of 'self-inflicted damage' with the Voice to Parliament, says former Labor Minister Graham Richardson"
+    excerpt: "The Voice to Parliament is \"in huge strife\" with Anthony Albanese at risk of \"self-inflicted\" damage to his reputation if the referendum were to go under, says former Labor powerbroker Graham Richardson."
+    publishedDateTime: 2023-07-20T09:53:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 9
+    images:
+      - url: "https://content.api.news/v3/images/bin/b2dbc4601d2a99a0f62719ea3fd00671"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VuYpimcJA1i3zoS4pZ0QBdjzdzYOp+62/avClT88EQi0Qd019Q84c/gwfFIXS1P4fmLOGDcTTj6X66yqr/jRLxwAiU7yOPec7Io/+FT17Y4VDZyEalB52SzAUIUZ7kjwbAYM96yj91SnCH4dEl37D8dqFfJkPKZhuJz5dGlTw6od5h9mRdgGUbiNWt02xuBoqp4AQxEuTijAwxs/kNZEFloioJvaJzG2szeH04Y3oGCeKlBT9sWrS3bleSXVKvd/yin4UQd1ygjZRa7ujT590g0Ki7cSxIZZvtHjehJLn5uzweOxC8CeJdL14Wg5thhDzTiy77G4l8EztXVj5OxH4E1/X0f/Jiymgp1evO28oCk=;EXI9zOp9b9zEp2ExfEM6jQ=="
 ---

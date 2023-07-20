@@ -188,6 +188,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "One to Buy: Why SOFI Stock Is a Compelling Pick in the Booming Fintech Space"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors have enjoyed a strong year with the Nasdaq Composite Index up 35%,"
+    publishedDateTime: 2023-07-20T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "FULL TEXT: Q2 2023 Ghana Fintech Report"
     excerpt: "The second edition of the quarterly Fintech Report titled “THE GHANA FINTECH REPORT” has been released. Ghana's Fintech sector has witnessed remarkable growth and innovation in recent years – and as technology continues to redefine financial services,"
     publishedDateTime: 2023-07-17T07:48:00Z

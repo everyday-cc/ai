@@ -5,10 +5,12 @@ excerpt: "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Li
 publishedDateTime: 2023-07-19T18:50:00Z
 originalUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/"
 webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/"
+ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 104
+heat: 114
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64b815124a54ff7e675b79a0/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 801
+    isCached: true
 
 related:
   - title: "The A-Z of AI: 30 terms you need to understand artificial intelligence"
@@ -37,58 +45,7 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "The secret to enterprise AI success: Make it understandable and trustworthy"
-    excerpt: "Be it healthcare or fintech, companies across sectors are racing to implement ... In the field of healthcare, for instance, AI has the potential to predict clinical outcomes or discover drugs. If a model veers off-track in such scenarios, it could provide ..."
-    publishedDateTime: 2023-07-16T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_interpreting_and_understanding_a_neural_network._Colorf_873eba1a-a1fb-415a-b2fe-e2bc803c07ee.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A simple guide to help you understand AI"
-    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
-    publishedDateTime: 2023-07-18T16:09:00Z
-    webUrl: "https://www.bbc.com/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 49
-  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
-    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
-    publishedDateTime: 2023-07-19T03:30:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "A simple guide to help you understand AI"
-    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
-    publishedDateTime: 2023-07-17T09:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://c.files.bbci.co.uk/12067/production/_130313837_ai_simpleguide_promo-nc.png"
-        width: 976
-        height: 549
-        isCached: true
 
-secured: "tYqcKblQuOHlB+8kqYBiy/O0jnrYkODRH+hEE6ClTbNmsQblJUvX9iZC49rN4CtTHPxj+Amhf+hVjm7nO/bGT02eMtMnOtNoM57WoOrswTDjDzoiXSx8sRzTd5mvibw5VaX0qhQWJPsxmH5mlQvWndYo4tbdU4IYoD8or34KwlTqEHYmdTQ9A44pYokV+RVFqcyAxlnXm0JrZRcqubipA7VRTxgSvme0gqfd3r9SySE+tcp25O0Gvxho29LKDvpybCtEn8a2W6lRDZ1jDuH4lviwpTxZDgYL1jU62SJONHn6kSXEuuO2OGar9RPVaz6DXfphJxLODlgRs5BIvY+GR4Hij5AT6arLHcjw/K5JUjs=;vt+3jIi1Cw81dLgsEVwPMA=="
+secured: "Q9WZipyK1m5/Es5aaAkVcrOLDQOeaBtnQVPAZVpv53Y2BkO1jwcf5nM4MUav4BaJN0skYVoF49L/UcAB+hmKZCCN3cfYbYvJKNcSTp1OCsFGhZdu3QBvZ0S/vwsPLtwIbQxnLAxf9HsgwJR72qAQe7TLteJhziMjXH0AuB20rdc12i0MtedzwkSFK847S00yXQz+DDZkNmxskvsxf+LiK9KaVCwyBkdgSzuoDz9rGYdiZ0Agtcv/9NVHbW4PtKf7Q6M9uXMOhX1ABrLFw08zdfGii7J+L92GARazZvMQaWyhkMhDPG/xaKxK+5O7/aTuHxNz5fnBYAf04SRxdXOw2ymD/XvNs1NXg/2U9DchIHA=;Z+s1qC5riNEw+C3UKbK4Gw=="
 ---
 

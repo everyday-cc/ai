@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/17/state-of-ai-so
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/17/state-of-ai-social-media-twitter-reddit-threads-facebook-instagram-meta-musk-zuckerberg-capitalism"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,38 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Risks Associated With Off-The-Shelf AI Tools—And How To Mitigate Them"
+    excerpt: "In the wrong hands, they could turn into highly potent sources of malicious code—code designed to harm the software or enable security breaches. Employees using generative AI tools could unwittingly make their companies vulnerable to bad actors looking to generate malicious code."
+    publishedDateTime: 2023-07-20T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/612676c88afd1167f5554556/0x0.jpg?format=jpg&crop=2569,1446,x0,y124,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Tools Can Help You Job Hunt—And Quit"
+    excerpt: "The published version of this week’s Forbes Careers newsletter brings the latest news, insights and ideas about the workplace straight to your inbox every Tuesday."
+    publishedDateTime: 2023-07-18T15:52:00Z
+    webUrl: "https://www.forbes.com/sites/emmylucas/2023/07/18/ai-tools-can-help-you-job-hunt-and-quit-severance-pay-and-using-emojis-at-work/?n=@"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6b341e4428bbbf7acbadb/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "GCsDGljn1yHCvC4gI02oHkY7uT5L5HWuWWTG0PYX9MVw0Hixg7poYb6ZEM/R2zPsD0V0/TlGDsSKEzdXzrMPSwThXdXVjvw4ESdgDjhsdCjwwfVTgMSgJ1qqwpk+ywQdzz7vXboerFYxuy/9fu8mNgbe+fTLAI1iM/6yRvxXtq85s0gOLiAnBaaO1SbakceN4fWZjHpktaODk9lsz2JpLOiNTfr9TI6umUdAtCm/rMt9eXT3u0HmBg9+j2EQOUO/Z8NKXIFaAj2REaVGuIialIVi1URcKecBIBTbFOaMCSEmL1CbwgmsqAUJyWpeXGryruTB1S2kwZSYt6eL0o3avY6r0hxj7HDFiiR39kfzPrqcU1e4wWoRXm+DtKPhE/sA9pfp8VdRXU1vcqzO8eWuh+VYAVYprGUQ/bEDlMKVvImN/n0gm47Nk1RoS3Clc5+DWb7pCMe5n24WkWFAAsDn3aUXLArQ9kWSZual1pRdFT7VRYnuWjFIkfry2sCxdsdvx43zit4b5xuYrH/9oPYw/w==;oggU06lIvKpgL3ZZFkhbXg=="
 ---

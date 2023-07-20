@@ -25,66 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "The A-Z of AI: 30 terms you need to understand artificial intelligence"
-    excerpt: "Artificial intelligence is arguably the most important technological development of our time – here are some terms you should know as the world wrestles with this new technology."
-    publishedDateTime: 2023-07-18T13:17:00Z
-    webUrl: "https://www.bbc.com/future/article/20230717-what-you-should-know-about-artificial-intelligence-from-a-z"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 82
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1rbq6.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "The secret to enterprise AI success: Make it understandable and trustworthy"
-    excerpt: "Be it healthcare or fintech, companies across sectors are racing to implement ... In the field of healthcare, for instance, AI has the potential to predict clinical outcomes or discover drugs. If a model veers off-track in such scenarios, it could provide ..."
-    publishedDateTime: 2023-07-16T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_interpreting_and_understanding_a_neural_network._Colorf_873eba1a-a1fb-415a-b2fe-e2bc803c07ee.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks"
-    excerpt: "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance."
-    publishedDateTime: 2023-07-19T18:50:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/"
+  - title: "Generative AI And Solving The 'Blank Page' Problem"
+    excerpt: "As we white-knuckle the early days of generative AI, here’s my viewpoint on where the machine and human value begins and ends."
+    publishedDateTime: 2023-07-20T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "A simple guide to help you understand AI"
-    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
-    publishedDateTime: 2023-07-18T16:09:00Z
-    webUrl: "https://www.bbc.com/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 49
-  - title: "A simple guide to help you understand AI"
-    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
-    publishedDateTime: 2023-07-17T09:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
+    quality: 87
     images:
-      - url: "https://c.files.bbci.co.uk/12067/production/_130313837_ai_simpleguide_promo-nc.png"
-        width: 976
-        height: 549
+      - url: "https://imageio.forbes.com/specials-images/imageserve/649b304e0b8ffa27f33c85e4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "A look at generative AI and its ethical landscape"
+    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
+    publishedDateTime: 2023-07-17T07:00:00Z
+    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
 
 secured: "zwQoYlw6z0H3gS7jN+H06LaGTem4gSPTfK0LOCJqK9IqIPS/ZSOiEjxCBFpEBlCdOjrEr5mWbeTHumM5c9Iq6q1xAIWvlK258ag/MQ9TVXPldnmho/cHcv5tV+kPdGnatOXVTpoxG+hUzPl4sorPj3Qbm7xdV//FyEnskiYa9c7BvktLB7cmh4yYTG45ZxsgYo2IQmijAMu/luyCJDGFWxP589eKh4IvnTQ1SJX0hpI5JY6OKiTUwaevddC4FNB8ntqg98GvWbcPMJwlpANQaefN2NUe2QVUNexjsG97LmUJn3b3hsDAj/vi1LQqm8zkMTSbx7QNB/Sa0KHN/ndHJPWnmf3Dt5nQqbPDJtzfKR8=;qWTSZIH1uaVLNEYieGUjdg=="
 ---

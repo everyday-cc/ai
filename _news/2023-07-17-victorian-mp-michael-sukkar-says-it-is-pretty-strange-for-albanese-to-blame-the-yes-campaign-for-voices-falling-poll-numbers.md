@@ -107,6 +107,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Anthony Albanese could be on the brink of 'self-inflicted damage' with the Voice to Parliament, says former Labor Minister Graham Richardson"
+    excerpt: "The Voice to Parliament is \"in huge strife\" with Anthony Albanese at risk of \"self-inflicted\" damage to his reputation if the referendum were to go under, says former Labor powerbroker Graham Richardson."
+    publishedDateTime: 2023-07-20T09:53:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 9
+    images:
+      - url: "https://content.api.news/v3/images/bin/b2dbc4601d2a99a0f62719ea3fd00671"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "VyZTySyWNHyEkT8ASDfHasP14kq+V414ygO8nTjXQ4/VloojqR3BSNHNGn0hsDgV9W0H3owvU02G9+WHN0eGoetqs+XKAIdqFh8qQvlNGKg7Dcn3g7HmGV51R2jadDNKgYE+TuVyXqDnvgVi8+MyvcwM2hvWGkf2unmpcr+VcRFNg/G5ZhJJGkhphBiftYCDkscjzbwh8sH71f7g8GR6GKAJzwPn2ohfEOBXmGPG/1fsxAp+VcCqlMC1NQg6dZUI/0ysPUAmx2Tufjr6Jtz9OnFtteQPM7M5uPpp79P86RUZQQ6dsaDekyfk6khD/8NYjCmdLcvB+upLgoDENpRf7gvxtJ1Mb+dHyeSv+4bHQsZTbRhNVOjb+VWbOhNktZDoDchMKK7GdQOKZMZyZgAVMPgFhJL19DTx/ZKYbJktgs6/n2MPKeNdZromMNNNL8Da2OUj4ZBIH+mFNBgFYu6m6/uzu44OS6/MneVn75YpH5Y+ntg9lQcEGQIkeyXboDYX2/xt9wLUly0NPHM5raufpA==;iOuQOvDa/NpBW3m0e2o9Nw=="
 ---

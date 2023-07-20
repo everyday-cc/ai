@@ -2,9 +2,9 @@
 category: news
 title: "A generative AI tech startup Wayne Hills Bryant A.I produces Sci-fi film, 'An AI-driven new cinema movie'"
 excerpt: "In collaboration with a multiplex franchise, Wayne Hils is currently reviewing a rollout plan to play AI-generated films at multiplexes. 'Wayne Hills Matrix AI' will create AI-based content in a wide range of fields, including music videos, blockchains, and digital twins, along with movies."
-publishedDateTime: 2023-07-19T21:23:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/19/9851247.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/19/9851247.htm"
+publishedDateTime: 2023-07-19T22:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-generative-ai-tech-startup-wayne-hills-bryant-ai-/2023/07/19/9851247.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-generative-ai-tech-startup-wayne-hills-bryant-ai-/2023/07/19/9851247.htm"
 type: article
 quality: 0
 heat: 0
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "UMv4SfGCg9+CIEhVmdQzDpZtBSMvdlTgTVt4zgWj0guapm1JFaV9/FuagqVSYZVKG3I/KrfcgtmivX/DKqlA0NoQh7Kex1fq7mWOz/lpOKz6M3ytHTHwstmNLblmVBRAZVSPVFwQfZIDOsrcNeHJGdRfNe0v5cLeoIigKXOqsXTQIjw0UKZnzCiv8rVllOW1p4WrHOw9+ZgCtumAtWviRS4e129TGdzFxjRBUc4rIhN9l/hx4Q8of2u+CdgHAkZrNoFZhEBB+9RU3CEzVPPBj02KR98IR8xttTbmW/wYTiWBy3i/4mBAVyvq6gEJ67X3GR2EUih2GfRPR0Z4ZNXwZ1tfNArfMqcROdjGGK5V0SA=;iEN0sQaa9Te9TGpTpSPp6Q=="
+secured: "6dTZS0BAiHAz698gjqjwxvtoP/4rco0sjOu3I22udV3EY290AfGmMRG9m2zQnknMhNxxsH5Pw3r8TBVIeYdr6PQRYU08O4UfoSyi89ll/7xcwJIey21z8BTbbEkTRVRNJv31ZgR8UhRiwU+m/+dmVtLby3OG4+cVn9gBkAhbtbqrf8yYaff6Gu8CD+VRvx+MVWr4Hh6qzYW7xZ1dcRq/di2iA3ZcjEevxQI89CLcADzx5cJ+14CrqGmpMpO3HYn9O10QjzSVmarDc9legm8TRSkEpMSQzR/IyxJIJ7A0HjpcCHm5iOCeT0UMWTgHbWgWlqeJkkTaso+QulXFMUdsFz8pmkRMzawqZPYXrFxL4PQ=;tYGxPHbTUt24IHz0WNj2dQ=="
 ---
 

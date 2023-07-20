@@ -32,8 +32,8 @@ images:
 related:
   - title: "Authors call for AI companies to stop using their work without consent"
     excerpt: "Margaret Atwood, Viet Thanh Nguyen and 8,000 others have signed an open letter asking that permission is obtained and compensation given when a writer’s work is used by AI"
-    publishedDateTime: 2023-07-20T07:37:00Z
-    webUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
+    publishedDateTime: 2023-07-20T08:12:00Z
+    webUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
     type: article

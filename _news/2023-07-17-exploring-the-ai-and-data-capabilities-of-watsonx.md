@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of
 webUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/"
 type: article
 quality: 114
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "Empowering Data Analytics: Unleashing the Potential of Machine Learning and AI"
+    excerpt: "In today’s data-driven world, businesses are constantly seeking innovative ways to leverage the vast amounts of information they collect. Traditional data analytics tools are often limited in their ab"
+    publishedDateTime: 2023-07-20T10:01:00Z
+    webUrl: "https://www.pcquest.com/empowering-data-analytics-unleashing-the-potential-of-machine-learning-and-ai/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 30
 
 secured: "KIipngv6vhUaoohg3fFGhVmHQdjKq6x+eb5C7HolpRlX/6XjJwgIssdWUUaNa1jXZCe0iIk+G67z4C2tQdXOWFnfQVhmAriKVaMFJ26DhNxpMm4GLHQh4VmbFQFgZNajfvr5dmm8rM7eTL0UbSZp13faVS853AMZCD4Bj2+mNM4JQF4hUZxQiWfIaD2/DQtO8cF2ajgykasswh98Hnp7Tpcf8aEhDsxT9d1uxrV2tCgfYvJfgfCU0BzTOHBdGT9+ytDoZJP3Vr8TcNhZfZ7ebnl86NrOl7H1GoqYOXaGkVGuTvgsRsADrAQXBCSYsiODGY7tug3e8rMYMFZYJDfiWk+d6omrf1hY+bG+jrvOQMo=;eybxzHRCI046/n70pEnPiw=="
 ---

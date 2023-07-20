@@ -1,25 +1,27 @@
 ---
 category: news
-title: "IBM Mulls Using Its Own AI Chip in New Cloud Service to Lower Costs"
+title: "IBM mulls using its own AI chip in new cloud service to lower costs"
 excerpt: "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction."
-publishedDateTime: 2023-07-11T23:57:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs"
-webUrl: "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs"
+publishedDateTime: 2023-07-12T06:33:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - IBM AI
   - AI
   - AI Hardware
 
-secured: "m/2jqQUr81FTnB622tCxXNqPeoUonXqh9m7gYwjKElvRnKXtgAdM9qFn85GSY2xaYAS3y6c94KRFdq5N9pE/nhQxkj0PAAJU1E9tCOOCtqh24OYGhNErmy/+/PtNVFCKQRSrTkSyDmc6dute+RkN5X2n9YxQYj03CrTbO58DKrx4DPvgXE4BordPDxdGZDOrmZIY/YqDWhpIE+1F/AG0mO3Y9JSfiFrtSHG4/r0jKxIXAYALcNn5Cw/VM98JLv/X2FLT3P1Gbiqz/SUZwlZv0WdRA071+U+GzuymZkV9ubcEoBYueX7M/ZHu9XzY5LuN3riRRGTC4Dus16fdjw7GVFAwz0Hkkkwb/koo6UY7pUQ=;PFCsrdWjJCHLjZfjUc8heg=="
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-101684996,imgsize-34314,width-1200,height=765,overlay-etcio/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.jpg"
+    width: 1200
+    height: 765
+    isCached: true
+
+secured: "v5qDarckIt/EpLBcHfR4ypXSh7WqCnuMaVsEou9LHWQSIgxruLCFjEw3R4ZVyXFUYY5sxQp+C3Xd5NYze02yUot+lUHRTb7UHCOwugdgUrGBHRDoYnwsk8VG0KnKn/bRcqAT+EfNhPdyR2z3RM3+zvy5IZDUaGE6c+EmsW/RsWkRMmztZBS2V/6s0rs6KO9ZEOKRi6vp7iSWcuOZk0i9y7wqqtxV3TlkZBJAh+ibMop3Z5mEOfzSk99l2icqO6fjSMlHhAEboQjsAZxVovnS5yzp/8fQeTfhThd7w4NjlHcgU0KYShoS2sN2tKAttNzGP0iLzQ75fA5jPfTdGrzVuCkrXCrIkpLXyAPIyuJcGrY=;bU0rft0peXuEwSnI1pTNbw=="
 ---
 

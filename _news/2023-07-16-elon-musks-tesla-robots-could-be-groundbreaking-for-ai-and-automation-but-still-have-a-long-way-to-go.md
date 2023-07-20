@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -107,6 +107,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Elon Musk optimistic on progress for self-driving software, robots"
+    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories. The electric vehicle maker is in early talks with a major automaker to license its full self-driving technology,"
+    publishedDateTime: 2023-07-20T10:04:00Z
+    webUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/"
+    ampWebUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 24
   - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
     excerpt: "One of Tesla’s most notable projects is Full Self-Driving (FSD), which aims to make vehicles completely autonomous. After having worked on the technology for"
     publishedDateTime: 2023-07-16T05:30:00Z

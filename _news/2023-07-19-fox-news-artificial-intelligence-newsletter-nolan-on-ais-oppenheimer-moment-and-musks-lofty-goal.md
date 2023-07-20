@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsle
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689519574491_mtp_clip_nolanai_230716_1920x1080-pmkgsh.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Will AI news presenters take over the newsroom?"
+    excerpt: "Since the debut of the country's first-ever artificial intelligence news presenter named 'Aparajita', there has been a raging debate regarding whether AI news presenters will take over the job of human news presenters in Bangladesh."
+    publishedDateTime: 2023-07-20T10:59:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/will-ai-news-presenters-take-over-the-newsroom-3374106"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/ai-news-presenters-what-they-mean-the-future-newsroom-3374106?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/ai-news-presenters-what-they-mean-the-future-newsroom-3374106?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/20/ai_news_presenters.png?itok=Sd6kkX_P"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "uXWXxQr1x+xKSLqsq7CsbFCFzix4QCC9SCV1GDzrKWObJCtrWPlYB8NvWfIE5Nt6WJDcyVy3Ew/lMNln7eHTbRaBmmQwRQyuwO4q3vrRmWNEmNp7VbQ7KwXA3GC4xYqHvadFDGqqjmCfY2jLNwLCA9VpQKh99zMIXmSd3huODHrN2bhqfZCJb9fT6gamYZHYlP/lC2HoOt4eK+VkxAsYFREImYVRCFlvYkhOqFBAJB/q6D9RkOxS1AMmqyMLgqTShFimFNS0YjpV32echxs7VLcB8JVabE3v7Z7/OeBzuzTc9TjDg8ndCQhHeGsWkZh1bqpZWmefXcNq1BBsW3G6QbqetZwqDZF/1mfiuhsUjhyCPodSfyY2CzOJj/eJdNLoJtDAnQ99VNlutaskpLni+RCstLhOx1BAHNjyV0QK5mv4e4h4O+0WlJQxIbCag4q+ZA3Av3hLBwHcrD/mgp7RxC0sRtYS6J7IojQpKNqDJB2kIdfshY73IhYBVaSgNaCwSQBAA7oJFFdSkDVSegxPIA==;DcFEiNS3vXkF4Ec8HuL0VA=="

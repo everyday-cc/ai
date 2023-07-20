@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 825
         isCached: true
+  - title: "Why Generative AI Won’t Disrupt Books"
+    excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
+    publishedDateTime: 2023-07-20T10:00:00Z
+    webUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/"
+    ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/64af1b17da92561daff93c98/master/pass/FOE2.jpg"
+        width: 2600
+        height: 1350
+        isCached: true
   - title: "Use Generative AI To Design Now — It’s The Beginning Of A Major Transformation"
     excerpt: "Don’t make the mistake of thinking generative AI’s impact on design is about image services. Images have always been just the visible tip of the design iceberg."
     publishedDateTime: 2023-07-19T14:30:00Z
@@ -109,6 +125,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How to Get Your Company Started With Generative AI"
+    excerpt: "The first step in building your own generative AI is to decide why and how you want to do it. For businesses, the why could be to an ambitious goal, such as becoming the most productive company in your industry or to take over its leading market share."
+    publishedDateTime: 2023-07-20T10:58:00Z
+    webUrl: "https://www.inc.com/peter-cohan/how-to-get-your-company-started-with-generative-ai.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1498363310_532681_ujml84.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "China unveils provisional rules for generative AI, including a licensing regime"
     excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
     publishedDateTime: 2023-07-17T03:56:00Z

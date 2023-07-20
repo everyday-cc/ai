@@ -2,9 +2,9 @@
 category: news
 title: "Authors call for AI companies to stop using their work without consent"
 excerpt: "Margaret Atwood, Viet Thanh Nguyen and 8,000 others have signed an open letter asking that permission is obtained and compensation given when a writer’s work is used by AI"
-publishedDateTime: 2023-07-20T07:37:00Z
-originalUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
-webUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
+publishedDateTime: 2023-07-20T08:12:00Z
+originalUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qtqTs7AC1R36LV44Oo3ZO1dDqRp/wfrMjNgGkEahxAwmGT/5KfihlVYP7dQX0ECVFPZH9usXXOG5DUZxn9bRL4ME7KyYNoVDMKdsYaUZz69NbbvCCjQR0Lb07kqxSs3eFtsfPOQm2IZXTel1I4mWJD3TzvaQwAQ23RtjniCGYEel8cEHa8Qc7VwmypcOQsQ32vI7jmPSVr3ZoBPdf/8mG5vKWZDc32eklP7erxkV8TD9XY+d53uBRuQvSE/n3kv4gIA2KnLfcwCVQC0xn1ci+D6ECqksR9d15d5it1TqgXRdG8jlvaHaSKksVS2z7RUZPvlAS30qO4CQAbAmphAqM2m9gWXLcFkvSey20i2H/+4=;oU936+Xb5syOXju780hg0g=="
+secured: "zdmEeUwdehQN63yrZCDvvXaS+4WQPOdlAEzcjsK4kdNkAtnLCidm6WRhX3Psx4ekIBIEDFd1BgReMXBttIJDLu7P21ihAbZ18ykUJj8k7XaTDotuAYgrUbfvWxcA2tPWq+ttM2kLXlvQKSmPYCUn5sR7XD7gXYfl4cHm5O0Oo7KoKNeCYpToytmQ5bUXPXzln1rFYZqvXUJkELWYyglak41MpRp5HFOmX+eXIhPulW8Ho8GTfq9XYVcDjUBZ/yaU5L87osXDMFBvlMZhEk9oiRTl9ilsmsO8QB26NG7u2hUshSjztr9ZI5SYeTEDiKiGUkmTHy5/1wdbqLIQmrGLpAg5/MBEvnkbMP+TkqAHYxU=;f3w7nVZ9FKHtZgkV3aV5+A=="
 ---
 

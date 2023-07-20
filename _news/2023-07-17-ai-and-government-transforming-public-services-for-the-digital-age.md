@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-gov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 671
         isCached: true
-  - title: "The Evolving Battle Between Social Media and the Government"
-    excerpt: "A recent court ruling dramatically curtails the federal bureaucracy’s ability to communicate with Internet platforms. What’s at stake when free speech harms the public?"
-    publishedDateTime: 2023-07-15T17:26:00Z
-    webUrl: "https://www.newyorker.com/news/q-and-a/the-evolving-free-speech-battle-between-social-media-and-the-government"
-    type: article
-    provider:
-      name: The New Yorker
-      domain: newyorker.com
-    quality: 4
 
 secured: "wL9zETmpHGtL5JBK6WWacfOCKUJMtLQwmZVnMMJzTsIogfLJpMXOhNUOMMzw2WbmeGys6Fgeq8pKhSAf4zva7QWsxcV3ZJgHhBwxm3L5CnJtwKl+F2T9MmKPaVIiquRsBVpCYRFg6+OGMKi/XUMr2QZaeN4X0Lxn3xwoFwUl4Y6mso2dEEZF7OKulaVLne8ceAwgYNBA8rklqt6SHCPes1IzxNGwLGbmFmp5wkz8txeGxivBmWWS7v08nYAqvj0NjqR3XKr5q0qwoRulCnDLBnyzhqv8CdqDzDD93T9sE/kjC38rj18TL5KWkRedJTi5NvWqMRULXD3/6PLrSZ1pkiLiw5GSq8l9n3gZJGBch5iLTP191yDQzXMyvyB7KVmTYRHUeS1flCxh///RPS3RVpebgNgk96tpBX+1LS8rGccD3p7MkqbZY6l0cJ40V4e3g7dz9x4PPXEOLyQcocvtYHc7RDbc+FAMSRilkkIlKaJ+/0obSO1kw+a7WCPFTWsINB3Et2nUR+U5YcdP0lzP2A==;52uQR7fawI0Fn4nB6JHbiQ=="
 ---

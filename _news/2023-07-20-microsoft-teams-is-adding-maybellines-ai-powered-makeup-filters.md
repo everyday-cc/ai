@@ -674,6 +674,17 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Capgemini and Microsoft Launch Azure Intelligent App Factory for Accelerated Generative AI Implementations"
+    excerpt: "Capgemini and Microsoft have collaborated to create the Azure Intelligent App Factory, a solution aimed at enabling organizations to scale respon"
+    publishedDateTime: 2023-07-20T10:31:00Z
+    webUrl: "https://news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/"
+    ampWebUrl: "https://news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/?amp"
+    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/?amp"
+    type: article
+    provider:
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 51
   - title: "Microsoft builds on the cloud journey with Azure migration and cloud-native tools"
     excerpt: "To provide enterprise businesses the tools needed to give them a leg up when migrating to the cloud, Microsoft Corp. today announced two new Azure offerings during Microsoft Inspire 2023, “Azure Migrate and Modernize” and “Azure Innovate,"
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -941,15 +952,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 27
-  - title: "Microsoft's Annual Ability Summit: Exploring the technology, people … – Microsoft"
-    excerpt: "Microsoft Chief Accessibility Officer Today, we kick off the 13 th annual Microsoft Ability Summit, a day dedicated to the conversations that w"
-    publishedDateTime: 2023-07-15T17:21:00Z
-    webUrl: "https://www.inferse.com/616214/microsofts-annual-ability-summit-exploring-the-technology-people-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "dVgttp3A7U6dz/jRTxGrBiD5JLiGlND9CuccuoiR2bpJ+PVHsdkUWLJah7nH42Gm6rmvPpdU520Wu25fLqUODF0RMPysELlw25PFjLc3zSp/r/cTN0zbdtPZH9wscAqv6d8/KtPoL6BMrTOh1Z/SWK0WCsl1uJ/cskYOLNYy0RwPVUrwkow4S4c89baswnZPnot3gz7lGRLI2GU6NLg5fqKoCTcCvLx5sp/CBLZxmDIA4JJTtK2wje0cb6XwDP50vJeDJmlUG1Om1l4ZTPugV18MyD+8o9BOlib7Q4wpw/M21t7e3gqu4B9NZuqmynMS3vhAxSXU4agVl99feqNNWCF/rwNxF/JH9kfJGWJYeElpIPuiUl9+hirQI4WbKHJY/seo2PE8vdo1IXKd/qa4hCWqYeUnNe7VuioOh9PeYJ5Zvzr66DuFo5dKZt5UNeg7j6+rmnxnwtX89vJZ95Ts/a1CCE1ZTGxIUDX/hA9OPxBITWTFWuuApM+RkJOOoLFmZDUc9Qyv7ELOrcZ2CX9/+g==;Pg+ax+xEDYeN+52axxMrxg=="
 ---

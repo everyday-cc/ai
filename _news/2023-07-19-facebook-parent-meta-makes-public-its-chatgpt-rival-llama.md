@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-19T13:00:00Z
 originalUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
 webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
@@ -178,6 +179,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NAA2gYZxL+Wv5zlBmf2nDgM6ofVOGsIBXSBfVEguBwhXKUTZk4A0h6LNcqEtEtFKsZArUvEAQzwTbuqb9AydOSIs/3zh91k42fDsHuJxkiVV5O6Rx9XBTLoIqDHZ2ij6zpIbG5VY/+kc2Cyi5vNonlyYIAMuOAep1g9f3KxFlYQv1PyVr2G2Cp7PuSxlpZXx4EDf7JJTgLug+Ay1YJqE8h2wDoXWjIDbrlmNmla28jjyv+xXa7u8bWYA4nHIPUvSwEDv0yS31/Uxe6plNsfCFvscvVuC+JLrUjUHUvXBOvmpsogBbfeZfdk8p8yy0UZjiX4swhWOZMMsgtjrSfSUAHpxHAckHnJGIa4Gvh9hN90=;OUsQgUDCh+KzIHaWg5izAw=="
+secured: "lr6F5FVQ+kP4oUcQzTwrCvHZ1mfBhwq/D5/6uwxStUhFCGR00y4UT3lvDozu6t+jYacMTXrNJ5PKMXtFJ0yWJo3c9TmBKvMAxcrCYNaC39WGS+KRliXMA0MX5izO0Yrc3lyBpd+7Ou4xVfNeipT/J1tdJEJaDi8BhvGOsvjw2dPBqDkfMpzjh/tCmfNr2bwvWYDJFEkPg7IvQdCUb7Wo+LFerz4S3wULZrjWKGiTZ3QDRSXAezGc4VEaYBdf4MlndhzBVme1Y2s5ovjNYF3lX4pOFMhbkw1hCdHjW7kRNarj+oDEh1fRGRUhWz+bnGknmmqd6L7tvz5idKfBmJ7iV74NDer+MmsN4JjvKbG4wlkjNhvDMmLoEcIMO6wrmfI3k6Qp913rtEs8hQYJxB5Xc9KHzw5RgON8C+I0JNWToK4PnJLLuRHCvqTyCumAR6L2CjBrgJEaYGT9OYBFAYeSBFDPW9y159imHxr6SIN+5e6ZLQuCw1gaM6Hqkh6Ri5KhIk4KZBY8nLQ/6dl3Y1mBOg==;1WmzfUaM/UR7pSiu/2M2bw=="
 ---
 

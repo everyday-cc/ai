@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/future/article/20230717-what-you-should-know-a
 webUrl: "https://www.bbc.com/future/article/20230717-what-you-should-know-about-artificial-intelligence-from-a-z"
 type: article
 quality: 82
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -28,65 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "The secret to enterprise AI success: Make it understandable and trustworthy"
-    excerpt: "Be it healthcare or fintech, companies across sectors are racing to implement ... In the field of healthcare, for instance, AI has the potential to predict clinical outcomes or discover drugs. If a model veers off-track in such scenarios, it could provide ..."
-    publishedDateTime: 2023-07-16T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-secret-to-enterprise-ai-success-make-it-understandable-and-trustworthy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_interpreting_and_understanding_a_neural_network._Colorf_873eba1a-a1fb-415a-b2fe-e2bc803c07ee.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks"
     excerpt: "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance."
     publishedDateTime: 2023-07-19T18:50:00Z
     webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "A simple guide to help you understand AI"
-    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
-    publishedDateTime: 2023-07-18T16:09:00Z
-    webUrl: "https://www.bbc.com/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 49
-  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
-    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
-    publishedDateTime: 2023-07-19T03:30:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
+    quality: 104
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "A simple guide to help you understand AI"
-    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
-    publishedDateTime: 2023-07-17T09:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://c.files.bbci.co.uk/12067/production/_130313837_ai_simpleguide_promo-nc.png"
-        width: 976
-        height: 549
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b815124a54ff7e675b79a0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
 
 secured: "6KH2Q3CA8JJYNsnxNaceK1kCMYvBdFHfQR6QoGr9qLzHXlGm81U/tuOvdinBYmpYJkdJZjDTKtz0kHeGtbNTYpvLsACg6RGDknP9E47laBKIS2QeYS7TEsVkk5PFnfpy7AVI1aq96px27nDvRm5Vv+EBzSXMejj1hdqEfivMW684Ofo6i8qMXlBfyKUWgbsfXHJsXSXH9wln8WLGIJXBnEUs/nSg6HmZvvLCCIbmkh8XtShT+GzvmhwzeDBiG2wH2nXbtSC9OVWi53536sIyu/3FGlQraXhcF/pnRGKZ+saAsYVMotwBlMyqvCyQesbYI+ntlDqRqbaJMQ90mwjbycIPNpm1dc/KYuYN3/8CtcNq3S/a0XlCX7uRAaStYjh/SFnXSeoNjvSKvbHnTXp3flPhziILNavR1Nz+V9WYuZ13nXTqLcZc4/rDmhirL8p6DBvwYK0NX8Cs/Lz96HM0ndcAwHNnEXMWtOIAPvluDxX9jAj07xl55lm7hFIdrGEXjdIcYQLAeYZUW9gkndX/SQ==;aTrkiNATP5Bv1Ga+IOt+rQ=="

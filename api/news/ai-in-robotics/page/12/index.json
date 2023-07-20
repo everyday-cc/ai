@@ -2,49 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-04-28-mechatronics-blended-engineering-for-the-robotic-future.md",
-      "title": "Mechatronics: Blended Engineering for the Robotic Future",
-      "excerpt": "The term was coined in 1971 by Tetsuro Mori, an engineer at robotics company, Yaskawa Electric Corp. He combined the words \"mechanical\" and \"electronic\" to describe the electronic control systems that Yaskawa was building for mechanical factory equipment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/mechatronics-blended-engineering-robotic-future",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/mechatronics-blended-engineering-robotic-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ABB%20robot.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-28-first-babies-conceived-using-playstation-controlled-robot-are-born.md",
       "title": "First babies conceived using PlayStation-controlled robot are born",
       "excerpt": "the student mechanical engineer who controlled the sperm-injecting device, told MIT Technology Review. The robot was developed by Overture Life, a company that’s working towards automating in ...",
@@ -1307,6 +1264,49 @@
       "provider": {
         "name": "Breaking Defense",
         "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-houston-community-college-to-offer-1st-4-year-bachelors-programs-starting-this-fall.md",
+      "title": "Houston Community College to offer 1st 4-year bachelor's programs starting this fall",
+      "excerpt": "The new four-year programs are Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management. \"We are continually exploring ways to provide relevant ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "originalUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13149941_041823-ktrk-hcc-generic-tn-img.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "publishedDateTime": "2023-04-18T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc13",
+        "domain": "abc13.com",
         "images": null,
         "publishers": null,
         "authors": null
