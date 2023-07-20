@@ -37,6 +37,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Efficiently train, tune, and deploy custom ensembles using Amazon SageMaker"
+    excerpt: "Artificial intelligence (AI) has become an important and popular topic in the technology community. As AI has evolved, we have seen different types of machine learning (ML) models emerge. One approach, known as ensemble modeling, has been rapidly gaining traction among data scientists and practitioners."
+    publishedDateTime: 2023-07-20T16:12:14Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/train-tune-deploy-custom-ensembles-sagemaker.png"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Llama 2 foundation models from Meta are now available in Amazon SageMaker JumpStart"
     excerpt: "Today, we are excited to announce that Llama 2 foundation models developed by Meta are available for customers through Amazon SageMaker JumpStart. The Llama 2 family of large language models (LLMs) is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to"
     publishedDateTime: 2023-07-18T16:01:34Z
@@ -64,6 +78,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/12/ML-14808-image001.png"
         width: 931
         height: 411
+        isCached: true
+  - title: "Enel automates large-scale power grid asset management and anomaly detection using Amazon SageMaker"
+    excerpt: "This is a guest post by Mario Namtao Shianti Larcher, Head of Computer Vision at Enel. Enel, which started as Italy’s national entity for electricity, is today a multinational company present in 32 countries and the first private network operator in the world with 74 million users. It is also recognized"
+    publishedDateTime: 2023-07-20T17:59:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enel-automates-large-scale-power-grid-asset-management-and-anomaly-detection-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/enel-power-grid-management-sagemaker.jpg"
+        width: 1022
+        height: 513
         isCached: true
 
 secured: "qxCRwNLprYffBlY7NDFzzqZNJpEjhZ25o4E2UAZ/a7suzz96ENDkMbU7r8bsiGLEJMowKLYq4xCqVLwv6K5HhQRQVK4T3milOHgThpdJa9H0mVGBV37R/GcZjRT9Abc5V+3sEZ2fTRox5YJt5u9okGkTgZe0j7j0oVc7XW37ad1Ud9Vn7im27qk0BQgwNH8p8UA1mxUACeu50pVYQrRZZPSVDNgqx/4U+EYDl07+Wt03BykkWjPQBmuAAdKEIST0S65d3TBUtB9Qmn2cpGN7W2DwymsHkOkKxvdHl/lLmtApfD3NxgsLTVMLeomXXgXtOqak7rMY5i5eZx5KEmlpNI93RUFc8wLmbBB5FBx2IEc=;+VG2Lchnr1SHLNnNan6B1w=="

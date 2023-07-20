@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-19-james-patterson-margaret-atwood-and-8000-other-authors-want-ai-companies-to-pay-them-for-using-their-works.md",
+      "title": "James Patterson, Margaret Atwood, and 8,000 other authors want AI companies to pay them for using their works",
+      "excerpt": "\"Generative AI threatens to damage our profession by flooding the market with mediocre, machine-written books, stories, and journalism based on our work,\" the letter reads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7",
+      "originalUrl": "https://www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64b750641ccd1e00198ab8f5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7?amp",
+      "publishedDateTime": "2023-07-18T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai.md",
+      "title": "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI",
+      "excerpt": "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "publishedDateTime": "2023-07-18T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-james-cameron-on-deep-sea-exploration-artificial-intelligence.md",
       "title": "James Cameron on deep sea exploration, artificial intelligence",
       "excerpt": "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ...",
@@ -355,7 +458,7 @@
       "originalUrl": "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -457,7 +560,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-email-spam-detector-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -509,7 +612,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -792,7 +895,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 849,
+      "heat": 859,
       "tags": null,
       "images": [
         {
@@ -998,7 +1101,7 @@
       "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1144,92 +1247,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
-      "title": "Medifakt: Empowering healthcare through decentralized blockchain technology",
-      "excerpt": "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
-      "originalUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
-      "publishedDateTime": "2023-07-18T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-figure-humanoid-robotics-receives-investment-from-intel.md",
-      "title": "Figure humanoid robotics receives investment from Intel",
-      "excerpt": "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "originalUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg",
-          "width": 700,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

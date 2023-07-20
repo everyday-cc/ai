@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-07-20T17:21:00Z
+    webUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Labour outlines law to ban training AI chatbot to spread terror"
     excerpt: "Training AI to incite violence or radicalise the vulnerable would become an offence under a Labour government. Labour's Yvette Cooper said current laws were not fit for purpose in the face of emerging cyber threats."
     publishedDateTime: 2023-07-17T20:00:00Z

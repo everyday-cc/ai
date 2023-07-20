@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-
 webUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI tool creates South Park episodes with user in starring role"
+    excerpt: "Episodes can feature a character based on user’s own looks and voice – but tool will not be released to public"
+    publishedDateTime: 2023-07-20T16:30:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/60d06818e36c7cc749203692450059b02a34ec9f/120_0_3560_2138/master/3560.jpg?width=620&quality=85&auto=format&fit=max&s=a96acd3299865980f6b21bc92b19067f"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI grabs \"South Park\" director's chair"
     excerpt: "Why it matters: Despite the trend, House Republicans are slamming Homeland Security Secretary Alejandro Mayorkas for \"dereliction of duty\" at the border in a 111-page report released Wednesday — teeing-up a long-anticipated impeachment inquiry."
     publishedDateTime: 2023-07-20T09:39:00Z

@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
+      "title": "Medifakt: Empowering healthcare through decentralized blockchain technology",
+      "excerpt": "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
+      "originalUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
+      "publishedDateTime": "2023-07-18T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-figure-humanoid-robotics-receives-investment-from-intel.md",
+      "title": "Figure humanoid robotics receives investment from Intel",
+      "excerpt": "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
+      "originalUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg",
+          "width": 700,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-the-state-of-cloud-data-security-in-2023.md",
       "title": "The State Of Cloud Data Security In 2023",
       "excerpt": "Explore the rising trend of cloud adoption and the need for robust security measures in 2023. Dive into key challenges, solutions, and the future of cloud security.",
@@ -434,7 +520,7 @@
       "originalUrl": "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -530,7 +616,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -832,7 +918,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -1112,110 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-the-ai-boom-is-screwing-over-gen-z.md",
-      "title": "The AI boom is screwing over Gen Z",
-      "excerpt": "ChatGPT is commandeering the tasks that young employees rely on to advance their careers. That's going to crush Gen Z's career path.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7",
-      "originalUrl": "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b03b8fc22d1a0019455239?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp",
-      "publishedDateTime": "2023-07-17T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-insight-race-towards-autonomous-ai-agents-grips-silicon-valley.md",
-      "title": "Insight: Race towards 'autonomous' AI agents grips Silicon Valley",
-      "excerpt": "Around a decade after virtual assistants like Siri and Alexa burst onto the scene, a new wave of AI helpers with greater autonomy is raising the stakes, powered by the latest version of the technology behind ChatGPT and its rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
-      "originalUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/I_m9gUSg6uTZa5qV4o8YNwmzPFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZK72INQPZIQ3N7ZMVCVJPJQJQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

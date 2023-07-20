@@ -89,6 +89,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Elon Musk Touts ‘Quasi-Infinite Demand’ for Tesla’s Self-Driving Products"
+    excerpt: "Tesla reported record revenue for the second quarter. But earnings calls are increasingly about Tesla’s non-EV projects, like A.I. and self-driving."
+    publishedDateTime: 2023-07-20T16:43:00Z
+    webUrl: "https://observer.com/2023/07/tesla-earnings-self-driving/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 38
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013421.jpg?quality=80&#038;strip"
+        width: 4071
+        height: 2524
+        isCached: true
   - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
     excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."
     publishedDateTime: 2023-07-20T00:30:00Z

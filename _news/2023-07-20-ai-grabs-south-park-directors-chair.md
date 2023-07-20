@@ -32,6 +32,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI tool creates South Park episodes with user in starring role"
+    excerpt: "Episodes can feature a character based on user’s own looks and voice – but tool will not be released to public"
+    publishedDateTime: 2023-07-20T16:30:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/20/ai-tool-creates-south-park-episodes-with-user-in-starring-role"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/60d06818e36c7cc749203692450059b02a34ec9f/120_0_3560_2138/master/3560.jpg?width=620&quality=85&auto=format&fit=max&s=a96acd3299865980f6b21bc92b19067f"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "BK+jEH+cxhLFZHhqtnySbBoWFo6gjZFqPwAY33PKIUowVEgvh98WGQiblZf7ISWT6woCwaKfVK//Au7iQ4n1oHzgD6LGexPMx5PhgkQSXVnLR13vvr+TllmYOJzB/uBtpodJmXN/giv0BvxtO+vV2BjotMG6aA7mD2BCs4iRaHiSBB2+TJImQJBVflWkapwJWsyaIy6lpPwXRIOL7PsQ/PtKTRPOZjdC5cbj0h81P4owb5mE4DL30sSfoP4odVQtI8hH9OVVIzIq3bbR8Pwq5/sTXdOeLJujomJ3pxA3wp6fvVxoP2kpvH/TVYwkRemLK5p0h0TUeYZH8tGuVcI7jcyVfkak5mMHmwsuG0hrtHg/Iape2NiEq6VPy/KqhlyCf71RUoeoQYUQYytGtl9OEzRSVZ1Ev8l8hAZ91qI3MrTOJ6wDybtDRSb73K5B88mfzRFjJrXxRDZQolDQkiV5oCfXcF09RCIIuWb+dM9LVbJb7+ZHvsz5n/o2r46YY9EGP/2VM2jxSkMb/jwBWRR6jA==;Jqe+wlnfpK/O+doxS/V85Q=="
 ---

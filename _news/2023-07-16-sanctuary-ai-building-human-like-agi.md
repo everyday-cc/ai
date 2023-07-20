@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Don’t Ask Dumb Robots If AI Will Destroy Humanity"
+    excerpt: "Robots like Sophia are impressive to look at, but don’t let their humanlike facial expressions trick you into thinking these machines are intelligent."
+    publishedDateTime: 2023-07-20T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/64b86565d96882f74caa4079/191:100/w_1280,c_limit/Don&#x27;t-Listen-To-Dumb-Robots-Fast-Forward-Business-1513119084.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "The Future of AI Is War"
     excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
     publishedDateTime: 2023-07-17T14:53:00Z

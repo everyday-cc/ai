@@ -29,8 +29,8 @@ images:
 related:
   - title: "Machine Learning Market to Hit $419.94 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global machine learning market size is anticipated to reach USD 419.94 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 34.8% from 2023 to 2030."
-    publishedDateTime: 2023-07-17T12:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-machine-learning-market-hit-41994-billion-2030-grand-/2023/07/17/9848858.htm"
+    publishedDateTime: 2023-07-17T10:56:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/17/9848858.htm"
     type: article
     provider:
       name: TMCnet

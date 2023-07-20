@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-07-20T17:21:00Z
+    webUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Apple has an AI chatbot up its sleeve: report"
     excerpt: "As Microsoft and Alphabet duke it out in the world of AI chatbots, Apple may harbor dreams of getting into the game as well."
     publishedDateTime: 2023-07-20T02:51:00Z

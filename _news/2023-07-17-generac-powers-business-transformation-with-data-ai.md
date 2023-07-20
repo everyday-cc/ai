@@ -93,6 +93,20 @@ related:
         width: 1050
         height: 788
         isCached: true
+  - title: "Reimagining the data center for the age of generative AI"
+    excerpt: "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?"
+    publishedDateTime: 2023-07-20T16:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/7.With-all-of-the-focus-on-ChatGPT-what-impact-if-any-does-it-have-for-the-data-center_.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
   - title: "TCS to work on digital transformation of GE HealthCare's IT operating model"
     excerpt: "and standardization of GE HealthCare's enterprise IT applications. In a press statement, TCS added that the objective is to leverage advanced software engineering practices, artificial intelligence, and digital technologies to achieve faster value ..."
     publishedDateTime: 2023-07-19T11:48:00Z

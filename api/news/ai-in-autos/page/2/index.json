@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-08-driverless-robotaxi-services-launched-in-shanghais-pudong-district.md",
+      "title": "Driverless robotaxi services launched in Shanghai's Pudong district",
+      "excerpt": "Driverless robotaxi services were launched in designated areas of Shanghai's Pudong New Area as the district's first batches of licenses for the commercialization of autonomous driving were issued on Saturday at the sixth World Artificial Intelligence Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202307/09/64aa5035a310bf8a1d23b203.jpeg",
+          "width": 634,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-how-much-should-we-fear-artificial-intelligence.md",
       "title": "How much should we fear artificial intelligence?",
       "excerpt": "How much should we fear artificial intelligence? on facebook (opens in a new window) How much should we fear artificial intelligence? on linkedin (opens in a new window)",
@@ -1332,60 +1375,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
-      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
-      "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
-      "publishedDateTime": "2023-06-28T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Security",
-        "Facebook AI"
       ]
     }
   ],

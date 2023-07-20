@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How high-performance computing at the edge fuels AI, AR/VR, cybersecurity and more"
+    excerpt: "HPC at the edge — bringing computing power closer to the data center — empowers real-time applications for generative AI software, AR/VR and more."
+    publishedDateTime: 2023-07-20T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-high-performance-computing-at-the-edge-is-reshaping-data-center-intelligence/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/3.-How-HPC-at-the-edge-can-deliver-enhanced-business-value2.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
     excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
     publishedDateTime: 2023-07-17T12:14:00Z

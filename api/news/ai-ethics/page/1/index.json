@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-21-ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics.md",
+      "title": "AI Economics Must Avoid The Ethical Mistakes Of Climate Economics",
+      "excerpt": "There is increased danger that AI economics research will turn into a tool to advance a preset policy agenda, similar to what has played out in climate change economics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
+      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b90ec712fc5c66bcbd34f2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/",
+      "publishedDateTime": "2023-07-20T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-risks-associated-with-off-the-shelf-ai-toolsand-how-to-mitigate-them.md",
       "title": "Risks Associated With Off-The-Shelf AI Tools—And How To Mitigate Them",
       "excerpt": "In the wrong hands, they could turn into highly potent sources of malicious code—code designed to harm the software or enable security breaches. Employees using generative AI tools could unwittingly make their companies vulnerable to bad actors looking to generate malicious code.",
@@ -962,34 +1014,34 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "excerpt": "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230710113848.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
-      "publishedDateTime": "2023-07-10T12:08:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T12:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1392,59 +1444,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-generative-ais-secret-sauce-data-scraping-comes-under-attack.md",
-      "title": "Generative AI’s secret sauce — data scraping— comes under attack",
-      "excerpt": "Data scraping of the internet for massive amounts of data could be described as generative AI's secret sauce. Experts say the current blowback is unsurprising.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-secret-sauce-data-scraping-under-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-06T120228.476.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics"
       ]
     }
   ],

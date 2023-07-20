@@ -1,26 +1,28 @@
 ---
 category: news
-title: "A New Era Of Ai Innovation: Gpu-As-A-Service Accelerates Ai For The Telco Industry"
-excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
-publishedDateTime: 2023-07-10T02:40:00Z
-originalUrl: "https://menafn.com/1106574867/A-New-Era-Of-Ai-Innovation-Gpu-As-A-Service-Accelerates-Ai-For-The-Telco-Industry"
-webUrl: "https://menafn.com/1106574867/A-New-Era-Of-Ai-Innovation-Gpu-As-A-Service-Accelerates-Ai-For-The-Telco-Industry"
+title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
+excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI. The collaboration aims to leverage Radian Arc's AMD-based GPU platform, already installed in a rapidly expanding network of 50 ..."
+publishedDateTime: 2023-07-10T01:46:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry"
+ampWebUrl: "https://www.benzinga.com/amp/content/33159070"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159070"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?793946"
-    width: 444
-    height: 250
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "LCxZc1VNfy9J/LP2TdPJPpdiWW+Yv+3yS+KN5ryztO+bojv/0lPhqyQorHnnw0VRP0Blv5kg47FrXYXDuk9lbKEpacExaI9sOwHA0OjrX1Qus2iuVGAcIxPZHdb8eULtTjOlS86CGhwWbAVkd5axCi1PAc1h4YwFTZfyOGtW++UL8/agCb2Il93LM8vA4fIMcNgGHBR7yprBfV7neXDJN5f4lvus0iMU6TGJpiWGzgqSnjZUu4FuY7OicIh/IlBkW3xQK2aQbyL8sd1ITA4tjMYSrisETwaa3eFPZBORlwEb9bn+e+FTOo5e0wSHFRvIEQthhh3dVY3xojEVmQ7CtY2v75ZZnU8YLzXsobJ7RF4=;vCMqhfa8ogMSuypWjEw2UQ=="
+secured: "dpYHtpsph48R9b9iL8Ds0HGnFt5vhEg2TNYjMpZPSNevjmCrL1udOGg7jgGR5N7whT2qGXQVJrMZPEMLlIgif8A5hOBSgxOQPdym3Wfw+ED/sL3/XPNyUz9SU7ybb1J8DHju/Jy6UfUfugtLno6ov3eatiO/G/cgsBN5lQcm3yH+r/VVK3/nuvb1aciIuVcBSD0ZvmhHG1QLzVJqDGGSyU34/a28ATLfckou68vk+F5e8prk4kPcKLpVbM32TIkZxegeVp98DSy9Ut6aR0HwZOLyKi2X2ZIgG6ADrP/SUbHFXNjQDIyDwMpMNEuUyFdvrNEdITQKI6WePigG9KVIE1FKRWDJTFGoUZ7v+G3nK4E=;eBX+TlHopl4XQPVJzTIBSg=="
 ---
 

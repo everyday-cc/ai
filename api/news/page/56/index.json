@@ -2,6 +2,196 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-06-14-ai-x-blockchain-the-next-level.md",
+      "title": "AI x Blockchain: The Next Level",
+      "excerpt": "Our conversation threaded many themes, from how blockchain can accelerate AI development to the complexities of working with blockchain data and the promise of large",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/",
+      "originalUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6488feb978ddc1dfbf75c365/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevevassallo/2023/06/13/ai-x-blockchain-the-next-level/amp/",
+      "publishedDateTime": "2023-06-13T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight.md",
+      "title": "AMD Cloud-Native EPYC Bergamo, HPC Optimized Genoa-X CPUs And MI300 AI Accelerators Take Flight",
+      "excerpt": "Under Dr. Su’s leadership, the company has assembled a comprehensive suite of silicon solutions for the lucrative cloud data center, HPC and AI markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6488e5d20f339468b475c365/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/06/13/amd-cloud-native-epyc-bergamo-hpc-optimized-genoa-x-cpus-and-mi300-ai-accelerators-take-flight/amp/",
+      "publishedDateTime": "2023-06-13T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-conversational-wellness-bots-the-future-of-mental-health-therapy.md",
+      "title": "Conversational Wellness Bots: The Future of Mental Health Therapy",
+      "excerpt": "The user interacts with the bot to learn how they are feeling, and it classifies their mental health condition as stress, anxiety, or depression to determine how serious it is. The bot has the ability to pinpoint the causes that set off these mental health problems.",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/conversational-wellness-bots-the-future-of-mental-health-therapy/100971680",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/conversational-wellness-bots-the-future-of-mental-health-therapy/100971680",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-100971680,imgsize-988224,width-1200,height=765,overlay-ethealth/health-it/conversational-wellness-bots-the-future-of-mental-health-therapy.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/conversational-wellness-bots-the-future-of-mental-health-therapy/100971680",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/conversational-wellness-bots-the-future-of-mental-health-therapy/100971680",
+      "publishedDateTime": "2023-06-13T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-14-expertai-and-ssc-blue-prism-will-enhance-natural-language-based-intelligent-automation.md",
+      "title": "Expert.ai and SS&C Blue Prism will enhance natural language-based intelligent automation",
+      "excerpt": "Processing unstructured language data for automation creates new potential for leveraging RPA in the enterprise. \"As the predecessor and natural extension of generative AI, natural language ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3979540-expertai-and-ssc-blue-prism-will-enhance-natural-language-based-intelligent-automation",
+      "originalUrl": "https://seekingalpha.com/news/3979540-expertai-and-ssc-blue-prism-will-enhance-natural-language-based-intelligent-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-13T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-paul-mccartney-reveals-ai-was-used-to-create-the-last-beatles-record.md",
       "title": "Paul McCartney reveals AI was used to create the 'last Beatles record'",
       "excerpt": "McCartney revealed that what he called \"the last Beatles record\" is on its way, adding that it was created with the help of AI. \"It was a demo that John had that we worked on,\" he",
@@ -1059,205 +1249,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-the-australian-ai-governance-debate-starts-to-heat-up.md",
-      "title": "The Australian AI governance debate starts to heat up",
-      "excerpt": "Australian ministers debate whether implementing regulations for AI will address the challenges caused by a lack of skilled AI talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/au-ai-governance-debate/",
-      "originalUrl": "https://www.techrepublic.com/article/au-ai-governance-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-artificial-intelligence-ai-synitia-data-intelligence.jpeg",
-          "width": 1200,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds.md",
-      "title": "AI-powered malware is a growing security concern, CyberArk survey finds",
-      "excerpt": "AI-enabled threats are a major concern; 93% of cybersecurity professionals surveyed expect such threats to impact their organization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds/",
-      "originalUrl": "https://venturebeat.com/security/ai-powered-malware-is-a-growing-security-concern-cyberark-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/cfr0z3n_a_computer_screen_displays_a_pixellated_skull_and_cross_95c92a74-f651-4ddf-ae1d-891284dd88bf.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-artificial-intelligence-can-help-with-hearing-loss.md",
-      "title": "Artificial Intelligence can help with hearing loss",
-      "excerpt": "McDonaldHearingServices.com For more information about the services McDonald Hearing Services offers, click here. Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published,",
-      "sourceUrl": null,
-      "webUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
-      "originalUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/keenan.jpg?w=1280",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
-      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/eightwest/ask-the-expert/hearing-expert/artificial-intelligence-can-help-with-hearing-loss/amp/",
-      "publishedDateTime": "2023-06-13T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOOD-TV",
-        "domain": "woodtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-cadence-ai-can-increase-chip-designer-productivity-by-over-10x.md",
-      "title": "Cadence AI Can Increase Chip Designer Productivity By Over 10X",
-      "excerpt": "Company’s clients have readied over 180 new chips using Cerebras AI to speed development and make chips that run faster, use less energy, and cost less.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64597b7ef0c1a34df22796e1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
-      "publishedDateTime": "2023-06-13T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

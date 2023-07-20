@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-29-tesla-facebook-openai-account-for-245-of-ai-incidents-security-company-says.md",
+      "title": "Tesla, Facebook, OpenAI Account For 24.5% Of ‘AI Incidents,’ Security Company Says",
+      "excerpt": "The first \"AI Incident\" in Surfshark’s record almost caused global nuclear war. The newest ones: political deepfakes and self-driving cars endangering drivers and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649c805f4fc9cb4a620b96c9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/06/28/security-company-ai-incidents-up-690-worst-offenders-are-tesla-facebook-openai/amp/",
+      "publishedDateTime": "2023-06-28T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Security",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "From the latest developments to relevant terms and companies, here's everything you need to stay current in the fast-moving field of AI.",
@@ -1287,58 +1341,6 @@
         "name": "CounterPunch",
         "domain": "counterpunch.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-hacker-claims-tesla-full-self-driving-has-secret-elon-mode.md",
-      "title": "Hacker Claims Tesla Full Self-Driving Has Secret 'Elon Mode'",
-      "excerpt": "Known Tesla software hacker GreenTheDay claims to have discovered a hidden Full Self-Driving feature in Tesla EVs called, oddly enough, Elon Mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
-      "originalUrl": "https://www.slashgear.com/1319036/tesla-fsd-secret-elon-mode-hacker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/hacker-claims-tesla-full-self-driving-has-secret-elon-mode/l-intro-1687300413.jpg",
-          "width": 1600,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

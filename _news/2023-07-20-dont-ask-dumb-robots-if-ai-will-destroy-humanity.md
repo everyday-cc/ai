@@ -1,0 +1,79 @@
+---
+category: news
+title: "Don’t Ask Dumb Robots If AI Will Destroy Humanity"
+excerpt: "Robots like Sophia are impressive to look at, but don’t let their humanlike facial expressions trick you into thinking these machines are intelligent."
+publishedDateTime: 2023-07-20T16:00:00Z
+originalUrl: "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/"
+webUrl: "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/"
+type: article
+quality: 84
+heat: -1
+published: false
+
+provider:
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://media.wired.com/photos/64b86565d96882f74caa4079/191:100/w_1280,c_limit/Don&#x27;t-Listen-To-Dumb-Robots-Fast-Forward-Business-1513119084.jpg"
+    width: 1280
+    height: 670
+    isCached: true
+
+related:
+  - title: "A Humanistic View Of Artificial Intelligence"
+    excerpt: "Traits and behaviors like sympathy, empathy, regret, joy, hope, optimism, pride, originality, intuition, and even humor are characteristics of human life – and, ultimately, more galvanizing than technical power."
+    publishedDateTime: 2023-07-18T16:32:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6bdfd7b7f15319bbd34f2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sanctuary AI Building Human Like AGI"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-07-16T13:37:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/07/sanctuary-ai-building-human-like-agi.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 39
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-14-at-4.24.57-PM.png"
+        width: 1890
+        height: 1058
+        isCached: true
+  - title: "The Future of AI Is War"
+    excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
+    publishedDateTime: 2023-07-17T14:53:00Z
+    webUrl: "https://www.thenation.com/article/world/artificial-intelligence-us-military/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 39
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
+        width: 1440
+        height: 907
+        isCached: true
+
+secured: "TwMFworWcO1qNMdxqgHpd0T/Oj0tkkToV5hVngQpcOg/E5zwIqL1qHCIi2XYR+1I26RViG/Tsg9Y2bFf9CB/Yq7n1ZFy9b8hq5xF3AyltbuWy5mKeN/g0AK36LDtly62sON3KErXx+NwGgirxhpPiwkbBfFqREAMzbEprQV8+04u6FX9LMbmAZ5ZmlriHQ0Cb3EN8nWCfZNTApGd0B1AiLBS/eOVqbwlT2V5J4rZ3/IH/c1pdT+Xg/EwTgCqhyVrwPRiH+e6a0s59jqhBKPlqDlpS6IfBn9e7UArodEYLcX+SMSNam1QxaHZN049RCNHo4QoveOwXpfT/jnAdUmrdM3QKeg1oAp+XRQu7+/zw48=;jR7nTYx8B3i1jqoXwj/JhQ=="
+---
+

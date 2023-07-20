@@ -90,6 +90,20 @@ related:
         width: 1050
         height: 788
         isCached: true
+  - title: "Reimagining the data center for the age of generative AI"
+    excerpt: "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?"
+    publishedDateTime: 2023-07-20T16:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/7.With-all-of-the-focus-on-ChatGPT-what-impact-if-any-does-it-have-for-the-data-center_.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Generac powers business transformation with data, AI"
     excerpt: "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI."
     publishedDateTime: 2023-07-17T09:59:00Z

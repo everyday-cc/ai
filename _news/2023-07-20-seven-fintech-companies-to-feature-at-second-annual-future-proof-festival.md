@@ -73,22 +73,6 @@ related:
         width: 797
         height: 461
         isCached: true
-  - title: "India’s Think360 make top AI Fintech Companies List"
-    excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s most innovative AI solution providers for the financial services industry."
-    publishedDateTime: 2023-07-17T01:43:00Z
-    webUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/"
-    ampWebUrl: "https://theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/indias-think360-make-top-ai-fintech-companies-list/1672492/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 59
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/07/ANI-20230717000417.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
     excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
     publishedDateTime: 2023-07-17T01:40:00Z
@@ -150,6 +134,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/technology-global-ai-race-information-network-connection-scaled.jpg"
         width: 2560
         height: 2560
+        isCached: true
+  - title: "India’s Think360 make top AI Fintech Companies List"
+    excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
+    publishedDateTime: 2023-07-17T07:23:00Z
+    webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+    type: article
+    provider:
+      name: Defence News
+      domain: defencenews.in
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
+        width: 720
+        height: 340
         isCached: true
   - title: "Egyptian fintechs team up with Fintech Galaxy's open finance platform"
     excerpt: "Fintech Galaxy's FINX Connect now hosts over 10 prominent Egyptian fintechs, including Sympl, Synapse Analytics, and Valify, strengthening the bridge between Egypt and the Gulf region's financial sector. Joining FINX Connect allows these fintech firms to ..."

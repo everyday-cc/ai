@@ -1,12 +1,14 @@
 ---
 category: news
 title: "The Next Frontier For Large Language Models Is Biology"
-excerpt: "Large language models like GPT-4 have taken the world by storm thanks to their astonishing command of natural language. Yet the most significant long-term opportunity for LLMs will entail an entirely different type of language: the language of biology."
+excerpt: "AlphaFold was not built using large language models. It relies on an older bioinformatics construct called multiple sequence alignment (MSA), in which a protein’s sequence is compared to evolutionarily similar proteins in order to deduce its structure."
 publishedDateTime: 2023-07-16T22:00:00Z
-originalUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?bingParse"
-webUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?bingParse"
+originalUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/"
+webUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/"
+ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64b19a27ab6a497e66e9bcfd/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 786
+    isCached: true
 
 related:
   - title: "Meta releases big, new open-source AI large language model"
@@ -143,6 +151,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "NFbrEcPkl90Q3Uzmdrnz5GVLkcij5HTejAzU9/C4sCfr8SsJZVGG2AuM5ze1B0CnWdJGPnv0C0N6pDPX7QhVjLiV2UIE+Oh4Lmn11GFEFib7j0NwZ6PT2FQVW1h/IcOpxAroldTBRflYlpv9sVPBCAQ2rHlA+gt2QieDlOezTdeCKz8uRK90eVVFmjoR5Bvxv6dG/GuLhSeqA7ihbzNAltElJk2N4RYh1XO06mwbwR+Eto6QkHkbQrVefEJwJ1T+h+i2EY6/YmoKyvvBN3mDNToY3X+0b1+QmmrH+9PfmNSxWKAG86cPsLzRyu0t9qD0FCaSQl8yKYlPam93fFi+QEHqffEMjktQ1BxGUPWDR1o44VGVIVATspqzpA0g2O1mpVFwM8IO7l+cpHskGXIGpZbP7bLq8ZVEvuWSikHx0D9mQOf6rjVpGcrX9p8WKzh2lLK6oIB+upvWT96AXdZCVcq/gmYiSbdmDJaKB7/Mr/JO6IvGJKUoUTbIXyQESwuQ/eQ6J3ZcMC9FxtICec9PKg==;3qbik0uJE3XkofAJnw3ZGw=="
+secured: "xMA454pPsDRgi9QQay1FfVsKj7j6lYIap27ir0sgWXHm8XlsjRI7fs1rEtb6BsYTrxcG7OwHTmeQtIjT+WMdZ5p7VSWfozntpQds3UuYDxZIk9SMPmWAR01EAX1DGeTMyXEn5aBDniLIXA4NpbVBMSQ5dI0tf7z1wrroxU9H21M3szxvTjywabi/yvZE54cAs8pHQlOpEjY1TolAAwq/UyhaYH+1gcdHLzIezgUM59eIxDWIezmRacnX3ZKWT6wKjLLKNqeGYbgZO/6RgjVWVJ2zxfIHZ7I2j951QTB2ysF2XdFY12PT1O4f03VzGoeM0U3V/ZGYzoMLNrMyr415fDVil3tbHUjgT7nSfGtM8M8=;r7xVyEtIjXJz73e3w9+23g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
 type: article
 quality: 88
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Elon Musk Touts ‘Quasi-Infinite Demand’ for Tesla’s Self-Driving Products"
+    excerpt: "Tesla reported record revenue for the second quarter. But earnings calls are increasingly about Tesla’s non-EV projects, like A.I. and self-driving."
+    publishedDateTime: 2023-07-20T16:43:00Z
+    webUrl: "https://observer.com/2023/07/tesla-earnings-self-driving/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 38
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013421.jpg?quality=80&#038;strip"
+        width: 4071
+        height: 2524
         isCached: true
   - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
     excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."

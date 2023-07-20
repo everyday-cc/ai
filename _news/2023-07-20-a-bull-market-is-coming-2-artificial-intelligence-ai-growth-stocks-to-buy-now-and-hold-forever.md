@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-
 webUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 2101
     height: 1426
     isCached: true
+
+related:
+  - title: "25 Millionaire-Maker AI Stocks to Buy Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips To say that artificial intelligence is transforming the world would be a"
+    publishedDateTime: 2023-07-20T15:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/25-millionaire-maker-ai-stocks-to-buy-now-1032463359"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
 
 secured: "q2VzsENd+C59/Epw1IWxtcUgHgewasTB+7O/qV6cmEGQfgz6eq5t5d8GeCiWcNIB7g/rusjfgRZsk+zWbcagDaH/sNa/YHf4dkiSi9sXd2pt6T/GafPCR/qVtwEMYbtubb5gsgxsHWXhK4mJ+hl87gmWOQBylX1BggeiVVi4hjAurxJ51qn/1JrPGvbx2ELZLttgBljujKv9RBCMsiAxBmh+5atHfdym/S17Yk5FEKdHpWpq6U3boUOJBgOp3D/gGwcmhcMqOysgFL4xU658G7UtOOtFZUXrnwF8N9PTuSAcyVrY//3LEcS4mgwmsQEwD0eiu3Q1elpq3xNpL5Mss8eIm1yhO/GOneVaC3yvDdY=;OwizthrvtjptYLp4pUQm5A=="
 ---

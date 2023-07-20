@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-15-wimbledon-2023-how-artificial-intelligence-is-changing-tennis.md",
+      "title": "Wimbledon 2023: How artificial intelligence is changing tennis",
+      "excerpt": "BBC Sport's Liam Loftus takes a look at how artificial intelligence is changing the future of tennis. Follow Wimbledon coverage across, BBC iPlayer, BBC Sounds & the BBC Sport website & app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/av/tennis/66183190",
+      "originalUrl": "https://www.bbc.com/sport/av/tennis/66183190",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102D0/production/_130365266_p0g0jf7n.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-how-can-humans-best-use-ai.md",
+      "title": "How Can Humans Best Use AI?",
+      "excerpt": "The relationship between humans and animals is a useful framework for how we might use AI in a constructive way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b2499aad6c87b3d2248079/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/07/15/how-can-humans-best-use-ai/amp/",
+      "publishedDateTime": "2023-07-15T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-google-ai-could-improve-breast-cancer-detection.md",
       "title": "Google AI could improve breast cancer detection",
       "excerpt": "A Google artificial intelligence system proved as good as expert radiologists at predicting which women had breast cancer based on screening mammograms and showed promise at reducing errors, researchers in the United States and Britain reported.",
@@ -239,6 +342,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
+      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
+      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "publishedDateTime": "2023-07-14T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1086,160 +1232,6 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-ai-can-help-blind-community-experience-world-in-new-ways-will-lead-to-quality-of-life-changes.md",
-      "title": "AI can help blind community experience world in new ways: 'will lead to quality of life changes'",
-      "excerpt": "A representative from the National Federation of the Blind argued that the greatest obstacle the blind community faces is attitudes and assumptions the general public make of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
-      "originalUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
-      "publishedDateTime": "2023-07-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-yes-ai-could-profoundly-disrupt-education-but-maybe-thats-not-a-bad-thing.md",
-      "title": "Yes, AI could profoundly disrupt education. But maybe that’s not a bad thing",
-      "excerpt": "Humans need to excel at things AI can’t do – and that means more creativity and critical thinking and less memorisation, says academic Rose Luckin",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0f5ff9cf53f0073e9ba98720070c09caa00d7085/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=0ba4c42a04b25c9d52561b57c20e492b",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
-      "publishedDateTime": "2023-07-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game.md",
-      "title": "Infinite Canvas raises $6M in funding, launches AI-powered Discord game",
-      "excerpt": "UGC studio Infinite Canvas has raised $6 million in new funding, which it's putting towards GenAI projects such as new game CreatureCraft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/",
-      "originalUrl": "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

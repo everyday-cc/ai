@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-12-ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs.md",
+      "title": "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs",
+      "excerpt": "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/07/12/ibm_bangalore_manyata_2.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33197115",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33197115",
+      "publishedDateTime": "2023-07-12T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-ibm-may-use-its-own-ai-chip-in-cloud-service-to-lower-costs.md",
       "title": "IBM may use its own AI chip in cloud service to lower costs",
       "excerpt": "The high costs of previous AI systems, such as Watson, hindered their market traction. By leveraging their own chips, IBM aims to improve cost efficiency, which could make their cloud service more ...",
@@ -580,20 +624,20 @@
     },
     {
       "path": "_news/2023-07-10-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry.md",
-      "title": "A New Era Of Ai Innovation: Gpu-As-A-Service Accelerates Ai For The Telco Industry",
-      "excerpt": "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ...",
+      "title": "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry",
+      "excerpt": "ActivePort and Radian Arc join forces to enable high-performance AI. The collaboration aims to leverage Radian Arc's AMD-based GPU platform, already installed in a rapidly expanding network of 50 ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106574867/A-New-Era-Of-Ai-Innovation-Gpu-As-A-Service-Accelerates-Ai-For-The-Telco-Industry",
-      "originalUrl": "https://menafn.com/1106574867/A-New-Era-Of-Ai-Innovation-Gpu-As-A-Service-Accelerates-Ai-For-The-Telco-Industry",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?793946",
-          "width": 444,
-          "height": 250,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -601,13 +645,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T19:40:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33159070",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159070",
+      "publishedDateTime": "2023-07-09T18:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1402,58 +1446,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-is-the-amd-gpu-better-than-we-thought-for-ai.md",
-      "title": "Is The AMD GPU Better Than We Thought For AI?",
-      "excerpt": "MosaicML, just acquired by DataBricks for $1.3B, published some interesting benchmarks for training LLMs on the AMD MI250 GPU, and said it is ~80% as fast as an",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649f469756d6e4a9b009d955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/amp/",
-      "publishedDateTime": "2023-06-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

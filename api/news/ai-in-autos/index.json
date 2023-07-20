@@ -395,7 +395,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -564,6 +564,49 @@
       "provider": {
         "name": "NBC Bay Area",
         "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
+      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
+      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "publishedDateTime": "2023-07-14T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1335,49 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-driverless-robotaxi-services-launched-in-shanghais-pudong-district.md",
-      "title": "Driverless robotaxi services launched in Shanghai's Pudong district",
-      "excerpt": "Driverless robotaxi services were launched in designated areas of Shanghai's Pudong New Area as the district's first batches of licenses for the commercialization of autonomous driving were issued on Saturday at the sixth World Artificial Intelligence Conference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202307/08/WS64a96b91a310bf8a75d6e075.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202307/09/64aa5035a310bf8a1d23b203.jpeg",
-          "width": 634,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-08T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
         "publishers": null,
         "authors": null
       },

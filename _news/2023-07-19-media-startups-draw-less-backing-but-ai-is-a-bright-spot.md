@@ -54,20 +54,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "A kinder, more human AI – the Cork startup training tech to be emotionally intelligent"
-    excerpt: "Artificial intelligence (AI) needs to be more human and empathetic, according to the Irish co-founder of a startup training AI to be emotionally intelligent."
-    publishedDateTime: 2023-07-16T00:30:00Z
-    webUrl: "https://www.independent.ie/business/technology/a-kinder-more-human-ai-the-cork-startup-training-tech-to-be-emotionally-intelligent/a1247035183.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 29
-    images:
-      - url: "https://focus.independent.ie/thumbor/jsHlV2S6F1KdGi2FX6t9kglK2T8=/0x535:4010x3209/4010x2674/prod-mh-ireland/b72cbb94-e034-4dcf-8342-cdc39474b61a/c1b228dd-50e9-4df6-9c25-aadd5f30dcd7/b72cbb94-e034-4dcf-8342-cdc39474b61a.jpg"
-        width: 4010
-        height: 2674
-        isCached: true
 
 secured: "nedvlcDk1sUxZI33axHp7PqczBlYuhyIIXCvjG+DcQOvmpJk5sRTT3D5/TMo1huVyI9Nzt0JbeCJbO+kB8YOkqnG6+X/XTTLMYqp1Dd3YPRa8rxv6qloPjfrlba67LnFmM7vKdsECjrIqjJG/o+Z0MaqJ8JyQ9EvduWUnqxZ+2s/KdzJ7Ub8tYos1XG5tQcEeLLK06AzqSNksekPg4upFT9xRjDhVG05VhR2y8maJNsmIbHMG/v+xKJTXD0i9ZRrDqIY8v1bDGMKD6ryjxUTpW+mImdwXpLxvRWeMq21TTol0ZETPBbDPOwb2Zbua6NDjvUPrrDCf8t/SQMbXqmHQ8wqZRyKR8t8bm6NxGgemxXGp8g2iRGpUaICzfLXTNX6upwVcG12uVa1tg32bBh+FVR99OCvY4dY/XKKMVK4EDhxn+TcAHDCp/Nv2ztEMAg6LUN12O3Omu3N5v29j28Jp99XXOLAni2mX07T8a7WIfwMO5Jolter4ed2Mal1jmYP6V7xmMHWENe/n/xtlrkMXQ==;zeAwN8rbftmyK2z3ZrMXeg=="
 ---

@@ -2,6 +2,160 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-14-ai-can-help-blind-community-experience-world-in-new-ways-will-lead-to-quality-of-life-changes.md",
+      "title": "AI can help blind community experience world in new ways: 'will lead to quality of life changes'",
+      "excerpt": "A representative from the National Federation of the Blind argued that the greatest obstacle the blind community faces is attitudes and assumptions the general public make of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
+      "originalUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-help-blind-community-experience-world-new-ways-will-lead-to-quality-of-life-changes.amp",
+      "publishedDateTime": "2023-07-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-yes-ai-could-profoundly-disrupt-education-but-maybe-thats-not-a-bad-thing.md",
+      "title": "Yes, AI could profoundly disrupt education. But maybe that’s not a bad thing",
+      "excerpt": "Humans need to excel at things AI can’t do – and that means more creativity and critical thinking and less memorisation, says academic Rose Luckin",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0f5ff9cf53f0073e9ba98720070c09caa00d7085/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=0ba4c42a04b25c9d52561b57c20e492b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/14/ai-artificial-intelligence-disrupt-education-creativity-critical-thinking",
+      "publishedDateTime": "2023-07-13T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game.md",
+      "title": "Infinite Canvas raises $6M in funding, launches AI-powered Discord game",
+      "excerpt": "UGC studio Infinite Canvas has raised $6 million in new funding, which it's putting towards GenAI projects such as new game CreatureCraft.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/",
+      "originalUrl": "https://venturebeat.com/games/infinite-canvas-raises-6m-in-funding-launches-ai-powered-discord-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/banner_black_teal.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year.md",
       "title": "AI Speed Boost Coming With Intel’s Meteor Lake Chip for PCs This Year",
       "excerpt": "Spread the loveArtificial intelligence continues to make incredible strides in all sectors, and the rapid advancements in technology are a testament to the significant contributions that AI has to offer.",
@@ -1046,153 +1200,6 @@
         "AWS AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here.md",
-      "title": "‘Overwatch: Genesis’ Remembers Sentient Robot Aurora In Its Second Episode, Watch It Here",
-      "excerpt": "The second episode of Genesis, the Overwatch anime miniseries, just dropped, and you can watch it below. The latest installment is called “Innocence” and we get to learn more about Aurora, the first omnic that became sentient in this world. The robot travels the planet to learn more about humanity and herself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64af894e4461ffb2e7534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2023/07/13/overwatch-genesis-remembers-sentient-robot-aurora-in-its-second-episode-watch-it-here/amp/",
-      "publishedDateTime": "2023-07-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-opens-three-new-routes-to-career-advancement.md",
-      "title": "Artificial Intelligence Opens Three New Routes To Career Advancement",
-      "excerpt": "These are the ways today’s managers and professionals need to meet the challenges and opportunities of artificial intelligence head-on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/13/artificial-intelligence-opens-three-new-routes-to-career-advancement/amp/",
-      "publishedDateTime": "2023-07-13T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
-      "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "Elon Musk, who also runs Tesla and SpaceX, announced the company's launch of xAI on Twitter Wednesday afternoon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

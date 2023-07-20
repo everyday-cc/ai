@@ -210,6 +210,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Likely To Beat 4Q Driven by Generative AI, Azure Growth Presents Potential Risks, Analysts Say"
+    excerpt: "Morgan Stanley analyst Keith Weiss maintained an Overweight rating on Microsoft Corp (NASDAQ: MSFT) and a price target of"
+    publishedDateTime: 2023-07-20T16:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-likely-to-beat-4q-driven-by-generative-ai-azure-growth-presents-potential-risks-analysts-say-1032463400"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/07/20/msft.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Capgemini partners with Microsoft over generative AI-based Azure Intelligent App Factory"
     excerpt: "Capgemini has announced an Azure Intelligent App Factory, developed in collaboration with Microsoft, that aims to empower organisations to scale generative AI capabilities for their business. This solution is expected to see Capgemini and Microsoft combine ..."
     publishedDateTime: 2023-07-19T07:49:00Z

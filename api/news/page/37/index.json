@@ -2,6 +2,180 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-06-26-ai-is-my-copilot.md",
+      "title": "AI is my copilot",
+      "excerpt": "No, AI won’t replace software engineers. Software engineers using AI will replace software engineers—and they’ll be astonishingly more capable than either engineers or AI alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html",
+      "originalUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/09/robotic_and_human_hands_touch_via_virtual_interface_future_artificial_intelligence_machine_learning_careers_by_ipopba_gettyimages-1051617224_2400x1600-100811603-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700789/ai-is-my-copilot.amp.html",
+      "publishedDateTime": "2023-06-26T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform.md",
+      "title": "Predactica integrates Azure OpenAI capabilities into its SaaS Machine Learning platform",
+      "excerpt": "Predactica is thrilled to announce the integration of Azure's OpenAI capabilities into its AI/ML platform, complementing its existing no-code SaaS AI capabilities aimed at citizen data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
+      "originalUrl": "https://www.victoriaadvocate.com/predactica-integrates-azure-openai-capabilities-into-its-saas-machine-learning-platform/article_76eb643a-4642-5983-947d-6cfc2b89efb0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-ai-will-it-help-humanity-or-doom-it.md",
+      "title": "AI: Will it help humanity or doom it?",
+      "excerpt": "In order to better understand AI’s promises and perils, Angelus spoke to two Catholics who have tracked the technology’s rise from different places.",
+      "sourceUrl": null,
+      "webUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
+      "originalUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://angelusnews.com/wp-content/uploads/2023/06/Ureneck-1-1024x689.jpg",
+          "width": 1024,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
+      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/faith/artificial-intelligence-welter-vukov/amp/",
+      "publishedDateTime": "2023-06-26T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Angelus",
+        "domain": "angelusnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock.md",
+      "title": "Chip startup rides AI frenzy to become top-gaining topix stock",
+      "excerpt": "Socionext Inc. has jumped more than 245% this year, with its market value touching a high of around ¥957 billion ($6.7 billion), making it the best-performing stock on the Topix index.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Sensex_nifty_market_down_Sensex.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/chip-startup-rides-ai-frenzy-to-become-top-gaining-topix-stock-10857771.html/amp",
+      "publishedDateTime": "2023-06-25T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-how-ai-driven-behaviour-change-can-influence-healthcare-system.md",
       "title": "How AI-driven behaviour change can influence healthcare system",
       "excerpt": "There is now 'a holistic combination of AI and human expertise that can work in a complementary framework to deliver personalized interventions' in.health. healthcare. fiitnes. wellness. nutrition. diet.",
@@ -999,186 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-one-major-risk-with-investing-in-artificial-intelligence-stocks.md",
-      "title": "One Major Risk With Investing in Artificial Intelligence Stocks",
-      "excerpt": "As artificial intelligence (AI) investing picks up steam, the trend is beginning to look more and more like other bubbles that have burst. It's common to hear: \"This time, it's different!\" The reality is that history doesn't often repeat itself, but it does rhyme.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/24/one-risk-with-investing-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/736780/person-looking-at-their-laptop-worried.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-microsoft-azure-event-grid-mqtt-protocol-support-and-pull-message-delivery-are-now-in-public-preview.md",
-      "title": "Microsoft Azure Event Grid MQTT Protocol Support and Pull Message Delivery Are Now in Public Preview",
-      "excerpt": "Mykyta Protsenko discusses the trade-offs that companies face during the process of shifting left, how to ease cognitive load for the developers ... Subscribe for free. Microsoft recently announced the public preview of bi-directional communication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
-      "originalUrl": "https://www.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/06/azure-eventgrid-mqtt-support/en/headerimage/generatedHeaderImage-1687425435338.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-24T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-ai-chip-giant-nvidia-extremely-likely-to-invest-in-europe.md",
-      "title": "AI chip giant Nvidia 'extremely likely' to invest in Europe",
-      "excerpt": "The CEO of Nvidia on Friday said that the world's most valuable chipmaker is \"extremely likely\" to invest in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/nvidia.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-ai-chip-giant-nvidia-extremely.amp",
-      "publishedDateTime": "2023-06-23T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-explained-australias-referendum-to-include-an-indigenous-voice-in-its-constitution.md",
-      "title": "Explained | Australia’s referendum to include an Indigenous ‘Voice’ in its Constitution",
-      "excerpt": "Read The Hindu explainer on why Australia is conducting a referendum on rights of its Indigenous population. Who are in support and against of constitution recognition for Indigenous people?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
-      "originalUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/3q47u2/article66651980.ece/alternates/FREE_1200/PTI03_23_2023_000004B.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-referendum-indigenous-constitution-explained-vote-aboriginal/article67001370.ece/amp/",
-      "publishedDateTime": "2023-06-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -74,6 +74,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Editorial: Profit-sharing and AI protection are the answers to the writers and actors strike"
     excerpt: "The solution that will bring back your favorite shows? Better profit-sharing, and when it comes to AI, humans should stand with other humans."
     publishedDateTime: 2023-07-16T10:00:00Z

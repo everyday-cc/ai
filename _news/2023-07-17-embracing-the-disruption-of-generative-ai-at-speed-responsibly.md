@@ -73,6 +73,20 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 32
+  - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
+    excerpt: "A majority of Americans would feel “uncomfortable” with their doctor relying on AI in their medical care, according to recent polling, but despite those misgivings it is likely you have"
+    publishedDateTime: 2023-07-20T15:55:00Z
+    webUrl: "https://thebrunswicknews.com/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health/article_d8fe9aff-5f47-580e-bbb0-f9da807e914d.html"
+    type: article
+    provider:
+      name: Brunswick News
+      domain: thebrunswicknews.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/1/c4/1c4dbbc1-d712-5c59-b631-c5533929e7db/64b95fb24f420.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TuEt/XMI+8J/X0/1YwIPSdD/XHp8B33w3/UUjPTRugVB/fzn6iLcIGtyQNbFma0PiDyKahdkg1SjC5qK3ffwjYqw8bwl4hJ5feUqmoAjFw8FHCV/Snx+wWB437++NwYpyJ5XHWQW3WUpG+L9PUfhN1dBLsEzuMbqOsXICz83yalIZEKQcsAZE0X6dDWVsAGpxwgKR/c4+TmDRIpL2LLxuFfm+pVybWq7NT8tKxwuswXbJDg/KK1C8TcsCmt5n96tub05ZJC0Yw42F5G3W7bTQ9D4mI2alncVoO3ZeU6wun0nfAxoXQXof971qzz+AcXPRCarjnjDV+ABdV61ScEmq4bNkRrt5erKCbO94Y4ReS4=;8KONnHtmsOkeEPi3GLyQfg=="
 ---

@@ -84,6 +84,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Tech leaders say they're creating an AI cluster in the Triangle"
     excerpt: "Executives at Triangle tech companies say the opportunity for job creation through AI is enormous and that the Triangle could be uniquely positioned to benefit."
     publishedDateTime: 2023-07-19T18:59:00Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Don’t Ask Dumb Robots If AI Will Destroy Humanity"
+    excerpt: "Robots like Sophia are impressive to look at, but don’t let their humanlike facial expressions trick you into thinking these machines are intelligent."
+    publishedDateTime: 2023-07-20T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/64b86565d96882f74caa4079/191:100/w_1280,c_limit/Don&#x27;t-Listen-To-Dumb-Robots-Fast-Forward-Business-1513119084.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Sanctuary AI Building Human Like AGI"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2023-07-16T13:37:00Z

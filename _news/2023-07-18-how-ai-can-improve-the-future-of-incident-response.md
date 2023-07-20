@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-
 webUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 32
+  - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
+    excerpt: "A majority of Americans would feel “uncomfortable” with their doctor relying on AI in their medical care, according to recent polling, but despite those misgivings it is likely you have"
+    publishedDateTime: 2023-07-20T15:55:00Z
+    webUrl: "https://thebrunswicknews.com/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health/article_d8fe9aff-5f47-580e-bbb0-f9da807e914d.html"
+    type: article
+    provider:
+      name: Brunswick News
+      domain: thebrunswicknews.com
+    quality: 27
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/1/c4/1c4dbbc1-d712-5c59-b631-c5533929e7db/64b95fb24f420.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tzFIoSGN9voIEP3RDKx72Krub/RNzGBEXbKEZFqoFi96FFgyjbRNprPh1KyhrCOopy3BOs7ENF2RRoNW9fvlnULVXUKj7g5IeP0scDP/K9ChlA/rsEinm3fVObna4yqE6VnfUbLzUiaRxfiDCK4o94HgGiYPafMxa2N0D5lNrqU480oSR7i0xqUxJ8oIMJolfvdjU+tCcLczelOyS3gVh8QzNoSRocnLVqbeWji+OwESw2BhveuC6DsVEsfbJkFq9pFCrGlq2xMu+uwrRo3U2NVrihBhwYpei50yO5oxaUkg8r6NVo1K373xoql+/feoFH80owYp4a7z8ROLvkNISoxPRK6EPGcQ3OHMYEJ6+zA=;D275E5aYx/U195GhiLMtiA=="
 ---

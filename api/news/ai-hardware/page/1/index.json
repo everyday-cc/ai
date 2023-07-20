@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-21-tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient.md",
+      "title": "TSMC delays US chip fab opening, says US talent is insufficient",
+      "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) was supposed to have its first Arizona chip factory operational by late 2024 but now has confirmed significant delays. Primarily due to a shortage of technical workers with critical expertise in the US, TSMC projects to finish construction instead by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1245437477-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
+      "publishedDateTime": "2023-07-20T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world.md",
       "title": "Chip Giant AMD Says AI To Be 'Mega-trend' For Computing World",
       "excerpt": "AI will be the \"defining mega-trend\" for the global computing industry, the head of chip giant AMD said Thursday in Taiwan, where the majority of the world's semiconductors powering the technology is produced.",
@@ -1409,50 +1461,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs.md",
-      "title": "IBM Considers Using In-House AI Chips to Reduce Cloud Service Costs",
-      "excerpt": "Mukesh Khare, general manager of IBM Semiconductors, said the company is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"Watsonx\" cloud service, Reuters cites an interview at a semiconductor conference in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
-      "originalUrl": "https://www.benzinga.com/news/23/07/33197115/ibm-considers-using-in-house-ai-chips-to-reduce-cloud-service-costs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/07/12/ibm_bangalore_manyata_2.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33197115",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33197115",
-      "publishedDateTime": "2023-07-12T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

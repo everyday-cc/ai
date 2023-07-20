@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How high-performance computing at the edge fuels AI, AR/VR, cybersecurity and more"
+    excerpt: "HPC at the edge — bringing computing power closer to the data center — empowers real-time applications for generative AI software, AR/VR and more."
+    publishedDateTime: 2023-07-20T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-high-performance-computing-at-the-edge-is-reshaping-data-center-intelligence/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/3.-How-HPC-at-the-edge-can-deliver-enhanced-business-value2.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Cyber security on alert as WormGPT exposes AI’s dark side"
     excerpt: "A new generative AI cyber crime tool, WormGPT ... indicating our commitment to adhere to the Code of Ethics for Print and online media which prescribes that our reportage is truthful, accurate and fair. Should you wish to lodge a complaint about our ..."
     publishedDateTime: 2023-07-18T13:55:00Z
