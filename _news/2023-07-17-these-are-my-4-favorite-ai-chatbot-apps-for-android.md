@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -138,6 +138,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_a_llama_programming_8c825672-172b-4e69-a6f1-b7c9e8bf5294.png?w=1200&strip=all"
         width: 803
         height: 642
+        isCached: true
+  - title: "Apple (AAPL) Stock Rises Briefly Following Rumors of Internal Generative AI Chatbot Rivalling ChatGPT"
+    excerpt: "Reportedly, select staff have access to the developing Apple AI chatbot the company plans will rival ChatGPT and Bard."
+    publishedDateTime: 2023-07-20T08:16:00Z
+    webUrl: "https://www.coinspeaker.com/apple-stock-generative-ai-chatbot/"
+    ampWebUrl: "https://www.coinspeaker.com/apple-stock-generative-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/apple-stock-generative-ai-chatbot/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 44
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/apple-stock-generative-ai-chatbot.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Details emerge on 'Apple GPT,' the company's AI chatbot it's testing internally"
     excerpt: "A so-called \"Apple GPT\" is in the works. Now we have some details on the company's upcoming AI-powered chatbot."

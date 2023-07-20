@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-companies-thousands-authors-deman
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7?amp"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Authors call for AI companies to stop using their work without consent"
+    excerpt: "Margaret Atwood, Viet Thanh Nguyen and 8,000 others have signed an open letter asking that permission is obtained and compensation given when a writer’s work is used by AI"
+    publishedDateTime: 2023-07-20T07:37:00Z
+    webUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
+    ampWebUrl: "https://amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/29906f7be2b28495056b2f58563ce466f80b6bc5/0_964_3333_2000/master/3333.jpg?width=620&quality=85&auto=format&fit=max&s=ab29bb8df04685f187402a06364d7b26"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Thousands of authors urge AI companies to stop using work without permission"
     excerpt: "Nora Roberts, Viet Thanh Nguyen, Michael Chabon and Margaret Atwood are among those signing an Authors Guild letter asking artificial intelligence companies to get permission or offer compensation."
     publishedDateTime: 2023-07-17T09:10:00Z

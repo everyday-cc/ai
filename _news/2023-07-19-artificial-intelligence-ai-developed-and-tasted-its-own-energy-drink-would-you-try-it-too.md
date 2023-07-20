@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (A.I.) developed and tasted its own energy drink: would you try it too?"
+    excerpt: "Picture this: an Artificial Intelligence (AI) that not only designs a drink but also carefully selects its ingredients, formulates the complete recipe, and even tastes it for perfection. Sounds like something out of a sci-fi movie,"
+    publishedDateTime: 2023-07-20T02:19:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3361381"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 27
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/07/18_Traveloka-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "HELL ENERGY: Artificial Intelligence (A.I.) developed and tasted its own energy drink: would you try it too?"
     excerpt: "Picture this: an Artificial Intelligence (AI) that not only designs a drink but also carefully selects its ingredients, formulates the complete"
     publishedDateTime: 2023-07-19T09:24:00Z

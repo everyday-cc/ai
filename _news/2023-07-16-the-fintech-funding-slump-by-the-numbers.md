@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-n
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/16/the-fintech-funding-slump-by-the-numbers/amp/"
 type: article
 quality: 74
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -163,6 +163,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/deb69e89e1011e6ec06bcea4ac6c5a69:93e2f0c46b126e3707f823c2089083a8/gettyimages-1351571961.jpg.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Essentials Of Blockchain Technology In Fintech"
+    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
+    publishedDateTime: 2023-07-20T08:24:00Z
+    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Women-focused super fintech Verve raises $3 million pre-Series A"
     excerpt: "Verve Money' launched this week as an ethical investing platform for women, with a minimum 20% investment in climate solutions."

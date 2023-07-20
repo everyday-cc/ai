@@ -21,12 +21,12 @@ topics:
 related:
   - title: "AVIA Forms Pioneering Industry Collaborative to Identify AI Risks and Opportunities in Healthcare"
     excerpt: "Over 20 health systems, industry associations, and government leaders have joined AVIA’s Generative AI Strategic Collaborative"
-    publishedDateTime: 2023-07-19T14:02:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article277461333.html"
+    publishedDateTime: 2023-07-19T15:03:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article277461333.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 23
 
 secured: "Adz3m2LYdx0/myTR92WRmc8QlsrV/2wtH8kCQiWK+GqmtOb3TmrL3dOseRKK31/sGY7o0yEzarbqRS7xWMxdFYf6LRYfJQEoGHWMcNnWJLz516cqSNWRht7XT1SSWgHs3+j7n7x74NRBfwkORzNonMicnQO7X3hVaGoP7KLxC7Tdq6xqcR4AMPAgBFjlLUDbDGpPQh9x3d/homILvUA2I2uh7i7fGSbrGFiFGrGWUQKrHQjuDoi6pMj1gRbmZ0TbiFTdC0W1KjdyxudiT6qEGgb8A7QcFwqDK3U+q9ty2d8QcIhrgW/ApnnJcEX0FQ2Aw7IMbNILo6UKVxfqi0So3OevFiFc/XGa10oASS6+LXU=;2ZgqgiwBR5b+5KojY5mbmg=="

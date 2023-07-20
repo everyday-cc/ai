@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-
 webUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Engadget
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI grabs \"South Park\" director's chair"
+    excerpt: "Why it matters: Despite the trend, House Republicans are slamming Homeland Security Secretary Alejandro Mayorkas for \"dereliction of duty\" at the border in a 111-page report released Wednesday — teeing-up a long-anticipated impeachment inquiry."
+    publishedDateTime: 2023-07-20T09:39:00Z
+    webUrl: "https://www.axios.com/2023/07/20/south-park-generative-ai-episode-generator"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "CCD2BkFNzma3cKuYj1DYuVxrobrLnk03bBFAnOJlZz28ByDGLAkrPXqNKOMLrQ3KIk1BzVyblCjdxNHXevtKUZicspoJzi+7vVrSkd5Lpdnm1nDhO2+Br2AgVEqWWTNGpgwWYoqCEvOfRk/v0Emzya3CBwALJzNzzpmMuPNVtZbeP2h4t8sdbYtFla9MmZm2KMnvU5Xg7l7ETm/ZMIIEGgBFMTjEku3vfmUA6HtO1dk+gv0bCoHuRPM6GrocfpofCuGYQnzEnNaX56uRMh0IN67TFkcA46KN3G94B+d/qQqb3oHmWjmXDBQdtPQFdkvMjfmiQNcpreDYFcGSlGIVFvHB6EZ9g6VIPmlURO1OhNJtNpj5lcJtyD2PIvXONM3wel4z1IxjLIS9bsqE2XyGxwrMnkX1yoqd6+6XFslXdN6DPDw9EwAEHO10ZuN60xgtXBYexKxB16T+Q1A5kc/iu70qzPl7mzK4J4VN+Fmdx7tm7D+5qGS4aTN94AgXRpxV/7XUhQO0V4qHwRRdRdKVOQ==;ksX2szsLplNWYENBq9sMQw=="
 ---

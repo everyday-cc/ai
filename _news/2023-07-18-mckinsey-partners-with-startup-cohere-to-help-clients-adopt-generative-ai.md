@@ -61,7 +61,16 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 29
+  - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
+    excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
+    publishedDateTime: 2023-07-18T19:45:00Z
+    webUrl: "https://techbullion.com/10-ways-ai-can-cut-business-costs-during-challenging-times/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
-secured: "Rh9kfCEZzNU7UMqieK7g9vk5UzuNODMPD/bys+voCwoQr2rKZc+ohamouM4mk4r+j1BZ6cQRN0UgT+rHJnS9WEjetehevfHoNkTyYeqB85xQqNOP9FUUTdz3DXa+aqvn4OaN2U2QJ9wHXk79HYsp0pxOedZdsXtam6ek7Cxb92OllriBxGJJDg9cMCWbigUxfduoKU923o0ZkWhpIq+ZE6F0iFLcbXpzAGFP6YaMHke4orbtmvYIEPoVo5gRsWIuWHh9RlBhHRjU+SnWCe5Ndkx9AAHZK8S4rDYoioOtdOcgHvMfqX+JPPIrXzDOZjmw601UGw2fRHxGi164UKGdUOBBbYrDlDgmeDpO8Vi/UBE=;SbcOUXd+oEkNFB5mQmlpqg=="
+secured: "PrZQ6hO0fUVdHLCn12hMl4I4qIdvx8TQ+2Bo8bqsmGHu6842jwpdD38HIZmx3fOcDMjPybGb7/sVXmVibfH4f0QE+kAxkkOeBItcOZTS6goaYW5EmIuzXT6HRMO2iKy/rx0IJ3FQ5eGh4CWLnFAb6Sl+8epj5Yn8RxBJ1FuG/rhuXMgzwfzJws+RWkt6LiyHe6plXJ9F//UT4lT8vw9b589C01edsWVcfDFiB4rKfmOk1cyHVaKu26xly0CCL6+ipB1kyWwLMLOcKXVCfTEhNkhl0wlw8+bDr1rknImuTXsKfE7jX0uqHKqVxS6liSxjNawHY2alKTFOZxEvR0lpVnOQoJ76P8+r+s4qkgBTQ2YDpmjYZWewKMfmJuJggM9oFKvTDF4cPzxZ+Yzf8tw0KFMNWgyfW8PKn9ceNUebXDiEywb5bEO5XwX8cIkpL6UsHFRBKLPKzOVpYDP+Q6b1NCy57pV/LnU8yT2QD39vkguWsVmJ5K4SeaMhkq7t7zBqHzyRLMP/VADOoQt9wYj03A==;bJbfWlzALsyQNI5JQPY1nA=="
 ---
 

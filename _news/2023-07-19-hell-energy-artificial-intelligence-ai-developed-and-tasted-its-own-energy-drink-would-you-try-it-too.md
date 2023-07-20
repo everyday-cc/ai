@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence (A.I.) developed and tasted its own energy drink: would you try it too?"
+    excerpt: "Picture this: an Artificial Intelligence (AI) that not only designs a drink but also carefully selects its ingredients, formulates the complete recipe, and even tastes it for perfection. Sounds like something out of a sci-fi movie,"
+    publishedDateTime: 2023-07-20T02:19:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3361381"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 27
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/07/18_Traveloka-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "q+1ApN6LLSWxQ4lQTyS/+h+G+FyMItuDx3QpYLrIcYFgZypv9+55BPuEIi2Cg/XKREQ8CXxpzO96FiISmMOHER6eH8e1LXEgFfDJN3nsdqfPUGA+93JKTxovDeCF8fc1+rsAsXlF8vWNvn9WNfiaXmpw7U1hecojJekrufvk8uh1XVkrQAc5d55pPDE7/UHuEajeUMnnGfBcIrKBFn589qLGlbkkP/FFHfwKXvoQK+QF0GR5PsBsej7C/3cfNB+S4eWOj54yvP/JGZq8R2jp7FVvkpRPAoBEB4BZBYqZbNtkazEYUSvJcHJfIZWRQJyVBErVskKmPnJ25DDLupxvoCFRHui22ScCoVIK4tCaHuU=;e5DWp2ar096Q6EBbw6iL5A=="
 ---

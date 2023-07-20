@@ -174,6 +174,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Essentials Of Blockchain Technology In Fintech"
+    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
+    publishedDateTime: 2023-07-20T08:24:00Z
+    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "FULL TEXT: Q2 2023 Ghana Fintech Report"
     excerpt: "The second edition of the quarterly Fintech Report titled “THE GHANA FINTECH REPORT” has been released. Ghana's Fintech sector has witnessed remarkable growth and innovation in recent years – and as technology continues to redefine financial services,"
     publishedDateTime: 2023-07-17T07:48:00Z

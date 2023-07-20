@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of
 webUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/"
 type: article
 quality: 114
-heat: 116
+heat: 114
 published: true
 
 provider:
