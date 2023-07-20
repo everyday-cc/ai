@@ -71,31 +71,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 49
-  - title: "AI versus AI: Human extinction might just be collateral damage"
-    excerpt: "As computer scientists have warned us, the algorithms behind AI systems are capable of inexplicable mistakes and \"hallucinations\" — seemingly reasonable results that are entirely illusionary."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.salon.com/2023/07/15/ai-versus-ai-the-risk-of-nuclear-as-collateral-damage-is-real_partner/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 39
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/missiles_1434662965.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Emotion AI: Understanding and Responding to Human Emotions"
-    excerpt: "In the rapidly advancing world of artificial intelligence, Emotion AI, also known as Affective Computing, is a fascinating field that seeks ..|News Track"
-    publishedDateTime: 2023-07-19T07:25:00Z
-    webUrl: "https://english.newstracklive.com/news/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/emotion-ai-understanding-and-responding-to-human-emotions-emc-sc71-nu384-ta384-1285927-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 39
   - title: "A simple guide to help you understand AI"
     excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
     publishedDateTime: 2023-07-17T09:39:00Z

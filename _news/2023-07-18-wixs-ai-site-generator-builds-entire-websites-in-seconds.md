@@ -58,15 +58,6 @@ related:
         width: 920
         height: 460
         isCached: true
-  - title: "This is how generative AI will change the gig economy for the better"
-    excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/this-is-how-generative-ai-will-change-the-gig-economy-for-the-better/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "AYfFoIpg+12p/8bFIjbf87YKAJabqzYno8G0o5vxuvXDZ1gzsCszHVl5vYP2/+FQ1AkvgOsRZWg9Ob2k8P0dRqll9JXb2AkHCj0sBN8WPEehlBGufwY8Pamx8dSvz/pXiAyuNh4F4p1TXL4rab5rl2Q4HYhzXKKtf0sAUGx64ldI38PN3SRGm3TFJT6rh5rcnCbSvdawA94GyO3Bn6HmsflIxrazC1cLwDm2VhmKJPDEWWjOr+JVe2OlXUUbcojqGoEAwD6Iu1yPIwifid32OOgHLmCz9PsAc9ifHHbO5CHQY5VdfNfeEId0u5ElKucz5kYetQX6Cp1K0gDQE19L30velH1UpkXQBRG0pp7sbdL3JspYwdS0leWnCfHk7pyLFgy3NWf9lZBsrjobKJjzD3YC1MK9NbrTob6Ar1I+Bee5rpWOEQP7k8unDplg9XHCCLjeP/PNNPblwpQZWBbHCN14PpzMb+wlYdxJKwzdxXw2aOS31/07BmJFo8LivG0gPKBXgC5+yuYr1sseH/FISA==;c53ClCnrHHfWWPSlVKPsYw=="
 ---

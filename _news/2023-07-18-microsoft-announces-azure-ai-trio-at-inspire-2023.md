@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 type: article
 quality: 119
-heat: 769
+heat: 799
 published: true
 
 provider:
@@ -492,6 +492,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
+  - title: "Meta unveils AI chatbot Llama 2 for commercial use via Microsoft"
+    excerpt: "The commercial rollout of Llama 2 is the first project to debut out of the company’s generative AI group, a new team assembled in February. To prepare the new model for release, Meta employees and third parties ran safety tests called “red-teaming exercises.” It’s a separate model from the one Meta uses for its own products."
+    publishedDateTime: 2023-07-20T05:37:00Z
+    webUrl: "https://gulfbusiness.com/meta-opens-ai-chatbot-tech-for-commercial-use/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 56
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/Metas-Llama-2-model-released-1.png"
+        width: 920
+        height: 630
+        isCached: true
   - title: "4 big analyst picks: Microsoft upgraded to Buy on Cloud & AI"
     excerpt: "Here is your Pro Recap of the biggest analyst picks you may have missed since Friday: upgrades at Microsoft, Plug Power, Baidu, and General Mills. InvestingPro subscribers got this news first. Never miss another market-moving headline."
     publishedDateTime: 2023-07-17T09:54:00Z
@@ -575,6 +589,20 @@ related:
       - url: "https://www.healthcaredive.com/imgproxy/kOWfD2ShjgQn4cjAE4UozSetVvZ8l6nsoI0nDML5F-w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNTMzNTc0MTAuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Azure Enhancements Outlined at the Microsoft Inspire Partner Event"
+    excerpt: "Azure Boost is a software and hardware component of the Microsoft Azure Network Adapter ( MANA ), which is also at the preview stage. MANA is an Azure \"next-generation network interface\" that's designed to optimize the networking performance of Linux- and Window-based virtual machines."
+    publishedDateTime: 2023-07-19T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/07/19/azure-enhancements-inspire-event.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BuildingsandCloudsUpBIg.jpg"
+        width: 1665
+        height: 1158
         isCached: true
   - title: "Meta and Microsoft launch open-source AI model Llama 2"
     excerpt: "Meta and Microsoft have teamed up to release Meta’s latest AI model Llama 2 which was built specifically for and made freely available to enterprises and researchers."
@@ -673,6 +701,20 @@ related:
       - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
         width: 611
         height: 458
+        isCached: true
+  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
+    excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
+    publishedDateTime: 2023-07-20T05:08:00Z
+    webUrl: "https://startup.outlookindia.com/sector/saas/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai-models-news-8935"
+    type: article
+    provider:
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 46
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1681875877.jpg?utm_source=fb"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
     excerpt: "In recent months, the remarkable strides made in AI innovation have ignited a wave of transformative possibilities, captivating our collective imagination with the promise of reshaping industries and the way we work."

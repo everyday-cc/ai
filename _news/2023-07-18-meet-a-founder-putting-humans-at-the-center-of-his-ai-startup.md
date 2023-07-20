@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/"
 type: article
 quality: 89
-heat: 121
+heat: 119
 published: true
 
 provider:

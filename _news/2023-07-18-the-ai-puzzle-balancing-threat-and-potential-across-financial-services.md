@@ -55,6 +55,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "AI in law, consulting and professional services"
+    excerpt: "Lawyers and accountants charge handsomely for human expertise — but firms have still been embracing the technology"
+    publishedDateTime: 2023-07-20T04:00:00Z
+    webUrl: "https://www.ft.com/content/d2401cde-cd49-476b-83f0-5647054d9f99"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29730386-e3f3-420f-b566-85b8ce49ad79.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "pFZSYyTHCSuPboI0H3RrOKcqiP51HwLvAOyOiXUlr3vECFtGoG0QnMJrqcNCa+mzRSx4ih4Z50LTqmY7620EmVbuM3xScxLibHwhnpJWG1WUa+Au2B/3LRrjIEnZ3wR59G7WeN8a4DITuB4qNKukW7nBE6E+0gXi+pw8dt+CYaVJMuyY6JG1qtWGl0XONRcsnIkX7UxPlcV8ZeoCvjja+ieCBFer6wbHwZTbb364XG5Tsd14CIIvNeb1p9F78UtM8gfZtwyqbZN1gFb2OGOCgPknj1I0Pc/3Ek9XxJSCYFuvTqXbyQPV+jK8RusaYfSnXg/qAat7ZPfMEet8+2nDd43MaL+SMcHs+JSApktO92M=;LV9w1epMhU4qXUyaxH5a9g=="
 ---

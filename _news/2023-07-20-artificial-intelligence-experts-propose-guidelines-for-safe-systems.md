@@ -3,18 +3,22 @@ category: news
 title: "Artificial intelligence: Experts propose guidelines for safe systems"
 excerpt: "A global group of AI experts and data scientists has released a new voluntary framework for developing artificial intelligence products safely. The World Ethical Data Foundation has 25,000 members including staff working at various tech giants such as Meta, Google and Samsung."
 publishedDateTime: 2023-07-19T23:06:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-66225855"
-webUrl: "https://www.bbc.co.uk/news/technology-66225855"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-66225855.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66225855.amp"
+originalUrl: "https://www.bbc.com/news/technology-66225855"
+webUrl: "https://www.bbc.com/news/technology-66225855"
+ampWebUrl: "https://www.bbc.com/news/technology-66225855.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66225855.amp"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -25,6 +29,6 @@ images:
     height: 576
     isCached: true
 
-secured: "8nm66Gfa67aOaMLihTs10i7xLdllt8c2+L2dbX40xNrypdqhFAqdqDWmhrIKceIiuzU0sL5yR2N9y7+qUlqdmhx7556FYIM0U2cBrXx/Fmv2JhN8uB2xbvEGWXPHTwNaRe0aRLuC7sjy9mfb7wt785ZRFD3kEb9+oRc4zWjDnG06V4inVR6ipjKlYIRsz+CGAYwseeGRrxCKMJ/LvCQOdqmN64+B4poWSxiHeDdVJVjOpTRW4iDdx2EmCco6FloliLVgiCXa26ca+WhLeCjAy0TO5lmTJ2ckh6O/9fAO04JyQgVy4pRK3fzIYaOHDYhw6l34BEGEqzwd5+rmqw3FhQ2AD6fmbsYB5AvSWCLM7tA2G3cXEf2Vf0CRPdn0ILLHuENLhQP/ByMxD33h7ai6EuD3cIEPhmtU5BeiTAVv2ZuPBesDt35y2Kbl3sYrPrhtDpzxYzF5gC9InQPOAyn67BfZSHKqRWqoFUhLgeC3BCUyIhY5P3TEU3Mnu+UHIVrTwDlrmo0aR3HUHMW3iMZ8hg==;kApVezOXnyI2SsBAlmkI4g=="
+secured: "vdIolCmFALJiiQE98Mo5EqriQtWzBPoqGRZMd0OhAkAYKsscl4Ygfb/CHAKlADqFm/R6HPkhgZ8IuNNzSBLIgjCxrPG9r70ZoJa9Z9U1sfSvyPn6wbAHX8SACWYeL8kzfAn9z5d6/NTK4ndUWZz6N0620in95DmXHy1UYfvvbVhM+jk8wV0OdBiRRYIJLl14ORhIKlHmjwgJi7uxnE7nHkvDVVeXOzUNKsb6RoXCB3dNOiaQr6YWfteR6vFqHjZJ/lfCQv7nVivNLsXrV+BExXHyHUFMoIGmVhD6s5WiJSZ9pVJM10N/6NiM02u1+lQy/FziutaIA8B3Kv5fvY5PlKuCdprKkuuHf6/0K9io/0I=;lhr6pKprxgNkN+CHdV2teg=="
 ---
 

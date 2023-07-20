@@ -40,15 +40,6 @@ related:
         width: 400
         height: 222
         isCached: true
-  - title: "AI Appreciation Day2023: Celebrating the Power of Artificial Intelligence"
-    excerpt: "AI Appreciation Day is celebrated on July 16 which provides a designated occasion to recognize and appreciate the impact of Artificial Intelligence"
-    publishedDateTime: 2023-07-15T13:07:00Z
-    webUrl: "https://www.jagranjosh.com/articles/ai-appreciation-day-2023-artificial-intelligence-list-of-top-tools-1689425414-1"
-    type: article
-    provider:
-      name: jagranjosh.com
-      domain: jagranjosh.com
-    quality: 35
   - title: "AI Appreciation Day: Celebrating the Power of Artificial Intelligence"
     excerpt: "Here are some quotes from CEOs of various industries on the significance of AI Appreciation Day. Read here all the details in the article."
     publishedDateTime: 2023-07-16T19:01:00Z

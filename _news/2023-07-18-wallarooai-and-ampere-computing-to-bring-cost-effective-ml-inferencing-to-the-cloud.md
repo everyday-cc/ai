@@ -49,14 +49,19 @@ related:
         height: 767
         isCached: true
   - title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
-    excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
-    publishedDateTime: 2023-07-18T15:01:00Z
-    webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+    excerpt: "(Reuters) - Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that ..."
+    publishedDateTime: 2023-07-18T12:52:00Z
+    webUrl: "https://www.aol.com/news/mckinsey-partners-startup-cohere-help-120140421.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 16
+    quality: 36
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/59b9ca713905e11914629ed7d3b9e79f"
+        width: 800
+        height: 522
+        isCached: true
 
 secured: "+AZfLqTtyNRNYnEhlMivWJrmp93ijryuN2PQMiMNMYPDf1KX7FkO97/Ey6bpFV0QgNI+L/+hsEYBUWQWVw5BJwDsenoDBbmX6dWcH62i1XjlMtMUUW/U1na/38CgkG9tuRUC2SQ2sbHIqwwXbySUhfAvojgjDFBb7gBzE5wQTDqDvD5OpVHzjHMwKZZ0WYTpzS07dd4A1DiY2MXGwnQhldjtAz4dGtnW3GqzMM1xYgv6WpvVZzVAhYVRfLHRUEp1swy2YGToFl7Xv16ksm1J8LxTy/P3uie91UmysAY0gJ4cSvJMsEm/F+/uVdk1bqQbV4QtwwMT404y1WnACDPMwTMXX9rfIviPvhLe8TW1nj4=;zyc2eB+lCcP6xCqlYK5tFw=="
 ---

@@ -115,6 +115,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
+    excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://iblnews.org/meta-open-sourced-llama-2-its-newest-generative-ai-model/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 39
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
+        width: 860
+        height: 510
+        isCached: true
   - title: "10 Things To Know About Meta's New Large Language Model - Llama 2"
     excerpt: "On June 18th, Meta launched the second version of the most popular large language model (LLM), Llama. Unlike its predecessor, Llama 2 is freely available for research and commercial usage. Because of its impressive capabilities, it is causing quite a stir in the generative AI community."
     publishedDateTime: 2023-07-19T12:28:00Z

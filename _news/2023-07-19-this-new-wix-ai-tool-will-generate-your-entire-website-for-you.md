@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-j
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/"
 type: article
 quality: 87
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "This is how generative AI will change the gig economy for the better"
-    excerpt: "Artificial intelligence will augment work and could add more opportunities to the job market rather than tank it, according to tech executive Gali Arnon. While some fear that AI will erase huge numbers of roles, Arnon argues that AI will accelerate the pace of job creation, augment work, and accelerate startup opportunities."
-    publishedDateTime: 2023-07-15T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/this-is-how-generative-ai-will-change-the-gig-economy-for-the-better/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
 
 secured: "kTINUxkfSoWXswKqGNHKmoL30Ys9947fOxEtZYZFK74PkCp2fHgnGkvchbmNV+5miYSiWY1UhiaSrHI/zl9641UPBeNaWyQRi1wpOtl01Eqxw6oNfEUXQrO/Nlw0myVs+ZLxsKNREJS+fHcTvowasU/6aXMsr0yrrc85SdZQj17oN7N/DZHPp3xQ1UaPQmxuC4qQyLuYvRAaRPvFJUjTATda/Ox2F7z96wRnfoKNSItgBBe2RuG3tfnS07repMI8WzNO9Vd2ASsp6BJUiKUzBGRb0iQx3Zx5JhrYTL92av72IKlGM9eCC+7Btc8Z80QxRqS6xMyOq5CvnD2SLWrZsP1NOlunNeywzu4I+QMdEVj/Jpvky2vV3A0PltKL1KlQPSdb/LVY54/dFAgNAMFhNRQSbDCAXCX/qag4BpYFv6RDZEEi7TYXMnHC13mFShNbgpT8DoWppxFkgH1r20PnVc20HxjIJN1zC6fL1buxrzsvxR6Hz77TXQChJ9i3zsUsA5+SQUEMsEiLmzKqbnGQkA==;PCRC/sBdiAQ06qSGv0r6jA=="
 ---

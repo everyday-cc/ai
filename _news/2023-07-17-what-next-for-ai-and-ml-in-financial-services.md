@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml
 webUrl: "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/457401f/6ba1c5b7-3e8e-4c67-8faa-314b8539b770/8/KHALAF-Laith-AJ-Bell-2018-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "AI in law, consulting and professional services"
+    excerpt: "Lawyers and accountants charge handsomely for human expertise — but firms have still been embracing the technology"
+    publishedDateTime: 2023-07-20T04:00:00Z
+    webUrl: "https://www.ft.com/content/d2401cde-cd49-476b-83f0-5647054d9f99"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29730386-e3f3-420f-b566-85b8ce49ad79.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "MA0w/In9BGMsxN5pLnrWIt81AWzqPDZOJJqr2qu7thOqeTEta3xAfEkogXm70lJ4HWz+1nbdJwea0qPNUo5raMZftjKQP73CnnW3ENLVv0bVW8CfqGsvXtx2jy6zJRSS0REcyzdP4NvXhD7gf2EUA0Qfyz0ssNmhwIDUqPis8kCjsoM65VBR0KqJ0IulP+JcYHGvIr862oCPmQZjoplDo3LRsY+AnCHl+UCKHVdT85000aR2CCgbJDKsx0/NjvdOX5qOVpZtJDESfuzxEz9PdOu0vJCGCJkV2mh9624UvNAO1/CMCCsgEu1uj2pETX0M7mxcnk85lYqqbysoCIYs+6giC9Bl8b/tHVvFLfp/zcM=;ssc/EWLE08yf19XvAjjw/g=="
