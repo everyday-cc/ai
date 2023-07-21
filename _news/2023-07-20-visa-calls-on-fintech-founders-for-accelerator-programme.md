@@ -129,20 +129,6 @@ related:
         width: 2560
         height: 2560
         isCached: true
-  - title: "India's Think360 make top AI Fintech Companies List"
-    excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1"
-    publishedDateTime: 2023-07-17T01:56:00Z
-    webUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1689559558.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Egyptian fintechs team up with Fintech Galaxy's open finance platform"
     excerpt: "Fintech Galaxy's FINX Connect now hosts over 10 prominent Egyptian fintechs, including Sympl, Synapse Analytics, and Valify, strengthening the bridge between Egypt and the Gulf region's financial sector. Joining FINX Connect allows these fintech firms to ..."
     publishedDateTime: 2023-07-18T08:40:00Z
@@ -247,6 +233,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Indias Think360 make top AI Fintech Companies List"
+    excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+    publishedDateTime: 2023-07-17T14:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Africa’s FinTech Outlook: Opportunities and Challenges"
     excerpt: "Spread This NewsIn many countries, the fintech sector is seeing considerable growth. According to a new study, the fintech market in Africa is projected to reach $65 billion (₦50 trillion) by 2030 — a 13-fold increase over 2021."
     publishedDateTime: 2023-07-19T03:41:00Z

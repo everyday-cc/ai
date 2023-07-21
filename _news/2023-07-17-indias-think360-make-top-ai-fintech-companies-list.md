@@ -1,28 +1,22 @@
 ---
 category: news
-title: "India's Think360 make top AI Fintech Companies List"
-excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1"
-publishedDateTime: 2023-07-17T01:56:00Z
-originalUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
-webUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
+title: "Indias Think360 make top AI Fintech Companies List"
+excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+publishedDateTime: 2023-07-17T14:12:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Malaysia Sun
-  domain: malaysiasun.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1689559558.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "The fintech funding slump, by the numbers"
@@ -285,6 +279,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "794ePTwzyBBgDctW5fLevgslQ1lT/hX9E0fVRh/mK13if8GDplHXlbUkvXrC9xBnFVvp87gpMVM9ZuycSo9D/ZWWlYxjKCG46iHWscJ3iAaHSThWBv/dYs9OzQh5nsHMP0KaOgKo6pfmPJlLAdrYQvrqY3UDmhEIkgQf+HkMydVBqjpEbiePYdwEnGKoi3xsU7j2PPmm9lH6UcwFYo1E3OpjFKce7mLWhZG1t3m9HVD4+qcwi1j1T/4EPukKN4mJhLR5okGo3bofVvqTR4GS8Ht53JM31CVsAVBYsxXoP8RBPuKf9vTXFShDHxKFgAAMjdgS2zWlAu8YH+lseob+r3p54VgDibao4ui7HvcDsp8=;fOL7MsamZP3L9tDKm2P/hA=="
+secured: "4cgq4jv7/6puS2oYhUdYzYMUNPAjro1LTsUoWyQxOKNI+nZFI/OsHtKBvT/kEFTupDrqqUXhN5lrTjsE4puBJ6k9ADe7dwsYZfXjLwuuWs+iIQQS20tNyDnQUXAJOMPGntjNBuUilxm8EpI+LEtyv81zR9U6fZiniHLz27+CCxRlrZo/dJxVZHdKK6d43PDOzC+Gooi1bXri9WR4ca4lT3HGopfrcDmoFclbfrq7dXkntuUB8Ri//fpDxnnAMaN/OqOxhPi4eA19fTUKjfrifglt3qJMofY/QIa4hLuenddi78IM5iCt+8XgoGdsVcSCtqA31FvPLk0bAbYnlqeOVYK+q6IwbDSja7ProIxIPAs=;om+oPBOwotGFG4Ru3yigmw=="
 ---
 

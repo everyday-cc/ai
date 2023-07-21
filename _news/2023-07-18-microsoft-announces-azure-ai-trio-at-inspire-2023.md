@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft announces Azure AI trio at Inspire 2023"
-excerpt: "Among them are three new AI capabilities that merit deeper exploration. These capabilities follow a substantial number of Azure-based AI releases this year from the Redmond-based corporation. Also: The best AI chatbots John Montgomery, Microsoft corporate ..."
-publishedDateTime: 2023-07-18T15:35:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
-webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
+excerpt: "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale."
+publishedDateTime: 2023-07-18T16:08:00Z
+originalUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/?ref=dailydispatch.ai"
+webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/?ref=dailydispatch.ai"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
 type: article
@@ -1038,6 +1038,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "DHg2Ok2aTCbJDlnb25qFXtDBSsVmbJqu7rH0Jaj2hqAnzLQcmsk59wsrQXB40AGn+fVgQx5nuqjHjat6WZb2uQWD4lWMiv9Tt7Dw0iw0lnAO5h7wl4svH6XoYMYSMpLsC4biW6G7rORLBGfLLnxzYP3HkBpJZ6ho7xwj75H/Il/4gvVlzKAw3Vu98INm+HphGKT2bD4lV8nPO4lY/0VNFIa5PavwNn2CcDthvFebMcptejIQWxlZhoGlKYLn3EgSyKJzN3bGMJr2nLEtBc7mwPJoMQoZj8M+LnNTT+JfVqTBTff09IL9GoE8XOlZiqDpxm9/49lGJGgJG+8KDNQvsrC1hEi1CYETibVGuQVmYRyO4PLYtoyZxni3iU6zz9aGH4ChK9R3/BzttIQzCht1GKOpVljDf4yg6BL0RDioR/Eev41a0R0A6ITsMLyMUODe+FP+lGhDpNdXfzS9kRUQQlij2A5sAROykzrZig2vZVVhg+0MudXr+gtBY5/K/obG6S9mL0Al/7PIsdQgutOwrg==;JHn/ptvtPx4AwJ/V/Pv8fw=="
+secured: "IHpbZQjhZek7EqEQRL7t8DN+795FhKWlGtb16Y2stkJWIeN5CuwiFm1Hmp24I2Ibxv22hXQrnKpQtL47JUZIUd79vUjCL6x3r3jxUCVaf2qqVNulp4/KtIQTCqxzsqhl2pZ7bIAUKGgv+mdtdopir0MWJm35NjaPyAa7PSG/LwMEwzYxGYiON+W+G9gu5A2A++E3LSdCZlOG5mRAddOMwGVMv3G22d/Mk5GJiVAIWz3blX/Q/d5aKd2Z2WkwqegYv/pDhIRIG+oQ3qefW/jlZa5opZVZL50qdmXjU+aaNxQBpYbMMWimy8lfFym8uUEQnnt4erwlITzQ7Qxo3WOKGF/kMvb9PeS8ZVT19wOGJpM=;nHQ05+YkPCyRj+4RCZokCQ=="
 ---
 

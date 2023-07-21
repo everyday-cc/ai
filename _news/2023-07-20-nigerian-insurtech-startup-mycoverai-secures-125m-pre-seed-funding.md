@@ -9,7 +9,7 @@ ampWebUrl: "https://disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-myc
 cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/?amp=1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indian AI Tech Support Startup Laying-Off Employees In “Batches” Citing Investor Pressure To Become Profitable"
+    excerpt: "Indian AI tech support startup Saarthi.ai has allegedly laid off several employees in batches. The company has claimed it needed a leaner operation primarily because of \"investor pressure\". As Indian startups, primarily in the tech space, increasingly face ..."
+    publishedDateTime: 2023-07-21T05:47:00Z
+    webUrl: "https://www.gizbot.com/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 37
+    images:
+      - url: "https://www.gizbot.com/img/2023/07/saarthi-ai-tech-startup-employees-1689918180.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Insurtech Startup, MyCover.ai Secures $1.25M Pre-Seed Funding Led by Ventures Platform"
     excerpt: "Nigeria-based insurtech startup, MyCover.ai has today announced the close of a $1.25 million pre-seed funding round, led by Ventures Platform."
     publishedDateTime: 2023-07-19T11:23:00Z

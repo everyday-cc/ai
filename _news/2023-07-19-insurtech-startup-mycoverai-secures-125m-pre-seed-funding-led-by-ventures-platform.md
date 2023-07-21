@@ -40,6 +40,22 @@ related:
         width: 898
         height: 461
         isCached: true
+  - title: "Indian AI Tech Support Startup Laying-Off Employees In “Batches” Citing Investor Pressure To Become Profitable"
+    excerpt: "Indian AI tech support startup Saarthi.ai has allegedly laid off several employees in batches. The company has claimed it needed a leaner operation primarily because of \"investor pressure\". As Indian startups, primarily in the tech space, increasingly face ..."
+    publishedDateTime: 2023-07-21T05:47:00Z
+    webUrl: "https://www.gizbot.com/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 37
+    images:
+      - url: "https://www.gizbot.com/img/2023/07/saarthi-ai-tech-startup-employees-1689918180.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI insurtech partners with Australian insurance consulting practice"
     excerpt: "CLARA Analytics (CLARA), an artificial intelligence (AI) technology for personal injury claims optimization, has announced its partnership with OPEX Consultants (OPEX), a boutique growth strategy and profit improvement insurance consulting practice based in Australia, as reported by Fintech Finance News."
     publishedDateTime: 2023-07-18T13:00:00Z

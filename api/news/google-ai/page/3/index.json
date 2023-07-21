@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-05-master-generative-ai-for-free-from-googles-courses.md",
+      "title": "Master Generative AI for Free from Google’s Courses",
+      "excerpt": "At Google I/O 2023, Google, one of the leading players in this space, introduced a suite of generative AI features for Gmail, unveiled the advanced PaLM 2 language model, showcased Med-PaLM 2 for medical applications,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/master-gen-ai-for-free-from-google/",
+      "originalUrl": "https://analyticsindiamag.com/master-gen-ai-for-free-from-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/09/Googles-Birthday-Evolution-of-Googles-Capability-Over-The-Years.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use.md",
       "title": "Singapore's Central Bank Partners With Google to Explore AI for Internal Use",
       "excerpt": "The Central Bank of Singapore is partnering with Google’s cloud unit to explore potential internal use cases of the burgeoning artificial intelligence (AI) space and advance the development of innovative technologies in the Asian hub,",
@@ -1355,49 +1398,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-10T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-being-bold-on-ai-means-being-responsible-from-the-start.md",
-      "title": "Being bold on AI means being responsible from the start",
-      "excerpt": "Google’s James Manyika discusses how Google responsibly applies AI to benefit people and society.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-responsible-ai-io-2023/",
-      "originalUrl": "https://blog.google/technology/ai/google-responsible-ai-io-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T11:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

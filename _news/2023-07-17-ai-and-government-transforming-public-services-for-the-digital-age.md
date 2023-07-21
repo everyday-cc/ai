@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-gov
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Let’s use AI to clean up government"
+    excerpt: "Artificial intelligence could be important in keeping people informed about the government, reforming red tape, and cleaning up waste, fraud and abuse."
+    publishedDateTime: 2023-07-21T06:00:00Z
+    webUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government"
+    ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70b71475-d1c7-4614-b8f0-7813636d7907/65f428c8-c417-478c-8692-21def9354f09/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Good governance essential for enterprises deploying AI"
     excerpt: "As AI becomes more complicated and pervasive, enterprises need to prioritize building fair and transparent systems, says Stephanie Zhang, Head of ModelOps, AI and ML lifecycle management and governance at JPMorgan Chase."
     publishedDateTime: 2023-07-18T14:32:00Z

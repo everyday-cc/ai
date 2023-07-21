@@ -24,17 +24,6 @@ images:
     height: 1027
     isCached: true
 
-related:
-  - title: "Palestine Becomes Test Field for Israeli Military Artificial Intelligence Technology"
-    excerpt: "Several reports say that Israel is using Palestine as a testing field to test military technology equipped with artificial intelligence (AI). Palestinians became victims of the experiment."
-    publishedDateTime: 2023-07-16T13:16:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/07/16/en-palestina-jadi-ladang-uji-coba-teknologi-kecerdasan-buatan-militer-israel"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 10
-
 secured: "PRZFZ1vE7O0YrpP85JN84nzYYM2bVx6nZggVHcJfxCoSqALcn8kcMyVjK+ckNW13WOUbg7E5deXp1r53j43FhReA2Kqgqduf+zFZkieCtstCC9Lz1HXq6ZytVYsJvvVmyIVDLIm28cANKVob3fsLDo2lljGRrjG9YkV2MIJiNDCdJHHu/twiwwyLb7Hlzwl6D8jYKs/eKMl5S5VZt2R9gh1wNlcTKCnl6H94GbTDfxYjB7NNO4LnZUrugWgl7fFx8TrKtZAsiq5+XVjlTanbodaUh+n15Tez9pPlrfi56TqfOqC23CXpmhf88f8AHIwvJtlMYRabGluE1lRZa0OEHIZPftyM6EFM0ZD7wQY/sbY=;CYjC1pGHvdATxOcPWKsBvQ=="
 ---
 

@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Let’s use AI to clean up government"
+    excerpt: "Artificial intelligence could be important in keeping people informed about the government, reforming red tape, and cleaning up waste, fraud and abuse."
+    publishedDateTime: 2023-07-21T06:00:00Z
+    webUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government"
+    ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70b71475-d1c7-4614-b8f0-7813636d7907/65f428c8-c417-478c-8692-21def9354f09/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Governance: Guiding Global Adoption for Ethical Innovations"
     excerpt: "Exploring the worldwide adoption of AI, its inherent challenges, and the imperative of responsible AI governance."
     publishedDateTime: 2023-07-20T14:52:00Z

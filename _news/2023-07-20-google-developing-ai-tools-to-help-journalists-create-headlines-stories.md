@@ -63,17 +63,17 @@ related:
         isCached: true
   - title: "Google says it’s developing AI tools to help journalists create headlines, stories"
     excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
-    publishedDateTime: 2023-07-21T03:35:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-    ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
-    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+    publishedDateTime: 2023-07-21T01:35:00Z
+    webUrl: "https://www.kmvt.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+    ampWebUrl: "https://www.kmvt.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kmvt-com.cdn.ampproject.org/c/s/www.kmvt.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
     type: article
     provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
+      name: KMVT News
+      domain: kmvt.com
     quality: 53
     images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/6L-LCi_7ykqNycC0mr5lCrYPl9Q=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/L4KVQS5ZYNHGTGUXYJUCA2VNMQ.jpg"
+      - url: "https://gray-kmvt-prod.cdn.arcpublishing.com/resizer/hVbRvZTHwLeM9LLfqG1cZSNNruM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/XD3ZFKP5PZGXRDL2QNBYWM5UJY.png"
         width: 800
         height: 450
         isCached: true

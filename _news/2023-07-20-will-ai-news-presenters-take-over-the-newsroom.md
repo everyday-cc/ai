@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Christopher Nolan warns of AI’s ‘Oppenheimer moment’: It will ‘be in charge of nuclear weapons’"
-    excerpt: "On a panel of physicists moderated by Chuck Todd, Christopher Nolan spoke about modern-day lessons from his soon-to-be-released film “Oppenheimer,” 78 years after a group of scientists gathered at the Trinity site to test the first atomic bomb."
-    publishedDateTime: 2023-07-16T15:00:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/christopher-nolan-warns-of-ai-s-oppenheimer-moment-it-will-be-in-charge-of-nuclear-weapons-188569157614"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188569157614"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188569157614"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 75
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689519574491_mtp_clip_nolanai_230716_1920x1080-pmkgsh.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "nMUGxa5j+r+Nc0GKV63YCTe6Ny/YltjwRlIu25DUeRQ45uQMC+EDB65lJtHtEfzAJOQVFI94R+cXuu/YQxC/tI9fUuHC3ja4glVnv7AJ3+gETrDsQziZAFlxFj7MY7IdDpzGQmf/t4tnudx7K2PtYhTUhhz9L3U48BHQ74Z/PeTIe4qO20xsE5gxR9Hn2vkvmF05Vy4KVZpwwiJlcsh/zvYk2NWos4m9cML45kx+iGST996/Z641y2Zl884MZIO24qw58+oFCmfg7Uq1iZ12AW1TRPeL+rWHB9WvY6AW6AZcDzuibVGCtyIeTpTqrWrj9xDPyeMEP5j3rbmpc84tKjsvnYKjCCfpdLN84oIglnQ=;UZFKvlB9Hwo+p/aPEt1u5w=="
 ---
