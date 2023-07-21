@@ -61,6 +61,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Start-ups seek to challenge Nvidia’s dominance over AI chip market"
+    excerpt: "Celestial AI, a Silicon Valley-based start-up that raised $100mn in June, refocused on “complementing” rather than competing with Nvidia, according to its chief executive Dave Lazovsky, by developing optical technology for connecting AI processors with the high-performance memory needed to feed them data."
+    publishedDateTime: 2023-07-21T04:01:00Z
+    webUrl: "https://www.ft.com/content/1fca1f48-44d8-43ac-bfdd-251b0025347e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "OmiAIJvAtm7fkyfrBuuP6S2wfC1T2JQTyhKEMPewIg0MSm4+nnzP8e/ZsLX8I3EpDUMV9e26Uh7ksl3I36mlCIjMTv5FskMTuIgjl6Ycx0Utx3Ppx+x6Q0L5UvtFIoNxIDmRveRZsJSjBcHEFDjM9pVOhI1KFo4dZwdRDfxrO1vfKSu2shVVKempBFaWdKtwLgT9i8ooGFOa1/GUc/YJwiX6uETY7AUPhpvogSqJZTI6W/p0HgET8w8xnEKa5yUBCnmVYiB04zU2VF5M9ZtkywzdWd2TBT5SsIjUqAo7gplyEVlejj2OS01hb3sPOVxVLFmH7rF1CMANIcuVxE3f4i4QDdgH1UOWCxhATtyZ18s=;V5xcDmAmudcB8F111hFbDg=="
 ---

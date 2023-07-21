@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/un-warns-against-implanting-ai-chips
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp"
 type: article
 quality: 92
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "Neurotech and AI together threaten 'mental privacy', says Unesco"
-    excerpt: "Unesco has warned that the combination of neurotechnology and artificial intelligence poses a threat to mental privacy, as it works on a new global charter on scientific ethics. The UN's agency for science and culture has begun developing a global ethical framework to address human rights concerns posed by rapid scientific advances,"
-    publishedDateTime: 2023-07-16T12:15:00Z
-    webUrl: "https://www.modernghana.com/news/1245004/neurotech-and-ai-together-threaten-mental-privacy.html"
-    type: article
-    provider:
-      name: modernghana.com
-      domain: modernghana.com
-    quality: 19
 
 secured: "ew86WPXZzoKCGXZSfpzL8IfTJKCsRoknB1by+Y86oEVWVfkZC4ykMWNX54ggPfjqYiTsqHfRb3TQWfkHPQdtKiaS7t6N5DKNkE6EjSsY+zCqeKf7l4wD/0nspzb46slSQ1rtK7fDeRO0ZzNNfm347HvsPkPznAEYr3nEDfs2/RBUFYpPbc7VzuREcYwde6t+w0tBppAxmPI3B3ffmPosyP9fTVkvQ6RXpSJ/waYg5U9q9RjWMiYT3NI7BhKFp+7TkKT8xz0vxnE7Es1839CGeghGq7NlVkj6498TfAre/8iJAJkxTE7/2mW/YlqL2tdPbKH2BY7xUkwRQWuAor2MPFym0T4k6HoW8SQdVdJ8+irLWDm4TKiciCt6T36KrYp24hd0H+2lRg1/OqRtbwUFZu6F3xMZMZWNbtYPcWNm+pqXMivndgeEpkYfxnpBNnq8etVLSNTFR6hH5xKxwGnb4I0NhOnlu0CUwyPCrFBDbLxVLSDWEsvmg4Ov6nn9a83L4d5jvmUj3+lUsFlOo8NQpA==;maiHe6dVdjWtTCRbzSCwYQ=="
 ---

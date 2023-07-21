@@ -1,27 +1,27 @@
 ---
 category: news
-title: "India’s Think360 make top AI Fintech Companies List"
-excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-publishedDateTime: 2023-07-17T07:23:00Z
-originalUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
-webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+title: "India's Think360 make top AI Fintech Companies List"
+excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1"
+publishedDateTime: 2023-07-17T01:56:00Z
+originalUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
+webUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Defence News
-  domain: defencenews.in
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-    width: 720
-    height: 340
+  - url: "https://cdn.bignewsnetwork.com/ani1689559558.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -76,13 +76,13 @@ related:
   - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
     excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
     publishedDateTime: 2023-07-17T01:40:00Z
-    webUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
+    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr"
     ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
     cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
     type: article
     provider:
       name: Indiatimes
-      domain: economictimes.com
+      domain: indiatimes.com
     quality: 57
     images:
       - url: "https://img.etimg.com/photo/msid-101813436/gaming.jpg"
@@ -285,6 +285,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "bDYq1Ks2v7KRSm2shywjuhdgN+kdo1VMPgjmLnoXG/HCZBr4VLOtL0PS13843oY8G+bQ8kOjTnpX3rD03a1zEH+MxCyfo19BnZbLONLMPBTYLw48ksh4e8TBjHbLOXXaD4HI1GBF6U6gLA7vyrLZ8tnWMHfNaCOXiSY8IjZLrLqqYcoVRsIygpAyGdDDKmraacj2/tbZckfqoRnDybp1bktG6lLbuxpzIJmO9bHDLg402YhXBvOmc1Qp75m76MTk7Qlk7rjOpRIejed+LOmDNek/OqSNE9Gc6YSuM4JypuWWvFOT76jUtXKlLylHZD7kboq+D52zDElLxWpqdVLPZATDqB4SeqValgPec6sktEk=;6UXlxmIrKYAMIip1hhLu0g=="
+secured: "794ePTwzyBBgDctW5fLevgslQ1lT/hX9E0fVRh/mK13if8GDplHXlbUkvXrC9xBnFVvp87gpMVM9ZuycSo9D/ZWWlYxjKCG46iHWscJ3iAaHSThWBv/dYs9OzQh5nsHMP0KaOgKo6pfmPJlLAdrYQvrqY3UDmhEIkgQf+HkMydVBqjpEbiePYdwEnGKoi3xsU7j2PPmm9lH6UcwFYo1E3OpjFKce7mLWhZG1t3m9HVD4+qcwi1j1T/4EPukKN4mJhLR5okGo3bofVvqTR4GS8Ht53JM31CVsAVBYsxXoP8RBPuKf9vTXFShDHxKFgAAMjdgS2zWlAu8YH+lseob+r3p54VgDibao4ui7HvcDsp8=;fOL7MsamZP3L9tDKm2P/hA=="
 ---
 

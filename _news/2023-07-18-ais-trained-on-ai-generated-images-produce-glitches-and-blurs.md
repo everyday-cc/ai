@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2382519-ais-trained-on-ai-gen
 webUrl: "https://www.newscientist.com/article/2382519-ais-trained-on-ai-generated-images-produce-glitches-and-blurs/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Movie critic reacts to AI-generated films"
-    excerpt: "Movie critic Rhianna Dhillon and BBC technology correspondent Marc Cieslak watch and react to four examples."
-    publishedDateTime: 2023-07-17T09:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/technology-66103532?at_link_origin=BBCScotlandNews&at_format=link&at_campaign_type=owned&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial&at_link_id=8D51A636-24A3-11EE-AA38-94B8FF7C7F44&at_campaign=Social_Flow&at_medium=social"
+  - title: "Eight Months On, Tech Budget Planners Are Fixated On Generative AI"
+    excerpt: "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and"
+    publishedDateTime: 2023-07-21T03:56:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Etgy9JB4Q/c1zB7vwphiBKVCao5GB7VLe4T4kpmsqJlCcchkX86u1HBEu5o8MlbHiO+wM9ANtzYo0yUdxcy6McKeySzLsOjZyzp2sUZ2UEB/PLPMF+eiUoLIsyNFz3WrBt+9KhGh8KlJWFL5SNKlBC47iCKwwmKTOuzpjmg+CyYPur+N9tDuoWWJ9yXyHzt497bpUZ7nLtHKFpifAI7vpLv9cRm/DeutirfntLDK0LCIyxlL0gBmAQvbGlITkK/TEIkUwDcaPlTYpioGmHxp/cB0ljwPtYJKO17ayojkMS9bJaj4g85UTYxFA3aYt236r6C7uSN1Cm6JJjbKjffktFfhpVx8y61wHlU4OYi6MdqKbMb5DQVIaZo6AHg4Yag0nbVmj09pBehfdpDhRHhiCyFpkW/nDsfDOS9aNGftm13vmshXSyhh005xy1O4YKibgV+rsZLjb7GIHjMvDkDjbGYFFAoWdWsgV2Ju4RgvPG3VPpNM26Zg+FTA97EpEwFk2Lryq1iv7GFDkTf2pj0SKw==;JDJy4IgLlR7OXzeNIs6kVw=="
 ---

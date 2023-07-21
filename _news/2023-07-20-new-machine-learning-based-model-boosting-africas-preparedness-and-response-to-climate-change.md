@@ -25,6 +25,22 @@ images:
     height: 414
     isCached: true
 
+related:
+  - title: "Africa: New Machine Learning-Based Model Boosting Africa's Preparedness and Response to Climate Change"
+    excerpt: "Scientists have recently unveiled a first-ever weather forecasting model using artificial intelligence (AI) and machine learning solutions to help vulnerable African countries build resilience to climate impacts."
+    publishedDateTime: 2023-07-21T04:47:00Z
+    webUrl: "https://allafrica.com/stories/202307210006.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 25
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
 secured: "KO62JEzQt7RNUggLx2odxSkh8CORnUGVGKifzyJTOWa2/Zn7ooJhRcDzLklW50q6MW7i7uSuPBdd1G9lGHG+nGrnhV7vQCxYbaVnNiSPv0XTkwQ5RPzlt13BKOU2L6KCDwUzcHoljz3SSlpqEHr8F51+tK9yBSh1gHCdWX7dm6KHB2gkvs6OW46xF5KexnPRSU67azcbIRFTvV+gigvya5IN7ALAxLB823OpALIiaC1QkoqUHJTWuUho83H0P4Nq8Pe9SJE8qyHlN2RBkhyjVeO8ifGd8snTJcKB0A+IL62KFJ1zcDDdaa5fQV8tGMtdvsORIdxkREiesFnl7UC59nzzRCQ1bEfoX6l+bGhycxCCkiKcri9lxYvqg0pUslHGwnGD+99YNagfz8wHIsBG55ZHPCgEhawrF022iWkF2Of7uX5oBe5DsuZsciMRz/U5ewrrpdr4EpasOeI03e532gq3YZ7ZZ987M/S6qPUlGBgiDOa5gP4qBTFBUscsEZ28mvgX2nBfd4rVQzJZdA8p6Q==;0gbkLe9pmHBkYudE3Z59Aw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transf
 webUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
 type: article
 quality: 116
-heat: 246
+heat: 256
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/11/TCS.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Single chip architecture to meet generative AI processing challenges"
+    excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
+    publishedDateTime: 2023-07-21T04:15:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/single-chip-architecture-to-meet-generative-ai-processing-challenges"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/buxactds/5g-smart-city-400x300-c-default.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Setting Up Generative AI In Your Enterprise"
     excerpt: "A practical framework for implementing Generative AI in the enterprise - including strategy, governance, technology stack and talent."

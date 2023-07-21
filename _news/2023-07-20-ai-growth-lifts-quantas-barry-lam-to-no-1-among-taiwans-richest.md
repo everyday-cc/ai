@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/"
 type: article
 quality: 89
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Foreign investors stream into Taiwan as AI stocks beckon"
+    excerpt: "Investors are putting aside geopolitical tensions to pile in to Taiwan stocks, with foreign inflows the biggest in years, thanks to soaring artificial intelligence and chipmaking stocks."
+    publishedDateTime: 2023-07-21T03:28:00Z
+    webUrl: "https://www.reuters.com/markets/asia/foreign-investors-stream-into-taiwan-ai-stocks-beckon-2023-07-21/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/_eCf29fkfX-LRf38ldnRFQocE68=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HYQUU3VOVFO6HBGHIUS3OZK5WM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "qOW7OPO8kuxFk5tj1aA6/+DC7Hbc76liNt9PaP1elCp+gaBY031mmUX+j0bMv5k/gQa3kp8le+ZyibNy52pxczr3sUgCh3x7E1T5vzfMNY1zyRfs1U81vppJGUYHcodZ2hnx+BXzgY6tqSssxU0D9CvGFpIWQSp5Xb992FxXsm6K/4pJg+sN1AKpmKiD/xXfIM1A0+prF5rDVVXeZsdRRj2BQPJyb2WlMv5r94XT4RcWybkyhkOcJhstnLZF1RtKpDcAsgEUQTDCbfEIMxfEiL8aAh4JUcE7KphfylvH/uEojg/pQwl6gWx5N/7TJRkxVS/RJwFj60SfolliADmxXUcj0BETK3QKkO2l3mi8Jms=;W/Sgh3Ds045tJYqy7r6MzA=="
 ---

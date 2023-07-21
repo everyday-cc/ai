@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior
 webUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/"
 type: article
 quality: 66
-heat: 146
+heat: 148
 published: true
 
 provider:

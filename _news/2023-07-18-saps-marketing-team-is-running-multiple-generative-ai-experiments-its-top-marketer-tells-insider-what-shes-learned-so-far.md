@@ -23,6 +23,22 @@ topics:
   - AI
   - AI in Marketing
 
+related:
+  - title: "Tripod Tech expects its AI server deployment to start generating revenue in 4Q23"
+    excerpt: "PCB maker Tripod Technology has stated that it is eyeing business opportunities in the AI server market segment, and expects its deployment in the segment to generate revenue beginning in the fourth quarter of 2023."
+    publishedDateTime: 2023-07-21T03:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20230720PD211/2023-tripod-ai-server-revenue.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 32
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230720pd211_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+
 secured: "YcgrUDg7fOwlY2fc4BJfrYsCFqbnVQtIa/tna+1L/E6yfEEW5ORV1hLL9irBDC23u8kUwZtLVXzBsEwi/lLponxJLUYzebc5SwKArYrg9kEOAruZURr7cMAsdrA9ilW/bu/S7yIatYkKT3B3WfGoDMIgFFDx31CZNNs3fzqyt25T7rLklfAdovbNtElFHEaPNcH4i9lAxCiA9OiyMF8qiy3cTOz21f1K9VTSWRBPE8vb1xt8z9oy9Tqq3rcDGLmCQXNub74Y6sUZVEY3TniN0qvfAVAqAfbNgEd9YbI9ZGguliZi+kQYevk8U/wH0KomQ5c69jKYNG57LR5OfctCHi7MItzY/Jm4etFzLGIc5WU=;RYM1xmyM/C0nFC0S1hIIZw=="
 ---
 

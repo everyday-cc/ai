@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Deep learning for healthcare services"
+    excerpt: "Deep learning, a branch of artificial intelligence (AI), falls within the broader realm of machine learning. It centers on empowering computers to learn from data and autonomously make decisions or predictions,"
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996183"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
 
 secured: "wkdzHz8Kn1ZppkZ9wpnccQuArc/5VFLKoif0EK3uFWRLkIbXTZ+UOeUYzdKIf2GEHZ4QWsN469tieBDcJ6rba8OVXrjXWP31bRfPSBmLNQI2MQOfE40G0dZNPmm2/omJyS4vTyFDAmq8bn43qy13DY4+1rIb3idbq4OL8XRgqptZpSUVbM0mBRhsxhSoue8xyapoaAZBm9Age+ou/DWnGV77YDOKEKyXcgO4jAp8O42hCokffb68G9RJ1caxtUoECD44C2Fk6YCF1tcLYIt17w2LHkFtkq3mfXigFwL7ySI2zDE/5jLXstpxWTX4nG7a2zjPx2/eI1qY6LCj8hHYxBDthGL8GSpIVgcrBRV471U=;l8fv2DXZ4ca02ulchMjXKg=="
 ---

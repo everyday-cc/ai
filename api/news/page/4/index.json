@@ -2,6 +2,151 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-18-cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients.md",
+      "title": "Cohere is teaming up with McKinsey to bring AI to enterprise clients",
+      "excerpt": "Some businesses have already begun reaping the benefits of the collaboration, using AI for product development and speeding time-to-market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/",
+      "originalUrl": "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/blog_cohere_inset_leaders_1000x718.webp?w=1200&strip=all",
+          "width": 1000,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-why-inclusive-sets-of-images-help-us-make-better-products.md",
+      "title": "Why inclusive sets of images help us make better products",
+      "excerpt": "We worked with TONL, a stock image company, to create more representative datasets to help teams build more inclusive products.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/diversity/why-inclusive-sets-of-images-help-us-make-better-products/",
+      "originalUrl": "https://blog.google/outreach-initiatives/diversity/why-inclusive-sets-of-images-help-us-make-better-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_equity_hero_A_1.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/diversity/why-inclusive-sets-of-images-help-us-make-better-products/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/diversity/why-inclusive-sets-of-images-help-us-make-better-products/amp/",
+      "publishedDateTime": "2023-07-18T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear.md",
+      "title": "AI is a concern for writers. But actors could have even more to fear",
+      "excerpt": "\"If we don't' stand tall right now, we are all going to be in trouble. We are all going to be in jeopardy of being replaced by machines,\" said Fran Drescher, at a press conference last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "originalUrl": "https://www.cbsnews.com/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/18/74bea2e9-3bf3-472e-aea4-dc2072fefc0b/thumbnail/1200x630/a66c5746f06f5b1f9456ba17977609ae/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtmzmznwuxntaxzmeyzji5yjc2zjlimzhmnjexyzdizte-l19wywdlcy9oxzu1nze1ndqxnwzimzbjmzvmzdc2nzhmowq0mwrkyty4.jpg?v=596294ea7cf1c3a6f60cc964b1b476a6",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/",
+      "publishedDateTime": "2023-07-18T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-fed-watchdog-warns-ai-machine-learning-may-perpetuate-bias-in-lending.md",
       "title": "Fed watchdog warns AI, machine learning may perpetuate bias in lending",
       "excerpt": "The Federal Reserve’s top watchdog warned Tuesday artificial intelligence and machine learning could bolster bias in lending practices. “While these technologies have enormous potential, they also carry risks of violating fair lending laws and ...",
@@ -403,59 +548,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-tesla-is-rumored-to-partner-with-samsung-for-4-nm-chip-in-self-driving-hw-50.md",
-      "title": "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0",
-      "excerpt": "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/",
-      "originalUrl": "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-D1-Dojo-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1111,109 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-vb-transform-innovation-showcase-winner-arize-ai.md",
-      "title": "VB Transform Innovation Showcase winner: Arize AI",
-      "excerpt": "VentureBeat Transform's Innovation Awards honored Arize AI, an ML observability platform that uses AI to troubleshoot AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-arize-ai/",
-      "originalUrl": "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-arize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/CARR9373-e1689615053626.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration.md",
-      "title": "Seeing The Future: Artificial Intelligence For Age-Related Macular Degeneration",
-      "excerpt": "With recent advances in artificial intelligence (AI) and machine learning, healthcare providers can now effectively screen patients for age-related macular degeneration. iHealthScreen develops AI and machine learning-based diagnostic systems for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b577f192d2c76251248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
-      "publishedDateTime": "2023-07-17T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

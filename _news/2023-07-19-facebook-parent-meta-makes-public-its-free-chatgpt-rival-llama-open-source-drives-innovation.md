@@ -3,23 +3,23 @@ category: news
 title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
 excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
 publishedDateTime: 2023-07-18T21:00:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_5af8ebc6-2960-5f70-90e3-09792b0d99a8.html"
-webUrl: "https://www.stltoday.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_5af8ebc6-2960-5f70-90e3-09792b0d99a8.html"
+originalUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
+webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/af/5af8ebc6-2960-5f70-90e3-09792b0d99a8/64b6fe95dc2e8.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -101,14 +101,14 @@ related:
         isCached: true
   - title: "Facebook unveils more powerful AI model and makes it free to use"
     excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T20:41:00Z
-    webUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    ampWebUrl: "https://amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    publishedDateTime: 2023-07-18T22:45:00Z
+    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
+    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
     type: article
     provider:
-      name: The Age
-      domain: theage.com.au
+      name: Sydney Morning Herald
+      domain: smh.com.au
     quality: 39
   - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
     excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
@@ -187,6 +187,6 @@ related:
       domain: abcnews.go.com
     quality: 4
 
-secured: "gom5z9DWdpBaZ9+GJnTJp0WzGuv2xVkGlCpUeEdP7LuimbqQeziniEaY/vMPSNxp6IN2SkrR6a1y+9GvGgenW+NRu5wUkZ/DSSXP1wSRsIj5OJ+0nGpSvXN5raG1SkER58+MsN1+/wIZRJYrdnvplIa5pAiqjpq3asqddlTubi1aaHD93tWl7i+PwO2Y9sV+LRO/g8Z0CrsE51hydOmWv5u0nosDpkUZVde+BJKH8A85LsbgXTCgVvzD+nyX75RalS5z9+GiNfiJPnJncPSWywrhIav62murJZAYFrNhVzJeqtK/HqgxB47AkbTuaV6LJEhO4Ry4+cGqLMpV+m6RrwrWEM7Yc3sOMh91P6PO/ew=;N9ZanTowMOPnfzRJu6eJiA=="
+secured: "4+9HRSHmvZHg+rRmSMExirK0V82cACnhkccq3zNE8nrLmv/AMzXjsKzz6G7qSq2DvSzo7k+NEvtiPpnzcF9bmHM30RiKDGKJZlWQ3AJxuK1rui9kch6HhJdIg8n3lum+bNfC+WYtdr11osTMRzgjmKxisRNU+QYzWjgPatuRmlzkTlnq7twB4QX8y+OLKHBQXMU+n/PurNMBPrPbbfqh79p48LpnsE4GBmDMTxqCZgBHVl/iBHHolr0GE9RSNGHdHY2DjX8isph6Yc3scMN6QRGfR1T0oQ0kj4cALgUnrrUbramOb12hzm7VNuv48QJ3e7r0cYPs6jaMV50DYWo4wJqXtlNCeTzgzzWzRLOJaoM=;JN1PWGH0D7C31DUeHDChsw=="
 ---
 

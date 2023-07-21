@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-sel
 webUrl: "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Gizmochina
@@ -29,51 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0"
-    excerpt: "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node"
-    publishedDateTime: 2023-07-18T13:54:00Z
-    webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
+  - title: "How Machine Learning can speed up material design, testing and manufacturing"
+    excerpt: "The latter is akin to using the material for the correct application. Advt A relatively new paradigm in material design, that makes things easier, is the application of machine learning (ML) and artificial intelligence (AI). These new concepts are pushing ..."
+    publishedDateTime: 2023-07-19T09:07:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/how-machine-learning-can-speed-up-material-design-testing-and-manufacturing/101928830"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/how-machine-learning-can-speed-up-material-design-testing-and-manufacturing/101928830"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/how-machine-learning-can-speed-up-material-design-testing-and-manufacturing/101928830"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 56
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-D1-Dojo-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-101928830,imgsize-1001097,width-1200,height=765,overlay-etauto/auto-technology/how-machine-learning-can-speed-up-material-design-testing-and-manufacturing.jpg"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk Positive About Tesla's Growth In Self Driving, Humanoid Robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
-    publishedDateTime: 2023-07-20T06:03:00Z
-    webUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598"
-    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 73
-    images:
-      - url: "https://c.ndtvimg.com/2023-07/v06clarg_elon-muskteslaai_625x300_20_July_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
-    excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
-    publishedDateTime: 2023-07-20T23:27:00Z
-    webUrl: "https://www.theregister.com/2023/07/20/tesla_to_license_fsd_software/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2023/07/12/musk_shutterstock.jpg"
-        width: 1000
-        height: 667
+        height: 765
         isCached: true
   - title: "Samsung said to make Tesla's next-gen self-driving chips"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
@@ -89,45 +59,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
-    excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
-    publishedDateTime: 2023-07-20T02:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33295767/elon-musk-drops-clues-about-teslas-potential-partnership-with-major-automaker-to-license-self-drivin"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33295767"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33295767"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
-    excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
-    publishedDateTime: 2023-07-19T07:33:00Z
-    webUrl: "https://www.econotimes.com/Samsung-to-Supply-Tesla-with-Full-Self-Driving-FSD-chips-1659663"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 33
-    images:
-      - url: "https://f1.econotimes.com/2023/07/mv7n3g4h3x_th_1024x0.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Musk open to price cuts as Tesla bets on self-driving future"
-    excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
-    publishedDateTime: 2023-07-20T12:57:00Z
-    webUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 19
 
 secured: "nWSvAILsfMw6ha/DRM7gDdBJLO9zMsS5YUn1dWFCNHxtQJ00PjCNiKApxZR6WHLIEegUEgNb9JEujC+HjT6XizXKYGy3xfmOpY6Ac3g/1eKYCVlMZOtUS3zNvvfeIKT1iIR1Hn5CEi7Kz4fMFbvZfS6UBTT1OdN6EFkGue59fA682nKBpgVTDdWSh4N6LIZv7+gPCxQLT1bBT4MiWrKRM3FpPTtNi/j08bXijCvIc1u1g6DS/6Z6wUQ1WVs/jYXSRAk3D5v31SodYDsqDFtrhG1HaiToPytc/IAQ+eUHEpQ/QeUanymrErD6e79Ybp9R1zYJCKnC5/Hm7okaqFsfx0N/B6kIckXXpDkXJeYTkbOcmTj9IU118oCE7MLBGrbSwQzgxB59DCpstq5XepWc1u2AF5HTyUQEhuodSZzARG9vHsb1yPqaECbzHtuetI1AbKclmTvbKP29wNIxb2u55+yGvvReXMOEnrRY7rjAJ+Auqhg1ns9HhX6T13qHX+sycbMnuiv3mM1bJ7+iEqbMig==;vM4nE5tiysyusJ9Gz4UcHw=="
 ---

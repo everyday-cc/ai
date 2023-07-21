@@ -3,8 +3,8 @@ category: news
 title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
 excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
 publishedDateTime: 2023-07-17T01:40:00Z
-originalUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
-webUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms"
+originalUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr"
+webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr"
 ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
 type: article
@@ -14,7 +14,7 @@ published: false
 
 provider:
   name: Indiatimes
-  domain: economictimes.com
+  domain: indiatimes.com
 
 topics:
   - AI in Finance
@@ -121,19 +121,19 @@ related:
         width: 2560
         height: 2560
         isCached: true
-  - title: "India’s Think360 make top AI Fintech Companies List"
-    excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-    publishedDateTime: 2023-07-17T07:23:00Z
-    webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+  - title: "India's Think360 make top AI Fintech Companies List"
+    excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1"
+    publishedDateTime: 2023-07-17T01:56:00Z
+    webUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
     type: article
     provider:
-      name: Defence News
-      domain: defencenews.in
+      name: Malaysia Sun
+      domain: malaysiasun.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-        width: 720
-        height: 340
+      - url: "https://cdn.bignewsnetwork.com/ani1689559558.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Egyptian fintechs team up with Fintech Galaxy's open finance platform"
     excerpt: "Fintech Galaxy's FINX Connect now hosts over 10 prominent Egyptian fintechs, including Sympl, Synapse Analytics, and Valify, strengthening the bridge between Egypt and the Gulf region's financial sector. Joining FINX Connect allows these fintech firms to ..."
@@ -285,6 +285,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "mVZiFf2xJ7r15ODkb1Ff+Bc5L+Sf/wqK7yz1Xea/9bxBvKFPWxYeoFmE9R366Y4PhFqk+PuXgIB8fz0tvj1s29JyoDQJIIy4DXNinvNf03FJebqJoMHHnHeA3V3F+1mQjWLsScD3w1/VfwdwwrF/ZuIS7WUVngcqmEqOKsdYmyg288KQEHKu4A8jb0umUrqmUNLINV+YfT8/vkyHjf5hbyDNz9LOmu0vUsCcN9lbxQjwqyeMi87jRiYKul0z5udUMfrMmZ9F01rA1bnklLwYjkMeWI78TgpQ3cDVZ4bE8MmUOAr60U2vjfxHxaC1KFJFvmRs+6NXCsaSJ8MvUGws8dLBC+P9fpaCPR/Fdx0fGAqYTAp7JVL94joeU8zEyResnDkGSJ/yOe+PcPqNZhAqQDkO/K5A2PLwUesPzqKS6XGGKHhktWy8vJWfhUHt5/LR6hkDhsOgW5CS4oIRx1HJxBadFwBIHL8qHjh5kyXP7YM4HH6xPBMISYCrv+F+OxRchlgS/w+0VBYwBkvNUF0KMA==;OP4//4Up3A45Jfw5exlFmg=="
+secured: "rErqSZGtK3dPRew5xLg8+56C/pMCNkHk+pel/FnHkrFSBaeDvTPR7aOcZ+eRbpzzvGFY1TI8FS9C83aR+mgB7VYycpwD3oT5pbw57TQKXx7N7QUTPZUmW0FMlYGEQQ9gD22X/p/bdlkkwaV6/jUgwcoC860XyrXk0DnztGoxGd8CWImqLNzj5oDz8VurWnQlAdl5NMoxP1gXq3gfKRdQe0J9ZJUMTXVun4odE5NpZqKqkis3zPU997xtNShStcgEzBfpV7GleV4wtxxValPDjlH87mQ0XQub8pmCcsyrO/9SwJcr3cxOH08VH75pRZf9Aqec6hGt1y4KB4IQsru0WbZrQf9lCvDUDcRhBZzQiyI=;24hPUuDdoD4ZFFMW6DBaxQ=="
 ---
 

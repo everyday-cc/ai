@@ -73,15 +73,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "Neurotech and AI together threaten 'mental privacy', says Unesco"
-    excerpt: "Unesco has warned that the combination of neurotechnology and artificial intelligence poses a threat to mental privacy, as it works on a new global charter on scientific ethics. The UN's agency for science and culture has begun developing a global ethical framework to address human rights concerns posed by rapid scientific advances,"
-    publishedDateTime: 2023-07-16T12:15:00Z
-    webUrl: "https://www.modernghana.com/news/1245004/neurotech-and-ai-together-threaten-mental-privacy.html"
-    type: article
-    provider:
-      name: modernghana.com
-      domain: modernghana.com
-    quality: 19
 
 secured: "zE9FpG9rvtknBmo6m+h444vHn7YwjYa4gJRseOkV9TJPREA3OFvELawqo1zAEHEfrI4yN7giSb6ATG7+JwvMYzlfsBgFuICecLz4JPwmdUNs05ccr2QcxKJvcOYY1Trc6O+/EsOhtPapaYi2Nm3GZddIPfmZ1SrzjEu4LUG7EzepBD+Ljr+tjHbCcKPlJ0DJMwfxgW6LesisUj7QWIKzuFbH1WixWjMr1rkJVv5mi7HlUi0ebrkBSmNtZC7uZwhtPtHOIzbQaQm/ULLxgkxY6bVMSTVdAstmJfP1CvRVFGoSR9yTbWvfzYD9QcnSieiVlnqqWhvHq/bY2hzp/jc3jddZo1Xa251dFZnV+Ltdyn8=;2/tUSNnw1NHf47A362h3FA=="
 ---

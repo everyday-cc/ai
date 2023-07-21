@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-65995089.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Real-time deepfake detection: How Intel Labs uses AI to fight misinformation"
-    excerpt: "Intel's Ilke Demir explains how deepfake tech works, and why it's essential for AI researchers to collaborate with anthropologists, social scientists, and academic researchers."
-    publishedDateTime: 2023-07-16T12:01:00Z
-    webUrl: "https://www.zdnet.com/article/real-time-deepfake-detection-how-intel-labs-uses-ai-to-fight-misinformation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
   - title: "Singapore actress and model Jamie Yeo has embraced AI deepfakes"
     excerpt: "Singaporean actress, model and former radio DJ Jamie Yeo has no problem with being deepfaked. In fact, she signed up for it. \"It's a bit like that Black Mirror episode with Salma Hayek,\" Ms Yeo jokes."
     publishedDateTime: 2023-07-19T06:27:00Z

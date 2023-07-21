@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquito
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning for healthcare services"
+    excerpt: "Deep learning, a branch of artificial intelligence (AI), falls within the broader realm of machine learning. It centers on empowering computers to learn from data and autonomously make decisions or predictions,"
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996183"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
   - title: "Digital health tools can revolutionise healthcare, says Brunei health minister"
     excerpt: "Digital health tools have the potential to provide remote monitoring and data capture in healthcare, teleconsultations and information exchange and virtual care."
     publishedDateTime: 2023-07-17T09:24:00Z

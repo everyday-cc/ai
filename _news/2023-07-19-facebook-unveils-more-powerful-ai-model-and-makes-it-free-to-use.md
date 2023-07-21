@@ -2,19 +2,19 @@
 category: news
 title: "Facebook unveils more powerful AI model and makes it free to use"
 excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-publishedDateTime: 2023-07-18T20:41:00Z
-originalUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-webUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-ampWebUrl: "https://amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+publishedDateTime: 2023-07-18T22:45:00Z
+originalUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
+webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
+ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Age
-  domain: theage.com.au
+  name: Sydney Morning Herald
+  domain: smh.com.au
 
 topics:
   - AWS AI
@@ -151,14 +151,14 @@ related:
   - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T21:00:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_5af8ebc6-2960-5f70-90e3-09792b0d99a8.html"
+    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/af/5af8ebc6-2960-5f70-90e3-09792b0d99a8/64b6fe95dc2e8.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -186,6 +186,6 @@ related:
       domain: abcnews.go.com
     quality: 4
 
-secured: "KTKdu0N6UiRbL71NSAa/OrLoj+oQy7gvir83eY/+IZy5H1NLzYkBTZ2+wtSuTGHW95WDqOdY939Yf3I9QRdEAnIuHwUwRJW85kipzZ/t8/1tstCHu2Sxq15sQ++PGxt5BTCLPKTtiu4iyixS8JJw5wEg2Vnc0tgkhpLSDj4N2LtOjFbkwEP4t2mSpeCG+rj8NlRNPS3orLtBOzZnUH+Upa1V/6lrLzR5YanpS8dDEXc120rfqle/zxVbGmTwNj7n14ZwL7o4T9IMMa7P+X9+zu8KlaBvo1pIgxE4gHEAMzEiEiaq1sYGOQtZb2PPFtMe5PAFW0+JgcEZQcRE6+VjNHObbfwlTme14Jp0iUbT1XvBgHGnZRznZfTQZdPIHlmRY3a3nAY/oAua/7cYevotidW8nGsf2/tEENpeB2AD/TpCcwBktOYr9UZjGXt72azwH5tF+L0afkQhbv8EMQ2b/JZZP/WGKd3VL/ybG6jIPAGY6GGX7TQoEGTFAWR9m5MTMTLe45IJkzpEpnSj+XLeQA==;Mr+4T76JP4heSFWkS+bHLQ=="
+secured: "ihb8eMDfboZHMTZjuM07EGUkR+bnU+lqaROM/VLJrzCnisYusxTkkbOqLnqIPZHv4zfh3n1vFUzUpaElfJ04hLbUK2K7Wz/768W/yrroJQGZnFMESQYtCXt7UTbEVwXI2avXxiwUzbKtOd19h4bN8U5LTtjxeiVnOBJJ8L2CpdJf1gQtGk4IUwi/K1M0D6g7g/D7UhkqW67bLFLjDFFjwbhCAdTUjheePNeu+KsirBzAu2QsK6yxXgvJO/DyD+b1RlxTM00Zb3iuoc0YscI4suxfuHxoiL+8Njy1Y+wTBPmEXQVGuWIdhp4LkAGUiMI2c+k4ydUNx+UAWEwWVDxGuM7wEmJw42bLtettfy7WkyZpik+59fuxnP8yriyLgdVw7HUQI+qGUM40GbsQy+QCHJhQXfYGkXYNnA56jtKW856/w6PnirWX/uwTW3M3RuuhmwYfybaSaZDe96zRYnjQGfyWGJXg04zgt2Uheb8oW5Gzcc11Ln5d+FnKAGluSlk9pBXtkg1hPPlD/LX75nDElA==;XCf9FAN/ztaSB3UQ/gPXnw=="
 ---
 

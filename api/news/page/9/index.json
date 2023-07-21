@@ -2,6 +2,186 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-07-13-metas-newest-dataset-will-train-speech-recognition-engines-on-clusters-of-speakers.md",
+      "title": "Meta's newest dataset will train speech recognition engines on 'clusters' of speakers",
+      "excerpt": "A newly developed dataset from Meta AI, however, promises to improve the performance of such automatic speech recognition (ASR) tools by clustering speech at the “utterance level.” Meta has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "originalUrl": "https://www.engadget.com/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/9aRjn7EnqUFxy2EgxRP1vg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/a3e522a0-201c-11ee-9bf9-cb8798daadaa.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/meta-new-dataset-train-speech-recognition-engine-clusters-speaker-130012841.html",
+      "publishedDateTime": "2023-07-13T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
+      "title": "Could AI-powered robot 'companions' combat human loneliness?",
+      "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic. A new report maps some of the ethical considerations, and urges stakeholders to come ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230712165129.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230712165129.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-data-integrity-vs-data-quality-is-there-a-difference.md",
+      "title": "Data integrity vs. data quality: Is there a difference?",
+      "excerpt": "Data quality and integrity are vital to a data-driven organization that employs analytics for business decisions, offers self-service data access for internal stakeholders and provides data offerings to customers.\nThe post Data integrity vs. data quality: Is there a difference? appeared first on IBM",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/data-integrity-vs-data-quality-is-there-a-difference/",
+      "originalUrl": "https://www.ibm.com/blog/data-integrity-vs-data-quality-is-there-a-difference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-far-field-speech-and-voice-recognition-industry-to-grow-at-a-cagr-of-131-2023-2028.md",
+      "title": "Far-Field Speech and Voice Recognition Industry to grow at a CAGR of 13.1% [2023-2028]",
+      "excerpt": "[250 Pages Report] The far-field speech and voice recognition market was valued at USD 3.7 billion in 2023 and is estimated to reach USD 6.9 billion by 2028, registering a CAGR of 13.1% during the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33212956/far-field-speech-and-voice-recognition-industry-to-grow-at-a-cagr-of-13-1-2023-2028",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33212956/far-field-speech-and-voice-recognition-industry-to-grow-at-a-cagr-of-13-1-2023-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33212956",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33212956",
+      "publishedDateTime": "2023-07-13T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
       "title": "Column: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
       "excerpt": "To date, those promises are spectacularly unfulfilled. That brings us to artificial intelligence chatbots. In from three to eight years we will have a machine with the general intelligence of an ...",
@@ -435,49 +615,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
-      "title": "Could AI-powered robot 'companions' combat human loneliness?",
-      "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-19.jpg",
-          "width": 2880,
-          "height": 2243,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "publishedDateTime": "2023-07-13T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -946,49 +1083,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-siggraph-fosters-growth-and-innovation.md",
-      "title": "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation",
-      "excerpt": "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/07/12/9847425.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/07/12/9847425.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
       "title": "Top 6 AI Trends 2023",
       "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
@@ -1091,100 +1185,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document.md",
-      "title": "Google’s new “NotebookLM” app builds a custom AI based on a source document",
-      "excerpt": "Think of it as a virtual research assistant that can summarize facts, explain complex ideas, and brainstorm new connections—all based on the sources you select. A key difference between NotebookLM and traditional AI chatbots is that NotebookLM lets you “ground” the language model in your notes and sources.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/07/googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/07/googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/02/google-office-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/07/googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/07/googles-new-notebooklm-app-builds-a-custom-ai-based-on-a-source-document/amp/",
-      "publishedDateTime": "2023-07-12T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-amds-ai-chips-could-be-a-multibillion-dollar-opportunity-analyst-says.md",
-      "title": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says",
-      "excerpt": "AMD’s AI Chips Could Be a Multibillion-Dollar Opportunity, Analyst Says. Cowen says investors should overlook any short-term softness in Advanced Micro Devices’s business and",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-5d261e92",
-      "originalUrl": "https://www.barrons.com/articles/amd-stock-price-ai-chips-5d261e92",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-815626/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e92",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amd-stock-price-ai-chips-5d261e92",
-      "publishedDateTime": "2023-07-12T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

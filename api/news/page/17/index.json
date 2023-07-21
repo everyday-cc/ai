@@ -2,6 +2,135 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-07-08-category-leader-ust-earns-zinnovs-pat-for-intelligent-automation-services.md",
+      "title": "Category leader. UST earns Zinnov’s pat for intelligent automation services",
+      "excerpt": "Microsoft, and Google, have enabled it to drive high-value outcomes for its customers. Also read: UST wins ‘Blue Seal’ certificate for North America, Asia-Pac a second time “UST SmartOps, the firm’s proprietary cognitive-AI automation platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ust-earns-zinnovs-pat-for-intelligent-automation-services/article67052457.ece/amp/",
+      "publishedDateTime": "2023-07-07T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-robots-at-un-reckon-they-could-run-the-world-better.md",
+      "title": "AI Robots At UN Reckon They Could Run The World Better",
+      "excerpt": "A panel of AI-enabled humanoid robots told a United Nations summit on Friday that they could eventually run the world better than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "originalUrl": "https://www.barrons.com/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP7995865695274809233684442747984871120637---1.jpg",
+          "width": 768,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-robots-tell-un-conference-they-could-run-the-world-14546e9",
+      "publishedDateTime": "2023-07-07T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-ethics-in-the-age-of-chatgpt-what-businesses-need-to-know.md",
+      "title": "AI Ethics In The Age Of ChatGPT - What Businesses Need To Know",
+      "excerpt": "Photo: Arne Dedert/dpa (Photo by Arne Dedert/picture alliance via Getty Images) AI Ethics was a complicated topic even before ChatGPT (and other Large Language Models - LLMs) and Generative AI burst onto the scene. In this article - we cover how LLMs and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a8463e4ab326e88191cf1d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/07/07/ai-ethics-in-the-age-of-chatgptwhat-businesses-need-to-know/amp/",
+      "publishedDateTime": "2023-07-07T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-age-of-ai-everything-you-need-to-know-about-artificial-intelligence.md",
       "title": "Age of AI: Everything you need to know about artificial intelligence",
       "excerpt": "The U.S. Department of Commerce could prohibit shipments of chips from manufacturers including Nvidia to customers in China as soon as early next month (July). The latest move to weigh additional restrictions on AI chip export to China is part of the U.S ...",
@@ -1006,144 +1135,6 @@
       "provider": {
         "name": "Japan Today",
         "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023.md",
-      "title": "Artificial Intelligence In Manufacturing: Four Use Cases You Need To Know In 2023",
-      "excerpt": "Discover how AI-powered cobots, 3D printing enhancements, futuristic generative designs, and predictive maintenance are revolutionizing the manufacturing industry in 2023",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a7a60f5e9eb3b27b9b888f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/07/artificial-intelligence-in-manufacturing-four-use-cases-you-need-to-know-in-2023/amp/",
-      "publishedDateTime": "2023-07-06T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications.md",
-      "title": "Kerala HC to implement machine learning system to verify bail applications",
-      "excerpt": "Kochi: For the first time in India, Kerala HC is all set to implement a machine learning system for checking bail pleas. From July 10, bail applications will be verified via a special software and will be accepted only in the prescribed format.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/image/contentid/policy:1.7199899:1677896574/Untitled.png?$p=10e8aa4&f=16x9&w=1080&q=0.8",
-          "width": 871,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "publishedDateTime": "2023-07-06T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "english.mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-elon-musk-predicts-self-driving-teslas-later-this-year.md",
-      "title": "Elon Musk predicts self-driving Teslas ‘later this year’",
-      "excerpt": "esla CEO Elon Musk has stated that he believes the company will upgrade its vehicles to fully self-driving in 2023. Speaking via video link at the World Artificial Intelligence Conference in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "originalUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.standard.co.uk/2023/03/23/11/tesla.jpg?width=1200&width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/tech/elon-musk-self-driving-cars-tesla-2023-b1092673.html",
-      "publishedDateTime": "2023-07-06T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "London Evening Standard",
-        "domain": "standard.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
