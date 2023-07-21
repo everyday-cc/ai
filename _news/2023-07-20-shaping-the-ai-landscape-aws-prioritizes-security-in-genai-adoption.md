@@ -54,6 +54,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
+    excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
+    publishedDateTime: 2023-07-21T02:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20230719PR201/press-release.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 30
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230719pr201_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Proliferation of AI agents raises fresh worries"
     excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
     publishedDateTime: 2023-07-17T19:45:00Z

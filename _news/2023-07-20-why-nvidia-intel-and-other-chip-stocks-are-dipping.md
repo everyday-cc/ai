@@ -73,6 +73,20 @@ related:
         width: 700
         height: 500
         isCached: true
+  - title: "U.S. Tech Leaders Aim for Fewer Export Curbs on AI Chips for China"
+    excerpt: "The chip giant's product launch on July 11 is part of an effort by U.S. technology companies to bypass or curb government export controls to the Chinese market as the U.S. government, citing national security concerns, continues to tighten restrictions on China's artificial intelligence industry."
+    publishedDateTime: 2023-07-20T23:16:00Z
+    webUrl: "https://english.chosun.com/site/data/html_dir/2023/07/21/2023072100512.html"
+    type: article
+    provider:
+      name: 조선일보
+      domain: chosun.com
+    quality: 54
+    images:
+      - url: "https://english.chosun.com/site/data/img_dir/2023/07/21/2023072100509_0.jpg"
+        width: 700
+        height: 379
+        isCached: true
   - title: "Intel Invests In AI Startup To Design Humanoid Robots For Shrinking Labor Force"
     excerpt: "Intel Capital has made a $9 million equity investment into Figure, an AI Robotics company building general-purpose humanoid robots. Today's announcement follows the Figure 01 robot taking its first steps,"
     publishedDateTime: 2023-07-17T17:32:00Z

@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-06-01-self-driving-cars-could-clear-light-rails-troubles.md",
+      "title": "Self-driving cars could clear light rail’s troubles",
+      "excerpt": "We propose that large, building-shaking trains be replaced with 6-9 passenger self-driving vehicles, propelled with plug-in technology (just like a Volt or Tesla automobile). Such vehicles would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/opinion/article227311534.html",
+      "originalUrl": "https://www.newsobserver.com/opinion/article227311534.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols.md",
       "title": "Sheikh Saif bin Zayed wowed by Dubai Police's driverless patrols",
       "excerpt": "These vehicles, developed by creative national talents, are mobile operation rooms equipped with cutting-edge artificial intelligence technologies",
@@ -1232,40 +1266,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-elon-musk-says-teslas-self-driving-tech-is-better-than-humans.md",
-      "title": "Elon Musk says Tesla’s self-driving tech is better than humans",
-      "excerpt": "He predicted Tesla’s self driving tech will reach a point where it ”exceeds human-level safety this year”. And he said the manufacturer was ahead of the curve on artificial intelligence for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
-      "originalUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Toowoomba Chronicle",
-        "domain": "thechronicle.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

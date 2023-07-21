@@ -62,6 +62,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 51
+  - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
+    excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
+    publishedDateTime: 2023-07-21T02:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20230719PR201/press-release.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 30
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230719pr201_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "EpPPWM+WHMYMXEMiFjYCR/vZy7pTwAPGrBZPAEbxjbssEDb+kg2wPTUpopKcffvNrf0XF73sq4T0WJ+xGidbbDvwT1iN+m7YWJkAzoMYkZDe4QhVPx9vSiZBFbNz4MljedmM9LASqvNMnGiHaa4vtrYtsgMk5Igf57dKNDJzXHjhYBjFGIq2vMJHI7zBUIL0Muz1eji0TdOkF26gxX6IPwXeE5Gr7rS7xywWgATe7DLSv2ZVw5vxKAzkT7JxkfOSRSXfERJ1dRE/TNjsyWp/pwDfNTG4IQSP4JvcsPbhjdHHm8IRzRZupAY78EVYAhBhd49fkqjDuGBpcCrRwUugW+rIJ5zStezqIb6qK3ykvXCxtQ3LRfaIQQozejGYoT07RLMPO5i9fe47uotW8hfokRP0cV7tKoKjl0Rr5iTDJcIWYzDqudbLIegZrSNGXRBt/54lSYU4enPL4a4+IsljjUs29PcbHWbx6AYjhyCvNh7d+HwOc2zf6mrSRT24Vz8Ko11rUI9Y2PbVvzr/dcrOJg==;j/AubUY1MchXgVEQmoCfsg=="
 ---

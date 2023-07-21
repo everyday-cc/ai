@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Former Google Exec Makes Bleak Prediction About AI-Powered Robots Revolutionizing Bedroom Activity"
-    excerpt: "Present day is a Golden Age for futurologists. With the rapid rise of Artificial Intelligence coming like a tidal wave to overhaul how we interface with"
-    publishedDateTime: 2023-07-18T19:50:00Z
-    webUrl: "https://brobible.com/culture/article/former-senior-google-exec-predicts-ai-powered-robots-replace-humans-in-bedroom/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 20
-
 secured: "tM6o7fux3CKouQqLh/i2n6JKilbnFaUpqeFa1RCUC95pZpSYPgez13OmuIdfmLU7NVqpXVKJ4IUiLhfo/drdgIeI4JiDkZ1I8ELs+DNgXxuHDMQq1hptsDAzcrptWppocsOw9fhhg2dbldCjnhiS25F4QhOJNFVGsiLwl0c8ub4XMkkB7aGqlidmIy2LX0g6noXhNwbgF1E+7jjSZ2LjH9C+I5pJdkdwJrGt5tTrgrbDzJZu1cFOgWe+7cav4qdhM7LodU5BAhSjbfIvGFjlEJuGXrtZLjWrtkxg8JfdBOLgKOxeu01O0UO8FPlcHkAqEhkCeD1qiipLvjSkqcv63xQ45/Q8ZNSH+nWjyJNQCTE=;aqAbpXKlTj6AVAbbHBt5jw=="
 ---
 

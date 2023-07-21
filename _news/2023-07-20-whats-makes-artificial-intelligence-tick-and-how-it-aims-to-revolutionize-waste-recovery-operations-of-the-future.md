@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-20T12:02:00Z
 originalUrl: "https://www.waste360.com/fleets-technology/whats-makes-artificial-intelligence-tick-and-how-it-aims-revolutionize-waste"
 webUrl: "https://www.waste360.com/fleets-technology/whats-makes-artificial-intelligence-tick-and-how-it-aims-revolutionize-waste"
 type: article
-quality: 11
-heat: 11
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
-secured: "YB8jRZT7t2j7oTU3WaAlpyV+yY+CCu3DfkGvKdaH0AtbRpG4ZzeDM7wPW1+v9jnLSnsvWYlhpFmU2DbUy0GLHeL8BhiLqkv0Caqk6axVGb++O7yheQ9gs0jfrL91mW3OaCqXlz6FpnFagCA6OpEWIjvENl7/6OiF+ytHfZSU1nDxsM6+y1cH8XNGUXbHhgLJZr+Hp+ENCULR2jyp+M8IB5FoxqDp783haIfl2tcQgU5vk+HksaJfQ8rpgTSfKn70tPO/mtOfJ4VgFGsSJh0fyFANysM4onUnfgoSA+Essa734VTfj0OOUZiP4yqL1tYaAKQ8S0BVkqhM7Zt6ksZkU0K2yM+k5z/cgzg8FhK/STxd10psY9poxfjiDgIxcfzBVoE3uenAFl3xXIJTfSse+GJ67RHciLW8q0W3dh2JjrieBR7NlwMsQK7PXV3CgTkmlnxocsxEbE9F3EqLKrVA9ovwmg5WQ9qDgCR4QmtA2uI7SihqX/JaJeaUwoDZG14nb3xIqg782hf3GXht4NyP5w==;dwpakZjOldLgxQQSXQVQ+Q=="
+images:
+  - url: "https://www.waste360.com/sites/waste360.com/files/aifeat_0.png"
+    width: 1540
+    height: 800
+    isCached: true
+
+secured: "gFedbSJprMPhQ4YXSQnwVAZyfKGt55OmtmMKEiUm4MhPkBcPRdskmAEwHUnQ01WWKOhkdL9FyEfVIyoNQVPIKd6b67lqRvuWLEZwDgn21VLDCNllx81CxvnwKdluuYnLEKKAobw4/jBvLFJDnE+v/s0JLzTwYnH8shVMQ1F/cdnsKS7zuRq+KzFD7wwaOcosUmA7c82Lu66dzy1y+PK+ewfpX/aNoq8KAE/nwpIOZJe1T4wlJr+J9w/A3DkxGhW/mwBk+yQ6Y3MghkxDmE0gAKjyJOnJNNkc+GYYlEDKqinFKxk81xF5rRQlK1l10sc6bGNdwO/4E0TArhybdKjNq7ANAj+twxgONExMmWFQteQ=;JUS7XTTPQSEpwOaPCO9cxw=="
 ---
 

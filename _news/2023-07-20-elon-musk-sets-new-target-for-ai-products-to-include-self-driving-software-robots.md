@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/international-busine
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -27,130 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Tesla robots could be groundbreaking for AI and automation, but still have a long way to go"
-    excerpt: "Elon Musk's Tesla robots, or \"Tesla Bot,\" are bipedal robot devices that use the same AI as Tesla's cars."
-    publishedDateTime: 2023-07-16T10:14:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp"
+  - title: "Common Sense Media Announces New Ratings and Reviews System for AI Products"
+    excerpt: "According to a recent poll from Common Sense Media and Impact Research, there is an overwhelming desire among parents (82%) for a rating system that will help them evaluate the quality of AI programs like ChatGPT. Over three-quarters of parents surveyed ..."
+    publishedDateTime: 2023-07-17T18:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/common-sense-media-announces-new-ratings-and-reviews-system-for-ai-products-1032451907"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/64ac095a6d7e02001af8a08e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Elon Musk Positive About Tesla's Growth In Self Driving, Humanoid Robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
-    publishedDateTime: 2023-07-20T06:03:00Z
-    webUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598"
-    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 73
-    images:
-      - url: "https://c.ndtvimg.com/2023-07/v06clarg_elon-muskteslaai_625x300_20_July_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Elon Musk confirms Tesla is in ‘early’ talk to license self-driving tech to ‘major’ automaker"
-    excerpt: "Elon Musk confirmed that Tesla is currently in ‘early’ discussion to license its self-driving technology with a ‘major’ automaker. At the end of his opening remarks for Tesla’s Q2 2022 earnings call following the release of the automaker ..."
-    publishedDateTime: 2023-07-19T23:27:00Z
-    webUrl: "https://electrek.co/2023/07/19/elon-musk-tesla-early-talk-license-self-driving-tech-major-automaker/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 58
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
-    excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
-    publishedDateTime: 2023-07-20T02:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33295767/elon-musk-drops-clues-about-teslas-potential-partnership-with-major-automaker-to-license-self-drivin"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33295767"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33295767"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Elon Musk Touts ‘Quasi-Infinite Demand’ for Tesla’s Self-Driving Products"
-    excerpt: "Tesla reported record revenue for the second quarter. But earnings calls are increasingly about Tesla’s non-EV projects, like A.I. and self-driving."
-    publishedDateTime: 2023-07-20T16:43:00Z
-    webUrl: "https://observer.com/2023/07/tesla-earnings-self-driving/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 38
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013421.jpg?quality=80&#038;strip"
-        width: 4071
-        height: 2524
-        isCached: true
-  - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
-    excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
-    publishedDateTime: 2023-07-20T13:53:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/tesla-q2-earnings-net-income-surge-margins-slip"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
-    excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."
-    publishedDateTime: 2023-07-20T00:30:00Z
-    webUrl: "https://bgr.com/tech/licensing-its-self-driving-technology-to-other-automakers-could-be-teslas-next-big-move/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/12/Tesla-Model-S.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Elon Musk optimistic on progress for self-driving software, robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories. The electric vehicle maker is in early talks with a major automaker to license its full self-driving technology,"
-    publishedDateTime: 2023-07-20T10:04:00Z
-    webUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/"
-    ampWebUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 24
-  - title: "Elon Musk ready to deepen EV price war as Tesla bets on self-driving future"
-    excerpt: "Getting more cars on the road would help Tesla maintain its dominant US market share in \"turbulent times\" and give it access to precious usage data needed to train the artificial intelligence models behind its self-driving technology."
-    publishedDateTime: 2023-07-20T12:56:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/musk-ready-to-deepen-ev-price-war-as-tesla-bets-on-self-driving-future/articleshow/101990488.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
+    quality: 47
 
 secured: "XYFvWfoOgi8L6sOnBC4HUks7SPbW25V0X1hSMRAdwUx1wryS9I059llXSt0jbeb0iEAXVJC/HU3pjRjdPpq9q/5vX6LGV0x21HGVtlFdV0JgM8koVIVmJwWREUN7CLJfA/SSVKAwN9NfmmDC+kVjgD3wL9bAob48XLQq07qDkGE0OxTpvuOcqychUpc+qc4ChmO5Dp2DUIvGFvuWvz98HBODZykyhrAiUvTAfN2U0lUOlItUm9Nk19hobDnvEw7oWFUUMS8basLp3ey4k90+GDnRzFVRniZTruhCI7RD0i6XJ6QVmpBi1TTF4VA6JrT/8tlxLe+ITo7Hget7tc//S4LjnHiHeqmACBGwFYpwijH3NtgLGN9ka02WK39xP5OZjY0cOnBzIo8dmG0G0MF4WDMstcUUguG0gQxnqxL7tKCQARk8EdxXcxPKYEf4bWksRVIn34VLw3h9YPDUL2Gi/EYv984PycDl3kbW5RUukvEsjXz2lUzRReeaBPZm99HKM5jj2Z0tqBB4OZQqnboQ9g==;gI1HBYlpTn+fo++UwLZGzA=="
 ---

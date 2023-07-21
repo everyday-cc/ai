@@ -1,22 +1,30 @@
 ---
 category: news
 title: "A generative AI tech startup Wayne Hills Bryant A.I produces Sci-fi film, 'An AI-driven new cinema movie'"
-excerpt: "In collaboration with a multiplex franchise, Wayne Hils is currently reviewing a rollout plan to play AI-generated films at multiplexes. 'Wayne Hills Matrix AI' will create AI-based content in a wide range of fields, including music videos, blockchains, and digital twins, along with movies."
-publishedDateTime: 2023-07-19T21:23:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/19/9851247.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/19/9851247.htm"
+excerpt: "For the first time in South Korea, a large multiplex franchise produced 100% generative AI filmAfter an extensive premiere, it will be screened in multiplexesIn the film industry, it is predicted to h"
+publishedDateTime: 2023-07-19T22:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33294114/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33294114/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
+ampWebUrl: "https://www.benzinga.com/amp/content/33294114"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33294114"
 type: article
-quality: 0
-heat: 0
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "1krMwF7bjqBRIs7cwzUn3Sqzlt7VST3Gc3AGkQMYh798AkWz81afxV+CsLxDQ3k2sWJwvCilwCC18vOQ8W9Fqlc5n471k/nUPfLwGDdZqCjdwSEApgs0t2lBGLctn72XvGNlTZP4PAAMlhqzc0GZZII/7cbYm+anWHbUwgaHrFc2rwlOFSW9ln/ekzEvAk8jXyI2EUjg9yZvgMlH6NKWQcd0hATEHDJ7ZIBhxO6bKGinNVVEiufsRUFxX5RhTpxKqNAc30MHAR/PGghcj5TWQMFZxX6JehyxX5pyNNHOuaZGMlspZZWfX4MNX2TTEj9nar+PH2+aB5d6IuCe/ietQyJRz/wE0mrlD6kfcD0v4MY=;2tsqd0DPPrvAi/L7FOs5Ww=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "OjvX4M2F+f5LZmhQZcvM0qXhdsgDM+a/zIIleGBsEMcrR/GdfySJEDQ1vHVlxWchuQeu9RytXBjN9lY5SCE/Fq/oHS2neP8PainHJjtCQRR2t4+araYhYRPCMk+uM7Zx6n2GTZz8VLWn3ASx6ejHtk8neNJrBSKXg5tUpPgNWdsGYdulCpIGNEi8sfl/RRJPex/TB4rAEWXsdoD2e4Lsj9un0duLL75/2Q2YXVtl+bpVuSg/0WNMHnQF9+FPenZYh90erFxUlDVEuONKjCOQj4ii1qH5lrlz04Nz9weNC3kxs+SxgeObiHL/gZ0YADdoN6uZGbn2LGTib3caeQAmPiAn/wNPP3dP7TMnQ0esGMA=;oTNA/0lsyQ72LTEE3j9zDg=="
 ---
 

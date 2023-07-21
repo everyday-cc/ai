@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "‘Self-driving’ labs for advanced materials, molecules at NC State land funding"
-    excerpt: "An NC State University research team has been awarded funding from the UNC System Research Opportunities Initiative (ROI) to accelerate molecular and biological innovations enabled by next-generation self-driving labs."
-    publishedDateTime: 2023-07-20T15:19:00Z
-    webUrl: "https://wraltechwire.com/2023/07/20/self-driving-labs-for-advanced-materials-molecules-at-nc-state-land-funding/"
-    ampWebUrl: "https://wraltechwire.com/2023/07/20/self-driving-labs-for-advanced-materials-molecules-at-nc-state-land-funding/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/20/self-driving-labs-for-advanced-materials-molecules-at-nc-state-land-funding/?amp=1"
+  - title: "Self-driving semis could soon be hitting the road in Ohio"
+    excerpt: "DriveOhio has announced a four-year-long and $8 million dollar plan to bringing automated semi-trucks to the roadways."
+    publishedDateTime: 2023-07-21T02:06:00Z
+    webUrl: "https://www.wdtn.com/news/ohio/self-driving-semis-could-soon-be-hitting-the-road-in-ohio/"
+    ampWebUrl: "https://www.wdtn.com/news/ohio/self-driving-semis-could-soon-be-hitting-the-road-in-ohio/amp/"
+    cdnAmpWebUrl: "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/news/ohio/self-driving-semis-could-soon-be-hitting-the-road-in-ohio/amp/"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 40
+      name: WDTN
+      domain: wdtn.com
+    quality: 44
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/07/ncstate-autonomous-lab-e1689865334133.jpg"
-        width: 2037
-        height: 1141
+      - url: "https://www.wdtn.com/wp-content/uploads/sites/45/2023/07/GettyImages-1313941155.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "e4+XEUo8PvXnl3RFk87QHawahz4rTcUGUaSWR2ymZrq0oQNcEBCv2vJZzVyjgbsucZN5g4zsFjspJCGpDI9cN9cjga3eYWtWQtz//9SFoWnAQuPTAROpdukKoG4w+MwUfnyDr734I88wmvh7axU7zW2EJXbEEX5qPnjErMRaPyF9fxqc7e1isbCvhBCkNuzzo+Or2BmyTtb5BEi3f6UKuzvcya/WZQrKqSuPv+1f1h25PQij5EZC7bTedXe6GqnZer8fpqQV3KuvykTOd9xwkTb9CYHpoGjFWzjGV1w4W9fbDyXQj1u2cU5u3W6CWqdFTy2OEGzPK2JbPsbUl/U2GfA9VJoWt9Mo8gUrT1mTz9agQcfTXbZO8crVmy5Ed/VNdzxUpqPsomXuklEcVD1pZo1KChFQaNzhLXK3BrGEJO7trd+88Hrb/JtIz5jg8xcSXHvJ9X1iX6iRXJDsLj6B+LHSuiRAVj6DANLfgMVyFpZxNunOxmbv1edCBuIAUCcTzAtycsq+rOGVWt8WRtBsfg==;of1foqOKZGT8pKElTIkWiw=="

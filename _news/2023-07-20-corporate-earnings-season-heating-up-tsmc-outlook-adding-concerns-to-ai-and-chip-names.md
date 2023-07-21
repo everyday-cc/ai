@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heat
 cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI server chip demand to surge over next 5 years, says TSMC"
+    excerpt: "Demand for AI server processors, including CPUs, GPUs, and AI accelerators, has already contributed approximately 6% to TSMC's total revenue, according to company CEO CC Wei at a July 20 earnings conference call."
+    publishedDateTime: 2023-07-21T01:33:00Z
+    webUrl: "https://www.digitimes.com/news/a20230720PD216/ai-server-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230720pd216_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "TSMC warns of deepening chip slump as AI boom fails to offset economic woes"
     excerpt: "The world’s biggest contract chipmaker, Taiwan Semiconductor Manufacturing Company, has warned of a deepening semiconductor slump, as the boom in artificial intelligence fails to offset global economic woes and China’s delayed recovery."
     publishedDateTime: 2023-07-20T10:22:00Z

@@ -83,6 +83,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "U.S. Tech Leaders Aim for Fewer Export Curbs on AI Chips for China"
+    excerpt: "The chip giant's product launch on July 11 is part of an effort by U.S. technology companies to bypass or curb government export controls to the Chinese market as the U.S. government, citing national security concerns, continues to tighten restrictions on China's artificial intelligence industry."
+    publishedDateTime: 2023-07-20T23:16:00Z
+    webUrl: "https://english.chosun.com/site/data/html_dir/2023/07/21/2023072100512.html"
+    type: article
+    provider:
+      name: 조선일보
+      domain: chosun.com
+    quality: 54
+    images:
+      - url: "https://english.chosun.com/site/data/img_dir/2023/07/21/2023072100509_0.jpg"
+        width: 700
+        height: 379
+        isCached: true
   - title: "Intel Capital invests in Figure as humanoid robot takes first steps"
     excerpt: "Intel Capital is a notable addition to Figure's Series A funding round and is joining other top-tier investors such as Parkway Venture Capital, Brett Adcock, Aliya Capital, Bold Capital Partners, Tamarack Global, FJ labs, and former KUKA Robotics CEO Till Reuter."
     publishedDateTime: 2023-07-17T12:03:00Z

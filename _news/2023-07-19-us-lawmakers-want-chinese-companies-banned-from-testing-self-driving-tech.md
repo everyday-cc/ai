@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US Tech Leaders Aim for Fewer Export Curbs on AI Chips for China"
-    excerpt: "Intel Corp. has introduced a processor in China that is designed for AI deep-learning applications despite reports of the Biden administration considering additional restrictions on Chinese companies to address loopholes in chip export controls."
-    publishedDateTime: 2023-07-20T21:21:00Z
-    webUrl: "https://www.voanews.com/a/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html"
-    ampWebUrl: "https://www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 74
-    images:
-      - url: "https://gdb.voanews.com/01000000-0a00-0242-0616-08db8965d0ef_w1080_h608_s_b.jpg"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Chinese AI Chip Firm Challenging Nvidia Seeks IPO Later This Year"
     excerpt: "The company has become the de facto alternative to Nvidia's AI accelerators, which have been banned in the country due to sanctions."
     publishedDateTime: 2023-07-18T18:30:00Z

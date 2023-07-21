@@ -26,17 +26,6 @@ images:
     height: 1141
     isCached: true
 
-related:
-  - title: "Establishing the Self-Driving Clinical Trial"
-    excerpt: "What does a self-driving clinical trial look like and what does it mean for the industry? Explore the ins and outs of AI in clinical development in this article.<br /><br />"
-    publishedDateTime: 2023-07-17T00:00:00Z
-    webUrl: "https://www.technologynetworks.com/drug-discovery/articles/establishing-the-self-driving-clinical-trial-375702"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 4
-
 secured: "AREMob4UPl3yZeEL4L5iXveRjkEShl0+HGM5Y69+kD4X5hfNUfExLXbQWX24TptbzIBmOgJoWAvsrxFabN5mHV/KAKtFM0mvBE31ensrQNuz5hJEluoBaoC9octAssNRO2tdGu+nzDR6egGLyGwKe+/ujGukXRcoJGEe3uINio6NWh9P7oxElHnr4rYhvWnuj4sg+UsL7dhJKhM1lrZkVnJBqz3aLTj61zpGRjUEs20R9FmBrJG68SX21+vr0OgDHaYv3oLA+PeKVbwNu8eCH26aXzzWvKee8KecM8e8kugZqZ3QbPTqKBhNJulYjoB7bDf8rajZ2ZSYQL9ENIUgg4cKGFhOdgh8KkXN3O36pSZmUawSO+qIeNTN5VK95DhrDd2RklKhCMqIZ5I+FpJo6NnhA6vPOzfyRybV4U8aTNTb91s9f2y6wSaHHmuaoFvL+Op3RDI/tNAYaa/TTPYL+4gc79+CzwGobTYUfC0rEAKjm/6GQc6+aW36Qqr5ub9XgARcDrjSH9oFwLFoj9PHyQ==;8CuAHPsTFk/XveZ7Atj4+A=="
 ---
 

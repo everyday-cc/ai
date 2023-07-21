@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/common-sense-media
 webUrl: "https://markets.businessinsider.com/news/stocks/common-sense-media-announces-new-ratings-and-reviews-system-for-ai-products-1032451907"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Elon Musk Sets New Target For AI, Products To Include Self-driving Software, Robots"
+    excerpt: "Rising interest rates and competition from new EV makers have forced Tesla to cut vehicle prices to gain market share, hurting margins."
+    publishedDateTime: 2023-07-20T09:14:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 53
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/fus1nieccu7bwoun_1689844201.jpeg"
+        width: 768
+        height: 439
+        isCached: true
 
 secured: "BAsfnhA0sGzW5jPcFxIPH09+0eqdl3sUFRnv65zvuLOVDc/JgwIgvWsYqCoObeaw/qDnfCVbABL3Km6Me5EfREwNKYnjuRyifcEWjbfGQCv7gvfhwGQirREBVEej6AnO3j9aYJmKEuJzbDoGvzAzbv2qlwoBrOMdyvPG68FPQbLgZBR8khZbJdF2/92kWxZENkAanAxwI/p09G1z3m+Qu92MsnCg4f124ah+k7DhNonYPF22N3bIyNx9Uvq4AzlwVPzO7MD6m7m77GPbUM0sq7c36TzJ/nkyuA2bS6RzoIwMzfiHJTfJfYbBE0baLZuvx5fcxd1SJKMiO1EEo0XQlFPYlD03gD96pbXPY8Ybnvc=;g4cZCS7JcqVRmT1eYn6cbQ=="
 ---

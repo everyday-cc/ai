@@ -2,26 +2,26 @@
 category: news
 title: "Google says it’s developing AI tools to help journalists create headlines, stories"
 excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
-publishedDateTime: 2023-07-21T01:35:00Z
-originalUrl: "https://www.kktv.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-webUrl: "https://www.kktv.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-ampWebUrl: "https://www.kktv.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
-cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+publishedDateTime: 2023-07-21T03:35:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+webUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: KKTV11
-  domain: kktv.com
+  name: Hawaii News Now
+  domain: hawaiinewsnow.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/d1zVN7EXXEyuGgp6KxUoTCK-Pq8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5KJR6DZFNNFRXPIQWTDY47T4GA.JPG"
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/6L-LCi_7ykqNycC0mr5lCrYPl9Q=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/L4KVQS5ZYNHGTGUXYJUCA2VNMQ.jpg"
     width: 800
     height: 450
     isCached: true
@@ -79,6 +79,6 @@ related:
       domain: cbsnews.com
     quality: 18
 
-secured: "1N1mik4Jbcgj3ga+IRafNOusOO2+M4b1XiN5qO11wytIL+139K5gixa/OV7WWbVeI74zfzL7dN3PcQhuz/FA6QpnT2zutLBB1XAEF//MJfPDOQAsO3ZxMhYUHgtEv8CJRiSvM+T4tUlma+mLI9VNpsGBGmuFayQpS5uby2fCmV0u3XVp6I79gTlNeKVLjQ5Zcv6EY8EAHeraiaFuyA1FWTgxm4kmZT3/gxjrwTWEN5F62peOc0qDrvu2CIEJCihE9kWj2UFcLcGF254+Kt7nPJKQUuw8HulBYoxYnZjmhLJh9JfXe4ye07fRRGulEJj5WKXxBRRg5cUbbLUMWHwoqTGF+4nNlwA2ngK32hrraIA=;dEC8ryNd01vl2BgFU4pjFw=="
+secured: "S9UisVjp+D5Fv1cNXpuzy/0VBWkHVn+L6bUXFPx7vSWOEfxaoZqMkINC1sFSkAu+26YHkBDJtFrzE0sif75jj/iZZeueX2zPkTFGKcliMQBGZCygCVq17bWPDZVELpCz3yBF0HBv+Yf77fs2Ldc3fgbYHDQW9homXBiUixYv7sr1NmxJzVHWU5FvQsW/4cCWAuUaC6nz2mMS6KiUOFeRwKNeJjSxQyKgtYQ8x6hpQUu6RVbUysnSXFfuBjw/kOgjt1NrxEuOwcaoDSOvYqTsYrOdwT00fkjeO0tz//CWyu2GmmZA6qusdiUT+Sey/w5AZGzR+nVcu83suw60XQEbezljYeq8mFnAYv6j1+dwU1w=;OoemfZywKa4tVYCH3OHLKg=="
 ---
 

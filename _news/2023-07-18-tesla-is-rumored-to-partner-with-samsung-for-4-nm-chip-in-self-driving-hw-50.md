@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-
 webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
 type: article
 quality: 83
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Positive About Tesla's Growth In Self Driving, Humanoid Robots"
+    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
+    publishedDateTime: 2023-07-20T06:03:00Z
+    webUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598"
+    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 73
+    images:
+      - url: "https://c.ndtvimg.com/2023-07/v06clarg_elon-muskteslaai_625x300_20_July_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Tesla’s Game-Changing Move: Licensing Full Self-Driving System and More"
     excerpt: "In Q2, Tesla continued to dominate the US EV market, smashing its internal record with 479,700 vehicles manufactured and 466,140 delivered, marking an impressive 87 percent year-on-year growth. The Model Y made headlines by becoming the best-selling vehicle overall, surpassing traditional favorites like the Corolla."
     publishedDateTime: 2023-07-20T04:40:00Z
@@ -73,6 +89,22 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418906269/image_1418906269.jpg?io=getty-c-w750"
         width: 750
         height: 500
+        isCached: true
+  - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
+    excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
+    publishedDateTime: 2023-07-20T02:33:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33295767/elon-musk-drops-clues-about-teslas-potential-partnership-with-major-automaker-to-license-self-drivin"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33295767"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33295767"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 40
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
     excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"

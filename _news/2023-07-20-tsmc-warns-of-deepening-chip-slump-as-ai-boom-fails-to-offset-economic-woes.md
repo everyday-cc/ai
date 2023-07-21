@@ -35,6 +35,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "AI server chip demand to surge over next 5 years, says TSMC"
+    excerpt: "Demand for AI server processors, including CPUs, GPUs, and AI accelerators, has already contributed approximately 6% to TSMC's total revenue, according to company CEO CC Wei at a July 20 earnings conference call."
+    publishedDateTime: 2023-07-21T01:33:00Z
+    webUrl: "https://www.digitimes.com/news/a20230720PD216/ai-server-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230720pd216_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "MC39zalEuj9M8veuDu/qAwADrG8pDQjCNxulnVwgFgu3pZ0Gaa46ZfWG5jKjSCwCGklaHcHiX44W/DQAiIi4jArs7iwdXWsk7T1Gw4Fx7D8fX2lvS0Ib4/5l9BjA+hwos4C+7E+GrPXicBlm/ta/Wj/v+K0mOTLQpxHHqYy0Ld5pxYDoaup6KoBKaLJdznjCpZJb4G17OkXQXCZYhMv3sTvkpraGfJtNrJFRyxNZrsZJT/ULZNsJ0Qw+AdgXHXKwm130eJbRCD9QVbelSRp5hiTVqwkAvoFnpDElvSM++h0Lm8PP+U4EVjnfKmfwQyg6QwK4/sJ4qJQZTL0hN9L5b/osq2NWn6gRZtgvXhbJqK4=;XLxPxu9TND0kNTNmw2MrHw=="
 ---

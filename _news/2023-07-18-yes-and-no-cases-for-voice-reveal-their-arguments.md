@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The 'yes' and 'no' campaigners reveal their case on Voice referendum to Parliament"
+    excerpt: "It said voting yes was about recognition of indigenous Australians ... The Yes pamphlet also included support for Voice from Indigenous sports icons, including Johnathan Thurston, Eddie Betts, and Evonne Goolagong Cawley. The No pamphlet, written by ..."
+    publishedDateTime: 2023-07-21T03:52:00Z
+    webUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/kampanye-ya-dan-tidak-mengungkap-kasus-mereka-tentang-referendum-suara-ke-parlemen/wqlmpabim"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 33
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/f35ea41/2147483647/strip/true/crop/800x450+0+42/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5d%2Fd8%2F1d4c9184453a880c2e98b4a5b9f5%2Fthe-yes-and-no-camps-have-submitted-their-cases-on-the-voice-to-parliament-referendum-aap-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "hKwLc001mKuv1kkl2L9H/1M4rhCtOwv9pNA27l0CbilcohM64lvRbfCR/yS2X1U/rvGcs4gR/e14dxYAVilqEVw+YyP8AkYUp8qT7++CfQcf0S71ElI20OY8M189MfQmlrE5A5llOx9d3mqf2IBxuK+IfuIf8wcNeunZfbjHq2R2ccsdYDOA5+iMFc3Rmhnl2yM2MmmR9jv6b4uz5RCgP0wdPokp7/l76XwQIiZH/JIYy4HHG9UN79N3UqY4iWdCreWJuh1LW5BcwifvTDNr5NodeD7rmdZcvxZ53IxC3vDMaegfpEmvrecY0yKjlrWlLJ1W1mF5YKQtZ5i0SBpVAYGGd6Rc3rQ/+pViWEQp/G8=;oD8N2bMQuDXqcusnzfIr8A=="
 ---

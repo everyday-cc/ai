@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "MTA using artificial intelligence to tackle fare evasion"
+    excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
+    publishedDateTime: 2023-07-21T02:40:00Z
+    webUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion"
+    ampWebUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 37
   - title: "New NYC Law Restricting Artificial Intelligence-Driven Employment Tools Reveals What’s to Come"
     excerpt: "Up until now, employers have been able to use artificial intelligence (AI)-powered hiring and promotional tools without worry about compliance with AI-specific laws. On July 5, 2023, that changed. New York City passed Local Law 144, legislation ..."
     publishedDateTime: 2023-07-18T19:18:00Z
