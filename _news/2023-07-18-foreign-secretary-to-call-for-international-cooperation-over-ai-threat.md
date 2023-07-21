@@ -78,6 +78,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Australian gaming operator calls for coordination on facial recognition for restrictions"
+    excerpt: "Another Australian state has passed gaming reforms for AML and self-exclusion, and a hospitality operator calls for a national approach to facial recognition."
+    publishedDateTime: 2023-07-21T14:15:00Z
+    webUrl: "https://www.biometricupdate.com/202307/australian-gaming-operator-calls-for-coordination-on-facial-recognition-for-restrictions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Artificial Intelligence integration to empowers international expansion of Theravada Buddhism"
     excerpt: "President Ranil Wickremesinghe reaffirmed his dedication to securing and promoting Theravada Buddhism on an international scale. He announced the implementation of an Artificial Intelligence program to support these efforts,"
     publishedDateTime: 2023-07-20T21:51:00Z

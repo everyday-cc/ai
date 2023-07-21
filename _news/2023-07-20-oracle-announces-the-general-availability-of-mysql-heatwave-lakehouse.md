@@ -51,6 +51,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "Oracle's MySQL HeatWave Lakehouse now generally available"
+    excerpt: "Cloud major Oracle has announced the general availability of MySQL HeatWave Lakehouse, delivering an industry-first by enabling customers to query data in object storage as fast as querying data inside the database."
+    publishedDateTime: 2023-07-21T13:56:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=1102218"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 19
 
 secured: "z/hSPVm0oTchbqImaSjGiOqcEvY6lSw/vZ0Y8EpbEnUbhm0PVuOs4Ma4OylpCrWPnzcjqNjhvDflBwa3IJrkU2mv5JQjfw7uKjC0DzBC2otHaHmP74xSv7PFwR2FvwWYTfJqv7WtdNBLQHlcqns9MRee+JeueS3vVHzRUZw5pUZOQ9VeIrTEEMTHasD0npmfxTbHo/Chp5UL2FwXdAc8Fx8CGQ8fBse/KM5+A89WHhtBj40qs41tJJnRIK35inIZMtK6WQSVvXSyIlQy6QoCBX/EfgzMVKk4g1p03WcuqwMXAE0jH7aARlqQWFWCd0NgIZ1PQjbonnwjCXeQ8UJSPCZqb4uEpd9CD0uXgDlX9XQ=;X56+2WWVoKjmOx8Up67nDA=="
 ---

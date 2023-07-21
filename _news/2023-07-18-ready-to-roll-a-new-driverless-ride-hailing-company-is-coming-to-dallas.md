@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-rid
 cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/?amp=1"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Driverless taxis start paid service in Beijing"
+    excerpt: "A larger fleet of driverless taxis are available for hire in the capital city as the Office of the Beijing High-Level Autonomous Driving Demonstration Zone has decided to launch the commercial operation of autonomous vehicles and expand their serviceable area."
+    publishedDateTime: 2023-07-21T12:32:00Z
+    webUrl: "https://www.independent.co.uk/asia/china/china-daily/taxis-technology-transport-beijing-b2377186.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2023/07/18/09/driverless%201.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 814
+        isCached: true
 
 secured: "+lyt8Id65KAtRIKjXrtRZAgRjegLo59ad1MT7q9qJ0HJ4zwgrOkEFXl5AIo1CYONAQLSjiyaNWmKm1met2Fm+O3/Mbi5WIidwHarMUcGZ2BbehR/6v0LAKdI7Vnf2so+OvKS6XKltBLzlh5BRUM6IV0hmDZuljK4QSe0OH8uOogisfHxTw2TcBElRySbzujspBNA4TSN3KBXdaBQHq/A+hF3At/08KwER5BdAkaaZYE7DDuZreydme2wdJ1ZqfSMzaL2Lro8vfVelxy+Z4Ek2LlBHA20KKAaIwIAicf5X1s6In1L5pClNJORA6DDc+gi9nVDNUqz2uhzLcwmyUHbc6zN8WriGn4anW3lAkk9e0I=;KCxHfl3ZSL+x/m+/+H2xlA=="
 ---

@@ -76,22 +76,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "The Next Frontier For Large Language Models Is Biology"
-    excerpt: "AlphaFold was not built using large language models. It relies on an older bioinformatics construct called multiple sequence alignment (MSA), in which a protein’s sequence is compared to evolutionarily similar proteins in order to deduce its structure."
-    publishedDateTime: 2023-07-16T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b19a27ab6a497e66e9bcfd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 786
-        isCached: true
   - title: "Meta's new 'open source' AI isn't so open after all"
     excerpt: "Meta describes its Llama 2 AI model as open source despite restrictions on use. This does not follow official open source standards."
     publishedDateTime: 2023-07-19T17:55:00Z

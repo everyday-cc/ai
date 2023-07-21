@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-h
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Here Are the Actual Mechanics Behind Powering AI"
+    excerpt: "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity."
+    publishedDateTime: 2023-07-21T14:21:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg"
+        width: 1200
+        height: 746
+        isCached: true
 
 secured: "4sYPZ79rv2QTSqKUPej0jlk4sU9hLAPrUGbja6oLlAieQ+aQMrCTre9S2KWh0DF4GVPt172xO1fxCkZJB5/2hvdDthe+x1vMKefTZY2SXiy+B8q7v1L3cVivlHdUO5YOoQDBn2pm63+crTPsNdgQKRIOF+BgVsCC2bxkeS31+tvJXpf7J+QEr15RP1SebB+qplv5NDxDqLN/B4yYnLYIXCJxXcLMyajFU0ut6Cx/dAzEmtOaXsQGX0qBBKDvA1xmaipimZW/B6dDkbUFMpzI9zsBUej5cDijSiMSPJqZ51w368OsP/SHKczLKQKmCOJ3DUeGFpxkScD4bjOLA6u1h6fQ0z19CH/LKQ/0tQfXGB4=;0R7MFAWhfhYWDjYIJx6pfA=="
 ---

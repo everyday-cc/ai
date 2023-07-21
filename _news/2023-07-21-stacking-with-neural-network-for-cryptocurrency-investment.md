@@ -7,7 +7,7 @@ originalUrl: "https://www.algerie-dz.com/btc/DPaz4Amx"
 webUrl: "https://www.algerie-dz.com/btc/DPaz4Amx"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "3 Artificial Intelligence Stocks With More Potential Than Any Cryptocurrency"
+    excerpt: "These companies are likely to play crucial roles in the future of AI, making them better investments than crypto."
+    publishedDateTime: 2023-07-21T12:33:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/3-artificial-intelligence-stocks-with-more-potenti/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 44
 
 secured: "YBRk4fbtlgFTWBaVdA0mwZARThfdyyXeyPT2LJQ2I0h0KYIANgHfNEUACROKOLvb7pUccCEww7MYJsg2v6fT747kJDmqdnRp4cooJ8fqtHBIWeJavbshr+YBdvVIN0ViAWXIRabEpE8mxIC8yzVGStLbOHf66yzeh5T7cxrb1z+lSANk71d1WcLevY10Z+pieqUlxSgI3S9+BZMM/okYEGMqYkPYJMY8UDM+pdqYVFi/AUulfxSkpO+vsFaG2i3qr/PjLI/4vQRFuAi+9qZ7Wto7byNYHP6RiHgdi8zX2xSly4z9EYE19XAFWn9cYiQQFjFjfUhbyBraXA+vzXAckpx25FHuwmJgvqHp0TpH0KE=;pTunbr7vM7mXiiNhBIRF7w=="
 ---

@@ -54,20 +54,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 36
-  - title: "Voice to Parliament: Yes campaign set to submit its case for referendum pamphlet"
-    excerpt: "The Yes campaign for the Indigenous Voice to Parliament has consulted across political parties before submitting its case for the referendum pamphlet."
-    publishedDateTime: 2023-07-16T21:49:00Z
-    webUrl: "https://www.sbs.com.au/news/article/voice-to-parliament-yes-campaign-set-to-submit-its-case-for-referendum-pamphlet/ppo6iejgm"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 34
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/3b06a24/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F22%2F0a%2F3f1821ae4de7a07a2f9374c07003%2F20230705001817462108-original.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "‘Parliament remains supreme’: Albanese says the Voice will be denied veto power over government"
     excerpt: "In a heated debate, Prime Minister Albanese has confirmed that no reparations or Australia Day date change will happen if The Voice referendum succeeds."
     publishedDateTime: 2023-07-20T01:02:00Z

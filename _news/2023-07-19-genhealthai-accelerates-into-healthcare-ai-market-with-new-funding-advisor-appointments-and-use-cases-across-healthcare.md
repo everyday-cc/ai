@@ -42,6 +42,15 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 23
+  - title: "Purehealth And Fujifilm Collaborate To Bring Advanced Artificial Intelligence Solutions Into Abu Dhabi's Healthcare"
+    excerpt: "Abu Dhabi, UAE PureHealth, the largest healthcare platform in the Middle East, is collaborating with Fujifilm Global, a renowned world leader in"
+    publishedDateTime: 2023-07-21T12:25:00Z
+    webUrl: "https://menafn.com/1106643474/Purehealth-And-Fujifilm-Collaborate-To-Bring-Advanced-Artificial-Intelligence-Solutions-Into-Abu-Dhabis-Healthcare"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 12
 
 secured: "Adz3m2LYdx0/myTR92WRmc8QlsrV/2wtH8kCQiWK+GqmtOb3TmrL3dOseRKK31/sGY7o0yEzarbqRS7xWMxdFYf6LRYfJQEoGHWMcNnWJLz516cqSNWRht7XT1SSWgHs3+j7n7x74NRBfwkORzNonMicnQO7X3hVaGoP7KLxC7Tdq6xqcR4AMPAgBFjlLUDbDGpPQh9x3d/homILvUA2I2uh7i7fGSbrGFiFGrGWUQKrHQjuDoi6pMj1gRbmZ0TbiFTdC0W1KjdyxudiT6qEGgb8A7QcFwqDK3U+q9ty2d8QcIhrgW/ApnnJcEX0FQ2Aw7IMbNILo6UKVxfqi0So3OevFiFc/XGa10oASS6+LXU=;2ZgqgiwBR5b+5KojY5mbmg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
 type: article
 quality: 89
-heat: 239
+heat: 259
 published: true
 
 provider:
@@ -151,6 +151,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Tesla Will Let You Transfer $15k Full Self-Driving To A New Car, But There’s A Catch"
+    excerpt: "Tesla is finally allowing owners to transfer their FSD package to a new car, but the offer is only valid for new orders placed in the third quarter, and owners must trade in their old vehicle to Tesla"
+    publishedDateTime: 2023-07-21T13:32:00Z
+    webUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/"
+    ampWebUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 52
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla-FSD.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
     excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
     publishedDateTime: 2023-07-20T02:33:00Z
@@ -166,6 +182,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
+    excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
+    publishedDateTime: 2023-07-21T14:30:00Z
+    webUrl: "https://jalopnik.com/elon-musk-still-thinks-self-driving-can-save-tesla-1850661640"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 39
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2ae6341ce8ae9065edf978925dc54db.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
     excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."

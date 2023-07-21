@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
 type: article
 quality: 80
-heat: 170
+heat: 210
 published: true
 
 provider:
@@ -107,19 +107,51 @@ related:
         width: 7812
         height: 4393
         isCached: true
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
-    publishedDateTime: 2023-07-21T09:09:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1188831773"
+  - title: "Seven AI companies agree to safeguards in the US"
+    excerpt: "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology."
+    publishedDateTime: 2023-07-21T14:21:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-66271429"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-66271429.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66271429.amp"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 36
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://media.npr.org/assets/img/2023/07/19/gettyimages-1258873333-4be1042a55bb5046f0485b87b78aecccb78c7c15.jpg?s=6"
-        width: 948
-        height: 711
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Top tech firms commit to AI safeguards amid fears over pace of change"
+    excerpt: "Microsoft, Alphabet and OpenAI agree eight measures in effort to encourage responsible practices around fast-moving technology"
+    publishedDateTime: 2023-07-21T13:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/18b5a7f4faffa94269401bb2dda085ad3e34393d/0_0_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=e6a42e334ac004552dd078977bba7478"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "What 7 AI companies agreed to do to safeguard their tech"
+    excerpt: "Seven leading artificial intelligence firms will debut new voluntary safeguards designed to minimize abuse of and bias within the emerging technology at an event Friday at the White House."
+    publishedDateTime: 2023-07-21T14:26:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-07-21/amazon-meta-openai-agree-safeguards-biden-warning"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 37
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d091e6/2147483647/strip/true/crop/5180x2720+0+367/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F6f%2F3ccf2ffb4305b9a4ea2c651c5934%2Fmeta-artificial-intelligence-78805.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden touting Big Tech commitment to make AI tools safe amid fears of tech-fueled apocalypse"
     excerpt: "President Biden is trumpeting new promises from Big Tech companies to make artificial intelligence tools safe amid growing fears that the emerging tech may wreak havoc."
@@ -144,6 +176,15 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 17
+  - title: "OpenAI And Other Top AI Companies Pledge Safer AI-Generated Content: Report"
+    excerpt: "OpenAI, Alphabet (parent company of Google), Meta Platforms (formerly Facebook), Anthropic, Inflection, Amazon.com, and Microsoft have pledged their support to the White House's efforts to regulate the rapidly expanding field of artificial intelligence, according to a statement by Biden administration."
+    publishedDateTime: 2023-07-21T12:37:00Z
+    webUrl: "https://www.businessworld.in/article/OpenAI-And-Other-Top-AI-Companies-Pledge-Safer-AI-Generated-Content-Report/21-07-2023-485032/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 17
   - title: "Tech companies to make AI safety and transparency pledges to White House"
     excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
     publishedDateTime: 2023-07-21T09:00:00Z
@@ -153,7 +194,16 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 16
+  - title: "The White House and big tech companies release commitments on managing AI"
+    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
+    publishedDateTime: 2023-07-21T13:01:00Z
+    webUrl: "https://health.wusf.usf.edu/2023-07-21/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai"
+    type: article
+    provider:
+      name: health.wusf.usf.edu
+      domain: usf.edu
+    quality: 16
 
-secured: "vOhhu+ymLz/Ph8825Wm3jPRiV5FYtQNsic0VBU0oEz3+qqELznDbxDImnXb5OSsBT4OeEWIV0DPSZuvWbhPlxs+cs19BOXlriTr2TnqBn8bbC395HJjBkPzasiYwMIRNbyBH9HFEJs2Lp7cbwMGgYymtI6UxlWYweg/b5hbzGxM6g0kIJ0eTwj1u/MlI4ycSqsZ5N03vAoelVSaEpZEAAMO7Kv+EjbxWwUDPxl3Gx0qNA6MVqbWjvNTgOLVbyKlh0a5LZrbURv5KtE2FuyqPNZWmUGVq3T3EzAB1z6YHDzHeyAnsj5zFXQWXlQFJ5pAKzaX39NjO4XCahxVxooESjfdcy7b6Mig+psQGTl2TTdg=;fm6QFXzNbZQaV1vqTPLL8A=="
+secured: "ZI2KUCDRRml3OX6gpLwc3cJQ/k0ftxmYeJqhx2Pw8ftzuHcoNMOd+QBbknwGRatDqGA1GrQk99OIQBDlcC2LuqhWFO9mLaxlZL65eIGB+pPyRSjrbZZc7XFzkJyLNzsYZPnvveyuaYGiZ7OWXQIt7KOQh6y6UFy3RdytE7xEnwt5Vm7lOaNPGA80him7M+1PDrgrJwY2JXLRBndEEjn7VaOcZaRM3EN4vQp2npyyZeP+un94vsYt8BzfDHY8xkHhXazhjwFLerDFe+eKasz59VaKpJZsdWkGkAQYleiUdQSIqNDEj4/41vfB3gzkNy85flR6H9/tPOeoniHkcdZYwVklKDq4YkgngcEmTtChihPB5UYAN8XAzB49UKrhyjKHnBk0tqRju2us1QFapCxFHjxkd0S8CBe9cnL/73a6WC/hZLShdEoJ4eaLpgYuGOID4O8hYGPL7ZxVG+2H8mVLOxU+9qSnpiJyQWmEtDYtCVWli2wBL7E51CFW3NNQqF79R+xoItdpYcPKoeL8tlAIjw==;VPlgghBk/6UC/oxk1vdkig=="
 ---
 

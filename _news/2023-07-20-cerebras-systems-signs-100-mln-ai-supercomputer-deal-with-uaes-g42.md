@@ -32,6 +32,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "AI startup Cerebras built a gargantuan AI computer for Abu Dhabi's G42 with 27 million AI 'cores'"
+    excerpt: "Condor Galaxy is the first stage in a partnership between the two firms expected to ultimately lead to hundreds of millions of dollars for a clustered system spanning multiple continents."
+    publishedDateTime: 2023-07-21T13:09:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-built-a-gargantuan-ai-computer-for-abu-dhabis-g42-with-27-million-ai-cores/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 36
   - title: "Cerebras Systems debuts powerful Condor Galaxy supercomputer to rival Nvidia in AI training"
     excerpt: "With Condor Galaxy 1 now online, Cerebras is looking to showcase its technology and achieve wider adoption. Unlike Nvidia’s GPUs, which come packaged as small PCIe cards or SXM modules, the supercomputer is built using massive computer chips made out of entire silicon wafers, and are about the same size as a pizza."
     publishedDateTime: 2023-07-21T01:04:00Z

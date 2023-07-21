@@ -116,19 +116,51 @@ related:
         width: 7812
         height: 4393
         isCached: true
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
-    publishedDateTime: 2023-07-21T09:09:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1188831773"
+  - title: "Seven AI companies agree to safeguards in the US"
+    excerpt: "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology."
+    publishedDateTime: 2023-07-21T14:21:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-66271429"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-66271429.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66271429.amp"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
-    quality: 36
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://media.npr.org/assets/img/2023/07/19/gettyimages-1258873333-4be1042a55bb5046f0485b87b78aecccb78c7c15.jpg?s=6"
-        width: 948
-        height: 711
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Top tech firms commit to AI safeguards amid fears over pace of change"
+    excerpt: "Microsoft, Alphabet and OpenAI agree eight measures in effort to encourage responsible practices around fast-moving technology"
+    publishedDateTime: 2023-07-21T13:31:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/18b5a7f4faffa94269401bb2dda085ad3e34393d/0_0_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=e6a42e334ac004552dd078977bba7478"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "What 7 AI companies agreed to do to safeguard their tech"
+    excerpt: "Seven leading artificial intelligence firms will debut new voluntary safeguards designed to minimize abuse of and bias within the emerging technology at an event Friday at the White House."
+    publishedDateTime: 2023-07-21T14:26:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-07-21/amazon-meta-openai-agree-safeguards-biden-warning"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 37
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7d091e6/2147483647/strip/true/crop/5180x2720+0+367/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F6f%2F3ccf2ffb4305b9a4ea2c651c5934%2Fmeta-artificial-intelligence-78805.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "US Communications Commission Hopeful About Artificial Intelligence"
     excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
@@ -139,6 +171,15 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 17
+  - title: "OpenAI And Other Top AI Companies Pledge Safer AI-Generated Content: Report"
+    excerpt: "OpenAI, Alphabet (parent company of Google), Meta Platforms (formerly Facebook), Anthropic, Inflection, Amazon.com, and Microsoft have pledged their support to the White House's efforts to regulate the rapidly expanding field of artificial intelligence, according to a statement by Biden administration."
+    publishedDateTime: 2023-07-21T12:37:00Z
+    webUrl: "https://www.businessworld.in/article/OpenAI-And-Other-Top-AI-Companies-Pledge-Safer-AI-Generated-Content-Report/21-07-2023-485032/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 17
   - title: "Tech companies to make AI safety and transparency pledges to White House"
     excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
     publishedDateTime: 2023-07-21T09:00:00Z
@@ -147,6 +188,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 16
+  - title: "The White House and big tech companies release commitments on managing AI"
+    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
+    publishedDateTime: 2023-07-21T13:01:00Z
+    webUrl: "https://health.wusf.usf.edu/2023-07-21/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai"
+    type: article
+    provider:
+      name: health.wusf.usf.edu
+      domain: usf.edu
     quality: 16
 
 secured: "/Gfa3sL/Ttuudo9F2zIjEFn4U80fLncHXSSDFro9OA6gX2PkyPDrO0skyyxCJGFEp1I+f5vFEJwe/3ubnFAGyS1/dnAGa2UIwmv3Y7aHVMipWon5DbGjT0MPrkSd/ZmkaMTql0EkXMqgHXgA9voXyJSHrd5o6Q89gNQNq56YIeiQ4TK7jhPyCE41gz2gDyKancMunUKTB6CnZ/yhfBzYx4/qLgnZdtyfJG8JOMIleTV+/m/Q9YHJWQcCkoujjLnJL/b6ZW4QPWqgEiHnQHcg1k+jaxCWXGKzmsbcau07/zNvHWBChxmjjVkt7kN0VZqWpFmYq52WQn4Saaoi/fhBAeRF2Oi1Sl3vjcLyGUpMZ5k=;WVi0+ItevCmmmeb3cfgezA=="

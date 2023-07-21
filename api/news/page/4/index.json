@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-19-help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai.md",
+      "title": "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI",
+      "excerpt": "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
+      "publishedDateTime": "2023-07-18T21:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-james-cameron-on-deep-sea-exploration-artificial-intelligence.md",
+      "title": "James Cameron on deep sea exploration, artificial intelligence",
+      "excerpt": "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095",
+      "originalUrl": "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html",
+      "publishedDateTime": "2023-07-18T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-the-engines-of-ai-machine-learning-algorithms-explained.md",
+      "title": "The engines of AI: Machine learning algorithms explained",
+      "excerpt": "Trying everything is impractical to do manually, so of course machine learning tool providers have put a lot of effort into releasing AutoML systems. The best ones combine feature engineering with sweeps over algorithms and normalizations. Hyperparameter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
+      "originalUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-451936193-100632457-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
+      "publishedDateTime": "2023-07-18T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-enhance-amazon-lex-with-conversational-faq-features-using-llms.md",
       "title": "Enhance Amazon Lex with conversational FAQ features using LLMs",
       "excerpt": "Amazon Lex is a service that allows you to quickly and easily build conversational bots (“chatbots”), virtual agents, and interactive voice response (IVR) systems for applications such as Amazon Connect. Artificial intelligence (AI) and machine learning (ML) have been a focus for Amazon for over 20 years,",
@@ -261,7 +407,7 @@
       "originalUrl": "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -415,7 +561,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -510,7 +656,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 919,
+      "heat": 959,
       "tags": null,
       "images": [
         {
@@ -853,7 +999,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -955,7 +1101,7 @@
       "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1090,145 +1236,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
-      "title": "Medifakt: Empowering healthcare through decentralized blockchain technology",
-      "excerpt": "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
-      "originalUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
-      "publishedDateTime": "2023-07-18T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-figure-humanoid-robotics-receives-investment-from-intel.md",
-      "title": "Figure humanoid robotics receives investment from Intel",
-      "excerpt": "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "originalUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg",
-          "width": 700,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-the-state-of-cloud-data-security-in-2023.md",
-      "title": "The State Of Cloud Data Security In 2023",
-      "excerpt": "Explore the rising trend of cloud adoption and the need for robust security measures in 2023. Dive into key challenges, solutions, and the future of cloud security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b64a752cc6d30148248097/0x0.jpg?format=jpg&width=1200",
-          "width": 842,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
-      "publishedDateTime": "2023-07-18T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

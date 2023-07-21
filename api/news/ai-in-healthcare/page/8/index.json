@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-04-25-artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm.md",
+      "title": "Artificial Intelligence Based Medical Device Market 2023 Precise Outlook – Google, Apple, Microsoft, IBM",
+      "excerpt": "The global Artificial Intelligence Based Medical Device market 2023 research report typically contains an in-depth analysis of a specific market or industry. It provides insights into market size, trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-market-2023-precise-outlook-google-apple-microsoft-ibm-2023-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-as-suicide-rates-spike-new-ai-platform-could-fill-the-gap-in-mental-health-care-say-boston-researchers.md",
       "title": "As suicide rates spike, new AI platform could ‘fill the gap’ in mental health care, say Boston researchers",
       "excerpt": "As the need for mental health care escalates amid provider shortages, medical technology companies like OM1 have turned to AI to help improve patient care. But some experts have worries.",
@@ -1395,49 +1448,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-new-artificial-intelligence-tool-helps-predict-colon-cancer-survival.md",
-      "title": "New Artificial Intelligence Tool Helps Predict Colon Cancer Survival",
-      "excerpt": "Artificial intelligence (AI) or machine intelligence refers to the intelligence displayed by computers or robots in contrast to the natural intelligence exhibited by humans. It is considered one of the major advancements of the 4th industrial revolution and finds application in several fields including medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/artificial-intelligence-can-now-predict.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-tool-helps-predict-colon-cancer-survival-211365-1.htm",
-      "publishedDateTime": "2023-04-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

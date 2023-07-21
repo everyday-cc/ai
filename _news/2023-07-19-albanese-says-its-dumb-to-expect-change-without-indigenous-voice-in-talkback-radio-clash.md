@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Albanese famously loves fighting Tories but with the Indigenous voice it’s as if he’s wrestling smoke"
+    excerpt: "The yes campaign is not going well. But how poor would the polls need to be before the PM considers calling the whole thing off?"
+    publishedDateTime: 2023-07-21T14:17:00Z
+    webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/22012a0c352faea22b894352858a9d94cc98b17b/1199_247_3637_2182/master/3637.jpg?width=620&quality=85&auto=format&fit=max&s=4569f89f645579e7db66373be931d201"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Albanese says Voice is not risking Indigenous recognition"
     excerpt: "The PM defends the ailing campaign for the Indigenous Voice to parliament, saying he’s acting on the request of First Nations people; Donald Trump expects to face criminal charges in a federal investigation."
     publishedDateTime: 2023-07-19T00:41:00Z

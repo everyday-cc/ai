@@ -48,6 +48,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Engadget Podcast: How AI created a 'South Park' episode around us"
+    excerpt: "It looks like Microsoft’s acquisition of Activision Blizzard is trucking along, following a court rejection of the FTC’s injunction attempt.."
+    publishedDateTime: 2023-07-21T12:45:00Z
+    webUrl: "https://www.engadget.com/engadget-podcast-ai-south-park-they-cloned-tyrone-123026251.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
   - title: "AI tool creates South Park episodes with user in starring role"
     excerpt: "Episodes can feature a character based on user’s own looks and voice – but tool will not be released to public"
     publishedDateTime: 2023-07-20T17:31:00Z

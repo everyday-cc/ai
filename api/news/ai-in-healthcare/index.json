@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
+      "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
+      "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/",
+      "publishedDateTime": "2023-07-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-healthcare-ai-caution-addressing-ethnic-health-inequalities.md",
       "title": "Healthcare AI Caution: Addressing ethnic health inequalities",
       "excerpt": "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -298,7 +350,7 @@
       "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1345,49 +1397,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-people-are-uncomfortable-with-ai-led-healthcare.md",
-      "title": "People are uncomfortable with AI-led healthcare",
-      "excerpt": "Less than one-third of people are comfortable with their primary care doctor's appointment being led by artificial intelligence ... about the new frontier of healthcare technology, according ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
-      "originalUrl": "https://www.washingtonexaminer.com/policy/healthcare/patients-uncomfortable-ai-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/50c181b/2147483647/strip/true/crop/3729x1958+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6e%2F0f%2Ff516ae5d44d4b5de9c80dd60a5d4%2Fistock-863492778.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

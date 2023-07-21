@@ -41,20 +41,20 @@ related:
         height: 600
         isCached: true
   - title: "How AI is helping to translate the Bible into rare languages"
-    excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+    excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
+    publishedDateTime: 2023-07-18T15:09:00Z
+    webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+    ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+    cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
     type: article
     provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
+      name: Angelus
+      domain: angelusnews.com
     quality: 74
     images:
-      - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
-        width: 540
-        height: 360
+      - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
+        width: 670
+        height: 376
         isCached: true
   - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
@@ -78,6 +78,20 @@ related:
       - url: "http://res-1.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/opportunities_and_challenges_for_ai_in_healthcare_bxxfqr"
         width: 1080
         height: 1080
+        isCached: true
+  - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
+    excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
+    publishedDateTime: 2023-07-21T14:48:00Z
+    webUrl: "https://www.acsh.org/news/2023/07/21/thinking-out-loud-–-artificial-intelligence-comes-healthcare   -17198"
+    type: article
+    provider:
+      name: Acsh.org
+      domain: acsh.org
+    quality: 54
+    images:
+      - url: "https://www.acsh.org/sites/default/files/images/artificial-intelligence-gf45a5335c_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
     excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"

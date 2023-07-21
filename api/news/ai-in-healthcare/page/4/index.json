@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-13-artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy.md",
+      "title": "Artificial intelligence could turn human contact into a prerogative of the wealthy",
+      "excerpt": "(Photo by Matthew Horwood/Getty Images) Artificial intelligence won’t destroy our ... agent’ that offers users Cognitive Behavioural Therapy (CBT). The app’s CEO claims it has tens of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy/",
+      "originalUrl": "https://www.cityam.com/artificial-intelligence-could-turn-human-contact-into-a-prerogative-of-the-wealthy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2023/06/city-A.M-2023-06-12T165703.298-e1686585439321.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-12T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-artificial-intelligence-ai-in-mri-global-market-report-2023-sector-to-reach-153-billion-by-2028-at-a-357-cagr.md",
       "title": "Artificial Intelligence (AI) in MRI Global Market Report 2023: Sector to Reach $1.53 Billion by 2028 at a 35.7% CAGR",
       "excerpt": "The \"Artificial Intelligence (AI) in MRI Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence in",
@@ -1338,58 +1381,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-five-ways-entrepreneurs-can-use-artificial-intelligence.md",
-      "title": "Five Ways Entrepreneurs Can Use Artificial Intelligence",
-      "excerpt": "When it comes to mechanical tasks and time-intensive processes, you may be better off delegating them to AI to free up more of your time for human-centered work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&crop=752,423,x0,y78,safe&width=1200",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-31T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

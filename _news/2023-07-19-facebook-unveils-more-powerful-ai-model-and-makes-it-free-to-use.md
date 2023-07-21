@@ -177,13 +177,13 @@ related:
         height: 800
         isCached: true
   - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free"
-    publishedDateTime: 2023-07-18T21:25:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-makes-public-chatgpt-rival-llama-101422359"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
+    publishedDateTime: 2023-07-19T13:00:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 4
 
 secured: "ihb8eMDfboZHMTZjuM07EGUkR+bnU+lqaROM/VLJrzCnisYusxTkkbOqLnqIPZHv4zfh3n1vFUzUpaElfJ04hLbUK2K7Wz/768W/yrroJQGZnFMESQYtCXt7UTbEVwXI2avXxiwUzbKtOd19h4bN8U5LTtjxeiVnOBJJ8L2CpdJf1gQtGk4IUwi/K1M0D6g7g/D7UhkqW67bLFLjDFFjwbhCAdTUjheePNeu+KsirBzAu2QsK6yxXgvJO/DyD+b1RlxTM00Zb3iuoc0YscI4suxfuHxoiL+8Njy1Y+wTBPmEXQVGuWIdhp4LkAGUiMI2c+k4ydUNx+UAWEwWVDxGuM7wEmJw42bLtettfy7WkyZpik+59fuxnP8yriyLgdVw7HUQI+qGUM40GbsQy+QCHJhQXfYGkXYNnA56jtKW856/w6PnirWX/uwTW3M3RuuhmwYfybaSaZDe96zRYnjQGfyWGJXg04zgt2Uheb8oW5Gzcc11Ln5d+FnKAGluSlk9pBXtkg1hPPlD/LX75nDElA==;XCf9FAN/ztaSB3UQ/gPXnw=="

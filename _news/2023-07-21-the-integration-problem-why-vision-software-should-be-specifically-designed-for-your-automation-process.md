@@ -39,6 +39,15 @@ related:
         width: 899
         height: 600
         isCached: true
+  - title: "Why vision software should be specifically designed for your automation process"
+    excerpt: "Renowned for having the most sophisticated vision across the animal kingdom, the mantis shrimp possesses a visual system that far surpasses human capabilities. While we may not be able to replicate its vision system directly,"
+    publishedDateTime: 2023-07-21T12:25:00Z
+    webUrl: "https://www.pbsionthenet.net/article/199408/Why-vision-software-should-be-specifically-designed-for-your-automation-process.aspx"
+    type: article
+    provider:
+      name: pbsionthenet.net
+      domain: pbsionthenet.net
+    quality: 0
 
 secured: "0ox5eiNa1GpIQeoIxjDULFgp5ZuPOca3AGDYrsDeLloTGrR8fKuGtM2/IiPSG/3YVwMAFK2Aymr/RgWh7UWjKEaxXhpwRMqvNZxS/qEdELrTOtEQ4jbJg4R+ROAYWMMl+DLnvBQ56YJxBDwDBnscbNp8bZ6gEGRR0ewKV8qTFE6K7Z8liTNgioe816kfRV4w+WDsJuFyzjOrCD1+OGhKdo6D8d9c2FF+yLoRD8aanI/rCKJSdtCbqRjZFjmFRbKwVRY95nsAmP3oadjrPH0WeYgsoy/QtoeAlpFj33g530CMx0niazWW0V7cUZ/M+3rk5y3NuviUFwxCIgC3UaHFacl3IRM1RZ6d2Zm2qo8mmv8=;HBZt/HObBJBuht8Leq71Cg=="
 ---

@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "The Download: digital dollars, and AI guidelines"
+    excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the digital dollar dead? In 2020, digital currencies were one of the hottest topics in town."
+    publishedDateTime: 2023-07-21T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/21/1076662/the-download-digital-dollars-and-ai-guidelines/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
+
 secured: "2X5A3v9qsKcsPYLUEVohgoaFoFGYqPMC5D89Uhe0YdD4fMy/pl3caytJ4dl3ZMzpi2hHePhKpVuoyQo8mmaOVl3h0dCkzdHwfx6ymUc2/S6x4ddYzIrVNbJ/bKideQiEemsTyC2n22gGTMIL/vy8QKCu9diXDMJiRVudeDnhrXJE57ZK4/SuAJw9nXdWp+6TvD+zECsYqHejCC96WiYbZdNuiUrHZRVYMY0uDosbDtV8FgTSu1RXaUAHc+7+lEbPgyeTYoh2buInmxkRlvHLwbFwLUKDZM87WWGJdPP/4QpP3+A11K+xJMAsBYcLK38YKtBY5I3e0oK55Ub+kHw6KsxdkmWm1oSSJv34yegClDbzO8c7xaUzZCVVB26TA1eywUK8dXwnausEUpnxnhwS2mnjlBMhahb3n+v8LARCL/RVy9oSXiBfjB5RCXQ6QBXdRpPe4NBcSc5AXGVURBvFDriNAj/9hf6jqsY5k0oTB9Xpf8XyV0V5Jt05KfE/hdbLddlAnsUw2EACHYRqvmRDKg==;9LI+hidV9zHTjsDg02hNBw=="
 ---
 

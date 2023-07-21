@@ -61,22 +61,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google says it’s developing AI tools to help journalists create headlines, stories"
-    excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
-    publishedDateTime: 2023-07-21T03:35:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-    ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
-    cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 53
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/0F8JuOMr6Oj3mdUNS19FCBdJG_w=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GEBWX5ZCIZCSJAXO6PDU6BSHJA.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Artificial intelligence: Google says it is developing new tools to help journalists"
     excerpt: "Google says it is developing AI tools to help journalists to write headlines and in different writing styles, but some are concerned that in an industry struggling financially, AI could replace jobs."
     publishedDateTime: 2023-07-21T11:22:00Z
@@ -91,6 +75,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Google says it’s developing AI tools to help journalists create headlines, stories"
+    excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
+    publishedDateTime: 2023-07-21T01:35:00Z
+    webUrl: "https://www.kmvt.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+    type: article
+    provider:
+      name: KMVT News
+      domain: kmvt.com
+    quality: 13
 
 secured: "kdK/0JYFxbnrcqGLI7d+uJBH6lzxpQDMYirkVFzj8wUHoV6qSjteKLucIMOJj2AcplpcYCFlQJow9WUlRHo6oDk47Q56h5NX+9VtBcM6smS/zWfFVqdGhziVU+CquXPvjYBfPDw1WTZj2EQYhNim98qBkn4TkbHRTVVsq4TZt+Ml+HhEApAe9dK4GzbEyhk77MSBdDfvAESRQE7Mw5yk9Jn8oXLRq1dt9S0xBCw1xSp7b/jffl+TXRH3duOzsY4FJbTcBn1tegwixz9udcQMruMjAcj6psicehAe1sm8rzalotDYPpiGSxGxAPDaFoD8Btk+axTYD/1MSwbQJdipztBtOY/N9MTXiU3VyQLOUDuiEZngmqkUPJ6jAxMSyhuYhrGHol13ndJk0aE1svxuATb3qyoPJHDgsLJO0rEs4zcKfNaNkjvoHHd78dFYNO3aGfnTjkL09VKavnxFWAbVM0imROpwXNHbtzaDtiiDj2dlpc1WBAPM1eWagqNqclTIQrTGFXM00jnCWGAkapne6w==;XqAkd/i/2AOSdv9XHp3Iig=="
 ---

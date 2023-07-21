@@ -3,29 +3,29 @@ category: news
 title: "How Louisiana health systems are leaning on AI for clinical care: ChatGPT, predictive software"
 excerpt: "As artificial intelligence rapidly proliferates worldwide, Louisiana’s health care sector is diving into new forms of AI to boost patient outcomes and ease the burden on overworked providers."
 publishedDateTime: 2023-07-20T15:01:00Z
-originalUrl: "https://www.theadvocate.com/baton_rouge/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_e9edd65c-2670-11ee-b2d7-6f03a3659c51.html"
-webUrl: "https://www.theadvocate.com/baton_rouge/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_e9edd65c-2670-11ee-b2d7-6f03a3659c51.html"
-ampWebUrl: "https://www.theadvocate.com/baton_rouge/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_e9edd65c-2670-11ee-b2d7-6f03a3659c51.amp.html"
-cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_e9edd65c-2670-11ee-b2d7-6f03a3659c51.amp.html"
+originalUrl: "https://www.nola.com/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_0c50c20c-d72f-52c0-a5ab-7daee3d85b55.html"
+webUrl: "https://www.nola.com/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_0c50c20c-d72f-52c0-a5ab-7daee3d85b55.html"
+ampWebUrl: "https://www.nola.com/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_0c50c20c-d72f-52c0-a5ab-7daee3d85b55.amp.html"
+cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/business/how-louisiana-hospitals-are-leaning-on-ai-for-clinical-care/article_0c50c20c-d72f-52c0-a5ab-7daee3d85b55.amp.html"
 type: article
 quality: 47
 heat: 47
 published: false
 
 provider:
-  name: The Advocate
-  domain: theadvocate.com
+  name: NOLA.com
+  domain: nola.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/b/02/b02e5c58-eac9-11ed-bd73-dfc1c1fddb76/64542fb3bcf32.image.jpg?resize=1024%2C551"
-    width: 1024
-    height: 551
+  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/36/436b9781-dd5a-5d6e-a73e-bbba7acbca64/63e56d70a7443.image.jpg"
+    width: 800
+    height: 533
     isCached: true
 
-secured: "6D2HdmpbXaSNaNeMm3CiZZifid/h3E68zJ3if3htnjQvA9TfjsaLBG5BoweINPbMcksbV1w6LayWDfR74V8QlbnSNsBjfJhhOk8WvVHXDfbfBuvOokz6PfLkSCMOa/o8oHg6S8ZmEUBexpT836I0gpWLrv9v/b4Gqj+RPe6gpOt7ZmR19ME6fPCY5NpoiPqUghr1VtMjSLomgYsUQT7DZJBN82sAqvWkde9bwZrfI8ljeSSXmgwz6wDpWSl6m8LW9OtbtZZPYyuQhqQViCpsuuqnYS09h6kakSkwpe6D5rnZObAmru1ERXieCtQYHfFn6j0GWaNzbC7yIoL+uiRH5z0gxvP6wFqKOU4tgpjdKd0=;3ldc2z2jmPrIf35Fo3cwhw=="
+secured: "/8Q8Zgas2ig+jP7eNHBlkUBHdCcIMNHpNrIxMZ4x1v4EJF4IvPUB4R3bjdZbxqBTig5NVXs9/n7NBqxOY1ixfEu0K7aPsIzZtY29fv314f1E7yBTrvItWGtH7T5R/eMrrMoKtlMTaNyoax9DTQdKTgwTDGOvQn3xXgR8Ukokd9alTyi+iVw4rlNYCtcovYW1zMHyYSrdv8RqEEUKeVEJhyHLF4Iirc0bga9CbxQ+eCJunHcSkPlycxk5q25feWMFn83TW2EbiedgwufZLe75b0Fjg3ff64cYyUQ95cfMF3F6bTv79hH7Edi97dk045zbJE5n53jvbYF12CbDUab+T8BHm+XumIz69jVBDMCb7/Q=;afdHAkScOFzr7dpeoblSzQ=="
 ---
 

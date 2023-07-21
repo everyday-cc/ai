@@ -2,29 +2,21 @@
 category: news
 title: "Google says it’s developing AI tools to help journalists create headlines, stories"
 excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
-publishedDateTime: 2023-07-21T03:35:00Z
-originalUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-webUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-ampWebUrl: "https://www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
-cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+publishedDateTime: 2023-07-21T01:35:00Z
+originalUrl: "https://www.kmvt.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+webUrl: "https://www.kmvt.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
 type: article
-quality: 53
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Hawaii News Now
-  domain: hawaiinewsnow.com
+  name: KMVT News
+  domain: kmvt.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/0F8JuOMr6Oj3mdUNS19FCBdJG_w=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GEBWX5ZCIZCSJAXO6PDU6BSHJA.png"
-    width: 800
-    height: 450
-    isCached: true
 
 related:
   - title: "Google Is Pushing AI Tool on Newsrooms to 'Help' Journalists"
@@ -93,6 +85,6 @@ related:
       domain: cbsnews.com
     quality: 18
 
-secured: "dGhwVn/cLfRW0ye2DcklB2kSoQMcPjZ4l++OHbZ+gjZh+FxMj5qE8cIN2jyDRIk2ctuxugl24jbN9im5MZZyib2lzPy9M0PoUDB9pqeVDANG5VUDKzALFOtipHACIC4urT0ocvRDKrx4kPFCKC/bUGYwCOAmy9RRJ3lDr62UCECz4UW8ohDOyCLn4nvYNpvWH91kObRX1eFt5OmQszYJaqFfmIzBfsb4Wd6Q5jlueNAs8wgl5x36x7djYwOZ8pcRDGX8A2Xa46rP7PlntZUz97Z7NMz9U3TbD6uSZxcXRl8UZnh/D6ODovOT9aUZBnGUIJlnSnxtugAiXBsoZmtx1e2cuLkqGxGL7q29WRGCXM37Aa+xy7Jx2cgCLeLkQxwkW+qfen8oSbLC3MT4LBA2chg3eWBKgBZEU0tTesb8mLKP3YUgjTX53l2ZCEw51kQdlIVzygn2wRC3IOQooK8Htxz/9cW0xzdJDJZXyb2pojtaQaBcy9eVoYcOsUx+KBsidMCOA/MoxqUC6bRliR+Rqg==;wyqoOs3iTREWgy9+JdruAg=="
+secured: "YcdPsb3yL9L4xk/dpFHevikRCD/nQTbK/dpZtvPmGqtRTY6bAx60hZzu9cig+xtuGpgBc17SKmZU6K3ATxaWKSMAJ7D94xmwvTxio/PYw1Z7+qmv1cBYy37raePjowK/zp/Ogngp0lIpmudhndC0s/GNyej2/tBIYRbw4+i4/neHMHw8Fn1CSatJ8UdjkVLOZXaZMbNy9coUA4QaDPbov8Mfxw2Bn1IM19r5OD09xgARbuKaIrqUmHoBlBayRvJfoA3TAhChQVWWImDLluNXbu2dY6vEBggYlTbWtCsd3T8NABTFwXVsAYXHGuOdcOFnwF/w16U+bK89aZAQpPf8PGl4At84ug4X7jcMwBisjC8z1FzcbQLpKBCgcuVQSc1/Z/P2okZhi4rEiJwqqR38gbyJiVdiM70r/1jcJ0578fGYLoQhPHN1gvsq+DLsbTbd4ExTMiEtPfeN8J86SFFi0gh6rF1MrQ3DrYhXJxRPGbO6+fPHEKAqEIKY7jAxe4MudxIa0Tj2j+F4LX/iWJI0Lg==;frfU039nsS/5TfAJHIFgbw=="
 ---
 

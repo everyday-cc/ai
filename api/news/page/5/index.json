@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-18-medifakt-empowering-healthcare-through-decentralized-blockchain-technology.md",
+      "title": "Medifakt: Empowering healthcare through decentralized blockchain technology",
+      "excerpt": "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
+      "originalUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp",
+      "publishedDateTime": "2023-07-18T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-figure-humanoid-robotics-receives-investment-from-intel.md",
+      "title": "Figure humanoid robotics receives investment from Intel",
+      "excerpt": "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
+      "originalUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg",
+          "width": 700,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-the-state-of-cloud-data-security-in-2023.md",
+      "title": "The State Of Cloud Data Security In 2023",
+      "excerpt": "Explore the rising trend of cloud adoption and the need for robust security measures in 2023. Dive into key challenges, solutions, and the future of cloud security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b64a752cc6d30148248097/0x0.jpg?format=jpg&width=1200",
+          "width": 842,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
+      "publishedDateTime": "2023-07-18T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai.md",
       "title": "Elon Musk Says His Artificial Intelligence Company xAI Is A Direct Competitor To Sam Altman’s OpenAI",
       "excerpt": "Upon being probed by a user, Musk admitted that xAI is a direct competition to Sam Altman’s OpenAI. He also introduced the founding team of xAI that has many former employees of DeepMind, OpenAI, Google,",
@@ -183,6 +322,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-un-warns-of-ai-brain-chips-on-steroids-that-could-control-minds.md",
+      "title": "UN warns of AI brain chips ‘on steroids’ that could control minds",
+      "excerpt": "A paralysed man walked for the first time in 12 years after being fitted with a pioneering mind-reading implant (Picture: EPFL) The United Nations (UN) has warned about the potential dangers of implanting artificial intelligence (AI) chips in the brain ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6",
+      "originalUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/07/SEI157712892-0324.jpg?quality=90&strip=all&zoom=1&resize=600%2C343",
+          "width": 600,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/",
+      "publishedDateTime": "2023-07-17T18:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas.md",
       "title": "Ready to roll? A new driverless ride-hailing company is coming to Dallas",
       "excerpt": "A new way of getting around is coming to Dallas. In just a few months a new driverless ride-hailing service is about to become a reality. It's part of a growing trend in artificial intelligence, which some believe could be a key to safer roads in the future.",
@@ -191,7 +373,7 @@
       "originalUrl": "https://www.nbcdfw.com/news/local/ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas/3297760/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -338,7 +520,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230717115843.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -631,7 +813,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-66166236",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1001,212 +1183,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-artificial-intelligence-is-revolutionizing-stock-investing.md",
-      "title": "How Artificial Intelligence Is Revolutionizing Stock Investing",
-      "excerpt": "In recent years, there has been a major shift in the way stock investing is conducted. And it's thanks to the rapid advancements in artificial intelligence (AI) technology. Investors no longer need to rely solely on human analysis and gut instincts to make investment decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 287,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64760b103ac0d58b057b69d9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/",
-      "publishedDateTime": "2023-07-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-the-ai-boom-is-screwing-over-gen-z.md",
-      "title": "The AI boom is screwing over Gen Z",
-      "excerpt": "ChatGPT is commandeering the tasks that young employees rely on to advance their careers. That's going to crush Gen Z's career path.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7",
-      "originalUrl": "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b03b8fc22d1a0019455239?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-ai-bad-bosses-replace-young-employees-chatgpt-2023-7?amp",
-      "publishedDateTime": "2023-07-17T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-insight-race-towards-autonomous-ai-agents-grips-silicon-valley.md",
-      "title": "Insight: Race towards 'autonomous' AI agents grips Silicon Valley",
-      "excerpt": "Around a decade after virtual assistants like Siri and Alexa burst onto the scene, a new wave of AI helpers with greater autonomy is raising the stakes, powered by the latest version of the technology behind ChatGPT and its rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
-      "originalUrl": "https://www.reuters.com/technology/race-towards-autonomous-ai-agents-grips-silicon-valley-2023-07-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/I_m9gUSg6uTZa5qV4o8YNwmzPFA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZK72INQPZIQ3N7ZMVCVJPJQJQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-the-biggest-barrier-to-ai-productivity-is-people.md",
-      "title": "The biggest barrier to AI productivity is people",
-      "excerpt": "Generative AI is helping us churn out vastly more content at remarkable speed, when what we really need is better content. It’s up to humans to put the focus on quality and value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.html",
-      "originalUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/05/disaster_recovery_crisis_help_rescue_drowning_hand_rising_from_the_ocean_by_ian_espinosa_cc0_via_unsplash_1200x800-100759670-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html",
-      "publishedDateTime": "2023-07-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

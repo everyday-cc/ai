@@ -40,6 +40,22 @@ related:
         width: 838
         height: 471
         isCached: true
+  - title: "As AI porn generators get better, the stakes get higher"
+    excerpt: "But from what I can tell, there’s not been any movement on that front. Indeed, like the ethics around AI-generated porn, Unstable Diffusion’s situation seems unlikely to resolve anytime soon. The group seems doomed to a holding pattern, trying to ..."
+    publishedDateTime: 2023-07-21T14:48:00Z
+    webUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/"
+    ampWebUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ezgif-5-6ff96dc0cd-transformed.png?resize=1200,650"
+        width: 1200
+        height: 650
+        isCached: true
   - title: "Media Startups Draw Less Backing, But AI Is A Bright Spot"
     excerpt: "To the extent they are making bets in media, startup investors are often wagering that AI will play a growing role in producing content."
     publishedDateTime: 2023-07-19T11:00:00Z

@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Industry assesses impact of AI"
+    excerpt: "The promise of artificial intelligence – and the potential risks – are not lost on those in the HME industry, based on the results of a recent HME Newspoll."
+    publishedDateTime: 2023-07-21T14:59:00Z
+    webUrl: "https://www.hmenews.com/article/industry-assesses-impact-of-ai"
+    type: article
+    provider:
+      name: HME News
+      domain: hmenews.com
+    quality: 39
+    images:
+      - url: "https://www.hmenews.com/uploads/blog/872c454c57fed694cdf51035396f652e.jpg"
+        width: 260
+        height: 260
+        isCached: true
 
 secured: "aJAD1vaeG9UKE6KbJ9Q8gpT79gDgaONlSuChoSCUrJqlBhTdrOg4+CxsD5i3D78zd+JdrCphvXH2upTmQOS2KBm4rYAFBzeutv9aFPIb1XG/nqrsmAiEXrvuFrVVMD3HdAEpQ59dvxuVbnfGgM4/Oe+j75wRKgapSaDb29wy7A0yQJ7znTTAmSPoc8eSDmu6I6Mn9gKXPiYQEmmG3+zhEsPGk21aFR06QvmqPbdjRXlN7vMktnM0cPZP6+V7kw3ZU8JJ0DPz3rz8meas9TthhocFmm864SpY/UTtrUxZQ2H7YQf6/2gvorqwlGox5LhvUt/WNhV4cSgGf4g9FbXGoWZszc4MtdGH+2DYeNHbdgE=;5vg6BqmcC1rLgfvzlLwxHw=="
 ---

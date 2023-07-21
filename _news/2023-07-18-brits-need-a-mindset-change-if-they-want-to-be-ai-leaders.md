@@ -50,6 +50,20 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
+  - title: "Google co-founder comes back to company to bolster its AI efforts"
+    excerpt: "Google’s co-founder, Sergey Brin, is taking a hands-on approach to the company’s AI efforts. Brin is now showing up at the Google offices three to four days a week. The co-founder is using his time to help support the hiring process."
+    publishedDateTime: 2023-07-21T15:42:00Z
+    webUrl: "https://www.androidauthority.com/google-ai-sergey-brin-3347338/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2020/01/google-logo-G-at-ces-20201.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Can the UK be an AI superpower?"
     excerpt: "The tech entrepreneur Ian Hogarth got his big break in the industry by creating an app which tells music fans when their favourite bands are playing gigs nearby. Now, after years as an investor, he's been asked by the Prime Minister to lead the UK's efforts in Artificial Intelligence as chair of the UK AI Foundation Model Taskforce."
     publishedDateTime: 2023-07-17T05:22:00Z

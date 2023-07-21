@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-intr
 cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-introduces-bill-aimed-at-protecting-workers-from-ai-decisions.html?outputType=amp"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: Penn Live
@@ -25,6 +25,26 @@ images:
     width: 4389
     height: 2926
     isCached: true
+
+related:
+  - title: "Sen. Casey introduces new AI bills to protect workers from \"robot bosses\""
+    excerpt: "Pa, has introduced two new bills aimed at safeguarding workers from workplace surveillance and AI-powered \"robot"
+    publishedDateTime: 2023-07-21T13:03:00Z
+    webUrl: "https://www.androidheadlines.com/2023/07/sen-casey-ai-bills-protect-workers-robot-bosses.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 33
+  - title: "No robot bosses: Casey introduces legislation to protect workers from being managed by AI and Bots"
+    excerpt: "Hawaii, introduced legislation to protect job applicants and workers from employers using automated decision systems to make employment decisions,"
+    publishedDateTime: 2023-07-21T12:00:00Z
+    webUrl: "https://www.bradfordera.com/news/no-robot-bosses-casey-introduces-legislation-to-protect-workers-from-being-managed-by-ai-and/article_61bcab74-2728-11ee-bea3-0f1388035254.html"
+    type: article
+    provider:
+      name: Bradford Era
+      domain: bradfordera.com
+    quality: 20
 
 secured: "FD8+iRpVoVbZFum3Cm3Ep4cHCJLcLYtRS/bHzUPQRNh3g+IeLLjbpQCWre9zMnstKjZeqejSI19OJwR6cev7cpDFIWE0+xh3/hEPK+aTqwu7x1HpLaeMmUbIpjnlfqcdSg7peH4AKFPWFRQGC1r1KLCddwFWNGL3lgfl5duIxgyCMIFf08KdX8kp4nwKGr+CkVGH5R2Yqvq1omx6tiKhkIf7HqXRevHIo2WvUoIgtaPCw+3lFlgcMSbewByg2zDMIZS3FWkFH/SF5ChmOmjTPSanYLgBHK1dpMvHfyBupv6yY/zRJsa/H/r+KT2UMLJcEIU4a3wFPHdaEFb3E3On5DilNJ3gXv7lDclZ277mHAkAGd7vMqoAUM77cVz6I2sMPDpA0Ty5oeTySq9v/imTbZmyEoe4vnEsJF5o+oGpvfK7LAzIUI55UbF/lQu+VqNV9XKWDL66DvMzhiXCfJaEFW9FHrAqgd4x01kYYDA+WzqJXUgfbcPVlVIirQaQpKmOf9O5xZpGN0v2gvIEvgMKCA==;Fq0tilmca0/fVzljVIyfcA=="
 ---

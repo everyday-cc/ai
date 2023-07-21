@@ -41,6 +41,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Albanese famously loves fighting Tories but with the Indigenous voice it’s as if he’s wrestling smoke"
+    excerpt: "The yes campaign is not going well. But how poor would the polls need to be before the PM considers calling the whole thing off?"
+    publishedDateTime: 2023-07-21T14:17:00Z
+    webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 29
+    images:
+      - url: "https://i.guim.co.uk/img/media/22012a0c352faea22b894352858a9d94cc98b17b/1199_247_3637_2182/master/3637.jpg?width=620&quality=85&auto=format&fit=max&s=4569f89f645579e7db66373be931d201"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "XNARZrq6cI6xVKunl2UsaJ7mMK0K2BDbvV6WFwmp9sId7syMnU7GABpVkKf/uxHM6b9Uj9KTD9Y4nEjUyPRfT935JRKvOgk4m9YswKkpqgh1xrzNoF+yMu7n11n+auuLOt12QbKHvqnpqS3YLaNHJWr8sMyOxXEgkS8DFF12T6uRpuHxjVkT0aOt4VFYLm6oY3DXJLJsKxavdqzvTuFbjn8TEcPivLy0ccCnHvZoHqpolHCkAYpPb8pUJAMBwxDqIZRwNUVDuUHMhvNeM0qs+n5MMYDrS+L7CH3nYnw3QF3KeUFl5+GEhDmNURICHATXDsQ0/B8yVTMHnX0s642AqfhW+v3+a8XTYMZluW6Ze7BGI6uyPLBuffEgYHCF4cwp+XPWlXUszhT0c+3NGPZficqNWqcMM9pNqm5nzNa0NXJTqgEOmNpmhHRMJoAnsrCox/nTuWe5LmI2Hx+AuXdXzIRxWCEtPwzH4YAcg3PBtNOoRJ+xy5K4ATvaI8NV1PTOcpOQUI5JGsQKHXUW43gujQ==;sRDVThTmKoReWMNSm6lqCQ=="
 ---

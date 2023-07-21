@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-t
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world-234d31a3"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "How AI is helping to translate the Bible into rare languages"
-excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
-publishedDateTime: 2023-07-18T13:00:00Z
-originalUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
+publishedDateTime: 2023-07-18T15:09:00Z
+originalUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Catholic News Agency
-  domain: catholicnewsagency.com
+  name: Angelus
+  domain: angelusnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
-    width: 540
-    height: 360
+  - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
+    width: 670
+    height: 376
     isCached: true
 
 related:
@@ -75,6 +75,20 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
+    excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
+    publishedDateTime: 2023-07-21T14:48:00Z
+    webUrl: "https://www.acsh.org/news/2023/07/21/thinking-out-loud-–-artificial-intelligence-comes-healthcare   -17198"
+    type: article
+    provider:
+      name: Acsh.org
+      domain: acsh.org
+    quality: 54
+    images:
+      - url: "https://www.acsh.org/sites/default/files/images/artificial-intelligence-gf45a5335c_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
     excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
     publishedDateTime: 2023-07-17T09:13:00Z
@@ -85,6 +99,6 @@ related:
       domain: pv-magazine.com
     quality: 8
 
-secured: "PrH3eW+R+otCjt8Q/wO5JWTQf7KShVQo1iz4BA+HKVXoSUL0FPti+7+aLZBH+/1q71WL7LQYVC0DFvh04CUo2qxIQWe3Khu/g+hrAKBTS2To8alMOdactCsxI5k5Fljz2qKvNWCOnAAB/AteyHBL2rm1kyKt6p85u3KfEAenb6yUjPDVg2dmWMNLGpduC/GBjUZKOFWXAPD9Txj4HZ4N/4bvbUlX7cKVrk8k5LdA5D1PNTnQpxxvlaRJX1ZMTwsHkeOPKi4nE/JJETGOkY5No9tyEXfsbi7cR5bF5smELOjkgCW15kpD+jfZiIvXsgrx7JcEFk1ZJGBkqyJVBxQy5S+6/tcbM4CVyRHKGsd4jWE=;VrMMIxKaKaaZsbo9VtmQXQ=="
+secured: "Ahn5NL5JzXtnoLUiO0UZ78UlIqo84pz9Hnvy7V06o2OafkVwmmA6xZsLD/dW9mosx1u5S+Dc/XanD3Ixo0jlGZAgE4PfqYk6P6xwg5b0JJJEG2YODVNvS0P2E/OpvXyFTQjSzxPrh6QnKYgRw3dgzmj2Kg4oqs0D7to2LGBm+013ZzbzwVg3QqxjxRZ0ppEqkUtWBSs0f+u8O5lsqFQkgICFhcQ9dqrjWzD3z9r8RMlQnTWX5JLq12zdtDu2yyoaXkcROqpIXfq8GUa/co5YFcv706qJxv0llw5p41mDBzbrdOd1Z7NQzirqT6occYQvGQF7a3Rr4sAR86cSezEhdmVSG+njf566Ca3Bj4sUyEI=;4ENPgO7zyfEWZsL186odLA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/this-artificial-intelligence-biote
 webUrl: "https://www.nasdaq.com/articles/this-artificial-intelligence-biotech-stock-is-crushing-the-market-but-is-it-a-buy"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "One to Buy: Why SOFI Stock Is a Compelling Pick in the Booming Fintech Space"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors have enjoyed a strong year with the Nasdaq Composite Index up 35%,"
-    publishedDateTime: 2023-07-20T10:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
+  - title: "This AI Stock Crushed the Market So Far This Year. Is It Still a Buy?"
+    excerpt: "Given the current state of Nvidia stock, investors should probably treat it as a hold. Indeed, both long- and short-term investors have earned massive gains from this stock. With its dominance in the AI chip industry, it will almost certainly play a critical role in the industry for years to come. That could take the stock higher over time."
+    publishedDateTime: 2023-07-21T12:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/this-ai-stock-crushed-market-this-year-still-buy/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
+      name: The Motley Fool
+      domain: fool.com
+    quality: 49
 
 secured: "dpxUfX3++z5a8t2GR2QAEu/weAWL7SeFQcxU39Ds7aqOnk9ROUx3tTyGC6IViaWUWYHBcX2AO5DrMK3FjypUQwETkCTX3G9EBuTuYQY45R/SA3xOW1o8uRi8gieGpL9eZz4eeI5+rpYWQLp/WuCKGF/OUd9dFXeKvT7T9rSf1r/t00L9oZH8qE7lTamJWI0TwnrHYrJoFFcAJz6Po8tXNCyo6/P8/L9dF91IkrbVSS9gVEf1bwiCQuUju9I2Rd38s8Fo0MR8bqKJN7d3XbWQ/cyx4+QIMIj/IdKIYHVrR8SQCweps+Vk77WSbJuQuV6t5LZaONRALJUVtWpxrQHmO+1Ro4PGtNVh1bx9/s0auZY=;Me8RPz0q9zZITjIOXa5WuA=="
 ---

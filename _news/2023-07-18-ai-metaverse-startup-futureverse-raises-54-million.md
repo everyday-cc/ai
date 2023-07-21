@@ -54,6 +54,15 @@ related:
         width: 1000
         height: 580
         isCached: true
+  - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
+    excerpt: "Ati Motors, maker of autonomous industrial robots, today announced the close of its Series A funding round in the amount of US$10.85 million. The investment, occurring alongside the company's product launch event,"
+    publishedDateTime: 2023-07-21T13:38:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/21/9852279.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "rZ5d7NO+yy0F+TYXoKts2hSwSH/Zl7Nl6ZlLr4NalU66h5fD3Rs+zM8XUHMm70j8i/DX28s5wyf30t0W/1HT9I4LGOa7Wb6n1XrarZ3hTEzg8wvMzdxlBgZcK+AqkRwziKmf69/MkVFrlBMr4NWEceCOlqKNvuT80zxLkbRGZMAGLt0jH9gebuGWgIkVm7IGGF31Vqvf7sZKX+aG9Fg797XP9ZC2CA2y6HEBeTo2nz2mxEFb+WPSq3LTZiy9Hou2goPh3RZf9lmR1s8acfs4qhbH0W2OahkLzqzcQlm1M1ImMnRdUutk8/G3VQn/CszqYg7aXEe1ZeRQvPyrFfljCpPbXnEOHZ/+YWljsWByu2U=;iMRsakmk7Mqfeg2Ryv4fcA=="
 ---

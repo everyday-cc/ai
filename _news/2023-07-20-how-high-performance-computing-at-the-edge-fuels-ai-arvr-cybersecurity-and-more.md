@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The growing impact of generative AI on cybersecurity and identity theft"
+    excerpt: "Personal data is under siege in the digital world. Beating the threat takes building a comprehensive, multi-layered fraud stack."
+    publishedDateTime: 2023-07-21T14:26:00Z
+    webUrl: "https://venturebeat.com/security/the-growing-impact-of-generative-ai-on-cybersecurity-and-identity-theft/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/AdobeStock_598980629.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
     excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
     publishedDateTime: 2023-07-17T12:14:00Z

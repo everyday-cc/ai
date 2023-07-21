@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
         width: 1440
         height: 907
+        isCached: true
+  - title: "Industry assesses impact of AI"
+    excerpt: "The promise of artificial intelligence – and the potential risks – are not lost on those in the HME industry, based on the results of a recent HME Newspoll."
+    publishedDateTime: 2023-07-21T14:59:00Z
+    webUrl: "https://www.hmenews.com/article/industry-assesses-impact-of-ai"
+    type: article
+    provider:
+      name: HME News
+      domain: hmenews.com
+    quality: 39
+    images:
+      - url: "https://www.hmenews.com/uploads/blog/872c454c57fed694cdf51035396f652e.jpg"
+        width: 260
+        height: 260
         isCached: true
 
 secured: "F6Ebecdg6e867aewEPW+ruMbnqcsP6/nsHQFAvvfu9GQAeQFKldkNtJ+2DG8qNJzpMM9W/mGGHUl0ohXP+Cl/seBEM8L7cD+cd6vIFyY8zIQ5vpd/TdNbnJdCXdD/lS/1OENzvnA2/MKVoTXizPXVCBzwDvWq+0kEi3Mq+pnQnRhovtj9Bjft69fpTDUjS7zm6hGDnKqhTR3gcJwXOk0ojxU+yvEAWTolo+YHdgxYGqABy559LxCgCd6hmN0OeKWZJ23CMfsMFAOAMtrQgPziGh34OGt0czXJG2JARfcN9svZMgZlvzeZaH16Avf8tGViwt8DymKNVnVz10V+LQT3intWOaBRUcyXziTAIVxacZww/2wY7pgqGOW20yFSavdxXC/x1GX6U1KEsw/dqGYXD4k2MWp8G1++Sqj6CJtkaQE07Sr2dNPUdKna9Nstgrqc+aP7+Hz1nSYlxr838UBip/7j5MtoL1jC/XIvnSpc0cYezQCNrsJkv6EtUWctLarcpNeAj+OCGaRcGD5xZLhSA==;AVpDU16bdxh5dVCN8p2R3w=="

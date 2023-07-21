@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/article/tech-giants-including-amazon-a
 webUrl: "https://www.businesspost.ie/article/tech-giants-including-amazon-and-meta-agree-to-bidens-artificial-intelligence-safeguards/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 3000
     height: 1687
     isCached: true
+
+related:
+  - title: "Amazon, Meta Among Firms to Unveil AI Safeguards After Biden’s Warning"
+    excerpt: "President Joe Biden will be joined by executives from Amazon.com Inc., Alphabet Inc., Meta Platforms Inc., Microsoft Corp., and OpenAI, who are among the firms committing to a transparency and security pledge."
+    publishedDateTime: 2023-07-21T13:29:00Z
+    webUrl: "https://time.com/6296615/amazon-meta-ai-safeguards-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
 
 secured: "2N4ZHRRYYhWRe28y2Qoi90BtwJsLzMlUJ1jz6pRWCnWeEFUDmqZ/LsqYLqh/KeDPTA5G6qPfX/cCASoXfftToZr5KPcwtsKpo029pilE3Sj8HJJ0IIQbgaKSglkAkY9NYn1RAkJPZi+AHwwd484S2DonPBUovwDZG6IergdfJb2+NEsVqxju0dtTsI9CgbKlQ0MxH5xA+BeqpfEMaJBRzMre++4tHX4ZsOZNiENwHxlb4WzcYdWRUSZYIoBCzBqd+whYdGiS5/Dg/MszYBVPRKbNpSseBSUMBVHQZncl1vSYkrBFTv2uyD1VV4Tl4tOdH0oxYyDVTkyvo6Dmgs+wxWB9bcatrRQtDPsx57HDOKU=;goOPfzxgJ4Iz1sGNv6MBcA=="
 ---

@@ -53,6 +53,15 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 4
+  - title: "Applications Open For The Visa Africa Fintech Accelerator Program"
+    excerpt: "Startups building in fintech and payment space in Africa are encouraged to apply through the Visa website for a chance to access training, connections, technology, and investment opportunities"
+    publishedDateTime: 2023-07-21T12:50:00Z
+    webUrl: "https://iafrica.com/applications-open-for-the-visa-africa-fintech-accelerator-program/"
+    type: article
+    provider:
+      name: iafrica
+      domain: iafrica.com
+    quality: 4
 
 secured: "JJpMp8jji0iRvcN6eO14Qmqumo/rupSgy+TCUynm5GvTTjaHFCNdtzbEMHklbHUvuPVfYhINLhQoPMZcVLswebfz4R89VhT1j6maJoSQ7fTzhJUh3pibuWpN+2aibA3iaJoEK/VJpDXylkuAKcUfPCsCdT71rH7vCz7HuQVBAHh8KsY5yHwG8+O1DC0ngZkamHwdQnzQClpou55DodbiUyqk95xlETFYWJh0sURvXDJ62IEqczP5J7eeTPEg6UJgyhC0R9s99U03l7nuGVlAQQp8t3P+wr/VznUfZ0faXzuBcDKa41RqMwO+JR7VM5y2F/GA8dRaAemP1I6tbOTZUhGABfEMUU2BH1RHKtM4Nao=;zipdcFZ75B7npr1KSZOpyg=="
 ---

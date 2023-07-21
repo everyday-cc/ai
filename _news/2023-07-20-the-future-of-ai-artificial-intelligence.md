@@ -48,20 +48,15 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Embracing the disruption of generative AI at speed, responsibly"
-    excerpt: "While governments grapple with emergent qualities of artificial intelligence, global IT powerhouse Akkodis steams ahead with enhanced governance to safely speed the next generation of technology augmented workers."
-    publishedDateTime: 2023-07-16T22:57:00Z
-    webUrl: "https://www.itnews.com.au/feature/embracing-the-disruption-of-generative-ai-at-speed-responsibly-598021"
+  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
+    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
+    publishedDateTime: 2023-07-21T13:00:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Features/AI_campaign_image_med_res.jpg"
-        width: 2254
-        height: 930
-        isCached: true
+      name: The Verge
+      domain: theverge.com
+    quality: 43
   - title: "Insights on bolstering healthcare incident response with AI detailed"
     excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
     publishedDateTime: 2023-07-18T17:48:00Z

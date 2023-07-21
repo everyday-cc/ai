@@ -2,194 +2,12 @@
   "page": 173,
   "value": [
     {
-      "path": "_news/2022-05-25-the-dark-secret-behind-those-cute-ai-generated-animal-images.md",
-      "title": "The dark secret behind those cute AI-generated animal images",
-      "excerpt": "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome.",
+      "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
+      "title": "Object Recognition Imaging Systems Market Growth by 2031",
+      "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",
       "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
-      "originalUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
-      "publishedDateTime": "2022-05-25T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-research-lab-inspired-by-computers-internal-components.md",
-      "title": "AI research lab inspired by computer's internal components",
-      "excerpt": "Construction work is currently underway on a new artificial intelligence research laboratory designed by PLP Architecture. Located in Shanghai, China, the building's overall form is inspired by a computer motherboard and CPU.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
-      "originalUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2984bc6/2147483647/strip/true/crop/2082x1388+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F38%2F9e43eadd4eed81fc9047bdbc62d8%2F1742-n51.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
-      "publishedDateTime": "2022-05-25T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-to-successfully-lead-change-management-in-finance-ai-adoption.md",
-      "title": "How To Successfully Lead Change Management In Finance AI Adoption",
-      "excerpt": "Change can be incredibly positive. Change builds resilience, opens us up to new perspectives and creates opportunities we never saw coming. However, change can also be uncomfortable, and this discomfort feels especially pervasive during this era of rapid technological transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/",
-      "publishedDateTime": "2022-05-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices.md",
-      "title": "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices",
-      "excerpt": "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030.md",
-      "title": "Artificial Intelligence Market 2022 Overview, Demand, New Opportunities & SWOT Analysis by 2030",
-      "excerpt": "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -208,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T02:48:00-07:00",
+      "publishedDateTime": "2023-03-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -231,214 +49,31 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025.md",
-      "title": "Automotive IoT Market Business Development, Type, Size, Share And Opportunities To 2025",
-      "excerpt": "Snapshot Present-day vehicles are becoming more connected than ever before. The rising level of connectivity in vehicles is",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025",
-      "originalUrl": "https://www.digitaljournal.com/pr/automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://transparencymarketgeeks.files.wordpress.com/2022/05/automotive-iot-market.jpg?w=410",
-          "width": 410,
-          "height": 1025,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
-      "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
-      "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
-      "originalUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T01:00:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
-      "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
-      "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
-      "title": "Public confidence must for using facial recognition with AI: KTR",
-      "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451",
-          "width": 570,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "publishedDateTime": "2022-05-25T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-25-zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers.md",
-      "title": "Zoho invests in Indian startup Genrobotics that makes robotic scavengers",
-      "excerpt": "Chennai-headquartered Zoho said that the investment will assist Genrobotics to eradicate manual scavenging in India and provide safety, dignity to workers in the sanitation and oil and gas industries",
+      "path": "_news/2023-03-25-tech-summit-on-artificial-intelligence-robotics.md",
+      "title": "Tech Summit on Artificial Intelligence & Robotics",
+      "excerpt": "Tech Summit on Artificial Intelligence & Robotics will be held in Tokyo, Japan. AI & Robotics 2023 offers an opportunity to interact with the researchers in the field of AI & Robotics, making Congress a perfect platform to share experience, foster ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
-      "originalUrl": "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
+      "webUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "originalUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/nationalherald%2F2022-05%2F68081abd-40dd-4850-b1e8-55ba309408d6%2FZoho_invests_in_Indian_startup_Genrobotics_that_makes_robotic_scavengers.jpg?rect=0%2C16%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
-      "cdnAmpWebUrl": "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
-      "publishedDateTime": "2022-05-25T00:30:00-07:00",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "publishedDateTime": "2023-03-24T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "National Herald",
-        "domain": "nationalheraldindia.com",
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -453,96 +88,19 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses.md",
-      "title": "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses",
-      "excerpt": "Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, has announced ...",
+      "path": "_news/2023-03-25-the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year.md",
+      "title": "The top 10 AI mobile apps have already pulled in over $14 million this year",
+      "excerpt": "What's clear is that integrating \"AI\" features and references to things like ChatGPT or OpenAI has been helping drive demand.",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailytimes.com/business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_b11486a8-2af2-5aa9-9bb2-c6788338d89a.html",
-      "originalUrl": "https://www.thedailytimes.com/business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_b11486a8-2af2-5aa9-9bb2-c6788338d89a.html",
+      "webUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thedailytimes",
-        "domain": "thedailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
-      "title": "Why Mastercard’s New Face Recognition Payment System Raises Concerns",
-      "excerpt": "Mastercard’s biometric checkout system will provide customers with facial recognition-based payments, by linking the biometric authentication systems of a number of third-party companies with Mastercard’s own payment systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427",
-      "originalUrl": "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Facial_Recognition_1640922171.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp",
-      "publishedDateTime": "2022-05-24T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-informaticas-data-management-cloud-gets-new-data-engineering-mlops-tools.md",
-      "title": "Informatica’s Data Management Cloud gets new data engineering, MLOps tools",
-      "excerpt": "Using the service, customers can operationalize any machine learning models from within their pipeline with one click, the company said, adding that the MLOps tool offers end-to-end visibility and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html",
-      "originalUrl": "https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/02/23/19/data-gravity-01-100920087-large.jpg?auto=webp&quality=85,70",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -552,68 +110,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661674/informatica-s-data-management-cloud-gets-new-data-engineering-mlops-tools.amp.html",
-      "publishedDateTime": "2022-05-24T22:45:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "publishedDateTime": "2023-03-24T15:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-this-startup-is-bringing-smartest-solutions-through-ai.md",
-      "title": "How This Startup Is Bringing Smartest Solutions Through AI",
-      "excerpt": "With an eye on finding the smartest solutions for any problem, Pixis was born. The platform is a codeless AI infrastructure for demand generation and marketing optimization. It was founded in late 2018 by Shubham Mishra (Global CEO),",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/428229",
-      "originalUrl": "https://www.entrepreneur.com/article/428229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1653456757-Untitleddesign-2022-05-25T110036996.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -633,21 +139,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-ai-development-on-microsoft-azure-gets-beefed-up-with-access-to-openai-models.md",
-      "title": "AI development on Microsoft Azure gets beefed up with access to OpenAI models",
-      "excerpt": "Microsoft Corp. is expanding its long-running relationship with the artificial intelligence research outfit OpenAI Inc. as it launched a new service today for Azure Cognitive Services.",
+      "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
+      "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
+      "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/",
-      "originalUrl": "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/",
+      "webUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
+      "originalUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg",
-          "width": 1366,
-          "height": 768,
+          "url": "https://d.newsweek.com/en/full/2213891/cat-royale-utopia-environment.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -655,137 +161,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T21:49:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "publishedDateTime": "2023-03-24T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search.md",
-      "title": "Westwin (formerly Microsoft Online) launches new English language SEM solution for Baidu paid search",
-      "excerpt": "Recently Westwin (formerly Microsoft Online) is proud to announce the launch of SEM.Wreach.net – enabling non Chinese speakers to run paid search campaigns on Baidu. Wreach SEM will form part of Wreach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
-      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
-      "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it's all doing? AUSTIN, Texas , May 24, 2022 /PRNewswire/ -- Google has been spectacu",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27386876/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27386876/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27386876",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27386876",
-      "publishedDateTime": "2022-05-24T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
-      "title": "Remarkable science: Exploring our AI and robot-supported future",
-      "excerpt": "On the public misconceptions about the future of AI and robotics DANIELA RUS: “Let me say that when I usually tell people what I do, I get one of two reactions. So some people start making jokes about Skynet and ask me when their jobs will go away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "originalUrl": "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/db60692/2147483647/strip/true/crop/2830x1486+0+290/resize/1200x630!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F05%2FGettyImages-1231248517.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLRN",
-        "domain": "wlrn.org",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -795,327 +187,9 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-amd-fsr-20-vs-dlss-performance-in-deathloop.md",
-      "title": "AMD FSR 2.0 vs. DLSS Performance in Deathloop",
-      "excerpt": "DLSS takes a closed-source AI based approach ... comparison between today's main upscaling technologies from the two GPU vendors. Check out the video below for a lot of detail on how visual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
-      "originalUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2464/images/2022-05-18-image-16.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-voice-user-interface-market-size-to-grow-by-usd-2902-billion-north-america-to-register-maximum-growth-technavio.md",
-      "title": "Voice User Interface Market Size to Grow by USD 29.02 billion | North America to Register Maximum Growth | Technavio",
-      "excerpt": "Voice User Interface Market Size to Grow by USD 29.02 billion \\| North America to Register Maximum Growth \\| Technavio. NEW YORK, May 24, 2022 /PRNewswire/ -- The voice user interfa",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/24/9608700.htm",
-      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/24/9608700.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1823797/Voice_User_Interface_Market_Technavio.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
-      "title": "Study shows AI deep learning models can detect race in medical imaging",
-      "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
-      "originalUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex.md",
-      "title": "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex",
-      "excerpt": "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/graphics-cards/94217/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
-      "originalUrl": "https://au.pcmag.com/graphics-cards/94217/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-amalgamated-learning-could-scale-medical-ai.md",
-      "title": "How amalgamated learning could scale medical AI",
-      "excerpt": "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "publishedDateTime": "2022-05-24T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-mit-researchers-help-robots-navigate-uncertain-environments.md",
-      "title": "MIT researchers help robots navigate uncertain environments",
-      "excerpt": "MIT's research team hopes that its findings could help autonomous robots explore remote exoplanets with unknown conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "originalUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-MIT-trajectories.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine.md",
-      "title": "Google's Text-to-Image AI Can Make Any Wacky Image You Can Imagine",
-      "excerpt": "A plumber riding a dinosaur? Google says its AI system Imagen can create a photorealistic images from input text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "originalUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e2f8bf45ccafbdf0e8baa635db6dd15e058ceeed/2022/05/24/9879e313-8e97-4858-abe0-ff3583b11495/imagen-text-to-image-ai-composites-2022-promo.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "publishedDateTime": "2022-05-24T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
   ],
-  "nextPage": 174
+  "nextPage": null
 }

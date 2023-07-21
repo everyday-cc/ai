@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 126
 published: true
 
 provider:
@@ -55,6 +55,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "o/+R+2C2hcgN17HJSD5/agnrL+6yNHC0aHqpUPgL8VvPgBQgmgQWo3S21t/1w8CTuf4HRyoR45O7jcCbG5zfEJxYrmgT0UtbsReCr4LTYmqff8fDyOVtZZ1pImvW/wfEANb1++wLJfI0mCc3HeqhyMO12U5HqvIu5WqciQXzQDHtpQsGnFSx49XjD5UB2JTJRRDx3IB1AWgM6fWVLlhSX4CmAWpvOjGKhYsYt2XExlPPRJZJcwj6d2wvij1OiVxzT3pgcfzCDYf7CPUdSY1ZJ9OkI0iZQrpHcomBOXgIEzeMyNVvche+tmFz2BZSjuWOr4dT89JVatel+qQq0TS+wOZtWzsnlypsre6XBr6APzs=;qdwB+4dxJl06vOwXAxT9OQ=="
+secured: "KZbYivCJO+49zLCgI/PoUYGUtqlZf8baj4NHbxnjGxWoEQgHzE0tyVTV2aPhiHK5Kq6nLFLlsfhNwEaJGf0Byyim4E0gBGxhjn3drLMIZwb7rH2xixKkNnOzrMcpu8YIz9ymzK2IY/OH5a3A+ZaDC7rzeCtWP54lW0ZvBdLekJkQKT/YlQKMydK/edZ4zpiROYUNHYE+aacrB7nBaI2FkkwlcoJC4nL/LXUHpciJRlpHs4Uzb51+OAeBpIaWNzAxS0SxMwKSEx/TRElME3zmhSCBE240amqBHThl2p2oriqjGMJtVRt7iVoPAhExUkOpj3CIF9/5FY5s0FW2JAAqLQ2xkn1zizEl9qfEndMgw3UOqSNab6mfZUd1nIG9k+afq2KNzZG5v1eftJSkWVAgPHkX7JpE3KerwontW98NJZyogsaQLSBmcZsa+QmelYYvo4jTKrih5VrI1wzCB2VZhMWgq9oLT3aX4CKnx1x5VZflwPIw8R/2YesitW7OlCG8R/rwSBZnRpF+JysLxa7BMQ==;7wRMq4ztNw3SfBC0+bGI9w=="
 ---
 

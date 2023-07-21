@@ -16,12 +16,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-101684996,imgsize-34314,width-1200,height=765,overlay-etcio/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.jpg"
-    width: 1200
-    height: 765
-    isCached: true
-
-secured: "BUJZ1nSe+m7uOqNYivRFTrDWJZSeJ5WhF6+yrY8Jw86Zn1Rqz9YQIIoKRzghnHjDJE+c117Xw2kNZsRJs1QWZ/bSjHi4rP/nXeloyhiaBC7+zAcK3NE6Z80oIrp1YEy5+dTmCNpR8kQ0XFCcDEPJyVF1hSRchPMstpN8QsAccue/zfug8pYwfgwP9BAlrDLJ0atQffoTGBK+YXtW8Hro8A3QDF5CWZAU2O9hUW6SrD1eHKiTF0LUyc4QTezbRIZcHmvc3SaH8GZGAe2xm8Bbh8eSSdb6tuOK7CMG5t9Qve4gdP9RDyfUA61XqpsX5HnWv5P23DugC/D39aXaErbntNmAwsUWUItphkEaY6OlF8w=;ncqYrTW4/QDrhGkKrUqpUQ=="
+secured: "F8pO18Is9dVzVD1wzYorKgRn/aBlRer3SjmAo1uncall0WasS1Xdqhp0zJgcqMqi420as6HCbBizvX54B305TToo34GYp3eTyua755pR7hAOEpyMyWm1j6byE2aJ+O3zgZ05g2a3mUWpKbhqpoLxMBYkXs1/gE9O8R06nm3ZGqoVGcUPVUQE7JwqCUOuzr34NjsDD2X3pBtGNL6aJIsB3OFIvE/ucE1a/LSx0a+92dOpPcwGQ/6YPIrlel5JxJPsdsbpiF4ecqEdGfyQWFfXyq1yrAFl6P1LUDbRF7UF9YeEC6e9+RlTM/cbEFy55ZGsBr2W0ftLoMCx1u36OgqBZaoO+Qwx0EBSP4oZRK6LS5w=;ZXQX4dqtdgXaFxxbnRQ+OQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-
 webUrl: "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/"
 type: article
 quality: 71
-heat: 81
+heat: 83
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
       domain: cnn.com
     quality: 44
 
-secured: "6tEhIoLg515fIHtWOwCou9Acwwsd8zGu2nORsZx8v8xKoY5xFokuxFT2yopTBHHcYqTXuj5T6vgMQHSnbdZH6P3pDKJjiBkTO1AT9PwXiPETm9CFulAFz8bDMgSVc+KE7fqqQa10sSvqUkgh69BWvqQ4dLoVbIw7fipGMGAYzht3EsyBYlhjm9VxcSF3+uEr4cYLY/E1oe7jiCIKVnBYtQTrq+y38kLDP8OGZwyDshIgESuwPDuR1M/DC8g6Pma2Bb8+BFMAnWE2C+5MFPKoJ+VOsDoyI8yxlFruhBwNaZpdU91wokngoySMaTogv+BTw37NYv+namynDJ978SVdLd7QdC62ywDgZ4fQe7GhWfU=;Zazd0EYw8VzXd7bHrGz8KQ=="
+secured: "sVv1ShO+TbPCjJHLpXtrFogPLsiIAsOxIee8pR/qTLc9Yig+5NURINBf1/EvyMBCV5eoYUkDe3CK3Of8D6FcTXyCHQ1rzZVG8fXtX3/0+Ucx1GEXO4RcUp21V0P03FnQeMfmYH4nZbPuKeDjXCJKkPTYaQWpkyaL/ynw62g9irONRszP3mXjvPlcYBscXMW/bJ6xCkiHzeweMLTnVa5DMz6s1ItAyqO1KP3Oe4Fu9RmV5d8TB4LgRfw7qlFkawgFb258Tsr+iwDchRhGOABpxM1O/S8c7MyWvD63o/EH6s0KHJtNCWuuGPtRz2EgmrT/133JMBWSV03+xUD+lHkRIZlZsi0PErL3k2DRE/kQWwCLC+3MWcmTN5kCWllKE+KbmlM01RdDIZDKZsDSVIxK/s5odo1QR65BGdrGW/AiTfwKl9oVZT8HwK9XhFPoaPOfMwU04tuJ2xGKJ2i/iDmpLGfhB951uAB5Wz9aC/khQ+RpShrzn8mz+hnZmT36Zc8guz4C9C7ueDYwXL5/J2IMgw==;+eEkLi5YT4lzURgAxqWLdQ=="
 ---
 

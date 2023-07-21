@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-
 webUrl: "https://www.engadget.com/the-simulation-ai-put-me-in-a-south-park-episode-170002565.html"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Engadget Podcast: How AI created a 'South Park' episode around us"
+    excerpt: "It looks like Microsoft’s acquisition of Activision Blizzard is trucking along, following a court rejection of the FTC’s injunction attempt.."
+    publishedDateTime: 2023-07-21T12:45:00Z
+    webUrl: "https://www.engadget.com/engadget-podcast-ai-south-park-they-cloned-tyrone-123026251.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
   - title: "AI grabs \"South Park\" director's chair"
     excerpt: "Why it matters: Despite the trend, House Republicans are slamming Homeland Security Secretary Alejandro Mayorkas for \"dereliction of duty\" at the border in a 111-page report released Wednesday — teeing-up a long-anticipated impeachment inquiry."
     publishedDateTime: 2023-07-20T09:39:00Z

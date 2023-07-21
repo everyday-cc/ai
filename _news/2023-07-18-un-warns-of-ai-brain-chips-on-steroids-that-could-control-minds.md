@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Metro
@@ -25,54 +25,6 @@ images:
     width: 600
     height: 343
     isCached: true
-
-related:
-  - title: "UN warns that implanting unregulated AI chips in your brain could threaten your mental privacy"
-    excerpt: "Officials from the United Nations said there needed to be a \"common ethical framework at the international level\" for neurotechnology."
-    publishedDateTime: 2023-07-16T20:03:00Z
-    webUrl: "https://www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/un-warns-against-implanting-ai-chips-brain-over-mental-privacy-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/64b4484d64dab3001999e2df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI Brain Chips Are a Serious Threat to Mental Privacy: UN"
-    excerpt: "Certain thoughts are better left unshared. Advancements in neurotechnology, particularly brain implants, and scans, could risk artificial intelligence"
-    publishedDateTime: 2023-07-17T10:43:00Z
-    webUrl: "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/"
-    ampWebUrl: "https://propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/07/17/ai-brain-chips-are-a-serious-threat-to-mental-privacy-un/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 74
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/07/brain-chip-e1689590304657.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "AI is helping create the chips that design AI chips"
-    excerpt: "As artificial intelligence drives demand for more advanced semiconductors, new techniques in AI are becoming crucial to continued progress in chip manufacturing. The entire semiconductor supply chain,"
-    publishedDateTime: 2023-07-18T07:30:00Z
-    webUrl: "https://www.japantimes.co.jp/opinion/2023/07/18/commentary/world-commentary/ai-microchips/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/07/np_file_229906-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
 
 secured: "ZXczqT9G/035ptqazmMwCVOwMbBWf243TZbRuqUaaPYLLSFxse1w9mQ962x5WrAho8m9rx9gtgK+w7dEfoccQOJ3Bw38QR3JbzrRXEYO1CZcmOp3K1WeHoEfXGbFCUKSX8W1gFyiRRVaCeNhHYgafd0ZUZbmhopea66Aps2fzSInwMoM+Ejb6izCuueRByML9xnQ9OBuo0GMh2gkbnvp1Fkd098X2jOUKBQN9I7PGTqd6TchJFLeefDNt1tYvl5TPYj5ZQ+WStLR+xJbIhhdSrccf9udCLKJzwg7QxBqGzLDnBhdKRX9Rd+w8eVLV1bugwWwKEEd1YLpWPP2ziACmXIvVRISDBVINR86ZdOBsBI=;KiUTcPtlRIut3YDYeeOBjQ=="
 ---

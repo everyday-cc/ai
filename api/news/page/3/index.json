@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-20-the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks.md",
+      "title": "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks",
+      "excerpt": "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b815124a54ff7e675b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
+      "publishedDateTime": "2023-07-19T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-red-teaming-101-what-is-red-teaming.md",
+      "title": "Red teaming 101: What is red teaming?",
+      "excerpt": "Red teaming is the process of testing your cybersecurity effectiveness through the removal of defender bias by applying an adversarial lens to your organization.\nThe post Red teaming 101: What is red teaming? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
+      "originalUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T09:47:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-what-can-ubiquitous-radio-waves-do-for-healthcare.md",
+      "title": "What Can Ubiquitous Radio Waves Do For Healthcare?",
+      "excerpt": "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/",
+      "publishedDateTime": "2023-07-19T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data.md",
       "title": "Use a generative AI foundation model for summarization and question answering using your own data",
       "excerpt": "Large language models (LLMs) can be used to analyze complex documents and provide summaries and answers to questions. The post Domain-adaptation Fine-tuning of Foundation Models in Amazon SageMaker JumpStart on Financial data describes how to fine-tune an LLM using your own dataset. Once you have a solid",
@@ -10,7 +156,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -398,7 +544,7 @@
       "originalUrl": "https://www.zdnet.com/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -501,7 +647,7 @@
       "originalUrl": "https://www.zdnet.com/article/meta-releases-big-new-open-source-ai-large-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -651,7 +797,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1078,152 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai.md",
-      "title": "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI",
-      "excerpt": "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/",
-      "publishedDateTime": "2023-07-18T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-james-cameron-on-deep-sea-exploration-artificial-intelligence.md",
-      "title": "James Cameron on deep sea exploration, artificial intelligence",
-      "excerpt": "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095",
-      "originalUrl": "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html",
-      "publishedDateTime": "2023-07-18T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-the-engines-of-ai-machine-learning-algorithms-explained.md",
-      "title": "The engines of AI: Machine learning algorithms explained",
-      "excerpt": "Trying everything is impractical to do manually, so of course machine learning tool providers have put a lot of effort into releasing AutoML systems. The best ones combine feature engineering with sweeps over algorithms and normalizations. Hyperparameter ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
-      "originalUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-451936193-100632457-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702651/the-engines-of-ai-machine-learning-algorithms-explained.amp.html",
-      "publishedDateTime": "2023-07-18T15:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "This Under 30 Lister Is Shaking Up The Fintech Scene With A Banking Startup For Creators"
+    excerpt: "But one 2022 Social Media lister, Will Kim, is working to help those creators get their finances in check. This week, his startup Karat—which offers credit card and banking to folks who sell via social media—announced $70 million in new funding, bringing its total funding to more than $100 million."
+    publishedDateTime: 2023-07-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/saraheccleston/2023/07/21/this-under-30-lister-is-shaking-up-the-fintech-scene-with-a-banking-startup-for-creators/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
   - title: "Predicting kidney abnormalities in utero with deep learning"
     excerpt: "The study findings advance DL-based CAKUT recognition through ultrasound imaging by using, for the first time on such a large scale, an algorithm trained from the beginning. The model also exploits the potential of XAI techniques to improve the interpretation of the model’s predictions."
     publishedDateTime: 2023-07-17T08:44:00Z

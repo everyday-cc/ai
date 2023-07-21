@@ -545,6 +545,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 64
+  - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
+    excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
+    publishedDateTime: 2023-07-21T12:04:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-teams-uses-ai-to-apply-virtual-makeup-to-meeting-attendees"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
   - title: "Troy Medicare Selects nirvanaHealth’s Aria Platform that Runs on Microsoft Azure"
     excerpt: "Press Release nirvanaHealth and Troy Medicare announce their partnership to implement nirvanaHealth's Medicare Advantage Platform-in-a-Box enterprise solution that runs on Microsoft Azure. These solutions run on Aria,"
     publishedDateTime: 2023-07-20T12:26:00Z
@@ -886,6 +895,20 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 44
+  - title: "Google, Amazon, Microsoft, Meta other tech firms agree to AI safeguards set by White House"
+    excerpt: "The tech giants, along with ChatGPT-maker OpenAI and others, are said to have committed to independent security testing to guard against major risks."
+    publishedDateTime: 2023-07-21T15:17:00Z
+    webUrl: "https://www.usatoday.com/story/tech/news/2023/07/21/google-amazon-microsoft-facebook-ai-safeguards/70443616007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta Partners with Microsoft to Release Llama-2"
     excerpt: "At Microsoft Inspire, Meta and Microsoft partnered to release Llama 2, the cutting-edge iteration of their renowned open source LLM, LLaMa."
     publishedDateTime: 2023-07-19T05:46:00Z
@@ -1051,6 +1074,24 @@ related:
     provider:
       name: On MSFT
       domain: onmsft.com
+    quality: 31
+  - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
+    excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
+    publishedDateTime: 2023-07-21T14:06:00Z
+    webUrl: "https://thedailyrecord.com/2023/07/21/amazon-google-meta-microsoft-others-agree-to-ai-safeguards-set-by-white-house/"
+    type: article
+    provider:
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 31
+  - title: "Teladoc And Microsoft's Expanded Strategic Partnership Is A Powerful AI Combo"
+    excerpt: "Teladoc has experienced multiple news-based pops, with the latest instance resulting in a +10% jump in the stock as Teladoc announced an expanded AI partnership with Microsoft. While TDOC stock has given up most of these recent gains, the telehealth giant is gearing up for sales growth powered by AI technology."
+    publishedDateTime: 2023-07-21T11:54:00Z
+    webUrl: "https://seekingalpha.com/article/4618700-teladoc-and-microsofts-expanded-strategic-partnership-is-a-powerful-ai-combo"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 31
   - title: "Microsoft Shares Rally To An All-Time-High As Software Giant Adds The AI Subscription"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) shares closed at a record after the company announced pricing for its new AI subscription service, Microsoft Copilot."

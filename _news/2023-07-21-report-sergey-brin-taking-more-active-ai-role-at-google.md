@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-21T02:13:00Z
 originalUrl: "https://9to5google.com/2023/07/20/google-ai-sergey-brin/"
 webUrl: "https://9to5google.com/2023/07/20/google-ai-sergey-brin/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/08/google-store-chelsea-2-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
@@ -23,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "HNXrqpumvRh8MauCfn3IGwwwhGpsujqawcAmwrkwIkePmIi76cx2vLlNAiHfrn6bdbQzKNqs7QaLhaxPk9RBKcRi+Mi0+F5GSvEoXMsKrmIqUPJJI1rSBSvgSQpc7Do77R03l8tO6a8BFhDgQgxAZV0m6Uhl6vvrB6AOrQ82iwHHBlqQj5TYyvq7QccTJbIHfeUGbqApuqxJrrbZNhZ9y2dufnbByMOGwZtZQ0KGUGUNlP6lQwAP7rHJJZNAs0mDYaZh48NfgnzV9ptJmqXTR6GQ8huP+UEXy3cG8yYPC7nRwat9Lvo1OYjYHNUOp4QRPKmqbdEq9L7dQJAXR+LY2dqsdeXqCzXx7pH4/zuTEoU=;59hbLHb1Xbcpu5P+DtiSQQ=="
+secured: "F4iPoFeHOA5eGBdDeWNtJwp0R59fE+ryPHLCzDvTgcm3mpTXfkxCEb+eOuTROrv+7HBY2ZFhYSy9RTvS8RcexO+GLqjSxwmA6447E4aihlaSL7+iqllI9dKHxPNd0tlgbEbHiubA54VDizDy4KEofNzcdrCCgihqtspgicnLxnM0i+eihbIkXZ0SvNPQBFwSc5UDMhQUiNrtg/7eiKE8c17FRPUyQdxOViweg7MmM0xV/+ApF0uTlF6wCG7LjHkd80XFL9JPG01TxJKnJYvqzdiop+YICQ+Q86U4df+tdJ6mDPNjn4mzCVIaN9K+dzZ7LdzAZwmRZxNBkFeo/dGKI8tkTtCsdg43VJzPbvwAP5TQrWgi18mvw5zBoPCUhQPvSiUY3ky0TDSimiINR8ioaF307AkiYmrCbM7EmvKhicKRdDgX7xrPgQxB9woXl6pCp4yaxeuVbjuMBiE5RDfPLXlYakzum7vjGBGo1z8Mt+GLZ5qGpcNGqxwYQvAZXEF2dzBMcy6wvQdAIN8f10J8TQ==;XWdzhL1BOHETx36QGVZh8g=="
 ---
 

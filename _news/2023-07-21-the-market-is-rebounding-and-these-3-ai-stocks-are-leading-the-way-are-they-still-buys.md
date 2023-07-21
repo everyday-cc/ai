@@ -83,6 +83,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "This Under 30 Lister Is Shaking Up The Fintech Scene With A Banking Startup For Creators"
+    excerpt: "But one 2022 Social Media lister, Will Kim, is working to help those creators get their finances in check. This week, his startup Karat—which offers credit card and banking to folks who sell via social media—announced $70 million in new funding, bringing its total funding to more than $100 million."
+    publishedDateTime: 2023-07-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/saraheccleston/2023/07/21/this-under-30-lister-is-shaking-up-the-fintech-scene-with-a-banking-startup-for-creators/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 40
   - title: "Predicting kidney abnormalities in utero with deep learning"
     excerpt: "The study findings advance DL-based CAKUT recognition through ultrasound imaging by using, for the first time on such a large scale, an algorithm trained from the beginning. The model also exploits the potential of XAI techniques to improve the interpretation of the model’s predictions."
     publishedDateTime: 2023-07-17T08:44:00Z
@@ -153,6 +162,6 @@ related:
       domain: tmcnet.com
     quality: 11
 
-secured: "8MBqQs/ZUN7k3T+kelZxq87ml5wysKsU5IoVjrOpMAslk/brWkW6RDDDpb0WHgYAgA8ELpLjgxArNuOd319LgeC9+4W2gPFaoTx1EKD8Ft9xIfV4nnQ5qlkpex/HCpDfhIgiVQhMXvn3nP6d7OFkvhVs2lTcs4TOU9tw3eMWvVNU5AvifXzgF8/xkbnXXYx3Q+i1WqbIr1ZiT/UdxAQnf+ZXzQ5K0F2l+/PO2g4HV8Xo9pQKHwxsbLcqrVMmwxhEf2LFzyb9Zn2vrkHk6OIObld4EGQorRoR2ok07eZMK/bfNjr77MCNjSAflQNTlt6BKfmysrMPa6saAw+j/CkVZwezVuVBmzCGnnpHSOYoxnE=;thtQsSRaBSUQJD+D/ib0gw=="
+secured: "Pia61ItpGZO/EzwDhnq+zNWcdQL6fgLofV7VRIkE5Bcv2F51NvnWM6OrIYtQ7an8Exr9dw2ZwRvC2Xu0H2FFZGyufCgeuHVN/n8ZMjgBrCyWRO4OGf4gZZUWR5Vams1ydobl12wmNVHhLtFZBN7G+rx7l4IcAHlvExy8K5a3sTn5tzHDpd5JQBQBQkSuN7s62Lfsr/hYanWgMpLpQXkq3B172pvumrGSzErLsqPzszvJo8spF/kDnM9/q0hQSCwS4GspgJs6JUa1pb75mS+xGnVDvNCFXsscOoE+IryUUfNZPCP1kb36aN4HlNCOUinmOxlY3bIRGb/3F9US9ORrmoYz2s4/r3s+E3jogim/j+F1iIQNRLjTiHIqIC9Kc5s+MbAyw6cICUwAzxEHG1L8rN+CvaqrJ7IPyzYL7KjYpctGQyh355h2LKA2SluHFJt0LMUNLL/Tej/CHO8ha2svefMgPTPkTeZLpZdSMi4Ts1C0PFouA78RJ8DONupszmWjPnlbE1e7E4NkEgI5I61s0A==;wrGG6mKegY5pGxOA4Qq2oQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sof
 webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "This Artificial Intelligence Biotech Stock Is Crushing the Market, but Is It a Buy?"
-    excerpt: "Schrödinger (NASDAQ: SDGR) stock is going bonkers, gaining 191% this year so far thanks to snappy top-line growth and the hype surrounding artificial intelligence (AI), which it uses in its software platform for discovering leads for biopharma drug development."
-    publishedDateTime: 2023-07-17T14:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-artificial-intelligence-biotech-stock-is-crushing-the-market-but-is-it-a-buy"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
 
 secured: "wb4wQ0nK5AYxS3O5o0payjlev/LzpiCMrkfs5btPGlsCP10lLurNwAjI1PtnZEYE12/h9thzQZ1M8NkUNTaA+V2xVGH/bC58ffjV8wgGA4ieJmlLcdaTzW1NlUjY3CzGyopRx/ei3+iKugvpO5qcgSoq5pSpFcqgi+knWHVqgR8lVDHNsdNnzGXTxZqi3STsTIjsBGqYrlQsyDE6GHUIz/Qq5xjWfievZVqlQ+vN3xC++oEU/sLsaeCuauWph5qDctoMy9O1C4K/L7fSoRlg0DJqI1bJcFSAuyr5QtlNM+gcuKT2Ha3VIsim/RoMCPChMomBMoGLdDIbkLfMyHHa/gdF6wUG6LEkumar3qIv82A=;A9IJrdRvu2GyBNtUKrthaA=="
 ---

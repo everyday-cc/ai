@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 69
+  - title: "Google co-founder comes back to company to bolster its AI efforts"
+    excerpt: "Google’s co-founder, Sergey Brin, is taking a hands-on approach to the company’s AI efforts. Brin is now showing up at the Google offices three to four days a week. The co-founder is using his time to help support the hiring process."
+    publishedDateTime: 2023-07-21T15:42:00Z
+    webUrl: "https://www.androidauthority.com/google-ai-sergey-brin-3347338/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2020/01/google-logo-G-at-ces-20201.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Brits need a mindset change if they want to be AI leaders"
     excerpt: "Given it thought Brexit was a good idea...  DeepMind co-founder Mustafa Suleyman says that for the UK to become an AI superpower, it needs to change a bit of its thinking. Suleyman said that the UK needed to foster a culture of risk-taking and encourage large-scale investments."
     publishedDateTime: 2023-07-18T08:47:00Z

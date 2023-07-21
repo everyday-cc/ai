@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc10
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradmoon/2023/07/19/review-airrobo-pc100-pool-cleaning-robot/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
