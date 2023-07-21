@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
-    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform"
     excerpt: "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management"
     publishedDateTime: 2023-07-17T16:26:00Z

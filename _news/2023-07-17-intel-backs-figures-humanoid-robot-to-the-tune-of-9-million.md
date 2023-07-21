@@ -37,6 +37,20 @@ related:
         width: 700
         height: 495
         isCached: true
+  - title: "Why Intel Started Investing Millions in Robotics Start-ups"
+    excerpt: "With this investment, Intel can have huge revenue if Figure is correct about the labor market"
+    publishedDateTime: 2023-07-21T11:24:00Z
+    webUrl: "https://circuitdigest.com/news/why-intel-started-investing-millions-in-robotics-start-ups"
+    type: article
+    provider:
+      name: circuitdigest.com
+      domain: circuitdigest.com
+    quality: 54
+    images:
+      - url: "https://circuitdigest.com/sites/default/files/projectimage_news/Capture%20%2812%29.jpg"
+        width: 765
+        height: 500
+        isCached: true
   - title: "Intel Invests $9 Million in Humanoid Robotics Startup Figure"
     excerpt: "Intel makes chips, but it also makes bets on other companies via its Intel Capital arm, which just dropped some cash on robots. It's not buying them, though. Intel has made a $9 million equity investment in Figure,"
     publishedDateTime: 2023-07-19T12:15:00Z

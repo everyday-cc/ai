@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Rise of the robots a lift for Shanghai"
-    excerpt: "Fourier Intelligence unveiled its latest humanoid robot, GR-1, at the sixth World Artificial Intelligence Conference in Shanghai this month. Electric vehicle maker Tesla also exhibited its general-purpose worker droid, Optimus. Tesla CEO Elon Musk has projected the robot will sell for less than $20,000."
-    publishedDateTime: 2023-07-19T23:22:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/20/WS64b867bda31035260b81761e_4.html"
+  - title: "Robotics—An Extension Of The Ongoing Digital Transformation"
+    excerpt: "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling."
+    publishedDateTime: 2023-07-21T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202307/20/64b867bda310352610b93768.png"
-        width: 720
-        height: 360
+      - url: "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "The Rise Of Robotics And Automation: Transforming Smart Home Security"
+    excerpt: "The impact of robotics and automation on smart home security extends beyond protection. These technologies offer enhanced convenience and peace of mind to homeowners. With remote access and control, individuals can monitor their homes from anywhere, ensuring the safety of their loved ones and belongings."
+    publishedDateTime: 2023-07-19T19:26:00Z
+    webUrl: "https://menafn.com/1106630697/The-Rise-Of-Robotics-And-Automation-Transforming-Smart-Home-Security"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 51
 
 secured: "IuW3s1tTdRcSeq/BbPgL24ksWcU7Cr84dG3r6hJeCRVpzogO3k5w6tS3yKJ638iw5bTN21H2w4CiZA4DPSEkhz+JdWtbaEokyhfpGK/eWeBEEMOe+NWefehS+rEgEpzmW5XYVFiDNRfyARJfZzi04lFt8OCQN4zEkYTLyAfUqjDKXAbkNeiVti4U6z6R+Tsgbv379fytOB3yqAsk3RFFwMT/a5CANyXItVh+I0e399xgiKh+h69oy+WAMFeOBZRzTcQIp3qTHvowainlGY1HsVtiuryRpzagAH0m/XxexLkAB2u2fTAS7RMCYbANjkYp9iP16TZnmsXEBv+nPfEtfA6xhR6JoDJCXFOYAmXCM6nrBt5QGlTcoWyH8tEkJLdk4tJIIVaWWMwDdaL+aBdx0kozUiUvOyX6iIqOVI0vb+D7IAW2X9LBueu76RVwYAmqfPE54qIHP97uUMy8CDde8trhY61X+rwuc4CdzDMM5Dz9jK7ndCzPPicxQLV12drs9p77rfL56ec3ZvBSyJy4Lw==;CamgTNrqUDIpxOcPwMjmkQ=="
 ---

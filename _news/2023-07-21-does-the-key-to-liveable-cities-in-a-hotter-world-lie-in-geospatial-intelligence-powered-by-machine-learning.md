@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/does-key-liveable-cities-hotter-world-lie-geospa
 ampWebUrl: "https://diginomica.com/does-key-liveable-cities-hotter-world-lie-geospatial-intelligence-powered-machine-learning?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/does-key-liveable-cities-hotter-world-lie-geospatial-intelligence-powered-machine-learning?amp"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2023-07/D8068449-6DCF-4332-935E-03F9898C42F5.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 328
     isCached: true
 
-secured: "/xjb9G/O8juWPfNb1uZFGVxk7QyTArS6dO8QZ51lAHGdOSazFDa88s/llkxIcSqz3R16ECGUDd6cf6byPs38NUOtokf3kNZk2AI9HOOlHTsSV4PQlj94VbUFRnox6LyLGAkZJO2s/wG0KyGoRrrlpA4kc87u93epXFZlF0GwV68nEbp1mOaAXIlo+7rVloq1tdBmSFAWfh8BZJE3gXqiC8mmwjFa6MpNJngLyHDVQ4zftSmA4kUp5UJkewUn0drdcfbbSElzIq9T2DurIiUjgqmQ+1hlWuARLcy/l42oTPuG7iFbLbRn/EXK9O/8TkNDus8b2kPb92Ti0J/3yUkvrZq4gTb9hWJuHyLJDpCWmZs=;GP36hgHS3MJ/AeWBzV3aRg=="
+secured: "hr4WVoigSEXz00VibjeQ2Y05vFZquTHdZU+JvXlITRp5F9Z7CBlQs9bcgwX1mvN9DE73TapleIYD+Zf+tNgtyuZ19dKolYjtxWLjBskACSXIfNmG+Bv4xoZPiDpYCTBNzvupy4XTUQO5IU35XFIjBzxgxOBnoLLWtPDZKS8ajADDPL2hoQ2A4u/aoVzw5tXFj4SF+Kwhnn+B6shwkUrNaPV39lce+3gWmboL1bZdo3Ui/Cr2GzIBGlQ/KNnHIKLWtiP9brds8z7HIwrHbp0EKXDRsnAix0pVYzLyi9xkwyaeuiAz2+8P3l0g5WcLs9xmjhTTT4PcJ1c7LMn6IuEV4mdsu9UZdzEeuHPKIOhfjT/dfUBbEn1hu5dLAPGxQgox+kzzE0va07h2Wv0358Av0Q+dU6AR+vIRmFIAvw14EiFo3xqcYqzNyWyP7F4esx/NWhRASzVH7OhifldxxLrELQwf30RTA7gaT1QCqXtxFjFUpytp7ps4pbE+fuDMzTDxVq6cEvAEQEJWIWfeGjKkGw==;7UucPWww3GkCRHGXm2Zsdw=="
 ---
 

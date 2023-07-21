@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/07/18/9849543.htm"
 webUrl: "https://it.tmcnet.com/news/2023/07/18/9849543.htm"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -20,15 +20,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "IEEE CS' Computer Vision and Pattern Recognition Conference Ranks #1 on Research.com's Best Computer Science Conferences List"
-    excerpt: "In addition to CVPR 2023, IEEE CS' International Conference on Computer Vision (2021) earned the #3 spot on Research.com's list, with an impact score of 40.60, resulting in IEEE CS claiming two of the top three highest-ranking events. Overall, 31 IEEE and IEEE CS conferences were recognized, including:"
-    publishedDateTime: 2023-07-18T12:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ieee-cs-computer-vision-pattern-recognition-conference-ranks-/2023/07/18/9849609.htm"
+  - title: "Biren Intelligent Technology Exploring IPO amid Rising AI Hype"
+    excerpt: "The proposed IPO and funding round comes at a time when the demand for AI chips is skyrocketing across various industries. Biren’s advanced chip solutions have gained recognition for their superior performance, energy efficiency, and scalability, positioning the company as a key player in the Chinese AI chip market."
+    publishedDateTime: 2023-07-18T12:17:00Z
+    webUrl: "https://www.coinspeaker.com/biren-intelligent-technology-exploring-ipo-amid-rising-ai-hype/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 19
 
 secured: "oORUdDs72Uk+R/kIbxlo5RZfRQCt3nV2+7P4DcnPBRYcw6VczDZCLEAY200u7dhzRotcdwPnBTRP6xzTho/ddNq/f/JBK+lOfpg+rMcBzm8Ukw/QwfbIJxNTb8dmhBBLNzEwm7tZJ77b1/NAWgHFf1hNikAEpVDfDbO9KbTTHwamcO/DExefUUf+G7inFOkxvT6FtApU74PTUwgjoRmG+rLpWQbIanVlhB1JPw4agVWuQazoOD5XnaDSDv1yzDRnbEJsVFXAfgCVGvURUxCL54N+u9UbRDt3cI0+KsE5Gkg4inuMqYE8HvQz/VCpgG90tKCNgtD7nq/WowdGUq15l0Nmc3UU6x3wfIbOnaNTDy4=;O1tqKBCp7/otIs3ZBAFn0A=="
 ---

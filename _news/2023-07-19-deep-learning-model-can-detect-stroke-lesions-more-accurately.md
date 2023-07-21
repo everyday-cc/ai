@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/informatics/news/deep-learning-
 webUrl: "https://www.technologynetworks.com/informatics/news/deep-learning-model-can-detect-stroke-lesions-more-accurately-376425"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "New geometric deep learning model for detecting stroke lesions"
-    excerpt: "Currently, there are several machine learning models for identifying stroke lesions in computed tomography-perfusion (CT-P) images. But they do not perform well enough for clinical applications. Addressing this issue,"
-    publishedDateTime: 2023-07-18T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/995986"
+  - title: "Deep Learning Model Accurately Detects Cardiac Function, Disease"
+    excerpt: "A deep learning model can classify left ventricular ejection fraction, aortic stenosis, tricuspid regurgitation, and other conditions from chest radiographs."
+    publishedDateTime: 2023-07-17T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-model-accurately-detects-cardiac-function-disease"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a09cd483-f059-4c4e-969c-c9079e29ab9a/Rendition/low-res/Content/Public"
-        width: 700
-        height: 342
-        isCached: true
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
   - title: "Novel geometric deep learning model improves stroke lesion segmentation"
     excerpt: "Ischemic stroke, which occurs when a blood vessel in the brain gets blocked by a clot, is among the leading causes of death worldwide."
     publishedDateTime: 2023-07-18T19:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -77,19 +77,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla’s Game-Changing Move: Licensing Full Self-Driving System and More"
-    excerpt: "In Q2, Tesla continued to dominate the US EV market, smashing its internal record with 479,700 vehicles manufactured and 466,140 delivered, marking an impressive 87 percent year-on-year growth. The Model Y made headlines by becoming the best-selling vehicle overall, surpassing traditional favorites like the Corolla."
-    publishedDateTime: 2023-07-20T04:40:00Z
-    webUrl: "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/"
+  - title: "Tesla's Elon Musk optimistic on progress for self-driving, robots"
+    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
+    publishedDateTime: 2023-07-21T04:30:00Z
+    webUrl: "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
+      name: Reuters
+      domain: reuters.com
     quality: 69
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-03-14-180825.png"
-        width: 969
-        height: 631
+      - url: "https://www.reuters.com/resizer/dcjvuxwVOGP-aXVwb2W5yVb2L_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3GNPK2C6OVLPVJISKSUPGB5VOY.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
     excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
@@ -136,20 +136,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tesla’s Elon Musk optimistic on progress for self-driving, robots"
-    excerpt: "SAN FRANCISCO (Reuters) – Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he’s been optimistic before."
-    publishedDateTime: 2023-07-21T05:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/21/teslas-elon-musk-optimistic/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 56
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6K04S-BASEIMAGE.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Samsung said to make Tesla's next-gen self-driving chips"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
@@ -251,6 +237,6 @@ related:
       domain: investing.com
     quality: 13
 
-secured: "rsM4rhd+2R/RA67s8wWvpZVHnwQ04NJmbTq3WuHpQmZVklVkkSoVt0BCiI1nPyx1XEcO3DgZiRrEsUZwQkqibzV+oNiX53wFNqUsKpA/TYaszSTVCbmu4FEFPIIhNZVaD1+jHmIqdYfj4RQ1dWmU4U+eSSBfYh46tzy+n2Ldq7aKt9OsOal/AE71Fu2834ZwpirV7yxh0SgihQuvSyQT06JR1qxYG6wsOxlmmKW2oGBSDFhZfSElzRau1UwK0CgchzWUX3rA9ahP6oFiLLqWUiMcHzLBc6ZFlxjTMtuhDCtFaGFrXCrSzR+D/h2qBII8wLLI5lGZd6mCDJz0I/JLx87b0z33UU+h0S/Yzi/kml0=;74GLdaWTH7zWf1gg9PCduQ=="
+secured: "zNeQ11x1VosiZohFml8RzBZxyXht2OR/TwhjHDq+Khnx9UIjLaet+D52nJPdjF3RhOdZpm7VQK2U+EyxpzcrOKxuegXFKVZRVFu/FGWxOrvi1gkOcbooESYqaQHr54z7asV7INIepFPU0Cx8t/GRhQYi71hIkNBw6+55prpHxv0leRlCWQkdA5Q9eybY5pJZkeuiX+nGsBnSHYR1gThTxeSOL8BZdABQ/BY8Rkuz2e4hmQHmtP8bX11n3kiBfoqzGj10sTU6in2KK0AfrevNVEoEKSrjeLKgsoelinvBn/UrZGorAD/DzQ4a57Y/347tU6tML9KZhV4/o0YDVYlNqrIEvotClSOikQeFjMOO59btgqaSzgfY4cLinErH1vmUItn6eMa/pPfRsCrXLPA7sGUn5DQMhwBekAh8FxySvT/U7L87khqdnnbJhU2UwveBIcMitWI5lPCGdQVjHVngtI9/hTkkiOy9pKl4x/WVVPRfGrAEhi56P5ggyXtaj9b1EaO2dMJdk+8nw5th3IE61g==;aPUfT2JZyL+skCEfa3JZtA=="
 ---
 

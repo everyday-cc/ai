@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-07-14-accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integrating-microsoft-text-analytics-for-health.md",
+      "title": "Accuity Announces Proprietary Intelligence-Infused Clinical Documentation Review Technology Integrating Microsoft Text Analytics for Health",
+      "excerpt": "A leap in revenue cycle management, Accuity's innovation is one of the first to analyze medical records through a physician's lens ensuring each chart's coding accurately captures the patient's clinic",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33221292/accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integr",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33221292/accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33221292",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33221292",
+      "publishedDateTime": "2023-07-13T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
+      "title": "Michael Hiltzik: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
+      "excerpt": "Those of us who have spent the last few decades reporting on technology have seen fads and fashions rise and fall on investment bubbles. In the late 1990s it was",
+      "sourceUrl": null,
+      "webUrl": "https://thebrunswicknews.com/news/business/michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster/article_dfa23789-177c-500a-94fa-063d04efa862.html",
+      "originalUrl": "https://thebrunswicknews.com/news/business/michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster/article_dfa23789-177c-500a-94fa-063d04efa862.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/4/68/468c75ea-146a-514e-8f52-193832f3c5a1/64b04cfef2b42.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brunswick News",
+        "domain": "thebrunswicknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
+      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
+      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
+          "width": 480,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-researchers-investigate-ethical-side-of-ai-impacts-on-meaningful-work.md",
       "title": "Researchers investigate ethical side of AI impacts on meaningful work",
       "excerpt": "Artificial intelligence threatens to dramatically change the work we do and how our workplaces operate. Macquarie University researchers examine some vital ethical questions raised by this new technology.",
@@ -195,10 +333,10 @@
     {
       "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -217,11 +355,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
+      "publishedDateTime": "2023-07-13T08:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
+        "name": "AZ Central",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -666,6 +804,40 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-allen-institute-for-neural-dynamics-launches-first-ever-crowdsourced-neuroscience-experiment.md",
+      "title": "Allen Institute for Neural Dynamics launches first-ever crowdsourced neuroscience experiment",
+      "excerpt": "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news",
+      "sourceUrl": null,
+      "webUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
+      "originalUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
+      "cdnAmpWebUrl": "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/450686550/allen-institute-for-neural-dynamics-launches-first-ever-crowdsou.amp",
+      "publishedDateTime": "2023-07-13T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sciencex",
+        "domain": "sciencex.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-here-are-the-45-best-amazon-prime-day-deals-still-happening.md",
       "title": "Here are the 45 best Amazon Prime Day deals still happening",
       "excerpt": "Want more deals? Visit CNN Underscored’s Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale. Amazon Prime Day 2023, the summer’s ...",
@@ -1004,194 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley.md",
-      "title": "AI Doomsday Scenarios Are Gaining Traction in Silicon Valley",
-      "excerpt": "To say that some of his visions for the end of the world are unpopular would be a gross understatement; they’re on par with the prophecy that the world would end in 2012. That prediction was based on a questionable interpretation of an ancient text, as well as a dearth of supportive evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBRMHGK.dqE/v0/1200x670.jpg",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-is-the-next-front-in-the-culture-war.md",
-      "title": "AI is the next front in the culture war",
-      "excerpt": "Artificial intelligence has become the latest battleground between left and right. It's not like social media. It's an innovation that needs to be handled in each industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
-      "originalUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65005a2b-1ca5-4161-b171-6d919e481c94/362427db-94c2-4411-8415-4ede681c9547/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp",
-      "publishedDateTime": "2023-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-robotaxi-ventures-making-slow-but-sure-progress.md",
-      "title": "Robotaxi ventures making slow but sure progress",
-      "excerpt": "Waymo and Cruise, the two companies offering ... Baidu, the Chinese Internet and artificial intelligence company, obtained a license in June to offer its Apollo Go commercial driverless service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "originalUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/INTELLEGENCE_REPORT-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-crypto-miner-hive-digital-drops-blockchain-from-name-amid-pivot-to-ai.md",
-      "title": "Crypto miner Hive Digital drops 'blockchain' from name amid pivot to AI",
-      "excerpt": "The crypto mining company formerly known as Hive Blockchain Technologies has changed its name to Hive Digital Technologies, as the firm looks to capitalize on the growing AI trend.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot",
-      "originalUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/8933e78d-a063-4430-85e4-949ed478575a.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp",
-      "publishedDateTime": "2023-07-12T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

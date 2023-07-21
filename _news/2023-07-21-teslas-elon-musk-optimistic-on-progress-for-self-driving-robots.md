@@ -1,28 +1,31 @@
 ---
 category: news
-title: "Tesla’s Elon Musk optimistic on progress for self-driving, robots"
-excerpt: "SAN FRANCISCO (Reuters) – Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he’s been optimistic before."
-publishedDateTime: 2023-07-21T05:42:00Z
-originalUrl: "https://www.shorenewsnetwork.com/2023/07/21/teslas-elon-musk-optimistic/"
-webUrl: "https://www.shorenewsnetwork.com/2023/07/21/teslas-elon-musk-optimistic/"
+title: "Tesla's Elon Musk optimistic on progress for self-driving, robots"
+excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
+publishedDateTime: 2023-07-21T04:30:00Z
+originalUrl: "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040"
+webUrl: "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040"
 type: article
-quality: 56
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: shorenewsnetwork
-  domain: shorenewsnetwork.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6K04S-BASEIMAGE.jpg"
-    width: 800
-    height: 533
+  - url: "https://www.reuters.com/resizer/dcjvuxwVOGP-aXVwb2W5yVb2L_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3GNPK2C6OVLPVJISKSUPGB5VOY.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -87,20 +90,6 @@ related:
       - url: "https://images.mktw.net/im-804723/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Tesla’s Game-Changing Move: Licensing Full Self-Driving System and More"
-    excerpt: "In Q2, Tesla continued to dominate the US EV market, smashing its internal record with 479,700 vehicles manufactured and 466,140 delivered, marking an impressive 87 percent year-on-year growth. The Model Y made headlines by becoming the best-selling vehicle overall, surpassing traditional favorites like the Corolla."
-    publishedDateTime: 2023-07-20T04:40:00Z
-    webUrl: "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-03-14-180825.png"
-        width: 969
-        height: 631
         isCached: true
   - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
     excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
@@ -248,6 +237,6 @@ related:
       domain: investing.com
     quality: 13
 
-secured: "D4lBlnyTlfOUBtCrOAT0nJdpowAktwRBtykgQgpsh5cZHPiS6Y90/jY3Ipai87oYkKmZo6jP3GoZ1vrZrKtoH0xSmmxmZBZMLy2lSdWwVlIO1N3bJ4VqjHrfPrCW8Vkz6zMYNsvFsMzqIQhSSn8fDq+3S8ocoQNENnLR2GjY7J5+kDiUpTtCHnWITPwFzdI4IN2BOgxCrrTjJ9AHZZyOzyUWjSbLUqoHNMKDjasmgqbOTP9pjsD5AOEwr2URGZ5xFdjwDjkAqcvyxEMk18qxuyneWomGZudCXGO/zuJq7u8U/x25REa1S8ATNw/DXZVSsGSquexHW2//KDPzmqwbaOuKZEhTTcxSrQw7QzmlPdc=;+m2GeYPNFb/eF046M7qEmQ=="
+secured: "JBYdI4xcCR5Gpcb9zNJkUX4MinqtP//Y7g20dweMOim/Ivza+DeIvCQsJ5rFqZeRuiQR+I0BX/eESGMHmubqiQ2M2OgX8Nv7Hlyy2ujtRccMwmSyY30Cemm5OWjEI6Jr3S8nYWPHe9AZ4djKcTbtDie+dya2RAT7VH9PIOOn0+PQXfFNY0e28cu/0+ipvmfZMofO9vYQRG6agBiP8FT7W0YUPWLudDM6XCIj+FCvfCDGeJ1JaOde8/KLRMVEGMCnbFAVZEt32EEhXa70dXlhCglAhGiK5Q08qTtbInAmqaiT7/GuXiy/ZZ08zuUvcDgs3aZCVQ02CnaO++5tUSUL3Vv5urtuh9YA3aIrKcYiv/o=;+ml6r83pv8WIs+6mR4L/HA=="
 ---
 

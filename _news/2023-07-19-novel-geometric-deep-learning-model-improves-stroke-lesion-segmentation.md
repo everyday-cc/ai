@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New geometric deep learning model for detecting stroke lesions"
-    excerpt: "Currently, there are several machine learning models for identifying stroke lesions in computed tomography-perfusion (CT-P) images. But they do not perform well enough for clinical applications. Addressing this issue,"
-    publishedDateTime: 2023-07-18T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/995986"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a09cd483-f059-4c4e-969c-c9079e29ab9a/Rendition/low-res/Content/Public"
-        width: 700
-        height: 342
-        isCached: true
   - title: "Deep Learning Model Can Detect Stroke Lesions More Accurately"
     excerpt: "The proposed approach outperforms other neural network architectures by leveraging rich geometric information to segment brain stroke lesion images."
     publishedDateTime: 2023-07-19T09:13:00Z
@@ -47,6 +33,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Deep Learning Model Accurately Detects Cardiac Function, Disease"
+    excerpt: "A deep learning model can classify left ventricular ejection fraction, aortic stenosis, tricuspid regurgitation, and other conditions from chest radiographs."
+    publishedDateTime: 2023-07-17T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-model-accurately-detects-cardiac-function-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 19
 
 secured: "9srJ8pL5GSjWtPeSDDZZYLjmSvmdO3qrREIU6K1vZ9FuJ90yMpnOBxH6baKLDoGnheE+uSIX0kYMZmQhv+p0Y/X9q8Yy6Ffo4a7dUQBDrtH8640wiVpwH/jHypTtU2UH89xYu3n/R4GXAlzMwV2GJlG1aowp00HH1a6g36q9R39oZrkYv4uAmuRTW6AhQE2TmxMhn6wyMrd/3vimRAzpkF9zbgEJ3hJRNFiGlEZzCfOic67DUravMO8VJGhmX5AZb47Mbqe6CVj0Jt4UsVQ6ovAOmpLiA0e1rq1BXh8Qmj5kQb2mHto2xC4XEzJ7bBdxJQrSBebH2bohXo5HyBB3a26KVou3CQCWgqGlLDzc7Zk=;hJR2b1y/NWX+fOjrG8UMNg=="
 ---

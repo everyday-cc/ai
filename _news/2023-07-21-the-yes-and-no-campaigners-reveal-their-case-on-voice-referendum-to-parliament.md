@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Yes' case for voice pamphlet was collaborative: Burney"
-    excerpt: "The 'yes' campaign for the Indigenous voice to parliament has consulted across political parties before submitting its case for the referendum pamphlet."
-    publishedDateTime: 2023-07-16T17:38:00Z
-    webUrl: "https://thewest.com.au/politics/yes-case-for-voice-pamphlet-was-collaborative-burney-c-11297191"
-    ampWebUrl: "https://thewest.com.au/politics/yes-case-for-voice-pamphlet-was-collaborative-burney-c-11297191.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/yes-case-for-voice-pamphlet-was-collaborative-burney-c-11297191.amp"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 44
-    images:
-      - url: "https://images.thewest.com.au/publication/C-11297191/c7aa5b573f061264bfd41b511a7c5d960cde02f7-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "'Yes' and 'no' cases for voice reveal their arguments"
     excerpt: "The cases for and against the Indigenous voice to parliament are being promoted as Australia prepares to vote in the referendum later this year."
     publishedDateTime: 2023-07-17T17:34:00Z
@@ -57,6 +41,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here’s What You Can Expect From the Yes/No Cases for the Voice Referendum Pamphlet"
+    excerpt: "The yes and no cases have been prepared by advocates on each side. The formal yes case paints the Voice as an opportunity to improve the conditions of Indigenous people, while the no case puts strong emphasis on risks."
+    publishedDateTime: 2023-07-17T23:33:00Z
+    webUrl: "https://www.lifehacker.com.au/2023/07/heres-what-you-can-expect-from-the-yes-no-cases-for-the-voice-referendum-pamphlet/"
+    type: article
+    provider:
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 18
+    images:
+      - url: "https://www.lifehacker.com.au/wp-content/uploads/2023/07/Your-paragraph-text-59.jpg?quality=75"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "PoliticsNow: Yes and No camps voice their reasons"
+    excerpt: "Australians will be told the ­Indigenous voice to parliament is a “leap into the unknown” when they receive the official No pamphlet in the mail, while the Yes ­brochure promises constitutional recognition with concrete results, as Anthony Albanese concedes the Yes case needs to be made stronger."
+    publishedDateTime: 2023-07-18T04:22:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politicsnow-yes-and-no-camps-voice-their-reasons/live-coverage/513d2c6c3f8a290e0d0d91c19e756632"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "ArawZDcPi8ntTCqyqVRwHhJuY2nuxD6YgpkhSEKFZLSd2QQEHbE5Bxh7iCi4TRv/fBt5sDqx6FikdYqaAMGBgclPgBjgFh/EuzJ/9+dCyTQXF7oNnh7UZixISCt97DcPR9XnPAssMPsXsG1azUIUttbuZKVKJBM3GmH6KjzleYRJ/0Mqd7tMMLPT8mcmxjjZKg6w+odgMQ1n9Ah9crms6YVaIjkMDRfScZkj4Ikf9IqTVnbAmxnZdS8cvIJBkz/9d42QjY1HeH0ERBmEr6zSLBq2DrEHkuo1yReB8d7SvjTpyYhdi48DhO2n3CNNmzBvKpTYTBiiTi0wc0yfBwM4F441IWosXRJFfIzkQ26qbOQ=;M5lpjo7i2uGHX1DpfPvlTw=="
 ---

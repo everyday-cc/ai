@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Visa calls on fintech founders for accelerator programme in SA"
+    excerpt: "“Through the Visa Africa Fintech Accelerator, Visa is committed to driving financial innovation, fostering entrepreneurship, and supporting the growth of Fintech ecosystems across Africa,\" comments Otto Williams, senior vice president, head of product, partnerships and digital solutions for Visa CEMEA."
+    publishedDateTime: 2023-07-21T11:25:00Z
+    webUrl: "https://www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk"
+    ampWebUrl: "https://www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 44
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTA3MjVlZWEtODUyZC00/1/1365234911.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
     excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
     publishedDateTime: 2023-07-19T13:48:00Z
@@ -27,6 +43,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 4
+  - title: "Visa, Plug and Play partner on Africa Fintech Accelerator programme"
+    excerpt: "Global payment platform Visa has partnered with Plug and Play, an innovation firm, to roll out applications for startups for its Kenya breaking news | Kenya news today |"
+    publishedDateTime: 2023-07-19T06:25:00Z
+    webUrl: "https://www.capitalfm.co.ke/business/2023/07/visa-plug-and-play-partner-on-africa-fintech-accelerator-programme/"
+    type: article
+    provider:
+      name: Capital FM
+      domain: capitalfm.co.ke
     quality: 4
 
 secured: "qDVPsWmVirEq2xrdrThsOJabQQfX5FPWuoXIMNJ9dAww3IxWgHg9UWMFG2VSVhu4NXjY6MF/7tg2y8coXBXrdWYVFuNlDBvcdu5pgWiCB5D8tabe0s/62AjnQYqPLCp5n19dlQRC0sDvcFOjP/D30aKMwv2h+vylUq1dehesAVVM4JuZ88vR/kaKTqgLA154CqrU6vVWMajIxBPjkEPULLKmnH+t8o31cO7uqI7vGm+EDYTVmNq+gQWYgfH7pc220GjaLEQ5ulfAxt4h8cTTSDfHp2u681bdqPzcrlLSnsPEgs7hyvCR661ElxsrxKczTnbaO6ZbsS21XvR3KXcZsuEVjhvUnNttFBe7Nt2oh7wiUg4bZSMO5PfjRkFxeTzw9QciB2BVUWGY/XOdEmDPSFduDpGmH16SfmB9M+uGna60qC1KXpkDEFop5Rd6qAHAqjleX2aChFWKJ1kobfQ3eT5iRismMZxCYEAyG0zd/E0YLXL8Wti9Ubw6mIf3v2rhGEB9vv2ibtnO/WyxcCml9A==;2CoiK5uEMvWFdTW6NpsB6w=="

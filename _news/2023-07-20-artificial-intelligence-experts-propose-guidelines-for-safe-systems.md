@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence: Experts propose guidelines for safe systems"
 excerpt: "A global group of AI experts and data scientists has released a new voluntary framework for developing artificial intelligence products safely. The World Ethical Data Foundation has 25,000 members including staff working at various tech giants such as Meta, Google and Samsung."
 publishedDateTime: 2023-07-19T23:06:00Z
-originalUrl: "https://www.bbc.com/news/technology-66225855.amp"
-webUrl: "https://www.bbc.com/news/technology-66225855.amp"
+originalUrl: "https://www.bbc.com/news/technology-66225855"
+webUrl: "https://www.bbc.com/news/technology-66225855"
 ampWebUrl: "https://www.bbc.com/news/technology-66225855.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66225855.amp"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 576
     isCached: true
 
-secured: "IFL4qlRu3gKAHx68cy33435PFzwZ3tBObfv2Y2Il0WmFjStQW60tRnBbrkcrA8Qus0NFQNsAMTaHKfzvA4+3JVS9xQG+3qNoNDQ2y43FiklC7sb3RLzMzexGa4dUMrG1GZTNeIRXBNSsVh00dZOraBm5CkYdzqnnVh5ge/gtoUS0qLzpu6zSJE3igDyqwEuy1LnUOcQB+L7BcRWwRmn+jiBeMBRqUlC6QK+lfIapCrwP1U39Xeh9fXOC4yUdexxLTajHupmCoh6Sdf6yjdn/DgdLn+ssSJwbW9Y3Ilr07EgKe39pyW7EUJqiBDV+tmAz0w7aHicuRBmmdcsmOuJPRJ9BJZQqZUeL83wdOPz6yZc=;6UOkNiVp9C3ykGdG9pNrLg=="
+secured: "Li+ILQ8n+k9MizxqajVtxyij6tPlvCj+5TAnwZ1f/UVj7JD0MpFPJJiVlDl3MGD29TUZCI+9nqNU7o6MjYuu3wskFoTYQgRFbyfcOubDttYbbmfUg39hIRPLKzaaoz1n99TGJ9dqC237OAcUxC8y0pIqmLMEtJPv62bId5HqMR2I9iOecwPYL15Pbuaj8vJd4efc3nTEe4RBWGkbCWYm24lajgZ4HVTw0mQi/ERsTAiMd4o0uKEdMepj4FoXTRwgIVnNvzdCCtKMfW4TjiH8F3Bzy2f999lxISTEcpPIsZ27oeaPLuEHkSPzRWEjYNLDJr74xdqXwi/VjiFtbY2dcAzfzuesjakqlyDoR/K5luY=;+YnhsId2JeaxxfgMZsbNTg=="
 ---
 

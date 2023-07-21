@@ -61,15 +61,6 @@ related:
         width: 800
         height: 522
         isCached: true
-  - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
-    excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
-    publishedDateTime: 2023-07-18T12:08:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/wallaroo-ai-and-ampere-computing-to-bring-cost-effective-ml-inferencing-to-the-cloud"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 29
 
 secured: "pBlZ/gQaWocNCifWluKZC/jO7BD5irJpR9DdgXDaNrBapmAiMq+5ZeL8wzpbWTRPiwOH/3oKMBlbR8Y6D9ElhoJ8BMmh8F6pPnPGGacM5G+i1rWI3cXftBua5jZtzHtfaOCtjRnlSuWtIX8pimkRoMkaOOiBJhc/kpxX1fwtWLV28WR13HKn0066Y7U1UYNb46sgrnb+m+df0oDd3XUxiCrI7XlkPQWPi6Hjm3VDlGX0BKiEuGQPcJR9atjvGaj7m/KTrcgvo/6HkDZ2/tA/d7IhhP8weNKvO973qpoaIQ6jCL08gcMW6c2fYEmeDa1WqxIvEuMHr1RS8xpI+Cgh896b6gWxny3EakX5bSf0r7Q=;GXbkl0DTxZtMr5ATupGtdg=="
 ---

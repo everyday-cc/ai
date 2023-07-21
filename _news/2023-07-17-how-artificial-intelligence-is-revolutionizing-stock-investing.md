@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/17/how-artificial-intelligence-is-revolutionizing-stock-investing/amp/"
 type: article
 quality: 87
-heat: 277
+heat: 287
 published: true
 
 provider:
@@ -176,6 +176,20 @@ related:
       - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1l1xg.jpg"
         width: 624
         height: 351
+        isCached: true
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "ShelfSet: revolutionizing retail and beverage distribution with innovative AI"
     excerpt: "Despite early skepticism regarding the AI’s accuracy, ShelfSet has quickly earned recognition for its efficient object detection and continually improving models. ShelfSet’s affordable pricing model ($20 per employee per month), easy integration with ..."

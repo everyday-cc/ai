@@ -50,6 +50,20 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "IBM’s Watson rebooted as a secure AI alternative"
+    excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
+    publishedDateTime: 2023-07-20T20:51:00Z
+    webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 54
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/IBM-Watson.jpg"
+        width: 900
+        height: 568
+        isCached: true
   - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
     excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
     publishedDateTime: 2023-07-20T13:30:00Z

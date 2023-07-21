@@ -3,22 +3,18 @@ category: news
 title: "Warcraft fans claim win over AI with Glorbo prank"
 excerpt: "World of Warcraft fans are claiming victory over AI after a gaming site published a false article based on their Reddit posts. Members of the WoW subreddit suspected their words were being extracted and used to create news stories by a bot."
 publishedDateTime: 2023-07-21T09:42:00Z
-originalUrl: "https://www.bbc.com/news/newsbeat-66266344"
-webUrl: "https://www.bbc.com/news/newsbeat-66266344"
-ampWebUrl: "https://www.bbc.com/news/newsbeat-66266344.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/newsbeat-66266344.amp"
+originalUrl: "https://www.bbc.co.uk/news/newsbeat-66266344"
+webUrl: "https://www.bbc.co.uk/news/newsbeat-66266344"
+ampWebUrl: "https://www.bbc.co.uk/news/newsbeat-66266344"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/newsbeat-66266344"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -29,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "1tR+ZgZcSniaY42d7IuxpxqCQ6mTc5pDHit+MEjVPpE5cWqTJtr48Vm26RpuI2HI0RxAwzvKl6SeA/VEf6n5y4hatBGg890Z/FtmAA0rD9Yf0jaYaKNpM2G9wHeWL7lYsGHTug8Uq9g6gu0QkN/NOw4YPZJ5qk/mFSLOP9An1oGUj1sZbQiSjW0bx2Qj42iVpTodB4r5qq3Z01RIEWMJhkbSxA0YDNN5eVeH2cXlOP5jKTKuIIoQMwjQoeY2GxvpB6rbaK9H+8j3ssJM1kfb2c6KYIMT0eto0YqJwUEY8I7AxR3KMhWbEgZlbVPl89JrNqXRc9osHXcYrj8RE2Aa2heSkVcKOYpPf31NS1d1Vs8=;AObMdC3zfAsJM1gQ1T5puA=="
+secured: "qyLhUUiB/C/kvj6WEPcPJVr58nZ6c4GCxx0GoMDcVXhQ0QwLNnLHDgRAXxTqkHTdtAjzTC/c1eRf7XQkz22AuzBBPt2+dPu+J+di9gfugCNBzudWmP/dRp+5JRJ5AlVuvJcoKpLdq7F+oofSXL+WK9bZC7AQEQQE/8NhwrFwEsn9XP2dxt/6B5buir4O7xU7wpTnIU9JIJWhKshKC2kmj1mQPSTOb3AKaKqSLZA6VudVRCkgl5vnuACrMHpHy+BGevp3WkLLybfg3uoEr0Q7ziMCeWuPOPANSyzaPdjPQL4dR5jJbro4OC3TI+HOhWjs/mLREt7tM7LJdyYYC3F9Tg/KvWPFvIyF40S9nC5Chdw=;2jsVBJY9iDtJ7JwHbHMC2w=="
 ---
 

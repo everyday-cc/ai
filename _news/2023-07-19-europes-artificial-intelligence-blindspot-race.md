@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/europe-artificial-intelligence-blind
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/europe-artificial-intelligence-blindspot-race-algorithmic-harm/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Opening to door to AI in Europe"
+    excerpt: "As everyone knows, Google recently opened its artificial intelligence (AI) chatbot Bard to European users as part of the company’s bid to take on ChatGPT. Bard is a large language model-based (LLM) chatterbox that can,"
+    publishedDateTime: 2023-07-21T11:38:00Z
+    webUrl: "https://www.techcentral.ie/opening-to-door-to-ai-in-europe/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "1FIXVGSsfblhDwZdKRA6WvG+X3ckyw10K2hQKs2Yd+/bpFc/mzrtpvvkcy0I4NZM1rRzvH7iJ/kK6SFuzSLNUdFl2E+5yBU3crVF3bxH94ecjIx8R2/55H35Y+9wS38MwHv6VgvvfOtiKXKfJdEFc4MYc51ZZj6SRNLWCVuudtycalroHtVka7HLlArtmrpGCbSPyk2PgLZehkO7AsHP8Z49R/N35ryVEYuHec3YzTwRhSGHsSF1yiW+K2QWr5AY8Hn19iKgF5wLRsT0lqcp2WkQZdHedXCVHT2S998FSpc/icZVRk9AZDbcjjspze5HNxvoE+3DlS865EE8yeWfTBpho/il8Jy5ZrESvn3HTBo=;D3YuLv49hlKUwxF4MgnWYw=="
 ---

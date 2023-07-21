@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter"
-excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ..."
-publishedDateTime: 2023-07-13T15:23:00Z
-originalUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
-webUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ..."
+publishedDateTime: 2023-07-13T15:22:00Z
+originalUrl: "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+webUrl: "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
 type: article
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: AZ Central
+  domain: azcentral.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "7vEGnWs4uAMm5KrHGTZ/RihVDyWYHK6Nip/c+mi49VIdmvumPJij0V3l9r1Wa3NFoYOX8GPsH42sUfpeM5Hewkg1B4M54hsXCovWd1AXYJFPWnDMdH8bARq8eo/ufynEX4YdvrGA2wwzysBmAMhEaL1NIQYJtFrwhNxw+a3oqvdNhAwR90tUP/xPgeWFBdEOvJwtB7nqsqpgEv/z7mIalki4TxedFbXGP+ESpvTdDJmI+YZ6sbmbMOAaFaV24aFM3j/aEzo1s9QlkLMwL10KCgHG6xgkj51JLWip6OFJkkp5Gp20kma5bcN5quK3yd+EJAoLp4iY5iVPEKD1/veBtl4cG4wuSYgbF8vosI762CM=;G5eMZNmqdqkk0SbUW+qLAg=="
+secured: "1TZeaLuT/MImXQ60neuj2wslLo5QrM5Hjz7eyg77VGQmyBcw9GxgZi3fp7IkcDAU3qsL15omZBIeUYUdMa2oPUw/ZSOu9oqnHbfA6hHuepvtIO+Gg4/NkA9NllYCaCHlZcPjEqB8a+yuyLpBJN8MgNEvG65e5txLxDstdeOWt8tNUKiZ9rdBNy31Kn7AxeySzTcWjPNAXnQE5BBBLVdvZTfxTOr8SI/l2Edp1il2xLOlguJSaMv5VDaTXuo+4wUIbMwZKcZhRAMvmPJwKpADt4a0jZHgnntpaS3Bui6KFedLeRlgzP1CRDkPcehGyqRsqv3JTJZiXJTyRLwVKNTMerXKChNK5tnfPhECxjH0HqM=;djU7RyN+cDykWvbiTygP6A=="
 ---
 

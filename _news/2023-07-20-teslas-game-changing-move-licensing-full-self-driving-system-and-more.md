@@ -29,227 +29,128 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla plans to license its Full Self-Driving system to other automakers"
-    excerpt: "Tesla set new internal records for EV production and deliveries in Q2 as Cybertruck production (sorta?) comes online.."
-    publishedDateTime: 2023-07-21T09:34:00Z
-    webUrl: "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
+  - title: "Looking Back: Reinventing Marketing Mix Modeling With Machine Learning"
+    excerpt: "In today’s marketing world, we’re seeing the renaissance of a practical solution that was a notable innovation in its time. That solution is marketing mix modeling or MMM. MMM is a powerful tool for understanding marketing effectiveness and planning marketing strategies."
+    publishedDateTime: 2023-07-21T09:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/vXCVbfJvezW.j8ozjbdb7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2018-10/4e8819d0-d7cd-11e8-bfea-1933ac05be15.cf.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6320a0f925aeecbf093c4c77/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0"
-    excerpt: "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node"
-    publishedDateTime: 2023-07-18T13:54:00Z
-    webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
+  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
+    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "The Market Is Rebounding, and These 3 AI Stocks Are Leading the Way. Are They Still Buys?"
+    excerpt: "Artificial intelligence (AI) has captivated the market following the launch of ChatGPT late last year, and investors are betting on an AI-driven boom, as the new technology could disrupt everything from internet search to cloud computing to even automobiles, by way of self-driving cars."
+    publishedDateTime: 2023-07-21T10:07:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/the-market-is-rebounding-and-these-3-ai-stocks-are/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 62
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-D1-Dojo-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://g.foolcdn.com/editorial/images/740360/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Elon Musk Positive About Tesla's Growth In Self Driving, Humanoid Robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
-    publishedDateTime: 2023-07-20T06:03:00Z
-    webUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598"
-    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-positive-about-teslas-growth-in-self-driving-humanoid-robots-4224598/amp/1"
+  - title: "China AI Chip Firm Targeting Nvidia Seeks Hong Kong IPO in 2023"
+    excerpt: "Chinese chip startup Shanghai Biren Intelligent Technology Co. is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the matter, aiming to capitalize on a wave of local clients turning to its AI chips as an alternative to banned Nvidia Corp."
+    publishedDateTime: 2023-07-18T06:44:00Z
+    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 73
-    images:
-      - url: "https://c.ndtvimg.com/2023-07/v06clarg_elon-muskteslaai_625x300_20_July_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Opinion: As investors worry about lower Tesla margins, Musk says Full Self-Driving is key to future profits"
-    excerpt: "“Autonomy will make all of these numbers look silly.” And of course, that bigger picture, in Musk’s crystal ball, is Tesla’s TSLA, -0.71% Full-Self Driving technology, which he envisions will turn its cars into robotaxis in the not-too-distant futur"
-    publishedDateTime: 2023-07-20T02:11:00Z
-    webUrl: "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://images.mktw.net/im-804723/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
-    excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
-    publishedDateTime: 2023-07-20T23:27:00Z
-    webUrl: "https://www.theregister.com/2023/07/20/tesla_to_license_fsd_software/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2023/07/12/musk_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Elon Musk confirms Tesla is in ‘early’ talk to license self-driving tech to ‘major’ automaker"
-    excerpt: "Elon Musk confirmed that Tesla is currently in ‘early’ discussion to license its self-driving technology with a ‘major’ automaker. At the end of his opening remarks for Tesla’s Q2 2022 earnings call following the release of the automaker ..."
-    publishedDateTime: 2023-07-19T23:27:00Z
-    webUrl: "https://electrek.co/2023/07/19/elon-musk-tesla-early-talk-license-self-driving-tech-major-automaker/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 58
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla investors balk at margin loss as Elon Musk touts self-driving future"
-    excerpt: "Elon Musk, who has waged a price war against EV rivals since last year, signaled price cuts were here to stay even as Tesla's quarterly automotive gross margins slid."
-    publishedDateTime: 2023-07-21T03:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/tesla-investors-balk-at-margin-loss-as-elon-musk-touts-self-driving-future-10999551.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-investors-balk-at-margin-loss-as-elon-musk-touts-self-driving-future-10999551.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-investors-balk-at-margin-loss-as-elon-musk-touts-self-driving-future-10999551.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Tesla’s Elon Musk optimistic on progress for self-driving, robots"
-    excerpt: "SAN FRANCISCO (Reuters) – Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he’s been optimistic before."
-    publishedDateTime: 2023-07-21T05:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/21/teslas-elon-musk-optimistic/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 56
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6K04S-BASEIMAGE.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Samsung said to make Tesla's next-gen self-driving chips"
-    excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
-    publishedDateTime: 2023-07-18T11:22:00Z
-    webUrl: "https://seekingalpha.com/news/3988297-samsung-said-to-make-teslas-next-gen-self-driving-chips"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
     quality: 54
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418906269/image_1418906269.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
-    excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
-    publishedDateTime: 2023-07-20T02:33:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33295767/elon-musk-drops-clues-about-teslas-potential-partnership-with-major-automaker-to-license-self-drivin"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33295767"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33295767"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
-    excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
-    publishedDateTime: 2023-07-20T13:53:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/tesla-q2-earnings-net-income-surge-margins-slip"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
+      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
-    excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
-    publishedDateTime: 2023-07-19T07:33:00Z
-    webUrl: "https://www.econotimes.com/Samsung-to-Supply-Tesla-with-Full-Self-Driving-FSD-chips-1659663"
+  - title: "Predicting kidney abnormalities in utero with deep learning"
+    excerpt: "The study findings advance DL-based CAKUT recognition through ultrasound imaging by using, for the first time on such a large scale, an algorithm trained from the beginning. The model also exploits the potential of XAI techniques to improve the interpretation of the model’s predictions."
+    publishedDateTime: 2023-07-17T08:44:00Z
+    webUrl: "https://www.news-medical.net/news/20230717/Predicting-kidney-abnormalities-in-utero-with-deep-learning.aspx"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 33
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
     images:
-      - url: "https://f1.econotimes.com/2023/07/mv7n3g4h3x_th_1024x0.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
-    excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."
-    publishedDateTime: 2023-07-20T00:30:00Z
-    webUrl: "https://bgr.com/tech/licensing-its-self-driving-technology-to-other-automakers-could-be-teslas-next-big-move/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/12/Tesla-Model-S.jpg?quality=82&strip=all"
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_753742_16894367723747140.jpg"
         width: 2000
-        height: 1333
+        height: 1233
         isCached: true
-  - title: "Musk open to price cuts as Tesla bets on self-driving future"
-    excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
-    publishedDateTime: 2023-07-20T12:57:00Z
-    webUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
+  - title: "New geometric deep learning model for detecting stroke lesions"
+    excerpt: "Currently, there are several machine learning models for identifying stroke lesions in computed tomography-perfusion (CT-P) images. But they do not perform well enough for clinical applications. Addressing this issue,"
+    publishedDateTime: 2023-07-18T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/995986"
     type: article
     provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 19
-  - title: "Elon Musk ready to deepen EV price war as Tesla bets on self-driving future"
-    excerpt: "Getting more cars on the road would help Tesla maintain its dominant US market share in \"turbulent times\" and give it access to precious usage data needed to train the artificial intelligence models behind its self-driving technology."
-    publishedDateTime: 2023-07-20T12:56:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/musk-ready-to-deepen-ev-price-war-as-tesla-bets-on-self-driving-future/articleshow/101990488.cms"
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a09cd483-f059-4c4e-969c-c9079e29ab9a/Rendition/low-res/Content/Public"
+        width: 700
+        height: 342
+        isCached: true
+  - title: "SAP's marketing team is running multiple generative AI experiments. Its top marketer tells Insider what she's learned so far."
+    excerpt: "SAP is using generative AI for marketing, with 8 active experiments. Its chief marketing and solutions officer reveals what she's learned so far."
+    publishedDateTime: 2023-07-17T18:02:00Z
+    webUrl: "https://www.businessinsider.com/sap-cmo-generative-ai-marketing-experiments-2023-7"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
-  - title: "Tesla in 'early discussions with a major OEM' to license full self-driving software"
-    excerpt: "Electric vehicle giant, Tesla (NASDAQ: TSLA) held their 2Q earnings call on Wednesday where CEO Elon Musk spoke about the direction of the company, and confirmed that the electric automaker is in early discussions to license its Full Self-Driving software to a major automaker."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/tesla-in-early-discussions-with-a-major-oem-to-license-full-selfdriving-software-432SI-3130253"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "The Washington Post Is Experimenting With Generative AI, But Setting Clear Boundaries"
+    excerpt: "The Washington Post is experimenting with a variety of large language models–but setting boundaries and guidelines to keep them in check."
+    publishedDateTime: 2023-07-18T05:00:00Z
+    webUrl: "https://www.adexchanger.com/publishers/the-washington-post-is-experimenting-with-generative-ai-but-setting-clear-boundaries/"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 13
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 32
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2023/07/AI-block-human-hand-picking-it-up-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
+    excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
+    publishedDateTime: 2023-07-18T12:08:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/wallaroo-ai-and-ampere-computing-to-bring-cost-effective-ml-inferencing-to-the-cloud"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 29
+  - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
+    excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
+    publishedDateTime: 2023-07-19T09:20:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/19/9850502.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "nWSvAILsfMw6ha/DRM7gDdBJLO9zMsS5YUn1dWFCNHxtQJ00PjCNiKApxZR6WHLIEegUEgNb9JEujC+HjT6XizXKYGy3xfmOpY6Ac3g/1eKYCVlMZOtUS3zNvvfeIKT1iIR1Hn5CEi7Kz4fMFbvZfS6UBTT1OdN6EFkGue59fA682nKBpgVTDdWSh4N6LIZv7+gPCxQLT1bBT4MiWrKRM3FpPTtNi/j08bXijCvIc1u1g6DS/6Z6wUQ1WVs/jYXSRAk3D5v31SodYDsqDFtrhG1HaiToPytc/IAQ+eUHEpQ/QeUanymrErD6e79Ybp9R1zYJCKnC5/Hm7okaqFsfx0N/B6kIckXXpDkXJeYTkbOcmTj9IU118oCE7MLBGrbSwQzgxB59DCpstq5XepWc1u2AF5HTyUQEhuodSZzARG9vHsb1yPqaECbzHtuetI1AbKclmTvbKP29wNIxb2u55+yGvvReXMOEnrRY7rjAJ+Auqhg1ns9HhX6T13qHX+sycbMnuiv3mM1bJ7+iEqbMig==;vM4nE5tiysyusJ9Gz4UcHw=="
 ---

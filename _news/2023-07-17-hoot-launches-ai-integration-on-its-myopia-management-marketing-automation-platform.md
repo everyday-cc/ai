@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
-    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
     excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
     publishedDateTime: 2023-07-19T18:57:00Z

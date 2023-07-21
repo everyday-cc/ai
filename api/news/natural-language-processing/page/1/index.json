@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-21-smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize.md",
+      "title": "Smart Supply Chains: Traceability Chatbots Are Closer Than Brands Realize",
+      "excerpt": "Disparate data sources remain a key challenge for traceability. Digitized or not, supply chain data rests in multiple locations, from brands and multiple levels of suppliers to trade and compliance data. These data sources are normally unstructured, and there is currently no easy way to automatically link them into a cohesive picture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b935717aa7665b5bbd34f2/0x0.jpg?format=jpg&crop=1050,591,x0,y107,safe&width=1200",
+          "width": 1050,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/",
+      "publishedDateTime": "2023-07-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-three-career-choices-that-will-not-be-impacted-by-ai.md",
       "title": "Three Career Choices That Will Not Be Impacted By AI",
       "excerpt": "Professions that require complex decision-making, creativity and empathy are difficult to replace by machines.",
@@ -1381,49 +1433,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-natural-language-processing-11-real-life-examples-of-nlp-in-action.md",
-      "title": "Natural Language Processing: 11 Real-Life Examples of NLP in Action",
-      "excerpt": "Natural Language Processing (NLP) technologies are critical for enterprises that handle a lot of unstructured text. Sentiment analysis, chatbots, text extraction, text summarization, and speech ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/education/upskill/natural-language-processing-11-real-life-examples-of-nlp-in-action/articleshow/101521214.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/education/upskill/natural-language-processing-11-real-life-examples-of-nlp-in-action/articleshow/101521214.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-101521306/101521306.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/education/upskill/natural-language-processing-11-real-life-examples-of-nlp-in-action/amp_articleshow/101521214.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/upskill/natural-language-processing-11-real-life-examples-of-nlp-in-action/amp_articleshow/101521214.cms",
-      "publishedDateTime": "2023-07-06T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

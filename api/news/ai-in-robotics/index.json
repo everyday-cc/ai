@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-21-roboticsan-extension-of-the-ongoing-digital-transformation.md",
+      "title": "Robotics—An Extension Of The Ongoing Digital Transformation",
+      "excerpt": "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "publishedDateTime": "2023-07-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-industrial-robotics-startup-ati-motors-raises-1085-million-funding-from-true-ventures-others.md",
       "title": "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others",
       "excerpt": "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated.",
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1012,10 +1064,10 @@
     {
       "path": "_news/2023-07-12-save-211-with-the-amazon-prime-day-shark-ai-ultra-voice-control-robot-vacuum-deal.md",
       "title": "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal",
-      "excerpt": "Amazon Prime Day is here and there are plenty of great deals on home coveted home appliances like the Shark AI Ultra Voice Control Robot Vacuum. A good robot vacuum can improve your quality of ...",
+      "excerpt": "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ...",
       "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
-      "originalUrl": "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "webUrl": "https://www.desmoinesregister.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "originalUrl": "https://www.desmoinesregister.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1034,11 +1086,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T12:26:00-07:00",
+      "publishedDateTime": "2023-07-11T12:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1226,6 +1278,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
+      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
+      "excerpt": "More information: Tomohide Ibuki et al, Possibilities and ethical issues of entrusting nursing tasks to robots and artificial intelligence, Nursing Ethics (2023). DOI: 10.1177/09697330221149094",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "publishedDateTime": "2023-07-10T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-ai-robots-could-run-the-world-better-than-humans-robots-tell-un-summit.md",
       "title": "AI robots could run the world better than humans, robots tell UN summit",
       "excerpt": "But the social robots said they felt humans should proceed with caution when embracing the rapidly developing potential of artificial intelligence. And they admitted that they cannot – yet ...",
@@ -1307,93 +1403,6 @@
       "provider": {
         "name": "The Conversation",
         "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-ai-is-changing-the-way-scientists-make-drugs-biosensors-enzymes-and-more.md",
-      "title": "How AI is changing the way scientists make drugs, biosensors, enzymes and more",
-      "excerpt": "We’re inside the headquarters of Outpace Bio in Seattle. Senior scientist Bobby Langan shows a video of one of his favorite deep-learning tools, used to create experimental cancer therapeutics. A… Rea",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/how-ai-is-changing-the-way-scientists-make-drugs-biosensors-enzymes-and-more/",
-      "originalUrl": "https://www.geekwire.com/2023/how-ai-is-changing-the-way-scientists-make-drugs-biosensors-enzymes-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/07/RFDiffusion_banner_2.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-no-plan-to-steal-jobs-or-rebel-against-humans-says-robots.md",
-      "title": "No plan to steal jobs or rebel against humans, says robots",
-      "excerpt": "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground.",
-      "sourceUrl": null,
-      "webUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094",
-      "originalUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp",
-      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp",
-      "publishedDateTime": "2023-07-10T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha TV",
-        "domain": "odishatv.in",
         "images": null,
         "publishers": null,
         "authors": null

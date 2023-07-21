@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-b
 webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 800
         height: 522
         isCached: true
-  - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
-    excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
-    publishedDateTime: 2023-07-18T12:08:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/wallaroo-ai-and-ampere-computing-to-bring-cost-effective-ml-inferencing-to-the-cloud"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 29
   - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
     excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
     publishedDateTime: 2023-07-18T19:45:00Z

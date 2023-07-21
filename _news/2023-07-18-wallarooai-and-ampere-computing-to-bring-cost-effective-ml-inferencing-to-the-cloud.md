@@ -20,57 +20,133 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Cohere is teaming up with McKinsey to bring AI to enterprise clients"
-    excerpt: "Some businesses have already begun reaping the benefits of the collaboration, using AI for product development and speeding time-to-market."
-    publishedDateTime: 2023-07-18T16:07:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
+  - title: "Looking Back: Reinventing Marketing Mix Modeling With Machine Learning"
+    excerpt: "In today’s marketing world, we’re seeing the renaissance of a practical solution that was a notable innovation in its time. That solution is marketing mix modeling or MMM. MMM is a powerful tool for understanding marketing effectiveness and planning marketing strategies."
+    publishedDateTime: 2023-07-21T09:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/blog_cohere_inset_leaders_1000x718.webp?w=1200&strip=all"
-        width: 1000
-        height: 718
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6320a0f925aeecbf093c4c77/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost ML Inferencing to the Cloud"
-    excerpt: "Wallaroo.AI, a leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic"
-    publishedDateTime: 2023-07-18T15:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/wallaroo-ai-and-ampere-computing-collaborate-to-bring-energy-efficient-low-cost-ml-inferencing-to-the-cloud/"
+  - title: "Tesla’s Game-Changing Move: Licensing Full Self-Driving System and More"
+    excerpt: "In Q2, Tesla continued to dominate the US EV market, smashing its internal record with 479,700 vehicles manufactured and 466,140 delivered, marking an impressive 87 percent year-on-year growth. The Model Y made headlines by becoming the best-selling vehicle overall, surpassing traditional favorites like the Corolla."
+    publishedDateTime: 2023-07-20T04:40:00Z
+    webUrl: "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-03-14-180825.png"
+        width: 969
+        height: 631
         isCached: true
-  - title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
-    excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
-    publishedDateTime: 2023-07-18T15:01:00Z
-    webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
+    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "The Market Is Rebounding, and These 3 AI Stocks Are Leading the Way. Are They Still Buys?"
+    excerpt: "Artificial intelligence (AI) has captivated the market following the launch of ChatGPT late last year, and investors are betting on an AI-driven boom, as the new technology could disrupt everything from internet search to cloud computing to even automobiles, by way of self-driving cars."
+    publishedDateTime: 2023-07-21T10:07:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/the-market-is-rebounding-and-these-3-ai-stocks-are/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 62
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/59b9ca713905e11914629ed7d3b9e79f"
-        width: 800
-        height: 522
+      - url: "https://g.foolcdn.com/editorial/images/740360/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
-    excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
-    publishedDateTime: 2023-07-18T19:45:00Z
-    webUrl: "https://techbullion.com/10-ways-ai-can-cut-business-costs-during-challenging-times/"
+  - title: "China AI Chip Firm Targeting Nvidia Seeks Hong Kong IPO in 2023"
+    excerpt: "Chinese chip startup Shanghai Biren Intelligent Technology Co. is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the matter, aiming to capitalize on a wave of local clients turning to its AI chips as an alternative to banned Nvidia Corp."
+    publishedDateTime: 2023-07-18T06:44:00Z
+    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 54
+    images:
+      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Predicting kidney abnormalities in utero with deep learning"
+    excerpt: "The study findings advance DL-based CAKUT recognition through ultrasound imaging by using, for the first time on such a large scale, an algorithm trained from the beginning. The model also exploits the potential of XAI techniques to improve the interpretation of the model’s predictions."
+    publishedDateTime: 2023-07-17T08:44:00Z
+    webUrl: "https://www.news-medical.net/news/20230717/Predicting-kidney-abnormalities-in-utero-with-deep-learning.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_753742_16894367723747140.jpg"
+        width: 2000
+        height: 1233
+        isCached: true
+  - title: "New geometric deep learning model for detecting stroke lesions"
+    excerpt: "Currently, there are several machine learning models for identifying stroke lesions in computed tomography-perfusion (CT-P) images. But they do not perform well enough for clinical applications. Addressing this issue,"
+    publishedDateTime: 2023-07-18T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/995986"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a09cd483-f059-4c4e-969c-c9079e29ab9a/Rendition/low-res/Content/Public"
+        width: 700
+        height: 342
+        isCached: true
+  - title: "SAP's marketing team is running multiple generative AI experiments. Its top marketer tells Insider what she's learned so far."
+    excerpt: "SAP is using generative AI for marketing, with 8 active experiments. Its chief marketing and solutions officer reveals what she's learned so far."
+    publishedDateTime: 2023-07-17T18:02:00Z
+    webUrl: "https://www.businessinsider.com/sap-cmo-generative-ai-marketing-experiments-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "The Washington Post Is Experimenting With Generative AI, But Setting Clear Boundaries"
+    excerpt: "The Washington Post is experimenting with a variety of large language models–but setting boundaries and guidelines to keep them in check."
+    publishedDateTime: 2023-07-18T05:00:00Z
+    webUrl: "https://www.adexchanger.com/publishers/the-washington-post-is-experimenting-with-generative-ai-but-setting-clear-boundaries/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 32
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2023/07/AI-block-human-hand-picking-it-up-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
+    excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
+    publishedDateTime: 2023-07-19T09:20:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/19/9850502.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "+AZfLqTtyNRNYnEhlMivWJrmp93ijryuN2PQMiMNMYPDf1KX7FkO97/Ey6bpFV0QgNI+L/+hsEYBUWQWVw5BJwDsenoDBbmX6dWcH62i1XjlMtMUUW/U1na/38CgkG9tuRUC2SQ2sbHIqwwXbySUhfAvojgjDFBb7gBzE5wQTDqDvD5OpVHzjHMwKZZ0WYTpzS07dd4A1DiY2MXGwnQhldjtAz4dGtnW3GqzMM1xYgv6WpvVZzVAhYVRfLHRUEp1swy2YGToFl7Xv16ksm1J8LxTy/P3uie91UmysAY0gJ4cSvJMsEm/F+/uVdk1bqQbV4QtwwMT404y1WnACDPMwTMXX9rfIviPvhLe8TW1nj4=;zyc2eB+lCcP6xCqlYK5tFw=="
 ---

@@ -77,6 +77,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial intelligence: Google says it is developing new tools to help journalists"
+    excerpt: "Google says it is developing AI tools to help journalists to write headlines and in different writing styles, but some are concerned that in an industry struggling financially, AI could replace jobs."
+    publishedDateTime: 2023-07-21T11:22:00Z
+    webUrl: "https://www.euronews.com/next/2023/07/21/artificial-intelligence-google-says-it-is-developing-new-tools-to-help-journalists"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 31
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/76/85/78/1000x563_cmsv2_60d579b7-d64b-5fc3-a281-d003900af7c1-7768578.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "kdK/0JYFxbnrcqGLI7d+uJBH6lzxpQDMYirkVFzj8wUHoV6qSjteKLucIMOJj2AcplpcYCFlQJow9WUlRHo6oDk47Q56h5NX+9VtBcM6smS/zWfFVqdGhziVU+CquXPvjYBfPDw1WTZj2EQYhNim98qBkn4TkbHRTVVsq4TZt+Ml+HhEApAe9dK4GzbEyhk77MSBdDfvAESRQE7Mw5yk9Jn8oXLRq1dt9S0xBCw1xSp7b/jffl+TXRH3duOzsY4FJbTcBn1tegwixz9udcQMruMjAcj6psicehAe1sm8rzalotDYPpiGSxGxAPDaFoD8Btk+axTYD/1MSwbQJdipztBtOY/N9MTXiU3VyQLOUDuiEZngmqkUPJ6jAxMSyhuYhrGHol13ndJk0aE1svxuATb3qyoPJHDgsLJO0rEs4zcKfNaNkjvoHHd78dFYNO3aGfnTjkL09VKavnxFWAbVM0imROpwXNHbtzaDtiiDj2dlpc1WBAPM1eWagqNqclTIQrTGFXM00jnCWGAkapne6w==;XqAkd/i/2AOSdv9XHp3Iig=="
 ---

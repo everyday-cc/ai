@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-21-warcraft-fans-claim-win-over-ai-with-glorbo-prank.md",
-      "title": "Warcraft fans claim win over AI with Glorbo prank",
-      "excerpt": "World of Warcraft fans are claiming victory over AI after a gaming site published a false article based on their Reddit posts. Members of the WoW subreddit suspected their words were being extracted and used to create news stories by a bot.",
+      "path": "_news/2023-07-21-amds-best-bet-on-ai-might-not-be-what-you-think.md",
+      "title": "AMD's Best Bet on AI Might Not Be What You Think",
+      "excerpt": "But FPGAs are a big bet on AI, too, and still get little love from the investor community. The addition of Xilinx remade AMD's embedded segment into a high-growth powerhouse that raked in over $1.5 billion in sales last quarter.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/newsbeat-66266344",
-      "originalUrl": "https://www.bbc.com/news/newsbeat-66266344",
+      "webUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/11C53/production/_130478727_dragonflight_return_to_the_forbidden_reach_sarkareth_-1.png",
-          "width": 1024,
-          "height": 576,
+          "url": "https://g.foolcdn.com/editorial/images/740371/semiconductors-design-chips-ai.jpg",
+          "width": 5120,
+          "height": 2880,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/newsbeat-66266344.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/newsbeat-66266344.amp",
-      "publishedDateTime": "2023-07-21T02:42:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,218 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-roboticsan-extension-of-the-ongoing-digital-transformation.md",
+      "title": "Robotics—An Extension Of The Ongoing Digital Transformation",
+      "excerpt": "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "publishedDateTime": "2023-07-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-how-advancements-in-genai-can-make-self-driving-operations-a-reality.md",
+      "title": "How Advancements In GenAI Can Make Self-Driving Operations A Reality",
+      "excerpt": "This piece will outline how AIOps can better ensure websites, applications, databases and infrastructure—including the underlying networks—function better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9625753df287d02bd34f2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
+      "publishedDateTime": "2023-07-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize.md",
+      "title": "Smart Supply Chains: Traceability Chatbots Are Closer Than Brands Realize",
+      "excerpt": "Disparate data sources remain a key challenge for traceability. Digitized or not, supply chain data rests in multiple locations, from brands and multiple levels of suppliers to trade and compliance data. These data sources are normally unstructured, and there is currently no easy way to automatically link them into a cohesive picture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b935717aa7665b5bbd34f2/0x0.jpg?format=jpg&crop=1050,591,x0,y107,safe&width=1200",
+          "width": 1050,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/",
+      "publishedDateTime": "2023-07-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-looking-back-reinventing-marketing-mix-modeling-with-machine-learning.md",
+      "title": "Looking Back: Reinventing Marketing Mix Modeling With Machine Learning",
+      "excerpt": "In today’s marketing world, we’re seeing the renaissance of a practical solution that was a notable innovation in its time. That solution is marketing mix modeling or MMM. MMM is a powerful tool for understanding marketing effectiveness and planning marketing strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6320a0f925aeecbf093c4c77/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/",
+      "publishedDateTime": "2023-07-21T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -61,7 +272,7 @@
       "originalUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -148,21 +359,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-21-top-ai-companies-agree-to-work-together-toward-transparency-and-safety-white-house-says.md",
-      "title": "Top AI companies agree to work together toward transparency and safety, White House says",
-      "excerpt": "Seven companies, including Alphabet, Meta and OpenAI, have agreed to hire independent experts to probe their systems for vulnerabilities and share information with one another, governments and researchers.",
+      "path": "_news/2023-07-21-ai-alone-cant-save-the-chip-industry-from-a-downturn.md",
+      "title": "AI Alone Can’t Save the Chip Industry From a Downturn",
+      "excerpt": "PCs, smartphones and memory still account for most of chip production and remain in a slump.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/top-ai-companies-agree-work-together-transparency-safety-white-house-s-rcna95406",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/top-ai-companies-agree-work-together-transparency-safety-white-house-s-rcna95406",
+      "webUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
+      "originalUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221107-meta-office-sign-california-facebook-ew-1127a-9c2f7a.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://images.wsj.net/im-821047/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -170,14 +381,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna95406",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95406",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-21T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -186,6 +406,59 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-leading-ai-companies-commit-to-outside-testing-of-ai-systems-and-other-safety-commitments.md",
+      "title": "Leading AI companies commit to outside testing of AI systems and other safety commitments",
+      "excerpt": "Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230704171206-02-the-white-house-0704.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html",
+      "publishedDateTime": "2023-07-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -814,7 +1087,7 @@
       "originalUrl": "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -939,247 +1212,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-healthcare-ai-caution-addressing-ethnic-health-inequalities.md",
-      "title": "Healthcare AI Caution: Addressing ethnic health inequalities",
-      "excerpt": "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists",
-      "sourceUrl": null,
-      "webUrl": "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/",
-      "originalUrl": "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openaccessgovernment",
-        "domain": "openaccessgovernment.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-generative-ai-and-solving-the-blank-page-problem.md",
-      "title": "Generative AI And Solving The 'Blank Page' Problem",
-      "excerpt": "As we white-knuckle the early days of generative AI, here’s my viewpoint on where the machine and human value begins and ends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b304e0b8ffa27f33c85e4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/",
-      "publishedDateTime": "2023-07-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-risks-associated-with-off-the-shelf-ai-toolsand-how-to-mitigate-them.md",
-      "title": "Risks Associated With Off-The-Shelf AI Tools—And How To Mitigate Them",
-      "excerpt": "In the wrong hands, they could turn into highly potent sources of malicious code—code designed to harm the software or enable security breaches. Employees using generative AI tools could unwittingly make their companies vulnerable to bad actors looking to generate malicious code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/612676c88afd1167f5554556/0x0.jpg?format=jpg&crop=2569,1446,x0,y124,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/",
-      "publishedDateTime": "2023-07-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-a-bull-market-is-coming-2-artificial-intelligence-ai-growth-stocks-to-buy-now-and-hold-forever.md",
-      "title": "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever",
-      "excerpt": "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740240/bull-market-6.jpg",
-          "width": 2101,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names.md",
-      "title": "Corporate earnings season heating up, TSMC outlook adding concerns to AI and chip names",
-      "excerpt": "- Industrials: Saab [SAABB.SE] +3.5% (Q2 results), Electrolux [ELUXB.SE] -15.0% (earnings; starts preparations for a potential divestment of Zanussi and other non-core brands during the coming years which could be valued at SEK10B in total), Volvo Cars [VOLCARB.SE] -1.0% (Q2 results), Alfa Laval [ALFA.SE] +6.0% (Q2 results).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "originalUrl": "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Markets/Equities/DowJones/DowJones_frontbuilding_Small.jpg",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944",
-      "publishedDateTime": "2023-07-20T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

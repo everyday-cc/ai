@@ -69,6 +69,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Artificial intelligence: Google says it is developing new tools to help journalists"
+    excerpt: "Google says it is developing AI tools to help journalists to write headlines and in different writing styles, but some are concerned that in an industry struggling financially, AI could replace jobs."
+    publishedDateTime: 2023-07-21T11:22:00Z
+    webUrl: "https://www.euronews.com/next/2023/07/21/artificial-intelligence-google-says-it-is-developing-new-tools-to-help-journalists"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 31
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/76/85/78/1000x563_cmsv2_60d579b7-d64b-5fc3-a281-d003900af7c1-7768578.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Google developing AI tools to help journalists create headlines, stories"
     excerpt: "Google says it is in the early stages of developing tools that use artificial intelligence to help journalists write stories and headlines."
     publishedDateTime: 2023-07-20T14:12:00Z
@@ -79,6 +93,6 @@ related:
       domain: cbsnews.com
     quality: 18
 
-secured: "wa7EF5UShRVeySjFZDYiuB2/slegAwJf9e9tiI9GU0YSDf07xtznFbUXxT2pOIbTcMQK76ATpZvx/u/5K9MxoAaKDIytBZzcfx75wOjyw1clLKCFZZaqGSsWK1DP5IHOBN4V1CxUI06BB930BAN5Hy5qRffJgCb71IU6otNpAKBNKs8nftETcY5mr0jbLPz4jLPhVxLYzBX56ErC72Qbnts/NQZAQmLhHvVhPYv7Ui9wMoK3sQnE1xtXqT+g2r5LNyaW271zBG+4LlXAiHsDXUg+VMiAKdZ+iWnDU2akBKAhpnrNfcemdvBXFfTDOk/1pc0ugSh0+oPFDIlViX9ENsSPOOX0NG6tytyDYW82SZM=;M4pM9TnPJhyoeLZE59qHRQ=="
+secured: "dGhwVn/cLfRW0ye2DcklB2kSoQMcPjZ4l++OHbZ+gjZh+FxMj5qE8cIN2jyDRIk2ctuxugl24jbN9im5MZZyib2lzPy9M0PoUDB9pqeVDANG5VUDKzALFOtipHACIC4urT0ocvRDKrx4kPFCKC/bUGYwCOAmy9RRJ3lDr62UCECz4UW8ohDOyCLn4nvYNpvWH91kObRX1eFt5OmQszYJaqFfmIzBfsb4Wd6Q5jlueNAs8wgl5x36x7djYwOZ8pcRDGX8A2Xa46rP7PlntZUz97Z7NMz9U3TbD6uSZxcXRl8UZnh/D6ODovOT9aUZBnGUIJlnSnxtugAiXBsoZmtx1e2cuLkqGxGL7q29WRGCXM37Aa+xy7Jx2cgCLeLkQxwkW+qfen8oSbLC3MT4LBA2chg3eWBKgBZEU0tTesb8mLKP3YUgjTX53l2ZCEw51kQdlIVzygn2wRC3IOQooK8Htxz/9cW0xzdJDJZXyb2pojtaQaBcy9eVoYcOsUx+KBsidMCOA/MoxqUC6bRliR+Rqg==;wyqoOs3iTREWgy9+JdruAg=="
 ---
 

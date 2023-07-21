@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Leading AI companies commit to outside testing of AI systems and other safety commitments"
-excerpt: "(CNN) — Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content, the White House announced."
+excerpt: "Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content,"
 publishedDateTime: 2023-07-21T09:00:00Z
-originalUrl: "https://keyt.com/news/2023/07/21/leading-ai-companies-commit-to-outside-testing-of-ai-systems-and-other-safety-commitments/"
-webUrl: "https://keyt.com/news/2023/07/21/leading-ai-companies-commit-to-outside-testing-of-ai-systems-and-other-safety-commitments/"
+originalUrl: "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html"
+webUrl: "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
 type: article
-quality: 30
-heat: -1
-published: false
+quality: 80
+heat: 170
+published: true
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2023/07/0720-WEB-375x225.jpg"
-    width: 375
-    height: 225
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/230704171206-02-the-white-house-0704.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +46,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221107-meta-office-sign-california-facebook-ew-1127a-9c2f7a.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "How 3 big tech companies are capitalizing on AI"
+    excerpt: "Club names Salesforce (CRM), Microsoft (MSFT) and Apple (AAPL) are showing their pricing power when it comes to artificial intelligence, as Big Tech expands its efforts to turn a profit with the rapidly-evolving technology."
+    publishedDateTime: 2023-07-19T18:02:00Z
+    webUrl: "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1689796952&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
     excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
@@ -71,6 +91,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Big tech names commit to artificial intelligence safeguards"
+    excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."
+    publishedDateTime: 2023-07-21T10:10:00Z
+    webUrl: "https://wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/07/arseny-togulev-MECKPoKJYjM-unsplash-1-e1689934052490.jpg"
+        width: 7812
+        height: 4393
+        isCached: true
   - title: "The White House and big tech companies release commitments on managing AI"
     excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
     publishedDateTime: 2023-07-21T09:09:00Z
@@ -85,20 +121,29 @@ related:
         width: 948
         height: 711
         isCached: true
-  - title: "Tech giants including Amazon and Meta agree to Biden’s artificial intelligence safeguards"
-    excerpt: "Amazon, Google, Meta, Microsoft and other companies leading the development of artificial intelligence (AI) technology have agreed to meet a set of safeguards brokered by the Biden administration."
-    publishedDateTime: 2023-07-21T09:52:00Z
-    webUrl: "https://www.businesspost.ie/article/tech-giants-including-amazon-and-meta-agree-to-bidens-artificial-intelligence-safeguards/"
+  - title: "Biden touting Big Tech commitment to make AI tools safe amid fears of tech-fueled apocalypse"
+    excerpt: "President Biden is trumpeting new promises from Big Tech companies to make artificial intelligence tools safe amid growing fears that the emerging tech may wreak havoc."
+    publishedDateTime: 2023-07-21T10:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jul/21/joe-biden-touting-big-tech-commitment-make-ai-tool/"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 28
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 26
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=31a0898f-c7d0-54bd-9722-88d2eb1b52dc&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=5000&height=2813&x=1.0E-5&y=0.07865"
-        width: 3000
-        height: 1687
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/13/OpenAI_AP_88650_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+        width: 1200
+        height: 700
         isCached: true
+  - title: "US Communications Commission Hopeful About Artificial Intelligence"
+    excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
+    publishedDateTime: 2023-07-18T19:47:00Z
+    webUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 17
   - title: "Tech companies to make AI safety and transparency pledges to White House"
     excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
     publishedDateTime: 2023-07-21T09:00:00Z
@@ -109,6 +154,6 @@ related:
       domain: ft.com
     quality: 16
 
-secured: "Gv9E1Vp3ZQ98bGd31hn0PGuRYk6PgBTrXPvv2UvsxqMuAqtoS1gV345VU3aGK4B+qoc/NGVJqd+Ffbs0bB6T91dh5pxcQl+eKZph7FstEe+yRX2mRD6M9GflRiQzcOOQANzhOcSyzM+KFADPeoJNyf5NDDkjvvcM4GwMrTS1R0pe9vHrdsqwzP9SPXmieSkwgyD+GhXj56rqpnmOeYj0LWPbZSnXlYZ0/o/zHKoXHXVNkARSV3eZqW63iW9jI5nmu0ejkX7Ilp64qWwl6Q5aSWqPtDFHDtMEdxbfFLg1S1WAjhVK2WO8ZVXvhMFXTBl/UwdVWloim8fqtKTDxsF7XTqfdiJRklMMshzryaivIzQ=;pP1c+MHbYpUPUEVT996EDA=="
+secured: "vOhhu+ymLz/Ph8825Wm3jPRiV5FYtQNsic0VBU0oEz3+qqELznDbxDImnXb5OSsBT4OeEWIV0DPSZuvWbhPlxs+cs19BOXlriTr2TnqBn8bbC395HJjBkPzasiYwMIRNbyBH9HFEJs2Lp7cbwMGgYymtI6UxlWYweg/b5hbzGxM6g0kIJ0eTwj1u/MlI4ycSqsZ5N03vAoelVSaEpZEAAMO7Kv+EjbxWwUDPxl3Gx0qNA6MVqbWjvNTgOLVbyKlh0a5LZrbURv5KtE2FuyqPNZWmUGVq3T3EzAB1z6YHDzHeyAnsj5zFXQWXlQFJ5pAKzaX39NjO4XCahxVxooESjfdcy7b6Mig+psQGTl2TTdg=;fm6QFXzNbZQaV1vqTPLL8A=="
 ---
 

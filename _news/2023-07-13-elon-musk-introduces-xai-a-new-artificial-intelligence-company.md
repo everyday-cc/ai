@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8785c0c6-4a74-4cd4-b103-fa0a946381cf/82df48b7-1fbc-4426-a89c-205a97e7dfae/1280x720/match/image.jpg"

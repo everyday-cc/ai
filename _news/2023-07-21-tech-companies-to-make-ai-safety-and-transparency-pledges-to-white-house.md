@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Leading AI companies commit to outside testing of AI systems and other safety commitments"
+    excerpt: "Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content,"
+    publishedDateTime: 2023-07-21T09:00:00Z
+    webUrl: "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 80
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230704171206-02-the-white-house-0704.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Top AI companies agree to work together toward transparency and safety, White House says"
     excerpt: "Seven companies, including Alphabet, Meta and OpenAI, have agreed to hire independent experts to probe their systems for vulnerabilities and share information with one another, governments and researchers."
     publishedDateTime: 2023-07-21T09:00:00Z
@@ -33,6 +49,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221107-meta-office-sign-california-facebook-ew-1127a-9c2f7a.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "How 3 big tech companies are capitalizing on AI"
+    excerpt: "Club names Salesforce (CRM), Microsoft (MSFT) and Apple (AAPL) are showing their pricing power when it comes to artificial intelligence, as Big Tech expands its efforts to turn a profit with the rapidly-evolving technology."
+    publishedDateTime: 2023-07-19T18:02:00Z
+    webUrl: "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 67
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1689796952&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
     excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
@@ -64,6 +94,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Big tech names commit to artificial intelligence safeguards"
+    excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."
+    publishedDateTime: 2023-07-21T10:10:00Z
+    webUrl: "https://wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/07/arseny-togulev-MECKPoKJYjM-unsplash-1-e1689934052490.jpg"
+        width: 7812
+        height: 4393
+        isCached: true
   - title: "The White House and big tech companies release commitments on managing AI"
     excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
     publishedDateTime: 2023-07-21T09:09:00Z
@@ -78,34 +124,29 @@ related:
         width: 948
         height: 711
         isCached: true
-  - title: "Leading AI companies commit to outside testing of AI systems and other safety commitments"
-    excerpt: "(CNN) — Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content, the White House announced."
-    publishedDateTime: 2023-07-21T09:00:00Z
-    webUrl: "https://keyt.com/news/2023/07/21/leading-ai-companies-commit-to-outside-testing-of-ai-systems-and-other-safety-commitments/"
+  - title: "Biden touting Big Tech commitment to make AI tools safe amid fears of tech-fueled apocalypse"
+    excerpt: "President Biden is trumpeting new promises from Big Tech companies to make artificial intelligence tools safe amid growing fears that the emerging tech may wreak havoc."
+    publishedDateTime: 2023-07-21T10:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jul/21/joe-biden-touting-big-tech-commitment-make-ai-tool/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 30
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 26
     images:
-      - url: "https://keyt.b-cdn.net/2023/07/0720-WEB-375x225.jpg"
-        width: 375
-        height: 225
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/13/OpenAI_AP_88650_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Tech giants including Amazon and Meta agree to Biden’s artificial intelligence safeguards"
-    excerpt: "Amazon, Google, Meta, Microsoft and other companies leading the development of artificial intelligence (AI) technology have agreed to meet a set of safeguards brokered by the Biden administration."
-    publishedDateTime: 2023-07-21T09:52:00Z
-    webUrl: "https://www.businesspost.ie/article/tech-giants-including-amazon-and-meta-agree-to-bidens-artificial-intelligence-safeguards/"
+  - title: "US Communications Commission Hopeful About Artificial Intelligence"
+    excerpt: "Does generative artificial intelligence pose a risk to humanity that could lead to our extinction? That was among the questions put to experts by the head of the U.S. Federal Communications Commission at a workshop hosted with the National Science Foundation."
+    publishedDateTime: 2023-07-18T19:47:00Z
+    webUrl: "https://www.voanews.com/a/us-communications-commission-hopeful-about-artificial-intelligence-/7186092.html"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 28
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=31a0898f-c7d0-54bd-9722-88d2eb1b52dc&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=5000&height=2813&x=1.0E-5&y=0.07865"
-        width: 3000
-        height: 1687
-        isCached: true
+      name: Voice of America
+      domain: voanews.com
+    quality: 17
 
 secured: "6cQtcQRu4/DiUTl1/7TxdiEj3pOVlv5zI0j0A2tuxww4SXXk19w3CkX/5YYwxwbcvC1luGtxwACpODMUIefsl4c9Uo5N91cE2GZiqkHxTsMysb+yHMPrOPLSQRU8VPQXnOUsNcyhRHgqhrjrn2ritTvap0TzO78Mflg20j14pwPKkRDFd9j87e2P+eDtg7IvBRFa3JzipgelmzwgUcbUtHi7gT8Hrddii0NqVTcgpLLXz7+BwIdSDsim16AWT2rdwZX2JieCGD4aM90eAUQlgM2i6cY80B7KeNyRBP/HiGubjWhYy35xYB2qDUT+eRuUopo3dDTbbjNJw6Spi6BsDzMmihoJu4VRj5gjKuLbFWDowkOHfnyi2MthAHSglcat8WHDdpPzsCZGbP90+FsWVZUN+MCKbnH9iMHLfnYtcu/NVAAM/5mDPzkZGDYWTcrVmP7m3Hn85RgI1jp1rJhLUskWX5Nb29Ydmo142BEP0H6KqH4Z7yxSDGn8TVLqKFcEhT4Euw+Du82dJzovOHLyWA==;dNZmOP1cCvbC0PDgi9Nn6Q=="
 ---

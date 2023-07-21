@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/"
 webUrl: "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Intel Started Investing Millions in Robotics Start-ups"
+    excerpt: "With this investment, Intel can have huge revenue if Figure is correct about the labor market"
+    publishedDateTime: 2023-07-21T11:24:00Z
+    webUrl: "https://circuitdigest.com/news/why-intel-started-investing-millions-in-robotics-start-ups"
+    type: article
+    provider:
+      name: circuitdigest.com
+      domain: circuitdigest.com
+    quality: 54
+    images:
+      - url: "https://circuitdigest.com/sites/default/files/projectimage_news/Capture%20%2812%29.jpg"
+        width: 765
+        height: 500
+        isCached: true
   - title: "Intel backs Figure’s Humanoid robot to the tune of $9 million"
     excerpt: "Figure tells TechCrunch that it’s adding another $9 million to its war chest courtesy of Intel Capital to help build a humanoid robot."
     publishedDateTime: 2023-07-17T13:07:00Z

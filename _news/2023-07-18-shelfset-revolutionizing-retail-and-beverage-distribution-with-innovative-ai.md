@@ -188,6 +188,20 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Former Google Exec Makes Bleak Prediction About AI-Powered Robots Revolutionizing Bedroom Activity"
     excerpt: "Present day is a Golden Age for futurologists. With the rapid rise of Artificial Intelligence coming like a tidal wave to overhaul how we interface with"
     publishedDateTime: 2023-07-18T19:50:00Z
