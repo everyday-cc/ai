@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-21-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
-      "excerpt": "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before.",
+      "path": "_news/2023-07-21-tesla-plans-to-license-its-full-self-driving-system-to-other-automakers.md",
+      "title": "Tesla plans to license its Full Self-Driving system to other automakers",
+      "excerpt": "Tesla set new internal records for EV production and deliveries in Q2 as Cybertruck production (sorta?) comes online..",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040",
-      "originalUrl": "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040",
+      "webUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
+      "originalUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 249,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/dcjvuxwVOGP-aXVwb2W5yVb2L_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3GNPK2C6OVLPVJISKSUPGB5VOY.jpg",
+          "url": "https://s.yimg.com/uu/api/res/1.2/vXCVbfJvezW.j8ozjbdb7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2018-10/4e8819d0-d7cd-11e8-bfea-1933ac05be15.cf.jpg",
           "width": 1200,
-          "height": 628,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,69 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T21:30:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
+      "publishedDateTime": "2023-07-21T02:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-teslas-game-changing-move-licensing-full-self-driving-system-and-more.md",
-      "title": "Tesla’s Game-Changing Move: Licensing Full Self-Driving System and More",
-      "excerpt": "In Q2, Tesla continued to dominate the US EV market, smashing its internal record with 479,700 vehicles manufactured and 466,140 delivered, marking an impressive 87 percent year-on-year growth. The Model Y made headlines by becoming the best-selling vehicle overall, surpassing traditional favorites like the Corolla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/",
-      "originalUrl": "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-03-14-180825.png",
-          "width": 969,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -107,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-20-opinion-as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits.md",
-      "title": "Opinion: As investors worry about lower Tesla margins, Musk says Full Self-Driving is key to future profits",
-      "excerpt": "“Autonomy will make all of these numbers look silly.” And of course, that bigger picture, in Musk’s crystal ball, is Tesla’s TSLA, -0.71% Full-Self Driving technology, which he envisions will turn its cars into robotaxis in the not-too-distant futur",
+      "path": "_news/2023-07-20-elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots.md",
+      "title": "Elon Musk Sets New Target For AI, Products To Include Self-driving Software, Robots",
+      "excerpt": "Rising interest rates and competition from new EV makers have forced Tesla to cut vehicle prices to gain market share, hurting margins.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
-      "originalUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
+      "webUrl": "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://images.mktw.net/im-804723/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/fus1nieccu7bwoun_1689844201.jpeg",
+          "width": 768,
+          "height": 439,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,23 +76,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
-      "publishedDateTime": "2023-07-19T19:11:00-07:00",
+      "ampWebUrl": "https://www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
+      "publishedDateTime": "2023-07-20T02:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -167,7 +105,7 @@
       "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -847,10 +785,10 @@
     {
       "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
       "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -869,11 +807,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:20:00-07:00",
+      "publishedDateTime": "2023-07-13T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1376,6 +1314,49 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-san-francisco-residents-fight-cruise-and-waymo-robotaxi-with-traffic-cones.md",
+      "title": "San Francisco Residents Fight Cruise and Waymo Robotaxi With Traffic Cones",
+      "excerpt": "Cruise & Waymo promise they’ll reduce traffic & collisions ... It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/07/san-francisco-residents-fight-cruise-and-waymo-robotaxi-with-traffic-cones.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/07/san-francisco-residents-fight-cruise-and-waymo-robotaxi-with-traffic-cones.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/Screen-Shot-2023-07-09-at-3.59.44-PM.jpg",
+          "width": 1864,
+          "height": 912,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
         "images": null,
         "publishers": null,
         "authors": null

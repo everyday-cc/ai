@@ -2,6 +2,254 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-20-asset-and-wealth-managementembracing-ai-and-consolidation-to-win.md",
+      "title": "Asset And Wealth Management—Embracing AI And Consolidation To Win",
+      "excerpt": "AI and consolidations are reshaping the asset and wealth management industries as firms seek cost efficiencies and strive for market competitiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b889794b23d6863cde7b97/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/",
+      "publishedDateTime": "2023-07-20T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots.md",
+      "title": "Elon Musk Sets New Target For AI, Products To Include Self-driving Software, Robots",
+      "excerpt": "Rising interest rates and competition from new EV makers have forced Tesla to cut vehicle prices to gain market share, hurting margins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/fus1nieccu7bwoun_1689844201.jpeg",
+          "width": 768,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html",
+      "publishedDateTime": "2023-07-20T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-taiwans-export-orders-slump-for-10th-straight-month-in-june-taipei-pins-hopes-on-ai-demand.md",
+      "title": "Taiwan’s export orders slump for 10th straight month in June, Taipei pins hopes on AI demand",
+      "excerpt": "Taiwan’s export orders fell by 24.9 per cent from a year ago in June, but Taipei expects improvements in the second half of the year due to the growing demand for its artificial intelligence (AI) supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
+      "originalUrl": "https://www.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/725e7390-60ec-4ffa-944b-870aa0763028_b12c76bf.jpg?itok=CjjUwRdf&v=1689843987",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand",
+      "publishedDateTime": "2023-07-20T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training.md",
+      "title": "Singapore releases draft guidelines on personal data use in AI training",
+      "excerpt": "Guidelines aim to clarify how Singapore's laws will apply when companies use personal data to train AI models and systems, including under research and business improvement exceptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/44b16ceb0b9924e9d64998dcc7dde4b0f2e331f4/2023/07/19/4f4389bd-8f7a-481e-929a-163c9e69d1fd/gettyimages-1436010618.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/",
+      "publishedDateTime": "2023-07-20T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-artificial-intelligence-could-help-normalize-child-sexual-abuse-as-graphic-images-erupt-online-experts.md",
+      "title": "Artificial intelligence could help 'normalize' child sexual abuse as graphic images erupt online: experts",
+      "excerpt": "Images of children in sexual settings that were created by artificial intelligence could \"normalize\" abuse of children, law enforcement and nonprofits warn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
+      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54cf6e5e-46ce-4bd4-aed5-3dabe9838e97/e3852eca-5cd2-4283-bae9-15fbb23d888a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp",
+      "publishedDateTime": "2023-07-19T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-nigerian-insurtech-startup-mycoverai-secures-125m-pre-seed-funding.md",
       "title": "Nigerian insurtech startup MyCover.ai secures $1.25m pre-seed funding",
       "excerpt": "Nigerian insurtech startup MyCover.ai has closed a US$1.25 million pre-seed funding round to bolster its in-house operations and tech talent, invest heavily in its proprietary technology, and strategically expand its operations into other African markets.",
@@ -40,58 +288,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-teslas-game-changing-move-licensing-full-self-driving-system-and-more.md",
-      "title": "Tesla’s Game-Changing Move: Licensing Full Self-Driving System and More",
-      "excerpt": "In Q2, Tesla continued to dominate the US EV market, smashing its internal record with 479,700 vehicles manufactured and 466,140 delivered, marking an impressive 87 percent year-on-year growth. The Model Y made headlines by becoming the best-selling vehicle overall, surpassing traditional favorites like the Corolla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/",
-      "originalUrl": "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-03-14-180825.png",
-          "width": 969,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -144,58 +340,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-opinion-as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits.md",
-      "title": "Opinion: As investors worry about lower Tesla margins, Musk says Full Self-Driving is key to future profits",
-      "excerpt": "“Autonomy will make all of these numbers look silly.” And of course, that bigger picture, in Musk’s crystal ball, is Tesla’s TSLA, -0.71% Full-Self Driving technology, which he envisions will turn its cars into robotaxis in the not-too-distant futur",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
-      "originalUrl": "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-804723/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671",
-      "publishedDateTime": "2023-07-19T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -256,8 +400,8 @@
       "title": "Artificial intelligence: Experts propose guidelines for safe systems",
       "excerpt": "A global group of AI experts and data scientists has released a new voluntary framework for developing artificial intelligence products safely. The World Ethical Data Foundation has 25,000 members including staff working at various tech giants such as Meta, Google and Samsung.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66225855",
-      "originalUrl": "https://www.bbc.com/news/technology-66225855",
+      "webUrl": "https://www.bbc.com/news/technology-66225855.amp",
+      "originalUrl": "https://www.bbc.com/news/technology-66225855.amp",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -674,7 +818,7 @@
       "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -778,7 +922,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -923,7 +1067,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1111,144 +1255,6 @@
         "IBM AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-no-hands-on-deck-uncrewed-autonomous-boat-applies-ai-solar-power-to-explore-the-ocean.md",
-      "title": "No hands on deck: Uncrewed, autonomous 'boat' applies AI, solar power to explore the ocean",
-      "excerpt": "The US-based startup Saildrone makes autonomous, uncrewed surface vehicles (USVs) with nautical data collection technology that can be used to better explore marine life, weather, ocean floor mapping, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
-      "originalUrl": "https://www.zdnet.com/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/951599185999dc2f0edafddc0049d088c958e4d6/2023/07/18/4123504b-f229-47f7-9d5b-4377f72f2f7a/screenshot-2023-07-18-at-11-44-54-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-uncrewed-autonomous-boat-uses-ai-and-solar-power-to-explore-the-ocean/",
-      "publishedDateTime": "2023-07-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge.md",
-      "title": "‘Crazy Times’: Elon Musk Reacts To Tech Stocks’ Latest AI Surge",
-      "excerpt": "AI mania on Wall Street has helped Tesla stock surge more than 170% this year and made Elon Musk more than $100 billion richer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
-      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b7ed817e177644c2fb68d1/0x0.jpg?format=jpg&crop=4054,2278,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/07/19/crazy-times-elon-musk-reacts-to-tech-stocks-latest-ai-surge/amp/",
-      "publishedDateTime": "2023-07-19T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-tesla-chair-robyn-denholm-joins-australian-ai-healthcare-start-up.md",
-      "title": "Tesla chair Robyn Denholm joins Australian AI healthcare start-up",
-      "excerpt": "Tesla chair Robyn Denholm has joined the board of an Australian healthcare start-up backed by Hong Kong billionaire Li Ka-shing, as it seeks global adoption of its artificial intelligence-based medical imaging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/b4170e35-8f59-4bac-8e08-76d9e434a54e",
-      "originalUrl": "https://www.ft.com/content/b4170e35-8f59-4bac-8e08-76d9e434a54e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

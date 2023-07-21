@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Indias Think360 make top AI Fintech Companies List"
+    excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+    publishedDateTime: 2023-07-17T14:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "How militaries are using artificial intelligence"
     excerpt: "Artificial intelligence has been a crucial tool for many nations’ militaries for years. Now, with the war in Ukraine driving innovation, AI’s role is likely to grow. Paul Scharre, vice president and director of studies at the Center for a New American Security,"
     publishedDateTime: 2023-07-19T13:35:00Z

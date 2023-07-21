@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/computers/human-brain-chip-ai/"
 webUrl: "https://newatlas.com/computers/human-brain-chip-ai/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "VnTTf9lwG8Lc2dETde/dMfPa9Ey7wu1HSCM8VgwRlPo7maRf1a9v0CSIPk5KWy1hZIU15L97E2+l+Arro8QBrO8G7ZYEDuIpWmGZglj4U2yPVHu+fHODoNuGijP6dTm+EenqfN89fswQk9KBTKtZ/Y6ln+NEkkPhcPfGj5Kz6b/UDsm4a1XZoygSs/YUM2DlI4Ug3tEyU9kzyoMbvXn8wtGX32sMmLF0HlpxBKpiFCxxmyRCmJP5nGqtgOUg/KxY6YdBiJoOoc6F9NixzNxluepwND4AfLg5LKB9XFI55K8WEhfTcJeYLsH28AnTsl9RG9wKJlOQi4m3HI8lOMWrjTN5uYYUoijGhO8Jj7WFpoo=;+kCg1Mtoapdwc/2SsL+5bA=="
+secured: "+Cem2Bw3n2Zyes/qpTud6Ev6iuva3WgSqGPH8uJd+4Sna1PsQyxorlf+/kF5Vk2xlPSJC4d2gd3ZO9lC0xiU2D8UE6X7tYXV5VD1QWjDDaK2EyPqK0xlB+hMSjFb//I6LdFQirZBpdRcv2W8iNyBqDqMJrwp6li6uJ140AVOKW55XkRgBmejy+NCeb4OgHBkFXCJ141SxCHhqXorU3QS7bJqFcMCyMBi8Dsf5ElNjRQQ53uunvZGVTmBS60rExy/yqVpUP3hyA71nqH4v4Hd36W4M77HVOwHJqx5SqDQ55+wE9k2O+saiNiuaRAJYhmpO+1QmG/ukIIR4oRpJff3Y0jlIh4OrXcCU1hKoHyX2RiAPzOM77lWuDI0j0r+7R90FyEYqb1+D9ioG3/OwsFYJXdAIyXBRfGvt63SAhIraVFFQW8UIYCNWV+Sx0Zt7Ma9McZGn5Eo4nNFt/Z/nQe/8wUuT+0UlPZDPcWi2lAoGJ2jrKZTw+MnnGA47UwKAHFhxGZqTI+rt6kh6xtrkNSEew==;JqRgbWk/QB6P6ODITZowaQ=="
 ---
 

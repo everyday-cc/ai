@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top tech firms sign White House pledge to identify AI-generated images"
+    excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
+    publishedDateTime: 2023-07-21T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/07/21/ai-white-house-pledge-openai-google-meta/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "Etgy9JB4Q/c1zB7vwphiBKVCao5GB7VLe4T4kpmsqJlCcchkX86u1HBEu5o8MlbHiO+wM9ANtzYo0yUdxcy6McKeySzLsOjZyzp2sUZ2UEB/PLPMF+eiUoLIsyNFz3WrBt+9KhGh8KlJWFL5SNKlBC47iCKwwmKTOuzpjmg+CyYPur+N9tDuoWWJ9yXyHzt497bpUZ7nLtHKFpifAI7vpLv9cRm/DeutirfntLDK0LCIyxlL0gBmAQvbGlITkK/TEIkUwDcaPlTYpioGmHxp/cB0ljwPtYJKO17ayojkMS9bJaj4g85UTYxFA3aYt236r6C7uSN1Cm6JJjbKjffktFfhpVx8y61wHlU4OYi6MdqKbMb5DQVIaZo6AHg4Yag0nbVmj09pBehfdpDhRHhiCyFpkW/nDsfDOS9aNGftm13vmshXSyhh005xy1O4YKibgV+rsZLjb7GIHjMvDkDjbGYFFAoWdWsgV2Ju4RgvPG3VPpNM26Zg+FTA97EpEwFk2Lryq1iv7GFDkTf2pj0SKw==;JDJy4IgLlR7OXzeNIs6kVw=="
 ---

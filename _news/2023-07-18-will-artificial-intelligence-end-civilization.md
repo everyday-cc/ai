@@ -117,6 +117,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "Transcreation and Generative AI with Jellyfish’s Rocio Martinez"
+    excerpt: "Rocio Martinez, VP of Language Services at Jellyfish, joins SlatorPod to talk about the role of creative content localization at the digital marketing agency."
+    publishedDateTime: 2023-07-21T08:35:00Z
+    webUrl: "https://slator.com/transcreation-generative-ai-with-jellyfish-rocio-martinez/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "ftMYHEYg/X+rsbx6AiGqufyqk5XgQucpjz6axuRuC22PjFT2jRe/Ktddz8K+k10tl/8JR6kB/9mzTFcdxjQymgHqoGcdFtukEQZKvuokf/RiYcmJlinDwYxucbDbdpjicS2WVEB5WrYsQoCr/7vbH3uvZ7Bur7cFiYyTeku25+oZkB+gRdA7rDZQcoSbfp4WLkzj6Peh0bBK43UZ6PPErtfP3SHO8uINVL0Zv09tI+JhMC8QTXs1U7U6NazD7Xn+9csUJNVMntotf6CspBbgkNbDFDrUPzOD/iv+i1uFw3XK0q6i3XDmPbxxomC+PGr9uSI2v/QtF2ULdUCWH12wvEzGNoBbc6psYjLucUrffpQ=;gmMkvqqVA5pZTTjBBGPYsA=="
 ---

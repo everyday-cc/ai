@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers.md",
+      "title": "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers",
+      "excerpt": "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/",
+      "publishedDateTime": "2023-07-17T19:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-what-next-for-ai-and-ml-in-financial-services.md",
       "title": "What next for AI and ML in financial services?",
       "excerpt": "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance.",
@@ -1356,50 +1399,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-24-google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians.md",
-      "title": "Google To Establish Global Fintech Centre In Gujarat; Microsoft Explores AI Use Cases For Indians",
-      "excerpt": "Google has announced its plans to establish a global fintech centre in Gujarat, a state located in western India and that it will keep making investments in India through its $10 billion digitisation fund.",
-      "sourceUrl": null,
-      "webUrl": "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
-      "originalUrl": "https://www.goodreturns.in/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.goodreturns.in/img/1200x60x675/2023/06/google1-1687618173.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
-      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/google-to-establish-global-fintech-centre-in-gujarat-microsoft-explores-ai-use-cases-for-indians-1287050.html",
-      "publishedDateTime": "2023-06-24T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Goodreturns",
-        "domain": "goodreturns.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

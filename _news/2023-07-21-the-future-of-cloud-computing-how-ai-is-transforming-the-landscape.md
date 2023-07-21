@@ -204,6 +204,15 @@ related:
       name: BroBible
       domain: brobible.com
     quality: 20
+  - title: "AI revolution in fintech: How India is leading the way"
+    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
+    publishedDateTime: 2023-07-21T08:21:00Z
+    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
   - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
     excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
     publishedDateTime: 2023-07-20T19:50:00Z

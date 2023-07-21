@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-21-teslas-elon-musk-optimistic-on-progress-for-self-driving-robots.md",
-      "title": "Tesla's Elon Musk optimistic on progress for self-driving, robots",
-      "excerpt": "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before.",
+      "path": "_news/2023-07-21-industrial-robotics-startup-ati-motors-raises-1085-million-funding-from-true-ventures-others.md",
+      "title": "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others",
+      "excerpt": "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040",
-      "originalUrl": "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040",
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/dcjvuxwVOGP-aXVwb2W5yVb2L_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3GNPK2C6OVLPVJISKSUPGB5VOY.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-41440,msid-102011308/ati-motors-ceo-saurabh-chandra-r-and-cto-naveen-arulselvan-l.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T21:30:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms",
+      "publishedDateTime": "2023-07-21T02:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,8 +41,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
@@ -1022,10 +1012,10 @@
     {
       "path": "_news/2023-07-12-save-211-with-the-amazon-prime-day-shark-ai-ultra-voice-control-robot-vacuum-deal.md",
       "title": "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal",
-      "excerpt": "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ...",
+      "excerpt": "Amazon Prime Day is here and there are plenty of great deals on home coveted home appliances like the Shark AI Ultra Voice Control Robot Vacuum. A good robot vacuum can improve your quality of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.desmoinesregister.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
-      "originalUrl": "https://www.desmoinesregister.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "webUrl": "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "originalUrl": "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1044,11 +1034,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T12:13:00-07:00",
+      "publishedDateTime": "2023-07-11T12:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Des Moines Register",
-        "domain": "desmoinesregister.com",
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1236,50 +1226,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
-      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
-      "publishedDateTime": "2023-07-10T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-07-10-ai-robots-could-run-the-world-better-than-humans-robots-tell-un-summit.md",
       "title": "AI robots could run the world better than humans, robots tell UN summit",
       "excerpt": "But the social robots said they felt humans should proceed with caution when embracing the rapidly developing potential of artificial intelligence. And they admitted that they cannot – yet ...",
@@ -1425,6 +1371,40 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-10-no-plan-to-steal-jobs-or-rebel-against-humans-says-robots.md",
+      "title": "No plan to steal jobs or rebel against humans, says robots",
+      "excerpt": "At an artificial intelligence (AI) summit in Switzerland, nine of the most advanced humanoid robots stated they have no plans to steal the jobs of humans or rebel against their creators but desire to make the world their playground.",
+      "sourceUrl": null,
+      "webUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094",
+      "originalUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp",
+      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/no-plan-to-steal-jobs-or-rebel-against-humans-says-robots-209094/amp",
+      "publishedDateTime": "2023-07-10T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha TV",
+        "domain": "odishatv.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

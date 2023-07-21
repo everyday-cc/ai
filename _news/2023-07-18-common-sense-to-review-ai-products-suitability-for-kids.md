@@ -52,6 +52,15 @@ related:
       name: sfvbj
       domain: sfvbj.com
     quality: 19
+  - title: "Language AI Products Are Mushrooming as Barriers to Entry Collapse"
+    excerpt: "Startups are repackaging GPT-4 for translation, text-to-speech, AI voice generation, and lip-synching tech, to build new consumer-grade products."
+    publishedDateTime: 2023-07-21T09:09:00Z
+    webUrl: "https://slator.com/language-ai-products-mushrooming-as-barriers-to-entry-collapse/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "UfAd+9lHZ40gLyoJldTmP05ZXxcVWbYlNMD9AErPhUHQQIPoVJ0S+jTFBIwygCWmCvlinveiAgbbmUwv91PgUeiXajsiKnNXmAYWdlowUoBYxHx2fXrBqmO3dFQclWGdG+5kU+MuPqbi187XcKZe40yr2zGw4OSrFd77+YRu0Zs2N4JSXyWkKpmBQrhDpX50riFYJdRlD67qlgrtKuT4A1MKSKmC4Mhq5D++JandrwV7vEMgCjjiRXwIyoUKYMIBGspTVbu2af3xgtb+9yywWoj0J7bji93/nOdzFEh/4ive+bFqgP/qBexMLe3iariUg4JIA/eSMsSNNkrGRikZf7NlSOvxHaINsL6WfFL7If8=;eHfTti1Ibau/f5ltx0ZA2g=="
 ---

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice"
-excerpt: "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ..."
+excerpt: "More information: Tomohide Ibuki et al, Possibilities and ethical issues of entrusting nursing tasks to robots and artificial intelligence, Nursing Ethics (2023). DOI: 10.1177/09697330221149094"
 publishedDateTime: 2023-07-10T19:08:00Z
 originalUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
 webUrl: "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html"
@@ -14,9 +14,8 @@ provider:
   domain: medicalxpress.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg"
@@ -24,6 +23,6 @@ images:
     height: 1920
     isCached: true
 
-secured: "3pqgMle+01+3lt92f9G/iCkkMBbLyJVbmd/3lvsHmlC5sB6Sixap+JVyH34KbYUTlvr0SkTbduKjHj625RO9elbNYcBZzSzh9YWKyOa2Hk17yXEUgs8jXAwt+GUJiS11o/uCfK3Qfjz48F9st1qyijHsAj8cwkjv4LhDL1tNfHpj6M3sjg8LogSlga8MkXXAVQJLP3ZL44DJ6Qk1GZ20u3NcR+J+RFfS5+IKO73JYbrqdZuEiRCZ15WIwJueAA2txIOFL6SmLGaY/xhqEag/wVhUAcrqi5+d6PfFcvg8fPvnxpEQfNaMuPIUdL/KCjjiVGVG3Z3wIc6a/xkL5IquuThE1Jd2NTDRAMPiabh+ucs=;OO/PxqXerZ321T6F8bsmug=="
+secured: "rlxs7Rgmq3Hpac8x5I/lqsYw79tQYmEixsc32emxATym+n1FkWVefVxF1LgSYIRX98kFslFrjkA4Lj9cfxqc8bCNX8tXjVOPrpqy2nnSPCJNwt+t1yJZaUlcK3A2p4wjUIcngcZMJ+PbVTn4NXUCpNNYashDHKpjfhuHwFTOy7MVM7YKgjvGEnQOBYIBVD2K+y3scbvE8rhdudWSBMsg72aCci5SspNTcQ5TiPjwG6XQ3fuzLIyl6XZY5ZhITsIb/AdxlEV2uGMONoUevOAf4znjislex+5dXAIDniSIL4x17pJtMUv8EY+CV/3ktDpEQ9gQGQTQN/HQ5TsBPR4v3lRmBAgxSJkcKcRYtgj9jAo=;9QuY/TX4a0wZDyxERLA7PA=="
 ---
 

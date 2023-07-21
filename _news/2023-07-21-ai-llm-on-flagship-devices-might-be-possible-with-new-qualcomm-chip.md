@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html/amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

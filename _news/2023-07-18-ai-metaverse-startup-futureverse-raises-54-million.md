@@ -24,33 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Futureverse raises $54M to marry AI and the metaverse"
-    excerpt: "Futureverse has raised $54 million in a new round of funding in an effort to marry AI, blockchain and the metaverse."
-    publishedDateTime: 2023-07-18T13:15:00Z
-    webUrl: "https://venturebeat.com/metaverse/futureverse-raises-54m-to-marry-ai-and-the-metaverse/"
+  - title: "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others"
+    excerpt: "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated."
+    publishedDateTime: 2023-07-21T09:33:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Metaverse Startup Futureverse Raises $54M Series A From 10T Holdings, Ripple Labs: Bloomberg"
-    excerpt: "Futureverse, a startup formed out of 11 different firms, has raised $54 million in Series A round led by 10T Holdings and including contribution"
-    publishedDateTime: 2023-07-18T12:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/metaverse-startup-futureverse-raises-54m-series-a-from-10t-holdings-ripple-labs-bloomberg-1032454813"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 77
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-41440,msid-102011308/ati-motors-ceo-saurabh-chandra-r-and-cto-naveen-arulselvan-l.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "B2B Analytics SaaS Startup Factors.ai raises $3.6 Mn in Funding Led By Stellaris Venture Partners"
+    excerpt: "Bengaluru-based B2B Analytics Software Startup Factors.ai has raised $3.6 million in a pre-Series A funding round, led by Stellaris Venture Partners."
+    publishedDateTime: 2023-07-18T05:05:00Z
+    webUrl: "https://www.indianweb2.com/2023/07/b2b-analytics-saas-startup-factorsai.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "FUTUREVERSE RAISES $54 MILLION SERIES A TO SCALE METAVERSE INFRASTRUCTURE AND INTRODUCE AI TO THE METAVERSE"
-    excerpt: "Futureverse, a leading AI and metaverse technology and content company, today announced the close of its $54 million Series A funding round. The round was led by 10T Holdings, LLC (\"10T\") and included participation from Ripple."
-    publishedDateTime: 2023-07-18T13:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9850009.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 24
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILi4OyOOcBUO4vbGkg6OXet4EiLy9jvKqpD_hQ3xpHxMxa5LIJT8BsXrA1RGBO1nRYAYJ84LwTx8xM4ICNryc1eExjLNJil7BVhSZwqUguKBpsumHsgKbfTPsRTzk1wqHD13ANj2vuDXqQcsE-QUlyr5YSlWBDfp1-Q1tFt3f6GLsyTqFjv-KvAeekdc/s16000/20230718_103137_0000.png"
+        width: 1000
+        height: 580
+        isCached: true
 
 secured: "rZ5d7NO+yy0F+TYXoKts2hSwSH/Zl7Nl6ZlLr4NalU66h5fD3Rs+zM8XUHMm70j8i/DX28s5wyf30t0W/1HT9I4LGOa7Wb6n1XrarZ3hTEzg8wvMzdxlBgZcK+AqkRwziKmf69/MkVFrlBMr4NWEceCOlqKNvuT80zxLkbRGZMAGLt0jH9gebuGWgIkVm7IGGF31Vqvf7sZKX+aG9Fg797XP9ZC2CA2y6HEBeTo2nz2mxEFb+WPSq3LTZiy9Hou2goPh3RZf9lmR1s8acfs4qhbH0W2OahkLzqzcQlm1M1ImMnRdUutk8/G3VQn/CszqYg7aXEe1ZeRQvPyrFfljCpPbXnEOHZ/+YWljsWByu2U=;iMRsakmk7Mqfeg2Ryv4fcA=="
 ---

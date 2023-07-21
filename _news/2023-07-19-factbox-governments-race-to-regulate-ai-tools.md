@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Factbox-Governments race to regulate AI tools"
-excerpt: "The Financial Conduct Authority, one of several state regulators that has been tasked with drawing up new guidelines covering AI, is consulting with the Alan Turing Institute and other legal and academic institutions to improve its understanding of the technology,"
+title: "Factbox: Governments race to regulate AI tools"
+excerpt: "Britain's competition regulator said in May it would start examining the impact of AI on consumers, businesses and the economy and whether new controls were needed. Britain said in March it ..."
 publishedDateTime: 2023-07-19T07:16:00Z
-originalUrl: "https://www.aol.com/news/factbox-governments-race-regulate-ai-071606815.html"
-webUrl: "https://www.aol.com/news/factbox-governments-race-regulate-ai-071606815.html"
+originalUrl: "https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/"
+webUrl: "https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/97b82a5b714d8abc076ac6783c6aec07"
-    width: 800
-    height: 533
+  - url: "https://www.reuters.com/resizer/nt3VW7-m59OC92AMMqKOKxZT5u4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26PNNN33MZOEHKBQQSZNQUORDI.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -40,6 +43,6 @@ related:
         height: 1426
         isCached: true
 
-secured: "jzE33eCM/yV2mgNy9svntqwoHAtQvSH7fHQlWVw9LmNqEtqvkq4ssz1hr4mlJItPPisHLyuGR90ZI72X2XlwkMJiKXM6/rgZwxtwpoVy7rDg4asWKv61BWpK/paMPeZT24x9dwNq83QxIZm1Huxka9foIqzX9380IHfx23ZbUVoinoEQ6Jqlc4+mt8Ael/zVc61yOWoAxLrTqYLcaksa8FSfTXIJoRq/N1GwCHD46xom63mjzk4JQVSVdyKvD9MXh+7SRUgB8mFtJQTwDTwb3/v5/SWMYR8WtLq1LW9Fv+s9UCI8TTuLtMZ3RF6vIe6cTnJMwkeWirKBxkF907jBlw6XNBtRr4DL4ttU5HfGxhI=;c1sVoY85VMVGCVXxpqn50Q=="
+secured: "Ncl9hT3miOfNGgb9LSwER6hNQ22U+ZjgXqsdoFyeH8leAWDjAyKJSywMT92jWL+Hg/QbLnjw/Yo9tIwCCIXunlcDqDV2sFP2ie7ba2II45k+GuT6TsDe/UP0DggdTXe+bC5iSzdMBliAZVzYWjPEN89pu3y3yO+vZx9qwiEBRKT7nQReEndg0g3H+bnig79bgchWgck4HtWA0dhvfTySfun2gW3Dyrn67o7dYnGwpVKnmX2Xf8Y9iBNBnbd4Y8AWiS2cX855L9Ev5LRCxVVqa6T/LQ3mlTYigW+9KhdyNuXqdtAiux38LLwnhRJOoiO8I3yIzCVril1YAasDptF2c9f3zoB1oJ2FW1/1wgCiAFs=;4Gwfx3DUSjiq711fzPwMzQ=="
 ---
 

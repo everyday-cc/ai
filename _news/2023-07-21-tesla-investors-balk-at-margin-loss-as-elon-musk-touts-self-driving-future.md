@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Elon Musk optimistic on progress for self-driving, robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
-    publishedDateTime: 2023-07-21T04:30:00Z
-    webUrl: "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040"
+  - title: "Tesla plans to license its Full Self-Driving system to other automakers"
+    excerpt: "Tesla set new internal records for EV production and deliveries in Q2 as Cybertruck production (sorta?) comes online.."
+    publishedDateTime: 2023-07-21T09:34:00Z
+    webUrl: "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
+    ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://www.reuters.com/resizer/dcjvuxwVOGP-aXVwb2W5yVb2L_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3GNPK2C6OVLPVJISKSUPGB5VOY.jpg"
+      - url: "https://s.yimg.com/uu/api/res/1.2/vXCVbfJvezW.j8ozjbdb7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2018-10/4e8819d0-d7cd-11e8-bfea-1933ac05be15.cf.jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
   - title: "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0"
     excerpt: "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node"
@@ -71,6 +73,36 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Opinion: As investors worry about lower Tesla margins, Musk says Full Self-Driving is key to future profits"
+    excerpt: "“Autonomy will make all of these numbers look silly.” And of course, that bigger picture, in Musk’s crystal ball, is Tesla’s TSLA, -0.71% Full-Self Driving technology, which he envisions will turn its cars into robotaxis in the not-too-distant futur"
+    publishedDateTime: 2023-07-20T02:11:00Z
+    webUrl: "https://www.marketwatch.com/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/as-investors-worry-about-lower-tesla-margins-musk-says-full-self-driving-is-key-to-future-profits-482dd671"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://images.mktw.net/im-804723/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Tesla’s Game-Changing Move: Licensing Full Self-Driving System and More"
+    excerpt: "In Q2, Tesla continued to dominate the US EV market, smashing its internal record with 479,700 vehicles manufactured and 466,140 delivered, marking an impressive 87 percent year-on-year growth. The Model Y made headlines by becoming the best-selling vehicle overall, surpassing traditional favorites like the Corolla."
+    publishedDateTime: 2023-07-20T04:40:00Z
+    webUrl: "https://www.gizmochina.com/2023/07/20/tesla-licensing-software-self-driving-cars/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-03-14-180825.png"
+        width: 969
+        height: 631
+        isCached: true
   - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
     excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
     publishedDateTime: 2023-07-20T23:27:00Z
@@ -101,37 +133,33 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk Sets New Target For AI, Products To Include Self-driving Software, Robots"
-    excerpt: "Rising interest rates and competition from new EV makers have forced Tesla to cut vehicle prices to gain market share, hurting margins."
-    publishedDateTime: 2023-07-20T09:14:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+  - title: "Tesla’s Elon Musk optimistic on progress for self-driving, robots"
+    excerpt: "SAN FRANCISCO (Reuters) – Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he’s been optimistic before."
+    publishedDateTime: 2023-07-21T05:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/21/teslas-elon-musk-optimistic/"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 53
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 56
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/fus1nieccu7bwoun_1689844201.jpeg"
-        width: 768
-        height: 439
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6K04S-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Tesla Offers Just $3,900 Extra On Trade-In For Full Self-Driving Feature That Costs $15,000 In New Cars"
-    excerpt: "Tesla has incrementally increased the price of its Full Self-Driving software with CEO Elon Musk regularly touting its long-term value. Today, it’ll cost owners $15,000 to enable the feature. Now, one customer’s interaction with Tesla itself during a potential trade-in discussion has sparked debate about its value."
-    publishedDateTime: 2023-07-16T16:49:00Z
-    webUrl: "https://www.carscoops.com/2023/07/tesla-offers-just-3900-extra-on-trade-in-for-full-self-driving-feature-that-costs-15000-in-new-cars/"
-    ampWebUrl: "https://www.carscoops.com/2023/07/tesla-offers-just-3900-extra-on-trade-in-for-full-self-driving-feature-that-costs-15000-in-new-cars/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/tesla-offers-just-3900-extra-on-trade-in-for-full-self-driving-feature-that-costs-15000-in-new-cars/amp/"
+  - title: "Samsung said to make Tesla's next-gen self-driving chips"
+    excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
+    publishedDateTime: 2023-07-18T11:22:00Z
+    webUrl: "https://seekingalpha.com/news/3988297-samsung-said-to-make-teslas-next-gen-self-driving-chips"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 43
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/2023-Tesla-Model-3-Y-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418906269/image_1418906269.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
     excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
@@ -148,20 +176,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Elon_Musk_and_Tesla_8.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Elon Musk Touts ‘Quasi-Infinite Demand’ for Tesla’s Self-Driving Products"
-    excerpt: "Tesla reported record revenue for the second quarter. But earnings calls are increasingly about Tesla’s non-EV projects, like A.I. and self-driving."
-    publishedDateTime: 2023-07-20T16:43:00Z
-    webUrl: "https://observer.com/2023/07/tesla-earnings-self-driving/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 38
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013421.jpg?quality=80&#038;strip"
-        width: 4071
-        height: 2524
         isCached: true
   - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
     excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
@@ -205,17 +219,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Elon Musk optimistic on progress for self-driving software, robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories. The electric vehicle maker is in early talks with a major automaker to license its full self-driving technology,"
-    publishedDateTime: 2023-07-20T10:04:00Z
-    webUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/"
-    ampWebUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 24
   - title: "Musk open to price cuts as Tesla bets on self-driving future"
     excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
     publishedDateTime: 2023-07-20T12:57:00Z
@@ -234,6 +237,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 17
+  - title: "Tesla in 'early discussions with a major OEM' to license full self-driving software"
+    excerpt: "Electric vehicle giant, Tesla (NASDAQ: TSLA) held their 2Q earnings call on Wednesday where CEO Elon Musk spoke about the direction of the company, and confirmed that the electric automaker is in early discussions to license its Full Self-Driving software to a major automaker."
+    publishedDateTime: 2023-07-20T19:03:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/tesla-in-early-discussions-with-a-major-oem-to-license-full-selfdriving-software-432SI-3130253"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 13
 
 secured: "/9ytg5gJAb2J9Y5FP0SE3zxyc42JmHTRiXUmng/CY06OigeTROF+U4PEQlmWIRWZelPme2u6Fmab0SlEh0Cl5KOEEvILzf6Czf1twOZK0XQuvYanhQuON8JnyoYU+Fq1Q6ghPXWgmNpKnYbkAOZoWRnHQAHyFc7FQAYOUORPhvQsjyb9fjsUNb3S1bcSlg3/vR/B09bSUgdzCjWBd8hdrQal6sxF1UHp6mM7aaXzDnk4uXyUPWsHS6F1uK+fbDd3XjeqkIQAUH6ZgLpZ8AMWtI587cvq3etIAcmFCzmpq7MDablogo78eNoFKW1CgpCe+NoJoPAPjyFXDm+cen6Z0k/LjCcnRZDIdJxRh6+Foj8=;MsD4oDNyPCmdk6FDVMJNpg=="
 ---

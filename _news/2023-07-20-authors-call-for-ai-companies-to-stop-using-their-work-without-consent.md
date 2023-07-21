@@ -30,36 +30,87 @@ images:
     isCached: true
 
 related:
-  - title: "James Patterson, Margaret Atwood, and 8,000 other authors want AI companies to pay them for using their works"
-    excerpt: "\"Generative AI threatens to damage our profession by flooding the market with mediocre, machine-written books, stories, and journalism based on our work,\" the letter reads."
-    publishedDateTime: 2023-07-19T05:25:00Z
-    webUrl: "https://www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-companies-thousands-authors-demand-compensation-for-using-works-2023-7?amp"
+  - title: "Top AI companies agree to work together toward transparency and safety, White House says"
+    excerpt: "Seven companies, including Alphabet, Meta and OpenAI, have agreed to hire independent experts to probe their systems for vulnerabilities and share information with one another, governments and researchers."
+    publishedDateTime: 2023-07-21T09:00:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/top-ai-companies-agree-work-together-transparency-safety-white-house-s-rcna95406"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna95406"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95406"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
+      name: NBC News
+      domain: nbcnews.com
+    quality: 78
     images:
-      - url: "https://i.insider.com/64b750641ccd1e00198ab8f5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221107-meta-office-sign-california-facebook-ew-1127a-9c2f7a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Thousands of authors urge AI companies to stop using work without permission"
-    excerpt: "Nora Roberts, Viet Thanh Nguyen, Michael Chabon and Margaret Atwood are among those signing an Authors Guild letter asking artificial intelligence companies to get permission or offer compensation."
-    publishedDateTime: 2023-07-17T09:10:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2023-07-17/thousands-of-authors-urge-ai-companies-to-stop-using-work-without-permission"
+  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
+    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
+    publishedDateTime: 2023-07-21T08:03:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
     type: article
     provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 34
+      name: Reuters
+      domain: reuters.com
+    quality: 64
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/e744b38/2147483647/strip/true/crop/4606x2418+0+324/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F13%2Fgettyimages-1241357516_custom-119b333b8b28626c342e46201341c33c1238bb90.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
+        width: 800
+        height: 533
         isCached: true
+  - title: "The White House and big tech companies release commitments on managing AI"
+    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
+    publishedDateTime: 2023-07-21T09:09:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1188831773"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 36
+    images:
+      - url: "https://media.npr.org/assets/img/2023/07/19/gettyimages-1258873333-4be1042a55bb5046f0485b87b78aecccb78c7c15.jpg?s=6"
+        width: 948
+        height: 711
+        isCached: true
+  - title: "Leading AI companies commit to outside testing of AI systems and other safety commitments"
+    excerpt: "(CNN) — Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content, the White House announced."
+    publishedDateTime: 2023-07-21T09:00:00Z
+    webUrl: "https://keyt.com/news/2023/07/21/leading-ai-companies-commit-to-outside-testing-of-ai-systems-and-other-safety-commitments/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 30
+    images:
+      - url: "https://keyt.b-cdn.net/2023/07/0720-WEB-375x225.jpg"
+        width: 375
+        height: 225
+        isCached: true
+  - title: "Tech giants including Amazon and Meta agree to Biden’s artificial intelligence safeguards"
+    excerpt: "Amazon, Google, Meta, Microsoft and other companies leading the development of artificial intelligence (AI) technology have agreed to meet a set of safeguards brokered by the Biden administration."
+    publishedDateTime: 2023-07-21T09:52:00Z
+    webUrl: "https://www.businesspost.ie/article/tech-giants-including-amazon-and-meta-agree-to-bidens-artificial-intelligence-safeguards/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 28
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=31a0898f-c7d0-54bd-9722-88d2eb1b52dc&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=5000&height=2813&x=1.0E-5&y=0.07865"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "Tech companies to make AI safety and transparency pledges to White House"
+    excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
+    publishedDateTime: 2023-07-21T09:00:00Z
+    webUrl: "https://www.ft.com/content/49ddbbc8-ec8b-4c42-bb7b-3bc65e0b192c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 16
 
 secured: "pjncQINfJMW8FqrVCcTgu3iV3G8svXxLqOb/ESuYa8Tv5e3nioUhgJJ5eOSQI6E8r9kia41wxJG8K0FAW2DodWLsOeRLk06a6BZ+OT+Fquzqz+XPw+LbbNb+3hp+JXEWXowQGBxAGDThm2lXhnp5sOJFmslndouOsuYyuMELl3rRxmwJgGUBEBQa9u2XcuY6BwiGB7xudBBo8HiN+zq2XtV512Oi5jMbrjddvy+NjYz5ZkAi88Akjr08tNA0WN1cBGXQ+i9cTgxxY6TxpwPH3NtatlIstLGIlpj+qXMyvv1xiVpdQGLYLAbv/SStmqwcParDib0I5LuP3XalaaU+RCUwl9vO9LvfRMn9VTi3q4XkAxFFEyPsxwJxfmR6ED9Zp2S6N/ZN2Aam7jLJrwJE3afjWcQMaYEL/zm9VW2xTprGkgwo1dMCJlh3pUprkElONxSM7Jv8b9yIroQ3gE1FiYOG9f3hlnA8eaSjG7CAMAbXATBHznBGcizx6v9p98ZqWTTFpOlhAv22hnjPxEZa1g==;HudG/nN8tTKTu7wkvKij2A=="
 ---

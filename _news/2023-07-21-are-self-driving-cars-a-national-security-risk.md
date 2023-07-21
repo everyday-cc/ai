@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Are self-driving cars a national security risk?"
-excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-publishedDateTime: 2023-07-20T17:00:00Z
-originalUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
-webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+publishedDateTime: 2023-07-21T08:19:00Z
+originalUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
+webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
 type: article
-quality: 21
-heat: 21
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Security
 
-secured: "2pWjcsgSfkCCdJ74Y9epjXF/XdYrTh3hbTBemUkVQ36MmU/81NxYZ5n+vp4dYY81NGtAbRInhfOdtKlNqX36m+z5UAB3YGQCytoJHxsShL9+9zTzsIEj7V9R1R/na/WGHv1efVtJ9dvvo4Aczf1R4OBYA3cV8kQJ+c61jjOxaU1N4U+GOdcuwssCbBfS187b+QZiAAFHxCQlNudv5c7eLv4OrjP1YX1Tc57cMgv+FwtS8Uf2wH0+iidjWeT99JnUptDEjk7hKphGr+u60jvG+FLY5a7KnrDAx4RihYqfr4pXFO7ZNEMtM/C5zAfN0AU1dbk9GNx9KKqge3n5IZZ7sKnw66U2nesR5eN57ZTW3eLeSOLEuEbivIk/3YGqTswiNfJS+SSquTReFrjVbCWDVL7vrm1iHO/JCfVp3Wp5wUupF31M4nsp6HWCRkvqaw+wSa4Vp4Puz7I962y4QXBS+r8Wh8E9XVqGz7phBF7i7GKgkpCNSr+1ci2gdD3OWTZhAghtQl3c0Rv1cBgGI8LlnA==;WMtq6thQ5HAbrov0HEwn8w=="
+images:
+  - url: "https://kvia.b-cdn.net/2023/07/self-driving-car.png"
+    width: 1080
+    height: 700
+    isCached: true
+
+secured: "LKBppbRn7+984/ZT4BhOX59KgRhtAgMHVHBfQWD51mjvh0Nwya6BMJkl2VIuc+B1Jg8dhn5jBXWrULJYcas6pn9iFBgLmRO4hWuPejXyRKvUzS/GPNl2CJJn/ltz3vt+t/X45wdXABt9AwU6aA5+WxpRBGva7H4do5ScHxe53p7Wgq2xCwPMi/jRQOJ/V1o+E2hPgKJPA2NhMHJjobAKV1Xr6lBae5Oye09gUZa4gPZ1W64nKT5kPJXapUZumpQwOJ7LiIeT66msWAaMQTLM8g+/bak8hnDD8zRvYxg/UcxglG22QPAi7zCd64Dyf889LoIxArJd7W/+hYdb3EcZQdQgdCJk/fNY3s2t8SXc2Mk=;eDe+IqtAzVb6RWcnZPDjiw=="
 ---
 

@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-06-14-artificial-intelligence-got-you-freaked-out-watch-these-movies-to-feel-better-or-totally-validated.md",
-      "title": "Artificial intelligence got you freaked out? Watch these movies to feel better (or totally validated)",
-      "excerpt": "Naturally, this happened after said robots revolted against humans ... to kick off war with the Soviet Union. A doll with artificial intelligence leans into the very human emotions of jealousy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "originalUrl": "https://www.cnn.com/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/190730113259-disney-pixar-wall-e.jpg?q=x_0,y_95,h_809,w_1439,c_crop/w_800",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/14/entertainment/ai-movies-to-watch/index.html",
-      "publishedDateTime": "2023-06-14T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-06-14-alibaba-reveals-progress-with-large-language-model-research-as-chinese-big-tech-firms-continue-to-push-for-chatgpt-rival.md",
       "title": "Alibaba reveals progress with large language model research as Chinese Big Tech firms continue to push for ChatGPT rival",
       "excerpt": "The new DAMO Academy model is an enhancement from previous vision-LLMs as it can tackle two challenges in video understanding.",
@@ -1393,6 +1340,49 @@
       "provider": {
         "name": "Eagle-Tribune",
         "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-driverless-trucks-on-california-highways-legislators-dont-trust-the-dmv-to-ensure-safety.md",
+      "title": "Driverless trucks on California highways? Legislators don’t trust the DMV to ensure safety",
+      "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. The Legislature handed driverless vehicle regulation to the DMV when it passed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations",
+      "originalUrl": "https://www.latimes.com/business/story/2023-06-01/driverless-trucks-california-dmv-mistrust-safety-regulations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/bf490a0/2147483647/strip/true/crop/4000x2100+0+285/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -51,6 +51,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Language AI Products Are Mushrooming as Barriers to Entry Collapse"
+    excerpt: "Startups are repackaging GPT-4 for translation, text-to-speech, AI voice generation, and lip-synching tech, to build new consumer-grade products."
+    publishedDateTime: 2023-07-21T09:09:00Z
+    webUrl: "https://slator.com/language-ai-products-mushrooming-as-barriers-to-entry-collapse/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "knr0ZCYEKKDpYlEMco5zLmEXF3jRCxeM9RLSkNf3IXDpJ7FulJZGrvVZSzuoDw+3TxUG1hg2vfoOVFHihyNASQKQlv0dDDtB5W+8XYXVvfuI8v8m8OxalT2t2sBkjX8TORTDLiSExyVbrO5ByAfPZicKIXh0uPJrCEUNwe9qxzerS2hSyQKkFmGpT09AyvpaIS38YOk6ltL9x2Y5Sqf9gn/FxD7gdwYJV82IOfkoWlAvCWHihG8lLfQ6Z8p0LdhgaEnmKjqwdrwLs3vSCR4N8q0RVYf8cGDY6dOmpH3MSYLEvbqtefk6UzcKmo003qYn9fOi2r50dgJaIgZ1W2+P0hz+VGsXADqmX3AcPQttHfSs9J1e53fUhdbuSrKLls8RpGBUEtrMGQjThmiDHepUbgIwwesyvWXAdsoUF1aYtqxTuNS9QAAZq3jSORbTdYTpePYpBiaPv1D7je/hQMPA+od7rXz9oeEjKB217k0Vc+qdb7JtwJmXCkkACfgNxnTcP9augsuCA08KwM7cfINX/Q==;ff5zIUAtsZY1XyfSaEdFuA=="
 ---

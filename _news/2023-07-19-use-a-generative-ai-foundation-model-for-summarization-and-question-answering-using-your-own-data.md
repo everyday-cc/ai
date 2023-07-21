@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/"
 type: article
 quality: 76
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
+    quality: 19
+  - title: "Transcreation and Generative AI with Jellyfish’s Rocio Martinez"
+    excerpt: "Rocio Martinez, VP of Language Services at Jellyfish, joins SlatorPod to talk about the role of creative content localization at the digital marketing agency."
+    publishedDateTime: 2023-07-21T08:35:00Z
+    webUrl: "https://slator.com/transcreation-generative-ai-with-jellyfish-rocio-martinez/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
     quality: 19
   - title: "Will Artificial Intelligence End Civilization?"
     excerpt: "Researchers are conducting a public survey to gauge opinions on artificial intelligence (AI) and software in general, aiming to better understand public perceptions, fears, and hopes about AI's impact on society."

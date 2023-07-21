@@ -35,6 +35,20 @@ related:
         width: 740
         height: 492
         isCached: true
+  - title: "The Essentials Of Blockchain Technology In Fintech"
+    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
+    publishedDateTime: 2023-07-20T08:24:00Z
+    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tachyum Presents Paper on Prodigy Processors in Blockchain for Banking and FinTech"
     excerpt: "Tachyum ® today released a paper \"Credit Unions, Blockchain, CBDC, FinTech and Tachyum Prodigy ® \" explaining how Prodigy, the world's first Universal Processor, can transform transactional banking while minimizing the monetary and environmental costs of blockchain's electrical energy requirements."
     publishedDateTime: 2023-07-18T17:59:00Z

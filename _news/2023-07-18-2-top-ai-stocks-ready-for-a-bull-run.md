@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-fo
 webUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "2 AI Stocks You Can Buy Right Now for Under $100"
+    excerpt: "However, you don't need boatloads of cash to get exposure to this latest Wall Street trend. If you've got just $100 (which you don't need for contingencies and paying bills), you could buy a few shares of one of these AI stocks."
+    publishedDateTime: 2023-07-21T09:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "These 3 AI Stocks Report This Week... What to Know"
     excerpt: "Wall Street expects IBM to earn $2.01 per share on $15.77 billion in revenue. This compares to $2.31 per share and $15.54 billion in revenue a year ago. However, last week, IBM announced its three-pronged \"watsonX\" AI technology platform. This is geared toward helping businesses improve their workflow productivity."
     publishedDateTime: 2023-07-19T11:20:00Z

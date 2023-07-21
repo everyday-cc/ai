@@ -46,6 +46,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Indias Think360 make top AI Fintech Companies List"
+    excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+    publishedDateTime: 2023-07-17T14:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "1klmK1hWnr3LTWgwJ5ZSpYsNFgV+NppZ1Zb+xK+n+0ol8t/+Oglo0XQSSZSkWlrzA8MLSfA2RSVR0wE5Z7ESdQugd4+kyksWq2EBe5BoB0AAscFC9aC38GQwd2WRhwnfSujZ8Qohw7scF/1lB0NkLcgyMCq/jiBfk72uv2LcqgkmO3jzxszjjU9rRuvozaGVQc00cUJawz9pyymm9yR4C/tZSzGh8+XruL22uhYGd9mzRKs0mAXihdVM2JZzGaLQ/7TFAkZY9JU49sHNdkd3l8zcPOA8rwI8x2vY7yvZ2GYBkzrP0CROyj9sal+b2+AZfOQdWtw6d15iveWFOnvrxoTlHFCqiGmWsPA8ieRWe98=;HeTSBfOqJm30RJIYfAL2Hg=="
 ---

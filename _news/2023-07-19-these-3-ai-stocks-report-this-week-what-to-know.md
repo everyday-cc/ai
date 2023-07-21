@@ -41,6 +41,20 @@ related:
         width: 2359
         height: 1270
         isCached: true
+  - title: "2 AI Stocks You Can Buy Right Now for Under $100"
+    excerpt: "However, you don't need boatloads of cash to get exposure to this latest Wall Street trend. If you've got just $100 (which you don't need for contingencies and paying bills), you could buy a few shares of one of these AI stocks."
+    publishedDateTime: 2023-07-21T09:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
 
 secured: "wP9rB9jl2ihpu3U0X47Zc3lf8ndQNI3NU3SNT2u8VjDY+On8LCNfXzN0GTgOtirJ81AiTuE0btiDF6PBdncwJKvLFgwlMrU4c+c+ymgUZVGgnXIiv1wgAaeoRQCEeh+FuMZLcYso2DFx0HFZypQE0Yx/poozHjcJgkn5sLlZjxpl0awbrpGFw+1SoY9UbHmT0TlrTSEImcc/fN80vm9kCroZ9CWLU7kldSYIZyqRai0L5tbF8r8fXWKbGyRmNdDmz2EFK2QIMW0OKe9JrPu4DAaCL6Idu4eu/4mjOTEFia6+TgMeJGzpT2VcrkLjClXDL0Z39XyatWFSXA4stWObiysasEamMc667bmsTWWErjg=;nozXHayrLzjphpIZm/3mfA=="
 ---

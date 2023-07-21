@@ -204,6 +204,15 @@ related:
       name: BroBible
       domain: brobible.com
     quality: 20
+  - title: "AI revolution in fintech: How India is leading the way"
+    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
+    publishedDateTime: 2023-07-21T08:21:00Z
+    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
   - title: "The future of cloud computing: How AI is transforming the landscape"
     excerpt: "As the world embraces the transformative potential of artificial intelligence, the cloud computing landscape is evolving at a rapid pace."
     publishedDateTime: 2023-07-20T18:55:00Z

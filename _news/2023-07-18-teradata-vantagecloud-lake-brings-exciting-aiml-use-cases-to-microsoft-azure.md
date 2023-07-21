@@ -29,7 +29,7 @@ related:
   - title: "Microsoft announces Azure AI trio at Inspire 2023"
     excerpt: "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale."
     publishedDateTime: 2023-07-18T16:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/?ref=dailydispatch.ai"
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
     type: article
@@ -122,6 +122,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Tech giants including Microsoft and Google agree to White House AI safeguards"
+    excerpt: "The White House said Friday that it has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before"
+    publishedDateTime: 2023-07-21T09:16:00Z
+    webUrl: "https://www.marketwatch.com/story/tech-giants-including-microsoft-and-google-agree-to-white-house-ai-safeguards-471cd47"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-giants-including-microsoft-and-google-agree-to-white-house-ai-safeguards-471cd47"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-giants-including-microsoft-and-google-agree-to-white-house-ai-safeguards-471cd47"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 101
+    images:
+      - url: "https://images.mktw.net/im-794931/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft launches vector search in preview, voice cloning in general availability"
     excerpt: "Microsoft announced a number of new services at its Inspire annual conference, including a new AI-powered vector search tool."
     publishedDateTime: 2023-07-18T17:40:00Z
@@ -209,6 +225,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/VchrOdbiz5Cn1lm5r32XqVRfwAA=/0x0:1450x960/1200x628/filters:focal(724x492:725x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/24797533/Maybelline_beauty_app_Microsoft_teams.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "White House Says Amazon, Google, Meta, Microsoft Agree to AI Safeguards"
+    excerpt: "Big tech companies are adopting voluntary guidelines, such as watermarking artificial content."
+    publishedDateTime: 2023-07-21T08:00:00Z
+    webUrl: "https://www.wsj.com/articles/white-house-says-amazon-google-meta-microsoft-agree-to-ai-safeguards-eabe3680"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-821323/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Meta Teams Up With Microsoft, Qualcomm on Llama 2 AI Large Language Model"
     excerpt: "The next generation of Meta's large language model, Llama 2, is now available for free commercially in a partnership with Microsoft, Meta said Tuesday. Under this partnership with Meta, Microsoft will now also offer access to Llama 2 through Azure AI and on Windows,"
@@ -896,6 +926,20 @@ related:
       - url: "https://www.crn.com/resources/0283-1885a968d91b-cfce421a55d4-1000/splunk-conf23.jpeg"
         width: 611
         height: 457
+        isCached: true
+  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
+    excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden’s administration."
+    publishedDateTime: 2023-07-21T09:06:00Z
+    webUrl: "https://apnews.com/article/artificial-intelligence-safeguards-joe-biden-kamala-harris-4caf02b94275429f764b06840897436c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://dims.apnews.com/dims4/default/4070e98/2147483647/strip/true/crop/4338x2440+0+226/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fe5%2Fd5785c9f00d93d9aef36853bea83%2F90d35e5c22db4ef093bdf18be7189734"
+        width: 1440
+        height: 810
         isCached: true
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
