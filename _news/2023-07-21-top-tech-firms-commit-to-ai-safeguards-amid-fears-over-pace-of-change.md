@@ -2,9 +2,9 @@
 category: news
 title: "Top tech firms commit to AI safeguards amid fears over pace of change"
 excerpt: "Microsoft, Alphabet and OpenAI agree eight measures in effort to encourage responsible practices around fast-moving technology"
-publishedDateTime: 2023-07-21T13:31:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon?ref=upstract.com"
+publishedDateTime: 2023-07-21T12:52:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
+webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
 type: article
@@ -203,6 +203,6 @@ related:
       domain: usf.edu
     quality: 16
 
-secured: "6wi8rdWQ3A4Ry+afq/MW16FaOOhN8TpjCm278QV0KRe4nvQ0u/o4EbiBpq4fjAmIoCL/LbPP/H00YQNNuwKRXNW6IkD+6SG6SXRDo4ibAnjKZtL7yfcsX7yFKGhC04aNjLiWwbdF3zABzFjyrT/zOG7+wLD1EZ30GPGMTagtJ42D/e12F/s+ysti/OfamHF3iiG5KAIpKlA7343c2TtcJt73Sas8ZLbLwCnpBeushvxqaFy+MZvML3f+VniAoIC8qyR9H8jketP7iiVkajIwRD+jrqEWe3bSZyImMPAgtyTqsAhBdeaFr3c6/KLjAzkZIZNy7dpbAparxwG0SRU13K+y8bt/g2GPDbJ/gCJJIkQ=;11QHClgu4GetSzuPvsmM+A=="
+secured: "scSeBAkSDSCAMK9fiwH+1ZO57R+KAwVnSq09/GvpE48+Q63VFC//XmwdR2rKzTnpAOcRKJ93oJ2tawkULCZpFnLeRsw85c63LEUR93YgiWJg52euyQ+mV1Bs6I3wI5wWXCXuleLax0jNEKaZtZZu+pJIGfL8VT+ZFlmA8OYONAgUAqENYTD7D5s6cO5/rC1kaJPeUbltvSdLxZ8FGAWdEzybYoOS5jIMvlD69f0KjCJ4ZkwtaiLp+K+1p5i780Z/IoR1JGMGjFpb7fBa3uAeIBKAw0v9OwqiNY5lXX2u6eckcYs87L+CO/c5QxdumOOxRV5XIHxPTT6DuopQXqoQwT6cP0F7Yw/cgxOq7O2C02w=;yaaP9b5QvTD5kaIMl1VTbg=="
 ---
 

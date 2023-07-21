@@ -127,6 +127,20 @@ related:
         width: 700
         height: 462
         isCached: true
+  - title: "Calling out ChatGPT's wonky artificial intelligence grammar"
+    excerpt: "Is it possible to defame a robot? Common sense says not, but since when did that prevail over the ass that is law."
+    publishedDateTime: 2023-07-21T17:01:00Z
+    webUrl: "https://www.stuff.co.nz/taranaki-daily-news/news/300931786/calling-out-chatgpts-wonky-artificial-intelligence-grammar"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/5/5/b/8/image.related.StuffLandscapeSixteenByNine.1420x800.4z60ga.png/1689817737569.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
     publishedDateTime: 2023-07-18T08:38:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-
 webUrl: "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/"
 type: article
 quality: 71
-heat: 83
+heat: 84
 published: true
 
 provider:

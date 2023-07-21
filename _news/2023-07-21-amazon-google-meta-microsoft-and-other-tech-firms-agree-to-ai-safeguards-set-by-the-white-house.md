@@ -183,6 +183,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google, Meta, Microsoft, OpenAI and more agree to voluntary AI safeguards"
+    excerpt: "Several AI companies, from Google to OpenAI to Microsoft, have worked with the White House on a set of voluntary AI safeguards."
+    publishedDateTime: 2023-07-21T17:27:00Z
+    webUrl: "https://www.pcworld.com/article/2004396/ai-titans-agree-on-safeguards-to-show-that-ai-is-safe.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 85
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/07/government-AI.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 762
+        isCached: true
   - title: "Microsoft wants your next salesperson to have an AI copilot"
     excerpt: "The basic goal of a copilot is to bring the power of generative AI, and in Microsoft’s case the Azure OpenAI service, to applications to help answer questions, provide recommendations, perform sentiment analysis and generate content. In March ..."
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -889,6 +903,20 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 45
+  - title: "Amazon, Google, Meta, Microsoft and others agree to AI safeguards set by the White House"
+    excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."
+    publishedDateTime: 2023-07-21T16:46:00Z
+    webUrl: "https://www.ksl.com/article/50691170/amazon-google-meta-microsoft-and-others-agree-to-ai-safeguards-set-by-the-white-house"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 45
+    images:
+      - url: "https://img.ksl.com/slc/2939/293982/29398241.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
     excerpt: "In recent months, the remarkable strides made in AI innovation have ignited a wave of transformative possibilities, captivating our collective imagination with the promise of reshaping industries and the way we work."
     publishedDateTime: 2023-07-18T17:04:00Z
@@ -920,6 +948,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search"
+    excerpt: "Azure OpenAI Service text-embedding-ada-002 LLM is an example ... Vector search also plays an important role in Generative AI applications that use the retrieval-augmented generation (RAG) pattern. The quality of the retrieval system is critical to these ..."
+    publishedDateTime: 2023-07-21T11:08:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 44
+    images:
+      - url: "https://res.infoq.com/news/2023/07/microsoft-launches-vector-search/en/headerimage/generatedHeaderImage-1689764249103.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meta Partners with Microsoft to Release Llama-2"
     excerpt: "At Microsoft Inspire, Meta and Microsoft partnered to release Llama 2, the cutting-edge iteration of their renowned open source LLM, LLaMa."
@@ -1119,6 +1161,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "ZWe0ib6yjWcYn7uQw/Lu9IozHTCZjFoktEbGGjhCKqJsUzA4W+Uo4bZjxt1GUOdvwODJwQCrIDTSEnSoFoI2kGNyjH6XEGm/gjCZaHoXDnyMDiPOQK2gE4UNKCCFiNEQyW6xC605w89aBeU2EGecfusQREQtep9+k5IyoMK0OmzILdDp8VQsyMZeU0w1NuB+p6id6WNSNuw6TJCLvLLfOmhlvhdWqeMSWQYenrDV6Ay1lfT03+Ywzn2z3ImSrhzMC9XHSLuDXg9WS4ZDgfvLBJb1QJ0Ib7acD7Jofreeo8lnyWty5ex7awvAJJXGxFfofsMwwtZ82gM6vwmnwzyqgccXJlsoMMmWmuTkSiZ7o+E=;ktURYZsHZHHv6wWTupjdFw=="
+secured: "XW3nVp1+7wqMJ1m+1eURVrDiDGXRBhV6IKAZy33zqAZ2Y1qWeuHAiYPMdUpsJ1ufwhiKDlzrOmYfxF6gjEB2gxp/u9bbl2XVuBdG6AFoOhYkqDW2pC4wqtK7FVCxCj+AilyZc9Y8uoYxdzOpVnUi34PEefjUN28uN6tl+4OZ9QlaJ+Uiw6HSlHYJN+A33byfvoB3Sfk9+y3uoyqR4dFzZ12ImbVnikvk2qhIf2cKcOd8tKWyWljTNsxwPluZbba+7Y2Zr747weVeZmxepbQE/BfOF06C1dnKniiLNpPE8JHvqC4LQpNivtOceqbmNLmBxxHhs+l/AlSvdKo0cyL0Pl17NXzzrN6LC7R81SOmcTjXnPH5AQIMfP2UzfRNrwGiJIhlW4GXZGjbo2BrNzXgmENhlvpU1Wq1ZjvGoXtYvSYqYg792oNZE9EUutYqVCOztTZj32uFifW4Hh5HGXz1NyvsmY7WpFoxjAWjns6DfhBQdfX0PzzCe8RAaK7gvmOfRn69eupabNVeqBv07alx4w==;vi7x8lTD+HkA7TLMsui0+g=="
 ---
 

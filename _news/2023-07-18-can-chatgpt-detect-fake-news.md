@@ -136,6 +136,20 @@ related:
         width: 700
         height: 462
         isCached: true
+  - title: "Calling out ChatGPT's wonky artificial intelligence grammar"
+    excerpt: "Is it possible to defame a robot? Common sense says not, but since when did that prevail over the ass that is law."
+    publishedDateTime: 2023-07-21T17:01:00Z
+    webUrl: "https://www.stuff.co.nz/taranaki-daily-news/news/300931786/calling-out-chatgpts-wonky-artificial-intelligence-grammar"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/5/5/b/8/image.related.StuffLandscapeSixteenByNine.1420x800.4z60ga.png/1689817737569.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "6va5BXxO3jI2bX9tXRsV2hPuL5/BK0AYUK/ePyuQSB5mtsCv0kkooPDf/q4ZWZuUsUHdDo1Z6Kszglj5t1/TLdj23jDFRNlDpe0ceQ0uAc2/x9s3muenrG3jhIumKWHS+u+a6ghCLwUnl++LV5rXMfRHbKjWDyjno7uIi8s+SSGWzMMJE1BKZduJk+MytObnwFga+LyHOk4OKP8QPjXXdDaoaEvwL88ATMZ8xc7YoXrzTGfVdhdJJipggbM9lXSOZmjbkFjV4w+pFiXn+wzzwj3FWSyKvHtx7Sc9XgpI+frIBfU8OLRfrX+7fqlP2RN6Va3ts7u+LzDZbV/Ro3NWZankosYAnZBONU4y9dqY3JY=;CzXmEQh6SCcTaCUlni7u7A=="
 ---

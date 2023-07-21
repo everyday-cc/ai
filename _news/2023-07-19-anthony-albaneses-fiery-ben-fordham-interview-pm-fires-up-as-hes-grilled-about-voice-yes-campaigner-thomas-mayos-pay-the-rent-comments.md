@@ -91,6 +91,38 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Australia news live: Anthony Albanese defends voice in fiery radio encounter with Ben Fordham over referendum"
+    excerpt: "Photograph: Dan Himbrechts/AAP The prime minister, Anthony Albanese, has just spoken to Ben Fordham on 2GB Radio about the Indigenous voice referendum. Fordham repeatedly asked about why the government is not proposing constitutional recognition and ..."
+    publishedDateTime: 2023-07-19T01:45:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament?page=with:block-64b7378e8f0835a0b4953305"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 25
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7499216ce728fe67438d3c8c617e663bc056a28/0_70_4656_2794/master/4656.jpg?width=620&quality=85&auto=format&fit=max&s=ec5280a765056b22e6e9f49566255927"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Ben Fordham doubles down on blistering assessment of Anthony Albanese's leadership on the Voice to Parliament"
+    excerpt: "He said the government could drop the Voice as part of the referendum, legislate the advisory body and instead propose constitutional change via recognition of First Nations people. “Take the win-win, at the moment he’s got a lose-lose,” Fordham told ..."
+    publishedDateTime: 2023-07-19T09:33:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 25
+    images:
+      - url: "https://content.api.news/v3/images/bin/7e389e4362267d89db6430f8cd9e56a1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Anthony Albanese urged to ‘drop’ Voice from referendum on constitutional recognition, legislate regional Voices to show they work"
     excerpt: "Prime Minister Anthony Albanese has been urged to drop the Voice to Parliament from the upcoming referendum, paving the way for constitutional recognition to be achieved while legislated regional Voices can demonstrate they work."
     publishedDateTime: 2023-07-18T08:18:00Z

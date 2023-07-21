@@ -35,15 +35,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
-    excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
-    publishedDateTime: 2023-07-19T13:48:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9850921.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Visa, Plug and Play partner on Africa Fintech Accelerator programme"
     excerpt: "Global payment platform Visa has partnered with Plug and Play, an innovation firm, to roll out applications for startups for its Kenya breaking news | Kenya news today |"
     publishedDateTime: 2023-07-19T06:25:00Z

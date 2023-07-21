@@ -17,11 +17,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_4.jpg?35335"
-    width: 374
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?138104"
+    width: 333
     height: 250
     isCached: true
 
-secured: "KDN5AR0OLFH8+ABZMjMYKor8Nim+6W6dLlmSMbnABHpTW5IZwD514hYCxqtNirafBdG5v2jHiOKo/aV9E2UBDKKYEVyWXPYWjEACeI3YeZB3MBWY6oeUqN+M1O4pMSPQf7+rGoB6BJqQC8Oa6J4c3qbgIOqPIS/snM8cxZifus83xtJoZ1TOhvlKMC9sEaxTVHH7qm6A2Ziv+k9gtA8ITfu7VmXbEyZ7FkseAAXMRD/iYARTtNr/8dN+hYnjoi4jjyIqNO5lCznrxd0rRj+17ZgG4ECvj5HtvIa/QNYDWR/SVDTMou9uIaDIjVYWpZr8cl4QqEIfr/8gKZC80mjq7YQQ6FsBfOuYC0hK4ONyElM=;jsiICF1ljHNhT6/FjNlLKQ=="
+secured: "eVKqDVCYGYHCC2SdbQR/7kb7jK3wcCJfNjbfcZlq18CojzyuclHQYz1Xv39nnF5b/zkvVGqJg9aNL7thkkmxz7mAjAkpPPRW9GK8zGzJx+N+vmsVystMf/LSp+w1nV0fwWjgbGkmN2X+1gzUU53lmNW2EMetdTfXvNLjdYDTStSf3pDxJMh7AQlWqypx9JZuziLNIyqqwtp3YYIyB8dLHhkJQXXJDwlf7fjbuFX21YL40g3CQi/q0mFez6BPTwNmxdCq+D1sBIdto/r6tpslZVbVYoz0UHUxX9cz7V+dj3iizeAD/IcuwL+GVVAx5Orl8aD1groDIjLr3zjZLarUbYRAmp9afvtDJP9sA47ciBE=;DFoqyHDDiz7VbL3Veo+OUA=="
 ---
 

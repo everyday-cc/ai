@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Commentary: The dilemma of artificial intelligence"
-    excerpt: "A recent newspaper article caught my eye. It suggests that the applications of ChatGPT, the “artificial intelligence” software that allows users to “produce complex, human-like responses,” may bring r"
-    publishedDateTime: 2023-07-17T09:00:00Z
-    webUrl: "https://www.eagletribune.com/opinion/columns/commentary-the-dilemma-of-artificial-intelligence/article_1a2a627c-240a-11ee-9fcb-67e181ac6306.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/9/35/9356c520-6dce-11ed-b6ef-ffdc2b22ca65/63322bc968b53.image.jpg?crop=1244%2C653%2C0%2C505&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "WmPzXypriJo+rnTjMoOX2ifHde8QAAGGhXRwabjlLkUzAr9lGlhamANIeXj5exRIBOpME6aLfkDLih1ajAXaT/p5r32Xk2AYr2bG1Q+bdrNrCV+4P5nPf5txmAIMr6oge0VsotWacP4+2CyKxrzfZ9CtsB9mrSGDQHEUlOKlQbM85Ah3pK7gblx25tDVeEdJP3TB0BjzLOMLn4uS+Def/hu6jw6CiB7Cg7G+Gpv1/rUdHtzmtUa7Krh2vR/e/zA2uPXWFgalLGwuJ+t+5v+k601dcPyJOO1e0VNjcn9RuWln9UeHYH04ufF6lbMGIHMNxeDswD231aF3Zs2LT+4VE3cO5Q4tipouMA3244CxyBsJnXaFXesfYlWCo9bu4YgkNUKAdwQzDF5M4UxjHElBHeXWxFzbWTyLKxbTnkS0PJ5+FTK/yHKMY4gfUjA7lH80IJMZKvVUYHQgimFGdocQ68imR1QYQ1lxIoyrFkuQBnsumWlwkLlrjnG+suOQG7GyBCZXhWveBTK3Mb1W4ViugQ==;LJ4FzlAfRBUj0PVGm49jNA=="
 ---
 

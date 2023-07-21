@@ -1,30 +1,22 @@
 ---
 category: news
 title: "A generative AI tech startup Wayne Hills Bryant A.I produces Sci-fi film, 'An AI-driven new cinema movie'"
-excerpt: "For the first time in South Korea, a large multiplex franchise produced 100% generative AI filmAfter an extensive premiere, it will be screened in multiplexesIn the film industry, it is predicted to h"
-publishedDateTime: 2023-07-19T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33293314/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33293314/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
-ampWebUrl: "https://www.benzinga.com/amp/content/33293314"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33293314"
+excerpt: "In collaboration with a multiplex franchise, Wayne Hils is currently reviewing a rollout plan to play AI-generated films at multiplexes. 'Wayne Hills Matrix AI' will create AI-based content in a wide range of fields, including music videos, blockchains, and digital twins, along with movies."
+publishedDateTime: 2023-07-19T22:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-generative-ai-tech-startup-wayne-hills-bryant-ai-/2023/07/19/9851247.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-generative-ai-tech-startup-wayne-hills-bryant-ai-/2023/07/19/9851247.htm"
 type: article
-quality: 40
-heat: 40
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "b8GGRBvFTMz0d0utWEEHwVtDgaaMpzQkOaDr9foQ/bSa4JLVUlmgbG20P5mX4S9xc/4CAsmH+zAes8yHSWoh8zuy4zhv2HfpoC3zDTrCOrOmUHICXtAVgpdW84Xn0R9JW8cmhDp1bDDjGIitsMDktJjuGSk/Ta7TrEBwwspqy8mWLvr8c3fc0ciznjberYwBaLgcPwbDBnzFCL/I4ufOcJWHht16wZ7pxys75XDa/VQMQx/SN1zxnwCGkRMyH5XoyzY9CaJgZsB6kce14/iCRiG6UUBV9CKVI1MXudjgs0r0up/HryrJJPI/pdXARG5fxgxdwW4tF7dpsb73VD9/2w44ROT/Kx/ncZWKaAAh3lk=;SwsCCECILEn3bZqbkbOELQ=="
+secured: "rJLK0YHAl0K9Sb1Flrc/dly9uQdRgcnXbtPbqnKpd5kKAmkTSjsuDBG9ziU5NYlITwSMzz9ABRzXoa94GNIitsAS2ZpIjgBsRHzAsW7O2bDtg/o0DmXrpPdR8v4StDeCYapmifKy22EJAtx+caRWfH6ZWmg/LK8Ia5miJb5tO91nwvL0GquDNeWhrh+Gg0Tr27ZUJWTQ4PQR6HOX0oln2h6brw6dlQVEcfuusZWgHCHzAevCNliQUxKoqDWetKwZvRsTsNbErRqwsvRoGd99asgM9np1O8qF7MqnfZv4KzIxgUL/D0EhzNIKnoJft2iqDoOg5vQbj31IZi8DthyA6jR7hZZtO5EthD7gs4sj/pk=;vT0bAsp5xMGG59XfQ2OhcQ=="
 ---
 

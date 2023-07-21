@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "How AI Will Augment Human Creativity in Film Production"
+    excerpt: "AI video editing tools will enhance efficiency in the film industry, not be a total replacement for human creatives."
+    publishedDateTime: 2023-07-20T13:00:00Z
+    webUrl: "https://variety.com/vip/how-artificial-intelligence-will-augment-human-creatives-in-film-and-video-production-1235672659/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 17
 
 secured: "2kEatGpDm1HjE2B5ZCeUeTyE4Nyluo3a1edsoqTaqicx3iMOFpEbcWz2aJQGTQ0HwAOQWZ3gYfGv1jH3i0u9oGmCTh3kf8PHTp6DArxdqjc67NLRAY68vYWSmjgDWhwHHvbfxAjAzFI7wJDdoK7DkSvx/MQWeFVRI2x6gLhzf4kNtQiA9J4+zX+XRcuQnTKiyDkciaW3ezsc4DOBK1019afKZ4956c70W0dOi0jexYqgwf5+BrNKYdV0W48Dw8KGPAYsJCzJMraCq1hJiMEkfnk3MZ5txz81CHGfsdqHa49NNl4StMFhc4zZpHXJ/v/A691ghKh3t9QGIZjfnUeJAVl3wUBOuV6RQ3wSBlrlTRU2w+1n9iDHnJ73KURbpZOfRw07z7ztGXbYjD8OG3FXMGvVcK4HbKXzybJ3/uk9k6mEhkt/tsEyiHDj/OBEQMe2shldBoAt/IrGV51lp+Bcbd29HjiV0OQj0Kg9Z8Hriz8JZaX6RjE4+grZUwUCVceN3KJtBJsnYuIWPhKzVX2msw==;T67NUMypmQgIdAKIrJfQxw=="
 ---

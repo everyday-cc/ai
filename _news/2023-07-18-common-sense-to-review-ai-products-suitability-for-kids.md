@@ -61,6 +61,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "How AI Will Augment Human Creativity in Film Production"
+    excerpt: "AI video editing tools will enhance efficiency in the film industry, not be a total replacement for human creatives."
+    publishedDateTime: 2023-07-20T13:00:00Z
+    webUrl: "https://variety.com/vip/how-artificial-intelligence-will-augment-human-creatives-in-film-and-video-production-1235672659/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 17
 
 secured: "UfAd+9lHZ40gLyoJldTmP05ZXxcVWbYlNMD9AErPhUHQQIPoVJ0S+jTFBIwygCWmCvlinveiAgbbmUwv91PgUeiXajsiKnNXmAYWdlowUoBYxHx2fXrBqmO3dFQclWGdG+5kU+MuPqbi187XcKZe40yr2zGw4OSrFd77+YRu0Zs2N4JSXyWkKpmBQrhDpX50riFYJdRlD67qlgrtKuT4A1MKSKmC4Mhq5D++JandrwV7vEMgCjjiRXwIyoUKYMIBGspTVbu2af3xgtb+9yywWoj0J7bji93/nOdzFEh/4ive+bFqgP/qBexMLe3iariUg4JIA/eSMsSNNkrGRikZf7NlSOvxHaINsL6WfFL7If8=;eHfTti1Ibau/f5ltx0ZA2g=="
 ---

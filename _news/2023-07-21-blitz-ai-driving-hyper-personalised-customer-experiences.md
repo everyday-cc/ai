@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/videos/blitz-ai-driving-hyper-personal
 webUrl: "https://fintechmagazine.com/videos/blitz-ai-driving-hyper-personalised-customer-experiences"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 631
     isCached: true
 
-secured: "/vGc0gyQY958NfrB6QbWy3K457c3qxgu7TuIfJsrjy+PaAO1uflh3CRFaqXJGFR0DQOJ/7nZgK0aWVTozwUPbxDMF8rM/u1z0gDz4qoP6y6AWn3cqf9bGXcOmyMmZCepPFt7K5wBQw3R60eQP4t5Svp5W0rXbqJeKfqOPncK7B95FmwmXkKcBbU0wWs/XhqgmEClxCoOXSlBzPV0/GXVUAefnSt6uzcRmarjDBsUc363aw22PVOsEhfWQWDIaqEUeS62vSDji6DUNUm+4zuq6YCJ1D8Ad8uagRQMs1MuF0rxqfSYeZR0vmL/N2g4aqxsd4a5xhjRjWLZl0aR99Vhqh387GoE37XaBUS5HR/fRQI=;iUw5nuKKlAS4nlxkBtuAgQ=="
+related:
+  - title: "AI-driven personalisation: A new era in Ghanaian banking services"
+    excerpt: "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients."
+    publishedDateTime: 2023-07-21T16:42:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/AI-driven-personalisation-A-new-era-in-Ghanaian-banking-services-1809434"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 54
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
+secured: "Ra87E5wUIp2tpcN9Vi+qEQZbrtrOCVNHleqzuraxc57Z7ystNKNSJLjiyAAdapw0eLj+JYs0TekixetrNEQswW1LFJXpktBdCzWTrI6oVm0mNJ0ty8kpz+oVgyaIHkc7IDQQEJr+AlhQIjrJlhcLDkzmOnjNFwbvkMb7oVYamcQLyks5R+0cBYJ6Ki8dgxcqW9Unp4zScazcLJpT1zluy8Y0LwNZ0S0l3HUuMystCylmYm3+5ewjgWAqzwyueC7s/VWZ5ollO5sb6z/ZygInNSIZSsYlnm00OLTAjCb4CG0tlf6UM3IMlpSlhwS7KD8Isbwve+2j+Oxg3UmBovaYvt974R+IsZLAt1zHc8/hUSCFZqRgT+k9tKXdIe4j3gcEf1BE7ykTYPsVnSHnyvw127nI055acF3t5ApexenLB1aysutovUTsxEdqrhUAP1qeq+jg7UbCEnGaYiy6HJHPrykEAa0F2o5g4Xs7Gyyq9rnG743FdwiTrGWHw6WhC6cfmQWWVa/Us0/Ucl4n8kwAjw==;Y3z5mk9lTEebuYh3S5bpkg=="
 ---
 

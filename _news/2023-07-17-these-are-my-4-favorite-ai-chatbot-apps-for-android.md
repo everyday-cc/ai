@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -207,20 +207,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2022/07/04111356/meta-novi.jpg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "Google’s AI chatbot is trained by humans who say they’re overworked, underpaid and frustrated"
-    excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes."
-    publishedDateTime: 2023-07-17T00:24:00Z
-    webUrl: "https://www.adn.com/nation-world/2023/07/16/googles-ai-chatbot-is-trained-by-humans-who-say-theyre-overworked-underpaid-and-frustrated/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 28
-    images:
-      - url: "https://www.adn.com/resizer//qfD9dc2y-2ScJwH2WX9A4-ZQmlg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/YFO56FBZZO67WOWMR2J3EBFHR4.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Apple reportedly developing ChatGPT-like AI chatbot"
     excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"

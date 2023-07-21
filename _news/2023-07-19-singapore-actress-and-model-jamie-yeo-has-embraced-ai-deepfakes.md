@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo"
+    excerpt: "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes."
+    publishedDateTime: 2023-07-21T17:10:00Z
+    webUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg"
+        width: 800
+        height: 574
+        isCached: true
 
 secured: "pClDlhZKqAAc+fcWy4YZhqH7GRG8WH0mCn2ghqOrriQgqTh/4DKwolytI/rwQTCc9Ff2HPbOmVt9D2RpmebqLA7PAShdbGxEk4Lczs6Ehyxq9lt3ZUll9tulp5gLLkwf/ppZlPi3mo92erIsb6RcKAtPAbHRylArYOGPayE1LMeTI7LeLmtvvL5E2PG/n3erc657KLPws8NEaEsDrpaQABEgFh82uCnlkFkvQJEQ2LzHBheKBKGx5QwUiY2OweI541sM/hgamovHMsRABnw4iEQDpX2xz3NjcXiY5o67polvfm9YvEj6n+ZO0UUC4+LFDJ+SLPEP6U3ilW/NyLRJtevzeIpjasp6yGJ54AnVFa1ykQToONPpa+sP34WeQdmLLZVXDy0eRA7VkhlLGzTNJrUGOZ9oUfp51A2sFSYMfW/Qi68Cn3oTvPGsSUeP3E+3MRD4sAXet/RZWJx+XeTf21cLlb1OXIvRQ+IQF49CI4quqUs2YWQvVWWrFAEHkGz0AlqNJ4Rf/YnnP9C9NI0ppg==;uT+ZsKjTp/wdsqlAaQlijA=="
 ---

@@ -35,15 +35,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
-    excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
-    publishedDateTime: 2023-07-19T13:48:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9850921.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Visa calls on fintech founders for accelerator programme"
     excerpt: "Visa has pledged to spend $1bn in Africa by 2027 and initiatives like the Africa Fintech Accelerator helps the payments giant achieve that goal, while also strengthening the continent's payments ecosystem. The programme is focused on startups operating in Africa and will run over 12 weeks twice a year with up to 20 startups per cohort."
     publishedDateTime: 2023-07-20T12:34:00Z

@@ -25,24 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla chair Robyn Denholm joins Australian AI healthcare start-up"
-    excerpt: "Tesla chair Robyn Denholm has joined the board of an Australian healthcare start-up backed by Hong Kong billionaire Li Ka-shing, as it seeks global adoption of its artificial intelligence-based medical imaging technology."
-    publishedDateTime: 2023-07-19T14:02:00Z
-    webUrl: "https://www.ft.com/content/b4170e35-8f59-4bac-8e08-76d9e434a54e"
+  - title: "Australian DishBrain researchers receive more than $400K to merge AI with human brain cells"
+    excerpt: "Researchers in southern Australia have recently been granted more than $403,000 in funding to merge human brain cells with artificial intelligence technology."
+    publishedDateTime: 2023-07-21T16:28:00Z
+    webUrl: "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells"
+    ampWebUrl: "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 51
-  - title: "Tesla chair Robyn Denholm joins Australian AI start-up Harrison.ai"
-    excerpt: "Tesla chair and Blackbird Ventures operating partner Robyn Denholm has joined the board of Sydney-based healthcare tech start-up Harrison.ai as it moves to scale up its AI-based medical solutions."
-    publishedDateTime: 2023-07-20T06:30:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/tesla-chair-robyn-denholm-joins-australian-ai-startup-harrisonai/news-story/6499c96367a79123aae3c51cbd1a72d8"
+      name: Fox News
+      domain: foxnews.com
+    quality: 81
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Australian DishBrain team wins $600,000 grant to develop AI that can learn ‘throughout its lifetime’"
+    excerpt: "Team exploring field of synthetic biological intelligence hopes to create a machine that can ‘learn throughout its lifetime’ – despite concerns over the ‘existential risks’ of such technology"
+    publishedDateTime: 2023-07-21T06:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/21/australian-dishbrain-team-wins-600000-grant-to-develop-ai-that-can-learn-throughout-its-lifetime"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/21/australian-dishbrain-team-wins-600000-grant-to-develop-ai-that-can-learn-throughout-its-lifetime"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/21/australian-dishbrain-team-wins-600000-grant-to-develop-ai-that-can-learn-throughout-its-lifetime"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 34
+      name: The Guardian
+      domain: theguardian.com
+    quality: 42
+    images:
+      - url: "https://i.guim.co.uk/img/media/70420681b7fde739ca852ab9e9b16a3fcb68b7d3/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=1fc8edf07129ba981895400bae2efe34"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "fnVqstrgC7qxsTCaN70DQHAY+RwKYCCQUbPcMV2S6olYoyaLotFjSIcto7/kJMBImZ4wdk3IhHTOwuk33MdLjzZaCVuXsXtCqEfK1uTKfrpAAHcgda1HUAEHTv65mYj25MNMcjOMzoof2DbivxxLycwiI8HmYby7EgrWgN1kMKIpKjpDEOJ/1JWlIzAmPqCbbvI5visJeHAoRH0UQLUslzjwvZmI6+87lcNCRxt5AQJnNUc49HngQ4jZ957cKriG2KHQzlvH7hZCIoEdIskDik07tRexM4OjTCQo9kxpyZnFcjBrs5BstaYYavgMzHLzikT0OlOWFMJ+HX8NFEvSvZByJesI5GlNYlrygTMVYog=;/jKd9GxuVcHKd3PayJ4NTw=="
 ---

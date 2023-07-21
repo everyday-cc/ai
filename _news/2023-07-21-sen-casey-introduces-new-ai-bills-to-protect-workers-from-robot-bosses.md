@@ -35,6 +35,20 @@ related:
         width: 4389
         height: 2926
         isCached: true
+  - title: "Will the No Robot Bosses Act Protect Workers from AI Decision-Making?"
+    excerpt: "In response to the growing prevalence of artificial intelligence (AI) in the workplace and concerns about potential misuse and abuse of the technology, U.S. Senator Bob Casey has introduced the No Robot Bosses Act,"
+    publishedDateTime: 2023-07-21T15:35:00Z
+    webUrl: "https://www.cryptopolitan.com/no-robot-bosses-act-ai-decision-making/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 54
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/JasperArt_2023-07-21_23.33.04_upscaled.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "No robot bosses: Casey introduces legislation to protect workers from being managed by AI and Bots"
     excerpt: "Hawaii, introduced legislation to protect job applicants and workers from employers using automated decision systems to make employment decisions,"
     publishedDateTime: 2023-07-21T12:00:00Z

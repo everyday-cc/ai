@@ -212,20 +212,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Google’s AI chatbot is trained by humans who say they’re overworked, underpaid and frustrated"
-    excerpt: "Internal documents show complex instructions for chatbot feedback that workers are asked to complete in minutes."
-    publishedDateTime: 2023-07-17T00:24:00Z
-    webUrl: "https://www.adn.com/nation-world/2023/07/16/googles-ai-chatbot-is-trained-by-humans-who-say-theyre-overworked-underpaid-and-frustrated/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 28
-    images:
-      - url: "https://www.adn.com/resizer//qfD9dc2y-2ScJwH2WX9A4-ZQmlg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/YFO56FBZZO67WOWMR2J3EBFHR4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0uDqfu7Z7W2buzSAiG4DOJLHZfUwedtQDT1E1vwHrLIYUsdUsa/0FQAQ1tObgf76YRQOsD/ZuV8lt7aKJX4TQXWGHPBjc1ld5TtmO/aRk2H/2iPQA2Ijxdu9gIPn5uSnv5bW4oLyo7Km0GAZOX2Ha0ZLQzkN63aza07ONPGXVLcM1nhK52q3Oovse13klt1SIS4ELt0aJeKSay3OdI+Amc++Nru7dmzYIko1l3cPAKJQaS/WGLSwo4gYsv9FIvIaGgLY1XZaeKoNT8iLKt2d+CLKvN2LUEKykDAvTRpbNP51GRY9oaDH6BLc0SkySe1IDJXH/fK5DRMPC2BTY4oaCO66gyAJhewyIQOvv6EvskHn9SvfFlfIiNuZpLuCcr4BCLfSsH83gLQdEZFpEJO3jCL1E/NvEEXszQxbjjuBdAqRR4cyCWfA6Sp3mChfNj4uzrY/kfgqZIKvSGxo8HhwyLzxykCahaPxvyC9Yxb5FpyRzXXXjGLuxvw3kxxoA3IXvFWRM5xhZ8l4Ur5Dvh8fAg==;p73nBt2g1UMVWmpPnJw0Mw=="
 ---

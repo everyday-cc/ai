@@ -119,6 +119,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Elon Musk: Tesla In Talks To Share Controversial Self-Driving Software"
+    excerpt: "CEO Elon Musk says he is talking to a major automaker about licensing Tesla's hardware and Full Self-Driving software. A \"major automaker\" is interested, Musk told investors on a call that branched into updates on the Cybertruck, robotaxis, AI, robots and bionic limbs."
+    publishedDateTime: 2023-07-21T17:01:00Z
+    webUrl: "https://www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/"
+    ampWebUrl: "https://www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 59
+    images:
+      - url: "https://www.motortrend.com/uploads/2023/07/Tesla-Elon-Musk.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Elon Musk confirms Tesla is in ‘early’ talk to license self-driving tech to ‘major’ automaker"
     excerpt: "Elon Musk confirmed that Tesla is currently in ‘early’ discussion to license its self-driving technology with a ‘major’ automaker. At the end of his opening remarks for Tesla’s Q2 2022 earnings call following the release of the automaker ..."
     publishedDateTime: 2023-07-19T23:27:00Z
@@ -263,6 +279,6 @@ related:
       domain: investing.com
     quality: 13
 
-secured: "MD6CbCWdE9G/xrOW/WU+/Pq6y9S8zOLP412dXrw+sl8qZVVVcYxgMtvq8loBGNjhP6FIq9aUz958zGqTNjSg7iksFZ2Fq2+/bqWl4UEU6UREwcC/wOXHe2kiuTR/npekrVuYpDbQmi/8mG5XfmYN32P7U24TIKJb3Qo2KiyvelgMsdq5sfrUce6MGT5po/PJZ2Mq+m7BXgOdNIPg9D+21JRaoBOP1Dpg0L8bIYpe6SUR0DY6cJ7xj3Myf46Mn87DaO1/rCHqD6xkyuUHwBJVMheQOfCtAcrVwQmXN+qldyM2eCuMbgQyyVlQfuELnY6gdCiw2vbrSOWVzvJwQu9WpmrNuDhsbE2PyLcGLtyH0No=;hURkRZ/xUdZ12ZxevmXmSw=="
+secured: "Ijo0gbJSRTTfD1mdg0k4aU8iIHzC3O3G0rogbEiuc13g5OGXmKaajrAxYeBKOESVXYHWxvItLFzC2wn36JO99HtX/pl0bJIh8O8G+KG4gmIGIghuxBARIgLZ9Xveg7xZhfsXgDr6Qa1V7yetNi4eM5kiUs4fD65ne9MfuoAAQoPusdMCAQIcagn6umqAXPsksEgp2fxle0nzpQ6mg/JO0YwGV2j9n4q1FkwIkEsF0+kooHOwjKHofEbN14btaaS0FLQIvaqja+kNs/hOZwHbs0PMLgLH0PqZpCTeVwi/PDCl3gTVgDyRI8joJciPtxPX8Ga4xj/xlD9b5r3WjH80m5U7pX5gTpr8mvFfNWpnekOXQJlZEAjjtOqs4cOpQxWYdzCI2yKTAesNF9NNgQqLtbfwp8bM0ZT5bBsa58syNYjO+3W+K7KdQALPCtsBs+JxGt1Xzkes68Z6Hot5Q9KIpSFAAEYREE2A1fePZgErAND3VA4XjuUdYfZ/SMgVpzCwQAKSI2IXDW1dvhz9UfrzOw==;ThlztNon46v23SUVrct4bQ=="
 ---
 
