@@ -2,6 +2,50 @@
   "page": 157,
   "value": [
     {
+      "path": "_news/2023-04-10-machine-learning-as-a-service-mlaas-market-forecasts-2023-2029.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Market Forecasts 2023-2029",
+      "excerpt": "There are many different sources of market data, including government statistics, industry reports, financial news, and market research firms. Some of the key types of data that are available from the global Machine Learning-as-a-Service (MLaaS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecasts-2023-2029-2023-04-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-04-10-apple-sued-by-baidu-over-fake-ernie-chatbot-apps-on-app-store.md",
       "title": "Apple sued by Baidu over fake Ernie chatbot apps on App Store",
       "excerpt": "Chinese tech giant Baidu has sued Apple and a number of app developers over fake versions of its AI chatbot that have appeared in the App Store. Baidu unveiled its own version of OpenAI’s ...",
@@ -987,49 +1031,6 @@
       "provider": {
         "name": "Popular Science",
         "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-was-the-self-driving-car-invented-in-the-1980s.md",
-      "title": "Was The Self Driving Car Invented In The 1980s?",
-      "excerpt": "The news is full of self-driving cars and while there is some bad news, most of it is pretty positive. It seems a foregone conclusion that it is just a matter of time before calling for an Uber ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
-      "originalUrl": "https://hackaday.com/2018/07/25/was-the-self-driving-car-invented-in-the-1980s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/car.png",
-          "width": 800,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

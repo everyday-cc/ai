@@ -2,19 +2,19 @@
 category: news
 title: "Facebook unveils more powerful AI model and makes it free to use"
 excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-publishedDateTime: 2023-07-18T22:45:00Z
-originalUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
-webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
-ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+publishedDateTime: 2023-07-18T20:41:00Z
+originalUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+webUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+ampWebUrl: "https://amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Sydney Morning Herald
-  domain: smh.com.au
+  name: The Age
+  domain: theage.com.au
 
 topics:
   - AWS AI
@@ -162,6 +162,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Flooded With Ads And Pages For Fake Chatgpt, Google Bard And Other Ai Services, Tricking Users Into Downloading Malware"
+    excerpt: "Cyber criminals are using Facebook to impersonate popular generative AI brands, including ChatGPT, Google Bard, Midjourney and Jasper <"
+    publishedDateTime: 2023-07-21T00:55:00Z
+    webUrl: "https://menafn.com/1106640306/Facebook-Flooded-With-Ads-And-Pages-For-Fake-Chatgpt-Google-Bard-And-Other-Ai-Services-Tricking-Users-Into-Downloading-Malware"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/20/M_5762eimage_story.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free"
     publishedDateTime: 2023-07-18T21:25:00Z
@@ -172,6 +186,6 @@ related:
       domain: abcnews.go.com
     quality: 4
 
-secured: "1cdaCI2qc+5BbBDF6aZ+hL3VFFwWkX1CuF0fxYut/lUJdLALRvbz1kqranLIY99B+pXJ0qjJ2baXIsd9cIWCueDwgAWgZ5nrw4si3aQ22IJBC9/up/GeDCctvqhezd6NS5IhD8xiYvt3OE8Y2uQ9K9bSYp39nTbve2bpINUzzv0WmUve0FY6YtWv+BW003T5kunjuFK4WePfCL9MvyjptMDBDyR8+WR+oHuhFE54Lajchf3Wj+cdtI5EDEWBs68qPD4EmHqE4DpIUG1beNC/Qp2WanwU5hIyfarRlc1FKFNM29kDpMbiCr5nj9CN7er+KSQyDHNhb5R6VPPviUx+w+20zjxI5gtRHKofj0En+1IcmhJQm7ikXS4C3y4zug3tdAMnOmc7mk+9r9WiNVMHrkLNXUp5ot1dP02+4a9ckCNKg1j4U/v5PGSrCDCvqJUgvNZ3h4Yr37qkAIINmdkD59c7+g5dDCun4342i+BZfLk9yX1SwR3fARdZtwQ2GOPnaXfT7kzIxQQa0LUa4/1B8A==;5aACUfVhrhOZ4ZOtoY6IuA=="
+secured: "KTKdu0N6UiRbL71NSAa/OrLoj+oQy7gvir83eY/+IZy5H1NLzYkBTZ2+wtSuTGHW95WDqOdY939Yf3I9QRdEAnIuHwUwRJW85kipzZ/t8/1tstCHu2Sxq15sQ++PGxt5BTCLPKTtiu4iyixS8JJw5wEg2Vnc0tgkhpLSDj4N2LtOjFbkwEP4t2mSpeCG+rj8NlRNPS3orLtBOzZnUH+Upa1V/6lrLzR5YanpS8dDEXc120rfqle/zxVbGmTwNj7n14ZwL7o4T9IMMa7P+X9+zu8KlaBvo1pIgxE4gHEAMzEiEiaq1sYGOQtZb2PPFtMe5PAFW0+JgcEZQcRE6+VjNHObbfwlTme14Jp0iUbT1XvBgHGnZRznZfTQZdPIHlmRY3a3nAY/oAua/7cYevotidW8nGsf2/tEENpeB2AD/TpCcwBktOYr9UZjGXt72azwH5tF+L0afkQhbv8EMQ2b/JZZP/WGKd3VL/ybG6jIPAGY6GGX7TQoEGTFAWR9m5MTMTLe45IJkzpEpnSj+XLeQA==;Mr+4T76JP4heSFWkS+bHLQ=="
 ---
 

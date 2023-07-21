@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106630766/Hitpaw-Video-Object-Remover-Mac-V121
 webUrl: "https://menafn.com/1106630766/Hitpaw-Video-Object-Remover-Mac-V121-Is-The-Ultimate-Solution-For-Mac-Users-To-Create-Seamless-Videos"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "HitPaw Video Object Remover Mac V1.2.1: The Ultimate Solution for Mac Users to Create Seamless Videos"
+    excerpt: "HitPaw, a leading software technology company, has announced the release of Mac version of the Video Object Remover – the HitPaw Video Object Remover Mac V1.2.1. This powerful"
+    publishedDateTime: 2023-07-19T17:27:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33289849/hitpaw-video-object-remover-mac-v1-2-1-the-ultimate-solution-for-mac-users-to-create-seamless-vide"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33289849"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33289849"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "S2u3fHWTpC2qS0QF+0xz/KD93dLycT4AnDNMdZPiU+CX/owF36HUpyX2UhMetfRG+GMNLSzWB4U4JlXicK02Wa/DV8XWi0CknZI7Jly3m8Oe/V1uoKyX8k56bJIgzL9UIohnstSsnskFXvYK5YO+vrASySq9I+oWmqNR9hAhAemavcxUV3NwsC1nsieMGiLk5bXqIGAgmxlWir8kaEdbQL8x66NUiOBL01v3HKkQyT25eYkmv3cDCgdZOUZ7UdQZ66FaVr8fHbV5otE7Cs9VoQzpPZDzDgACl0ECLjn0ov1f3usMgEMSPbStOFYCeyxWMWNoRiNXpfXrapZxoqHB5pUBh8vlmgCL38S+AaRIqrhvpGxKwh9uthdMi4fUk+dsLEDJYEU9SguYk4RLXp1MqUjdK5Rc2RlV8XRWBSv8BZxRQKGnWhbNEWju6/Coz/EwHVccuJcq6/jrayZGiivUcuufP0oRMzQq7nMvTJUFkXlFP6OHXEdIFoe6RT8o53naJOcngpZQaHG+w86gj0Hktw==;xZzprtmgvZsRMmwSOjx3vQ=="
 ---

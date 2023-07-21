@@ -32,6 +32,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 48
+  - title: "Cerebras Systems debuts powerful Condor Galaxy supercomputer to rival Nvidia in AI training"
+    excerpt: "With Condor Galaxy 1 now online, Cerebras is looking to showcase its technology and achieve wider adoption. Unlike Nvidia’s GPUs, which come packaged as small PCIe cards or SXM modules, the supercomputer is built using massive computer chips made out of entire silicon wafers, and are about the same size as a pizza."
+    publishedDateTime: 2023-07-21T01:04:00Z
+    webUrl: "https://siliconangle.com/2023/07/20/cerebras-systems-debuts-powerful-condor-galaxy-supercomputer-rival-nvidia-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Condor-Galaxy-1-in-Colovore-side-view.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "Cerebras Systems signs $100 million AI supercomputer deal with UAE's G42"
     excerpt: "Cerebras Systems on Thursday said that it has signed an approximately $100 million deal to supply the first of three artificial intelligence (AI) supercomputers to the United Arab Emirates-based technology group G42."
     publishedDateTime: 2023-07-20T13:02:00Z

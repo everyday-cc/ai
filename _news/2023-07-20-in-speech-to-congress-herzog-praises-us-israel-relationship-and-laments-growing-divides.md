@@ -7,7 +7,7 @@ originalUrl: "https://www.jewishexponent.com/in-speech-to-congress-herzog-praise
 webUrl: "https://www.jewishexponent.com/in-speech-to-congress-herzog-praises-u-s-israel-relationship-and-laments-growing-divides/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
 related:
   - title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
     excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
-    publishedDateTime: 2023-07-19T17:46:00Z
-    webUrl: "https://www.wvtf.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
-    ampWebUrl: "https://www.wvtf.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech?_amp=true"
-    cdnAmpWebUrl: "https://www-wvtf-org.cdn.ampproject.org/c/s/www.wvtf.org/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech?_amp=true"
-    type: article
-    provider:
-      name: WVTF
-      domain: wvtf.org
-    quality: 38
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/ffa19d5/2147483647/strip/true/crop/7313x4504+0+490/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F18%2Fgettyimages-1258335841-54ec62b50efb9c73e250628ee9bab28c088c1a74.jpg"
-        width: 880
-        height: 542
-        isCached: true
-  - title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
-    excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
     publishedDateTime: 2023-07-19T14:00:00Z
     webUrl: "https://www.wuwm.com/politics-government/politics-government/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
     type: article
@@ -52,6 +36,20 @@ related:
     quality: 18
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/00de5d3/2147483647/strip/true/crop/7673x4028+0+863/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F19%2Fap23200549299825-454cf20a50e7305cfc777623ed92fa1f49e8e926.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
+    excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
+    publishedDateTime: 2023-07-19T17:46:00Z
+    webUrl: "https://www.kpbs.org/news/news/politics/2023/07/19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 18
+    images:
+      - url: "https://cdn.kpbs.org/dims4/default/5c8f25d/2147483647/strip/true/crop/7673x4028+0+863/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F19%2Fap23200549299825-454cf20a50e7305cfc777623ed92fa1f49e8e926.jpg"
         width: 1200
         height: 630
         isCached: true

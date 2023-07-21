@@ -19,35 +19,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI Appreciation Day: Startup CEOs on technogly's giant leap and potential"
-    excerpt: "AI Appreciation Day is celebrated on July 16 annually to acknowledge its contribution to humanity and the significant role it plays in companies' prog"
-    publishedDateTime: 2023-07-16T08:01:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms"
+  - title: "Wired Wednesday: Analyzing the FTC investigation on Open AI"
+    excerpt: "Senior reporter for Market Watch Jon Swartz dives into artificial intelligence, why the FTC is investigating Open AI, how the Biden Administration's new security-labeling program works, and more. (07/"
+    publishedDateTime: 2023-07-19T20:38:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/video/wired-wednesday-analyzing-the-ftc-investigation-on-open-ai/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 58
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://static.toiimg.com/photo/msid-101798045/101798045.jpg"
-        width: 400
-        height: 222
-        isCached: true
-  - title: "AI Appreciation Day: Startup CEOs on technology's giant leap and potential"
-    excerpt: "AI Appreciation Day is celebrated on July 16 annually to acknowledge its contribution to humanity and the significant role it plays in companies' prog"
-    publishedDateTime: 2023-07-16T09:48:00Z
-    webUrl: "https://www.headlinestoday.in/technology/ai-appreciation-day-startup-ceos-on-technologys-giant-leap-and-potential-576565126.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 35
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
-        width: 1024
-        height: 576
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/19/4fe0dc0e-7f18-43d1-9f04-6b9971d800b8/thumbnail/1200x630/4740273a38f9e9da3b69e464fcd5e0c7/d6725e3ca71450aa1d9e3ad2ffb89333.jpg?v=95745651c879c36458baff76f9d6c670"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "b34nLumQQsAKXlnIEx6K6uvvCt1vz0J//Ipstjl7ActxfCLhhYyy4NqyG6WbuDMrtDCaw1m0s4wdK2hKtaOoLEdqgfSxFVXFlrZWVYMhXrLPU5Of9bQ9PxovetXM8d4g5NrBu02aKJ2bJaC32I+C71Vh5s7lw/tJk191Jq9REwRwww871vKV2Y5nL5YV59FceWxZl7mPEoiIW24DMrGGHYp8tvuHXgpAMuELDy9CJCj10QAlGtNxvToGoD37c5wl77yz4sFEiJQEsKx51dnnT6dTxja2k9Few8wVCMUX8c4GNxAQa5blEx/aG7+cz6/88mYc2rXBZrC5lKMYHgqVS3DwEPJHFQm8uNacrvUPxItQ7mb5U+krL6CvzORDTfQPDGGbGo8lF+McQmXH5WDhlH1HW2GgGR0R4ta2EOYhqKQZ//S4f+ehqTySB33XPWRgAH8YdMQ4tvwMQVHeLbUTfVtD0YUTkZ1QjfW1hsFWDxWr/LmF6bMRXCbJE3CRS11T7zheuvajECosnKfyhvomog==;JWTkMmYDInwgCKwplgOjsA=="

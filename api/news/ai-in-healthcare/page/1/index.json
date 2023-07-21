@@ -666,6 +666,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
+      "title": "Column: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
+      "excerpt": "To date, those promises are spectacularly unfulfilled. That brings us to artificial intelligence chatbots. In from three to eight years we will have a machine with the general intelligence of an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2023-07-13/column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster",
+      "originalUrl": "https://www.latimes.com/business/story/2023-07-13/column-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ab5f0a3/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2Ff9%2F9c8ad23e4785adec762058f585bb%2F1290944-et-ct-wga-strike-jlc-006.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-health-care-down-on-inflation-bias-health-care-roundup.md",
       "title": "Health Care Down on Inflation Bias -- Health Care Roundup",
       "excerpt": "Health-care companies ticked down as traders rotated into sectors with more to gain from a moderation in inflation. Health-care providers and drug makers",
@@ -1343,58 +1386,6 @@
         "name": "Washington Examiner",
         "domain": "washingtonexaminer.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-theres-one-hard-question-my-fellow-doctors-and-i-will-need-to-answer-soon.md",
-      "title": "There’s One Hard Question My Fellow Doctors and I Will Need to Answer Soon",
-      "excerpt": "Or so I thought then. Not even two decades later, we find ourselves at the dawn of what many believe to be a new era in medicine, one in which artificial intelligence promises to write our notes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
-      "originalUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/06/autossell/NYT_Medical-AI_ShiraInbar_Still/NYT_Medical-AI_ShiraInbar_Still-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

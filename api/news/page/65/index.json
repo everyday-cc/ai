@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-06-07-unlock-new-insights-with-azure-openai-service-for-government.md",
+      "title": "Unlock new insights with Azure OpenAI Service for government",
+      "excerpt": "You now have the opportunity to use Microsoft Azure OpenAI Service through purpose-built, AI-optimized infrastructure to securely access the large language models in the commercial environment from Azure Government.\nThe post Unlock new insights with Azure OpenAI Service for government appeared first",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/unlock-new-insights-with-azure-openai-service-for-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/06/Picture6-1.png",
+          "width": 936,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-waymark-building-the-future-of-commercials-through-ai-technology.md",
       "title": "Waymark: Building The Future Of Commercials Through AI Technology",
       "excerpt": "The world’s first official TV advertisement came with a 10 second spot for Bulova watches in 1941, while single companies sponsoring entire shows (with the broadcast",
@@ -1142,49 +1194,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-the-fight-to-stop-face-recognition-technology.md",
-      "title": "The Fight to Stop Face Recognition Technology",
-      "excerpt": "Robert Williams, a Black man living in Michigan, was handcuffed and hauled away by Detroit police in front of his wife and young girls because of a false face recognition match. Even though he was locked up for 30 hours despite being innocent, he considers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/news/topic/stopping-face-recognition-surveillance",
-      "originalUrl": "https://www.aclu.org/news/topic/stopping-face-recognition-surveillance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/wp-content/uploads/2020/06/WEB20-Facial-Recognition-Feature-SocialShare-1200x628-1.jpg",
-          "width": 1204,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aclu.org",
-        "domain": "aclu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

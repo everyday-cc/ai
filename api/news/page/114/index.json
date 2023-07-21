@@ -2,6 +2,49 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-05-09-study-presents-large-brain-like-neural-networks-for-ai.md",
+      "title": "Study presents large brain-like neural networks for AI",
+      "excerpt": "In a new study in Nature Machine Intelligence, researchers Bojian Yin and Sander Bohté from the HBP partner Dutch National Research Institute for Mathematics and Computer Science (CWI) demonstrate a significant step towards artificial intelligence that can be used in local devices like smartphones and in VR-like applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/human-brain-project-st.jpg",
+          "width": 1345,
+          "height": 1105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-large-brain-like-neural-networks-ai.amp",
+      "publishedDateTime": "2023-05-08T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-and-predictive-analytics-moving-from-insights-to-foresight.md",
       "title": "AI And Predictive Analytics: Moving From Insights To Foresight",
       "excerpt": "Given how much AI dominates today's technology conversations, many businesses feel the competitive pressure to jump on AI and analytics opportunities.",
@@ -1155,49 +1198,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae.md",
-      "title": "Saudi Arabia’s AI powerhouse, Mozn announces GCC expansion as it launches into the UAE",
-      "excerpt": "Regional AI leader to bring AML and Anti-Fraud capabilities to financial institutions across the Emirates, GCC, boosting their compliance journeys and accelerating economic progress",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzAzODlmNjktYWQ5MS00/0/mozn1-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/saudi-arabias-ai-powerhouse-mozn-announces-gcc-expansion-as-it-launches-into-the-uae-kxmryqlx?amp=1",
-      "publishedDateTime": "2023-05-08T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-05-16-would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns.md",
+      "title": "Would You Trust An AI Business Coach? Entrepreneurs Share Their Hopes And Concerns",
+      "excerpt": "Which roles are robots about to replace in our lives? Some entrepreneurs are ready to give AI business coaching a go, others are simply not convinced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6460f1b44d52fccdb358caf8/0x0.jpg?format=jpg&crop=3692,2075,x514,y881,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/16/would-you-trust-an-ai-business-coach-entrepreneurs-share-their-hopes-and-concerns/amp/",
+      "publishedDateTime": "2023-05-16T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-deep-learning-in-manufacturing-market-2023-2030.md",
       "title": "Deep Learning in Manufacturing Market 2023-2030",
       "excerpt": "The major players covered in the Deep Learning in Manufacturing market report are: Get a sample copy of the Deep Learning in Manufacturing Market report 2023 Market Overview of Global Deep Learning in Manufacturing market: According to our latest research,",
@@ -1155,49 +1206,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-dui-suspect-claims-tesla-self-drive-malfunction-after-marin-county-crash.md",
-      "title": "DUI suspect claims Tesla self-drive malfunction after Marin County crash",
-      "excerpt": "A San Rafael man was arrested on allegations of intoxicated driving after crashing a Tesla into three parked vehicles, police said. The driver told police the Tesla was in “full self-drive” mode, but a witness said it was swerving erratically and moving at inconsistent speeds before the crashes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/05/MIJ-L-SRPD-0117-01-1.jpg?w=1024&h=866",
-          "width": 1024,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "publishedDateTime": "2023-05-15T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

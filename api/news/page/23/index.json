@@ -2,6 +2,59 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-07-03-retain-original-pdf-formatting-to-view-translated-documents-with-amazon-textract-amazon-translate-and-pdfbox.md",
+      "title": "Retain original PDF formatting to view translated documents with Amazon Textract, Amazon Translate, and PDFBox",
+      "excerpt": "Companies across various industries create, scan, and store large volumes of PDF documents. In many cases, the content is text-heavy and often written in a different language and requires translation. To address this, you need an automated solution to extract the contents within these PDFs and translate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/retain-original-pdf-formatting-to-view-translated-documents-with-amazon-textract-amazon-translate-and-pdfbox/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/retain-original-pdf-formatting-to-view-translated-documents-with-amazon-textract-amazon-translate-and-pdfbox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/03/retain-original-pdf-formatting.jpg",
+          "width": 1022,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-03T07:30:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-07-03-ibm-acquiring-apptio-dividends-ai-and-collaborations-position-it-for-future-upside.md",
       "title": "IBM: Acquiring Apptio, Dividends, AI, And Collaborations Position It For Future Upside",
       "excerpt": "IBM has underperformed in recent years; shares falling 28.28% in past decade, but strong fundamentals and focus on AI and cloud services could change investor sentiment. IBM's recent acquisition ...",
@@ -1100,51 +1153,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.md",
-      "title": "AI and ethics: Building trustworthy and transparent artificial intelligence systems",
-      "excerpt": "As AI technologies become increasingly sophisticated and pervasive, it is crucial to address the ethical considerations associated with their development and deployment. This article delves into the importance of ethics in AI and focuses on the imperative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/06/Brain-image-3894384938.jpg",
-          "width": 1184,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-and-ethics-building-trustworthy-and-transparent-artificial-intelligence-systems.html/amp",
-      "publishedDateTime": "2023-07-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

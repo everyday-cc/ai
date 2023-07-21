@@ -101,14 +101,14 @@ related:
         isCached: true
   - title: "Facebook unveils more powerful AI model and makes it free to use"
     excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T22:45:00Z
-    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
-    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    publishedDateTime: 2023-07-18T20:41:00Z
+    webUrl: "https://www.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    ampWebUrl: "https://amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
     type: article
     provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
+      name: The Age
+      domain: theage.com.au
     quality: 39
   - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
     excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
@@ -162,6 +162,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg?resize=600%2C300"
         width: 600
         height: 300
+        isCached: true
+  - title: "Facebook Flooded With Ads And Pages For Fake Chatgpt, Google Bard And Other Ai Services, Tricking Users Into Downloading Malware"
+    excerpt: "Cyber criminals are using Facebook to impersonate popular generative AI brands, including ChatGPT, Google Bard, Midjourney and Jasper <"
+    publishedDateTime: 2023-07-21T00:55:00Z
+    webUrl: "https://menafn.com/1106640306/Facebook-Flooded-With-Ads-And-Pages-For-Fake-Chatgpt-Google-Bard-And-Other-Ai-Services-Tricking-Users-Into-Downloading-Malware"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/20/M_5762eimage_story.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free"

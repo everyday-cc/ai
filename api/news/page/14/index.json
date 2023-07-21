@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-10-gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry.md",
+      "title": "GPU-as-a-Service Accelerates Artificial Intelligence AI for the Telco Industry",
+      "excerpt": "ActivePort & Radian Arc make a strategic business alliance to enable high-performance AI. ActivePort & Radian Arc are excited to reveal their extended partnership.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/07/GPU-as-a-Service-Accelerates-Artificial-Intelligence-AI-for-the-Telco.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/gpu-as-a-service-accelerates-artificial-intelligence-ai-for-the-telco-industry/amp/",
+      "publishedDateTime": "2023-07-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-ai-powered-efficiency-unleashing-the-true-potential-of-saas-startups.md",
       "title": "AI-Powered Efficiency: Unleashing The True Potential Of SaaS Startups",
       "excerpt": "Let's dive into the efficiency gains that SaaS startups can achieve through integrating AI and a comprehensive framework.",
@@ -949,6 +992,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-10-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry.md",
+      "title": "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry",
+      "excerpt": "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook",
+          "width": 2423,
+          "height": 1269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-09T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-save-up-to-43-per-cent-on-an-ecovacs-deebot-robot-vacuum-in-the-prime-day-sales.md",
       "title": "Save up to 43 per cent on an ECOVACS DEEBOT robot vacuum in the Prime Day sales",
       "excerpt": "It’s Amazon’s Prime Day and there has never been a better time to purchase an ECOVACS DEEBOT robot vacuum/mop or the WINBOT W1 Pro window cleaner. If you’ve been on the fence about purchasing a robot vacuum or perhaps couldn’t fit one into your budget,",
@@ -1075,92 +1161,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry.md",
-      "title": "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry",
-      "excerpt": "ActivePort and Radian Arc join forces to enable high-performance AI. The collaboration aims to leverage Radian Arc's AMD-based GPU platform, already installed in a rapidly expanding network of 50 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33159070",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159070",
-      "publishedDateTime": "2023-07-09T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-robots-say-they-have-no-plans-to-steal-peoples-jobs.md",
-      "title": "AI robots say they have no plans to steal people’s jobs",
-      "excerpt": "Other robots at the conference spoke about how they will work 'alongside humans'.\"I will be working alongside humans to provide assistance and support and will not be replacing an",
-      "sourceUrl": null,
-      "webUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "originalUrl": "https://www.ladbible.com/news/ai-robots-wont-take-jobs-040363-20230710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt3bbac8804ae9effd/64ab5b509ead61410cfd5d19/Screen_Shot_2023-07-10_at_11.12.59_am.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-09T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LADbible",
-        "domain": "ladbible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s AI Advancements and promise is why investors are pouring into InQubeta presale"
-    excerpt: "In the realm of AI advancements, Google has long been at the forefront, driving innovation and pushing the boundaries of what is possible. These developments have caught the attention of investors who recognize the potential and promise of AI technology."
-    publishedDateTime: 2023-07-16T07:17:00Z
-    webUrl: "https://cyprus-mail.com/2023/07/16/googles-ai-advancements-and-promise-is-why-investors-are-pouring-into-inqubeta-presale/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 31
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2023/07/qubeta-ai.png"
-        width: 778
-        height: 498
-        isCached: true
   - title: "AI-Powered Startup Lemonade Takes the Pain Out of Insurance in HOBBY’s New Comedy Spots"
     excerpt: "HOBBY director Beatrice Pegard shows how Lemonade is shaking up the insurance game in three weird and wonderful new spots. Each tackles a familiar pain point for customers trying to manage their insurance - poor customer service,"
     publishedDateTime: 2023-07-18T16:26:00Z

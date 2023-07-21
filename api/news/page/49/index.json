@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-06-18-artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva.md",
+      "title": "Artificial intelligence (AI) Chips Market Briefing 2023 to 2030 | , Intel Corporation, NVIDIA, Adapteva",
+      "excerpt": "Chips marketing report is one of the most important, distinctive, and trustworthy market research studies that is tailored to certain business objectives. The Artificial intelligence (AI) Chips industry research is painstakingly created while upholding commitments and timelines in order to provide the best industry insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-briefing-2023-to-2030-intel-corporation-nvidia-adapteva-2023-06-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-18T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-18-celebrities-use-ai-to-take-control-of-their-own-images.md",
       "title": "Celebrities Use AI to Take Control of Their Own Images",
       "excerpt": "Using AI-generated duplicates, brands also benefit, using stars in ways they never could before.",
@@ -1172,58 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-17-zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee.md",
-      "title": "Zyrobotics becomes Microsoft's first AI for Accessibility grantee",
-      "excerpt": "Custom speech models have been created using Azure Machine Learning and Microsoft Cognitive Services in order to identify and provide feedback which is quite similar to what may be provided by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/",
-      "originalUrl": "https://www.neowin.net/news/zyrobotics-becomes-microsofts-first-ai-for-accessibility-grantee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2018/09/1537837168_satya_nadella_story.jpg",
-          "width": 760,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-16T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

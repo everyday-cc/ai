@@ -71,6 +71,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "The Next Frontier For Large Language Models Is Biology"
+    excerpt: "AlphaFold was not built using large language models. It relies on an older bioinformatics construct called multiple sequence alignment (MSA), in which a protein’s sequence is compared to evolutionarily similar proteins in order to deduce its structure."
+    publishedDateTime: 2023-07-16T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b19a27ab6a497e66e9bcfd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 786
+        isCached: true
   - title: "Meta’s latest AI model is free for all"
     excerpt: "Meta is going all in on open-source AI. The company is today unveiling LLaMA 2, its first large language model that’s available for anyone to use—for free."
     publishedDateTime: 2023-07-18T15:59:00Z
@@ -124,15 +140,6 @@ related:
         width: 860
         height: 510
         isCached: true
-  - title: "The Next Frontier For Large Language Models Is Biology"
-    excerpt: "Large language models like GPT-4 have taken the world by storm thanks to their astonishing command of natural language. Yet the most significant long-term opportunity for LLMs will entail an entirely different type of language: the language of biology."
-    publishedDateTime: 2023-07-16T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?bingParse"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Meta has launched a new, open-source AI model"
     excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
     publishedDateTime: 2023-07-19T02:04:00Z

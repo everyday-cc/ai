@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-05-29-drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit.md",
-      "title": "Drone Nerds to Feature UAV Platforms at Energy Drone and Robotics Summit",
-      "excerpt": "Drone Nerds, an enterprise drone solutions provider, will attend the 7th Annual Energy Drone and Robotics Summit in Houston, Texas. The Energy Drone & Robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32614299",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32614299",
-      "publishedDateTime": "2023-05-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-29-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution.md",
       "title": "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution",
       "excerpt": "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,",
@@ -1337,6 +1294,58 @@
         "name": "The Robot Report",
         "domain": "therobotreport.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-figures-humanoid-robot-takes-its-first-steps.md",
+      "title": "Figure’s humanoid robot takes its first steps",
+      "excerpt": "The startup is well-funded, bootstrapped with $100 million ... much in a humanoid is a big vote of confidence in the future intersection between robots and generative AI. These are three different humanoid robot renders from three different companies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/",
+      "originalUrl": "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/image-21-e1684409322876.png?resize=1200,855",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/amp/",
+      "publishedDateTime": "2023-05-18T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

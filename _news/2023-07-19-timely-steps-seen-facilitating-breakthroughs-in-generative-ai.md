@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "16 health systems join generative AI consortium"
+    excerpt: "Avia's Generative AI Strategic Collaborative to research AI opportunities, risks, data ownership, privacy, regulations, and ethics."
+    publishedDateTime: 2023-07-19T14:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/16-health-systems-join-generative-ai-consortium.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Unveiling The Latest AI Breakthroughs: From Chatbots To Self-Driven Cars"
     excerpt: "Welcome to the future, where artificial intelligence (AI) is revolutionizing every aspect of our lives. From intelligent chatbots that can have natural conversations with users to self-driven cars navigating through busy streets,"
     publishedDateTime: 2023-07-20T11:12:00Z

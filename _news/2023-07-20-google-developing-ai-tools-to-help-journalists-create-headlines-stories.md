@@ -63,17 +63,17 @@ related:
         isCached: true
   - title: "Google says it’s developing AI tools to help journalists create headlines, stories"
     excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
-    publishedDateTime: 2023-07-20T23:34:00Z
-    webUrl: "https://www.wabi.tv/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-    ampWebUrl: "https://www.wabi.tv/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+    publishedDateTime: 2023-07-21T01:35:00Z
+    webUrl: "https://www.kktv.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+    ampWebUrl: "https://www.kktv.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
     type: article
     provider:
-      name: WABI-TV
-      domain: wabi.tv
+      name: KKTV11
+      domain: kktv.com
     quality: 53
     images:
-      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/V1tacnFPKNAgF97OCUY6xtP-rV4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JDK2X6Z63NB23K2VDCW3RRO64I.PNG"
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/d1zVN7EXXEyuGgp6KxUoTCK-Pq8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5KJR6DZFNNFRXPIQWTDY47T4GA.JPG"
         width: 800
         height: 450
         isCached: true

@@ -2,6 +2,50 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-06-16-facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition.md",
+      "title": "Facebook Parent Company Meta Uses Bible Translations To Train Artificial Intelligence In Speech Recognition",
+      "excerpt": "The artificial intelligence arm of Facebook parent company Meta has turned to widely translated religious texts like the Bible to provide data for its Massively Multilingual Speech project, which aims to expand text-to-speech and speech-to-text technology to underserved languages.",
+      "sourceUrl": null,
+      "webUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
+      "originalUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/586d154f03596e5605562ea7/1686861909051-3NPADGDTEKDDVYNEYHWT/image-asset.jpeg?format=500w",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
+      "cdnAmpWebUrl": "https://religionunplugged-com.cdn.ampproject.org/c/s/religionunplugged.com/news/2023/6/15/facebook-parent-company-meta-uses-bible-translations-to-train-artificial-intelligence-in-speech-recognition?format=amp",
+      "publishedDateTime": "2023-06-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Religion Unplugged",
+        "domain": "religionunplugged.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-16-venture-capitals-ai-run-lettuce-farms-start-to-go-bust.md",
       "title": "Venture Capital’s AI-Run Lettuce Farms Start to Go Bust",
       "excerpt": "The pitch for vertical farming had all the promise of a modern venture capital dream: a new way to grow crops that would use robots and artificial intelligence to conserve water, combat food insecurity and save the environment.",
@@ -1167,49 +1211,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-16-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
-      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
-      "excerpt": "SAP® and IBM announced that IBM Watson® technology will be embedded into SAP® solutions to provide new AI-driven insights and automation to help accelerate innovation and create more efficient ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106443967/SAP-to-embed-IBM-Watson-Artificial-Intelligence-into-SAP-Solutions",
-      "originalUrl": "https://menafn.com/1106443967/SAP-to-embed-IBM-Watson-Artificial-Intelligence-into-SAP-Solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-06/15/pr_2392_bc38ab02_image_story.jpg",
-          "width": 1920,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-15T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

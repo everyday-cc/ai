@@ -2,6 +2,40 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-06-29-moodys-and-microsoft-develop-enhanced-risk-data-analytics-research-and-collaboration-solutions-powered-by-generative-ai.md",
+      "title": "Moody’s and Microsoft Develop Enhanced Risk, Data, Analytics, Research and Collaboration Solutions Powered by Generative AI",
+      "excerpt": "Moody’s Corporation (NYSE:MCO) and Microsoft (NASDAQ: MSFT) today announced a new strategic partnership to deliver next-generation data, analytics, re",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230629870570/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230629870570/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-baidu-and-ai-history-investments-and-regulation.md",
       "title": "Baidu And AI: History, Investments, And Regulation",
       "excerpt": "Reflect the core values of socialism, and must not contain subversion of state power, overthrow of the socialist system, incitement to split the country. Beat Billions offers a wide range of tools ...",
@@ -1083,57 +1117,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-how-generative-ai-is-transforming-supply-chain-and-procurement-roles.md",
-      "title": "How Generative AI Is Transforming Supply Chain And Procurement Roles",
-      "excerpt": "While there are massive areas of potential, there are equally significant risks posed to privacy, algorithmic bias and even business continuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6361241cedcf875a2cde53f3/0x0.jpg?format=jpg&crop=972,547,x0,y134,safe&width=1200",
-          "width": 972,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/how-generative-ai-is-transforming-supply-chain-and-procurement-roles/amp/",
-      "publishedDateTime": "2023-06-29T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

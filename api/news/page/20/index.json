@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-07-06-11-startups-developing-ai-to-disrupt-hollywood-and-scoring-hundreds-of-millions-in-vc-and-private-equity-funding.md",
+      "title": "11 startups developing AI to disrupt Hollywood and scoring hundreds of millions in VC and private equity funding",
+      "excerpt": "a London-based AI startup known for its Tom Cruise deepfakes. \"Over 10, 15 years, it'll touch every part of content creation.\" Vendors and investors told Insider that over time, AI tools will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3",
+      "originalUrl": "https://www.businessinsider.com/ai-startups-netflix-marvel-lucasfilm-holllywood-deepfake-dubbing-vc-funding-2023-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6400c5c676a35b00184807c0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-era-of-ai.md",
       "title": "Entrepreneur Kathryn Hastings on the Allure of Handwritten Notes in the Era of AI",
       "excerpt": "Moreover, specific AI language translation tools have eliminated language barriers, enabling real-time communication between individuals who speak different languages. However, in the middle of ...",
@@ -1130,49 +1181,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-diamir-biosciences-partners-with-jadbio-to-utilize-machine-learning-in-assay-development.md",
-      "title": "DiamiR Biosciences Partners with JADBio to Utilize Machine Learning in Assay Development",
-      "excerpt": "MONMOUTH JUNCTION, N.J. and LOS ANGELES, July 5, 2023 /PRNewswire/ -- DiamiR Biosciences, a developer of innovative non-invasive blood-based diagnostic tests for brain health and other diseases, today announced that it has entered into an agreement with JADBio to utilize its Automated Machine Learning (AutoML) Platform and Services for development of predictive models based on DiamiR's microRNA panels and other factors for risk assessment in Alzheimer's disease and Rett syndrome.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/07/05/9843362.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/07/05/9843362.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/894818/DiamiR_Logo.jpg",
-          "width": 343,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
