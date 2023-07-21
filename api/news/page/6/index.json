@@ -2,6 +2,335 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-16-elon-musks-tesla-robots-could-be-groundbreaking-for-ai-and-automation-but-still-have-a-long-way-to-go.md",
+      "title": "Elon Musk's Tesla robots could be groundbreaking for AI and automation, but still have a long way to go",
+      "excerpt": "Elon Musk's Tesla robots, or \"Tesla Bot,\" are bipedal robot devices that use the same AI as Tesla's cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
+      "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ac095a6d7e02001af8a08e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-robots-ai-automation?amp",
+      "publishedDateTime": "2023-07-16T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential.md",
+      "title": "AI Appreciation Day: Startup CEOs on technogly's giant leap and potential",
+      "excerpt": "AI Appreciation Day is celebrated on July 16 annually to acknowledge its contribution to humanity and the significant role it plays in companies' prog",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/articleshow/101798053.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-101798045/101798045.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/ai-appreciation-day-startup-ceos-on-technoglys-giant-leap-and-potential/amp_articleshow/101798053.cms",
+      "publishedDateTime": "2023-07-16T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-the-eu-urges-the-us-to-join-the-fight-to-regulate-ai.md",
+      "title": "The EU Urges the US to Join the Fight to Regulate AI",
+      "excerpt": "On his way to meeting US officials, the EU’s justice chief, Didier Reynders, tells WIRED the US must deliver on talk of tighter regulation on tech: “Enforcement is of the essence.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
+      "originalUrl": "https://www.wired.com/story/the-eu-urges-the-us-to-join-the-fight-to-regulate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64b1c5e9e416fd283a85c576/191:100/w_1280,c_limit/Didier-Reynders-US-Tech-Regulation-Business-1258532578.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-quiz-on-ai-how-much-do-you-know-about-artificial-intelligence.md",
+      "title": "Quiz on AI: How Much Do You Know About Artificial Intelligence?",
+      "excerpt": "Artificial intelligence (AI) is a rapidly evolving field with the potential to revolutionize many aspects of human lives. From chatbots to self-driving cars, AI is already being used in a variety of ways. In this quiz, you will be tested on your knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "originalUrl": "https://www.jagranjosh.com/general-knowledge/ai-quiz-1689452543-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2023/June/262023/nikhil-batra.jpg",
+          "width": 960,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/ai-quiz-1689452543-1",
+      "publishedDateTime": "2023-07-15T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-7-blue-chip-stocks-that-ai-is-loving-in-july.md",
+      "title": "7 Blue-Chip Stocks That AI Is Loving in July",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I used Bard AI to help recommend blue-chip stocks for July. Right",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-blue-chip-stocks-that-ai-is-loving-in-july-1032448719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-16-how-to-enable-face-recognition-on-galaxy-z-fold-4.md",
+      "title": "How To Enable Face Recognition on Galaxy Z Fold 4",
+      "excerpt": "Face recognition allows you to unlock your Samsung Galaxy Z Fold 4 with your face. This can also be used to verify your identity for certain apps such as Samsung Pay. In this tutorial, we will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-fold-4-1229281",
+      "originalUrl": "https://thedroidguy.com/enable-face-recognition-on-galaxy-z-fold-4-1229281",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedroidguy.com/wp-content/uploads/2022/11/How-To-Enable-Face-Recognition-on-Galaxy-Z-Fold-4.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Droid Guy",
+        "domain": "thedroidguy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results.md",
+      "title": "3 ways AI is already transcending hype and delivering tangible results",
+      "excerpt": "Tailored recommendations and improved security are just two of the ways AI is already transforming business and society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "originalUrl": "https://venturebeat.com/ai/3-ways-ai-is-already-transcending-hype-and-delivering-tangible-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_leading_a_business_meeting._Colorful_futuristic_dbf87c4f-2578-4163-9e44-6f53b705e2ac.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-15T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-turn-ai-art-into-amazing-poster-prints.md",
       "title": "Turn AI Art Into Amazing Poster Prints",
       "excerpt": "Want to print your AI art creations? Here's how to enlarge AI-generated images so you can print them at any size you like and retain perfect image quality",
@@ -431,6 +760,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-15-machine-translation-the-next-frontier-for-large-language-models.md",
+      "title": "Machine translation: The next frontier for large language models",
+      "excerpt": "Dr Deepak Garg is Director, leadingindia.ai and Director NVIDIA-Bennett Research Center on Artificial Intelligence. He is Professor and Dean, School of Computer Science Engg and Dean ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg",
+          "width": 414,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "publishedDateTime": "2023-07-14T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
       "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
       "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
@@ -794,418 +1166,6 @@
       "ampWebUrl": "https://www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stability-ai-emad-mostaque-ubs-chatgpt-era-begin-2023-7?amp",
       "publishedDateTime": "2023-07-14T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-dont-pause-act-how-to-unlock-ais-vast-potential-by-driving-more-trustworthy-and-responsible-ai.md",
-      "title": "Don't Pause, Act: How to Unlock AI's Vast Potential by Driving More Trustworthy and Responsible AI",
-      "excerpt": "While the pace of recent advancements has been breathtaking, some of the biggest AI advances just over the horizon could be even more profound.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
-      "originalUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2257353/keyboard.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/dont-pause-act-how-unlock-ais-vast-potential-driving-more-trustworthy-responsible-ai-1812872?amp=1",
-      "publishedDateTime": "2023-07-14T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-seven-ways-ai-can-make-your-revenue-team-more-efficient.md",
-      "title": "Seven Ways AI Can Make Your Revenue Team More Efficient",
-      "excerpt": "Dead, lost or stalled opportunities are a drag, but all hope is not lost. You don’t want to spend a lot of time and effort on them, but with AI you can try to reengage them without a heavy human lift. With historical account data for context and generative AI, an AI email assistant can create relevant content that keeps you top of mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b065ab9cfdbd0792ee1987/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/7-ways-ai-can-make-your-revenue-team-more-efficient/amp/",
-      "publishedDateTime": "2023-07-14T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-theres-only-one-way-to-alleviate-anxiety-about-aitalk-about-it.md",
-      "title": "There’s Only One Way To Alleviate Anxiety About AI—Talk About It",
-      "excerpt": "Embracing AI as a powerful tool, communicators unlock a world of endless possibilities, effortlessly crafting compelling narratives and delivering impactful messages that leave a lasting imprint on the minds of their audiences. (This isn't my favorite opening sentence. But more on that later.)",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648726ec4c121273abd8baa2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/14/theres-only-one-way-to-alleviate-anxiety-about-ai-talk-about-it/amp/",
-      "publishedDateTime": "2023-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-why-ai-detectors-think-the-us-constitution-was-written-by-ai.md",
-      "title": "Why AI detectors think the US Constitution was written by AI",
-      "excerpt": "If you feed America's most important legal document—the US Constitution—into a tool designed to detect text written by AI models like ChatGPT, it will",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/madison_chatgpt_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/amp/",
-      "publishedDateTime": "2023-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-this-small-chip-stock-is-up-200-in-a-year-on-ai-hype.md",
-      "title": "This Small Chip Stock Is Up 200% in a Year on AI Hype",
-      "excerpt": "Rambus has been on a tear due to optimism surrounding its memory interface chips, and an upgrade cycle from AI. The company has put its past behind it, but investor optimism might be running a bit too hot given the nature of this business model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/14/this-small-chip-stock-is-up-200-in-a-year-on-ai-hy/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/14/this-small-chip-stock-is-up-200-in-a-year-on-ai-hy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/739535/data.jpg",
-          "width": 5000,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-1-beaten-down-stock-that-could-become-a-massive-ai-winner.md",
-      "title": "1 Beaten-Down Stock That Could Become a Massive AI Winner",
-      "excerpt": "The smartphone market's slowdown has weighed heavily on Qualcomm, but the company is looking to make the most of the opportunity in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that-could-become-a-massive-ai/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/14/1-beaten-down-stock-that-could-become-a-massive-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/739465/abstract-human-skull-representing-ai.jpg",
-          "width": 2119,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-last-word-on-ai-and-the-atom-bomb.md",
-      "title": "The Last Word on AI and the Atom Bomb",
-      "excerpt": "I’m old enough to have cowered under my school desk. Decades later I learned physics from the bomb guys. What I’m mainly hearing now is echoes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "originalUrl": "https://www.wired.com/story/last-word-ai-atom-bomb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64b09f9d57ff6ec62db8a8b5/191:100/w_1280,c_limit/ideas_ai_oppenheimer.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-14T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-kpmg-is-making-a-2-billion-bet-on-ai-its-another-example-of-big-changes-that-are-coming-to-the-workplace.md",
-      "title": "KPMG is making a $2 billion bet on AI. It's another example of big changes that are coming to the workplace.",
-      "excerpt": "KPMG advises businesses around the world. It's teaming with Microsoft to bring AI to more of them. Get ready for the new tech to spread even faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7",
-      "originalUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64b072df29e5fd00190eeee9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kpmg-microsoft-teaming-to-bring-more-ai-workplace-2023-7?amp",
-      "publishedDateTime": "2023-07-14T02:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

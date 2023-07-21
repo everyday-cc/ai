@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-02-better-artificial-intelligence-stock-amd-vs-amazon.md",
+      "title": "Better Artificial Intelligence Stock: AMD vs. Amazon",
+      "excerpt": "The artificial intelligence (AI) market has captured Wall ... Amazon Web Service (AWS), which is testing it for potential use. Amazon has concerned investors recently, with AWS reporting slowing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amd-vs.-amazon",
+      "originalUrl": "https://www.nasdaq.com/articles/better-artificial-intelligence-stock:-amd-vs.-amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-02T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-ai-innovators-10-artificial-intelligence-companies-to-keep-an-eye-on-in-2023.md",
       "title": "AI Innovators: 10 Artificial Intelligence Companies to Keep an Eye on in 2023",
       "excerpt": "Stay updated on the latest innovations and platforms from leading artificial intelligence companies, revolutionizing technology and driving advancements in AI.",
@@ -1308,40 +1342,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-21T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-old-mutual-completes-all-in-migration-to-aws.md",
-      "title": "Old Mutual Completes All-In Migration to AWS",
-      "excerpt": "The full migration to AWS involved moving more than 2,000 on-premises servers, 215 applications, 1,786 databases, and more than 500 websites. The move will accelerate innovation, at a time of global economic uncertainty,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/21/9836258.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T03:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

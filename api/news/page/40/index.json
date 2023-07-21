@@ -2,6 +2,710 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-06-23-ai-leaders-have-an-incentive-for-us-to-believe-robots-can-kill-us.md",
+      "title": "AI Leaders Have an Incentive for Us to Believe Robots Can Kill Us",
+      "excerpt": "Onstage, leaders in the field kept repeating one idea: that AI, and the people building it, are very important. “This is unquestionably going to be the most radical transformation of our lifetimes,” said Mustafa Suleyman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-23/openai-ceo-sam-altman-and-other-ai-leaders-talk-up-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRGjUocpN1o0/v1/1200x799.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-ai-investment-value-at-every-link-of-the-value-chain.md",
+      "title": "AI: Investment Value at Every Link of the Value Chain",
+      "excerpt": "This is the second article in a series. The first article can be found here: “Although AI is a Bubble, It’s Still Investible.“",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-530-1024x465.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-23T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-the-generative-ai-investment-sprints-for-supremacy.md",
+      "title": "The Generative AI Investment Sprints For Supremacy",
+      "excerpt": "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64957608598aac91358f46c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1391,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/06/23/the-generative-ai-investment-sprints-for-supremacy/amp/",
+      "publishedDateTime": "2023-06-23T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-aws-invests-100-mn-to-help-customers-build-generative-ai-solutions.md",
+      "title": "AWS invests $100 mn to help customers build generative AI solutions",
+      "excerpt": "Amazon Web Services (AWS) is investing $100 million in a generative AI innovation centre to help customers build and deploy generative artificial intelligence (AI) solutions. The programme will connect AWS AI and machine learning (ML) experts with customers around the globe to help them envision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879",
+      "originalUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenewsminute.com/sites/default/files/AWS_Ians_230623_1200.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp",
+      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/aws-invests-100-mn-help-customers-build-generative-ai-solutions-178879?amp",
+      "publishedDateTime": "2023-06-23T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News Minute",
+        "domain": "thenewsminute.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-ai-has-the-potential-to-automate-40-of-the-average-work-day.md",
+      "title": "AI has the potential to automate 40% of the average work day",
+      "excerpt": "Research says AI could automate two-thirds of your work. Making the most of that potential will depend on the ability and motivation of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "originalUrl": "https://www.zdnet.com/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-has-the-potential-to-automate-40-of-the-average-work-day/",
+      "publishedDateTime": "2023-06-23T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-get-a-clue-says-panel-about-buzzy-ai-tech-its-being-deployed-as-surveillance.md",
+      "title": "Get a clue, says panel about buzzy AI tech: it’s being “deployed as surveillance”",
+      "excerpt": "Earlier today at a Bloomberg conference in San Francisco, some of the biggest names in AI turned up, including, briefly, Sam Altman of OpenAI, who just ended his two-month world tour, and Stability AI founder Emad Mostaque.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
+      "originalUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Meredith-Whittaker.jpg?resize=1200,1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/get-a-clue-says-panel-about-generative-ai-its-being-deployed-as-surveillance-devices/amp/",
+      "publishedDateTime": "2023-06-22T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-aws-announces-generative-ai-innovation-center.md",
+      "title": "Aws Announces Generative Ai Innovation Center",
+      "excerpt": "aws invests $100 million in a new program that connects aws machine learning and artificial intelligence experts with customers and partners wor",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
+      "originalUrl": "https://menafn.com/1106491635/Aws-Announces-Generative-Ai-Innovation-Center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-06/23/MON_6108cimage_story.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-hacker-claims-to-discover-elon-mode-for-tesla-self-driving-cars.md",
+      "title": "Hacker claims to discover “Elon Mode” for Tesla self-driving cars",
+      "excerpt": "A hacker allegedly discovered “Elon Mode” for Tesla vehicles on Twitter. Under the pseudonym “Green” (@greentheonly), the white hat hacker claimed he found features and updates for these",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
+      "originalUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technology.inquirer.net/files/2023/06/tesla-car-issues.png-620x382.png",
+          "width": 620,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/125344/hacker-claims-elon-mode-in-tesla-cars/amp",
+      "publishedDateTime": "2023-06-22T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-facial-recognition-attendance-for-sanitation-staff-soon.md",
+      "title": "Facial recognition attendance for sanitation staff soon",
+      "excerpt": "Amid controversy over some sanitation workers not turning up for work and withdrawing salary, the Shimla MC has decided to introduce facial recognition biometric attendance system soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "originalUrl": "https://www.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/6/2023_6$largeimg_612928337.jpg",
+          "width": 660,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/himachal/facial-recognition-attendance-for-sanitation-staff-soon-519537",
+      "publishedDateTime": "2023-06-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-googles-duet-ai-can-generate-custom-templates-in-sheets.md",
+      "title": "Google's Duet AI can generate custom templates in Sheets",
+      "excerpt": "Google has been quickly expanding the AI's toolset since it announced Duet for Workspace at its I/O conference last month. When testers enter a prompt in the web version of Docs, Duet can generate text for them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "originalUrl": "https://www.engadget.com/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/0vANP293s5E52OlDZP5u5A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-12/07bfc550-71ae-11ed-8feb-d9a461d9371d.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/googles-duet-ai-can-generate-custom-templates-in-sheets-185527176.html",
+      "publishedDateTime": "2023-06-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about.md",
+      "title": "Samuel L. Jackson Warns Actors About AI: ‘Could Be Something To Worry About’",
+      "excerpt": "The Marvel star said that when it comes to any mentions of using his likeness in his contracts, \"I cross that shit out.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9",
+      "originalUrl": "https://www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/649493ba260000600038cab0.jpeg?cache=p30cLMnTou&ops=1200_630",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/samuel-l-jackson-warns-actors-about-ai-could-be-something-to-worry-about_n_649492e0e4b007604cf7a8d9/amp",
+      "publishedDateTime": "2023-06-22T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-cios-your-generative-ai-playbook-is-here-guardrails-required.md",
+      "title": "CIOs: Your Generative AI Playbook Is Here. Guardrails Required.",
+      "excerpt": "Are you prepared to help your business navigate the future of generative AI? These tips provide the proper guardrails to help you succeed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
+      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6494e9a3adecc689518daaa0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/06/22/cios-your-generative-ai-playbook-is-here-guardrails-required/amp/",
+      "publishedDateTime": "2023-06-22T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-news-tagged-with-cognitive-impairment.md",
+      "title": "News tagged with cognitive impairment",
+      "excerpt": "Women with atrial fibrillation progress more rapidly to cognitive impairment and dementia than men with the heart rhythm condition, according to research presented today at ACNAP 2023, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
+      "originalUrl": "https://medicalxpress.com/tags/cognitive+impairment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-our-support-for-early-warning-systems.md",
+      "title": "Our support for early warning systems",
+      "excerpt": "Google’s Yossi Matias and WMO Director of Infrastructure Anthony Rea discuss the Early Warnings For All Initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WMO.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/early-warning-system-wmo-google/amp/",
+      "publishedDateTime": "2023-06-22T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-23-students-switch-to-ai-to-learn-languages.md",
+      "title": "Students switch to AI to learn languages",
+      "excerpt": "The convenience and breadth of an AI chatbot can't compete with the pleasures of chatting with someone whose personality quirks I've learned over the course of years. It is however a useful supplement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-65849104?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/business-65849104?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/BE4A/production/_130041784_joyehonwa.creditamajuadomi..jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-65849104.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65849104.amp",
+      "publishedDateTime": "2023-06-22T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-23-if-the-secret-invasion-title-credits-arent-an-ethical-use-of-ai-art-what-is.md",
       "title": "If the ‘Secret Invasion’ title credits aren’t an ethical use of AI art, what is?",
       "excerpt": "This isn't a facetious question; it's an unanswered one. Is there an ethical way to use generative AI in a prominent piece of art?",
@@ -491,712 +1195,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031.md",
-      "title": "Facial Recognition Market Size, Trends, Growth Statistics, Share, Revenue and Forecast 2031",
-      "excerpt": "Jun 22, 2023 (Alliance News via COMTEX) -- U.S (New York) - New research study titled \"Facial Recognition Market \" for the year 2023, encompassing various aspects such as industry size, market share, growth analysis, segmentation, leading manufacturers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-trends-growth-statistics-share-revenue-and-forecast-2031-2023-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-the-last-ai-boom-didnt-kill-jobs-feel-better.md",
-      "title": "The Last AI Boom Didn't Kill Jobs. Feel Better?",
-      "excerpt": "ChatGPT is stoking fears of mass layoffs, but a study of several EU countries found the deep-learning boom of the 2010s actually created job opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/649386a2e416fd283a85c3dd/191:100/w_1280,c_limit/The-Last-AI-Boom-Didn&#x27;t-Kill-Jobs-Business-1253019033.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws.md",
-      "title": "How Light & Wonder built a predictive maintenance solution for gaming machines on AWS",
-      "excerpt": "This post is co-written with Aruna Abeyakoon and Denisse Colin from Light and Wonder (L&amp;W). Headquartered in Las Vegas, Light &amp; Wonder, Inc. is the leading cross-platform global game company that provides gambling products and services. Working with AWS, Light &amp; Wonder recently developed",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-light-wonder-built-a-predictive-maintenance-solution-for-gaming-machines-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/09/lnw-figure3.png",
-          "width": 974,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T08:59:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.md",
-      "title": "AMD to spend $135M on chip R&D in Ireland for AI, data center, mobile tech",
-      "excerpt": "A year after AMD acquired Xilinx, the chipmaker has announced plans to build on the semiconductor ecosystem Xilinx had already established in Ireland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
-      "originalUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/06/amd_hq-100942505-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
-      "publishedDateTime": "2023-06-22T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt.md",
-      "title": "Microsoft Azure OpenAI Now Allows Enterprises to Feed Proprietary Data into ChatGPT",
-      "excerpt": "Known as “Azure OpenAI on your data”, the new functionality takes away the need for enterprises to fine-tune and train their own generative AI models. It’s currently available as a public preview through the Azure OpenAI Service. Andy Beatman ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/",
-      "originalUrl": "https://techreport.com/news/microsoft-azure-openai-now-allows-enterprises-to-feed-proprietary-data-into-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2023/06/shutterstock_2292149809-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more.md",
-      "title": "Q&A: DexCare CEO on raising $75M in a ‘rough’ market, using generative AI, and more",
-      "excerpt": "We didn’t really start looking at this seriously until April ... Can you explain how the company incorporates generative AI into the product? We use quite a bit of sophisticated, AI-driven decisioning in our platform now so we can ensure patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/",
-      "originalUrl": "https://www.geekwire.com/2023/qa-dexcare-ceo-on-raising-75m-in-a-rough-market-using-generative-ai-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/06/Untitled-design-20.jpeg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-kibsi-raises-93m-for-its-no-code-computer-vision-platform.md",
-      "title": "Kibsi raises $9.3M for its no-code computer vision platform",
-      "excerpt": "Kibsi is an Irvine, California-based startup that is building a no-code computer vision platform that allows businesses to build and deploy computer vision applications. Among the things that set Kibsi apart from many other players in this space is that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "originalUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Kibsi-Founders.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/22/kibsi-raises-9-3m-for-its-no-code-computer-vision-platform/amp/",
-      "publishedDateTime": "2023-06-22T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-how-ai-is-changing-the-way-humans-interact-with-machines.md",
-      "title": "How AI is changing the way humans interact with machines",
-      "excerpt": "Language translation is another frontier where NLP and AI have made remarkable progress. Translation apps can now interpret text and speech in real time, dismantling language barriers and fostering cross-cultural communication. A paper in The Lancet notes ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines",
-      "originalUrl": "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/991fa864-787b-4587-8a65-60ad62c203da.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/how-ai-is-changing-how-humans-interact-with-machines/amp",
-      "publishedDateTime": "2023-06-22T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-parkview-dekalb-introduces-robotic-surgery-program.md",
-      "title": "Parkview DeKalb introduces robotic surgery program",
-      "excerpt": "AUBURN — Parkview DeKalb Hospital has entered a new era in patient care in launching a robotic surgery program using the da Vinci Surgical System.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpcnews.com/thestar/article_a25d9279-aa65-541e-876f-81fef3d36ff1.html",
-      "originalUrl": "https://www.kpcnews.com/thestar/article_a25d9279-aa65-541e-876f-81fef3d36ff1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCNews",
-        "domain": "kpcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit.md",
-      "title": "Mass adoption of generative AI tools is derailing one very important factor, says MIT",
-      "excerpt": "more business-focused The promise of AI comes with consequences, suggest the study's authors, Elizabeth Renieris (Oxford's Institute for Ethics in AI), David Kiron (MIT SMR), and Steven Mills (BCG): \"For instance, generative AI has proven unwieldy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/",
-      "originalUrl": "https://www.zdnet.com/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b446c678a6eb546fbd070ce6bc4ba57c69295bd5/2023/06/21/3f7e444c-0a07-480b-8322-b35c465daabb/gettyimages-1332177687.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mass-adoption-of-generative-ai-tools-is-derailing-one-very-important-factor-says-mit/",
-      "publishedDateTime": "2023-06-22T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-ai-may-transform-healthcare-2-top-stocks-to-buy-now.md",
-      "title": "AI May Transform Healthcare: 2 Top Stocks to Buy Now",
-      "excerpt": "The global AI-in-healthcare market is set to grow in the double digits to top $100 billion later this decade, a Research and Markets report shows. It's no surprise that some healthcare companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/06/22/ai-may-transform-healthcare-2-top-stocks-buy-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-startup-stability-debuts-a-new-ai-model-for-stable-diffusion.md",
-      "title": "Startup Stability Debuts a New AI Model For Stable Diffusion",
-      "excerpt": "Artificial intelligence startup Stability AI is releasing a new model for generating images that its says can produce pictures that look more photorealistic than past efforts. In a blog post Thursday, Stability AI, which popularized the Stable Diffusion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHxaW0mPkrGM/v0/1200x604.png",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-crew-trapped-on-missing-titanic-sub-believed-to-have-run-out-of-oxygen.md",
-      "title": "Crew trapped on missing Titanic sub believed to have run out of oxygen",
-      "excerpt": "It is believed that the crew has now run out of oxygen onboard the Titan (Picture: PA) The crew on board the Titan submersible trapped thousands of feet below the sea are now believed to have run ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/06/22/titan-sub-crew-onboard-sub-are-thought-to-have-run-out-of-oxygen-18995991/",
-      "originalUrl": "https://metro.co.uk/2023/06/22/titan-sub-crew-onboard-sub-are-thought-to-have-run-out-of-oxygen-18995991/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit.md",
-      "title": "Opaque Systems unveils confidential AI and analytics tools ahead of Confidential Computing Summit",
-      "excerpt": "They comprise a privacy-preserving generative AI optimized for Microsoft Azure’s Confidential Computing Cloud, and a zero-trust analytics platform: Data Clean Room (DCR). According to the company, its generative AI harnesses multiple layers of protection ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/",
-      "originalUrl": "https://venturebeat.com/ai/opaque-systems-unveils-confidential-ai-and-analytics-tools-ahead-of-confidential-computing-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/OS_Logo_Final_Print_O_Logo_Web_Color.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai.md",
-      "title": "DesignMind Awarded Elite Microsoft Azure Solutions Partner for Data & AI",
-      "excerpt": "Company recognized by Microsoft for its successful customer outcomes, deep technical experience, and expertise SAN FRANCISCO, June 22,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
-      "originalUrl": "https://www.marketwatch.com/press-release/designmind-awarded-elite-microsoft-azure-solutions-partner-for-data-ai-232523e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 238,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-22T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

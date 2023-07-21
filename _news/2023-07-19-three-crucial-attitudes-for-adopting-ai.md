@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/three-cruc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

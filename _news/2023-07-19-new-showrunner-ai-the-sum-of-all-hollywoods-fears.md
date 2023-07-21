@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-17-at-8.52.10-PM.png?w=1200&strip=all"
         width: 1199
         height: 603
+        isCached: true
+  - title: "How Hollywood Is Avoiding Robot Overlords"
+    excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
+    publishedDateTime: 2023-07-20T21:49:00Z
+    webUrl: "https://www.vulture.com/article/ai-in-hollywood-strike-guild-demands.html"
+    type: article
+    provider:
+      name: Vulture
+      domain: vulture.com
+    quality: 39
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/cf9/afc/1eb99e58efefad2ed4c2af71bcf022c327-hal9000.rhorizontal.w700.jpg"
+        width: 700
+        height: 467
         isCached: true
   - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
     excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"

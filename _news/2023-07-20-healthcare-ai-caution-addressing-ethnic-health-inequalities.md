@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-20T11:28:00Z
 originalUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
 webUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
   name: openaccessgovernment
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg"
+    width: 2000
+    height: 1125
+    isCached: true
 
 related:
   - title: "Scientists urge caution before using AI models in healthcare for ethnic minority populations"
@@ -38,6 +44,6 @@ related:
       domain: star-telegram.com
     quality: 9
 
-secured: "IvQd/kM6/PtwPjqh3D4ifSPHX+q3SlatvlKcFAknugbMc9q0bfIpK/zItFdrmIJ4OTd9m+5og0EasvCdyacA2yRWRzmBHgaHUP2vhlJGBnMlidyVz7LXmdcgv0/7HgYOQ+S8vtGhhDWqiH6nqMO1CHSmLobo4fUqxDdTKeP5LNboTYGlhw9FzixSsEdVBhXzudJuM26oGZyZKZ1mnlE0qeDMaLnF7bJ1/wik8wPoCyLtKj6u2UhRUQRHw5ehEobryFzyCaCkWbBP8FjlB7/Tld0Ikxc3c7dabmCI3RdIMKg1hkuEMbJsFO8YYCporwauVGUyvINI2S80CF4NizRUn2b78xeZ5vLNkffLLHi1iFo=;KWjafphzmWzITLQkguMbsw=="
+secured: "NgrwjIsarcUVErC+5N/S8WBuVpVIBKAeRqIBJCVvCvIQEwQv3q7y+paiTVhLqN4LI023F35s9nbPRMaT3UZHhnQT6pUrhvxcpvVtcyqPa6Wo8PspPQc2pTVDOvGl/FR2E7BVRCXaX1g9p/KTbet7lrYsXz9YoO7KF6MHiGh3uTONo5nQMSpbn4kcAjmS6zZqbzU5rQLktxa/hce0j+o9Z/P74Wn+bCZmVCjkeiuTLzEZ8vbxdlHbhWXTWiES9lczKgzEL7+KJ9UTzTd8ialO5E1k06rcmyH7SxhboNIo7OHaa+sOIZmYbnVVyWkbNh8RdIEpv/muk4KmXuCh5XBLK51Mai0R9EyTcesnNv/0Lts=;0Uv6/h4a+YvGDGyMUg2dUQ=="
 ---
 

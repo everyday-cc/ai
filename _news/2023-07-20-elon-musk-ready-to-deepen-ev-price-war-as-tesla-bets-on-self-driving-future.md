@@ -150,15 +150,6 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 24
-  - title: "Elon Musk: Tesla Full Self-Driving Will Arrive ‘Later This Year’"
-    excerpt: "One of Tesla’s most notable projects is Full Self-Driving (FSD), which aims to make vehicles completely autonomous. After having worked on the technology for"
-    publishedDateTime: 2023-07-16T05:30:00Z
-    webUrl: "https://www.inferse.com/617728/elon-musk-tesla-full-self-driving-will-arrive-later-this-year/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 19
 
 secured: "9nTKOg2+jq9o0bvQGLyzRqwolAXOwqwVe5XsBdS37eKD5ZXJyouXiRh1z8o64LnUvvFgJjClkCsrL6fhLkTakaWe6t4xI94xzb3pq/3NH1V6uoJw72fN1wKh8T1w3iqmwVfJIHRwxK1JfUYIN29+2snZjDjknD6rmzOWfSWwXZNVeu1hFxEPv0cqwieZNiLbvZm3Hou5jeXW0GVA0q3g9QSjNTWZa6ZsISdpxT742FbFpRxJfEfv0xSEdsgM57qdJKgLcB8myLJe+jpYlHRy+WQQcpu9bx4SEuCECD/vZRU9dPQmR0pII1c0TjYsX4u9gTJIl5tBU/8tGt7ZprhEXokfDU+IJI1eqVYEBNufxM8=;m6bjvdt+HcM7fGIFTVHVZg=="
 ---

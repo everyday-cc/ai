@@ -2,6 +2,265 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-20-ai-workers-need-more-protection-tuc-union.md",
+      "title": "AI: Workers need more protection - TUC union",
+      "excerpt": "The UK is falling behind in protecting workers from artificial intelligence (AI), a trade union has warned. The TUC said the UK had no plans, like the EU's AI Act, to regulate its use in hiring, firing and setting work conditions. The union has asked a taskforce to draft legal protections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-66248125",
+      "originalUrl": "https://www.bbc.com/news/business-66248125",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D0F4/production/_130429435_gettyimages-1436224164.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-66248125.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66248125.amp",
+      "publishedDateTime": "2023-07-19T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-karat-a-startup-building-financial-tools-for-content-creators-raises-70m.md",
+      "title": "Karat, a startup building financial tools for content creators, raises $70M",
+      "excerpt": "Karat Financial, a startup offering credit to creators, has raised $70 million in venture capital on the heels of a Visa partnership.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/19/karat-a-startup-building-financial-tools-for-content-creators-raises-70m/",
+      "originalUrl": "https://techcrunch.com/2023/07/19/karat-a-startup-building-financial-tools-for-content-creators-raises-70m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
+      "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
+      "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200",
+          "width": 940,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
+      "publishedDateTime": "2023-07-19T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-ibm-reports-earnings-beat-but-misses-on-revenue.md",
+      "title": "IBM reports earnings beat, but misses on revenue",
+      "excerpt": "IBM's data and artificial intelligence products showed the fastest expansion, growing 10% from a year earlier, the company said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107228185-1681935493510-gettyimages-1246298489-DAVOS_WEF_2023.jpeg?v=1689805644",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
+      "publishedDateTime": "2023-07-19T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-how-to-build-the-ultimate-gpu-cloud-to-power-ai.md",
+      "title": "How to Build the Ultimate GPU Cloud to Power AI",
+      "excerpt": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
+      "originalUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group.md",
       "title": "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group",
       "excerpt": "Info-Tech's latest research highlights how technology leaders in the healthcare industry can strategically and responsibly implement artificial",
@@ -63,7 +322,7 @@
       "originalUrl": "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -218,7 +477,7 @@
       "originalUrl": "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -269,7 +528,7 @@
       "originalUrl": "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -311,7 +570,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -466,7 +725,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -751,7 +1010,7 @@
       "originalUrl": "https://www.zdnet.com/article/googles-medpalm-emphasizes-human-clinicians-in-medical-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -803,7 +1062,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/three-crucial-attitudes-for-adopting-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -993,249 +1252,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-artificial-intelligence-continues-to-revolutionize-cybersecurity.md",
-      "title": "Artificial Intelligence Continues To Revolutionize Cybersecurity",
-      "excerpt": "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "publishedDateTime": "2023-07-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-facebook-owner-meta-exec-nick-clegg-claims-ai-quite-stupid.md",
-      "title": "Facebook-owner Meta exec Nick Clegg claims AI 'quite stupid'",
-      "excerpt": "Current Artificial Intelligence (AI) models are \"quite stupid\", Facebook-owner Meta's president of global ... which powers the Bard chatbot - are not free to use for commercial or research purposes. It comes a week after US comedian Sarah Silverman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-66238004.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-66238004.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A9BB/production/_130415434_gettyimages-1241178506.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66238004.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66238004.amp",
-      "publishedDateTime": "2023-07-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-three-career-choices-that-will-not-be-impacted-by-ai.md",
-      "title": "Three Career Choices That Will Not Be Impacted By AI",
-      "excerpt": "Professions that require complex decision-making, creativity and empathy are difficult to replace by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59cc0cc207a8b885f1dc1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
-      "publishedDateTime": "2023-07-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics.md",
-      "title": "Neura Robotics picks up $55M to ramp up in cognitive robotics",
-      "excerpt": "Neura Robotics, a German startup that since 2019 has been building cognitive robots ... That includes not just fashioning all the sensors and other components, but building the AI that powers it. This also means that Neura can collaborate better ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
-      "originalUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/000_David_Reger_MAiRA_4NE-1.jpg?resize=1200,788",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
-      "publishedDateTime": "2023-07-19T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-meta-launches-ai-research-community-to-address-pressing-challenges-in-ai.md",
-      "title": "Meta launches AI research community to address pressing challenges in AI",
-      "excerpt": "New Delhi, July 19 (IANS) Meta (formerly Facebook) has launched a new organisation, the Open Innovation AI Research Community for academic researchers, designed to foster transparency, innovation, and collaboration in the field of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
-      "originalUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/07/9821ae2f64fe1e0dfea0fe0c41b9015b.jpg",
-          "width": 304,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
-      "publishedDateTime": "2023-07-19T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

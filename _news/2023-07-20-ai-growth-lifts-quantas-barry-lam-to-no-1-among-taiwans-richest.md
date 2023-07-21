@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 93
 published: true
 
 provider:

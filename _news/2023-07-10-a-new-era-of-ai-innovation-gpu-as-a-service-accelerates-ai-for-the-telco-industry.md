@@ -1,26 +1,28 @@
 ---
 category: news
 title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
-excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
-publishedDateTime: 2023-07-10T06:19:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
-webUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
+excerpt: "ActivePort and Radian Arc join forces to enable high-performance AI. The collaboration aims to leverage Radian Arc's AMD-based GPU platform, already installed in a rapidly expanding network of 50 ..."
+publishedDateTime: 2023-07-10T01:46:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33159070/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry"
+ampWebUrl: "https://www.benzinga.com/amp/content/33159070"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33159070"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook"
-    width: 2423
-    height: 1269
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "I3VOYnp7wYvfCnPrIRXS1/NLqBimw8POHwn/KnCMQESlmM1+8ByA0XnMPGx4QGBAMimpaKA59/EJyZFQqm3ASidUv0+aStdLKBisECqTWaStnHpx5oB7JdVm2hN194xBUqGmSpLZVQ5ufQKIfRtXTqjgXYJ8kQPZklw/MrzdVSFDpCHMrGfn9IwFJHh/7zNzyUZdqGno21sAng2eNN0jotTy3ouReWW6uHYxcynZNQPYaYBMxvqB+pkM18DTw9Ah+GlO/7RNqpP+HUmT1NfTHAay+zx0JUxDza9CfgtEc28e4X6hZ8naH3KLDz6P85cUB/pdEDzsRF86+gcEESrteGAh7s4M8da0csgS3O7DNRc=;bI00mklWakj86BcWBR9QGQ=="
+secured: "O//WE3r2CicN0RrGxHTjx0BuYdDVdn+b2xplTqg+E0E/XjuEZ5go8r1xKVK/nFwIMCCt2kd5L96LbLMfqf5pABn+Mjw5YnUFqhOfSYsgDa/BtiMmHFWCAmZT5oPY8WxjMiazObATrPr8AK/fY5K0eDGOlLTyfmjJC9sIvlloxgMu7Pc4ZtEmVEPIjPUXhQL7Ud5EeU7UolZKdhDVwnF8mOpb5r4jLQ1TXgtTpuS8h4ca+5w/lMNIw685YDRETfDE3CESQR4MAFOpK6MNDS8NLXdJ1VepAc5KjyIe8e3jlmXLN0aXBsjduxXkOYKaRT+9QpN/c98tUarCD4pdKPYEzpdU30caNyj45nynZTefI+8=;tpqf2Zguj2hfLW2zSSSTkA=="
 ---
 

@@ -79,7 +79,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72023-meta-llama-2.jpeg"
         width: 1400
@@ -107,6 +107,20 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
         width: 1920
         height: 740
+        isCached: true
+  - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
+    excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
+    publishedDateTime: 2023-07-20T10:49:00Z
+    webUrl: "https://www.geeky-gadgets.com/llama-2-vs-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Llama-2-vs-ChatGPT-open-source-AI.jpg"
+        width: 700
+        height: 462
         isCached: true
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"

@@ -68,6 +68,20 @@ related:
         width: 2600
         height: 1350
         isCached: true
+  - title: "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI"
+    excerpt: "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential."
+    publishedDateTime: 2023-07-20T21:52:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/07/AWS-eSPEAKS-thumbnail-copy-2.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Use Generative AI To Design Now — It’s The Beginning Of A Major Transformation"
     excerpt: "Don’t make the mistake of thinking generative AI’s impact on design is about image services. Images have always been just the visible tip of the design iceberg."
     publishedDateTime: 2023-07-19T14:30:00Z
@@ -181,15 +195,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How Generative AI is redefining work and catalyzing innovation"
-    excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
-    publishedDateTime: 2023-07-16T06:42:00Z
-    webUrl: "https://www.dqindia.com/how-generative-ai-is-redefining-work-and-catalyzing-innovation/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "Zl2907sIwtLNnMm+DjwvvSwJ7MkEaXa/FE1GohzeXjMQNJnqnJSFSN4IjMkpZV1tFOx4pifse7xhDwlXGSC6uXCULlw7ocrAPf1V5z7rDG6ZhRWDUkV6cTZ1L+qHO9QDn+sIBZ+ko+x4bRajJ1cDgPJ1aDbrbyNqDwljYLoRvuLzdrB2JnlKZ9vZwNNSYEE81m5PODNI1TrRM4TRrKyZmwtxKsRqJGSxFj6kOSXbVQPF3qM63gx06NRWwNwjrL6KqaMIfcmao3WRE+UN2q4RzRY5eLsiCesuxs0Rmp2pYza5hxZJQFUrze4eLKAq9UFgBoOieWqF2sg/GZQH4kAxORkZSc24AeJA7NFFyVeEPe5oVPa/VvQgwyZC5BZTflr5fZO/BJZPz6d8S1dmtPOux2evgRbuBBi8EpgyBnFWKpsQdgjYFZfikToncYIoi5NfvJFemf8piKwlVdm8olYB/JJbH8OSZbIZxcBltzOUmizGbGzqJfsIDbq2gYnRYDB6EDpxszzrdFAVy9K+A9vONA==;77aUQBr0DaIn4WCcKV19cg=="
 ---

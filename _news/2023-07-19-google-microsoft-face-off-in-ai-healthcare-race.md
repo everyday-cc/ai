@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Leaders of Microsoft and the NSA discuss democracy and AI at Aspen Security Forum"
+    excerpt: "As artificial intelligence technology advances, how will that technology impact democracy and security? Microsoft Vice Chair and President Brad Smith discusses with Robert Joyce, Director of Cybersecurity at the National Security Agency."
+    publishedDateTime: 2023-07-20T22:55:00Z
+    webUrl: "https://www.nbcnews.com/video/leaders-of-microsoft-and-the-nsa-discuss-democracy-and-ai-at-aspen-security-forum-188942406001"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188942406001"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188942406001"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 116
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689893719775_f_full_aspen_artintel_230720_1920x1080-jxku7n.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft goes beyond OpenAI, makes Meta's new A.I. model available to Azure customers"
     excerpt: "Meta's new artificial intelligence language model, dubbed Llama 2, will be available on Microsoft's Azure cloud-computing service."
     publishedDateTime: 2023-07-18T14:47:00Z
@@ -73,6 +89,22 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2023/07/SANS-18July2023.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Puts AI Chat To Work With Bing Chat Enterprise"
+    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue looks at Microsoft's generative AI advancements and their potential impacts on workers and productivity."
+    publishedDateTime: 2023-07-20T23:30:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b9bc172887f9f5c637566c/0x0.jpg?format=jpg&width=1200"
+        width: 720
+        height: 404
         isCached: true
   - title: "How To Get Your Team Comfortable With AI: Insights From A Microsoft Executive"
     excerpt: "AI offers freedom from the excessive inflow of data, emails, meetings, and notifications. But you've got to employ a few strategies to get your team using AI."
@@ -417,22 +449,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/f12d50e3ed2dbb84ce4b8fb7dd052110.jpg?t=20230720_062013"
         width: 752
         height: 408
-        isCached: true
-  - title: "KPMG, Microsoft enter landmark agreement to put AI at forefront of professional services"
-    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across several business-critical areas including workforce"
-    publishedDateTime: 2023-07-16T05:40:00Z
-    webUrl: "https://www.jamaicaobserver.com/career-education/kpmg-microsoft-enter-landmark-agreement-to-put-ai-at-forefront-of-professional-services/"
-    ampWebUrl: "https://www.jamaicaobserver.com/career-education/kpmg-microsoft-enter-landmark-agreement-to-put-ai-at-forefront-of-professional-services/amp/"
-    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/career-education/kpmg-microsoft-enter-landmark-agreement-to-put-ai-at-forefront-of-professional-services/amp/"
-    type: article
-    provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 65
-    images:
-      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=94599e17-0d4f-5f81-a220-dcfc46cf6870&function=fit&type=preview"
-        width: 500
-        height: 281
         isCached: true
   - title: "Splunk to Offer Enterprise Security and Observability Solutions on Microsoft Azure"
     excerpt: "Splunk and Microsoft are partnering to build Splunk’s enterprise security and observability offerings on Microsoft Azure"

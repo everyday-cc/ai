@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-21-us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china.md",
-      "title": "US Tech Leaders Aim for Fewer Export Curbs on AI Chips for China",
-      "excerpt": "Intel Corp. has introduced a processor in China that is designed for AI deep-learning applications despite reports of the Biden administration considering additional restrictions on Chinese companies to address loopholes in chip export controls.",
+      "path": "_news/2023-07-21-what-tesla-stock-investors-should-know-about-recent-ai-updates.md",
+      "title": "What Tesla Stock Investors Should Know About Recent AI Updates",
+      "excerpt": "Tesla reached over 300 million cumulative miles driven with FSD Beta and believes it can quickly grow to the billions.",
       "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
-      "originalUrl": "https://www.voanews.com/a/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
+      "webUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://gdb.voanews.com/01000000-0a00-0242-0616-08db8965d0ef_w1080_h608_s_b.jpg",
-          "width": 1080,
-          "height": 608,
+          "url": "https://g.foolcdn.com/editorial/images/740671/jose-najarro-2023-07-20t180954043.png",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html",
-      "publishedDateTime": "2023-07-20T14:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T16:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.md",
+      "title": "AI LLM on flagship devices might be possible with new Qualcomm chip",
+      "excerpt": "Future Qualcomm processors might provide AI LLM on flagship devices for end users, and this will have some benefits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2019/02/Qualcomm-Logo-2018-AM-AH-3-new1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/ai-llm-on-flagship-devices-might-be-possible-with-new-qualcomm-chip.html/amp",
+      "publishedDateTime": "2023-07-20T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,6 +94,100 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-us-chip-curbs-are-scaring-venture-capital-firms-from-chinese-ai-start-ups-but-not-us-says-bluerun-ventures-china.md",
+      "title": "US chip curbs are scaring venture capital firms from Chinese AI start-ups, but not us, says BlueRun Ventures China",
+      "excerpt": "AI development in China could be difficult in the near term, but that problem can be solved in the long run, says BRV China managing partner Jui Tan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/8f1e3339-b200-4c6b-b21a-a339874b9e78_5cd8012b.jpg?itok=Vbg9QfnX&v=1689851292",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
+      "publishedDateTime": "2023-07-20T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-norad-commander-extended-interview-potential-threats-ai-and-russia-part-1.md",
+      "title": "NORAD commander extended interview: potential threats, AI and Russia (Part 1)",
+      "excerpt": "Lester Holt interviews General Glen D. VanHerck, the commander of NORAD who oversees security of North American aerospace, about monitoring potential threats, artificial intelligence and interactions with Russia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/norad-commander-extended-interview-potential-threats-ai-and-russia-part-1-188920389752",
+      "originalUrl": "https://www.nbcnews.com/video/norad-commander-extended-interview-potential-threats-ai-and-russia-part-1-188920389752",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/WA_NY_HOLT_NORAD_FILM_FINAL_071923._frame_286-su5zmg.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo188920389752",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188920389752",
+      "publishedDateTime": "2023-07-20T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -85,6 +232,40 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom.md",
+      "title": "Can computer chips the size of dinner plates feed the AI boom?",
+      "excerpt": "The Cerebras chips stand out for their size — 56 times as large as commonly used for AI. And each packs the computing power of hundreds of traditional chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/",
+      "originalUrl": "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1",
+      "publishedDateTime": "2023-07-20T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -294,7 +475,7 @@
       "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV?siteid=yhoof2&yptr=yahoo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -334,6 +515,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-healthcare-ai-caution-addressing-ethnic-health-inequalities.md",
+      "title": "Healthcare AI Caution: Addressing ethnic health inequalities",
+      "excerpt": "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/",
+      "originalUrl": "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -791,7 +1015,7 @@
       "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -986,265 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ai-workers-need-more-protection-tuc-union.md",
-      "title": "AI: Workers need more protection - TUC union",
-      "excerpt": "The UK is falling behind in protecting workers from artificial intelligence (AI), a trade union has warned. The TUC said the UK had no plans, like the EU's AI Act, to regulate its use in hiring, firing and setting work conditions. The union has asked a taskforce to draft legal protections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-66248125",
-      "originalUrl": "https://www.bbc.com/news/business-66248125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D0F4/production/_130429435_gettyimages-1436224164.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-66248125.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66248125.amp",
-      "publishedDateTime": "2023-07-19T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-karat-a-startup-building-financial-tools-for-content-creators-raises-70m.md",
-      "title": "Karat, a startup building financial tools for content creators, raises $70M",
-      "excerpt": "Karat Financial, a startup offering credit to creators, has raised $70 million in venture capital on the heels of a Visa partnership.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/19/karat-a-startup-building-financial-tools-for-content-creators-raises-70m/",
-      "originalUrl": "https://techcrunch.com/2023/07/19/karat-a-startup-building-financial-tools-for-content-creators-raises-70m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
-      "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
-      "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 940,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/",
-      "publishedDateTime": "2023-07-19T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-ibm-reports-earnings-beat-but-misses-on-revenue.md",
-      "title": "IBM reports earnings beat, but misses on revenue",
-      "excerpt": "IBM's data and artificial intelligence products showed the fastest expansion, growing 10% from a year earlier, the company said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107228185-1681935493510-gettyimages-1246298489-DAVOS_WEF_2023.jpeg?v=1689805644",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/19/ibm-q2-earnings-report-2023.html",
-      "publishedDateTime": "2023-07-19T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-how-to-build-the-ultimate-gpu-cloud-to-power-ai.md",
-      "title": "How to Build the Ultimate GPU Cloud to Power AI",
-      "excerpt": "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
-      "originalUrl": "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/navi/images/radio-thumbnail-745046050e.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

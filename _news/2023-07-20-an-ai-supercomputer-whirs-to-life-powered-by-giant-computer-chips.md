@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-
 webUrl: "https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 37
+    quality: 54
   - title: "An AI supercomputer whirs to life, powered by giant computer chips"
     excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
     publishedDateTime: 2023-07-20T19:03:00Z

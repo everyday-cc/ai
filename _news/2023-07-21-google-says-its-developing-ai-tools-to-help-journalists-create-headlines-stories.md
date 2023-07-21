@@ -2,26 +2,26 @@
 category: news
 title: "Google says it’s developing AI tools to help journalists create headlines, stories"
 excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
-publishedDateTime: 2023-07-20T19:35:00Z
-originalUrl: "https://www.knoe.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-webUrl: "https://www.knoe.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-ampWebUrl: "https://www.knoe.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
-cdnAmpWebUrl: "https://www-knoe-com.cdn.ampproject.org/c/s/www.knoe.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+publishedDateTime: 2023-07-20T23:34:00Z
+originalUrl: "https://www.wabi.tv/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+webUrl: "https://www.wabi.tv/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
+ampWebUrl: "https://www.wabi.tv/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
+cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/?outputType=amp"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: KNOE
-  domain: knoe.com
+  name: WABI-TV
+  domain: wabi.tv
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://gray-knoe-prod.cdn.arcpublishing.com/resizer/YO5HMaZ80XRxBaP090nwXiJ7PXk=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DQ6HAAL4R5B4ZMJI3ZP3UIK3RU.png"
+  - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/V1tacnFPKNAgF97OCUY6xtP-rV4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/JDK2X6Z63NB23K2VDCW3RRO64I.PNG"
     width: 800
     height: 450
     isCached: true
@@ -79,6 +79,6 @@ related:
       domain: cbsnews.com
     quality: 18
 
-secured: "KXIyxvbpPj5QTXdGgWYVaKYqjJYF42J4d2p8PQoyWsjJ6vQ/JJW/N0H8ILc65gTVfIzgkIWh+NTzp+ypKNPe3HbGmCBkCK0ouIbhWp982BPuGUylwJCB8bvAtKIkRR3r+aE9k96ugOvAfATkJloJxHrJUHlFXb0pdf6FPTH0Eh2YnZAQCM+K+GAXxYXx8YTL+IPPc4i1Tk8QV4gg/1LPw/GgQzzDmM9UG1XnIzwOG0GNT5M7KWOJT1HmV2b6CRNme2SF23iOzOE07DqkeYIyPzDkwdJyxsVTLt7IaoEV9Cv8RbM/xEDRY8VvwpDzwQcM48WVNSE6KgPfXSQViTLIAq8xO67MCdF1/RPY7oJ42OE=;oKpaS++OxThL5gX8s3e82Q=="
+secured: "okUsdWNi/yXUs7j3/oJJQ+lM/d26QZqcLqodM1L/yq/HYvoQUIvAXLsp1J0w+YIKFU+VEdK3LrcN2ZTlpD9cmDEvINECGafYAgl/R8LTs13ea3kLC985s7iXG2wtazDn52dSfYovgkZqF1dRKLX/8K0em3QbSYAQVOU/L1n80ZsJD0SL3WL+GiT4t+fK1DEA987hy5GQoNnknK0yifF3Re/ZoAiZUQbaqSzinhj0zhKDtpF+0pmZQnQ/+O4v2KHNZ4FtcWFgF376zuJOqJCKPSuUbSllwJNLxkwN8+P32CbVTU3d2FVJIgUifSy/5LlBSpxE1mL1Mi2+4QXvz5q4xkLSH45BeilAK22t3Q6ZvIU=;shS9+T2wHl0h/VosGtMuwg=="
 ---
 

@@ -53,6 +53,22 @@ related:
         width: 969
         height: 631
         isCached: true
+  - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
+    excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
+    publishedDateTime: 2023-07-20T23:27:00Z
+    webUrl: "https://www.theregister.com/2023/07/20/tesla_to_license_fsd_software/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2023/07/12/musk_shutterstock.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
     excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
     publishedDateTime: 2023-07-19T07:33:00Z

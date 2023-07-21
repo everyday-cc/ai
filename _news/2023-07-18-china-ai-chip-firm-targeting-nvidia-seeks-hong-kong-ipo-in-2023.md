@@ -7,8 +7,8 @@ originalUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-ch
 webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: news.bloomberglaw
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Chip Firm Challenging Nvidia Seeks IPO Later This Year"
-    excerpt: "The company has become the de facto alternative to Nvidia's AI accelerators, which have been banned in the country due to sanctions."
-    publishedDateTime: 2023-07-18T18:30:00Z
-    webUrl: "https://www.extremetech.com/computing/chinese-ai-chip-firm-challenging-nvidia-seeks-ipo-later-this-year"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Biren Intelligent Technology Exploring IPO amid Rising AI Hype"
     excerpt: "The proposed IPO and funding round comes at a time when the demand for AI chips is skyrocketing across various industries. Biren’s advanced chip solutions have gained recognition for their superior performance, energy efficiency, and scalability, positioning the company as a key player in the Chinese AI chip market."
     publishedDateTime: 2023-07-18T12:17:00Z

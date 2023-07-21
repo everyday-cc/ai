@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-20T19:32:00Z
 originalUrl: "https://www.techopedia.com/artificial-intelligence-statistics"
 webUrl: "https://www.techopedia.com/artificial-intelligence-statistics"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.techopedia.com/wp-content/uploads/2023/07/Artificial-Intelligence-Market-Size-Revenue-Fore.png"
@@ -23,6 +24,6 @@ images:
     height: 511
     isCached: true
 
-secured: "1NEmHl6n2t8kho71I8XP+ylmUSMOptRvVup66KYz/DApB/xH3/Xwc+/YEvcVoFl0ho4UliC1e74b+0EdLu1YzHqx51eO4tbcD0ji3EOoydcO0JXze8Exdgi5juXCm+F3QPKpX3qLZ82tuUdTD0JFxmktL5lH7RTrkkrcSOJrBV1EtE8oi5L7oBzu2wcD+Mq2ur6VZM/urpZ3CEQMh3tewWUTYUPM4aFAJzE2NSiBHXmayVr5ahbC3mpDMTMCgik+S/FL5cvpdVEwgaWt75LN1JzPbcQ3Pc0WFX6+3NnOpuQDzB6Y2LArOutaenwbdP7z2K5XUSiYFEQWIh4XIigsqf+eq23ovNGEitYltgD5JV0=;NdZPPiIT0w0m8+63O6SH9A=="
+secured: "QdeiIyYlrpR78qcGI/nF8IaeLbdtVqoQ6U9z1+n2o2bHIByShKV45IjwL5eiv3zc5S4nzmXNLB6I+SQt9Wq4NaD3IlOSxAEf2Bj2jekV3wMqxX2e9UJP369V4mLpOPzEkgFz7sjxiNJdIE15TDkgOxGEE5nnX2KC3HBYp7rij1ISHdLezp8dZ4KPCtzMB7G27ets03IN959kRoH18dgJpKArjc6zquIaj0mByOVsDlW1/CvjYc0/7sOxBG5+/cbSuy565Hba0By5TMH67pfEDJ0se2Ic7CZgAHbgMbCNIe4nngPsK45qJKNNwEm/c8WsA7gBZd4TzlUURq7jX5h9WWFzV+EOTKt958xTsXFrMRpzzjjobDvgMLq8YAFMm6jL1vEql3GxUWpCWWPfDUXNkNWL7LEXPGjCSKSZ3vI1GZX9jKazeO/lKc18Eq2hEmprbqlhETA+PneZk8FzL+0TIBjfJWFrgfXKrrgEBU+MgimqkhsDQw1acBZJOXsjkAn4pmNEJbPTu4j9pbN2gegazA==;1JXfg4Y2w7FQHHq/hNg6lQ=="
 ---
 

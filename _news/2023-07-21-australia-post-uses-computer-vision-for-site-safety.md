@@ -24,6 +24,22 @@ images:
     height: 483
     isCached: true
 
-secured: "4K6RoD122p72rizDwhyLo64Ug06LDicTXGptHNyLQJ3Zr0NQiFUN+K9qSPgnGqj33JbKepm/oR8LApFaDFcpdgZLoN1+NMuEOcVDdi0Tj8KGfUqQFIxeQMyWoAD6zdM0sqv8P9nYJxddfPOMtHAlzxmsbfpxv4Tbqc06Ij3jvQwYCdCfkoF+P0VY3osTebOk+j1q2tzsCBf56m+FOzW21dUAlsWdfLtMTDGpd7RFPm+vvGNJAHMzH+PJ3YudRjrJVv1RdpIsytSjw9L4hmda5QUJ4nbEQI3ouIJsLU3sNrkh1wCg5vrwrqG3TSBsUIvwWh0e68oAO0OqpTGQnU6PUr6jEaJhaUZ1Yx2b0wQYDAs=;fVaVF0MgsilHRsfn1Fj4zw=="
+related:
+  - title: "The AI advantage: How Australia can lead with generative AI"
+    excerpt: "Leveraging the AI advantage, Australia's professional and financial services sector could see an annual boost of up to AU$13 billion by 2030."
+    publishedDateTime: 2023-07-20T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/07/generative-ai-advantage-how-australia-can-lead-in-this-space/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/20072023_GenerativeAIAustralia.png"
+        width: 1192
+        height: 667
+        isCached: true
+
+secured: "WsN+mvuy79dzHWhxPlyqfJb5uCDxSZDlVDQSsTaS4bdUGSwai0ta3NTPC0u4Nn4jQHy2l1APLzt5hDQB3v8IFR+vvJQXcUbakSDrYI79VIcblRb5E8ReoKfAZxcbegQ0DpvHP6o2zHVGWEOSfsUjkgy2b1sdqqHbAvio2sK7jEWou84bhfkwJ3AjBzKpOYM6N4drVhTPdAPDct5Gnywa65im+4WEl59ZzIRnhqMqrH8uK3VRUnD/GffoQVEkcf+dEtu0m1Nmq6/TsS0zrp9oFTLvcCVLdA3N1tGmfbpf8WnKx3inTgA2h/gU5EKorEloK+NJUQ9MpRuMhPRzcsfhgQCLpi4pyNyRDE0ApMCM8LdOPyIAV+RMwFkL/rWmJfksQGoEdYiy8tSZrol4Wncb1j+8jOFtiENBSjD4aNEa7MPlp6MMBEAgWQ1uvlDHHlYI/YU8bCrmdzmIA3Lc9uQGY2pHqRCA8gx7ihjF+yWKhCGx1tAaKWtlO+cP2bJeJ/QckFbhlEN4VIXTn0Y2y9K1xA==;FMvS3s8WFFaqtQyWAi1soA=="
 ---
 

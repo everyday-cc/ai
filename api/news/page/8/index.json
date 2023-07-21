@@ -2,6 +2,567 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-07-14-actors-say-hollywood-studios-want-their-ai-replicas-for-free-forever.md",
+      "title": "Actors say Hollywood studios want their AI replicas — for free, forever",
+      "excerpt": "During today’s press conference in which Hollywood actors confirmed that they were going on strike, Duncan Crabtree-Ireland, SAG-AFTRA’s chief negotiator, revealed a proposal from Hollywood studios that sounds ripped right out of a Black Mirror episode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
+      "originalUrl": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/EOBvakgKZaoIGZu_qy6UzPlSD_s=/0x0:1422x750/1200x628/filters:focal(941x379:942x380)/cdn.vox-cdn.com/uploads/chorus_asset/file/24693367/black_mirror_s6.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-bank-of-america-is-using-ai-and-metaverse-to-train-new-hires.md",
+      "title": "Bank of America Is Using AI and Metaverse to Train New Hires",
+      "excerpt": "When you arrive at Bank of America’s new-employee boot camp at the New York Hilton Midtown, you’ll find a VR headset waiting for you. Slide it on, and you’ll be confronted with an angry customer, frustrated over a mix-up with their account.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/bank-of-america-is-using-the-metaverse-ai-to-train-its-hires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivytSQi0mxQc/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-machine-translation-the-next-frontier-for-large-language-models.md",
+      "title": "Machine translation: The next frontier for large language models",
+      "excerpt": "Dr Deepak Garg is Director, leadingindia.ai and Director NVIDIA-Bennett Research Center on Artificial Intelligence. He is Professor and Dean, School of Computer Science Engg and Dean ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg",
+          "width": 414,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "publishedDateTime": "2023-07-13T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how.md",
+      "title": "Most workers want to use generative AI to advance their careers but don't know how",
+      "excerpt": "Out of the respondents in the survey, 54% of workers believe generative AI will advance their careers. 65% believe that generative AI will allow them to focus on more strategic work. Despite the optimistic look, the workers felt like they don't have the right skill set to properly use generative AI or take full advantage of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "originalUrl": "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1f4d5350a413ee7e0b3ef4615bcf2645f1051a85/2023/07/13/1e816a08-2525-4e48-b0d8-8a1f61eee348/gettyimages-1256306440.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "publishedDateTime": "2023-07-13T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-3-artificial-intelligence-stocks-that-ai-is-loving-in-july.md",
+      "title": "3 Artificial Intelligence Stocks That AI Is Loving in July",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-13T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-artificial-intelligence-learning-check-how-ai-can-help-you-crack-govt-exams-2023.md",
+      "title": "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023",
+      "excerpt": "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "originalUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com//images/2022/May/2752022/Archana-Shandilya.jpeg",
+          "width": 630,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "publishedDateTime": "2023-07-13T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-natural-language-processing-gcc.md",
+      "title": "Natural Language Processing - GCC",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$226.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.25%, resulting in a market volume ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/gcc",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/gcc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integrating-microsoft-text-analytics-for-health.md",
+      "title": "Accuity Announces Proprietary Intelligence-Infused Clinical Documentation Review Technology Integrating Microsoft Text Analytics for Health",
+      "excerpt": "A leap in revenue cycle management, Accuity's innovation is one of the first to analyze medical records through a physician's lens ensuring each chart's coding accurately captures the patient's clinic",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33221292/accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integr",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33221292/accuity-announces-proprietary-intelligence-infused-clinical-documentation-review-technology-integr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33221292",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33221292",
+      "publishedDateTime": "2023-07-13T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster.md",
+      "title": "Michael Hiltzik: Artificial intelligence chatbots are spreading fast, but hype about them is spreading faster",
+      "excerpt": "Those of us who have spent the last few decades reporting on technology have seen fads and fashions rise and fall on investment bubbles. In the late 1990s it was",
+      "sourceUrl": null,
+      "webUrl": "https://thebrunswicknews.com/news/business/michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster/article_dfa23789-177c-500a-94fa-063d04efa862.html",
+      "originalUrl": "https://thebrunswicknews.com/news/business/michael-hiltzik-artificial-intelligence-chatbots-are-spreading-fast-but-hype-about-them-is-spreading-faster/article_dfa23789-177c-500a-94fa-063d04efa862.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/4/68/468c75ea-146a-514e-8f52-193832f3c5a1/64b04cfef2b42.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brunswick News",
+        "domain": "thebrunswicknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-how-ai-startup-runway-is-trying-to-make-content-creation-faster-and-easier-according-to-its-cofounder.md",
+      "title": "How AI startup Runway is trying to make content creation faster and easier, according to its cofounder",
+      "excerpt": "Filmmakers and creators have been using the startup Runway to make video editing more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "originalUrl": "https://www.businessinsider.com/how-runway-can-make-content-creation-faster-and-better-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ae71ff8ed31300199e8f90?width=1200&format=jpeg",
+          "width": 480,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-researchers-investigate-ethical-side-of-ai-impacts-on-meaningful-work.md",
+      "title": "Researchers investigate ethical side of AI impacts on meaningful work",
+      "excerpt": "Artificial intelligence threatens to dramatically change the work we do and how our workplaces operate. Macquarie University researchers examine some vital ethical questions raised by this new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
+      "originalUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-will-ai-impact-you.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ethical-side-ai-impacts-meaningful.amp",
+      "publishedDateTime": "2023-07-13T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-effectively-solve-distributed-training-convergence-issues-with-amazon-sagemaker-hyperband-automatic-model-tuning.md",
       "title": "Effectively solve distributed training convergence issues with Amazon SageMaker Hyperband Automatic Model Tuning",
       "excerpt": "Recent years have shown amazing growth in deep learning neural networks (DNNs). This growth can be seen in more accurate models and even opening new possibilities with generative AI: large language models (LLMs) that synthesize natural language, text-to-image generators, and more. These increased capabilities",
@@ -441,6 +1002,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-13-here-are-the-45-best-amazon-prime-day-deals-still-happening.md",
+      "title": "Here are the 45 best Amazon Prime Day deals still happening",
+      "excerpt": "Want more deals? Visit CNN Underscored’s Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale. Amazon Prime Day 2023, the summer’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/prime-day-a-z-deals-still-live.jpeg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "publishedDateTime": "2023-07-13T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims.md",
       "title": "UK Government Criticized Over Use OF AI To Evaluate Benefits Claims",
       "excerpt": "The UK government is coming under fire for using AI to assess applications for social security benefits. The Department of Work and Pensions (DWP) has said it plans to use AI to identify patterns in claims that could indicate error or fraud as part of plans to cut £1.3 billion from the benefits bill this year and nex.",
@@ -583,624 +1196,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-amazon-prime-day-deals-2023-all-the-best-offers-still-available.md",
-      "title": "Amazon Prime Day deals 2023 - all the best offers still available",
-      "excerpt": "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
-      "title": "The looming addiction crisis fueled by AI",
-      "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ac50bf8ed31300199e5355?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-adderall-targeted-advertising-opioid-crisis-cerebral-purdue-pharma-2023-7?amp",
-      "publishedDateTime": "2023-07-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-asking-the-clergy-is-artificial-intelligence-a-help-or-hindrance-to-faith.md",
-      "title": "Asking the Clergy: Is artificial intelligence a help or hindrance to faith?",
-      "excerpt": "Since the OpenAI ChatGPT program was launched in the fall, it has gone viral, with even a Long Island rabbi using it to “plagiarize” a sermon. This week’s clergy discuss the religious implications of the technology, which uses artificial intelligence (AI) to generate text after a user enters a prompt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
-      "originalUrl": "https://www.newsday.com/long-island/li-life/asking-the-clergy-havib8ih",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/ace/c:NjZkNGJkM2YtZjRiYi00:NDFiMjA5/landscape/1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/long-island/li-life/asking-the-clergy-havib8ih",
-      "publishedDateTime": "2023-07-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-could-ai-powered-robot-companions-combat-human-loneliness.md",
-      "title": "Could AI-powered robot 'companions' combat human loneliness?",
-      "excerpt": "Companion robots enhanced with artificial intelligence may one day help alleviate the loneliness epidemic, suggests a new report from researchers at Auckland, Duke, and Cornell Universities.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-19.jpg",
-          "width": 2880,
-          "height": 2243,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-ai-powered-robot-companions-combat-human.amp",
-      "publishedDateTime": "2023-07-13T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley.md",
-      "title": "AI Doomsday Scenarios Are Gaining Traction in Silicon Valley",
-      "excerpt": "To say that some of his visions for the end of the world are unpopular would be a gross understatement; they’re on par with the prophecy that the world would end in 2012. That prediction was based on a questionable interpretation of an ancient text, as well as a dearth of supportive evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/ai-doomsday-scenarios-are-gaining-traction-in-silicon-valley",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifBRMHGK.dqE/v0/1200x670.jpg",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-ai-is-the-next-front-in-the-culture-war.md",
-      "title": "AI is the next front in the culture war",
-      "excerpt": "Artificial intelligence has become the latest battleground between left and right. It's not like social media. It's an innovation that needs to be handled in each industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
-      "originalUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/65005a2b-1ca5-4161-b171-6d919e481c94/362427db-94c2-4411-8415-4ede681c9547/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/ai-next-front-culture-war.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-next-front-culture-war.amp",
-      "publishedDateTime": "2023-07-12T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-robotaxi-ventures-making-slow-but-sure-progress.md",
-      "title": "Robotaxi ventures making slow but sure progress",
-      "excerpt": "Waymo and Cruise, the two companies offering ... Baidu, the Chinese Internet and artificial intelligence company, obtained a license in June to offer its Apollo Go commercial driverless service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "originalUrl": "https://www.autonews.com/mobility-report/robotaxis-are-still-long-way-finish-line",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/INTELLEGENCE_REPORT-MAIN_i.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-crypto-miner-hive-digital-drops-blockchain-from-name-amid-pivot-to-ai.md",
-      "title": "Crypto miner Hive Digital drops 'blockchain' from name amid pivot to AI",
-      "excerpt": "The crypto mining company formerly known as Hive Blockchain Technologies has changed its name to Hive Digital Technologies, as the firm looks to capitalize on the growing AI trend.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot",
-      "originalUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/8933e78d-a063-4430-85e4-949ed478575a.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-miner-hive-digital-drops-blockchain-ai-pivot/amp",
-      "publishedDateTime": "2023-07-12T20:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-will-ai-impact-the-future-of-your-work.md",
-      "title": "How Will AI Impact the Future of Your Work?",
-      "excerpt": "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-musk-believes-china-is-on-team-humanity-when-it-comes-to-ai.md",
-      "title": "Musk Believes China Is on ‘Team Humanity’ When It Comes to AI",
-      "excerpt": "Elon Musk said he believes that China is “on Team Humanity” and would be willing to work with the international community on common guidelines for artificial intelligence — a technology he described as “a civilizational risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-13/musk-believes-china-is-on-team-humanity-when-it-comes-to-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iENBQmN8PKBI/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards.md",
-      "title": "Announcing the winners of VentureBeat’s 5th Annual Women in AI awards",
-      "excerpt": "The winners were presented with the awards by VentureBeat’s Sharon Goldman, senior AI writer, and Gina Joseph, chief strategy officer. Joseph emphasized the importance of the aw",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
-      "originalUrl": "https://venturebeat.com/ai/announcing-the-winners-of-venturebeats-5th-annual-women-in-ai-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/VBDM0091.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-generative-ai-will-shape-the-future-of-it-heres-why.md",
-      "title": "Generative AI Will Shape The Future Of IT. Here’s Why.",
-      "excerpt": "IT organizations willing to embrace generative AI have the potential to be among the first to reap its transformative benefits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a32fb59c83afbc840c44cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/12/generative-ai-will-shape-the-future-of-it-heres-why/amp/",
-      "publishedDateTime": "2023-07-12T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-seven-things-to-know-about-responsible-ai-microsoft.md",
-      "title": "Seven things to know about Responsible AI – Microsoft",
-      "excerpt": "Artificial intelligence is rapidly transforming our world. Whether it’s ChatGPT or the new Bing, our recently announced AI-powered search experience, there",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/609516/seven-things-to-know-about-responsible-ai-microsoft/",
-      "originalUrl": "https://www.inferse.com/609516/seven-things-to-know-about-responsible-ai-microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

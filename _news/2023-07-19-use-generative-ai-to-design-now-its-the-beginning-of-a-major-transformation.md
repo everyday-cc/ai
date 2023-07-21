@@ -80,6 +80,20 @@ related:
         width: 2600
         height: 1350
         isCached: true
+  - title: "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI"
+    excerpt: "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential."
+    publishedDateTime: 2023-07-20T21:52:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 84
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/07/AWS-eSPEAKS-thumbnail-copy-2.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Reimagining the data center for the age of generative AI"
     excerpt: "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?"
     publishedDateTime: 2023-07-20T16:00:00Z
@@ -177,15 +191,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How Generative AI is redefining work and catalyzing innovation"
-    excerpt: "Rahul Londhe, Senior Director, SAP Artificial Intelligence, spoke to Dataquest about Generative AI on the occasion of AI Appreciation Day"
-    publishedDateTime: 2023-07-16T06:42:00Z
-    webUrl: "https://www.dqindia.com/how-generative-ai-is-redefining-work-and-catalyzing-innovation/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
   - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
     excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
     publishedDateTime: 2023-07-17T12:51:00Z

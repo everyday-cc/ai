@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of
 webUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/"
 type: article
 quality: 114
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills"
+    excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
+    publishedDateTime: 2023-07-20T18:43:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
   - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
     excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
     publishedDateTime: 2023-07-20T13:30:00Z

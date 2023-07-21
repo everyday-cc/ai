@@ -2,6 +2,701 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-06-05-getting-started-with-mqtt-in-azure-event-grid.md",
+      "title": "Getting started with MQTT in Azure Event Grid",
+      "excerpt": "Those events could also be stored in Azure Data Lake, where analysts can use tools like Data Explorer to extract insights from device data and use that data to train machine learning-powered control systems. Azure Event Grid is an important component of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
+      "originalUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/02/shutterstock_1748437547-100937033-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698274/getting-started-with-mqtt-in-azure-event-grid.amp.html",
+      "publishedDateTime": "2023-06-05T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-it-might-be-controversial-but-ai-could-help-create-a-greener-future.md",
+      "title": "It Might Be Controversial, But AI Could Help Create A Greener Future",
+      "excerpt": "Arup’s digital services leader, Will Cavendish said it has used AI to calculate where best to deploy nature-based solutions in cities like Shanghai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647d9bae4c670bf9090e1092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/",
+      "publishedDateTime": "2023-06-05T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-australia-launches-consultative-review-of-ai.md",
+      "title": "Australia launches consultative review of AI",
+      "excerpt": "Following the U.S. and Europe, Australia has decided to explore a regulatory framework for AI amid mounting concerns about the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/92274b7619a0efc8c764d029afe0a002410d64b8/2023/06/04/0bdd189c-3a78-47c3-901a-e70e72ad5310/gettyimages-1258297475.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-launches-consultative-review-of-artificial-intelligence/",
+      "publishedDateTime": "2023-06-05T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-google-launches-extensive-ai-course-for-free.md",
+      "title": "Google Launches Extensive AI Course for Free",
+      "excerpt": "Search engine giant Google has announced 7 new generative AI courses that are completely free. These courses are meant to \"advance your cloud career\" and",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/",
+      "originalUrl": "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2023/06/geneartive-AI-google-e1685947361160.png",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0",
+      "publishedDateTime": "2023-06-05T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone.md",
+      "title": "Artificial Intelligence Took Over Around 4,000 Jobs In The Tech Industry In May Alone",
+      "excerpt": "Challenger, Gray & Christmas claims that 4% of the 4,000 people who lost their jobs in May 2023 were made redundant as a direct result of advancements in artificial intelligence. That's right, you read that right!",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/53962/artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone",
+      "originalUrl": "https://in.mashable.com/tech/53962/artificial-intelligence-took-over-around-4000-jobs-in-the-tech-industry-in-may-alone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/mashable_in/seo/5/54426/54426_nbq4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.md",
+      "title": "AI could help solve NJ missing child mystery in new step for cold-case probes",
+      "excerpt": "New Jersey law enforcement will use artificial intelligence to help solve the three-decade cold case of Mark Himebaugh that could set a precedent for the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes",
+      "originalUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01b2467c-e906-47f1-b89c-f0941fbfe408/af430678-3518-4af0-b4c1-30530089dd9b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-could-help-solve-nj-missing-child-mystery-in-new-step-for-cold-case-probes.amp",
+      "publishedDateTime": "2023-06-04T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-american-pie-icon-don-mclean-on-ai-itll-be-better-than-what-passes-itself-off-as-music-today.md",
+      "title": "'American Pie' icon Don McLean on AI: 'It'll be better than what passes itself off as music today'",
+      "excerpt": "Don McLean, musician, songwriter and creator of \"American Pie\" and other iconic songs, spoke at length to Fox News Digital about artificial intelligence and his views of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
+      "originalUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/american-pie-icon-don-mclean-ai-better-than-what-passes-itself-music.amp",
+      "publishedDateTime": "2023-06-04T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-kamala-harris-cant-be-trusted-with-ai-regulation.md",
+      "title": "Kamala Harris can't be trusted with AI regulation",
+      "excerpt": "Kamala Harris can't be trusted with AI regulation. Rules for rapidly growing area of technology must be handled by a panel of experts, not the vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation",
+      "originalUrl": "https://www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ae47cfb-0ff2-4000-b4e9-82221f06ab82/9f95aea3-6934-4191-bb44-8d65520bf590/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-trusted-ai-regulation.amp",
+      "publishedDateTime": "2023-06-04T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence.md",
+      "title": "AI Anxiety: How These 20 Jobs Will Be Transformed By Generative Artificial Intelligence",
+      "excerpt": "We explore how generative artificial intelligence will transform twenty jobs across industries and how to embrace these changes and thrive in an AI-driven world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647d767e5317b4aee4d81907/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-06-04T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-rishi-sunak-to-lobby-joe-biden-for-uk-leadership-role-in-ai-development.md",
+      "title": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development",
+      "excerpt": "Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on facebook (opens in a new window) Rishi Sunak to lobby Joe Biden for UK ‘leadership’ role in AI development on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "originalUrl": "https://www.ft.com/content/7c30ea28-2895-44c2-9a2d-c31ea7fa27e7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-duet-ai-for-google-workspace-what-is-it-and-how-does-it-work.md",
+      "title": "Duet AI for Google Workspace: What is it and how does it work?",
+      "excerpt": "Google has unveiled a new basket of features for its suite of apps, collectively called Duet AI for Workspace. Here's how to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/",
+      "originalUrl": "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-duet-ai-for-workspace.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-how-self-driving-cars-will-change-the-roads.md",
+      "title": "How Self-Driving Cars Will Change the Roads",
+      "excerpt": "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/self-driving-cars/",
+      "originalUrl": "https://www.rd.com/article/self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-tsa-expands-testing-of-facial-recognition-technology-as-some-in-congress-voice-concerns.md",
+      "title": "TSA expands testing of facial recognition technology as some in Congress voice concerns",
+      "excerpt": "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide. “We have automated what we have been doing manually as a snapshot in time to make sure you who you say you,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/",
+      "originalUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/C0cSv-lZx4l3-D9MG9QEqpr8_O8=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/06-04-2023/t_281f04564334492bb78a1e8b52c877f0_name_WNB2ALL_TSA_Tech_Concerns_PKG.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/washington-news-bureau/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/RU6EVFL6MRD2LPLPFQA7Y7AWTQ/?outputType=amp",
+      "publishedDateTime": "2023-06-04T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSB-TV",
+        "domain": "wsbtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold.md",
+      "title": "AI chips are hot. Here's what they are, what they're for and why investors see gold",
+      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make",
+      "sourceUrl": null,
+      "webUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
+      "originalUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/c/a8/ca876be0-0143-11ee-9b3d-1b859d4763af/6479e538866c4.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
+      "cdnAmpWebUrl": "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/web_extra/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_a2be6b40-0143-11ee-a6ce-4b6d3384b1ad.amp.html",
+      "publishedDateTime": "2023-06-04T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Gazette",
+        "domain": "niagara-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-generation-ai-fear-for-jobs-as-half-of-uk-public-think-robots-will-act-against-human-interests.md",
+      "title": "Generation AI fear for jobs as half of UK public think robots will act against human interests",
+      "excerpt": "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=more_from_this_author",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-these-deep-sea-animals-are-new-to-scienceand-already-at-risk.md",
       "title": "These deep-sea animals are new to science—and already at risk",
       "excerpt": "About 90 percent of species found in the Clarion Clipperton Zone have never been identified, yet they may be at risk from mining for minerals such as cobalt and nickel. Spanning 1.7 million square ...",
@@ -482,685 +1177,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-robots-artificial-intelligence-used-to-boost-bush-tuckers-restaurant-star-marron.md",
-      "title": "Robots, artificial intelligence used to boost bush tucker's restaurant star — marron",
-      "excerpt": "Two mechanical engineers hope to increase marron production from 60 to 500 tonnes a year They are trialling growing marron in modular indoor farming systems, using artificial intelligence Their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2023-06-04/marron-crayfish-produced-by-robots-and-artificial-intelligence/102417354",
-      "originalUrl": "https://www.abc.net.au/news/2023-06-04/marron-crayfish-produced-by-robots-and-artificial-intelligence/102417354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/b7dca674168d11c44f6bcf6f30038bfe?impolicy=wcms_crop_resize&cropH=449&cropW=797&xPos=1&yPos=29&width=862&height=485",
-          "width": 797,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/102417354",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102417354",
-      "publishedDateTime": "2023-06-03T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-new-technology-creates-ai-romantic-partners-for-users.md",
-      "title": "New technology creates AI romantic partners for users",
-      "excerpt": "As artificial intelligence continues to advance, some are now turning to technology to fill the void, engaging in friendships and sometimes romances with AI chatbots. NBC News’ Jake Ward explores the new frontier of modern relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-technology-creates-ai-romantic-partners-for-users-179778629880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_06/1685832939527_nn_jwa_ai_romances_relationships_230603_1920x1080-2873om.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo179778629880",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo179778629880",
-      "publishedDateTime": "2023-06-03T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-04-a-synthetic-npr-host-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone.md",
-      "title": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
-      "excerpt": "A synthetic NPR host? AI startup WellSaid Labs makes amazing ‘Planet Money’ voice clone",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
-      "originalUrl": "https://www.geekwire.com/2023/a-synthetic-npr-host-seattle-ai-startup-wellsaid-labs-makes-amazing-planet-money-voice-clone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide.md",
-      "title": "How AI could change the ways we live and work, reducing the digital divide",
-      "excerpt": "Guest Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More AI is everywhere. Its use is being debated in headlines,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-could-change-the-ways-we-live-and-work-reducing-the-digital-divide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1281732617.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-plan-for-facial-recognition-tech-in-schools-riles-rights-groups.md",
-      "title": "Plan for facial recognition tech in schools riles rights groups",
-      "excerpt": "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/exu8vf/article66928332.ece/alternates/FREE_1200/LOCAL%20ELECTIONS",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/",
-      "publishedDateTime": "2023-06-03T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-tesla-boosts-referral-program-to-help-sales-1000-off-and-3-months-of-free-full-self-driving.md",
-      "title": "Tesla boosts referral program to help sales, $1000 off and 3 months of free Full Self-Driving",
-      "excerpt": "Tesla is boosting its referral program to help sales at the end of the quarter with $1,000 off and 3 months of free Full Self-Driving for Model S and Model X, and more credits for Model 3 and Model Y.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
-      "originalUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/06/IMG_2404.png?w=472",
-          "width": 472,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot.md",
-      "title": "AI chips: Here’s what they are, what they’re for, why they’re hot",
-      "excerpt": "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec",
-      "sourceUrl": null,
-      "webUrl": "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/",
-      "originalUrl": "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Columbian",
-        "domain": "columbian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-security-news-this-week-ai-is-being-used-to-turbocharge-scams.md",
-      "title": "Security News This Week: AI Is Being Used to ‘Turbocharge’ Scams",
-      "excerpt": "Plus: Amazon’s Ring was ordered to delete algorithms, North Korea’s failed spy satellite, and a rogue drone “attack” isn’t what it seems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/",
-      "originalUrl": "https://www.wired.com/story/security-roundup-ai-scams-voice-cloning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/647a58662cc57777ec67f04a/191:100/w_1280,c_limit/AI-Is-Being-Used-to-%E2%80%98Turbocharge%E2%80%99-Scams-Security-GettyImages-683670662.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-these-robot-hands-can-be-controlled-from-anywhere-in-the-world.md",
-      "title": "These robot hands can be controlled from anywhere in the world",
-      "excerpt": "Finally, once I step on a paddle, I’m in control of the 4.3kg robot arms. It doesn’t take too long to get used to, as it’s super intuitive. So, if I suddenly drop my hands, they don’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/?ico=mosaic_tag",
-      "originalUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/?ico=mosaic_tag",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/06/PXL_20230531_100224994.TS_exported_8841_1685715913256-912f-e1685716238144.jpg?quality=90&strip=all&zoom=1&resize=600%2C570",
-          "width": 600,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/03/these-robot-hands-can-be-controlled-from-anywhere-in-the-world-18886166/amp/",
-      "publishedDateTime": "2023-06-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-robot-takeover-not-quite-heres-what-ai-doomsday-would-look-like.md",
-      "title": "Robot takeover? Not quite. Here’s what AI doomsday would look like",
-      "excerpt": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e5f4d936222873ba23161480fa267f6fb1ead285/0_0_5700_3800/master/5700.jpg?width=620&quality=85&auto=format&fit=max&s=046b8e059d1da3cb12fcb51f8c497ce0",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
-      "publishedDateTime": "2023-06-03T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce.md",
-      "title": "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce",
-      "excerpt": "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/",
-      "publishedDateTime": "2023-06-03T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup.md",
-      "title": "Only in Bengaluru: Landlord invests Rs 8 lakh in tenant’s AI startup",
-      "excerpt": "Pawan Gupta, the co-founder and CEO of Betterhalf.ai, revealed that his landlord invested $10,000 (Rs 8.2 lakh approximately) in his AI-driven matrimonial app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Collage-Maker-03-Jun-2023-10-56-AM-1220.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp",
-      "publishedDateTime": "2023-06-02T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-improving-fluid-simulations-with-embedded-neural-networks.md",
-      "title": "Improving fluid simulations with embedded neural networks",
-      "excerpt": "While neural networks can help to improve the accuracy of fluid flow simulations, new research shows how their accuracy is limited unless the right approach is taken. By embedding fluid properties ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
-      "originalUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/improving-fluid-simula.jpg",
-          "width": 2031,
-          "height": 1074,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-fluid-simulations-embedded-neural-networks.amp",
-      "publishedDateTime": "2023-06-02T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-are-your-deep-fryers-connected.md",
-      "title": "Are Your Deep Fryers Connected?",
-      "excerpt": "When Wendell Hays was 17 years old, he got a job as a fry cook at a local restaurant. The amount of formal training Hays says he received amounted to: “There’s the deep fryer, now go cook.” “The deep fryer controller had 30 buttons, but it felt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.qsrmagazine.com/sponsored/are-your-deep-fryers-connected",
-      "originalUrl": "https://www.qsrmagazine.com/sponsored/are-your-deep-fryers-connected",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "QSR magazine",
-        "domain": "qsrmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-03-nowhere-for-investors-to-hide-from-ai-hype.md",
-      "title": "Nowhere for Investors to Hide From AI Hype",
-      "excerpt": "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html",
-      "originalUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG",
-          "width": 599,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html",
-      "publishedDateTime": "2023-06-02T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

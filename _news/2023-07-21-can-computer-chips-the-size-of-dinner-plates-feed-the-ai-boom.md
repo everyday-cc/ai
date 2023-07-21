@@ -8,9 +8,9 @@ webUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of-di
 ampWebUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
   name: Seattle Times
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips"

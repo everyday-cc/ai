@@ -112,6 +112,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Yes supporters to the Indigenous voice to parliament have raised some of the best reasons to vote No"
+    excerpt: "Official Yes and No campaign pamphlets for the referendum have been released. Yes campaigners are upset the No pamphlet quotes extensively from the voice’s supporters."
+    publishedDateTime: 2023-07-20T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/yes-supporters-to-the-indigenous-voice-to-parliament-have-raised-some-of-the-best-reasons-to-vote-no/news-story/9f1e7e612f51db592e284594cb0fb65f"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/yes-supporters-to-the-indigenous-voice-to-parliament-have-raised-some-of-the-best-reasons-to-vote-no/news-story/9f1e7e612f51db592e284594cb0fb65f?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/yes-supporters-to-the-indigenous-voice-to-parliament-have-raised-some-of-the-best-reasons-to-vote-no/news-story/9f1e7e612f51db592e284594cb0fb65f?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "Indigenous voice to parliament No campaigner Gary Johns says white settlement ‘a gift’ to Aboriginal Australians"
     excerpt: "No campaigner Gary Johns says most Aboriginal people are “grateful for that gift” of modernisation and defended the work of churches and their involvement with the Stolen Generations, in comments made while campaigning against the Indigenous voice to parliament."
     publishedDateTime: 2023-07-18T17:51:00Z
@@ -132,6 +143,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 5
+  - title: "Voice to Parliament supporters must go beyond ‘recognition argument’"
+    excerpt: "Sky News host Caleb Bond says the supporting side for the Voice referendum is having trouble going beyond the “recognition argument” with pamphlets explaining both sides of the debate set to be handed out."
+    publishedDateTime: 2023-07-18T09:57:00Z
+    webUrl: "https://www.ntnews.com.au/news/national/voice-to-parliament-supporters-must-go-beyond-recognition-argument/video/9a940d521af474a6e137119a91279be4"
+    type: article
+    provider:
+      name: Northern Territory News
+      domain: ntnews.com.au
+    quality: 4
 
 secured: "M1TYbkBjzYUK9GjPGcgxtewpBoMKBSfrknT+y0ixybTMcZYqaBxBu4tCuQZUIvIfPFlbIoPXr4CS2QUnzn3yccyOlhkJA51kUtGw45mNzIdnk7md5G3fxby83Nyjh3MELDoFf3lJPk0lOtAdMTU2CGO9pMLO1xqWL8wBHdza04gyABy4i38KurNKrJZuTILdtU3UTHXHpJu0hgRgd/Sp1Da9VrT7pHdWDxlp5nTTD4Gw9RCak17boN5H1QC86kjRgTOTIijZFc7cYASXNc3tixrQkWr0myw0Ry1Xtp0o4PqyN+NRIVxSNVZOVTFUM1vUAYz/c1IV7Jr0yGCVZQNYFewAbPtygCQnTdgIUthKk8/6DmyWrz96j2s46tPZDZiMebA7idW7THO4gIPPGMGJdDXnMYbuf758L/aIbRRboDpyhN6UfukIELe3TRTI1kRWT1B5EmwZHvvkDwiaeZd/8MF7FyhzFXrcH/txbCuPuJVwracKJ2KBW60/p3VSZlrfGB3/th0FwaxGIu7REv41pw==;FEmt2RGm8c7BIXPUiKRXkA=="
 ---

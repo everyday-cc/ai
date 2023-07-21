@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-
 webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/07/Screenshot-2023-03-14-180825.png"
         width: 969
         height: 631
+        isCached: true
+  - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
+    excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
+    publishedDateTime: 2023-07-20T23:27:00Z
+    webUrl: "https://www.theregister.com/2023/07/20/tesla_to_license_fsd_software/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/07/20/tesla_to_license_fsd_software/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2023/07/12/musk_shutterstock.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Samsung said to make Tesla's next-gen self-driving chips"
     excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."

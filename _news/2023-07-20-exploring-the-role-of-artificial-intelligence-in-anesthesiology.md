@@ -35,6 +35,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 114
+  - title: "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills"
+    excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
+    publishedDateTime: 2023-07-20T18:43:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
   - title: "Empowering Data Analytics: Unleashing the Potential of Machine Learning and AI"
     excerpt: "In today’s data-driven world, businesses are constantly seeking innovative ways to leverage the vast amounts of information they collect. Traditional data analytics tools are often limited in their ab"
     publishedDateTime: 2023-07-20T10:01:00Z

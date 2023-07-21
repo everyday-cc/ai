@@ -27,7 +27,12 @@ related:
     provider:
       name: openaccessgovernment
       domain: openaccessgovernment.org
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "GenHealth.AI Accelerates into Healthcare AI Market with New Funding, Advisor Appointments and Use Cases Across Healthcare"
     excerpt: "AI Start-up Pioneering Generative AI for Healthcare Receives $13M in Early Funding, Adds Industry Luminaries as Advisors, and Kicks off Use Cases for Health Insurance Plans and Provider Systems"
     publishedDateTime: 2023-07-19T12:12:00Z

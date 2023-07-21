@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-14-artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031.md",
+      "title": "Artificial Intelligence Market Trends, Upcoming Trends, Future Demand, Comprehensive Research Study, Status, Future and 2023-2031",
+      "excerpt": "Integration of various tools by artificial intelligence has helped in the transformation of business management. These tools include brand purchase advertising, workflow management tools, trend predictions among others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031-2023-06-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-trends-upcoming-trends-future-demand-comprehensive-research-study-status-future-and-2023-2031-2023-06-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-14-machine-learning-method-used-for-self-driving-cars-could-improve-lives-of-type-1-diabetes-patients.md",
       "title": "Machine-learning method used for self-driving cars could improve lives of type-1 diabetes patients",
       "excerpt": "The same type of machine learning methods used to pilot self-driving cars and beat top chess ... insulin dose for a given scenario. Current artificial pancreas devices provide automated insulin ...",
@@ -1322,49 +1374,6 @@
       "provider": {
         "name": "Raleigh News & Observer",
         "domain": "newsobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols.md",
-      "title": "Sheikh Saif bin Zayed wowed by Dubai Police's driverless patrols",
-      "excerpt": "These vehicles, developed by creative national talents, are mobile operation rooms equipped with cutting-edge artificial intelligence technologies",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols",
-      "originalUrl": "https://www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=a7d96836-2cf1-58db-8f31-28bae9574e0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84519&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/uae/transport/sheikh-saif-bin-zayed-wowed-by-dubai-polices-driverless-patrols?amp=1",
-      "publishedDateTime": "2023-06-01T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

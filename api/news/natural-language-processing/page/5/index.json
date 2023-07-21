@@ -2,6 +2,224 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-06-netsmart-and-nvoq-partner-to-deliver-integrated-speech-recognition-to-tackle-the-documentation-challenge-for-in-home-healthcare-clients.md",
+      "title": "Netsmart and nVoq partner to deliver integrated speech recognition to tackle the documentation challenge for in-home healthcare clients",
+      "excerpt": "As part of the partnership, Netsmart becomes the authorized reseller of the nVoq speech recognition products for Netsmart clients. The cloud-based speech recognition technology will be seamlessly integrated within the Netsmart myUnity EHR solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/06/06/9827449.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing.md",
+      "title": "NextGen Food Robotics Provides Update on Lily App and Highlights the Advancements in Generative AI and Natural Language Processing",
+      "excerpt": "while emphasizing the significant advancements in Generative AI and Natural Language Processing (NLP). These technologies have proven to be major game-changers in the field, propelling NextGen Food Robotics Inc. to the forefront of innovation. A welcome ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
+      "originalUrl": "https://financialpost.com/globe-newswire/nextgen-food-robotics-provides-update-on-lily-app-and-highlights-the-advancements-in-generative-ai-and-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-apple-avoids-ai-hype-at-wwdc-keynote-by-baking-ml-into-products.md",
+      "title": "Apple avoids “AI” hype at WWDC keynote by baking ML into products",
+      "excerpt": "Amid notable new products like the Apple Silicon Mac Pro and the Apple Vision Pro revealed at Monday's WWDC 2023 keynote event, Apple presenters never once mentioned the term \"AI,\" a notable omission given that its competitors like Microsoft and Google have been heavily focusing on generative AI at the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/vision_pro_face_scanning_2-800x451.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/amp/",
+      "publishedDateTime": "2023-06-05T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits.md",
+      "title": "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits",
+      "excerpt": "LetzChat, a leading AI-driven language translation company, is excited to announce its strategic partnership with Managed Health, a prominent employee benefits",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html",
+      "originalUrl": "https://www.sfexaminer.com/ap/national/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-benefits/article_65af1241-7b7d-5910-adfc-9963d9c0fec0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/custom/image/d2e5172a-cfb6-11ec-8535-8fc7aae45ad1.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-05T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-05-comparing-and-contrasting-ai-and-human-translation.md",
+      "title": "Comparing And Contrasting AI And Human Translation",
+      "excerpt": "Translation plays a crucial role in bridging the gap between different languages and cultures. Traditionally, human translators have been the go-to choice for accurate and nuanced translations. However, AI translation, a blossoming subfield of natural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647a000b5e40ece5fb13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 931,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/05/comparing-and-contrasting-ai-and-human-translation/amp/",
+      "publishedDateTime": "2023-06-05T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-global-voice-speech-recognition-software-market-to-grow-by-1485-billion-during-2023-2027.md",
       "title": "Global Voice Speech Recognition Software Market To Grow By $14.85 Billion During 2023-2027",
       "excerpt": "The \"global voice speech recognition software market 2023-2027\" report has been added to ResearchAndMarkets.com's offering. The voice speech recognition software market is forecast to grow by USD ...",
@@ -1123,223 +1341,6 @@
       "provider": {
         "name": "unite",
         "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-the-dire-defect-of-multilingual-ai-content-moderation.md",
-      "title": "The Dire Defect of ‘Multilingual’ AI Content Moderation",
-      "excerpt": "Social media companies claim new language models can remove harmful content in every language. But those systems’ shortcomings can have vast consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/content-moderation-language-artificial-intelligence/",
-      "originalUrl": "https://www.wired.com/story/content-moderation-language-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646bfe72a6c1fece8f4bb1df/191:100/w_1280,c_limit/LLM.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-the-voice-grace-west-slays-reba-mcentire-hit-during-night-one-of-finale-watch.md",
-      "title": "‘The Voice': Grace West Slays Reba McEntire Hit During Night One of Finale [Watch]",
-      "excerpt": "Grace West paid a special tribute to Reba McEntire during part one of the two-night Season 23 The Voice finale on Monday evening (May 22). The 19-year-old country singer from Canton, Mich.,",
-      "sourceUrl": null,
-      "webUrl": "https://tasteofcountry.com/the-voice-finale-grace-west-reba-mcentire-the-night-the-lights-went-out-in-georgia/",
-      "originalUrl": "https://tasteofcountry.com/the-voice-finale-grace-west-reba-mcentire-the-night-the-lights-went-out-in-georgia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://townsquare.media/site/204/files/2023/05/attachment-grace-west-reba-mcentire-the-voice-finale.jpg?w=980&q=75",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Taste of Country",
-        "domain": "tasteofcountry.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-tsas-facial-recognition-for-air-travel-sparks-privacy-outrage.md",
-      "title": "TSA's facial recognition for air travel sparks privacy outrage",
-      "excerpt": "The way the TSA uses facial recognition is by taking pictures of passengers and ... Get Kurt’s CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com. Get a daily look at what’s developing in science and technology throughout ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage",
-      "originalUrl": "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation.md",
-      "title": "PaLM2 by Google for generative AI is new tool from creativity and innovation",
-      "excerpt": "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg",
-          "width": 414,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/",
-      "publishedDateTime": "2023-05-22T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt.md",
-      "title": "COMPASS DATACENTERS' \"HORIZONS\" VIDEO SERIES EXPLORES NATURAL LANGUAGE PROCESSING AND CHATGPT",
-      "excerpt": "Lev Lesokhin, Technology Product Strategist, discusses the rise of natural language processing (NLP) and ChatGPT. Lesokhin discusses NLP's future and the impact of ChatGPT on our job market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_ba3d1b35-2177-5624-85c0-1fa11ef7c3dd.html",
-      "originalUrl": "https://www.news-journal.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_ba3d1b35-2177-5624-85c0-1fa11ef7c3dd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
         "images": null,
         "publishers": null,
         "authors": null

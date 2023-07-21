@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/"
 webUrl: "https://www.ibm.com/blog/red-teaming-101-what-is-red-teaming/"
 type: article
 quality: 82
-heat: 82
+heat: 84
 published: true
 
 provider:

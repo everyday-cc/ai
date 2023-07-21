@@ -27,7 +27,12 @@ related:
     provider:
       name: openaccessgovernment
       domain: openaccessgovernment.org
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Scientists urge caution before using AI models in healthcare for ethnic minority populations"
     excerpt: "Scientists are urging caution before artificial intelligence (AI) models such as ChatGPT are used in healthcare for ethnic minority populations."
     publishedDateTime: 2023-07-20T13:18:00Z

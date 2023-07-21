@@ -32,6 +32,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tech giants join forces on AI"
+    excerpt: "Kate Pounder, Tech Council CEO, said “in this time of high inflation and low productivity growth, our economy needs a productivity shot in the arm. “The report shows the enormous potential for generative AI to catalyse growth and innovation across a wide range of sectors, shaping a prosperous future for our nation.”"
+    publishedDateTime: 2023-07-19T03:44:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tech-giants-join-forces-on-ai.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Microsoft%20Chairman%20and%20CEO%20Satya%20Nadella%20announces%20Meta%20Llama%20AI%20joint%20venture%20to%20partner%20attendees%20at%20Microsoft%20Inspire%202023.jpg"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "1klmK1hWnr3LTWgwJ5ZSpYsNFgV+NppZ1Zb+xK+n+0ol8t/+Oglo0XQSSZSkWlrzA8MLSfA2RSVR0wE5Z7ESdQugd4+kyksWq2EBe5BoB0AAscFC9aC38GQwd2WRhwnfSujZ8Qohw7scF/1lB0NkLcgyMCq/jiBfk72uv2LcqgkmO3jzxszjjU9rRuvozaGVQc00cUJawz9pyymm9yR4C/tZSzGh8+XruL22uhYGd9mzRKs0mAXihdVM2JZzGaLQ/7TFAkZY9JU49sHNdkd3l8zcPOA8rwI8x2vY7yvZ2GYBkzrP0CROyj9sal+b2+AZfOQdWtw6d15iveWFOnvrxoTlHFCqiGmWsPA8ieRWe98=;HeTSBfOqJm30RJIYfAL2Hg=="
 ---

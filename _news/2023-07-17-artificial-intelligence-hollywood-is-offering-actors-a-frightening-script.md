@@ -82,6 +82,20 @@ related:
         width: 1199
         height: 603
         isCached: true
+  - title: "How Hollywood Is Avoiding Robot Overlords"
+    excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
+    publishedDateTime: 2023-07-20T21:49:00Z
+    webUrl: "https://www.vulture.com/article/ai-in-hollywood-strike-guild-demands.html"
+    type: article
+    provider:
+      name: Vulture
+      domain: vulture.com
+    quality: 39
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/cf9/afc/1eb99e58efefad2ed4c2af71bcf022c327-hal9000.rhorizontal.w700.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "6T90GtICozFbHT5bPeQd+UskF1Qve9gTlW+oC9vwQD/zGwrO/DnKfdo1JSZhod1WASyDOnFzaJEd/ScfjHNNSJ2K7MvASusu043pEjdUjVPml7u9ELi697VGs67mUJbhWtQUePEHnZr0KdqjIOckwfAOKwzZPmjN7qZjdCL/IL88nmn9DGD1m3PCqDGjbWTCDx7DrRDutfcAA/9m+crRtFQ09aTtRiYaumq0g0fhotJP6/iySQ9G3xmvlR2N4OxylZtUi4EbyNkqIrYp9SzHgGHU41w8oMQy+BuhtyQeJtQNZ0EKdQXgqq80LdEWNGAwpY0qpPGwUqQO4HjhcM6PqosOWAWhfxMbehCHhrUZiGo=;IlKoNqpzBR+4wsi+RZZCNA=="
 ---

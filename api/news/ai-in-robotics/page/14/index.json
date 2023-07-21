@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-04-12-the-morality-of-artificial-intelligence.md",
+      "title": "The Morality of Artificial Intelligence",
+      "excerpt": "Next to such early attempts on formulating an ethical law for robots and computers, there are, more recently the following ethics codes for artificial intelligence: + Ohio State University’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
+      "originalUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.counterpunch.org/wp-content/uploads/2023/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048-680x544.jpg",
+          "width": 680,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CounterPunch",
+        "domain": "counterpunch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai.md",
+      "title": "Carbon Robotics lands $30M to sell more weed-destroying machines powered by AI",
+      "excerpt": "The LaserWeeder from Seattle startup Carbon Robotics zaps weeds using a high-powered lasers powered by AI and cameras. (Carbon Photos) Turns out that farmers like using lasers to kill weeds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai/",
+      "originalUrl": "https://www.geekwire.com/2023/carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/LaserWeeder-in-the-Field.png",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-11T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-motion-control-software-in-robotics-market-growth-strategies-2029.md",
       "title": "Motion Control Software in Robotics Market Growth Strategies 2029",
       "excerpt": "Apr 11, 2023 (The Expresswire) -- [124 Insights] “Motion Control Software in Robotics Market” Size 2023 Key players Profiled in the Report are [Company 1, Company 2, Company 3, Company 4 ...",
@@ -1126,75 +1222,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-03-a-sensor-that-might-someday-enable-mind-controlled-robots.md",
-      "title": "A sensor that might someday enable ‘mind-controlled’ robots",
-      "excerpt": "It sounds like something from science fiction: Don a specialized, electronic headband and control a robot using your mind. But now, recent research published in ACS Applied Nano Materials has taken a step toward making this a reality. By designing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "originalUrl": "https://www.acs.org/pressroom/presspacs/2023/april/sensor-might-someday-enable-mind-controlled-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-facebook-parent-meta-touts-artificial-intelligence-robot-that-can-learn-from-humans.md",
-      "title": "Facebook parent Meta touts Artificial Intelligence robot that can learn from humans",
-      "excerpt": "One way that Meta's Facebook AI Research (FAIR) team is working to train the robots is by developing an artificial visual cortex, which in humans, is the region of the brain that enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
-      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-touts-artificial-intelligence-robot-learn-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-02T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

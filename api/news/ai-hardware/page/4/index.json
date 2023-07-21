@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-22-amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.md",
+      "title": "AMD to spend $135M on chip R&D in Ireland for AI, data center, mobile tech",
+      "excerpt": "A year after AMD acquired Xilinx, the chipmaker has announced plans to build on the semiconductor ecosystem Xilinx had already established in Ireland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
+      "originalUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/06/amd_hq-100942505-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3700708/amd-to-spend-135m-on-chip-rd-in-ireland-for-ai-data-center-mobile-tech.amp.html",
+      "publishedDateTime": "2023-06-22T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-21-software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla.md",
+      "title": "Software, Chips, Robots: Elon Musk Touts 'Super Exciting Work Happening At Tesla'",
+      "excerpt": "What Happened: “Super exciting work happening at Tesla in AI software, chip design & robots!” Musk said on Tuesday. The CEO was responding to a tweet by Tim Zaman who leads AI Infrastructure at Tesla and Twitter. Zaman called for people to either drop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "originalUrl": "https://www.benzinga.com/news/23/06/32940159/software-chips-robots-elon-musk-touts-super-exciting-work-happening-at-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/Tesla_Gigafactory._Photo_by_JHVEPhoto_on_Shutterstock_2.jpeg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32940159",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32940159",
+      "publishedDateTime": "2023-06-20T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-cisco-sets-a-foundation-for-ai-network-infrastructure.md",
       "title": "Cisco sets a foundation for AI network infrastructure",
       "excerpt": "In addition, each Silicon One device can support 512 Ethernet ports letting customers build a 32K 400G GPU AI/ML cluster requiring 40% fewer switches than other silicon devices needed to support ...",
@@ -1380,111 +1467,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-silicon-valley-ai-chip-startup-simaai-hooks-key-investors.md",
-      "title": "Silicon Valley AI chip startup SiMa.ai hooks key investors",
-      "excerpt": "industrial robots, and eventually self-driving cars in, San Jose, California, U.S., in this undated handout photo. SiMa.ai/Handout via REUTERS/File Photo OAKLAND, California, June 13(Reuters) - Silicon Valley-based AI chip startup SiMa.ai on Tuesday said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/",
-      "originalUrl": "https://www.reuters.com/technology/silicon-valley-ai-chip-startup-simaai-hooks-key-investors-2023-06-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jo7mRBawPSBhYlaFccaHL42PO1k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LWMV7SSZZ5L7TNYIV7HNEYJKYQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-13T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-06-13-cadence-ai-can-increase-chip-designer-productivity-by-over-10x.md",
-      "title": "Cadence AI Can Increase Chip Designer Productivity By Over 10X",
-      "excerpt": "Company’s clients have readied over 180 new chips using Cerebras AI to speed development and make chips that run faster, use less energy, and cost less.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64597b7ef0c1a34df22796e1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/13/cadence-ai-can-increase-chip-designer-productivity-by-over-10x/amp/",
-      "publishedDateTime": "2023-06-13T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

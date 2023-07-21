@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -167,7 +167,7 @@
       "originalUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -296,6 +296,221 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-15-machine-translation-the-next-frontier-for-large-language-models.md",
+      "title": "Machine translation: The next frontier for large language models",
+      "excerpt": "Dr Deepak Garg is Director, leadingindia.ai and Director NVIDIA-Bennett Research Center on Artificial Intelligence. He is Professor and Dean, School of Computer Science Engg and Dean ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg",
+          "width": 414,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/?source=app&frmapp=yes",
+      "publishedDateTime": "2023-07-14T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-top-10-programming-languages-for-ai-and-natural-language-processing.md",
+      "title": "Top 10 Programming Languages for AI and Natural Language Processing",
+      "excerpt": "In this article, we’ll discuss the top 10 programming languages for AI and Natural Language Processing. You can skip our detailed analysis of global market trends for NLP and AI development and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/03/30085255/Joel-Greenblatt-Gotham-Asset-Management_12.jpg?auto=format&expires=1721347200&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
+      "publishedDateTime": "2023-07-13T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-top-5-programming-languages-for-ai-and-natural-language-processing.md",
+      "title": "Top 5 Programming Languages for AI and Natural Language Processing",
+      "excerpt": "This capability proves particularly beneficial for applications involving natural language processing, sentiment analysis, and image recognition. R is a powerful statistical programming language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/17083602/andrea-de-santis-zwd435-ewb4-unsplash.jpg",
+          "width": 1920,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-machine-translation-the-next-frontier-for-large-language-models.md",
+      "title": "Machine translation: The next frontier for large language models",
+      "excerpt": "Dr Deepak Garg is Director, leadingindia.ai and Director NVIDIA-Bennett Research Center on Artificial Intelligence. He is Professor and Dean, School of Computer Science Engg and Dean ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg",
+          "width": 414,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "publishedDateTime": "2023-07-13T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-natural-language-processing-gcc.md",
+      "title": "Natural Language Processing - GCC",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$226.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.25%, resulting in a market volume ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/gcc",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/gcc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1211,240 +1426,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-era-of-ai.md",
-      "title": "Entrepreneur Kathryn Hastings on the Allure of Handwritten Notes in the Era of AI",
-      "excerpt": "Moreover, specific AI language translation tools have eliminated language barriers, enabling real-time communication between individuals who speak different languages. However, in the middle of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
-      "originalUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lifeandstylemag.com/wp-content/uploads/2023/07/KathrynHastings.jpg?crop=0px%2C15px%2C1200px%2C629px&resize=1200%2C630&quality=86&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-lifeandstylemag-com.cdn.ampproject.org/c/s/www.lifeandstylemag.com/posts/entrepreneur-kathryn-hastings-on-the-allure-of-handwritten-notes-in-the-ai-era/amp/",
-      "publishedDateTime": "2023-07-05T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Life & Style Weekly",
-        "domain": "lifeandstylemag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
-      "title": "Highlight text as it’s being spoken using Amazon Polly",
-      "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/ML-14148-polly-highlight-text-v3.drawio-933x630.png",
-          "width": 933,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T13:12:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-roland-corporation-fine-tunes-translation-with-language-weaver.md",
-      "title": "Roland Corporation Fine Tunes Translation With Language Weaver",
-      "excerpt": "CHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, the AI-driven machine translation technology powering enterprise and government, has partnered with Roland Corporation, the Japan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
-      "originalUrl": "https://www.businesswire.com/news/home/20230705511797/en/Roland-Corporation-Fine-Tunes-Translation-With-Language-Weaver",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-a-powerful-voice-of-freedom.md",
-      "title": "A Powerful Voice Of Freedom",
-      "excerpt": "Many speeches will be given today in recognition of America’s independence from Great Britain in 1776, but the quest for freedom is worldwide. For this year’s celebration, let’s look at a superb speech that addresses freedom with a universal perspective: the Nobel Peace Prize acceptance speech by Elie Wiesel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/",
-      "originalUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648c85e8fed59b2b38b1e992/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jerryweissman/2023/07/04/a-powerful-voice-of-freedom/amp/",
-      "publishedDateTime": "2023-07-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models.md",
-      "title": "Google's updated privacy policy states it can use public data to train its AI models",
-      "excerpt": "Google has updated its privacy policy to state that it can use publicly available data to help train its AI models..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
-      "originalUrl": "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/6L6HePy3d.EWSSl5xz0bjQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/583fa560-a703-11ed-9ded-448b8300fa76.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-04T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -34,6 +34,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 114
+  - title: "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills"
+    excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
+    publishedDateTime: 2023-07-20T18:43:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
   - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
     excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
     publishedDateTime: 2023-07-20T13:30:00Z
@@ -58,6 +74,6 @@ related:
       domain: pcquest.com
     quality: 30
 
-secured: "+rOdXa6jptNUIEWBO/f0KEw2z/uPkx8GXOitQlbHHXyHeTSTL627yMNZG4i6BpfYU0YteO8DGUY1uJpVo6LbHR9W7UzNh1s+x//InqOGe6GCR4q3RMLctmP+3FqW1vR+wOQQCpCSfyAcqyfIRcbbJvWjy6JRnsNEUFw+S7a3FQt03h3X0P0hjiF7Fa7oiaAX+NV+dByZqS9m44AWoXne6qK2d2Ft9e216uhDU92Wy/1BCI+DM2BGhW11uB1KHxOHp+KI8GolShvz9ySxbd20bqOY4DNtrqBjBCKAFCqqf9/jNWJR5+rJ0NEGYMFRdYnHKzfCLKs74X5O5lYdDvXe4q7Xp4JGm8SQdZ9gnnB9pp0=;+Af1VERX7vml8bjPSAqltQ=="
+secured: "3067Zy4lSzRpl6HI163gr7RZJ1ZCTMVqepTKqcxHJhZs9dqEwF+7soAnfsJCp11FiJIiDehar7Mk9cjOS1kMXGzKCOn9htDW9LJrWOTWiS6sw+yrQoJL7u0Y8dMJIc9TXjysazTqUK50qtX/B1hR60r2/0VS+Y4ILi1F3j3SzORKH5JRWR0sIRFB3JKg79AYUkgiDW+8oHak//Ixn3TWj1Dqn8TPrGIhn3DHeQcFev2AjQhx/ysjasafiNN+Yp/nWc4VdHy7yCcysDYhaGKhZs+/g1Taw913UxiBxOGUdpRr4Z5YEWerNtZyObJ1eyyDKPScab0t+3TkkA1DTMuFhV9rD0wwjH3nfs0oxfvnHk1iWrTnFeZ4SA/hMjLkx3FAG4QuUB0KVEhe1hPa0FkNHbxfkdxaKFgdkOuCCLI5Ix0OplR0qQOtY258l3XpV1vUoYwzaEGy4mbmGDwy4clQ+QUMkpU/9ayz4QK7J+k3hVHhgLDRw6UH9bd3VMx6OYv/j+2UTQ6bTBVgX2e7LBQIFw==;fHM5nr6X61gvt+szr7dSmA=="
 ---
 

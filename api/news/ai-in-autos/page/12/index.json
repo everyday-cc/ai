@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-04-17-baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow.md",
+      "title": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow",
+      "excerpt": "Baidu Apollo Releases Major Product Updates to Help Manufacturers Build Smarter Cars for Tomorrow Apr 16, 2023 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow-2023-04-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/baidu-apollo-releases-major-product-updates-to-help-manufacturers-build-smarter-cars-for-tomorrow-2023-04-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-16T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-profit-from-the-artificial-intelligence-boom-with-these-7-ai-etfs.md",
       "title": "Profit from the Artificial Intelligence Boom with These 7 AI ETFs",
       "excerpt": "The artificial intelligence revolution is already ... such as advanced machinery, autonomous systems/self-driving vehicles, semiconductors, and databases used for machine learning; An engager ...",
@@ -1264,49 +1316,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-why-ai-might-not-take-your-job-or-supercharge-the-economy.md",
-      "title": "Why A.I. Might Not Take Your Job or Supercharge the Economy",
-      "excerpt": "We also discuss my mixed feelings about the calls to “pause” A.I. development, why I’m less worried about rogue A.I. systems than the incentives of the companies and countries developing A.I., the need for a “public vision” for A.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
-      "originalUrl": "https://www.nytimes.com/2023/04/07/opinion/ezra-klein-podcast-ama-april2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/press-releases/medifakt-empowering-healthc
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp"
 type: article
 quality: 72
-heat: 95
+heat: 92
 published: true
 
 provider:

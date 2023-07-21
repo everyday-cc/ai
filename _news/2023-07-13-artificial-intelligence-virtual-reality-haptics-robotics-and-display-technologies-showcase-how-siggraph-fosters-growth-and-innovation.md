@@ -2,13 +2,10 @@
 category: news
 title: "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation"
 excerpt: "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi"
-publishedDateTime: 2023-07-12T21:55:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/12/9847425.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/12/9847425.htm"
+publishedDateTime: 2023-07-12T20:14:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/12/9847425.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/12/9847425.htm"
 type: article
-quality: 36
-heat: -1
-published: false
 
 provider:
   name: TMCnet
@@ -24,36 +21,6 @@ images:
     height: 267
     isCached: true
 
-related:
-  - title: "AMD and MassRobotics Announce Winners of the AMD Robotics Innovation Challenge"
-    excerpt: "MassRobotics, in collaboration with AMD, is pleased to announce the AMD Robotics Innovation Challenge winners."
-    publishedDateTime: 2023-07-13T17:11:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2023/amd-massrobotics-announce-winners-amd-robotics? Control News & Articles"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 50
-    images:
-      - url: "https://www.automation.com/getmedia/215a71e9-f4f9-4721-b6c3-5aee79b092a8/Robot-award-news-Massrobotics-July-13-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Downward envy and the politics of robo-debt and the Voice"
-    excerpt: "Welfare bashing and scare stories about the Indigenous Voice have their roots in the same populist appeal, and the same basic failures of practical government."
-    publishedDateTime: 2023-07-14T07:01:00Z
-    webUrl: "https://www.afr.com/politics/federal/downward-envy-and-the-politics-of-robo-debt-and-the-voice-20230710-p5dn6h"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2855%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/b56e88820628972e46e9203f9d1d351f08a8e38e"
-        width: 1200
-        height: 628
-        isCached: true
-
-secured: "7/4iMVMUN6SzihV5JhVsJpdtBSNqJfWtp5GcSzNGulRDj5KfSizSEIPEtnKLB6g8bLxMYOhyyoFy2rw72GsgSEz/99Ycz9aJJ6RMfdv1DINMG2nsGkmii65PwaVXO9OQVjt+6NDZbRSusw0NQJd9NreVNdLN1wjtjrBvWSavTaUOP9E8B2Nkx7i12x6QLGKL6EC+1o5ZLlLHr4HCmCmZfUxgWFzIb+ddgNoosQslDVOnjfKTva+ZCCncpN5POtD2ZVwXkz84K7zDO+GK1PIRQ/RRCYKU+3dt8+b5OippDVhjw83Q5AiOeZVSD6h2C6P/AI2YBdmHecsrVwBnMnrS4UiDRpl1UJRcMK2DyGx/1ctYGYmwXihSin99MV8rL/YYV8BwY0R2uE7SnYVyinZ3/YLTxhkUSVa7Ypjx5jI0PshiKm9uFg3uPd6/xnxTtbYLCTOOjIQO3MR44F5kzvqA2N1QA1ExHB9YGej79OfZQR5zA02oUSAtWIgV93fJ3r2aDAXW9Cc2I9TXCE92qzAshg==;53zYyESvyQbwwKlxICwevA=="
+secured: "x99+NLh4NFWi6lbbxtV4C/avkEbXlroxCSTpjtRkfvBoHw14dTSemFoQV9Y2vUJZ4WUa10U+g5yqc33eQ14o+JtRgppx3FrbLYNg4UgO+Qtvmwkdep8mq+AspApjC28tk4HFSrfChqoMoTShvp23J9a6FzgJFGxt7RviWqN1bXWwXD3MC5MTqV2u3aK+a7KQOc1X692po2diH/WF0g0DHL5laKr+32QHJU2G7gXXme1QFs/7d+aow15r2GD/+PuRBbNBHdKVrAybzyaQ+g2BmQxYmn0UJf7q3tKCmgCai/fupxC3iHOo55P7kK93NdoXIyGZnD0Cc/XQszLDa0bdh/Rer8TIKiIRdDpc8PeN/1g=;Jdg6hSsOMz59Bj/ufyzFDA=="
 ---
 

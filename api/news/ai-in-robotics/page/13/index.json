@@ -2,6 +2,93 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-04-20-this-might-be-what-the-chatgpt-humanoid-robot-will-look-like.md",
+      "title": "This might be what the ChatGPT humanoid robot will look like",
+      "excerpt": "These images provide clues as to how ChatGPT will look if its creators make a physical version of their hugely popular artificial intelligence ... OpenAI's Startup Fund led an investment round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/Is-ChatGPT-robot-look-like.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/Is-ChatGPT-robot-look-like.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/19/15/70003963-0-image-a-5_1681915643563.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11989731/amp/Is-ChatGPT-robot-look-like.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11989731/amp/Is-ChatGPT-robot-look-like.html",
+      "publishedDateTime": "2023-04-19T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai.md",
+      "title": "Tesla's Mind-Blowing Tech is Supercharging Robots and Paving The Way For Smarter AI",
+      "excerpt": "sign up for Benzinga’s Startup Investing & Equity Crowdfunding Newsletter As robots become more autonomous and take over tasks previously performed by humans, their ability to collect and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/startups/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
+      "originalUrl": "https://www.benzinga.com/startups/23/04/31898752/teslas-mind-blowing-tech-is-supercharging-robots-and-paving-the-way-for-smarter-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/04/19/shutterstock_2209397693.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31898752",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31898752",
+      "publishedDateTime": "2023-04-19T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-centcom-hires-former-google-cloud-exec-as-first-ever-ai-robotics-advisor.md",
       "title": "CENTCOM hires former Google Cloud exec as first-ever AI, robotics advisor",
       "excerpt": "Andrew Moore founded startup Lovelace AI and had testified before Congress about DoD's lack of urgency when it came to actually implementing AI and machine learning in the field.",
@@ -1258,102 +1345,6 @@
         "name": "Free Malaysia Today",
         "domain": "freemalaysiatoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-the-morality-of-artificial-intelligence.md",
-      "title": "The Morality of Artificial Intelligence",
-      "excerpt": "Next to such early attempts on formulating an ethical law for robots and computers, there are, more recently the following ethics codes for artificial intelligence: + Ohio State University’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
-      "originalUrl": "https://www.counterpunch.org/2023/04/12/the-morality-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.counterpunch.org/wp-content/uploads/2023/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048-680x544.jpg",
-          "width": 680,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CounterPunch",
-        "domain": "counterpunch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-12-carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai.md",
-      "title": "Carbon Robotics lands $30M to sell more weed-destroying machines powered by AI",
-      "excerpt": "The LaserWeeder from Seattle startup Carbon Robotics zaps weeds using a high-powered lasers powered by AI and cameras. (Carbon Photos) Turns out that farmers like using lasers to kill weeds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai/",
-      "originalUrl": "https://www.geekwire.com/2023/carbon-robotics-lands-30m-to-sell-more-weed-destroying-machines-powered-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/04/LaserWeeder-in-the-Field.png",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-11T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

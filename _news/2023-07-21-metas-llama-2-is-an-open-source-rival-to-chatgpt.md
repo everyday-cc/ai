@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-20T20:26:00Z
 originalUrl: "https://www.techrepublic.com/article/meta-llama-2-open-source-rival-chatgpt/"
 webUrl: "https://www.techrepublic.com/article/meta-llama-2-open-source-rival-chatgpt/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72023-meta-llama-2.jpeg"
@@ -112,6 +113,20 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
+    excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
+    publishedDateTime: 2023-07-20T10:49:00Z
+    webUrl: "https://www.geeky-gadgets.com/llama-2-vs-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Llama-2-vs-ChatGPT-open-source-AI.jpg"
+        width: 700
+        height: 462
+        isCached: true
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
     publishedDateTime: 2023-07-18T08:38:00Z
@@ -127,6 +142,6 @@ related:
         height: 466
         isCached: true
 
-secured: "Bc6dxHmlLgNRVM1qASKowMRRGu2BLuHQ2QkhMorYidfmQiPRR33fJmEjRWTGVMAzFEbh8aPeYNeHKA/Xe7Pxf9i32yi338HmCxB/VVUJVbgM7DnVJoIFx6ifp6RgbOZ4INXT/3CVDp6pfm98GY9JSe+E885e4qGlRPBysVvQ3IFBnsrD5kRNTXblYQE9/9WPoiBDV3JD7DfPh+00m6SVZbXaRs8vAluNytVnB3Bf9eIGhyekZ6FXybI7+79Q+nWnlE7eUzD1Jotw30Vhkus8JTeWKkJLc0kMXX1V5/WLWLj3WQpEp8YzYWWWI7XEwH/RBzuPfURudX8dHRs1qgVsVkmLWl2gY4By9NDDRPruuoI=;QqCJnMClh+8LrtZDZCB5NA=="
+secured: "sp7ePjScc5aZ+THMCD9S8KfhvFP/BhtVZIu7o9BxMsPVguzDzSP+x6kp4RLGAnKO7OVIu+5+zgPc4enQ/garg2bpZXSQvJIfYEMfuEx0gdVeSYObSvfY94i44Mu0WYcSGI+oQpV4R6gSGEQOlWSfE3j+o1VNPL7dnpdO6dTsCNlZ5A3RskOIkd9Fbeqwi1zGnpo0YrPRGHuK7Ty+Ox0GuDMI7D/qW093dDYsmOcprN2AKlRwpUJUySsjh/Zxku9WmsfTS3vfWSoshyCxCufFsFFJl4sh9FH0d8Tmv1+Gy/pmLNiGoIErmDo1pfF/7cIpWi5w0Oh4KKsKWghk+9fqoynjxHy49cVoheytUHl8Rcs3jbpitQB2DaXS3u/T3wVLOJp+j2rYnzY4PeNa8wcPPq6mWf3dGcKfejEEJlHVDId+YY6kfEuptsN5BhJNcarXEiuI9lIMIEW4jfP3aR3u8u/6/DPPts0cH81LF6ANVYTyW7cyA7RYD5vnarU+K6ihwhXpGY4qAhsbgeUMMYasdA==;7Qr3n2OxzSCNvGnLesvrSg=="
 ---
 

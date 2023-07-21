@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-ru
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/how-new-rules-and-regulations-can-help-create-an-ethical-corporate-workspace-with-the-growth-of-ai/amp/"
 type: article
 quality: 90
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://technical.ly/wp-content/uploads/2017/09/wit-job-fair-pic-4.jpg"
         width: 1023
         height: 683
-        isCached: true
-  - title: "The Enormous Dangers of Military Artificial Intelligence Reveal the Need for International Regulation"
-    excerpt: "Artificial intelligence (AI) is bound to be a major technological force that will reshape the 21st century. But its reverberating effects will not be confined"
-    publishedDateTime: 2023-07-16T05:40:00Z
-    webUrl: "https://countercurrents.org/2023/07/the-enormous-dangers-of-military-artificial-intelligence-reveal-the-need-for-international-regulation/"
-    type: article
-    provider:
-      name: Countercurrents
-      domain: countercurrents.org
-    quality: 22
-    images:
-      - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/07/Artificial-intelligence-AI-Military-Soldier.jpg"
-        width: 700
-        height: 367
         isCached: true
   - title: "How judges, not politicians, could dictate America’s AI rules"
     excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."

@@ -19,29 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "China AI Chip Firm Targeting Nvidia Seeks Hong Kong IPO in 2023"
-    excerpt: "Chinese chip startup Shanghai Biren Intelligent Technology Co. is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the matter, aiming to capitalize on a wave of local clients turning to its AI chips as an alternative to banned Nvidia Corp."
-    publishedDateTime: 2023-07-18T06:44:00Z
-    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023"
+  - title: "US chip curbs are scaring venture capital firms from Chinese AI start-ups, but not us, says BlueRun Ventures China"
+    excerpt: "AI development in China could be difficult in the near term, but that problem can be solved in the long run, says BRV China managing partner Jui Tan."
+    publishedDateTime: 2023-07-20T23:00:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 54
+      name: scmp.com
+      domain: scmp.com
+    quality: 82
     images:
-      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/8f1e3339-b200-4c6b-b21a-a339874b9e78_5cd8012b.jpg?itok=Vbg9QfnX&v=1689851292"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Biren Intelligent Technology Exploring IPO amid Rising AI Hype"
-    excerpt: "The proposed IPO and funding round comes at a time when the demand for AI chips is skyrocketing across various industries. Biren’s advanced chip solutions have gained recognition for their superior performance, energy efficiency, and scalability, positioning the company as a key player in the Chinese AI chip market."
-    publishedDateTime: 2023-07-18T12:17:00Z
-    webUrl: "https://www.coinspeaker.com/biren-intelligent-technology-exploring-ipo-amid-rising-ai-hype/"
+  - title: "US Tech Leaders Aim for Fewer Export Curbs on AI Chips for China"
+    excerpt: "Intel Corp. has introduced a processor in China that is designed for AI deep-learning applications despite reports of the Biden administration considering additional restrictions on Chinese companies to address loopholes in chip export controls."
+    publishedDateTime: 2023-07-20T21:21:00Z
+    webUrl: "https://www.voanews.com/a/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html"
+    ampWebUrl: "https://www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china-/7189543.html"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 19
+      name: Voice of America
+      domain: voanews.com
+    quality: 74
+    images:
+      - url: "https://gdb.voanews.com/01000000-0a00-0242-0616-08db8965d0ef_w1080_h608_s_b.jpg"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "U.S. Lawmakers Want Chinese Companies Banned From Testing Self-Driving Tech"
+    excerpt: "The Chinese government doesn't allow American companies to test autonomous tech, and Congress members think the U.S. should enact a similar ban"
+    publishedDateTime: 2023-07-19T11:59:00Z
+    webUrl: "https://www.carscoops.com/2023/07/u-s-lawmakers-want-chinese-companies-banned-from-testing-self-driving-tech/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 2
 
 secured: "MVL0HQheb0mKcFZz706Ec7bR1ghFrUOvIGpLejSAszorrzD/9O/rfKhKf2YsLkPaiYqku+7wYOZU3y1cKKZZPOgWvMSUBDQnxtuwi4f0u3CNWIDKVTjhWkLpGp8Vyc8lLhssuhGde4/S+ujW+Fa0Vf5+Sqrl8rqGSIwpajoc6+SIVfUC0NEpai/edcdJ9Vm/j4ASyEPx52we9KyWXTfaArPPNN0dFnasDOFfK5S8RyQhrdWV8e+jn5wudHKD+czeOGRmiO+tBpebzrgz5oY7XPdnvVfT7LgJMJtf3iM3wnYUst/haTCoe7yAxD+HsquX5DgsbP9uyu/Y8mLFQL+P5oEL3iNb1iUGgYPwWnsMdHNc4RAZ0FMgSoOVKYSwJBd3OVZU5n++okk5sOR9K4WYsXMueBVcL40frGsCZn6OTDm65vvjEM4acsxvxIsCjAK1KjAcv6klZcY9livv0SMO4jhAs82seURoltayPK71iP9MnsnwQjESnjx9oEN5FjY3iwR76UjVgBt+6UMXbuS76g==;klDAgttZBHu/VxrQQ0at/A=="
 ---
