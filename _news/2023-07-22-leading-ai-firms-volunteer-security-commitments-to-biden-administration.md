@@ -152,6 +152,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech firms agree to safeguards on AI set by the White House"
+    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet"
+    publishedDateTime: 2023-07-22T03:04:00Z
+    webUrl: "https://www.theday.com/nation/20230721/tech-firms-agree-to-safeguards-on-ai-set-by-the-white-house/"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 37
+    images:
+      - url: "https://static.theday.com/theday/assets/newsroom/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
   - title: "Biden touting Big Tech commitment to make AI tools safe amid fears of tech-fueled apocalypse"
     excerpt: "President Biden is trumpeting new promises from Big Tech companies to make artificial intelligence tools safe amid growing fears that the emerging tech may wreak havoc."
     publishedDateTime: 2023-07-21T10:28:00Z
@@ -183,6 +197,15 @@ related:
     provider:
       name: Businessworld
       domain: businessworld.in
+    quality: 17
+  - title: "Top tech firms commit to AI safeguards amid fears over pace of change"
+    excerpt: "Joe Biden announced Meta, Amazon and OpenAI among others had agreed to eight measures to encourage responsible practices"
+    publishedDateTime: 2023-07-21T18:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
   - title: "Tech companies to make AI safety and transparency pledges to White House"
     excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."

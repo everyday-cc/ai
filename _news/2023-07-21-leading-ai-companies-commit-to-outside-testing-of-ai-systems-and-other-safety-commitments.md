@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
 type: article
 quality: 80
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -148,6 +148,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech firms agree to safeguards on AI set by the White House"
+    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet"
+    publishedDateTime: 2023-07-22T03:04:00Z
+    webUrl: "https://www.theday.com/nation/20230721/tech-firms-agree-to-safeguards-on-ai-set-by-the-white-house/"
+    type: article
+    provider:
+      name: The Day
+      domain: theday.com
+    quality: 37
+    images:
+      - url: "https://static.theday.com/theday/assets/newsroom/TheDay_Facebook_OG-360px.png"
+        width: 360
+        height: 360
+        isCached: true
   - title: "Leading AI firms volunteer security commitments to Biden administration"
     excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
     publishedDateTime: 2023-07-21T18:47:00Z
@@ -188,6 +202,15 @@ related:
     provider:
       name: Businessworld
       domain: businessworld.in
+    quality: 17
+  - title: "Top tech firms commit to AI safeguards amid fears over pace of change"
+    excerpt: "Joe Biden announced Meta, Amazon and OpenAI among others had agreed to eight measures to encourage responsible practices"
+    publishedDateTime: 2023-07-21T18:43:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 17
   - title: "Tech companies to make AI safety and transparency pledges to White House"
     excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."

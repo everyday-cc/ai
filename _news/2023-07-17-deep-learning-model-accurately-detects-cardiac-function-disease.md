@@ -49,6 +49,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Machine learning could transform early cancer detection in primary care"
+    excerpt: "A new editorial paper was published in Oncoscience (Volume 10) on June 9, 2023, entitled, \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
+    publishedDateTime: 2023-07-22T00:55:00Z
+    webUrl: "https://www.news-medical.net/news/20230721/Machine-learning-could-transform-early-cancer-detection-in-primary-care.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
 
 secured: "bSmk1QKWS8hV8njHWujhCQntUzv86TZgttTX9GB3zQuWJsYSn6SZF/tOI9MQk+Co+gazmbo9rcLIKNYyUq1/adrUK22cU22Vuyja/B/ZZF1qIFWvz5fYdPuf9B9ua9N+I6TrMeC26sv+TLjk4o75aa1O7i+9YuZTvxQtjaQbYkNGWr04nvHQPWyakU70/IzwJ3L6+oAPzeZNSiCo5rVXdcULiNvGOP5PXDdCXXrQPkbLoR1Cy8RIbnAK/DSSKL759VE/WIzvQjsjWIhpPNSFvOCxt7lWIcEocQqz8xR5EaQY9fIeN1bS3TMWXYIA1McvFJcnSlz2cZk8X7r6MmlNgPe1LvYpWtYW8rw110Owi/ngDIgijjYDI8YFJ6tziNDCxNESFYd9lCfOzjTArX2TaBShmqP/M1U5WgnyWcvr7jFNiilUBWbRRIvFeQLq1AqZTPnhgJFOzYMPew9fdPdj8reduc03jFbfwpf+EPzJs39TRbhKILfy2LAftOsi141nOKXUxUsarD4I/Ad1ZeOnsg==;uEA4h7IksHWmW0q3YhRnWA=="
 ---

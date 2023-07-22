@@ -121,22 +121,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Generac powers business transformation with data, AI"
-    excerpt: "CIO Tom Dickson has helped evolve the generator manufacturer into an energy tech provider thanks to a shift to predictive modeling fueled by the cloud, analytics, and AI."
-    publishedDateTime: 2023-07-17T09:59:00Z
-    webUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html"
-    ampWebUrl: "https://www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/646384/generac-powers-business-transformation-with-data-ai.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2023/07/tim-dickson-100856016-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Single chip architecture to meet generative AI processing challenges"
     excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
     publishedDateTime: 2023-07-21T04:15:00Z

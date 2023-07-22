@@ -55,6 +55,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 29
+  - title: "AI Firms Strike Deal With White House on Safety Guidelines"
+    excerpt: "The White House on Friday announced that the Biden administration had reached a voluntary agreement with seven companies building artificial intelligence"
+    publishedDateTime: 2023-07-22T01:10:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273906948/ai-firms-strike-deal-with-white-house-on-safety-guidelines"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
   - title: "Watch Live: President Biden Announces Some Tech Companies Have Agreed To Voluntary Safeguards On \"Artificial Intelligence\""
     excerpt: "Open AI, Amazon, Google, Facebook, and several other companies have agreed to voluntarily follow a new set of \"safeguards\" on the development of artificial intelligence, President Biden is expected to announce in a speech Friday afternoon."
     publishedDateTime: 2023-07-21T17:38:00Z

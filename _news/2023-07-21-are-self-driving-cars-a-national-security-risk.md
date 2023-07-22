@@ -35,6 +35,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 19
+  - title: "Feds launch AV office to set new safety standards, deploy more self-driving cars"
+    excerpt: "Many new vehicles come with automation technology up to Level 2 according to SAE International’s guidelines, such as General Motors Co.’s SuperCruise, Ford’s BlueCruise and Tesla’s Autopilot, which require drivers to keep their eyes on the road."
+    publishedDateTime: 2023-07-22T03:01:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/07/21/new-fed-office-signals-shift-in-approach-to-self-driving-cars/70437104007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 0
 
 secured: "LKBppbRn7+984/ZT4BhOX59KgRhtAgMHVHBfQWD51mjvh0Nwya6BMJkl2VIuc+B1Jg8dhn5jBXWrULJYcas6pn9iFBgLmRO4hWuPejXyRKvUzS/GPNl2CJJn/ltz3vt+t/X45wdXABt9AwU6aA5+WxpRBGva7H4do5ScHxe53p7Wgq2xCwPMi/jRQOJ/V1o+E2hPgKJPA2NhMHJjobAKV1Xr6lBae5Oye09gUZa4gPZ1W64nKT5kPJXapUZumpQwOJ7LiIeT66msWAaMQTLM8g+/bak8hnDD8zRvYxg/UcxglG22QPAi7zCd64Dyf889LoIxArJd7W/+hYdb3EcZQdQgdCJk/fNY3s2t8SXc2Mk=;eDe+IqtAzVb6RWcnZPDjiw=="
 ---

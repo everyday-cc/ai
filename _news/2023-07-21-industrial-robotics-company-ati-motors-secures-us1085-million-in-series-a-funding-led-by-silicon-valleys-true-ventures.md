@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Industrial robotics company Ati Motors raises $10.85 million in Series A round led by True Ventures"
+    excerpt: "The latest funding, according to the company, will help it expand into markets in the US, South East Asia, Japan, and Europe and explore untapped opportunities across pharmaceuticals, chemicals, maritime,"
+    publishedDateTime: 2023-07-22T01:45:00Z
+    webUrl: "https://www.financialexpress.com/industry/sme/msme-industrial-robotics-company-ati-motors-raises-10-85-million-in-series-a-round-led-by-true-ventures/3182017/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 35
   - title: "B2B Analytics SaaS Startup Factors.ai raises $3.6 Mn in Funding Led By Stellaris Venture Partners"
     excerpt: "Bengaluru-based B2B Analytics Software Startup Factors.ai has raised $3.6 million in a pre-Series A funding round, led by Stellaris Venture Partners."
     publishedDateTime: 2023-07-18T05:05:00Z

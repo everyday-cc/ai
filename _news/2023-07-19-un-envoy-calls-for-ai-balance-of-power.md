@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "UN holds first-ever talks on artificial intelligence"
-    excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
-    publishedDateTime: 2023-07-19T04:57:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1205926"
-    type: article
-    provider:
-      name: pna
-      domain: pna.gov.ph
-    quality: 19
-
 secured: "2wgw+yDg+1F8PMLsedPLMIcJexYXjGbo3w6GZDzwtz1YmAQdL8Lnh8b5FWYAiANt+MJs+DMrl0SR9vD1UUBhnfhdAonw8UHv+MOoQF/YkW+GSKvFEJQd/S5IotkUJn/6qiDoNxBRlG+e0I6loX8zNhOqf52BEw0kskhpH9d2xm3QWm4fzJh38aFwSyIwVMFJrDze5As5zVGL9kB09ZH7SyIvDbOEMqpBj0E94ztLTHfL8FMnZx85JVOgzzN7VcCo2p3h9kn49ACpUk1QDGfNLi3QtKJzq/VE+3770G9ejTuXKi056ph3hTfqvrydGQRn4djzsT3RTnfxjSUmqRFZDBjoZ03ht8No7I5kgSGq5b0=;RrAF/k6zBC4plBNMrHvNvQ=="
 ---
 

@@ -49,6 +49,20 @@ related:
         width: 900
         height: 400
         isCached: true
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
     excerpt: "VSORA, an innovative startup offering silicon intellectual property (IP) solutions and silicon chips, today unveiled Jotunn™, an all-in-one single-chip family to provide a massive jump in performance for Generative AI inferencing processing challenges."
     publishedDateTime: 2023-07-19T13:21:00Z

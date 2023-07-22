@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "The Medical Robots Market in Healthcare: Unveiling the US$ 63.7 Billion Potential by 2032 | FMI Study"
-    excerpt: "In recent years, the field of healthcare has experienced a transformative revolution, with cutting-edge technologies reshaping the way medical services are delivered. Among the most ground breaking innovations are medical robots – sophisticated machines that are changing the face of medicine."
-    publishedDateTime: 2023-07-20T04:17:00Z
-    webUrl: "https://www.fmiblog.com/2023/07/20/the-medical-robots-market-in-healthcare-unveiling-the-us-63-7-billion-potential-by-2032-fmi-study/"
+  - title: "CareerLoop Is Revolutionizing Human Resource Departments With Artificial Intelligence Integration"
+    excerpt: "CareerLoop's AI Integration transforms HR Departments, streamlining recruitment and boosting employee retention. CareerLoop, an AI company specializing in Generative AI technology, empowers Human Reso"
+    publishedDateTime: 2023-07-18T01:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33259827/careerloop-is-revolutionizing-human-resource-departments-with-artificial-intelligence-integration"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33259827"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33259827"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Medical-Robots-Market.jpg"
-        width: 626
-        height: 626
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "ShelfSet: revolutionizing retail and beverage distribution with innovative AI"
+    excerpt: "Despite early skepticism regarding the AI’s accuracy, ShelfSet has quickly earned recognition for its efficient object detection and continually improving models. ShelfSet’s affordable pricing model ($20 per employee per month), easy integration with ..."
+    publishedDateTime: 2023-07-17T23:12:00Z
+    webUrl: "https://www.digitaljournal.com/business/shelfset-revolutionizing-retail-and-beverage-distribution-with-innovative-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/ShelfSet.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
+    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
+    publishedDateTime: 2023-07-20T19:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
+  - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
+    excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"
+    publishedDateTime: 2023-07-19T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33289997/introducing-paintit-ai-revolutionizing-interior-design-with-ai-generated-visualizations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "Rnp9/7lW+l/QXww5gB8RJ/e1GdZhf5oqXgEmXKvVdtnj312jV2aikhIolOk/GnKYFvf9PoZUhkNO68w0wweGkrKs9TQ8xAtFEk+5A//zISrhoDxUQQuQfaeuwHV2M6/r+NkemXZLlEAAcBLwpaoQWeDH+LzNGh89gSDia7mp0QxqQincA6LIWHDnb1igQPcgucz+adMxCIje9WJ807fF+A4KrROxfY1lZJ9n6D6DpdklemAHPQBXm2QCqkU3bakxW7TGSW/BbuZoZ3LMvtpvOm0hPdidCmQMLZIo9oagndxMONueJ820swKwiT0Hsdw7Z4OsM0NEZmMOvjWUf9EvLOPIgkS/Z0SP9Z/5OwSkQJKZIZUXG5TPGyBA4B7XWsZIWdQGkO3P2BKOqtM7KOZclNm1EeeGYYAL7I8co9PAV3PL+gSoCpBK46WSztCWbP7NsoOVFdhIGJw62VdWqubjluu1G1yJUI70QSWkf+bJ38nWiqGc0XdjZVL8OXI7ohsZoj4n9bprigRTkW9QMDYkQA==;Icb089u6akAnVhUaBe7EWw=="
 ---

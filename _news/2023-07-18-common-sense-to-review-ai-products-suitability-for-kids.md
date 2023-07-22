@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsnationnow.com/business/tech/common-sense-to-review-a
 cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/common-sense-to-review-ai-products-suitability-for-kids/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,40 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "The biggest barrier to AI productivity is people"
-    excerpt: "Generative AI is helping us churn out vastly more content at remarkable speed, when what we really need is better content. It’s up to humans to put the focus on quality and value."
-    publishedDateTime: 2023-07-17T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.html"
-    ampWebUrl: "https://www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702656/the-biggest-barrier-to-ai-productivity-is-people.amp.html"
+  - title: "Common Sense Media Announces New Ratings and Reviews System for AI Products"
+    excerpt: "According to a recent poll from Common Sense Media and Impact Research, there is an overwhelming desire among parents (82%) for a rating system that will help them evaluate the quality of AI programs like ChatGPT. Over three-quarters of parents surveyed ..."
+    publishedDateTime: 2023-07-17T18:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/common-sense-media-announces-new-ratings-and-reviews-system-for-ai-products-1032451907"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/05/disaster_recovery_crisis_help_rescue_drowning_hand_rising_from_the_ocean_by_ian_espinosa_cc0_via_unsplash_1200x800-100759670-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Language AI Products Are Mushrooming as Barriers to Entry Collapse"
-    excerpt: "Startups are repackaging GPT-4 for translation, text-to-speech, AI voice generation, and lip-synching tech, to build new consumer-grade products."
-    publishedDateTime: 2023-07-21T09:09:00Z
-    webUrl: "https://slator.com/language-ai-products-mushrooming-as-barriers-to-entry-collapse/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-  - title: "How AI Will Augment Human Creativity in Film Production"
-    excerpt: "AI video editing tools will enhance efficiency in the film industry, not be a total replacement for human creatives."
-    publishedDateTime: 2023-07-20T13:00:00Z
-    webUrl: "https://variety.com/vip/how-artificial-intelligence-will-augment-human-creatives-in-film-and-video-production-1235672659/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "UfAd+9lHZ40gLyoJldTmP05ZXxcVWbYlNMD9AErPhUHQQIPoVJ0S+jTFBIwygCWmCvlinveiAgbbmUwv91PgUeiXajsiKnNXmAYWdlowUoBYxHx2fXrBqmO3dFQclWGdG+5kU+MuPqbi187XcKZe40yr2zGw4OSrFd77+YRu0Zs2N4JSXyWkKpmBQrhDpX50riFYJdRlD67qlgrtKuT4A1MKSKmC4Mhq5D++JandrwV7vEMgCjjiRXwIyoUKYMIBGspTVbu2af3xgtb+9yywWoj0J7bji93/nOdzFEh/4ive+bFqgP/qBexMLe3iariUg4JIA/eSMsSNNkrGRikZf7NlSOvxHaINsL6WfFL7If8=;eHfTti1Ibau/f5ltx0ZA2g=="
 ---

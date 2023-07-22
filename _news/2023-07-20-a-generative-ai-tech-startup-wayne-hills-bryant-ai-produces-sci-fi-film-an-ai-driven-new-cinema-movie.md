@@ -1,22 +1,22 @@
 ---
 category: news
 title: "A generative AI tech startup Wayne Hills Bryant A.I produces Sci-fi film, 'An AI-driven new cinema movie'"
-excerpt: "For the first time in South Korea, a large multiplex franchise produced 100% generative AI filmAfter an extensive premiere, it will be screened in multiplexesIn the film industry, it is predicted to h"
-publishedDateTime: 2023-07-19T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33293314/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33293314/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
+excerpt: "In collaboration with a multiplex franchise, Wayne Hils is currently reviewing a rollout plan to play AI-generated films at multiplexes. 'Wayne Hills Matrix AI' will create AI-based content in a wide range of fields, including music videos, blockchains, and digital twins, along with movies."
+publishedDateTime: 2023-07-19T21:23:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/19/9851247.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/19/9851247.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "v6aKLxheuryGIcBvz5B8CeeB3gERMgzMTpx27ZDBHK1sJl3K6QEYuGGWHg3uScEJM4Hu9zNx5aaeMKph7moD5zsbS5bR/2wduAgZJ8BkY+vTmfQBITtDGwDtFz0XTOcXxzvpGk1IShu6pNE1PnbO7yySH1ZznSjuJRfbkRa3G3nw7QzZnLNFbvYQLD+CP/kfu2PVCJbUYO16ZYNwNvn8NMkGAq7Z7edFfuPEPdXXADbtrD0NLcwkGTaObz2E5YS+rV7WRngORTwNVXT1h6Au8nY3K7oVlB+w1jvx3YWSsI+oyWUDPPfMHBBwBMRmpuVcBwmFMAdc+WBTtziu4+k2E9THO1O8xhGtmvohiTLjhiE=;S+Kr70a+MtxmYbgmgtnwYA=="
+secured: "7in6hDpoMIk+tQQwuGpk1fdLqKWrkWcSDJ0++r4h0AnJRwqZApZpqVvIluytgXMW4rhekIT7WukuWz9iHjh4sUY375iY2urwDYY7SQlK+aon0pvUmwW5jbT4O5MkV/nuYMK/aZwqMi6WemP6vuRsRIeVtSh6GRnhx8PZ/TGYa31zG4jn7qjOrQiB4MBoKcpwoxPjyJqRyU2cX3FMQxNy6ryuqiXuBcT5li7JzTp2Dg4aHh2Btmgr5wTZT59j1MlZGKN1xZcQ/C8BH/BmwQ7CbuW6yrXgzq2pV/UWdXlitu3Vc5xv8kY6S0jDfzFlh/xdhpVY3x0JPFxsxq9KepJGAHmpwD8JQIY2uKXyG6255w8=;hTNvxP8HBcDuFpqoepSW/g=="
 ---
 

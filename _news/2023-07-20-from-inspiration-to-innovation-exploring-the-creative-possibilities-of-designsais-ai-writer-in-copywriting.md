@@ -50,20 +50,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "IBM’s Watson rebooted as a secure AI alternative"
-    excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
-    publishedDateTime: 2023-07-20T20:51:00Z
-    webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 54
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/IBM-Watson.jpg"
-        width: 900
-        height: 568
-        isCached: true
   - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
     excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
     publishedDateTime: 2023-07-20T13:30:00Z
@@ -78,6 +64,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "IBM’s Watson rebooted as a secure AI alternative"
+    excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
+    publishedDateTime: 2023-07-20T20:51:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
   - title: "Empowering Data Analytics: Unleashing the Potential of Machine Learning and AI"
     excerpt: "In today’s data-driven world, businesses are constantly seeking innovative ways to leverage the vast amounts of information they collect. Traditional data analytics tools are often limited in their ab"
     publishedDateTime: 2023-07-20T10:01:00Z

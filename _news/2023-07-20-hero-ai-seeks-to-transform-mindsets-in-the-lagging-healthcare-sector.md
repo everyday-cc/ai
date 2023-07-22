@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
-    excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
-    publishedDateTime: 2023-07-17T09:13:00Z
-    webUrl: "https://www.pv-magazine.com/2023/07/17/ai-poised-to-enable-accelerated-transformation-of-the-energy-sector/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 8
 
 secured: "vEnI/C/Btj60HDbR7jTxQyG+fNEBdBUVegJKU5Ot2Qyrl+Rz3uTrwTDEF98h9XzZ8qz/5Bo9dJacq3cbNRRz251vrYSfh7P1kWH/EgogaVFD6GiU54G8F7H13gopA1inwsdsf2vTPP3f8cyh4Uz9osfiMdT98fQ6SjgmB+G0IeUk+nxoVQ846ni0WbhAv0BDNcrlT7FkT846fH3yhU7jp1hUg1IJVuXmcub6IjrpwiVQ4xkC4lVGmuuhcyxGIokzUITWk8siy3ydKlCcQHVvwOuTOxfEzr6iCfn1zSVcm/nMY8T32i15ssKKHGFraLBiAP+2vPpwLSH4OuUGg4Prh0wB2hQD39cPUBTrSVbUUOwRMXfGuRdnI64l9Oc0OHjfNOt5TLPb9AByfi61Bcm5da0wY1pW0lyVWmXWNd8gKKaBTafDWfetJUvE3T8+pZHKwLVprQMstuBIdkIm+Aq67BtTeYCwALGL2Wb8PNn/cZrZTUZ56kJy+XYNGwntK8U6krgNmxlFdnJfDohBtKcEog==;amzU49vh/sgh3nDqncPQ+A=="
 ---

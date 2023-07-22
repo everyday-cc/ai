@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/meta-launches-ai-research-comm
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.aha.org/sites/default/files/2018-06/aha-medicaid-data-900x400.jpg"
         width: 900
         height: 400
+        isCached: true
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
     excerpt: "Designed to Trounce Memory Wall, Accelerate Proliferation of Generative AI Implementations; Chip Architecture Provides up to 3.2 Petaflops with an Implementation Efficiency of Mor"

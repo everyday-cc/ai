@@ -90,20 +90,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
-  - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
-    excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
-    publishedDateTime: 2023-07-17T08:01:00Z
-    webUrl: "https://news.bloomberglaw.com/us-law-week/ftc-investigation-of-chatgpt-aims-at-ais-inherent-challenges"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/55d996e/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F91%2F2c%2F47ed98a84c8193856e370cff5f1b%2Fai-2.jpg"
-        width: 1920
-        height: 740
-        isCached: true
   - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
     excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
     publishedDateTime: 2023-07-19T12:46:00Z

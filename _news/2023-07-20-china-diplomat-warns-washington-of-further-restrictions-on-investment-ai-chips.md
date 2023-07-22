@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of
 cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'The Creator' trailer drops John David Washington in a war between humans and AI"
-    excerpt: "Joshua is recruited to join a crack team of operatives, led by Allison Janney's Colonel Howell to hunt down the eponymous Creator, whose development of artificial intelligence weapons could mean the end of the world. As the robots apparently have some form of superweapon, Joshua's team's one mission is to retrieve it."
-    publishedDateTime: 2023-07-17T09:38:00Z
-    webUrl: "https://mashable.com/video/the-creator-trailer"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 62
-    images:
-      - url: "https://helios-i.mashable.com/imagery/videos/03G99IDGgtBevJpv4tdN0iP/hero-image.fill.size_1200x675.v1689586393.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "U.S. Tech Leaders Aim for Fewer Export Curbs on AI Chips for China"
     excerpt: "The chip giant's product launch on July 11 is part of an effort by U.S. technology companies to bypass or curb government export controls to the Chinese market as the U.S. government, citing national security concerns, continues to tighten restrictions on China's artificial intelligence industry."
     publishedDateTime: 2023-07-20T23:16:00Z

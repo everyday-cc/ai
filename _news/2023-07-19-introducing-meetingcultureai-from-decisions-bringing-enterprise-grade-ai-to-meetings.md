@@ -95,20 +95,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "Predicting kidney abnormalities in utero with deep learning"
-    excerpt: "The study findings advance DL-based CAKUT recognition through ultrasound imaging by using, for the first time on such a large scale, an algorithm trained from the beginning. The model also exploits the potential of XAI techniques to improve the interpretation of the model’s predictions."
-    publishedDateTime: 2023-07-17T08:44:00Z
-    webUrl: "https://www.news-medical.net/news/20230717/Predicting-kidney-abnormalities-in-utero-with-deep-learning.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_753742_16894367723747140.jpg"
-        width: 2000
-        height: 1233
-        isCached: true
   - title: "New geometric deep learning model for detecting stroke lesions"
     excerpt: "Currently, there are several machine learning models for identifying stroke lesions in computed tomography-perfusion (CT-P) images. But they do not perform well enough for clinical applications. Addressing this issue,"
     publishedDateTime: 2023-07-18T00:00:00Z

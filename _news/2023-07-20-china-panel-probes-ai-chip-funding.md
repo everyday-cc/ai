@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/pro/tech-policy/2023/07/19/china-panel-probe
 webUrl: "https://www.axios.com/pro/tech-policy/2023/07/19/china-panel-probes-ai-chip-funding"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "China-developed AI chips enter 7nm and below era"
-    excerpt: "The manufacturing of AI chips developed by China-based companies has started to enter the 7nm node and below despite the US' frequent sanctions on China's AI products, according to sources from the AI chip supply chain."
-    publishedDateTime: 2023-07-17T08:49:00Z
-    webUrl: "https://www.digitimes.com/news/a20230717PD210/china-7nm-ai-chips.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230717pd210_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "3dCAP0MBdiTQe26qB6MWx9YOs5qLDPTyoxP1TkCjFhXaX2Kp3CJC5uu9K3y96f9Sk1cQ7/5Q9iNzPI2A9HoPow4Kd8vhd5S1nJLk1ymV/eN0RtSJh9PvEe9KllZhdYTqF8H+UBwMqz4AiWvRSwaxiwc9ucIwLIWNO6k34tmynW2jKqz/dAQiDa+1061u4NxIqJ4wy0PBdOirrtt3jq3fwSn8O8CnZOBijVQkgH/4Fic04qJdZCEErs4Ipbn3M9q10cOCr6f8cLlfygxX8jOe+tNnMnBsFMcC3q6573hu8/toFbnZqrxyQbtqouCT2dPlSGACQ+5CstIf4X4/mBZvXe/JvXeoXiYg1zlYPQvOiL+9+SB06UCFkus8M2K1e0rBt9fVM+B733NwpBn0S0ZxpSRwz6vU9fOzb8jzC1UDK/Q9CMF+Bi9vpoH96HLswbVb5PbZ82lqr/vpmtGkXYQDS6kGfJ3T5Z+WN1QcDptu4kH3qhQI0m3+XUHsk2Kt3ZKZklKItQ5aZx/gFkWgINrLFQ==;wzk9m431+u39bgOLHeKsMQ=="
 ---

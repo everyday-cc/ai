@@ -38,6 +38,15 @@ related:
         width: 2101
         height: 1426
         isCached: true
+  - title: "The future of cloud computing: How AI is transforming the landscape"
+    excerpt: "As the world embraces the transformative potential of artificial intelligence, the cloud computing landscape is evolving at a rapid pace."
+    publishedDateTime: 2023-07-20T18:55:00Z
+    webUrl: "https://siliconangle.com/2023/07/20/future-cloud-computing-ai-transforming-landscape-supercloud3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "dby5VGH6LlW6JcA/9iWph0I6MY3vWCbHPcCbialb6UT1N9ZjrTIIW+qTyMi0xraenE3gEEObbSIHmMetyDipGqDVgVPbJ43pur7vgatMHB5Vx4oHNyKz0Oz/MbtFNUCAdhetcWMMieFmjMJz8+mFQG8gkgikCVka4tpJKIYJ/K8goax4eELoYHyJr/duVVEuDX9LiVC09nc3XRMqc20CjprZ/y3VOujizXQwOn5vqGDNEYx9UqxKP9+KxqYXyUiAzdK13oiSO+E5RWkw8c2en9IB2XT2IeZ7M3MEYH37K1mEFmvqfARrzpasCVCGkD7eXDlt+qU1sKBpPGu0AVYWv+49lt6PDHd3cVGIvbTV3VspQoQuZYvKvQAvWHcdzOl/fIbUfNkKW5B7bKsUBq6QB63AbuzLk+qttimNpzbs43eYwdQ4f4TpY/YDq2vE9ClCcRvmyl6DEKq+EQ3ClXAHVxRFLRT0zbeG+u/AZK6P/ZS6IDw8ZqpKsJpuAMCRlBBBZ0/pe6k64OaAtlSOAOcbkQ==;n72xIsVbvrcj/Y6tLHLHfg=="
 ---

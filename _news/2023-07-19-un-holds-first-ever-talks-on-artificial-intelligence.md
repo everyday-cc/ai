@@ -19,19 +19,47 @@ topics:
   - AI Ethics
 
 related:
-  - title: "UN envoy calls for AI balance of power"
-    excerpt: "China's permanent representative to the United Nations, talks with other delegates before a UN Security Council briefing on artificial intelligence at the UN headquarters in New York, July 18, 2023. [UN Photo/Handout via Xinhua] A Chinese top envoy to the United Nations on Tuesday called artificial intelligence a \"double edged sword\","
-    publishedDateTime: 2023-07-19T02:35:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/19/WS64b73acaa31035260b8173bf.html"
+  - title: "Tech giants join forces on AI"
+    excerpt: "Kate Pounder, Tech Council CEO, said “in this time of high inflation and low productivity growth, our economy needs a productivity shot in the arm. “The report shows the enormous potential for generative AI to catalyse growth and innovation across a wide range of sectors, shaping a prosperous future for our nation.”"
+    publishedDateTime: 2023-07-19T03:44:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/tech-giants-join-forces-on-ai.html"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: ia.acs
+      domain: acs.org.au
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/19/64b73ae4a310352610b92a07.jpeg"
-        width: 450
-        height: 300
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Microsoft%20Chairman%20and%20CEO%20Satya%20Nadella%20announces%20Meta%20Llama%20AI%20joint%20venture%20to%20partner%20attendees%20at%20Microsoft%20Inspire%202023.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "UW School of Computing Makes Joint Hires in Artificial Intelligence and Big Data"
+    excerpt: "The University of Wyoming’s School of Computing has taken a major step toward its goal of creating a statewide, national and global impact with the hiring of tenure-track faculty members in applied artificial intelligence/machine learning and big data."
+    publishedDateTime: 2023-07-19T17:38:00Z
+    webUrl: "https://www.uwyo.edu/news/2023/07/uw-school-of-computing-makes-joint-hires-in-artificial-intelligence-and-big-data.html"
+    type: article
+    provider:
+      name: University of Wyoming
+      domain: uwyo.edu
+    quality: 32
+    images:
+      - url: "https://www.uwyo.edu/_resources/images/explore-university1.png"
+        width: 622
+        height: 426
+        isCached: true
+  - title: "Tech giants including Amazon and Meta agree to Biden’s artificial intelligence safeguards"
+    excerpt: "Amazon, Google, Meta, Microsoft and other companies leading the development of artificial intelligence (AI) technology have agreed to meet a set of safeguards brokered by the Biden administration."
+    publishedDateTime: 2023-07-21T09:52:00Z
+    webUrl: "https://www.businesspost.ie/article/tech-giants-including-amazon-and-meta-agree-to-bidens-artificial-intelligence-safeguards/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 28
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=31a0898f-c7d0-54bd-9722-88d2eb1b52dc&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=5000&height=2813&x=1.0E-5&y=0.07865"
+        width: 3000
+        height: 1687
         isCached: true
 
 secured: "7rnnKWcgRW0W7S32nuFzIj9en29M1MVRhz4hfBPSGF0GP2WtLKFPlWJsloOgdrwbflBMha0I8xBhlL9y4Nhqh80NcCaacm4CYCcf5oEMFQ479UmyNUzLXhH4x3OJ43tjWqZUD+hZ22K/k2qD9Hl0qBN5cxZGQ/LNqARQ8nq4TJzOUJoSOrFQTtC6wTCmWfoEAL/jPK1STky3/aWfs1GIc5a39aG33k44+C/WUKUODWNoQqD6K1Ucrvsqv56Ba9aQylrHfyTQedszOEigv0lyUKqMUVvWcq9jGukZTaqY4YFQWY3Re9R/fB8jtuP+qH6l+6aCJIQGgE8Tmduq2+NCvmz8jm67tXsp0IxdgK3TZHk=;JqpG/eVwgXoKlbqPV3rRuQ=="

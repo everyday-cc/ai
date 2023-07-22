@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquito
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 36
-  - title: "Digital health tools can revolutionise healthcare, says Brunei health minister"
-    excerpt: "Digital health tools have the potential to provide remote monitoring and data capture in healthcare, teleconsultations and information exchange and virtual care."
-    publishedDateTime: 2023-07-17T09:24:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/17/digital-health-tools-can-revolutionise-healthcare-says-brunei-health-minister"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/17/2181557.jpg"
-        width: 696
-        height: 392
-        isCached: true
 
 secured: "2ePa3fDttsk9VpIPDt3TKBo42SP/tTijdCVYN1g/0gnT3uGnyEu8I6V/m2+McGoIuaY8seTcWhCgVMG7lBwYudqCyk7TGJCVJO5rOtBk+rjPURxMWyUz1nNYivmeZCWAoWwHBIFQutlLXzoegYioTWW/irXOll+b/iYPe76/DZx7+OQ5woG4pKVHEbOU3IUm2YjCKf2Kd3D/iYq3B5YuHhMWjh4bGZTJBRw0WKC1vowvC2gEFhJzilu3yGPzl4ZEmCAxfhBCIKmw+/t+FnxWloD4wh2mWobYDvdUnpSMTZsZOoeybTNKGfIBSSltauAozHFTyyBDVeykXj0ch+dlT3/Xk+ov4lOjRp/m3Zk0ClYecG3RCCGPwzpbsPvIgC5FhvTE+071rU7Out1Fh1L6oMTBmHXvp6x/e2xbTBdGfZQAKTHmTkmSSjhHgqswewb/Ypl/Tw3w0FxYIvLYe5cy4kAE2B1w2hsxdPu+t3khRvwGSp6uGO32lfKBhP+GLxuJl8VMrZNcNnrJ92vTCVelEg==;RfAL45huLz+8Q7oZoCH7vQ=="
 ---

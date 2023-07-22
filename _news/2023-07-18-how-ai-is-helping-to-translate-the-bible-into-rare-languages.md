@@ -80,15 +80,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Artificial intelligence poised to enable accelerated transformation of the energy sector"
-    excerpt: "Artificial intelligence will play a larger role in solar and energy storage products, according to Sigenergy founder and CEO Tony Xu. Here, he discusses upcoming trends and current challenges in the renewable energy industry,"
-    publishedDateTime: 2023-07-17T09:13:00Z
-    webUrl: "https://www.pv-magazine.com/2023/07/17/ai-poised-to-enable-accelerated-transformation-of-the-energy-sector/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 8
 
 secured: "2wnqo5wVdfAS4zdsyM8EGLX3FndvFgk/CeXp7QMgB5o5skW6vghnY3QGUYxTREFpEOmXvbSrSukNOE6qWijvwJgKZU0Q13WZrwWBag5r8CBkiCQnMUQOdB8AuWloS/Q49ardyvm0zVWbUHSv4sbC0dGCGINeVTyPgS0LQc+kaDfItGRfvs4fZpAGDVOmyIINltm1j7I/RBD4BjrdiqSy0DqXoQDm/DYv2SihKrC+ahYwDvYrnUDkhvglcc8M4jXJ+mroGGYnkGKWDW5wxmmjshkLPgIy50/TNshtwHKZJZHIRyVnlpMQ+IAvv4r+GbBteXmyE6tS3OQLO/t+KliMzHDKOWYtHEXnjQtp4Z6OK5A=;zAlJH69XZqoHUTc+3L3DeA=="
 ---

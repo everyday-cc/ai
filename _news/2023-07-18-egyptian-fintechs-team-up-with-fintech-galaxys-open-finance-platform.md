@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 1080
         isCached: true
-  - title: "5 AI-driven FinTech firms supporting consumers, businesses in Europe"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-17T10:47:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-ai-driven-fintech-firms-supporting-consumers-businesses-in-europe/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/06/technology-global-ai-race-information-network-connection-scaled.jpg"
-        width: 2560
-        height: 2560
-        isCached: true
   - title: "FinTech Magazine’s Top 10 banking technology companies"
     excerpt: "Discover FinTech Magazine's Top 10 Banking Tech companies reshaping finance globally. Find out who clinched the coveted number one spot!"
     publishedDateTime: 2023-07-19T15:00:00Z
@@ -111,6 +97,24 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Indias Think360 make top AI Fintech Companies List"
+    excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+    publishedDateTime: 2023-07-17T14:12:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+  - title: "Influencing the Global Fintech and Digital Finance Market: Super Future Technology"
+    excerpt: "Traditional investment firms have become increasingly aware of the potential and value of digital assets, leading to a profound transformation in the financial industry. Previously, traditional invest"
+    publishedDateTime: 2023-07-21T23:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33331524/influencing-the-global-fintech-and-digital-finance-market-super-future-technology"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
   - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
     excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
     publishedDateTime: 2023-07-19T13:48:00Z

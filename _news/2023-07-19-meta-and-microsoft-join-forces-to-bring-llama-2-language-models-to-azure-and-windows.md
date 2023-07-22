@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft announces Azure AI trio at Inspire 2023"
-    excerpt: "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale."
-    publishedDateTime: 2023-07-18T16:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/?ref=dailydispatch.ai"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 119
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1496ee39182cc4443e405da8d169c49c0daabaf1/2023/07/18/29cb280f-8891-4ff4-a4ff-45b5cb9a0b61/gettyimages-1513927725.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Leaders of Microsoft and the NSA discuss democracy and AI at Aspen Security Forum"
     excerpt: "As artificial intelligence technology advances, how will that technology impact democracy and security? Microsoft Vice Chair and President Brad Smith discusses with Robert Joyce, Director of Cybersecurity at the National Security Agency."
     publishedDateTime: 2023-07-20T22:55:00Z
@@ -137,22 +121,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft launches vector search in preview, voice cloning in general availability"
-    excerpt: "Microsoft announced a number of new services at its Inspire annual conference, including a new AI-powered vector search tool."
-    publishedDateTime: 2023-07-18T17:40:00Z
-    webUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/"
-    ampWebUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 100
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1185699754.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft's Inspire 2023: 10 quick AI and partnership announcements you need to know"
     excerpt: "We explore ten key takeaways from Microsoft's Inspire 2023, focusing on AI advancements and strategic partnerships in detail."
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -225,20 +193,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft Teams is adding Maybelline’s AI-powered ‘makeup’ filters"
-    excerpt: "The new feature is rolling out to global Microsoft Teams Enterprise customers starting today and can be located under the “Video Effects” tab within the Teams meeting settings. We’ve asked Microsoft if the filters will also be available to users on the free Microsoft Teams tier and will update this story if we hear back."
-    publishedDateTime: 2023-07-19T20:11:00Z
-    webUrl: "https://www.theverge.com/2023/7/19/23800648/microsoft-teams-maybelline-ai-beauty-filter-virtual-makeup"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/VchrOdbiz5Cn1lm5r32XqVRfwAA=/0x0:1450x960/1200x628/filters:focal(724x492:725x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/24797533/Maybelline_beauty_app_Microsoft_teams.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "White House Says Amazon, Google, Meta, Microsoft Agree to AI Safeguards"
     excerpt: "Big tech companies are adopting voluntary guidelines, such as watermarking artificial content."
     publishedDateTime: 2023-07-21T08:00:00Z
@@ -253,19 +207,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure"
-    excerpt: "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI."
-    publishedDateTime: 2023-07-17T17:14:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Teradata-VantageCloud-Lake-Brings-Exciting-AI-ML-Use-Cases-to-Microsoft-Azure-159652.aspx"
+  - title: "Google, Microsoft, Amazon, Meta Pledge to Make AI Safer and More Secure"
+    excerpt: "The tech giants and ChatGPT creator OpenAI are among the companies that met with President Joe Biden and signed the voluntary agreement."
+    publishedDateTime: 2023-07-21T23:40:00Z
+    webUrl: "https://www.cnet.com/tech/google-microsoft-amazon-meta-pledge-to-make-ai-safer-and-more-secure/"
     type: article
     provider:
-      name: dbta
-      domain: dbta.com
-    quality: 83
+      name: CNET
+      domain: cnet.com
+    quality: 84
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
+      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "Meta Teams Up With Microsoft, Qualcomm on Llama 2 AI Large Language Model"
     excerpt: "The next generation of Meta's large language model, Llama 2, is now available for free commercially in a partnership with Microsoft, Meta said Tuesday. Under this partnership with Meta, Microsoft will now also offer access to Llama 2 through Azure AI and on Windows,"
@@ -325,6 +279,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft announces Azure AI trio at Inspire 2023"
+    excerpt: "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale."
+    publishedDateTime: 2023-07-18T16:08:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
   - title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
     excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
     publishedDateTime: 2023-07-17T21:56:00Z
@@ -539,15 +502,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
-  - title: "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its"
-    publishedDateTime: 2023-07-18T13:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Microsoft Stock on Pace for Record Close After AI-Related Announcements"
     excerpt: "Shares of Microsoft were up more than 5% in afternoon trading following the company's announcements about artificial-intelligence-related products. That jump puts Microsoft on pace t"
     publishedDateTime: 2023-07-18T19:31:00Z
@@ -589,15 +543,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 61
-  - title: "Troy Medicare Selects nirvanaHealth’s Aria Platform that Runs on Microsoft Azure"
-    excerpt: "Press Release nirvanaHealth and Troy Medicare announce their partnership to implement nirvanaHealth's Medicare Advantage Platform-in-a-Box enterprise solution that runs on Microsoft Azure. These solutions run on Aria,"
-    publishedDateTime: 2023-07-20T12:26:00Z
-    webUrl: "https://venturebeat.com/business/troy-medicare-selects-nirvanahealths-aria-platform-that-runs-on-microsoft-azure/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
   - title: "Meta launches AI language model for Microsoft and Amazon cloud users"
     excerpt: "Meta isn’t charging for access or usage of the model it developed. Instead, by opening up the technology to other companies, Meta says it will benefit from improvements that can be made when more developers use,"
     publishedDateTime: 2023-07-19T05:11:00Z
@@ -673,20 +618,6 @@ related:
         width: 613
         height: 369
         isCached: true
-  - title: "4 big analyst picks: Microsoft upgraded to Buy on Cloud & AI"
-    excerpt: "Here is your Pro Recap of the biggest analyst picks you may have missed since Friday: upgrades at Microsoft, Plug Power, Baidu, and General Mills. InvestingPro subscribers got this news first. Never miss another market-moving headline."
-    publishedDateTime: 2023-07-17T09:54:00Z
-    webUrl: "https://za.investing.com/news/4-big-analyst-picks-microsoft-upgraded-to-buy-on-cloud--ai-2811797"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 54
-    images:
-      - url: "https://d1-invdn-com.investing.com/content/picda01a5582f86f02f497e7a0647263f19.jpg"
-        width: 450
-        height: 273
-        isCached: true
   - title: "Inspire 2023: Microsoft continues AI push at Inspire"
     excerpt: "Microsoft kicked off its annual event, Microsoft Inspire, with a focus on collaboration and the transformative power of artificial intelligence (AI)."
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -714,20 +645,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/F5VhTeMroMGieA4iOdBkqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/b983472aa5713b9ed094457a488b5fee"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Partnership with Microsoft brings Splunk to Azure Marketplace"
-    excerpt: "During its first keynote at .conf23 in Las Vegas, Splunk announced that it has formed a strategic partnership with Microsoft. With that, Splunk lands in"
-    publishedDateTime: 2023-07-18T04:55:00Z
-    webUrl: "https://www.techzine.eu/news/security/109041/partnership-with-microsoft-brings-splunk-to-azure-marketplace/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/07/SplunkLogo-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Teladoc expands Microsoft partnership to add AI documentation tools"
     excerpt: "The telehealth company will integrate artificial intelligence tools for clinical documentation, including Nuance’s Dragon Ambient eXperience, with its platform for hospitals and health systems."
@@ -870,20 +787,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Intel, Microsoft, Other Tech Giants Want To Boost AI, HPC With ‘Ultra Ethernet’ Solution Stack"
-    excerpt: "Intel, Microsoft, Hewlett Packard Enterprise and other tech giants seek to build an 'Ultra Ethernet' solution stack that addresses the growing network demands of AI."
-    publishedDateTime: 2023-07-19T21:42:00Z
-    webUrl: "https://www.crn.com/news/networking/intel-microsoft-other-tech-giants-want-to-boost-ai-hpc-with-ultra-ethernet-solution-stack"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 46
-    images:
-      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
     excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
     publishedDateTime: 2023-07-20T05:08:00Z
@@ -953,20 +856,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search"
-    excerpt: "Azure OpenAI Service text-embedding-ada-002 LLM is an example ... Vector search also plays an important role in Generative AI applications that use the retrieval-augmented generation (RAG) pattern. The quality of the retrieval system is critical to these ..."
-    publishedDateTime: 2023-07-21T11:08:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 44
-    images:
-      - url: "https://res.infoq.com/news/2023/07/microsoft-launches-vector-search/en/headerimage/generatedHeaderImage-1689764249103.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta Partners with Microsoft to Release Llama-2"
     excerpt: "At Microsoft Inspire, Meta and Microsoft partnered to release Llama 2, the cutting-edge iteration of their renowned open source LLM, LLaMa."
     publishedDateTime: 2023-07-19T05:46:00Z
@@ -980,34 +869,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/llama.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft Inspire: Satya Nadella reveals new Microsoft AI Cloud Partner Program in keynote speech"
-    excerpt: "Satya Nadella, chairman and CEO of Microsoft, revealed the new Microsoft AI Cloud Partner Program and other artificial intelligence opportunities for partners during the Microsoft Inspire keynote, which took place on 18 July."
-    publishedDateTime: 2023-07-18T17:10:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-inspire-satya-nadella-reveals-new-microsoft-ai-cloud-partner-program-in-keynote-speech"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 41
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4489/ISV_Success-1-1200x638.jpg"
-        width: 1200
-        height: 638
-        isCached: true
-  - title: "Splunk Unveils New AI Offerings And Edge Hub, Strikes ‘Digital Resilience’ Alliance With Microsoft"
-    excerpt: "At Splunk .conf23 the company unveiled Splunk AI and enhancements to the Splunk unified security and observability platform."
-    publishedDateTime: 2023-07-18T21:43:00Z
-    webUrl: "https://www.crn.com/news/software/splunk-unveils-new-ai-offerings-and-edge-hub-strikes-digital-resilience-alliance-with-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 40
-    images:
-      - url: "https://www.crn.com/resources/0283-1885a968d91b-cfce421a55d4-1000/splunk-conf23.jpeg"
-        width: 611
-        height: 457
         isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden’s administration."
@@ -1023,20 +884,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-    excerpt: "President Joe Biden said Friday that new commitments by companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards are an important step toward managing the technology."
-    publishedDateTime: 2023-07-21T22:30:00Z
-    webUrl: "https://tulsaworld.com/news/nation-world/government-politics/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the/article_e0022025-304c-58f6-a80c-fdbfea88acaa.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 40
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/00/e0022025-304c-58f6-a80c-fdbfea88acaa/64baf751602e6.preview.jpg?crop=1909%2C1002%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
     publishedDateTime: 2023-07-17T13:56:00Z
@@ -1051,34 +898,6 @@ related:
         width: 1194
         height: 627
         isCached: true
-  - title: "Microsoft Earnings Forecast & Preview: The MSFT Stock 2023 Rally"
-    excerpt: "Our Microsoft earnings forecast and preview will cover everything from Azure's profit levels to the potential future of the Activision Blizzard merger."
-    publishedDateTime: 2023-07-20T01:54:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/microsoft-earnings-forecast-preview-msft-stock"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.cmcmarkets.com/images/microsoftearningsbakery_medium.png"
-        width: 768
-        height: 576
-        isCached: true
-  - title: "Teladoc expands partnership with Microsoft to integrate AI and voice technology into its telehealth platform"
-    excerpt: "In an effort to further enhance its telehealth services, Teladoc, the leading telehealth company, has announced an extended collaboration with tech giant"
-    publishedDateTime: 2023-07-18T13:37:00Z
-    webUrl: "https://www.onmsft.com/news/teladoc-expands-partnership-with-microsoft-to-integrate-ai-and-voice-technology-into-its-telehealth-platform/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 37
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Teladoc-expands-partnership-with-Microsoft.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Meta launches its AI counter to ChatGPT, Bard in Microsoft partnership"
     excerpt: "Meta CEO Mark Zuckerberg says the company is partnering with Microsoft to introduce the next generation of its AI large language model and making the technology, known as Llama 2, free for research and commercial use."
     publishedDateTime: 2023-07-19T13:24:00Z
@@ -1088,20 +907,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 36
-  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
-    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
-    publishedDateTime: 2023-07-18T07:28:00Z
-    webUrl: "https://www.thehoopsnews.com/microsoft-announced-its-first-customer-product-features-powered-by-microsoft-153199"
-    type: article
-    provider:
-      name: thehoopsnews.com
-      domain: thehoopsnews.com
-    quality: 34
-    images:
-      - url: "https://www.thehoopsnews.com/wp-content/uploads/2023/07/wp-header-logo-455.png"
-        width: 1600
-        height: 1201
-        isCached: true
   - title: "Microsoft to charge premium for generative AI features"
     excerpt: "Microsoft is to charge $30 a month for generative artificial intelligence features in its widely used productivity software, slapping a bigger premium than expected on a technolog"
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -1183,15 +988,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
-  - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
-    excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
-    publishedDateTime: 2023-07-18T13:09:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59601774-teladoc-health-inc-teladoc-health-expands-collaboration-in-ai-with-microsoft-to-address-healthcare-workforce-crisis-399.htm"
+  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
+    excerpt: "President Joe Biden is praising new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House as an important"
+    publishedDateTime: 2023-07-21T18:07:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 27
+      name: ABC
+      domain: abcnews.go.com
+    quality: 20
   - title: "Meta Launches Generative AI Model Llama 2 in Partnership with Microsoft to Compete with Google and OpenAI"
     excerpt: "Meta releases its new generative AI model Llama 2 in continuation with its advancement in Artificial Intelligence field."
     publishedDateTime: 2023-07-20T13:45:00Z

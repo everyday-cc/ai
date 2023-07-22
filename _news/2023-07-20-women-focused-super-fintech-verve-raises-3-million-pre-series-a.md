@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "India’s Think360 make top AI Fintech Companies List"
-    excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-    publishedDateTime: 2023-07-17T07:23:00Z
-    webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
-    type: article
-    provider:
-      name: Defence News
-      domain: defencenews.in
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-        width: 720
-        height: 340
-        isCached: true
   - title: "Cognaize Raises $18M in Series A to Bolster AI-driven FinTech Solutions"
     excerpt: "New York-based Cognaize, an intelligent document processing (IDP) company harnessing proprietary hybrid intelligence technology, announced the closure of an $18m Series A funding round. The funding round,"
     publishedDateTime: 2023-07-20T07:52:00Z

@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Digital health tools can revolutionise healthcare, says Brunei health minister"
-    excerpt: "Digital health tools have the potential to provide remote monitoring and data capture in healthcare, teleconsultations and information exchange and virtual care."
-    publishedDateTime: 2023-07-17T09:24:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/17/digital-health-tools-can-revolutionise-healthcare-says-brunei-health-minister"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/17/2181557.jpg"
-        width: 696
-        height: 392
-        isCached: true
 
 secured: "0kIF+yt3+oMqSjuP0LsmcNJf3vrEZUZjrrbwwKfEsYXOHDXglOaZSTIKBJGS2wZVOGp9Jg3ylYN5FFDxGvijdeDPSy43WVi3k17+DH+oul7QX5N66wRPLHLmm/LD6PP0S+9hTdUB2hAuD2aotpp/Tpj/bWcxA4a6IrnF+umn+FIukUPqUQHh8o39eXOjgnHU1vJKyhHfBGSm5OOKyMq+GVrYwnbRJJR8OpOdJAHJs/GmNd6vfoMw0dsN+edxXHZyizgAzqnLsgtVLdG66xoq99cWFRPFrmkMtkZInk5vMvwNXsL5jdlMi8h9uxJN0x61ZYUvEUpUtqUT7VRcYJ+UVg29pp4RDd4VQFX2Lzudtsg=;S8DoaQOfwmGc4Rxgfdgk8g=="
 ---

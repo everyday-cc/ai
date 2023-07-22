@@ -61,6 +61,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 29
+  - title: "AI Firms Strike Deal With White House on Safety Guidelines"
+    excerpt: "The White House on Friday announced that the Biden administration had reached a voluntary agreement with seven companies building artificial intelligence"
+    publishedDateTime: 2023-07-22T01:10:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273906948/ai-firms-strike-deal-with-white-house-on-safety-guidelines"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
   - title: "AI companies agree to voluntary safeguards, Biden announces"
     excerpt: "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI have all agreed to \"voluntary commitments for responsible innovation.\""
     publishedDateTime: 2023-07-21T18:47:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33265470"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33265470"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its"
+    publishedDateTime: 2023-07-18T13:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Teladoc expands partnership with Microsoft to integrate AI and voice technology into its telehealth platform"
+    excerpt: "In an effort to further enhance its telehealth services, Teladoc, the leading telehealth company, has announced an extended collaboration with tech giant"
+    publishedDateTime: 2023-07-18T13:37:00Z
+    webUrl: "https://www.onmsft.com/news/teladoc-expands-partnership-with-microsoft-to-integrate-ai-and-voice-technology-into-its-telehealth-platform/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Teladoc-expands-partnership-with-Microsoft.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
+    excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
+    publishedDateTime: 2023-07-18T13:09:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59601774-teladoc-health-inc-teladoc-health-expands-collaboration-in-ai-with-microsoft-to-address-healthcare-workforce-crisis-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
   - title: "Why Teladoc (TDOC) Stock Is Trading Up Today"
     excerpt: "These AI solutions include Microsoft Azure OpenAI Service, Azure Cognitive Services, and the Nuance Dragon Ambient eXperience™. So what does this mean in practical terms? The integration will automate clinical documentation during virtual medical exams ..."
     publishedDateTime: 2023-07-18T15:50:00Z

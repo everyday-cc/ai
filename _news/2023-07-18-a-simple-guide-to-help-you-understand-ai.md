@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "A simple guide to help you understand AI"
-    excerpt: "A guide to artificial intelligence, chatbots, image generators, deep learning and more. We explain how AI is trained, what different AI models can do and how you may already be using AI without knowing."
-    publishedDateTime: 2023-07-17T09:39:00Z
-    webUrl: "https://www.bbc.co.uk/news/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://c.files.bbci.co.uk/12067/production/_130313837_ai_simpleguide_promo-nc.png"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Eight Smart AI Devices that Promise to Help You Spend More Time at Work and Less Time with Loved Ones"
     excerpt: "I am particularly excited to share with readers several new smart devices (some powered by AI) that will make our lives invaluably efficient."
     publishedDateTime: 2023-07-19T08:27:00Z

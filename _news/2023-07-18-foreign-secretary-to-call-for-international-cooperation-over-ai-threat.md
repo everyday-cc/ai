@@ -115,15 +115,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Meta AI image generation model CM3leon unveiled"
-    excerpt: "Meta continues the AI revolution as it research team unveiled a new text-to-image creation tool called CM3leon. The CM3leon — pronounced as “chameleon” — is a text-to-image and image-to-text creation tool, which means that it can also easily generate captions for images."
-    publishedDateTime: 2023-07-17T07:29:00Z
-    webUrl: "https://www.noypigeeks.com/tech-news/meta-cm3leon/"
-    type: article
-    provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
-    quality: 19
   - title: "The great acceleration: CIO perspectives on generative AI"
     excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
     publishedDateTime: 2023-07-18T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-
 webUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "The future of cloud computing: How AI is transforming the landscape"
+    excerpt: "As the world embraces the transformative potential of artificial intelligence, the cloud computing landscape is evolving at a rapid pace."
+    publishedDateTime: 2023-07-20T18:55:00Z
+    webUrl: "https://siliconangle.com/2023/07/20/future-cloud-computing-ai-transforming-landscape-supercloud3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "q2VzsENd+C59/Epw1IWxtcUgHgewasTB+7O/qV6cmEGQfgz6eq5t5d8GeCiWcNIB7g/rusjfgRZsk+zWbcagDaH/sNa/YHf4dkiSi9sXd2pt6T/GafPCR/qVtwEMYbtubb5gsgxsHWXhK4mJ+hl87gmWOQBylX1BggeiVVi4hjAurxJ51qn/1JrPGvbx2ELZLttgBljujKv9RBCMsiAxBmh+5atHfdym/S17Yk5FEKdHpWpq6U3boUOJBgOp3D/gGwcmhcMqOysgFL4xU658G7UtOOtFZUXrnwF8N9PTuSAcyVrY//3LEcS4mgwmsQEwD0eiu3Q1elpq3xNpL5Mss8eIm1yhO/GOneVaC3yvDdY=;OwizthrvtjptYLp4pUQm5A=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "IBM’s Watson rebooted as a secure AI alternative"
 excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
 publishedDateTime: 2023-07-20T20:51:00Z
-originalUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
-webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
+originalUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
+webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/IBM-Watson.jpg"
-    width: 900
-    height: 568
-    isCached: true
 
 related:
   - title: "Exploring the AI and data capabilities of watsonx"
@@ -88,6 +82,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Agvdj1RkXtp04eCiW+06wwZ3+IXn66CvjEuQ3/sx+AqpBePehiuuE+dbu729y2E954VEyHQ63RPNStkfDpHqzCCvYyRC2MCH5twUxQaksg2tt3Yb0JmJvGLC3/kUs+j57I3DKgzGhCzjVwFAOSB+YOpEHZlasGi0vvSWiEs6Mhh8/QNaoo1p0/dneGRlIOZz960s40qFAviETVs0DnI+um+DZ1XlSPPovSPzPQyo6XCDIFObZURmBHsVgMOWmwIszfzyLdTzm7c/gG9G5fLkz+P14olswdrFCTjwMUfMLgAyHvnT+w5ITog8/+l7HStQXFJIh4yfm57NBjhmRu63lnFWvC4D8hCfUV8MPlM+xkA=;SSOL5Hd8Hf7S6+ydOxj3PQ=="
+secured: "WFtXPge2Zp1+MzSEAHaIS7M6R163w7F3ibIQGdv1s3jmtTbLcyw/2g8/9VQz5RIqGWOX8MLHwgFPM70hhwOfBXoK90CCbQ4KNwYDD6OVWG2ZlBOOrYANgFEn8OVZYI6fdjeTwlYDuLDai6rrdp1cZ3CsRDZ6a+TSlHH7UOPy6xrfJvGPHHg+ctPZxashWwMQ8CcsO9EmtT9ebx8NMOjG7iUaHmfzwOH6+g/TzRyMx3jC0TJjV5BH2xEGdbonEvbXjawWGEO884zJ9ORoaKHbBykmme327lg5Oa3XhtWgokh38cxU7Mg4xLg74F6719yq7LRQYNuf5+vn89P08Van0ivs/A8dax7mujOPTjmxoeJrp/e8pFBQpNf8cLX4yrAw+d4MfcixgJMrGulD9fMz8tl/nvM5zqiBlEa6y7HclisIkDIHVTDZ/0t3+uKNHoNExEzW29MY0BgUDcuZ3tnZ0W5L0dOGNrldsiEAyLzsgGwHugdF3byf4wPL0/LABZHwoK5/tXB7d4pRFQxtQkfa6g==;PaQ3+5KOyXbZ4SaN/td83w=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its"
+    publishedDateTime: 2023-07-18T13:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Microsoft Is Sending Teladoc Stock Higher Tuesday: What's Going On?"
     excerpt: "Teladoc Health Inc (NYSE: TDOC) shares are trading higher Tuesday after the company announced it's expanding its collaboration in AI with Microsoft Corp (NASDAQ: MSFT) to"
     publishedDateTime: 2023-07-18T12:41:00Z
@@ -41,6 +50,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Teladoc expands partnership with Microsoft to integrate AI and voice technology into its telehealth platform"
+    excerpt: "In an effort to further enhance its telehealth services, Teladoc, the leading telehealth company, has announced an extended collaboration with tech giant"
+    publishedDateTime: 2023-07-18T13:37:00Z
+    webUrl: "https://www.onmsft.com/news/teladoc-expands-partnership-with-microsoft-to-integrate-ai-and-voice-technology-into-its-telehealth-platform/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 37
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Teladoc-expands-partnership-with-Microsoft.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Teladoc Health, Inc.: Teladoc Health Expands Collaboration in AI with Microsoft to Address Healthcare Workforce Crisis"
+    excerpt: "Teladoc Health (NYSE: TDOC), the global leader in whole-person virtual care, today announced it is furthering its collaboration with Microsoft by working"
+    publishedDateTime: 2023-07-18T13:09:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-07/59601774-teladoc-health-inc-teladoc-health-expands-collaboration-in-ai-with-microsoft-to-address-healthcare-workforce-crisis-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
 
 secured: "43ZDn1uI3dx8QdsQvBmv/AsxHZLopMW8k5blt0SPZBdet/mCJzWVNOvFNVu6qACWHz1ZJeYqMfzwP9ILop0Coq8WIbpeyOcKcQAWsuVa6N+BkHmTHOx34BN+lTwg0R5ugPIAU8EjCfIRe37wekuPnmZ5DQLkUcDcR6HUraeefUtE6+0SAc2nGXaztz8GPtFkmgs+/6NSkjcDTrq5qAlnmP75+Jr+59UzlCffj1b7uc7Ek22zr6RJ7jAHBPM54qDFedYrWA7thtQGOSCuwfYFduBUK9YsuWQkZvuJrhcj/J7HebQkGqN1FtHroIcoMYykU6WAVAxiCNM7P8vPfyuMTL/3RkM18SjH4LGAHBR//aY=;YRe+CFITdyskK+SLN8w0OQ=="
 ---

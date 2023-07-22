@@ -37,15 +37,6 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Common Sense Media Announces New Ratings and Reviews System for AI Products"
-    excerpt: "According to a recent poll from Common Sense Media and Impact Research, there is an overwhelming desire among parents (82%) for a rating system that will help them evaluate the quality of AI programs like ChatGPT. Over three-quarters of parents surveyed ..."
-    publishedDateTime: 2023-07-17T18:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/common-sense-media-announces-new-ratings-and-reviews-system-for-ai-products-1032451907"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Elon Musk Touts ‘Quasi-Infinite Demand’ for Tesla’s Self-Driving Products"
     excerpt: "Tesla reported record revenue for the second quarter. But earnings calls are increasingly about Tesla’s non-EV projects, like A.I. and self-driving."
     publishedDateTime: 2023-07-20T16:43:00Z
