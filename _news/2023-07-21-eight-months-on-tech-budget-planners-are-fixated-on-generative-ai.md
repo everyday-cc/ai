@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
+    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
+    publishedDateTime: 2023-07-22T16:06:00Z
+    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AIs trained on AI-generated images produce glitches and blurs"
     excerpt: "Using AI-generated images to train AI quickly creates a loop where the results get worse in either quality or visual diversity"
     publishedDateTime: 2023-07-18T11:00:00Z

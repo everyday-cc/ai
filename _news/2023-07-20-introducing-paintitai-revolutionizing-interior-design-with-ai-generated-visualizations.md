@@ -50,20 +50,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "ShelfSet: revolutionizing retail and beverage distribution with innovative AI"
-    excerpt: "Despite early skepticism regarding the AI’s accuracy, ShelfSet has quickly earned recognition for its efficient object detection and continually improving models. ShelfSet’s affordable pricing model ($20 per employee per month), easy integration with ..."
-    publishedDateTime: 2023-07-17T23:12:00Z
-    webUrl: "https://www.digitaljournal.com/business/shelfset-revolutionizing-retail-and-beverage-distribution-with-innovative-ai/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/07/ShelfSet.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
     excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
     publishedDateTime: 2023-07-20T19:50:00Z

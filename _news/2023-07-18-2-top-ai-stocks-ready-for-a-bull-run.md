@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-fo
 webUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "“My top AI stock is…”"
+    excerpt: "It recently rolled out an Open AI connector, allowing businesses to tap into programmes like ChatGPT, Amazon’s machine-learning platform Sagemaker, and Clipboard AI for automated form filling and data mining. Naturally, these features nicely compliment ..."
+    publishedDateTime: 2023-07-22T05:11:00Z
+    webUrl: "https://www.fool.co.uk/2023/07/22/my-top-ai-stock-is/"
+    type: article
+    provider:
+      name: The Motley Fool UK
+      domain: fool.co.uk
+    quality: 19
 
 secured: "GXyx+bw3LUx0xUNfG0SPISJ9ShcX+URr1unLk0XInrOckIvAujvvoDROz1pPSqG74Dpc+U7hixHypblCtpzhdJjBK9bs55n/tGEweVTJw9b0moiqcAZPI2vVGDjdwBwjNz7/Ny3fPtd641Uh7lkm/0PmTn3HqVh019JtGL1GnA7XtmtipEpq004em4i5QShWkDi+tKr1/LUvfTosSDBH9MkWiNO6TD2jz8JOgVl5TNwxzTHNyMR8Jrpp+36auOcqwCuMpKOAg/Nu2aFXhg6+fYhHQA54xy2X0zq3Nlzn6gvq26JSxxT0BXEG8ZTaPrzCdbDPibhZjBQ+sz5FOux6aWctqGuAUjvk0LSH4eJTFXk=;XcsfnppciicPKmdmD9hZKQ=="
 ---

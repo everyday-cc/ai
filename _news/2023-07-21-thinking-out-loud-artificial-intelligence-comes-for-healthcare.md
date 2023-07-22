@@ -41,6 +41,22 @@ related:
         width: 940
         height: 600
         isCached: true
+  - title: "How AI is helping to translate the Bible into rare languages"
+    excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
+    publishedDateTime: 2023-07-18T13:00:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 74
+    images:
+      - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
+        width: 540
+        height: 360
+        isCached: true
   - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
     publishedDateTime: 2023-07-18T21:36:00Z
@@ -50,15 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "How AI is helping to translate the Bible into rare languages"
-    excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
-    publishedDateTime: 2023-07-18T15:09:00Z
-    webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
-    type: article
-    provider:
-      name: Angelus
-      domain: angelusnews.com
-    quality: 34
 
 secured: "/WEmih8iQ1Os0OzwpRVtBb4sOHuGxpu2mH3EcgF1kQWcIJMqRSyATrEwPP65jxc8fmCsRk/RBOnw/rItU8agSR7U98oRZwSIRQEnnwBs0SOAnp5AQr/6aQgknt7eZYSSC5EygGvQUCQp6A0lr3BghhArakkSMUA3rhay6Cp0Y65hIGaS4/RG8ykxsDFF2zi1khOZAsyErr8sqtbMVAeJGfTncKiI9XMlMyKWkIxJ5yrUURw0O+NAGGQ6CCZn7Zic1jwYvrnO5TaHoMcyG6VrJecvpGxyU7mDahtxW9OiUs7ovveyTc1Cn6RrPHRfJOFxptKjGaV07J5ysYWcfhJGdaC7cIkvWVCjHSjXdpnt1mzX2DatDo9CIjGVQwgbUcYueQG0avNOw23lInepmkEfFm/hp8jMaBMJRHweYbGhQ1GmL3xDeycMNY9BrPzYgHTNGveWmOZTi2fhq52GIJJQ5PG9308ibqfV+h3fwQIAzHyTOIsCHo7BRGxBBgfd+sppMQMDI+6TciBfr89UD8lc4g==;WGHcJV+YpwmdL1BLovpAfA=="
 ---

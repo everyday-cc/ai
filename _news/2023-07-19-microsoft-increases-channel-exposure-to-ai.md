@@ -924,15 +924,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Teladoc, Microsoft Expand AI Collaboration"
-    excerpt: "The collaborative hopes to minimize administrative burdens by automating clinical documentation during virtual and in-patient care."
-    publishedDateTime: 2023-07-18T00:00:00Z
-    webUrl: "https://www.healthleadersmedia.com/telehealth/teladoc-microsoft-expand-ai-collaboration-0"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 34
   - title: "Microsoft puts a price tag on AI for business"
     excerpt: "Microsoft announced Tuesday it will charge $30 per user per month for businesses that want to use its AI-infused copilots to automate work in Office products such as Word, PowerPoint and Excel."
     publishedDateTime: 2023-07-19T10:00:00Z

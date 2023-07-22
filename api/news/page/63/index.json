@@ -2,6 +2,92 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-06-11-recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools.md",
+      "title": "Recruit teachers, upgrade labs to start AI, robotics classes: CISCE to schools",
+      "excerpt": "Syllabus prepared for subjects, uploaded on Council website The CISCE has already prepared the syllabus for the two new subjects - artificial intelligence (AI) and robotics - that are to be introduced in class IX from this academic session and uploaded it ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/articleshow/100907491.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-100907494,width-1070,height-580,imgsize-86732,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/kolkata/recruit-teachers-upgrade-labs-to-start-ai-robotics-classes-cisce-to-schools/amp_articleshow/100907491.cms",
+      "publishedDateTime": "2023-06-11T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-11-samsungs-chip-division-to-introduce-custom-ai-services-for-employees.md",
+      "title": "Samsung's chip division to introduce custom AI Services for employees",
+      "excerpt": "Samsung Electronics reportedly plans to launch an in-house artificial intelligence-based service for internal use this year amid security concerns raised over OpenAI’s highly-advanced chatbot ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230611000126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F06%2F11%2F20230611000114_0.jpg",
+          "width": 630,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230611000126",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230611000126",
+      "publishedDateTime": "2023-06-10T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-11-new-trump-video-uses-matt-damon-monologue-from-air-and-fake-ai-photo.md",
       "title": "New Trump Video Uses Matt Damon Monologue From ‘Air’ And Fake AI Photo",
       "excerpt": "Trump’s campaign released a new video late Friday—the first since the former president was indicted on charges over his alleged mishandling of classified information.",
@@ -1105,110 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-artificial-intelligencefor-good-health.md",
-      "title": "Artificial Intelligence—For Good Health",
-      "excerpt": "Will they carry out the most complex procedures without human supervision? Robots that are equipped with artificial intelligence (AI) and can analyze vast amounts of data will be able to choose the best procedures—taking into account (among other things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&crop=5600,3149,x0,y370,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/09/artificial-intelligence-for-good-health/amp/",
-      "publishedDateTime": "2023-06-09T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-openai-ceo-calls-for-global-cooperation-to-regulate-ai.md",
-      "title": "OpenAI CEO calls for global cooperation to regulate AI",
-      "excerpt": "Sam Altman, the CEO of ChatGPT maker OpenAI, used a high-profile trip to South Korea on Friday to call for coordinated international regulation of generative artificial intelligence, the technology that underpins his famous chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230609034602-01-sam-altman-chatgpt-060923-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/09/tech/korea-altman-chatgpt-ai-regulation-intl-hnk/index.html",
-      "publishedDateTime": "2023-06-09T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

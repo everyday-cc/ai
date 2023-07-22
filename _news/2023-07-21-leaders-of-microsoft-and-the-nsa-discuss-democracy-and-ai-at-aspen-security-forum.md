@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188942406001"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188942406001"
 type: article
 quality: 116
-heat: 876
+heat: 866
 published: true
 
 provider:
@@ -916,15 +916,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 34
-  - title: "Teladoc, Microsoft Expand AI Collaboration"
-    excerpt: "The collaborative hopes to minimize administrative burdens by automating clinical documentation during virtual and in-patient care."
-    publishedDateTime: 2023-07-18T00:00:00Z
-    webUrl: "https://www.healthleadersmedia.com/telehealth/teladoc-microsoft-expand-ai-collaboration-0"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
     quality: 34
   - title: "Microsoft increases channel exposure to AI"
     excerpt: "Vendor rolls out fresh specialisation encouraging the channel to embrace the benefits artificial intelligence can deliver."

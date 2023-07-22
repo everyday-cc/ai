@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "“My top AI stock is…”"
+    excerpt: "It recently rolled out an Open AI connector, allowing businesses to tap into programmes like ChatGPT, Amazon’s machine-learning platform Sagemaker, and Clipboard AI for automated form filling and data mining. Naturally, these features nicely compliment ..."
+    publishedDateTime: 2023-07-22T05:11:00Z
+    webUrl: "https://www.fool.co.uk/2023/07/22/my-top-ai-stock-is/"
+    type: article
+    provider:
+      name: The Motley Fool UK
+      domain: fool.co.uk
+    quality: 19
 
 secured: "fIV6lPpdozwGpIioHeuoSALeaVXxWmcyyyCXUk8x4SdLqskxbh7HxvdZ3j0HDvLpf2YdV5rVo2E5RLp7f575Ml3T6xfPkncthKOA7u3/coAjO56SHD1I8XnBp75kE2LovDAamdOkh4h2EpSjcFWv4VSEbzjsMb5NabJSMoVOKaeW4RVOaM4b5WC0Xk9l9UkjVKpRxK8cAEro+RwagvAbHYIsfB8BjxBHo2DBJz9ZueQoQHJfTFf5hAaMkN8Jo7J90yQyTDzh7KDjL7sr20WcwZbcl8MuNh8XDmPaeTJ15WoovEBH4LomnUrM84z9BSyIFnGdSXBmUko+/vlW6z6AXz8yzPtbwTvkwnqIWFVc1pZPEFMf4d5gCOGfPtPhd1KgiAu+EKT6Kc5eB7eZRrfHlbF6y/LcRQiTDqAvhgHy+L39VZy1bE8tJw8nGeF2N4TR0HDk906512Hv5Zx7moRttkgfVnJlpNhsrXiznd9eQNg5GNT34FMIcDzNuA8hO7wj9iULMui8+oJkHqeywVfdVg==;PdAdD2c9YHVwKKBt2kMX6Q=="
 ---

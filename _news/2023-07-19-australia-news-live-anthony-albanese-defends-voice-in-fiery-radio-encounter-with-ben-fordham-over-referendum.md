@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Anthony Albanese concedes voice yes campaign needs to be ‘stronger’ as poll shows slump in support"
-    excerpt: "Albanese said he would not be attempting to guarantee the referendum’s success by altering the referendum question to only include constitutional recognition and then afterwards seek to legislate the voice through the parliament. “We are having a vote."
-    publishedDateTime: 2023-07-17T23:38:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament?ref=confidentialdaily.com"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jul/17/anthony-albanese-yes-vote-polls-slump-indigenous-voice-to-parliament"
+  - title: "Albanese says it’s ‘dumb’ to expect change without Indigenous voice in talkback radio clash"
+    excerpt: "PM tells 2GB radio’s Ben Fordham that media have a responsibility not to ‘raise red herrings’ after being repeatedly questioned over impacts of voice proposal"
+    publishedDateTime: 2023-07-19T01:06:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/jul/19/indigenous-voice-to-parliament-referendum-albanese-2gb"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/jul/19/indigenous-voice-to-parliament-referendum-albanese-2gb"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/jul/19/indigenous-voice-to-parliament-referendum-albanese-2gb"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 45
+    quality: 34
     images:
-      - url: "https://i.guim.co.uk/img/media/782cce16c75e78d949dbdfab35bf64cc16b4bb9c/0_0_7234_4341/master/7234.jpg?width=620&quality=85&auto=format&fit=max&s=07ad1eb88c97963385c1dd7b3fa49d7d"
+      - url: "https://i.guim.co.uk/img/media/d8ecb98fa51df7a9476e573c20bf5614468b29cc/0_249_7482_4489/master/7482.jpg?width=620&quality=85&auto=format&fit=max&s=b966c4ca96994b1cbdcafd7e6dcdf0d1"
         width: 620
         height: 372
         isCached: true
-  - title: "Anthony Albanese slams 'nonsense' No campaign's claims every detail must be known before Indigenous Voice to Parliament referendum"
-    excerpt: "The Yes pamphlet does not explain how people will be chosen to be members of the Voice or how it will operate in practice. 1. This idea came directly from Aboriginal and Torres Strait Islander people. 2. Constitutional recognition for concrete results."
-    publishedDateTime: 2023-07-18T03:43:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12308959/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
+  - title: "Albanese famously loves fighting Tories but with the Indigenous voice it’s as if he’s wrestling smoke"
+    excerpt: "The yes campaign is not going well. But how poor would the polls need to be before the PM considers calling the whole thing off?"
+    publishedDateTime: 2023-07-21T14:17:00Z
+    webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/jul/22/albanese-famously-loves-fighting-tories-but-with-the-indigenous-voice-its-as-if-hes-wrestling-smoke"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
+      name: The Guardian
+      domain: theguardian.com
     quality: 29
     images:
-      - url: "https://i.dailymail.co.uk/1s/2023/07/18/04/73324071-0-image-a-2_1689651666458.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Ben Fordham doubles down on blistering assessment of Anthony Albanese's leadership on the Voice to Parliament"
-    excerpt: "He said the government could drop the Voice as part of the referendum, legislate the advisory body and instead propose constitutional change via recognition of First Nations people. “Take the win-win, at the moment he’s got a lose-lose,” Fordham told ..."
-    publishedDateTime: 2023-07-19T09:33:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 25
-    images:
-      - url: "https://content.api.news/v3/images/bin/7e389e4362267d89db6430f8cd9e56a1"
-        width: 1280
-        height: 720
+      - url: "https://i.guim.co.uk/img/media/22012a0c352faea22b894352858a9d94cc98b17b/1199_247_3637_2182/master/3637.jpg?width=620&quality=85&auto=format&fit=max&s=4569f89f645579e7db66373be931d201"
+        width: 620
+        height: 372
         isCached: true
   - title: "Albanese says Voice is not risking Indigenous recognition"
     excerpt: "The PM defends the ailing campaign for the Indigenous Voice to parliament, saying he’s acting on the request of First Nations people; Donald Trump expects to face criminal charges in a federal investigation."
@@ -92,54 +76,6 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_38/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/3ac8b5871d48cabe3f5743d1ebaeb9d4b94785b4"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Anthony Albanese's fiery Ben Fordham interview: PM fires up as he's grilled about Voice Yes campaigner Thomas Mayo's 'pay the rent' comments"
-    excerpt: "Everyone says stop talking about the Voice. As important as Indigenous recognition is, we need to do something about this (cost of living) now. 'It's really tough for people at the moment.' The Prime Minister acknowledged that support for the Voice is ..."
-    publishedDateTime: 2023-07-18T23:53:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12313123/Anthony-Albaneses-fiery-Ben-Fordham-interview-PM-fires-hes-grilled-Voice-Yes-campaigner-Thomas-Mayos-pay-rent-comments.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12313123/amp/Anthony-Albaneses-fiery-Ben-Fordham-interview-PM-fires-hes-grilled-Voice-Yes-campaigner-Thomas-Mayos-pay-rent-comments.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12313123/amp/Anthony-Albaneses-fiery-Ben-Fordham-interview-PM-fires-hes-grilled-Voice-Yes-campaigner-Thomas-Mayos-pay-rent-comments.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 24
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/07/19/01/73363217-0-image-a-4_1689724813500.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Anthony Albanese urged to ‘drop’ Voice from referendum on constitutional recognition, legislate regional Voices to show they work"
-    excerpt: "Prime Minister Anthony Albanese has been urged to drop the Voice to Parliament from the upcoming referendum, paving the way for constitutional recognition to be achieved while legislated regional Voices can demonstrate they work."
-    publishedDateTime: 2023-07-18T08:18:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-urged-to-drop-voice-from-referendum-on-constitutional-recognition-legislate-regional-voices-to-show-they-work/news-story/03c4312923c042db3ba996b050741377?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 15
-    images:
-      - url: "https://content.api.news/v3/images/bin/06b9884c510393391283604b26cd558b"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Anthony Albanese could be on the brink of 'self-inflicted damage' with the Voice to Parliament, says former Labor Minister Graham Richardson"
-    excerpt: "The Voice to Parliament is \"in huge strife\" with Anthony Albanese at risk of \"self-inflicted\" damage to his reputation if the referendum were to go under, says former Labor powerbroker Graham Richardson."
-    publishedDateTime: 2023-07-20T09:53:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/anthony-albanese-could-be-on-the-brink-of-selfinflicted-damage-with-the-voice-to-parliament-says-former-labor-minister-graham-richardson/news-story/9f9fc1a2447cf4d907329604df107ecd?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 9
-    images:
-      - url: "https://content.api.news/v3/images/bin/b2dbc4601d2a99a0f62719ea3fd00671"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "arrypkxP4PCv3KjIGuMP4XPskPMUHQCfcMHLow8N+qNNllGcJCeSEv6om8exHriTC6oTLN0CWMe5KHqAh1xgTNlKw0iNvjQEEfFM+6XLCi1N9QIHD+a8nE8asuSB7EXpVlBgQR1qRDKW51++GGVABhBjvxIEfOEwxP4FSLZHshX35W2+9FLTSwEB1P3wGVMsjWlzMCr065E1UAta6hWxmps+dZhTcszMmU5fPDsDImLxyJ3bb2Jqr1Ootg1Nb3QRX8PP4qKXJb6YS5agPVO9LLipdIPBcXi61VSe5+E9jJpc94GDFsgQyHNyMNUa7ARzNKH0T9EOoTefSVTC+4Wewc+IGGnB4qm+bBh7Y7dIVXk=;EwAyvQitnn1B7/BZKDvlJQ=="

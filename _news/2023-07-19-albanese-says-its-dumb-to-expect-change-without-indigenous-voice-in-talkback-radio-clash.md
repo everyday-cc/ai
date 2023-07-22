@@ -47,6 +47,36 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australia news live: Anthony Albanese defends voice in fiery radio encounter with Ben Fordham over referendum"
+    excerpt: "Photograph: Dan Himbrechts/AAP The prime minister, Anthony Albanese, has just spoken to Ben Fordham on 2GB Radio about the Indigenous voice referendum. Fordham repeatedly asked about why the government is not proposing constitutional recognition and ..."
+    publishedDateTime: 2023-07-19T01:45:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament?page=with:block-64b7378e8f0835a0b4953305"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/jul/19/australia-news-live-jim-chalmers-summit-china-trade-sanctions-commonwealth-games-australia-uk-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 25
+    images:
+      - url: "https://i.guim.co.uk/img/media/e7499216ce728fe67438d3c8c617e663bc056a28/0_70_4656_2794/master/4656.jpg?width=620&quality=85&auto=format&fit=max&s=ec5280a765056b22e6e9f49566255927"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Albanese says Voice is not risking Indigenous recognition"
+    excerpt: "The PM defends the ailing campaign for the Indigenous Voice to parliament, saying he’s acting on the request of First Nations people; Donald Trump expects to face criminal charges in a federal investigation."
+    publishedDateTime: 2023-07-19T00:41:00Z
+    webUrl: "https://www.afr.com/politics/federal/chalmers-meets-chinese-counterpart-amid-economic-fears-20230719-p5dpdj?post=p551bo"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_38/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/3ac8b5871d48cabe3f5743d1ebaeb9d4b94785b4"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "GYlt4G7o6t1BMOLcqr1X657BSXKcvDt/ZWin2Hg2wanj5iAFxrJiniLBXAQ2+a0UV6d7hWkv4UfCJZCiI4av/1CXC51/4SDpbC8B3gqkpk+K/XxpTo8J19SSi4MirOMRYoNVzl2IWWupKBHfwzLJ4gDAwM2JYnyIysqfvKwx/Wu5kX25y/ZAYjKWKmF7RZLzydvxBwMyJSmV/k+d5WU1YgVA1CgwSJsHJQw1DvL8IJtgOzm754uF3g+f7kE6cFzodthK0YeiUqpKMjnk9Mx1xv0ckFPjYZ9ezs5HI50nAvAOwZjX+UDA61x0iJ6eI6x0tLYlCAtRY5MgXPJDUotfUi9GurTNJFABRUdos0nhR8s=;ZwnRFzprwzrXK1bJgjU8zA=="
 ---

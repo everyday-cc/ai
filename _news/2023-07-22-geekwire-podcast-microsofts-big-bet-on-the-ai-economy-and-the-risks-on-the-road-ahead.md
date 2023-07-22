@@ -920,15 +920,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Teladoc, Microsoft Expand AI Collaboration"
-    excerpt: "The collaborative hopes to minimize administrative burdens by automating clinical documentation during virtual and in-patient care."
-    publishedDateTime: 2023-07-18T00:00:00Z
-    webUrl: "https://www.healthleadersmedia.com/telehealth/teladoc-microsoft-expand-ai-collaboration-0"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 34
   - title: "Microsoft increases channel exposure to AI"
     excerpt: "Vendor rolls out fresh specialisation encouraging the channel to embrace the benefits artificial intelligence can deliver."
     publishedDateTime: 2023-07-19T09:45:00Z
@@ -1002,6 +993,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "qOtr+nyxv21OTGruTR7XrSofuuQZ3xiEWdi1jp+smI3n0YRdMRYxfLPvS0DXEa9NBvJwaLebC1qlApkNvPf5og58DNk+S4SrTApqtWooz2A3Ax4/5o56THA3mnyKctK7GPjUpMfoGYZ/U96FFW8dn6wAKk4tdBhcWsIHPa8tKZ70E5ySR0C+Q2ZJdB7S/c18ZZgEBLUYJu0VxdM+UV1wF4lK+SG4UMj6mnkbcxEqY7j0RjDn9RlIflEm3aDG+QhSD8nx0WgkUCGO/1+6as4Es8LSPqos8q+BHdGI85iwQYV9hqHjGi863jVW4HI7C0wCjei7QE586NaXvSUwuj1CB14+k/dlGkvHpzpFGnfKjI4=;wh4sDcmucNjjTVKmkUK6Ng=="
+secured: "7fWEAEIx5lKN/Lv7Zvs9y0PUA+LzcRHK8FLxwbNuSnqI0HuyP8qI7UUrTkWLPckjNAttX/ssTxI3puNyBeBwY9tzTbjmIdlDlb6G1+aizjvnXpvlGKMNGK0W6OEptEfgTsGM6PAzUkX4nfTzmnHAEhf0nPwTsIyHijs3FJ1icg1V5EkMRPneTemgwSZm9GkDqmLlr1TgUhYO+6nUVwhUN0rFxBMRs4dJBh6kEXxbD1qHYkyQabobTkJl//fh+N1nsHFXRWppdTozhVY7qafp4x4j9bSjtmXLUPNDfdglidXLOrlFcvi9KBXER192KIpweCaSIQ/EqVCBeqdub+WjOKnr82RZ9O1XoO9eSTjf/jPnv/GfCj7S/oX33T5qaFx8dMw78g9QeSs2yaR+VgEOgeu6S5Mv3ViWHSsMlgk+qrfUSXUFJYlegwbIPcoyto5w2zKBrJ4pgZ21U10u0VjN0J8BeO2HMi5n1QtB0DySrBGhGtzGgdyfGQClQ9eGhrLlEZTq1uwUGGcUq5Nz35uY9Q==;GFFWLyAhR99zzSYVixhsWg=="
 ---
 

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Are self-driving cars a national security risk?"
-excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-publishedDateTime: 2023-07-20T17:00:00Z
-originalUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
-webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+publishedDateTime: 2023-07-21T08:19:00Z
+originalUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
+webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Autos
@@ -20,12 +20,21 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize"
+  - url: "https://kvia.b-cdn.net/2023/07/self-driving-car.png"
     width: 1080
-    height: 567
+    height: 700
     isCached: true
 
 related:
+  - title: "Self-driving company Aurora Innovation closes $820M capital raise"
+    excerpt: "Autonomous vehicle developer Aurora Innovation completed a two-part $820 million funding round Friday, giving it badly needed capital and breathing room to continue its quest to get self-driving trucks on the road."
+    publishedDateTime: 2023-07-21T20:32:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-company-aurora-innovation-closes-820m-capital-raise"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
   - title: "Feds launch AV office to set new safety standards, deploy more self-driving cars"
     excerpt: "Many new vehicles come with automation technology up to Level 2 according to SAE International’s guidelines, such as General Motors Co.’s SuperCruise, Ford’s BlueCruise and Tesla’s Autopilot, which require drivers to keep their eyes on the road."
     publishedDateTime: 2023-07-22T03:01:00Z
@@ -36,6 +45,6 @@ related:
       domain: detroitnews.com
     quality: 0
 
-secured: "VfNJXSe7zeIBVlvOYW6Wb5bTmD+ZBS0QzIUIzLA9Df28Z0RXtJHPzhy1ALC8wcyzxuJFNQAGHJxy8OoIBOwPmuGpUNfUfHh949iocbGX89pTdtaw/QWrP54rootMq94SUk96OzoBm+QCjhLu25Eh0C3LTtzyiJ0zWPbv4lLKc4NHq4rUSxzPAKlUR1h1W27v0NWGswg9HQbE2J8nD3tzUFro3s4aP2KgwLNcg2VZZheIUXMlMISQgBpPpCenkuUZn/QLPUhCC0u/Pnr71fpaqy8zvVDgEsCRctCKV6EygySfge9oUwtdIujSHiVpXuTvF9f59XEiOigM+zGaCRTzhC9kodIfaEEGQ7UZln919n8=;ivd8llAnlJNI6SiKmfYjng=="
+secured: "RFdRuS6JPMTMRnZHzclxntAtpX8V4OPJufUuxyLnflShvFkEqFT4SqZXNLd2SMFXWaecQBooPaaEJ0fFyN0vgZWlz0btY2jU5Sxy2+SGCqMjzDIc/Z6tR842calb4F/wAeslkuuNI+UMxAQjzQXxhQkWThlWygD4GxhZ0l4eU75x6gHvgW/HlP2g0lojpraDIevrs/61w/Y4aw2++tp5T8Qy6y/L2E1hj9n+Q0jmvJGeg28VQ8RvGgp7D8YsGsIu2dKHKlvPYi36Crc7x6wAURC1iK2Xud6LORR74wtjhXwsuL3+VhxV9QJDOCMhq03/y+/Wt2k5Ty4XY2fUi/QRshiGsGymxjOZe1jmGt/aCkc=;Uwfwy6x5B1zgNhgEVS3kNQ=="
 ---
 

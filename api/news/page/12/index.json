@@ -2,6 +2,60 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-13-top-6-ai-trends-2023.md",
+      "title": "Top 6 AI Trends 2023",
+      "excerpt": "AI trends include the growth of generative AI, the democratization of AI and greater focus on ethics and compliance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/05/top-generative-ai-apps-tools.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-health-care-down-on-inflation-bias-health-care-roundup.md",
       "title": "Health Care Down on Inflation Bias -- Health Care Roundup",
       "excerpt": "Health-care companies ticked down as traders rotated into sectors with more to gain from a moderation in inflation. Health-care providers and drug makers",
@@ -1169,40 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-tempus-announces-the-gemini-non-small-cell-lung-cancer-study.md",
-      "title": "Tempus Announces the GEMINI Non-Small Cell Lung Cancer Study",
-      "excerpt": "Tempus, a leader in artificial intelligence and precision medicine, announces its GEMINI Non-small Cell Lung Cancer (NSCLC) study (NCT05236114). The Tempus-sponsored study, being run in collaboration with AstraZeneca,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tempus-announces-gemini-non-small-cell-lung-cancer-/2023/07/12/9847167.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

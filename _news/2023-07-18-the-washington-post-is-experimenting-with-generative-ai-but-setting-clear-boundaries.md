@@ -101,20 +101,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "New geometric deep learning model for detecting stroke lesions"
-    excerpt: "Currently, there are several machine learning models for identifying stroke lesions in computed tomography-perfusion (CT-P) images. But they do not perform well enough for clinical applications. Addressing this issue,"
-    publishedDateTime: 2023-07-18T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/995986"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a09cd483-f059-4c4e-969c-c9079e29ab9a/Rendition/low-res/Content/Public"
-        width: 700
-        height: 342
-        isCached: true
   - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
     excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
     publishedDateTime: 2023-07-18T12:08:00Z

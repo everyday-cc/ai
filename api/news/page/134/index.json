@@ -2,6 +2,109 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2023-04-28-the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies.md",
+      "title": "The AI Frontier: Exploring The Integration Of Artificial Intelligence In SEO Strategies",
+      "excerpt": "The digital marketing landscape is evolving rapidly, and the integration of artificial intelligence (AI) in SEO strategies is one of the driving forces behind this change. To get an insider’s perspective on how AI is transforming the SEO industry and how businesses can leverage this technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies-2023-04-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-ai-frontier-exploring-the-integration-of-artificial-intelligence-in-seo-strategies-2023-04-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-28T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-28-microsofts-ai-will-now-help-you-design-your-instagram-posts-in-seconds.md",
+      "title": "Microsoft's AI will now help you design your Instagram posts in seconds",
+      "excerpt": "Microsoft Designer is now available to try out in preview for free. It uses AI-based text-to-image generation to create social media posts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/",
+      "originalUrl": "https://www.androidauthority.com/microsoft-designer-social-media-posts-ai-3318234/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/04/Microsoft-Designer-AI.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-28-seven-in-ten-business-leaders-want-robots-to-make-their-decisions-for-them.md",
       "title": "Seven In Ten Business Leaders Want Robots To Make Their Decisions For Them",
       "excerpt": "It’s easier to make decisions when the economy is growing, as bad choices can get subsidized by the more well-targeted choices. But in a tighter economy, bad decisions are more exposed, and costly. But in this era of data analytics,",
@@ -1056,101 +1159,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023.md",
-      "title": "AI Trends In Education And The Workforce That You Should Know About In 2023",
-      "excerpt": "The field of Artificial Intelligence is evolving so quickly that nearly every industry is being impacted seemingly overnight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sergeirevzin/2023/04/27/ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/sergeirevzin/2023/04/27/ai-trends-in-education-and-the-workforce-that-you-should-know-about-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-how-generative-ai-is-transforming-enterprise-search-solutions.md",
-      "title": "How generative AI is transforming enterprise search solutions",
-      "excerpt": "Generative AI can unlock the full potential of data in the enterprise for the employees who rely on it, lowering barrier to knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/",
-      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_569404196-copy.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-is-transforming-enterprise-search-solutions/amp/",
-      "publishedDateTime": "2023-04-27T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

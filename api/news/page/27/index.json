@@ -2,6 +2,101 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-07-02-chatgpt-and-generative-ai-what-to-do-with-all-the-productivity.md",
+      "title": "ChatGPT And Generative AI: What To Do With All The Productivity?",
+      "excerpt": "A recent study by the National Bureau of Economic Research found that generative AI like ChatGPT can increase workforce productivity by an average of 14%. Some companies are already reporting productivity increases of up to 400% as a result of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a05566e61b29653f71c2bc/0x0.jpg?format=jpg&width=1200",
+          "width": 1030,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/07/02/chatgpt-and-generative-ai-what-to-do-with-all-the-productivity/amp/",
+      "publishedDateTime": "2023-07-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-02-ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation.md",
+      "title": "AI and machine learning revolutionizing the lending landscape: Trends and innovation",
+      "excerpt": "Financial institutions globally have been constantly evolving their businesses due to the competitive environment and constant changes in regulatory situations. This is further becoming complex and competitive as the customers’ expectations are also changing",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/12/Pratyush-Chandramadhur-Chief-Business-Officer-AuthBridge-Research-Services-scaled.jpg",
+          "width": 1706,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-machine-learning-revolutionizing-the-lending-landscape-trends-and-innovation/",
+      "publishedDateTime": "2023-07-02T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-02-investors-spurn-dividend-paying-stocks-as-ai-booms.md",
       "title": "Investors Spurn Dividend-Paying Stocks as AI Booms",
       "excerpt": "The shares have suffered their worst first-half performance relative to nonpayers since 2009.",
@@ -1075,109 +1170,6 @@
         "IBM AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-is-the-amd-gpu-better-than-we-thought-for-ai.md",
-      "title": "Is The AMD GPU Better Than We Thought For AI?",
-      "excerpt": "MosaicML, just acquired by DataBricks for $1.3B, published some interesting benchmarks for training LLMs on the AMD MI250 GPU, and said it is ~80% as fast as an",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649f469756d6e4a9b009d955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/06/30/is-the-amd-gpu-better-than-we-thought-for-ai/amp/",
-      "publishedDateTime": "2023-06-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-ftc-concerned-about-generative-ai-monopolies.md",
-      "title": "FTC Concerned About Generative AI Monopolies",
-      "excerpt": "In a blog post today, the Federal Trade Commission’s Office of Technology expressed concerns over potential anti-competitive issues in the generative AI space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/06/30/ftc-concerned-about-generative-ai-monopolies/amp/",
-      "publishedDateTime": "2023-06-30T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

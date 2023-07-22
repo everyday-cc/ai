@@ -2,6 +2,101 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-05-16-sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work.md",
+      "title": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work",
+      "excerpt": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work May 16, 2023 (PRNewswire via COMTEX) -- PR Newswire VANCOUVER, BC, May",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu.md",
+      "title": "Save More Than $100 On The ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU",
+      "excerpt": "Picking up a new GPU just got cheaper, with the ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU now selling for just $469.99.",
+      "sourceUrl": null,
+      "webUrl": "https://www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/",
+      "originalUrl": "https://www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.redmondpie.com/wp-content/uploads/2023/05/asus-dual-3070-1.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/amp/",
+      "cdnAmpWebUrl": "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/amp/",
+      "publishedDateTime": "2023-05-16T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Pie",
+        "domain": "redmondpie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-hippocratic-ai-raises-50-mln-seed-funding-to-build-models-for-healthcare.md",
       "title": "Hippocratic AI raises $50 mln seed funding to build models for healthcare",
       "excerpt": "Hippocratic AI, a startup building artificial intelligence models for the healthcare industry, has raised $50 million in a larger-than-usual seed funding round, signaling strong investor interest in betting on AI models for specific industries.",
@@ -1118,91 +1213,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-ai-biotechnology-show-its-time-to-think-past-bicycles-for-the-mind.md",
-      "title": "AI & Biotechnology Show It’s Time To Think Past Bicycles For The Mind",
-      "excerpt": "As we enter a new era of artificial intelligence and biotechnology, Jobs's framing of computer technology takes on new significance, but also shows its limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/",
-      "originalUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6462d37eadb409b3cadd3ff9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/",
-      "publishedDateTime": "2023-05-15T17:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
-      "title": "TSA is testing facial recognition at more airports, raising privacy concerns",
-      "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/",
-      "originalUrl": "https://www.cbsnews.com/detroit/news/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

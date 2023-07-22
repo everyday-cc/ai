@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-07-10-ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea.md",
+      "title": "AI: why installing ‘robot judges’ in courtrooms is a really bad idea",
+      "excerpt": "This year, it emerged that a New York lawyer had used ChatGPT to write submissions to a court, only to discover that it cited cases that do not exist. This indicates that these types of tools are not capable of replacing lawyers yet, and in fact, may never be.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
+      "originalUrl": "https://theconversation.com/ai-why-installing-robot-judges-in-courtrooms-is-a-really-bad-idea-208718",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/536086/original/file-20230706-29-7etinn.jpg?ixlib=rb-1.1.0&rect=9%2C85%2C2994%2C1494&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-teslas-self-driving-tech-is-probably-worthless-in-the-resale-market-short-seller-jim-chanos-says.md",
       "title": "Tesla's self-driving tech is probably worthless in the resale market, short-seller Jim Chanos says",
       "excerpt": "\"The current value of the $TSLA \"Full Self Driving\" package is probably close to zero in the retail market. #RealityCheck,\" the veteran short-seller tweeted.",
@@ -1099,57 +1142,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-what-is-web3-and-how-does-blockchain-enable-it.md",
-      "title": "What is Web3 and how does blockchain enable it?",
-      "excerpt": "Web3is a vision and technology effort&#8212;coupled with economic incentives&#8212;to rebalance economic power in the web across service providers, application developers and consumers. This effort envisages a decentralized, more balanced world. Trust and power are distributed across service providers",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-web3-and-how-does-blockchain-enable-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-5.12.28-AM.png",
-          "width": 2126,
-          "height": 922,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-07-16-3-leaders-share-how-theyre-approaching-the-ai-revolution.md",
+      "title": "3 Leaders Share How They’re Approaching The AI Revolution",
+      "excerpt": "The artificial intelligence revolution is both exciting and intimidating. Luckily, leaders don’t have to navigate it on their own. Instead of reinventing the wheel, follow these three leaders’ advice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b16d0178738ffba2248079/0x0.jpg?format=jpg&crop=5266,2960,x0,y272,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/07/16/3-leaders-share-how-theyre-approaching-the-ai-revolution/amp/",
+      "publishedDateTime": "2023-07-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-16-elon-musks-tesla-robots-could-be-groundbreaking-for-ai-and-automation-but-still-have-a-long-way-to-go.md",
       "title": "Elon Musk's Tesla robots could be groundbreaking for AI and automation, but still have a long way to go",
       "excerpt": "Elon Musk's Tesla robots, or \"Tesla Bot,\" are bipedal robot devices that use the same AI as Tesla's cars.",
@@ -1112,58 +1163,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic.md",
-      "title": "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic",
-      "excerpt": "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
-      "publishedDateTime": "2023-07-14T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
