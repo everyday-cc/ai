@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/metaverse/futureverse-raises-54m-to-marry-
 webUrl: "https://venturebeat.com/metaverse/futureverse-raises-54m-to-marry-ai-and-the-metaverse/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "Metaverse Startup Futureverse Raises $54M Series A From 10T Holdings, Ripple Labs: Bloomberg"
-    excerpt: "Futureverse, a startup formed out of 11 different firms, has raised $54 million in Series A round led by 10T Holdings and including contribution"
-    publishedDateTime: 2023-07-18T12:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/metaverse-startup-futureverse-raises-54m-series-a-from-10t-holdings-ripple-labs-bloomberg-1032454813"
+  - title: "Generative AI, flexible batteries, metaverse among top emerging tech for 2023: WEF"
+    excerpt: "New technologies have the power to disrupt industries, grow economies, improve lives and safeguard the planet – if designed, scaled and deployed responsibly,” said Jeremy Jurgens, Managing Director, World Economic Forum,"
+    publishedDateTime: 2023-07-22T05:02:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 53
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102030469,imgsize-90706,width-1200,height=765,overlay-ettelecom/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "FUTUREVERSE RAISES $54 MILLION SERIES A TO SCALE METAVERSE INFRASTRUCTURE AND INTRODUCE AI TO THE METAVERSE"
     excerpt: "Futureverse, a leading AI and metaverse technology and content company, today announced the close of its $54 million Series A funding round. The round was led by 10T Holdings, LLC (\"10T\") and included participation from Ripple."
     publishedDateTime: 2023-07-18T13:23:00Z

@@ -31,6 +31,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "How judges, not politicians, could dictate America’s AI rules"
+    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
+    publishedDateTime: 2023-07-17T16:06:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 21
 
 secured: "vCIVZObxJ78fE/6j+S/JR+AyjQ7TtX6yTV6JxZ+MgjBPb6X+MvGGEZelfyXFR3XdbhaZRwcfPqOskr8u0lTJ1PzhcFF8HkKoSDtyKozFOh8w0Va6UmEJBx2rxj2M8r8v+LN8KDKi/jfp9gexQJUez45SC2+VAI7YamYODYTTZctE9cbZeK3oXSVX6kboBnSGpt8V3d477QkRHEhMSnXNhca18dg7HpiH5hNjovs/1W/QZ3Q4mmg0OuGN6IouTw1Tb3yoyFE7rsyjL5Ze7xKd/EA4amzCm+vBEoZzy8Iu3/5+jsfVzPTT9kydXnVKyPzrkCAk/WyGi6P+gTFP1Ek0JfdhUIm3yrmzgUD/irj1egt2OBBzTU5Uj7s8PfynYun8+GZsXEXBfUgZGuT3nnUjqEDvzPVHmeb0KV6F661pzsUXE+Qz0T3mcTnv10bkD0+I/7UveRIuydB7XWKoHjylOV2KbhPDpm0AIAhCe1Y8mtqobTqU3fyqTmP+WVnZzJwa3Mxkbo6+ulaIh7STPURWNg==;1xJaN6+gzPrEMNg6/bThSw=="
 ---

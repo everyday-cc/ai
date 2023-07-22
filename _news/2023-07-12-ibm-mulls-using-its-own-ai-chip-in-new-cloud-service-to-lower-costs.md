@@ -1,15 +1,19 @@
 ---
 category: news
 title: "IBM mulls using its own AI chip in new cloud service to lower costs"
-excerpt: "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction."
-publishedDateTime: 2023-07-12T06:33:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996"
-webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs/101684996"
+excerpt: "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service."
+publishedDateTime: 2023-07-11T22:44:00Z
+originalUrl: "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/"
+webUrl: "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/"
 type: article
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
@@ -17,11 +21,11 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-101684996,imgsize-34314,width-1200,height=765,overlay-etcio/corporate-news/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.jpg"
+  - url: "https://www.reuters.com/resizer/-b_02wsAE19DcOzsCg_tQf9XaaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q645SUBL2JML7C4QKZOJLY7N2Q.jpg"
     width: 1200
-    height: 765
+    height: 628
     isCached: true
 
-secured: "KHmfpON84AlIjiUfUrWEy6kh+GOX4FqQ9Scys0YJv5eItzmwA9pVysox11/TAi46y5q9gFd+0DQUErC3MO4rIrKXXx1GLAlgGfvQ6y6PlL0fht1X7pjkUXFZ7FmAM2H4e5TRckDM+OEVjpQGGF/IM/qvyCXrqRG7gyyi2CEQgmsUtRhJGBA9LvLhGAGFu/o9Ttpd0ziGB+HnDhp+y6XanH0OUz/OuNKXk+vYQyCSmgYlvJyJApHW2Dg+z/gM9chrMZcIpbPy5tAp6R6F7teZp2cR0h22MNojPVGrGHk7Jtm5/TkzpjMali/CD4FDI/2vTzU31X0Q+EJ9AleyfibJsWuejDho1sUOdem4xEdSg70=;qymigrouz0PN9WKdovYFyQ=="
+secured: "pwcbHc99aeHeFatIk18UiHs8ZwrNGpcXtNldkfPTOjnzgeFLBCdlBhoarrn/5+wHqfNltpjqABwkY4fAWkbER1diiOdUS4HC4xgEKC3GomR/zLpuLbB9zvOQL4xSn+vviDst4z6JiZOPQoX6o4PawJxz1641ja2HpLyQqN/0eil+H0xlH3yAzG+asxcUMXGhqSFpqj/1vNC5M2ibvBQSd6OIkLHy/8E653C17DJc1SFSlNxTPClLPGkLJdgUCw7GmjB3y8V+TvMRVtEbF3tzw7/FZMBLRqDXvXku0sIQz722dRrAfzzk3nqiux+ZqnMiNBN8K7LwuVtWrE6PhUgwsXpwI+d3lXFeLFOlOfhqPp0=;Jny7jX57dkWCTzYw96a98A=="
 ---
 

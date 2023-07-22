@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-22-generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.md",
+      "title": "Generative AI, flexible batteries, metaverse among top emerging tech for 2023: WEF",
+      "excerpt": "New technologies have the power to disrupt industries, grow economies, improve lives and safeguard the planet – if designed, scaled and deployed responsibly,” said Jeremy Jurgens, Managing Director, World Economic Forum,",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-102030469,imgsize-90706,width-1200,height=765,overlay-ettelecom/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "publishedDateTime": "2023-07-21T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
       "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
       "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
@@ -263,7 +306,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1043,24 +1086,33 @@
     {
       "path": "_news/2023-07-10-galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-trial-in-psc.md",
       "title": "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC",
-      "excerpt": "OnKai's AI models redefine the methodologies and economics of clinical trials",
+      "excerpt": "OnKai's AI models redefine the methodologies and economics of clinical trials TEL AVIV, Israel, July 10, 2023 /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (NASDAQ:GLMD) (\"Galmed\" or the \"Company\"), a",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T06:44:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33164058",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33164058",
+      "publishedDateTime": "2023-07-10T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1079,8 +1131,8 @@
       "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
       "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
-      "originalUrl": "https://www.stltoday.com/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
+      "webUrl": "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
+      "originalUrl": "https://www.stltoday.com/online_features/article_3983f7f1-861f-5de6-823b-a29508df5afb.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1354,58 +1406,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay.md",
-      "title": "Beware Technophobia Spreading Amid AI Fears And Calls For Delay",
-      "excerpt": "ChatGPT is the fastest new technology to reach 100 million users. Artificial intelligence has brought hope and fears— as well as calls for a pause.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
-      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649ada9e812a0cb2f0daedd0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2023/07/06/beware-technophobia-spreading-amid-ai-fears-and-calls-for-delay/amp/",
-      "publishedDateTime": "2023-07-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

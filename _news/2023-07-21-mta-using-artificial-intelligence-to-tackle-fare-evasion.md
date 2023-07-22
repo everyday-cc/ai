@@ -112,20 +112,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Mundy Cruising predicts how artificial intelligence will change sector"
-    excerpt: "Mundy Cruising and Mundy Adventures have tried to predict how artificial intelligence (AI) will change the cruise sector. The companies, which have published articles discussing developments in ship design, are forecasting significant improvements which will help with fuel efficiency and boost the guest experience."
-    publishedDateTime: 2023-07-17T11:32:00Z
-    webUrl: "https://travelweekly.co.uk/news/travel-agents/mundy-cruising-predicts-how-artificial-intelligence-will-change-sector#!"
-    type: article
-    provider:
-      name: Travel Weekly
-      domain: travelweekly.co.uk
-    quality: 37
-    images:
-      - url: "https://travelweekly.co.uk/images/cmstw/original/9/4/2/0/d/easid-497238-media-id-41044.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
     excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
     publishedDateTime: 2023-07-18T19:45:00Z

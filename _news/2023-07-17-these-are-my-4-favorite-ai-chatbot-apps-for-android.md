@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/76a73b14c05051fca5a16ac8d7091d54dfd725c4/2023/07/19/9414b9c4-6c98-4b78-9290-d60e8e12683d/tim-cook.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
-    excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
-    publishedDateTime: 2023-07-17T11:38:00Z
-    webUrl: "https://www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/"
-    ampWebUrl: "https://www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 74
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/4F4BB410-B9BA-4D91-8737E7D82CE8E44C.jpg"
-        width: 790
-        height: 496
         isCached: true
   - title: "Apple Has Created Its Own AI Chatbot, Report Says"
     excerpt: "Apple has created its own generative artificial intelligence tools to compete with ChatGPT, according to a Bloomberg report Wednesday. Apple built its own framework that can create large language models, called \"Ajax,\" as well as a chatbot service that internal engineers are calling Apple GPT, according to Bloomberg citing unnamed sources."

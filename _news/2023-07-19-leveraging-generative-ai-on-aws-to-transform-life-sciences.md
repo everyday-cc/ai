@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transf
 webUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
 type: article
 quality: 116
-heat: 236
+heat: 216
 published: true
 
 provider:
@@ -33,22 +33,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Rolling Out A Generative AI Strategy In 2023"
-    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
-    publishedDateTime: 2023-07-17T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 825
-        isCached: true
   - title: "Why Generative AI Won’t Disrupt Books"
     excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
     publishedDateTime: 2023-07-20T10:00:00Z
@@ -176,15 +160,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
-    excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
-    publishedDateTime: 2023-07-17T12:51:00Z
-    webUrl: "https://www.waste360.com/recycling/how-automation-and-artificial-intelligence-are-transforming-e-recycling"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 17
 
 secured: "viXuxGyJfajIDqWwkPN2JVk8uX6OeCygtUI+8b2Efq1V+gXzH/k+PPcHbPeB2Cdk3KZt32JEkcEPWUFcYl+w+jp33MutwzWScUnrIanHs4N4HmsyK3FbRMX/Nlo/KT1B8k7KuhmNj/SwQvmGuy7hxC5v51voQtTp14u+dwJxUJwjp96E6ihXfMsCZlpGx6rseGT5QaEvttoBcrBvtddqGF/MjwCgk+Ygnvyue+ULGPnx376dRo0+CXCn2LphDP8dL4B8nCOUekRAs8tsEQaM1sZon1gb8DmTZdGPT7St0LyPlgVBsqvoeh1FZ42SPw2vnjnSGNb4LjjQrwQP3kxJeXh0pxWM5caIh773so4ce94=;1jQQIqrTxTizi/iBFObjxw=="
 ---

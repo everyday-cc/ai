@@ -28,52 +28,68 @@ images:
     isCached: true
 
 related:
-  - title: "AI And Government: Transforming Public Services For The Digital Age"
-    excerpt: "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures."
-    publishedDateTime: 2023-07-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
+  - title: "Lenovo unveils data management solutions for enterprise AI"
+    excerpt: "These all-flash arrays are designed to simplify AI workload enablement and unleash the value of data. The company has also revealed two integrated and engineered ThinkAgile SXM Microsoft Azure Stack servers. These provide a unified hybrid cloud option ..."
+    publishedDateTime: 2023-07-18T17:51:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Lenovo-Logo.jpg?w=1200&strip=all"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Let’s use AI to clean up government"
-    excerpt: "Artificial intelligence could be important in keeping people informed about the government, reforming red tape, and cleaning up waste, fraud and abuse."
-    publishedDateTime: 2023-07-21T06:00:00Z
-    webUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government"
-    ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
+  - title: "Meet Cleanlab, the startup that helps data teams manage noisy labels for enterprise AI"
+    excerpt: "Cleanlab, a startup that provides a data curation solution, announced that it has raised $5 million in a seed funding round led by Bain Capital Ventures."
+    publishedDateTime: 2023-07-20T13:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/meet-cleanlab-the-startup-that-helps-data-teams-manage-noisy-labels-for-enterprise-ai/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70b71475-d1c7-4614-b8f0-7813636d7907/65f428c8-c417-478c-8692-21def9354f09/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_an_open-source_product_that_identifies_1d4861ec-97f7-4b9a-b85c-2e347c1fc53f.png?w=1200&strip=all"
+        width: 883
+        height: 706
         isCached: true
-  - title: "AI Governance: Guiding Global Adoption for Ethical Innovations"
-    excerpt: "Exploring the worldwide adoption of AI, its inherent challenges, and the imperative of responsible AI governance."
-    publishedDateTime: 2023-07-20T14:52:00Z
-    webUrl: "https://www.techopedia.com/ai-governance-guiding-global-adoption-for-ethical-innovations"
+  - title: "Digital.ai, SAS, Thread, Lenovo, Red Hat, Cree LD disclose new products"
+    excerpt: "designed to make it easier for organizations to enable AI workloads and unlock value from their data. Also announced are two new integrated and engineered ThinkAgile SXM Microsoft Azure Stack solutions, enabling a unified hybrid cloud solution for seamless ..."
+    publishedDateTime: 2023-07-18T14:22:00Z
+    webUrl: "https://wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red-hat-cree-ld-disclose-new-products/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red-hat-cree-ld-disclose-new-products/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/18/digital-ai-sas-thread-lenovo-red-hat-cree-ld-disclose-new-products/?amp=1"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
     images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/modern_metal_court_02.png"
-        width: 1200
-        height: 600
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/01/newspaper-business-news-online-news-e1547465759139.jpg"
+        width: 590
+        height: 332
         isCached: true
+  - title: "Lenovo Unveils New Data Management Solutions to Enable AI Workloads"
+    excerpt: "Lenovo (HKSE: 992) (ADR: LNVGY) announced its next wave of data management innovation with new ThinkSystem DG Enterprise Storage Arrays and ThinkSystem DM3010H Enterprise Storage Arrays, designed to make it easier for organizations to enable AI workloads and unlock value from their data."
+    publishedDateTime: 2023-07-18T16:54:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/18/9849960.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Lenovo all-flash arrays aimed at optimizing AI workloads"
+    excerpt: "Lenovo’s ThinkSystem DG enterprise storage arrays use all-flash storage and quad-level cell (QLC) architecture, the densest flash storage available. They’re capable of up to six times faster performance and up to 50% less cost compared to HDD arrays, Lenovo asserts."
+    publishedDateTime: 2023-07-21T21:22:00Z
+    webUrl: "https://www.networkworld.com/article/3703229/lenovo-all-flash-arrays-aimed-at-optimizing-ai-workloads.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "lPEoPferD/lYACnp598P+UP8XJCzmby0M+DLYPKXDEtlZtpwzPaiIkF0jSSM9XoSt0nogsuzHbLIQHp+na1JrTTA517lvFInhDJGaDY+y9UPg3e/ioIsCo4jx5VwcCFQSaqz2PAoNl+VGI10FFezd5OWABMu1hvaSffMOe+1hUuao508vAhnThsNST87ndXOz6OMPb4C2Q4+fNYz5ZUPm9wOaxKg8uEyKHrFm7eA9xwuwWxqYPNpWLHP0PLUX+pgwr4iDiOhkBcbjMLQBAf2ardlQbD5fdzghCtjrpKVSkbEiTQhkCTYp04Aly4T2D3Gw7QTh7U2mRGBN84zJ2PtL8ilsO4WnfTfdZpqkVZQVWltsxH5IAvZ3hfAXSRxvbjmALjY6Z43h9+nsaPTf1VFGLoFdesB2/C7AcEyrGwWcYvCLsAT1jRZ5CZNY+iIpCQgMcDhjRPHGyBNgDScGD+zB5ch2IzFrlJzldobyyCMjFfhrXCVuUPi+t0WFU/mhKz2nfu7dwpsmwSdR0AWa4LqCw==;146ZtfDvbIuLLH6XgrKSJw=="
 ---

@@ -19,67 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Exploring the AI and data capabilities of watsonx"
-    excerpt: "Discover the capabilities of watsonx, a new AI and data platform empowering enterprises to leverage their data and scale AI for business.\nThe post Exploring the AI and data capabilities of watsonx appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-17T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/"
+  - title: "How FedEx Dataworks is using analytics, AI to fortify supply chains"
+    excerpt: "FedEx Dataworks' director of data science told VB Transform how FedEx is using analytics and AI/ML to make supply chains more resilient."
+    publishedDateTime: 2023-07-17T16:17:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 114
-  - title: "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills"
-    excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
-    publishedDateTime: 2023-07-20T18:43:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
-  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
-    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
-    publishedDateTime: 2023-07-20T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "IBM’s Watson rebooted as a secure AI alternative"
-    excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
-    publishedDateTime: 2023-07-20T20:51:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 34
-  - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
-    excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
-    publishedDateTime: 2023-07-20T07:15:00Z
-    webUrl: "https://techbullion.com/from-inspiration-to-innovation-exploring-the-creative-possibilities-of-designs-ais-ai-writer-in-copywriting/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 20
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/man-chat-with-ai-artificial-intelligence-ai-chat-technology-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/21be95b0-6b9f-40b1-bb55-ef7d2c61be49.png?w=1200&strip=all"
+        width: 1060
+        height: 596
         isCached: true
 
 secured: "Zcd3KnpBXcTHKWCFWJ4p/kHQ3I9LZPHzwF1WyHI4A2+aVxOqerPrPcbGROgSwp3o8jHkacbEoi39Tt6anMbXOsaBRbPPWZKZUoqwfMLM4bFhHlfT33LK2DuEPIBsyN6ABXK/eb2Jo/e/wRIdqJqfiaG8/E1urcrvyBzvSHXqJwqYlo/RngzTjsvrxtL/dE+PRg98uSE/i036n59mgprjj9sfYmQ20cKZGG6qt5t1KyWodjp6NpkreYbZMK1eoWHUaeVQqmBXbVC9aDUgIg6e1c433wqMKrh/mjN1E1v8sKtQycbGTK3xPUYvlxwCddps8Z9XtWreL0HCNd0WlQbzk6d68IesgMp+aqmEasnwFLe34bTVYp4JabcAZBdY8qUBO6Hv3YDj2MLZAKSqDFQ28TXH2D8Ze56ashurz17To8Ih4GIDr45tBMLSvr6udIjVmm2akRdNd3hpppY/bRPPx+gsjMko9QynbOZvI2eG9aOcbPXErOisrgiJN1lpG5o7J1Z+0I08+UiVOCPDIUXyzw==;fzuOA1q1tnO77Md6ORaf8Q=="

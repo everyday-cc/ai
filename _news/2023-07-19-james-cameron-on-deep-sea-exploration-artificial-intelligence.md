@@ -29,14 +29,14 @@ related:
   - title: "James Cameron On Dangers Of Artificial Intelligence: ‘I Warned You Guys In 1984!'"
     excerpt: "The “Terminator” director said he’s more concerned AI will cause a nuclear disaster than write “a good story.”"
     publishedDateTime: 2023-07-20T22:38:00Z
-    webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
+    webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text"
     ampWebUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
     type: article
     provider:
       name: HuffPost
       domain: huffpost.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://img.huffingtonpost.com/asset/64b95c1f2200006c006b127e.jpeg?ops=1200_630"
         width: 1200

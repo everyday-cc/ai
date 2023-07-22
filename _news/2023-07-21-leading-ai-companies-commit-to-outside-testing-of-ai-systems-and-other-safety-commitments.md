@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
 type: article
 quality: 80
-heat: 240
+heat: 250
 published: true
 
 provider:
@@ -145,6 +145,20 @@ related:
     quality: 37
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/7d091e6/2147483647/strip/true/crop/5180x2720+0+367/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F39%2F6f%2F3ccf2ffb4305b9a4ea2c651c5934%2Fmeta-artificial-intelligence-78805.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big tech firms agree to White House AI safeguards"
+    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
+    publishedDateTime: 2023-07-22T04:46:00Z
+    webUrl: "https://www.altoonamirror.com/news/2023/07/big-tech-firms-agree-to-white-house-ai-safeguards/"
+    type: article
+    provider:
+      name: Altoona Mirror
+      domain: altoonamirror.com
+    quality: 37
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg"
         width: 1200
         height: 630
         isCached: true

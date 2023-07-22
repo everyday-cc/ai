@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-draft-gu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How AI and machine learning are revolutionising business intelligence"
+    excerpt: "Every day, advances are being made in both business intelligence (BI) and artificial intelligence (AI), enabling businesses to use machine learning algorithms to identify novel data patterns and quickly choose how to present them in real time."
+    publishedDateTime: 2023-07-22T04:00:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T165236.463.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZQ7cKqGJhKQOVRlmEWWpmBv22JXg4DE42MHqWTqWiXRYhFfzjkdo7ZyqpkYpW2rxd20sRSCsD4zIsddxTONscuKGGTIk1JumtwhxuSlEUHhI6OcKKA/rTLYdJnyE0X2tg4sMBafw/PYXUoGUg9fOWJ2hUBTMjxNPOrwBN2BrfUEeBknTDmFur2b41oyzCM//ynTCl29XjrvMsGXxIMWyiRtQ0V3ISW5Q8JAzZBH9DFgBmkzvwhFOpdahGp4y4E7in4YZpV8pcPY4wIIhlXnhR4zjmWlkSUzpUyHPbYg2jMNIKqj4LvXfEo4KC4al2drHGYShUGa9vlH9dBwOP8Kc7W9TfMl4F/IQwl7rovdBvzPfjPsnNtCIzG7LnwshpZkN/VsrkLaQixWjVf/D4Uz9Chr3Qnhck9wtQqGaL/dD9PfPMZmbQ/k4G5LQ/WtZ02PK5o583eWwcsIqf4Ss98/kLJTN72D4bsPHekgQj7KI7cu4/8hwrYnxRwdeEMzC1mOW5B9r/j0puR6mba9fZES21Q==;52Juv98M+LfNhF6FWpJD5Q=="
 ---

@@ -108,22 +108,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Chatbot Honeypot: How AI Companions Could Weaken National Security"
-    excerpt: "AI chatbots blur the line between intimacy and secrecy, posing risks for users with national security interests and access to sensitive information"
-    publishedDateTime: 2023-07-17T11:38:00Z
-    webUrl: "https://www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/"
-    ampWebUrl: "https://www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/chatbot-honeypot-how-ai-companions-could-weaken-national-security/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 74
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/4F4BB410-B9BA-4D91-8737E7D82CE8E44C.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "LLaMA 2: How to access and use Meta’s versatile open-source chatbot right now"
     excerpt: "A comprehensive guide on how to use Meta's LLaMA 2, the new open-source AI model challenging OpenAI's ChatGPT and Google's Bard."
     publishedDateTime: 2023-07-19T21:12:00Z

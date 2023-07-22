@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/07/20/asset-and-wealth-management-embracing-ai-and-consolidation-to-win/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 624
     height: 479
     isCached: true
-
-related:
-  - title: "Embracing Data-Driven AI And Machine Learning For Efficiency"
-    excerpt: "On this journey of improvement, a fail-fast approach in AI can help you quickly identify what doesn’t work and change to a better approach."
-    publishedDateTime: 2023-07-17T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/embracing-data-driven-ai-and-machine-learning-for-efficiency/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "tbUh+8GN1LesymfejEUndOGY7Qge38+qk0s6CYlJfOPRfoSlXhmURPYFC202iLkfG+gT69WoJlf5Z5GUvwCJHMoBQiGaLFFqNDzpTzuD3wUc4w4DmO8SaJ3p5Lo4iLSUUcOdWmKVOFWnNX8cZtBt0dnOL3xiZr1k/wGEnUY/daGXkT1BHS82PHt68v618g6EYklMqI1ip7kcj/BDcU7Vlxgi1TVqP2QH8uM2sE7zxRhYvLdjU5YdyVQJEVgvEjM2Wn7YhrIWagqTR6X7Djphc/5sEsCHVbUNIFqC+J1DrP2/dfl0DoyUtrOyR6eHXLPEFxUSXlSXD1hNzcGVilp94qzQyTjWuDuJvkVQ0AUBVUU=;vIMDkOvn/5UB9S9tfH/TMQ=="
 ---

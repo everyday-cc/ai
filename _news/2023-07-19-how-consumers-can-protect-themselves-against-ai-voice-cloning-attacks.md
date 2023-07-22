@@ -22,17 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "US – Attorneys General Consider Consumer Protection Issues Related To Artificial Intelligence In Consumer-Facing Healthcare Technology."
-    excerpt: "US - Attorneys General Consider Consumer Protection Issues Related To Artificial Intelligence In Consumer-Facing Healthcare Technology. Legal News and Analysis - USA - Telecommunications, Media & Tech"
-    publishedDateTime: 2023-07-17T12:25:00Z
-    webUrl: "https://conventuslaw.com/report/us-attorneys-general-consider-consumer-protection-issues-related-to-artificial-intelligence-in-consumer-facing-healthcare-technology/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 2
-
 secured: "+UuRut/ZBJTDnh3j14txDJY1TzPg6My1nc+Cedwbef9jjJMWNqaQ53PBzB3nz4xLTz1Y47sA0yZk0HSrn7lXgl4pIkYjuKk7RzfKbgeeSG5/6961LnOtxbJFUMAxUnS9blngMDYblX8RMIa1/X9hz4/P07BR+eltFSaNxqC2HB4fxiHPNKiVHY5oEaWv+hkv5iptWFmUra8cASaGjoI+OhLLfHbOVZFDDKQR37lVzDYuPPBck4lB57vOJqKiQyg8YBBAFBFrovyLDsqdQYYIbHm8jMTiF0jJm3XgNEkZyD6TX9cO+qMH/RdpypVr/rMTrNXRZBGkaO65PU/4mXn6K2NhDitpA/kE5dNV+LQ5iYKijWZCL1mBjygY0Im90dYQrVswHPyssnVWBiTkj+PXb9bEN8dx9uHQXpdpGY6S/qvSFMLHBGxC83IWVe8N56fvvGWeo0MbBfGaAVWH+BA5s3h8escgjBU1vdJAXmPyIOZ9ZvTRkus7g6oV1FDrUXiLKzIMUbKTTfW1NBOcshKZTA==;lBLl+EUScGfHcxvc3lY80w=="
 ---
 

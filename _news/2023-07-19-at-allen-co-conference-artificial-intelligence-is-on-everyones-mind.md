@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "Gregory Allen on Congressional Oversight of Artificial Intelligence"
-    excerpt: "CSIS’s Gregory Allen discusses congressional oversight of artificial intelligence and potential regulation of the industry. Neil Chilson talked about the future of artificial intelligence. Brandon Pugh talked about the Senate Judiciary Subcommittee ..."
-    publishedDateTime: 2023-07-17T11:48:00Z
-    webUrl: "https://www.c-span.org/video/?529235-5/gregory-allen-congressional-oversight-artificial-intelligence"
-    type: article
-    provider:
-      name: c-span
-      domain: c-span.org
-    quality: 17
-  - title: "Gregory Allen on Congressional Oversight of Artificial Intelligence"
     excerpt: "Gregory Allen talked about congressional oversight of artificial intelligence and potential regulation of the industry. Javascript must be enabled in order to access C-SPAN videos. *This text was compiled from uncorrected Closed Captioning. Neil Chilson ..."
     publishedDateTime: 2023-07-18T13:48:00Z
     webUrl: "https://www.c-span.org/video/?529235-5/gregory-allen-congressional-oversight-artificial-intelligence&live="

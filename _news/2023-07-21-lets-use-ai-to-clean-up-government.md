@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Fox News
@@ -30,51 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "AI And Government: Transforming Public Services For The Digital Age"
-    excerpt: "AI can analyze real-time traffic data to optimize traffic light timings, easing congestion and reducing travel times. AI algorithms can also analyze data from IoT sensors on public infrastructure (like bridges and roads) to predict when maintenance is needed, potentially preventing catastrophic failures."
-    publishedDateTime: 2023-07-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/ai-and-government-transforming-public-services-for-the-digital-age/amp/"
+  - title: "Factbox: Governments race to regulate AI tools"
+    excerpt: "Britain's competition regulator said in May it would start examining the impact of AI on consumers, businesses and the economy and whether new controls were needed. Britain said in March it ..."
+    publishedDateTime: 2023-07-19T07:16:00Z
+    webUrl: "https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b14ce9f037c71717534a09/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.reuters.com/resizer/nt3VW7-m59OC92AMMqKOKxZT5u4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26PNNN33MZOEHKBQQSZNQUORDI.jpg"
         width: 1200
-        height: 800
+        height: 628
         isCached: true
-  - title: "Good governance essential for enterprises deploying AI"
-    excerpt: "As AI becomes more complicated and pervasive, enterprises need to prioritize building fair and transparent systems, says Stephanie Zhang, Head of ModelOps, AI and ML lifecycle management and governance at JPMorgan Chase."
-    publishedDateTime: 2023-07-18T14:32:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1075972/good-governance-essential-for-enterprises-deploying-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/18/1075972/good-governance-essential-for-enterprises-deploying-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1075972/good-governance-essential-for-enterprises-deploying-ai/amp/"
+  - title: "Extremists might use AI to plan attacks, Home Office warns"
+    excerpt: "Suella Braverman says risk of major terrorist incident in UK is increasing"
+    publishedDateTime: 2023-07-18T15:57:00Z
+    webUrl: "https://www.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
+    ampWebUrl: "https://amp.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/Stephanie-Zhang_REV.png?w=1200"
-        width: 1200
-        height: 671
+      - url: "https://i.guim.co.uk/img/media/113bbb0e735ba20e08390eb5290d8982db69b055/0_116_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0b36a71976764df9bece604d5b1aa271"
+        width: 620
+        height: 372
         isCached: true
-  - title: "AI Governance: Guiding Global Adoption for Ethical Innovations"
-    excerpt: "Exploring the worldwide adoption of AI, its inherent challenges, and the imperative of responsible AI governance."
-    publishedDateTime: 2023-07-20T14:52:00Z
-    webUrl: "https://www.techopedia.com/ai-governance-guiding-global-adoption-for-ethical-innovations"
+  - title: "Essential Ai Tools Every Cio Must Use In 2023"
+    excerpt: "In today's rapidly evolving digital landscape, artificial intelligence (AI) has become a transformative force across industries. As the technology c"
+    publishedDateTime: 2023-07-17T17:29:00Z
+    webUrl: "https://menafn.com/1106612857/Essential-Ai-Tools-Every-Cio-Must-Use-In-2023"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
     images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/modern_metal_court_02.png"
-        width: 1200
-        height: 600
+      - url: "https://menafn.com/updates/pr/2023-07/17/F_7f1c0image_story.jpg"
+        width: 1280
+        height: 1920
+        isCached: true
+  - title: "How exactly should the government regulate artificial intelligence anyway?"
+    excerpt: "An old saying goes like this: \"If it moves, tax it. If it moves too fast, regulate it. If it stops moving, subsidize it.\" Well, Artificial Intelligence is in that fast-moving stage, but no one"
+    publishedDateTime: 2023-07-19T19:40:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/how-exactly-should-the-government-regulate-artificial-intelligence-anyway/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 35
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/01/GettyImages-1181533674.jpg"
+        width: 2101
+        height: 1426
         isCached: true
 
 secured: "ljEOhfEMMGwZKnDzqvMOGTNaGu5xX+NQZgn0vsGOEtG6iOnuTIHdJ0YnFr0j1Z2yq1cCT/DGkLQ8q4ehlmSQSbF8P+30/P6fMx0+gPy2HYLm2RYhhochGm4pMwcHiEUlOvRCPzRuQi3DT744qWzIZYIKoME2kSDH9oi6w2/ZcmilP9IyzmueSsz57UrrMf1cVTHdjdxWBaJ1e+Ml0CCHetuOZCW2NNCff1a68pCIBXZL/iVdUjVYwAIL2mfyfQskSV4wYbZFwB5tMdhM9qOR2/MCAPXJ9j8AgjU5f5Zr5bNmNv/AZ7ACNzB+mi/l5ZNjVRgnCQDmYgpr/kPXCQb3K5PDUg6K6fgBAOaxLaqAerY=;3pYoBZhyDBhbZdwKH1ROeA=="

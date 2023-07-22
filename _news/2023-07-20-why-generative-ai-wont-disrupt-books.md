@@ -48,22 +48,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Rolling Out A Generative AI Strategy In 2023"
-    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
-    publishedDateTime: 2023-07-17T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 825
-        isCached: true
   - title: "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI"
     excerpt: "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential."
     publishedDateTime: 2023-07-20T21:52:00Z
@@ -175,15 +159,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
-    excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
-    publishedDateTime: 2023-07-17T12:51:00Z
-    webUrl: "https://www.waste360.com/recycling/how-automation-and-artificial-intelligence-are-transforming-e-recycling"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 17
 
 secured: "ZtlfbCjV/JFJCexC9+usD5M6kXMCfdk4IMSdJ+UPKJ/SnOkJ/EvPQlTJoBrhH8BmjkG4QECvnGMIdjYquiI8ifSV90QurDzQOgwFEuqKEDsum/UgvL97ompvG3tdTKuEZWIskgx13ukYIX1MrtKBgMGJKAXwmboynafCGZudOQIb8tg+A71eyN+OyPN4MbFVfc09EYCnpZFJBe+uv5xp4O/HLzVuOpAez4EnxcsBYWgSkHGlytbac9FJPHZaJLSiTup7VONEO5IdZmH2xyy0VVQDIm/fUfnf/WzMTkWLXFmy3jrA1pafPWxLW+PPj2kCkeug7GheXB+HP74l8RF+HwFjyTYl8vzFZFiEFD8v2abLsSpISElU3hkpxWNT47QJhBytztS5C0t1wNcei9EaQjoQDErmTz5Ejt8GXsYlFm6L925gx4nywv43h/7A3P2dBLcfogYA72BdvBk5TYldp0wtFIRNY0s5Fff0Wy0sJNoQMfVEYO5NEa8C4Si2yFP6rfc+70BqoP1KTCDUwpBDAg==;FzOTfRMZYo+SOm14lCJjkw=="
 ---

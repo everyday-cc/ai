@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/enterprise-analytics/how-fedex-dataworks-i
 webUrl: "https://venturebeat.com/enterprise-analytics/how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,17 @@ images:
     width: 1060
     height: 596
     isCached: true
+
+related:
+  - title: "Empowering Data Analytics: Unleashing the Potential of Machine Learning and AI"
+    excerpt: "In today’s data-driven world, businesses are constantly seeking innovative ways to leverage the vast amounts of information they collect. Traditional data analytics tools are often limited in their ab"
+    publishedDateTime: 2023-07-20T10:01:00Z
+    webUrl: "https://www.pcquest.com/empowering-data-analytics-unleashing-the-potential-of-machine-learning-and-ai/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 30
 
 secured: "bhREDEcjDuCQHcNAUGUYHNSdW9xoQ51OeMrKBBNFd/C0D1QIO/VbufdSFUjJm4d8wELE4E7YqUfiOM7jDA5iMIVxrXthBuHkjSP6uLEAKzfOUJtO7iyLJ6tyWTfFvntpC0UgEwLgs/Vzejt3X02acldr/bcfz4kUO0lOsjZq5r9/PikehwGaRLYYkncJ+KqNVhBpcxSbrw40GsXIWIBs/s9mlV5DxbFFzmPOVvu14ckrELi7z9gJGtTZIwBOUtyDAO8CEgPZhqIOarLt8l06plP/i/mz95HDFOTTAmRrU8li53GLHsezr2aZhO2XJwhQedhl3ievWr5YkrhNAOoCc/PiyyMgU7ipwaISH1qz4aLdti4SK9xXmPK/omKB+tR3yYcIj3hRkFPrdC4miUD1iaUlknSBoURjamOK1RqfJHixeMNx2qCwjYTSx+JxjpvBVk+IKqy5g3bjNAzZp8RDe6Gt41p8E2OQEIRyULhOUDAV+fPl5RwTAVAMTBR506sNvigZeJuFNIvEKTBOHqQzhg==;YAx45YqPvIS/fzoEsk4xRw=="
 ---

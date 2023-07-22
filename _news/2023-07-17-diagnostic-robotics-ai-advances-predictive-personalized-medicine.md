@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/17/diagnostic-robotics-ai-advances-predictive-personalized-medicine/amp/"
 type: article
 quality: 119
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
-    excerpt: "Dubai – Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, the Middle East, and Africa, is working on bespoke Generative AI solutions for large enterprises."
-    publishedDateTime: 2023-07-17T11:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/crayon-data-to-benchmark-personalized-experiences-empowered-by-generative-ai-models-iyy7vphh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/crayon-data-to-benchmark-personalized-experiences-empowered-by-generative-ai-models-iyy7vphh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/crayon-data-to-benchmark-personalized-experiences-empowered-by-generative-ai-models-iyy7vphh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MWI5N2RhZDMtMzc4NC00/0/yondata-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Can artificial intelligence reduce invasive testing and improve cardiac diagnostics?"
     excerpt: "Coronary heart disease is the leading cause of adult death worldwide. In many cases, quantifying left ventricular ejection fraction (LVEF)—or how much blood the left ventricle pumps out with each contraction—is critical to optimize decision-making and treatment decisions,"
     publishedDateTime: 2023-07-19T20:59:00Z

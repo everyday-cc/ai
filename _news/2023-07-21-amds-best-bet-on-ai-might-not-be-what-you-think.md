@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-
 webUrl: "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/"
 type: article
 quality: 71
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 5120
     height: 2880
     isCached: true
-
-related:
-  - title: "See why a 1980's Bette Midler lawsuit might be AI's biggest obstacle in music"
-    excerpt: "AI voice cloning has already made a fake viral Drake collaboration with The Weeknd and this could be just the beginning. See how people are stealing singers' likenesses and why an old Bette Midler copyright case could have major ramifications."
-    publishedDateTime: 2023-07-17T12:19:00Z
-    webUrl: "https://www.cnn.com/videos/business/2023/07/13/ai-music-song-drake-weeknd-midler-orig.cnn-business"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 44
 
 secured: "sVv1ShO+TbPCjJHLpXtrFogPLsiIAsOxIee8pR/qTLc9Yig+5NURINBf1/EvyMBCV5eoYUkDe3CK3Of8D6FcTXyCHQ1rzZVG8fXtX3/0+Ucx1GEXO4RcUp21V0P03FnQeMfmYH4nZbPuKeDjXCJKkPTYaQWpkyaL/ynw62g9irONRszP3mXjvPlcYBscXMW/bJ6xCkiHzeweMLTnVa5DMz6s1ItAyqO1KP3Oe4Fu9RmV5d8TB4LgRfw7qlFkawgFb258Tsr+iwDchRhGOABpxM1O/S8c7MyWvD63o/EH6s0KHJtNCWuuGPtRz2EgmrT/133JMBWSV03+xUD+lHkRIZlZsi0PErL3k2DRE/kQWwCLC+3MWcmTN5kCWllKE+KbmlM01RdDIZDKZsDSVIxK/s5odo1QR65BGdrGW/AiTfwKl9oVZT8HwK9XhFPoaPOfMwU04tuJ2xGKJ2i/iDmpLGfhB951uAB5Wz9aC/khQ+RpShrzn8mz+hnZmT36Zc8guz4C9C7ueDYwXL5/J2IMgw==;+eEkLi5YT4lzURgAxqWLdQ=="
 ---

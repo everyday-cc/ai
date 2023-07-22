@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
-    excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
-    publishedDateTime: 2023-07-17T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "Cyber security on alert as WormGPT exposes AI’s dark side"
     excerpt: "A new generative AI cyber crime tool, WormGPT ... indicating our commitment to adhere to the Code of Ethics for Print and online media which prescribes that our reportage is truthful, accurate and fair. Should you wish to lodge a complaint about our ..."
     publishedDateTime: 2023-07-18T13:55:00Z

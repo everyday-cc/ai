@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-barbie-ai-tool-transfo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

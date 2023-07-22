@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cybersecurity In The Era Of AI And Quantum"
+    excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
+    publishedDateTime: 2023-07-22T05:29:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1500
+        isCached: true
   - title: "Microsoft 365 Copilot AI’s steep price is an ill omen for Windows users"
     excerpt: "Microsoft announced that it will charge businesses $30 per user per month for Microsoft 365 Copilot, its AI assistant for the Office apps. In some cases, that's more than double its price for Microsoft 365."
     publishedDateTime: 2023-07-18T15:30:00Z
@@ -533,6 +549,22 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 61
+  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
+    excerpt: "WASHINGTON — President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
+    publishedDateTime: 2023-07-22T05:58:00Z
+    webUrl: "https://www.daily-sun.com/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
+    ampWebUrl: "https://www.daily-sun.com/amp/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
+    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
+    type: article
+    provider:
+      name: Daily Sun
+      domain: daily-sun.com
+    quality: 60
+    images:
+      - url: "https://www.daily-sun.com/assets/news_images/2023/07/22/Joe_Biden-DS-1.jpg"
+        width: 966
+        height: 644
+        isCached: true
   - title: "Meta launches AI language model for Microsoft and Amazon cloud users"
     excerpt: "Meta isn’t charging for access or usage of the model it developed. Instead, by opening up the technology to other companies, Meta says it will benefit from improvements that can be made when more developers use,"
     publishedDateTime: 2023-07-19T05:11:00Z
@@ -992,15 +1024,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
-  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-    excerpt: "President Joe Biden is praising new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House as an important"
-    publishedDateTime: 2023-07-21T18:07:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 20
   - title: "Meta Launches Generative AI Model Llama 2 in Partnership with Microsoft to Compete with Google and OpenAI"
     excerpt: "Meta releases its new generative AI model Llama 2 in continuation with its advancement in Artificial Intelligence field."
     publishedDateTime: 2023-07-20T13:45:00Z
@@ -1011,6 +1034,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "9o0zE1HBzYmUkpi8F25jrQBOugsp8yU6WT5/ELv+6nTTSzbQ0aPUjL3Nq43rNQt+bsyD9RReF+ZHg49ikFud0+ZlW43Brl6nWK/VeiQrHPPojlVZOlYn0v99gvZiE2SmIQzKNEBRkzAFD3Wz3U0G+7qNRbafiANBIfs4SsvNbc4XDUP6Zn/u0W24gzLu5wgs31zf+d1PP1CURcb0V5Ha3ujFU/ERsbUQurwV8pU6A9r2URfMiBunmo3ZjL1FquuvkuntkPe30VQtTMDLE6mjxpN39Z/OPsUOjuawxbsAupOtYmjS2BmA650fy1RaXJjFVw/I5IwfbBY+TspN/mr11rges4NKvaPniZBDe0YqxOY=;JpP245K+hBhr54bHF5qPPg=="
+secured: "LinojITihLSDiJSnkZ5G5TMo9x59rEVf9VPmDV8Z5dUVYkkQP3eWBCFUQPARB4kukmViUFqqKimXd7vW02qMGLGQ9nIk0mrspiLs4SxLsSS6qDZeMsB+WjLoq0InEYCZsvqa3QwWhjdH9bhvYlYc1VJzTWdQd/ryTXW92f05s8spAe5Kce1SgEd8vD7Eq4D2QwpVL+fmJ58fUfpxf0s7hQ9GDNHH1J4FQpRb0X31h5uYTNdZnsu8G3nmhlnNlsae/PlxYmx1dZoTNO0GYtrzJxgZhmRFIlkQRKOo59QE0UVWrnqXtfo2Ttmdi9SLkpIHokz+JXNgNIdJKlajF54e5IsLRHDexigBl0Mv43tW6eIDk2cRwwj4VvxHOeITSkDkJu80wCNKGG7xp6Qz0sHn8lI7N+LhCIHJALkY7criy4chyYbFM3Lt6fFjW1paDylPgb0l4olxM/k2reY5W6zkyJu1Od7ut5G1cYwtSdVkVmLed4yrQf1KUBrXIuxRAHCSpFoQeuDLzQee0XwBIc/ibg==;AI7CDf/Zn3v1Rlr4WrNn7Q=="
 ---
 

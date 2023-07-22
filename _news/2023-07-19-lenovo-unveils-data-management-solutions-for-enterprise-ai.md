@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-ma
 webUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_an_open-source_product_that_identifies_1d4861ec-97f7-4b9a-b85c-2e347c1fc53f.png?w=1200&strip=all"
         width: 883
         height: 706
+        isCached: true
+  - title: "Good governance essential for enterprises deploying AI"
+    excerpt: "As AI becomes more complicated and pervasive, enterprises need to prioritize building fair and transparent systems, says Stephanie Zhang, Head of ModelOps, AI and ML lifecycle management and governance at JPMorgan Chase."
+    publishedDateTime: 2023-07-18T14:32:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/18/1075972/good-governance-essential-for-enterprises-deploying-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/18/1075972/good-governance-essential-for-enterprises-deploying-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/18/1075972/good-governance-essential-for-enterprises-deploying-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/Stephanie-Zhang_REV.png?w=1200"
+        width: 1200
+        height: 671
         isCached: true
   - title: "Digital.ai, SAS, Thread, Lenovo, Red Hat, Cree LD disclose new products"
     excerpt: "designed to make it easier for organizations to enable AI workloads and unlock value from their data. Also announced are two new integrated and engineered ThinkAgile SXM Microsoft Azure Stack solutions, enabling a unified hybrid cloud solution for seamless ..."

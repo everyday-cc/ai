@@ -44,22 +44,6 @@ related:
         height: 1000
         isCached: true
   - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
-    excerpt: "Dubai – Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, the Middle East, and Africa, is working on bespoke Generative AI solutions for large enterprises."
-    publishedDateTime: 2023-07-17T11:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/crayon-data-to-benchmark-personalized-experiences-empowered-by-generative-ai-models-iyy7vphh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/crayon-data-to-benchmark-personalized-experiences-empowered-by-generative-ai-models-iyy7vphh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/crayon-data-to-benchmark-personalized-experiences-empowered-by-generative-ai-models-iyy7vphh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MWI5N2RhZDMtMzc4NC00/0/yondata-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
     excerpt: "Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, t"
     publishedDateTime: 2023-07-18T22:23:00Z
     webUrl: "https://menafn.com/1106625051/Crayon-Data-to-benchmark-personalized-experiences-empowered-by-Generative-AI-models"

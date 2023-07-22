@@ -76,15 +76,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Intel Capital invests in Figure as humanoid robot takes first steps"
-    excerpt: "Intel Capital is a notable addition to Figure's Series A funding round and is joining other top-tier investors such as Parkway Venture Capital, Brett Adcock, Aliya Capital, Bold Capital Partners, Tamarack Global, FJ labs, and former KUKA Robotics CEO Till Reuter."
-    publishedDateTime: 2023-07-17T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps-1032450737"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Intel Invests $9 Million in Humanoid Robotics Startup Figure"
     excerpt: "Intel makes chips, but it also makes bets on other companies via its Intel Capital arm, which just dropped some cash on robots. It's not buying them, though. Intel has made a $9 million equity investment in Figure,"
     publishedDateTime: 2023-07-19T12:15:00Z

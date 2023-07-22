@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-excerpt: "President Joe Biden is praising new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House as an important"
-publishedDateTime: 2023-07-21T18:07:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
-webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
+excerpt: "WASHINGTON — President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
+publishedDateTime: 2023-07-22T05:58:00Z
+originalUrl: "https://www.daily-sun.com/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
+webUrl: "https://www.daily-sun.com/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
+ampWebUrl: "https://www.daily-sun.com/amp/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
+cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
 type: article
-quality: 20
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://www.daily-sun.com/assets/news_images/2023/07/22/Joe_Biden-DS-1.jpg"
+    width: 966
+    height: 644
+    isCached: true
 
 related:
   - title: "Leaders of Microsoft and the NSA discuss democracy and AI at Aspen Security Forum"
@@ -130,6 +138,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/413f6dc41c8ce82ea61fe22829ec68eb6873f22b/2023/07/18/afe9175b-aa72-4137-b6f7-2e0039c5f587/gettyimages-1259154565.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Cybersecurity In The Era Of AI And Quantum"
+    excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
+    publishedDateTime: 2023-07-22T05:29:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1500
         isCached: true
   - title: "Microsoft 365 Copilot AI’s steep price is an ill omen for Windows users"
     excerpt: "Microsoft announced that it will charge businesses $30 per user per month for Microsoft 365 Copilot, its AI assistant for the Office apps. In some cases, that's more than double its price for Microsoft 365."
@@ -1006,6 +1030,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "2NxdMgnrTWS5c8a9lTdKc+//+kFx4qpzUGpdWnaIqHnGccJnfmE6yIvWrJThDzuq+ViiZ+nQY3S995kc7277CrU9lVCi/awQ9XbcB7rmzFVA3GOSR7CmfJNIXDIiCoFNXguL46VEjSdAnJI7M8RUoGftS082Bp5CUK8Lwd1d5t7sYhyJ1/n6ExRlvf3qZSrC1s7pI6qd+zYnu/pjAcxfSRGkPZ8lJcakdMqRTMZ95rd0spICI5uXkJkaYVxlhMlP0qwLYvbq3YpPCkyl+K38q/4XZhBZ9p/GFF1bo8hdqikcaJddY16YnDVqo8DEBqULVeqL1ghn21wX4Sq+nD21r3e8GSk+Hg44SZGuYlhfgfalZIcFHmSSYkIi7od4xafErOVkI0L+QFlvBRnC2+l9j9+52jU8EgKaK6UKPd/ABq9D5MLqx9PqDKAeV0B1/EZLoIrkwtXh7nb53NWgT51Le5p5UoGCcjnryI7dVF1gQpuQPyV8eWmmAKjzy81hZCQ78VoWmJ/vQXfq21WpFkyayA==;kcMtAhLY8owoj+xctFMIZA=="
+secured: "r3rcFSkcfDQdjPthp1HOsxkwMn2bt5F0rmhvnEEWc+7KGvC/5juVoFSMiIaRgsPH28zzkRKFmWRcFPoCe5TZyk1pYmHWZWQieb/xs360n0wHk1IhA7YrNeUXogGYLDWHWYWK/WBl/BO7A+8/FOEaMVKF5u0gptXs5zBHD6jtOfvrfPhVr3Jx/qMihclmbOuyJ5E1BCvoqzYG/rcx0S1OrBX5U+nDc8IsfQ3ASsyYUhhvSXVemMAvoASq4XWTFSUnm/1VGVLAgnMeiIF8alnziNv8C2Uo6lB87/2LJXTjAob1xXQ9Ubrbq6/+fGCQ4OKRlUpAS2oDhil7E7yJ4QbJiofWFYE9sk+GZClytm7T2wc=;NTQx4kyDyOYrWr8cfuJs3A=="
 ---
 

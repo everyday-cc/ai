@@ -2,6 +2,271 @@
   "page": 162,
   "value": [
     {
+      "path": "_news/2023-04-06-facebook-chief-zuckerberg-consumed-by-race-to-launch-ai-in-snub-to-musk-backed-pause.md",
+      "title": "Facebook chief Zuckerberg consumed by race to launch AI in snub to Musk-backed pause",
+      "excerpt": "Meta is the parent company of Facebook, Instagram WhatsApp ... \"We certainly have a large research organization, hundreds of people.\" CHATGPT AI LISTS JOBS IT CAN DO BETTER THAN HUMANS AS MILLIONS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/facebook-chief-zuckerberg-consumed-race-launch-ai-snub-musk-backed-pause",
+      "originalUrl": "https://www.foxbusiness.com/technology/facebook-chief-zuckerberg-consumed-race-launch-ai-snub-musk-backed-pause",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-cognitive-services-global-market-report-2023.md",
+      "title": "Cognitive Services Global Market Report 2023",
+      "excerpt": "Cognitive services are a set of tools and frameworks ... For instance, in May 2022, Microsoft Corporation, a US-based technology company expanded the Azure OpenAI service with the help of InstructGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
+      "originalUrl": "https://menafn.com/1105956934/Cognitive-Services-Global-Market-Report-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-speech-and-voice-recognition-market-to-be-worth-6752-billion-by-2030-exclusive-report-by-meticulous-research.md",
+      "title": "Speech and Voice Recognition Market to be Worth $67.52 Billion by 2030 - Exclusive Report by Meticulous Research®",
+      "excerpt": "‘Speech and Voice Recognition Market by Function (Speech, Voice Recognition), Technology (AI and Non-AI), Deployment Mode (Cloud-based, On-premise), End User (Consumer Electronics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/g31698924/speech-and-voice-recognition-market-to-be-worth-67-52-billion-by-2030-exclusive-report-by-meticulo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ai-machine-learning-predicts-alzheimers-disease-risk.md",
+      "title": "AI Machine Learning Predicts Alzheimer’s Disease Risk",
+      "excerpt": "The AI machine learning model revealed that age ranks first among all features in the age 40+ group and that the genetic effects reflected in the polygenic risk scores become more important than age for individuals aged 65 and older for predicting Alzheimer’s disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic77878%5D.jpg?itok=A8DBJyRM",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202304/ai-machine-learning-predicts-alzheimers-disease-risk?amp",
+      "publishedDateTime": "2023-04-06T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031.md",
+      "title": "AI in fintech Market overview, With the Best Scope, Trends, Benefits, Opportunities to 2031",
+      "excerpt": "Apr 06, 2023 (Alliance News via COMTEX) -- United State – Global AI in fintech Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031-2023-04-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2031-2023-04-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-why-artificial-intelligence-is-not-as-intelligent-as-we-think-it-is.md",
+      "title": "Why Artificial Intelligence Is Not As Intelligent As We Think It Is",
+      "excerpt": "AI is just a bunch of data and algorithms that are written by really smart ‘humans’ and Artificial Intelligence is only limited to the intelligence of those algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techjuice.pk/why-artificial-intelligence-is-not-as-intelligent-as-we-think/",
+      "originalUrl": "https://www.techjuice.pk/why-artificial-intelligence-is-not-as-intelligent-as-we-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techjuice.pk",
+        "domain": "techjuice.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-council-post-why-responsible-ai-in-computer-vision-is-imperative.md",
+      "title": "Council Post: Why Responsible AI in Computer Vision is Imperative",
+      "excerpt": "Organisations and people must take the initiative in utilising computer vision and facial recognition in an ethical and responsible manner until governmental bodies are able to effectively regulate these developing technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/why-responsible-ai-in-computer-vision-is-imperative/",
+      "originalUrl": "https://analyticsindiamag.com/why-responsible-ai-in-computer-vision-is-imperative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-welcome-to-bloomberggpt-a-large-scale-language-model-built-for-finance.md",
       "title": "Welcome to BloombergGPT, a large-scale language model built for finance",
       "excerpt": "Market data giant Bloomberg is set to capitalise on the craze for all things AI by building a 50-billion parameter large language model for finance, dubbed BloombergGPT.",
@@ -748,262 +1013,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-meta-to-launch-generative-ai-for-creating-ads-this-year-report.md",
-      "title": "Meta to Launch Generative AI for Creating Ads This Year: Report",
-      "excerpt": "In a recent interview, Meta’s chief technology officer Andrew Bosworth claimed the company is a generative AI research and development leader. Meta began studying AI in 2013 and has reportedly published dozens of studies in the field,",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/",
-      "originalUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry34-p12.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/04/05/meta-to-launch-generative-ai-for-creating-ads-this-year-report/amp/",
-      "publishedDateTime": "2023-04-05T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-application-development-software-market-size-to-reach-around-usd-11592-billion-by-2031-cagr-of-235.md",
-      "title": "Application Development Software Market Size To Reach Around USD 1159.2 Billion By 2031, CAGR Of 23.5%",
-      "excerpt": "Application Development Software Market Size Big Data Security positively impacts the growth of the application development software mark",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "originalUrl": "https://menafn.com/1105953633/Application-Development-Software-Market-Size-To-Reach-Around-USD-11592-Billion-By-2031-CAGR-Of-235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-ai-vision-leader-chooch-launches-imagechat.md",
-      "title": "AI Vision Leader Chooch Launches ImageChat™",
-      "excerpt": "By leveraging both AI Vision and large language models, ImageChat significantly improves data reliability and accuracy, making it particularly useful for use cases that require object detection and detailed reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790646.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-march-2023-riskalyze-fintech-five.md",
-      "title": "March 2023 Riskalyze Fintech Five",
-      "excerpt": "The Advent of ChatGPT has advisors buzzing, with 33% saying in a recent survey that AI is the \"most disruptive technology trend\" facing our industry today. Fintech providers are rushing to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
-      "originalUrl": "https://www.wealthmanagement.com/technology/march-2023-riskalyze-fintech-five",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WealthManagement.com",
-        "domain": "wealthmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-qualcomms-cloud-ai-100-bests-nvidias-artificial-intelligence-chip-in-some-test-data.md",
-      "title": "Qualcomm’s ‘Cloud AI 100’ Bests Nvidia’s Artificial Intelligence Chip in Some Test Data",
-      "excerpt": "Cards with Cloud AI 100 chips in a data center server. Image from Qualcomm video Artificial intelligence chips from San Diego’s Qualcomm beat those from Nvidia in two out of three measures of ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "originalUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://timesofsandiego.com/wp-content/uploads/2023/04/Cloud-AI-100-Server.jpg",
-          "width": 1125,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "cdnAmpWebUrl": "https://timesofsandiego-com.cdn.ampproject.org/c/s/timesofsandiego.com/tech/2023/04/05/qualcomms-cloud-ai-100-beats-nvidias-best-artificial-intelligence-chip-in-new-test-data/",
-      "publishedDateTime": "2023-04-05T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times of San Diego",
-        "domain": "timesofsandiego.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-google-says-its-ai-supercomputer-uses-less-juice-than-one-powered-by-nvidia-chips.md",
-      "title": "Google says its AI supercomputer uses less juice than one powered by Nvidia chips",
-      "excerpt": "In a new report, Google touted the performance of its self-designed chips and a supercomputer it built with them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2023/04/05/google-supercomputer-uses-less-energy-than-nvidia.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2023/04/05/google-supercomputer-uses-less-energy-than-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-embracing-the-financial-services-innovation-opportunity-of-2023.md",
-      "title": "Embracing the Financial Services Innovation Opportunity of 2023",
-      "excerpt": "As we face economic uncertainty, innovative technology such as AI and machine learning for real-time, data-driven risk decisioning can aid the financial services industry in delivering the right products and services to support customers in their time of  need – and experience growth as a result.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/24021/embracing-the-financial-services-innovation-opportunity-of-2023",
-      "originalUrl": "https://www.finextra.com/blogposting/24021/embracing-the-financial-services-innovation-opportunity-of-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

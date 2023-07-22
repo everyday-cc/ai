@@ -24,43 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tech giants join forces on AI"
-    excerpt: "Kate Pounder, Tech Council CEO, said “in this time of high inflation and low productivity growth, our economy needs a productivity shot in the arm. “The report shows the enormous potential for generative AI to catalyse growth and innovation across a wide range of sectors, shaping a prosperous future for our nation.”"
-    publishedDateTime: 2023-07-19T03:44:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/tech-giants-join-forces-on-ai.html"
+  - title: "US must guard against threats from artificial intelligence, says Joe Biden even as tech firms vow safeguards"
+    excerpt: "President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards. President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards and promised additional government actions on the emerging technology."
+    publishedDateTime: 2023-07-22T05:58:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 53
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Microsoft%20Chairman%20and%20CEO%20Satya%20Nadella%20announces%20Meta%20Llama%20AI%20joint%20venture%20to%20partner%20attendees%20at%20Microsoft%20Inspire%202023.jpg"
-        width: 1000
-        height: 563
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/21/1600x900/US-POLITICS-TECH-BIDEN-AI-2_1689963897801_1689963956221.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "UW School of Computing Makes Joint Hires in Artificial Intelligence and Big Data"
-    excerpt: "The University of Wyoming’s School of Computing has taken a major step toward its goal of creating a statewide, national and global impact with the hiring of tenure-track faculty members in applied artificial intelligence/machine learning and big data."
-    publishedDateTime: 2023-07-19T17:38:00Z
-    webUrl: "https://www.uwyo.edu/news/2023/07/uw-school-of-computing-makes-joint-hires-in-artificial-intelligence-and-big-data.html"
+  - title: "Biden White House, tech companies launch new safeguards around emerging AI technology"
+    excerpt: "President Joe Biden met with tech leaders Friday at the White House to highlight what he said are new, voluntary steps the companies are taking to step up safety and transparency around emerging AI technology."
+    publishedDateTime: 2023-07-21T18:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-white-house-tech-companies-launch-new-safeguards/story?id=101555314"
     type: article
     provider:
-      name: University of Wyoming
-      domain: uwyo.edu
-    quality: 32
-    images:
-      - url: "https://www.uwyo.edu/_resources/images/explore-university1.png"
-        width: 622
-        height: 426
-        isCached: true
-  - title: "UN holds first-ever talks on artificial intelligence"
-    excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
-    publishedDateTime: 2023-07-19T04:57:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1205926"
-    type: article
-    provider:
-      name: pna
-      domain: pna.gov.ph
-    quality: 19
+      name: ABC
+      domain: abcnews.go.com
+    quality: 10
 
 secured: "2N4ZHRRYYhWRe28y2Qoi90BtwJsLzMlUJ1jz6pRWCnWeEFUDmqZ/LsqYLqh/KeDPTA5G6qPfX/cCASoXfftToZr5KPcwtsKpo029pilE3Sj8HJJ0IIQbgaKSglkAkY9NYn1RAkJPZi+AHwwd484S2DonPBUovwDZG6IergdfJb2+NEsVqxju0dtTsI9CgbKlQ0MxH5xA+BeqpfEMaJBRzMre++4tHX4ZsOZNiENwHxlb4WzcYdWRUSZYIoBCzBqd+whYdGiS5/Dg/MszYBVPRKbNpSseBSUMBVHQZncl1vSYkrBFTv2uyD1VV4Tl4tOdH0oxYyDVTkyvo6Dmgs+wxWB9bcatrRQtDPsx57HDOKU=;goOPfzxgJ4Iz1sGNv6MBcA=="
 ---

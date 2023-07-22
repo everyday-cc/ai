@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-22-us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards.md",
+      "title": "US must guard against threats from artificial intelligence, says Joe Biden even as tech firms vow safeguards",
+      "excerpt": "President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards. President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards and promised additional government actions on the emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/07/21/1600x900/US-POLITICS-TECH-BIDEN-AI-2_1689963897801_1689963956221.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
+      "publishedDateTime": "2023-07-21T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.md",
+      "title": "Generative AI, flexible batteries, metaverse among top emerging tech for 2023: WEF",
+      "excerpt": "New technologies have the power to disrupt industries, grow economies, improve lives and safeguard the planet – if designed, scaled and deployed responsibly,” said Jeremy Jurgens, Managing Director, World Economic Forum,",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-102030469,imgsize-90706,width-1200,height=765,overlay-ettelecom/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
+      "publishedDateTime": "2023-07-21T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city.md",
       "title": "How cops plan to use AI & facial recognition to curb crime in city",
       "excerpt": "Noida: The police in Gautam Budh Nagar is set to roll out a Geospatial Data Intelligence Platform (GDIP), an artificial intelligence-powered crime dat.",
@@ -276,6 +361,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-junk-fees-medical-debt-and-artificial-intelligence-cfpb-chief-lays-out-regulatory-agenda.md",
+      "title": "Junk fees, medical debt and artificial intelligence: CFPB chief lays out regulatory agenda",
+      "excerpt": "CFPB chief Rohit Chopra has an ambitious plan to tackle several issues, even as a looming Supreme Court case threatens its funding structure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107067707-1653581079724-gettyimages-1240280373-AFP_32937WY.jpeg?v=1689877303",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
+      "publishedDateTime": "2023-07-21T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations.md",
       "title": "TechCrunch+ Roundup: Generative AI marketing, European edtech report, falling fintech valuations",
       "excerpt": "Generative AI tools speed up this work dramatically ... There’s a lot of performative behavior in startup land, such as foosball tables in reception areas and kitchens with kombucha taps. Should we add fundraising to that list? Rebecca Szkutak covered ...",
@@ -492,7 +628,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -698,7 +834,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -751,7 +887,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1086,162 +1222,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ai-alone-cant-save-the-chip-industry-from-a-downturn.md",
-      "title": "AI Alone Can’t Save the Chip Industry From a Downturn",
-      "excerpt": "PCs, smartphones and memory still account for most of chip production and remain in a slump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
-      "originalUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-821047/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-leading-ai-companies-commit-to-outside-testing-of-ai-systems-and-other-safety-commitments.md",
-      "title": "Leading AI companies commit to outside testing of AI systems and other safety commitments",
-      "excerpt": "Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html",
-      "originalUrl": "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230704171206-02-the-white-house-0704.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html",
-      "publishedDateTime": "2023-07-21T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-computer-chip-with-built-in-human-brain-tissue-gets-military-funding.md",
-      "title": "Computer chip with built-in human brain tissue gets military funding",
-      "excerpt": "Monash University scientists created the \"DishBrain\" – a semi-biological computer chip with some 800,000 human and mouse brain cells lab-grown into its electrodes. Demonstrating something like sentience,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/human-brain-chip-ai/",
-      "originalUrl": "https://newatlas.com/computers/human-brain-chip-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/474cbba/2147483647/strip/true/crop/1344x706+0+95/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F83%2F70%2F1d37aa81476bbc3534b48a2120d1%2Floz9501-a-computer-chip-with-some-human-brain-tissue-in-a-small-95451b8c-01dc-4613-8dff-14df00131c92.png&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

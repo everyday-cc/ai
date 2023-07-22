@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Big tech firms agree to White House AI safeguards"
+    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
+    publishedDateTime: 2023-07-22T04:46:00Z
+    webUrl: "https://www.altoonamirror.com/news/2023/07/big-tech-firms-agree-to-white-house-ai-safeguards/"
+    type: article
+    provider:
+      name: Altoona Mirror
+      domain: altoonamirror.com
+    quality: 37
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Leading AI firms volunteer security commitments to Biden administration"
     excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
     publishedDateTime: 2023-07-21T18:47:00Z

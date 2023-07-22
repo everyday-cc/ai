@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvestin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "States Consider Regulating Artificial Intelligence in Hiring"
+    excerpt: "About a quarter of businesses across the nation have adopted AI and many are beginning to use the tech in their hiring process. Only three states currently require employers to ask for consent first if using AI in hiring."
+    publishedDateTime: 2023-07-18T21:01:00Z
+    webUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring"
+    ampWebUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
   - title: "Timely steps seen facilitating breakthroughs in generative AI"
     excerpt: "He added that \"the real opportunity of generative AI\" lies in business applications rather than consumer-oriented uses. His views were echoed by Goldman Sachs Research, which predicted in a report that generative AI could drive a 7 percent increase in global GDP, or almost $7 trillion, over a 10-year period."
     publishedDateTime: 2023-07-19T01:32:00Z

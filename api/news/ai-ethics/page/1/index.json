@@ -62,7 +62,7 @@
       "originalUrl": "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 250,
       "tags": null,
       "images": [
         {
@@ -1171,7 +1171,7 @@
     {
       "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments, such as the introduction of autonomous vehicles,",
       "sourceUrl": null,
       "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
       "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
@@ -1193,7 +1193,7 @@
       "type": "article",
       "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
       "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
-      "publishedDateTime": "2023-07-10T12:08:00-07:00",
+      "publishedDateTime": "2023-07-10T12:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical Xpress",
@@ -1207,9 +1207,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Ethics",
         "AI",
-        "AI Ethics"
+        "AI in Robotics"
       ]
     },
     {

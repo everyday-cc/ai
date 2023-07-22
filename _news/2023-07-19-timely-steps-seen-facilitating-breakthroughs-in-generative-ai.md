@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 888
         isCached: true
+  - title: "States Consider Regulating Artificial Intelligence in Hiring"
+    excerpt: "About a quarter of businesses across the nation have adopted AI and many are beginning to use the tech in their hiring process. Only three states currently require employers to ask for consent first if using AI in hiring."
+    publishedDateTime: 2023-07-18T21:01:00Z
+    webUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring"
+    ampWebUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
 
 secured: "Lqx/l2NaWQrZ5bJT1IQLzucZdPuamwTnogD+R00lZ6TkJIGTXULOj3ouSw7IVT0jIJ0xjeyVMFQsMtd9/6ffoPM6EnCmarZ7AxY9b1IguJel+9FCjhX0lMPtTTjMbxFLSwm/xU9I+Bo7RiMx98UrY3DmlmA15KuaVeLPHewELWo5z7krvQzZOS3yeowYk0vC4R09Pcb1C3qpGu+lft5WUc0QYl4uzIrigvgEra5Pc96JRiH+o2zmnRHJDcP6EPA3WVCRqNQClSdRAhEAddnfwq6JXph0OjmzQa/bkNmYbnIbwnKCWTamO6w3EPIG5sOCVZ/yoQL21J0q+QP1BAfZgDv3EW3UdaPf8mXISomCKUY=;4gcdeR4TrJvjcMOkMuzhjQ=="
 ---

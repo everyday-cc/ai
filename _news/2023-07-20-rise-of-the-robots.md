@@ -51,6 +51,22 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 51
+  - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
+    excerpt: "The investment, occurring alongside the companys product launch event, will further accelerate the development and deployment of Ati Motors robotics technology for automating work in industrial environments and warehouses."
+    publishedDateTime: 2023-07-22T05:06:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 49
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "IuW3s1tTdRcSeq/BbPgL24ksWcU7Cr84dG3r6hJeCRVpzogO3k5w6tS3yKJ638iw5bTN21H2w4CiZA4DPSEkhz+JdWtbaEokyhfpGK/eWeBEEMOe+NWefehS+rEgEpzmW5XYVFiDNRfyARJfZzi04lFt8OCQN4zEkYTLyAfUqjDKXAbkNeiVti4U6z6R+Tsgbv379fytOB3yqAsk3RFFwMT/a5CANyXItVh+I0e399xgiKh+h69oy+WAMFeOBZRzTcQIp3qTHvowainlGY1HsVtiuryRpzagAH0m/XxexLkAB2u2fTAS7RMCYbANjkYp9iP16TZnmsXEBv+nPfEtfA6xhR6JoDJCXFOYAmXCM6nrBt5QGlTcoWyH8tEkJLdk4tJIIVaWWMwDdaL+aBdx0kozUiUvOyX6iIqOVI0vb+D7IAW2X9LBueu76RVwYAmqfPE54qIHP97uUMy8CDde8trhY61X+rwuc4CdzDMM5Dz9jK7ndCzPPicxQLV12drs9p77rfL56ec3ZvBSyJy4Lw==;CamgTNrqUDIpxOcPwMjmkQ=="
 ---

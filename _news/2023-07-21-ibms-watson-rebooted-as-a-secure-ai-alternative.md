@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Exploring the AI and data capabilities of watsonx"
-    excerpt: "Discover the capabilities of watsonx, a new AI and data platform empowering enterprises to leverage their data and scale AI for business.\nThe post Exploring the AI and data capabilities of watsonx appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-07-17T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/exploring-the-ai-and-data-capabilities-of-watsonx/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 114
   - title: "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills"
     excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
     publishedDateTime: 2023-07-20T18:43:00Z
@@ -44,42 +35,37 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
-    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
-    publishedDateTime: 2023-07-20T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
+  - title: "IBM, The 'O.G.' AI, Sparks Excitement For Watson's New Skills"
+    excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
+    publishedDateTime: 2023-07-20T18:43:00Z
+    webUrl: "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
-        width: 690
-        height: 400
+      - url: "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
         isCached: true
-  - title: "Empowering Data Analytics: Unleashing the Potential of Machine Learning and AI"
-    excerpt: "In today’s data-driven world, businesses are constantly seeking innovative ways to leverage the vast amounts of information they collect. Traditional data analytics tools are often limited in their ab"
-    publishedDateTime: 2023-07-20T10:01:00Z
-    webUrl: "https://www.pcquest.com/empowering-data-analytics-unleashing-the-potential-of-machine-learning-and-ai/"
+  - title: "Is IBM the Next Hot AI Stock? This Analyst Says Watson X Software Is the Company’s Most Promising New Product In Years."
+    excerpt: "On its earnings call Wednesday, the company highlighted the opportunity for Watson X, its new platform for enterprise AI applications."
+    publishedDateTime: 2023-07-20T16:50:00Z
+    webUrl: "https://www.barrons.com/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
     type: article
     provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 30
-  - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
-    excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
-    publishedDateTime: 2023-07-20T07:15:00Z
-    webUrl: "https://techbullion.com/from-inspiration-to-innovation-exploring-the-creative-possibilities-of-designs-ais-ai-writer-in-copywriting/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 20
+      name: Barron's
+      domain: barrons.com
+    quality: 50
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/man-chat-with-ai-artificial-intelligence-ai-chat-technology-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://images.barrons.com/im-820713/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "WFtXPge2Zp1+MzSEAHaIS7M6R163w7F3ibIQGdv1s3jmtTbLcyw/2g8/9VQz5RIqGWOX8MLHwgFPM70hhwOfBXoK90CCbQ4KNwYDD6OVWG2ZlBOOrYANgFEn8OVZYI6fdjeTwlYDuLDai6rrdp1cZ3CsRDZ6a+TSlHH7UOPy6xrfJvGPHHg+ctPZxashWwMQ8CcsO9EmtT9ebx8NMOjG7iUaHmfzwOH6+g/TzRyMx3jC0TJjV5BH2xEGdbonEvbXjawWGEO884zJ9ORoaKHbBykmme327lg5Oa3XhtWgokh38cxU7Mg4xLg74F6719yq7LRQYNuf5+vn89P08Van0ivs/A8dax7mujOPTjmxoeJrp/e8pFBQpNf8cLX4yrAw+d4MfcixgJMrGulD9fMz8tl/nvM5zqiBlEa6y7HclisIkDIHVTDZ/0t3+uKNHoNExEzW29MY0BgUDcuZ3tnZ0W5L0dOGNrldsiEAyLzsgGwHugdF3byf4wPL0/LABZHwoK5/tXB7d4pRFQxtQkfa6g==;PaQ3+5KOyXbZ4SaN/td83w=="

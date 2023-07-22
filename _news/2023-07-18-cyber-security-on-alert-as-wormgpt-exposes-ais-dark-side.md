@@ -64,15 +64,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Generative Artificial Intelligence: An Upcoming DevOps Cybersecurity Threat?"
-    excerpt: "Understanding the potential vulnerabilities is the best way to set yourself up for success when these tools are fully integrated into your IT system."
-    publishedDateTime: 2023-07-17T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/generative-artificial-intelligence-an-upcoming-devops-cybersecurity-threat/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "3 emerging threats to healthcare cybersecurity"
     excerpt: "Emerging AI and large language models, ransomware groups, and software vendors pose a threat to the healthcare industry, according to a new report from Trustwave."
     publishedDateTime: 2023-07-17T18:29:00Z

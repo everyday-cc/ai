@@ -157,14 +157,14 @@ related:
   - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T21:00:00Z
-    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
+    webUrl: "https://www.stltoday.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_5af8ebc6-2960-5f70-90e3-09792b0d99a8.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/af/5af8ebc6-2960-5f70-90e3-09792b0d99a8/64b6fe95dc2e8.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

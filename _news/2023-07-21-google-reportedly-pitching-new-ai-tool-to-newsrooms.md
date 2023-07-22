@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This free AI tool turns your sketches into art — and we tried it"
+    excerpt: "Start sketching your scene using the pen tool ... One of the prompts recommended by Stable Doodle is simply “Living room”. So, unlike the case in AI tools such as ChatGPT where you’re encouraged to add as much detail as possible in your prompts ..."
+    publishedDateTime: 2023-07-22T04:32:00Z
+    webUrl: "https://www.tomsguide.com/how-to/this-free-ai-tool-turns-your-sketches-into-art-and-we-tried-it"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/wx7XVzTxXb2kK3nM8LjSTf-1200-80.jpg"
+        width: 1200
+        height: 718
+        isCached: true
 
 secured: "bj91yjl5AN9/SKCmqPrzQwX8TctIr1lrNqxZo4vsjnP+9JnjtVVshihIR+YEpg9Ngx0F4OovegqQhndNw4NJcU8Rj2AKpC6nr6zfpwG5xeKySihFVHQrzpLCCyVGdRFu7WRHlqOX8zv2c//IybLiSI9oCMa1QAOlmeXwDS+xw2mYP3QOxy8b0PJCfJg74iTADy3jzYw7H2K//PrqPEPTOiBNZ1p24IDL9J54OxMw0u/kQYYhZfZp+gcspCRv7naGSpuQzM+jGD7314F6LFfqZzBy0dCffKezCJT3GJ3Lc5/Yi5n0bYpu90v61HNFdwr0LRhPppI28WZHDzB0sHLZd80Bo84BzZPwadPVJk3asU87qFbMRJXQct5+Hm4IrYmWejyeveDNSxOfLL8Q4Yxfc/WTwRwIwO9ht1hdBZZ9ntPSP32z+ecYhY6f0KZeD9aFGX1WndTF1IJlFa5/qrj/J9Ss5XX7WRBBv79tUZcit3m31cRnNs6/aLe9UbwajWcbSZ3zvQDTWo5aqENzYVL72Q==;W9LxbNrJ3H4nfTfit9IcAw=="
 ---

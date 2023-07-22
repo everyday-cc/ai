@@ -42,22 +42,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Rolling Out A Generative AI Strategy In 2023"
-    excerpt: "As everyone begins adding AI to their marketing strategies, there are a few critical steps for successful implementation from the start."
-    publishedDateTime: 2023-07-17T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/17/rolling-out-a-generative-ai-strategy-in-2023/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63457be230f94eb36c4befac/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 825
-        isCached: true
   - title: "Why Generative AI Won’t Disrupt Books"
     excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
     publishedDateTime: 2023-07-20T10:00:00Z
@@ -171,15 +155,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
-    excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
-    publishedDateTime: 2023-07-17T12:51:00Z
-    webUrl: "https://www.waste360.com/recycling/how-automation-and-artificial-intelligence-are-transforming-e-recycling"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 17
 
 secured: "wqTLAucxAcd0wt/+01mP8ENyRmlA/rwNzUeFHRZoyhIi/sT6UunCGjJoAeH7Elg7GKHuHDKJZY7Er8L5dmCz+GgcISCIrnQfFRMKN3UT9KH9RX64uNjf3TVUFT+FkgtczaBhcfec5J9jGaRL6Reko/Deac/ZSEzIO2NgFl449vT+Ln9HutGjfp/DretBwC+XqunRALD/hUbcEW3OvWziULjk5VB85jn286CwA4GnoEJQn59oBaTUcduU8LM5NP5C0fCiE+6ahbzHmE1Yz6HucdeS/2RWiiuLNjTUfXGBnvQ6pKGjHKOIduu3rOQrgt4oR9f0aRHMNoydFiK5TyJMTq4Tkd2oTMozTkPyG2YCb95IrRDAytU3fpNTm5ZR5oVPx6gnYITkrsGKXQ5sPrB+XnUyS1+JJX2LNIbJm4Uy5/a9JlLmXy42iVOgiMiJZPXgE+nxPNMK19Pv2/g8GIvoHH9v+CQhvbmFKozR4H6IKrFZ3OeFnihiCUn5k/d532P4GPrsrRVMixDoODvM0I5+mQ==;fXiCB6M3YYlYZsmjqDefDw=="
 ---

@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
+    excerpt: "The investment, occurring alongside the companys product launch event, will further accelerate the development and deployment of Ati Motors robotics technology for automating work in industrial environments and warehouses."
+    publishedDateTime: 2023-07-22T05:06:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 49
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Rise of the robots"
     excerpt: "The release of ChatGPT was a landmark step in the advancement of AI, but what do the developments mean for the current workforce, and how are governments addressing the risks as AI increases its dominance?"
     publishedDateTime: 2023-07-20T15:27:00Z
