@@ -70,20 +70,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Essential Ai Tools Every Cio Must Use In 2023"
-    excerpt: "In today's rapidly evolving digital landscape, artificial intelligence (AI) has become a transformative force across industries. As the technology c"
-    publishedDateTime: 2023-07-17T17:29:00Z
-    webUrl: "https://menafn.com/1106612857/Essential-Ai-Tools-Every-Cio-Must-Use-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/17/F_7f1c0image_story.jpg"
-        width: 1280
-        height: 1920
-        isCached: true
 
 secured: "bTfF5GoBJl8TmigXvlABnVZjuoUsdM3EzUrfcMkKIBSyN2lOAx5xylN4YJ8Cuu0F3g6k8JNFIwZTbxZQqocwWjEMtGkmkMztY34zYpyRZDI7vpm4Aj1BeXZblMWj6PGs89vkn+AKkQdCP8Cj0D7rv6SzeiBEpqkZtoBQVtSwziKpiqwquYKC8AeUJLDSPNnC38+urYG7FDvsjRmgzfCaqzaiAsPJIJz2VJ6+t/7szZ1BNnpyVTd8erXYRnqr+KOaWZp2OTIIuh5o85cbxsk9PNJeFoz6AEugpdclr9NRSp+u4V4TTptsHOFrxeht6jUWk97TvXZ31NqNjBiCB3RKNq9ZsF6Ft92FUAXZqVwVoa3bpYyVGwQ5DWyvp3blsT2UEmpcqI5N0sc69c73dOm3rK2vQOxvwYJsHiZzeA/rh1MabPcq1zl8/mfYBBs299FbIGVcUkVXcfZQfTcg4e6h6wvyGXeHa+akYkZsMPsS77rkCH6jUSC6KYZLBsCiWajuHLdCtpxAr1Ps4N9s8ZkIDw==;lPHz2TyQDwSOackyidURsA=="
 ---

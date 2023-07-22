@@ -30,6 +30,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 36
+  - title: "The 'yes' and 'no' campaigners reveal their case on Voice referendum to Parliament"
+    excerpt: "It said voting yes was about recognition of indigenous Australians ... The Yes pamphlet also included support for Voice from Indigenous sports icons, including Johnathan Thurston, Eddie Betts, and Evonne Goolagong Cawley. The No pamphlet, written by ..."
+    publishedDateTime: 2023-07-21T03:52:00Z
+    webUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/kampanye-ya-dan-tidak-mengungkap-kasus-mereka-tentang-referendum-suara-ke-parlemen/wqlmpabim"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 33
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/f35ea41/2147483647/strip/true/crop/800x450+0+42/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5d%2Fd8%2F1d4c9184453a880c2e98b4a5b9f5%2Fthe-yes-and-no-camps-have-submitted-their-cases-on-the-voice-to-parliament-referendum-aap-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "‘Parliament remains supreme’: Albanese says the Voice will be denied veto power over government"
     excerpt: "In a heated debate, Prime Minister Albanese has confirmed that no reparations or Australia Day date change will happen if The Voice referendum succeeds."
     publishedDateTime: 2023-07-20T01:02:00Z

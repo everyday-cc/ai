@@ -7,7 +7,7 @@ originalUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-t
 webUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-team/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 1024
     isCached: true
+
+related:
+  - title: "Brain on a Chip: Research team bags grant to merge brain and AI"
+    excerpt: "This transformative project aims to grow human brain cells on silicon chips, creating remarkable capabilities in the realm of machine learning."
+    publishedDateTime: 2023-07-22T11:22:00Z
+    webUrl: "https://interestingengineering.com/innovation/brain-on-a-chip"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/22/image/jpeg/3OZ6p46Khs3mWIlC1CvBjv22qTs7kVRuXt4op969.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Wz7uzSW+xTgCfzef+xKQ6mACM8N3EUmpgQdPa2r7nxMJNZwT8Qzi4BemkvCPnehOoSeOsCsyRGqxIj0LmB73kx1TNN1XL56pkUXMXQ8Jg8dO4vWDkycX1M6Ajfd7ucaJ9Od69DHb9uV0RO0h2Qwycnq6DZNkadRIy22YMZoWJwQfy3j5GU/8vbrM8DmwsWc9ssUThNKUhq0VV00Ztvip+2qALNnsJVMNb2vn4eSfVAWeXhBLsqQnlPBB8rtVFdinUCnKO3ROXUYhs3khmeAHbG90obQlqKqW2Xhjlp7U7QjvmfftSGCSgNgX3iO+15gaEYIfpEzTqfrN+CFmCAoatEHrNQFo4VGeFKgVNVRJfk4=;RQ+KTe/50q3Q6bhK4L5VvA=="
 ---

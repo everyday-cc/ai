@@ -597,6 +597,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-14-bunnings-makes-facial-recognition-technology-a-condition-of-entry-at-store-in-preston-melbourne.md",
+      "title": "Bunnings makes facial recognition technology a condition of entry at store in Preston, Melbourne",
+      "excerpt": "A customer's photo of a point of entry sign at a Bunnings store has raised fears it has quietly reintroduced facial recognition technology - but the hardware giant claims the sign is just part of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12297609/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12297609/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/07/14/04/73201751-0-image-a-6_1689307091993.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12297609/amp/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12297609/amp/Bunnings-makes-facial-recognition-technology-condition-entry-store-Preston-Melbourne.html",
+      "publishedDateTime": "2023-07-13T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year.md",
       "title": "AI Speed Boost Coming With Intel’s Meteor Lake Chip for PCs This Year",
       "excerpt": "Spread the loveArtificial intelligence continues to make incredible strides in all sectors, and the rapid advancements in technology are a testament to the significant contributions that AI has to offer.",
@@ -1129,57 +1172,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch.md",
-      "title": "This Week In XR: Musk Launches X.ai, Meta Threads Blasts Off, Roblox VR Launch",
-      "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Shawn Frayne, CEO of 3D monitor LookingGlass. We can be found on Spotify, iTunes, and YouTube.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b0533f306f9dc55aee1981/0x0.jpg?format=jpg&crop=3404,1914,x0,y406,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/13/this-week-in-xr-musk-launches-xai-meta-threads-blasts-off-roblox-vr-launch/amp/",
-      "publishedDateTime": "2023-07-13T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

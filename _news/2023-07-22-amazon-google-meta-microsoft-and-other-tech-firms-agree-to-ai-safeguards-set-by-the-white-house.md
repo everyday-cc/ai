@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-excerpt: "WASHINGTON — President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
-publishedDateTime: 2023-07-22T05:58:00Z
-originalUrl: "https://www.daily-sun.com/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
-webUrl: "https://www.daily-sun.com/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
-ampWebUrl: "https://www.daily-sun.com/amp/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
-cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/701563/Amazon-Google-Meta-Microsoft-and-other-tech-firms-agree-to-AI-safeguards-set-by-the-White-House"
+excerpt: "President Joe Biden is praising new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House as an important"
+publishedDateTime: 2023-07-21T18:07:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
+webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Daily Sun
-  domain: daily-sun.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://www.daily-sun.com/assets/news_images/2023/07/22/Joe_Biden-DS-1.jpg"
-    width: 966
-    height: 644
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -545,6 +545,20 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 61
+  - title: "Meta and Microsoft launch open-source AI model Llama 2"
+    excerpt: "Meta and Microsoft have teamed up to release Meta’s latest AI model Llama 2 which was built specifically for and made freely available to enterprises and researchers."
+    publishedDateTime: 2023-07-19T01:15:00Z
+    webUrl: "https://cointelegraph.com/news/llama-2-open-source-ai-model-launched-by-meta-microsoft"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 56
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNGVmY2NkNmEtMjg5Ny00NTY4LWIwNzMtMWI1YzYwODcwNTc3LmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Meta launches AI language model for Microsoft and Amazon cloud users"
     excerpt: "Meta isn’t charging for access or usage of the model it developed. Instead, by opening up the technology to other companies, Meta says it will benefit from improvements that can be made when more developers use,"
     publishedDateTime: 2023-07-19T05:11:00Z
@@ -675,20 +689,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BuildingsandCloudsUpBIg.jpg"
         width: 1665
         height: 1158
-        isCached: true
-  - title: "Meta and Microsoft launch open-source AI model Llama 2"
-    excerpt: "Meta and Microsoft have teamed up to release Meta’s latest AI model Llama 2 which was built specifically for and made freely available to enterprises and researchers."
-    publishedDateTime: 2023-07-19T01:15:00Z
-    webUrl: "https://cointelegraph.com/news/llama-2-open-source-ai-model-launched-by-meta-microsoft"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNGVmY2NkNmEtMjg5Ny00NTY4LWIwNzMtMWI1YzYwODcwNTc3LmpwZw==.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Microsoft Advances Copilot and AI Products at Inspire Event"
     excerpt: "Additionally, Microsoft touted the use of Copilot in Power BI with Microsoft Fabric, its AI-enabled collection of data platform tools (which includes Azure Data Factory and Azure Synapse, for example). Microsoft Fabric is now at the public preview stage ..."
@@ -1000,6 +1000,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "r3rcFSkcfDQdjPthp1HOsxkwMn2bt5F0rmhvnEEWc+7KGvC/5juVoFSMiIaRgsPH28zzkRKFmWRcFPoCe5TZyk1pYmHWZWQieb/xs360n0wHk1IhA7YrNeUXogGYLDWHWYWK/WBl/BO7A+8/FOEaMVKF5u0gptXs5zBHD6jtOfvrfPhVr3Jx/qMihclmbOuyJ5E1BCvoqzYG/rcx0S1OrBX5U+nDc8IsfQ3ASsyYUhhvSXVemMAvoASq4XWTFSUnm/1VGVLAgnMeiIF8alnziNv8C2Uo6lB87/2LJXTjAob1xXQ9Ubrbq6/+fGCQ4OKRlUpAS2oDhil7E7yJ4QbJiofWFYE9sk+GZClytm7T2wc=;NTQx4kyDyOYrWr8cfuJs3A=="
+secured: "p1TYHCFEhwVjWm8eh4UEo0e+AA2bzhLiWlInrjBSSySKxD59zpYr4BuQhuPjAOPN6yj0S1uGti6FQp4njXot6omKFiOpdtZ8nc7CmZtPMD/Ruz6VohppqQHRhc/CNI2XzpxHRL8bE/tljxqbXxB7e7gp40XSVRPJfhC/9PF9bhaGPIMmjcllLhSt4sT1lg3dGQm7z27AU1ad7ftSIBkYIQ3EJ2bDnzcyfVC6bA42WWe6tWZSvn1aa64XbgyNAB7vOatbE0ZSrX75EAVlHe9O2havV8uMNRrI06Bc9p3YBmpmURTV9GD9+Huxae4ALO4fdwKJNiZihKfMERvTk6EWI2QBuUpmgYmNc++X9oM5IIU=;5BhG6PfBGFNXFmaDTOBg5g=="
 ---
 

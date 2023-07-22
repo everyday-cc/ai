@@ -64,15 +64,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "3 emerging threats to healthcare cybersecurity"
-    excerpt: "Emerging AI and large language models, ransomware groups, and software vendors pose a threat to the healthcare industry, according to a new report from Trustwave."
-    publishedDateTime: 2023-07-17T18:29:00Z
-    webUrl: "https://www.beckershospitalreview.com/cybersecurity/3-emerging-threats-to-healthcare-cybersecurity.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
   - title: "AI could revolutionize dentistry. Here's how."
     excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
     publishedDateTime: 2023-07-21T18:36:00Z

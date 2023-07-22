@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Essential Ai Tools Every Cio Must Use In 2023"
-    excerpt: "In today's rapidly evolving digital landscape, artificial intelligence (AI) has become a transformative force across industries. As the technology c"
-    publishedDateTime: 2023-07-17T17:29:00Z
-    webUrl: "https://menafn.com/1106612857/Essential-Ai-Tools-Every-Cio-Must-Use-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/17/F_7f1c0image_story.jpg"
-        width: 1280
-        height: 1920
-        isCached: true
   - title: "How exactly should the government regulate artificial intelligence anyway?"
     excerpt: "An old saying goes like this: \"If it moves, tax it. If it moves too fast, regulate it. If it stops moving, subsidize it.\" Well, Artificial Intelligence is in that fast-moving stage, but no one"
     publishedDateTime: 2023-07-19T19:40:00Z

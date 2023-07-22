@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/113bbb0e735ba20e08390eb5290d8982db69b055/0_116_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0b36a71976764df9bece604d5b1aa271"
         width: 620
         height: 372
-        isCached: true
-  - title: "Essential Ai Tools Every Cio Must Use In 2023"
-    excerpt: "In today's rapidly evolving digital landscape, artificial intelligence (AI) has become a transformative force across industries. As the technology c"
-    publishedDateTime: 2023-07-17T17:29:00Z
-    webUrl: "https://menafn.com/1106612857/Essential-Ai-Tools-Every-Cio-Must-Use-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/17/F_7f1c0image_story.jpg"
-        width: 1280
-        height: 1920
         isCached: true
   - title: "How exactly should the government regulate artificial intelligence anyway?"
     excerpt: "An old saying goes like this: \"If it moves, tax it. If it moves too fast, regulate it. If it stops moving, subsidize it.\" Well, Artificial Intelligence is in that fast-moving stage, but no one"

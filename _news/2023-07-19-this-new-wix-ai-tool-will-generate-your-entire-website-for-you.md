@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-j
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wix announces AI text-to-website generator"
-    excerpt: "Wix today announced new generative AI tools that will help enterprises create, edit, and manage websites using natural language prompts."
-    publishedDateTime: 2023-07-17T17:35:00Z
-    webUrl: "https://venturebeat.com/ai/wix-announces-ai-text-to-website-generator/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/984ed3_c5c8927aeee243d79c40e0215283e645mv2-e1689614128543.png?w=1200&strip=all"
-        width: 920
-        height: 460
-        isCached: true
   - title: "Wix's AI Site Generator Builds Entire Websites in Seconds"
     excerpt: "The results promise to drastically cut down the time it takes to build a website. In a video, Wix shows AI Site Generator asking for your request. You tell it the details—like what the website is for and what pictures you want to use—and it'll build the site in seconds. It appears to rely on stock images from Wix’s own media library,"
     publishedDateTime: 2023-07-17T19:18:00Z

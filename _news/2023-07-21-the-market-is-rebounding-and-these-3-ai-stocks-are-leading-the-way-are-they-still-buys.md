@@ -106,15 +106,6 @@ related:
         width: 700
         height: 342
         isCached: true
-  - title: "SAP's marketing team is running multiple generative AI experiments. Its top marketer tells Insider what she's learned so far."
-    excerpt: "SAP is using generative AI for marketing, with 8 active experiments. Its chief marketing and solutions officer reveals what she's learned so far."
-    publishedDateTime: 2023-07-17T18:02:00Z
-    webUrl: "https://www.businessinsider.com/sap-cmo-generative-ai-marketing-experiments-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "The Washington Post Is Experimenting With Generative AI, But Setting Clear Boundaries"
     excerpt: "The Washington Post is experimenting with a variety of large language models–but setting boundaries and guidelines to keep them in check."
     publishedDateTime: 2023-07-18T05:00:00Z

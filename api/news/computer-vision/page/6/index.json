@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-02-city-councilman-introduces-bills-to-limit-facial-recognition-technology.md",
+      "title": "City councilman introduces bills to limit facial recognition technology",
+      "excerpt": "THE SECOND BILL REVOLVES AROUND FACIAL RECOGNITION TECHNOLOGY. IT WOULD REGULATE NOT ONLY ITS USE, BUT HOW DATA IS RECOVERED, RETAINED AND THEN ULTIMATELY DESTROYED. BARNETT SAID AT TONIGHT’S ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "originalUrl": "https://www.wbaltv.com/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/facial-recognition-technology-jpg-1671811901.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "cdnAmpWebUrl": "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/facial-recognition-surveillance-technology-bill-limit/43762133",
+      "publishedDateTime": "2023-05-02T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBAL-TV",
+        "domain": "wbaltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-ai-in-computer-vision-market-2023-2031-players-launches-revolutionary-product-line-in-coming-years.md",
       "title": "AI in Computer Vision Market (2023-2031) Players Launches Revolutionary Product Line in Coming Years",
       "excerpt": "Global AI in Computer Vision Market research report offers an In-depth analysis of valuable insight into the market",
@@ -1406,41 +1449,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-python-developer-computer-vision-machine-learning.md",
-      "title": "Python Developer – Computer Vision / Machine Learning",
-      "excerpt": "Vacancy available in the heart of Cape Town’s genteel Southern Suburb, for a full-time Python Developer with experience in Computer Vision and Machine Learning to join our client’s engineering team to help bring innovative products to the market.",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/04/21/python-developer-computer-vision-machine-learning/",
-      "originalUrl": "https://it-online.co.za/2023/04/21/python-developer-computer-vision-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

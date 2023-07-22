@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-fo
 webUrl: "https://www.fool.com/investing/2023/07/18/2-top-ai-stocks-ready-for-a-bull-run/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
         width: 2359
         height: 1270
+        isCached: true
+  - title: "2 AI Stocks That Could Help Make You a Fortune"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI)."
+    publishedDateTime: 2023-07-22T11:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg"
+        width: 2121
+        height: 1414
         isCached: true
   - title: "These 3 AI Stocks Report This Week... What to Know"
     excerpt: "Wall Street expects IBM to earn $2.01 per share on $15.77 billion in revenue. This compares to $2.31 per share and $15.54 billion in revenue a year ago. However, last week, IBM announced its three-pronged \"watsonX\" AI technology platform. This is geared toward helping businesses improve their workflow productivity."

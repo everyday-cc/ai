@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
-excerpt: "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ..."
-publishedDateTime: 2023-07-10T21:42:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230710la53354/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws"
+title: "Alteryx Fuels Finance Transformation With Decision Intelligence And Intelligent Automation Leveraging The Power Of Aws"
+excerpt: "2 Modernize with new technologies : Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science, robotic process ..."
+publishedDateTime: 2023-07-10T20:40:00Z
+originalUrl: "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws"
+webUrl: "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
   - AI in Finance
 
-secured: "WUsBwAz7GS7erjIrruxN5bRexOeZB89Odp1XV3hsXf0YcW7qAjQqLPrnqCubvN1xzfbDwUmVMcx1rH1ySt2alocxKBwlKHatbgP8i+984t0ZtwJARDKKrwKy54iEtv693l+mK9xg9/svebrICyRIg7q0NCqGe/LccBswn2L5spifjr3DCgvTW16/JQDTBtDvEC0wQr3gaHj/Nwb4zuPVsEV8Cwwao5uz95QUU3qwLp8vzd9v8dh0ccyCxKalJ/pKcy4x3SkpHDeCGlS1ZhCCjI2cSb8nf8fAAKkn0C13iLG2EOGWZKh0TXikgncRSRj84SvZB1TeGegsL6mhaX9ag54XCKgkZvrHbWgPliU3bMc=;jRd+9wDlFbVVglsu1NN67A=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?463717"
+    width: 375
+    height: 249
+    isCached: true
+
+secured: "2FYA3TAsbK060BQ53F+DKVab1PojVSxXf32ORmsb/hf/brkBgfDMDV7kWvJn6E6YHHplEac2a8NKp9ZaHrJPj0k6vVOwZlbZTG3gXjwiAWq+dTBYWZG9tcQOD3jYN3SktRKYYqLj/myDmDGfkszWbH7N9hfPFz13Tc+8cOgHd636Ht2uZBRjSHa9q0xS4UTPqnCSTM1bQ48WB7A6AsjjfV3N+bPn/KF3Uv7Tz6NtglN3mN0jjQ7FHHvfyTttor482+wmoCQ7PinNY/4DBOSEvF0rR+E/BmF2P0L0RLx+4iucySQ8MUu+Bxw4DNq+FLOv5oerwDAPzkJpB4I0kNaAGXoLUs8QQgpbcanexwY9E+0=;Z2d4M5QL7uxBUig8H4sYaA=="
 ---
 

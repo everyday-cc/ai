@@ -115,15 +115,6 @@ related:
         width: 700
         height: 342
         isCached: true
-  - title: "SAP's marketing team is running multiple generative AI experiments. Its top marketer tells Insider what she's learned so far."
-    excerpt: "SAP is using generative AI for marketing, with 8 active experiments. Its chief marketing and solutions officer reveals what she's learned so far."
-    publishedDateTime: 2023-07-17T18:02:00Z
-    webUrl: "https://www.businessinsider.com/sap-cmo-generative-ai-marketing-experiments-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
     excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
     publishedDateTime: 2023-07-18T12:08:00Z

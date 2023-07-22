@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel Capital invests in Figure as humanoid robot takes first steps"
-    excerpt: "Intel Capital invests $9 million in AI's autonomous humanoid robot, Figure 01, boosting growth and commercialization."
-    publishedDateTime: 2023-07-17T17:28:00Z
-    webUrl: "https://www.therobotreport.com/intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/07/figure-robot-featured.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "Figure humanoid robotics receives investment from Intel"
     excerpt: "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics"
     publishedDateTime: 2023-07-18T08:56:00Z
@@ -61,20 +47,6 @@ related:
         width: 765
         height: 500
         isCached: true
-  - title: "Intel Invests In AI Startup To Design Humanoid Robots For Shrinking Labor Force"
-    excerpt: "Intel Capital has made a $9 million equity investment into Figure, an AI Robotics company building general-purpose humanoid robots. Today's announcement follows the Figure 01 robot taking its first steps,"
-    publishedDateTime: 2023-07-17T17:32:00Z
-    webUrl: "https://hothardware.com/news/intel-invests-in-ai-startup-to-design-humanoid-robots"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 50
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62083/content/hero-intel-figure-humanoid-ai-robot.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Intel Invests $9 Million in Humanoid Robotics Startup Figure"
     excerpt: "Intel makes chips, but it also makes bets on other companies via its Intel Capital arm, which just dropped some cash on robots. It's not buying them, though. Intel has made a $9 million equity investment in Figure,"
     publishedDateTime: 2023-07-19T12:15:00Z
@@ -84,15 +56,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Humanoid robot startup Figure nabs $9M investment from Intel Capital"
-    excerpt: "TechCrunch reported the investment today. Intel’s capital infusion follows a $70 million raise that Figure disclosed in May. That round included the participation of several institutional investors as well as the startup’s founder and Chief Executive Officer Brett Adcock."
-    publishedDateTime: 2023-07-17T17:40:00Z
-    webUrl: "https://siliconangle.com/2023/07/17/humanoid-robot-startup-figure-nabs-9m-investment-intel-capital/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "ObRY2OGXGI3XyBV662FXlK8EM9l3DG8sE1ry9C4qu0LX8hVoF32hh3RLRNYsXrMxtlrsC0Z+x4kGQqbrV5WntBeeE49POhH2l8+dghi/4DFb0IkZlxMlwD8Tf4f1LuPNqyfZHsuH+SDX/pK6Jm1QBMun734y58q2E3hOHasS0hCq8t8br1qYLHWb4eqqf2GEnK5y7mVTpS7BTFNTpFWfzUMatplbpMxa0TL7ujXHYl2G1mH2hG8zpfL02+4YZ0hGiFmx4nJR6HStGVeCstjDTs7HnhXAq7chSOpY1dsSl4kwFFtCvwc+ilmJLVrPNhnL6LdHQnPzWFCsmw76tnVHs1jnXl1WFx2Xfk/voJlV7h1jaARRx4+fmFc/kqQtwD01uxplT+ybMu9WBdBJX/eR9bQsBSwoTn+PkFD9g0pOwESIVmktmEaJK1l/XOPMzYj7JIzfuH3Z2Utb7Jf45VSaJ7iBIxlQFqyl5x/yaj6LEhukAAgCQ5P1X61k3FqU3ZYXHfGvL00L8kHHQo/4MchdKg==;NtOwJ6LuKkWGbO3BBAp7UQ=="
 ---

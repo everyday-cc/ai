@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "This new AI tool transforms your doodles into high-quality images"
-    excerpt: "Clipdrop by Stability AI launched Stable Doodle, a sketch-to-image AI tool that can transform your quick doodle into a polished image just by using your sketch and a prompt."
-    publishedDateTime: 2023-07-17T18:06:00Z
-    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-transforms-your-doodles-into-high-quality-images/"
+  - title: "This Barbie AI tool turns you into a Barbie movie character (sort of)"
+    excerpt: "Warner Bros and Photoroom, an AI-based photo app, collaborated to create a Barbie Selfie Generator, which lets users upload a selfie and transform it into a Barbie movie character's poster."
+    publishedDateTime: 2023-07-21T15:27:00Z
+    webUrl: "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/c0bca7db75625cc18335648e3423ac5669999a83/2023/07/17/5fada49b-6f21-41d1-a300-ac2d49133e89/screenshot-2023-07-17-at-11-24-40-am.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google Reportedly Pitching New AI Tool to Newsrooms"
-    excerpt: "Google is exploring ways artificial intelligence could assist journalists and news publishers. This reportedly includes testing an AI tool that can take in information and turn out news articles."
-    publishedDateTime: 2023-07-20T17:32:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-reportedly-pitching-new-ai-tool-to-newsrooms/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/bd59a0540fd6424563286443154a8cb7e9cac750/hub/2023/05/11/5191c278-f148-4f89-8671-99ac5d4b14e1/google-io-2023-051023-82.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/70775f51b0e65f1fc3a0c4a68812c9f6b4476177/2023/07/21/0bc0b301-9260-4cb3-8c04-1b887d1af7b1/gettyimages-1543944233.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

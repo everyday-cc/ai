@@ -55,6 +55,20 @@ related:
         width: 2359
         height: 1270
         isCached: true
+  - title: "2 AI Stocks That Could Help Make You a Fortune"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI)."
+    publishedDateTime: 2023-07-22T11:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "wP9rB9jl2ihpu3U0X47Zc3lf8ndQNI3NU3SNT2u8VjDY+On8LCNfXzN0GTgOtirJ81AiTuE0btiDF6PBdncwJKvLFgwlMrU4c+c+ymgUZVGgnXIiv1wgAaeoRQCEeh+FuMZLcYso2DFx0HFZypQE0Yx/poozHjcJgkn5sLlZjxpl0awbrpGFw+1SoY9UbHmT0TlrTSEImcc/fN80vm9kCroZ9CWLU7kldSYIZyqRai0L5tbF8r8fXWKbGyRmNdDmz2EFK2QIMW0OKe9JrPu4DAaCL6Idu4eu/4mjOTEFia6+TgMeJGzpT2VcrkLjClXDL0Z39XyatWFSXA4stWObiysasEamMc667bmsTWWErjg=;nozXHayrLzjphpIZm/3mfA=="
 ---

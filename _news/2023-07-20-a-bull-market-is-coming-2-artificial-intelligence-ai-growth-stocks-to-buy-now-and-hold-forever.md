@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-
 webUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "1 Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist, and 1 That I Wouldn't Touch With a 10-Foot Pole"
+    excerpt: "In the wake of the worst stock market downturn in over a decade, things are starting to look up. Each of the major market indexes has recovered at least 20% from their recent bottoms, causing some investors to announce the arrival of the next bull market -- at least by that measure."
+    publishedDateTime: 2023-07-22T10:12:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/22/1-artificial-intelligence-ai-growth-stock-to-buy-h/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 60
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740269/a-person-looking-at-a-mobile-device-while-seated-at-a-computer-desk-with-an-overlay-of-ai-algorithms-and-stock-price-graphs.jpg"
+        width: 8660
+        height: 5773
+        isCached: true
   - title: "25 Millionaire-Maker AI Stocks to Buy Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips To say that artificial intelligence is transforming the world would be a"
     publishedDateTime: 2023-07-20T15:44:00Z
