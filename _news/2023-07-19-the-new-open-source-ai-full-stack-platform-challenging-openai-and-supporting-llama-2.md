@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/the-new-open-source-ai-full-stack-platf
 webUrl: "https://venturebeat.com/ai/the-new-open-source-ai-full-stack-platform-challenging-openai-and-supporting-llama-2/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
+    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
+    publishedDateTime: 2023-07-21T13:00:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 43
 
 secured: "WpjYDa9ClO2d0cQ1hLQIncVivHMqXcToO+J4HX0lKcnJ4MNi1NX9eeMeGSfiHOWOAVlQ+4t2kYulxLbV6j//Ayz7UBtFV+tFr+W44FHik13o07RSoPKkVkGqKAnSURzrhRzYjxRz9QM/i7Wnne7HasIXZDiPS8Vnha09V301VCqFEnLahdHx1/XeTMFfaWttcC6KjAGXwS8zE6hoztktR32UjvRpoka216qUiY5TUSXc9bb8wsQy0rDc1FdPDFNukPDvnJlaW6owrgZ7mYxGoTQsKhEoSfrZbGqj9OHXtcmB2ceW9nlYgFVOsdvgydhR87c9jgQAvoO8nxYX+LQ8o9Up/3fwwyyHcsyQVi0JMl47q9dfytXaTASwjQZC1BEW9xXhrDKIqQwAKwaOZ3hC4d5Tyc6HzpSkFWEGBavl5pkTlXK+ZPL9Fynev2TTQKGVZlxMYMYEIHHhn4ziTBb98pbvNhPY19WKceT6jrhgV+wHLYmWcvLwdgssZCcVgP2ZvWfhEgK5W2I0/SPVIMcfXg==;8ooIP64M/2mghL6C8mqI7A=="
 ---

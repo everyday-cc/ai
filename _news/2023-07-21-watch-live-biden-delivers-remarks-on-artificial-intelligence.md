@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon, Meta Among Firms to Unveil AI Safeguards After Biden’s Warning"
-    excerpt: "President Joe Biden will be joined by executives from Amazon.com Inc., Alphabet Inc., Meta Platforms Inc., Microsoft Corp., and OpenAI, who are among the firms committing to a transparency and security pledge."
-    publishedDateTime: 2023-07-21T13:29:00Z
-    webUrl: "https://time.com/6296615/amazon-meta-ai-safeguards-biden/"
+  - title: "Leading AI firms volunteer security commitments to Biden administration"
+    excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
+    publishedDateTime: 2023-07-21T18:47:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/leading-ai-firms-volunteer-security-commitments-to-biden-administration"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 47
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
 
 secured: "onLT3GpTLuitt81PvwodDPkmdnwxFFfPA8+XMY3R9+nIqY6/EkkTYaoLrjhRuTYnZXO8wukIQrSBXadxaxr6sT5A+o2clSvjBVLAM1KYtlDONYvhJ6yrE45PuM2/+idxmNhgg+WLY/jFpnXyHNKWT9VIO9OmwNGUo9UTdkYqTzVVMSdK2UM9p37MsISBHLFH9iKd5/IgIwU5u3TdxzvTquQUy/th78LrPD5TsoOPDaP2JxkC40xS5WHqmjyPzGtLYPurp5rqoYpeqlTvUdbp2cUBJpx3y7x/mUJBG6ScdBQHOgfWgTSJmGeAwoq1vvpqsMaZvYKTeQr3FS0eziFfIJFpxqMnHxv10iznHdEa1uwTiCJxATeUNic4xR5TmzWMbZcmbFxe7a8OJgPfcUXF3BVEcW7dw553NnqwlfRov2QE/ZChgH2wXIoqTxip794Kwz8KjobZ372ffppxRLdr4zULpd5WbjNcCCDL2WW/L9t8GUAEJluqkagGIvqrE5MDzbFekpuoHUjE48tMJDC88A==;uDspoaazd8FyRRWr0cX0Rg=="
 ---

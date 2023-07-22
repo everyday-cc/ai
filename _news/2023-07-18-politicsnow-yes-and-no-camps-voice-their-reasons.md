@@ -63,15 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Speaking out: opposing camps state their reasons for and against an Indigenous voice to parliament"
-    excerpt: "Australians will be told the ­Indigenous voice to parliament is a “leap into the unknown” when they receive the official No pamphlet in the mail, while the Yes ­brochure promises constitutional recognition with concrete results,"
-    publishedDateTime: 2023-07-17T14:45:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/speaking-out-opposing-camps-state-their-reasons-for-and-against-an-indigenous-voice-to-parliament/news-story/e73c3cc7eee2d90a249423d3452d09f7"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 5
 
 secured: "FMubXfmhdD/ZUc22l+n0i0x+OhJGD48jCdHiTRNGguEd19ESfaCoS2C3VQDhM1bvHLEJZXigGU6fAu5sns5wF38vQxnkEM/ew2jGZBZNx2KQW9SBFHz556y5Q/49yHmVR2FKiK4drpQxJKSng25XfP95xyz3JEbLgtcVzEZesMqxxJA699B52pwFVJLs/XBmHn/9NlzOfmQceMoWA+ksqjIwRps1Msq/bMDO8azCuLx12qRwQECnnWNvBMPVawQnJ0A/uliUYlMfRoyyzGZdEVy9Csin67y1lApRba8PDawM8SR0LGxDIKXIpy//Y37pFMN+jUEAH3McVrOt69E8NgpmrwM6e6BWxEiH3pxVFRYSXQjKpUnSSroXcQHuRNA4hfE+2aKl/Y2jKofgmWl8F/U8eCDM9WvFV6RqgSNf2V1aBEbed2CGygu0nYlOP3/ZwX6Piaxq2RtGlpFuFA3WyyZ68i1p9Hw4PU13mJZs6o5RWq0lrKOs1nEVg2BBQurx8uU6fXy7OoajtGl/B86R3A==;FC3P9mbtLcB143IHn49aTg=="
 ---

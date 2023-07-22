@@ -106,15 +106,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Indias Think360 make top AI Fintech Companies List"
-    excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
-    publishedDateTime: 2023-07-17T14:12:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
     excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
     publishedDateTime: 2023-07-19T13:48:00Z

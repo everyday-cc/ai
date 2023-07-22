@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-22-us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards.md",
-      "title": "US must guard against threats from artificial intelligence, says Joe Biden even as tech firms vow safeguards",
-      "excerpt": "President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards. President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards and promised additional government actions on the emerging technology.",
+      "path": "_news/2023-07-22-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
+      "title": "AI-powered travel assistant touted as most powerful ever",
+      "excerpt": "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry.",
       "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
+      "webUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/tech/img/2023/07/21/1600x900/US-POLITICS-TECH-BIDEN-AI-2_1689963897801_1689963956221.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html",
-      "publishedDateTime": "2023-07-21T22:58:00-07:00",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-british-political-candidate-used-ai-to-build-policy-platform-to-create-meaningful-participation.md",
+      "title": "British political candidate used AI to build policy platform to create 'meaningful participation'",
+      "excerpt": "Andrew Gray used artificial intelligence to crowdsource his party platform, gauging interest and stances on various issues and finding points of agreement and gaps in consensus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
+      "originalUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fbcb2e8-ccec-4dac-ac6e-95f168587aaf/08252fc7-392e-4cfa-a4cf-84a1b110cfd6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -172,6 +224,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-seven-ai-companies-agree-to-safeguards-in-the-us.md",
+      "title": "Seven AI companies agree to safeguards in the US",
+      "excerpt": "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-66271429",
+      "originalUrl": "https://www.bbc.com/news/technology-66271429",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 347,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-66271429.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp",
+      "publishedDateTime": "2023-07-21T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-brian-cox-warns-of-a-scary-future-where-theres-an-ai-brian-cox.md",
       "title": "Brian Cox Warns Of A 'Scary' Future Where There's An AI Brian Cox",
       "excerpt": "The \"Succession\" star gave a fiery Logan Roy-esque speech at a London rally in support of the SAG-AFTRA and WGA strikes.",
@@ -231,7 +334,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -326,7 +429,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -420,7 +523,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -671,108 +774,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-21-white-house-got-ai-firms-to-agree-to-voluntary-safeguards-but-not-new-regulations.md",
-      "title": "White House got AI firms to agree to voluntary safeguards, but not new regulations",
-      "excerpt": "Today, the White House announced it has secured voluntary commitments from seven leading AI companies to manage the risks of AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/white-house-got-ai-firms-to-agree-to-voluntary-safeguards-but-not-new-regulations/",
-      "originalUrl": "https://venturebeat.com/ai/white-house-got-ai-firms-to-agree-to-voluntary-safeguards-but-not-new-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T102731.767.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-top-tech-companies-pledge-not-to-be-reckless-with-their-ai-tools.md",
-      "title": "Top Tech Companies Pledge Not to Be Reckless With Their AI Tools",
-      "excerpt": "Amazon, Google, Meta, OpenAI, and others sign a White House pledge to independently test their AI programs and develop ways to watermark AI-generated content, among other things.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/top-tech-companies-pledge-not-to-be-reckless-with-their-ai-tools",
-      "originalUrl": "https://www.pcmag.com/news/top-tech-companies-pledge-not-to-be-reckless-with-their-ai-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02JGouGVQcTNM7gr2kAjlQo-1.fit_lim.size_1200x630.v1689947779.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
       "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
       "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
@@ -781,7 +782,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1026,58 +1027,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-21-smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize.md",
-      "title": "Smart Supply Chains: Traceability Chatbots Are Closer Than Brands Realize",
-      "excerpt": "Disparate data sources remain a key challenge for traceability. Digitized or not, supply chain data rests in multiple locations, from brands and multiple levels of suppliers to trade and compliance data. These data sources are normally unstructured, and there is currently no easy way to automatically link them into a cohesive picture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b935717aa7665b5bbd34f2/0x0.jpg?format=jpg&crop=1050,591,x0,y107,safe&width=1200",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/",
-      "publishedDateTime": "2023-07-21T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-21-looking-back-reinventing-marketing-mix-modeling-with-machine-learning.md",
       "title": "Looking Back: Reinventing Marketing Mix Modeling With Machine Learning",
       "excerpt": "In today’s marketing world, we’re seeing the renaissance of a practical solution that was a notable innovation in its time. That solution is marketing mix modeling or MMM. MMM is a powerful tool for understanding marketing effectiveness and planning marketing strategies.",
@@ -1222,6 +1171,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ai-alone-cant-save-the-chip-industry-from-a-downturn.md",
+      "title": "AI Alone Can’t Save the Chip Industry From a Downturn",
+      "excerpt": "PCs, smartphones and memory still account for most of chip production and remain in a slump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
+      "originalUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-821047/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

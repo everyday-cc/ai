@@ -34,15 +34,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 116
-  - title: "Transforming customer service: How generative AI is changing the game"
-    excerpt: "Whether placing an order, requesting a product exchange or asking about a billing concern, today&#8217;s customer demands an exceptional experience that includes quick, thorough answers to their inquiries. They also expect service to be delivered 24/7 across multiple channels. While traditional AI approaches"
-    publishedDateTime: 2023-07-17T14:36:20Z
-    webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "Why Generative AI Won’t Disrupt Books"
     excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
     publishedDateTime: 2023-07-20T10:00:00Z
@@ -155,6 +146,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1498363310_532681_ujml84.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
+    excerpt: "Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, t"
+    publishedDateTime: 2023-07-18T22:23:00Z
+    webUrl: "https://menafn.com/1106625051/Crayon-Data-to-benchmark-personalized-experiences-empowered-by-Generative-AI-models"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/18/pr_11591_936594a6_image_story.png"
+        width: 2765
+        height: 4148
         isCached: true
 
 secured: "4+feJ20akbRiaXl+XlqKL08b4Ue62Rx7tVoei9T8dCmybz6+bs3daD7d5Mh1+owA/2O5wSUuFVQi33vv7mxrn1IsW+j/wYvt1c+Iv35nzoISOMYGHyJ+Mhfg/4KGslS3J3yZTfQkuP8xa5ewnI2cVqEses5lgt3pkhVrRIEJAeF7zNQKUsq1lRsQu3IaE7+wDjo1odWzDeQct/SxyHF2Ihbt8WwyyrIRijQ2GSdiPKaXLjEOWr8kHJQXZ96w0X4VoAPwolWhEqYVqxBrZX6sN8x6Ck7hG1/jC7SnUZwE5t26ILib/1W/qEQjp7WMKJrOvaMLj17FseKQb46vXHeKlvo+iJCwHLV0+C+AK85JTck=;jBonBUYupPkrenvdZKzwXw=="

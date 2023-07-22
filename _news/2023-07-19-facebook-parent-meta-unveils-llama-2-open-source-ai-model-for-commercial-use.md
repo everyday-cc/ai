@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-op
 webUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
 type: article
 quality: 68
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Battle to win the AI race hots up as Facebook owner unveils ChatGPT rival"
-    excerpt: "Mark Zuckerberg has unveiled the latest version of Meta’s AI model LLaMa (Picture: Getty) Facebook parent company Meta Platforms ... known as LLaMa 2 (Large Language Model Meta AI), free for research and commercial use. Much like tech peers Google ..."
-    publishedDateTime: 2023-07-19T13:57:00Z
-    webUrl: "https://metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/?ico=mosaic_tag"
-    ampWebUrl: "https://metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 58
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/07/SEC_164624020-8c4d.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Facebook parent Meta to make ChatGPT rival Llama public"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T23:43:00Z

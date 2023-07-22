@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Indias Think360 make top AI Fintech Companies List"
-    excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
-    publishedDateTime: 2023-07-17T14:12:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Influencing the Global Fintech and Digital Finance Market: Super Future Technology"
     excerpt: "Traditional investment firms have become increasingly aware of the potential and value of digital assets, leading to a profound transformation in the financial industry. Previously, traditional invest"
     publishedDateTime: 2023-07-21T23:56:00Z

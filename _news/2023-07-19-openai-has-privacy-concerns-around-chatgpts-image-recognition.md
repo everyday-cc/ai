@@ -25,125 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Not just in your head: ChatGPT’s behavior is changing, say AI researchers"
-    excerpt: "The paper notes how opaque the current view is of closed LLMs, and the authors say that improving monitoring and transparency can avoid pitfalls of LLM drift."
-    publishedDateTime: 2023-07-19T20:03:00Z
-    webUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/"
+  - title: "ChatGPT facial recognition potential makes OpenAI nervous"
+    excerpt: "OpenAI is not ready to roll out facial recognition or analysis features for public use as it may invite legal issues in some jurisdictions."
+    publishedDateTime: 2023-07-19T22:42:00Z
+    webUrl: "https://www.biometricupdate.com/202307/chatgpt-facial-recognition-potential-makes-openai-nervous"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_numbers_fly_out_of_a_young_mans_head_as_he_stares_at_a__83b36958-aca0-419b-a3da-9863a6344d72.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "More AI: Meta launches ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
-    publishedDateTime: 2023-07-18T22:00:00Z
-    webUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/"
-    ampWebUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 61
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Llama 2: Meta's new free AI model takes on ChatGPT and Google's Bard"
-    excerpt: "Developers and researchers can collectively identify and address potential issues faster, facilitating collaborative growth in the AI field. Llama 2 can be found in the Azure AI model catalog, providing developers using Microsoft Azure with easy access to ..."
-    publishedDateTime: 2023-07-19T03:54:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/meta-launched-llama-2-1689738128.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Meta’s Llama 2 Is an Open-Source Rival to ChatGPT"
-    excerpt: "Meta is making its Llama 2 large language model open source, the Facebook parent company announced on July 18. The update to the model, which had been released as the first-generation LLaMA (also stylized as Llama 1) in February 2023, was first revealed at the Microsoft Inspire event. Microsoft will be a preferred partner with Meta on Llama 2."
-    publishedDateTime: 2023-07-20T20:26:00Z
-    webUrl: "https://www.techrepublic.com/article/meta-llama-2-open-source-rival-chatgpt/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 56
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72023-meta-llama-2.jpeg"
-        width: 1400
-        height: 1050
-        isCached: true
-  - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
-    excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
-    publishedDateTime: 2023-07-18T18:32:00Z
-    webUrl: "https://www.androidauthority.com/ai-products-meta-microsoft-3346204/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
-  - title: "The biggest AI release since ChatGPT"
-    excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
-    publishedDateTime: 2023-07-21T18:11:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23803234/the-biggest-ai-release-since-chatgpt"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
-  - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
-    excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
-    publishedDateTime: 2023-07-20T10:49:00Z
-    webUrl: "https://www.geeky-gadgets.com/llama-2-vs-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Llama-2-vs-ChatGPT-open-source-AI.jpg"
-        width: 700
-        height: 462
-        isCached: true
-  - title: "Calling out ChatGPT's wonky artificial intelligence grammar"
-    excerpt: "Is it possible to defame a robot? Common sense says not, but since when did that prevail over the ass that is law."
-    publishedDateTime: 2023-07-21T17:01:00Z
-    webUrl: "https://www.stuff.co.nz/taranaki-daily-news/news/300931786/calling-out-chatgpts-wonky-artificial-intelligence-grammar"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/5/5/b/8/image.related.StuffLandscapeSixteenByNine.1420x800.4z60ga.png/1689817737569.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Can ChatGPT detect fake news?"
-    excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
-    publishedDateTime: 2023-07-18T08:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/can-chatgpt-detect-fake-news/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
-        width: 700
-        height: 466
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
 
 secured: "be3Ek5pSyZp9cuWarLfiO5LapVGQX55HLnhX2TrT0Q/CThRt1mGIfXghMFULR/Gqlos3LSXm+CyCjAs8GSNC4EWNJoUuPtSTiT5HKdT8aCMmhgZel3y6eMD8CASx44oGJo6GDu18BNl6DczEmXBgiVoHwe4vEPbCzk+DP9zi9t1SKXa0yksFbn25g2fOlphJGM2RG0xQlXo/rtYWgZS/0Xz6al08v0i8lTJkygJzCPD2Zv/7FprugF8D3cPJAIgL0zzb4TO4PJlEV24S6nFSGQs6y9fOIzRPabOei5AUuxq1txuRP5SNSMv5YZ5s4TEpVveHYanJv0jj45KIUfoha1xjKF/3qV9aqwrk9qNPCDg=;tZAERiHCHE+ewVLJzLLzvQ=="

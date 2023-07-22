@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188942406001"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188942406001"
 type: article
 quality: 116
-heat: 896
+heat: 886
 published: true
 
 provider:
@@ -916,20 +916,6 @@ related:
       - url: "https://dims.apnews.com/dims4/default/4070e98/2147483647/strip/true/crop/4338x2440+0+226/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fe5%2Fd5785c9f00d93d9aef36853bea83%2F90d35e5c22db4ef093bdf18be7189734"
         width: 1440
         height: 810
-        isCached: true
-  - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
-    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-07-17T13:56:00Z
-    webUrl: "https://www.eagletribune.com/region/thetaray-earns-microsoft-cloud-solution-provider-status/article_bd934ce6-c8f1-5843-b93a-73cb72858ff8.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/f/83/f83c4fd7-50cb-5b94-892d-2b270aeac4f7/64b54d39aa78a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
-        width: 1194
-        height: 627
         isCached: true
   - title: "Meta launches its AI counter to ChatGPT, Bard in Microsoft partnership"
     excerpt: "Meta CEO Mark Zuckerberg says the company is partnering with Microsoft to introduce the next generation of its AI large language model and making the technology, known as Llama 2, free for research and commercial use."

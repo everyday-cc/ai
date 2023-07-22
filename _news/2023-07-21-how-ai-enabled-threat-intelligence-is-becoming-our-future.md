@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-ena
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of AI Is War"
-    excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
-    publishedDateTime: 2023-07-17T14:53:00Z
-    webUrl: "https://www.thenation.com/article/world/artificial-intelligence-us-military/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 39
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
-        width: 1440
-        height: 907
-        isCached: true
   - title: "Researchers at Mind & Machine Intelligence Summit Contemplate AI"
     excerpt: "With the rise of artificial intelligence in our daily lives (think search engines, e-commerce and ChatGPT), it’s high time we ask ourselves some of the"
     publishedDateTime: 2023-07-20T00:20:00Z

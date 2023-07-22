@@ -31,15 +31,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 116
-  - title: "Transforming customer service: How generative AI is changing the game"
-    excerpt: "Whether placing an order, requesting a product exchange or asking about a billing concern, today&#8217;s customer demands an exceptional experience that includes quick, thorough answers to their inquiries. They also expect service to be delivered 24/7 across multiple channels. While traditional AI approaches"
-    publishedDateTime: 2023-07-17T14:36:20Z
-    webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "Why Generative AI Won’t Disrupt Books"
     excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
     publishedDateTime: 2023-07-20T10:00:00Z
@@ -157,6 +148,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1498363310_532681_ujml84.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
+    excerpt: "Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, t"
+    publishedDateTime: 2023-07-18T22:23:00Z
+    webUrl: "https://menafn.com/1106625051/Crayon-Data-to-benchmark-personalized-experiences-empowered-by-Generative-AI-models"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/18/pr_11591_936594a6_image_story.png"
+        width: 2765
+        height: 4148
         isCached: true
 
 secured: "PIvRmkcY3mN08bgPu/WWrPg3+RACyRK9y1F2ia77T/6118qPCztSa4LC0HWSch4wf2JNWpYacQ29aOvZ1WfDJRhZ5IZsNzi5B7oc6RP9RhILCObYIn2shgSYfSl72ii/8dFYjF4MIFbLFdaGCZS3q7G6Ws4XPzVrbZHET2WzTm5ewClaD8earS8hnnBXhtevcsti988A1PlXrbnnSHM7rjT7WaxLDpsj/6/E/Jou+PgcsIZQWBpU6uoDZVp8FQUZ7W9jVj9u08x/6VkvpxOx2OZGkxHaMWCQI4sKfUXtlbSEVcSzr9CnFdiK0aR2eTf6kuHva9CY7BgmAmZuWYgDEJCTRD9hMfOwMa3vH4OHPtDAeCgaa7wEwdWQeUTkaUs8vr3Nq+qboAjtkmCknYN7wxVT6fQHDGteigvG5HGyrZmlf8xbpXVH+UINXqmeRpq1RwBRkmZHOIg+gOvOMgabvdoOqkQwltFyuld9ca1dY4hNNHNlpvxE9Bq9yMEAlGwUERDCLxHl4v29QYcN2516Bg==;cCOTs2y04iT54k3IRZvSPg=="

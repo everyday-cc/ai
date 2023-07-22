@@ -2,83 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2023-06-20-ai-is-already-being-used-in-health-care-but-not-all-of-it-is-medical-grade.md",
-      "title": "AI is already being used in health care, but not all of it is 'medical grade'",
-      "excerpt": "In our recent article in the Medical Journal of Australia, we argue using AI effectively in health care will require retraining of the workforce, retooling health services, and transforming workflows. Critically, we also need to collect evidence AI tools are \"medical grade\" before we use them on patients.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-is-already-being-us-1.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-06-ai-health-medical-grade.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-ai-health-medical-grade.amp",
-      "publishedDateTime": "2023-06-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-nuwellis-davita-partner-on-ultrafiltration-therapy-pilot-program.md",
-      "title": "Nuwellis, DaVita partner on ultrafiltration therapy pilot program",
-      "excerpt": "Nuwellis (Nasdaq:NUWE) announced today that it entered into a supply and collaboration agreement with DaVita (NYSE:DVA). The agreement enables Nuwellis — formerly CHF Solutions — to pilot its Aquadex ultrafiltration therapy within selected U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
-      "originalUrl": "https://www.massdevice.com/nuwellis-davita-partner-ultrafiltration-therapy-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-20-galileo-launches-the-first-ever-large-language-model-llm-diagnostics-and-explainability-platform-to-reduce-model-hallucinations.md",
       "title": "Galileo Launches the First-Ever Large Language Model (LLM) Diagnostics and Explainability Platform to Reduce Model Hallucinations",
       "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for LLMs and Computer Vision, announced a suite of new tools called Gal",
@@ -1142,6 +1065,92 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization.md",
+      "title": "How Healthcare Can Pioneer Industry-Specific AI For Privacy And Optimization",
+      "excerpt": "As the healthcare sector pioneers ways to use AI within these rules, other sectors will have good reason to follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/20/how-healthcare-can-pioneer-industry-specific-ai-for-privacy-and-optimization/amp/",
+      "publishedDateTime": "2023-06-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-20-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution.md",
+      "title": "Baidu gets upgrade at Morgan Stanley on likely benefit from China's AI evolution",
+      "excerpt": "In effect, the firm expects Baidu's core revenue to reach RMB 151B, driving a 17% CAGR 2022-25, versus 12% CAGR under the firm's base case.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
+      "originalUrl": "https://seekingalpha.com/news/3980904-baidu-gets-upgrade-at-morgan-stanley-on-likely-benefit-from-chinas-ai-evolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-20T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

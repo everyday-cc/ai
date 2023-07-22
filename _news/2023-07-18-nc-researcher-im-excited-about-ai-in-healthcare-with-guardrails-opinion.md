@@ -50,17 +50,6 @@ related:
         height: 576
         isCached: true
   - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
-    excerpt: "We’ve recently seen a big jump in the capabilities of these technologies, especially the kind known as generative AIs. Some publicly available generative AIs, such as OpenAI’s ChatGPT, can write an essay or answer questions on seemingly any topic — and can do so in a natural-sounding, conversational style."
-    publishedDateTime: 2023-07-17T13:33:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article277237823.html"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article277237823.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article277237823.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 51
-  - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
     excerpt: "During a podcast recording session at Duke University School of Medicine in Durham, Duke AI Health Director Michael Pencina and Duke School of Nursing professor Michael Cary discuss the challenges of developing equitable and ethical approaches to using artificial intelligence tools to support patient care and clinical research."
     publishedDateTime: 2023-07-19T03:30:00Z
     webUrl: "https://www.heraldsun.com/opinion/article277237823.html"

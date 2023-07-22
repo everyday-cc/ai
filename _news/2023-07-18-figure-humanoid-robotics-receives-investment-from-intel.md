@@ -67,15 +67,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Intel backs Figure’s Humanoid robot to the tune of $9 million"
-    excerpt: "Figure tells TechCrunch that it’s adding another $9 million to its war chest courtesy of Intel Capital to help build a humanoid robot."
-    publishedDateTime: 2023-07-17T13:07:00Z
-    webUrl: "https://techcrunch.com/2023/07/17/intel-backs-figures-humanoid-robot-to-the-tune-of-9-million/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "Intel Invests $9 Million in Humanoid Robotics Startup Figure"
     excerpt: "Intel makes chips, but it also makes bets on other companies via its Intel Capital arm, which just dropped some cash on robots. It's not buying them, though. Intel has made a $9 million equity investment in Figure,"
     publishedDateTime: 2023-07-19T12:15:00Z

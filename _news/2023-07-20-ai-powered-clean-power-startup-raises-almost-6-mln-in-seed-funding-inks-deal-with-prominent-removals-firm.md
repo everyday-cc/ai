@@ -24,34 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "This AI-Powered Firm Is Ensuring Lending Practices Aren't Racist"
-    excerpt: "Fintech firm \"Stratyfy\" has partnered with the \"Beneficial State Foundation\" to innovate the underwriting process to benefit borrowers of color."
-    publishedDateTime: 2023-07-17T22:09:00Z
-    webUrl: "https://www.essence.com/news/money-career/fintech-stratyfy-racism-lending-wealth-gap-people-of-color/"
+  - title: "AI-powered travel assistant touted as most powerful ever"
+    excerpt: "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry."
+    publishedDateTime: 2023-07-22T05:59:00Z
+    webUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever"
+    ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
     type: article
     provider:
-      name: Essence
-      domain: essence.com
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mondee Introduces New AI-Powered Travel Agent Tools"
+    excerpt: "Mondee announced the launch of Mondee Travel Marketplace featuring Abhi, its AI-powered travel assistant platform that simplifies the cruise booking process. Mondee’s Marketplace features an integrated cruises platform allowing users to easily browse and book a cruise of their choice."
+    publishedDateTime: 2023-07-21T17:02:00Z
+    webUrl: "https://cruiseindustrynews.com/cruise-news/2023/07/mondee-introduces-new-ai-powered-travel-agent-tools/"
+    type: article
+    provider:
+      name: Cruise Industry News
+      domain: cruiseindustrynews.com
     quality: 39
     images:
-      - url: "https://www.essence.com/wp-content/uploads/2023/07/GettyImages-1460296966-scaled.jpg?width=1200"
-        width: 1200
-        height: 800
+      - url: "https://cruiseindustrynews.com/wp-content/uploads/2023/07/mondee_cruise.jpg"
+        width: 800
+        height: 718
         isCached: true
-  - title: "Black-Owned AI-Powered Firm Partners With Advocacy Group To Battle Racism In the Lending Spaceship"
-    excerpt: "Through the Underwriting for Racial Justice program, Stratyfy will launch a two-year program that will unlock capital for people of color."
-    publishedDateTime: 2023-07-18T08:14:00Z
-    webUrl: "https://www.blackenterprise.com/black-owned-firm-partners-with-advocacy-group-to-battle-racism-in-the-lending-space/"
+  - title: "Edtech Startup Scaler Introduces GPT-4 powered AI Teaching Assistant"
+    excerpt: "Scaler (by InterviewBit), one of India's fastest-growing edtech startups, today announced the introduction of its GPT-4 powered AI teaching assistant"
+    publishedDateTime: 2023-07-20T10:52:00Z
+    webUrl: "https://www.indianweb2.com/2023/07/edtech-startup-scaler-introduces-gpt-4.html"
     type: article
     provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 25
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 37
     images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2023/07/pexels-kindel-media-7579042-scaled.jpg"
-        width: 2560
-        height: 1920
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQbJQxrjlBeN4cs67CXVdZz2mjCg3OpjcYTCaDMotBBS0w1DicXPURoZR2uskiz7UHmzqLjP2EO1SNhPLg1_ynHYbZ9CHxJDYKzvWpnNtcfiFAN8NTbVNi4AcHTsr-sTkERITlHj82SMrtU71iYNPbHZQslSXBNsOe846623Q3OiZ_CKC2MmLTh2z-WE/s16000/IMG_20230720_161530.png"
+        width: 1000
+        height: 560
         isCached: true
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
+    publishedDateTime: 2023-07-20T19:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "s3mr2FN0ll8y6a+luMzPS4V0qJQV2514GmKkiAeOooFbm02NIuuwjWxO5+xXI3lHXk92h39e22NmxinmmSSR8RYAHGjjPFfOcD6V4FXlcLfyTGI8C07fVKcPYc96ef8lxaWxjUXPSH7BvhJ7mwnapDF0syA9wFnpV/DZ2WPP2k4yvI760YKzAR51wPCVFDoGRLQYpOn9FUC6vA/Zwan1QyFj9nykkXNMP/Jejl2QFfkZ1A4oQOjbMDsxaeOBJwXq3zGMaSYCiJLz/zYEEVJSUT8MsiIGVTlq3hvO/+XZW8r3YSZeHHmNlEzrkkTxanPwP6qmAC+MuO74/cDIUdXQdayF3na0h8li6EETTEaef+k=;36J78puWrw2jiwmpkA9cjg=="
 ---

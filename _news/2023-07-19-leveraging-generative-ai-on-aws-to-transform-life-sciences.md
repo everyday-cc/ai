@@ -24,15 +24,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Transforming customer service: How generative AI is changing the game"
-    excerpt: "Whether placing an order, requesting a product exchange or asking about a billing concern, today&#8217;s customer demands an exceptional experience that includes quick, thorough answers to their inquiries. They also expect service to be delivered 24/7 across multiple channels. While traditional AI approaches"
-    publishedDateTime: 2023-07-17T14:36:20Z
-    webUrl: "https://www.ibm.com/blog/transforming-customer-service-how-generative-ai-is-changing-the-game/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "Why Generative AI Won’t Disrupt Books"
     excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
     publishedDateTime: 2023-07-20T10:00:00Z
@@ -159,6 +150,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1498363310_532681_ujml84.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
+    excerpt: "Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, t"
+    publishedDateTime: 2023-07-18T22:23:00Z
+    webUrl: "https://menafn.com/1106625051/Crayon-Data-to-benchmark-personalized-experiences-empowered-by-Generative-AI-models"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/18/pr_11591_936594a6_image_story.png"
+        width: 2765
+        height: 4148
         isCached: true
 
 secured: "viXuxGyJfajIDqWwkPN2JVk8uX6OeCygtUI+8b2Efq1V+gXzH/k+PPcHbPeB2Cdk3KZt32JEkcEPWUFcYl+w+jp33MutwzWScUnrIanHs4N4HmsyK3FbRMX/Nlo/KT1B8k7KuhmNj/SwQvmGuy7hxC5v51voQtTp14u+dwJxUJwjp96E6ihXfMsCZlpGx6rseGT5QaEvttoBcrBvtddqGF/MjwCgk+Ygnvyue+ULGPnx376dRo0+CXCn2LphDP8dL4B8nCOUekRAs8tsEQaM1sZon1gb8DmTZdGPT7St0LyPlgVBsqvoeh1FZ42SPw2vnjnSGNb4LjjQrwQP3kxJeXh0pxWM5caIh773so4ce94=;1jQQIqrTxTizi/iBFObjxw=="

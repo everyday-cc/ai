@@ -925,20 +925,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
-    excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-07-17T13:56:00Z
-    webUrl: "https://www.eagletribune.com/region/thetaray-earns-microsoft-cloud-solution-provider-status/article_bd934ce6-c8f1-5843-b93a-73cb72858ff8.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/f/83/f83c4fd7-50cb-5b94-892d-2b270aeac4f7/64b54d39aa78a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize"
-        width: 1194
-        height: 627
-        isCached: true
   - title: "Meta launches its AI counter to ChatGPT, Bard in Microsoft partnership"
     excerpt: "Meta CEO Mark Zuckerberg says the company is partnering with Microsoft to introduce the next generation of its AI large language model and making the technology, known as Llama 2, free for research and commercial use."
     publishedDateTime: 2023-07-19T13:24:00Z

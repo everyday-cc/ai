@@ -22,17 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "This Artificial Intelligence Biotech Stock Is Crushing the Market, but Is It a Buy?"
-    excerpt: "Schrödinger (NASDAQ: SDGR) stock is going bonkers, gaining 191% this year so far thanks to snappy top-line growth and the hype surrounding artificial intelligence (AI), which it uses in its software platform for discovering leads for biopharma drug development."
-    publishedDateTime: 2023-07-17T14:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-artificial-intelligence-biotech-stock-is-crushing-the-market-but-is-it-a-buy"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
-
 secured: "sY32xOXs7o6uzMH15kGrGqI7d/anMf+rOFynVLfW7q9UMTigDO0EUbXlbyszLNdX6lLyQs29L81NEsBFsCNbk1LvgWIzkwbPbxLM451EedHXhLhL5OlVRq605BFz9qNka44M7V3yIskdnkxvGpWcsutH2pm0ESla3WWO/VIiYqAAyWSQ/opFursCKylf0ZsGngB2rRP6Er0fob0dkXwGvzk6zDU+Z5mEC2QLFl7wL6pQRfrLpZgpDlDCtT8wNl9pn3vzZR54fRb0+KF0LDRU9OCGBKnI6f06yqaCYi09JonL56Y3eYa3TNMLdjcDEb2bz6+q47Hg96njTlTqrX1W1uFzz/3PYpvhq6NVNDpEjDLjejvv2stdSMBZx09altkGVBC/vxciW1rX+zuE97jv0j3fsKzBQyb+66lIrzw6L1/9muQS2OZLaU6Z0PPHMKYiuAgGH6Bx8KdhMFT5YXoqCJRci4EG2HJmz5SUmxVYqfXN7fgVB2z1HxzCjcuVbjjoecMSGv6HKbXEDGGF/wAyXg==;G+DaLzY0hmrcerP4AbAeCg=="
 ---
 

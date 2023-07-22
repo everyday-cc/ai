@@ -1,22 +1,30 @@
 ---
 category: news
 title: "A generative AI tech startup Wayne Hills Bryant A.I produces Sci-fi film, 'An AI-driven new cinema movie'"
-excerpt: "In collaboration with a multiplex franchise, Wayne Hils is currently reviewing a rollout plan to play AI-generated films at multiplexes. 'Wayne Hills Matrix AI' will create AI-based content in a wide range of fields, including music videos, blockchains, and digital twins, along with movies."
-publishedDateTime: 2023-07-19T22:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-generative-ai-tech-startup-wayne-hills-bryant-ai-/2023/07/19/9851247.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-generative-ai-tech-startup-wayne-hills-bryant-ai-/2023/07/19/9851247.htm"
+excerpt: "For the first time in South Korea, a large multiplex franchise produced 100% generative AI filmAfter an extensive premiere, it will be screened in multiplexesIn the film industry, it is predicted to h"
+publishedDateTime: 2023-07-19T22:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33294114/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33294114/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
+ampWebUrl: "https://www.benzinga.com/amp/content/33294114"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33294114"
 type: article
-quality: 0
-heat: 0
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "B4i4bGwnpOidfsM5fBcrblHdeQQkeLHoTycDwTl5xExdMUkRRCMTd1j5ewwNJB5hMmYWHUfuHRASu/i7UAhsDtUB1r8mcm74IHl2rprfxSBvnJM4kLU5SODBxpfHwMH5ZFg08Ki3qTqK3HJe8vJ/9/ijWDjlAPHPk8uvqVTNQOIeUrSZeESL6/k8+K2Lu17CEeC4SBEqUgsXnSLp1jaUMRLZQ+6U6jaHD/RaiyaCmuwKKNuw9vXVU0ME0dp2xcNv0beOxun6okPtFET0Lfnp8UQbzlnuD7oqG1PvIlFeQFhnSPOLBdeT3252zxevILqBGdZQw1ftTMVc3DPbRnUIa4CUKuLNPRDIYRYxDfavXsQ=;xqtql3uAaAEQ+7c4d4XsXQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "9tj7c7ogeO0PI2YFEgiQv70FZMLi386ADAzxh+hPX+Ghep6Xa0fkUfPSL6JYVUVRIHJIPsKCraAj0aVNL+TkLbLgTGDwWpcXuCx2Ook1G/4oxmwKw7lwweCFu2D3JB1DPWz2ilEGQXgZrplS0mfHH85p1slCvCN65wOnD9UqRR3+0NuWom659f5ZEMNavSa+a5W5dzz6lR7Cc3HHM1CaiCMp6VI1Jx7QC7BV7mDz0UXl7zmBKZVI00p060pR7R1W07n7A2rdG2z4gmWOTF/PxUXs5eaqrkCxGzEqQbQWirihM43Oihpbd/gBm40k5enLIZVT3tscjp+1rPw6NZavQQmhMD5AG8PLo30H4jodk6U=;6ApmYnHUSZ2SRCmGKZdwmg=="
 ---
 

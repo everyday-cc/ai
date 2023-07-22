@@ -35,14 +35,19 @@ related:
       domain: seattletimes.com
     quality: 54
   - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
+    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
+    publishedDateTime: 2023-07-22T07:40:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 37
+    images:
+      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oY6aJ5iJP3MuXkxMUxerTPi83xXjyFS+LCp3/YbjkkNxmK3FozNlzffSQr+8LMWGT9+1giFW4EGzYN+cJhj4mxYyZ/MuHlwpt0pcXEA7xyNTURcKHPLdaOPg/6pT/8e+yj8JjVsk4vnQtzj8X8OG+AQiNcmz0kb/oS3va6anCXmxKxGXwLD6WJVto7MR43VyUfx146/NhU+9e08qzTKjBW5JhspwBXsW3iMGHOLGG7QbLlDrJ4g7vJ6BCK2Mwe7Mek1uhL/WAVX0qt5P5D4cNv7Lm3/UzW314oxzwRtAxl8Qw8CfKR1R24CqmhA8SE3K48kWRVYBvj6elfYRx9oYe2SVb3PX4BzXjZfVWSoyqTlana5rMJKQh3LtckDqRcaPPO6+xTUCS5W44SGn99sGeWkvxPKoELIDU33EjbHTjFWuTb+h03S12l0S75rWalkpnMj2y/9I3WbKoMW546B/50MscFcB5h43LAcCjarbF5SCm0dcmxktKZTf+URPfTv+ybOAQXC0wmSK4uHbJHXZIw==;2TcMg++IyYPE/tT7+VgTDQ=="
 ---

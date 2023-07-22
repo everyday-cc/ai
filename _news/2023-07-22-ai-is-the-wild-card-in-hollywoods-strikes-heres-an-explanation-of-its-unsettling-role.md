@@ -1,21 +1,29 @@
 ---
 category: news
-title: "AI is the wild card in Hollywood’s strikes. Here’s an explanation of its unsettling role"
-excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers."
-publishedDateTime: 2023-07-21T20:34:00Z
-originalUrl: "https://apnews.com/article/artificial-intelligence-hollywood-strikes-explained-writers-actors-e872bd63ab52c3ea9f7d6e825240a202"
-webUrl: "https://apnews.com/article/artificial-intelligence-hollywood-strikes-explained-writers-actors-e872bd63ab52c3ea9f7d6e825240a202"
+title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
+excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
+publishedDateTime: 2023-07-22T01:10:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
 type: article
-quality: 8
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "New Showrunner AI: The Sum Of All Hollywood's Fears"
@@ -100,6 +108,6 @@ related:
       domain: theinformation.com
     quality: 17
 
-secured: "IfLP72NBRXjLQXzNCMFwHP9mei6vYC2oWLlWOQC1t0vxwHtzsNT8m56OiVvDLy+nVqhIMdP3eZlIepHBX9a68y9yVZtHHB7/pU+LPVVYnFdgsEkD4tuWLsVwLUBsbJgbZa5zQ3JnQSUHSreMUlAjgnaHBEpdk3OziSgvEC8EIxd5lEmookRqEAOkb/PE4ypH01AwZqazmOHnXOwhtCDM8V94Nefz8lLN1wNDG2bSRYE7URRGRvogmKrOKrmDXX+059/buo8nef69CBFmx2ej22Yei9Hs30sU5e1tF8Vh3w9yACG88KzsFh7H9tX0lwX+s7BIXxrU43uLYAnJRZQiBwMX7DFOwy6ECa+Nz8aWbFdb4O1Gf5n4J7mT8DrCSoPb2l12yJG52POe+SH7uux8Oqmr3Ta4/DZ1zkzaEDZ2Cp0Gc882MA7GydQsVcgOAwmfhanaKjMAeRuLFfLQ9fUJADoSbYhnG9495VopSfonzO/HMcmX5Bw95Lrzm50AjOcknXUMFTtgat8rVIwMKu/o8A==;kXc/2NVoF/+lpUmmQa7TGw=="
+secured: "FhLV00tXPbxtsXhHiaVDQwT8NSjbixLEtP+emZf/RF8N7nmCcNcBjEcV+wQ2pZra3DzOZPJE5WMciJZ/UgPa0khk8RUQ416zoRYzVH1WjIJC+d6y3gUerdvbZY2tn9txRiCoSXm++LtgsUJs4QUdaTojlacwrCktTPBFfgM/omqUObFsR/jN/2Pv5SsuddVULXSnfcXMZHEgp2zUr54ukpcZ9wtZfArrj2Av8Ax336rndWUmMIMEYY3+4jhGqCd3hlrxLqf4jiBXlNhOhw2aZu4ZJLMuOfVOZZyPn151JtRCVE3N3UqbJeuf2aUgEHY+36QGFPUzTmpzNoRdE7sSfNaCT3qh68jj8WtnTqY8RKg=;k4rQ9d36RAl36hAXYyXtWw=="
 ---
 

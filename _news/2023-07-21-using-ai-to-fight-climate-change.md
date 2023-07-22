@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
 webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
 type: article
 quality: 89
-heat: 171
+heat: 169
 published: true
 
 provider:

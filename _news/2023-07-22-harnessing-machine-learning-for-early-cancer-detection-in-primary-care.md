@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-canc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep Learning Model Accurately Detects Cardiac Function, Disease"
-    excerpt: "A deep learning model can classify left ventricular ejection fraction, aortic stenosis, tricuspid regurgitation, and other conditions from chest radiographs."
-    publishedDateTime: 2023-07-17T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/deep-learning-model-accurately-detects-cardiac-function-disease"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
   - title: "Machine learning could transform early cancer detection in primary care"
     excerpt: "A new editorial paper was published in Oncoscience (Volume 10) on June 9, 2023, entitled, \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
     publishedDateTime: 2023-07-22T00:55:00Z

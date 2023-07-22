@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cas
 webUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
-    excerpt: "We’ve recently seen a big jump in the capabilities of these technologies, especially the kind known as generative AIs. Some publicly available generative AIs, such as OpenAI’s ChatGPT, can write an essay or answer questions on seemingly any topic — and can do so in a natural-sounding, conversational style."
-    publishedDateTime: 2023-07-17T13:33:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article277237823.html"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article277237823.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article277237823.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 51
   - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
     excerpt: "Jonathan McCall/Duke AI Health In March, a group of artificial intelligence experts published an ... As a researcher who works with AI in the field of healthcare, I share in the enormous interest for using AI to improve patient care. But I also understand ..."
     publishedDateTime: 2023-07-17T22:52:00Z

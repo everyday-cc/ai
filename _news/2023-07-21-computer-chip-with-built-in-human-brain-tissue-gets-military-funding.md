@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/computers/human-brain-chip-ai/"
 webUrl: "https://newatlas.com/computers/human-brain-chip-ai/"
 type: article
 quality: 84
-heat: 98
+heat: 99
 published: true
 
 provider:

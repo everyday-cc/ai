@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 665
         isCached: true
+  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
+    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
+    publishedDateTime: 2023-07-22T01:10:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "How Hollywood Is Avoiding Robot Overlords"
     excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
     publishedDateTime: 2023-07-20T21:49:00Z
@@ -96,15 +112,6 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 17
-  - title: "AI is the wild card in Hollywood’s strikes. Here’s an explanation of its unsettling role"
-    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers."
-    publishedDateTime: 2023-07-21T20:34:00Z
-    webUrl: "https://apnews.com/article/artificial-intelligence-hollywood-strikes-explained-writers-actors-e872bd63ab52c3ea9f7d6e825240a202"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
 
 secured: "swOOfIbdy2D9bzuj7L3sdPjOT/I2aW5Ly8dpND3OwZcgW86hgDkqg2Z0DmNeFVqDpKPFOGAKJpp7KcIPucdaHP0lJ3QUw3vn5wDj6QNI/hLLE2VK1YaHqM2GoBGwzhsUl2zjGiKzkrVJH0lDyL8+AbdamcZ7mr5woiGrZgWB50dJsJcZKjpZ5kNpQBe8ktypJGGzY71UgxIaIMs7gAxG345abQFuHiHByV4KQvaut/2BEWPN2Hth+U1NJHvb3r+ek/mQLeslGr4MPZ2fMq1OylYYmwZhMZ6frStVU/XV22TxS7T6IkDt9ksE0sHw0qgJkzlEZNT6metv43JMsoXMak3OCpK9O5APlduwFa1TltZbzMj6JSChXQQvBkEjx7eERquacSUoLFOkUuDsFvhF6gzfY5DGriyophEu2tFwe0LoYw2jb77/pH2wSIjYjeMYkGwBuc2j+AXiaGRIsnqFdEOxJgppG3zsJUleLlnD6ICJXIqpdHim8fVihbiVIsGOkbTVjt1IcOhV8op2ZZUpBg==;MIC9sGF7OGK8Vn6FR3tLNw=="
 ---
