@@ -3,13 +3,13 @@ category: news
 title: "James Cameron On Dangers Of Artificial Intelligence: ‘I Warned You Guys In 1984!'"
 excerpt: "The “Terminator” director said he’s more concerned AI will cause a nuclear disaster than write “a good story.”"
 publishedDateTime: 2023-07-20T22:38:00Z
-originalUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text"
-webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text"
+originalUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
+webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
 ampWebUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
 type: article
-quality: 84
-heat: 114
+quality: 82
+heat: 112
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -78,6 +77,6 @@ related:
         height: 400
         isCached: true
 
-secured: "8Iga+etQq8QtCnCYelBkci54s9kDSR2UIPDgQ+Ep5AxSfIfkiMTg8GnKQYkx8gs2371W2fUtI1ifhVHSxlCiL8/IVvQFibTaobvEyBarpdBY4WlOQCDHBsH4bpmlwSznse/nyZqKO2BLOe/cHuzFmAJO3Uev11MIkEnVVX9L6oA0SPRNbO75zDumohlWPf8IryeKsipUhwG498gntAnApTW2x/+1CRzErf4OXcARspMLNrfuipa6pbHqqr1pD14HKqm5re0cxX6PhdA3IXH5YstVdVeULXVcZUqX4iLvyY6NrN9XOwDR8svMBH1R28U6mj91OC07MBcYLrzdKYuGY/7o4hlYBpqJUppG5e+U/bU=;piW+BHvUpUImkNJU6hUZHA=="
+secured: "upUerELkfrT8X5p8cuy55vs1cLBFWGJkx++xtV5VG/vi5QYGjb7yVTeY99DQntx0sPmqNTUbB9BHSZWriw3jeXlQqTo/ATM8VzE+WBIX3APLdIvapajtT3ubRi9WpLiR+qP/bcNWzm0Jju+gaOOWTQhS7LSRcRqwfz7tGHRUVNgE5EvoN1uTBgvZLfm+A//1PB+QaFfyGrYcAy8D20hsZ5kI6D1e/QOrnKq9TY/Ez0zIXMSB2qCGV7pKXn9XtuR/iRTnmprfC6J52/a9hC4SOMwr39QijYbSpcYYFwLmBZK6imafHdIbGRZDeoS0N8CJ0O7UTzE+Sr7Bh/0eUUQjzMw7oVIEnuBbmKVfsWEDSRE=;NwkFB0aTsJtEucjKTUN00A=="
 ---
 

@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "How 2013 film The Congress predicted Hollywood's current AI crisis"
-    excerpt: "With US actors striking in part because of the threat of AI to their livelihoods, a 10-year-old, little-seen movie starring Robin Wright now seems eerily prescient, writes Caryn James."
-    publishedDateTime: 2023-07-17T23:01:00Z
-    webUrl: "https://www.bbc.com/culture/article/20230717-how-2013-film-the-congress-predicted-hollywoods-current-ai-crisis"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1dc48.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "Hollywood is on strike over AI, but companies see creative potential in digital humans"
     excerpt: "As Hollywood protests the impact of generative AI on the film industry, AI video startups see the creative potential of digital humans."
     publishedDateTime: 2023-07-18T13:13:00Z
@@ -72,22 +58,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-17-at-8.52.10-PM.png?w=1200&strip=all"
         width: 1199
         height: 603
-        isCached: true
-  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
-    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-    publishedDateTime: 2023-07-21T20:38:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "How Hollywood Is Avoiding Robot Overlords"
     excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
@@ -112,6 +82,15 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 17
+  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
+    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
+    publishedDateTime: 2023-07-21T20:46:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 8
 
 secured: "IKG4X8PPoakip7x3FK6Ctulo6BJfgp54FvPYIIM6okBiCtEjsEYQrmhEYrOIsci7LVgFJAU1WebEYC3s1fAo0RzwHeSzMp7jK1diZya+DzT6qFnbZCem1d+0zvZG794g8y5eSEaC+PfO6NpuEGOx4Ma4zLiE+UCQYH+cLyXUEOZfqYq7urnRX9C6HGiYdNsof/JVVPHij4ZufyTqhnusNlwwur1ATejN0XGlIRV/HwCtYPMZRH3tgi3MMiJQpCqLJaHiuLshcgfv6vEoHDMEmAsi9SGgiPAPnUAJYKwUBWrmDEZRDmWuJ6vSJXZ2ODfux5xAevmhRSZ0NyiCF9XMZ6UfODoeHPwMoFN5nRTcrvM=;Td+kRNVuRMn3Nhv+bHoZhw=="
 ---

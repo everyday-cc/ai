@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/18/stability-ai-ceo-most-outsourced-coders-in-india-will-go-in-2-years.html"
 type: article
 quality: 77
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "US-India ties: President Joe Biden's Science Adviser calls for AI collaboration with India"
+    excerpt: "The Science Advisor to President Biden, Arati Prabhakar, said that the US and countries like India need to collaborate on shaping the course of artificial intelligence. This comes after the US administration enlisted the help of IT giants to prevent the misuse of AI."
+    publishedDateTime: 2023-07-22T15:58:00Z
+    webUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india-11689997881762.html"
+    ampWebUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 47
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/22/600x338/USA-BIDEN-SCIENCE-ADVISER-0_1655872000116_1689999784119.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "India's Infosys signs five-year AI deal with $2 billion target spend"
     excerpt: "India's second-largest software services exporter Infosys said on Monday it has signed a deal with an existing client to provide artificial intelligence (AI) and automation services that will span over five years,"
     publishedDateTime: 2023-07-18T15:28:00Z

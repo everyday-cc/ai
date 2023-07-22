@@ -22,35 +22,47 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Why Overinvesting In Generative AI Could Be A Trap"
-    excerpt: "Generative AI is the hottest property in corporate innovation ... relatively cheap experiments to test your hypotheses before not after you commit resources. The typical startup is forced to de-risk a business model because it starts with relatively ..."
-    publishedDateTime: 2023-07-17T20:54:00Z
-    webUrl: "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewbinns/2023/07/17/why-overinvesting-in-generative-ai-could-be-a-trap/amp/"
+  - title: "Cohere is teaming up with McKinsey to bring AI to enterprise clients"
+    excerpt: "Some businesses have already begun reaping the benefits of the collaboration, using AI for product development and speeding time-to-market."
+    publishedDateTime: 2023-07-18T16:07:00Z
+    webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5a8b0d0939b4ab7248079/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 888
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/blog_cohere_inset_leaders_1000x718.webp?w=1200&strip=all"
+        width: 1000
+        height: 718
         isCached: true
-  - title: "Timely steps seen facilitating breakthroughs in generative AI"
-    excerpt: "He added that \"the real opportunity of generative AI\" lies in business applications rather than consumer-oriented uses. His views were echoed by Goldman Sachs Research, which predicted in a report that generative AI could drive a 7 percent increase in global GDP, or almost $7 trillion, over a 10-year period."
-    publishedDateTime: 2023-07-19T01:32:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202307/19/WS64b730d4a31035260b817322.html"
+  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost ML Inferencing to the Cloud"
+    excerpt: "Wallaroo.AI, a leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic"
+    publishedDateTime: 2023-07-18T15:20:00Z
+    webUrl: "https://www.datanami.com/this-just-in/wallaroo-ai-and-ampere-computing-collaborate-to-bring-energy-efficient-low-cost-ml-inferencing-to-the-cloud/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 41
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202307/19/64b732baa310352610b927c4.jpeg"
-        width: 720
-        height: 480
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
+  - title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
+    excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
+    publishedDateTime: 2023-07-18T15:01:00Z
+    webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/59b9ca713905e11914629ed7d3b9e79f"
+        width: 800
+        height: 522
         isCached: true
 
 secured: "fGbgnRD38hZtyOHa2lEvUzn1FAef/L2A/rtlHv5edt6mIl6DbWhtY/AbfGbs57Y4IRFhb5HEpOvw2BHhxD5O3W4jDY07C+yuxNF5CxioIwBUh9qjEJuah5qwtCH8BG3kueWy9VvGZrQh3c4PZIoAYhxqOnRL3gPJuZSzIb0HKg+HEQMKzcyunKs8rbUet3haKAGZvZAIzs0KuJ/eWSNgcbw0k/LCEcqQEpFwyN5cGnFjLsJMX+wUwUocEEbSdsOrK8Me1rm2g/njcbbr5uFKNEg8MjhVenLD08/BJycfmdVbgMdzsi4q8h9sQlhVXiFoiedWRDcFdd0zMXHBvGEMwglP/BQbKHfqiI+BT41BYOI=;FlV6MTDJavJPAAG2/lnZfA=="

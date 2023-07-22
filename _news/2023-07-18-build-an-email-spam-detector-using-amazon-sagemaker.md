@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-email-spam-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-email-spam-detector-using-amazon-sagemaker/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 1022
         height: 513
         isCached: true
-  - title: "Configure cross-account access of Amazon Redshift clusters in Amazon SageMaker Studio using VPC peering"
-    excerpt: "With cloud computing, as compute power and data became more available, machine learning (ML) is now making an impact across every industry and is a core part of every business and industry. Amazon SageMaker Studio is the first fully integrated ML development environment (IDE) with a web-based visual"
-    publishedDateTime: 2023-07-17T19:54:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-cross-account-access-of-amazon-redshift-clusters-in-amazon-sagemaker-studio-using-vpc-peering/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 53
 
 secured: "wFN0SVAqVnWPJiIIrRv6xFqM8898mwq9sV9ed+/Abz4DKeVKyZTUTdfd4xcBmmPa6p+gwgq/qV8Wh1Vn8tGCFbKMN0jclT/1GHIWTL4OJixwBchtmM92AyE0FGd5KgXDonx/J5XU1SgKOm45wWsH5bj1AD6zDH+jH8aZUwKzih65YQ8kQXjuViUyOoQ4hqYeDZ8JjK9LnCQTp0ilmiKD+tPs13P2YJJ9ROrF6FxUOy74RmUHRVTyr6pHtvXKu5+8caI+/JNXipb3+YwubCC/O54AKreERfd/9T3uF+UcVnhpshp6ZCsohF47fV09Au2hZxRx/BybFxqSWV6TrRxrk2to3dqCgSUY8IxF/K3XrcA=;mtW8VkjNx/l0kZF5ixm/ZA=="
 ---

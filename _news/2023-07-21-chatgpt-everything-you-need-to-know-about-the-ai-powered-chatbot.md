@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64b935717aa7665b5bbd34f2/0x0.jpg?format=jpg&crop=1050,591,x0,y107,safe&width=1200"
         width: 1050
         height: 591
-        isCached: true
-  - title: "Labour outlines law to ban training AI chatbot to spread terror"
-    excerpt: "Training AI to incite violence or radicalise the vulnerable would become an offence under a Labour government. Labour's Yvette Cooper said current laws were not fit for purpose in the face of emerging cyber threats."
-    publishedDateTime: 2023-07-17T20:00:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66224052"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66224052.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66224052.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A622/production/_130403524_cooperrusi.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Apple has an AI chatbot up its sleeve: report"
     excerpt: "As Microsoft and Alphabet duke it out in the world of AI chatbots, Apple may harbor dreams of getting into the game as well."

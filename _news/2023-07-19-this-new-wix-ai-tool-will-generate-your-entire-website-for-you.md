@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-j
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Wix's AI Site Generator Builds Entire Websites in Seconds"
-    excerpt: "The results promise to drastically cut down the time it takes to build a website. In a video, Wix shows AI Site Generator asking for your request. You tell it the details—like what the website is for and what pictures you want to use—and it'll build the site in seconds. It appears to rely on stock images from Wix’s own media library,"
-    publishedDateTime: 2023-07-17T19:18:00Z
-    webUrl: "https://www.pcmag.com/news/wixs-ai-site-generator-builds-entire-websites-in-seconds"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03rshm4Jz16mmxFfR1MJleH-2.fit_lim.size_1200x630.v1689617790.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "kTINUxkfSoWXswKqGNHKmoL30Ys9947fOxEtZYZFK74PkCp2fHgnGkvchbmNV+5miYSiWY1UhiaSrHI/zl9641UPBeNaWyQRi1wpOtl01Eqxw6oNfEUXQrO/Nlw0myVs+ZLxsKNREJS+fHcTvowasU/6aXMsr0yrrc85SdZQj17oN7N/DZHPp3xQ1UaPQmxuC4qQyLuYvRAaRPvFJUjTATda/Ox2F7z96wRnfoKNSItgBBe2RuG3tfnS07repMI8WzNO9Vd2ASsp6BJUiKUzBGRb0iQx3Zx5JhrYTL92av72IKlGM9eCC+7Btc8Z80QxRqS6xMyOq5CvnD2SLWrZsP1NOlunNeywzu4I+QMdEVj/Jpvky2vV3A0PltKL1KlQPSdb/LVY54/dFAgNAMFhNRQSbDCAXCX/qag4BpYFv6RDZEEi7TYXMnHC13mFShNbgpT8DoWppxFkgH1r20PnVc20HxjIJN1zC6fL1buxrzsvxR6Hz77TXQChJ9i3zsUsA5+SQUEMsEiLmzKqbnGQkA==;PCRC/sBdiAQ06qSGv0r6jA=="
 ---

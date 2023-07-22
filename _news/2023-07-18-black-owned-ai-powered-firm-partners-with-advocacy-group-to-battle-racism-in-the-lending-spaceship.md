@@ -7,7 +7,7 @@ originalUrl: "https://www.blackenterprise.com/black-owned-firm-partners-with-adv
 webUrl: "https://www.blackenterprise.com/black-owned-firm-partners-with-advocacy-group-to-battle-racism-in-the-lending-space/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2560
     height: 1920
     isCached: true
-
-related:
-  - title: "This AI-Powered Firm Is Ensuring Lending Practices Aren't Racist"
-    excerpt: "Fintech firm \"Stratyfy\" has partnered with the \"Beneficial State Foundation\" to innovate the underwriting process to benefit borrowers of color."
-    publishedDateTime: 2023-07-17T22:09:00Z
-    webUrl: "https://www.essence.com/news/money-career/fintech-stratyfy-racism-lending-wealth-gap-people-of-color/"
-    type: article
-    provider:
-      name: Essence
-      domain: essence.com
-    quality: 39
-    images:
-      - url: "https://www.essence.com/wp-content/uploads/2023/07/GettyImages-1460296966-scaled.jpg?width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "UcjIYEARvUkSXaPUqUvEQIHcDXTrtST5I7USccEe++DLCTktcYsy36kUz0odDJS93izT6kACz7JbTQR9TpIMriRHhdnNhNO3kBoUXtakDufdNDJ5zS9MtOHqfmDSpXt4uQcjaqvsvbE6AB0WK8ZAMwCkApl9duTUnaOihk798/LrDcd1EXVhTGo8Sn2T9YUHVLcP+cK9AHNgZS5T+nqDfaAjAPLOgUa/yDSFgo99V2zbUbIIm1jtxHr96uL0Sdt8c/lJEkDjd0meJ7H1yjkv/zD7PRp+WaiRFjzTbwmJsywJJ7QmJbnKGxW2/wVIwyqVCyxDFRXJ2fg5cTZX838KkGEEjP9CaWpMljotSYK+XVk=;GvRnMT02o/QIKN7z56/y1Q=="
 ---

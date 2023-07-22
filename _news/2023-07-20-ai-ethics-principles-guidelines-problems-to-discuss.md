@@ -35,20 +35,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Generative AI Brings Ethical Concerns, Say Pa. Ethics, Tech Experts"
-    excerpt: "From a purely competence standpoint, [the technology] is not at a stage where, in my view, it’s particularly useful or reliable, said Fox Rothschild partner Robert Tintner, who oversees the Philadelphia Bar Association's ethics hotline."
-    publishedDateTime: 2023-07-17T20:18:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/17/generative-ai-brings-ethical-concerns-say-pa-ethics-tech-experts/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 69
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/07/AI-Ethics-Law-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "K/Lid+FTSb4x6G/j7ure5a2hVlyUGjRda7twdUoW4OEN/Dnz8+vE32B6+VF+CZ/kXGTEk4qPiKVIvigRoLwFhSxacYW8EPvITuXyzEoGbzIc3IVzyIBCqaR/wUKGpMY1FHLsrpR7jhi1xgVmOrL+DN4l+pIPrdAbp3oEi7rSYoNT4P5wf2YDk5e1DJjoGIIHLu41qPNHk5bNDPbySCl1Q946Q2/IMSzi/ghrZ8x6E1Vb/SThRMWDCEL+i0sQtIIP1WJTaHU865DyxRJOniB7eZUdgalseqCVg7SQ/fCIyHM7VHGcBqvIO1WXqOkCDW1NlhP+VUpQR9Hzz4X4szdgT/8LDkUDoMAyRIyylyAxvmp49Pmp9PSQehNclxcdn49iONpKFNV59XUGUSvQ2na7um+o1oo3gWcd4nmOcUTTITOEL+WqXtpiWtnDShthQ16Mx+1TQEKngTZ4U0PE6FwxQs0odRPqSZjT62X0cbjTFNsSmpIEr1oMIiLBRwWEa7ZVEvLQ+Ar+5E54P181pOb8uA==;8UmhGuzN6IwxpDgHfIyZww=="
 ---

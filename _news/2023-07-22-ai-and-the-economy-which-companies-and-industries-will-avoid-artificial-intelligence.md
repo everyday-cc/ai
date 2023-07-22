@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-
 ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/"
 type: article
-quality: 95
+quality: 97
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64bab8313b2f9ab4369a6bb7/0x0.jpg?format=jpg&width=1200"
@@ -47,6 +48,6 @@ related:
         height: 866
         isCached: true
 
-secured: "EBq61RfLGTwpyfmItyo5Fk2FE1YSemby9J3dbbEN7DwzcLm7YtnT/BKgxU91qCa/Wjre78KGs2ZBIUAUajFcwGtU+Zu4O+xjzX9lCWb0kHgifwR4UoYqlQSZF76u/wc5yzFpTg1XHrHELl6/bLspjI8RN5sB/AdW5O01dNohz/+PfxlW6eJnS+VJEW3KHDQLRw+i+Sx4yrK9/Jlkw26eNbcWheEC8qNP8MzBxU6dM1y8b7ABiYZTTX8cwXVGWsfT7k+4pTeWu4k63dkmltaBsDbprHcIr9yRSGJJk4QwlO/4LlF9IxtSqoQ/iWP3KR2yjgwPieEXdNzkqiKR1lFKlfB8B6O7vHEP71MdkN6k3/Q=;KVQ3CXmcly7fffn7B2TRwg=="
+secured: "xp3XU1MYK3d2eyWNpH9dOdh5E0V5dUcTpS0W1jzHKODcM4TTQkQKIdqoUEtcUvfaAtWgcIZYU5QLfIHH6nMdw4IWnEZGsucTnRv1c3kHPuF7ChuT6VtrCZ8jM5X3zjkf0Whp97LB6kvyDnZBIPn8AyxOOWvDlNttDpcrPoPLnxG29f1OIB6fHGb9rZfHe2s6CZ/Q3tuXvZp89odd2dqPJQwodCGQcyFZa9ko3cm5m40zS1Pr9lwRLelH99tHnfqhQfdSLbPhvd+rjvL1KDwpaIvTHWLdLRJkchZXTbBLp75thBH5BESwMe1iDiF9nfqdRje8EHDBpE5R97jTb3MleQZzTf6bbIZa/4gi37N8nLm/M3cNTvbIJ4icmVe4ivdmw/1VZj7svVAingZIDJ2e74UFLXJyge/L/yMVVaX0tNSw5Oj42zejf0y25lhyM6t8YbCR/2Uy7WxQ4PLoyK2z6jNywr0MU9rYgCqlMEhzkNUdh82KdJTKxJvJ1Ke3jL2JWrnpLLo+HIWmVc64TDpY2Q==;arbXk3B/OcFxHw9PYjRIUg=="
 ---
 

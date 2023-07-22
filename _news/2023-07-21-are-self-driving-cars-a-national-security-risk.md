@@ -3,8 +3,8 @@ category: news
 title: "Are self-driving cars a national security risk?"
 excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
 publishedDateTime: 2023-07-20T17:00:00Z
-originalUrl: "https://www.wfmz.com/entertainment/coffee-break/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
-webUrl: "https://www.wfmz.com/entertainment/coffee-break/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+originalUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
 type: article
 quality: 41
 heat: 41
@@ -36,6 +36,6 @@ related:
       domain: detroitnews.com
     quality: 0
 
-secured: "j83qCfUnO2grXSDtsWgvqZIATa2y8vbByod0B9w/8c/EMxaPeenxOGdVljrrnzJ3rl5ICNnIo9uAzilfl/Kogldn3N+CyN9XK9AkqUwczM/55Hbc76NcJ1noVCm6MCEtX8QIHmWaEuKVzEHJcZLXGx9UGESQw/CYSdNltTjyborb9TbsreUa5gq8nkYOebu9kmjMHvwwot/E/tYlUlM7xmsw8AzDYIXOWMjQQgvqQp1IIz8UcBj3rLKdxAbUzdpMFg0Mn7q+uQhZb2B/OwZoT0JSVRwMWUFnwurLoDB0rnCix+RuxMqOAdWguBWUPIeop9AGUEpCcqpeHiRhgYpOcxsCIavO8qNcKzuJJL6TL/Y=;iueEBzG816XYhWZyANfP/g=="
+secured: "VfNJXSe7zeIBVlvOYW6Wb5bTmD+ZBS0QzIUIzLA9Df28Z0RXtJHPzhy1ALC8wcyzxuJFNQAGHJxy8OoIBOwPmuGpUNfUfHh949iocbGX89pTdtaw/QWrP54rootMq94SUk96OzoBm+QCjhLu25Eh0C3LTtzyiJ0zWPbv4lLKc4NHq4rUSxzPAKlUR1h1W27v0NWGswg9HQbE2J8nD3tzUFro3s4aP2KgwLNcg2VZZheIUXMlMISQgBpPpCenkuUZn/QLPUhCC0u/Pnr71fpaqy8zvVDgEsCRctCKV6EygySfge9oUwtdIujSHiVpXuTvF9f59XEiOigM+zGaCRTzhC9kodIfaEEGQ7UZln919n8=;ivd8llAnlJNI6SiKmfYjng=="
 ---
 

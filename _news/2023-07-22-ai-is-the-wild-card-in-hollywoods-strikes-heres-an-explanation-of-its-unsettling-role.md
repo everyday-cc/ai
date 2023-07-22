@@ -2,13 +2,11 @@
 category: news
 title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
 excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-publishedDateTime: 2023-07-21T20:38:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
+publishedDateTime: 2023-07-21T20:46:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
 type: article
-quality: 48
+quality: 8
 heat: -1
 published: false
 
@@ -18,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "New Showrunner AI: The Sum Of All Hollywood's Fears"
@@ -41,20 +33,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64b5c21ae602538edd47c5e6/0x0.jpg?format=jpg&crop=2214,1244,x0,y179,safe&width=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "How 2013 film The Congress predicted Hollywood's current AI crisis"
-    excerpt: "With US actors striking in part because of the threat of AI to their livelihoods, a 10-year-old, little-seen movie starring Robin Wright now seems eerily prescient, writes Caryn James."
-    publishedDateTime: 2023-07-17T23:01:00Z
-    webUrl: "https://www.bbc.com/culture/article/20230717-how-2013-film-the-congress-predicted-hollywoods-current-ai-crisis"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1dc48.jpg"
-        width: 624
-        height: 351
         isCached: true
   - title: "Fable unveils Showrunner AI to create South Park-like TV shows with you as the star"
     excerpt: "Fable has released Showrunner AI technology, dubbed SHOW-1, which can generate new episodes of TV shows with you as the star."
@@ -108,6 +86,6 @@ related:
       domain: theinformation.com
     quality: 17
 
-secured: "Dg1DRKj6EFpjFDOvrCzPA5B222zWHZFwzVmiV4Q5D/xmckjZHwcQZ30JtvttYKrAUcCDRDWBTiSO/UqayDunq3EVAGBdP0vgqxkj3CfobL8q6JSWMpC9k6H/TDRvTeTmTqxob+vVY/i07sYKemlo27XS1dvG7mEik+HaxMhbjtNA+CPjdTVoGwiL/SNclsxPHPkoVLqzLbW02rcjCFbt0k6FWzU3fIOn0IbSUR4BLNURIS/2R0X5Dwz7O6wP+8bsWb6MqLC09/Ui5ZCP9ngeC+rDW1+edT26hKz8WjYQYs2wDITDQUGg9CXKjSOOL7Z8HHMs2WqZTCC90zGJA8f0Fh5QW7G7Vurh5uG+jG3S42U=;ui2Q/CqCeKj/p+uWHTpr4A=="
+secured: "LIomfpKfV9dekEOa0ICj1mVjO301F5bft0an13ngaFMLOu/E3Nm4f+ehrizpnhwNCIGbUcWwSTvi2ayl1bo1XHMjIO1hxd/bPZZFWQolre7kPzqrv/eD+jNfMRGv4qhU4QMYIKZeNMe+nMIPpInud5CglLGfmDPkA1qTKsAui6f8GdWsSzaa0d0IwR+Xe1NPIGfq61wOQXQL22/yGANPVWnOUZTzxym6npnO8qKE7Yt+WEzASWcuA3z8ibhh/LOa/jfRJveB8To3yHRYQKVgqFAfgee5gbSkHeV88zpEQR9Bl/kGJe3yreSHCMtLW3pWHSoiTU7LoQK3KTdlA4MW+K1oLx8u+qIIPIHrBBaLmh2zF5pw0xK919LWgjgRz5TLJRNbjRc7HSxUmkjTHPi2PS2OEq5gw8SSNoTm8lSgZ2MRsh2X0mD7upwIbn3w/IszmRRpTmw70YaicQh19xjsXpwrcm2bnV5cSMyz3hHd7HHBqJXQ0roAdPOmft7iQd8Bsccxj6cL1AVkT68OLYJjKg==;IhqbsSS5hHFzyywYx4oY+Q=="
 ---
 

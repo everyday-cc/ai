@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Alteryx Fuels Finance Transformation With Decision Intelligence And Intelligent Automation Leveraging The Power Of Aws"
-excerpt: "2 Modernize with new technologies : Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science, robotic process ..."
-publishedDateTime: 2023-07-10T20:40:00Z
-originalUrl: "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws"
-webUrl: "https://menafn.com/1106580898/Alteryx-Fuels-Finance-Transformation-With-Decision-Intelligence-And-Intelligent-Automation-Leveraging-The-Power-Of-Aws"
+title: "Alteryx Fuels Finance Transformation with Decision Intelligence and Intelligent Automation Leveraging the Power of AWS"
+excerpt: "Highlights: Modernize with new technologies: Alteryx leverages the power of AWS to provide an environment where technologies like artificial intelligence, machine learning, data science ..."
+publishedDateTime: 2023-07-10T20:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
+webUrl: "https://markets.businessinsider.com/news/stocks/alteryx-fuels-finance-transformation-with-decision-intelligence-and-intelligent-automation-leveraging-the-power-of-aws-1032435814"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - AI in Finance
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?463717"
-    width: 375
-    height: 249
-    isCached: true
-
-secured: "2FYA3TAsbK060BQ53F+DKVab1PojVSxXf32ORmsb/hf/brkBgfDMDV7kWvJn6E6YHHplEac2a8NKp9ZaHrJPj0k6vVOwZlbZTG3gXjwiAWq+dTBYWZG9tcQOD3jYN3SktRKYYqLj/myDmDGfkszWbH7N9hfPFz13Tc+8cOgHd636Ht2uZBRjSHa9q0xS4UTPqnCSTM1bQ48WB7A6AsjjfV3N+bPn/KF3Uv7Tz6NtglN3mN0jjQ7FHHvfyTttor482+wmoCQ7PinNY/4DBOSEvF0rR+E/BmF2P0L0RLx+4iucySQ8MUu+Bxw4DNq+FLOv5oerwDAPzkJpB4I0kNaAGXoLUs8QQgpbcanexwY9E+0=;Z2d4M5QL7uxBUig8H4sYaA=="
+secured: "6MCX0O3UJDUuFlRqla8lyPtiCdowbk3Cup2QCzrJuE2qpk9Dv96cHgAS1cKYp8RVKpW1ElsyBrIO67hyiRZW5eEOhpZQM1wG6PgMRrGf+AF7E8gJwj0mt9+ZwrXW1opfb7LY9mF/cKSQS3xP05e47IrDffpkmyfoyLAihreqcjHnxqMap59ee9tgRH0uiZE93ViLoPykFiAxBPHdezt4EJUTAYNN4effxtHWqhgNnJvak8uaHS6Fqch6eHtJNgk0DV/c6agPTeykbb/vgYgdIzOE4z2V1h+pzjR9fVN0sxFWLlkCmttyX4sOlXaCU+vq2B10UEpFC5/F53rQAuf9tJ85MZX3lQve1c1wy5qNZck=;NS/txZx+ex3HYrkh2dO7WQ=="
 ---
 

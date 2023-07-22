@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches
 cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches-ai-start-up-as-ark-cuts-stake-in-twitter/?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 768
     height: 433
     isCached: true
+
+related:
+  - title: "Elon Musk Launched His Own AI Startup—Here’s Musk’s Net Worth"
+    excerpt: "Tesla CEO Elon Musk announced his latest startup, xAI, which will focus on artificial intelligence. Musk is the richest person in the world as of July, thanks to the companies he leads including Tesla,"
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.investopedia.com/elon-musk-launched-his-own-ai-startup-heres-musks-net-worth-7562899"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 17
 
 secured: "i45CFG6G5Zzqt8wox71gVHHUCT1aomqqASUrqb3zpPxoYvZ8Vn6pVEenpWw7eiYC3im+JinGN5s7l0d7T7/xbxBJTFiBVb145f6aXlclGu74fXx3Y9UsRHg6fbl8LG83l60wYqnnoCSbEj3lB2a8czfgbijuKOKYYSarIjmnmwmnvG23Qjtj3mU71yBruIlScJ7eGrdP5TLgIsL5oK3PEehTL5iX5HNmB41Hvc/NDBsbOW1VKRbqhfgXC6eaCgh4l403xNAsYnl53ePgECEvyTb02583s3FMyotdhKGnqeyN7Ik+sEcRGJdd3jquD5/hGANCLCwthd9HyTfUYFyvfTDe7IBBTK/3bmC0WvBalbc=;8aJG4fD4i+SHOxIREIoBsQ=="
 ---

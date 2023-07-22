@@ -39,6 +39,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "ChatGPT vs Bard: 10 questions, and a word of caution on how to regulate AI"
+    excerpt: "The Indian Express posed 10 questions to Google’s Bard and its chief rival OpenAI’s ChatGPT ranging from difficult Maths problems to questions relating to politics and social cues."
+    publishedDateTime: 2023-07-22T13:52:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-vs-bard-10-questions-ai-8854715/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 17
 
 secured: "VgeTTz7rt2X9khzmlETLS2rCopbBjVmppzSnsxlBPeo4cr3ITvMAvNPLDGsh9TbWvl0CGOcUJH8DJ77RMXzlwxfKP17pCs7wMKWHh4E4/DpjS4Im77xEzkBduiSpbMLQPFCeoq7NB1qT2h4X3pKnP3k1F9yplRvpKVD09S711y+V/a6sE/ipBVO8VG5mKLPX24k245guqlZoNG7Crbo38l5mFK8ZFY54L5lxcjdU65jYMb+TjuQtws9deXT3IfeiKFsP8TB2/xr6iU4R7K5ArRKDIFFyRHyOxGuB/2pPJkaXjYvNWXsMlzYaIDayAtOlusLZAXPQ3eJMNOTPI5OsLXaZcpWS5syQoaa0Pw+sKhM=;SXMsXxKVADaqKnbohulZaQ=="
 ---

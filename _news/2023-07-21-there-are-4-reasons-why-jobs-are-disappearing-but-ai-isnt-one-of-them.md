@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-h
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 746
         isCached: true
+  - title: "3 Reasons to Buy Amazon Stock, None of Which Are Related to AI"
+    excerpt: "Don't just buy stocks because of the 2023 narrative around AI. Amazon is at a profit inflection and could still be an outstanding stock to own over the long term, regardless of what new AI products it may or may not cook up."
+    publishedDateTime: 2023-07-22T12:41:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/22/3-non-ai-reasons-to-buy-amazon-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
 
 secured: "4sYPZ79rv2QTSqKUPej0jlk4sU9hLAPrUGbja6oLlAieQ+aQMrCTre9S2KWh0DF4GVPt172xO1fxCkZJB5/2hvdDthe+x1vMKefTZY2SXiy+B8q7v1L3cVivlHdUO5YOoQDBn2pm63+crTPsNdgQKRIOF+BgVsCC2bxkeS31+tvJXpf7J+QEr15RP1SebB+qplv5NDxDqLN/B4yYnLYIXCJxXcLMyajFU0ut6Cx/dAzEmtOaXsQGX0qBBKDvA1xmaipimZW/B6dDkbUFMpzI9zsBUej5cDijSiMSPJqZ51w368OsP/SHKczLKQKmCOJ3DUeGFpxkScD4bjOLA6u1h6fQ0z19CH/LKQ/0tQfXGB4=;0R7MFAWhfhYWDjYIJx6pfA=="
 ---

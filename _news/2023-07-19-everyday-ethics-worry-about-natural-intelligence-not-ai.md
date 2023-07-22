@@ -9,7 +9,7 @@ ampWebUrl: "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-
 cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Brings Ethical Concerns, Say Pa. Ethics, Tech Experts"
-    excerpt: "From a purely competence standpoint, [the technology] is not at a stage where, in my view, it’s particularly useful or reliable, said Fox Rothschild partner Robert Tintner, who oversees the Philadelphia Bar Association's ethics hotline."
-    publishedDateTime: 2023-07-17T20:18:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2023/07/17/generative-ai-brings-ethical-concerns-say-pa-ethics-tech-experts/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 69
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2023/07/AI-Ethics-Law-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "AI Ethics: Principles, Guidelines & Problems To Discuss"
     excerpt: "Artificial intelligence is gradually creeping into every aspect of our lives - but do we have the ethical tools to keep ourselves safe?"
     publishedDateTime: 2023-07-20T11:31:00Z

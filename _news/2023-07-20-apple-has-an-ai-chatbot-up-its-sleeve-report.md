@@ -62,22 +62,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Labour outlines law to ban training AI chatbot to spread terror"
-    excerpt: "Training AI to incite violence or radicalise the vulnerable would become an offence under a Labour government. Labour's Yvette Cooper said current laws were not fit for purpose in the face of emerging cyber threats."
-    publishedDateTime: 2023-07-17T20:00:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-66224052"
-    ampWebUrl: "https://www.bbc.com/news/uk-politics-66224052.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-66224052.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/A622/production/_130403524_cooperrusi.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Apple sneaks into the AI chatbot race with 'Apple GPT'"
     excerpt: "The news comes through reports from Bloomberg that the company is quietly working on a tool that engineers dub \"Apple GPT,\" indirectly referring to ChatGPT, the most famous AI chatbot and, until recently, fastest-growing 'app' of all time."
     publishedDateTime: 2023-07-19T20:27:00Z

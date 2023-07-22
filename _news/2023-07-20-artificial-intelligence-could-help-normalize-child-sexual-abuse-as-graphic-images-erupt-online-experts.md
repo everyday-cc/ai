@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/artificial-intelligence-could-normalize
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts.amp"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI could worsen epidemic of child sexual abuse, warns UK crime agency"
-    excerpt: "NCA estimates one in 50 men poses risk to children as AI threatens to exacerbate radicalising effect of internet"
-    publishedDateTime: 2023-07-17T22:00:00Z
-    webUrl: "https://www.theguardian.com/society/2023/jul/18/ai-could-worsen-epidemic-of-child-sexual-abuse-warns-uk-agency"
-    ampWebUrl: "https://amp.theguardian.com/society/2023/jul/18/ai-could-worsen-epidemic-of-child-sexual-abuse-warns-uk-agency"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/jul/18/ai-could-worsen-epidemic-of-child-sexual-abuse-warns-uk-agency"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/80fb8205122bf25a53bae481444d42f6dc5e0f7a/0_436_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=f129a328873f44863f2f805b8f561305"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "IQOaerUiBUs3NBs2jYALY9i6+S6tCYhzebDtxbdxtIxvlznsHEs0nk1Wc5p/Az5XQAiDUPiC1ygQra9xbXdI0kO++oWin73QDF/r8+gZeWLYkpiO7obz1MwUfC6yTSOvUn0KHCvjIo0l9ROWAO5aAhs5n+ouON10E8FKf8mynmVbVfaeYJMPBTN7/td8Qui8QinXRVWiLF64ii0xIjjpV4uQIXNcFbUKnn168qejFavDatAZHSsShPkQIgMo1ptyBAQDjeJKnkUuOm+vfS+xNAZglL85iOo2krFLEZ/8Wx9EvZJ5eld9ITn3MXxMwYYD7aRKDQvA462AntVKC06io8Ke0GuZ/+rkSC6KyiDV6GCIzM/E6oqwtF7/gMPf2trjco4ZG8ejnCruTyZqNg92ggQnSvF3WP+J7Idqb7kvDEpgKjZ3oNRsXILQKmQlCvKbLJ/Ehg8sms+EhalmCWsZhZ0s5ZdJkSluR/ueIGlG5PWPTiYO70os3SOWIwnL3JbTTxTc2bXoVxy5jDcHmBuLFw==;vPLB8Ibd4ZQYLMGaLyXlXA=="
 ---

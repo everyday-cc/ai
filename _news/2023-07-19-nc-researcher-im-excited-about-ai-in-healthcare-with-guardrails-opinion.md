@@ -47,17 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
-    excerpt: "Jonathan McCall/Duke AI Health In March, a group of artificial intelligence experts published an ... As a researcher who works with AI in the field of healthcare, I share in the enormous interest for using AI to improve patient care. But I also understand ..."
-    publishedDateTime: 2023-07-17T22:52:00Z
-    webUrl: "https://www.newsobserver.com/opinion/article277237823.html?taid=64b5c3461af61a00010f76bc"
-    ampWebUrl: "https://amp.newsobserver.com/opinion/article277237823.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/opinion/article277237823.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 51
   - title: "Policymakers who want to regulate AI need to start talking to health care industry representatives"
     excerpt: "Health care deserves particular consideration because it presents a much broader spectrum of risks than most other uses of AI."
     publishedDateTime: 2023-07-19T08:29:00Z

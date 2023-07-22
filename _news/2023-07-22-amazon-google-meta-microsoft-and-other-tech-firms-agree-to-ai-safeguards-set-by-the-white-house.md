@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-excerpt: "President Joe Biden is praising new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House as an important"
-publishedDateTime: 2023-07-21T18:07:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
-webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-google-meta-microsoft-tech-firms-agree-ai-101546018"
+excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
+publishedDateTime: 2023-07-22T15:00:00Z
+originalUrl: "https://www.sent-trib.com/2023/07/22/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house/"
+webUrl: "https://www.sent-trib.com/2023/07/22/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house/"
 type: article
-quality: 60
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Sentinel-Tribune
+  domain: sent-trib.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-    width: 834
-    height: 308
+  - url: "https://www.sent-trib.com/wp-content/uploads/2023/07/131659378_web1_131659378-8d5fba0753514d4d99f72b5c5ab22962.jpg"
+    width: 1068
+    height: 712
     isCached: true
 
 related:
@@ -306,20 +304,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 79
-  - title: "Anthology Accelerates Innovation in Higher Education with Microsoft Azure OpenAI Service"
-    excerpt: "By using Microsoft's advanced AI technologies with Anthology's purpose-built suite of higher education solutions, Anthology is bringing forth new capabilities to help institutions personalize learning journeys, improve efficiencies and operations, and bolster recruitment and enrollment programs."
-    publishedDateTime: 2023-07-17T21:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-anthology-accelerates-innovation-higher-education-with-microsoft-azure-/2023/07/17/9849359.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 77
-    images:
-      - url: "https://mma.prnewswire.com/media/1708867/Anthology_Logo.jpg"
-        width: 400
-        height: 234
-        isCached: true
   - title: "Meta, Microsoft open access to next gen AI-language model Llama 2"
     excerpt: "US technology giant Meta on Tuesday introduced Llama 2, the next generation of its large language model (LLM), which will be open source and free for both research and commercial uses. An LLM is an artificial intelligence (AI) model that has been trained with deep learning algorithms to generate and generally"
     publishedDateTime: 2023-07-18T16:46:00Z
@@ -335,6 +319,20 @@ related:
       - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/1a76ba64fd777ce98087abd57bd5bee26e9f58e0w-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead"
+    excerpt: "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom."
+    publishedDateTime: 2023-07-22T14:26:00Z
+    webUrl: "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/satyabots.jpg.jpg"
+        width: 3414
+        height: 2266
         isCached: true
   - title: "Meta, Microsoft team up to offer AI model Llama for commercial use"
     excerpt: "The model, which Meta previously provided only to select academics for research purposes, also will be made available via direct download and through Amazon Web Services, Hugging Face and other"
@@ -1000,6 +998,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "p1TYHCFEhwVjWm8eh4UEo0e+AA2bzhLiWlInrjBSSySKxD59zpYr4BuQhuPjAOPN6yj0S1uGti6FQp4njXot6omKFiOpdtZ8nc7CmZtPMD/Ruz6VohppqQHRhc/CNI2XzpxHRL8bE/tljxqbXxB7e7gp40XSVRPJfhC/9PF9bhaGPIMmjcllLhSt4sT1lg3dGQm7z27AU1ad7ftSIBkYIQ3EJ2bDnzcyfVC6bA42WWe6tWZSvn1aa64XbgyNAB7vOatbE0ZSrX75EAVlHe9O2havV8uMNRrI06Bc9p3YBmpmURTV9GD9+Huxae4ALO4fdwKJNiZihKfMERvTk6EWI2QBuUpmgYmNc++X9oM5IIU=;5BhG6PfBGFNXFmaDTOBg5g=="
+secured: "yYjTxHNrEYEhJgMTSfSbg9B/QcboR662LdbfQDZKQTcBj3SomhQNwLs/0YWfu4jmX+Pg7T/gifxx5oQ3o3QF3V2gXxche77dNVC3Nuku0fzhOvO/9/Lx4Cc6c4uvtINrA7qaP3n6wCk+EmOfNnx0f2bCJCzzLIelZPUoz81VbYsFTqN8ICyZV8c5HOKef7IWU6CuK0OHOOpdkoTq8vk4yPcV00Bgl+mi53NBtepREeVLKX9kPAin35M77UibNh5+TxFXEo17LJT9RFAoHbWqFngE/N3CgFE/0CjyDnJ2OwMUHxd6hmWa5mXIYQtlWyuYUZJETrazE6DTa3/zKvMXigX4G/epeR4of6an5A0zyhw=;SIQEUttRERZrKPMmnz6idA=="
 ---
 

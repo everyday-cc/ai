@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-i
 webUrl: "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 700
         height: 392
         isCached: true
+  - title: "Experts Explain the Issues With Elon Musk's AI Safety Plan"
+    excerpt: "Musk's has positioned his latest venture, xAI, as a rival to ChatGPT and Google. But there are a few fundamental problems with his underlying strategy."
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.thestreet.com/technology/expert-explains-the-issues-with-elon-musks-ai-safety-plan"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "/ASRAJ2cNJSy7NVuCEWZx4ZnRn8Ka/hoDH69O6RvfSjeKBc4v0vJx8F1RYMsMhR6bjRrhWc3LnoXz7BVMLZZAkN2pP0/QaMPOHcXg82qjZZ0QIY4JAYvf4RhmFGzFl3OrEXnsSmHYywhl/jmCrJoa/VQzmAKlGvPRjEK07AjoKvNobRRPd4GDYcvOvsdnc0V9L/8m+oWBIjRcAE7zYO3FfeXQ8pnF4PBiCBQxO/L+/R0YWvaMboaF2G6sqz+TgYHgcQ3y5F+6ZIVk5ocN+mKl3Mvjg8AafRUzFMjhaWir0Qzxfi0o5mXl0S6OKPjSvOkK1GzT7Ja25d6Re4/43nLrLBApzW+a03Jzpl3VqVbvss=;4Jbghnt1dZ0QHsc8Rn4MtA=="
 ---

@@ -18,17 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "ActivePort and Radian Arc Expand Partnership for High-Performance AI Solutions"
-    excerpt: "ActivePort announced its expanded relationship with Radian Arc to accelerate AI deployment within the telecommunications industry."
-    publishedDateTime: 2023-07-17T21:38:00Z
-    webUrl: "https://www.tmcnet.com/voip/news/articles/456508-activeport-radian-arc-expand-partnership-high-performance-ai.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-
 secured: "juD2atheehSbFrFqT2RVCkhp+YwtaUbMg61GLAgbO8zW7lYzAQKMNU6G5/r/iReb9RzegZ8W9v2I41hnKaCLAj7uKsgiAO+0nnAXzDZzQmFgHtSlZu8QdU1fzyjLFTy5tHfq91EUcVoP7v+yoi+CLpokWyUwFes0Q8C9TTs6guWu+Tt9JV8oV+BxSHCTVZB0W8Aky47mOBOVUHPosLLshSrytKrG/PpHhIIZambYcJbSADRD4AFUBhdj7wai43MqfEL5OpE4rCBPU7edRnKwyWjRRehlhoasJpH5NW/kp3MOHzBelUB7M09b3ShrMbRuaMPqwNCWUpNoqQwu0GXH9zG6fw7pjzTV7nOVgIAKTU0=;EotEKJiEweofyGzB+kMpNA=="
 ---
 

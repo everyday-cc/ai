@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/applic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Proliferation of AI agents raises fresh worries"
-    excerpt: "But Open AI is on the run and it has released an unpaged ChatGPT, called GPT-4, which is endowed with strategic and adaptable thinking. But it is not all rosy future. There are issues of ethics, and even of imagination gone wrong. Yeshua Bengio ..."
-    publishedDateTime: 2023-07-17T19:45:00Z
-    webUrl: "https://www.gulftoday.ae/opinion/2023/07/17/proliferation-of-ai-agents-raises-fresh-worries"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 19
 
 secured: "G2Yo17MEnbgR6+4shVmHgx8TCi2yTYfvuTJSoIqVPt/K3OTmWUmuCeouLeK6VvfqJtq0xejzWXBeWN6buxKCACcATy1WxUha21IuGKlwdXnxyLRRjEJp9Snk+zx54JedL9Fgh/orC0MjUQSrmTGnLCmU7EMY1Gl59KRQRuJXHjHNKuqL2jBmEp8ZO5QtWmpbV6/DMJgq5bYuiiZF1BArTKtol2AdWRREvi06WNTnmOo4FfM1fsOrI7/4NpLBOIpGQZ+24qBi6Ffgi6VFHVHaWopQ0ZLLJY5e+7vm6IiFjHtabsEIVvCD0zuwL9CqFEiw8A9Xla/RhmpYHLGxDLkLoCflrIvHWDHrZmSauJBWp4HzFpAg+B76gFb0mKdT+XU2WZBM803MmHLN5Y7+bqnmTRBByMqsMp3tIqebE/kdrXKfk7QiWr+tWAEmg8njLceEQicPpEfRjxI8R8gWW6Q2+OvpY6v7c+tVUj1NlTyTG00ZZMoZvoBdoLtgYaqJLV4pShaDRg55iev2F1IpzUZvFg==;Mcrvuo+IUQokFE2SOJdS8A=="
 ---

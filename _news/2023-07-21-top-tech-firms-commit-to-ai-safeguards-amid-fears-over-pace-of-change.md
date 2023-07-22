@@ -348,6 +348,24 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 17
+  - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
+    excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
+    publishedDateTime: 2023-07-22T12:17:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/leading-artificial-intelligence-companies-make-voluntary-commitments-to-manage-the-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 17
+  - title: "Tech firms agree to AI safeguards"
+    excerpt: "WASHINGTON - President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet"
+    publishedDateTime: 2023-07-22T13:24:00Z
+    webUrl: "https://www.tnonline.com/20230722/tech-firms-agree-to-ai-safeguards/"
+    type: article
+    provider:
+      name: Times News
+      domain: tnonline.com
+    quality: 17
   - title: "Top tech firms commit to AI safeguards amid fears over pace of change"
     excerpt: "Joe Biden announced Meta, Amazon and OpenAI among others had agreed to eight measures to encourage responsible practices"
     publishedDateTime: 2023-07-21T18:43:00Z

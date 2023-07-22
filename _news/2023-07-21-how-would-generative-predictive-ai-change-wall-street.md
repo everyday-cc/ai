@@ -7,7 +7,7 @@ originalUrl: "https://greensboro.com/how-would-generative-predictive-ai-change-w
 webUrl: "https://greensboro.com/how-would-generative-predictive-ai-change-wall-street/video_da75f0f1-0912-5a4e-8d76-2830a2812b91.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "16 health systems join generative AI consortium"
-    excerpt: "Avia's Generative AI Strategic Collaborative to research AI opportunities, risks, data ownership, privacy, regulations, and ethics."
-    publishedDateTime: 2023-07-19T14:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/16-health-systems-join-generative-ai-consortium.html"
+  - title: "Generative AI bots will change how we write forever — and that’s a good thing"
+    excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
+    publishedDateTime: 2023-07-22T13:01:00Z
+    webUrl: "https://thehill.com/opinion/technology/4107998-generative-ai-bots-will-change-how-we-write-forever-and-thats-a-good-thing/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AVIA Forms Pioneering Industry Collaborative to Identify AI Risks and Opportunities in Healthcare"
-    excerpt: "Over 20 health systems, industry associations, and government leaders have joined AVIA’s Generative AI Strategic Collaborative"
-    publishedDateTime: 2023-07-19T15:03:00Z
-    webUrl: "https://www.miamiherald.com/press-releases/article277461333.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 23
+      name: The Hill
+      domain: thehill.com
+    quality: 16
 
 secured: "s2sw3xpb3BBUqMylQmxXGNiMnRI4BYL3+3oOaOiI14Zouc7TGzPeSbiEPzh0YaCXEWo6WTgnnkacOARK3BYWRlluaK4Bg+GOhIxb4s5xVCsExh/ZMVfARHkEk3HMF6qizG4+GVmevVHQ3dBfWM3JkQ2VvEgKE+TwScl4sznEx1P8XFUPLFK36PG78Zb0a3/U/35HemhM8NQ7xDzdCvr+vq9KOjZcfxQejP6Z2ORhMvU/HkO4Ni0q6PjZwNv1+Ho2r+rzABGtc4MU12GvfQCOuifflbS5ZFYbPWn4KasgERcxOYcTciSpdGdhFi2mJlzTNTsFkIoXOqIrmIjjKsvVXqa340oCg3Mjzs/ayFqKCGbcXom8mWsnTyahpWoYfWMRFdqSa4flbaBhbZEyEjsoINCuJIlfxgOLBpyErzRDORb9ymg8hDJKvmzYbdU95FBS/t6trJAvpBQNGnmL7nEQtfIcywAYXcKPyAc6uadpgxOv563+ZgRsMptD1+5XZfFvnBsX5eudSyw6VwmnVyFOuA==;tBnL/TIO75Vre5xPeeiiSA=="
 ---

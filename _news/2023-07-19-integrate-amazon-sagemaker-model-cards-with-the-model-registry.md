@@ -99,15 +99,6 @@ related:
         width: 1022
         height: 513
         isCached: true
-  - title: "Configure cross-account access of Amazon Redshift clusters in Amazon SageMaker Studio using VPC peering"
-    excerpt: "With cloud computing, as compute power and data became more available, machine learning (ML) is now making an impact across every industry and is a core part of every business and industry. Amazon SageMaker Studio is the first fully integrated ML development environment (IDE) with a web-based visual"
-    publishedDateTime: 2023-07-17T19:54:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-cross-account-access-of-amazon-redshift-clusters-in-amazon-sagemaker-studio-using-vpc-peering/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 53
 
 secured: "StVLLTeWCJZ03nPViP/YQGKfv1amBHMEZNMOGuHxip0B9Mud3gywjlYcZqPWd0o3P76+/442VVMUNi/kWUi89yRETKqtguDMVAAQBjU56H1zl66OS6ZOJDusDvZ2A2/31+G9GSdOoouITrlk1Tuef0SKfrRqLR6ywqOprptl9U+rAzRfU6CgzO3g0nkMdVzr9/zl6pcHct8guqI0FbI8XJltldTgSG8uf8i3SZofOIGWmEAZ7EpL0xA59Awvvpmj8m914sjzMbhh4wmO7Xl43Zc66D78JyHPHaKTbQV+7nABhgxyEgI7mm/1ZL5f5mts2lbnwPa3/iRa04tFrDcRtP09nCVYBwykajdm87ccPPY=;n6nFJX1xxxzxQdhxtoN0wQ=="
 ---

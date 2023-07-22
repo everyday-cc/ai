@@ -65,6 +65,15 @@ related:
         width: 1735
         height: 1200
         isCached: true
+  - title: "TiE Rajasthan mentee startup InfraHive secures pre-seed funding from Silicon Valley investors"
+    excerpt: "TiE Rajasthan, one of the most prominent Chapters of TiE Global, has announced the closure of a pre-seed funding round by its mentee startup InfraHive, a promising startup from Jaipur that specializes in AI infrastructure solutions."
+    publishedDateTime: 2023-07-22T12:53:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2533030-tie-rajasthan-mentee-startup-infrahive-secures-pre-seed-funding-from-silicon-valley-investors"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 0
 
 secured: "cfwohstP4em07WParOysPmLpwZyd+tAt+/o5OSltoiLny68VGjHI2pn8NZ95h54yttLbYWvjxXBENKVgqtUBam6POlJ56Q3jlzPJgwulgtuHDEgLoKPXIzwvx9XUhKOh7fRM/Pd9QZrHKGFeVcqtodbF2aM7JFXjVQcSx9oYdMjlsJrFQ8DpMmZzxLYEClEbV+i3RDRMxjJFch9btgEK7xra1hTOob7GPbc9vaJFsVCSqoQRcbi05/r2sHHxJNWB3GD/ZAjs2ZPmenxoNvnB8Tj7/QA3Oftw/rkla45mQC7g9YXtdZ6+z6pYVQBIFhnLxlLEqsHKwLzyOMwrV0wRgnmYuVYPl3s23t3E4TxZaZw=;f+JmDIzuZuIgk/hO6D0a3Q=="
 ---

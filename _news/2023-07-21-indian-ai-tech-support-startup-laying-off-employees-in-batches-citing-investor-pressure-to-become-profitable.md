@@ -65,6 +65,15 @@ related:
       name: insurancebusinessmag
       domain: insurancebusinessmag.com
     quality: 19
+  - title: "TiE Rajasthan mentee startup InfraHive secures pre-seed funding from Silicon Valley investors"
+    excerpt: "TiE Rajasthan, one of the most prominent Chapters of TiE Global, has announced the closure of a pre-seed funding round by its mentee startup InfraHive, a promising startup from Jaipur that specializes in AI infrastructure solutions."
+    publishedDateTime: 2023-07-22T12:53:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2533030-tie-rajasthan-mentee-startup-infrahive-secures-pre-seed-funding-from-silicon-valley-investors"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 0
 
 secured: "E/3hWdV111FfdVEgsPfjnp8iqdj0v7mSopDZNYwLdQK6PG+z1i3BihYwgazdKksaaXs4g8Dn36WflD27txI3BDRVsByAtiP3KI8yMcAUh/gpYEmywW/7oHXgdqyDqseVz4+1Z5IsV7hQSthXfaqbY4BZOJSFMfuh/k4WH5ik7q19xLH0Ocnr+xnfVWQDN7zH0WG2sfHJbDcNm0fR0YGiObvaLo879e+5pEdT0Tqv5PhM+fhrt1wi74xqZ5ltC4t9YrtwFI0IJs93B7nfhPCgAlElHpXdb4hWKr8YszMpKtZ5j7vHt1vp5raGhbmxWvJ0EGhh/4Th5gjL4qqmql3vyHtHAhBYCM075299qJjh1ak=;03yOzKvdSg70qhwHit78oA=="
 ---

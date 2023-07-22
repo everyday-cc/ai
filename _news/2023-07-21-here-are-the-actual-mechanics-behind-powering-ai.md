@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "3 Reasons to Buy Amazon Stock, None of Which Are Related to AI"
+    excerpt: "Don't just buy stocks because of the 2023 narrative around AI. Amazon is at a profit inflection and could still be an outstanding stock to own over the long term, regardless of what new AI products it may or may not cook up."
+    publishedDateTime: 2023-07-22T12:41:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/22/3-non-ai-reasons-to-buy-amazon-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
 
 secured: "ObmGEl6ocgUi9wMLuv4QeJya6GnD5aJg8xrQqPIZJahnBMyVK8tmLRSABcgncGH05CzZNeYf2IZsjefkOU88ZlcwjOYTyxt7SvJOVmnDhckCt1EipD+2p35DVxuzoAj/4/ryLvPcoWbseYRYiC4pi2W50B8TjafiKmTYXDbjPluO1qH9MLswAqh/g+uFC8RYKB9rhcSdlBmCo5KoDIcFCiZu44iSNZ2yzdeWpNyMERmIK2kIVyL35biqup+MvYjvt5VYLpIMdSwkw7Lrdz7cE5iz/m3J/sabZ5SOLxfMqUYbmmoF5iEwwJIzop89j1vJDcXInOEwMMrBgb+iWP5vN5Z2XyOXsub9wvIL8ojjpTNcbYpnGeYJBZ2BRi4jX3qF8DjoenfjkEaGrOwSNP73h3BMg9vjhc9uPYTOsbUhmj1DHguI8cq4RL+4ePHDbAQfUImuECCnLkcnlf6am6WVvPMPBtV56rSF473gERxFTzRKZybl+7zX68IMZwWWyrUrho9M7RuTuxJXwmkKxrrrPQ==;FdxLQHdw3c7zBuekI/MHWQ=="
 ---

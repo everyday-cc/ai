@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.ht
 webUrl: "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1300
         height: 730
         isCached: true
+  - title: "ChatGPT vs Bard: 10 questions, and a word of caution on how to regulate AI"
+    excerpt: "The Indian Express posed 10 questions to Google’s Bard and its chief rival OpenAI’s ChatGPT ranging from difficult Maths problems to questions relating to politics and social cues."
+    publishedDateTime: 2023-07-22T13:52:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-vs-bard-10-questions-ai-8854715/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 17
 
 secured: "2MIHQRWb4TOii/RxkinZOwnR2v/BbCEE7IIwzkZoD8TuBF1kTs9CTGS+mEFwPG2pKibNQG6mkB1+uZ7GCMwg6i/uTt7MLIfjdsZ1FeI6Zh0m8zRoNBCwUCbB48Z+VHf0yWbB7A/qc4CpKbkk8K53q0UNQ/WU3WSTUOLeQwyefXSgS6QWS/G3+z6aDjQf6cbwbmDAnVd3TgmTVLYHuvEgPMte/IpADz2ohx7aRERJfcSKBep3nYJtgw+xAt2uAimXY9oIAJvqLX/L98OqiwB/jz6Xac31XBlmzWe8vXKjXKbtW6sWYyu+J/D2RM0ByPv6gm9oX3ch9eztWzTCPmxn8upM5gYS4sgo7lzU6SMxmX0=;iEIV56WP5e1JcaPzgEfqSQ=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Experts Explain the Issues With Elon Musk's AI Safety Plan"
+    excerpt: "Musk's has positioned his latest venture, xAI, as a rival to ChatGPT and Google. But there are a few fundamental problems with his underlying strategy."
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.thestreet.com/technology/expert-explains-the-issues-with-elon-musks-ai-safety-plan"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "iRD/xduCukWLCiCgJmapJx7DwOT/6P0j+EVU0lgnOOwapaaXDxmT6hZF9xOqmk7HtomJLD5RF03fVjjHCuUa1+C/88X4beTfIqgH8qwUdetmgLgKwBPE5pGvaQYMuy3hLhOvxfvQpBpA3CAK/q264yJGcVZ5tqzAIBAdK0vCzxQ3wPil02JWJcgpiAKMtsMVqxAQTv/lvUWkzwA058ZUxFyoVK6ObRqyRn5w3XPPqLlV3jZRu66zHjEJHrCOvNbjp9MlgubnunaG9wANiU+9NDq7ItPsjRJQ14dmipDy5Ozyc3ZvNZLdDNyNDcJMCcpc6QKuM/+1PRxKCHF4XXPMgqmx+U6Xbg1RXTMhgaj5VVv7UWCGYFnHxf3Ip256irmTHNyfeRjVbYUvhKJzKxreXm4cEQP9PaZI1YgAUI0uZ+IoXnTCcq8QwqinCciMpjPmKW9aLZcYRJmnseZMiERvVfoCzm03K23Y56Teq5PubrgUfXpCSn6iWzbfmvJGxKdtP6EtR25GOtWFHjU1yfLCLA==;FFtGvnhPQzSX8MyeldtzVQ=="
 ---

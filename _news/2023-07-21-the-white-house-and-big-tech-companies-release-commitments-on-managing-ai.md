@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Tech Giants Make ‘Voluntary’ Pledge To Develop Responsible AI—Including OpenAI And Google—White House Says"
-    excerpt: "The companies have committed to share more information, boost transparency and develop tools to flag AI-generated content, though it’s not clear how compliance to the voluntary code will be enforced."
-    publishedDateTime: 2023-07-21T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/07/21/tech-giants-make-voluntary-pledge-to-develop-responsible-ai-including-openai-and-google-white-house-says/"
+  - title: "AI and You: Google's News Ambitions, Tech Companies Sign White House Pledge"
+    excerpt: "Get up to speed on the rapidly evolving world of AI with our roundup of the week's developments. Connie Guglielmo is a senior vice president focused on AI edit strategy for CNET, a Red Ventures company."
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-and-you-googles-news-ambitions-putting-a-face-on-subway-fare-dodgers/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 29
+      name: CNET
+      domain: cnet.com
+    quality: 45
 
 secured: "DiojynYA5GTYMJBFtF7GM+iVn0zeghG2wgDRPKNVlfOLGLnGZELIVhj/mE96ZQgns/VBYNo3Hanb5GhB/q/GlpFs8Xg6CpFIdNobfEFTZHrWwDxXaVqMlZYBkaNJqbjwWvvPGEs/vVvqAP4srEymrliC9mL3aXgQ/3U3bPufWnuquK6PlPNYPJrrtdZnuAxzvfDpRUvigao1fHv0lMBFf/opjMhSJqNeArRKROU5IZbqmKKbwVjz0PLbsgpAwqJT6+IVcKhGl4dqex3WWrRqmaqCdu9NStEacn8mLMrewC5WIWTLrCA2SGwiiz1wDFvEoctO5H5Vk25Zj/7e1puoqSUgwdJa/uwM61MG3QvEc+kG7F6mimNC+Xrbl3ZAuFxVOIycNFa5Hnr/3Xygjpvh8CzV41SK/hKFhGH3KD07dmUA8q0o8ny/ym2id/iDUhg+QZEqtrdS3si+arZZ2mIaQky7xp9DcZ/AP4eXbBQ2afME8JfS58DoLO6FeXvjKLPIfgKscGpV6cX9sZfQTAPNig==;oHV5oMHZ0Vrf9c2gRL9IqA=="
 ---
