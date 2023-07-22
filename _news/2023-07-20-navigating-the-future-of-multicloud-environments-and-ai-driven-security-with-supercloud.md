@@ -35,6 +35,22 @@ related:
         width: 842
         height: 596
         isCached: true
+  - title: "Cybersecurity In The Era Of AI And Quantum"
+    excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
+    publishedDateTime: 2023-07-22T05:29:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1500
+        isCached: true
 
 secured: "MBPEvp73/gw2MTT/b86kUstrEO6Thf7d2ahP6tHPCGZLW+dqv7DJRy8mgpMqjqet11/o4T4SgA/ZVG4tk+NuaX0q16rAEmjr6Vq7egWL5ykfsOcVAatR7WVFvP8tgky3Q6W4+JxIJN9f3HgvDJaALP86fE194k17fp2vSTrJpm/wwQ1+HDOmsvK+KquoHFDfhAOvgUPfIQQfpQ37QEy9cTa62GK+iCn/Z5jZuhvwl4W/HWCFngfVYq8qW5UZ4QQLQJPN9EoCXfiFjVYHCEOoRDEOLlM2QLcOwF59kvlJjNZQJlOQ2cTNIWq3C6ZkHBnhJaMXHtV43HymrA9dSnImh2MxOsPIzw8YZNV94lsmhc0LzEutsCVHjNRmD7tr3GF3ngaW3S35Vw9S67o8CYqLpL+Xh2TILEEvJs7rs6YwmsND5Avx0SDjX27Gf+XouDiSgnXx32QjvEzYXsRpnFwciV5pcsDTzwL9dXwfeDNovImZav2lhX0rG+Ju7eC7p5oqpGdDO9Z+2E9Ui3lVtug7Qw==;Wgyzh4aEgct/j6cScE1qww=="
 ---

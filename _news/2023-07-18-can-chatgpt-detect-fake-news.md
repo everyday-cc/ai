@@ -306,6 +306,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Please Stop Asking Chatbots for Love Advice"
+    excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
+    publishedDateTime: 2023-07-22T11:00:00Z
+    webUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "Apple reportedly developing ChatGPT-like AI chatbot"
     excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"
     publishedDateTime: 2023-07-19T17:49:00Z
@@ -315,6 +324,15 @@ related:
       name: Invezz
       domain: invezz.com
     quality: 19
+  - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
+    excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
+    publishedDateTime: 2023-07-22T18:50:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/from-dr-google-to-dr-chatgpt-ai-chatbots-are-increasingly-being-used-for-seeking-medical-advices/3182728/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 6
 
 secured: "6va5BXxO3jI2bX9tXRsV2hPuL5/BK0AYUK/ePyuQSB5mtsCv0kkooPDf/q4ZWZuUsUHdDo1Z6Kszglj5t1/TLdj23jDFRNlDpe0ceQ0uAc2/x9s3muenrG3jhIumKWHS+u+a6ghCLwUnl++LV5rXMfRHbKjWDyjno7uIi8s+SSGWzMMJE1BKZduJk+MytObnwFga+LyHOk4OKP8QPjXXdDaoaEvwL88ATMZ8xc7YoXrzTGfVdhdJJipggbM9lXSOZmjbkFjV4w+pFiXn+wzzwj3FWSyKvHtx7Sc9XgpI+frIBfU8OLRfrX+7fqlP2RN6Va3ts7u+LzDZbV/Ro3NWZankosYAnZBONU4y9dqY3JY=;CzXmEQh6SCcTaCUlni7u7A=="
 ---

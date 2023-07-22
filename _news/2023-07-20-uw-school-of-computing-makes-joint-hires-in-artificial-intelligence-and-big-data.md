@@ -47,6 +47,15 @@ related:
       name: pna
       domain: pna.gov.ph
     quality: 19
+  - title: "Best location for AI jobs is long-time tech hub, report says"
+    excerpt: "A new report from a U.S. think tank found that two California cities dominate job listings for work in generative a."
+    publishedDateTime: 2023-07-22T18:45:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/best-location-ai-jobs-long-time-tech-hub-report"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 17
 
 secured: "3sA3BLaDPUYMjdzizrsuxnYlu6WKcumoxj9Lvv9jGEXW+BJ2dZphajdJamE/xY3fKYCk5camPNyqX7hacS/COHrOhdMx4qJFwARYXHzwlyMFP4d5dI3EDJ77a7VxBYmipZlK1A5FWxNmaLoEzMqL0WgGjde17tJLmxS+mYixlQJenC8HpLteoEqw0EuFemT3MxO40q/zupuP7uLPFRlfxeAOujw8fsNMd6xiBDkSqql8Q3snzXV+WR0MlSMoG9ZcEayVGUtDpRJgV5RsWkl5VBJPrm+kSZwshOLwngSM2vjFgOTH4iPlwe2pSN3T5Tz/awrOSXjfR3PZKaW3vqJyeU8zPuPVRHkQqrM44QUGHhs=;snki1D8YP0mTssj5AwWMIw=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers"
-    excerpt: "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million."
-    publishedDateTime: 2023-07-18T02:51:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 63
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Cognaize Raises $18M in Series A to Bolster AI-driven FinTech Solutions"
     excerpt: "New York-based Cognaize, an intelligent document processing (IDP) company harnessing proprietary hybrid intelligence technology, announced the closure of an $18m Series A funding round. The funding round,"
     publishedDateTime: 2023-07-20T07:52:00Z

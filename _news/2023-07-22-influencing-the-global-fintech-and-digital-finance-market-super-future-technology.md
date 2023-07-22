@@ -90,6 +90,15 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Analyzing The Impact Of Fintech On Global Banking"
+    excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
+    publishedDateTime: 2023-07-22T18:46:00Z
+    webUrl: "https://menafn.com/1106647210/Analyzing-The-Impact-Of-Fintech-On-Global-Banking"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
     excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
     publishedDateTime: 2023-07-19T13:48:00Z

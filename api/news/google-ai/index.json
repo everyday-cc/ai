@@ -10,7 +10,7 @@
       "originalUrl": "https://www.deepmind.com/blog/using-ai-to-fight-climate-change",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -27,49 +27,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-google-deepminds-latest-research-at-icml-2023.md",
-      "title": "Google DeepMind’s latest research at ICML 2023",
-      "excerpt": "Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i. ",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023",
-      "originalUrl": "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "DeepMind",
@@ -1422,6 +1379,58 @@
         "name": "techxplore",
         "domain": "techxplore.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-deepmind-claims-its-next-chatbot-will-rival-chatgpt.md",
+      "title": "DeepMind claims its next chatbot will rival ChatGPT",
+      "excerpt": "ChatGPT might’ve captured the world’s attention. But DeepMind, the Google-owned research lab, claims that its next large language model will rival — or even best — OpenAI’s. According to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/",
+      "originalUrl": "https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-google-deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/deepmind-claims-its-next-chatbot-will-rival-chatgpt/amp/",
+      "publishedDateTime": "2023-06-26T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

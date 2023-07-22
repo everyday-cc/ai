@@ -47,6 +47,15 @@ related:
         width: 622
         height: 426
         isCached: true
+  - title: "Best location for AI jobs is long-time tech hub, report says"
+    excerpt: "A new report from a U.S. think tank found that two California cities dominate job listings for work in generative a."
+    publishedDateTime: 2023-07-22T18:45:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/best-location-ai-jobs-long-time-tech-hub-report"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 17
 
 secured: "7rnnKWcgRW0W7S32nuFzIj9en29M1MVRhz4hfBPSGF0GP2WtLKFPlWJsloOgdrwbflBMha0I8xBhlL9y4Nhqh80NcCaacm4CYCcf5oEMFQ479UmyNUzLXhH4x3OJ43tjWqZUD+hZ22K/k2qD9Hl0qBN5cxZGQ/LNqARQ8nq4TJzOUJoSOrFQTtC6wTCmWfoEAL/jPK1STky3/aWfs1GIc5a39aG33k44+C/WUKUODWNoQqD6K1Ucrvsqv56Ba9aQylrHfyTQedszOEigv0lyUKqMUVvWcq9jGukZTaqY4YFQWY3Re9R/fB8jtuP+qH6l+6aCJIQGgE8Tmduq2+NCvmz8jm67tXsp0IxdgK3TZHk=;JqpG/eVwgXoKlbqPV3rRuQ=="
 ---

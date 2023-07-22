@@ -292,6 +292,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Please Stop Asking Chatbots for Love Advice"
+    excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
+    publishedDateTime: 2023-07-22T11:00:00Z
+    webUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
     publishedDateTime: 2023-07-18T08:38:00Z
@@ -315,6 +324,15 @@ related:
       name: Invezz
       domain: invezz.com
     quality: 19
+  - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
+    excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
+    publishedDateTime: 2023-07-22T18:50:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/from-dr-google-to-dr-chatgpt-ai-chatbots-are-increasingly-being-used-for-seeking-medical-advices/3182728/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 6
 
 secured: "xGSNUyRoOR0MfP4LBUjWVn6O/GPuGdATGGwwXMqQ25KA96ocgFftg95zGQB+dpiZS2c+r+YfTPIqo+DrRXx6sF67PEx0/5aRqye+gT3x9UtvYuhn9ZL6dNpGZX1z5z7BHVLn/wMWPyS8+QVbcw87V3TbBULVITc8PfJrUwr3xBiuero1YGes2PbSndM9YUdgEf5NKMGyMVNyixZX8pQNcOaLwjmNQiCb9sK2Ekr8NarJg20on7W7rqXWxtkSh4RXAMIbNm2nCuqyFtScIrpuXlejzMvgY4ffacljYcSjK6z1KQvAmG6QQZy7ORQD0aHfUEUCHWyASHcI1evqHvFhpAqkbaorvOgeeJ0Un4erMGhBLxFRoKxu+MDVit7yVOi1BpRLsUqyMqj+gNCmt+bULoGw7ozBNqPzKjL3CJ4ms5kydX8I5RaJ7RxVvBwd+d1qKT6Mbng9Ti5ytlzjcn89v4OwMEcgHWQJW17oO6/KATZ3h67Z0Jx4XOZZluplZbhutz8sQU1M73dk7w6vDzrLBA==;KRWUz4Uu0e1VaEY0nKQ58A=="
 ---

@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
+    excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
+    publishedDateTime: 2023-07-22T18:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/463acf7bcb5f0396b3864a30c244ebab0fc692bc/0_424_6355_3813/master/6355.jpg?width=620&quality=85&auto=format&fit=max&s=da88fc08e973a19c7c417b173600f8c4"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "p1IongThaULvNhyq4nhmlixxKLvg4Ncv+iVk9eQqgOH+HfwOmRqwdUsEtnYOq4V79shfau375IyizmlIMD48FwIVWfn6mQAQRRvfUh7e7UGFur5PTLwnHzBSqPeqaZr1+aZJtHalITROU9DVtJsiJhDvbv8VaAjYk5NDvGK8w3zTLe5d1781QB4hsAMRA8BR5hgbtsF3JjaZFMdyR2+T8sVTRx9/97ihN1M1PH3shtAV7PnePSw0OeULpOZgknf8MAATEEks4vxIELDrLFYWwhpjRuot1/B3LKfSwNHFUFMOzjF6eDzYOK8hA/b5fD4LcN4aMHHt/RgYW/UtzgjcCcT4Y3cJpoJuIyidt/3XvAnE3slEH4umXuhpMYh8TRUf8WDLoiE7T7yzrDUXfkbcJgR2LrkLzsFHYCyOqJFtRvL/IchCbrM2ZJGHcHCP0pPbh4MSBOJb/Ym/a02o3q29sReBc3lwK8OSz/fS/XwvCXYAIcY+VHs40tM0oOSw+pFds7vGCQKJHcdJsYEi25v5eQ==;XcJoaLhHILAGyNhZxMutHw=="
 ---

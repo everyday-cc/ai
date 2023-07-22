@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Analyzing The Impact Of Fintech On Global Banking"
+    excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
+    publishedDateTime: 2023-07-22T18:46:00Z
+    webUrl: "https://menafn.com/1106647210/Analyzing-The-Impact-Of-Fintech-On-Global-Banking"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "Influencing the Global Fintech and Digital Finance Market: Super Future Technology"
     excerpt: "Traditional investment firms have become increasingly aware of the potential and value of digital assets, leading to a profound transformation in the financial industry. Previously, traditional invest"
     publishedDateTime: 2023-07-21T23:56:00Z

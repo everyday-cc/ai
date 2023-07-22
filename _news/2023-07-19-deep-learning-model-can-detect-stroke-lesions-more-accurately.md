@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "Harnessing machine learning for early cancer detection in primary care"
+    excerpt: "On June 9, 2023, a new editorial paper was published in Oncoscience, entitled, “Transforming early cancer detection in primary care: harnessing the power of machine learning.”"
+    publishedDateTime: 2023-07-21T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996396"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5ce21e18-0ab9-4ba4-b36a-4b8b2cb8c963/Rendition/low-res/Content/Public"
+        width: 700
+        height: 266
+        isCached: true
   - title: "Machine learning could transform early cancer detection in primary care"
     excerpt: "A new editorial paper was published in Oncoscience (Volume 10) on June 9, 2023, entitled, \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
     publishedDateTime: 2023-07-22T00:55:00Z

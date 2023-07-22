@@ -30,19 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Voice: Jacinta Nampijinpa Price issues debate challenge to Linda Burney"
-    excerpt: "Jacinta Nampijinpa Price has challenged Linda Burney to a debate over the Voice to parliament referendum. Although the vote itself is still months away – to be held sometime between October and December – the official Yes and No cases become available online on Tuesday, signalling a ramping up in campaigning."
-    publishedDateTime: 2023-07-18T01:28:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/voice-jacinta-nampijinpa-price-issues-debate-challenge-to-linda-burney/news-story/75d45ea88370b607f823ddbb87d9ffec"
-    ampWebUrl: "https://www.news.com.au/finance/work/leaders/voice-jacinta-nampijinpa-price-issues-debate-challenge-to-linda-burney/news-story/75d45ea88370b607f823ddbb87d9ffec?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/voice-jacinta-nampijinpa-price-issues-debate-challenge-to-linda-burney/news-story/75d45ea88370b607f823ddbb87d9ffec?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
-
 secured: "eD0ah4+VdKUf8+RgOiz1l/xXb1+gYnx1tEJhVuaODrGouKAzMhp4E1JTQPiQj0qC8cCZzEq9vbWEfsJJOTjuvlBJJKPMUHUWDMGJ0uyc43RuiucE4oykXGapskihSp08D0OXWmRbWbntgGeZgavV3T+vA3MDQr87NbMCAI2Q1uiRtgwYE9dRZnc6uHMmgTkTsb2lgHgxxGiizv7CHDApxbZUfNSfHmCGSE+mhIU9ARTCgp/LHSGoVehMsKrjiJEbj+xXTcW7wXgyktQXdV6SEp6fcEmp4MAOmhCIW/SttTHqKslvRJbuRZtawbdCqChQrATaXiOUrEDPlMdtsk1nJhag+50topNd4Ve7GCwVxRU=;3P2AZyzD2tOVQBgb4MosrA=="
 ---
 

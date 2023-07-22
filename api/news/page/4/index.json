@@ -304,6 +304,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-19-how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive.md",
+      "title": "How To Get Your Team Comfortable With AI: Insights From A Microsoft Executive",
+      "excerpt": "AI offers freedom from the excessive inflow of data, emails, meetings, and notifications. But you've got to employ a few strategies to get your team using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/",
+      "originalUrl": "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b807d0cd14666c57bd34f2/0x0.jpg?format=jpg&crop=2246,1496,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/",
+      "publishedDateTime": "2023-07-19T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-claude-2-promises-huge-ai-potential-with-human-rights-and-ethics-to-the-fore.md",
       "title": "Claude 2 Promises Huge AI Potential With Human Rights And Ethics To The Fore",
       "excerpt": "A ChatGPT rival that claims to be able to police itself according to the United Nation’s Universal Declaration of Human Rights has launched in the UK and U",
@@ -1013,7 +1065,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/technology-66238004.amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1192,49 +1244,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-meta-launches-ai-research-community-to-address-pressing-challenges-in-ai.md",
-      "title": "Meta launches AI research community to address pressing challenges in AI",
-      "excerpt": "New Delhi, July 19 (IANS) Meta (formerly Facebook) has launched a new organisation, the Open Innovation AI Research Community for academic researchers, designed to foster transparency, innovation, and collaboration in the field of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
-      "originalUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/07/9821ae2f64fe1e0dfea0fe0c41b9015b.jpg",
-          "width": 304,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
-      "publishedDateTime": "2023-07-19T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

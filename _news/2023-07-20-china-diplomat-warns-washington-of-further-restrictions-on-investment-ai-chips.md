@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of
 cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 700
         height: 379
         isCached: true
+  - title: "CEOs Of Chip Companies Call On US To Assess Impact Of China Restrictions And Exercise Caution"
+    excerpt: "Top executives from major U.S. chip companies have advised Biden officials to carefully assess the consequences of export restrictions to China and suggested pausing before implementing any new measures."
+    publishedDateTime: 2023-07-22T19:42:00Z
+    webUrl: "https://www.benzinga.com/government/23/07/33333768/ceos-of-chip-companies-call-on-us-to-assess-impact-of-china-restrictions-and-exercise-caution"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "bWYT8OiYjpdwlaOpZeXzucvAqrbNoIE5dCoYe6tjEDTDjzsmlIj3+ze2FqJSkxvnELFHFXMqV8kPR/NgRQIPycFLt4L2QMm7nPIgC8DFNwSnQJePERSS+yeEBFx/vqOlF2hlQ9Fr1GaLX8J4g76MBVOwDQoqBcU8eQn3rGEtwPxSlL1pN9gBQGGWYrCDc/xLxSrD80bndE2BJdrwz3v4sMxq8o7Zf3uyqUKjLYuOyO1Oad1s9kGsX50ySK0sWNFXyKqHdzcZ31kfFX/HrP0owwK7gl2ranaiZ7ufVdRnsNujiZzLalCoEjmkDltHxfro3Vyx8RdBpfHF1ApiYaKBPyeiZHu/IQ72PUGIVJ3ntYddD/XChqE4M3goyMIBFoB6hILPIePFT+ISI4iIw1sZnsApm0VD4c4gOpVCZVwsJ6ftlxXZI4+V3y0KHMvFoVXOm3XzQvKDxy7Qbu8uRTKUtVI7VOj8zvs5CF0SSTRHAiT9kdy2FMg58Pg41vWyKV6l9dFtMY8vS9lFXfu9KVP8pA==;FktPpGPAiKUl+Gx2V197PQ=="
 ---

@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "UN warns of AI brain chips ‘on steroids’ that could control minds"
-    excerpt: "A paralysed man walked for the first time in 12 years after being fitted with a pioneering mind-reading implant (Picture: EPFL) The United Nations (UN) has warned about the potential dangers of implanting artificial intelligence (AI) chips in the brain ..."
-    publishedDateTime: 2023-07-18T01:49:00Z
-    webUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/?ico=trending-module_tag_science_item-6"
-    ampWebUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
+  - title: "UN envoy calls for AI balance of power"
+    excerpt: "China's permanent representative to the United Nations, talks with other delegates before a UN Security Council briefing on artificial intelligence at the UN headquarters in New York, July 18, 2023. [UN Photo/Handout via Xinhua] A Chinese top envoy to the United Nations on Tuesday called artificial intelligence a \"double edged sword\","
+    publishedDateTime: 2023-07-19T02:35:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202307/19/WS64b73acaa31035260b8173bf.html"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 74
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/07/SEI157712892-0324.jpg?quality=90&strip=all&zoom=1&resize=600%2C343"
-        width: 600
-        height: 343
+      - url: "https://img2.chinadaily.com.cn/images/202307/19/64b73ae4a310352610b92a07.jpeg"
+        width: 450
+        height: 300
         isCached: true
 
 secured: "RdDmkRTwWIJPReTSLHmFuF+fOYC8HMQN2ZdzItPUV0TqorVXWK4i857HHaIM4PDLKy6x9aJYRV7r5TYdGioKSNWls/ZWpFwVHexQ4hmz7j8ieue5/gVEjKFDv6QEFa0nh95kJ3QPdDOYRG9txlYYK443GIriDzn1XPPavHYtIS/CyhufBNdLNTLrlzP/oalascFPgSNKviZJf6468Y/Q6JRtmcUcqJk9MGn3owI61AWslj/fg2hQ2BEypF4s02fYnHkBYGXIZc4pomUnaIvcqQXx4PSmbfkb7eUBcwIOAw8lQV9DuXU5dhb0VQinqWdMhNBYpPbksgemeg2rwTt/AIVUEPvwfxIwhfcHh8AwTec=;tayIvlI0O9xkSO8qWSk3lw=="

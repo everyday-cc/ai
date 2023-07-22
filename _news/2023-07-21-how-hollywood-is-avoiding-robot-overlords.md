@@ -69,6 +69,22 @@ related:
         width: 1199
         height: 603
         isCached: true
+  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
+    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
+    publishedDateTime: 2023-07-22T01:10:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "More or Less: Hollywood and AI. What IS Threads?"
     excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
     publishedDateTime: 2023-07-21T18:57:00Z
@@ -78,15 +94,6 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 17
-  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
-    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-    publishedDateTime: 2023-07-21T20:46:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 8
 
 secured: "L2JnPIJc7uu+CBLCcvRxTxKHoWQPzldU40krmDG/ngXTUerHV4vI5wRGlF3cX0cuRog3LjNVIwHp0I7sXBqBrm7d9NAlRTeU3sg5kYurofu3hP1zQsrRE2E9l3nTrghlJEc8KuX/jJkRVlhzJznjH4uwJ5BrwSXmqayzk60UBQytsTlFLfkAiuHpH1f7KCEdQz3JUgOM8UZW30VYuCey28UP4N//7kl85Zh6XlqfcjJDxsJImdzwMzJ6jG6teljkjXqhL8nZtTLfDw5IPtJ2ewpVOhExBxltf+3v+v1xFpIHyDDlHeQyKqeLM73kqk5MT0pruHY5sORQauptQQkN0tlcwF/S4DKUW0yMOsx2nL6J2tyJrmlUhvsMFGCD33TfXd301YTK1Ewj6jLwMg3uELM1MJG19Hryh5QPjdfpBCQ2OlrJ10UBfycmWa8HKWrb3fcydbMPVtTM6PgodGKGNDy2EL0Z10IP6mOu/RM4JtroDwc3OuI/Y4axABHGnrOLUBQo+R6AluepK91JxKAreQ==;lLuOXzbOHNWAB0jAYv1eZg=="
 ---

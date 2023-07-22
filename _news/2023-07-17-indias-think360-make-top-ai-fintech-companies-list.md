@@ -1,26 +1,20 @@
 ---
 category: news
-title: "India’s Think360 make top AI Fintech Companies List"
-excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-publishedDateTime: 2023-07-17T07:23:00Z
-originalUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
-webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+title: "Indias Think360 make top AI Fintech Companies List"
+excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+publishedDateTime: 2023-07-17T14:12:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
 type: article
 
 provider:
-  name: Defence News
-  domain: defencenews.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-    width: 720
-    height: 340
-    isCached: true
-
-secured: "CNTkAM4Yi19enGR+hCptQBOPkGlNMddCY8/vHSMo2ffpMFBAoLCd/4ORLu8GSB7Q6H9WL7FisuyaKPtFMaRaev3D8gecypRiE09II5c87DBIqlSJ5pzDSVL6bcRUZTgbbnqSgQy78miw+29yb94S1KpqNH7MNV0TnZ8WAWpIsiU0zu0QQBDbKtPfivpBh/tOFexQZLBURe6N5IcNbCunDKQv5IdK9Q9zQo44LHSsz4z56/LKQEP/OEhsTktwvIqHWTF/jnph3uf9sCcnD3naZgrjKoHsFvsqZVhN+SDQlm/zMCQm8qOJCcBxcCjGTJr50KxtWuQNsmuu8vJXN1xLpgzyiJ5QRQ0nSNl5D2Tj21k=;f1+zzgt2EdodKu7E7bUm7Q=="
+secured: "MAggt0h1rCGYSQNUkFLV0tiZ3+XCMXiGXSiZmXyeNop/dWu9BW0kWdGQXYnVFxcDk9SIk/sDtpSorIEKIS7USrqnPS/4HgKZ7GJa8Twm0YbZetgoX//KIVye2BkufFB7ywesIn3R4bCRhZWFo8Uu4Xtr/ycFN8mbJgBlpZMCW39RUDfFJOf0CQf52DNcs8K+CYnspG5nCOJgr1Z6frKZ/qRS3jtauFN/V7xUBu60devcouSyVxj455q04tIVTIis1nFkDGzJLk+FpE+QGr0gL7wCDAcDl22rua734VA1Cw3LZvqVDwKhHFTOxJcUmKF1Okia/mlnOsJyTXULbslsmg1HRVr3xTYIUAb2jENU25Q=;SFYnn+UUSB6OQ40ZV5FvVA=="
 ---
 

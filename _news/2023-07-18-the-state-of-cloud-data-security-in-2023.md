@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cybersecurity In The Era Of AI And Quantum"
+    excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
+    publishedDateTime: 2023-07-22T05:29:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1500
+        isCached: true
   - title: "Navigating the future of multicloud environments and AI-driven security with supercloud"
     excerpt: "The Supercloud 3 event in Palo Alto brought together industry experts to discuss the intersection of security and AI in the next generation of cloud computing. In a special analyst panel, Johal shared valuable insights on the ongoing trends and challenges in this rapidly evolving landscape."
     publishedDateTime: 2023-07-19T19:21:00Z

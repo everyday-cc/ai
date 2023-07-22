@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-21-tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient.md",
+      "title": "TSMC delays US chip fab opening, says US talent is insufficient",
+      "excerpt": "The Taiwan Semiconductor Manufacturing Company (TSMC) was supposed to have its first Arizona chip factory operational by late 2024 but now has confirmed significant delays. Primarily due to a shortage of technical workers with critical expertise in the US, TSMC projects to finish construction instead by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1245437477-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/07/tsmc-delays-us-chip-fab-opening-says-us-talent-is-insufficient/amp/",
+      "publishedDateTime": "2023-07-20T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-google-is-pushing-ai-tool-on-newsrooms-to-help-journalists.md",
       "title": "Google Is Pushing AI Tool on Newsrooms to 'Help' Journalists",
       "excerpt": "Google is inserting itself in newsrooms with the promotion of its new AI tool that it says will “help” journalists create articles. The company has reportedly pitched its software to The New York Times, The Washington Post, and News Corp, which owns The Wall Street Journal, saying it can effectively produce news stories.",
@@ -594,7 +646,7 @@
       "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-could-normalize-child-sexual-abuse-graphic-images-erupt-online-experts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -633,7 +685,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -731,49 +784,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-20-google-deepminds-latest-research-at-icml-2023.md",
-      "title": "Google DeepMind’s latest research at ICML 2023",
-      "excerpt": "Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i. ",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023",
-      "originalUrl": "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-20-china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips.md",
       "title": "China Diplomat warns Washington of further restrictions on investment, AI chips",
       "excerpt": "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation.",
@@ -782,7 +792,7 @@
       "originalUrl": "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {

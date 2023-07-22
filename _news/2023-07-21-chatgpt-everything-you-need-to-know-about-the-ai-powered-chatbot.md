@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 319
 published: true
 
 provider:
@@ -296,6 +296,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Please Stop Asking Chatbots for Love Advice"
+    excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
+    publishedDateTime: 2023-07-22T11:00:00Z
+    webUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 34
   - title: "Can ChatGPT detect fake news?"
     excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
     publishedDateTime: 2023-07-18T08:38:00Z
@@ -319,6 +328,15 @@ related:
       name: Invezz
       domain: invezz.com
     quality: 19
+  - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
+    excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
+    publishedDateTime: 2023-07-22T18:50:00Z
+    webUrl: "https://www.financialexpress.com/healthcare/healthtech/from-dr-google-to-dr-chatgpt-ai-chatbots-are-increasingly-being-used-for-seeking-medical-advices/3182728/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 6
 
 secured: "9tS3rE4BX0PRY0Ql56E8TC+RP70YmD+M0DB1Zwg743fvkXgYH0iM7naOVEhGJsnJmlBH2jGZe0YjDzpZAVYQkL25wC4rDtzzyWucpmVpwdpDn58n+IlEbFc1XgqL6zVmzU20NXvbH8fH00zOyeujTQy4pZcBkzUG06d/isfuZIUOIqm7wXLNChOU99mlsZeEvfJB6VznV5Kyson1y4lDkqxCLT9QS6cvJon9xEQGjpMHvzKRiBXNWwl0thJq9VB6b9S+YIYwefz1nQhvf9Va7fm8oSi9/v1U/DkB/+GAft0qEbdxyzArc+06tZwr5DGf3CXNNYiVyqVuGNaJ7zj6ObyowBWPBUKTmPAvLBk7ZPk=;TkLu/mA5kF2RSJ6CLwd3pA=="
 ---

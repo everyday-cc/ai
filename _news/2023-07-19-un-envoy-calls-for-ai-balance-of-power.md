@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "UN chief warns of risks of artificial intelligence"
+    excerpt: "UN Secretary-General Antonio Guterres on Tuesday warned of the risks of artificial intelligence AI and called for a race t"
+    publishedDateTime: 2023-07-18T17:53:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273903016/un-chief-warns-of-risks-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
 secured: "2wgw+yDg+1F8PMLsedPLMIcJexYXjGbo3w6GZDzwtz1YmAQdL8Lnh8b5FWYAiANt+MJs+DMrl0SR9vD1UUBhnfhdAonw8UHv+MOoQF/YkW+GSKvFEJQd/S5IotkUJn/6qiDoNxBRlG+e0I6loX8zNhOqf52BEw0kskhpH9d2xm3QWm4fzJh38aFwSyIwVMFJrDze5As5zVGL9kB09ZH7SyIvDbOEMqpBj0E94ztLTHfL8FMnZx85JVOgzzN7VcCo2p3h9kn49ACpUk1QDGfNLi3QtKJzq/VE+3770G9ejTuXKi056ph3hTfqvrydGQRn4djzsT3RTnfxjSUmqRFZDBjoZ03ht8No7I5kgSGq5b0=;RrAF/k6zBC4plBNMrHvNvQ=="
 ---
 

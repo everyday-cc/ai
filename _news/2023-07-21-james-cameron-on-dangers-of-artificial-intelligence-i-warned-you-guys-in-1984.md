@@ -5,12 +5,10 @@ excerpt: "The “Terminator” director said he’s more concerned AI will cause
 publishedDateTime: 2023-07-20T22:38:00Z
 originalUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
 webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
-ampWebUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
-cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
 type: article
-quality: 82
-heat: 112
-published: true
+quality: 42
+heat: -1
+published: false
 
 provider:
   name: HuffPost
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://img.huffingtonpost.com/asset/64b95c1f2200006c006b127e.jpeg?ops=1200_630"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "James Cameron on deep sea exploration, artificial intelligence"
@@ -77,6 +69,6 @@ related:
         height: 400
         isCached: true
 
-secured: "JuRi+4wzIOyk7fKKc50TPMD8fJg/tBSDwe7BAI7IdC+uW+Og1W6qX/qaHSmpzVnlZsTCc+SYaoRdDGj3gtoHrOSEpu7uhg8mC9TVWPxowZT/3O71RzdHHp0aTpdf+gE5lP37CoIFFR01EHPUtlJosh1B2/eGqBfujMgD017OWjjFE1gBigf3cgOanAnd5b0mP7rRzc/WZsJ5DcA3EEKDg1rKigeyrqzbzXwv+T3xRHlSC2inUTg27a6SKkjeu9Tij42Qx9siviRBMtTIL/CEAYT+zG9SfXODhGfo34yzhsYMiaWny1oO816iW98WtTdSsJYP+RUU7vx3MRsbDw2tHTvL4JgddbiRTttPNd/kNMw=;5B2lNecFnYUo58/jeQNOAA=="
+secured: "/SnzjhwYsopZHF6K2V2qvxzImFHEjZOKSJBeh7IlgRcO1sRV9q6QAQH5e9y4saGxxG2shFWHj6uNt0zhmZln6iNCHhOGnxm9IiyiVq9cYC+bgXqqs49QiiUd29NoTq3kXGcGAMUWjZda2DWO+cUIYaSx+3h7t1l9n09FjhA1/3mPl3kuV+B0DsYmHhw5yQgb1xEBQTSrvCksYXAPkSkpBvzjk8L6jiw7Ov5c4+KQFJqbjZPu5wdNHVGOjhmA4dWF9Y8elVrFMYxu8SlZZ0wuVWL0lnGxlYddfGpM5PlKLZwATyb464lGk1YQQvBdOUZTRyCcrNtqgni4zIQo91K8KnhyMNJg6OiOtHHHhKsQXaCxkSSl4eMtrFCJRJGNUJhamu2sLrdN10UkAzkuHm3v/jiLn10r1Jx7Wn+DmQn7k5ZsXKvwrLgCiEWFke1DWynupMlE4km/AF7EteUwxLV5m1VdCPf20iRBwD6Ay9i2dJ3govOIh8bNVPzOoyl+P6h1CmN9wb+HUw4vez7IgSMnZA==;wxpEY4aXNMy4y1mKm/90AQ=="
 ---
 

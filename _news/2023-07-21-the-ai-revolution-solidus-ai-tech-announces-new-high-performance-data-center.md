@@ -19,37 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "CareerLoop Is Revolutionizing Human Resource Departments With Artificial Intelligence Integration"
-    excerpt: "CareerLoop's AI Integration transforms HR Departments, streamlining recruitment and boosting employee retention. CareerLoop, an AI company specializing in Generative AI technology, empowers Human Reso"
-    publishedDateTime: 2023-07-18T01:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33259827/careerloop-is-revolutionizing-human-resource-departments-with-artificial-intelligence-integration"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33259827"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33259827"
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
-    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
-    publishedDateTime: 2023-07-21T06:45:00Z
-    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
+  - title: "Artificial intelligence at the heart of fifth industrial revolution"
+    excerpt: "A key component of industry 5.0, AI has potentially enormous benefits for everything from safety and quality control to sustainability"
+    publishedDateTime: 2023-07-19T23:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2023/07/20/artificial-intelligence-at-the-heart-of-fifth-industrial-revolution/"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 39
     images:
-      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
-        width: 1500
-        height: 900
+      - url: "https://www.irishtimes.com/resizer/ZZLf-r-E8Rso6R3VyDAc08PgLnU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/GQR2M4RLRJCWXDT6RDVFY4EJFY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How robots are revolutionizing surgery"
+    excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."
+    publishedDateTime: 2023-07-20T15:44:00Z
+    webUrl: "https://www.fox13now.com/brand-spotlight/wellness-wednesday/how-robots-are-revolutionizing-surgery"
+    type: article
+    provider:
+      name: fox13now
+      domain: fox13now.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1f70ce2/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F29d%2Fef205c0e5ea14d77944cbd6904335118%2F29db8d7db1a641ca99cdbe0b8c7b6104%2Fposter_f186a14be22c4c8c9a18abdbc4f5d36e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What’s Makes Artificial Intelligence “Tick” and How it Aims to Revolutionize Waste Recovery Operations of the Future"
+    excerpt: "Greyparrot, with $17 million in funding from Closed Loop Partners, Amcor, and Regeneration.VC, among others, developed and sells an AI waste analytics platform that operates in 10 countries. Waste360: What are some pressing current challenges in waste management?"
+    publishedDateTime: 2023-07-20T12:02:00Z
+    webUrl: "https://www.waste360.com/fleets-technology/whats-makes-artificial-intelligence-tick-and-how-it-aims-revolutionize-waste"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 33
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/aifeat_0.png"
+        width: 1540
+        height: 800
         isCached: true
   - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
     excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
+    excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
+    publishedDateTime: 2023-07-22T18:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/463acf7bcb5f0396b3864a30c244ebab0fc692bc/0_424_6355_3813/master/6355.jpg?width=620&quality=85&auto=format&fit=max&s=da88fc08e973a19c7c417b173600f8c4"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Facebook-owner Meta exec Nick Clegg says AI 'quite stupid'"
     excerpt: "Current Artificial Intelligence (AI) models are \"quite stupid\", Facebook-owner Meta's president of global affairs Nick Clegg said as he played down the risks of the technology. The former UK deputy prime minister said the \"hype has somewhat run ahead of the technology\"."
     publishedDateTime: 2023-07-19T09:11:00Z

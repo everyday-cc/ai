@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Washington Post Is Experimenting With Generative AI, But Setting Clear Boundaries"
-    excerpt: "The Washington Post is experimenting with a variety of large language models–but setting boundaries and guidelines to keep them in check."
-    publishedDateTime: 2023-07-18T05:00:00Z
-    webUrl: "https://www.adexchanger.com/publishers/the-washington-post-is-experimenting-with-generative-ai-but-setting-clear-boundaries/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 32
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2023/07/AI-block-human-hand-picking-it-up-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
     excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
     publishedDateTime: 2023-07-18T12:08:00Z

@@ -67,6 +67,34 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "India's Infosys signs five-year AI deal with $2 billion target spend"
+    excerpt: "India's second-largest software services exporter Infosys said on Monday it has signed a deal with an existing client to provide artificial intelligence (AI) and automation services that will span over five years,"
+    publishedDateTime: 2023-07-18T15:28:00Z
+    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2-billion-target-spend-3635836"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "India's Infosys signs five-year AI deal with $2bln target spend"
+    excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to provide Artificial Intelligence (AI) and automation services that will span over five years,"
+    publishedDateTime: 2023-07-18T15:28:00Z
+    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2bln-target-spend-3635836"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "kSYFhzFBLCEUWFgN/o4IxpfMFeAAVvg0yIJRk0yqG2BUeXSRKz5MDIrqtmEGmlG9fi/vzqjZ/ZAmDwj6dUFvchHpTKXFdnJvYDc5jjqWWj3tTrjQXDg25SPaBM1V8ze0J26ovAslZqiwmIaQWFMB1DSwyjPV0iCBMqpDDaXaKTsYuSrc01E91SM25YkRNVubpShWh2ZKDeBnMOyRocChtrW47ya09VwGST/KRoMiOmPyfQj5ng3YoXvXcesCbrnbDTpypFS1CBWBSWxe6nVrtzHDSEsZIQNerIB6LyYiCNCaQVTj5IB2gZPpP/Jznmx+Wm2mflRujeFYQjHBATjQAzSHh6Ne6IUeIEd4dr5Rk9SLHpneBMjf99BJfbuJF+EFzMtM8OiIKtPh70AxS29s/l2kenRP2ELCHdHvPweKiTF+EDmeRca5a2rlruaEoGapbGLWdsmiwhTeFonVeDbsO2wD6iLxrIAtoVAVUIqzj5G9c/lsJd+6ly1QP8rx9sbM31gZFOlqw6ckRZh7m0nSfw==;7+JceIcB3ppdyO3VqAZe1A=="
 ---

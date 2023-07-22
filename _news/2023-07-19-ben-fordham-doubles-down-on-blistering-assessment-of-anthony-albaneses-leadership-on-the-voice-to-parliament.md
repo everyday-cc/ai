@@ -9,7 +9,7 @@ ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ben-fo
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/ben-fordham-doubles-down-on-blistering-assessment-of-anthony-albaneses-leadership-on-the-voice-to-parliament/news-story/b9dc945331cf5971b6c1deaed6b3405c?amp"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthony Albanese slams 'nonsense' No campaign's claims every detail must be known before Indigenous Voice to Parliament referendum"
-    excerpt: "The Yes pamphlet does not explain how people will be chosen to be members of the Voice or how it will operate in practice. 1. This idea came directly from Aboriginal and Torres Strait Islander people. 2. Constitutional recognition for concrete results."
-    publishedDateTime: 2023-07-18T03:43:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12308959/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 29
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/07/18/04/73324071-0-image-a-2_1689651666458.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Anthony Albanese's fiery Ben Fordham interview: PM fires up as he's grilled about Voice Yes campaigner Thomas Mayo's 'pay the rent' comments"
     excerpt: "Everyone says stop talking about the Voice. As important as Indigenous recognition is, we need to do something about this (cost of living) now. 'It's really tough for people at the moment.' The Prime Minister acknowledged that support for the Voice is ..."
     publishedDateTime: 2023-07-18T23:53:00Z

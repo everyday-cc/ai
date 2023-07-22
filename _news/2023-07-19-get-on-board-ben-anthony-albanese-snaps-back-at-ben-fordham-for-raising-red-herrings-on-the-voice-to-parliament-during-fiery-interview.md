@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthony Albanese slams 'nonsense' No campaign's claims every detail must be known before Indigenous Voice to Parliament referendum"
-    excerpt: "The Yes pamphlet does not explain how people will be chosen to be members of the Voice or how it will operate in practice. 1. This idea came directly from Aboriginal and Torres Strait Islander people. 2. Constitutional recognition for concrete results."
-    publishedDateTime: 2023-07-18T03:43:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12308959/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12308959/amp/Anthony-Albanese-slams-nonsense-No-campaigns-claims-Indigenous-Voice-Parliament-referendum.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 29
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2023/07/18/04/73324071-0-image-a-2_1689651666458.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Ben Fordham doubles down on blistering assessment of Anthony Albanese's leadership on the Voice to Parliament"
     excerpt: "He said the government could drop the Voice as part of the referendum, legislate the advisory body and instead propose constitutional change via recognition of First Nations people. “Take the win-win, at the moment he’s got a lose-lose,” Fordham told ..."
     publishedDateTime: 2023-07-19T09:33:00Z

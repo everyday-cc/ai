@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/fundraising-news/cognaize-raises-18m-
 webUrl: "https://financialit.net/news/fundraising-news/cognaize-raises-18m-series-bolster-ai-driven-fintech-solutions"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firm Collective Raises $50M to Establish AI-Powered Finance Platform for Freelancers"
-    excerpt: "Collective, which claims to be the first all-in-one online back-office platform for solopreneurs, announced it has raised $50 million."
-    publishedDateTime: 2023-07-18T02:51:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/07/210179-fintech-firm-collective-raises-50m-to-establish-ai-powered-finance-platform-for-freelancers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 63
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Women-focused super fintech Verve raises $3 million pre-Series A"
     excerpt: "Verve Money' launched this week as an ethical investing platform for women, with a minimum 20% investment in climate solutions."
     publishedDateTime: 2023-07-20T06:40:00Z
