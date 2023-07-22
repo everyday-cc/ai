@@ -31,15 +31,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "How judges, not politicians, could dictate America’s AI rules"
-    excerpt: "With politicians struggling to curb AI harms, it’s boom time for tech lawyers."
-    publishedDateTime: 2023-07-17T16:06:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/17/1076416/judges-lawsuits-dictate-ai-rules"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 21
 
 secured: "g7y06+FUsw+3POcSqjUvozhlXr9tPLp+BTW+3GmzVX0Uhk28VtJOVJtbYi8UpznjIpXc89FhK51sMZeh3H57bqbWvAYznwwLSlaIlHsw5NzQh4fDhyxa0WkVeOGwgmXPehBMMaHzLUM1i+nVT58Kd/7pCJwmN4ti2hE+n641ekx41Dp7hPjDVHz6Kd7RovyippOms+fg52CjfcbbYXtrtmBk43NewaNZJj1Zw/XScm7wjKaxOHiDERxHQojMHrO1hbZM3jsm5/oJpXctn+FTjGHVd7kfIp/qiQ5Wrdcj0N6VVH5TLemi25N6MqVYEuxWffcFzYgsoujwyMtWmizjtNfApyKKT3aCEyx9GOZeRnKL0kbDbW+QQ7859z9fupOPfqbr5WlqtBcByDTGMOxnb1h1heNeoDJ3kNt9IIn1uezb55S1RP/0lQlnitlsdIfG9be8DwfcT90/EOYB4aDbNe6sI2cp+6pk+gMDgApDdKMC/qGSQBVOLg1xUS9qRUV0kzefO9b/dwMNtid8KXaToA==;L4b4C+fvh0SP9w0Nw9hiHA=="
 ---

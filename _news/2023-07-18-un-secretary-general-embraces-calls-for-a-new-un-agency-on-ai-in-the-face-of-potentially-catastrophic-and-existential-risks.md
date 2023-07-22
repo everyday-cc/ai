@@ -41,6 +41,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The AI puzzle: Balancing threat and potential across financial services"
+    excerpt: "At first glance, AI might seem like a threat to traditional human-centric advice, but actually, it could become a tool that could augment the capabilities of financial advisers, writes Laith Khalaf"
+    publishedDateTime: 2023-07-18T13:40:00Z
+    webUrl: "https://www.professionaladviser.com/opinion/4119746/ai-puzzle-balancing-threat-potential-financial-services"
+    type: article
+    provider:
+      name: Professional Adviser
+      domain: professionaladviser.com
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/457401f/6ba1c5b7-3e8e-4c67-8faa-314b8539b770/8/KHALAF-Laith-AJ-Bell-2018-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "KXnA/hQNPygv50muDY1xoVMkvVvFieBx3oXXiLy0ZyDbLEEJwAXXt1/SxHir8sz8g25iRdb6ePWEAgmZVQ5Sfwqc6t6e6i9wbygNZQdEcIaZaruk7QUo2KijPB20TbIKdVu7jwn802D4+1N93N0bDoz7mKaNfmuXg33IZRh93xDGLe8vRRchh4SEe+p3VoyVVBfXD8fpZGWKmzVT77fy6l/LEXB8kisfwSCTzU7nOqVNoRx131cy5Og/+vK3mMplfYlO0phGzsK1waaGmGtCdtbpG8Nk0e2bb7tS3MMm4aKDPOk4PDCfK5hDq/B27JKXuXmN8ojEMkSoejF747iuYqRzdeJJQrKdBhDlSrzqYx8=;CH1t1aXswSZ16For1OkzQA=="
 ---

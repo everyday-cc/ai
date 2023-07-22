@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk’s new AI startup is as ambitious as it is doomed"
-    excerpt: "Elon Musk’s new AI company, xAI, says its mission is to understand the universe. But Heisenberg’s Uncertainty Principle, the Anthropic Principle, Wigner’s Friend, and other classical and quantum physics theories would seemingly prevent this."
-    publishedDateTime: 2023-07-17T16:02:00Z
-    webUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed"
-    ampWebUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 57
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/30cf8b46-4f22-46e2-8965-e48a1780903a.jpg"
-        width: 740
-        height: 492
-        isCached: true
 
 secured: "iRD/xduCukWLCiCgJmapJx7DwOT/6P0j+EVU0lgnOOwapaaXDxmT6hZF9xOqmk7HtomJLD5RF03fVjjHCuUa1+C/88X4beTfIqgH8qwUdetmgLgKwBPE5pGvaQYMuy3hLhOvxfvQpBpA3CAK/q264yJGcVZ5tqzAIBAdK0vCzxQ3wPil02JWJcgpiAKMtsMVqxAQTv/lvUWkzwA058ZUxFyoVK6ObRqyRn5w3XPPqLlV3jZRu66zHjEJHrCOvNbjp9MlgubnunaG9wANiU+9NDq7ItPsjRJQ14dmipDy5Ozyc3ZvNZLdDNyNDcJMCcpc6QKuM/+1PRxKCHF4XXPMgqmx+U6Xbg1RXTMhgaj5VVv7UWCGYFnHxf3Ip256irmTHNyfeRjVbYUvhKJzKxreXm4cEQP9PaZI1YgAUI0uZ+IoXnTCcq8QwqinCciMpjPmKW9aLZcYRJmnseZMiERvVfoCzm03K23Y56Teq5PubrgUfXpCSn6iWzbfmvJGxKdtP6EtR25GOtWFHjU1yfLCLA==;FFtGvnhPQzSX8MyeldtzVQ=="
 ---

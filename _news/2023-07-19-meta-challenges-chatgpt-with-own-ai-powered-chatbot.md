@@ -252,20 +252,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 43
-  - title: "Canada Excluded from Google’s AI Chatbot Bard due to Online News Act"
-    excerpt: "Canada, unlike most countries, lacks access to Google's AI chatbot, Bard, due to the ongoing clash between Google and Canada's"
-    publishedDateTime: 2023-07-17T16:19:00Z
-    webUrl: "https://thedeepdive.ca/canada-excluded-from-googles-ai-chatbot-bard-due-to-online-news-act/"
-    type: article
-    provider:
-      name: thedeepdive
-      domain: thedeepdive.ca
-    quality: 39
-    images:
-      - url: "https://thedeepdive.ca/wp-content/uploads/2023/07/bard.jpg"
-        width: 879
-        height: 494
-        isCached: true
   - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
     excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
     publishedDateTime: 2023-07-20T10:49:00Z

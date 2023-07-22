@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/applic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform"
-    excerpt: "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management"
-    publishedDateTime: 2023-07-17T16:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hoot-launches-ai-integration-on-its-myopia-management-marketing-automation-platform-1032451921"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
   - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
     excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
     publishedDateTime: 2023-07-19T18:57:00Z

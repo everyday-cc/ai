@@ -2,6 +2,144 @@
   "page": 123,
   "value": [
     {
+      "path": "_news/2023-05-04-ai-powered-characters-changing-the-game.md",
+      "title": "AI-Powered Characters Changing The Game",
+      "excerpt": "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200",
+          "width": 961,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
+      "publishedDateTime": "2023-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism.md",
+      "title": "UK Police Plan To Use Facial Recognition On Crowds During Coronation, Faces Criticism",
+      "excerpt": "Human rights advocates are concerned that police could use face-scanning technology to target protesters, as they have in the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541",
+      "originalUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-05/kheealvk_facial-recognition-pixabay-650_625x300_27_May_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1",
+      "publishedDateTime": "2023-05-04T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-inaugural-hackathon-explores-ai-healthcare-solutions.md",
+      "title": "Inaugural hackathon explores AI healthcare solutions",
+      "excerpt": "Abu Dhabi, UAE: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and the Weizmann Institute of Science (WIS) hosted the first-ever Human Phenotype Project Hackathon in Abu Dhabi. The event brought together 24 postgraduate students and researchers from diverse backgrounds to tackle some of the most pressing challenges in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzdkYTE0MDctN2ZmZS00/0/19111f53-5f0c-4db2-b7ea-cf179e886ab8-jfif.jpeg?f=3%3A2",
+          "width": 899,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1?amp=1",
+      "publishedDateTime": "2023-05-04T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-microsoft-confirms-speech-recognition-issues-in-windows-11-22h20-0.md",
       "title": "Microsoft confirms speech recognition issues in Windows 11 22H20 0",
       "excerpt": "According to the company, Windows 11 version 22H2 users might experience problems with speech recognition, expressive input, and handwriting after installing KB5022913 (and subsequent releases).",
@@ -1059,161 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-we-must-regulate-ai-ftc-chair-khan-says.md",
-      "title": "“We must regulate AI,” FTC Chair Khan says",
-      "excerpt": "Khan pledged to use existing laws to regulate AI in a New York Times op-ed, \"We Must Regulate A.I. Here's How.\" In the piece, she warns of AI risks such as market dominance by large tech firms, collusion,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/lina_khan_hero_2-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/amp/",
-      "publishedDateTime": "2023-05-03T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-axl-edtech-launches-ai-language-and-marketing-innovations.md",
-      "title": "AXL EdTech Launches AI Language and Marketing Innovations",
-      "excerpt": "AXL EdTech's team shares that its language software is an AI avatar that automatically translates videos with a unique voice simulator that actually replicates the original speaker's voice timbre and lip movements,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/axl-edtech-launches-ai-language-and-marketing-innovations-2023-05-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-vintras-showcases-its-artificial-intelligence-technology-in-a-demo.md",
-      "title": "Vintra's showcases it's artificial intelligence technology in a demo",
-      "excerpt": "Vintra, mentioned by former Boston police commissioner Ed Davis during a Senate hearing about the Boston marathon bombing, can learn \"from normal activity\" to notify operators of \"approaching threats and of anomalies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6326697009112",
-      "originalUrl": "https://www.foxnews.com/video/6326697009112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/280d97bb-9421-4560-a8d3-33fd36867cb4/9c935a5d-5894-4272-adb6-2c41dc0c7a74/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

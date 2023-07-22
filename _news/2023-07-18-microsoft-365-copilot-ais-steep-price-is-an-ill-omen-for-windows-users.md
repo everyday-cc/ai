@@ -419,22 +419,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Zuckerberg And Musk To Enter The AI Ring And Challenge OpenAI, Microsoft And Google"
-    excerpt: "As its latest bold move, Meta Platforms (NASDAQ: META) announced it will be launching a commercial version of its open source AI mode, LLaMA, promising the transform the AI landscape and challenge the dominance of powerhouses,"
-    publishedDateTime: 2023-07-17T15:07:00Z
-    webUrl: "https://www.benzinga.com/23/07/33251753/zuckerberg-and-musk-to-enter-the-ai-ring-and-challenge-openai-microsoft-and-google"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33251753"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33251753"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 70
-    images:
-      - url: "https://cdn.benzinga.com/files/girl-kickboxer.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Inspire 2023: The Biggest News In AI, Copilots, Azure"
     excerpt: "These are among the biggest announcements to come out of Microsoft’s annual partner-focused Inspire event this year. Inspire 2023 runs from Tuesday to Wednesday online. Solution providers and other partner business types have proven essential to Microsoft bringing AI to market and getting more Azure customers, according to the vendor."
     publishedDateTime: 2023-07-18T15:30:00Z

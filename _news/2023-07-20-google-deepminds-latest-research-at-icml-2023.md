@@ -7,8 +7,8 @@ originalUrl: "https://www.deepmind.com/blog/google-deepmind-research-at-icml-202
 webUrl: "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: DeepMind
@@ -23,59 +23,22 @@ topics:
   - Google AI
 
 related:
-  - title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
-    excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014."
-    publishedDateTime: 2023-07-17T16:53:00Z
-    webUrl: "https://www.bbc.com/news/technology-66166236"
-    ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
+  - title: "DeepMind Proposes Novel Vision Transformer for Arbitrary Size & Resolution"
+    excerpt: "The Vison Transformer (ViT) has become to dominate the field of computer vison. It has demonstrate superior performance and flexibility in handling various input sequence lengths. It’s strong performance has positioned it as a formidable contender to displace conventional convolutional neural network (CNN)."
+    publishedDateTime: 2023-07-18T02:27:00Z
+    webUrl: "https://syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-transformer-for-arbitrary-size-resolution/"
+    ampWebUrl: "https://syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-transformer-for-arbitrary-size-resolution/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-transformer-for-arbitrary-size-resolution/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 59
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png"
-        width: 1024
-        height: 576
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
-  - title: "Google co-founder comes back to company to bolster its AI efforts"
-    excerpt: "Google’s co-founder, Sergey Brin, is taking a hands-on approach to the company’s AI efforts. Brin is now showing up at the Google offices three to four days a week. The co-founder is using his time to help support the hiring process."
-    publishedDateTime: 2023-07-21T15:42:00Z
-    webUrl: "https://www.androidauthority.com/google-ai-sergey-brin-3347338/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2020/01/google-logo-G-at-ces-20201.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Brits need a mindset change if they want to be AI leaders"
-    excerpt: "Given it thought Brexit was a good idea...  DeepMind co-founder Mustafa Suleyman says that for the UK to become an AI superpower, it needs to change a bit of its thinking. Suleyman said that the UK needed to foster a culture of risk-taking and encourage large-scale investments."
-    publishedDateTime: 2023-07-18T08:47:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57263-brits-need-a-mindset-change-if-they-want-to-be-ai-leaders"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/a94e94e5ed37db6063799933eff6278c_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "UK Needs Culture Shift To Become AI Superpower"
-    excerpt: "Mustafa Suleyman's views represent one of the challenges facing Ian Hogarth, a British entrepreneur and investor who has been appointed to lead the UK's AI"
-    publishedDateTime: 2023-07-18T15:44:00Z
-    webUrl: "https://www.inferse.com/623130/uk-needs-culture-shift-to-become-ai-superpower/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 19
 
 secured: "KEGh2Yz88hC1tnBu7gGvN0Up0ToJJMVFYM9Mv4+gSQ3lvesbxMu8gnUN+VdYdSQ4SwDUlQj+MwCvodzHrN5Kk5rUJcoByZfszfAxCJEp6NsjyZxWo/ccP8zT5QsrT2pBbf9xIxCipkvnplBW0bm4O4gjPkBInYeZqfMwx9dzn5PrlfoVlC6mRUnCiEABiL84TrvYeYFt1ctbHselKYJosonZVZRQxIu37y5W98YcnM8OrpqL6Qb+QlgC/yd1ikI91VfW4jqLoRDZJ0JbQjrds2hDVO+cK/GjfDvF9J1KI/Hrzg93cBSOF4QslThTgc/isnZyJE382zX/55FtF7XO4bqP8xCepdttaQlELf+ruEA=;C2wgjkT+ntIY6vGM2VfjHA=="
 ---

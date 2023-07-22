@@ -26,6 +26,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "WiMi Developed an HMD-based Control System for Humanoid Robots Controlled by BCI"
+    excerpt: "WiMi's researchers took control of the robot and tested its performance by using this new interaction in an experiment. Testers were asked to navigate the robot to a specific location to perform a task. This test was based on visual SLAM feedback, which provides navigation instructions through images of the environment captured by a camera."
+    publishedDateTime: 2023-07-21T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-an-hmd-based-control-system-for-humanoid-robots-controlled-by-bci-1032465709"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
+
 secured: "iHY4PpBeH4U38iganJvTuLjkF0XCQNuL8R1S4sKQDSUHivWMl+oh2mo2LBDLZvGg26m+NoUHZtCCNXHETUe3rVNV607N/t3+H3fxWCPlz64Fp32V9WdImTxl/Y5vQUb0vW/Vg4dqpXIxBkqxDNR6Hx5P+Sgim8dcE0spsN0Js2m2wmWQ1OduKYT7WrtvX8mYD4gycmqp+JY5GrQFCHZLJrB+XvZl2Bw+iLaMuaaSE8rjY/VzusELUPaMTJIlEMPab/erHByYNOy7RarZ6v3uTeFVKsHQiEdlihe34FwUbSZAsugIqZLuPFgSg6jCeRzJvhHlSUDySyg34OK4LHs0APAEtfC0v631W7upFzpaEBk=;VCEHlebMFPBT3Ce9y96TWg=="
 ---
 

@@ -1159,12 +1159,55 @@
       ]
     },
     {
+      "path": "_news/2023-07-12-mind-blowing-ai-for-good-or-ai-gone-bad.md",
+      "title": "‘Mind-blowing’ AI for good… or AI gone bad",
+      "excerpt": "Bogdan-Martin, along with other speakers at the summit, painted several scenarios for AI’s future including one where AI lives up to its promise and is harnessed to find cures for diseases, provide clean energy and mitigate climate change, and precision agriculture increases crop yield and reduces food waste.",
+      "sourceUrl": null,
+      "webUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
+      "originalUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://istart.com.au/wp-content/uploads/2023/07/AI-for-Good-Summit-2023.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "istart.com.au",
+        "domain": "istart.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-save-211-with-the-amazon-prime-day-shark-ai-ultra-voice-control-robot-vacuum-deal.md",
       "title": "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal",
       "excerpt": "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ...",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
-      "originalUrl": "https://www.freep.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "webUrl": "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "originalUrl": "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1183,11 +1226,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T12:17:00-07:00",
+      "publishedDateTime": "2023-07-11T12:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
+        "name": "AZ Central",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1372,50 +1415,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
-      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
-      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
-      "publishedDateTime": "2023-07-10T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

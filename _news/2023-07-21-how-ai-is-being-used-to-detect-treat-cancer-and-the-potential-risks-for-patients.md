@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-r
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: ABC
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The AI puzzle: Balancing threat and potential across financial services"
+    excerpt: "At first glance, AI might seem like a threat to traditional human-centric advice, but actually, it could become a tool that could augment the capabilities of financial advisers, writes Laith Khalaf"
+    publishedDateTime: 2023-07-18T13:40:00Z
+    webUrl: "https://www.professionaladviser.com/opinion/4119746/ai-puzzle-balancing-threat-potential-financial-services"
+    type: article
+    provider:
+      name: Professional Adviser
+      domain: professionaladviser.com
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/457401f/6ba1c5b7-3e8e-4c67-8faa-314b8539b770/8/KHALAF-Laith-AJ-Bell-2018-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "UN Secretary General embraces calls for a new UN agency on AI in the face of ‘potentially catastrophic and existential risks’"
     excerpt: "The United Nations should create a new international body to help govern the use of artificial intelligence as the technology increasingly reveals its potential risks and benefits, according to UN Secretary-General António Guterres."
     publishedDateTime: 2023-07-18T16:36:00Z

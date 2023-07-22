@@ -242,6 +242,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon, Google, others agree to White House’s AI safeguards"
+    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
+    publishedDateTime: 2023-07-22T09:24:00Z
+    webUrl: "https://www.newstribune.com/news/2023/jul/22/amazon-google-others-agree-to-white-houses-ai/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204881824_204881824-8d5fba0753514d4d99f72b5c5ab22962_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Big tech firms agree to White House AI safeguards"
     excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
     publishedDateTime: 2023-07-22T04:46:00Z

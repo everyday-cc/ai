@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
 type: article
 quality: 87
-heat: 347
+heat: 357
 published: true
 
 provider:
@@ -246,6 +246,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon, Google, others agree to White House’s AI safeguards"
+    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
+    publishedDateTime: 2023-07-22T09:24:00Z
+    webUrl: "https://www.newstribune.com/news/2023/jul/22/amazon-google-others-agree-to-white-houses-ai/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204881824_204881824-8d5fba0753514d4d99f72b5c5ab22962_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Big tech firms agree to White House AI safeguards"
     excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
     publishedDateTime: 2023-07-22T04:46:00Z
@@ -376,6 +390,6 @@ related:
       domain: abcnews.go.com
     quality: 10
 
-secured: "sz2QchQWY/do87caVWE+K1eXROVlgr41ZmwvJT8lVTYikIZ1WsJe15zcEf0xfgA37tzbVdqPXAcetQiGwOYjqW5DAhiu8Yzosl5iVU7krv6A2ssyee+50efY6giJOUEikwOTAEqL8eQQBZCcSpZ0n4hxlU6/mGCIg7xGDAMGTBaTxKYtgrGQkF8xeDEx3OtBYQJgvCTFi0j9h0pl1eNJ6q8U8gqRvSuLemJQIuKLPd8q8HWWrM0jLciNEUluFJ37yofLhyvbmySqGzw2xFKftGLNYRos/uG5fA98ZNsUWPZIUipBFx9GVJjhj3roVcghGBzo3AK9EJP3C1j5sWuGjWNJp1yhGnCMDV6HYX7EqAo=;AL/QIGw/zsymFn8zRGJNiA=="
+secured: "XXPqPROD7CQR+xVqI7YaOXmUvPiz6nL1RlgknIw7XJFeG6YMCCercgzeLtmepImoE2BCLr/m2gdbvMmwcbQIjxe52tWwF9LCvefCwWyPL77b3nppXeYCI8V6+uOX0J5VrDlgNJvlHOgTmkzoY0Ji4org3fms1jY4j9ABDJQfmKldZ8bCK3BsC2RIw7PsKGcXPMIcFLdpIRLUTyYixzmgltI/lkvEOBazvJXIxWMRbAfekgO/2aSrzBbk/xE8z1cCb8El+Pdl8cH9L3k2ofOfMnIMck3qvp2CCo54I+Xx3ovrh4amH4lhSjsRpdIEswvlG2xbvHGoZrPEYwpYrpqTjuFVFu+nWBbrOU3AbLrKG79jqYdh8qaIMNjuvZ6lDS9qtzB09WedjrVDaw2nax+AHWdozaZEgb3cL2n2e0pUhI1KeC9NOeg5QYkP2XHNKFUeIYP0HHr0t7e2ck5ZyqfFtiBlDG2svOR29ZKqOFalyb7tG2xeoh2lbnhw9gC91VzYr7aJaDbxGo6w3mEpv/ObFQ==;5PeWsgZ5FlFln7ryU/L0Iw=="
 ---
 

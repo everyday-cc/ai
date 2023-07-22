@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-i
 webUrl: "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk’s new AI startup is as ambitious as it is doomed"
-    excerpt: "Elon Musk’s new AI company, xAI, says its mission is to understand the universe. But Heisenberg’s Uncertainty Principle, the Anthropic Principle, Wigner’s Friend, and other classical and quantum physics theories would seemingly prevent this."
-    publishedDateTime: 2023-07-17T16:02:00Z
-    webUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed"
-    ampWebUrl: "https://cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/elon-musks-new-ai-startup-is-ambitious-doomed/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 57
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-07/30cf8b46-4f22-46e2-8965-e48a1780903a.jpg"
-        width: 740
-        height: 492
-        isCached: true
   - title: "OpenAI will give local news millions to experiment with AI"
     excerpt: "Some of the funding will go to form a \"studio\" within the American Journalism Project; the rest will go to about 10 of AJP's grantees."
     publishedDateTime: 2023-07-18T20:09:00Z

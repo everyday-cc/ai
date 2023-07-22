@@ -1,29 +1,29 @@
 ---
 category: news
 title: "How AI is helping to translate the Bible into rare languages"
-excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
-publishedDateTime: 2023-07-18T13:00:00Z
-originalUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
+publishedDateTime: 2023-07-18T15:09:00Z
+originalUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Catholic News Agency
-  domain: catholicnewsagency.com
+  name: Angelus
+  domain: angelusnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
-    width: 540
-    height: 360
+  - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
+    width: 670
+    height: 376
     isCached: true
 
 related:
@@ -52,20 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Opportunities and challenges for AI in healthcare"
-    excerpt: "Fieldfisher's Digital Health team hosted an event considering the drivers and challenges for AI in healthcare. There was evident consensus amongst attendees that AI has the potential to be the most transformative technology of our generation,"
-    publishedDateTime: 2023-07-17T15:25:00Z
-    webUrl: "https://www.fieldfisher.com/en/insights/opportunities-and-challenges-for-ai-in-healthcare"
-    type: article
-    provider:
-      name: Fieldfisher
-      domain: fieldfisher.com
-    quality: 56
-    images:
-      - url: "http://res-1.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/opportunities_and_challenges_for_ai_in_healthcare_bxxfqr"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
     excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
     publishedDateTime: 2023-07-21T14:48:00Z
@@ -81,6 +67,6 @@ related:
         height: 853
         isCached: true
 
-secured: "fvPLm7GGhCqxJXyYnM7DjjvV49P5V1B1ZNb+BD9bWOYi33SvyhtGJuiqD4YIJ4Fy7FLJGkj5zLdSF1qqedXGh89sjUjs+pkefFJLfMVemLReP/YtowMqFnEB3V9DbcdqYBOD468BwHvDmA/vTmWm/k583SbPhtR6ztFoozoCVdnAn7Vet623Kj+UfKOdMrQLWtoM+yY1QuXzdsyy6v+zIuThlfVhO5isgFPDZOJJReFtgx4rFzNUSunNxAz68W975Z136yfYUZ1Cr+zWrNbr+Da7LMK8sVYFAwxai5P/lgIOysirHNdjQtyq5xMIGgRwMY3zze3nbWRziq8jh0mCtI8Pq5Mz54bUgkLL6odLui4=;x9VUNA4sgJeF41guiwn6nQ=="
+secured: "9CswEOOY07SM1Gckx6fQVoC+TKR/smHOK3fZ+s28j4RQ7h9tp4wDNhGmUX9oSbeauPTBafZCaJFnsFe9ZUnACpYNcazYmGcAuKgMpsYawxxgo8AsAaijIwgKLTRySqnyuI2143PJng1qAXMfR1kg6oilrukxZEWrr56lIjQfAo1N2FTzdAVk05yszfFRA24dQalPktf+vtBDUu1dcEfpPWGgmg9PVNV2yXNNWJmmNMq4CWnFZnN2BZzo6xIAg39b6QFLxCh5FwDD7ggAUNT3nvbgtKXge4KtxwOeb39EX5SRT0LQvauwaAF3ixmcVWGROLIPcCpKmaSs2HivQzn5yAYvJEXMtHWXb/KOWuXAFBE=;cfTYS8H0qF6GI/96B5e2Jw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/d2401cde-cd49-476b-83f0-5647054d9f99"
 webUrl: "https://www.ft.com/content/d2401cde-cd49-476b-83f0-5647054d9f99"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,49 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "What next for AI and ML in financial services?"
-    excerpt: "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance."
-    publishedDateTime: 2023-07-17T15:40:00Z
-    webUrl: "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services"
+  - title: "Artificial Intelligence in Mechanical Contracting"
+    excerpt: "Artificial intelligence is dominating headlines around the world. But how practical is it? Can it be integrated into business operations in a way that boosts the bottom line without introducing costly errors? Some companies in the mechanical contracting ..."
+    publishedDateTime: 2023-07-19T15:33:00Z
+    webUrl: "https://www.contractormag.com/technology/article/21269819/artificial-intelligence-in-mechanical-contracting"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
+      name: CONTRACTOR
+      domain: contractormag.com
+    quality: 37
     images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/84105e85-a03f-4e90-bd88-1dae0e9ce405.jpg"
-        width: 500
-        height: 500
+      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/07/dreamstime_xxl_48306788.64b7fd4dcb240.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "What Financial Services Should Know about SASE"
-    excerpt: "Automation tools and careful planning can help banks successfully adopt secure access service edge to boost cybersecurity."
-    publishedDateTime: 2023-07-19T22:32:00Z
-    webUrl: "https://biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase"
-    ampWebUrl: "https://biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/07/what-financial-services-should-know-about-sase?amp"
+  - title: "Phison Launches Proprietary AI Service Solutions Expanding NAND Storages in the AI Applications"
+    excerpt: "Phison Launched Proprietary AI Service Solutions Expanding NAND Storages in the AI Applications (Image: Phison) Phison has been a global leader deeply engaged in NAND controller i"
+    publishedDateTime: 2023-07-18T06:28:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/phison-launches-proprietary-ai-service-solutions-expanding-nand-storages-in-the-ai-applications/article_83895f72-963b-55e0-93c1-64fe61638e79.html"
     type: article
     provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 44
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 27
     images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202307/GettyImages-1430330223.jpg?itok=38gFSrqP"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "The AI puzzle: Balancing threat and potential across financial services"
-    excerpt: "At first glance, AI might seem like a threat to traditional human-centric advice, but actually, it could become a tool that could augment the capabilities of financial advisers, writes Laith Khalaf"
-    publishedDateTime: 2023-07-18T13:40:00Z
-    webUrl: "https://www.professionaladviser.com/opinion/4119746/ai-puzzle-balancing-threat-potential-financial-services"
-    type: article
-    provider:
-      name: Professional Adviser
-      domain: professionaladviser.com
-    quality: 39
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/457401f/6ba1c5b7-3e8e-4c67-8faa-314b8539b770/8/KHALAF-Laith-AJ-Bell-2018-370x229.jpg"
-        width: 370
-        height: 229
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/assets/v3/editorial/c/60/c605c4cc-9a17-5636-8b44-3e29edf4ab63/64b633a7a7135.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "K/NQQY8UMtb5n6deY0qufTYQ6zXFtTQaIbLQRetOXO3WRzNuAgP5EVZKdre66yXOC1yI/ZdqexAUqUT4Z+wqB9iIhTnTBpW4MROSA+DD0jKcEp+rmptJsYcEg85/01CsE0/1im2Zfl0wPhwpRtlFaNRNxSPa6LvIAVlo9rbsOxxbklWX3ymZZOTAxy76pOl7Bay2CO1NaroB/N19bObef2iPOskMtLwr/6zy6T0dOoSkd9kxVP2apJhFCzic2PLMeV09fuPsY/+kmKu6vF1RGwvIUJlBq5nnECc3i3+A7Mi/DfjArbtuENXPGAyVfYn85Ck/dg+GGt7a3uOmgQhBv8WhpFMQeU9DIPhEuS+PesdNB+BCdkl+TKEE8SLTwMnH9LeOoqsihyl6/AEroxNMSWuTI4GQoblqoJ/CTR/7xrbrrkAsbVmQvYkKg8NsEWrkyg7nkpxCTnzsQIIoJiv7CiZVmHF58G1PLddMJ5OwwHwxmuJpt4qhc3VsntxIipHtwk5pVrkdJZT7Id1LIXpGVQ==;h46e5vd8mYepul28ojxrZQ=="

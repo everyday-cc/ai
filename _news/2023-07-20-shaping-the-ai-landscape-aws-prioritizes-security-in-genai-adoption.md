@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hoot Launches AI Integration on its Myopia Management Marketing Automation Platform"
-    excerpt: "Hoot introduces new AI-generated content, video, and clinical support to empower eye care professionals (ECPs) practicing myopia management"
-    publishedDateTime: 2023-07-17T16:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hoot-launches-ai-integration-on-its-myopia-management-marketing-automation-platform-1032451921"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
   - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
     excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
     publishedDateTime: 2023-07-21T02:00:00Z

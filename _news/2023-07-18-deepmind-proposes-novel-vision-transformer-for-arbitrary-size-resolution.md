@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-t
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/07/17/deepmind-proposes-novel-vision-transformer-for-arbitrary-size-resolution/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 790
     height: 320
     isCached: true
+
+related:
+  - title: "Google DeepMind’s latest research at ICML 2023"
+    excerpt: "Google DeepMind researchers are presenting more than 80 new papers at the 40th International Conference on Machine Learning (ICML 2023), taking place 23-29 July in Honolulu, Hawai'i. "
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/google-deepmind-research-at-icml-2023"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 69
 
 secured: "i45o9uz00PYMXVRBZT5cRgu1jYBxO+yfrTFd2tMhyEEkA7J4ucnGNrDOsk/1uoYjYHWpe3KeV6Fb6G7vIowYOdWCDVOt1XBVFiVuqngruuA5pYVxgHmJu03jFMolIzeKSsbC//u56NB6MYiGuyOxEvf37iEwAT+Nr2x120VtZ92FXC9O8jZAbHhEBV8bbrcrvSo7eqhJTLzWkY+CS0zj++oIf0lYaKslJfRCkIyj/Z+VsLGrbpmkJAlk+oMndF02u+Z7htVug9pf1mfwcT95zUAVLOPbHQ0AR6yMQNtxUtO8uAlJvC6PHbALJUQi+V7TGQSkghFtMKNoJKh26Z/Q8h6GxAtY0LohDge9RIr2dZShoAcUQoTxrkFS6I/edqA3v3/2KqWkS2zp23BbUsvEAp9ZSJqBCBqtKVGhEmlAoalPIBgLCJM9jdsmgQm8eyeR/U9Zo5UR+HEnsf6RWmZKSHrQJFQEtQzy63bIC0Jj6+I/9aJuMPXZQ+UZVUVmiwhH5K8uLWFp1mE4aOgQ0c/ZXw==;Giy7fc5K2Zi4M2Ou9IxkWg=="
 ---

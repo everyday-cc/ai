@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-21-how-ai-is-being-used-to-detect-treat-cancer-and-the-potential-risks-for-patients.md",
+      "title": "How AI is being used to detect, treat cancer -- and the potential risks for patients",
+      "excerpt": "Several AI tools have been developed to help detect, diagnose and treat cancer. Experts these tools have a lot of promise, but there are also pitfalls to avoid.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
+      "originalUrl": "https://abcnews.go.com/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/ai-1-gty-er-230718_1689697399863_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
+      "publishedDateTime": "2023-07-21T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-healthcare-ai-caution-addressing-ethnic-health-inequalities.md",
       "title": "Healthcare AI Caution: Addressing ethnic health inequalities",
       "excerpt": "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists",
@@ -149,7 +192,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -306,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1353,59 +1396,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-daniel-eks-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions.md",
-      "title": "Daniel Ek’s Neko Health raises $65M for AI-driven preventative healthcare solutions",
-      "excerpt": "Neko Health has introduced an innovative AI-driven scanning technology that enables extensive and non-invasive healthcare data collection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/",
-      "originalUrl": "https://venturebeat.com/ai/daniel-ek-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Neko.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

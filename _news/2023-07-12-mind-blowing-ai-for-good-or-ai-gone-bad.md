@@ -1,29 +1,26 @@
 ---
 category: news
 title: "‘Mind-blowing’ AI for good… or AI gone bad"
-excerpt: "AI is racing ahead of the ability to set guardrails and quick action is required to prevent AI risks spiralling out of control, attendees at the UN’s AI for Good Global Summit have heard. The summit brought together 4,"
+excerpt: "Bogdan-Martin, along with other speakers at the summit, painted several scenarios for AI’s future including one where AI lives up to its promise and is harnessed to find cures for diseases, provide clean energy and mitigate climate change, and precision agriculture increases crop yield and reduces food waste."
 publishedDateTime: 2023-07-12T05:37:00Z
-originalUrl: "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/"
-webUrl: "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/"
+originalUrl: "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/"
+webUrl: "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: istart.co.nz
-  domain: istart.co.nz
+  name: istart.com.au
+  domain: istart.com.au
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://istart.co.nz/wp-content/uploads//2023/07/AI-for-Good-Summit-2023.jpg"
+  - url: "https://istart.com.au/wp-content/uploads/2023/07/AI-for-Good-Summit-2023.jpg"
     width: 600
     height: 400
     isCached: true
 
-secured: "+pYKiGrZy04/dC2XcyX1dKBdCARg0eRp+tSc2ZE359D3xu2ufG6POSw2Bu1VVyyzZeqiyiYiX9Z8v1dv5Clh70TeXJ4qanRH936GbdrMqX/TjiW5xpJeNwfbSWB1lskrUSV272tGDrIsvbkwOEdY9utmFw6ASdrWqnzQJPwKet2Y/dbv5EU9PAHjjhcwmp44OWqZG/9WpEZojyCQZqAiEFcY1SxCPc4mp+BRyz+h6eLGhyeaI8E3On7F6GW+2XTMejIQSjN+NqshY7EyxlXeTmskgOuAk1MFupHELkfH0e7QT/GNI7DetWMJLC3Pa2w5+cBSe2Ltz055PYEfdsxCF1LL93QTB9DuRixwCTmO/dg81jeH9y4Fk7sJOXK8NuMR1vSCKVWquq0XdMc9TM2pSOiLj2L6h4y/QmWmLlIyIP5Yz1dJ4l4ruksmz2mZWj19USuISp5nLEmN1DAEf1z56T12hbNhT9is1Mm+S7Klpwlbsn9nINtxZudoK+ZxbgWHlf/NEDTK7dIBUDkLNkFIrw==;8o9+j0RyozAF4bZB6bnGEw=="
+secured: "OGw+z67M5PllR7pb0xJPpvjOb0WGHW5rku8GZ3iP2YBz0vMFx2YrmP/FXXWqqN1Ezwg3gXXe9ZLEOWQdJi++542FkjfbKgB7FF/hTeqNVhD19APDZ3tEKjqvyPM4Ri5UUM8o8ke9vudFfywPiFPexS6rdxsohZV9vNBY2w/2tf5/3Sqi9MXT7tnztMv8PzYlA2k9skYZDpHmBFBnLKkhZRfpYCbWNDDstR+RA3a64w8BchMSIbtGdCxnGHAajErezM2wl1Emi2xflSfmPw9GoI/eEuhOy1klrtKjqflI4aPl03GusSheRTs6C13oIVC5U5D8D0M15Nhp82nECKdyZPE8bem1Tcz20hI2gwBR4bk=;MFUR23QifoVMYE2AYudCtg=="
 ---
 

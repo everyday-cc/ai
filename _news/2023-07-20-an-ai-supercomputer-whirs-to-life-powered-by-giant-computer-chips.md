@@ -42,7 +42,7 @@ related:
     provider:
       name: The Spokesman-Review
       domain: spokesman.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
         width: 1200

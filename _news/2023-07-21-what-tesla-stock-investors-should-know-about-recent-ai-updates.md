@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investo
 webUrl: "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions"
+    excerpt: "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI."
+    publishedDateTime: 2023-07-22T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-821616/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "zSV/K+2yzCDXOAHWd1qNonRRDRc6EGGJwisC6bOBon55D0hkYPPRA3pMq3oXGzxojEOP3ovAzJVEGr16RVTmJu4UPqUBvptftzcwDdKS66OEAXr0Jh9SG4s9qG74jg3dXnfsP8o+224T9L5ByT8uQmUgEw4tWpJq9IUUYsK7E+YRxpI9rBPVJQyfuNMZDFGXQ7rLCn75qM5HqtNwp5duJy48+3diSu81QQxPGwWayruHR7GqU1VNTi1mPIfGmycDjcyRMc9NCeq20AcWZzRpMEMCFTwP//IWQP+VtoYiveyuWW3Ztt5iCG9EfZ2jCLWSLoogk6pMUCxaYf7rw2CuhbyT0rqQ7iqDs/vQaAm1ui0=;yaII4goc2vUQlkQdBKMNvw=="
 ---

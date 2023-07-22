@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-21-ai-alone-cant-save-the-chip-industry-from-a-downturn.md",
+      "title": "AI Alone Can’t Save the Chip Industry From a Downturn",
+      "excerpt": "PCs, smartphones and memory still account for most of chip production and remain in a slump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
+      "originalUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-821047/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-computer-chip-with-built-in-human-brain-tissue-gets-military-funding.md",
       "title": "Computer chip with built-in human brain tissue gets military funding",
       "excerpt": "Monash University scientists created the \"DishBrain\" – a semi-biological computer chip with some 800,000 human and mouse brain cells lab-grown into its electrodes. Demonstrating something like sentience,",
@@ -318,7 +370,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -509,7 +561,7 @@
       "originalUrl": "https://www.nbcnews.com/video/leaders-of-microsoft-and-the-nsa-discuss-democracy-and-ai-at-aspen-security-forum-188942406001",
       "featuredContent": null,
       "highlight": null,
-      "heat": 886,
+      "heat": 876,
       "tags": null,
       "images": [
         {
@@ -922,7 +974,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -1160,49 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-healthcare-ai-caution-addressing-ethnic-health-inequalities.md",
-      "title": "Healthcare AI Caution: Addressing ethnic health inequalities",
-      "excerpt": "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists",
-      "sourceUrl": null,
-      "webUrl": "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/",
-      "originalUrl": "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openaccessgovernment",
-        "domain": "openaccessgovernment.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

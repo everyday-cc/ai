@@ -78,10 +78,10 @@ related:
         isCached: true
   - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
     excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-    publishedDateTime: 2023-07-22T01:10:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563190"
+    publishedDateTime: 2023-07-21T20:46:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
     type: article
     provider:
       name: ABC
