@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/17/un-warns-against-ai-brain-chips-that-could-monitor-your-thoughts-19142362/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 343
     isCached: true
+
+related:
+  - title: "UN chief warns of risks of artificial intelligence"
+    excerpt: "UN Secretary-General Antonio Guterres on Tuesday warned of the risks of artificial intelligence AI and called for a race t"
+    publishedDateTime: 2023-07-18T17:53:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273903016/un-chief-warns-of-risks-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 37
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "ZXczqT9G/035ptqazmMwCVOwMbBWf243TZbRuqUaaPYLLSFxse1w9mQ962x5WrAho8m9rx9gtgK+w7dEfoccQOJ3Bw38QR3JbzrRXEYO1CZcmOp3K1WeHoEfXGbFCUKSX8W1gFyiRRVaCeNhHYgafd0ZUZbmhopea66Aps2fzSInwMoM+Ejb6izCuueRByML9xnQ9OBuo0GMh2gkbnvp1Fkd098X2jOUKBQN9I7PGTqd6TchJFLeefDNt1tYvl5TPYj5ZQ+WStLR+xJbIhhdSrccf9udCLKJzwg7QxBqGzLDnBhdKRX9Rd+w8eVLV1bugwWwKEEd1YLpWPP2ziACmXIvVRISDBVINR86ZdOBsBI=;KiUTcPtlRIut3YDYeeOBjQ=="
 ---

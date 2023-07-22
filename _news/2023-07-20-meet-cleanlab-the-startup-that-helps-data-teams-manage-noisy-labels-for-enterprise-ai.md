@@ -69,6 +69,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Lenovo all-flash arrays aimed at optimizing AI workloads"
+    excerpt: "Lenovo’s ThinkSystem DG enterprise storage arrays use all-flash storage and quad-level cell (QLC) architecture, the densest flash storage available. They’re capable of up to six times faster performance and up to 50% less cost compared to HDD arrays, Lenovo asserts."
+    publishedDateTime: 2023-07-21T21:22:00Z
+    webUrl: "https://www.networkworld.com/article/3703229/lenovo-all-flash-arrays-aimed-at-optimizing-ai-workloads.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "EtGz5yRK3DpEvilT7+Z6jqgNx7/GEVK77ZlhuqI3Fmwl6aqii8eRzNsbgf7pHNMM+vY/bNX3CX8+yEvRwh3Zr2Ubd7ghS6eLyRt3EHeENIRZUexlssZGF5LSLY22tpG24Blbk7cEIJhkD5nQv7dOQcpNJ7Ao84IXei8S0bvGP/xoL552g1zp5hBu2LMIwbIlMMg4K8BYCpGJysNHCY3ppbpbjdcyz97wQlN3MxJmHs5LNqH0Yd6xB0KYKHax43h89GuT5MA6aRNbn4lJoS+G2SHNDS81TpWgGrSQmAdso6UsuXIa0jT3Xd5KUBDRAhpaGC9HweI5KOPTD5i2kdOwGxoxMIkocBEzwZtVjjEhrVNZ5ugNsswIdIfLvTpcKdJARIp8uahb0CQEauS4hUTJPr5HWGI0JfhDB00tnD+E2ubo4WykgKmCC7hQ6tayUtNd/9ZEZz7R4ZGtiCIE68Q6pGVF+6HPATaCoAAI0el/pjAaCofw9u9Gll8GaXJuwcJgvHaH3dN8B/zPpFAw4tVzaA==;OxiU4N2RBrNU9z5bT+mQCA=="
 ---

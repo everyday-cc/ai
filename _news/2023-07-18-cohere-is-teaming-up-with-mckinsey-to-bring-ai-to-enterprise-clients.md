@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-b
 webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 800
         height: 522
         isCached: true
-  - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
-    excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
-    publishedDateTime: 2023-07-18T19:45:00Z
-    webUrl: "https://techbullion.com/10-ways-ai-can-cut-business-costs-during-challenging-times/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "JtXTAaBbFMklZTmffaFuaWix8sNNbHenAepEwfbIA9048+L4N+ePeg3z39SBhr47SJTz5MJYJh4RGmpYWBiUC5lN4v5YXdHXpJC1irNUs0rhFG+pBs03uGBT/wm5VgM258jWRHQIS5Vaa7AY00gHF9zX8foxmubLoQYLiT9iTDQ4+CXKwBruGyZW3hlOL17EhzXDA4W3fR4fHYkrwuNAtlGdcqCdiSZ9H/2ylqmfWF57GKADYE/aBEs0YtknsSDO95yXzzGo3i4rx/MyhJFGSr3udRJOa8Yx99Hlue28ZAloAEfwcF8f0aXoaYA73si4K/619s1d8gWvdeIvib1Ij83objbg2Ify66LDQjiN1kSfFeRovfBZY6P40aSLtI4wr8VBPqiGxFlVNzC8srXURLIzG18ntmlSaJtDBPz5+yA0aWdobyKTnlCkuG8HVjA8SNc/YggsLs99UWD7685MkTbLlSCU1ww/JDTYaXkK5fe5jvTJ6NHpEt7gvXhSs2Z02ZHnykt0vj3LZXLlu8Wp0g==;k15++6YEyJKskrhQDW493w=="
 ---

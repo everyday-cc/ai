@@ -94,6 +94,15 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 49
+  - title: "The biggest AI release since ChatGPT"
+    excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
+    publishedDateTime: 2023-07-21T18:11:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23803234/the-biggest-ai-release-since-chatgpt"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
   - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
     excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
     publishedDateTime: 2023-07-19T12:46:00Z

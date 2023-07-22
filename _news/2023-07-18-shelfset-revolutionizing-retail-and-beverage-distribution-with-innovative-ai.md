@@ -80,15 +80,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "How AI Is Changing The Way We Communicate"
-    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
-    publishedDateTime: 2023-07-19T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "3 AI Stocks for Getting Rich in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With businesses and countries across the world elevating artificial"
     publishedDateTime: 2023-07-20T14:12:00Z
@@ -145,20 +136,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "AI Can Write, But Is It Any Good at Picking Stocks?"
-    excerpt: "With its potential to boost productivity across multiple industries, artificial intelligence is the stock market investment theme of the year. But if you ask traders how AI is changing investing itself,"
-    publishedDateTime: 2023-07-17T01:58:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/07/17/ai-can-write-but-is-it-any-good-at-picking-stocks-quicktake/9f5bcb56-246f-11ee-9201-826e5bb78fa1_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "How robots are revolutionizing surgery"
     excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."

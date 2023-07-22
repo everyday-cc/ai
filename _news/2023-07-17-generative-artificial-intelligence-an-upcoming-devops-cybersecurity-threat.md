@@ -84,6 +84,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "AI could revolutionize dentistry. Here's how."
+    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
+    publishedDateTime: 2023-07-21T18:36:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "jvRncEjPVW7Sp78jvag6ggkAFWSZK+ZKOXaTmwne+xJfrbPfIVCBNQHeSnnDyEiXJYGqdYGdbKLyfsE1vTI7oZhAqqAJ625VWV0UOepbyRcWmIDQbXFoJERnb0BkI797XLKOI9XFn6vGbH5KhFvUjwhwGwdEySxV4cPTH0SAznGC3pp8dt7PeZEqjtZvEvHzpLp2lDACB0CvQYnPNYGWOvBr2yyKDNvzKKJi8yiD/+sMc1GZdD1oOy1LemoBprZMO0t+bHVCl1rGA8xg8cWqWSZIJo0nt2mjdXh75pPo3X0Qw0zFmvYxbYpL6fqi3D8Iv6quOd7UQTjUf/wTySlCA1z4OZD8RTR0NNdbjbfFiZ+3Lmsur5dKQw9g/SIF33PCC3XGJ427bxmNoCp1XwEmUl09+WC1ifndfFQqB3JUYQ3tcIghnr+8xSpAHXQlKDtjZibMc/X0VEISq9O/42H/s+kaFQh+x0yoRMa5Hjo3e3biMFUisbnUP27rqMADModYHs13xIkg3Oomi2fmePC+GQ==;c/3pQiPjphoRUDnluZ5nHQ=="
 ---

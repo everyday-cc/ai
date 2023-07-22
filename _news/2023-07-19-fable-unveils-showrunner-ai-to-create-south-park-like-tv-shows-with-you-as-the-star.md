@@ -87,20 +87,24 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
-    excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"
-    publishedDateTime: 2023-07-17T04:45:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/artificial-intelligence-hollywood-is-offering-actors-a-frightening-script-10970061.html"
+  - title: "More or Less: Hollywood and AI. What IS Threads?"
+    excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
+    publishedDateTime: 2023-07-21T18:57:00Z
+    webUrl: "https://www.theinformation.com/articles/more-or-less-hollywood-and-ai-what-is-threads"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 35
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Collage-Maker-04-May-2023-03-19-PM-9170-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
+      name: The Information
+      domain: theinformation.com
+    quality: 17
+  - title: "AI is the wild card in Hollywood’s strikes. Here’s an explanation of its unsettling role"
+    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers."
+    publishedDateTime: 2023-07-21T20:34:00Z
+    webUrl: "https://apnews.com/article/artificial-intelligence-hollywood-strikes-explained-writers-actors-e872bd63ab52c3ea9f7d6e825240a202"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
 
 secured: "IKG4X8PPoakip7x3FK6Ctulo6BJfgp54FvPYIIM6okBiCtEjsEYQrmhEYrOIsci7LVgFJAU1WebEYC3s1fAo0RzwHeSzMp7jK1diZya+DzT6qFnbZCem1d+0zvZG794g8y5eSEaC+PfO6NpuEGOx4Ma4zLiE+UCQYH+cLyXUEOZfqYq7urnRX9C6HGiYdNsof/JVVPHij4ZufyTqhnusNlwwur1ATejN0XGlIRV/HwCtYPMZRH3tgi3MMiJQpCqLJaHiuLshcgfv6vEoHDMEmAsi9SGgiPAPnUAJYKwUBWrmDEZRDmWuJ6vSJXZ2ODfux5xAevmhRSZ0NyiCF9XMZ6UfODoeHPwMoFN5nRTcrvM=;Td+kRNVuRMn3Nhv+bHoZhw=="
 ---

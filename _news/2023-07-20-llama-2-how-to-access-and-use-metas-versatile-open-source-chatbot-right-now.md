@@ -140,22 +140,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
-    excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."
-    publishedDateTime: 2023-07-17T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.html"
-    ampWebUrl: "https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_1982930069-100943419-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Apple (AAPL) Stock Rises Briefly Following Rumors of Internal Generative AI Chatbot Rivalling ChatGPT"
     excerpt: "Reportedly, select staff have access to the developing Apple AI chatbot the company plans will rival ChatGPT and Bard."
     publishedDateTime: 2023-07-20T08:16:00Z

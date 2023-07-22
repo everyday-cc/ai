@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-chips-732
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-chips-732d4e7d"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Start-ups seek to challenge Nvidia’s dominance over AI chip market"
-    excerpt: "Celestial AI, a Silicon Valley-based start-up that raised $100mn in June, refocused on “complementing” rather than competing with Nvidia, according to its chief executive Dave Lazovsky, by developing optical technology for connecting AI processors with the high-performance memory needed to feed them data."
-    publishedDateTime: 2023-07-21T04:01:00Z
-    webUrl: "https://www.ft.com/content/1fca1f48-44d8-43ac-bfdd-251b0025347e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "Z2ALYswY4LniW8i4rryyYBFRuGs6NmjJOGweZDAmSin+yrvBRWM/ZGp01C2FilYDdtwmwH+8bqU4k6BG6xLzE2eGwDy3SOcjU4RYo8GaYpPKLxPbdGaAhh3LtoFtTr0QBGN+LcljrnuNiK6m/MFq5ngPK5ihwFA1jziC4Hd2WV+9qUAUzDOXoiKJE+rsz1vhkp4UJDgr4A0KOdo4/a4xC6BNdcY8eZCV+zFuw4E0ACK0iiCvjsqB5mNl+4xBlATSYrzU87d7eml22kae7gBl4QAAA3bozdHq2MguaAYndHyXzmTPtCNvlYuiziy0TplLebYYt+X0Er+pnq8RZ99YZtbkYn27mXHCG/VUTe8uy68=;PDmBP2sVCPgUoHbUgU7WMw=="
 ---

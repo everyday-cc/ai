@@ -54,15 +54,6 @@ related:
         width: 800
         height: 522
         isCached: true
-  - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
-    excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
-    publishedDateTime: 2023-07-18T19:45:00Z
-    webUrl: "https://techbullion.com/10-ways-ai-can-cut-business-costs-during-challenging-times/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "lB75H/pl56y8nlUHUom1/XNnYTneRkPxTNlJXRoPohWX++xtlZxH7ERbKSYInlVbFtuJL3snmSPMXCBc1IzEV7mgoWkE3r3qzfrTaG51GyspeU/AgjuNZemVoThfbXdUyOLtrINvU1A0r5HhoJbyXeP7PlmEJF9GwsiN+zYXMZAG6rR+Qo+9RUeTxdSVi3oxzuwf6g10IUKYllSmG6ezlbiMvoFRPVI3Q/6SEbnKQbyKdceZYttmKLNv+C0BoLrZ2LJH1g4HmBGoRud/vXbCQZYVGACunQYu445mKPhXpZZfQG7IEkUD3wrPhq4IuLjk8Lm5HVYexzONWT0LJfx7fCmQoTE5SfmnxUf1UzCVM+Y=;HBp0qxs24/JM/Pce1NtNXA=="
 ---

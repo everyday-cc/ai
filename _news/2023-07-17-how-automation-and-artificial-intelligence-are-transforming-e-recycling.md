@@ -195,20 +195,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "China unveils provisional rules for generative AI, including a licensing regime"
-    excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
-    publishedDateTime: 2023-07-17T03:56:00Z
-    webUrl: "https://www.businessghana.com/site/news/Technology/289952/China-unveils-provisional-rules-for-generative-AI,-including-a-licensing-regime"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 35
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-14-1723482.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "Zl2907sIwtLNnMm+DjwvvSwJ7MkEaXa/FE1GohzeXjMQNJnqnJSFSN4IjMkpZV1tFOx4pifse7xhDwlXGSC6uXCULlw7ocrAPf1V5z7rDG6ZhRWDUkV6cTZ1L+qHO9QDn+sIBZ+ko+x4bRajJ1cDgPJ1aDbrbyNqDwljYLoRvuLzdrB2JnlKZ9vZwNNSYEE81m5PODNI1TrRM4TRrKyZmwtxKsRqJGSxFj6kOSXbVQPF3qM63gx06NRWwNwjrL6KqaMIfcmao3WRE+UN2q4RzRY5eLsiCesuxs0Rmp2pYza5hxZJQFUrze4eLKAq9UFgBoOieWqF2sg/GZQH4kAxORkZSc24AeJA7NFFyVeEPe5oVPa/VvQgwyZC5BZTflr5fZO/BJZPz6d8S1dmtPOux2evgRbuBBi8EpgyBnFWKpsQdgjYFZfikToncYIoi5NfvJFemf8piKwlVdm8olYB/JJbH8OSZbIZxcBltzOUmizGbGzqJfsIDbq2gYnRYDB6EDpxszzrdFAVy9K+A9vONA==;77aUQBr0DaIn4WCcKV19cg=="
 ---

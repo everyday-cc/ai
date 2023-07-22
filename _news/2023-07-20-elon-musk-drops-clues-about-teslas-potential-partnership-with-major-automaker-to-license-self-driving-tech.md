@@ -195,6 +195,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Tesla is starting to offer one-time Full Self-Driving transfers to new vehicles"
+    excerpt: "Tesla is starting to offer customers a one-time transfer of their purchased Full Self-Driving (FSD) software to a new vehicle, Not A Tesla App reports. Tesla CEO Elon Musk revealed the company would be offering it as a “one-time amnesty” during an earnings call on Wednesday, though he did not provide full details at the time."
+    publishedDateTime: 2023-07-21T19:53:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23802957/tesla-fsd-transfer-offer-q2"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 45
   - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
     excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
     publishedDateTime: 2023-07-21T14:30:00Z

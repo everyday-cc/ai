@@ -56,6 +56,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Reddit tricks an AI into writing an article about a fake World of Warcraft character"
+    excerpt: "On July 20, Reddit user kaefer_kriegerin made a text post expressing their excitement over the impending arrival of a new WoW player named Glorbo. Glorbo is not real, and the author made their aim for creating him clear, writing at the top of the post, \"I just really want some major bot operated news websites to publish an article about this.\""
+    publishedDateTime: 2023-07-21T20:53:00Z
+    webUrl: "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorbo"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 60
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/04H46Q9gFPmsEv7MZ9sMjUH/hero-image.fill.size_1200x675.v1689959419.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Article Generator Falls for World of Warcraft 'Glorbo' Prank"
+    excerpt: "A World of Warcraft player dupes an AI-powered gaming site into writing fake news by posting about a non-existent feature called 'Glorbo.'"
+    publishedDateTime: 2023-07-21T20:39:00Z
+    webUrl: "https://www.pcmag.com/news/ai-article-generator-falls-for-world-of-warcraft-glorbo-prank"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "qyLhUUiB/C/kvj6WEPcPJVr58nZ6c4GCxx0GoMDcVXhQ0QwLNnLHDgRAXxTqkHTdtAjzTC/c1eRf7XQkz22AuzBBPt2+dPu+J+di9gfugCNBzudWmP/dRp+5JRJ5AlVuvJcoKpLdq7F+oofSXL+WK9bZC7AQEQQE/8NhwrFwEsn9XP2dxt/6B5buir4O7xU7wpTnIU9JIJWhKshKC2kmj1mQPSTOb3AKaKqSLZA6VudVRCkgl5vnuACrMHpHy+BGevp3WkLLybfg3uoEr0Q7ziMCeWuPOPANSyzaPdjPQL4dR5jJbro4OC3TI+HOhWjs/mLREt7tM7LJdyYYC3F9Tg/KvWPFvIyF40S9nC5Chdw=;2jsVBJY9iDtJ7JwHbHMC2w=="
 ---

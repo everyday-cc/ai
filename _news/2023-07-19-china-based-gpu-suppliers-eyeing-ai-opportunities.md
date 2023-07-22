@@ -39,20 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
-        isCached: true
 
 secured: "SzQ+DWLbV32vdygBM8Mg2kVNaJwQhYaetMVEFK4hvkg3yjdjblG+fALy6NnnDan2WacnfDWJUZOcaG4ncZIKJYciiG5VTQDzJgnyftvZ5mzv1n0lmo/oIIzOtRQLUNYRt+m0Vzzl3O6N969JcGIScaodl9FV2vcQhw4C58ckRmjFVfRXRdw3r2NFaGbru6LXv54ZUf6X9Lve/ejih5jRq0d3kNOEO2fYioO8AWw3SmVIxzZLb5UveZTtlggLqOe0nxQZPcFgXkx4uay2Efdm/vYUojStHKeQbulvlirH9IeD2r7gJOXwg9XFlZoQzVYaMMEk7z/6azqs5vz5j4Qxbyz2YovGmjhe6xpMQyEtqW8=;0T316uIhxZBtyOb4048Ihg=="
 ---

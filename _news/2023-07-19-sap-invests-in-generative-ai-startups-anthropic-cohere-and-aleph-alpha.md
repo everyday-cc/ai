@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-start
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/"
 type: article
 quality: 89
-heat: 123
+heat: 119
 published: true
 
 provider:

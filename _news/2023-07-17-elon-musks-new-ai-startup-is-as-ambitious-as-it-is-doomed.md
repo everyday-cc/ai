@@ -54,6 +54,20 @@ related:
         width: 700
         height: 392
         isCached: true
+  - title: "Meta’s Llama 2 Challenges OpenAI’s ChatGPT: A New Era in AI Development"
+    excerpt: "In an intriguing turn of events, Meta has decided to open-source its large language model, Llama 2. This strategic decision not only positions Meta as a direct competitor to OpenAI's ChatGPT but also democratizes access to advanced AI tools."
+    publishedDateTime: 2023-07-21T23:09:00Z
+    webUrl: "https://www.unite.ai/metas-llama-2-challenges-openais-chatgpt-a-new-era-in-ai-development/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/07/Screenshot-2023-07-21-at-8.07.22-PM-1000x592.jpg"
+        width: 1000
+        height: 592
+        isCached: true
 
 secured: "hElwPa1orUhcZK8oxvKn9PYMmjV1jQIovHaHqhLCXY1NWZRKA0TW49NAsN8ozHu9Ni2Nk7Wo6KWMa3cMMPq2bgGBn+r8MLGomiDhzh88dLarfVJ7X+XP2weHDsmtMcubn4xVX7x6B49hq/Kw4Oh3K85tGrxime7MQR7YagJGDnfW3KG+jfyAE5uOiFh9ckAwRrPn1gN0qiLr7Be2kBQjKJrvNlJtoxYN18gcwG6vWKP2RbIpEowtbAaGQQh/9jgkEDizG/v6TE5gRfDdSNa/T/deZgRTzPMn08Hon9dYkFGUuJGct5SSDQdaffMBfm69NyPiwkvaDMHEJL3DroiZO1ChIEuaQwmBNbOboJdHk8O+BKc2pfxH86S4vmREFsprsi5RN4RHNTdrYLL016bTOti7Vu8dve5HFlt6xIyoMHPk5uxoaMLjvucRoX0cBopeEr6Jb/Q/voW2ahVe4jyN4A48ZsqtOjdeGQjy87Q9pqcSH87RfXFavuxXjKAhGeojzHJGZjyhGRMLgeXj44HJiA==;itHP7rquPnfvLd90ff+xyQ=="
 ---

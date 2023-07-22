@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/"
 type: article
 quality: 76
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "AI in Education: New Guidance from the Department of Education"
+    excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
+    publishedDateTime: 2023-07-21T20:31:00Z
+    webUrl: "https://edtechmagazine.com/k12/article/ai-in-education-new-guidance-from-department-of-education-perfcon"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 34
   - title: "Australian gaming operator calls for coordination on facial recognition for restrictions"
     excerpt: "Another Australian state has passed gaming reforms for AML and self-exclusion, and a hospitality operator calls for a national approach to facial recognition."
     publishedDateTime: 2023-07-21T14:15:00Z

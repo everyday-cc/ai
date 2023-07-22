@@ -23,6 +23,17 @@ images:
     height: 1687
     isCached: true
 
+related:
+  - title: "Biden White House, tech companies launch new safeguards around emerging AI technology"
+    excerpt: "President Joe Biden met with tech leaders Friday at the White House to highlight what he said are new, voluntary steps the companies are taking to step up safety and transparency around emerging AI technology."
+    publishedDateTime: 2023-07-21T18:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-white-house-tech-companies-launch-new-safeguards/story?id=101555314"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 10
+
 secured: "2N4ZHRRYYhWRe28y2Qoi90BtwJsLzMlUJ1jz6pRWCnWeEFUDmqZ/LsqYLqh/KeDPTA5G6qPfX/cCASoXfftToZr5KPcwtsKpo029pilE3Sj8HJJ0IIQbgaKSglkAkY9NYn1RAkJPZi+AHwwd484S2DonPBUovwDZG6IergdfJb2+NEsVqxju0dtTsI9CgbKlQ0MxH5xA+BeqpfEMaJBRzMre++4tHX4ZsOZNiENwHxlb4WzcYdWRUSZYIoBCzBqd+whYdGiS5/Dg/MszYBVPRKbNpSseBSUMBVHQZncl1vSYkrBFTv2uyD1VV4Tl4tOdH0oxYyDVTkyvo6Dmgs+wxWB9bcatrRQtDPsx57HDOKU=;goOPfzxgJ4Iz1sGNv6MBcA=="
 ---
 

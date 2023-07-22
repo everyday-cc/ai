@@ -51,15 +51,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Search Engine is Added To Zest AI Product List"
-    excerpt: "Learn about ZestFinance Inc., known as Zest AI, which is boosting its machine-learning credit underwriting capabilities with FairBoost."
-    publishedDateTime: 2023-07-17T07:01:00Z
-    webUrl: "https://www.sfvbj.com/featured/search-engine-is-added-to-zest-ai-product-list/"
-    type: article
-    provider:
-      name: sfvbj
-      domain: sfvbj.com
-    quality: 19
   - title: "How AI Will Augment Human Creativity in Film Production"
     excerpt: "AI video editing tools will enhance efficiency in the film industry, not be a total replacement for human creatives."
     publishedDateTime: 2023-07-20T13:00:00Z

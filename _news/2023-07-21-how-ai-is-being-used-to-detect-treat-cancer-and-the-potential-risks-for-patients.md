@@ -8,8 +8,8 @@ webUrl: "https://abcnews.go.com/Health/ai-detect-treat-cancer-potential-risks-pa
 ampWebUrl: "https://abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
 type: article
-quality: 50
-heat: 60
+quality: 52
+heat: 62
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s.abcnews.com/images/Health/ai-1-gty-er-230718_1689697399863_hpMain_16x9_992.jpg"

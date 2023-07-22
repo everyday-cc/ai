@@ -81,6 +81,15 @@ related:
       name: ITWeb
       domain: itweb.co.za
     quality: 36
+  - title: "AI could revolutionize dentistry. Here's how."
+    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
+    publishedDateTime: 2023-07-21T18:36:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "PxjOLjST3vvGoD5coa4RVn+Li5+97cXiLYoIAz6JaXYdpIp7Rui14/72TS3eyOUkuzGiI5KWiPSZ+Vkk7TDCIK4ZurzuWveHEcYUrnZjU8JDsXBDnDDQtCvVUj7u02TgAwDAZ5Avyq/q8UbBVTe5ORWju2riVOaAgtt2pQ6uNYk3o34J32nWYn8igQDK6+PdJ1bEY7Ro/FSJHBqAyZu88mFUvlcbSF00d+WK6GMyl1f4DDC2WgRUuntfyd66sCiOkUaIFW1VaNxQHmsBWKtsCquh8tMgGSWWYzTG51KpxVzEkurzAOp35BsRrLCLnpQvAh/MhW98IGoZKxeiQqL2tJKHomvoxq29GSsvD6Ni1+o=;qBahdMbSV1QITD0ph6PNTg=="
 ---

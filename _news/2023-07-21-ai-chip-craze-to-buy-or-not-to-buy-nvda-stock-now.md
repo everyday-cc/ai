@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-a-buy-a
 webUrl: "https://markets.businessinsider.com/news/stocks/nvda-stock-a-buy-at-current-prices-or-time-to-go-contrarian-1032465491"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "3 Top Stocks I’m Buying Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The S&P 500 has delivered strong returns in the first half of 2023, with a"
+    publishedDateTime: 2023-07-21T18:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-top-stocks-im-buying-right-now-1032466737"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "uvfclwh7Vt+oocuFnLiQkRVO0BBOwHBWOhhrE4Jci8JtQ9udlN3nK3QwZdJMeR8qJE8Usx7mA34Y3/7xa+rUqiZz9RlzItv4HF0YhJM75HlXHj/6lPiE/34q9S0BnA3T1GljJwwVFItFLcnlXNftZOLiNsF147BeeNsR4SdBmSWWztefeF3xP5n7BXGjG7/GVizvtl/UTRgOKP7Rh6y3EYxboyBd+LGiNwPDazTL/X1QfLPRTayQjgZ8iyTJ8VtE80d1gxSFTRqkH8t4s4lQkWswN5LwWknAeJYPviowpz9hMRYGWqm2nyZjn0gRpPvokbU9H4rja/e2KxyXFuba1IxV1WN6g7Cb3RA+x0vE4BM=;DApTD9zqJ/87qNnvd2JQpA=="
 ---

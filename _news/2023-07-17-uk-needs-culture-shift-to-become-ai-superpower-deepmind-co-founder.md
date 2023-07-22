@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/a94e94e5ed37db6063799933eff6278c_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "Can the UK be an AI superpower?"
-    excerpt: "The tech entrepreneur Ian Hogarth got his big break in the industry by creating an app which tells music fans when their favourite bands are playing gigs nearby. Now, after years as an investor, he's been asked by the Prime Minister to lead the UK's efforts in Artificial Intelligence as chair of the UK AI Foundation Model Taskforce."
-    publishedDateTime: 2023-07-17T05:22:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0g136tk"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0g13f7q.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "UK Needs Culture Shift To Become AI Superpower"
     excerpt: "Mustafa Suleyman's views represent one of the challenges facing Ian Hogarth, a British entrepreneur and investor who has been appointed to lead the UK's AI"

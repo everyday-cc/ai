@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice"
-excerpt: "in collaboration with medical ethics researcher Dr. Eisuke Nakazawa from The University of Tokyo and nursing researcher Dr. Ai Ibuki from Kyoritsu Women's University, recently explored whether ..."
-publishedDateTime: 2023-07-10T22:02:00Z
+excerpt: "Robots and artificial intelligence (AI) are expected to play a key role in nursing practice in the future. In this regard, researchers from Japan ask whether intelligent machines can replace humans as nurses."
+publishedDateTime: 2023-07-10T19:49:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/07/230710113848.htm"
 type: article
@@ -16,9 +16,10 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
+  - AI in Robotics
   - AI
+  - AI Ethics
 
-secured: "hvMdqodrSZ1GPILNojkh11tTjdSaQ9uD4PL++kqW9npx9FFtUMgXkgm635xqZERgnYDIPFah9mqQVkPxM+sQcy57B8gtMSLm+LQZEdXGGuZ1fiR4vC6+Lo6QhAikB99ymmtP44WRUS8wyhkDWcy3JdZe66puvbQpjzg8QeSXUFbkIF4fT8FGaYbDeeKOFob1PoMR6BRYshOPiJA0IQrJCuCoPfbe/sL23ySk9NZ08LOCn5m49nUZi4M3UWa5fsABCK1/gjfhYXl5z+ie/bf9m20hykuUja0M/A5PHePIAujJUO5PM71U2g2Giwneg90h1QHqSEh7eezNY11nRxpeoOyY7gy9OJvVsbVmp+ZnaoM=;iHQdf5lBcgAUrgAlCMNv7A=="
+secured: "mbh5N/GwKfDTBTfvv55mm3wZQmPGg86JdoLik5RyxNOxd4qMcuHsym1S2yKpRxnpYxicRP+1olz7UTBtdWNnH1YtGm5LlJBeRzG0LYFnUHxrsk/tq8lnr2JdyYTKa0UvNvTDQ8fD+6KIUe7uyrYM0iUTin6oY9NTFwRMttgc1xXSJzGzz+RW+AIUHb3TVwZYRntV81hwWh5koa0LmoQm/hqcSOrRRCdAdi7EsWSjgkGiiZEPRm52rITdZbU/uCWweNuVKps+qUXqWoMK5elBTMjWerQUS3W8V9W5TUsFC50Wqa9XgFj2+6wMWMe4976/VTH8g9KUD7SGMKLhEO1mkO7yeAFqq0FY1iaeGttOZOA=;awsWM4UJTQg/18pLmeQmQw=="
 ---
 

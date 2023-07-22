@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-ma
 webUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "Lenovo all-flash arrays aimed at optimizing AI workloads"
+    excerpt: "Lenovo’s ThinkSystem DG enterprise storage arrays use all-flash storage and quad-level cell (QLC) architecture, the densest flash storage available. They’re capable of up to six times faster performance and up to 50% less cost compared to HDD arrays, Lenovo asserts."
+    publishedDateTime: 2023-07-21T21:22:00Z
+    webUrl: "https://www.networkworld.com/article/3703229/lenovo-all-flash-arrays-aimed-at-optimizing-ai-workloads.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 19
 
 secured: "jgfj/KFXOX3sk66JaamRKG+6L7pBzv8AL6dGfeyL3SwjZZkLiUXQA2MIn5gqeDA42TJjjkEfmF9ovdVI5Enjy5Li4UG/+XA0PmAxEBTy9QeIbIw2eOWyw/Jh2xlUZzw9R7X5iicuRD74sYnEtEYqzK+PW00b6TrAy/y07uCUCPFwdaXBNnw/MGilNSDxLij2vZe18dnp3dG+o6DWpMlayhJAeivfxhD1qOhSY8tT7aU1iM8Ll6lwCMG8Oz+zT6dUU0oeRz+CMBzD1tnmboZO90Q706oCM3WLgFP2TJSwRpipjF2UwGo8jxheny55bNzls9LiVdoCBAAQFkwvjRNf89/t7otWXzWHv+d6h1scP38=;cbig6UNkEJjB8mo+9jaMEA=="

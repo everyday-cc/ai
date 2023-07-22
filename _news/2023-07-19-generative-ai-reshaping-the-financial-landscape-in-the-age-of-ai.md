@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A look at generative AI and its ethical landscape"
-    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
-    publishedDateTime: 2023-07-17T07:00:00Z
-    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
 
 secured: "zwQoYlw6z0H3gS7jN+H06LaGTem4gSPTfK0LOCJqK9IqIPS/ZSOiEjxCBFpEBlCdOjrEr5mWbeTHumM5c9Iq6q1xAIWvlK258ag/MQ9TVXPldnmho/cHcv5tV+kPdGnatOXVTpoxG+hUzPl4sorPj3Qbm7xdV//FyEnskiYa9c7BvktLB7cmh4yYTG45ZxsgYo2IQmijAMu/luyCJDGFWxP589eKh4IvnTQ1SJX0hpI5JY6OKiTUwaevddC4FNB8ntqg98GvWbcPMJwlpANQaefN2NUe2QVUNexjsG97LmUJn3b3hsDAj/vi1LQqm8zkMTSbx7QNB/Sa0KHN/ndHJPWnmf3Dt5nQqbPDJtzfKR8=;qWTSZIH1uaVLNEYieGUjdg=="
 ---

@@ -167,7 +167,7 @@
       "originalUrl": "https://www.zdnet.com/article/these-are-my-4-favorite-ai-chatbot-apps-for-android/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -439,10 +439,10 @@
     {
       "path": "_news/2023-07-14-top-5-programming-languages-for-ai-and-natural-language-processing.md",
       "title": "Top 5 Programming Languages for AI and Natural Language Processing",
-      "excerpt": "This capability proves particularly beneficial for applications involving natural language processing, sentiment analysis, and image recognition. R is a powerful statistical programming language ...",
+      "excerpt": "Furthermore, R’s dedicated packages for NLP, like “tm” and “tidytext,” offer advanced text mining and natural language processing capabilities. R has a rich ecosystem and specialized ...",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1",
+      "webUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/2/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/2/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -461,7 +461,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T19:47:00-07:00",
+      "publishedDateTime": "2023-07-13T19:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",

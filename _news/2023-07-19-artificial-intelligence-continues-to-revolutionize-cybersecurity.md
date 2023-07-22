@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "AI could revolutionize dentistry. Here's how."
+    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
+    publishedDateTime: 2023-07-21T18:36:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "Nv0mzJZ9NJqn1pZH9bT1/HveeFM9i7qJ0q5o8KwKOaRbGP1LS6e2ML6i+6K2age6OzuVsQcPFEXzjyIQXsRIdnL0THirx8cFgBCI3SZWfV65MXptRWi76NuSSFwHzenF2cwXXrB7WhSAI501zKZCGLbJMP7XsO1ZOJsO6DicUrYTBqlLJVfQ5F6n+Tfwe3cbKyde8x1dNz19vaWUCskXX9CEFhvSFxM/Th+sX7eSZnebfw/I8PtzGPrSXmhqtyy8IDLKIAc2h2ZKxHqQFCEsyYSfYeCdGOCGUlKT78OxmyBWkw1+SH5hA1tGeC6DsLnXinnNnQz42tzb3YETy5MJPEtQbfJRGsfLqVdIF/VuzcI2UnzE0vPfWxeRZjq9NbMZfSi3ws8ykf+cqJWM+0+DHls87624lVtxE4WAeTK7nahY3UtYHTDb+eYF34Cy3R1ST8rU/TUwhH7BYsC2Qh9QLT/lsW2BgH9u1ezq0fuPTNzzaeD2ayhBEL9ET+I2qXRGU9j7/2ir9mmkd0ldh5rgsA==;MMLcPjuvVTqb1n3rrf7JWw=="
 ---

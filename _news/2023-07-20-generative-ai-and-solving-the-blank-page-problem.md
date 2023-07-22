@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "A look at generative AI and its ethical landscape"
-    excerpt: "While global interest in generative Artificial Intelligence (AI) has surged of late, only sporadic progress has been made on the ethical guardrails needed to protect society."
-    publishedDateTime: 2023-07-17T07:00:00Z
-    webUrl: "https://telecoms.com/522622/a-look-at-generative-ai-and-its-ethical-landscape/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
 
 secured: "uBl4RSWMNVbALjDzzD+mXgKfHHtlq+Sp/NArfsTo6WgFlmfdDjqMpsl3kTXctjEN3mizp2rPk0GI0E3OQ5NPt0IrmATcJlAPo0e3bn/vCg95u7ZvWvFw+EBFPXHR1CAIUHtoQwFGyUy4MtPXGbVzulrMKN3ePnkyYcZrLGybxWujowXFLt8XrVgQowYi/b+YSGsuNctTmEc83W/S0TXVyGBTYmPKv9d7BuXOLjgxo6moBP7AmlFPHKvTxQ9REOrIO8oPdW4FrNOj2dILVtwOuEonR6frLwzV5h/Jg6xdTYAqMoaHNn0BLIMBhTJ4sVSf+C58JS5BDR7VnHA5EbczsBHGDYD+pJxtEMyjl1IIiOI=;8vWueS9uiUCeWQLRXoXhzw=="
 ---

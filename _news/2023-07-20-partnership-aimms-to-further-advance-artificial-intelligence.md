@@ -7,7 +7,7 @@ originalUrl: "https://www.kpcnews.com/heraldrepublican/article_009a4c02-635d-539
 webUrl: "https://www.kpcnews.com/heraldrepublican/article_009a4c02-635d-5391-b09b-fbbabc4de8ae.html"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Chuck Schumer Tees Up Forums to Advance AI Guardrails"
+    excerpt: "Congress will focus on artifical intelligence later this year in a series of forums that will tap experts from large and small companies alike."
+    publishedDateTime: 2023-07-21T21:41:00Z
+    webUrl: "https://www.inc.com/melissa-angell/chuck-schumer-tees-up-forums-to-advance-ai-guardrails.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "uZ99YrEPgJ60Nbr3wXe/YUQINqtwUZAP4HUjBkN07WqGLOlFp0gcMnDoTYNHfgCl4vBdUonFZINWu/YvvV7ZoRvcwNlLXnYysoaAPxzAAr85YFRz+6hBTIIcmn1c1zlv8wiDEHxVS/w7i5Dxokj+04bwq3tllo0RPW+jnv9B6/jYoJCYlKPDH+TazKFaxd/TfPY91x1KZAP7GRPIq8PjLKVyRFjldATGGoPJjuFK2uvtNuMlT/ZcCBNO3RziwxVqdTNtrcRK9iUzRZqQMH/YN4igagW3e6qdYtugW9Y/TWvpk8OVS2eeN8THsABvEWE6TaDB48JB8Wrbmla/WmWRXkXVXLg7Kow48Zb4E/wpHo2xHC9JyBRr9I0Kx7wKc8S7YrJtgMujSCiZEHfwBjqVNHbHrsC5FUp7qBMUeVmbEVog0GUmk1eiiE49RTiaDIL9uYhsngBhunNcNeO2qGIa/h/LipECt9krMHOt157g+m4eE0GDHeESqt/zXcBSwJ1I7mz7JadCpUcKvVlgscSsPg==;1GyrEqRU5gjrBptpA75Yqg=="
 ---

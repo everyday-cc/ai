@@ -35,7 +35,7 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://s.abcnews.com/images/Health/ai-1-gty-er-230718_1689697399863_hpMain_16x9_992.jpg"
         width: 992

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-u
 webUrl: "https://www.bloomberg.com/news/audio/2023-07-19/how-to-build-the-ultimate-gpu-cloud-to-power-ai-podcast"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "China-based GPU suppliers eyeing AI opportunities"
     excerpt: "As the AI age comes, leading to high demand for computing power, GPU suppliers have experienced a boom. China-based GPU startups are trying to catch up and seek expansion to capitalize on the AI dividend."
     publishedDateTime: 2023-07-19T01:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-ne
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Reddit tricks an AI into writing an article about a fake World of Warcraft character"
+    excerpt: "On July 20, Reddit user kaefer_kriegerin made a text post expressing their excitement over the impending arrival of a new WoW player named Glorbo. Glorbo is not real, and the author made their aim for creating him clear, writing at the top of the post, \"I just really want some major bot operated news websites to publish an article about this.\""
+    publishedDateTime: 2023-07-21T20:53:00Z
+    webUrl: "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorbo"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 60
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/04H46Q9gFPmsEv7MZ9sMjUH/hero-image.fill.size_1200x675.v1689959419.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Warcraft fans claim win over AI with Glorbo prank"
     excerpt: "World of Warcraft fans are claiming victory over AI after a gaming site published a false article based on their Reddit posts. Members of the WoW subreddit suspected their words were being extracted and used to create news stories by a bot."
     publishedDateTime: 2023-07-21T09:42:00Z
@@ -60,6 +74,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI Article Generator Falls for World of Warcraft 'Glorbo' Prank"
+    excerpt: "A World of Warcraft player dupes an AI-powered gaming site into writing fake news by posting about a non-existent feature called 'Glorbo.'"
+    publishedDateTime: 2023-07-21T20:39:00Z
+    webUrl: "https://www.pcmag.com/news/ai-article-generator-falls-for-world-of-warcraft-glorbo-prank"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "JDAGZ92+7zb9zdtcFE2F3MKQf1ZNDwBxB/3vY0u9eckvieg8XbovZocLw6kd0/PlmpjoYgakkHO3a87wu2UO8Wni+XpZWGDAkayEUaKDgWKZBoGLQKreopUm+Xp8hdmoLe1pamhpn7+UyLeu8WuqMd0f9ybdiAOL9FGyFRG+25HZTe6iwsmoO0AeE0GeaZTfzPO37JMssVFzP8wH/lGnUvXdiclvL4lfN4AUMxK8E43qdTO/bM9Jb5FlScyQfplzp3GoukJo+Eji2KpdCNk2YbJfEOan7AJswMoSFMPl9Um7w/OHOPWz63Vf/YYs3z84qYfptN3oknTKv3/1M5ne96MzZirQpkLjkahg0l+/fHc=;kmRdBwrL24xKiTcFomkkeQ=="
 ---

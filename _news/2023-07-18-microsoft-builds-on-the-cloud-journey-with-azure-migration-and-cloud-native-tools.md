@@ -28,7 +28,7 @@ related:
   - title: "Microsoft announces Azure AI trio at Inspire 2023"
     excerpt: "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale."
     publishedDateTime: 2023-07-18T16:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/?ref=dailydispatch.ai"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
     type: article
@@ -566,6 +566,29 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 64
+  - title: "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search"
+    excerpt: "Microsoft has been busy updating its Semantic Kernel open source SDK for creating AI-infused applications, recently adding Java support and integration with Azure Cognitive Search."
+    publishedDateTime: 2023-07-21T22:09:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/07/21/semantic-kernel-updates.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 62
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robot_coffee.jpg"
+        width: 647
+        height: 450
+        isCached: true
+  - title: "Google, Microsoft, and more commit to AI safety at White House, Apple absent"
+    excerpt: "Today, it was announced that seven leading AI companies convened at the White House to pledge their voluntary commitment to the safe, secure, and transparent development of AI technology. These companies included Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI."
+    publishedDateTime: 2023-07-21T19:47:00Z
+    webUrl: "https://www.androidauthority.com/ai-development-white-house-apple-3347464/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 61
   - title: "Troy Medicare Selects nirvanaHealth’s Aria Platform that Runs on Microsoft Azure"
     excerpt: "Press Release nirvanaHealth and Troy Medicare announce their partnership to implement nirvanaHealth's Medicare Advantage Platform-in-a-Box enterprise solution that runs on Microsoft Azure. These solutions run on Aria,"
     publishedDateTime: 2023-07-20T12:26:00Z
@@ -663,20 +686,6 @@ related:
       - url: "https://d1-invdn-com.investing.com/content/picda01a5582f86f02f497e7a0647263f19.jpg"
         width: 450
         height: 273
-        isCached: true
-  - title: "Microsoft Semantic Kernel will support OpenAI plugins"
-    excerpt: "Fall 2023 roadmap for the LLM-integrating SDK also lists plans for plugin testing, dynamic planners, end-to-end telemetry, and links to vector databases."
-    publishedDateTime: 2023-07-17T05:08:00Z
-    webUrl: "https://www.arnnet.com.au/article/708036/microsoft-semantic-kernel-will-support-openai-plugins/?fp=2&fpid=1"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_dreamstime_7_2_1_2_3.jpg"
-        width: 505
-        height: 315
         isCached: true
   - title: "Inspire 2023: Microsoft continues AI push at Inspire"
     excerpt: "Microsoft kicked off its annual event, Microsoft Inspire, with a focus on collaboration and the transformative power of artificial intelligence (AI)."
@@ -814,6 +823,15 @@ related:
     provider:
       name: EuropaWire
       domain: europawire.eu
+    quality: 51
+  - title: "Why the AI Boom Is Good for Microsoft, Risky for Chip and Server Makers"
+    excerpt: "A CIO survey reveals that companies are prioritizing AI applications in their spending plans. That also helps explain why Taiwan Semi noted a softening in demand for chips in its earnings report."
+    publishedDateTime: 2023-07-21T18:07:00Z
+    webUrl: "https://www.barrons.com/articles/ai-boom-microsoft-tech-hardware-tsmc-61039904"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 51
   - title: "Meta makes its AI model Llama 2 available on Microsoft Azure and Windows"
     excerpt: "Meta has expanded its long-standing partnership with Microsoft to make Llama 2, its new family of large language models (LLMs), freely available to commercial customers for the first time via Microsoft Azure and Windows."
@@ -1005,6 +1023,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
+    excerpt: "President Joe Biden said Friday that new commitments by companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards are an important step toward managing the technology."
+    publishedDateTime: 2023-07-21T22:30:00Z
+    webUrl: "https://tulsaworld.com/news/nation-world/government-politics/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the/article_e0022025-304c-58f6-a80c-fdbfea88acaa.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 40
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/e/00/e0022025-304c-58f6-a80c-fdbfea88acaa/64baf751602e6.preview.jpg?crop=1909%2C1002%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ThetaRay Earns Microsoft Cloud Solution Provider Status"
     excerpt: "ThetaRay, a leading provider of AI-powered transaction monitoring technology, announced today that it has joined the Microsoft Cloud Solution Provider program with its SONAR solution now available at the Microsoft Azure Marketplace."
     publishedDateTime: 2023-07-17T13:56:00Z
@@ -1078,6 +1110,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Teladoc, Microsoft Expand AI Collaboration"
+    excerpt: "The collaborative hopes to minimize administrative burdens by automating clinical documentation during virtual and in-patient care."
+    publishedDateTime: 2023-07-18T00:00:00Z
+    webUrl: "https://www.healthleadersmedia.com/telehealth/teladoc-microsoft-expand-ai-collaboration-0"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
     quality: 34
   - title: "Microsoft increases channel exposure to AI"
     excerpt: "Vendor rolls out fresh specialisation encouraging the channel to embrace the benefits artificial intelligence can deliver."

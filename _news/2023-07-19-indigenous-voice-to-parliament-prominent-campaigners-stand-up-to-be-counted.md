@@ -85,6 +85,37 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
+  - title: "Indigenous voice to parliament’s No pamphlet casts light where Yes prefers shadows"
+    excerpt: "As we count down towards the most significant referendum since Federation, the picture that has emerged in the Yes and No pamphlets is both telling and saddening."
+    publishedDateTime: 2023-07-21T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliaments-no-pamphlet-casts-light-where-yes-prefers-shadows/news-story/6fbe47376a025d8fee8a8dec201cbbc3"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliaments-no-pamphlet-casts-light-where-yes-prefers-shadows/news-story/6fbe47376a025d8fee8a8dec201cbbc3?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliaments-no-pamphlet-casts-light-where-yes-prefers-shadows/news-story/6fbe47376a025d8fee8a8dec201cbbc3?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 18
+  - title: "Noel Pearson on Indigenous voice to parliament: ‘Empowering family must be the focus’"
+    excerpt: "Pearson has been at the forefront of the push for constitutional recognition since 2007, when prime minister John Howard first pledged support for a referendum on the issue. Asked why it has taken so long to come to fruition, Pearson replies: “Because it’s a blackfella issue. It’s hard to get a blackfella issue up.”"
+    publishedDateTime: 2023-07-21T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
+  - title: "We gave the Voice to Parliament pamphlets to fact checkers. Here's what they said"
+    excerpt: "The official Yes and No pamphlets in the Voice to Parliament race are now available online, and will soon be landing in Australian mailboxes. But the Australian Electoral Commission (AEC) is only able to publish the pamphlets as they were submitted, crucially without fact-checking their claims."
+    publishedDateTime: 2023-07-21T20:44:00Z
+    webUrl: "https://www.sbs.com.au/news/article/we-gave-the-voice-to-parliament-pamphlets-to-fact-checkers-heres-what-they-said/avgm10cuo"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 14
 
 secured: "2B+1JjMDdf6JHtvovrKYyS3A4r7ut9tWyc4sev3iVEBQJWWRnEGTW+4ikLu0MHuCD+MWf6XVzgwrBL4qsLPDx/roBlmqLWvm8rskG0h0ySeqW19CsqRbf2cyLy+kdgEJyyk6NHJJiwPnnWN9rM87I6SiepTpdFJ1I/JcBhBGtpYDuRhnQeHhW7eSmfpgQXu5Vgn4DJNmeZn1jQ3VYn/ONb1pIYj4H958UYAEvxu82UtSuNE8PlKI76qRdTFYFqbE+yA7HULYvJeszzEscvE0mDyXxweEp1S5aOutxTNGbku2/ozVF72omiTO2wTT7uqE0mks0Z9YHANrZtivx/Oqplw+gj0y5c2B93YjqKytEVcZbUP4x7S6wJkZU+tqTCLb0AjySVzqHu4AMuqYqmWVbJ93CjDLXNBJj982bPxluv9s+5ZCGymhN4eImfiZYTF1bq3qmNxLcpUDYhroAtwnbJjgAvYjJxwUGAkaP0fhRPvTw8w+HZzb4HiCN+kQI64n5hS+Y9g+k0/U6Rq0a14X6g==;Cl4LP+f5V+OzN1uruOPopQ=="
 ---

@@ -19,48 +19,123 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Cohere is teaming up with McKinsey to bring AI to enterprise clients"
-    excerpt: "Some businesses have already begun reaping the benefits of the collaboration, using AI for product development and speeding time-to-market."
-    publishedDateTime: 2023-07-18T16:07:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
+  - title: "Using AI to fight climate change"
+    excerpt: "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth’s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world’s most challenging"
+    publishedDateTime: 2023-07-21T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64b673590474016a2e1ac5a9_Nidia_Dias__Sustainability_04%20(2).jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How to spot an AI cheater"
+    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
+    publishedDateTime: 2023-07-20T23:00:00Z
+    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
     quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/blog_cohere_inset_leaders_1000x718.webp?w=1200&strip=all"
-        width: 1000
-        height: 718
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost ML Inferencing to the Cloud"
-    excerpt: "Wallaroo.AI, a leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic"
-    publishedDateTime: 2023-07-18T15:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/wallaroo-ai-and-ampere-computing-collaborate-to-bring-energy-efficient-low-cost-ml-inferencing-to-the-cloud/"
+  - title: "Businesses look to self-regulate the use of AI in hiring"
+    excerpt: "Over a dozen large, global companies and BBB National Programs developed a self-regulatory framework for companies using AI in hiring to protect privacy and prevent bias."
+    publishedDateTime: 2023-07-21T06:00:00Z
+    webUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring"
+    ampWebUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 57
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How AI Is Changing The Way We Communicate"
+    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
+    publishedDateTime: 2023-07-19T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "NYC subway using AI to track fare evasion"
+    excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
+    publishedDateTime: 2023-07-20T14:09:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-subway-using-ai-track-fare-evasion-rcna93045"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
+  - title: "IAEA and partners launch new contest for start-ups to develop AI solutions for climate change"
+    excerpt: "Read more about IAEA and partners launch new contest for start-ups to develop AI solutions for climate change on Devdiscourse"
+    publishedDateTime: 2023-07-18T06:29:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 46
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_06_2022_17_22_48_2366099.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
+    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
+    publishedDateTime: 2023-07-20T10:43:00Z
+    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Mundy Cruising predicts how artificial intelligence will change sector"
+    excerpt: "Mundy Cruising and Mundy Adventures have tried to predict how artificial intelligence (AI) will change the cruise sector. The companies, which have published articles discussing developments in ship design, are forecasting significant improvements which will help with fuel efficiency and boost the guest experience."
+    publishedDateTime: 2023-07-17T11:32:00Z
+    webUrl: "https://travelweekly.co.uk/news/travel-agents/mundy-cruising-predicts-how-artificial-intelligence-will-change-sector#!"
+    type: article
+    provider:
+      name: Travel Weekly
+      domain: travelweekly.co.uk
     quality: 37
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://travelweekly.co.uk/images/cmstw/original/9/4/2/0/d/easid-497238-media-id-41044.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
-    excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
-    publishedDateTime: 2023-07-18T15:01:00Z
-    webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+  - title: "MTA using artificial intelligence to tackle fare evasion"
+    excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
+    publishedDateTime: 2023-07-21T02:40:00Z
+    webUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion"
+    ampWebUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/59b9ca713905e11914629ed7d3b9e79f"
-        width: 800
-        height: 522
-        isCached: true
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 37
 
 secured: "pBlZ/gQaWocNCifWluKZC/jO7BD5irJpR9DdgXDaNrBapmAiMq+5ZeL8wzpbWTRPiwOH/3oKMBlbR8Y6D9ElhoJ8BMmh8F6pPnPGGacM5G+i1rWI3cXftBua5jZtzHtfaOCtjRnlSuWtIX8pimkRoMkaOOiBJhc/kpxX1fwtWLV28WR13HKn0066Y7U1UYNb46sgrnb+m+df0oDd3XUxiCrI7XlkPQWPi6Hjm3VDlGX0BKiEuGQPcJR9atjvGaj7m/KTrcgvo/6HkDZ2/tA/d7IhhP8weNKvO973qpoaIQ6jCL08gcMW6c2fYEmeDa1WqxIvEuMHr1RS8xpI+Cgh896b6gWxny3EakX5bSf0r7Q=;GXbkl0DTxZtMr5ATupGtdg=="
 ---

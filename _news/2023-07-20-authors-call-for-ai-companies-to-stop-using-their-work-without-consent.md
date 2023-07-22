@@ -76,20 +76,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
-    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
-    publishedDateTime: 2023-07-21T08:03:00Z
-    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Big tech names commit to artificial intelligence safeguards"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."
     publishedDateTime: 2023-07-21T10:10:00Z
@@ -138,6 +124,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Seven AI companies commit to safeguards at the White House's request"
+    excerpt: "Microsoft, Google and OpenAI are among the leaders in the US artificial intelligence space that will reportedly commit to certain safeguards for their technology on Friday, following a push from the White House."
+    publishedDateTime: 2023-07-21T21:21:00Z
+    webUrl: "https://www.engadget.com/ai-companies-will-reportedly-commit-to-safeguards-at-the-white-houses-request-185646283.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
   - title: "What 7 AI companies agreed to do to safeguard their tech"
     excerpt: "Seven leading artificial intelligence firms will debut new voluntary safeguards designed to minimize abuse of and bias within the emerging technology at an event Friday at the White House."
     publishedDateTime: 2023-07-21T14:26:00Z
@@ -152,6 +147,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Leading AI firms volunteer security commitments to Biden administration"
+    excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
+    publishedDateTime: 2023-07-21T18:47:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/leading-ai-firms-volunteer-security-commitments-to-biden-administration"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
   - title: "Biden touting Big Tech commitment to make AI tools safe amid fears of tech-fueled apocalypse"
     excerpt: "President Biden is trumpeting new promises from Big Tech companies to make artificial intelligence tools safe amid growing fears that the emerging tech may wreak havoc."
     publishedDateTime: 2023-07-21T10:28:00Z

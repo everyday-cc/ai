@@ -39,6 +39,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Update: Artificial Intelligence (AI) and the Law"
+    excerpt: "AI will play a bigger and bigger legal role, such as streamlining research and preparing decision drafts – but it can’t yet substitute for judges and trials."
+    publishedDateTime: 2023-07-21T18:59:00Z
+    webUrl: "https://www.floridarealtors.org/news-media/news-articles/2023/07/update-artificial-intelligence-ai-and-law"
+    type: article
+    provider:
+      name: FloridaRealtors.org
+      domain: floridarealtors.org
+    quality: 32
 
 secured: "NMFV7cEo4nE7J+HQGs+Fx+eIT6A5nI5NtgRbCVFQfhIIus0GgUVp771dgfntDdfnqYMQAyaloyMHSJmxNGrUlRH/V5ztz652er98lnACYAYjFp64rU4QBjMx52Sq6IF+bb9bmhZsOF9U4Jgb+nWOYWLKn0S2MDpdkPH49qKiBj047gmMUOgWuQgdOL80V4m2TbjM5ZwzSspbioI6L0naMZsc7Dvf+6lT6vsGkdcReaKBhzGFaB9xIQ3yERpxciKYj9Ea8NB9/n028KdjDuIkmvKZvU4NqnYjojTCGgyIxch6NhzsDzX2VtubtzgVRrKeTCQucQIZZjcgEi36e7QBpGfH569G191is392dfwgLMQ=;/Hr41Bhu1H8+DT3ruP56eA=="
 ---

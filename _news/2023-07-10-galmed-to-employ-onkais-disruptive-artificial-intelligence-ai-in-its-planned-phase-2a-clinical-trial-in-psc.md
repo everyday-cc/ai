@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Galmed to employ OnKai's disruptive Artificial Intelligence (AI) in its Planned Phase 2a Clinical Trial in PSC"
-excerpt: "OnKai's AI models redefine the methodologies and economics of clinical trials"
-publishedDateTime: 2023-07-10T13:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-galmed-employ-onkais-disruptive-artificial-intelligence-ai-its-/2023/07/10/9844997.htm"
+excerpt: "OnKai's AI models redefine the methodologies and economics of clinical trials TEL AVIV, Israel, July 10, 2023 /PRNewswire/ -- Galmed Pharmaceuticals Ltd. (NASDAQ:GLMD) (\"Galmed\" or the \"Company\"), a"
+publishedDateTime: 2023-07-10T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33164058/galmed-to-employ-onkais-disruptive-artificial-intelligence-ai-in-its-planned-phase-2a-clinical-tri"
+ampWebUrl: "https://www.benzinga.com/amp/content/33164058"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33164058"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "/5S5fYYNzxdtH7hT0aLHbXdWhxxaenfwLqKDkyvt2atQ9ONpa9FGx5MYXx5Lf+B9BMoE5vvzN97Q5FHNbjU8r/tiKqkooyZijM7k7nWSmkGSMWHq8WL7f4KAGRyHX1gtMSWR939IWY6FDl7Mz0QNIw7witEhMNcf6oGW8dYzVKUKSvrDrdyVn+aSoRxf8LcN9WtrUN9H9rvRhPJrhGB5QynU0oc/xK0Ek/CNNiE5EVjWHIGO3ITS9OHp4+OXJyHMtBKKWDFBHN1iEAxE9EUpeOFlZzt/oanail2B7xstpEb4em830WH9M+kBu9PyVYNhOfzu0shr5RbKaBXK79N6DmV+5YMTxfqk8GslcI/DdcA=;kjVzr2jSlh0RuvC6eq4N/w=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "9r/D8dI+xty5LXhqij6E3XttJE2Pn21Gd2TFoIPbeWjhsajqM+tT8apidBcfL6vUBv57azGfQZn2PSo2zpq+5s+tuBCMlVbVVfXZmwXzIQKcedPlVe1iSBollpcTr4/CyQXEAhULrw+tR2AzQ6qaaMPElNfRfuJtU0DxfCfT1OGAm8gS8CfBpY0NNyfFFG9auXRlNkJxwePQikvgRxhuvuALGhSAzin2vpO1FmtNDIiXYfKr8h8VuzCQcfFqiPMNEhw7dlh1EUPLcoVPLO3bRUhpTVG4SKJ6kL7ZJBLm9wBWGfsiBRzeu+Y0XHiWA0llXeCz8yaPzZ+1dvkrAxfVh/OcfBrU8SDKrXvPI/U4LXI=;I2UcjMxby/u3DOlWga+6Qg=="
 ---
 

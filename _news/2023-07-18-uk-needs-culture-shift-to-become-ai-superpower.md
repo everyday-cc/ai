@@ -72,20 +72,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Can the UK be an AI superpower?"
-    excerpt: "The tech entrepreneur Ian Hogarth got his big break in the industry by creating an app which tells music fans when their favourite bands are playing gigs nearby. Now, after years as an investor, he's been asked by the Prime Minister to lead the UK's efforts in Artificial Intelligence as chair of the UK AI Foundation Model Taskforce."
-    publishedDateTime: 2023-07-17T05:22:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/p0g136tk"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0g13f7q.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0vQNFRNnyMNtixzdccREqtvmS0UGMgqvHOIzrRzv/6QLQ0eB85HKaUU0ouTUBZmm12yXl2Ky+p5hv6TPuU2whDY6yrcu6JlCBpACsWmV5g8BXrsA38pXtYKJcen/SkQqGWG8jgT0qbArzwLMy0vjImvdLSyb3YiwJ8CQZ5SUF4U26+JfaT5ZfK2iIgCqkdCJffsBekTNSLryrvMQVh1LoKekUn4O7whZL54l8+V7vkBJyeXWa5G/frnusEQfQ3Q/fV6NDhCX8QvQseWMARWbXt17Xc6BMiZw8VVTnnHN/dFkyoGrGxET/WRLiE4rDzU85vrBX1N3G7rPufzUjM/krKZkCGjex2OM4VNiBOmpZzs=;YHtzpnr/xYjO+0CUCmqL6A=="
 ---

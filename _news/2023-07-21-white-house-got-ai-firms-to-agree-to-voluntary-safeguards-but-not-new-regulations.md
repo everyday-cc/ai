@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/white-house-got-ai-firms-to-agree-to-vo
 webUrl: "https://venturebeat.com/ai/white-house-got-ai-firms-to-agree-to-voluntary-safeguards-but-not-new-regulations/"
 type: article
 quality: 61
-heat: 91
+heat: 111
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 29
+  - title: "AI companies agree to voluntary safeguards, Biden announces"
+    excerpt: "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI have all agreed to \"voluntary commitments for responsible innovation.\""
+    publishedDateTime: 2023-07-21T18:47:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-companies-biden-user-safeguards/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
   - title: "Watch Live: President Biden Announces Some Tech Companies Have Agreed To Voluntary Safeguards On \"Artificial Intelligence\""
     excerpt: "Open AI, Amazon, Google, Facebook, and several other companies have agreed to voluntarily follow a new set of \"safeguards\" on the development of artificial intelligence, President Biden is expected to announce in a speech Friday afternoon."
     publishedDateTime: 2023-07-21T17:38:00Z
@@ -65,7 +74,16 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
+    excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
+    publishedDateTime: 2023-07-21T20:22:00Z
+    webUrl: "https://apnews.com/business/strikes-8fe71c6125793335a57ac15f603c99e6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
-secured: "p5hhfEdSv4kOa9MPuvhh5e8hdZ186zUL+73TNKqy6uxQIkuBQ4gDo1G2JZzDvv60vnX6nJl9gRNFOZgkkUOmshzObDuOBBYl+Lx6oM7a33VEhTOv7HJUKwiz7x6A0wjl3aYp/WrGbQFw5swujk9+bnA4sVLrd/DbT5DF5a+v4oXvZI3kBHikVPudMSH8ghuKEcA4EyznOFNzLC2Sh9hFWGZFOL5UQYwtnSfXzwhg3V3qAGZzR3LvW7QrlATqBYDbSlHgCGRao76YlOsrwtF/zSQlAittAE7JD+8JEJcU+OYEaPGqJSp4Lh/DZU5h5eCx2krD/mhZ0HBYVJ01R7TQlLdT91wsYD1b8bi0Um6EK5g=;czsglbVSh9T9HL4rSf3bWQ=="
+secured: "LebseST3N2KnHSc0N3Hglvg8KbUFF8qr073t0fgYELjeRJKG0WFjQspRYEY3Iwh34Jy76ocYTkcl6TNJ7cgT0ObSljZw9rSoqrhFQHv6+xn0tE8+1gsApaj3kpLMMjfWHR0QRulrxlkBXUiMYIcp3CCgFG8w/vHGHzqKQQxY53KVpSd6M770cCrcj0cI6Mr/aKXYm1R47+ElEegAI9GG7q03fB8BTb9C2d2SAUE+TuWRddxTjwVxuk3AAeq09gXLEbHZFiNrp4QXm8QoxCzFU4ZG42gTP0l7kglkoWc/QEn3VvV5zXHHZtWb5Xp29SYnHdBiWQaLo4WZXMEwfGNE9UP/8I6kxCAElaBXPNEsW3qBOlB7ZuEJ6qKL+OcQNRl/XFQvAB5fYAR5QWNyEGfYBGVmwiivga2ST5hUYCIAvz9GR8oPaRmh4VDdVur5X2NuNXFfWAHQeRsyY//mZJXS5twx9P+JnecRCNwWWqMsAU9D4Dv0z8y2Oxp9/iS8D/MILApQ+u88sAZvQHIJhghYqQ==;n4N6naIZetPYh6Lv6Z0PIA=="
 ---
 

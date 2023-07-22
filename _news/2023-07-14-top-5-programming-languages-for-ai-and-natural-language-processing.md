@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Top 5 Programming Languages for AI and Natural Language Processing"
-excerpt: "This capability proves particularly beneficial for applications involving natural language processing, sentiment analysis, and image recognition. R is a powerful statistical programming language ..."
-publishedDateTime: 2023-07-14T02:47:00Z
-originalUrl: "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/?singlepage=1"
+excerpt: "Furthermore, R’s dedicated packages for NLP, like “tm” and “tidytext,” offer advanced text mining and natural language processing capabilities. R has a rich ecosystem and specialized ..."
+publishedDateTime: 2023-07-14T02:46:00Z
+originalUrl: "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/2/"
+webUrl: "https://www.insidermonkey.com/blog/top-5-programming-languages-for-ai-and-natural-language-processing-1167657/2/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 2400
     isCached: true
 
-secured: "c77aZqgyD9Ew7ZK0jZe3Cei4smJdNKwjxs6c+70FJIs3D9xxIdBajtPHPyDDRiQvDm7pUmCiCvjfOiH/b+hAWo0EZh0UhUKJgkRR++SEOrq8iI241qJzwmCcVnVr+5g3iebNaSBtmhB88L94+g/VdZOPBbfPG0ZcQv86TMEPZ1d2yl7mfIsd6fDXCLPX2e62BSjtsserdWr6IYpfxFhAQRno7uTaV4tbrZjSDQigMK9lBlG9C8cSGVNF6rtEDTGsVu6DYRy467myT3fVU6HYNdYcqfSjucspYPme8ViJMjj6H8vIbaVKTKYoEzMqXnkPNOhCp7CQiWHBXqAf9h/NCRut0vu+L7iWwu94d2sS/cY=;JoHYS5G/C4Moh3CWG6ouzw=="
+secured: "1LGragqqkTdIz9e7lK1EmQvdbUDUrMvlCHjBdnUcPeSyiO76smi/9hxEaKr1OTXTzEJDc4oGtWGagr1LSWRg+f7vHw7ywzBlT8MmMfnLLYO01aLct1UAOC8xCDttl9xQI9KcARcR2uvtSmfHZ86peDlxKhlf5Y1DkcIDZN/mTeKG1jxgis8q6LmzVlnoPMhD6iQVP9p8kRF01Y0h27NAjVC9xxjSsUKV+GbNHuGU8L2BmQ8C9PciSXwMC2M6ECQ1Rut7jhHnC7oi7o2GwAQ7AWSVPvMg5WMSXR35BmNv0z0HneQMYdgbfJ3yuhypC9m+kCJQFuJm6pLEgPmmW4OO9K/uf664eR+3d3NqKNKjSnQ=;rjYy7C9g70cGGheiJk+SHQ=="
 ---
 

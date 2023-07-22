@@ -26,6 +26,17 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "Louisiana's Health Systems Ramp Up AI for Clinical Care"
+    excerpt: "Doctors are testing whether ChatGPT and predictive software can help cut down on tedious tasks and improve decision-making. One example includes answering the tidal wave of emails that physicians receive daily."
+    publishedDateTime: 2023-07-21T19:45:00Z
+    webUrl: "https://www.governing.com/health/louisianas-health-systems-ramp-up-ai-for-clinical-care"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 19
+
 secured: "/8Q8Zgas2ig+jP7eNHBlkUBHdCcIMNHpNrIxMZ4x1v4EJF4IvPUB4R3bjdZbxqBTig5NVXs9/n7NBqxOY1ixfEu0K7aPsIzZtY29fv314f1E7yBTrvItWGtH7T5R/eMrrMoKtlMTaNyoax9DTQdKTgwTDGOvQn3xXgR8Ukokd9alTyi+iVw4rlNYCtcovYW1zMHyYSrdv8RqEEUKeVEJhyHLF4Iirc0bga9CbxQ+eCJunHcSkPlycxk5q25feWMFn83TW2EbiedgwufZLe75b0Fjg3ff64cYyUQ95cfMF3F6bTv79hH7Edi97dk045zbJE5n53jvbYF12CbDUab+T8BHm+XumIz69jVBDMCb7/Q=;afdHAkScOFzr7dpeoblSzQ=="
 ---
 

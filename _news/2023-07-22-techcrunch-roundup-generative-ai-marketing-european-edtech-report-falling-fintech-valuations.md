@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://disrupt-africa.com/wp-content/uploads/2019/11/46600198075_800187a13b_c.jpg"
         width: 797
         height: 461
-        isCached: true
-  - title: "Personal data to be shielded from AI; gaming GST may hit fintech ecosystem"
-    excerpt: "Generative artificial intelligence (AI) has stunned companies and commoners alike with its abilities. But with public attention comes regulatory scrutiny. Experts say that Indias new data protection bill may be tough for platforms like ChatGPT and Googles Bard."
-    publishedDateTime: 2023-07-17T01:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/articleshow/101806015.cms?from=mdr"
-    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/personal-data-to-be-shielded-from-ai-gaming-gst-may-hit-fintech-ecosystem/amp_articleshow/101806015.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://img.etimg.com/photo/msid-101813436/gaming.jpg"
-        width: 1396
-        height: 744
         isCached: true
   - title: "Construction Fintech Trunk Tools Announces Launch with $9.9M in Funding"
     excerpt: "Trunk Tools, a construction-focused fintech startup that addresses the skilled labor shortage, announced its launch out of stealth."

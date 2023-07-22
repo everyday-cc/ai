@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior
 webUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/"
 type: article
 quality: 66
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 49
+  - title: "The biggest AI release since ChatGPT"
+    excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
+    publishedDateTime: 2023-07-21T18:11:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23803234/the-biggest-ai-release-since-chatgpt"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
   - title: "FTC Investigation of ChatGPT Aims at AI’s Inherent Challenges"
     excerpt: "Morris, Manning & Martin’s Austin Mills breaks down the FTC investigation of OpenAI, which will likely focus on the basic challenges facing AI technology: bias, harmful or offensive content, and transparency."
     publishedDateTime: 2023-07-17T08:01:00Z

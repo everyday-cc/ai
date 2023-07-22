@@ -6,9 +6,9 @@ publishedDateTime: 2023-07-19T18:11:00Z
 originalUrl: "https://venturebeat.com/ai/ai21-labs-debuts-contextual-answers-a-plug-and-play-ai-engine-for-enterprise-data/"
 webUrl: "https://venturebeat.com/ai/ai21-labs-debuts-contextual-answers-a-plug-and-play-ai-engine-for-enterprise-data/"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +22,12 @@ topics:
   - AWS AI
   - AI
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/07/OIG-e1689779758651.jpeg?w=1200&strip=all"
+    width: 1024
+    height: 512
+    isCached: true
+
 related:
   - title: "AI21 Labs Enterprise-Ready AI Eliminates Gen AI Hallucinations"
     excerpt: "To implement generative AI successfully, enterprises must mitigate the risks associated with this emerging technology, such as ChatGPT-like hallucinations."
@@ -33,6 +39,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "0S0btRxdCrluZ2Ny05k1QD8GzSsb7sLoRgaqWHMH4qbmUds8tYONkEonvlX7sy8r1pefZ6uVDgJTZRWRsndhIf/doDHOz32L944ruUAKAA7bOucdXSv2AYrbtLQp3AFIYSMumAApTHL5rSAoYtV1tUTPun4MmeFM3yiCdkHszhsERH1fnfa5fK29HnL0BYaH0EDWSGLxwlrDZ/gC2jEbYNjcw9HVLCEk8DatoFTgI7neza5iEqTgTXLG7g4bY1IHlNMz+3qUEGiDaelzOJsK+QqCIR+tcfmSnK+wC1QDH9uRD/9kpc7qyUrjTfhcUsxgS5bqbM5yXpQxYwwgzSYRWhSEZbpf9xGoIgHngk2a9I8=;3eLPTXGl/LrZ8DvuBwp/aA=="
+secured: "2jRCgRUW0rfhF7KCLcRx98+XxLpaawt/X85UuUHlT6fBsM3ehkSvL29YiBFxgPOIJpQ01gFZKWV3RXASvSpUB/0GqMnIToIZ+ktm4c9dRXf8laE4N3HYfuSHVjPPEM3fqFbsPpkH9wJqChNYyu7+gE7p2O4CpeUTmpotZnFrIPSNpgNaw9QSeih5C5oQ0jl7lZQv1mlGkjWxdQBsacvifL6RNUQhsrdFuoFmysrBxB+s/Ygdc5F5cTInBlk+5+IiFP/aHCMO6xivsgH5OjhSpgbwztGikxWiNWTrOM8WraBm58cksP1/BbD8iovUehsSSayTX8A2kN44ouL9qcTgMeo7x/rJ+64FeDQ+2+XXAaA=;mO2CQQJf33EF/g6/jZjGHg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2023/07/17/nothing-artificial-about-the
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/07/17/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health-care/amp/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,47 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can improve the future of incident response"
-    excerpt: "At VentureBeat Transform 2023, Providence healthcare CISO Adam Zoeller emphasized the importance of proactive incident response with AI."
-    publishedDateTime: 2023-07-17T21:21:00Z
-    webUrl: "https://venturebeat.com/security/how-ai-can-improve-the-future-of-incident-response/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/TVBM3015-e1689628821703.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
-    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
-    publishedDateTime: 2023-07-21T13:00:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 43
-  - title: "Insights on bolstering healthcare incident response with AI detailed"
-    excerpt: "Artificial intelligence has been noted by Providence Health & Services Chief Information Security Officer Adam Zoller to be crucial in strengthening healthcare organizations' incident response efforts,"
-    publishedDateTime: 2023-07-18T17:48:00Z
-    webUrl: "https://www.scmagazine.com/brief/emerging-technology/insights-on-bolstering-healthcare-incident-response-with-ai-detailed"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 34
-  - title: "The Future of AI (Artificial intelligence)"
-    excerpt: "Artificial intelligence (AI) has become a prominent topic of discussion and a sought-after skill in today’s job market. While the media often portrays AI in extremes, either as a sci-fi fantasy or a job-stealing menace,"
-    publishedDateTime: 2023-07-20T11:26:00Z
-    webUrl: "https://techbullion.com/the-future-of-ai-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
   - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
     excerpt: "A majority of Americans would feel “uncomfortable” with their doctor relying on AI in their medical care, according to recent polling, but despite those misgivings it is likely you have"
     publishedDateTime: 2023-07-20T15:55:00Z

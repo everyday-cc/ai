@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/gilpress/2023/07/19/ai21-labs-enterpr
 webUrl: "https://www.forbes.com/sites/gilpress/2023/07/19/ai21-labs-enterprise-ready-ai--eliminates-gen-ai-hallucinations/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -30,7 +30,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 43
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/OIG-e1689779758651.jpeg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "roaYz0MCvDkK2bAtH9H3i4IJzBog+KJOPS5TC523qYNxZpNgpfVVxPjE68oqeavQV3Hv3x3MQoAoRx2w2UamZYxtxJZnWAAYro3N+8NgLt9RdEBS4IZlM6J/yG06mE8DK+aK60RGtSs5dst6m+2FsnpMxdUx7SmVrZbgykWj+Ryi/kOEpQ/R4ebQP7K2chsmIKaYlWeLv0iSQDK44s1NitJxRY2gExkVY3py/nacPhlCt9K4bhrfXLYXLJ4khhcSQUwxFd+Z075v167qmoW4i3udK5HwBh3N2CyR/ljQZ4zzQakDVAIksCEXhd7c5G1lwOJywnG+hV986ffuuTxyUKdLSbS50wkA3PTpMjkjuYQ=;uVOnR1Y9L/f8ncmxRWmN9Q=="
 ---

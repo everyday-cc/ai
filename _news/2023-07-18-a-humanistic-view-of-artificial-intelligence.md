@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.wired.com/photos/64b86565d96882f74caa4079/191:100/w_1280,c_limit/Don&#x27;t-Listen-To-Dumb-Robots-Fast-Forward-Business-1513119084.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "The Future of AI Is War"
-    excerpt: "The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. A world in which machines governed by artificial intelligence (AI) systematically replace human beings in most business, industrial, and ..."
-    publishedDateTime: 2023-07-17T14:53:00Z
-    webUrl: "https://www.thenation.com/article/world/artificial-intelligence-us-military/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 39
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2016/12/Mann_Leverett-foreignpolicyforum_img.jpg"
-        width: 1440
-        height: 907
         isCached: true
   - title: "Industry assesses impact of AI"
     excerpt: "The promise of artificial intelligence – and the potential risks – are not lost on those in the HME industry, based on the results of a recent HME Newspoll."

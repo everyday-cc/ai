@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The state of AI and social media shows capitalism is unlikely to end with a robot rebellion"
-    excerpt: "We tend to think about media disruption as driven by technological innovation. But the ‘enshittification’ of our socials shows that the tech itself plays a relatively minor role"
-    publishedDateTime: 2023-07-17T02:05:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/17/state-of-ai-social-media-twitter-reddit-threads-facebook-instagram-meta-musk-zuckerberg-capitalism"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/17/state-of-ai-social-media-twitter-reddit-threads-facebook-instagram-meta-musk-zuckerberg-capitalism"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/17/state-of-ai-social-media-twitter-reddit-threads-facebook-instagram-meta-musk-zuckerberg-capitalism"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 64
-    images:
-      - url: "https://i.guim.co.uk/img/media/41d135bf1da476a50395f233a6de7827604e5acd/0_383_5739_3445/master/5739.jpg?width=620&quality=85&auto=format&fit=max&s=eca89b1f25043a7e5f259f49295126cd"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "Gh8JrxhAKo9T7Y0nRD+4/dnLZfu16iItLMjYPQg/YNdZgPAMUnzc1cdZqh2JYnS1k8y57HPRxdhMJTBmbRFKJAkpIsLmlBU9vayfoOR/ztGLXz3mt0ylY8/R9J23kXR9Zkwxh3YpzdW1UnKLMTx6silYCMQBIbEspGHaF+dcg50caYoaoxIU5g3jObnbkYX09MvqAEdy8MygI8jfpoPhDirJmXAXW9uYFLJ97IrZ9ROIXqvtXl13cqPA7QClLXJI83bprCCuMXJ+uHaZtQIA4dCxM1BM5Q0XWnWOkCS3vdmmMH6GQPfg5fUN7OVLnGqgGdzQ5gEkXPrtqA9YWI9O20XXZFdA54Vn9jZ/pwyXknw=;EFUkVbbduV5m5JP10gqyww=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -183,6 +183,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Tesla is starting to offer one-time Full Self-Driving transfers to new vehicles"
+    excerpt: "Tesla is starting to offer customers a one-time transfer of their purchased Full Self-Driving (FSD) software to a new vehicle, Not A Tesla App reports. Tesla CEO Elon Musk revealed the company would be offering it as a “one-time amnesty” during an earnings call on Wednesday, though he did not provide full details at the time."
+    publishedDateTime: 2023-07-21T19:53:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23802957/tesla-fsd-transfer-offer-q2"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 45
   - title: "Elon Musk Drops Clues About Tesla's Potential Partnership With 'Major' Automaker To License Self-Driving Tech"
     excerpt: "Despite these concerns, Tesla maintains that its vehicles equipped with Autopilot and Full Self-Driving are safer than the average U.S. vehicle, citing a lower accident rate per million miles. However, a leaked data report revealed thousands of customer complaints regarding self-acceleration issues and braking problems."
     publishedDateTime: 2023-07-20T02:33:00Z

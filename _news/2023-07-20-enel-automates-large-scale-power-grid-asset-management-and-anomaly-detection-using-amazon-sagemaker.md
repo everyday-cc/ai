@@ -85,6 +85,20 @@ related:
         width: 931
         height: 411
         isCached: true
+  - title: "Analyze rodent infestation using Amazon SageMaker geospatial capabilities"
+    excerpt: "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,"
+    publishedDateTime: 2023-07-21T18:29:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/ML-13593-image001-1103x630.png"
+        width: 1103
+        height: 630
+        isCached: true
   - title: "Configure cross-account access of Amazon Redshift clusters in Amazon SageMaker Studio using VPC peering"
     excerpt: "With cloud computing, as compute power and data became more available, machine learning (ML) is now making an impact across every industry and is a core part of every business and industry. Amazon SageMaker Studio is the first fully integrated ML development environment (IDE) with a web-based visual"
     publishedDateTime: 2023-07-17T19:54:11Z

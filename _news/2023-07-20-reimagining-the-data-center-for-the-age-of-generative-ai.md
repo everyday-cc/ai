@@ -192,20 +192,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "China unveils provisional rules for generative AI, including a licensing regime"
-    excerpt: "As the use cases of generative AI see explosive adaption, China has taken a leading role in defining how the rapidly changing technology should"
-    publishedDateTime: 2023-07-17T03:56:00Z
-    webUrl: "https://www.businessghana.com/site/news/Technology/289952/China-unveils-provisional-rules-for-generative-AI,-including-a-licensing-regime"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 35
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2023-07-14-1723482.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How Automation and Artificial Intelligence Are Transforming E-Recycling"
     excerpt: "The e-recycling market is growing fast, with more small- and mid-sized companies, such as electronics repair shops and recyclers managing other commodities, moving into this niche. At the same time, veteran e-recyclers meet new demands as standards and policies evolve."
     publishedDateTime: 2023-07-17T12:51:00Z

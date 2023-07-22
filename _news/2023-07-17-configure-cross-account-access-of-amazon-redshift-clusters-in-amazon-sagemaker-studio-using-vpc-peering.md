@@ -79,6 +79,20 @@ related:
         width: 931
         height: 411
         isCached: true
+  - title: "Analyze rodent infestation using Amazon SageMaker geospatial capabilities"
+    excerpt: "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,"
+    publishedDateTime: 2023-07-21T18:29:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/ML-13593-image001-1103x630.png"
+        width: 1103
+        height: 630
+        isCached: true
   - title: "Enel automates large-scale power grid asset management and anomaly detection using Amazon SageMaker"
     excerpt: "This is a guest post by Mario Namtao Shianti Larcher, Head of Computer Vision at Enel. Enel, which started as Italy’s national entity for electricity, is today a multinational company present in 32 countries and the first private network operator in the world with 74 million users. It is also recognized"
     publishedDateTime: 2023-07-20T17:59:24Z

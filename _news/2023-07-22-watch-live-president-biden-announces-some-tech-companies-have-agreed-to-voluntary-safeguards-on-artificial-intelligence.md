@@ -61,7 +61,25 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 29
+  - title: "AI companies agree to voluntary safeguards, Biden announces"
+    excerpt: "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI have all agreed to \"voluntary commitments for responsible innovation.\""
+    publishedDateTime: 2023-07-21T18:47:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-companies-biden-user-safeguards/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
+  - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
+    excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
+    publishedDateTime: 2023-07-21T20:22:00Z
+    webUrl: "https://apnews.com/business/strikes-8fe71c6125793335a57ac15f603c99e6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
-secured: "4AkQQiXbrU8w6eRy02tzurmgQMbXr+cg3VVwvXNHVGbMqSUL9SINGJYxbU/8fxMBismhyvIu8IehkAO6NzyU44BMDZ3+CacEl3fi4Niz+zUUhZxbxlbiwDvrAnYsB4+0GEUbfFuAVJOwHlI2U2du5WMeVb++TKKmk4JOp+ELfSN7+CnHxxlcfZrvjoTpqJLLflCnkk2QLTR39TxkrKd2GOXRhcS4HyTB9d5UhSIdHHcEho0wrqHhNvBkVlTasXAfcdCXM/oipIFd47mcWnwWzZVlOby+d6W1twR+wUs9BdlRcaXhilX3X2TPpRil6sCSraWOja5v6QK//Ai/s6jDyrsiXyvfPYIGQsOLGgKXEMQ=;zI7UwZ9EYFP80XDBbXxBhg=="
+secured: "w3VXNXE91E4p6pVweoqEG1klfz9ovrakr52cgFc+0czC57j7Lo7ThkX8h25VVSd/xjcxPWZJcrcaPzmblOOs4F9icxNSmfAN/dz9LXUW52ClxOtRwfgE3b3za9lJLCM/dUgO05/6EGIamkxftfZi7kz4Rwm8rSW+Xk9YTOZKE9tYhXMOoaRwzVR62VyemO5XDPCC4e6Xx7wXlPs6qEBH32aRsbwd0jRmudJnJpc21Pa9PqRyW2Yc1rqrd2KjvVW1aO3jX4u+0PLV4gyqOnWDnJ4g/tnCvE/V46mv1NCUWPsCXYqNwxF1xmaDyahp8MmgYL6ak1ENzZjtTKr1ZXUMjY359f72sZHWcmg4JDqD9oxbujGRXAVf5kBuXckCi6mHoAUAqNblD6vHi0jmhYYcrwcVADeWqprRU+semKoaJQN1QVt4igIrP14ZE1IEwQroJjfdCmMvrg25rAI4xlmXj+QV+/F7uGi+GtGo161mjfjTDReLptBRIbjf8PEB/6f5mfbFpmLqhNB7dCTYEaQmxA==;fUhxpZtRCPfupVvtHBALkg=="
 ---
 

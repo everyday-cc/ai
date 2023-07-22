@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Q&A: HPE global talent exec credits AI, chatbots for bolstering hiring"
-    excerpt: "HPE has been using AI-based talent acquisition technology that has literally turned a lackluster career site and hiring process on its head and reached more than 950,000 candidates."
-    publishedDateTime: 2023-07-17T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.html"
-    ampWebUrl: "https://www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702655/qa-hpe-global-talent-exec-credits-ai-chatbots-for-bolstering-hiring.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_1982930069-100943419-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "LLaMA 2: How to access and use Meta’s versatile open-source chatbot right now"
     excerpt: "A comprehensive guide on how to use Meta's LLaMA 2, the new open-source AI model challenging OpenAI's ChatGPT and Google's Bard."
     publishedDateTime: 2023-07-19T21:12:00Z

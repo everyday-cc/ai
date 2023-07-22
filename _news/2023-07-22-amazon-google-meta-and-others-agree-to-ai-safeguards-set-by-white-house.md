@@ -47,6 +47,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 29
+  - title: "AI companies agree to voluntary safeguards, Biden announces"
+    excerpt: "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI have all agreed to \"voluntary commitments for responsible innovation.\""
+    publishedDateTime: 2023-07-21T18:47:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-companies-biden-user-safeguards/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
   - title: "Watch Live: President Biden Announces Some Tech Companies Have Agreed To Voluntary Safeguards On \"Artificial Intelligence\""
     excerpt: "Open AI, Amazon, Google, Facebook, and several other companies have agreed to voluntarily follow a new set of \"safeguards\" on the development of artificial intelligence, President Biden is expected to announce in a speech Friday afternoon."
     publishedDateTime: 2023-07-21T17:38:00Z
@@ -61,6 +70,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
+    excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
+    publishedDateTime: 2023-07-21T20:22:00Z
+    webUrl: "https://apnews.com/business/strikes-8fe71c6125793335a57ac15f603c99e6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
 secured: "sL+LvXlN+xU566tFZ2Cey3n/1HIRDSDRrwUbPLUOBKfMiErfTeqFsbqc7vhm+WkaYXssa+SwVzGGX0IfzmdgGIVthQgtnvPQ3JLpZacNnpfl/WqE9aDnKB0OejzQ2ZoA8qnDTZBiLJB03rGUIY4iaPgd+dSymsMfaDpT3M/ck+Azq09CmL10GN8eRLSGvmxtMDNpw69OgiX6SFyGd+bPZTb8a5DB4NH08OpwQP+AKSFlNLiBprnYsfECL17/4ZXpgAJ7WQzoKeNKNv5NlfVSQIeZU5eb2jQbtbTT5Bxc7IYgicPJCZ+af78SnxZCgzsjGm/SIE+1xPFrI2W+7hWXTbpi2uXq4Lkem6SiSqez9TY=;FcFX9lxQpZWYGm1fHGtujg=="
 ---

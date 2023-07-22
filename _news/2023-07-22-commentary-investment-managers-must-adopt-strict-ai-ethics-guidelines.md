@@ -7,7 +7,7 @@ originalUrl: "https://www.pionline.com/industry-voices/commentary-investment-man
 webUrl: "https://www.pionline.com/industry-voices/commentary-investment-managers-must-adopt-strict-ai-ethics-guidelines"
 type: article
 quality: 54
-heat: 74
+heat: 78
 published: true
 
 provider:

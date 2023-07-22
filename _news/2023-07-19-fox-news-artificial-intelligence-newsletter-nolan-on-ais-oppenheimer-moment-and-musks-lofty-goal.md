@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsle
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
+    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
+    publishedDateTime: 2023-07-21T19:37:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
 
 secured: "uXWXxQr1x+xKSLqsq7CsbFCFzix4QCC9SCV1GDzrKWObJCtrWPlYB8NvWfIE5Nt6WJDcyVy3Ew/lMNln7eHTbRaBmmQwRQyuwO4q3vrRmWNEmNp7VbQ7KwXA3GC4xYqHvadFDGqqjmCfY2jLNwLCA9VpQKh99zMIXmSd3huODHrN2bhqfZCJb9fT6gamYZHYlP/lC2HoOt4eK+VkxAsYFREImYVRCFlvYkhOqFBAJB/q6D9RkOxS1AMmqyMLgqTShFimFNS0YjpV32echxs7VLcB8JVabE3v7Z7/OeBzuzTc9TjDg8ndCQhHeGsWkZh1bqpZWmefXcNq1BBsW3G6QbqetZwqDZF/1mfiuhsUjhyCPodSfyY2CzOJj/eJdNLoJtDAnQ99VNlutaskpLni+RCstLhOx1BAHNjyV0QK5mv4e4h4O+0WlJQxIbCag4q+ZA3Av3hLBwHcrD/mgp7RxC0sRtYS6J7IojQpKNqDJB2kIdfshY73IhYBVaSgNaCwSQBAA7oJFFdSkDVSegxPIA==;DcFEiNS3vXkF4Ec8HuL0VA=="
 ---

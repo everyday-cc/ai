@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -86,20 +86,24 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Artificial Intelligence: Hollywood is offering actors a frightening script"
-    excerpt: "The threat to actors doesn’t just come from movie and TV studios trying to exert control and cut costs. It’s also from the coming torrent of AI tools that will mean just about anyone could recreate a"
-    publishedDateTime: 2023-07-17T04:45:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/artificial-intelligence-hollywood-is-offering-actors-a-frightening-script-10970061.html"
+  - title: "More or Less: Hollywood and AI. What IS Threads?"
+    excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
+    publishedDateTime: 2023-07-21T18:57:00Z
+    webUrl: "https://www.theinformation.com/articles/more-or-less-hollywood-and-ai-what-is-threads"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 35
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/05/Collage-Maker-04-May-2023-03-19-PM-9170-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
+      name: The Information
+      domain: theinformation.com
+    quality: 17
+  - title: "AI is the wild card in Hollywood’s strikes. Here’s an explanation of its unsettling role"
+    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers."
+    publishedDateTime: 2023-07-21T20:34:00Z
+    webUrl: "https://apnews.com/article/artificial-intelligence-hollywood-strikes-explained-writers-actors-e872bd63ab52c3ea9f7d6e825240a202"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
 
 secured: "9IMyXE00KQ4zIcp9dxlqw/QkfJtM+BYdXF0FfiM4khCfLQ97aRZCHWGsiPqulyVyIZy1nTnzTrGZmVuUDWqI84K/u6ifBuLhAQj7ApmsIEYcOG7Gx0G14gdtRZp8AME5qoxUZQDmXdFEunVXrbY4cWDsxRh2zO9vOOGvT5EA2PCmEBtwAf0oU73GL0g55T2zUcXAGLBOGqHsSnP0JpeI+Vlt9e1MtZ1DBNBrUyhqHYYDacmiele6s+qqvQPoZ9BFbg1HvHPNZOj542B/QEIhPkbr5EwaB2+LxUqgp7fvvlXB5Jn5oir9IrygJGSbKjz/DXP8IQh42lrPmbkGuKbgZkqOyI1G2jPcO5kAGpVgUjgC8t3ozvztRVamRpb8zWgjkMG9y1xSrnv6oRi0+KfOHpqeRg5PqREUbQC6OPETGt1fDATwyBQ0iT+QnrsZbQ1bPXgpVF34id5v7jWV9eZS4KwJ4ABJ8q/SzNXIBMJ7i+n3p3UGUTZ5B9ljaVYPGMzlCoKMNMSvNSOv9Pm/xxPzXQ==;8exfUrpw7LOF0v2CZePNjw=="
 ---

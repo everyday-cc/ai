@@ -92,6 +92,15 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "AI in Education: New Guidance from the Department of Education"
+    excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
+    publishedDateTime: 2023-07-21T20:31:00Z
+    webUrl: "https://edtechmagazine.com/k12/article/ai-in-education-new-guidance-from-department-of-education-perfcon"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 34
   - title: "Artificial Intelligence integration to empowers international expansion of Theravada Buddhism"
     excerpt: "President Ranil Wickremesinghe reaffirmed his dedication to securing and promoting Theravada Buddhism on an international scale. He announced the implementation of an Artificial Intelligence program to support these efforts,"
     publishedDateTime: 2023-07-20T21:51:00Z
