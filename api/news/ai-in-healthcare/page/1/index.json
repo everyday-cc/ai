@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-22-generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.md",
-      "title": "Generative AI, flexible batteries, metaverse among top emerging tech for 2023: WEF",
-      "excerpt": "New technologies have the power to disrupt industries, grow economies, improve lives and safeguard the planet – if designed, scaled and deployed responsibly,” said Jeremy Jurgens, Managing Director, World Economic Forum,",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-102030469,imgsize-90706,width-1200,height=765,overlay-ettelecom/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "publishedDateTime": "2023-07-21T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
       "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
       "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
@@ -95,49 +52,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-how-ai-is-being-used-to-detect-treat-cancer-and-the-potential-risks-for-patients.md",
-      "title": "How AI is being used to detect, treat cancer -- and the potential risks for patients",
-      "excerpt": "Several AI tools have been developed to help detect, diagnose and treat cancer. Experts these tools have a lot of promise, but there are also pitfalls to avoid.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
-      "originalUrl": "https://abcnews.go.com/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/ai-1-gty-er-230718_1689697399863_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628",
-      "publishedDateTime": "2023-07-21T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -244,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1394,6 +1308,104 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
+      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
+      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-812729?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-watch-as-robots-take-part-in-un-discussion-on-ai-in-healthcare.md",
+      "title": "Watch as Robots take part in UN discussion on AI in healthcare",
+      "excerpt": "Robots took part in a UN session examining how artificial intelligence can be beneficial for healthcare. At the \"Robots that assist and care: developing socially intelligent robots for good\" event ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
+      "originalUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/19/14/gettyimages-693354894.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
+      "publishedDateTime": "2023-07-06T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI",
         "AI in Healthcare"
       ]

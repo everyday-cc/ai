@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/british-political-candidate-used-ai-bu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp"
 type: article
 quality: 74
-heat: 84
+heat: 87
 published: true
 
 provider:

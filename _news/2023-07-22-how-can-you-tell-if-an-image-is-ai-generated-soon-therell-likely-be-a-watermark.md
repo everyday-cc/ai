@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/ai-tech-companies-biden-agree-waterm
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7?amp"
 type: article
 quality: 81
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,20 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
-    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
-    publishedDateTime: 2023-07-21T08:03:00Z
-    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
+  - title: "As AI porn generators get better, the stakes get higher"
+    excerpt: "But from what I can tell, there’s not been any movement on that front. Indeed, like the ethics around AI-generated porn, Unstable Diffusion’s situation seems unlikely to resolve anytime soon. The group seems doomed to a holding pattern, trying to ..."
+    publishedDateTime: 2023-07-21T14:48:00Z
+    webUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/"
+    ampWebUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
-        width: 800
-        height: 533
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ezgif-5-6ff96dc0cd-transformed.png?resize=1200,650"
+        width: 1200
+        height: 650
         isCached: true
+  - title: "The Stack: Musk Launches AI Start-Up as ARK Cuts Stake in Twitter"
+    excerpt: "Elon Musk enters AI race with xAI, ARK writes down its stake in Twitter... Another dicey week for some big names in the tech industry. In the latest episode of the Elon Musk experience, the billionaire announced the launch of xAI."
+    publishedDateTime: 2023-07-21T11:16:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches-ai-start-up-as-ark-cuts-stake-in-twitter/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches-ai-start-up-as-ark-cuts-stake-in-twitter/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches-ai-start-up-as-ark-cuts-stake-in-twitter/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 57
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2023/07/the-stack-logo-768x433-2.jpg"
+        width: 768
+        height: 433
+        isCached: true
+  - title: "Gene therapy: Hopes, hurdles and AI"
+    excerpt: "Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research, said AI could be a “game changer” in helping manufacture complex treatments."
+    publishedDateTime: 2023-07-21T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2023/07/21/gene-therapy-hopes-hurdles-and-ai-00107489"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 54
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "OpenAI And Other Top AI Companies Pledge Safer AI-Generated Content: Report"
+    excerpt: "OpenAI, Alphabet (parent company of Google), Meta Platforms (formerly Facebook), Anthropic, Inflection, Amazon.com, and Microsoft have pledged their support to the White House's efforts to regulate the rapidly expanding field of artificial intelligence, according to a statement by Biden administration."
+    publishedDateTime: 2023-07-21T12:37:00Z
+    webUrl: "https://www.businessworld.in/article/OpenAI-And-Other-Top-AI-Companies-Pledge-Safer-AI-Generated-Content-Report/21-07-2023-485032/"
+    type: article
+    provider:
+      name: Businessworld
+      domain: businessworld.in
+    quality: 17
 
 secured: "ZTWincDEPuNM/uvAdrnOVIOSm6kORQnzgodR3xLn42gqrrIiT/rHsOkAHP+KOvXgzUAUcra1uSVKvBTvHot1cmK1HvMPSt7SKl9xfxIgYCNLINzM4DnZ3xMgEyyCHhU7GOxF1yYN+sXqYJbS1q1hhq4PV+pk9t3QumLI4poSgDciE35wcP/lq24BPf7WYvr5I9wWOLSLlAO3mi5/CGAVLTkggHvSHKG2pUcjttMkTjM2PwagdMxFmLu9Ydq3qs0M3e0L1T5haCn6r9+U4Iqt5ntgRRRUXnRBDQSshFHhxK+dNfv3JbhN6Bt446BTRzwrnC61Xfwlbc4//Pq30CAgpitQqoIz00ZnxHeyv7fU7ZJzRdDb3DI2vznJdmRS3km0ucdLXKVOK6uCqC8I+A33kkyGOsSgAjQoTqUxnAhqRwEmzsz0K8KtHX+Fr2T3EVPbHVU1ynQifEsZBbKbPi5vdR6ldiEkAOxnZonXtxTePbUFZnH6i21CCxpY/2OvE0BQjnKLj5m/U5HnQpJPfCNRwg==;REOpGXSKkiUfD4t+2kxqSg=="
 ---

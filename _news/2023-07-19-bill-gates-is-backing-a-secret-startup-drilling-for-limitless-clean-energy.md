@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alanohnsman/2023/07/19/bill-gates-kol
 webUrl: "https://www.forbes.com/sites/alanohnsman/2023/07/19/bill-gates-koloma-geologic-hydrogen/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Media Startups Draw Less Backing, But AI Is A Bright Spot"
+    excerpt: "To the extent they are making bets in media, startup investors are often wagering that AI will play a growing role in producing content."
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://news.crunchbase.com/media-entertainment/media-startups-vc-funding-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2018/01/movie-background-vector-id465478487-2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "U5tQoRb6rO+XluuXU1aWJlM+K0rXo3CPrlFp+4RQcttSyVcxX/97kBjgxil982nWg76KjtbZp482Ju7HEWW+1oJnyYw5C5O4bjU4igqtsj3t1Xg78Go7mP6Adfnk1i95rC18w5417nUHEcDpTDf8RMTMq0PmNoTgZXukgWeJSfPXrmqUJg04rUgFvrTXSNBe1xHYF4DmwDZAWy289o8drJ+Z6sJI1FuNtDJ6gE4071qvoxaZTJqMdZw8XhysS1ZUX88uD7k9XHGU2WIJrwE79eDvucft8fVlNVvKIeO3zgIZjBnE3TC+d62wPs6uOd5T/ndjDh1avYROSlGVDeh8GVehcob9vZ5YXNDFmRLmTLM=;GCUgP3gzXfPHKUCREguXvA=="
 ---

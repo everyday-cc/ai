@@ -2,14 +2,14 @@
 category: news
 title: "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal"
 excerpt: "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ..."
-publishedDateTime: 2023-07-11T19:20:00Z
-originalUrl: "https://www.tennessean.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
-webUrl: "https://www.tennessean.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
+publishedDateTime: 2023-07-11T19:18:00Z
+originalUrl: "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
+webUrl: "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
 type: article
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: AZ Central
+  domain: azcentral.com
 
 topics:
   - AI in Robotics
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "06GfJSO98FiBzXUVdpvu4tu6XWIQwpFQwwyr0UOEeOk62obSH1nUR4aZMjOs+Uis3Kav7wcbS1Bf7LMdS57Vh4WL8ulJUGAUNP2GwlxP/6qbApQNzHyhoL43SBCMOC7rQqPKa7f+awS26/4jvoom4x/1wiztrwxOOo3ldIzDmEKUvZExVOFUchYAZeJOHnCjmQLp9e0jY3O7N3rZUgwT6d9gPKMmiQG1TzFE9n/L1jCXoEPrfDvzW63MCYKoyLHTivLaKq81nNpNQ6t8mwL7WONR3+akvdInPRGle1ZRVd7w0ET4QAouFH04wo6PmCcX7wcVZtkRi81RnCsOOtjg4GIfIPEDb8WVs409q8c+E3w=;Mv1SNzB2/a2Awa0vMhcPnw=="
+secured: "uB91czuQuvlMJAGmxWhLQ9X0Weo7XKvzftEiMtQsIVo7WgDSPwnOA+T308dMofpIl+zuR7tK/d6dAuavZX5YmCa1vML90p3RU2bsZe7U7tGpq3De2G6xwyfAA1MUwEsnhj8evr2aLS5syLW+vkye6AdG15ytRohHPX4Q4rHd6jnFilMJe+4wo6cOwQ+1uNO0yGaoLAKwnZA43HQzwKDC3IZ8FeVoD/ftnAVn21VmaZqkdJozUCnfTVB0ibKJpCIXCF+3KKrlKCsQ0YJbxKFCWWfytdUZKchRsJzIu3itIeuMXWrrliyXHZkYIv1OuzPUhH5Ms47LumJjvgRO60M2gWu22M2nGYIpML7i+VwDQq8=;YNCCyc13VGfD4o8uQZ3qeQ=="
 ---
 

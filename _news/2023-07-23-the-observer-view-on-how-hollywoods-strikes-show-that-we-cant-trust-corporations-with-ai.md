@@ -3,8 +3,8 @@ category: news
 title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
 excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
 publishedDateTime: 2023-07-23T04:01:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 type: article
@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Hollywood is on strike over AI, but companies see creative potential in digital humans"
-    excerpt: "As Hollywood protests the impact of generative AI on the film industry, AI video startups see the creative potential of digital humans."
-    publishedDateTime: 2023-07-18T13:13:00Z
-    webUrl: "https://venturebeat.com/ai/hollywood-is-on-strike-over-ai-but-companies-see-creative-potential-in-digital-humans/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Screen-Shot-2023-07-17-at-8.52.10-PM.png?w=1200&strip=all"
-        width: 1199
-        height: 603
-        isCached: true
   - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
     excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
     publishedDateTime: 2023-07-22T01:10:00Z
@@ -114,6 +100,6 @@ related:
       domain: theinformation.com
     quality: 17
 
-secured: "LRaRUOcLEpzgenqVFyp7xDc9qzvXFrgUWPtnGiu+goTdI2t5hiNfDWSc2aENqOhoLl04IWnKRCSRtKIO+isQJqWoww56+sXkqdS3iMdm5N05muCRulS9IWQKoLpwtbjz7aSOlxunHV+mAW9bz6Z7wDtivMNwifeOh4Lr4M0x7Xxr6EqP096oavxwR/x1bzpU7In5PwB9+UGTXyBkqggkrJkb6IDixaofdFHKyQPOMjnr3ts3tXSKWDi+4a7r4T4TrYikIwTnGywJjpyRm3rTaShtfHeTXb9d098qwBvR6tQXlNw/Q7CkOLn/sUHY5ZEBGoGEbsFMH92rhggGsWvn1huHMouZSZQIY6xnTOXc5OM=;nCmDIm9ps32ExtUsuT/cXg=="
+secured: "cwh9qoMCWoPtDi5bGJZTlCnafKPg/9iTBPdzNV1b1SO4ppzSz3TwcCYtIvvJ/tZOr8zZKUKK0RowTxGnIPFJ25LJfP3x0er+AXVGQzDzqrQeou4Vx57v+vh5tISEUCZuRfSok4ps0UAXqCoInszSxNcsdgsDUqZd+l39b02hWJpowfivoyrEEwEpy12/SopbKd7HDpxOXHGIWnp0FcGE0BBW0ceS10WcFGctBg7FDekeFhartz65iq1Xpg1rV6Cvp4RJUlhknvdLpgyvZGQlXB3MYlRw8dsmKu195abLySxkgeHD6mmSCo1W3tC9ZQ1MHcIbbR27n2pMVVclQH8dnc/vMQbD1xecDEU9DxusPOE=;VgCbm1MwpGV6pw5PeMbd8A=="
 ---
 

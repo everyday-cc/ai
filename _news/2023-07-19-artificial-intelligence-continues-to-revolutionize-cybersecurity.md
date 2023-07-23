@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Cyber security on alert as WormGPT exposes AI’s dark side"
-    excerpt: "A new generative AI cyber crime tool, WormGPT ... indicating our commitment to adhere to the Code of Ethics for Print and online media which prescribes that our reportage is truthful, accurate and fair. Should you wish to lodge a complaint about our ..."
-    publishedDateTime: 2023-07-18T13:55:00Z
-    webUrl: "https://www.itweb.co.za/content/WnpNgq21OxaMVrGd"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 36
   - title: "AI could revolutionize dentistry. Here's how."
     excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
     publishedDateTime: 2023-07-21T18:36:00Z

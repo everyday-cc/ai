@@ -107,58 +107,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-22-geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead.md",
-      "title": "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead",
-      "excerpt": "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/",
-      "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/05/satyabots.jpg.jpg",
-          "width": 3414,
-          "height": 2266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-22-is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped.md",
       "title": "Is Financial Inclusion A Friction Point As Synergies Between AI And Crypto Are Hyped?",
       "excerpt": "The intersection of Web3 and artificial intelligence has emerged as a hot topic. However, as Congress and the White House focus on risks, what about equity and inclusion?",
@@ -269,7 +217,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -312,7 +260,7 @@
       "originalUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -351,49 +299,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.md",
-      "title": "Generative AI, flexible batteries, metaverse among top emerging tech for 2023: WEF",
-      "excerpt": "New technologies have the power to disrupt industries, grow economies, improve lives and safeguard the planet – if designed, scaled and deployed responsibly,” said Jeremy Jurgens, Managing Director, World Economic Forum,",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-102030469,imgsize-90706,width-1200,height=765,overlay-ettelecom/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/generative-ai-flexible-batteries-metaverse-among-top-emerging-tech-for-2023-wef/102030469",
-      "publishedDateTime": "2023-07-21T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -501,7 +406,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-66271429",
       "featuredContent": null,
       "highlight": null,
-      "heat": 377,
+      "heat": 367,
       "tags": null,
       "images": [
         {
@@ -595,57 +500,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-22-how-can-you-tell-if-an-image-is-ai-generated-soon-therell-likely-be-a-watermark.md",
-      "title": "How can you tell if an image is AI-generated? Soon, there'll likely be a watermark.",
-      "excerpt": "Big Tech and AI companies just partnered with the White House to step up efforts to identify content that is generated by AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64bae8bc5adc5f001951b2d6?width=1200&format=jpeg",
-          "width": 768,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7?amp",
-      "publishedDateTime": "2023-07-21T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-22-biden-delivers-remarks-on-artificial-intelligence.md",
       "title": "Biden Delivers Remarks on Artificial Intelligence",
       "excerpt": "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology.",
@@ -654,7 +508,7 @@
       "originalUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1145,6 +999,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-21-as-ai-porn-generators-get-better-the-stakes-get-higher.md",
+      "title": "As AI porn generators get better, the stakes get higher",
+      "excerpt": "But from what I can tell, there’s not been any movement on that front. Indeed, like the ethics around AI-generated porn, Unstable Diffusion’s situation seems unlikely to resolve anytime soon. The group seems doomed to a holding pattern, trying to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/",
+      "originalUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/ezgif-5-6ff96dc0cd-transformed.png?resize=1200,650",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/",
+      "publishedDateTime": "2023-07-21T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
       "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
       "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
@@ -1248,6 +1154,110 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-roboticsan-extension-of-the-ongoing-digital-transformation.md",
+      "title": "Robotics—An Extension Of The Ongoing Digital Transformation",
+      "excerpt": "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
+      "publishedDateTime": "2023-07-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-how-advancements-in-genai-can-make-self-driving-operations-a-reality.md",
+      "title": "How Advancements In GenAI Can Make Self-Driving Operations A Reality",
+      "excerpt": "This piece will outline how AIOps can better ensure websites, applications, databases and infrastructure—including the underlying networks—function better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9625753df287d02bd34f2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
+      "publishedDateTime": "2023-07-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

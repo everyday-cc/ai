@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Gregory Allen on Congressional Oversight of Artificial Intelligence"
-    excerpt: "Gregory Allen talked about congressional oversight of artificial intelligence and potential regulation of the industry. Javascript must be enabled in order to access C-SPAN videos. *This text was compiled from uncorrected Closed Captioning. Neil Chilson ..."
-    publishedDateTime: 2023-07-18T13:48:00Z
-    webUrl: "https://www.c-span.org/video/?529235-5/gregory-allen-congressional-oversight-artificial-intelligence&live="
-    type: article
-    provider:
-      name: c-span
-      domain: c-span.org
-    quality: 17
-
 secured: "Q54qvQe2u6WyVREhyYKV683GsFbZVLBi+Zx5n0EehaufNDVhp5s6aBKe1b6gCmFYcAEuWH8Qf9RKucR4OVAiiGMTbuEoijV95siiUr6aPOwz/d/8D51ufjd7YZtjopg+JPMuA4dcipwu43ffaZ+wx1HG4kfh3tpChQ7f9bWpTxV66UY/uAEIPAq7renemo7Iie6y54bh3JEqCd2rzKFh5dlb/yQkvb+pt8U2mDWTuAT+Diql1/soKoODmhT6xwd+aHM+0dT8nqhY2MGAeWQZbbJ2gypsgSteqdIgnuTL+94nI+sFhNIIOfm3AfTNtWjILIY4OaKANsRmPfsUFf8Mxy1vjxdhQIPiUOM+7/y/MNQUHOSW7z04EoEmdA1pBM5ArzwbNex+6mbufw96kFNOWGVDUWKB4folYyggguq2j5zlaD8RQJjhaPTqwAeazpUTRrN7+dBUMlZ+c8d05uroeZ2CwvisvkwNr3imJ/YDbSa2Lje5Rl5WpxnCu7vZRG0EDepFSbyXOCGQEp9i5c9wEQ==;tqGmaaL35mxXD5oi9RSe+Q=="
 ---
 

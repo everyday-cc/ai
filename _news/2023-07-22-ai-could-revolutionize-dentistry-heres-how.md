@@ -78,15 +78,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Cyber security on alert as WormGPT exposes AI’s dark side"
-    excerpt: "A new generative AI cyber crime tool, WormGPT ... indicating our commitment to adhere to the Code of Ethics for Print and online media which prescribes that our reportage is truthful, accurate and fair. Should you wish to lodge a complaint about our ..."
-    publishedDateTime: 2023-07-18T13:55:00Z
-    webUrl: "https://www.itweb.co.za/content/WnpNgq21OxaMVrGd"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 36
 
 secured: "3THYKe6mV8SuqXNQVwmni4k0A1l7oGXm06jhnXncgVDED+rHhUi5hAj1bKuhlRWQu3ZPrSa17QsAbr8ge4zkh6NXf/1Rbb+AAo1HnwnSCYf43q7JjcgVYv4jtcBEZVnWcb+e3c2vDqQX48n4rMDDh95Uoq/ihLmZmyGECJWPnCYpL4lu3jGNm/YX0OIVFXzs4tYmm9Y/NQDIiI5z2zVySQgMDkNUfMssBqMThyAa7CRxWgn2sJrYXdQMBehE7gNVZFw57dnj5AcLd1TggqyKPOZGQO1PcJJtP9q7Zwd6qrSwJlKyFWMsxl2rreXbXw1eaeoS0B5FvawI1ceGPsfJyJIZAqi1GZPag9yjCOpiYJtyzYzrkdQDRMI0MgQvcC0z10E9mFTH+TzEp5Pyom/NmGrYfeUmEOjxFP5xv2NVtIncNiCR4dbg1CFDeNWz3yh85WC4ZW2H4ODaiU1Jrpmo9jXsA22JcYO1Pmo0LD2gOgbp1WMW8xsEfh1jKM8PxDz4zvSEz4xo0ug5/GpMl5BISQ==;KK15aGNz6Ccq7IZdpUS2JA=="
 ---

@@ -330,15 +330,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "OpenAI And Other Top AI Companies Pledge Safer AI-Generated Content: Report"
-    excerpt: "OpenAI, Alphabet (parent company of Google), Meta Platforms (formerly Facebook), Anthropic, Inflection, Amazon.com, and Microsoft have pledged their support to the White House's efforts to regulate the rapidly expanding field of artificial intelligence, according to a statement by Biden administration."
-    publishedDateTime: 2023-07-21T12:37:00Z
-    webUrl: "https://www.businessworld.in/article/OpenAI-And-Other-Top-AI-Companies-Pledge-Safer-AI-Generated-Content-Report/21-07-2023-485032/"
-    type: article
-    provider:
-      name: Businessworld
-      domain: businessworld.in
-    quality: 17
   - title: "AI companies agree to voluntary safeguards, Biden announces"
     excerpt: "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI have all agreed to \"voluntary commitments for responsible innovation.\""
     publishedDateTime: 2023-07-21T18:47:00Z

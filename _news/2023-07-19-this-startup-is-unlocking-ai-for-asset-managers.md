@@ -7,7 +7,7 @@ originalUrl: "https://www.institutionalinvestor.com/article/2bxxg16ng9uds7jcye1a
 webUrl: "https://www.institutionalinvestor.com/article/2bxxg16ng9uds7jcye1a8/corner-office/this-startup-is-unlocking-ai-for-asset-managers"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 1440
     height: 810
     isCached: true
-
-related:
-  - title: "Meet A Founder Putting Humans At The Center Of His AI Startup"
-    excerpt: "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content."
-    publishedDateTime: 2023-07-18T14:39:00Z
-    webUrl: "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/"
-    ampWebUrl: "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200"
-        width: 838
-        height: 471
-        isCached: true
-  - title: "As AI porn generators get better, the stakes get higher"
-    excerpt: "But from what I can tell, there’s not been any movement on that front. Indeed, like the ethics around AI-generated porn, Unstable Diffusion’s situation seems unlikely to resolve anytime soon. The group seems doomed to a holding pattern, trying to ..."
-    publishedDateTime: 2023-07-21T14:48:00Z
-    webUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/"
-    ampWebUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ezgif-5-6ff96dc0cd-transformed.png?resize=1200,650"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "Media Startups Draw Less Backing, But AI Is A Bright Spot"
-    excerpt: "To the extent they are making bets in media, startup investors are often wagering that AI will play a growing role in producing content."
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://news.crunchbase.com/media-entertainment/media-startups-vc-funding-ai/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2018/01/movie-background-vector-id465478487-2.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "Est+V7nMZMOB2lMn+cxIcB9/q3+K5DKREF1B2GvbZXDzEP4rdL9BTva7+Z62HvQe4IoU7xQvFeb11behQ4ZUYI+s14WKabSfmAe8BBYEuN9T2hKKmhexZMIDl+EpYprtn+K5h/aS6N0V0KJNMbOg3uHMfdNiDUix2SUbjf7fYDOHGm/Ph6LQweI8HjsTZXlYThTZgYX31RWItbnfBsxm7CuJwh+axu4L9/sCHxxEouzceNKgcv+PXZaE/vJkH/rqSNkQgQ5nHt+ytjfKsKfnajOX0bcZC51b9LJtN1x4KLp1NSDmDzGc9qNN9Q9xQwFExJCI5SICqgmPVdCqLVP/MHrHkJGIhBwFxDAvK2J4Q5UTUzdQgSp5qeY9eI7CayvuPnDCc1qTWyGqkG4/xSqrQmx9QAK1eLqadbfAX0Lra8DPRzkkTLqvTValSkm/aT8W6CbcwRCcaRTRAk4dMa7PgQyBGh+KWdCe0ZC1qrPNQrvXiTCiGKyX62fc+sev+oMEWz7t9ksnIt8Yu333UJ/nvg==;yspUKpDhhbco0QRbxdPIpg=="
 ---

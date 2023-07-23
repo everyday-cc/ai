@@ -22,48 +22,45 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Cohere is teaming up with McKinsey to bring AI to enterprise clients"
-    excerpt: "Some businesses have already begun reaping the benefits of the collaboration, using AI for product development and speeding time-to-market."
-    publishedDateTime: 2023-07-18T16:07:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
+  - title: "Corporate earnings season heating up, TSMC outlook adding concerns to AI and chip names"
+    excerpt: "- Industrials: Saab [SAABB.SE] +3.5% (Q2 results), Electrolux [ELUXB.SE] -15.0% (earnings; starts preparations for a potential divestment of Zanussi and other non-core brands during the coming years which could be valued at SEK10B in total), Volvo Cars [VOLCARB.SE] -1.0% (Q2 results), Alfa Laval [ALFA.SE] +6.0% (Q2 results)."
+    publishedDateTime: 2023-07-20T09:44:00Z
+    webUrl: "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944"
+    ampWebUrl: "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/blog_cohere_inset_leaders_1000x718.webp?w=1200&strip=all"
-        width: 1000
-        height: 718
+      - url: "https://editorial.fxstreet.com/images/Markets/Equities/DowJones/DowJones_frontbuilding_Small.jpg"
+        width: 320
+        height: 213
         isCached: true
-  - title: "Wallaroo.AI and Ampere Computing Collaborate to Bring Energy-Efficient, Low-Cost ML Inferencing to the Cloud"
-    excerpt: "Wallaroo.AI, a leader in scaling production machine learning (ML) from the cloud to the edge, today announced a strategic"
-    publishedDateTime: 2023-07-18T15:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/wallaroo-ai-and-ampere-computing-collaborate-to-bring-energy-efficient-low-cost-ml-inferencing-to-the-cloud/"
+  - title: "AI server chip demand to surge over next 5 years, says TSMC"
+    excerpt: "Demand for AI server processors, including CPUs, GPUs, and AI accelerators, has already contributed approximately 6% to TSMC's total revenue, according to company CEO CC Wei at a July 20 earnings conference call."
+    publishedDateTime: 2023-07-21T01:33:00Z
+    webUrl: "https://www.digitimes.com/news/a20230720PD216/ai-server-tsmc.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
+      - url: "https://img.digitimes.com/newsshow/20230720pd216_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "McKinsey partners with startup Cohere to help clients adopt generative AI"
-    excerpt: "Consultancy giant McKinsey said it had struck a partnership with artificial intelligence startup Cohere in an effort to provide AI solutions to its enterprise clients. This is the first partnership with a large language model provider that McKinsey has announced as it joins other global consulting firms to tap into the global AI frenzy kicked off by the popular Microsoft-backed OpenAI's ChatGPT."
-    publishedDateTime: 2023-07-18T15:01:00Z
-    webUrl: "https://www.aol.com/mckinsey-partners-startup-cohere-help-120140421.html"
+  - title: "TSMC warns of deepening chip slump as AI boom fails to offset economic woes"
+    excerpt: "The world’s biggest contract chipmaker, Taiwan Semiconductor Manufacturing Company, has warned of a deepening semiconductor slump, as the boom in artificial intelligence fails to offset global economic woes and China’s delayed recovery."
+    publishedDateTime: 2023-07-20T10:22:00Z
+    webUrl: "https://www.ft.com/content/f433971d-fd8e-4ed3-91e9-e25a96284ea0"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/59b9ca713905e11914629ed7d3b9e79f"
-        width: 800
-        height: 522
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 32
 
 secured: "fGbgnRD38hZtyOHa2lEvUzn1FAef/L2A/rtlHv5edt6mIl6DbWhtY/AbfGbs57Y4IRFhb5HEpOvw2BHhxD5O3W4jDY07C+yuxNF5CxioIwBUh9qjEJuah5qwtCH8BG3kueWy9VvGZrQh3c4PZIoAYhxqOnRL3gPJuZSzIb0HKg+HEQMKzcyunKs8rbUet3haKAGZvZAIzs0KuJ/eWSNgcbw0k/LCEcqQEpFwyN5cGnFjLsJMX+wUwUocEEbSdsOrK8Me1rm2g/njcbbr5uFKNEg8MjhVenLD08/BJycfmdVbgMdzsi4q8h9sQlhVXiFoiedWRDcFdd0zMXHBvGEMwglP/BQbKHfqiI+BT41BYOI=;FlV6MTDJavJPAAG2/lnZfA=="
 ---

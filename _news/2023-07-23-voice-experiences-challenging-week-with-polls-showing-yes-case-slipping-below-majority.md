@@ -101,6 +101,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
+    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
+    publishedDateTime: 2023-07-23T06:58:00Z
+    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 32
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
+        width: 1280
+        height: 661
+        isCached: true
   - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
     excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
     publishedDateTime: 2023-07-19T09:20:00Z

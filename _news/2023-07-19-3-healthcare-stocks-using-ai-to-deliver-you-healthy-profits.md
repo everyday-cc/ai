@@ -39,6 +39,22 @@ related:
         width: 940
         height: 600
         isCached: true
+  - title: "How AI is helping to translate the Bible into rare languages"
+    excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
+    publishedDateTime: 2023-07-18T15:09:00Z
+    webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+    ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+    cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+    type: article
+    provider:
+      name: Angelus
+      domain: angelusnews.com
+    quality: 74
+    images:
+      - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
+        width: 670
+        height: 376
+        isCached: true
   - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
     excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
     publishedDateTime: 2023-07-21T14:48:00Z

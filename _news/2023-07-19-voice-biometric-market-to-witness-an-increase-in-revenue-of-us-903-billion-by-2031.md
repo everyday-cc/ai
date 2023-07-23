@@ -42,15 +42,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Collaborative Robot Market worth $6.8 billion by 2029 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "By type, the collaborative robots with up to 5 kg payloads are projected to hold the largest share of the collaborative robot market during the forecast period. The cobots with up"
-    publishedDateTime: 2023-07-18T14:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9850134.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "ox8EGqRMG72FtaAKvZj9rxYIQfXia0pFI7EWKCp7YxOBAfD6mXGj89tnLUQ7H8CCelbbrr1lO/w3iYX4NhFuS/k5VeH9S2ba8MtTzGW7DtcRhuelHnlpKLPh0bjdTf45c8S8AaRkwB/EBzqA0MhMEJJxIxiDNksipbULEBa3XNReHrfisMEhZbGpIiFFsH4cWjYuA2NQQjD67o7+S9J2zTr0N/3CVWy+tRPeroU6wuBEzw/eR1ZnUA5WeNSSopoRUdjq9O0bB2F0YiuUnCK6IKc/ZPPgeRkQ58BYBGzGN84aSFoduX4edTtlTLX6bn3R8Gu9CIHgTtvVnjwFlirliAaTxh+xrLPfA7FnUveLQ4g=;azaG7HUT6U9Cp45xywKo5w=="
 ---

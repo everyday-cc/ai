@@ -33,15 +33,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Collaborative Robot Market worth $6.8 billion by 2029 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "By type, the collaborative robots with up to 5 kg payloads are projected to hold the largest share of the collaborative robot market during the forecast period. The cobots with up"
-    publishedDateTime: 2023-07-18T14:25:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9850134.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
   - title: "Voice Biometric Market To Witness An Increase In Revenue Of Us$ 9.03 Billion By 2031"
     excerpt: "Global voice biometric market revenue was US$ 1.68 billion in 2022 and is estimated to reach a valuation of US$ 9.03 billion by 2031, growing at a CAGR of 23.4% during the forecast period from 2023 to 2031."
     publishedDateTime: 2023-07-18T18:36:00Z

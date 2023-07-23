@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cyber security on alert as WormGPT exposes AI’s dark side"
-    excerpt: "A new generative AI cyber crime tool, WormGPT ... indicating our commitment to adhere to the Code of Ethics for Print and online media which prescribes that our reportage is truthful, accurate and fair. Should you wish to lodge a complaint about our ..."
-    publishedDateTime: 2023-07-18T13:55:00Z
-    webUrl: "https://www.itweb.co.za/content/WnpNgq21OxaMVrGd"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 36
   - title: "AI could revolutionize dentistry. Here's how."
     excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
     publishedDateTime: 2023-07-21T18:36:00Z

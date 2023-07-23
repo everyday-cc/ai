@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/19/ai-and
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/19/ai-and-the-agency-creatives-still-own-the-brand/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,22 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Gene therapy: Hopes, hurdles and AI"
-    excerpt: "Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research, said AI could be a “game changer” in helping manufacture complex treatments."
-    publishedDateTime: 2023-07-21T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-pulse/2023/07/21/gene-therapy-hopes-hurdles-and-ai-00107489"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 54
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
 
 secured: "n6jzmFVJ6akUhxWlK6t2Y07C0jgpk/ovbqqd76yztWgzSdu7pou7mstqgA82KSbQy37kgOY49PgRAAGQvBCo+XQNXnaZSbPfHLW8zFPEjU3GXoLpI3leVOVzQBMda/DhFTcId+VN1lTSPo0b+/AACYJcx0QcrYZkkL9SytCu+0RTpxgknMldex34lcVlBPyUYksiW3CHK5RzAjBVmmzwdeo1x7vhVwQPs6+cttQ9uW8GZjQUcL0mpiBWPoCfrDfHotLiolc89CxHBYZ67Laol0gJpJV4zSk3yiguTI7LS4sfrGbb2aWjG0yyDvDAHsh5fDUO7XCtAqwmX0g2Vj8nS4eRS19WpKWhqVe1popSLXyCh1h9PU0PcBwb9idzDuPw5MpADR511hetd6B+QOoCSxAopgRoSA1x50Rsm5tr8LeFJbqynRU+awMgotQVbv1tkfcPtpNU1o7LWEvmetsDQ8DzJwbaUmMX3B9Q8O7LgqsTDuBiZ5AieKiQhMRV9ULQwN4a5ok1YZN8aNTfJC5m3A==;5idWzVNj6aLJZDIWyHd3QQ=="
 ---

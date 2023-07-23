@@ -86,6 +86,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
+    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
+    publishedDateTime: 2023-07-23T06:58:00Z
+    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 32
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
+        width: 1280
+        height: 661
+        isCached: true
   - title: "Voice experiences ‘challenging week’ with polls showing Yes case slipping below majority"
     excerpt: "The Voice to Parliament has experienced another “challenging week” with polls now showing the Yes case slipping below majority, according to Sky News Political Editor Andrew Clennell. “The PM Anthony Albanese is regularly being asked now: Why not separate the questions?"
     publishedDateTime: 2023-07-22T23:29:00Z

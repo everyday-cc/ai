@@ -41,6 +41,17 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "States Consider Regulating Artificial Intelligence in Hiring"
+    excerpt: "About a quarter of businesses across the nation have adopted AI and many are beginning to use the tech in their hiring process. Only three states currently require employers to ask for consent first if using AI in hiring."
+    publishedDateTime: 2023-07-18T21:01:00Z
+    webUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring"
+    ampWebUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
   - title: "TSMC warns of deepening chip slump as AI boom fails to offset economic woes"
     excerpt: "The world’s biggest contract chipmaker, Taiwan Semiconductor Manufacturing Company, has warned of a deepening semiconductor slump, as the boom in artificial intelligence fails to offset global economic woes and China’s delayed recovery."
     publishedDateTime: 2023-07-20T10:22:00Z

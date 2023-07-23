@@ -40,6 +40,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
+    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
+    publishedDateTime: 2023-07-21T08:03:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Leading AI firms volunteer security commitments to Biden administration"
     excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
     publishedDateTime: 2023-07-21T18:47:00Z

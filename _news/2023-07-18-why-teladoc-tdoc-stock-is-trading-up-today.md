@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/SPY0
 webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/SPY00/pressreleases/18587234/why-teladoc-tdoc-stock-is-trading-up-today/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its"
-    publishedDateTime: 2023-07-18T13:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
 
 secured: "43ZDn1uI3dx8QdsQvBmv/AsxHZLopMW8k5blt0SPZBdet/mCJzWVNOvFNVu6qACWHz1ZJeYqMfzwP9ILop0Coq8WIbpeyOcKcQAWsuVa6N+BkHmTHOx34BN+lTwg0R5ugPIAU8EjCfIRe37wekuPnmZ5DQLkUcDcR6HUraeefUtE6+0SAc2nGXaztz8GPtFkmgs+/6NSkjcDTrq5qAlnmP75+Jr+59UzlCffj1b7uc7Ek22zr6RJ7jAHBPM54qDFedYrWA7thtQGOSCuwfYFduBUK9YsuWQkZvuJrhcj/J7HebQkGqN1FtHroIcoMYykU6WAVAxiCNM7P8vPfyuMTL/3RkM18SjH4LGAHBR//aY=;YRe+CFITdyskK+SLN8w0OQ=="
 ---

@@ -2,104 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
-      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
-      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-812729?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-watch-as-robots-take-part-in-un-discussion-on-ai-in-healthcare.md",
-      "title": "Watch as Robots take part in UN discussion on AI in healthcare",
-      "excerpt": "Robots took part in a UN session examining how artificial intelligence can be beneficial for healthcare. At the \"Robots that assist and care: developing socially intelligent robots for good\" event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "originalUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/06/19/14/gettyimages-693354894.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/robots-artificial-intelligence-healthcare-un-b2370543.html",
-      "publishedDateTime": "2023-07-06T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-06-daniel-eks-neko-health-raises-65m-for-ai-driven-preventative-healthcare-solutions.md",
       "title": "Daniel Ek’s Neko Health raises $65M for AI-driven preventative healthcare solutions",
       "excerpt": "Neko Health has introduced an innovative AI-driven scanning technology that enables extensive and non-invasive healthcare data collection.",
@@ -1362,6 +1264,102 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-how-ai-driven-behaviour-change-can-influence-healthcare-system.md",
+      "title": "How AI-driven behaviour change can influence healthcare system",
+      "excerpt": "There is now 'a holistic combination of AI and human expertise that can work in a complementary framework to deliver personalized interventions' in.health. healthcare. fiitnes. wellness. nutrition. diet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
+      "originalUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/6/26/behavior-society-c.jpg",
+          "width": 1248,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-25T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "onmanorama",
+        "domain": "onmanorama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-25-everything-you-need-to-know-about-ai-but-were-too-afraid-to-ask.md",
+      "title": "Everything you need to know about AI but were too afraid to ask",
+      "excerpt": "In the public consciousness, “artificial intelligence” may conjure up images of murderous machines eager to overtake humans, and capable of doing so. But in the tech industry, it’s a broad ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "originalUrl": "https://www.cnn.com/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230621160359-ai-explainer-stock-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/06/24/tech/artificial-intelligence-generative-ai-explained/index.html",
+      "publishedDateTime": "2023-06-24T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI",
         "AI in Healthcare"
       ]

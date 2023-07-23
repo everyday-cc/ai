@@ -2,163 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-07-20-the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group.md",
-      "title": "The Top AI Use Cases in the Healthcare Industry Highlighted in New Research From Info-Tech Research Group",
-      "excerpt": "Info-Tech's latest research highlights how technology leaders in the healthcare industry can strategically and responsibly implement artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2157776/Info_Tech_Research_Group_The_Top_AI_Use_Cases_in_the_Healthcare.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-microsoft-teams-is-adding-maybellines-ai-powered-makeup-filters.md",
-      "title": "Microsoft Teams is adding Maybelline’s AI-powered ‘makeup’ filters",
-      "excerpt": "The new feature is rolling out to global Microsoft Teams Enterprise customers starting today and can be located under the “Video Effects” tab within the Teams meeting settings. We’ve asked Microsoft if the filters will also be available to users on the free Microsoft Teams tier and will update this story if we hear back.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/7/19/23800648/microsoft-teams-maybelline-ai-beauty-filter-virtual-makeup",
-      "originalUrl": "https://www.theverge.com/2023/7/19/23800648/microsoft-teams-maybelline-ai-beauty-filter-virtual-makeup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/VchrOdbiz5Cn1lm5r32XqVRfwAA=/0x0:1450x960/1200x628/filters:focal(724x492:725x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/24797533/Maybelline_beauty_app_Microsoft_teams.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-19T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-why-many-in-china-unlike-in-the-us-see-ai-as-a-force-for-good.md",
-      "title": "Why many in China – unlike in the US – see AI as a force for good",
-      "excerpt": "For instance, artificial intelligence in China has been strategically integrated ... The internet giant Baidu now operates fully driverless taxi services in government-approved areas of Wuhan, Chongqing and Beijing. Baidu is testing the service in 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/07/20/3c054da4-c2c6-4ef2-a80f-ae1d02c43a45_488b870d.jpg?itok=k8LRczI9&v=1689787730",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "publishedDateTime": "2023-07-19T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-20-the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks.md",
       "title": "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks",
       "excerpt": "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance.",
@@ -167,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -406,58 +249,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive.md",
-      "title": "How To Get Your Team Comfortable With AI: Insights From A Microsoft Executive",
-      "excerpt": "AI offers freedom from the excessive inflow of data, emails, meetings, and notifications. But you've got to employ a few strategies to get your team using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/",
-      "originalUrl": "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b807d0cd14666c57bd34f2/0x0.jpg?format=jpg&crop=2246,1496,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/",
-      "publishedDateTime": "2023-07-19T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1118,7 +909,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1255,6 +1046,187 @@
         "AI",
         "Natural Language Processing",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-5-common-myths-about-artificial-intelligence-ai.md",
+      "title": "5 common myths about artificial intelligence (AI)",
+      "excerpt": "Understanding Artificial Intelligence (AI) is akin to exploring a dense forest: it's mysterious, full of surprises, and teeming with misconceptions. It's",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/ai-artificial-intelligence-myths/",
+      "originalUrl": "https://www.geeky-gadgets.com/ai-artificial-intelligence-myths/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/common-myths-about-artificial-intelligence.jpg",
+          "width": 700,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics.md",
+      "title": "Neura Robotics picks up $55M to ramp up in cognitive robotics",
+      "excerpt": "Neura Robotics, a German startup that since 2019 has been building cognitive robots ... That includes not just fashioning all the sensors and other components, but building the AI that powers it. This also means that Neura can collaborate better ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
+      "originalUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/000_David_Reger_MAiRA_4NE-1.jpg?resize=1200,788",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics/amp/",
+      "publishedDateTime": "2023-07-19T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-meta-launches-ai-research-community-to-address-pressing-challenges-in-ai.md",
+      "title": "Meta launches AI research community to address pressing challenges in AI",
+      "excerpt": "New Delhi, July 19 (IANS) Meta (formerly Facebook) has launched a new organisation, the Open Innovation AI Research Community for academic researchers, designed to foster transparency, innovation, and collaboration in the field of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
+      "originalUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/07/9821ae2f64fe1e0dfea0fe0c41b9015b.jpg",
+          "width": 304,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1",
+      "publishedDateTime": "2023-07-19T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-everyday-ethics-worry-about-natural-intelligence-not-ai.md",
+      "title": "Everyday ethics: Worry about natural intelligence, not AI",
+      "excerpt": "Don’t worry about the future of A.I. (Artificial Intelligence), fret over the lack of intelligence now on earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/",
+      "originalUrl": "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/migration/2021/07/4fad38256b63469c4cff987f4a671305.jpg?w=1024&h=670",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/07/19/everyday-ethics-worry-about-natural-intelligence-not-ai/amp/",
+      "publishedDateTime": "2023-07-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

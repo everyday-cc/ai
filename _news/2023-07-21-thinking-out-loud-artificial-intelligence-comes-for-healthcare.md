@@ -41,6 +41,22 @@ related:
         width: 940
         height: 600
         isCached: true
+  - title: "How AI is helping to translate the Bible into rare languages"
+    excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
+    publishedDateTime: 2023-07-18T15:09:00Z
+    webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+    ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+    cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+    type: article
+    provider:
+      name: Angelus
+      domain: angelusnews.com
+    quality: 74
+    images:
+      - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
+        width: 670
+        height: 376
+        isCached: true
   - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
     publishedDateTime: 2023-07-18T21:36:00Z

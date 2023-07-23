@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla is rumored to partner with Samsung for 4-nm chip in self-driving HW 5.0"
-    excerpt: "Tesla is rumored to have partnered with Samsung to produce a new self-driving chip based on a 4-nanometer node"
-    publishedDateTime: 2023-07-18T13:54:00Z
-    webUrl: "https://electrek.co/2023/07/18/tesla-rumored-partner-samsung-4-nm-chip-self-driving-hw-5-0/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-D1-Dojo-chip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Opinion: As investors worry about lower Tesla margins, Musk says Full Self-Driving is key to future profits"
     excerpt: "“Autonomy will make all of these numbers look silly.” And of course, that bigger picture, in Musk’s crystal ball, is Tesla’s TSLA, -0.71% Full-Self Driving technology, which he envisions will turn its cars into robotaxis in the not-too-distant futur"
     publishedDateTime: 2023-07-20T02:11:00Z
