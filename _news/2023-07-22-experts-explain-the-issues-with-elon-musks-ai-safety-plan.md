@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Experts shoot down Elon Musk’s prediction for key AI development: ‘It’s aspirational’"
-    excerpt: "Experts at a congressional hearing Tuesday on the future of AI downplayed Elon Musk's predictions for how quickly an artificial general intelligence, or AGI, could be developed. The exchange came during a House Armed Services subcommittee hearing featuring a trio of AI experts."
-    publishedDateTime: 2023-07-18T18:43:00Z
-    webUrl: "https://www.foxnews.com/politics/experts-shoot-elon-musks-prediction-key-ai-development-aspirational.print"
+  - title: "Elon Musk Launched His Own AI Startup—Here’s Musk’s Net Worth"
+    excerpt: "Tesla CEO Elon Musk announced his latest startup, xAI, which will focus on artificial intelligence. Musk is the richest person in the world as of July, thanks to the companies he leads including Tesla,"
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.investopedia.com/elon-musk-launched-his-own-ai-startup-heres-musks-net-worth-7562899"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 40
+      name: Investopedia
+      domain: investopedia.com
+    quality: 17
 
 secured: "vKvn3WHB+43fnxvjMM9ZPPY94GIh75nTp2yfOGsRDNkhrjiAItphJVkdrHENbG5yWAxD8COMHYQLQucNlLWOz6L+ZD8eSe1XgImJykRnuaxPdE3zh+z4k/B+fOAXE62fOabyeU3Cdv0Oy09E1OmJcFnUuBlJbsu/lyIF0OcLIehY84mDa78wmbv7HA1wkFsWEWrOXDXwLcAGnt3LEx+Xz3ztemxfGSkLZnL6xrWYUDHbJ9enMBKNhh6fdR6h3aIKu1OQet4NZDKG0d9UDJA6L/C+CqCCl7AdZX8nh3i/pUOmdw0ZdRniuc2aI61ANYmV9GEkNZ0LnPDuaPeRHzEwki6WFw57ODjPZR2AuewWjCF1i/tkAknqBW4UlBem+dPdbQvL5A1MdftVhFWUwm2HfGzAgN521LjUQDcQYIK/fLFk/CuH0kZ2PaGWXgYBgai2afzygWmBh6P/NEDU9v1RSe6XZvfNO5lw6gPMpYF3wmnp3ZsBlpOqOlq3TfWL6/YAXewkshjSR8FoKY90l95g1w==;iL/elIJBSg9NDvuScvTN+g=="
 ---

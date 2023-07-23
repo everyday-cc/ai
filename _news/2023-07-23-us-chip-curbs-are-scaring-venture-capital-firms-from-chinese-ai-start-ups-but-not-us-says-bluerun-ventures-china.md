@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chinese AI Chip Firm Challenging Nvidia Seeks IPO Later This Year"
-    excerpt: "The company has become the de facto alternative to Nvidia's AI accelerators, which have been banned in the country due to sanctions."
-    publishedDateTime: 2023-07-18T18:30:00Z
-    webUrl: "https://www.extremetech.com/computing/chinese-ai-chip-firm-challenging-nvidia-seeks-ipo-later-this-year"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "U.S. Lawmakers Want Chinese Companies Banned From Testing Self-Driving Tech"
     excerpt: "The Chinese government doesn't allow American companies to test autonomous tech, and Congress members think the U.S. should enact a similar ban"
     publishedDateTime: 2023-07-19T11:59:00Z

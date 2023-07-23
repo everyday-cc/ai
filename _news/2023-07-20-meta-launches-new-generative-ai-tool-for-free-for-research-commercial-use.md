@@ -25,140 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use"
-    excerpt: "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta."
-    publishedDateTime: 2023-07-18T18:46:00Z
-    webUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
+  - title: "Meta launches AI research community to address pressing challenges in AI"
+    excerpt: "New Delhi, July 19 (IANS) Meta (formerly Facebook) has launched a new organisation, the Open Innovation AI Research Community for academic researchers, designed to foster transparency, innovation, and collaboration in the field of artificial intelligence (AI)."
+    publishedDateTime: 2023-07-19T09:28:00Z
+    webUrl: "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai"
+    ampWebUrl: "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 58
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://glamsham.com/wp-content/uploads/2023/07/9821ae2f64fe1e0dfea0fe0c41b9015b.jpg"
+        width: 304
+        height: 288
         isCached: true
-  - title: "Facebook parent Meta to make ChatGPT rival Llama public"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T23:43:00Z
-    webUrl: "https://www.wjcl.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    ampWebUrl: "https://www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+  - title: "AVIA launches health care AI research collaborative"
+    excerpt: "Digital health consulting firm AVIA announced a collaborative that will help hospitals, health systems and others research and share strategies to responsibly and ethically adopt artificial intelligence algorithms in health care."
+    publishedDateTime: 2023-07-20T21:42:00Z
+    webUrl: "https://www.aha.org/news/headline/2023-07-20-avia-launches-health-care-ai-research-collaborative"
     type: article
     provider:
-      name: WJCL
-      domain: wjcl.com
-    quality: 44
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
-        width: 500
-        height: 282
-        isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-19T03:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 40
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--lTOynVss--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t155458z_1_lynxmpej6h0od_rtroptp_3_usa-layoffs.jpg?itok=jUtRWYj0"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta (META.O) is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-23T05:31:00Z
-    webUrl: "https://cyprus-mail.com/2023/07/23/meta-opens-ai-model-to-commercial-use-throwing-nascent-market-into-flux/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 40
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2023/07/meta-1.jpg"
-        width: 1275
-        height: 889
-        isCached: true
-  - title: "Facebook unveils more powerful AI and makes it free to use"
-    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T20:40:00Z
-    webUrl: "https://www.watoday.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
+      name: aha.org
+      domain: aha.org
     quality: 39
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.22428057992202727%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_30%2C$y_129/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/af6351c718b5c3d92e72b58f9e49b19c7ecdd0c0"
+      - url: "https://www.aha.org/sites/default/files/2018-06/aha-medicaid-data-900x400.jpg"
+        width: 900
+        height: 400
+        isCached: true
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Facebook unveils more powerful AI model and makes it free to use"
-    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T22:45:00Z
-    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
-    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
-  - title: "Facebook parent makes public ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach:"
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.avpress.com/business/facebook-parent-makes-public-chatgpt-rival-llama/article_3ce164d4-25d9-11ee-aa8d-7fdc01ce7b98.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg?resize=600%2C300"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T21:00:00Z
-    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook Flooded With Ads And Pages For Fake Chatgpt, Google Bard And Other Ai Services, Tricking Users Into Downloading Malware"
-    excerpt: "Cyber criminals are using Facebook to impersonate popular generative AI brands, including ChatGPT, Google Bard, Midjourney and Jasper <"
-    publishedDateTime: 2023-07-21T00:55:00Z
-    webUrl: "https://menafn.com/1106640306/Facebook-Flooded-With-Ads-And-Pages-For-Fake-Chatgpt-Google-Bard-And-Other-Ai-Services-Tricking-Users-Into-Downloading-Malware"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/20/M_5762eimage_story.jpg"
-        width: 800
         height: 800
         isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
-    publishedDateTime: 2023-07-19T13:00:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+  - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
+    excerpt: "VSORA, an innovative startup offering silicon intellectual property (IP) solutions and silicon chips, today unveiled Jotunn™, an all-in-one single-chip family to provide a massive jump in performance for Generative AI inferencing processing challenges."
+    publishedDateTime: 2023-07-19T13:21:00Z
+    webUrl: "https://www.design-reuse.com/news/54462/vsora-chatgpt-on-chip-architecture.html"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 4
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 22
 
 secured: "4H0Vvui8LXGA+9p/w1wkGAyu0erLQzCoSRboFIePdA/zyQ7/JZCwV40qWic2y2snOXpB8X7ZURED9ox2Wq6uYbRrSljr7oKUQBjNJJKYFm4ZSU+sqP4nFEdHs8GR/+HXioNvByMUVejZNs1KuVw00Cawsh5MktcUpxCG3vn7JB6hWcaJHqQ7N/60lboz2o6Ya7PlIo3WwVsDkQRpTpLgui6vdjZIfqZRcV0K9I64Ds2zCuYzgcT1EaEut0BqpWpQEEWvvNUvla1eT5HDzlflyFgQiMD1xeNdvSSzA4JEy5JGDcbSSwtJ8VsMv0SXnI/XWc3vzisief3ST4C1KkMC5Y1LMt63ECU0OiqT3Ex4838=;sztn+lpRXxIpF+m4m/jlZg=="
 ---

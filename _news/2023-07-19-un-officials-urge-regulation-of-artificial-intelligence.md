@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.ht
 webUrl: "https://www.nytimes.com/2023/07/18/world/un-security-council-ai.html"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why the business voice needs to be heard on AI regulation"
-    excerpt: "The government’s AI governance regime is coming together but needs business input to help the UK fully realise AI innovation."
-    publishedDateTime: 2023-07-18T17:40:00Z
-    webUrl: "https://www.cbi.org.uk/articles/why-the-business-voice-needs-to-be-heard-on-ai-regulation/"
-    type: article
-    provider:
-      name: CBI
-      domain: cbi.org.uk
-    quality: 39
-    images:
-      - url: "https://www.cbi.org.uk/media/fg4pe35c/ai.jpg?width=1300&height=730&rnd=133341720607270000"
-        width: 1300
-        height: 730
-        isCached: true
   - title: "ChatGPT vs Bard: 10 questions, and a word of caution on how to regulate AI"
     excerpt: "The Indian Express posed 10 questions to Google’s Bard and its chief rival OpenAI’s ChatGPT ranging from difficult Maths problems to questions relating to politics and social cues."
     publishedDateTime: 2023-07-22T13:52:00Z

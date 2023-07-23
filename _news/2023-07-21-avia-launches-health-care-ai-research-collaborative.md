@@ -41,6 +41,20 @@ related:
         width: 304
         height: 288
         isCached: true
+  - title: "Meta launches new generative AI tool for free for research, commercial use"
+    excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
+    publishedDateTime: 2023-07-19T21:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/meta-launches-new-generative-ai-tool-for-free-for-research-commercial-use.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How AI is shaping clinical research"
     excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
     publishedDateTime: 2023-07-21T10:31:00Z

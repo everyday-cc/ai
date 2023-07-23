@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/meta-launches-ai-research-comm
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.aha.org/sites/default/files/2018-06/aha-medicaid-data-900x400.jpg"
         width: 900
         height: 400
+        isCached: true
+  - title: "Meta launches new generative AI tool for free for research, commercial use"
+    excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
+    publishedDateTime: 2023-07-19T21:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/meta-launches-new-generative-ai-tool-for-free-for-research-commercial-use.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "How AI is shaping clinical research"
     excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."

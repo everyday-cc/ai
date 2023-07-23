@@ -74,22 +74,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft launches vector search in preview, voice cloning in general availability"
-    excerpt: "Microsoft announced a number of new services at its Inspire annual conference, including a new AI-powered vector search tool."
-    publishedDateTime: 2023-07-18T17:40:00Z
-    webUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/"
-    ampWebUrl: "https://techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/18/microsoft-launches-vector-search-in-preview-voice-cloning-in-general-availability/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 100
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1185699754.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google, Meta, Microsoft, OpenAI and more agree to voluntary AI safeguards"
     excerpt: "Several AI companies, from Google to OpenAI to Microsoft, have worked with the White House on a set of voluntary AI safeguards."
     publishedDateTime: 2023-07-21T17:27:00Z
@@ -173,22 +157,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/satyabots.jpg.jpg"
         width: 3414
         height: 2266
-        isCached: true
-  - title: "Meta, Microsoft team up to offer AI model Llama for commercial use"
-    excerpt: "The model, which Meta previously provided only to select academics for research purposes, also will be made available via direct download and through Amazon Web Services, Hugging Face and other"
-    publishedDateTime: 2023-07-18T17:19:00Z
-    webUrl: "https://nypost.com/2023/07/18/meta-microsoft-team-up-to-offer-ai-model-llama-for-commercial-use/"
-    ampWebUrl: "https://nypost.com/2023/07/18/meta-microsoft-team-up-to-offer-ai-model-llama-for-commercial-use/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/07/18/meta-microsoft-team-up-to-offer-ai-model-llama-for-commercial-use/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 74
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/07/mark-zuckerberg-microsoft-chatgpt.jpg?quality=75&strip=all&1689685038&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Meta’s Llama 2 Joins The AI Race In Collaboration With Microsoft"
     excerpt: "Meta has unveiled its Llama 2 Large Language Model for businesses and researchers as an open-source AI model for commercial use."

@@ -22,7 +22,7 @@ related:
   - title: "Are self-driving cars a national security risk?"
     excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
     publishedDateTime: 2023-07-20T17:00:00Z
-    webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+    webUrl: "https://www.wfmz.com/entertainment/coffee-break/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
     type: article
     provider:
       name: WFMZ-TV

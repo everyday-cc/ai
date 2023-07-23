@@ -35,15 +35,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Tachyum Presents Paper on Prodigy Processors in Blockchain for Banking and FinTech"
-    excerpt: "Tachyum ® today released a paper \"Credit Unions, Blockchain, CBDC, FinTech and Tachyum Prodigy ® \" explaining how Prodigy, the world's first Universal Processor, can transform transactional banking while minimizing the monetary and environmental costs of blockchain's electrical energy requirements."
-    publishedDateTime: 2023-07-18T17:59:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/18/9850248.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
   - title: "Visa calls on fintech founders for accelerator programme"
     excerpt: "Visa has pledged to spend $1bn in Africa by 2027 and initiatives like the Africa Fintech Accelerator helps the payments giant achieve that goal, while also strengthening the continent's payments ecosystem. The programme is focused on startups operating in Africa and will run over 12 weeks twice a year with up to 20 startups per cohort."
     publishedDateTime: 2023-07-20T12:34:00Z

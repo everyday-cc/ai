@@ -1,21 +1,17 @@
 ---
 category: news
 title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
-excerpt: "Mustafa Suleyman co-founder of DeepMind and founder of Inflection AI The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage ..."
-publishedDateTime: 2023-07-18T12:11:00Z
-originalUrl: "https://www.bbc.com/news/technology-66166236.amp"
-webUrl: "https://www.bbc.com/news/technology-66166236.amp"
-ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
+excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa ..."
+publishedDateTime: 2023-07-17T17:55:00Z
+originalUrl: "https://www.bbc.co.uk/news/technology-66166236"
+webUrl: "https://www.bbc.co.uk/news/technology-66166236"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Google AI
@@ -27,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "dfXt3acEIBSvsOTX80erEB1R95uFv+0JAwLbzlyQBs74yw18NEKSTS3vtUptBfHGfEJp/dhN1UGfidWeRFJxDENyCinfahZhtfgbKojWuYJ8SJeKDBfURKuimFpyqg5mFSbaf1aUsGSqsJVvPond1Hgcauv6/RVZ8OHNr1tp2SSfLPWQ48iY6nditUMTRzi3egrZCkdxasECgDaLb+Gl7XTlAgZSsXcYb+3lJgI+P2ddQaN2Iqtfii8gheNf7dw0Gj/Vd4eiW5rIFKxsF6evrVZF9h6VzBvL5to7PdxIm8Entt05Ba6rwSrwRbvu8FA3jOVRUDtH+nakU9Ba8l98IETZW3qHMgSQzGJ3p59wzdA=;aLY/3373fFh6Vc+zC8ZIxw=="
+secured: "yr3w9fcCMm5wP8w6Hau59XjWdLgyZmrATva3ucjiAVDXpbarxh2gkjgyRMWnpdGzrzgC5gAXaL4t5HkLjct3cbr4HaJ93WltR8oXVzwziCyO0vn7oTRww0J9R00OKYuBe1sNNJjv8ytCly32yi9gdORSGVjLDV3qh+ho2Qez9cKTiwStUx/AFdf98YqPN13I3Kg2UZXQGKGhWDdkcLe48W/Ldwbqq5eHAVYCuof3e58Ax/3n6B77i9ubyOdF98eSLACuDn8c0lVYFk0MWpalBqGs4SVX2Szxyl1wxvnReGbQpW/qY48ln1cusv6K9OUGoM5oKOUO7n1vqJYQI9AQMikKxt5bwXfY46kISn/GzpQ=;eeEeVpkfcAzLxGZWVDv48Q=="
 ---
 

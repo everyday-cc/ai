@@ -99,17 +99,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "Indigenous voice to parliament No campaigner Gary Johns says white settlement ‘a gift’ to Aboriginal Australians"
-    excerpt: "No campaigner Gary Johns says most Aboriginal people are “grateful for that gift” of modernisation and defended the work of churches and their involvement with the Stolen Generations, in comments made while campaigning against the Indigenous voice to parliament."
-    publishedDateTime: 2023-07-18T17:51:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-no-campaigner-gary-johns-says-white-settlement-a-gift-to-aboriginal-australians/news-story/e2de28ec91d5b367a056722c48653638?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 18
   - title: "Indigenous voice to parliament’s No pamphlet casts light where Yes prefers shadows"
     excerpt: "As we count down towards the most significant referendum since Federation, the picture that has emerged in the Yes and No pamphlets is both telling and saddening."
     publishedDateTime: 2023-07-21T23:30:00Z

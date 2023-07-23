@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use"
-    excerpt: "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta."
-    publishedDateTime: 2023-07-18T18:46:00Z
-    webUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
+  - title: "ChatGPT facial recognition potential makes OpenAI nervous"
+    excerpt: "OpenAI is not ready to roll out facial recognition or analysis features for public use as it may invite legal issues in some jurisdictions."
+    publishedDateTime: 2023-07-19T22:42:00Z
+    webUrl: "https://www.biometricupdate.com/202307/chatgpt-facial-recognition-potential-makes-openai-nervous"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_vector_art_cybernetic_llama_wearing_sunglasses_synthwav_d3f82260-2c47-4abd-9599-b91751711f5b.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
   - title: "Facebook parent Meta to make ChatGPT rival Llama public"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
@@ -49,72 +49,35 @@ related:
         width: 500
         height: 282
         isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-19T03:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-opens-ai-model-commercial-use-throwing-nascent-market-flux-3637386"
+  - title: "Use cases of ChatGPT in telecom"
+    excerpt: "ChatGPT being a large language model developed by OpenAI can accelerate innovation and boost operational efficiency for telcos. By leveraging the power of AI and natural language processing, telecom companies can optimize efficiency."
+    publishedDateTime: 2023-07-23T08:57:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 40
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--lTOynVss--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t155458z_1_lynxmpej6h0od_rtroptp_3_usa-layoffs.jpg?itok=jUtRWYj0"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102054010,imgsize-15770,width-1200,height=765,overlay-ettelecom/internet/use-cases-of-chatgpt-in-telecom.jpg"
         width: 1200
-        height: 676
+        height: 765
         isCached: true
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta (META.O) is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
-    publishedDateTime: 2023-07-23T05:31:00Z
-    webUrl: "https://cyprus-mail.com/2023/07/23/meta-opens-ai-model-to-commercial-use-throwing-nascent-market-into-flux/"
+  - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
+    excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
+    publishedDateTime: 2023-07-19T12:46:00Z
+    webUrl: "https://tech.co/news/chatgpt-prviacy-concerns-images"
     type: article
     provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 40
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2023/07/meta-1.jpg"
-        width: 1275
-        height: 889
-        isCached: true
-  - title: "Facebook unveils more powerful AI and makes it free to use"
-    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T20:40:00Z
-    webUrl: "https://www.watoday.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
+      name: Tech.co
+      domain: tech.co
     quality: 39
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.22428057992202727%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_30%2C$y_129/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/af6351c718b5c3d92e72b58f9e49b19c7ecdd0c0"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Facebook unveils more powerful AI model and makes it free to use"
-    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T22:45:00Z
-    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
-    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
-  - title: "Meta launches new generative AI tool for free for research, commercial use"
-    excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
-    publishedDateTime: 2023-07-19T21:58:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/meta-launches-new-generative-ai-tool-for-free-for-research-commercial-use.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://images.tech.co/wp-content/uploads/2023/06/06195842/chatgpt-phone-glasses.jpg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Facebook parent makes public ChatGPT rival Llama"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach:"
@@ -143,20 +106,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facebook Flooded With Ads And Pages For Fake Chatgpt, Google Bard And Other Ai Services, Tricking Users Into Downloading Malware"
-    excerpt: "Cyber criminals are using Facebook to impersonate popular generative AI brands, including ChatGPT, Google Bard, Midjourney and Jasper <"
-    publishedDateTime: 2023-07-21T00:55:00Z
-    webUrl: "https://menafn.com/1106640306/Facebook-Flooded-With-Ads-And-Pages-For-Fake-Chatgpt-Google-Bard-And-Other-Ai-Services-Tricking-Users-Into-Downloading-Malware"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/20/M_5762eimage_story.jpg"
-        width: 800
-        height: 800
         isCached: true
 
 secured: "6KBZUhMIICRnu+sf67Dby/4pKIy6wcM34xAr2I0NuYG23u3Mk5eqEFdaOJqivUq3NIjulQNTsCe5d8sQsMQt5ja7SLUaouJso9B/NKbggVDyaPvRyYuHD0kc16Ub2xVnehtlI+PHbvwOZmSgQGZLWpNtFqYFJ5pzexd8kfHC4GrGlGAEErJCtI21HGXFqVlJ5S+cCi6qdsiPRRSqzetzr/U+RZ7PSttjX5PGg/1YPOuLrTOOdnNff88eCCRxvO5ZGj8Q2UWkmbs3h/5uSEjs4FkgD7zqxGMgyAfz1+QhtCL4i4LIEIlpjCZkkXf/PRShyWnRH8twS2RbJgRFqETHCMNz7n8jEQp+tQO3NpvuobrsvYsW7qqm9irKXWJME7800lg7goHFvvwVmHmBMN7TbIF/AoBPdpKQtvA0Jpx27pZiBmUSWXYnwqD+BfLBcVxkCCfkYkuaD5c59uF1R2910NznJxE9rW5cDF9oaZs3MecVbs5httjX50qtbgmovvOhofTTl3h1BQAQKqqn7NYolQ==;QBwF5PqLtpXKIaq/Drbo1w=="

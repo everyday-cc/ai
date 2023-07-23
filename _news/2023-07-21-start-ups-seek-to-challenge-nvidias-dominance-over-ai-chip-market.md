@@ -28,6 +28,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 76
+  - title: "Missed Out on Nvidia's Surge? Buy This Cheap AI Stock Before It Doubles."
+    excerpt: "The chipmaker's price-to-sales ratio stands at a whopping 44, while its trailing earnings multiple is 237. Investors may not be comfortable buying Nvidia at such expensive multiples despite the terrific growth that the chipmaker is expected to deliver."
+    publishedDateTime: 2023-07-23T11:15:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740433/person-holding-a-smartphone-with-a-stock-chart-on-screen.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "/lm6jjcaEdQe2acG850bAg84k6T3hXGPlh441fuWHBiPij2gCm/QmxdnKFIXsHoBDCwCbTDlSm2UEyNJzf065/m8dv65D8oHauELxh1VJnwRr72aoBEEAzHGoabyeA0e8nysE8QlRq7SWzDRMs6dzHMxp16Qz+eMAYF7obdIHEjEtNyajXL5GYFmDjg7V/P7hxP/htUjyB7J45CrJM988eEQDTqbNvDyPqcJuk6xuwU8PUq5UKJCyIa41UYI3d/jouBpwKl1Oq8c3tIXJDAvN0KRhffcKipyHsgqFDBpfGAMinS/XLZ0rzOqkyvr8aSIQe3UFhPFvoYmx0MpCRwDk0VvyD4nOrKC44hic8jMlBkI0wyrKjAuWd3WX+TBVFG6SgGkIGwOzWiFfE6TpKieOBCG7MvcT7YAZa0mdA6xS0FMyRUNnotQvka3aeLg6CCVXzf4UiPRFQIFV8PEZbTi6yznVdKQKdCn6kXBBYnSDFDvDqrTr69CvRCDB9eFu0ridTOXQjudaUeaP41uw4/Y6w==;f8tmnI42rawTi3x5gZ+9tw=="
 ---

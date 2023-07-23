@@ -41,6 +41,22 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Facebook parent Meta to make ChatGPT rival Llama public"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T23:43:00Z
+    webUrl: "https://www.wjcl.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    ampWebUrl: "https://www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
+    type: article
+    provider:
+      name: WJCL
+      domain: wjcl.com
+    quality: 44
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
+        width: 500
+        height: 282
+        isCached: true
   - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
     excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
     publishedDateTime: 2023-07-19T12:46:00Z
@@ -55,6 +71,43 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Facebook parent makes public ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach:"
+    publishedDateTime: 2023-07-19T11:00:00Z
+    webUrl: "https://www.avpress.com/business/facebook-parent-makes-public-chatgpt-rival-llama/article_3ce164d4-25d9-11ee-aa8d-7fdc01ce7b98.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg?resize=600%2C300"
+        width: 600
+        height: 300
+        isCached: true
+  - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
+    publishedDateTime: 2023-07-18T21:00:00Z
+    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 12
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
+    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
+    publishedDateTime: 2023-07-19T13:00:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 4
 
 secured: "wXU920LszncXhwGHDPXZbtUdF81HkfKhcddG2oC76/ZXndXCPwgGrhieNAZ/H6H0/IWAUlH1jjhwUMSs/YQeVl0RoL91cPWJ1wg1Iowl7W1V+EhLqoXF8OLvgyqlXlkoCwB4X8S13IOY4ioW260IjVOS1DgPPGd8NQD027p+olHKUTf8vQyk38Qc3ZhCUnObFIzqi/gjRXDLRv/Q8u5FVjqOlYT7vd79GXMhacxfBPPU8DB9HhENJkKaAuPIZMjBB2/nT96zHCPuVP0dO/PpfjqUPdpp56Z8VrqsiZNbNZ04zDMwFpmn0WMZseB+9vYfvz7P0grC4VuwyB577E/ojiXI9xQGjFKz+zF4v0eHmR8=;Uyqjxbj60x3KfzXY7ATX3Q=="
 ---

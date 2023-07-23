@@ -200,15 +200,6 @@ related:
         width: 803
         height: 642
         isCached: true
-  - title: "Meta goes head-to-head with ChatGPT by open-sourcing its AI"
-    excerpt: "Meta and Microsoft announced a partnership that will help Meta's large language model become available to the public for free."
-    publishedDateTime: 2023-07-18T18:32:00Z
-    webUrl: "https://www.androidauthority.com/ai-products-meta-microsoft-3346204/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
   - title: "The biggest AI release since ChatGPT"
     excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
     publishedDateTime: 2023-07-21T18:11:00Z
@@ -326,6 +317,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-2.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Please Stop Asking Chatbots for Love Advice"
+    excerpt: "Simulations of human conversation powered by artificial intelligence—chatbots—have been much in the news, but I’d never had a patient tell me they’d actually used one for advice before. “What did it tell you?"
+    publishedDateTime: 2023-07-22T19:49:00Z
+    webUrl: "https://www.inferse.com/633137/please-stop-asking-chatbots-for-love-advice/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-24216.png"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Apple reportedly developing ChatGPT-like AI chatbot"
     excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"

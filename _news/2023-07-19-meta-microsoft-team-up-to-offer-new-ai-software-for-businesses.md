@@ -185,34 +185,6 @@ related:
         width: 613
         height: 369
         isCached: true
-  - title: "Microsoft Advances Copilot and AI Products at Inspire Event"
-    excerpt: "Additionally, Microsoft touted the use of Copilot in Power BI with Microsoft Fabric, its AI-enabled collection of data platform tools (which includes Azure Data Factory and Azure Synapse, for example). Microsoft Fabric is now at the public preview stage ..."
-    publishedDateTime: 2023-07-18T17:05:00Z
-    webUrl: "https://redmondmag.com/articles/2023/07/18/microsoft-advances-copilot-ai-at-inspire-event.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/CloudsSkyGrainySmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Meta partners with Microsoft to distribute next-gen LLaMA 2 AI model for commercial use"
-    excerpt: "The new family of large language models, called LLaMA 2, is the next generation of Meta’s AI research into generative AI. These AI models are capable of understanding human speech and responding conversationally, as well as producing research, answering questions, writing poetry and generating computer code."
-    publishedDateTime: 2023-07-18T18:14:00Z
-    webUrl: "https://siliconangle.com/2023/07/18/meta-partners-microsoft-distribute-next-gen-llama-2-ai-model-commercial-use/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/artificial-intelligence-g69d523a71_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
     excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
     publishedDateTime: 2023-07-20T05:08:00Z
@@ -227,15 +199,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
-    excerpt: "In recent months, the remarkable strides made in AI innovation have ignited a wave of transformative possibilities, captivating our collective imagination with the promise of reshaping industries and the way we work."
-    publishedDateTime: 2023-07-18T17:04:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/07/18/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 44
   - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
     excerpt: "Meta has open-sourced Llama 2, now available on Windows and Azure. Microsoft and Meta are extending their long-standing partnership. Meta has open-sourced Llama 2, allowing more developers to leverage its capabilities. Llama 2 is now supported on Azure and Windows."
     publishedDateTime: 2023-07-19T17:55:00Z
