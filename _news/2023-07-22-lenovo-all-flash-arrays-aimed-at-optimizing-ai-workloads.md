@@ -47,15 +47,6 @@ related:
         width: 883
         height: 706
         isCached: true
-  - title: "Lenovo Unveils New Data Management Solutions to Enable AI Workloads"
-    excerpt: "Lenovo (HKSE: 992) (ADR: LNVGY) announced its next wave of data management innovation with new ThinkSystem DG Enterprise Storage Arrays and ThinkSystem DM3010H Enterprise Storage Arrays, designed to make it easier for organizations to enable AI workloads and unlock value from their data."
-    publishedDateTime: 2023-07-18T16:54:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/18/9849960.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "M8pFBJ3BSm1pGNDrQge89tr9sexJIneWx4NxQgrGjm24B/Vy1XCVjtIqFjK4DhnaDtA+M5zUQ0YNBWT1wyhCAaamu9GtrSWCt6php/+Ktaw4r3Z3e0PaR7DkNSIVFUKA2nm0qcUedGWv2tBzu5kBatXhz4gaKyBSsGlTrTG3QvCYIRaiR6QE/TivaN2WOmR0/xhABRutJh5MbawF9g+X8PVbrviucdo5bFtlIBVPIGnmQ9WzCZIkXIbCmcavCmqqLtjAN/elX09eyr5OjvMy62JHgY9UNU6SsusmfRsI3ztnC6KKmmodLEMYijtu4pnOwUu7ckxt/V2z98v4CvdE10jygnQoRKqLOpqagw8zI81fCtYImyPLMBVK8TLEVxaH5tveswKbxJypb70yIxcTn+DwdynEmfBLAOfwxCZgj1rwtH1zfk36eF/pIo5DxlWUIt3cMcw8WPfN3G0saATh6usseq/4l6hO8lQqx1E+m7mMleoKTuNC/SmAUC2uLRgkjROfhs9JO2V/uMN+lO7jnw==;IqEIyly4RB2fbr85XGBzSw=="
 ---

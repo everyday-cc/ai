@@ -39,6 +39,22 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Use cases of ChatGPT in telecom"
+    excerpt: "ChatGPT being a large language model developed by OpenAI can accelerate innovation and boost operational efficiency for telcos. By leveraging the power of AI and natural language processing, telecom companies can optimize efficiency."
+    publishedDateTime: 2023-07-23T08:57:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102054010,imgsize-15770,width-1200,height=765,overlay-ettelecom/internet/use-cases-of-chatgpt-in-telecom.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "be3Ek5pSyZp9cuWarLfiO5LapVGQX55HLnhX2TrT0Q/CThRt1mGIfXghMFULR/Gqlos3LSXm+CyCjAs8GSNC4EWNJoUuPtSTiT5HKdT8aCMmhgZel3y6eMD8CASx44oGJo6GDu18BNl6DczEmXBgiVoHwe4vEPbCzk+DP9zi9t1SKXa0yksFbn25g2fOlphJGM2RG0xQlXo/rtYWgZS/0Xz6al08v0i8lTJkygJzCPD2Zv/7FprugF8D3cPJAIgL0zzb4TO4PJlEV24S6nFSGQs6y9fOIzRPabOei5AUuxq1txuRP5SNSMv5YZ5s4TEpVveHYanJv0jj45KIUfoha1xjKF/3qV9aqwrk9qNPCDg=;tZAERiHCHE+ewVLJzLLzvQ=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 506
     isCached: true
 
-related:
-  - title: "Artificial Intelligence in Mechanical Contracting"
-    excerpt: "Artificial intelligence is dominating headlines around the world. But how practical is it? Can it be integrated into business operations in a way that boosts the bottom line without introducing costly errors? Some companies in the mechanical contracting ..."
-    publishedDateTime: 2023-07-19T15:33:00Z
-    webUrl: "https://www.contractormag.com/technology/article/21269819/artificial-intelligence-in-mechanical-contracting"
-    type: article
-    provider:
-      name: CONTRACTOR
-      domain: contractormag.com
-    quality: 37
-    images:
-      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/07/dreamstime_xxl_48306788.64b7fd4dcb240.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "K/NQQY8UMtb5n6deY0qufTYQ6zXFtTQaIbLQRetOXO3WRzNuAgP5EVZKdre66yXOC1yI/ZdqexAUqUT4Z+wqB9iIhTnTBpW4MROSA+DD0jKcEp+rmptJsYcEg85/01CsE0/1im2Zfl0wPhwpRtlFaNRNxSPa6LvIAVlo9rbsOxxbklWX3ymZZOTAxy76pOl7Bay2CO1NaroB/N19bObef2iPOskMtLwr/6zy6T0dOoSkd9kxVP2apJhFCzic2PLMeV09fuPsY/+kmKu6vF1RGwvIUJlBq5nnECc3i3+A7Mi/DfjArbtuENXPGAyVfYn85Ck/dg+GGt7a3uOmgQhBv8WhpFMQeU9DIPhEuS+PesdNB+BCdkl+TKEE8SLTwMnH9LeOoqsihyl6/AEroxNMSWuTI4GQoblqoJ/CTR/7xrbrrkAsbVmQvYkKg8NsEWrkyg7nkpxCTnzsQIIoJiv7CiZVmHF58G1PLddMJ5OwwHwxmuJpt4qhc3VsntxIipHtwk5pVrkdJZT7Id1LIXpGVQ==;h46e5vd8mYepul28ojxrZQ=="
 ---
 

@@ -55,15 +55,6 @@ related:
         height: 400
         isCached: true
   - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
-    excerpt: "Designed to Trounce Memory Wall, Accelerate Proliferation of Generative AI Implementations; Chip Architecture Provides up to 3.2 Petaflops with an Implementation Efficiency of Mor"
-    publishedDateTime: 2023-07-18T16:41:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/07/18/9850176.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
-  - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
     excerpt: "VSORA, an innovative startup offering silicon intellectual property (IP) solutions and silicon chips, today unveiled Jotunn™, an all-in-one single-chip family to provide a massive jump in performance for Generative AI inferencing processing challenges."
     publishedDateTime: 2023-07-19T13:21:00Z
     webUrl: "https://www.design-reuse.com/news/54462/vsora-chatgpt-on-chip-architecture.html"

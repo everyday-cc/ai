@@ -26,28 +26,19 @@ images:
 
 related:
   - title: "Are self-driving cars a national security risk?"
-    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-    publishedDateTime: 2023-07-21T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
+    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+    publishedDateTime: 2023-07-20T17:00:00Z
+    webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 41
     images:
-      - url: "https://kvia.b-cdn.net/2023/07/self-driving-car.png"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize"
         width: 1080
-        height: 700
+        height: 567
         isCached: true
-  - title: "Self-driving company Aurora Innovation closes $820M capital raise"
-    excerpt: "Autonomous vehicle developer Aurora Innovation completed a two-part $820 million funding round Friday, giving it badly needed capital and breathing room to continue its quest to get self-driving trucks on the road."
-    publishedDateTime: 2023-07-21T20:32:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-company-aurora-innovation-closes-820m-capital-raise"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
   - title: "Feds launch AV office to set new safety standards, deploy more self-driving cars"
     excerpt: "Many new vehicles come with automation technology up to Level 2 according to SAE International’s guidelines, such as General Motors Co.’s SuperCruise, Ford’s BlueCruise and Tesla’s Autopilot, which require drivers to keep their eyes on the road."
     publishedDateTime: 2023-07-22T03:01:00Z

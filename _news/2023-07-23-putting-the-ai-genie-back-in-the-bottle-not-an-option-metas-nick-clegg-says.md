@@ -3,8 +3,8 @@ category: news
 title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
 excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
 publishedDateTime: 2023-07-22T18:59:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
-webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+originalUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
 type: article
@@ -77,6 +77,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ArZ8/CsOOAAwRVR2TKyHGUeaFNoKKz7C9+CUjQoDEhaq7BJWNJKhcL0v60xTB2Z+hhr8Ma8eKFH9OW18VkAiNutCbhoYPdKMezaJA41lDNNRGTQSLlWARYv7FQlPIOgftTUEq0SV/vySCl62PyTq69OjZvltL9L4FXwI86g0/+0oErFpxuSIDt8su3+POoU9kB1aAAeBli43mjDsG3uT6siIQD+g7GcLkg8kdo9fCgDb1QDPDtr+3D8TaAqjf5C0AVTF4FrbOcb4vj13IvJXtXgzbukSc7z4MW9+WuDvKxGX7501xNHTsMW6l8sBsmFpj7aX/Wdo9I9JXWfFrT9UgiG2F6P7UNhC+7Y1pBIWdeObpOjMCGPIho07bjbxkT+M7DDTJLxmW+A2ixtJ6jzPQ5tm58Q0oLjBtimm8eiIHe5o35dq1awfjw2k8eJql6JhcZgUsDN///wX9YgypFmZiRHiLBJgXMROndvRH7GtJVzICGlsNeZA30g2PvoAWiZ22+CzsZGpCr6JiRMLcDaK+A==;VqbyUjpvlBp7rb58HSjqoA=="
+secured: "xgXZDMv3lC2zcCb5xdZvOlISBe8hod9eEFZOctd+7WxXasIj4OtaHUdqVBr0zW/EhzPBM7enSgc07zMNk7dSgJJjO7evTlljY2+5f36+9FBqxSzMUt+BxnNTixJw3P1v+tNRmPLLMBUW/E8UgcNPvPPWX3XmrAoZ6vjvKEl2dj1ma8ZoDWxUno/n3s9d2gbz2xxm/NNbRjMqv/5Na/z4/FSgsIy/3dItq46SqZpUm6GuCOdAHrkncyNaFdS3Z3542Kq6k96U8dIu4KYEm5jutPESm7TxpEzqbRuBjym6eW0onv7Z9TN4lcQ3vL4iyPnqRK46xUvNpAc9vbQr45IH8UpwuFKtSCJWVTVyPdTYZuI=;icoWGZGJteeUpBgbsbynVA=="
 ---
 

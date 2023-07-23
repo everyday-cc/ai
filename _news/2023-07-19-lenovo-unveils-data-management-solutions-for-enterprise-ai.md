@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-ma
 webUrl: "https://venturebeat.com/data-infrastructure/lenovo-unveils-data-management-solutions-streamline-enterprise-ai-workloads/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 883
         height: 706
         isCached: true
-  - title: "Lenovo Unveils New Data Management Solutions to Enable AI Workloads"
-    excerpt: "Lenovo (HKSE: 992) (ADR: LNVGY) announced its next wave of data management innovation with new ThinkSystem DG Enterprise Storage Arrays and ThinkSystem DM3010H Enterprise Storage Arrays, designed to make it easier for organizations to enable AI workloads and unlock value from their data."
-    publishedDateTime: 2023-07-18T16:54:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/18/9849960.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Lenovo all-flash arrays aimed at optimizing AI workloads"
     excerpt: "Lenovo’s ThinkSystem DG enterprise storage arrays use all-flash storage and quad-level cell (QLC) architecture, the densest flash storage available. They’re capable of up to six times faster performance and up to 50% less cost compared to HDD arrays, Lenovo asserts."
     publishedDateTime: 2023-07-21T21:22:00Z

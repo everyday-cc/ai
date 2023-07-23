@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4618825-nvidia-and-amd-ai-updates
 webUrl: "https://seekingalpha.com/article/4618825-nvidia-and-amd-ai-updates-from-taiwan-semiconductor-q2-earnings"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Cloud service providers perceive AMD's AI chip as alternative to Nvidia, say sources"
+    excerpt: "Large-scale cloud service providers are reportedly considering the MI300 series of AI GPUs from Advanced Micro Devices (AMD) as an alternative to GPUs from Nvidia, such as the H100."
+    publishedDateTime: 2023-07-20T01:34:00Z
+    webUrl: "https://www.digitimes.com/news/a20230719PD215/ai-chips-ai-server-amd-cloud-h100-ic-manufacturing-mi300-nvidia-server-ipc-cloud-computing-iot.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 47
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230719pd215_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "qkun7xoNiQycyPI1WGcetTnFhQz0ua0cAhDVGITnKu1phzn/oGfHFrO6GHtCskO3FbQybs+kiUDRRs6b0XWOOv2Ec2tGRBKtuhTxzXH+ynbShqtR9dUkwEp/7RR+0BGbsnUsOpNAFgdqDNGx9KIaNN+fIAsQku572d/u0IrJuEAa11warejTUO6+UTTRp8szZ+3opIcPuNaxzY1yfEGfnUszXvyiJGrOkD3hMJI20z3a/2gLzAnYm1/5sMVIrBQ1ugH+K3+B2xS2GUPdZZqg7WQZpCnkopLNzzTJGTpIU/RiXr6UBDn89hKyM/3wOAIswPermWl0ACePwwRb/KOXQ77EhqFd2/M8FsRpHTuaENo=;xSolCSsAbhPZXpB0aL6i7g=="
 ---

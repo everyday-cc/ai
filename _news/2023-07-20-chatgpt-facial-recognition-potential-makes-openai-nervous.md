@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202307/chatgpt-facial-recognition-
 webUrl: "https://www.biometricupdate.com/202307/chatgpt-facial-recognition-potential-makes-openai-nervous"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Biometric Companies
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Use cases of ChatGPT in telecom"
+    excerpt: "ChatGPT being a large language model developed by OpenAI can accelerate innovation and boost operational efficiency for telcos. By leveraging the power of AI and natural language processing, telecom companies can optimize efficiency."
+    publishedDateTime: 2023-07-23T08:57:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102054010,imgsize-15770,width-1200,height=765,overlay-ettelecom/internet/use-cases-of-chatgpt-in-telecom.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
     excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
     publishedDateTime: 2023-07-19T12:46:00Z

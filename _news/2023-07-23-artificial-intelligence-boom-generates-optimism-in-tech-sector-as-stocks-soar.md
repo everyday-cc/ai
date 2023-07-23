@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence boom generates optimism in tech sector as stocks soar"
 excerpt: "The rush into AI has given the flagging technology industry a share price lift, but some investors still remain cautious"
 publishedDateTime: 2023-07-22T22:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar"
+webUrl: "https://www.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "fFEiyVgz48URaNDweQr0kxw2kWUFU6bsTV2iu++LdLtcN8TVpVn5GTHDmBmfQsl/TQkQii7W4A8xHfkORJiVbD63WL8ZCw6m/+wu6gFS5rcDkrOSQuPQofBT6ilZPWAID3DAb/S9fMiNsf70cFXKaJn4w7zOlvpjUZi71gzmfgRyxl8/zQ178Wwij0F0wo+5k/ZjzvsJVHm2Unu+nvO9zcn8oihemBFlhx9s+88Ky8VNvV6u8JDoq6R8VJC1WACZvscXTzVguAFxf1xyaEXQXejlIkYk4wm8rvt6Pvv1AdS54AWkyJGDpb0dnze02B0RcSG3caMMNZ8d39yxIPjCSKyDn8M3H05NaL8DEQMmY4xsamXyIejzXEh+Ax5Xe7MRu4OO8h0Oxbr06x9TJk4SOfLKePsz2IWG87xtGi4znx90+y3KDREqwFxaPH7J0h7NEMLYQg+/VJ0yEyMDfbntyRaZt+ru5VNrW9+ZaDgLeS+GjiIwBPGjBxqBVXd6ZVB34zhHONO1v7ViCEu2h4uj2Q==;wGAmSG5Kq0unM8Wf3GKuhg=="
+secured: "pYXuyAzNgmGZHgW2LgrreZZe04wdCY0Gcw8bag2sR5qSMfv9NkOD7pVp8wX2b7vOCtJYNMrVeWwSS12UlrbUI5Vv9CNUg2TYqiJWFzkvdWKGCTIYadUdlv1mUTGEJq1Azq8rzXH5qmN/zO1CpDpMZ+CWYJxuq0XnOEnIv+qGHE11Sxx6As4HFye9F9ce775Zwo4NxalCgzXQL41RGHm3buLHKedhT3zzTNi8BpKrOIZzKrTw1O3AXgzEN9VlHgtMtwP9o3WOoV/41p03aJVHt6bVJXqXOHVkca2ddIh9RVaXtRbIUbafHSFW7LHb+qOkKgdO6tfnBxGRgvwcTaZGIJd5vfIZiSO0ZQPhaFwg1g8=;AsMNKlkd/plA3OrP24H5wg=="
 ---
 

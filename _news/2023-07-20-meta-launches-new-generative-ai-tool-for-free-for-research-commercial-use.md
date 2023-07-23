@@ -108,20 +108,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
-    publishedDateTime: 2023-07-18T16:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 38
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6H0OD-BASEIMAGE.jpg"
-        width: 800
-        height: 558
-        isCached: true
   - title: "Facebook parent makes public ChatGPT rival Llama"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach:"
     publishedDateTime: 2023-07-19T11:00:00Z

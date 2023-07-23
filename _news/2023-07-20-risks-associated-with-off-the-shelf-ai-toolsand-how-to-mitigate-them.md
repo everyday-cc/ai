@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-asso
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/20/risks-associated-with-off-the-shelf-ai-tools-and-how-to-mitigate-them/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI Tools Can Help You Job Hunt—And Quit"
-    excerpt: "The published version of this week’s Forbes Careers newsletter brings the latest news, insights and ideas about the workplace straight to your inbox every Tuesday."
-    publishedDateTime: 2023-07-18T15:52:00Z
-    webUrl: "https://www.forbes.com/sites/emmylucas/2023/07/18/ai-tools-can-help-you-job-hunt-and-quit-severance-pay-and-using-emojis-at-work/?n=@"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6b341e4428bbbf7acbadb/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "WBbHD1DViieokElHh619GbppOh7D25v71XkW+S5cQf/7rJsXlHXywY+NpgMhRTSI5lCOTX/PIxBWGsvDOOklnDqUs1G3sCPW/kMR/NSScRSJFFdx1sM9wiZU7JyvSl99n0ufDIWEiApZE3F8G+Fqo01dG5QFNuAAhmSU5fjHZcV/3F2wJSLxcuxTf7N6iEP3ZiTeYMruD1eQ418LHN/TK3sVIvz08Bdo/uleb0BQoCFHsp5lnoMAWU+3zy+qKeYZ7tcCjk5rb7sBP+npx5q/mVTvdSIJtJzkh+3OgdO9ODk6xNHbXjB6wYH5WVKSYbI1Px+qeXXf2G0mkhMih9tT2BscUdV+V+uh1UqR3bD7WDU=;03kU2sGvDFNWG9mRPmO3ug=="
 ---

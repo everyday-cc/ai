@@ -3,8 +3,8 @@ category: news
 title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
 excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
 publishedDateTime: 2023-07-23T04:01:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 type: article
@@ -30,36 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Showrunner AI: The Sum Of All Hollywood's Fears"
-    excerpt: "It’s both exciting and extremely disturbing, which is why we wanted to share the results of our research in a non-commercial way to show both artists and Hollywood producers that the threat is real.” Saachi said Showrunner is only available to researchers and journalists,"
-    publishedDateTime: 2023-07-18T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5c21ae602538edd47c5e6/0x0.jpg?format=jpg&crop=2214,1244,x0,y179,safe&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Fable unveils Showrunner AI to create South Park-like TV shows with you as the star"
-    excerpt: "Fable has released Showrunner AI technology, dubbed SHOW-1, which can generate new episodes of TV shows with you as the star."
-    publishedDateTime: 2023-07-18T17:01:00Z
-    webUrl: "https://venturebeat.com/games/the-simulation-unveils-showrunner-ai-to-create-south-park-like-tv-shows-with-you-as-the-star/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/south-park.jpg?w=1200&strip=all"
-        width: 1200
-        height: 665
-        isCached: true
   - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
     excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
     publishedDateTime: 2023-07-22T01:10:00Z
@@ -99,7 +69,16 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 17
+  - title: "‘Bargaining for our very existence’: why the battle over AI is being fought in Hollywood"
+    excerpt: "The ramifications of artificial intelligence are of concern to the actors and writers on strike – from big stars to bit players"
+    publishedDateTime: 2023-07-22T10:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/22/sag-aftra-wga-strike-artificial-intelligence?ref=biztoc.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 8
 
-secured: "cwh9qoMCWoPtDi5bGJZTlCnafKPg/9iTBPdzNV1b1SO4ppzSz3TwcCYtIvvJ/tZOr8zZKUKK0RowTxGnIPFJ25LJfP3x0er+AXVGQzDzqrQeou4Vx57v+vh5tISEUCZuRfSok4ps0UAXqCoInszSxNcsdgsDUqZd+l39b02hWJpowfivoyrEEwEpy12/SopbKd7HDpxOXHGIWnp0FcGE0BBW0ceS10WcFGctBg7FDekeFhartz65iq1Xpg1rV6Cvp4RJUlhknvdLpgyvZGQlXB3MYlRw8dsmKu195abLySxkgeHD6mmSCo1W3tC9ZQ1MHcIbbR27n2pMVVclQH8dnc/vMQbD1xecDEU9DxusPOE=;VgCbm1MwpGV6pw5PeMbd8A=="
+secured: "8fspD90Ng1P2m2FEMnM71abMkuLMLU9jWSXi1eY78AAsGvPFcYJXMnKAj4Y+BwLjIXr9bIOdUrY4CoDhHQvpwUeRmZXXiNtD6+dmkHQF+meNaXnjKGh+/WbCqnNil7s4uGOZhpx0W7iGbI4D5FXtspt4KQVL8f4OCOaARQPeJq0UCX3jvA32X1+Pl2mh4IXf8PitptmgqOl1bI+FGk7nRQo55KfjFPlKaY3b+ambEgk79PgqtYi/ArZTgQwtODMu8ajuaWcXqcsRWzbYRYZoCu3vBnjGpDPI6cl11Bvj2SgZBrXR90Q4b9bQF2JNugIjhwqdjN142yqYTIhz65s2ogaPWKDwCjqinZ0vtqcL8x4=;cZqCBm/UlhFpL/sfrd/WOg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whet
 webUrl: "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Wired
@@ -27,38 +27,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "A Humanistic View Of Artificial Intelligence"
-    excerpt: "Traits and behaviors like sympathy, empathy, regret, joy, hope, optimism, pride, originality, intuition, and even humor are characteristics of human life – and, ultimately, more galvanizing than technical power."
-    publishedDateTime: 2023-07-18T16:32:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/07/18/a-humanistic-view-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6bdfd7b7f15319bbd34f2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Industry assesses impact of AI"
-    excerpt: "The promise of artificial intelligence – and the potential risks – are not lost on those in the HME industry, based on the results of a recent HME Newspoll."
-    publishedDateTime: 2023-07-21T14:59:00Z
-    webUrl: "https://www.hmenews.com/article/industry-assesses-impact-of-ai"
-    type: article
-    provider:
-      name: HME News
-      domain: hmenews.com
-    quality: 39
-    images:
-      - url: "https://www.hmenews.com/uploads/blog/872c454c57fed694cdf51035396f652e.jpg"
-        width: 260
-        height: 260
-        isCached: true
 
 secured: "jobSl+2Vaa//BX49dyqZPT4/3lYt8f6R8kyd+YAl6svVGx5aJnCUmcpG9KGH3RyHsR8VGi+M65PPyt3HWTWuZnDbu6/uajdrjz+dbE6teZl7FbfZnWtXnQD/GYrvqiXS4vLlGQ6OvT2pK23Gf1m7xyHxQOVI3xp/qfQq3v1Ax/gdl+RXjnetfy+xGwiOOfgLVt66gTis60zuhV1gjikAdoSFR5pC9mJdg9axUkbczgg7ozmPDjosRXCizEps6oaQkh1oMI+9ykYsjtsZU1l6wD0PVCfpudWXOaEjYp+/yUfgnHwkoD5ekDfKx7LNt549OAsIqPyOCV70/truIOUe97pjOokOcGsIYFv/fLZ7bz8NPlafoujV3Kza2Sfr3EpYt9/+4H/XR9hDcx8YHlpSpHWRnlaOGf6W2+w5nDAUjZh+8+qh13DLFcjS88JqlteZfzAYxK2zgW+heJO42tWXk1IQWVM4tUiyn94ATugWk/ZWne11FPoNgRkaOAdYwY7bihIl9bKPiuebNRtx8v7s3A==;jFRoKk7VD0RC3Fq7QBK9RQ=="
 ---

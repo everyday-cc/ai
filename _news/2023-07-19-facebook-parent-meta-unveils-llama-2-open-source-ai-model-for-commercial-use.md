@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-op
 webUrl: "https://venturebeat.com/ai/facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use/"
 type: article
 quality: 68
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
-  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
-    excerpt: "Meta is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on"
-    publishedDateTime: 2023-07-18T16:42:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/07/18/meta-opens-ai-model/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 38
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6H0OD-BASEIMAGE.jpg"
-        width: 800
-        height: 558
-        isCached: true
   - title: "Meta launches new generative AI tool for free for research, commercial use"
     excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
     publishedDateTime: 2023-07-19T21:58:00Z

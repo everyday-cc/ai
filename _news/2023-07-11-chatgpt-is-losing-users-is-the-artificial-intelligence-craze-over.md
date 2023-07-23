@@ -5,6 +5,8 @@ excerpt: "The decline in usage of ChatGPT would indicate that artificial intelli
 publishedDateTime: 2023-07-11T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/"
 webUrl: "https://www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/"
+ampWebUrl: "https://www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2023/07/11/chatgpt-is-losing-users-is-the-artificial-intelligence-craze-over/amp/"
 type: article
 quality: 47
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64ac4a122f3e7ac3fa91cf1d/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 784
+    isCached: true
 
 related:
   - title: "China takes major step in regulating generative AI services like ChatGPT"
@@ -316,6 +325,6 @@ related:
       domain: jdsupra.com
     quality: 13
 
-secured: "6wdGlmh4O53tkSUsOlkPCiNc2lFKWyyrlmWPQ8OmidLD0a5PET0BGow2APCK60OnwiQUpovaWGTUr5ZgfhUiE21mui6bBj3Zd3PP1rREBRi4WZBDo1jPTtwVtiall6du+o7oZ97iLW6gbTgE/wChTnqsy95oqTm32qIjTmNF9En7j+oNG8TnET3B8OsB3yTEp3TV0ZKUwLxnCrM30RSOEf863Uq8M0J8py4EtLI2uCB9dw8fXILfEdtoARqu4k3jOMKeuNuJFsNjJpgTQXBdXZPx8hIavgQPBnzDkpuVuFOUUM3L1WAm24BRF9y7kS43KazEn/F8fCe1R153uKX/MYbG4jWKWulxji4e4QJba/wi1z4WadSA7wwdoTrKa1dgZurYyzRpAv7jv0lIVknqVBpzz6Q6pPMpMS5Dwkfvrp8tNXmgS10tUIkmc88xBz7FSQkIRgIV7fZQDgWvIefQJ9uRdHdTjGd+XMo+4lxcFrHjtDOIMFrMTy00L/qxeeP5e54EL26mDIs64ahRY848Hw==;uKwsYxtnkMFsZwKfdMxvKg=="
+secured: "7fSa3U1lkef13YzdjjiznAUbXb2dqsBj/KmRtDUz2DvVHRR2Bb/psEmq1UBEhb5xk7h27tw4fHNACAk6Ukcvc65wQPDotY1BU2tR5FxYlGGHoGwpGCCsHSu0WEMdcssqPJ8mC+UKCbN7W4kyI1LkNqgrur/ykQ1SlqhThRXuhqXy1GgSdbIztidrqo9SomqxU9SMeX4cMS/xcJ0V7Dhz0LxHGt4vT+iQJglqdfOTDKH4PHFel7teb9r9KZbeGAJB3MpaZ/tpCR3ilfCkaBdZJBkrz4n3f2dqgsK9QhIzEuhwywaXDmY8QEZi0pJ0LEq+jZ6nJV9Wq36INggc+o28W7RltYpXeUvhVhCrmoV2wgo=;n1UGFt0WNeV8aCMa3cFQRg=="
 ---
 

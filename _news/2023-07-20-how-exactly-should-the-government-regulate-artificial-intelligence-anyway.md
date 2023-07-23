@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Extremists might use AI to plan attacks, Home Office warns"
-    excerpt: "Suella Braverman says risk of major terrorist incident in UK is increasing"
-    publishedDateTime: 2023-07-18T15:57:00Z
-    webUrl: "https://www.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
-    ampWebUrl: "https://amp.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/113bbb0e735ba20e08390eb5290d8982db69b055/0_116_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0b36a71976764df9bece604d5b1aa271"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "bTfF5GoBJl8TmigXvlABnVZjuoUsdM3EzUrfcMkKIBSyN2lOAx5xylN4YJ8Cuu0F3g6k8JNFIwZTbxZQqocwWjEMtGkmkMztY34zYpyRZDI7vpm4Aj1BeXZblMWj6PGs89vkn+AKkQdCP8Cj0D7rv6SzeiBEpqkZtoBQVtSwziKpiqwquYKC8AeUJLDSPNnC38+urYG7FDvsjRmgzfCaqzaiAsPJIJz2VJ6+t/7szZ1BNnpyVTd8erXYRnqr+KOaWZp2OTIIuh5o85cbxsk9PNJeFoz6AEugpdclr9NRSp+u4V4TTptsHOFrxeht6jUWk97TvXZ31NqNjBiCB3RKNq9ZsF6Ft92FUAXZqVwVoa3bpYyVGwQ5DWyvp3blsT2UEmpcqI5N0sc69c73dOm3rK2vQOxvwYJsHiZzeA/rh1MabPcq1zl8/mfYBBs299FbIGVcUkVXcfZQfTcg4e6h6wvyGXeHa+akYkZsMPsS77rkCH6jUSC6KYZLBsCiWajuHLdCtpxAr1Ps4N9s8ZkIDw==;lPHz2TyQDwSOackyidURsA=="
 ---

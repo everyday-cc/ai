@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-holl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,40 +26,10 @@ images:
     isCached: true
 
 related:
-  - title: "New Showrunner AI: The Sum Of All Hollywood's Fears"
-    excerpt: "It’s both exciting and extremely disturbing, which is why we wanted to share the results of our research in a non-commercial way to show both artists and Hollywood producers that the threat is real.” Saachi said Showrunner is only available to researchers and journalists,"
-    publishedDateTime: 2023-07-18T17:01:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/"
-    ampWebUrl: "https://www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/07/18/new-showrunner-ai-the-sum-of-all-hollywoods-fears/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b5c21ae602538edd47c5e6/0x0.jpg?format=jpg&crop=2214,1244,x0,y179,safe&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Fable unveils Showrunner AI to create South Park-like TV shows with you as the star"
-    excerpt: "Fable has released Showrunner AI technology, dubbed SHOW-1, which can generate new episodes of TV shows with you as the star."
-    publishedDateTime: 2023-07-18T17:01:00Z
-    webUrl: "https://venturebeat.com/games/the-simulation-unveils-showrunner-ai-to-create-south-park-like-tv-shows-with-you-as-the-star/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/south-park.jpg?w=1200&strip=all"
-        width: 1200
-        height: 665
-        isCached: true
   - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
     excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
     publishedDateTime: 2023-07-23T04:01:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
     type: article
@@ -95,6 +65,15 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 17
+  - title: "‘Bargaining for our very existence’: why the battle over AI is being fought in Hollywood"
+    excerpt: "The ramifications of artificial intelligence are of concern to the actors and writers on strike – from big stars to bit players"
+    publishedDateTime: 2023-07-22T10:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/22/sag-aftra-wga-strike-artificial-intelligence?ref=biztoc.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 8
 
 secured: "B0gd5lzCJWYB3fyK10nFy5IsH19Z7lv96lJ7Uu8TvYUAoxDDLy8+z4/u4KC1Hm9Syg2DoxZutBBP3FEB7Vpz1aavdy2ik8rRREaFSG2Y/MtQ76iPrBb3DIRhdT1TbytRckaxerDlkZ2kjT4sV/MyGNuSIkPzLG/0D18uBu84nhkBHIjm0IAa6wh9Nz8/POd2Q0ubW0bz+/HESsN2YpKvEv4rmqOEqfZXtjvTWqHqHdpfWLLFFjliEDyZ5tDO2/pTs+PbiMjWxUHHh5TOoCV4W/perqDXsty+Z4zG4+7svXW3kvxcrj4IBZ26qR5dheIIraVBpYLLOaOqWHSdA8x8HHMQCSYWvZEphxpqThrIEPTsssqXNlrLZtMt48PiiVon3y5Yg42QVoQFXoJ/dZYY/hicL53Sb6Uq3e08Jr8MJ6T+x/ghDnJriKNBgEoK4oS6LxI48Lis5UCQR+AKOotqsw4cMyOm+1SQ4RufGuzUg4ezfKyoFBy3V8SRjVZB3kbLbxE6OLfH09aMfFo2Tcs3Og==;V5dSMYKnJAYkkTf+rKGO+Q=="
 ---

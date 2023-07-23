@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "More than 1,300 experts call AI a force for good"
-    excerpt: "An open letter signed by more than 1,300 experts says AI is a \"force for good, not a threat to humanity\". It was organised by BCS, the Chartered Institute for IT, to counter \"AI doom\". Rashik Parmar,"
-    publishedDateTime: 2023-07-18T15:59:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-66218709"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 17
 
 secured: "B2X7C0wRRitc7NPVLWKBMQ+P87Sia3gSCbu4sDB+atJDAMwhCmTnWgzLAEkJ4ANDalLFLeuYv2BLJqNOoyTWh0IxQVw1kkk8GXhgabSvEy34ncfoDr91ax1pl3NF3q6Bov810CJ8IG/jVtFUjFWmN40//nsdGITPK6uLzdJeo+Ti24d6H3smB5qC0pqgdP+YYCER3wSEFCb/F7DbZ90vvnwMITS8H7Phpo64mx6yGT4CwTkyky5uP9//sPJOpNc6MzYmmHV67DniRTViP/VhyIenModlK6+ynJAqbjNYg+rcpjVui+sg8sDOEU/M3hvOUf3AR688oXCAJPury9ZL3khozdHHwA0C+Uj7P7uzUX4=;P4avhMzcZXHGLYyX0izWkw=="
 ---

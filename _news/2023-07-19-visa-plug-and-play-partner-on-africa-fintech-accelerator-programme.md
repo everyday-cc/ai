@@ -36,15 +36,6 @@ related:
         height: 600
         isCached: true
   - title: "Tachyum Presents Paper on Prodigy Processors in Blockchain for Banking and FinTech"
-    excerpt: "Tachyum ® today released a paper \"Credit Unions, Blockchain, CBDC, FinTech and Tachyum Prodigy ®\" explaining how Prodigy, the world's first Universal Processor, can transform transactional banking while minimizing the monetary and environmental costs of blockchain's electrical energy requirements."
-    publishedDateTime: 2023-07-18T16:32:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9850248.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
-  - title: "Tachyum Presents Paper on Prodigy Processors in Blockchain for Banking and FinTech"
     excerpt: "Tachyum ® today released a paper \"Credit Unions, Blockchain, CBDC, FinTech and Tachyum Prodigy ® \" explaining how Prodigy, the world's first Universal Processor, can transform transactional banking while minimizing the monetary and environmental costs of blockchain's electrical energy requirements."
     publishedDateTime: 2023-07-18T17:59:00Z
     webUrl: "https://it.tmcnet.com/news/2023/07/18/9850248.htm"

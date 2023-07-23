@@ -95,47 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft announces Azure AI trio at Inspire 2023"
-    excerpt: "These three new Azure technologies can extend your AI capabilities, and allow you to deliver these capabilities at enterprise scale."
-    publishedDateTime: 2023-07-18T16:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-  - title: "Meta, Microsoft open access to next gen AI-language model Llama 2"
-    excerpt: "US technology giant Meta on Tuesday introduced Llama 2, the next generation of its large language model (LLM), which will be open source and free for both research and commercial uses. An LLM is an artificial intelligence (AI) model that has been trained with deep learning algorithms to generate and generally"
-    publishedDateTime: 2023-07-18T16:46:00Z
-    webUrl: "https://www.laprensalatina.com/meta-microsoft-open-access-to-next-gen-ai-language-model-llama-2/"
-    ampWebUrl: "https://www.laprensalatina.com/meta-microsoft-open-access-to-next-gen-ai-language-model-llama-2/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/meta-microsoft-open-access-to-next-gen-ai-language-model-llama-2/amp/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 76
-    images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/07/1a76ba64fd777ce98087abd57bd5bee26e9f58e0w-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Microsoft and Meta announce Llama 2 open source generative AI tool"
-    excerpt: "At Microsoft Inspire 2023, Meta and Microsoft announced the availability of Llama 2, the latest version of Meta's open source large language model, on Azure and Windows."
-    publishedDateTime: 2023-07-18T17:01:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2527973-microsoft-and-meta-announce-llama-2-open-source-generative-ai-tool"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2527973-microsoft-and-meta-announce-llama-2-open-source-generative-ai-tool?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2527973-microsoft-and-meta-announce-llama-2-open-source-generative-ai-tool?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_07_2023_22_21_02_8107165.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft, Meta open AI model for commercial use"
     excerpt: "According to a Microsoft blog post, the new free-to-use model enables developers and organisations to build generative AI-powered tools and experiences. Llama 2 will be distributed by Microsoft through its Azure cloud service and will run on the Windows ..."
     publishedDateTime: 2023-07-19T09:34:00Z
@@ -182,24 +141,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Meta, Microsoft Team Up to Offer New AI Software for Businesses"
-    excerpt: "WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about AI tools and how the technology is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft will release a new version of Meta ..."
-    publishedDateTime: 2023-07-18T16:14:00Z
-    webUrl: "https://www.wsj.com/articles/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-c4f7b634?mod=rss_Technology"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-  - title: "Microsoft Continues Bringing AI Tools to Microsoft 365"
-    excerpt: "Artificial intelligence-powered Bing Chat is now rolling out to Microsoft 365 enterprise users in preview form, Microsoft said Tuesday. Microsoft is pushing privacy as a key selling point, saying AI-powered chat data is protected and won't leak outside an organization."
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-continues-bringing-ai-tools-to-microsoft-365/?n=@"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 64
   - title: "Microsoft Stock on Pace for Record Close After AI-Related Announcements"
     excerpt: "Shares of Microsoft were up more than 5% in afternoon trading following the company's announcements about artificial-intelligence-related products. That jump puts Microsoft on pace t"
     publishedDateTime: 2023-07-18T19:31:00Z
@@ -322,15 +263,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft to charge premium for generative AI features"
-    excerpt: "Microsoft is to charge $30 a month for generative artificial intelligence features in its widely used productivity software, slapping a bigger premium than expected on a technolog"
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://www.ft.com/content/a0bc149f-404b-45c3-836c-2297035526c9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Microsoft increases channel exposure to AI"
     excerpt: "Vendor rolls out fresh specialisation encouraging the channel to embrace the benefits artificial intelligence can deliver."
     publishedDateTime: 2023-07-19T09:45:00Z

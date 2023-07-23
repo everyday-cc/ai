@@ -22,45 +22,50 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Corporate earnings season heating up, TSMC outlook adding concerns to AI and chip names"
-    excerpt: "- Industrials: Saab [SAABB.SE] +3.5% (Q2 results), Electrolux [ELUXB.SE] -15.0% (earnings; starts preparations for a potential divestment of Zanussi and other non-core brands during the coming years which could be valued at SEK10B in total), Volvo Cars [VOLCARB.SE] -1.0% (Q2 results), Alfa Laval [ALFA.SE] +6.0% (Q2 results)."
-    publishedDateTime: 2023-07-20T09:44:00Z
-    webUrl: "https://www.fxstreet.com/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944"
-    ampWebUrl: "https://www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/corporate-earnings-season-heating-up-tsmc-outlook-adding-concerns-to-ai-and-chip-names-202307200944"
+  - title: "Moral considerations in AI marketing: Building trust in tech industry"
+    excerpt: "Deepfakes – Generative AI, including machine learning techniques like deepfakes, has the capability to produce synthetic media like images, videos, and audio. This AI-generated content can often be indistinguishable from real media, giving rise to significant ethical concerns and implications."
+    publishedDateTime: 2023-07-23T08:28:00Z
+    webUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/"
+    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
     type: article
     provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 66
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
     images:
-      - url: "https://editorial.fxstreet.com/images/Markets/Equities/DowJones/DowJones_frontbuilding_Small.jpg"
-        width: 320
-        height: 213
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-23T104311.624.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI server chip demand to surge over next 5 years, says TSMC"
-    excerpt: "Demand for AI server processors, including CPUs, GPUs, and AI accelerators, has already contributed approximately 6% to TSMC's total revenue, according to company CEO CC Wei at a July 20 earnings conference call."
-    publishedDateTime: 2023-07-21T01:33:00Z
-    webUrl: "https://www.digitimes.com/news/a20230720PD216/ai-server-tsmc.html"
+  - title: "Artificial Intelligence in Mechanical Contracting"
+    excerpt: "Artificial intelligence is dominating headlines around the world. But how practical is it? Can it be integrated into business operations in a way that boosts the bottom line without introducing costly errors? Some companies in the mechanical contracting ..."
+    publishedDateTime: 2023-07-19T15:33:00Z
+    webUrl: "https://www.contractormag.com/technology/article/21269819/artificial-intelligence-in-mechanical-contracting"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: CONTRACTOR
+      domain: contractormag.com
+    quality: 37
     images:
-      - url: "https://img.digitimes.com/newsshow/20230720pd216_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/07/dreamstime_xxl_48306788.64b7fd4dcb240.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "TSMC warns of deepening chip slump as AI boom fails to offset economic woes"
-    excerpt: "The world’s biggest contract chipmaker, Taiwan Semiconductor Manufacturing Company, has warned of a deepening semiconductor slump, as the boom in artificial intelligence fails to offset global economic woes and China’s delayed recovery."
-    publishedDateTime: 2023-07-20T10:22:00Z
-    webUrl: "https://www.ft.com/content/f433971d-fd8e-4ed3-91e9-e25a96284ea0"
+  - title: "“Building Smarter: Discovering the Potential of 7 Artificial Intelligence Solutions in Construction”"
+    excerpt: "As we stand on the cusp of a new era powered by Artificial Intelligence (AI), we question how it can revolutionize construction. Can AI enhance our understanding of the critical path, resources, and equipment?"
+    publishedDateTime: 2023-07-19T08:50:00Z
+    webUrl: "https://techbullion.com/building-smarter-discovering-the-potential-of-7-artificial-intelligence-solutions-in-construction/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 32
+      name: Impacts
+      domain: techbullion.com
+    quality: 22
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/Artificial-Intelligence-Solutions-in-Construction-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "fGbgnRD38hZtyOHa2lEvUzn1FAef/L2A/rtlHv5edt6mIl6DbWhtY/AbfGbs57Y4IRFhb5HEpOvw2BHhxD5O3W4jDY07C+yuxNF5CxioIwBUh9qjEJuah5qwtCH8BG3kueWy9VvGZrQh3c4PZIoAYhxqOnRL3gPJuZSzIb0HKg+HEQMKzcyunKs8rbUet3haKAGZvZAIzs0KuJ/eWSNgcbw0k/LCEcqQEpFwyN5cGnFjLsJMX+wUwUocEEbSdsOrK8Me1rm2g/njcbbr5uFKNEg8MjhVenLD08/BJycfmdVbgMdzsi4q8h9sQlhVXiFoiedWRDcFdd0zMXHBvGEMwglP/BQbKHfqiI+BT41BYOI=;FlV6MTDJavJPAAG2/lnZfA=="
 ---

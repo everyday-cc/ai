@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
 type: article
 quality: 87
-heat: 119
+heat: 107
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.reuters.com/resizer/nt3VW7-m59OC92AMMqKOKxZT5u4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26PNNN33MZOEHKBQQSZNQUORDI.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Extremists might use AI to plan attacks, Home Office warns"
-    excerpt: "Suella Braverman says risk of major terrorist incident in UK is increasing"
-    publishedDateTime: 2023-07-18T15:57:00Z
-    webUrl: "https://www.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
-    ampWebUrl: "https://amp.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2023/jul/18/extremists-might-use-ai-to-plan-attacks-home-office-warns"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/113bbb0e735ba20e08390eb5290d8982db69b055/0_116_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0b36a71976764df9bece604d5b1aa271"
-        width: 620
-        height: 372
         isCached: true
   - title: "How exactly should the government regulate artificial intelligence anyway?"
     excerpt: "An old saying goes like this: \"If it moves, tax it. If it moves too fast, regulate it. If it stops moving, subsidize it.\" Well, Artificial Intelligence is in that fast-moving stage, but no one"

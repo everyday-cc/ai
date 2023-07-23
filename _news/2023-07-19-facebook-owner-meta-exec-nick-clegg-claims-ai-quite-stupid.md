@@ -46,7 +46,7 @@ related:
   - title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
     excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
     publishedDateTime: 2023-07-22T18:59:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
     type: article

@@ -87,36 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft's Inspire 2023: 10 quick AI and partnership announcements you need to know"
-    excerpt: "We explore ten key takeaways from Microsoft's Inspire 2023, focusing on AI advancements and strategic partnerships in detail."
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-inspire-2023-10-quick-ai-and-partnership-announcements-you-need-to-know/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-inspire-2023-10-quick-ai-and-partnership-announcements-you-need-to-know/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-inspire-2023-10-quick-ai-and-partnership-announcements-you-need-to-know/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/413f6dc41c8ce82ea61fe22829ec68eb6873f22b/2023/07/18/afe9175b-aa72-4137-b6f7-2e0039c5f587/gettyimages-1259154565.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft 365 Copilot AI’s steep price is an ill omen for Windows users"
-    excerpt: "Microsoft announced that it will charge businesses $30 per user per month for Microsoft 365 Copilot, its AI assistant for the Office apps. In some cases, that's more than double its price for Microsoft 365."
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://www.pcworld.com/article/1997371/microsofts-price-for-its-business-ai-is-insane.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 86
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/07/m365copilot_business_1920x1080_print.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google, Meta, Microsoft, OpenAI and more agree to voluntary AI safeguards"
     excerpt: "Several AI companies, from Google to OpenAI to Microsoft, have worked with the White House on a set of voluntary AI safeguards."
     publishedDateTime: 2023-07-21T17:27:00Z
@@ -130,20 +100,6 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2023/07/government-AI.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 762
-        isCached: true
-  - title: "Microsoft wants your next salesperson to have an AI copilot"
-    excerpt: "The basic goal of a copilot is to bring the power of generative AI, and in Microsoft’s case the Azure OpenAI service, to applications to help answer questions, provide recommendations, perform sentiment analysis and generate content. In March ..."
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-wants-your-next-salesperson-to-have-an-ai-copilot/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
         isCached: true
   - title: "Microsoft Teams is adding Maybelline’s AI-powered ‘makeup’ filters"
     excerpt: "The new feature is rolling out to global Microsoft Teams Enterprise customers starting today and can be located under the “Video Effects” tab within the Teams meeting settings. We’ve asked Microsoft if the filters will also be available to users on the free Microsoft Teams tier and will update this story if we hear back."
@@ -201,20 +157,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft puts a steep price on Copilot, its AI-powered future of Office documents"
-    excerpt: "Microsoft is reportedly working on its own AI chips in an attempt to avoid a costly reliance on Nvidia. Microsoft is also bringing this Copilot experience to Teams, with integration into the Teams phone calling experience and inside Teams Chat threads."
-    publishedDateTime: 2023-07-18T15:31:00Z
-    webUrl: "https://www.theverge.com/2023/7/18/23798627/microsoft-365-copilot-price-commercial-enterprise"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 80
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/us3C3NVbjWs237WlxrGoBjQflZI=/0x0:1105x675/1200x628/filters:focal(553x338:554x339)/cdn.vox-cdn.com/uploads/chorus_asset/file/24794375/M365Copilot_HeroBanner_Apps_BLOG_FEATURE.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead"
     excerpt: "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom."
     publishedDateTime: 2023-07-22T14:26:00Z
@@ -261,20 +203,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Microsoft Inspire 2023: The Biggest News In AI, Copilots, Azure"
-    excerpt: "These are among the biggest announcements to come out of Microsoft’s annual partner-focused Inspire event this year. Inspire 2023 runs from Tuesday to Wednesday online. Solution providers and other partner business types have proven essential to Microsoft bringing AI to market and getting more Azure customers, according to the vendor."
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-inspire-2023-the-biggest-news-in-ai-copilots-azure"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 69
-    images:
-      - url: "https://www.crn.com/resources/0283-1885ad0cd13a-8613ed69c44e-1000/microsoft-inspire-intro.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Microsoft Inspire 2023: Key updates on AI, Azure, Copilot"
     excerpt: "Find Microsoft Inspire 2023 innovations, investments, programs, and partner opportunities in new forms of AI like ChatGPT, Copilot, and more."
     publishedDateTime: 2023-07-19T07:14:00Z
@@ -303,20 +231,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Cohere is teaming up with McKinsey to bring AI to enterprise clients"
-    excerpt: "Some businesses have already begun reaping the benefits of the collaboration, using AI for product development and speeding time-to-market."
-    publishedDateTime: 2023-07-18T16:07:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-is-teaming-up-with-mckinsey-to-bring-ai-to-enterprise-clients/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/blog_cohere_inset_leaders_1000x718.webp?w=1200&strip=all"
-        width: 1000
-        height: 718
-        isCached: true
   - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
     excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
     publishedDateTime: 2023-07-21T12:04:00Z
@@ -339,6 +253,22 @@ related:
       - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robot_coffee.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "KPMG and Microsoft enter a landmark agreement to put AI at the forefront of professional services"
+    excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of busine"
+    publishedDateTime: 2023-07-23T08:28:00Z
+    webUrl: "https://www.albawaba.com/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/kpmg-and-microsoft-enter-landmark-agreement-put-ai-forefront-professional-services"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 61
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/KPMG_Microsoft_EA_LinkedIn_1200x627.jpg?itok=GG3YmLd-"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Meta opens AI chatbot tech for commercial use via Microsoft"
     excerpt: "Meta Platforms Inc. is making its artificial intelligence large language model, Llama 2, available for commercial use through partnerships with major cloud providers including Microsoft Corp. Meta isn’t charging for access or usage of the model it developed,"
@@ -389,48 +319,6 @@ related:
       - url: "https://d.ibtimes.com/en/full/4472599/mark-zuckerberg-pictured-has-mostly-ignored-provocations-elon-musk.jpg"
         width: 768
         height: 511
-        isCached: true
-  - title: "Inspire 2023: Microsoft continues AI push at Inspire"
-    excerpt: "Microsoft kicked off its annual event, Microsoft Inspire, with a focus on collaboration and the transformative power of artificial intelligence (AI)."
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://www.onmsft.com/news/inspire-2023-microsoft-continues-ai-push-at-inspire/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Microsoft-Inspire-2023-Update.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft debuts Bing Chat Enterprise, as AI wars rage on"
-    excerpt: "Users can request information about spreadsheets, summarize meetings, and more, as well as access Bing AI web searches. Microsoft previously launched its Azure AI Studio, which allows companies to create their own AI-powered copilots, apps that pair a firm ..."
-    publishedDateTime: 2023-07-18T15:46:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-debuts-bing-chat-enterprise-153024576.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/F5VhTeMroMGieA4iOdBkqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/b983472aa5713b9ed094457a488b5fee"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Teladoc expands Microsoft partnership to add AI documentation tools"
-    excerpt: "The telehealth company will integrate artificial intelligence tools for clinical documentation, including Nuance’s Dragon Ambient eXperience, with its platform for hospitals and health systems."
-    publishedDateTime: 2023-07-18T15:23:00Z
-    webUrl: "https://www.healthcaredive.com/news/Teladoc-Microsoft-AI-clinical-documentation-partnership/688236/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/kOWfD2ShjgQn4cjAE4UozSetVvZ8l6nsoI0nDML5F-w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNTMzNTc0MTAuanBn.jpg"
-        width: 770
-        height: 435
         isCached: true
   - title: "Azure Enhancements Outlined at the Microsoft Inspire Partner Event"
     excerpt: "Azure Boost is a software and hardware component of the Microsoft Azure Network Adapter ( MANA ), which is also at the preview stage. MANA is an Azure \"next-generation network interface\" that's designed to optimize the networking performance of Linux- and Window-based virtual machines."
@@ -494,20 +382,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 51
-  - title: "Microsoft builds on the cloud journey with Azure migration and cloud-native tools"
-    excerpt: "To provide enterprise businesses the tools needed to give them a leg up when migrating to the cloud, Microsoft Corp. today announced two new Azure offerings during Microsoft Inspire 2023, “Azure Migrate and Modernize” and “Azure Innovate,"
-    publishedDateTime: 2023-07-18T15:30:00Z
-    webUrl: "https://siliconangle.com/2023/07/18/microsoft-builds-cloud-journey-azure-migration-cloud-native-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/AdobeStock_314238595.jpeg"
-        width: 3600
-        height: 1800
-        isCached: true
   - title: "Meta makes its AI model Llama 2 available on Microsoft Azure and Windows"
     excerpt: "Meta has expanded its long-standing partnership with Microsoft to make Llama 2, its new family of large language models (LLMs), freely available to commercial customers for the first time via Microsoft Azure and Windows."
     publishedDateTime: 2023-07-19T00:00:00Z
@@ -517,20 +391,6 @@ related:
       name: technologyrecord.com
       domain: technologyrecord.com
     quality: 48
-  - title: "Meta and Microsoft join forces to bring Llama 2 language models to Azure and Windows"
-    excerpt: "Meta and Microsoft have announced their collaboration at Microsoft Inspire to introduce support for the Llama 2 family of large language models (LLMs) on"
-    publishedDateTime: 2023-07-18T17:01:00Z
-    webUrl: "https://www.onmsft.com/news/meta-and-microsoft-join-forces-to-bring-llama-2-language-models-to-azure-and-windows/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 47
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/Meta-and-Microsoft-join-forces.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Intel, Microsoft, Other Tech Giants Want To Boost AI, HPC With ‘Ultra Ethernet’ Solution Stack"
     excerpt: "Intel, Microsoft, Hewlett Packard Enterprise and other tech giants seek to build an 'Ultra Ethernet' solution stack that addresses the growing network demands of AI."
     publishedDateTime: 2023-07-19T21:42:00Z

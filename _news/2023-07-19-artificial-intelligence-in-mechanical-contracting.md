@@ -24,19 +24,46 @@ images:
     isCached: true
 
 related:
-  - title: "AI in law, consulting and professional services"
-    excerpt: "Lawyers and accountants charge handsomely for human expertise — but firms have still been embracing the technology"
-    publishedDateTime: 2023-07-20T04:00:00Z
-    webUrl: "https://www.ft.com/content/d2401cde-cd49-476b-83f0-5647054d9f99"
+  - title: "Moral considerations in AI marketing: Building trust in tech industry"
+    excerpt: "Deepfakes – Generative AI, including machine learning techniques like deepfakes, has the capability to produce synthetic media like images, videos, and audio. This AI-generated content can often be indistinguishable from real media, giving rise to significant ethical concerns and implications."
+    publishedDateTime: 2023-07-23T08:28:00Z
+    webUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/"
+    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F29730386-e3f3-420f-b566-85b8ce49ad79.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-23T104311.624.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "States Consider Regulating Artificial Intelligence in Hiring"
+    excerpt: "About a quarter of businesses across the nation have adopted AI and many are beginning to use the tech in their hiring process. Only three states currently require employers to ask for consent first if using AI in hiring."
+    publishedDateTime: 2023-07-18T21:01:00Z
+    webUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring"
+    ampWebUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 41
+  - title: "“Building Smarter: Discovering the Potential of 7 Artificial Intelligence Solutions in Construction”"
+    excerpt: "As we stand on the cusp of a new era powered by Artificial Intelligence (AI), we question how it can revolutionize construction. Can AI enhance our understanding of the critical path, resources, and equipment?"
+    publishedDateTime: 2023-07-19T08:50:00Z
+    webUrl: "https://techbullion.com/building-smarter-discovering-the-potential-of-7-artificial-intelligence-solutions-in-construction/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 22
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/Artificial-Intelligence-Solutions-in-Construction-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "tsD8nNUUKrkABQbnuKziWKoEn1qMW5cp0plej+CMjlxfmWH7JzDgO5efuufLhDTP/GeajVYcU3CwJJXpSwMnKd8jJmv4BWpWxlxOu9SMVLWnDnI350rEq+U3pjSCWvhY3iRO+LpPFzAq2yGzJC2lO6vvzMR1Yn7YlYd17JTIFe2LUU1+uxx3EGL5/NBNvoNVvw+6xxLcdXoD8ER5aRmb8OJ6WbyLtAR8KsOcCHQ7pYzD1kKftInQF8fW19ianVmtaje+uPXXeOnRNSglUY7OjZWqhfgOVe+cGEUnLoyzY+LA/GghufP2lNZ6fE2UNXBKJgEUat9taDbUlr0i+UF3KEhAr7Oty4XtV2Ld8p1MoO4=;yz/FfdNA8eSHSOep/p/EkQ=="
