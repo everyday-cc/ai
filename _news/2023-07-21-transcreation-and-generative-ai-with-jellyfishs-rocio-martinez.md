@@ -107,24 +107,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "The great acceleration: CIO perspectives on generative AI"
-    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
-  - title: "Will Artificial Intelligence End Civilization?"
-    excerpt: "Researchers are conducting a public survey to gauge opinions on artificial intelligence (AI) and software in general, aiming to better understand public perceptions, fears, and hopes about AI's impact on society."
-    publishedDateTime: 2023-07-18T12:12:00Z
-    webUrl: "https://scitechdaily.com/will-artificial-intelligence-end-civilization/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 17
 
 secured: "XY+KrB/DO10W/XHrZ0LSw+4rwfHKzM3XseOb8uItSqIhh3rbpgBeDmAS8UNs/IRDOmtXcD4/BkS9YdB3IbOH2eSGoqqH4QIR09OLyfnVT0jF9TOTAtfEqwx9d+jbIKjHhGFe/a/nB8GW+RgeplafDYpfqIzh/bYimXeY4xsJEfGG+5yezwRWwT6Ilt4MRO97zs06lu0h3PAad/TwuBOnfGbuj9x4+D+fBGLE46olIfQ3MBZ/na3xowOoFiKOlVr0ZEE0yT5No8WV/dFBbZoMnRYVrzgKehe22UUIocPi8gw7ZNv4DJqa0qlOjAe23jd9I57Jn610gA+sGcvqZmLkuEHucASl+jee1c/8aG3rkCpMIPa7rTDThr2fCOIzR+nvxOjpikYYN693L0BcuMhaYY2Y6biiFoCEYbVKujmKCtQUFrwwhUpxtvFiKG22xzNy5oVIVh00Lucqxa2QerBHkKeSb4Nyq/B0Zvfj5TKFCWB3znO6Pj5/bY4tdFJHZ8jAxa40Sh73m3E3ZpC/x93frA==;RZnTWu6qTEisybcQvOML/w=="
 ---

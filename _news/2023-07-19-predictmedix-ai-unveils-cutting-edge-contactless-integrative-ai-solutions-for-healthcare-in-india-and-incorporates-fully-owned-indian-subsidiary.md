@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI for India 2.0 Pitches AI Learning Course for Residents, A Good Idea?"
+    excerpt: "To accelerate its integration of artificial intelligence (AI) and stay at the forefront of technological advancements, India has launched an AI learning course, AI for India 2.0. The course aims to promote AI adoption in key industries and expand the country’s talent pool for AI firms while providing upskilling and recruitment opportunities for its citizens."
+    publishedDateTime: 2023-07-23T03:39:00Z
+    webUrl: "https://www.cryptopolitan.com/india-2-0-ai-learning-course/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-22_16-26-18-1.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "US and like-minded countries including India need to work together to shape course of AI: Dr Arati Prabhakar"
     excerpt: "The US and like-minded countries including India need to work together to shape the course of artificial intelligence and make sure that it is used responsibly, Dr Arati Prabhakar, the Science Advisor to President Joe Biden,"
     publishedDateTime: 2023-07-22T05:47:00Z
@@ -88,15 +102,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
-  - title: "AI revolution: Stability AI CEO predicts grim future for outsourced coders in India"
-    excerpt: "Stability AI CEO Emad Mostaque predicts that most of the outsourced programmers in India will lose their jobs in the next year or two as a result of artificial intelligence (AI) playing a larger role in software development and reducing significantly the need for human involvement."
-    publishedDateTime: 2023-07-18T12:45:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-revolution-stability-ai-ceo-predicts-grim-future-for-outsourced-coders-in-india-10981501.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 13
 
 secured: "xlTSIT96lqupyvb4kNMUps6kiAQfGSp69w5GcNeI3J0uoWXdVjcC5Vv4clsFU1LlccdBYQpdGnPKdsONrliCeYjwScm+3PdZKOSRJTbmcY69ZIRYB6uHA5J7wLBqyPKAn2DvMbNo28FlkZlFEW5OUwEB7tr2J7xuESUhIfCXuYnlHtC/eWK1eSMVCxLbaX1EEXdGE2S5gk5Vdf6cWQtDMGqey4UeFZJN/sEEwolEn43bN4NpOKDUCKJadPMgGnlMj1Sb9I3nfFDm3hFRSEcf5KcggAizbSPIMtqGfefKet3Sm3iqVCbKGZ2QOiyhBRAV0tEho6dOMM0Up33XeSbowB19qU900LQqHBX2VdEq1yE=;NnGop9vspCRKaK/jtFvWUQ=="
 ---

@@ -182,20 +182,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Samsung said to make Tesla's next-gen self-driving chips"
-    excerpt: "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ..."
-    publishedDateTime: 2023-07-18T11:22:00Z
-    webUrl: "https://seekingalpha.com/news/3988297-samsung-said-to-make-teslas-next-gen-self-driving-chips"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418906269/image_1418906269.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Tesla Will Let You Transfer $15k Full Self-Driving To A New Car, But There’s A Catch"
     excerpt: "Tesla is finally allowing owners to transfer their FSD package to a new car, but the offer is only valid for new orders placed in the third quarter, and owners must trade in their old vehicle to Tesla"
     publishedDateTime: 2023-07-21T13:32:00Z

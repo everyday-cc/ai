@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/atlanta/news/ai-is-a-concern-for-writers
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/atlanta/news/ai-is-a-concern-for-writers-but-actors-could-have-even-more-to-fear/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: CBS News
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is a concern for writers. But actors say they have even more to fear"
-    excerpt: "How many actors does it take to make the movies and shows produced by studios and streaming services? SAG-AFTRA, the actors union that has had 160,000 members on strike since last week, is afraid that artificial intelligence will lead to far fewer employed actors in the future."
-    publishedDateTime: 2023-07-18T12:33:00Z
-    webUrl: "https://kesq.com/money/cnn-business-consumer/2023/07/18/ai-is-a-concern-for-writers-but-actors-say-they-have-even-more-to-fear/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 19
   - title: "AI is a concern for writers. But actors say they have even more to fear"
     excerpt: "How many actors does it take to make the movies and shows produced by studios and streaming services? SAG-AFTRA, the actors union that has had 160,000 members on strike since last week, is afraid that artificial intelligence will lead to far fewer employed actors in the future."
     publishedDateTime: 2023-07-18T18:33:00Z

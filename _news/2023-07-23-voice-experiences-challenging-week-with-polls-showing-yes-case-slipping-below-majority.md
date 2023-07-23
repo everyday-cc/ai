@@ -101,15 +101,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
-    excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
-    publishedDateTime: 2023-07-18T12:08:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/wallaroo-ai-and-ampere-computing-to-bring-cost-effective-ml-inferencing-to-the-cloud"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 29
   - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
     excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
     publishedDateTime: 2023-07-19T09:20:00Z

@@ -104,15 +104,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "The great acceleration: CIO perspectives on generative AI"
-    excerpt: "The emergence of consumer-facing generative AI tools in late 2022 and early 2023 radically shifted public conversation around the power and potential of AI. Though generative AI had been making waves among experts since the introduction of GPT-2 in 2019,"
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/18/1076423/the-great-acceleration-cio-perspectives-on-generative-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "Transcreation and Generative AI with Jellyfish’s Rocio Martinez"
     excerpt: "Rocio Martinez, VP of Language Services at Jellyfish, joins SlatorPod to talk about the role of creative content localization at the digital marketing agency."
     publishedDateTime: 2023-07-21T08:35:00Z
@@ -122,15 +113,6 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
-  - title: "Will Artificial Intelligence End Civilization?"
-    excerpt: "Researchers are conducting a public survey to gauge opinions on artificial intelligence (AI) and software in general, aiming to better understand public perceptions, fears, and hopes about AI's impact on society."
-    publishedDateTime: 2023-07-18T12:12:00Z
-    webUrl: "https://scitechdaily.com/will-artificial-intelligence-end-civilization/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 17
 
 secured: "zT78oILTHpq7+XOrB/TjNejf9gGXRr65p6/ijEikHZPKHwOQeHbbr6thX2GVKYg2Ig9UVSuU2Be5PNYyLJqI5e2nSynxOsN551dCdFyvadYmIaP9d05TGEavgy5zh2zZjiOiiMJyDhAYFSJTc09XJwTWxDswpk8Y85+aEIswkhhgdmiIZC8hXGvbDTs4WvYtRdE5N5U6MEPaa+1QBDv1ThqfdcDhaEWzAUYsfLFsnKel3b0sv4u6g+iqerZ1+i/99cx7IwR0eK5roDDA/3OKALxB00GDHOIs17d2N0FUfTU+cX+PylIxZvTfLSr049wXj9gKgQXwlCVOvx+CtzNQccP2qitXVYjzmZOhFQJb19NIPa4j3j3Srv2jpbui+zINEDeHdPrqwb4hZDVwVLvp7cyu0FxTu5hMo5VF8uW6UhVZJhzUVkXV35LwxVJCKLnieAuD9lxS8nbTDlXMOxWLShe85CH2ah5IfvEFpb1pDua2+7irGH8NqOujv4zRUXFJx/3jF4tznrlUk/WIJtMWcw==;Ehh7hJH6hEeNKtu29Dlq1w=="
 ---

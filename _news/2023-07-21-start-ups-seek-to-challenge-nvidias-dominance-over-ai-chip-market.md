@@ -28,20 +28,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 76
-  - title: "Micro Logic collaborates with NVIDIA to fast-track the use of artificial intelligence in Canada"
-    excerpt: "CNW/ - Advancing its goals in artificial intelligence (AI) processing, Micro Logic today announced it is now a regional Cloud Service Provider for DGX"
-    publishedDateTime: 2023-07-18T11:30:00Z
-    webUrl: "https://www.newswire.ca/news-releases/micro-logic-collaborates-with-nvidia-to-fast-track-the-use-of-artificial-intelligence-in-canada-871401801.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/2153839/Micro_Logic_Micro_Logic_collaborates_with_NVIDIA_to_fast_track_t.jpg?p=facebook"
-        width: 598
-        height: 315
-        isCached: true
 
 secured: "/lm6jjcaEdQe2acG850bAg84k6T3hXGPlh441fuWHBiPij2gCm/QmxdnKFIXsHoBDCwCbTDlSm2UEyNJzf065/m8dv65D8oHauELxh1VJnwRr72aoBEEAzHGoabyeA0e8nysE8QlRq7SWzDRMs6dzHMxp16Qz+eMAYF7obdIHEjEtNyajXL5GYFmDjg7V/P7hxP/htUjyB7J45CrJM988eEQDTqbNvDyPqcJuk6xuwU8PUq5UKJCyIa41UYI3d/jouBpwKl1Oq8c3tIXJDAvN0KRhffcKipyHsgqFDBpfGAMinS/XLZ0rzOqkyvr8aSIQe3UFhPFvoYmx0MpCRwDk0VvyD4nOrKC44hic8jMlBkI0wyrKjAuWd3WX+TBVFG6SgGkIGwOzWiFfE6TpKieOBCG7MvcT7YAZa0mdA6xS0FMyRUNnotQvka3aeLg6CCVXzf4UiPRFQIFV8PEZbTi6yznVdKQKdCn6kXBBYnSDFDvDqrTr69CvRCDB9eFu0ridTOXQjudaUeaP41uw4/Y6w==;f8tmnI42rawTi3x5gZ+9tw=="
 ---

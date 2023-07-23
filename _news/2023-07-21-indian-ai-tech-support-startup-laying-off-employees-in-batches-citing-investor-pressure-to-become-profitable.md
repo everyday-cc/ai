@@ -56,15 +56,6 @@ related:
         width: 1735
         height: 1200
         isCached: true
-  - title: "AI insurtech partners with Australian insurance consulting practice"
-    excerpt: "CLARA Analytics (CLARA), an artificial intelligence (AI) technology for personal injury claims optimization, has announced its partnership with OPEX Consultants (OPEX), a boutique growth strategy and profit improvement insurance consulting practice based in Australia, as reported by Fintech Finance News."
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.insurancebusinessmag.com/au/news/technology/ai-insurtech-partners-with-australian-insurance-consulting-practice-453081.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 19
   - title: "TiE Rajasthan mentee startup InfraHive secures pre-seed funding from Silicon Valley investors"
     excerpt: "TiE Rajasthan, one of the most prominent Chapters of TiE Global, has announced the closure of a pre-seed funding round by its mentee startup InfraHive, a promising startup from Jaipur that specializes in AI infrastructure solutions."
     publishedDateTime: 2023-07-22T12:53:00Z

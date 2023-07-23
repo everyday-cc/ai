@@ -7,7 +7,7 @@ originalUrl: "https://www.natlawreview.com/article/intellectual-property-and-art
 webUrl: "https://www.natlawreview.com/article/intellectual-property-and-artificial-intelligence-art"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The prophecy of Black Mirror and AI misdeeds"
-    excerpt: "Black Mirror’s ‘Joan Is Awful’ episode paints a scary picture of AI’s ability to potentially record and replicate one’s life for an audience."
-    publishedDateTime: 2023-07-18T11:46:00Z
-    webUrl: "https://www.iol.co.za/news/world/the-prophecy-of-black-mirror-and-ai-misdeeds-1cfe0bb3-8129-433b-8a29-d6e3388cdf3b"
-    type: article
-    provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 19
 
 secured: "C+kVOONmsJWkSz/gx2jAyRpERpLtwWJZMyeV61iZPn2MegDrMXntyCLUM9w06K0rfz1ysqVGvHlWzCRI0M+9PuGH8nxD92WmkkBFaCnwmFB+aLLqnvy180E5/x6gtcme0GdVc2hpPbItBrnXHLhyD69v89g/JqDcXuLDcJD1tQPF/em+GUh9Oim0XQnOrDHmWTGph8+F2VCbh9icbvpPXIvYsX2QrIhBSNpxYL4arTFt0wSJ4yca8fR20Eb3gl7/r0iuH8kUF37hksKPqhwAKJ2W0yJR5IaZ+IEkK9LIpEduNBB+/+HMjF6fbQlrAvfPV1EZZtNpNI7qeMA7axT7MMBqtbHwtU1oSU1GYHBow6E=;hwyEs/JE5JrZ/xozx/f8KA=="
 ---

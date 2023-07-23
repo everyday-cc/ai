@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/congress-blog/technology/4108214-before-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1280
     height: 719
     isCached: true
+
+related:
+  - title: "Congress, Palace should tackle creation of agency overseeing AI use — lawmaker"
+    excerpt: "A lawmaker urges Congress and the Palace to tackle the creation of an agency that will oversee the use of artificial intelligence."
+    publishedDateTime: 2023-07-23T04:58:00Z
+    webUrl: "https://www.cnnphilippines.com/news/2023/7/23/agency-ai-use.html"
+    type: article
+    provider:
+      name: cnnphilippines
+      domain: cnnphilippines.com
+    quality: 15
 
 secured: "6vWEa/0akQPdsXF+AKjKWaRynUTIxGMBzeZv5RSP2KFmx5AfgDMafT4aZJEmR0HPkHky452OzhvPDnFQQjC3dI4T9DypQ1x4LmvMJnJObUbCiPIT3yxq8LDzUjOyT5b87w5VR75g0HZe9ZG+ens2Zk8yE98hOzwNob6uoUbxYkrrcjDFSHWyi1gGaegb5PnDTf182V5jjRhw5v0YSmewSnlnEPyY8FDZPPhWPMw7A2UychYv7XytDHfF4AnC7dkzxnEhE2QAmmfF/YE3JDZcHMJwb3fbhqVUhdv/4CeJ7g/812ITLisuwtoOdcNjm2EQgqwvNk8Uex6JbZAKnJW43WKagQr+vaPpYZsENjh9cck=;oiHFBcETImnFWHtCmLfDNw=="
 ---

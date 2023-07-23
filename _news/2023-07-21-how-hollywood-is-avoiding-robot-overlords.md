@@ -85,6 +85,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
+    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
+    publishedDateTime: 2023-07-23T04:01:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
+        width: 620
+        height: 372
+        isCached: true
   - title: "More or Less: Hollywood and AI. What IS Threads?"
     excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
     publishedDateTime: 2023-07-21T18:57:00Z

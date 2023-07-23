@@ -39,6 +39,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Air Force general says the country's 'Judeo-Christian' roots will help promote the military's ethical use of AI"
+    excerpt: "An Air Force general spurred backlash this week when he asserted that the U.S. military can more ethically utilize artificial intelligence than other nations, citing “Judeo-Chrisitian” values."
+    publishedDateTime: 2023-07-23T05:11:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/general-judeo-christian-roots-will-promote-militarys-ethical-use-ai"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 34
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/7e6b1a2/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fd3%2F46%2F199e91e04249a50a24090238d3b8%2Fap-18285779026706.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5yEl8oSrTOKo5U18JunYsggXXuf2ddWuMURXncghTVQWErnPLGuucOxo1KRH5SyRtKoz4D8E/e/XfIsrDO6l+6rVFdku1Ue7UutuXQI6WavhAs7/w32J6eDXFGp7hY+oSAYnRiSA1QZunQFqvzFzw+oocnsOGjCJN1bmp5g19m9MSZlIeN85UcuTPfMQ9Nrk7hSiNr5p0fhdYIAfxf0uJh/3Np3WerEX/V3r34hEDzaCDVD07qWEIkRnzqoLGJ4Ifym67a8fwybpOBs/69olkmsEmS71Bmm9CJalF7eAeeatAlg6/fKxNUsvoBkE4yz1sfy9BPScxQ8h96cAQoNCf3Y9FdyggUGe7Q1zes45QTI=;ehO4mUGRPVlO8mZudZPCVg=="
 ---

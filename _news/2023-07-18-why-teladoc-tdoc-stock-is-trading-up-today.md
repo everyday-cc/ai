@@ -34,22 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Microsoft Is Sending Teladoc Stock Higher Tuesday: What's Going On?"
-    excerpt: "Teladoc Health Inc (NYSE: TDOC) shares are trading higher Tuesday after the company announced it's expanding its collaboration in AI with Microsoft Corp (NASDAQ: MSFT) to"
-    publishedDateTime: 2023-07-18T12:41:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33265470/microsoft-is-sending-teladoc-stock-higher-tuesday-whats-going-on"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33265470"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33265470"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/18/teladoc_member_and_child_on_video_visit-3.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "43ZDn1uI3dx8QdsQvBmv/AsxHZLopMW8k5blt0SPZBdet/mCJzWVNOvFNVu6qACWHz1ZJeYqMfzwP9ILop0Coq8WIbpeyOcKcQAWsuVa6N+BkHmTHOx34BN+lTwg0R5ugPIAU8EjCfIRe37wekuPnmZ5DQLkUcDcR6HUraeefUtE6+0SAc2nGXaztz8GPtFkmgs+/6NSkjcDTrq5qAlnmP75+Jr+59UzlCffj1b7uc7Ek22zr6RJ7jAHBPM54qDFedYrWA7thtQGOSCuwfYFduBUK9YsuWQkZvuJrhcj/J7HebQkGqN1FtHroIcoMYykU6WAVAxiCNM7P8vPfyuMTL/3RkM18SjH4LGAHBR//aY=;YRe+CFITdyskK+SLN8w0OQ=="
 ---

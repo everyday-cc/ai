@@ -5,8 +5,10 @@ excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotio
 publishedDateTime: 2023-07-22T11:00:00Z
 originalUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/"
 webUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/"
+ampWebUrl: "https://www.wired.com/story/please-stop-asking-chatbots-for-love-advice/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/please-stop-asking-chatbots-for-love-advice/amp"
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://media.wired.com/photos/64bacf7ec859c4a1cdecc48a/master/pass/Please-Stop-Asking-Chatbots-for-Love-Advice-Gear-GettyImages-1079532396.png"
+    width: 2400
+    height: 1800
+    isCached: true
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
@@ -337,6 +345,6 @@ related:
       domain: financialexpress.com
     quality: 6
 
-secured: "kpxH+Ct0XrQuIQXX6lFUewmDw7/b0qvO0xIalZy5+2pQoudsWuTxmgBDB8NSNfRvduW4IaXxpOYKq76hTjcR7xzzp+SoUC3O53BPsLHO+sAfwy/X/TgkvlwUQvzNxA3utKTbZA7urB8qLgZ7Uc49JAmVU+t56cURicp+ptQmzM+X50aEZHLN1GP8pnz7kNlLwGMzaL9Mm22ohE/q9RmvbUNSs/2etKnOBzeNJ6oRMFKkXLS2I4Oo5y6i0MgaeHiaMWAX1nJC4VTwnhpxU4nodYjPzuqVqV5SxR2HvIvHKAbEccZjnIcj3ZBHJjCKVIMYykSm1TsMVXYDw6C7A5FaeGwiSE8BQnyJItCMUuDkoyI=;mvdETnYbM9BM6lW5zl0KPQ=="
+secured: "+qrt8cAqdd3ZWYEV7L1xZRLEjbH3h8X/apYnb+i27JhPvQvbIMc4Jv4Jlsh1ABhjIPShoRT8qJ/79hdMgohAxTctfU+D2fg6zojhXIiXcAPrSytKUPhoiNSDboPnJY+ADdooraZtLUtjrMqry7DfvWB7zMS5G9UzzBRQinOfpScO3SGHslM0Q46eKCBFjJp4fHUowajIk0mn0FwoZusZ51aJt9ViZWMIamCkLN2qsNQ16D/aaD6KuPXVKHI7dYH0RVBQtuEf1ejhsvtLgJaCbNchocdV+S0KKzY4KvKXMvbf9eZCYXD+guGAYT3e6rjMQ9JeYQ6GLR5aFl+LLtOadncmKB40n6Qtk5hGt8UVL10=;a/qvsHm5Zs7VpOJGaQAcwA=="
 ---
 

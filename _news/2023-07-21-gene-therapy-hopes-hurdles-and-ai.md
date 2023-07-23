@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/newsletters/politico-pulse/2023/07/21/gen
 webUrl: "https://www.politico.com/newsletters/politico-pulse/2023/07/21/gene-therapy-hopes-hurdles-and-ai-00107489"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1120
     height: 629
     isCached: true
+
+related:
+  - title: "AI And The Agency: Creatives Still Own The Brand"
+    excerpt: "Contrary to popular belief, AI is a tool that augments and amplifies the skills of advertising creatives while allowing them to remain the \"keeper of the brand.\""
+    publishedDateTime: 2023-07-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/19/ai-and-the-agency-creatives-still-own-the-brand/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "fgsi8hrDbXbxGcxXWP1Va0ObJ3TjqlWyVDFfNxkX/EALns2r87TslLpD0ik+1ZJaRigruwTQRBPwRgG/1R7qoGfv1HFuiIaj5Ajm746rvVNYYaABobRIzwiLlcY4dlk9v5ubbspLxvVMoWIa+16/QdsbUWZLlbTSadZ7piC3HF7E8qnQrRHk+hH4W5aFXNK5gVtuWqiS/aOVUmmMmGgqjmo/TCiDhv6zRHFaWTl4GhC9OkEB7nJPwyVHwG68bWR4Fw41y2r5PyehanBblCuJ+KvtBINhLZRs3l7X4t/y9kcrAo8XX9Gfj/77k1fis5cDB/E3yr+oLKFsS/UpdDbQfgboAuyLMuxwRS4QhDnUvh0=;6dw0+qVqeFljY6dyRcYGZQ=="
 ---

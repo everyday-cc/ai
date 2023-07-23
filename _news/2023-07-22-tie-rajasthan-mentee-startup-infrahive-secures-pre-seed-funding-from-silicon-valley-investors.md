@@ -64,15 +64,6 @@ related:
         width: 1735
         height: 1200
         isCached: true
-  - title: "AI insurtech partners with Australian insurance consulting practice"
-    excerpt: "CLARA Analytics (CLARA), an artificial intelligence (AI) technology for personal injury claims optimization, has announced its partnership with OPEX Consultants (OPEX), a boutique growth strategy and profit improvement insurance consulting practice based in Australia, as reported by Fintech Finance News."
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.insurancebusinessmag.com/au/news/technology/ai-insurtech-partners-with-australian-insurance-consulting-practice-453081.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 19
 
 secured: "JRpx7fsicCGJJYXCmbj9cHRrucnY9C50Abx9BnNHpqU1qLup5LhXD1i/yvAfovR9qYq5vGiWdwH3h5+YhvOXxFDk8aZ/LbKpJeNT5dVaStriBJfsZPejvhKTuUE5D+Wk7+3KjxyWMxCmBdj1qYUW5vJtrd4j0/E3HUsQhnuDQUPgQ8EK6gBLP/IjwTZU6Io3aIj7srjZZljbGMKEubC3zuix5iG/Jb51caqawxtavn+3CI7L2H/HzMSyfzwPqMiVOYbJhQkJQ3k6/UZ5YjlKspgpI11Iz6VsL62NEk9ow9gl4BmFfYfKj/GdoyyQ1mNKciDIe0RujfvR+Hsl8mAI+esjA8b6Ma2QR8UfNgAxS1LLtqVy11ekLaIisyqdZN6vQsA3COLUCdH4MbezVaZlRYzBybleF/WvfgEv+OI44Vv0a9Bn/XgB6MhMf7WXxn6i6uc26ikZwZEXQICsw2VCpgE4iq+nr3EeZt7F/J4nBq00UEe8F8sf4uZXWJNHxah8Q+RpyyX2kNPgHDVkVVSTww==;/CsP4TF7hi3ZuLyFpBgoYg=="
 ---

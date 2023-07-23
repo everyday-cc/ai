@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
+    excerpt: "Meta (META.O) is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
+    publishedDateTime: 2023-07-23T05:31:00Z
+    webUrl: "https://cyprus-mail.com/2023/07/23/meta-opens-ai-model-to-commercial-use-throwing-nascent-market-into-flux/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 40
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2023/07/meta-1.jpg"
+        width: 1275
+        height: 889
+        isCached: true
   - title: "Facebook unveils more powerful AI and makes it free to use"
     excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
     publishedDateTime: 2023-07-18T20:40:00Z

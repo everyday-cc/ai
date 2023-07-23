@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-ba
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
-    excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
-    publishedDateTime: 2023-07-18T12:08:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/wallaroo-ai-and-ampere-computing-to-bring-cost-effective-ml-inferencing-to-the-cloud"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 29
   - title: "Voice experiences ‘challenging week’ with polls showing Yes case slipping below majority"
     excerpt: "The Voice to Parliament has experienced another “challenging week” with polls now showing the Yes case slipping below majority, according to Sky News Political Editor Andrew Clennell. “The PM Anthony Albanese is regularly being asked now: Why not separate the questions?"
     publishedDateTime: 2023-07-22T23:29:00Z

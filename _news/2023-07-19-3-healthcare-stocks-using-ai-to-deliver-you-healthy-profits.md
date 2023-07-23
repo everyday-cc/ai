@@ -39,22 +39,6 @@ related:
         width: 940
         height: 600
         isCached: true
-  - title: "How AI is helping to translate the Bible into rare languages"
-    excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
-    publishedDateTime: 2023-07-18T13:00:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-    type: article
-    provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 74
-    images:
-      - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
-        width: 540
-        height: 360
-        isCached: true
   - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
     excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
     publishedDateTime: 2023-07-21T14:48:00Z

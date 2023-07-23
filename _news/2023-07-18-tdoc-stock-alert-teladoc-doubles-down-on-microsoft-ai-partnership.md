@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-t
 webUrl: "https://markets.businessinsider.com/news/stocks/tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership-1032455477"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Is Sending Teladoc Stock Higher Tuesday: What's Going On?"
-    excerpt: "Teladoc Health Inc (NYSE: TDOC) shares are trading higher Tuesday after the company announced it's expanding its collaboration in AI with Microsoft Corp (NASDAQ: MSFT) to"
-    publishedDateTime: 2023-07-18T12:41:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33265470/microsoft-is-sending-teladoc-stock-higher-tuesday-whats-going-on"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33265470"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33265470"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/07/18/teladoc_member_and_child_on_video_visit-3.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why Teladoc (TDOC) Stock Is Trading Up Today"
     excerpt: "These AI solutions include Microsoft Azure OpenAI Service, Azure Cognitive Services, and the Nuance Dragon Ambient eXperience™. So what does this mean in practical terms? The integration will automate clinical documentation during virtual medical exams ..."
     publishedDateTime: 2023-07-18T15:50:00Z

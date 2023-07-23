@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "US Congress seeks to draw up regulations for self-driving autos"
+    excerpt: "During a congressional hearing next week US lawmakers will aim to revive draft legislation to regulate self-driving cars"
+    publishedDateTime: 2023-07-23T05:48:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273907825/us-congress-seeks-to-draw-up-regulations-for-self-driving-autos"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1689999345565.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Self-driving company Aurora Innovation closes $820M capital raise"
     excerpt: "Autonomous vehicle developer Aurora Innovation completed a two-part $820 million funding round Friday, giving it badly needed capital and breathing room to continue its quest to get self-driving trucks on the road."
     publishedDateTime: 2023-07-21T20:32:00Z
