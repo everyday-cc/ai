@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former Google Exec Makes Bleak Prediction About AI-Powered Robots Revolutionizing Bedroom Activity"
-    excerpt: "Present day is a Golden Age for futurologists. With the rapid rise of Artificial Intelligence coming like a tidal wave to overhaul how we interface with"
-    publishedDateTime: 2023-07-18T19:50:00Z
-    webUrl: "https://brobible.com/culture/article/former-senior-google-exec-predicts-ai-powered-robots-replace-humans-in-bedroom/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 20
   - title: "Uncharted territory: do AI girlfriend apps promote unhealthy expectations for human relationships?"
     excerpt: "Chatbots such as Eva AI are getting better at mimicking human interaction but some fear they feed into unhealthy beliefs around gender-based control and violence"
     publishedDateTime: 2023-07-22T00:01:00Z

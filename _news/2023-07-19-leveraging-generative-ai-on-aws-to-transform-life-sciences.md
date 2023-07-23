@@ -84,6 +84,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "How to navigate your engineering team through the generative AI hype"
+    excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
+    publishedDateTime: 2023-07-23T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "TCS to work on digital transformation of GE HealthCare's IT operating model"
     excerpt: "and standardization of GE HealthCare's enterprise IT applications. In a press statement, TCS added that the objective is to leverage advanced software engineering practices, artificial intelligence, and digital technologies to achieve faster value ..."
     publishedDateTime: 2023-07-19T11:48:00Z
@@ -150,20 +164,6 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1498363310_532681_ujml84.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Crayon Data to benchmark personalized experiences empowered by Generative AI models"
-    excerpt: "Crayon Data, a leading Artificial Intelligence (AI) and big data company headquartered in Singapore with a presence in Asia, t"
-    publishedDateTime: 2023-07-18T22:23:00Z
-    webUrl: "https://menafn.com/1106625051/Crayon-Data-to-benchmark-personalized-experiences-empowered-by-Generative-AI-models"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/18/pr_11591_936594a6_image_story.png"
-        width: 2765
-        height: 4148
         isCached: true
 
 secured: "viXuxGyJfajIDqWwkPN2JVk8uX6OeCygtUI+8b2Efq1V+gXzH/k+PPcHbPeB2Cdk3KZt32JEkcEPWUFcYl+w+jp33MutwzWScUnrIanHs4N4HmsyK3FbRMX/Nlo/KT1B8k7KuhmNj/SwQvmGuy7hxC5v51voQtTp14u+dwJxUJwjp96E6ihXfMsCZlpGx6rseGT5QaEvttoBcrBvtddqGF/MjwCgk+Ygnvyue+ULGPnx376dRo0+CXCn2LphDP8dL4B8nCOUekRAs8tsEQaM1sZon1gb8DmTZdGPT7St0LyPlgVBsqvoeh1FZ42SPw2vnjnSGNb4LjjQrwQP3kxJeXh0pxWM5caIh773so4ce94=;1jQQIqrTxTizi/iBFObjxw=="

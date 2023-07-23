@@ -2,6 +2,255 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-13-here-are-the-45-best-amazon-prime-day-deals-still-happening.md",
+      "title": "Here are the 45 best Amazon Prime Day deals still happening",
+      "excerpt": "Want more deals? Visit CNN Underscored’s Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale. Amazon Prime Day 2023, the summer’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/prime-day-a-z-deals-still-live.jpeg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
+      "publishedDateTime": "2023-07-13T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims.md",
+      "title": "UK Government Criticized Over Use OF AI To Evaluate Benefits Claims",
+      "excerpt": "The UK government is coming under fire for using AI to assess applications for social security benefits. The Department of Work and Pensions (DWP) has said it plans to use AI to identify patterns in claims that could indicate error or fraud as part of plans to cut £1.3 billion from the benefits bill this year and nex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64afd4a805dcc645cc534a09/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/",
+      "publishedDateTime": "2023-07-13T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-focus-ai-startups-bringing-dollars-but-lean-workforces-to-ailing-san-francisco.md",
+      "title": "Focus: AI startups bringing dollars but lean workforces to ailing San Francisco",
+      "excerpt": "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
+      "originalUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/gXYoMFAb5zxeAnOH6AbLYw3Pgq4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQEPLSIBTRNXLOF4FHF44S2LRM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years.md",
+      "title": "Chinese robotics firm Fourier aims for mass production of humanoid robots in two years",
+      "excerpt": "Chinese tech startup Fourier Intelligence has set a goal of achieving mass production deliveries of humanoid robots within two years.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "originalUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-amazon-prime-day-deals-2023-all-the-best-offers-still-available.md",
+      "title": "Amazon Prime Day deals 2023 - all the best offers still available",
+      "excerpt": "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-13-the-looming-addiction-crisis-fueled-by-ai.md",
       "title": "The looming addiction crisis fueled by AI",
       "excerpt": "Online pill services are using AI to turbocharge the same aggressive marketing tactics that drove the opioid epidemic.",
@@ -49,6 +298,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-ibm-sets-watson-chips-on-the-ai-case-as-price-war-kicks-off.md",
+      "title": "IBM sets Watson chips on the AI case as price war kicks off",
+      "excerpt": "IBM claims it can cut the cost for AI models in the cloud with custom silicon to cash in on the surge of interest in generative models like ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/07/13/ibm_ai_cloud_price/",
+      "originalUrl": "https://www.theregister.com/2023/07/13/ibm_ai_cloud_price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2023/05/09/watson_shutterstock.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/07/13/ibm_ai_cloud_price/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/07/13/ibm_ai_cloud_price/",
+      "publishedDateTime": "2023-07-13T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -910,273 +1202,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-chipotle-testing-avocado-processing-robot-in-test-kitchen.md",
-      "title": "Chipotle testing avocado processing robot in test kitchen",
-      "excerpt": "Chipotle tests Autocado, a cobotic avocado processing prototype, at the Chipotle Cultivate Center in Irvine, California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/",
-      "originalUrl": "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/Autocado-featured.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-siggraph-fosters-growth-and-innovation.md",
-      "title": "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation",
-      "excerpt": "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/07/12/9847425.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/07/12/9847425.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-us-to-decide-on-gm-request-to-deploy-self-driving-cars.md",
-      "title": "U.S. to decide on GM request to deploy self-driving cars",
-      "excerpt": "U.S. regulators are set to decide on GM's request to deploy up to 2,500 self-driving vehicles annually without human controls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107254059-1686311076798-gettyimages-1497020055-dsc02825_rsqpkpku.jpeg?v=1689198866",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/12/us-to-decide-on-gm-request-to-deploy-self-driving-cars.html",
-      "publishedDateTime": "2023-07-12T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx.md",
-      "title": "How eBay is using generative AI, computer vision to enhance CX",
-      "excerpt": "By using generative AI throughout its platform, eBay aims to streamline the purchasing process for both buyers and sellers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/",
-      "originalUrl": "https://venturebeat.com/ai/how-ebay-is-using-generative-ai-computer-vision-to-enhance-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions.md",
-      "title": "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions",
-      "excerpt": "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions Headlines Today is a platform to find all the news at one go and to personalise the utility and other information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.headlinestoday.in/technology/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions-574790481.html",
-      "originalUrl": "https://www.headlinestoday.in/technology/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions-574790481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "headlinestoday",
-        "domain": "headlinestoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-launches-xai-his-new-artificial-intelligence-company.md",
-      "title": "Elon Musk Launches xAI, His New Artificial-Intelligence Company",
-      "excerpt": "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "originalUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-815887/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

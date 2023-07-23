@@ -10,7 +10,7 @@
       "originalUrl": "https://www.biometricupdate.com/202307/chatgpt-facial-recognition-potential-makes-openai-nervous",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -46,6 +46,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-20-causal-ai-pioneering-the-next-era-of-artificial-intelligence.md",
+      "title": "Causal AI: Pioneering the Next Era of Artificial Intelligence",
+      "excerpt": "Concerns emerge about the limitations of AI, machine learning, and large language models, and causal AI is seen as a potential solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence",
+      "originalUrl": "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techopedia.com/wp-content/uploads/2023/07/brain_07.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
       "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
       "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1012,7 +1055,7 @@
       "originalUrl": "https://www.zdnet.com/article/meta-releases-big-new-open-source-ai-large-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1065,7 +1108,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-new-open-source-ai-full-stack-platform-challenging-openai-and-supporting-llama-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1161,7 +1204,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1203,58 +1246,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-artificial-intelligence-continues-to-revolutionize-cybersecurity.md",
-      "title": "Artificial Intelligence Continues To Revolutionize Cybersecurity",
-      "excerpt": "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "publishedDateTime": "2023-07-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

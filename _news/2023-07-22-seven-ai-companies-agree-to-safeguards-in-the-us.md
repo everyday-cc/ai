@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
 type: article
 quality: 87
-heat: 367
+heat: 377
 published: true
 
 provider:
@@ -231,6 +231,15 @@ related:
     provider:
       name: Engadget
       domain: engadget.com
+    quality: 47
+  - title: "Making Sense Of Tech Companies’ AI Commitments To The White House"
+    excerpt: "Tech companies made commitments to the White House around the safety, security and trust of their AI systems. There are tradeoffs associated with these commitments."
+    publishedDateTime: 2023-07-23T12:24:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/07/23/making-sense-of-tech-companies-ai-commitments-to-the-white-house/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
   - title: "What 7 AI companies agreed to do to safeguard their tech"
     excerpt: "Seven leading artificial intelligence firms will debut new voluntary safeguards designed to minimize abuse of and bias within the emerging technology at an event Friday at the White House."

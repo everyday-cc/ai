@@ -85,20 +85,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T21:00:00Z
-    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
     publishedDateTime: 2023-07-19T13:00:00Z
@@ -107,7 +93,12 @@ related:
     provider:
       name: Orlando Sentinel
       domain: orlandosentinel.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "be3Ek5pSyZp9cuWarLfiO5LapVGQX55HLnhX2TrT0Q/CThRt1mGIfXghMFULR/Gqlos3LSXm+CyCjAs8GSNC4EWNJoUuPtSTiT5HKdT8aCMmhgZel3y6eMD8CASx44oGJo6GDu18BNl6DczEmXBgiVoHwe4vEPbCzk+DP9zi9t1SKXa0yksFbn25g2fOlphJGM2RG0xQlXo/rtYWgZS/0Xz6al08v0i8lTJkygJzCPD2Zv/7FprugF8D3cPJAIgL0zzb4TO4PJlEV24S6nFSGQs6y9fOIzRPabOei5AUuxq1txuRP5SNSMv5YZ5s4TEpVveHYanJv0jj45KIUfoha1xjKF/3qV9aqwrk9qNPCDg=;tZAERiHCHE+ewVLJzLLzvQ=="
 ---

@@ -24,10 +24,10 @@ topics:
 related:
   - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
     excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-    publishedDateTime: 2023-07-22T01:10:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
+    publishedDateTime: 2023-07-21T20:46:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
     type: article
     provider:
       name: ABC
@@ -37,22 +37,6 @@ related:
       - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
-    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-    publishedDateTime: 2023-07-23T04:01:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
-        width: 620
-        height: 372
         isCached: true
   - title: "How Hollywood Is Avoiding Robot Overlords"
     excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
@@ -77,6 +61,15 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 17
+  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
+    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
+    publishedDateTime: 2023-07-23T04:01:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 7
 
 secured: "KHpxT4cL3MG64+lnMkzNCwICOB2FbQpRIQxtItq2ahrlalq4BW9uHlr/aQ/Ois4piwXCKyrXX+H6UkKHv+UsVzSFOw0pk8tVPngakOHJOqnFnr1/Yoqmsu5whQzrUgz+82pq3qKwlXCMH+dZRmhKZcc6iwnw+7NskYVeVFdCT7nU6v/yyWIhAz1viZ/OT9X38YfDmwi+BIm/zGqWGMeES6DU5JrR0wOk/lhF0NxuNeIYQwQfxNjSCLHYvf2kXa5usmzJDKfYvwqyjDS2u7cTrQQq6ofaF3WeqBCnv9PoDIUbw7jNCR5ZRQ9Ue4+/juk7o0+gG/x7XT1FEiMgaADMNeb/AnOItMbmswwAYbnlXwN9uKGRiVNCHfDnnlv9dd41+gIG8kuqv5NxLQgvQf5uHn2QrIGLWVE4UxwdBcp1Hm8XmyfWsojMVdyEjmZYnw9ATlj66JQsQZ6fOIsNy1SiI6C1KRYNDS7M5Pa3K8MmKbkn/g25Wm25j7UxAkJenP5gk4766NlN15SfgkPU+8E9uQ==;ht9wCes2J9SeC3RYRRutdg=="
 ---

@@ -150,6 +150,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-20-causal-ai-pioneering-the-next-era-of-artificial-intelligence.md",
+      "title": "Causal AI: Pioneering the Next Era of Artificial Intelligence",
+      "excerpt": "Concerns emerge about the limitations of AI, machine learning, and large language models, and causal AI is seen as a potential solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence",
+      "originalUrl": "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techopedia.com/wp-content/uploads/2023/07/brain_07.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-19T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
       "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
       "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -315,7 +358,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -686,7 +729,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -820,50 +864,6 @@
         "AI",
         "AI Hardware",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
-      "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     },
     {

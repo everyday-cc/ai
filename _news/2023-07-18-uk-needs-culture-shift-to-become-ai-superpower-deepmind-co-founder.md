@@ -5,8 +5,6 @@ excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK comp
 publishedDateTime: 2023-07-17T17:55:00Z
 originalUrl: "https://www.bbc.co.uk/news/technology-66166236"
 webUrl: "https://www.bbc.co.uk/news/technology-66166236"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png"
-    width: 1024
-    height: 576
-    isCached: true
-
-secured: "yr3w9fcCMm5wP8w6Hau59XjWdLgyZmrATva3ucjiAVDXpbarxh2gkjgyRMWnpdGzrzgC5gAXaL4t5HkLjct3cbr4HaJ93WltR8oXVzwziCyO0vn7oTRww0J9R00OKYuBe1sNNJjv8ytCly32yi9gdORSGVjLDV3qh+ho2Qez9cKTiwStUx/AFdf98YqPN13I3Kg2UZXQGKGhWDdkcLe48W/Ldwbqq5eHAVYCuof3e58Ax/3n6B77i9ubyOdF98eSLACuDn8c0lVYFk0MWpalBqGs4SVX2Szxyl1wxvnReGbQpW/qY48ln1cusv6K9OUGoM5oKOUO7n1vqJYQI9AQMikKxt5bwXfY46kISn/GzpQ=;eeEeVpkfcAzLxGZWVDv48Q=="
+secured: "2Z7HPOxIMojDVUbidh7yYKcHQiWMh4Bp8jszIbJb9kvyD9kIIuuHjCZX0VlgLyrQoh4lTzvmExdJejRbK3fMBj4hfnfkscvijr+jyNV/15mWHunixOVKRdUWVeJ261GVSrepDlA837hrzM8W9VQgvm0yPRr6ZBxb7WW2hOa0BENUhqCDkijs17dyXijtW4FoGP9XT5lb0A6c0N1m67iB/Ithw6hK2mBqbn3QUOFI9fmsG90gf7ovw6NRMPQLRe3f37NbaA1ncs5Yfk0OStMta/1vYhV/BFpATxAP0TBpOPbVSz46uGfmukXw1RbBC3fvQx6aTgxlrd6Uy4XeMu5ADDAeI5iEidf+MLbPXjoZ9Uc=;jgXpdEEnvSYUVl/Pi5bBgA=="
 ---
 

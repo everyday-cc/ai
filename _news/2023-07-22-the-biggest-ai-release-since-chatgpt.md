@@ -130,22 +130,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "More AI: Meta launches ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
-    publishedDateTime: 2023-07-18T22:00:00Z
-    webUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/"
-    ampWebUrl: "https://www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/07/18/more-ai-meta-launches-chatgpt-rival-llama/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 61
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Llama 2: Meta's new free AI model takes on ChatGPT and Google's Bard"
     excerpt: "Developers and researchers can collectively identify and address potential issues faster, facilitating collaborative growth in the AI field. Llama 2 can be found in the Azure AI model catalog, providing developers using Microsoft Azure with easy access to ..."
     publishedDateTime: 2023-07-19T03:54:00Z

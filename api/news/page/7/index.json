@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-18-vb-transform-innovation-showcase-winner-arize-ai.md",
+      "title": "VB Transform Innovation Showcase winner: Arize AI",
+      "excerpt": "VentureBeat Transform's Innovation Awards honored Arize AI, an ML observability platform that uses AI to troubleshoot AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-arize-ai/",
+      "originalUrl": "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-arize-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/CARR9373-e1689615053626.jpg?fit=750%2C500&#038;strip=all",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration.md",
+      "title": "Seeing The Future: Artificial Intelligence For Age-Related Macular Degeneration",
+      "excerpt": "With recent advances in artificial intelligence (AI) and machine learning, healthcare providers can now effectively screen patients for age-related macular degeneration. iHealthScreen develops AI and machine learning-based diagnostic systems for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b577f192d2c76251248079/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
+      "publishedDateTime": "2023-07-17T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-teradata-vantagecloud-lake-brings-exciting-aiml-use-cases-to-microsoft-azure.md",
       "title": "Teradata VantageCloud Lake Brings Exciting AI/ML Use Cases to Microsoft Azure",
       "excerpt": "Teradata is announcing its newfound collaboration with Microsoft, bringing the Teradata VantageCloud Lake to Microsoft Azure, extending the solution's reach while simultaneously broadening its use cases to include generative AI.",
@@ -50,8 +153,8 @@
       "title": "UK needs culture shift to become AI superpower - DeepMind co-founder",
       "excerpt": "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA",
+      "webUrl": "https://www.bbc.com/news/technology-66166236",
+      "originalUrl": "https://www.bbc.com/news/technology-66166236",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -68,14 +171,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66166236.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp",
+      "ampWebUrl": "https://www.bbc.com/news/technology-66166236.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp",
       "publishedDateTime": "2023-07-17T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -405,6 +517,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-natural-language-processing-australia-oceania.md",
+      "title": "Natural Language Processing - Australia & Oceania",
+      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.63bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.02%, resulting in a market volume of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/australia-oceania",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/australia-oceania",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -743,6 +898,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-17-i-used-windows-dictation-to-write-this-article-with-my-voice.md",
+      "title": "I used Windows Dictation to write this article with my voice",
+      "excerpt": "You don’t need to manually turn on Windows Speech Recognition, a legacy app. My first tip: Make sure you either use a headset or a good laptop with noise-cancelling microphones. You’ll want to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/1981483/using-windows-voice-access-and-dictation.html",
+      "originalUrl": "https://www.pcworld.com/article/1981483/using-windows-voice-access-and-dictation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-speech-recognition-new-zealand.md",
       "title": "Speech Recognition - New Zealand",
       "excerpt": "Value in the Speech Recognition market is projected to reach US$40.59m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.47%, resulting in a market volume of US$118 ...",
@@ -973,204 +1171,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-un-security-council-to-hold-first-talks-on-ai-risks.md",
-      "title": "UN Security Council To Hold First Talks On AI Risks",
-      "excerpt": "LONDON (Reuters) - The United Nations Security Council will hold its first formal discussion on artificial intelligence (AI) this week in New York, with Britain to call for an international dialogue about its impact on global peace and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee",
-      "originalUrl": "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64b4aad125000060004325f9.jpeg?ops=1200_630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/un-security-council-ai-risk_n_64b4aacee4b0ad7b75f3acee/amp",
-      "publishedDateTime": "2023-07-16T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.md",
-      "title": "Artificial intelligence can detect 'sextortion' before it happens and help FBI: expert",
-      "excerpt": "Yaron Litwin, executive of AI-powered company Canopy, explains how \"AI can be used for good\" in an ongoing chess match with criminals using deepfakes in sextortion scams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
-      "originalUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AI-is-the-next-front-in-the-culture-war_1.gif",
-          "width": 602,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
-      "publishedDateTime": "2023-07-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario.md",
-      "title": "University of Guelph’s AI and Machine Learning gets investment from Ontario",
-      "excerpt": "The University of Guelph’s Centre for Advancing Responsible and Ethical Artificial Intelligence (CARE-AI) will launch a new micro-learning platform for high school and post-secondary students to spark interest in AI and machine learning in the automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/06/University-of-Guelph.png",
-          "width": 864,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-guelphs-ai-and-machine-learning-gets-investment-from-ontario/",
-      "publishedDateTime": "2023-07-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-protecting-uk-jobs-will-be-a-challenge-says-new-ai-advisor.md",
-      "title": "Protecting UK jobs will be a challenge says new AI advisor",
-      "excerpt": "Protecting British jobs will be a challenge as artificial intelligence systems become more advanced, the new head of the government's AI taskforce has told the BBC. Ian Hogarth said it was \"inevitable\" that more jobs would become increasingly automated. The whole world will have to rethink the way in which people work, he added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66128106",
-      "originalUrl": "https://www.bbc.com/news/technology-66128106",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/82D7/production/_130359433_01h39w5xkrd7yy7xehkxa0vqbp.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66128106.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66128106.amp",
-      "publishedDateTime": "2023-07-16T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

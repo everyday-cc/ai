@@ -2,6 +2,240 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-14-machine-translation-the-next-frontier-for-large-language-models.md",
+      "title": "Machine translation: The next frontier for large language models",
+      "excerpt": "Dr Deepak Garg is Director, leadingindia.ai and Director NVIDIA-Bennett Research Center on Artificial Intelligence. He is Professor and Dean, School of Computer Science Engg and Dean ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg",
+          "width": 414,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/machine-translation-the-next-frontier-for-large-language-models/",
+      "publishedDateTime": "2023-07-13T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how.md",
+      "title": "Most workers want to use generative AI to advance their careers but don't know how",
+      "excerpt": "Out of the respondents in the survey, 54% of workers believe generative AI will advance their careers. 65% believe that generative AI will allow them to focus on more strategic work. Despite the optimistic look, the workers felt like they don't have the right skill set to properly use generative AI or take full advantage of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "originalUrl": "https://www.zdnet.com/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1f4d5350a413ee7e0b3ef4615bcf2645f1051a85/2023/07/13/1e816a08-2525-4e48-b0d8-8a1f61eee348/gettyimages-1256306440.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-workers-want-to-use-generative-ai-to-advance-their-careers-but-dont-know-how/",
+      "publishedDateTime": "2023-07-13T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-3-artificial-intelligence-stocks-that-ai-is-loving-in-july.md",
+      "title": "3 Artificial Intelligence Stocks That AI Is Loving in July",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the financial landscape constantly transforms, state-of-the-art technology",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-ai-is-loving-in-july-1032445717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/13/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-13T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-artificial-intelligence-learning-check-how-ai-can-help-you-crack-govt-exams-2023.md",
+      "title": "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023",
+      "excerpt": "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "originalUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com//images/2022/May/2752022/Archana-Shandilya.jpeg",
+          "width": 630,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
+      "publishedDateTime": "2023-07-13T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-natural-language-processing-gcc.md",
       "title": "Natural Language Processing - GCC",
       "excerpt": "Value in the Natural Language Processing market is projected to reach US$226.50m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.25%, resulting in a market volume ...",
@@ -408,50 +642,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
-      "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-07-13-artificial-intelligence-opens-three-new-routes-to-career-advancement.md",
       "title": "Artificial Intelligence Opens Three New Routes To Career Advancement",
       "excerpt": "These are the ways today’s managers and professionals need to meet the challenges and opportunities of artificial intelligence head-on.",
@@ -501,6 +691,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
+      "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-13T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -912,255 +1145,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-here-are-the-45-best-amazon-prime-day-deals-still-happening.md",
-      "title": "Here are the 45 best Amazon Prime Day deals still happening",
-      "excerpt": "Want more deals? Visit CNN Underscored’s Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale. Amazon Prime Day 2023, the summer’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/prime-day-a-z-deals-still-live.jpeg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/deals/best-amazon-prime-day-deals-2023-07-13",
-      "publishedDateTime": "2023-07-13T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims.md",
-      "title": "UK Government Criticized Over Use OF AI To Evaluate Benefits Claims",
-      "excerpt": "The UK government is coming under fire for using AI to assess applications for social security benefits. The Department of Work and Pensions (DWP) has said it plans to use AI to identify patterns in claims that could indicate error or fraud as part of plans to cut £1.3 billion from the benefits bill this year and nex.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64afd4a805dcc645cc534a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/07/13/uk-government-criticized-over-use-of-ai-to-evaluate-benefits-claims/amp/",
-      "publishedDateTime": "2023-07-13T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-focus-ai-startups-bringing-dollars-but-lean-workforces-to-ailing-san-francisco.md",
-      "title": "Focus: AI startups bringing dollars but lean workforces to ailing San Francisco",
-      "excerpt": "In a frenzy unseen since the birth of social media in the early 2000s, investors are pouring billions into generative AI and fueling a startup boom in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startups-bringing-dollars-lean-workforces-ailing-san-francisco-2023-07-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/gXYoMFAb5zxeAnOH6AbLYw3Pgq4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WQEPLSIBTRNXLOF4FHF44S2LRM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years.md",
-      "title": "Chinese robotics firm Fourier aims for mass production of humanoid robots in two years",
-      "excerpt": "Chinese tech startup Fourier Intelligence has set a goal of achieving mass production deliveries of humanoid robots within two years.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
-      "originalUrl": "https://technode.com/2023/07/13/chinese-robotics-firm-fourier-aims-for-mass-production-of-humanoid-robots-in-two-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-amazon-prime-day-deals-2023-all-the-best-offers-still-available.md",
-      "title": "Amazon Prime Day deals 2023 - all the best offers still available",
-      "excerpt": "Prime Day is over - but you can still pick up these great deals Amazon Prime Day is over and the 48-hour deals bonanza has finished for another year. The vast majority of offers have now expired ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

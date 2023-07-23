@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1rbq6.jpg"

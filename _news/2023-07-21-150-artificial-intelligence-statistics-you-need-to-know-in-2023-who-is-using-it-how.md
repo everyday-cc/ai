@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-20T19:32:00Z
 originalUrl: "https://www.techopedia.com/artificial-intelligence-statistics"
 webUrl: "https://www.techopedia.com/artificial-intelligence-statistics"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.techopedia.com/wp-content/uploads/2023/07/Artificial-Intelligence-Market-Size-Revenue-Fore.png"

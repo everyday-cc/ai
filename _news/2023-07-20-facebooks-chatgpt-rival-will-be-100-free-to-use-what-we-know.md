@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/news/facebooks-chatgpt-rival-will-be-100
 webUrl: "https://www.tomsguide.com/news/facebooks-chatgpt-rival-will-be-100-free-to-use-what-we-know"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook unveils more powerful AI and makes it free to use"
-    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T20:40:00Z
-    webUrl: "https://www.watoday.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.22428057992202727%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_30%2C$y_129/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/af6351c718b5c3d92e72b58f9e49b19c7ecdd0c0"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Facebook unveils more powerful AI model and makes it free to use"
-    excerpt: "An Amazon spokesperson said the company isn’t charging for access to the model, and customers only pay for usage of SageMaker, its toolkit for machine learning developers. Microsoft and Hugging Face didn’t immediately respond to requests for comment."
-    publishedDateTime: 2023-07-18T22:45:00Z
-    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html?ref=rss"
-    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 39
   - title: "Facebook Flooded With Ads And Pages For Fake Chatgpt, Google Bard And Other Ai Services, Tricking Users Into Downloading Malware"
     excerpt: "Cyber criminals are using Facebook to impersonate popular generative AI brands, including ChatGPT, Google Bard, Midjourney and Jasper <"
     publishedDateTime: 2023-07-21T00:55:00Z

@@ -58,20 +58,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta, Microsoft Team Up to Offer New AI Software for Businesses"
-    excerpt: "WSJ’s Joanna Stern spoke with Microsoft CEO Satya Nadella about AI tools and how the technology is going to change search. (Oh, and Clippy!) Photo illustration: Preston Jessee for The Wall Street Journal Microsoft will release a new version of Meta ..."
-    publishedDateTime: 2023-07-18T20:09:00Z
-    webUrl: "https://www.wsj.com/articles/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-c4f7b634?mod=hp_listb_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-818923/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google, Microsoft, Amazon, Meta Pledge to Make AI Safer and More Secure"
     excerpt: "The tech giants and ChatGPT creator OpenAI are among the companies that met with President Joe Biden and signed the voluntary agreement."
     publishedDateTime: 2023-07-21T23:40:00Z
@@ -134,15 +120,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Microsoft Stock on Pace for Record Close After AI-Related Announcements"
-    excerpt: "Shares of Microsoft were up more than 5% in afternoon trading following the company's announcements about artificial-intelligence-related products. That jump puts Microsoft on pace t"
-    publishedDateTime: 2023-07-18T19:31:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-18-2023/card/microsoft-stock-on-pace-for-record-close-after-ai-related-announcements-F5R82dmzO226eCO3rNO3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
   - title: "Meta and Microsoft launch open-source AI model Llama 2"
     excerpt: "Meta and Microsoft have teamed up to release Meta’s latest AI model Llama 2 which was built specifically for and made freely available to enterprises and researchers."
     publishedDateTime: 2023-07-19T01:15:00Z

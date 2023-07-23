@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-19T13:00:00Z
 originalUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
 webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "ChatGPT facial recognition potential makes OpenAI nervous"
@@ -93,21 +99,7 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T21:00:00Z
-    webUrl: "https://omaha.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_56fbbbe4-b494-51eb-b1e5-9fd9d129d325.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 12
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/6f/56fbbbe4-b494-51eb-b1e5-9fd9d129d325/64b6feafb11e6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "6KBZUhMIICRnu+sf67Dby/4pKIy6wcM34xAr2I0NuYG23u3Mk5eqEFdaOJqivUq3NIjulQNTsCe5d8sQsMQt5ja7SLUaouJso9B/NKbggVDyaPvRyYuHD0kc16Ub2xVnehtlI+PHbvwOZmSgQGZLWpNtFqYFJ5pzexd8kfHC4GrGlGAEErJCtI21HGXFqVlJ5S+cCi6qdsiPRRSqzetzr/U+RZ7PSttjX5PGg/1YPOuLrTOOdnNff88eCCRxvO5ZGj8Q2UWkmbs3h/5uSEjs4FkgD7zqxGMgyAfz1+QhtCL4i4LIEIlpjCZkkXf/PRShyWnRH8twS2RbJgRFqETHCMNz7n8jEQp+tQO3NpvuobrsvYsW7qqm9irKXWJME7800lg7goHFvvwVmHmBMN7TbIF/AoBPdpKQtvA0Jpx27pZiBmUSWXYnwqD+BfLBcVxkCCfkYkuaD5c59uF1R2910NznJxE9rW5cDF9oaZs3MecVbs5httjX50qtbgmovvOhofTTl3h1BQAQKqqn7NYolQ==;QBwF5PqLtpXKIaq/Drbo1w=="
+secured: "3m/xEpaApMUZ8iAdoNBB3PPi6/Fvirv7wYJfeeSp+DZcyWWbLNSAvUESVgVvvHKh/I9/ehJk509923SX+CxnjGVJs82vrDqA1X7z58lOmZDVTNT2O+4PFplU4hDZ6N5LlCV/28ave0CfSR8g5oeYLZ4Lz4dxXmhyf0u0/Y5oW4Kbb0D70TWLGHNjfU3jrdRgoum6ZXc7Kc5i52uEqMojCAtO11ATOJwwm6iy6MVgSQWnsxyYjDtj4lCVlAbeM7f1QcQH6/exeJ1CX5mN6fNihpYN+Wxl9+Tf6bjCyipz7rRM1adCjt3zhlrkKNu1eZtr11pb0Z1EPkZlDrTWBP0WyCUiwPBwOXyGoXRv8SomSgQ=;E43gLOJit5yKwUPLr1SogA=="
 ---
 

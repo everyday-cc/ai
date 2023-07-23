@@ -317,20 +317,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Announces $30 AI Subscription, Doubles Down On AI Partnerships"
-    excerpt: "Microsoft announced an AI-powered premium version of its Microsoft 365 product that would cost users $30 per month. And it's doubling down on AI applications through tie-ups with companies like Meta."
-    publishedDateTime: 2023-07-18T19:34:00Z
-    webUrl: "https://www.investopedia.com/microsoft-announces-usd30-ai-subscription-doubles-down-on-ai-partnerships-7562505"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 53
-    images:
-      - url: "https://www.investopedia.com/thmb/IdYjX68LfmBvgL6Q77v79coUGUw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1447492153-9b197bfc7c2548c2a7d54f09359c9b1f.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Capgemini and Microsoft Launch Azure Intelligent App Factory for Accelerated Generative AI Implementations"
     excerpt: "Capgemini and Microsoft have collaborated to create the Azure Intelligent App Factory, a solution aimed at enabling organizations to scale respon"
     publishedDateTime: 2023-07-20T10:31:00Z
@@ -411,20 +397,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Splunk Unveils New AI Offerings And Edge Hub, Strikes ‘Digital Resilience’ Alliance With Microsoft"
-    excerpt: "At Splunk .conf23 the company unveiled Splunk AI and enhancements to the Splunk unified security and observability platform."
-    publishedDateTime: 2023-07-18T21:43:00Z
-    webUrl: "https://www.crn.com/news/software/splunk-unveils-new-ai-offerings-and-edge-hub-strikes-digital-resilience-alliance-with-microsoft"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 40
-    images:
-      - url: "https://www.crn.com/resources/0283-1885a968d91b-cfce421a55d4-1000/splunk-conf23.jpeg"
-        width: 611
-        height: 457
-        isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden’s administration."
     publishedDateTime: 2023-07-21T09:06:00Z
@@ -453,6 +425,20 @@ related:
         width: 1068
         height: 712
         isCached: true
+  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
+    excerpt: "The commitments include third-party oversight of the workings of commercial AI systems, though they don’t detail who will audit the technology or hold the companies accountable."
+    publishedDateTime: 2023-07-23T13:21:00Z
+    webUrl: "https://www.lex18.com/news/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house"
+    type: article
+    provider:
+      name: lex18
+      domain: lex18.com
+    quality: 40
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/554590f/2147483647/strip/true/crop/5622x2952+0+398/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F23%2F70%2F0c810b0d456787679becc36eb5ee%2Fap23202666560057.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Earnings Forecast & Preview: The MSFT Stock 2023 Rally"
     excerpt: "Our Microsoft earnings forecast and preview will cover everything from Azure's profit levels to the potential future of the Activision Blizzard merger."
     publishedDateTime: 2023-07-20T01:54:00Z
@@ -476,15 +462,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 36
-  - title: "Microsoft unveils pricing for 365 Copilot, its generative AI assistant"
-    excerpt: "Microsoft 365 Copilot, the company's generative AI-fueled productivity tool, will be priced at $30 per user, per month, the company announced Tuesday during its annual"
-    publishedDateTime: 2023-07-18T19:40:00Z
-    webUrl: "https://www.ciodive.com/news/microsoft-365-copilot-pricing-enterprise/688294/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
   - title: "Microsoft partners with Capgemini and Splunk to drive AI and cloud innovation"
     excerpt: "In an announcement by Capgemini, Microsoft and Capgemini introduced the Azure Intelligent App Factory, a solution to revolutionize business intelligence"
     publishedDateTime: 2023-07-19T13:35:00Z

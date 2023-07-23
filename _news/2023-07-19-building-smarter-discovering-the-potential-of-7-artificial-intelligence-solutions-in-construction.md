@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "States Consider Regulating Artificial Intelligence in Hiring"
-    excerpt: "About a quarter of businesses across the nation have adopted AI and many are beginning to use the tech in their hiring process. Only three states currently require employers to ask for consent first if using AI in hiring."
-    publishedDateTime: 2023-07-18T21:01:00Z
-    webUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring"
-    ampWebUrl: "https://www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/states-consider-regulating-artificial-intelligence-in-hiring?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 41
   - title: "Artificial Intelligence in Mechanical Contracting"
     excerpt: "Artificial intelligence is dominating headlines around the world. But how practical is it? Can it be integrated into business operations in a way that boosts the bottom line without introducing costly errors? Some companies in the mechanical contracting ..."
     publishedDateTime: 2023-07-19T15:33:00Z

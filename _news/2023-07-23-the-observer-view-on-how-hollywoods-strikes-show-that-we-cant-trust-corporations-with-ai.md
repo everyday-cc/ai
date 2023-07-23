@@ -3,12 +3,10 @@ category: news
 title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
 excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
 publishedDateTime: 2023-07-23T04:01:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
-ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 type: article
-quality: 47
+quality: 7
 heat: -1
 published: false
 
@@ -23,19 +21,13 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
-    width: 620
-    height: 372
-    isCached: true
-
 related:
   - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
     excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-    publishedDateTime: 2023-07-22T01:10:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
+    publishedDateTime: 2023-07-21T20:46:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
     type: article
     provider:
       name: ABC
@@ -79,6 +71,6 @@ related:
       domain: theguardian.com
     quality: 8
 
-secured: "ldCYtauBqhij0MSkbUef01Pn6CywTfKdU6W9we9TukTvHYXn1leHeFmXlVv6jCe8XdcEKLvRxz2XHnj44RPTAzT6wUpwrYMJspcE/TCmN0h7WqSUUFwCloxxIymdk4s8y5xyd+Q4N3IW6Si5oROVt7GJj/arA+QhVdP2QFU+NKF6fn2X+VuQIkOOlb6087A/dAL647j+yl9nvQSLX+1YQIU/lffaoxX+7CO+Eqy2C7tkHxCJoOBk8F6ViVmK0dPbDVagEaa8lvuDfNPVROinAXaHrtaMgbdE1VGU0AbJPMjkfK6wqtTH9L1iVQJ5p01SQo98JYyhWLJDqxU4YPJWi/nWepOcxSPy9jzspBr76AjIViN9CS3zq+oN+UK6DsdRofWhN70LHc0d7tWWhnEMxUGVd0iuc3oib1CnHsVMnSCprEgf3bvvu1k4AbWvIdPpCJJib37pUVL7/Wf8URT8+UFtZh0rw1KUfc8VBPbDorJRBP+Y5W7/mIU24Plz+qgp+z/J0JsaQSg/mHBCGIyKiw==;/eoQeJBXNs4h8oYkFoBpfA=="
+secured: "V+c7LrEs4F8wgSSr5t82LnZ++OqowYRhPglRLOREVF+YwtRP2icZBdzoMKYijm2ynPlJNsaTf7+I7vbDgKcsbZPaxmvyup2j+SM1fRY4dYItYCT4xBIBkGuow60qdeZ69HSQKmuIsSQvVcmCK3Mpd07H63SKyQ9JoXWqmKXf8I3aBM25vKlfQYc6Y52TS1JxRr6lhLFrlz+nL0/pW3NrkYnprbrwke6VC46RBKy3Ab+QUdOR1eTkVUhKumFmvQP7tOdsbgQ76pnKO2YRgM6u3HPRPHPzQttwNEtYlmCsb4iuYbae8OkNFYaaBpKauvIQ21cJeIXU0cZIEfbptKbXuDbZynWGyJGdqjHKX2lIKrvCgFoO+WSJ/groqnNmHn5Ozf8QUmvLx9eO0UNv+SkZK+ihU0LlZGa4NBIINPKl54zWvO/4X5QngaRpmWrvT1ld4fq/2az4k0QwB4HrZ43FFf/16AOtw7bWX4B5b+ocCLoy0hmFSJlxW9shLbPkFoLbm/SmkCD3uqWqfG+V5ur2Vw==;njQCn2/jr8P7mR+QWTzbeQ=="
 ---
 

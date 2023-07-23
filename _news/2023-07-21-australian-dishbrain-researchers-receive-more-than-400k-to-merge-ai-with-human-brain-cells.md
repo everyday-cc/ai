@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/australian-dishbrain-researchers-receiv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Scientists Working on Merging AI With Human Brain Cells"
+    excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
+    publishedDateTime: 2023-07-23T12:32:00Z
+    webUrl: "https://futurism.com/the-byte/scientists-working-merging-ai-human-brain-cells"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "mXoZe4C/xd3w7DkZDDx78D7+0k2v5hDKlgvtc5DKYTDsNyuicNEiv5lkjyq2zX7lZcLq9Z9Llg+VhbnFZRf62U1MQvh0+nVJ7dM2prTmwlDirHYXYAkKM5LMDZwJWsRMAwNNV5Dn9nw803P93U9MaclDklfkaKbQCHu934+vv7a5nMnYt0fcJUQwpXzjYFbmJCZ+NhvGvuhfSBqvZf/a7KHoIuZEBlYZvNNe0FLlMem1A6osxCdAy5V/jHYib0ccfGUpGWvGuo3E2tn7PJOp8/2YA9Iq2Tjr98Gv+3dC+ZmiSTe6LrT2l7j1yvQeR/GcE5B7kd1WueIaXxPm/1ON9NrpZzkYeVAntM2eC+4bo4Q+W8azdFUKykowJQmVfCRNBsUv2F1GH6J/rD4i5nwn+lvR1LUur8DfTtZIAYF181QOHKz+8KQJoygn/dlNAH/aPui8UZiuBmupMsmTLKqMKsH7bVsv+T+Kz0frOVTvFTOACEOyk9n9evXp0Qxde7/LABoZ5uXJ/3XKMbuJHOzy+w==;QtPirg9V4/4n3MnBooZqiA=="
 ---

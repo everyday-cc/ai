@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta launches Llama 2, an open source AI model that allows commercial applications"
-    excerpt: "Meta announced Llama 2, a new open source family of AI language models notable for its commercial license, which means the models can be integrated into commercial products, unlike its predecessor. They range in size from 7 to 70 billion parameters and reportedly \"outperform open-source chat models on most benchmarks we tested,"
-    publishedDateTime: 2023-07-18T20:07:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cyberllama-800x448.jpg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Meta unleashes AI free-for-all with release of Llama 2"
     excerpt: "Trained on 2 trillion tokens, the open source large language model's release clears a no-cost path for research and commercial use."
     publishedDateTime: 2023-07-19T20:39:00Z

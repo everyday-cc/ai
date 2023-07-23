@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AI-is-the-next-front-in-the-culture-war_1.gif"

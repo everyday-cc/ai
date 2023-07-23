@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-07-18-ai-and-advanced-applications-are-straining-current-technology-infrastructures.md",
+      "title": "AI and advanced applications are straining current technology infrastructures",
+      "excerpt": "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "originalUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/28e0c7652f5d2bd561c5c6d4f0ce4ad069b88299/2023/07/18/be068a2f-3083-43e1-bc85-8ee67d15ecf4/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
+      "publishedDateTime": "2023-07-18T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-ai-envisioned-the-future-of-downtown-seattle-heres-where-it-fell-short.md",
       "title": "AI envisioned the future of downtown Seattle. Here’s where it fell short.",
       "excerpt": "Can AI help the transform the future of downtown Seattle? In a recent update to its “Downtown Activation Plan” aimed at rejuvenating the city’s core, Seattle leaders released images created… Read More",
@@ -658,6 +709,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-goldman-sachs-reiterates-baidu-buy-recommendation.md",
+      "title": "Goldman Sachs Reiterates Baidu Buy Recommendation",
+      "excerpt": "As of July 6, 2023, the average one-year price target for Baidu Inc – ADR is 184.32. The forecasts range from a low of 102.01 to a high of $246.75. The average price target represents an ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
+      "originalUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2017/06/baidu-logo.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
+      "publishedDateTime": "2023-07-17T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-un-warns-of-ai-brain-chips-on-steroids-that-could-control-minds.md",
       "title": "UN warns of AI brain chips ‘on steroids’ that could control minds",
       "excerpt": "A paralysed man walked for the first time in 12 years after being fitted with a pioneering mind-reading implant (Picture: EPFL) The United Nations (UN) has warned about the potential dangers of implanting artificial intelligence (AI) chips in the brain ...",
@@ -986,20 +1080,11 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66166236.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-07-17T10:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1058,109 +1143,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-vb-transform-innovation-showcase-winner-arize-ai.md",
-      "title": "VB Transform Innovation Showcase winner: Arize AI",
-      "excerpt": "VentureBeat Transform's Innovation Awards honored Arize AI, an ML observability platform that uses AI to troubleshoot AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-arize-ai/",
-      "originalUrl": "https://venturebeat.com/ai/vb-transform-innovation-showcase-winner-arize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/CARR9373-e1689615053626.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration.md",
-      "title": "Seeing The Future: Artificial Intelligence For Age-Related Macular Degeneration",
-      "excerpt": "With recent advances in artificial intelligence (AI) and machine learning, healthcare providers can now effectively screen patients for age-related macular degeneration. iHealthScreen develops AI and machine learning-based diagnostic systems for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b577f192d2c76251248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/07/17/seeing-the-future-artificial-intelligence-for-age-related-macular-degeneration/amp/",
-      "publishedDateTime": "2023-07-17T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

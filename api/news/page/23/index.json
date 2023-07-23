@@ -2,6 +2,308 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-07-06-what-the-impact-of-global-voice-recognition-means-for-todays-brands.md",
+      "title": "What The Impact Of Global Voice Recognition Means For Today’s Brands",
+      "excerpt": "Text-based SEO is taking a back seat to the rise of voice search. From websites to blogs to paid ad campaigns, peppering online content with relevant, long-tail keywords is indisp",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a5c2e07beb1649c1b4ddd4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/07/06/what-the-impact-of-global-voice-recognition-means-for-todays-brands/amp/",
+      "publishedDateTime": "2023-07-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-four-google-cloud-customers-share-how-they-use-ai-to-deliver-value.md",
+      "title": "Four Google Cloud Customers Share How They Use AI To Deliver Value",
+      "excerpt": "translation and multilingual proficiency, and natural language generation. Additionally, Google offers Vertex AI, an end-to-end AI platform that streamlines the deployment of AI and generative models, allowing companies to customize AI models for their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a59969816ad28ab94c321a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2023/07/06/four-google-cloud-customers-share-how-they-use-ai-to-deliver-value/amp/",
+      "publishedDateTime": "2023-07-06T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year.md",
+      "title": "Elon Musk Predicts Tesla Self-Driving Cars Will Arrive ‘This Year’",
+      "excerpt": "Musk’s prediction follows a series of failed forecasts from the billionaire estimating driverless cars are just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a6929e1386ad1b194c321a/0x0.jpg?format=jpg&crop=3622,2036,x0,y46,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/07/06/elon-musk-predicts-tesla-self-driving-cars-will-arrive-this-year/amp/",
+      "publishedDateTime": "2023-07-06T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-air-force-colonel-says-it-took-ai-10-minutes-to-complete-a-task-that-can-take-humans-days.md",
+      "title": "Air Force colonel says it took AI 10 minutes to complete a task that can take humans days",
+      "excerpt": "The US is testing AI to help defense agencies' internal communications, Bloomberg reported. Some AI models have even been fed classified information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
+      "originalUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a5c9376075be0019c2be26?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/air-force-defense-department-using-ai-artificial-intelligence-llm-humans-2023-7?amp",
+      "publishedDateTime": "2023-07-06T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-theres-one-hard-question-my-fellow-doctors-and-i-will-need-to-answer-soon.md",
+      "title": "There’s One Hard Question My Fellow Doctors and I Will Need to Answer Soon",
+      "excerpt": "Or so I thought then. Not even two decades later, we find ourselves at the dawn of what many believe to be a new era in medicine, one in which artificial intelligence promises to write our notes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/07/06/autossell/NYT_Medical-AI_ShiraInbar_Still/NYT_Medical-AI_ShiraInbar_Still-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.md",
+      "title": "India’s TCS to train 25,000 associates on Microsoft’s Azure Open AI",
+      "excerpt": "Indian IT services giant, Tata Consultancy Services (TCS), has deepened its partnership with internet major Microsoft and will train 25,000 associates to get them certified on Microsoft’s Azure Open AI.",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-101536741,imgsize-51502,width-1200,height=765,overlay-ettelecom/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/indias-tcs-to-train-25000-associates-on-microsofts-azure-open-ai/101536741",
+      "publishedDateTime": "2023-07-05T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-china-says-us-consideration-of-ai-chip-export-controls-hurts-chinas-legitimate-interests.md",
       "title": "China says US consideration of AI chip export controls hurts China's legitimate interests",
       "excerpt": "The United States' consideration of export controls on artificial intelligence chips is detrimental to Chinese companies' legitimate interests and hinders global economic and trade exchanges and cooperation,",
@@ -893,297 +1195,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-ai-and-history-predicts-a-bull-market.md",
-      "title": "AI (And History) Predicts A Bull Market",
-      "excerpt": "But if we’re predicting the long-term direction of the stock market, despite or because of technological shifts, history provides us a much simpler answer: it goes up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesberman/2023/07/05/ai-and-history-predicts-a-bull-market/",
-      "originalUrl": "https://www.forbes.com/sites/jamesberman/2023/07/05/ai-and-history-predicts-a-bull-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a58cf58403164114b4ddd8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesberman/2023/07/05/ai-and-history-predicts-a-bull-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesberman/2023/07/05/ai-and-history-predicts-a-bull-market/amp/",
-      "publishedDateTime": "2023-07-05T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools.md",
-      "title": "NYC begins enforcing new law targeting bias in AI hiring tools",
-      "excerpt": "The law, reported to be the first of its kind in the world, mandates third-party audits of AI employment decision tools in the Big Apple.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools/",
-      "originalUrl": "https://venturebeat.com/ai/nyc-begins-enforcing-new-law-targeting-bias-in-ai-hiring-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-05T111055.174.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-ibms-cloud-for-education-service-is-shutting-down-after-only-two-years.md",
-      "title": "IBM's Cloud for Education service is shutting down after only two years",
-      "excerpt": "Since the Watson demonstration on the Jeopardy quiz show, IBM has attempted to position itself as a dominant player in the cloud and artificial intelligence business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99293-ibm-cloud-education-service-shutting-down-after-only.html",
-      "originalUrl": "https://www.techspot.com/news/99293-ibm-cloud-education-service-shutting-down-after-only.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-05-image-7.jpg",
-          "width": 2000,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts.md",
-      "title": "New AI systems could speed up our ability to create weather forecasts",
-      "excerpt": "The first, developed by Huawei, details how its new AI model, Pangu-Weather, can predict weekly weather patterns around the world much more quickly than traditional forecasting methods, but with comparable accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
-      "originalUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/07/GettyImages-872885192-1.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/05/1075897/new-ai-systems-could-speed-up-our-ability-to-create-weather-forecasts/amp/",
-      "publishedDateTime": "2023-07-05T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-un-recruits-robots-in-effort-to-meet-global-development-goals.md",
-      "title": "UN recruits robots in effort to meet global development goals",
-      "excerpt": "Dozens of robots, including several humanoid ones, will take centre stage at a conference organized by the United Nations technology agency in Switzerland this week to showcase their potential to help it reach a series of increasingly improbable global goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/un-recruits-robots-in-effort-to-meet-global-development-goals-1.6467793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/1/24/1_4782295.jpg",
-          "width": 470,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/5/1_6467793.amp.html",
-      "publishedDateTime": "2023-07-05T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-rethinking-workload-placement-in-the-age-of-generative-ai.md",
-      "title": "Rethinking Workload Placement In The Age Of Generative AI",
-      "excerpt": "How organizations build, tune and run AI means the difference between gaining a competitive edge or losing one. Here are our tips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649cb761c029eedc5ae45c84/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/07/05/rethinking-workload-placement-in-the-age-of-generative-ai/amp/",
-      "publishedDateTime": "2023-07-05T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

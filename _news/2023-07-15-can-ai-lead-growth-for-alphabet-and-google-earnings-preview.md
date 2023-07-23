@@ -2,11 +2,11 @@
 category: news
 title: "Can AI Lead Growth for Alphabet And Google - Earnings Preview"
 excerpt: "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal."
-publishedDateTime: 2023-07-14T19:59:00Z
-originalUrl: "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview"
-webUrl: "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview"
-ampWebUrl: "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp"
-cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp"
+publishedDateTime: 2023-07-14T18:00:00Z
+originalUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview"
+webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview"
+ampWebUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp"
+cdnAmpWebUrl: "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "aT+BKHv3tKOkJtKbUMgq/5bSHV0c/Xe+FOk/DYKSy4pwfJX3xSMOmW8o/cXVqW1bcubsdJOvUQ6893CJ14FkM+5OE2bL3LOjsDxyeo1VoZwiu+m27AO5TTgG6nBsmk8iqbO8vYoRLPO0R3q5kgQ9MqKWvVnYqdNt/zzFLY56J6FmbWfTb3lavYbd1bmu7Zo4GIrq28QXyL7Bys+4aeqx/NKozbTx7SaVqzJVuE4xnMkqeTfLGT+tnv1BuUxcsakHDm/h1YpTyFevIiu1qKmq0tes32R40h92Gi4XJv1Wdw+VE+/H6n1rDteLn4OoHFmX7hb0iO4N8Wo1i2T+PxqZE6gxmogqvMTSHMAYk89qD2np+zINVwVGGTISUwhdMr0PVON4AcLt9MPm+NXKKWPGVTy5UhS7Tq3ryRbwgrmgLk+Gwp8BSdb2iEYI4lH5PtyP9KH+I7zZE1Rs6uFf6vHKhS8AwYREhc6I6zhwTmHHLcGhfm9sva9OWiSMPo7+uONmmTrIxz5J1IlcUk66yd0DZA==;Ahxt66KljlU/0NKaXsq1TA=="
+secured: "d7SGSEBrkGTChyqkASzC7hCNPdUY2rd99T+tINAH3cMrFyI2U+3RrWS68Dt8wwmAvE6T8kk1ySun/nsQAqZTDtttCoXG4pg+Jc3zDrQTIdZRIiCmPWvyux4z+sABwX3xJaz2LX+e91L+2JiRGRo9E7t5FwzaOqY9Jq7/nMzY/7Tl+yj4eChZG/ZOOO5ihld0lG3dykqngFHIXLmgw9ygdBpb98cPUTGSgOl3q3xE3jZjyufh6qzaDENOCLnXKmHpnZibSLh2mzoer/XJUaFZ/sN4Rr1/KrJQ2FSgGVq5ecdqsp9spW/F0LqoK7uRfygg4B0liwhBqxdPTazdRdTs8WmCM58DtXL6mDvPfwfUNJQ=;fKoKPrBTqPEVo3+iD+Jpqg=="
 ---
 

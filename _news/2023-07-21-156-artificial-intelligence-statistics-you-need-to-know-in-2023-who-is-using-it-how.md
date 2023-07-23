@@ -33,7 +33,7 @@ related:
     provider:
       name: Techopedia
       domain: techopedia.com
-    quality: 30
+    quality: 32
     images:
       - url: "https://www.techopedia.com/wp-content/uploads/2023/07/Artificial-Intelligence-Market-Size-Revenue-Fore.png"
         width: 930

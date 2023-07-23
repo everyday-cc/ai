@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/69e5f2675fbf308fac71d7be5387b38dcb274dba/2023/07/18/3affcd0d-bf61-488f-89d4-cb09a60e6ab7/meta-2023-cm3leon-image-examples.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Meta launches Llama 2, an open source AI model that allows commercial applications"
-    excerpt: "Meta announced Llama 2, a new open source family of AI language models notable for its commercial license, which means the models can be integrated into commercial products, unlike its predecessor. They range in size from 7 to 70 billion parameters and reportedly \"outperform open-source chat models on most benchmarks we tested,"
-    publishedDateTime: 2023-07-18T20:07:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/meta-launches-llama-2-an-open-source-ai-model-that-allows-commercial-applications/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/cyberllama-800x448.jpg"
-        width: 800
-        height: 448
         isCached: true
   - title: "Meta's new 'open source' AI isn't so open after all"
     excerpt: "Meta describes its Llama 2 AI model as open source despite restrictions on use. This does not follow official open source standards."

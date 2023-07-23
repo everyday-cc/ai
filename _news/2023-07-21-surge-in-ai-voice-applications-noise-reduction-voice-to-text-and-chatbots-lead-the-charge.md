@@ -51,6 +51,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 51
+  - title: "Barbers calls for strict regulation of AI tech"
+    excerpt: "Surigao del Norte Rep. Robert Ace Barbers on Sunday  urged policy-makers in the legislative and the executive branches to urgently"
+    publishedDateTime: 2023-07-23T14:11:00Z
+    webUrl: "https://manilastandard.net/news/national/314352833/barbers-calls-for-strict-regulation-of-ai-tech.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 39
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2021/03/9c4da_barbers-robert-ace.jpg"
+        width: 450
+        height: 302
+        isCached: true
   - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
     excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
     publishedDateTime: 2023-07-20T07:15:00Z

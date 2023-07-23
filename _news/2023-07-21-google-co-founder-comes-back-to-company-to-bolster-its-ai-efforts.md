@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-ai-sergey-brin-3347338/"
 webUrl: "https://www.androidauthority.com/google-ai-sergey-brin-3347338/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2018/04/sergey-brin.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Dr Google? AI could be doctor in the pocket, but company’s health officer urges caution about its limits"
+    excerpt: "Dr Karen DeSalvo excited by arrival of artificial intelligence but warns it has limitations and will only be ‘tool in the toolbox’ of medical professionals"
+    publishedDateTime: 2023-07-23T14:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 40
+    images:
+      - url: "https://i.guim.co.uk/img/media/76882b37adf84a86918acb6e0cff141a15778c3b/0_187_4000_2401/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=ab3d66d745ac59e8eea9717e1d3e664e"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "mlHTXhw1ncAdo7067BfdaEBWUIsygXtfIpKC51yuC7R4PnzMVenGNtzqFpsfPSCKGNk0sJwArqJaQ85vgUPO/CRAg7dIAXqkPbUEJpGmfFqj2U76+T9ThGG/jEx1fDXVnmn2zF6VZmLaqwXA+jL47JH2mcvWN8bYQn1h+E/8s68d3JOMsNMy8fYyAZJMIvgq67O+RA/qVDy1M89M3wEXmqul/vyICRXFWyGxnorf8gzjmOsO3jH5w+e8LwzYkXmlNfmQS9dr78zpXyP+wIKOgva42G9Vta/BUy1Zsr33xczv1Ue6bD/tsxnvOE5hZKQvHks5lg/9pfmSK2lQABa9jvawa4FCazX9kLrwcYZbOoRXbLXbuUOCakeldgyfCS7txYPYW2VcOQTDUrkUEEnhJys286bLTjEWVJYTUnUEgm7Tst6rnTa5MSoqgv21f66PNkbkcC+c9iEp7B3tnJ+PYNutdD9GAXEDnYrwxpAogI7uIvhNxy7hhV14i2Gfc6byx4VrK1EymoMA3cdMTbNLDA==;AiRvcomao5qqRTh/UXRUOA=="

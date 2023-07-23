@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Xiao-I Hua Zang Large Language Model, Positioned To Be China's Own Chatgpt"
+    excerpt: "I Corporation (Nasdaq: AIXI) (“Xiao-I” or the“Company”), a leading cognitive artificial intelligence (“AI”) enterprise in China, initiated a summit focused on“The Opportunities and Challenges in China in the Era of Large Language Models (LLM)” to discuss the importance of creating China's own ChatGPT."
+    publishedDateTime: 2023-07-19T18:23:00Z
+    webUrl: "https://menafn.com/1106630295/Xiao-I-Hua-Zang-Large-Language-Model-Positioned-To-Be-Chinas-Own-Chatgpt"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 2
   - title: "Xiao-I Corporation: Xiao-I Hua Zang Large Language Model, Positioned to Be China's Own ChatGPT"
     excerpt: "SHANGHAI, CHINA / ACCESSWIRE / July 19, 2023 / Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, initiated a summit"
     publishedDateTime: 2023-07-19T15:39:00Z

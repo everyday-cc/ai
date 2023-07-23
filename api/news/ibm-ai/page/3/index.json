@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-27-journeying-towards-a-two-person-delivery-network-digital-twin.md",
+      "title": "Journeying towards a ‘two-person delivery network’ digital twin",
+      "excerpt": "Optimizing and improving the supply chain to support a positive customer experience is a priority for any retailer.\nThe post Journeying towards a ‘two-person delivery network’ digital twin appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
+      "originalUrl": "https://www.ibm.com/blog/journeying-towards-a-two-person-delivery-network-digital-twin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-26-yanfeng-auto-adopts-ibm-data-ai-and-intelligent-automation-software-to-accelerate-digital-and-intelligent-transformation.md",
       "title": "Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation",
       "excerpt": "Learn how Yanfeng Auto works with advanced technology and technical experts to accelerate its own data-driven digital transformation.\nThe post Yanfeng Auto adopts IBM Data, AI and Intelligent Automation Software to accelerate digital and intelligent transformation appeared first on IBM Blog.\n",
@@ -1339,50 +1381,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions.md",
-      "title": "SAP to embed IBM Watson Artificial Intelligence into SAP® Solutions",
-      "excerpt": "The two companies held an event in Riyadh on Wednsday that highlighted how to accelerate digital transformation in the Kingdom in line Vision 2030",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/OGY3MGQ1ODUtM2NiNS00/0/image2-mohammedalromaizan-vpsapsaudiarabiaandashutoshmuni-interimmpofibmconsultingsaudiarabia-alongsideibm-sapteam-jpg.jpeg?f=3%3A2",
-          "width": 873,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sap-to-embed-ibm-watson-artificial-intelligence-into-sap-solutions-yu9wrmho?amp=1",
-      "publishedDateTime": "2023-06-15T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

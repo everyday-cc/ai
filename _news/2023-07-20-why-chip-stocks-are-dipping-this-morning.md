@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-2
 webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV?siteid=yhoof2&yptr=yahoo"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "3 Machine Learning Stocks for Getting Rich in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial Intelligence (AI) exploded in 2023 as generative AI programs,"
-    publishedDateTime: 2023-07-18T21:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-for-getting-rich-in-2023-1032456294"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "TYbFbz6Xs6xOVjcexTNUZttIyTeDaG54YqwvzeVfeyqoMk5oLLA0iqS77VfYLXGjlWaZA3A23/djO5k3bBt3F3ZXfVwHA2DOvWFpMZIjcdIw1WtnAQ3C0lDeOBzod1qyYvUnH1JzfptrZkca9gcbLFdwYYYmDgkpIKgpaLSw/4M3AYrm3nWvsr5A8pL6S6hsi/c37L1RvSnIm9WZ+C1r/6G38jNE7U8WK/L9IkxYwwLVxQSDUaLB7f+3ln8d/obSBKcLZue9SwtGTOdoWoCAoN4VVNzZajKM6xZ39tVPdU1I02Qqdof85uIdlWAhUC9HsxfL0FJWx07+ljYP6iyY18pIXnNieH4xsmcLoc7CKag=;LU+UKMgZVhrfCq4elp/gOA=="
 ---

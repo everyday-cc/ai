@@ -3,12 +3,10 @@ category: news
 title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
 excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
 publishedDateTime: 2023-07-22T18:59:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says?ref=upstract.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+originalUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
 type: article
-quality: 54
+quality: 14
 heat: -1
 published: false
 
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/463acf7bcb5f0396b3864a30c244ebab0fc692bc/0_424_6355_3813/master/6355.jpg?width=620&quality=85&auto=format&fit=max&s=da88fc08e973a19c7c417b173600f8c4"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "Facebook-owner Meta exec Nick Clegg claims AI 'quite stupid'"
@@ -77,6 +69,6 @@ related:
         height: 675
         isCached: true
 
-secured: "HeOMqBsFzFUR2jHB3nn23pKD9XS3PSuN/BYPyHOdafNya+DyYLc/Z7dfZCmXysAuMR91LpPeQ3kwZTc9yT++RcumFlQYDE2ZLikqxxz07qeODRbMv1QIKVzgXbRUR3uMznlMXvaJGM/ZJJL0k/2euVV5t/zqON7g4o67tnRWttOELelXCjq0Qud3PsnaSNJA8RykDsnCHB9m2z0fRZ4sa31gklRDbtqL4RKSSFvR+OnlaozzHoobf00QtzaxZjSW8mPY3y4+YU5uWx67SINGg4wKAFuWouufKOeMb75ovLLUzHMkwsVaxNdEhGUbfXE9nMXdIJsMpgZh0wuMZNZ/ICMPZFsyObdQnXKAQJ6JHFe2/xXzeUeaTdlkjMgug3M817I2YkD2QxTRO7SZWZXie2Hsxj4bGSTP0HhL01A32Srmk/ggXD8KIQVS5bz/aoFY8f2WigteKk20iIoMXfN2rikTbR1wJvAKAK/P7zTEIIG9AWa1FWQQnGA6IgHEaZv3Nkla3+2Xfd8TkjfABJY+Hg==;f7Qatq7vN8RsNjFRd48weQ=="
+secured: "8C4sOuN172f8p1J/9ZYYXIHetAjwIznb1NIuGjXu4Qg1aRHdaurADi5ZW8LQf1SpKGg1oNMe+5kPgc1q1klh0yQbqpFB52PNGB7I3D8kh5poJohQytZdLNpPAbJ6o/NVkjAz1Dc0hTUUnTSr6gMGfcZXhSqdS4qoMYAS31qohe/UGg1PMIp+yIGuziUK1FPxjAaUUxAiy3/kMNLE4GVjhluJ9oQfMzPIFYe8fRDaTdi32vdRvYeVje76CSsnisxoD2d3QmaxmJfmO8VpGlXqHKIsezh2B9vlxLjZIp5Mz0RuVyTjzKoyw8FyfvVXBIt4XzsFNyJ3pztgnsy/EvaCmwZyJanuSvc2ltSRrWbnj9F9O2LJRuUoaHciGsqmQvPObR4MZFd8slI+Bmj0HPACzAUNzShAxBE0wMZQf9MHwaKxUcswK7MkUcjuu7tfD/uZc9r+Wg3oCU7DML4x/GoWZ9vexXYnziT7azGt48i9sc6k/4LgNZpgeMAprh12inlebLBIMKbIFL7XiMrPZkRh/g==;8gioxClRG6bg+RmEnfi1BQ=="
 ---
 

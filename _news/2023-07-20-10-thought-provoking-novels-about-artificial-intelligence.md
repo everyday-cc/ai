@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-19T17:20:00Z
 originalUrl: "https://www.mentalfloss.com/posts/novels-about-artificial-intelligence"
 webUrl: "https://www.mentalfloss.com/posts/novels-about-artificial-intelligence"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images2.minutemediacdn.com/image/upload/c_crop,w_3838,h_2158,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01h58f22bwt2w45zqrng.jpg"

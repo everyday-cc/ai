@@ -242,6 +242,15 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "Making Sense Of Tech Companies’ AI Commitments To The White House"
+    excerpt: "Tech companies made commitments to the White House around the safety, security and trust of their AI systems. There are tradeoffs associated with these commitments."
+    publishedDateTime: 2023-07-23T12:24:00Z
+    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/07/23/making-sense-of-tech-companies-ai-commitments-to-the-white-house/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Amazon, Google, others agree to White House’s AI safeguards"
     excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
     publishedDateTime: 2023-07-22T09:24:00Z

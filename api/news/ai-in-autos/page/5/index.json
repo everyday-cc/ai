@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-06-16-baidu-wins-commercial-licence-for-driverless-taxis-in-shenzhen.md",
+      "title": "Baidu wins commercial licence for driverless taxis in Shenzhen",
+      "excerpt": "Baidu first brought self-driving cars to Shenzhen in 2022 but its cars then were not allowed to go on the roads without human supervisors onboard. Its fleet was also prohibited from collecting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
+      "originalUrl": "https://www.channelnewsasia.com/business/baidu-wins-commercial-licence-driverless-taxis-shenzhen-3566851",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--fFhN_mG5--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-06-16t082609z_1_lynxmpej5f09b_rtroptp_3_china-baidu-robotaxi.jpg?itok=D8sSFWKj",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-self-driving-or-driverless-cars-market-growth-2030.md",
+      "title": "Self-Driving or Driverless Cars Market Growth | 2030",
+      "excerpt": "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-growth-2030-2023-06-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-16T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-16-the-3-best-stock-picks-for-the-booming-ai-mega-trend.md",
+      "title": "The 3 Best Stock Picks for the Booming AI Mega Trend",
+      "excerpt": "AI, also known as artificial intelligence, is an emerging technology with immense ... In the automotive industry, AI is utilized for real-time monitoring and the development of driverless vehicles. Indeed, the potential of AI is truly groundbreaking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-stock-picks-for-the-booming-ai-mega-trend",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-stock-picks-for-the-booming-ai-mega-trend",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-15-artificial-intelligence-in-the-securities-industry.md",
       "title": "Artificial intelligence in the securities industry",
       "excerpt": "Roger E. Barton of Barton LLP discusses the potential benefits and drawbacks of artificial intelligence in the securities industry as many companies race to implement AI-based tools into their service offerings and backend operations.",
@@ -1258,137 +1387,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-06-10-companies-using-artificial-intelligence-ai-in-a-compelling-way.md",
-      "title": "10 Companies Using Artificial Intelligence (AI) in a Compelling Way",
-      "excerpt": "AI is changing the way many companies operate. Learn about how some of the biggest companies in the world are using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/companies-that-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI_artificial_intelligence_robots_working_offi.width-600.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-baidus-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of-ai-ethics.md",
-      "title": "Baidu's 2022 ESG Report Highlights \"Safe and Controllable\" as Highest Principle of AI Ethics",
-      "excerpt": "autonomous driving, smart terminals, system services, and a wide range of additional components. In 2022, Baidu's self-developed ERNIE Big Model has been used in place of traditional data classification technique to achieve automatic data management ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2023/06/05/baidu-s-2022-esg-report-highlights-safe-and-controllable-as-highest-principle-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-how-self-driving-cars-will-change-the-roads.md",
-      "title": "How Self-Driving Cars Will Change the Roads",
-      "excerpt": "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/self-driving-cars/",
-      "originalUrl": "https://www.rd.com/article/self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
         "images": null,
         "publishers": null,
         "authors": null

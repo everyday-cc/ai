@@ -81,6 +81,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI can help fight climate change and injustice — if it doesn’t make them worse, first"
+    excerpt: "UC Riverside study suggests many technology companies are wasting resources and repeating historic patterns of injustice as they build out AI systems."
+    publishedDateTime: 2023-07-23T14:01:00Z
+    webUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/"
+    ampWebUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 52
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/07/RPE-L-AICLIMATE-0722-01.jpg?w=1024&h=610"
+        width: 1024
+        height: 610
+        isCached: true
   - title: "NYC subway using AI to track fare evasion"
     excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
     publishedDateTime: 2023-07-20T14:09:00Z
@@ -115,15 +131,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 37
-  - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
-    excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
-    publishedDateTime: 2023-07-18T19:45:00Z
-    webUrl: "https://techbullion.com/10-ways-ai-can-cut-business-costs-during-challenging-times/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "WJJ6WXANPwP9UOn/KWyR336p/GJLkfgRDQxVhaHShRCRPk2RtCiYj0Bb2SFo+KU5qKrhHJu/aBIZOXoxINP/fcf2cuKpzTS00ga6qE7zwzXKFBtD0mNQ4r1fqCCtD0IMeYbbt/zI+a0pB9K86GhVfagqRIQANe/cquQcUQXMHbFQztWs7IKZJCirQmHmvlaRPS36yZvg7m976tF2QqhG0OAdwY1dMc54JZoGTDDW4TunKBkFy0EpV9BPFBQ1Hz8aoHhra3YQ2iWXHiOpZOdH1X9Bpe4n88ZNFjTkygkttq9I0DVeFEhuazHENnjswZc5tT3Z1jhwRN/P6I6jWR4E6T1eh8NB9CdXyFCwCi4B2+s=;LOmWMH6hD8ank3NT8mvWKQ=="
 ---

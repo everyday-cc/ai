@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -413,7 +413,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -511,6 +511,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-18-goldman-sachs-reiterates-baidu-buy-recommendation.md",
+      "title": "Goldman Sachs Reiterates Baidu Buy Recommendation",
+      "excerpt": "As of July 6, 2023, the average one-year price target for Baidu Inc – ADR is 184.32. The forecasts range from a low of 102.01 to a high of $246.75. The average price target represents an ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
+      "originalUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2017/06/baidu-logo.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/07/17/goldman-sachs-reiterates-baidu-buy-recommendation/amp/",
+      "publishedDateTime": "2023-07-17T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-ready-to-roll-a-new-driverless-ride-hailing-company-is-coming-to-dallas.md",
       "title": "Ready to roll? A new driverless ride-hailing company is coming to Dallas",
       "excerpt": "A new way of getting around is coming to Dallas. In just a few months a new driverless ride-hailing service is about to become a reality. It's part of a growing trend in artificial intelligence, which some believe could be a key to safer roads in the future.",
@@ -595,6 +638,93 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.md",
+      "title": "Artificial intelligence can detect 'sextortion' before it happens and help FBI: expert",
+      "excerpt": "Yaron Litwin, executive of AI-powered company Canopy, explains how \"AI can be used for good\" in an ongoing chess match with criminals using deepfakes in sextortion scams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
+      "originalUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AI-is-the-next-front-in-the-culture-war_1.gif",
+          "width": 602,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/artificial-intelligence-can-detect-sextortion-before-it-happens-and-help-fbi-expert.amp",
+      "publishedDateTime": "2023-07-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-how-will-artificial-intelligence-affect-investing.md",
+      "title": "How Will Artificial Intelligence Affect Investing?",
+      "excerpt": "Predicting how artificial intelligence will affect the investment industry falls between those two extremes. The internet was so difficult to foresee because it broke radical new ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
+      "originalUrl": "https://www.morningstar.com/financial-advice/how-will-artificial-intelligence-affect-investing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -870,8 +1000,8 @@
       "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
       "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
-      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
+      "webUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
+      "originalUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -888,9 +1018,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "publishedDateTime": "2023-07-14T12:59:00-07:00",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-au/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "publishedDateTime": "2023-07-14T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CMC Markets",
@@ -1074,10 +1204,10 @@
     {
       "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1096,11 +1226,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
+      "publishedDateTime": "2023-07-13T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1110,9 +1240,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1235,135 +1364,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions.md",
-      "title": "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions",
-      "excerpt": "'Wipro ai360' artificial intelligence system launched, company plans to invest $1 billion in developing AI solutions Headlines Today is a platform to find all the news at one go and to personalise the utility and other information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.headlinestoday.in/technology/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions-574790481.html",
-      "originalUrl": "https://www.headlinestoday.in/technology/wipro-ai360-artificial-intelligence-system-launched-company-plans-to-invest-1-billion-in-developing-ai-solutions-574790481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "headlinestoday",
-        "domain": "headlinestoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-elon-musk-launches-xai-his-new-artificial-intelligence-company.md",
-      "title": "Elon Musk Launches xAI, His New Artificial-Intelligence Company",
-      "excerpt": "Musk has been recruiting researchers to try to create a rival to OpenAI, the AI company behind the viral chatbot ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "originalUrl": "https://www.wsj.com/articles/elon-musk-xai-artificial-intelligence-company-openai-chatgpt-4a6f178a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-815887/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-and-countering-chinese-deepfakes.md",
-      "title": "Fox News Artificial Intelligence Newsletter: AI Air Force wingman and countering Chinese deepfakes",
-      "excerpt": "HERE TO STAY': The Air Force is training artificial intelligence to operate drones and other aircraft and act as wingmen to pilots in the future. Experimentation lead Matthew \"Rico\" Niemiec stated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-ai-air-force-wingman-countering-chinese-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

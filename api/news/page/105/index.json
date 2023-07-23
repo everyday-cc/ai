@@ -2,6 +2,306 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-05-15-ibm-tech-now-may-15-2023.md",
+      "title": "IBM Tech Now: May 15, 2023",
+      "excerpt": "Exploring the big announcement coming out of the Think 2023 event: watsonx and it’s three main components.\nThe post IBM Tech Now: May 15, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-76/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-76/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T06:11:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-what-happens-when-ai-becomes-sentient-3-strategic-outlooks.md",
+      "title": "What Happens When AI Becomes Sentient? 3 Strategic Outlooks",
+      "excerpt": "As AI advances, it’s important to start thinking about the implications (ethical, social, legal, tech and safety) of such a breakthrough today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/15/what-happens-when-ai-becomes-sentient-3-strategic-outlooks/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/15/what-happens-when-ai-becomes-sentient-3-strategic-outlooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645e85e7e67be1ccdf539e55/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/15/what-happens-when-ai-becomes-sentient-3-strategic-outlooks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/15/what-happens-when-ai-becomes-sentient-3-strategic-outlooks/amp/",
+      "publishedDateTime": "2023-05-15T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs.md",
+      "title": "How Has Generative AI Changed The Business Landscape For Young Entrepreneurs?",
+      "excerpt": "The current hype and potential opportunities surrounding AI mean many entrepreneurs are eager to get involved.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645e4bcb5ad71bb98fa69866/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/15/how-has-generative-ai-changed-the-business-landscape-for-young-entrepreneurs/amp/",
+      "publishedDateTime": "2023-05-15T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform.md",
+      "title": "Goldman Sachs Is A Surprising New Entrant In The AI Race With New AI Social Media Platform",
+      "excerpt": "The move isn’t completely out of nowhere, given Goldman Sachs recently released a report on the future of work alongside AI. The study predicted AI could increase the global GDP by $7 trillion and increase productivity by 1.5 percentage points in just ten years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646212fda0c32776abcef342/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/15/goldman-sachs-is-a-surprising-new-entrant-in-the-ai-race-with-new-ai-social-media-platform/amp/",
+      "publishedDateTime": "2023-05-15T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-artificial-intelligence-voice-market-till-2030.md",
+      "title": "Artificial Intelligence Voice Market Till 2030",
+      "excerpt": "The Global Artificial Intelligence Voice market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-till-2030-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response.md",
+      "title": "Combining Generative AI ChatGPT Into Handguns Triggers Fiery Response",
+      "excerpt": "Would handguns be better with generative AI onboard, or is this a non-starter? Either way, it is a highly controversial topic. See what it is all about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 641,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645bfa0c8aa4ed65ec653182/0x0.jpg?format=jpg&crop=3887,2914,x350,y0,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/15/combining-generative-ai-chatgpt-into-handguns-triggers-fiery-response/amp/",
+      "publishedDateTime": "2023-05-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-hormone-therapy-should-be-offered-to-more-women-with-severe-menopause-review.md",
       "title": "Hormone therapy should be offered to more women with severe menopause: review",
       "excerpt": "More women suffering from 'debilitating' symptoms of menopause should be presented with the option of hormonal therapy, according to a paper published in the Canadian Medical Association Journal (CMAJ) on Monday.",
@@ -921,308 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-computer-vision-market-research-analysis-2023-2030.md",
-      "title": "Computer Vision Market Research Analysis, 2023-2030",
-      "excerpt": "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-healthcare-artificial-intelligence-market-2023-2030-business-report.md",
-      "title": "Healthcare Artificial Intelligence Market [2023-2030] Business Report",
-      "excerpt": "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-edge-artificial-intelligence-ai-chip-market-research-2023-2030.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Research | 2023-2030",
-      "excerpt": "May 14, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" is poised to witness an unexpected compound annual growth rate",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 329,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-my-week-navigating-the-awkward-teenage-years-of-self-driving-cars.md",
-      "title": "My week navigating the awkward teenage years of self-driving cars",
-      "excerpt": "At the time, company staff still sat in the driver’s seat, ready to take over at a moment’s notice if the self-driving car didn’t behave the way it was supposed to. Fast forward a year later ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f377989d941377b449012a3d9922f965",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "cdnAmpWebUrl": "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "publishedDateTime": "2023-05-14T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing.md",
-      "title": "AI Risk Management For Corporate Boards: 5 Areas You Should Be Prioritizing",
-      "excerpt": "Here are my suggestions for how you can begin to manage and mitigate the risks that your organization faces from the exponential growth of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645ffb6c361f51900ae45c0e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2023/05/14/ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing/amp/",
-      "publishedDateTime": "2023-05-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-gardening-tech-from-robot-lawnmowers-to-app-controlled-watering-systems-the-top-tech-buys-to-get-you-growing.md",
-      "title": "Gardening tech: from robot lawnmowers to app-controlled watering systems — the top tech buys to get you growing",
-      "excerpt": "The Evening Standard's journalism is supported by our readers. When you purchase through links on our site, we may earn an affiliate commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "originalUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.standard.co.uk/2023/05/11/15/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
-      "publishedDateTime": "2023-05-13T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "London Evening Standard",
-        "domain": "standard.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

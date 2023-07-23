@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI can help fight climate change and injustice — if it doesn’t make them worse, first"
+    excerpt: "UC Riverside study suggests many technology companies are wasting resources and repeating historic patterns of injustice as they build out AI systems."
+    publishedDateTime: 2023-07-23T14:01:00Z
+    webUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/"
+    ampWebUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 52
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/07/RPE-L-AICLIMATE-0722-01.jpg?w=1024&h=610"
+        width: 1024
+        height: 610
+        isCached: true
   - title: "How AI Is Changing The Way We Communicate"
     excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
     publishedDateTime: 2023-07-19T12:30:00Z
@@ -110,15 +126,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "10 Ways AI Can Cut Business Costs During Challenging Times"
-    excerpt: "The ultimate goal of every business is to maximize its profits while keeping operational costs low. And to do this, they use different technologies and strategies. One such technology that companies are using these days is Artificial Intelligence."
-    publishedDateTime: 2023-07-18T19:45:00Z
-    webUrl: "https://techbullion.com/10-ways-ai-can-cut-business-costs-during-challenging-times/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
 
 secured: "vGR9APAfW5cxIHzfKRtfyQq/dIkiRx8khA9Ktzb3sy5OtSrkaXvila0JnupiNJ8SfQ+bnAnzbKwPHdzB34pui0bg58FyCT2fraw7MIGvRhjQqV5Hk5jhSgiRU61/vwIQU1KajWDQBv+Bjo+QmkbNJo784kfnEmChzlQJekoCgi2XvF+Raj+oJP5dHz2DGEsbXEfbapKKao0kk213ZC2J9YavS/+FghYuisrrs8F8bx/Vxq+OjgYZJ+HQFH12eJoKZhkul3oPDUQwmJi4+jQ07inqj0SKBhrf5TXiJjLZo6ioc0wfJ1ASXZGnGlm/d4EvmwXYhDfMPtVraZTuN8fKJEdtChkWu5BAlAvPlNhDhIvzx4OTMYm+ctgnd6QC4M1mth7oGesS2DMHgioI7nSf9kNDclys5hPqFy5xIjJDX8HQI5PVZaw6O4s5ZbzryM0Q0WaS4KYG79EHtQaxoVLCwdWH+swJGb8lnj2BoJMA4jkpFo+J3r7Dgw4sDiws/ZLVVpNkXU6aHDYKkrrw8ERkCg==;Fmqlco3cY3hia2QE4ParzQ=="
 ---

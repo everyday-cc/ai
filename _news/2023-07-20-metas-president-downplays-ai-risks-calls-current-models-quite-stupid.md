@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
-    excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
-    publishedDateTime: 2023-07-22T18:59:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/463acf7bcb5f0396b3864a30c244ebab0fc692bc/0_424_6355_3813/master/6355.jpg?width=620&quality=85&auto=format&fit=max&s=da88fc08e973a19c7c417b173600f8c4"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Facebook-owner Meta exec Nick Clegg says AI 'quite stupid'"
     excerpt: "Current Artificial Intelligence (AI) models are \"quite stupid\", Facebook-owner Meta's president of global affairs Nick Clegg said as he played down the risks of the technology. The former UK deputy prime minister said the \"hype has somewhat run ahead of the technology\"."
     publishedDateTime: 2023-07-19T09:11:00Z
@@ -73,6 +57,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Putting the AI genie back in the bottle not an option, Meta’s Nick Clegg says"
+    excerpt: "The tech giant’s global policy chief warns governments against ‘fragmented’ laws around AI"
+    publishedDateTime: 2023-07-22T18:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/22/putting-the-ai-genie-back-in-the-bottle-not-an-option-metas-nick-clegg-says"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 14
 
 secured: "NJOLAsuH9AgaSQhFxVMOn6Ie6IhJVlxq0Fds2GJUZQfv3Di886fFrLoUSEs+IFmSEEesNU1chZaExigR83SlEyb5gTlofM50KsjinALHNUlK3R2nLtmqf51IeEk0J6nUg3PxHIrfEElHgWETSBFzFGfNpHmgPYdX6xSRems1eqyAjG0bhpv4y+mN38JUFd6OMoW5aMoFpFiCPxgbz0iibeJVJdP2m5cUTSDLwz5CdhOKL9Cy5QuQJRscg5lA7f1rB+r5ek6xz6ArxD4eHzwIDx1Q88/UJJ2URl3O9wrdRdcKgbaCG0hF2JC6YJB97gGTxHQCrEsD/M04YJscLDxYRlSzPJ1tnlNHo1ra7P4JW8bSs5/ZFbQJ5/b4esAsg5xVP0bnlnnQMwBepG05whPY8ROk96Uzrmwam7iGMdx6yJ/m0e1aExPX+MUFgEyBwuao2pLWN7I8kpG0Zfu0TYu5sffC1AvwmhsWvjFaNqveq0XLdR+bZa8RCJ0+PMTxKOIjTKe1XIH0SMpmI1GhgS4EWA==;k7mu2VNOcBrd/8NO+mNAWA=="
 ---

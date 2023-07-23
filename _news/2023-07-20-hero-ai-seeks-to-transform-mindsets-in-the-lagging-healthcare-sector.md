@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
-    publishedDateTime: 2023-07-18T21:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-healthcare-stocks-using-ai-to-deliver-you-healthy-profits-1032456321"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
     excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
     publishedDateTime: 2023-07-21T14:48:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
 excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-publishedDateTime: 2023-07-22T01:10:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563184"
+publishedDateTime: 2023-07-21T20:46:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
 type: article
 quality: 48
 heat: 48
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
-    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-    publishedDateTime: 2023-07-23T04:01:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How Hollywood Is Avoiding Robot Overlords"
     excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
     publishedDateTime: 2023-07-20T21:49:00Z
@@ -74,7 +58,16 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
+  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
+    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
+    publishedDateTime: 2023-07-23T04:01:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 7
 
-secured: "B0gd5lzCJWYB3fyK10nFy5IsH19Z7lv96lJ7Uu8TvYUAoxDDLy8+z4/u4KC1Hm9Syg2DoxZutBBP3FEB7Vpz1aavdy2ik8rRREaFSG2Y/MtQ76iPrBb3DIRhdT1TbytRckaxerDlkZ2kjT4sV/MyGNuSIkPzLG/0D18uBu84nhkBHIjm0IAa6wh9Nz8/POd2Q0ubW0bz+/HESsN2YpKvEv4rmqOEqfZXtjvTWqHqHdpfWLLFFjliEDyZ5tDO2/pTs+PbiMjWxUHHh5TOoCV4W/perqDXsty+Z4zG4+7svXW3kvxcrj4IBZ26qR5dheIIraVBpYLLOaOqWHSdA8x8HHMQCSYWvZEphxpqThrIEPTsssqXNlrLZtMt48PiiVon3y5Yg42QVoQFXoJ/dZYY/hicL53Sb6Uq3e08Jr8MJ6T+x/ghDnJriKNBgEoK4oS6LxI48Lis5UCQR+AKOotqsw4cMyOm+1SQ4RufGuzUg4ezfKyoFBy3V8SRjVZB3kbLbxE6OLfH09aMfFo2Tcs3Og==;V5dSMYKnJAYkkTf+rKGO+Q=="
+secured: "O2paiwPY8z0cw597BwMzTbDqkbm9b+BbpgvcZuRfTVcsInt27ggYluCCeu0IUR6dPn8RaaU2hl9uj0wjY9JMR91mzwD/3AsCgSq3lt9L3VZBZ01yPPuT/64XEw2kcquoywEPkxzhsNM9UIOjiJkGcmUpmd6j0oklS7t0Ovdiwe3s/OVEZGMFfgKz7DFnEUy+cLqfjW1w1I4ppFEiph2mo/z4q3w6SBwU5ulCR8FAG6bQ54nWfH1C1gkdKS7vhvrRuxzq1Cv8N+DhFgQ08dMSjdxuryIqavZKK/4GDMcfljHJVsjQoMChfrOVa4Pulu6yqIx7vgFqqCgBGvU+At2MXdDmI58I8JwDaD7ehdRC6QE=;eT01faevCrxtP5/F9kluPQ=="
 ---
 

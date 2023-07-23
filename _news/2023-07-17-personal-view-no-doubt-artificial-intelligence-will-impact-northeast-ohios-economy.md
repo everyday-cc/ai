@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/1200x630/public/Artificial%20Intelligence_i.jpg"

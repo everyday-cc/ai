@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Scientists Working on Merging AI With Human Brain Cells"
+    excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
+    publishedDateTime: 2023-07-23T12:32:00Z
+    webUrl: "https://futurism.com/the-byte/scientists-working-merging-ai-human-brain-cells"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "lvNWC8fMn3k2S0S8w3DooW9AfsKjdPpRj5PnjeZoo9MENsbZUL2B8wkGyfeDveiXcGXzk67TKNj7BRbz2jgVMxwxwv7Ab46XWAifLzAvj1I99nL/CVEYNcSQEhOiW7X8YFYQKgPsw8enRZzeDL4ocyMNg9U2cV4XvD2r0bciSJaKHZvx/FrZvOfk0iJnWaVBcrIS2Dtg4cgktiS5ZH/UYOHpFyGlbl4UgrUZ3zzt0jjkcfrhI2Y3xwtOw6Jl/NN1UMAePaRrIWPAgxZooKo5WKBaKTzE4WRkxXTsioK3gDIzvfMZiqfmoarFfjPnzE7w0V+k0yfxF/xLL74JM+0IvJ+pPb3ig4klzgaNyhS3sLLLFObxroJhA4JqVhW/ryszEvg3cDO5mNAVGk6U5NzsC8zwlkoSzNFtWdCu7tcR0DqxhVbivO8YxfmHPzkxAN/Kp4E6XryWX311+O1LKxUyCgmqD7jPljov/THZFfT8YltxhieiGvgwTdP/aXUileVtQ++W1/srgFAwQqA8GihlJA==;33JcfIl9KQPjjJF/6cZtjw=="
 ---
