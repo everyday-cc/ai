@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-05-growing-bio-inspired-polymer-brains-for-artificial-neural-networks.md",
+      "title": "Growing bio-inspired polymer brains for artificial neural networks",
+      "excerpt": "A new method for connecting neurons in neuromorphic wetware has been developed by researchers from Osaka University and Hokkaido University. The wetware comprises conductive polymer wires grown in a three-dimensional configuration,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/994504",
+      "originalUrl": "https://www.eurekalert.org/news-releases/994504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/75ace491-3ac5-4506-8cdc-a74e9c2efb27/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-04T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-04-byu-students-can-major-in-machine-learning-the-technology-behind-chatgpt-this-fall.md",
       "title": "BYU students can major in machine learning — the technology behind ChatGPT — this fall",
       "excerpt": "Amid spirited public discussion over the dangers and opportunities of artificial intelligence, Brigham Young University has added a machine learning degree to its undergraduate catalog.",
@@ -1288,49 +1331,6 @@
       "provider": {
         "name": "Law",
         "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning.md",
-      "title": "Jamia to offer short-term training programme on Artificial Intelligence and Machine Learning",
-      "excerpt": "All students from UG, PG and PhD scholars and faculty with mathematical backgrounds are eligible for the course. The training programme will be conducted for three weeks from July 4 to 22.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "originalUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/06/JMI-Central-Library-1-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/jamia-to-offer-short-term-training-programme-on-artificial-intelligence-and-machine-learning-jmi-ac-in-8676655/lite/",
-      "publishedDateTime": "2023-06-20T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

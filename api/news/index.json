@@ -269,7 +269,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -603,7 +603,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -627,6 +627,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-biden-delivers-remarks-on-artificial-intelligence.md",
+      "title": "Biden Delivers Remarks on Artificial Intelligence",
+      "excerpt": "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
+      "originalUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-biden-ai-fqmp/21dc-biden-ai-fqmp-facebookJumbo.jpg?video-overlay?video-overlay",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -792,7 +843,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1051,7 +1102,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1155,7 +1206,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/21/amds-best-bet-on-ai-may-not-be-what-you-think/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1197,58 +1248,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-roboticsan-extension-of-the-ongoing-digital-transformation.md",
-      "title": "Robotics—An Extension Of The Ongoing Digital Transformation",
-      "excerpt": "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
-      "publishedDateTime": "2023-07-21T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

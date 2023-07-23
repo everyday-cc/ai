@@ -19,6 +19,54 @@ topics:
   - AI
 
 related:
+  - title: "Biden Delivers Remarks on Artificial Intelligence"
+    excerpt: "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology."
+    publishedDateTime: 2023-07-21T18:28:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-biden-ai-fqmp/21dc-biden-ai-fqmp-facebookJumbo.jpg?video-overlay?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Watch live: Biden delivers remarks on artificial intelligence"
+    excerpt: "President Biden on Friday afternoon is slated to deliver remarks on artificial intelligence (AI). The president’s speech comes after the White House announced Friday that the administration"
+    publishedDateTime: 2023-07-21T16:30:00Z
+    webUrl: "https://thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/"
+    ampWebUrl: "https://thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/AI-stock-image.png?w=1280"
+        width: 1279
+        height: 719
+        isCached: true
+  - title: "Leading AI firms volunteer security commitments to Biden administration"
+    excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
+    publishedDateTime: 2023-07-21T18:47:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/leading-ai-firms-volunteer-security-commitments-to-biden-administration"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
+  - title: "Biden declares ‘I am the AI’ while pushing rules for artificial intelligence"
+    excerpt: "We must be clear eyed and vigilant about the threats emerging technologies can pose… to our democracy and our values,” Biden said."
+    publishedDateTime: 2023-07-21T20:57:00Z
+    webUrl: "https://nypost.com/2023/07/21/joe-biden-declares-i-am-the-ai-while-pushing-rules-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 29
   - title: "The Biden Administration Secures Voluntary Commitments From Leading AI Firms: A Step Forward Or Empty Rhetoric?"
     excerpt: "Harris Administration announced a voluntary agreement has been reached with seven leading AI companies, including Amazon, Google, and Microsoft."
     publishedDateTime: 2023-07-22T11:31:00Z
@@ -28,6 +76,29 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 27
+  - title: "Biden touting Big Tech commitment to make AI tools safe amid fears of tech-fueled apocalypse"
+    excerpt: "President Biden is trumpeting new promises from Big Tech companies to make artificial intelligence tools safe amid growing fears that the emerging tech may wreak havoc."
+    publishedDateTime: 2023-07-21T10:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/jul/21/joe-biden-touting-big-tech-commitment-make-ai-tool/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 26
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/13/OpenAI_AP_88650_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "The White House and big tech companies release commitments on managing AI"
+    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
+    publishedDateTime: 2023-07-21T13:01:00Z
+    webUrl: "https://health.wusf.usf.edu/2023-07-21/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai"
+    type: article
+    provider:
+      name: health.wusf.usf.edu
+      domain: usf.edu
+    quality: 16
 
 secured: "XW8+Xo8suHesNxkZW1J1iqgORojybyy64HrlTewuHtNLsN0mYLzW7E4BkPsfPqPA7MTFj3AbA8Gs9C0YfzonetShcF6hXsBGMkIDSYQoHC4hhezG3IoKOiJjxJ9GhvwOIvhmqCSwGLJrvIzcjioOoEiUuTZQ9HrYw5yfKr+6zLo2QkIRtDtRNd1O1LY500K7TYGg2yI1FbyD8AbvaQjWwjiiYOx5JA4NU40t3x7XhWs2+ErdeHiTO/tsBLLjOSrNBccuuT8n7V1m+a+lJwcDVYG/Zwllre910Q8wQ5q3yG/lHZyROL0HXxlorik2fm06oXSOCnBimLFHvAMrfNtbHLWr0ls7+aatVT8TU1eSdsq4E93D3TnExtwgU8ot4t50wFmtYkyt4HYxgZTFL9GtmZu3LyeauoQfFSBBnUBh/SVgViIEC5rIQs8TIbPRWpXBYCINj7QZphJXGCp4Gjg6RlikdzBWZI/Dd8W1mdNV7m3/RIaVbNRuDXtSlT/hrg+svzCygXJOysGXriZQrqpPtQ==;p5epXflDBil6+ALOjLdP2A=="
 ---

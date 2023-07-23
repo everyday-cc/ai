@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 319
+heat: 329
 published: true
 
 provider:
@@ -281,6 +281,20 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/07/Screenshot-2023-07-21-at-8.07.22-PM-1000x592.jpg"
         width: 1000
         height: 592
+        isCached: true
+  - title: "5 AI Chatbot Mobile Apps That Aim to Put a Therapist in Your Pocket"
+    excerpt: "Artificial intelligence, or AI, continues to make progress by leaps and bounds. Many of your gadgets and apps are already using AI in some form, and many more"
+    publishedDateTime: 2023-07-22T20:58:00Z
+    webUrl: "https://www.inferse.com/633248/5-ai-chatbot-mobile-apps-that-aim-to-put-a-therapist-in-your-pocket/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-24271.png"
+        width: 1680
+        height: 840
         isCached: true
   - title: "Unveiling The Latest AI Breakthroughs: From Chatbots To Self-Driven Cars"
     excerpt: "Welcome to the future, where artificial intelligence (AI) is revolutionizing every aspect of our lives. From intelligent chatbots that can have natural conversations with users to self-driven cars navigating through busy streets,"

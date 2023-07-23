@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-tech-companies-biden-agree-waterm
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tech-companies-biden-agree-watermark-identify-generated-content-images-2023-7?amp"
 type: article
 quality: 81
-heat: 94
+heat: 97
 published: true
 
 provider:

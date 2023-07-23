@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-address
 webUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
 type: article
 quality: 54
-heat: 90
+heat: 84
 published: true
 
 provider:

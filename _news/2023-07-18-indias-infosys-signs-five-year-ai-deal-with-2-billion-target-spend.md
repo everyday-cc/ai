@@ -25,53 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Infosys Edges Higher After Signing AI Deal Worth $2 Billion"
-    excerpt: "The agreement would provide artificial intelligence and automation led development, modernisation, and maintenance services."
-    publishedDateTime: 2023-07-18T05:56:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html"
+  - title: "US-India ties: President Joe Biden's Science Adviser calls for AI collaboration with India"
+    excerpt: "The Science Advisor to President Biden, Arati Prabhakar, said that the US and countries like India need to collaborate on shaping the course of artificial intelligence. This comes after the US administration enlisted the help of IT giants to prevent the misuse of AI."
+    publishedDateTime: 2023-07-22T15:58:00Z
+    webUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india-11689997881762.html"
+    ampWebUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 59
+      name: Mint
+      domain: livemint.com
+    quality: 47
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lrmhrsa5gfjybs1s_1689659396.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Infosys signs five-year AI deal with $2 billion target spend"
-    excerpt: "AI and automation-related development, modernization and maintenance services are included in the agreement, the company said in an exchange filing."
-    publishedDateTime: 2023-07-18T05:02:00Z
-    webUrl: "https://www.financialexpress.com/industry/infosys-signs-five-year-ai-deal-with-2-billion-target-spend/3175497/"
-    ampWebUrl: "https://www.financialexpress.com/industry/infosys-signs-five-year-ai-deal-with-2-billion-target-spend/3175497/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/infosys-signs-five-year-ai-deal-with-2-billion-target-spend/3175497/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/infosys.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "India’s AI Takes Off: Infosys bags a mega 5-yr deal worth $2bn for AI and automation services"
-    excerpt: "Infosys, one of India's largest IT companies has bagged a major deal with one of its existing clients to provide AI and automation services over the next 5 years, using Topaz, an indigenously developed AI model."
-    publishedDateTime: 2023-07-18T06:45:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/indias-ai-takes-off-infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-ai-and-automation-services-12879602.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/indias-ai-takes-off-infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-ai-and-automation-services-12879602.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/indias-ai-takes-off-infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-ai-and-automation-services-12879602.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 48
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/Indias-AI-Takes-Off_-Infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-AI-and-automation-services.jpg"
-        width: 640
-        height: 362
+      - url: "https://www.livemint.com/lm-img/img/2023/07/22/600x338/USA-BIDEN-SCIENCE-ADVISER-0_1655872000116_1689999784119.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "India's Infosys signs five-year AI deal with $2bln target spend"
     excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to provide Artificial Intelligence (AI) and automation services that will span over five years,"
@@ -87,15 +55,49 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Infosys Leads In AI With 80 Generative AI Projects For Clients"
-    excerpt: "Infosys envisions building a solid groundwork for future expansion by introducing its all-encompassing AI solution, Topaz."
-    publishedDateTime: 2023-07-20T13:19:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/infosys-leads-in-ai-with-80-generative-ai-projects-for-clients-articleshow.html"
+  - title: "US and like-minded countries including India need to work together to shape course of AI: Dr Arati Prabhakar"
+    excerpt: "The US and like-minded countries including India need to work together to shape the course of artificial intelligence and make sure that it is used responsibly, Dr Arati Prabhakar, the Science Advisor to President Joe Biden,"
+    publishedDateTime: 2023-07-22T05:47:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar?amp"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 38
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "AI revolution in fintech: How India is leading the way"
+    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
+    publishedDateTime: 2023-07-21T08:21:00Z
+    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
     quality: 19
+  - title: "AI revolution: Stability AI CEO predicts grim future for outsourced coders in India"
+    excerpt: "Stability AI CEO Emad Mostaque predicts that most of the outsourced programmers in India will lose their jobs in the next year or two as a result of artificial intelligence (AI) playing a larger role in software development and reducing significantly the need for human involvement."
+    publishedDateTime: 2023-07-18T12:45:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-revolution-stability-ai-ceo-predicts-grim-future-for-outsourced-coders-in-india-10981501.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 13
+  - title: "Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    excerpt: "CSE:PMED) Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
+    publishedDateTime: 2023-07-19T11:34:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/07/19/predictmedix-ai-unveils-cutting-edge-contactless-integrative-ai-solutions-for"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 0
 
 secured: "sRUtfqhejj4JmV9gn5PHLiIdAkWaOfaiPXQmMd/zMmWgQGrlyn0Xjrtf9ZnJ6ptFOiZZ2kyfUl0DUThcjKsYmN2w16Kp/gK5eiqhRhTZFbI6tEy4T3YS95lQ+RoXJVqJxlMbpBpMXdczu4horIP/bH7zMQh13TnG1NatEOxQV5xuHpWAWz1yoDp1DIbUJ+zbMbqLUGeDTbo+nhUoGjpL18s8VGO+ayDC6DZWd37JGEzZLdmlQHpkD8Jbx0TSfQS3eMjvzM2b8Xm7apg7NsyKi9Zz32h3/iCtTt+C22bGiJhvG+Bxq38dAhiCc3/Ti9Yhrik5xFnfrnyUq1rzhL9GFRg7lztqzduMDz9H4wxYqN8=;TOo02qLeTpejLSHzgeb9HQ=="
 ---

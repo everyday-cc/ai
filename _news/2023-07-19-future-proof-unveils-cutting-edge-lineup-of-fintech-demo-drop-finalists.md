@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Applications open for AWS Global Fintech Accelerator"
-    excerpt: "Amazon Web Services (AWS) is launching its first Global Fintech Accelerator, giving fintech founders the support and mentorship they need to bring smarter financial services solutions to the market by leveraging the power of AI/ML and the cloud."
-    publishedDateTime: 2023-07-18T07:00:00Z
-    webUrl: "https://disrupt-africa.com/2023/07/18/applications-open-for-aws-global-fintech-accelerator/"
-    ampWebUrl: "https://disrupt-africa.com/2023/07/18/applications-open-for-aws-global-fintech-accelerator/"
-    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/07/18/applications-open-for-aws-global-fintech-accelerator/"
-    type: article
-    provider:
-      name: disrupt-africa
-      domain: disrupt-africa.com
-    quality: 61
-    images:
-      - url: "https://disrupt-africa.com/wp-content/uploads/2019/11/46600198075_800187a13b_c.jpg"
-        width: 797
-        height: 461
-        isCached: true
   - title: "Egyptian fintechs team up with Fintech Galaxy's open finance platform"
     excerpt: "Fintech Galaxy's FINX Connect now hosts over 10 prominent Egyptian fintechs, including Sympl, Synapse Analytics, and Valify, strengthening the bridge between Egypt and the Gulf region's financial sector. Joining FINX Connect allows these fintech firms to ..."
     publishedDateTime: 2023-07-18T08:40:00Z

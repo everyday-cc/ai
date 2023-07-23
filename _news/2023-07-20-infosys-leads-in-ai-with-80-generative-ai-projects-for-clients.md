@@ -7,7 +7,7 @@ originalUrl: "https://www.republicworld.com/business-news/india-business/infosys
 webUrl: "https://www.republicworld.com/business-news/india-business/infosys-leads-in-ai-with-80-generative-ai-projects-for-clients-articleshow.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,84 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Infosys Edges Higher After Signing AI Deal Worth $2 Billion"
-    excerpt: "The agreement would provide artificial intelligence and automation led development, modernisation, and maintenance services."
-    publishedDateTime: 2023-07-18T05:56:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-edges-higher-after-signing-ai-deal-worth-2-dollars-billion-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 59
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/lrmhrsa5gfjybs1s_1689659396.jpeg"
-        width: 768
-        height: 438
-        isCached: true
-  - title: "Infosys signs five-year AI deal with $2 billion target spend"
-    excerpt: "AI and automation-related development, modernization and maintenance services are included in the agreement, the company said in an exchange filing."
-    publishedDateTime: 2023-07-18T05:02:00Z
-    webUrl: "https://www.financialexpress.com/industry/infosys-signs-five-year-ai-deal-with-2-billion-target-spend/3175497/"
-    ampWebUrl: "https://www.financialexpress.com/industry/infosys-signs-five-year-ai-deal-with-2-billion-target-spend/3175497/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/infosys-signs-five-year-ai-deal-with-2-billion-target-spend/3175497/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/infosys.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "India’s AI Takes Off: Infosys bags a mega 5-yr deal worth $2bn for AI and automation services"
-    excerpt: "Infosys, one of India's largest IT companies has bagged a major deal with one of its existing clients to provide AI and automation services over the next 5 years, using Topaz, an indigenously developed AI model."
-    publishedDateTime: 2023-07-18T06:45:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/indias-ai-takes-off-infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-ai-and-automation-services-12879602.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/indias-ai-takes-off-infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-ai-and-automation-services-12879602.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/indias-ai-takes-off-infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-ai-and-automation-services-12879602.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 48
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/Indias-AI-Takes-Off_-Infosys-bags-a-mega-5-yr-deal-worth-2-bn-for-AI-and-automation-services.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "India's Infosys signs five-year AI deal with $2 billion target spend"
-    excerpt: "India's second-largest software services exporter Infosys said on Monday it has signed a deal with an existing client to provide artificial intelligence (AI) and automation services that will span over five years,"
-    publishedDateTime: 2023-07-18T15:28:00Z
-    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2-billion-target-spend-3635836"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "India's Infosys signs five-year AI deal with $2bln target spend"
-    excerpt: "India's second-largest software services exporter Infosys said on Tuesday it has signed a deal with an existing client to provide Artificial Intelligence (AI) and automation services that will span over five years,"
-    publishedDateTime: 2023-07-18T15:28:00Z
-    webUrl: "https://www.channelnewsasia.com/business/indias-infosys-signs-five-year-ai-deal-2bln-target-spend-3635836"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--NZveyjKk--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-07-18t032711z_1_lynxmpej6h02k_rtroptp_3_infosys-results.jpg?itok=DU6BYKL1"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "kSYFhzFBLCEUWFgN/o4IxpfMFeAAVvg0yIJRk0yqG2BUeXSRKz5MDIrqtmEGmlG9fi/vzqjZ/ZAmDwj6dUFvchHpTKXFdnJvYDc5jjqWWj3tTrjQXDg25SPaBM1V8ze0J26ovAslZqiwmIaQWFMB1DSwyjPV0iCBMqpDDaXaKTsYuSrc01E91SM25YkRNVubpShWh2ZKDeBnMOyRocChtrW47ya09VwGST/KRoMiOmPyfQj5ng3YoXvXcesCbrnbDTpypFS1CBWBSWxe6nVrtzHDSEsZIQNerIB6LyYiCNCaQVTj5IB2gZPpP/Jznmx+Wm2mflRujeFYQjHBATjQAzSHh6Ne6IUeIEd4dr5Rk9SLHpneBMjf99BJfbuJF+EFzMtM8OiIKtPh70AxS29s/l2kenRP2ELCHdHvPweKiTF+EDmeRca5a2rlruaEoGapbGLWdsmiwhTeFonVeDbsO2wD6iLxrIAtoVAVUIqzj5G9c/lsJd+6ly1QP8rx9sbM31gZFOlqw6ckRZh7m0nSfw==;7+JceIcB3ppdyO3VqAZe1A=="
 ---

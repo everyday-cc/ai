@@ -292,6 +292,20 @@ related:
         width: 1000
         height: 592
         isCached: true
+  - title: "5 AI Chatbot Mobile Apps That Aim to Put a Therapist in Your Pocket"
+    excerpt: "Artificial intelligence, or AI, continues to make progress by leaps and bounds. Many of your gadgets and apps are already using AI in some form, and many more"
+    publishedDateTime: 2023-07-22T20:58:00Z
+    webUrl: "https://www.inferse.com/633248/5-ai-chatbot-mobile-apps-that-aim-to-put-a-therapist-in-your-pocket/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-24271.png"
+        width: 1680
+        height: 840
+        isCached: true
   - title: "Please Stop Asking Chatbots for Love Advice"
     excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
     publishedDateTime: 2023-07-22T11:00:00Z

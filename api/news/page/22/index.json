@@ -2,6 +2,142 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-07-06-in-nyc-companies-will-have-to-prove-their-ai-hiring-software-isnt-sexist-or-racist.md",
+      "title": "In NYC, companies will have to prove their AI hiring software isn't sexist or racist",
+      "excerpt": "AI-infused hiring programs have drawn scrutiny, most notably over whether they end up exhibiting biases based on the data they’re trained on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/nyc-companies-will-prove-ai-hiring-software-isnt-sexist-racist-rcna92336",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230703-new-york-morning-commuters-al-0927-b18cc4.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna92336",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna92336",
+      "publishedDateTime": "2023-07-06T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-smarter-it-operations-management-with-ibm-aiops-insights.md",
+      "title": "Smarter IT operations management with IBM AIOps Insights",
+      "excerpt": "IBM is thrilled to announce the General Availability of IBM AIOps Insights.\nThe post Smarter IT operations management with IBM AIOps Insights appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/smarter-it-operations-management-with-ibm-aiops-insights/",
+      "originalUrl": "https://www.ibm.com/blog/smarter-it-operations-management-with-ibm-aiops-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T06:32:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-06-f1-british-grand-prix-facial-recognition-at-silverstone-being-used.md",
+      "title": "F1 British Grand Prix: Facial recognition at Silverstone being used",
+      "excerpt": "Facial recognition technology will be used for the first time at the Formula 1 British Grand Prix to try to stop protesters disrupting the race. Last year, climate activists from Just Stop Oil got on to the Silverstone track in the first lap and sat down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
+      "originalUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15798/production/_130306978_silverstonecarpa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-northamptonshire-66120010.amp",
+      "publishedDateTime": "2023-07-06T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-how-human-virtual-assistants-and-ai-can-efficiently-work-together.md",
       "title": "How Human Virtual Assistants And AI Can Efficiently Work Together",
       "excerpt": "By combining the strengths of both human and AI assistants, businesses can achieve a level of efficiency and productivity that was previously unattainable.",
@@ -1074,145 +1210,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign.md",
-      "title": "Mayor Suarez launches an artificial intelligence chatbot for his presidential campaign",
-      "excerpt": "NEW YORK – A super PAC supporting Miami Mayor Francis Suarez 's run for the Republican presidential nomination has launched an artificial intelligence chatbot to answer questions about him ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/news/politics/2023/07/05/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
-      "originalUrl": "https://www.clickondetroit.com/news/politics/2023/07/05/mayor-suarez-launches-an-artificial-intelligence-chatbot-for-his-presidential-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/V3DDD4NO35DPDN6ML7AXSBMBQM.jpg?_a=ATAPphC0",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-simple-data-gets-the-most-out-of-quantum-machine-learning.md",
-      "title": "Simple data gets the most out of quantum machine learning",
-      "excerpt": "New theoretical research proves that machine learning on quantum computers requires far simpler data than previously believed. The finding paves a path to maximizing the usability of today's noisy, intermediate-scale quantum computers for simulating quantum systems and other tasks better than classical digital computers,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.html",
-      "originalUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/simple-data-gets-the-m.jpg",
-          "width": 1000,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-07-simple-quantum-machine.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-simple-quantum-machine.amp",
-      "publishedDateTime": "2023-07-05T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-05-highlight-text-as-its-being-spoken-using-amazon-polly.md",
-      "title": "Highlight text as it’s being spoken using Amazon Polly",
-      "excerpt": "Amazon Polly is a service that turns text into lifelike speech. It enables the development of a whole class of applications that can convert text into speech in multiple languages. This service can be used by chatbots, audio books, and other text-to-speech applications in conjunction with other AWS AI",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/highlight-text-as-its-being-spoken-using-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/26/ML-14148-polly-highlight-text-v3.drawio-933x630.png",
-          "width": 933,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T13:12:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

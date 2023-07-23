@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-17-how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains.md",
+      "title": "How FedEx Dataworks is using analytics, AI to fortify supply chains",
+      "excerpt": "FedEx Dataworks' director of data science told VB Transform how FedEx is using analytics and AI/ML to make supply chains more resilient.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/21be95b0-6b9f-40b1-bb55-ef7d2c61be49.png?w=1200&strip=all",
+          "width": 1060,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-what-next-for-ai-and-ml-in-financial-services.md",
       "title": "What next for AI and ML in financial services?",
       "excerpt": "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance.",
@@ -150,12 +201,12 @@
       ]
     },
     {
-      "path": "_news/2023-07-17-indias-think360-make-top-ai-fintech-companies-list.md",
-      "title": "Indias Think360 make top AI Fintech Companies List",
-      "excerpt": "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing.",
+      "path": "_news/2023-07-17-machine-learning-market-to-hit-41994-billion-by-2030-grand-view-research-inc.md",
+      "title": "Machine Learning Market to Hit $419.94 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global machine learning market size is anticipated to reach USD 419.94 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 34.8% from 2023 to 2030.",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/World/20230717/4099508.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/World/20230717/4099508.html",
+      "webUrl": "https://it.tmcnet.com/news/2023/07/17/9848858.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/07/17/9848858.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -165,11 +216,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T07:12:00-07:00",
+      "publishedDateTime": "2023-07-17T06:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -179,8 +230,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -681,6 +733,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-17-indias-think360-make-top-ai-fintech-companies-list.md",
+      "title": "India’s Think360 make top AI Fintech Companies List",
+      "excerpt": "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/",
+      "originalUrl": "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1",
+          "width": 720,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-17T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defence News",
+        "domain": "defencenews.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-un-security-council-to-hold-first-talks-on-ai-risks.md",
       "title": "UN Security Council To Hold First Talks On AI Risks",
       "excerpt": "LONDON (Reuters) - The United Nations Security Council will hold its first formal discussion on artificial intelligence (AI) this week in New York, with Britain to call for an international dialogue about its impact on global peace and security.",
@@ -1120,100 +1215,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-australians-divided-over-voice-to-parliament-for-indigenous-people.md",
-      "title": "Australians divided over ‘Voice to Parliament’ for Indigenous people",
-      "excerpt": "A landmark referendum backed by the government would give Indigenous people constitutional recognition and greater say on legislation and policy affecting them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
-      "originalUrl": "https://www.nbcnews.com/news/world/australia-indigenous-voice-to-parliament-referendum-rcna94016",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-07/230713-aboriginal-file-mb-1450-32d8ba.jpg",
-          "width": 4695,
-          "height": 3017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna94016",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna94016",
-      "publishedDateTime": "2023-07-16T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-ai-mimics-human-creativity-but-also-boosts-it.md",
-      "title": "AI Mimics Human Creativity, But Also Boosts It",
-      "excerpt": "There is a bright creative future for humans relieved from the drudgery of day-to-day repetitive tasks, according to a recent analysis by Nicola Morini Bianzino, global chief client technology officer at EY, who is optimistic that we stand at the crest of an era of expanded creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b47b7e27cb9474a0e9bcfd/0x0.jpg?format=jpg&width=1200",
-          "width": 1138,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/16/ai-may-or-may-not-be-able-to-mimic-human-creativity-but-certainly-can-boost-it/amp/",
-      "publishedDateTime": "2023-07-16T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

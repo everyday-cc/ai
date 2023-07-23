@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
 type: article
 quality: 87
-heat: 117
+heat: 119
 published: true
 
 provider:

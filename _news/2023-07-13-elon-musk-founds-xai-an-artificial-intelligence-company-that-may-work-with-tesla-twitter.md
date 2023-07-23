@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter"
-excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ..."
+excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ..."
 publishedDateTime: 2023-07-13T15:23:00Z
-originalUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
-webUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+originalUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+webUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
 type: article
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "b4LgTbkJ66a4otV1E3PDuECF8x9YPanc812d26I7b4rWXBo5hiJkRcyQIFk4eNUfphWcVL2IpTWZFi0Ze2ZbsbsalHElX5bmSWECNDitpeMH39T5JsHPyI3A28iuVnLeet4mpkEoa69t3iFGrwLtHwmw1wUBF6uDcOUf+l69t0Y5M44KKDD1ZO4zz2yf2dJX4sm1co7izhsTIBiyS+c0NqbmeMjWufoVo+DTAwfFAm7Ige/SSH/PhQNrS2rdlV7pLwE7JERUJJ6lfjYOInh8CP0HJS//WD9XTn6b2Huz70III/gqy3fCs6Msl7CbTtV8vTxJnmsgKR2RxRv2IHk0Aq2oDe+Edeuxt58zQln4wmM=;VuT9LLxBKQltcUpEet0EuA=="
+secured: "efJpvetsjgjaCqHJ7ZSxwb48/zk0Y3Q0k+KXPNm+9BpcDx6bXKIYWOSxHeZPw4St3diZBEdebiX+q8aabol9Ml0kSVKH7yuAiRy4a/m6CO3u/ZIaYXTfH4SOQsOM7BsW9sqQpgfoPhhCCqoxDhZMWkQViKVm3I3Qa0nlqov5qoJdgWd4sNjscskS+hUoGnB0H+EBsWhPOdaXhH3IzXjzIN3vk0ndOyWHcvLqF/398UJ08Bv1uegXJnhRfVWO5I0l8swUv7pLcrT9GBVOPoLIAgZIEUhvy3yVcElWBKT2Z9dczoL2aO4AWBXU989Q3SSfxYeSiPOJCK0AXAx3NYGuWYDmUuW0EYc5WdgCJjb8GdQ=;9mrk4TUDgGw/G1bimYfkcw=="
 ---
 

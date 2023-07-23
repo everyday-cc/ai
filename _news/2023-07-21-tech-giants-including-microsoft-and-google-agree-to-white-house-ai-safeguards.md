@@ -47,22 +47,6 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Join AWS, Google Cloud, Microsoft Azure at free SANS Cloud Security Exchange"
-    excerpt: "On 18 August, subject matter experts will speak on today’s pressing cloud security issues at the SANS Institute Cloud Security Exchange event."
-    publishedDateTime: 2023-07-18T06:32:00Z
-    webUrl: "https://www.itweb.co.za/content/O2rQGMAE2weMd1ea"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAE2weMd1ea"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 105
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/07/SANS-18July2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Puts AI Chat To Work With Bing Chat Enterprise"
     excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue looks at Microsoft's generative AI advancements and their potential impacts on workers and productivity."
     publishedDateTime: 2023-07-20T23:30:00Z

@@ -76,19 +76,19 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "China AI Chip Firm Targeting Nvidia Seeks Hong Kong IPO in 2023"
-    excerpt: "Chinese chip startup Shanghai Biren Intelligent Technology Co. is considering an initial public offering in Hong Kong as soon as this year, according to people familiar with the matter, aiming to capitalize on a wave of local clients turning to its AI chips as an alternative to banned Nvidia Corp."
-    publishedDateTime: 2023-07-18T06:44:00Z
-    webUrl: "https://news.bloomberglaw.com/mergers-and-acquisitions/china-ai-chip-firm-targeting-nvidia-seeks-hong-kong-ipo-in-2023"
+  - title: "Crafting a Hit Song with Artificial Intelligence"
+    excerpt: "With the rapid evolution of technology, it’s safe to say that the boundaries of creativity are being redrawn.  The advent of Artificial Intelligence (AI) has introduced a fascinating dimension to the world of art and music,"
+    publishedDateTime: 2023-07-22T22:18:00Z
+    webUrl: "https://pctechmag.com/2023/07/crafting-a-hit-song-with-artificial-intelligence/"
     type: article
     provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 54
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 37
     images:
-      - url: "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.png"
-        width: 1200
-        height: 628
+      - url: "https://pctechmag.com/wp-content/uploads/2023/07/Music-AI.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Wallaroo.AI and Ampere Computing to bring cost effective ML inferencing to the Cloud"
     excerpt: "Wallaroo.AI, a specialist in scaling production machine learning (ML) from the cloud to the edge, has announced a strategic collaboration with Ampere Computing."
@@ -99,6 +99,20 @@ related:
       name: New Electronics
       domain: newelectronics.co.uk
     quality: 29
+  - title: "Voice experiences ‘challenging week’ with polls showing Yes case slipping below majority"
+    excerpt: "The Voice to Parliament has experienced another “challenging week” with polls now showing the Yes case slipping below majority, according to Sky News Political Editor Andrew Clennell. “The PM Anthony Albanese is regularly being asked now: Why not separate the questions?"
+    publishedDateTime: 2023-07-22T23:29:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/voice-experiences-challenging-week-with-polls-showing-yes-case-slipping-below-majority/video/b32e80041f86e211886040469d4b2062"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 15
+    images:
+      - url: "https://content.api.news/v3/images/bin/bab6d04229b990d27c1029433fe96695"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
     excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
     publishedDateTime: 2023-07-19T09:20:00Z

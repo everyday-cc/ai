@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Bionic Breakthrough: Revolutionary Self-Sensing Electric Artificial Muscles"
-    excerpt: "Queen Mary University researchers have engineered a self-sensing, variable-stiffness artificial muscle that mimics natural muscle characteristics. The breakthrough has significant implications for soft robotics and medical applications,"
-    publishedDateTime: 2023-07-18T05:54:00Z
-    webUrl: "https://scitechdaily.com/bionic-breakthrough-revolutionary-self-sensing-electric-artificial-muscles/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 2
-
 secured: "qCe5WzUmh/+wnJPNYp3JnIRUIBicj3116g+r2He1TO8HhhNvjNV9ia80Kf71AokDsH43vDRobfJ9qHsZqjY5KI8ZLz86DhbD9QNDvc7KV29HlxJJ4vbWebDSwoAwxCwwthnKxTTNKYlYrE/trgwiFa405spHt3+746yyRvfYhmDdZSSomKb4CNMi+Wb/oIqmZpjU7r7kK3T3l0d0u96ZC4TVTyMcj365jeQPCk263jM2IgQZFTMt5kFHdFxjkoATRgJVnqrC9Ou50KkguETGpOleSesrkJWsExxyU+M+MDpi74IMyQHeBss6/olM5h0j9zVAr7bVWaIfN8irg/KxQ4iq8uB9Z+Q+OgNyJJVUpPM=;IMvrLc4ffwddax3rVub0pw=="
 ---
 

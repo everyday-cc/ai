@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free"
+    excerpt: "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting."
+    publishedDateTime: 2023-07-22T22:34:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 63
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla to license Full Self-Driving stack to other automakers, says Musk"
     excerpt: "Multiple safety investigations, patches for unsafe behavior, and the fact it's still a beta haven't dissuaded other OEMs?"
     publishedDateTime: 2023-07-20T23:27:00Z

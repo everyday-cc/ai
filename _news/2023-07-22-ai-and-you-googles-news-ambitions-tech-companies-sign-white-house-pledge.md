@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
-    publishedDateTime: 2023-07-21T13:01:00Z
-    webUrl: "https://health.wusf.usf.edu/2023-07-21/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai"
-    type: article
-    provider:
-      name: health.wusf.usf.edu
-      domain: usf.edu
-    quality: 16
-
 secured: "ffOSsmoUSDOHqXDu8UZbFN5MqXhgWpXbwakmLJGvJK43FR3hCQm4EcafIKvdPnSq9AsQdVK5SNOBMEySBzgWKrMFnfUCAqihyyb8uQsuW3HC4tUFiPrTgGAyeQMisp4lXFIKYPpTh+CMkfWcZT0iTyNxIcNHxoXaLPsQnfqSWxo2X6GDlqaIVJVAf4hmEGoXudtIq+c7PLk28N48bFTvbRx9YkHE6yvDfV6Hfzwh7VqABiywKz9VPQcNMtMx95HH7UCmnUgscoc2+qE3CglR6DLu+qZjf87fYMhdaMOzOsw5Uu30FV9yxvyndG+1y5VABKXXmiryDCGSB5DueTo8PmfB4t3yOAbQ+8pUH3ua8gjd6nsnB6jLHXdLarD567/DyqHkb+Vs0yh1LMv8mJFtA3ZBNaZM63HljoMzGw8wVb6+WmmftUV/lppEaDrSe5EIkiR3a7AYYaidh4U5Arx8sHnqG/ISzAxflsIYEjxhzfzfxQcihzPq/tc2E7g4tFszIuAVptqrVUkbpzXmlLZmrQ==;hwwwY00ryLnEn4DTsI+AWw=="
 ---
 

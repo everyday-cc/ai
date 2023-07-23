@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help
 webUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346"
 type: article
 quality: 67
-heat: 131
+heat: 127
 published: true
 
 provider:

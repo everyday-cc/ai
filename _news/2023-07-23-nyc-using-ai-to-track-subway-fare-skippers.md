@@ -90,22 +90,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
-  - title: "IAEA and partners launch new contest for start-ups to develop AI solutions for climate change"
-    excerpt: "Read more about IAEA and partners launch new contest for start-ups to develop AI solutions for climate change on Devdiscourse"
-    publishedDateTime: 2023-07-18T06:29:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 46
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_06_2022_17_22_48_2366099.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
     excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
     publishedDateTime: 2023-07-20T10:43:00Z
@@ -141,6 +125,6 @@ related:
       domain: techbullion.com
     quality: 19
 
-secured: "OOCGtkU+JTOzU7N7dpZXq7MIElls3usiqr8IF6Dq4h/w32/KdUIbO784CpeZdOZv3kgD79qFBMxrRS+58zNJ5rKrz3EDbIdRNewvAM2yZ625sZeemB+ywD1P7C/LPN3haCq8gwabHLzwhRe5+OPXscb3k2Gsq30G+UjDnDTqJuB1yCcUkKfxzNesoiWgBQIe5YhgMlY3MRzWTxKRZ0ltSBHGs/kGmcUd7xa/Cdp14tpS5LInxd6zMfaYJ7G3GvtVTlSBGX9pR/zzs7S2DGaqS/6xED+se0T5Fb2ismJB9jpsBHZch8wuzcyjB7IRcvbOipUz/Ay9q6Bo8wD8Fnw+QclCbtxuPkUXHaFAZpkmtAI=;Bgm6G8kQ8O0z2SdB8oAFyw=="
+secured: "htoJxV+tSzsuU97jonZuP8mqHy9JWxW4ZciEZiqTXpih6WFsJWsYCwztxl3bRYyb0/b8vnEvxhNsAZgyI/mHLeOAddbuZqRCH3hn3A5S4KzWG6caMxqm1Y3kR9o0+jhjxjKJgK2HneDJK3fHPVV4Ts5hoW/kJYC/zcT09Co9jlUvOMfXuxyIbT7/z3kKWH6qSxj89Phw1ntn+m6m7f5gYTaHDt4Pq4uh6qqP6j1QW5Xyd4DJ/rDzpaFxrBanqguzyATPNRdGMF6fzVS0Od60a69trUGRprbkLa4GVDoU/9cWatrj2MAD/h9pT11jJQoY3b1ptTnBJsFTQPDaBSXDilbzNCokWpMjjUccvUDClehixNN1zCQqkpcOgFSPU7gX8TiAxLotHVtw6qNEyJyiC9jyBhpKvwnTqFPQ9+M+f9+M3abbq5jMzhc+eK9QdfoW7Qu48T72SkOgEe88B2jQPf9x9YFLmypXj4BF+q25zjjTkld5glEUTrtcU7oK0hzVeRfLFO8jD5Z0u78D5M2axg==;ugrDC1MubzP1v7v+gvY5Ng=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/industrial-robotics-startup
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 35
-  - title: "B2B Analytics SaaS Startup Factors.ai raises $3.6 Mn in Funding Led By Stellaris Venture Partners"
-    excerpt: "Bengaluru-based B2B Analytics Software Startup Factors.ai has raised $3.6 million in a pre-Series A funding round, led by Stellaris Venture Partners."
-    publishedDateTime: 2023-07-18T05:05:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/b2b-analytics-saas-startup-factorsai.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 24
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILi4OyOOcBUO4vbGkg6OXet4EiLy9jvKqpD_hQ3xpHxMxa5LIJT8BsXrA1RGBO1nRYAYJ84LwTx8xM4ICNryc1eExjLNJil7BVhSZwqUguKBpsumHsgKbfTPsRTzk1wqHD13ANj2vuDXqQcsE-QUlyr5YSlWBDfp1-Q1tFt3f6GLsyTqFjv-KvAeekdc/s16000/20230718_103137_0000.png"
-        width: 1000
-        height: 580
-        isCached: true
   - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
     excerpt: "Ati Motors, maker of autonomous industrial robots, today announced the close of its Series A funding round in the amount of US$10.85 million. The investment, occurring alongside the company's product launch event,"
     publishedDateTime: 2023-07-21T13:38:00Z

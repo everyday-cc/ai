@@ -102,22 +102,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
-  - title: "IAEA and partners launch new contest for start-ups to develop AI solutions for climate change"
-    excerpt: "Read more about IAEA and partners launch new contest for start-ups to develop AI solutions for climate change on Devdiscourse"
-    publishedDateTime: 2023-07-18T06:29:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2526897--iaea-and-partners-launch-new-contest-for-start-ups-to-develop-ai-solutions-for-climate-change?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 46
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_06_2022_17_22_48_2366099.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "MTA using artificial intelligence to tackle fare evasion"
     excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
     publishedDateTime: 2023-07-21T02:40:00Z

@@ -2,6 +2,162 @@
   "page": 171,
   "value": [
     {
+      "path": "_news/2023-03-29-global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market [2023-2030] | The Future of Industry a Look at the Next Decade of Growth",
+      "excerpt": "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-2023-2030-the-future-of-industry-a-look-at-the-next-decade-of-growth-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-healthcare-ai-market-2023-size-and-forecast-to-2030.md",
+      "title": "Healthcare AI Market 2023 Size and Forecast to 2030",
+      "excerpt": "Mar 28, 2023 (The Expresswire) -- Healthcare AI Marketinformation for each competitor includes (GENERAL ELECTRIC, IBM Watson Health, Intel Corporation, Next IT Corp, Google, DEEP GENOMICS, Koninklijke Philips N.V, General Vision, NVIDIA Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-size-and-forecast-to-2030-2023-03-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-28T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-29-former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets.md",
+      "title": "Former White House AI policy advisor slams Sen. Chris Murphy’s ‘fear-mongering’ ChatGPT tweets",
+      "excerpt": "Because the hypotheticals around generative AI are not as critical as the real harms. If ChatGPT are going used in, as being claimed, in a suicide hotline, people are gonna get hurt. We can wait till then, or we can start saying that any system that gets ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "originalUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-31.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/former-white-house-ai-policy-advisor-slams-sen-chris-murphys-fear-mongering-chatgpt-tweets/amp/",
+      "publishedDateTime": "2023-03-28T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-enable-predictive-maintenance-for-line-of-business-users-with-amazon-lookout-for-equipment.md",
       "title": "Enable predictive maintenance for line of business users with Amazon Lookout for Equipment",
       "excerpt": "Predictive maintenance is a data-driven maintenance strategy for monitoring industrial assets in order to detect anomalies in equipment operations and health that could lead to equipment failures. Through proactive monitoring of an asset’s condition, maintenance personnel can be alerted before issues",
@@ -1099,161 +1255,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/03/28/ai-ification-welcome-to-the-next-business-revolution/amp/",
       "publishedDateTime": "2023-03-27T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-gpt-4-menya-ibishya-byubu-buryo-bushya-bwa-artificial-intelligence.md",
-      "title": "GPT-4: Menya ibishya by'ubu buryo bushya bwa 'artificial intelligence'",
-      "excerpt": "ChatGPT yari imaze kumenywa nk’imwe muri za robot za artificial intelligence (AI) zikomeye ku isi, ariko abayikoresha ntibashoboraga kuyiha amabwiriza cyangwa kuyibaza ibibazo utabanje kuyandikira. Ariko ubu, ubwoko (version) bushya bw’iyi chatbot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/gahuza/articles/cv24vkvyd4mo",
-      "originalUrl": "https://www.bbc.com/gahuza/articles/cv24vkvyd4mo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_gahuza/b09a/live/44da6b50-cd31-11ed-be2e-754a65c11505.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/gahuza/articles/cv24vkvyd4mo.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/gahuza/articles/cv24vkvyd4mo.amp",
-      "publishedDateTime": "2023-03-27T23:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts.md",
-      "title": "2023, A Research Report on the AI Infrastructure Market With Statistics and Forecasts",
-      "excerpt": "the AI Infrastructure Market Report includes data on research and development, New product launches, product feedback from global and regional markets by key players. This structured analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts-2023-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-a-research-report-on-the-ai-infrastructure-market-with-statistics-and-forecasts-2023-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world.md",
-      "title": "As Adobe Shows Its Generative AI Hand, Hollywood Grapples With Changing World",
-      "excerpt": "Adobe joined the generative AI gold rush, announcing Firefly and other additions to its creative and marketing software tools. But for Oscar-winning screenwriter Aaron Sorkin and the Writers Guild of America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642280892f0c387d9de2d105/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2023/03/28/as-adobe-shows-its-generative-ai-hand-hollywood-grapples-with-changing-world/amp/",
-      "publishedDateTime": "2023-03-27T23:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
