@@ -39,22 +39,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Facebook parent Meta to make ChatGPT rival Llama public"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T23:43:00Z
-    webUrl: "https://www.wjcl.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    ampWebUrl: "https://www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    type: article
-    provider:
-      name: WJCL
-      domain: wjcl.com
-    quality: 44
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
-        width: 500
-        height: 282
-        isCached: true
   - title: "Use cases of ChatGPT in telecom"
     excerpt: "ChatGPT being a large language model developed by OpenAI can accelerate innovation and boost operational efficiency for telcos. By leveraging the power of AI and natural language processing, telecom companies can optimize efficiency."
     publishedDateTime: 2023-07-23T08:57:00Z
@@ -100,6 +84,6 @@ related:
         height: 300
         isCached: true
 
-secured: "3m/xEpaApMUZ8iAdoNBB3PPi6/Fvirv7wYJfeeSp+DZcyWWbLNSAvUESVgVvvHKh/I9/ehJk509923SX+CxnjGVJs82vrDqA1X7z58lOmZDVTNT2O+4PFplU4hDZ6N5LlCV/28ave0CfSR8g5oeYLZ4Lz4dxXmhyf0u0/Y5oW4Kbb0D70TWLGHNjfU3jrdRgoum6ZXc7Kc5i52uEqMojCAtO11ATOJwwm6iy6MVgSQWnsxyYjDtj4lCVlAbeM7f1QcQH6/exeJ1CX5mN6fNihpYN+Wxl9+Tf6bjCyipz7rRM1adCjt3zhlrkKNu1eZtr11pb0Z1EPkZlDrTWBP0WyCUiwPBwOXyGoXRv8SomSgQ=;E43gLOJit5yKwUPLr1SogA=="
+secured: "LA1gAQt/6qqd/eqMabietE/L9bzOI9b3ll8Gseuzvg1xHytYr9EshXf2s1M2mdHIlwavRRUnGmBpFt5hsnSAKwneEBrARhcAjD0PDm7U5BJ3CmWZf0Eja0anHnkATrij1m7GKz7O6t9efDGNWjREG2pEgSb3b4IglLez7jqxw1dHGat33/kiY4Vdvv3YKc1TYXBIa7LWQO1FNPkI2N696PeaHxJIp4AnKEWSpXk340d/+PyAi7jY6355ky5/8n50hmIpbKbB1tAsYcajoT3HIjYGoSqoFvkBg6Pb8UgyEMb4OY1i7V7BUwrU0pouPeDA8VY+UayGYK+2mfJkZcnpg3egaY3ksuzudKPizejuY7DJyLdUQUIkuKs/R6lcCaDjUwemoQmI+JSS76jSYkSunzpHnnEGfcZ+3zlG8P+I1Lfrif/drcFicu01/QKJ0umuD8kVOptaEqzgHSJiMu22UAdFsOKuTQ7dvF9clwM5y0cuEB7OzRnMazAthjPI6KyxVr+b/Hri+kTR1Ld0KUSPjQ==;Mh0tCkCYf/Kp+KjmTFaCug=="
 ---
 

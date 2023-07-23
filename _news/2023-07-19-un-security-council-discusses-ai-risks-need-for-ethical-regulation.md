@@ -55,6 +55,20 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 70
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "KD+1xNW9KbPcf6stcKDHYyXdk+dUEnlrcpq9JWezKAZuzXRCyMRXOvSXURbmhvaxgmHreambC606l3/snMJFqnDmB70TiebrD++kKgG7eH8GP8ZZ/UXAY5lrG+uh5OGWD/lpl6S1vPiEgR6g0ykesTEWITFOUD8TORkhM6hWDiDQH4/X1eUeoA3/LfdXUpn0QX4JIXxPZkqoDAu1cQKyad2IB9nJRUsdOcWx5ZhbPi9M0lZP1USIulNlTh9vePoBDAxWd86sScejZ1nqS/L//H6lIJMcMQcQmkammX+nij0J5ZqpjyO2Hac+NxGbDCt2GzXUsSPTVtv/ECKyQVWmPmgxz46wDMxXEOLv8eT3440=;aCiy6DzwSC9at+GKDO06Dg=="
 ---

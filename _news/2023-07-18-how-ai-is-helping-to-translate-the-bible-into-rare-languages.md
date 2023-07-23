@@ -1,72 +1,28 @@
 ---
 category: news
 title: "How AI is helping to translate the Bible into rare languages"
-excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
-publishedDateTime: 2023-07-18T15:09:00Z
-originalUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
-webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
-ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
-cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
+publishedDateTime: 2023-07-18T13:00:00Z
+originalUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
 type: article
-quality: 74
-heat: -1
-published: false
 
 provider:
-  name: Angelus
-  domain: angelusnews.com
+  name: Catholic News Agency
+  domain: catholicnewsagency.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
-    width: 670
-    height: 376
+  - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
+    width: 540
+    height: 360
     isCached: true
 
-related:
-  - title: "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector"
-    excerpt: "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this."
-    publishedDateTime: 2023-07-19T21:33:00Z
-    webUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/"
-    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b842c1ed475f757e5b79a0/0x0.jpg?format=jpg&width=1200"
-        width: 940
-        height: 600
-        isCached: true
-  - title: "3 Healthcare Stocks Using AI to Deliver You Healthy Profits"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is aiming to revolutionize the healthcare sector,"
-    publishedDateTime: 2023-07-18T21:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-healthcare-stocks-using-ai-to-deliver-you-healthy-profits-1032456321"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
-    excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
-    publishedDateTime: 2023-07-21T14:48:00Z
-    webUrl: "https://www.acsh.org/news/2023/07/21/thinking-out-loud-–-artificial-intelligence-comes-healthcare   -17198"
-    type: article
-    provider:
-      name: Acsh.org
-      domain: acsh.org
-    quality: 54
-    images:
-      - url: "https://www.acsh.org/sites/default/files/images/artificial-intelligence-gf45a5335c_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-
-secured: "sQw4uIMlotoRWRRDKGl9JKB5bRwFCZluAHMVWQzbxt3PnJzmfjWhXYBZjKGXxKxTRmyy+dv628tGfsTAOJc+NNuv+5YYeNIui+2MIAeyPFyfBryoHNfLafukjQWFD/nXx5485QMhY58Z5TF+Zf749H36fo3R80TmODiSzGBEek6/FRHEGGGwY1aoFeFhkL7A1yLSSZluxltL3HtVZQQfs+eb4yiIY0rp6+u05I661wm1I4YGLqBIckoEeW/t+msUPoXZ7As3exNW0c8aZpkzVlIi3lYQRwjqIX+K2phmpYkCZgVzGyeAEYFklUOeFmLhPtv+QzbNPlkuARxnBiJkwByDpVxpN27Bak8Nmlc+M3k=;ffityyTKY+Yb54f2Q63k9Q=="
+secured: "cTj/P//kH4bFE41rSjSYbT7rZzy+fCJNdc6rnTiJZG+zNN+nnDkAF8S33hX8qaPd2YAbRvm7yMQfWSL8KiMoFeWDZ8wwdiu033FcIcYMY6+Zr5lHj1xZF3uQ+Ku7+uOsS4gCr5owkvZraWcISJvBZbdh8t25BFA8B+P4eEe18ECj0I/yI6pBw8hkLiUQLhwY5DK95GJtv5O57GqENpIYwXHoyehF8Gt72rugRNSaIO2+ArwiqI8jHJDz1Yw/ybVW19GTDQtvBOP7DAyaDv1bEPMXdg7XjO4chndsOKiKi/lii2C9OnzGIl6Vsm+0UUh0y97HoUGZISYIvLIz8FwqdikUqoOpVUzq2sw7IEY0rCw=;n6dMuKS50nD4EN2bx3U1jQ=="
 ---
 

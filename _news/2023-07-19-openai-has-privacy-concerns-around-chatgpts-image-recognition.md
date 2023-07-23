@@ -39,22 +39,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "Facebook parent Meta to make ChatGPT rival Llama public"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T23:43:00Z
-    webUrl: "https://www.wjcl.com/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    ampWebUrl: "https://www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/meta-makes-public-chatgpt-rival-llama/44582124"
-    type: article
-    provider:
-      name: WJCL
-      domain: wjcl.com
-    quality: 44
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-742df81f15a632a5c5c448d4cc3b4001-h-66fe36f1ac74e48992e5c35c35bbf4ad-preview-1676902506315927481.JPG?crop=1.00xw:0.811xh;0,0.115xh&resize=1200:*"
-        width: 500
-        height: 282
-        isCached: true
   - title: "Use cases of ChatGPT in telecom"
     excerpt: "ChatGPT being a large language model developed by OpenAI can accelerate innovation and boost operational efficiency for telcos. By leveraging the power of AI and natural language processing, telecom companies can optimize efficiency."
     publishedDateTime: 2023-07-23T08:57:00Z

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-service-robotics-germany.md",
+      "title": "AI Service Robotics - Germany",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$264.60m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.12%, resulting in a market volume of US$627 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/germany",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-service-robotics-hungary.md",
       "title": "AI Service Robotics - Hungary",
       "excerpt": "Value in the AI Service Robotics market is projected to reach US$10.36m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.86%, resulting in a market volume of US$27 ...",
@@ -1242,40 +1276,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-micropsi-industries-ai-powered-robot-controller-is-now-hardware-agnostic.md",
-      "title": "Micropsi Industries' AI-Powered Robot Controller Is Now Hardware Agnostic",
-      "excerpt": "Micropsi Industries' artificial intelligence-powered robot control software MIRAI, which helps automate complex tasks too difficult or costly to automate with traditional programming, will soon be accessible for all robot users.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/06/26/9838985.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

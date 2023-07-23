@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/comment/opinion/article/3228219/why-many-china-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good"
 type: article
 quality: 89
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "More than 1,300 experts call AI a force for good"
-    excerpt: "Mr Carter, who founded an AI-powered startup cybersecurity business ... pointed to agricultural uses of the tech, from robots that use artificial intelligence to pollinate plants to those that \"identify weeds and spray or zap them with lasers, rather ..."
-    publishedDateTime: 2023-07-18T23:56:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-66218709?at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-66218709.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66218709.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/3426/production/_130405331_gettyimages-1422094538.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "leoW0sQ4Gv49jO8HLNCnOmFzkKUU+2VgBaiamjKdP3DO9dZaM3aTWdEt8zyaSCFWOhvhfqqBgRn0tqxB5dzdD4aHz7J1Zmn+3qIah552DKe0RRylTSAH5qYbE2QzwtMTznUC4lYEks2UEzPNE83gjarzA3skchu07Zxy3l4iQd5sUbqXHafW+Y3KdICAiiMWja0BDU4H+S2SA3CdyE9YaBZKGhMP6Afg/cX+fu0cfGX9FLr4EFe2WAFAyUk/qSLffuTJSNXFkIVNAo+57nV2CSfrZCWL6I3IUmvKxH3Lp5LjSzrR5PFXHNPgyziipElFdfVu9VsJMXxY/DHf1JQV+b36BvWoiJUYLjy+YUMkfLY=;FVsFVL9DnIV13E29BUHS3Q=="
 ---

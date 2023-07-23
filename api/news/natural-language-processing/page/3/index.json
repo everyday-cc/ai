@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-30-indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result.md",
+      "title": "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result",
+      "excerpt": "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
+      "originalUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
+      "cdnAmpWebUrl": "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
+      "publishedDateTime": "2023-06-29T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adelaide Now",
+        "domain": "adelaidenow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-researchers-teach-an-ai-to-write-better-chart-captions.md",
       "title": "Researchers teach an AI to write better chart captions",
       "excerpt": "Chart captions that explain complex trends and patterns are important for improving a reader's ability to comprehend and retain the data being presented. For people with visual disabilities, the information in a caption often provides their only means of understanding the chart.",
@@ -1253,58 +1287,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-21T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication.md",
-      "title": "Liberate’s Generative AI-Powered FNOL Plugin Revolutionizes Claims Communication",
-      "excerpt": "(Liberate) has introduced a generative AI-powered FNOL plugin that promises to revolutionize insurance claims processes by eliminating language barriers and providing more uniformity in customer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication-2023-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/liberates-generative-ai-powered-fnol-plugin-revolutionizes-claims-communication-2023-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T17:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

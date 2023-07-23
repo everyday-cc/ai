@@ -2,6 +2,93 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-06-06-we-could-have-only-two-years-to-rein-in-ai-warns-rishi-sunaks-adviser.md",
+      "title": "We could have only two years to rein in AI, warns Rishi Sunak’s adviser",
+      "excerpt": "Matt Clifford, Rishi Sunak's adviser on technology, said that unless AI producers are regulated on a global scale, there could be 'very powerful' systems that humans could struggle to control.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/",
+      "originalUrl": "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2023/06/SEI_158285913-097a.jpg?quality=90&strip=all&zoom=1&resize=600%2C399",
+          "width": 600,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/06/06/we-could-have-two-years-to-rein-in-ai-says-rishi-sunaks-adviser-18901965/amp/",
+      "publishedDateTime": "2023-06-06T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-06-ai-driven-security-processors-on-a-single-chip.md",
+      "title": "AI-Driven Security Processors On A Single Chip",
+      "excerpt": "Single-chip TCUs claim to detect cyber-attacks on next generation servers in data centers, 5G infrastructure, and network switches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
+      "originalUrl": "https://www.electronicsforu.com/news/ai-driven-security-processors-on-a-single-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2023/06/Axiado-Picture-1-1024x787.jpeg",
+          "width": 1024,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-06T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronicsforu",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-06-house-democrat-bill-would-force-labeling-of-ai-use.md",
       "title": "House Democrat bill would force labeling of AI use",
       "excerpt": "Rep. Nancy Mace told Fox News Digital she agrees with the bill's intent but does not find it to be the 'best solution'",
@@ -1095,101 +1182,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-winnai-announces-general-availability-ga-of-their-no-typing-crm-ai-tool-for-modern-sales-teams.md",
-      "title": "Winn.AI Announces General Availability (GA) of Their 'No-Typing CRM' AI Tool for Modern Sales Teams",
-      "excerpt": "Source: Winn.ai To view an enhanced version of this graphic, please visit:  In a 2023 report by Salesforce, sales representatives only spend 28% of their time selling, with 72% consumed by record keeping,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/winn.ai-announces-general-availability-ga-of-their-notyping-crm-ai-tool-for-modern-sales-teams-1032370792",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/winn.ai-announces-general-availability-ga-of-their-notyping-crm-ai-tool-for-modern-sales-teams-1032370792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/9219/168755_5c312d6e149cfbb0_001.jpg",
-          "width": 550,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-05T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-05-scientists-use-machine-learning-to-see-how-the-brain-adapts-to-different-environments.md",
-      "title": "Scientists use machine learning to 'see' how the brain adapts to different environments",
-      "excerpt": "Johns Hopkins scientists have developed a method involving artificial intelligence to visualize and track changes in the strength of synapses—the connection points through which nerve cells in the brain communicate—in live animals.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/scientists-use-machine.jpg",
-          "width": 1540,
-          "height": 2341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-scientists-machine-brain-environments.amp",
-      "publishedDateTime": "2023-06-05T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

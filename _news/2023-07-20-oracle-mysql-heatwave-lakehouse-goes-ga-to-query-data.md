@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "All-In-One Data Fabrics Knocking on the Lakehouse Door"
-    excerpt: "Sure, you could stitch together your own data management tools and run it on a lakehouse outfitted with your choice of data processing engines. Or you"
-    publishedDateTime: 2023-07-18T23:08:00Z
-    webUrl: "https://www.datanami.com/2023/07/18/all-in-one-data-fabrics-knocking-on-the-lakehouse-door/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2022/04/door_lake_shutterstock_Francesco-Scatena.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Oracle Announces the General Availability of MySQL HeatWave Lakehouse"
     excerpt: "New 500TB TPC-H* benchmarks demonstrate 17X faster query performance vs. Snowflake; 36X faster than Google BigQuery; and 17X faster than Databricks"
     publishedDateTime: 2023-07-20T13:51:00Z

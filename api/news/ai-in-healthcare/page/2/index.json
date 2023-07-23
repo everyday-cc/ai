@@ -2,60 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
-      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
-      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-812729?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-07-watch-as-robots-take-part-in-un-discussion-on-ai-in-healthcare.md",
       "title": "Watch as Robots take part in UN discussion on AI in healthcare",
       "excerpt": "Robots took part in a UN session examining how artificial intelligence can be beneficial for healthcare. At the \"Robots that assist and care: developing socially intelligent robots for good\" event ...",
@@ -1364,6 +1310,49 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-how-ai-driven-behaviour-change-can-influence-healthcare-system.md",
+      "title": "How AI-driven behaviour change can influence healthcare system",
+      "excerpt": "There is now 'a holistic combination of AI and human expertise that can work in a complementary framework to deliver personalized interventions' in.health. healthcare. fiitnes. wellness. nutrition. diet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
+      "originalUrl": "https://www.onmanorama.com/lifestyle/health/2023/06/26/ai-driven-behaviour-change-can-influence-healthcare-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/6/26/behavior-society-c.jpg",
+          "width": 1248,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-25T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "onmanorama",
+        "domain": "onmanorama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

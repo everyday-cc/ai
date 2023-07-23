@@ -3,13 +3,13 @@ category: news
 title: "James Cameron On Dangers Of Artificial Intelligence: ‘I Warned You Guys In 1984!'"
 excerpt: "The “Terminator” director said he’s more concerned AI will cause a nuclear disaster than write “a good story.”"
 publishedDateTime: 2023-07-20T22:38:00Z
-originalUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
-webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545"
+originalUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text"
+webUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text"
 ampWebUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
 type: article
-quality: 82
-heat: 112
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -34,22 +35,6 @@ related:
     excerpt: "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ..."
     publishedDateTime: 2023-07-19T01:37:00Z
     webUrl: "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 57
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg"
-        width: 1020
-        height: 574
-        isCached: true
-  - title: "REPLAY: James Cameron on deep sea exploration, artificial intelligence"
-    excerpt: "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ..."
-    publishedDateTime: 2023-07-18T23:37:00Z
-    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/replay-james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095"
     ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
     cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
     type: article
@@ -77,6 +62,6 @@ related:
         height: 400
         isCached: true
 
-secured: "2yyZJo4rtAntfbOsmkOjlJnxjbZwgpsKghrr5xLNb+TYKm7UVqnZTtHWd2YH2jUofc5mzMdKDPIWnFvkPjEBapuU3gJwyHqMwbY+CeI+lh1OT/+H1ly6YQ3wMv2S8RTSZPiG+Qxwxc8s0CUTyseih7NbSo8h5TXvnjhCA0EIYO/D82/HxZzoUhCgrJqGw9zHSurADBkFXnuV+o4+wY/uxGGvs/44bBZZghGTLjCLCvhrPAscZmpVw5krGG8q1hMlB/2j8B+3++mEl12s3x3QSkuRZv70YcviDJopPgIBijP9Fvs59f4UVFni1NxJcyYadnQAek/YjNZQEUdHl2NZdAdvuL1Ws0soprUmGgmifPt20+oki5U8/wLJfEXwaMgFbP7MvIKr3jMSAnA01mYaFZ0O2riP96hQzi+suBjR9H2UdOoFloRu2O1NQrmnS/gEGo662fkK7PNyB+k3yor5UMIL3D0HY7Z3fYJ5SOp0D/5IAQ9wOTxitGk2wvKI3cMuxNK7GI+Mno0agNqlNHp59w==;bZ/b2MJoh/0JUMihBRQW7A=="
+secured: "KENE2kN0zQVfsjyfLFKKCH1ow6uugGtyPodRVzTA7ALrNc2ezW3siYyI3epdGQFz2dBGsgZhwvTBhOl7U29C0s7OHwmflErDzLtNBJXnDBzIfFA47lr7oQXZ17HAOMAIwzsZuFCnEyg4cNJjjXk7aOZkoalw3Vy5XBQFwmbCAmokV+eIXluTnL2zBTr6jVeJmjj7fpgr7cJAn/v09b88WpOluaxgEPvaxZai1vd5CLxyIb5/a7Y528PQh5gX+ZuN4fTtNNFZf3fl5g81msZeHknS4I29mRg9HNiysj2pmuT9Qm4G7K8HtLUw1w5m+Y5NJrpsnMPq+Xoo//5fADavQdGOnXrKjwXAt3jBoDDLREU=;D4Yi99CQBGSsaIjb2PDMww=="
 ---
 

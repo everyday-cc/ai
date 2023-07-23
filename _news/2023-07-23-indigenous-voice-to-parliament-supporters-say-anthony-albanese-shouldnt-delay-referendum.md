@@ -69,20 +69,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Albanese says Voice is not risking Indigenous recognition"
-    excerpt: "The PM defends the ailing campaign for the Indigenous Voice to parliament, saying he’s acting on the request of First Nations people; Donald Trump expects to face criminal charges in a federal investigation."
-    publishedDateTime: 2023-07-19T00:41:00Z
-    webUrl: "https://www.afr.com/politics/federal/chalmers-meets-chinese-counterpart-amid-economic-fears-20230719-p5dpdj?post=p551bo"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_38/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/3ac8b5871d48cabe3f5743d1ebaeb9d4b94785b4"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "xlCuCfshf5O3E2EmSBS4rwnqtY1jzHneL5OLXzYopBiy2qV7iAoX1+SZ44D0Qypx2U1Ul7kD1ckqfQIIccxsL1E8tfHqBRSdK1+PLvzhKlxChwhAnM7yluPiaGrWXnW2RR3W4SWE1WY3RvDs0EJ82G3LjeQ34fAm9415/5xrs2SavPcapn1r30EGqtFe2xswpzCBf49LyEBLzWyhEs3+cixC8TTNH9Xe+D7mh/T7OZdhBUHJXmm9eGibdtDBroOsuOxINzl3FPQeS1VEYNtptDbkbLJXcpFJl6LFYHGIHVOGejko33KZIrGC6bES8ZTjULFbKywW5ZDuYgoeT6Bg6tV55RT0EiW0dALvwHe0zf+OoXuionMo/2Ktj5PKoumBV0Y11bH1Shi/oxtyFTCzpUxiOLCTK5h5F7PzOsFy1HeZsTGOWAhsukn5cJuczybifM2PlfE3P0fQQXcx6y04QtZo5XGTOkOy1tInp6GVoIeCBR48+QGLUv0kFpY9Ndms+Vns35zL7ZBGVjIPp+O73A==;O1/u9dFhk9KsbstE2WCYrg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "IBM has been talking up AI, but here's what investors should really focus on in earnings"
 excerpt: "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ..."
 publishedDateTime: 2023-07-17T22:24:00Z
-originalUrl: "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
-webUrl: "https://www.morningstar.com/news/marketwatch/20230717960/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
+originalUrl: "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
+webUrl: "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - IBM AI
   - AI
 
-secured: "zMlk3RkzDKAM0KkT6cPT2WWWwW4rAKMVL5+ZdnkBqV65M6UgOnIRm5lfX3hn2HlbEa7trt86n5am46MRMi2mwuykaVcz0HatPeJlJxAgp2dPP7ellIWyHws8bP0tWmJp3gkiEcVy9wwJ4n5erAEtpwmhrb21K2Ae3migbrXfI6wxPeAPZKrRIPFgPE23kcPraYv1tZ2hG90vFRY//fb0iSr74/KLOP2g5V+W49QDJD89sOQ0CYs6e2tS79PyMFbgY9PFuQdNuRZb0yQxpa6+VBxGw6MFOktZkvu6oMinHEz7AOViuqI3EQGzBF+yESaSPcDRgdcBQ6TPjZmHRa6iIuUJCUysRuUhqSE+WV4EPWk=;Igu3S1rrpabN1b8DHnjw4g=="
+secured: "VjSoUszAZXuX4WOiA3vESq42Rl+vgQHhuftdbrB1S1+0vlR2up/+8XU1XjOkqzVujveTjI5CO2Ua7QcjW6l7235vcgr2ZXhuklOhvq+NbANTxdZvp5EPM7o/Eol7GN+zypG7xBXgWSUXPqOLhTP60+rQQC0UYD97KmvU+BL+KrGlukZKofYIjBQ90dLZN5TS+P+4IhAWMcO8RcSCUHXIOJSKGkz6xWr9PSatoL00TbEKknGiSR4dyIg3k5LFbgrmXlJV6wSs3qOACsAt0cXWF0XVG8qNSQ1Cz9epY+eTTXnfkzjXsjZpo6KbM6ubkYNvODgEPYV3tUpbI+WrvzBkiX9Jg/uP7DjmvE6Bb+jbQJY=;MyOve/f1qCmVq/nUaSmaOQ=="
 ---
 

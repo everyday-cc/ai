@@ -2,19 +2,19 @@
 category: news
 title: "AI investment is booming. But is it all hype?"
 excerpt: "The investment into Mistral AI is just one of many venture capitalists jostling for a seat aboard the AI rocketship this year. In the first six months of 2023, they plowed $15.2 billion into generative AI companies globally, according to Pitchbook data."
-publishedDateTime: 2023-07-23T13:08:00Z
-originalUrl: "https://www.wjcl.com/article/ai-investment-is-booming/44619483"
-webUrl: "https://www.wjcl.com/article/ai-investment-is-booming/44619483"
-ampWebUrl: "https://www.wjcl.com/amp/article/ai-investment-is-booming/44619483"
-cdnAmpWebUrl: "https://www-wjcl-com.cdn.ampproject.org/c/s/www.wjcl.com/amp/article/ai-investment-is-booming/44619483"
+publishedDateTime: 2023-07-23T12:08:00Z
+originalUrl: "https://www.wlwt.com/article/ai-investment-is-booming/44619483"
+webUrl: "https://www.wlwt.com/article/ai-investment-is-booming/44619483"
+ampWebUrl: "https://www.wlwt.com/amp/article/ai-investment-is-booming/44619483"
+cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/ai-investment-is-booming/44619483"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WJCL
-  domain: wjcl.com
+  name: WLWT
+  domain: wlwt.com
 
 topics:
   - AI
@@ -43,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "EiwMJRICFS7LI7MaTJhLJ7ULet//TsLfgraqX3eg/+JhLPG3yIwaQIzWf3DZCG4qvpT12/ZGFBRpra8PWXt4XuIcoFMS6iUZKbnt70gkeoes/7hR/Ck53QpprGAijyAoPJeW1rC2f5jAi/WsnXQ4paWjF3qzlh9coTAqXI+zdQXyNkbbg8p4EczoaowSopM/xFfxqlFuJGG3Rc5Od3HjCXMiM2Ftg4t4RntxqeVTDmqK2hOcUShn2vmPD/Qr0EHJYSDrd1LhJjizRgj7kr5Dg2cm0m3YhQ5CFiDOeOXfhZDM/yOBZf0PWr3WeHVtk9lil47luj0aJ6goLRgxvxbatNn/v6VtHI6TTuXpDaYrHNQ=;mH+NXGohj9oNIysv4S8fQg=="
+secured: "02jMaYpB/kj0XYQwy9uRJx3U/q8w+ba7d3ORd0hFNqDL0NWx7O7dltc9D2E9Furc4G27gCo7VnIVTX5d389+LcxEi2R7NTPa87U0m4rBQQKx5sDhLS31J9T5OELTJR8Yu9EyisfCKk2fX6goJ+lEy8QXU8k6xhdAIz8OZeHXD7xKP0tByZkvIb53VsvJZTD9GGc4CTX9wOw4FFj2cqpkBcH+3RMZ4ve/bIpCtfYybmwXS2MB0kGHisEkBe8lJkjL0XuSCFga+HdqPEuCeSirlY6MxJq2DgE6Xm+DX3DJ6pPnNTHtnglVU5u/hBCu19525MIBb7n5vtfYDN2TMDvokx1hL01ucVswGuU5/G721Mg=;TLlUBO7X+rCL0DMsrO3x7g=="
 ---
 

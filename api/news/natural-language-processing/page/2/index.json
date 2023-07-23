@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-09-how-does-chatgpt-decide-what-to-say-next-heres-a-quick-explainer.md",
+      "title": "How does ChatGPT decide what to say next? Here's a quick explainer.",
+      "excerpt": "Ever wonder how bots like ChatGPT figure out what the next word should be, but you don't have time to pore over AI white papers? You're not alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7",
+      "originalUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64a852158ed31300199e1ff2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-ai-chatbots-like-chatgpt-work-explainer-2023-7?amp",
+      "publishedDateTime": "2023-07-09T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-a-forgotten-genocide-the-broken-voice-of-the-kurdish-people.md",
       "title": "'A forgotten genocide, the broken voice of the Kurdish people'",
       "excerpt": "This book plunges us into the heart of the tragedy of a people whose existence was denied in 1923 by the signatories of the Treaty of Lausanne.",
@@ -1319,40 +1371,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result.md",
-      "title": "Indigenous Voice stoush erupts over claims Constitutional recognition will leave Australians ‘divided’ regardless of result",
-      "excerpt": "The referendum for an Indigenous voice to federal parliament will leave Australians “divided” regardless of result, warn two prominent Aboriginal leaders and vote critics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
-      "originalUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
-      "cdnAmpWebUrl": "https://www-adelaidenow-com-au.cdn.ampproject.org/c/s/www.adelaidenow.com.au/news/south-australia/indigenous-voice-stoush-erupts-over-claims-constitutional-recognition-will-leave-australians-divided-regardless-of-result/news-story/a0160d75caaf2d1bcc233faadf2d63e8?amp",
-      "publishedDateTime": "2023-06-29T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adelaide Now",
-        "domain": "adelaidenow.com.au",
         "images": null,
         "publishers": null,
         "authors": null

@@ -63,20 +63,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Albanese says Voice is not risking Indigenous recognition"
-    excerpt: "The PM defends the ailing campaign for the Indigenous Voice to parliament, saying he’s acting on the request of First Nations people; Donald Trump expects to face criminal charges in a federal investigation."
-    publishedDateTime: 2023-07-19T00:41:00Z
-    webUrl: "https://www.afr.com/politics/federal/chalmers-meets-chinese-counterpart-amid-economic-fears-20230719-p5dpdj?post=p551bo"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_38/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/3ac8b5871d48cabe3f5743d1ebaeb9d4b94785b4"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Indigenous voice to parliament supporters say Anthony Albanese shouldn’t delay referendum"
     excerpt: "Voice co-architect and senior Australian of the Year Tom Calma says the referendum must be held this year and a delay will not change the will of the people, as Anthony Albanese is told to “go the course” by Yes advocates."
     publishedDateTime: 2023-07-23T11:33:00Z

@@ -76,6 +76,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 16
+  - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
+    excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"
+    publishedDateTime: 2023-07-19T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33289997/introducing-paintit-ai-revolutionizing-interior-design-with-ai-generated-visualizations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "qgvAgvuyaMmzcYi5dTBn7GflBOCKpFfF/9g/uytGPUWrGyu+Efpf5TiWB50DMz/BLZv4C0aYCDJCQP4e5uWK49UPjUOz78ifH/dWq8g7FM3T1NLchIBJIHi+5os6T1g0SlGkJGHAHyn8w0u4bfUR1s9Cw2tZO2gjvLEASN1M556/gC0J/VsLhljPmMZguNRgDVj3ICMc8Lj8Pf6vqfgQCJbEsNZRCvidlkqWilXQbGHgZuGyxC67u3/XZb94EmVfT1/LHay/wx1kLT7yc8lv/bswsHVOj706ba0FNizeYl93lJ+JXOr7CGJBskz7DTzz/02tGoZqfmxzpUs73H8bltC1rj0kMObBnhUoWxvZY05zpL0bEVyP/lf7x3zbL4s7cxKGfK/6or2AfflWbcjidUuJ0eFDWpwqbRvvTKUwTCIfYm8Q5b6HHnqiAkJ98AIhxKkOnTZVL/knzi4ErBHKN75OTmrbgVsuOJ/Z7gS8QNa1pUnCeVQvHWxt3PKcS4F8yXpRABMFSXRcQiA5BxfDYA==;dfBuqJuhbwv74KwwV8qg2w=="
 ---

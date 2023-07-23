@@ -23,22 +23,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Mind-blowing AI can make a video of you dancing using just one photo"
-    excerpt: "Brand new generative AI software called DisCo can create dance videos from one single photo - here's how it works."
-    publishedDateTime: 2023-07-20T21:17:00Z
-    webUrl: "https://bgr.com/tech/mind-blowing-ai-can-make-a-video-of-you-dancing-using-just-one-photo/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
-        width: 3024
-        height: 1701
-        isCached: true
-
 secured: "J6hnvf2cowokhJXcqaWRyJ0DIHp+zbBxbxZy1zAyChv0gH82gDef5OKxOj0PJK2yF3O6ZQFDjcXzbHSBtl1MY827767fjX7W72jF/eiSlkkTZYbOtZtAcLB9eXVPnKf16bJPEmN02/RTKTJK1G5zYhPZEzfjoPrDfZVjq4JFchPxcYMs5xqvPN4wbJu5JZ5C7AhV2LRA1VAsH0o8wZyqEPbgUwzHPfDEovSUQit4pm2mfzATv/0wG0GkBv2zvnCIKZAkfciIPT8sfqg86JmDb8nunVUfX1ScKhvz6RIlXhPeNw78Fmaq/MKxknvFfPbu8EQz4rzstfvAXUn35H/z0BgNko/Fow379Co968rfNIQ=;8Bj9wqWZ+EsVrJPBONiziQ=="
 ---
 
