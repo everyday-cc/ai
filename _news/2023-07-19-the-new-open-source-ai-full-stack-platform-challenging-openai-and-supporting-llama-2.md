@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-new-open-source-ai-full-stack-platf
 webUrl: "https://venturebeat.com/ai/the-new-open-source-ai-full-stack-platform-challenging-openai-and-supporting-llama-2/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 43
+  - title: "OpenAI will give local news millions to experiment with AI"
+    excerpt: "Some of the funding will go to form a \"studio\" within the American Journalism Project; the rest will go to about 10 of AJP's grantees."
+    publishedDateTime: 2023-07-18T20:09:00Z
+    webUrl: "https://www.niemanlab.org/2023/07/openai-will-give-local-news-millions-to-experiment-with-ai/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 39
+    images:
+      - url: "https://www.niemanlab.org/images/midjourneyopenaiajp-700x392.png"
+        width: 700
+        height: 392
+        isCached: true
 
 secured: "WpjYDa9ClO2d0cQ1hLQIncVivHMqXcToO+J4HX0lKcnJ4MNi1NX9eeMeGSfiHOWOAVlQ+4t2kYulxLbV6j//Ayz7UBtFV+tFr+W44FHik13o07RSoPKkVkGqKAnSURzrhRzYjxRz9QM/i7Wnne7HasIXZDiPS8Vnha09V301VCqFEnLahdHx1/XeTMFfaWttcC6KjAGXwS8zE6hoztktR32UjvRpoka216qUiY5TUSXc9bb8wsQy0rDc1FdPDFNukPDvnJlaW6owrgZ7mYxGoTQsKhEoSfrZbGqj9OHXtcmB2ceW9nlYgFVOsdvgydhR87c9jgQAvoO8nxYX+LQ8o9Up/3fwwyyHcsyQVi0JMl47q9dfytXaTASwjQZC1BEW9xXhrDKIqQwAKwaOZ3hC4d5Tyc6HzpSkFWEGBavl5pkTlXK+ZPL9Fynev2TTQKGVZlxMYMYEIHHhn4ziTBb98pbvNhPY19WKceT6jrhgV+wHLYmWcvLwdgssZCcVgP2ZvWfhEgK5W2I0/SPVIMcfXg==;8ooIP64M/2mghL6C8mqI7A=="
 ---

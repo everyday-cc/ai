@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/202
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/07/18/figure-lands-9m-from-intel-to-developer-robot.html"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -17,45 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Figure humanoid robotics receives investment from Intel"
-    excerpt: "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics"
-    publishedDateTime: 2023-07-18T08:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg"
-        width: 700
-        height: 495
-        isCached: true
-  - title: "Why Intel Started Investing Millions in Robotics Start-ups"
-    excerpt: "With this investment, Intel can have huge revenue if Figure is correct about the labor market"
-    publishedDateTime: 2023-07-21T11:24:00Z
-    webUrl: "https://circuitdigest.com/news/why-intel-started-investing-millions-in-robotics-start-ups"
-    type: article
-    provider:
-      name: circuitdigest.com
-      domain: circuitdigest.com
-    quality: 54
-    images:
-      - url: "https://circuitdigest.com/sites/default/files/projectimage_news/Capture%20%2812%29.jpg"
-        width: 765
-        height: 500
-        isCached: true
-  - title: "Intel Invests $9 Million in Humanoid Robotics Startup Figure"
-    excerpt: "Intel makes chips, but it also makes bets on other companies via its Intel Capital arm, which just dropped some cash on robots. It's not buying them, though. Intel has made a $9 million equity investment in Figure,"
-    publishedDateTime: 2023-07-19T12:15:00Z
-    webUrl: "https://www.extremetech.com/science/intel-invests-9-million-in-humanoid-robotics-startup-figure"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
 
 secured: "ObRY2OGXGI3XyBV662FXlK8EM9l3DG8sE1ry9C4qu0LX8hVoF32hh3RLRNYsXrMxtlrsC0Z+x4kGQqbrV5WntBeeE49POhH2l8+dghi/4DFb0IkZlxMlwD8Tf4f1LuPNqyfZHsuH+SDX/pK6Jm1QBMun734y58q2E3hOHasS0hCq8t8br1qYLHWb4eqqf2GEnK5y7mVTpS7BTFNTpFWfzUMatplbpMxa0TL7ujXHYl2G1mH2hG8zpfL02+4YZ0hGiFmx4nJR6HStGVeCstjDTs7HnhXAq7chSOpY1dsSl4kwFFtCvwc+ilmJLVrPNhnL6LdHQnPzWFCsmw76tnVHs1jnXl1WFx2Xfk/voJlV7h1jaARRx4+fmFc/kqQtwD01uxplT+ybMu9WBdBJX/eR9bQsBSwoTn+PkFD9g0pOwESIVmktmEaJK1l/XOPMzYj7JIzfuH3Z2Utb7Jf45VSaJ7iBIxlQFqyl5x/yaj6LEhukAAgCQ5P1X61k3FqU3ZYXHfGvL00L8kHHQo/4MchdKg==;NtOwJ6LuKkWGbO3BBAp7UQ=="
 ---

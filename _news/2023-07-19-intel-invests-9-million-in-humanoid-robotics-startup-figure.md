@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Figure humanoid robotics receives investment from Intel"
-    excerpt: "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics"
-    publishedDateTime: 2023-07-18T08:56:00Z
-    webUrl: "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg"
-        width: 700
-        height: 495
-        isCached: true
   - title: "Why Intel Started Investing Millions in Robotics Start-ups"
     excerpt: "With this investment, Intel can have huge revenue if Figure is correct about the labor market"
     publishedDateTime: 2023-07-21T11:24:00Z
@@ -47,15 +33,6 @@ related:
         width: 765
         height: 500
         isCached: true
-  - title: "Figure AI has landed fresh funds from Intel Capital after its humanoid robots took its first steps"
-    excerpt: "A startup working on a robot that could take over dangerous and unwanted jobs got some new funding from Intel Capital."
-    publishedDateTime: 2023-07-18T20:12:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/07/18/figure-lands-9m-from-intel-to-developer-robot.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 20
 
 secured: "mEe1bTfdfqeUWBRKCBAOSauWj0ts7C1OLhPFkpzWfObWg0F7WrNTapc9XJjGwH77ve1DYs3IUqC5FnvcgeiGVzVPSBJQldzFmDL+j5Va6gLIr+QEs1EFAYgA7lxmN2S93TyutL9FFzCwc7FeHvUfNOplW+8CyWAWzAfJarx6IcQ0TG1uFAldK5dgeTjXAu4KGHjpudZGlPNUCSwbg4yv4dktBM4CACEW7XKXQYnIJZ9u+2tEqSDYEApStbx4jRYLPQ5IsbwOLEc2v2iSNO3Rl/IOq9VZhtvDSAwhXXpJJWv5qDcybIrnchwPpZyDBjmUOnUAcb69xjD8OXdvHjmOy/1FiWz/xoUIn5OVlXf242o=;VbK+3RpU3QTUakC57iik2Q=="
 ---

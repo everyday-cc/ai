@@ -7,7 +7,7 @@ originalUrl: "https://9to5google.com/2023/07/20/google-ai-sergey-brin/"
 webUrl: "https://9to5google.com/2023/07/20/google-ai-sergey-brin/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Report: Mosti looking into legislation to make AI use more transparent, ethical"
+    excerpt: "The Ministry of Science, Technology and Innovation is preparing a Bill to regulate the use of artificial intelligence in a bid to address ethical"
+    publishedDateTime: 2023-07-23T01:43:00Z
+    webUrl: "https://www.malaymail.com/news/malaysia/2023/07/23/report-mosti-looking-into-legislation-to-make-ai-use-more-transparent-ethical/81241"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 50
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/07/23/thumbs/400x400/131929.jpg"
+        width: 400
+        height: 266
+        isCached: true
 
 secured: "F4iPoFeHOA5eGBdDeWNtJwp0R59fE+ryPHLCzDvTgcm3mpTXfkxCEb+eOuTROrv+7HBY2ZFhYSy9RTvS8RcexO+GLqjSxwmA6447E4aihlaSL7+iqllI9dKHxPNd0tlgbEbHiubA54VDizDy4KEofNzcdrCCgihqtspgicnLxnM0i+eihbIkXZ0SvNPQBFwSc5UDMhQUiNrtg/7eiKE8c17FRPUyQdxOViweg7MmM0xV/+ApF0uTlF6wCG7LjHkd80XFL9JPG01TxJKnJYvqzdiop+YICQ+Q86U4df+tdJ6mDPNjn4mzCVIaN9K+dzZ7LdzAZwmRZxNBkFeo/dGKI8tkTtCsdg43VJzPbvwAP5TQrWgi18mvw5zBoPCUhQPvSiUY3ky0TDSimiINR8ioaF307AkiYmrCbM7EmvKhicKRdDgX7xrPgQxB9woXl6pCp4yaxeuVbjuMBiE5RDfPLXlYakzum7vjGBGo1z8Mt+GLZ5qGpcNGqxwYQvAZXEF2dzBMcy6wvQdAIN8f10J8TQ==;XWdzhL1BOHETx36QGVZh8g=="
 ---

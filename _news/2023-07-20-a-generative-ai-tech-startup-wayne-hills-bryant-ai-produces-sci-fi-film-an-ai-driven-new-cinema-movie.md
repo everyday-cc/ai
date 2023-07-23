@@ -2,11 +2,11 @@
 category: news
 title: "A generative AI tech startup Wayne Hills Bryant A.I produces Sci-fi film, 'An AI-driven new cinema movie'"
 excerpt: "For the first time in South Korea, a large multiplex franchise produced 100% generative AI filmAfter an extensive premiere, it will be screened in multiplexesIn the film industry, it is predicted to h"
-publishedDateTime: 2023-07-19T22:13:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33294114/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33294114/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
-ampWebUrl: "https://www.benzinga.com/amp/content/33294114"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33294114"
+publishedDateTime: 2023-07-19T21:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33293314/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33293314/a-generative-ai-tech-startup-wayne-hills-bryant-a-i-produces-sci-fi-film-an-ai-driven-new-cinema-m"
+ampWebUrl: "https://www.benzinga.com/amp/content/33293314"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33293314"
 type: article
 quality: 40
 heat: 40
@@ -25,6 +25,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "XAn2SCjc8TYPI0tSnJXiv/A1BV5O9PlapN1xDORDqSbDnDPyp5/xWYH2DJOSkEshoNgMAM0W89MIDF5K1kOuLXGjdciVWgkEKqsl90v3WjhQEUyL/lB1r7xNQNCSFImlhTN9zrTwrFSJGhgheMeXtjmBgcjpbMnKYYwmw0ra7tGKVeQ9RuOvUa+3cENGAOsQzl+YTSj+PqSUSC9qL+pWzRBNY4+qzu7M+f8rmCKmdeSPoKiE+tCn2Jps8vC5opWbZNCAQ/TsGfn949VL3KcQ9iWlO/BBPXCpwiGGbE5hvUiV8nss8YBjbNoIeQDH686+wyFBwm77xUEivvebvMziHzfdtqpoRZaqnE3jcuNJ+Vo=;cSoC6aoYzmH3pbpLkrnsKg=="
+secured: "WGo7vBEuW9/EcnxC1iKwBhXYQx3zszxl9BeYuiizyBSqum8nRwsPYq0JUyhEH9ukhw28s8q76CPTBPlPkw4K7sRfYgjzLk+CIgcTX2PD5MfEbLG0O1CSt0KJEeUTalc5OkOqVblyWw7Wf0OzaLBk2qk7U1G5PBdl9JGsHidFITZNxUXpoHU7c3ObMGdwPX0ooSdEohBXheHLuzOSLwqeMxiQIo+vdJjGGgf1FgZatz6zUnQg9r19FB8oV+G4xaugXuilSMfcLpgLtiIVp54nQCsJFNeuyggg0Qr4ntbo/PMvjQvm0bz7RgSAMB7p8o7jbg8/tpO8Tg0MtR0P+2CVUNtpqlJW+di678CrHFWEocI=;RaGRuiXXi6S5lnVXCInPkQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/"
 type: article
 quality: 76
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-20-image-15.jpg"
         width: 2000
         height: 1334
-        isCached: true
-  - title: "Foreign Secretary to call for ‘international cooperation’ over AI threat"
-    excerpt: "James Cleverly, the UK Foreign Secretary will today chair the first ever UN Security Council (UNSC) session on Artificial Intelligence (AI)."
-    publishedDateTime: 2023-07-18T08:13:00Z
-    webUrl: "https://bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/"
-    ampWebUrl: "https://bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/foreign-secretary-to-call-for-international-cooperation-over-ai-threat/?amp"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 58
-    images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2023/07/image001-1.png"
-        width: 751
-        height: 422
         isCached: true
   - title: "Meta lets loose second generation of Llama AI models"
     excerpt: "Meta says organizations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."

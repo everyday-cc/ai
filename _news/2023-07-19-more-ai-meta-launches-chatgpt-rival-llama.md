@@ -316,20 +316,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 34
-  - title: "Can ChatGPT detect fake news?"
-    excerpt: "Kevin Matthe Caramancion from the University of Wisconsin-Stout has been testing whether ChatGPT can detect fake news as well as other LLMs"
-    publishedDateTime: 2023-07-18T08:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/can-chatgpt-detect-fake-news/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Assessing-the-capability-of-ChatGPT-to-detect-fake-news.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Apple reportedly developing ChatGPT-like AI chatbot"
     excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"
     publishedDateTime: 2023-07-19T17:49:00Z

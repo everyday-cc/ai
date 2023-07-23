@@ -41,31 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Egyptian fintechs team up with Fintech Galaxy's open finance platform"
-    excerpt: "Fintech Galaxy's FINX Connect now hosts over 10 prominent Egyptian fintechs, including Sympl, Synapse Analytics, and Valify, strengthening the bridge between Egypt and the Gulf region's financial sector. Joining FINX Connect allows these fintech firms to ..."
-    publishedDateTime: 2023-07-18T08:40:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/egyptian-fintechs-team-up-with-fintech-galaxys-open-finance-platform-pm08y6bh"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/egyptian-fintechs-team-up-with-fintech-galaxys-open-finance-platform-pm08y6bh?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/egyptian-fintechs-team-up-with-fintech-galaxys-open-finance-platform-pm08y6bh?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-  - title: "Egyptian FinTechs & Fintech Galaxy join forces to expand into MENA market"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-07-18T08:49:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/egyptian-fintechs-fintech-galaxy-join-forces-to-expand-into-mena-market/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 23
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
-        width: 400
-        height: 224
-        isCached: true
   - title: "Analyzing The Impact Of Fintech On Global Banking"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
     publishedDateTime: 2023-07-22T18:46:00Z

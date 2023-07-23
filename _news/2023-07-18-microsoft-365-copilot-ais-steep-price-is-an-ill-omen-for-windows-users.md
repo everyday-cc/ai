@@ -482,20 +482,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 36
-  - title: "Microsoft announced its first customer product features powered by … – Microsoft"
-    excerpt: "At its Build developers conference, Microsoft unveiled its first features in a customer product powered by GPT-3, the powerful natural language model developed by OpenAI, which will help users build apps without needing to know how to write computer code or formulas."
-    publishedDateTime: 2023-07-18T07:28:00Z
-    webUrl: "https://www.thehoopsnews.com/microsoft-announced-its-first-customer-product-features-powered-by-microsoft-153199"
-    type: article
-    provider:
-      name: thehoopsnews.com
-      domain: thehoopsnews.com
-    quality: 34
-    images:
-      - url: "https://www.thehoopsnews.com/wp-content/uploads/2023/07/wp-header-logo-455.png"
-        width: 1600
-        height: 1201
-        isCached: true
   - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
     publishedDateTime: 2023-07-21T14:06:00Z
