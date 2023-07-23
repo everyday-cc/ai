@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2023-07-12-chipotle-debuts-new-guacamole-making-robot-autocado.md",
-      "title": "Chipotle Debuts New Guacamole-Making Robot, Autocado",
-      "excerpt": "The prototype, which was developed with food automation lab Vebu, is currently being tested at the Chipotle Cultivate Center in Irvine, California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
-      "originalUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b35e30d9fe4a9f625b9409/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melissakravitz/2023/07/12/chipotle-debuts-new-guacamole-making-robot-autocado/amp/",
-      "publishedDateTime": "2023-07-12T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-12-introducing-notebooklm.md",
       "title": "Introducing NotebookLM",
       "excerpt": "We’re rolling out NotebookLM, an experimental offering from Google Labs to summarize information, complex ideas and brainstorm new connections.",
@@ -1207,6 +1155,58 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
+      "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
+      "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
+      "originalUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/C-Suite.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

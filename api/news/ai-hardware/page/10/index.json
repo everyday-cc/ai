@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-05-08-china-is-developing-ai-without-us-chips-heres-how.md",
-      "title": "China is developing AI without US chips: Here's how",
-      "excerpt": "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "originalUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "publishedDateTime": "2023-05-08T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-08-the-geopolitics-of-ai-chips-will-define-the-future-of-ai.md",
       "title": "The Geopolitics Of AI Chips Will Define The Future Of AI",
       "excerpt": "The most important and widely used AI chip in the world today, Nvidia’s A100 GPU, has transistors that are 7 nanometers wide. Google’s latest tensor processing unit (TPU)—the most credible alternative to Nvidia GPUs— likewise uses 7-nanometer technology.",
@@ -1436,6 +1393,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-27-the-power-of-infrastructure-purpose-built-for-ai.md",
+      "title": "The power of infrastructure purpose-built for AI",
+      "excerpt": "Advances in powerful computing and the cloud are at the heart of the AI revolution. With faster, more efficient processing of vast amounts of data, companies can break through the",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
+      "originalUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_564311673.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-infrastructure-purpose-built-for-ai/amp/",
+      "publishedDateTime": "2023-04-26T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

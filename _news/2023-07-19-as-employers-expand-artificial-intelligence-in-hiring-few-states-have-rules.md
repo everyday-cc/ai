@@ -7,7 +7,7 @@ originalUrl: "https://www.penncapital-star.com/government-politics/as-employers-
 webUrl: "https://www.penncapital-star.com/government-politics/as-employers-expand-artificial-intelligence-in-hiring-few-states-have-rules/"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "As employers expand artificial intelligence in hiring, Maryland is one of few states that have rules"
-    excerpt: "As artificial intelligence finds its way into aspects of everyday life and becomes increasingly advanced, some state legislators feel a new urgency to create regulations for its use in the hiring process."
-    publishedDateTime: 2023-07-18T10:49:00Z
-    webUrl: "https://www.marylandmatters.org/2023/07/18/as-employers-expand-artificial-intelligence-in-hiring-maryland-is-one-of-few-states-that-have-rules/"
-    type: article
-    provider:
-      name: Maryland Matters
-      domain: marylandmatters.org
-    quality: 26
-    images:
-      - url: "https://www.marylandmatters.org/wp-content/uploads/2023/07/GettyImages-651538652-scaled-1.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "qJti0hoS+LrzEINqeNyionLZdUT63SUz/bri/g+HyVih3xIWns4AOsaClmFEhIsiOjV+kfZy1fbFTHOx50J6/00zy6dF9Q7JyihwkA6wNnZOz8tPLL0wCc5y8+ac6u7wm/yapVOvpvyKAcIWRvegRtDUvXs25NfYi6m1OvQUaLcF+a6YSJiMM9TlxR6c89thzq6TrMKwU4jXcdEcVvYInQpeoNvwNMSw1+69DJJ70zRFW8wgEfp/EZ6JJDrXoLIqRayaTXZ1tScySdw24DOBBm5CJqQAkD3DHp2OeS08+KNcNIB9T72k+w5U6k/O1C4t8/a42dnUp0XaIGHz0GXPOzfie2jRVoaEhYL3FS9bH7Q=;AM5rqLjJkWdElaPJTcmnNA=="
 ---

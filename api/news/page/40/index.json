@@ -2,57 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2023-06-26-ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says.md",
-      "title": "AI Will Make 2024 Election A ‘Mess,’ Billionaire Ex-Google Chief Schmidt Says",
-      "excerpt": "Eric Schmidt, the former CEO of Google parent Alphabet, warned Monday that generative artificial intelligence will throw a wrench in upcoming elections, questioning social media companies’ ability to rein in false claims on the burgeoning technology amidst a tense political climate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
-      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499ad61072e79e0d062d65b/0x0.jpg?format=jpg&crop=4000,2252,x0,y206,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
-      "publishedDateTime": "2023-06-26T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-26-defining-the-unexplainable-in-artificial-intelligence.md",
       "title": "Defining the unexplainable in artificial intelligence",
       "excerpt": "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness.",
@@ -1183,6 +1132,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-mongodb-embraces-ai-reduces-developer-friction-with-new-features.md",
+      "title": "MongoDB Embraces AI & Reduces Developer Friction With New Features",
+      "excerpt": "Even if you haven’t heard of MongoDB, odds are good that you touch it in your daily online life. MongoDB has enabled more than 43,000 organizations to build solutions leveraging MongoDB technology, including some of the biggest names in technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6498b1426cfd34e2cf8daaa2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/06/25/mongodb-embraces-ai--reduces-developer-friction-with-new-features/amp/",
+      "publishedDateTime": "2023-06-25T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

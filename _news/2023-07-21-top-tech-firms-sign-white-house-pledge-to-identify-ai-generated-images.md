@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AIs trained on AI-generated images produce glitches and blurs"
-    excerpt: "Using AI-generated images to train AI quickly creates a loop where the results get worse in either quality or visual diversity"
-    publishedDateTime: 2023-07-18T11:00:00Z
-    webUrl: "https://www.newscientist.com/article/2382519-ais-trained-on-ai-generated-images-produce-glitches-and-blurs/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/17171810/SEI_164438494.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "6HpOTmbPdGakab5jCJSsvP6FoLTYK86l/24TOKLK7UPbktuApQ1MJKEmgU24jUONeNKGDVtzU4xD/Xy3TdU+D7196TUOGBlDMHfPZPFJn5vJCXwhfMQdYvuBZI6peOOamTUmX5WwOMkHeLKPla94hSF+J0Pe3JXc8xGMNLO+4VL87TPp+/fe3neCeedqEoRxv8SJNX7s8/XEX5SF5crJxZNTDgVGDk7pCTpaDHOgAv+LJOOg4e5AMjAmBc+qCNbbFW8kjBjwAX0iuCwwbXdP1oG105++X/m62Eo+zPb1qsbSsWfL/drDqm6Huxuke1oKAxZf8oEtejFw47SogeF5G6skvZJlO6USn+OX60EDJ7t74YzTJ9Xj7Y/SgYwEOGJKAun9kTb3KhX8ihKKjLT/jww5UFcAYg2qWuJmgWZYvV6LvOTZzJyN0kytG8EnBcxfzusKlipVOIbx1eolf2ooZLlkf3DUAbXcjd+Du7i34V77SnNjUrhNUY+Q509DRXQRrBW0jmjo1rNTW30rj2aNIw==;oL8COvEpzUoSLa3TGs6RKg=="
 ---

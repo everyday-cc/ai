@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseone.com/technology/2023/07/pentagon-ai-more-eth
 webUrl: "https://www.defenseone.com/technology/2023/07/pentagon-ai-more-ethical-adversaries-because-judeo-christian-society-usaf-general-says/388711/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "‘Judeo-Christian’ roots will ensure U.S. military AI is used ethically, general says"
+    excerpt: "Lt. Gen. Richard G. Moore Jr. made the comment at a Hudson Institute event Thursday while answering a question about how the Pentagon views autonomous warfare."
+    publishedDateTime: 2023-07-23T03:44:00Z
+    webUrl: "https://www.stripes.com/branches/air_force/2023-07-22/general-artificial-intelligence-judeo-christian-10826463.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 47
+    images:
+      - url: "https://www.stripes.com/incoming/7zkqcp-4140893.jpg/alternates/LANDSCAPE_480/4140893.jpg"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "RG157CCXOqfy97zkWyYwXGzZfIfBVJGKL1LQeu8uO4P72TiJWWmqbwl2idTFIDduE1Wxkwq+h15XUa58gX+dpXRcTc6ZvxsGwNkpt9lv+ikdFqiE1oGhsORCRRsMTXCHA8DO6ycUJrFoZLpBvrUaBnz26h8dd27H2II1Y5ADVKm0DlKuJTXkMzPTLhPuRkxP2Sh+cW9WDXk1wFlcAiSVUawUd+/CoxWlAOvWi9NODWPqc2EedpHdZ+gTLS94xLliAWxHJulJO7RyNuM3tJKhKE97uhOfRLIctb/9/RA+HpEteqpVXoLtoVxDM59aZaTcXNx2Jf2/5sh1B2QPCAGluUV1ZsRkSO8PXhjj/U0LD0U=;D0kM8rGGifJ4+LpWvJQ7Bw=="
 ---

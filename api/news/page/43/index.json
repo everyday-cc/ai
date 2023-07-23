@@ -2,59 +2,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2023-06-23-ai-investment-value-at-every-link-of-the-value-chain.md",
-      "title": "AI: Investment Value at Every Link of the Value Chain",
-      "excerpt": "This is the second article in a series. The first article can be found here: “Although AI is a Bubble, It’s Still Investible.“",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-investment-value-at-every-link-of-the-value-chain -1032406594",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/06/image-530-1024x465.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-23T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-23-the-generative-ai-investment-sprints-for-supremacy.md",
       "title": "The Generative AI Investment Sprints For Supremacy",
       "excerpt": "Amazon, Salesforce, and Accenture fiercely compete and invest heavily in generative AI, showing their profound commitment to emerging victorious in this race.",
@@ -1195,6 +1142,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-the-last-ai-boom-didnt-kill-jobs-feel-better.md",
+      "title": "The Last AI Boom Didn't Kill Jobs. Feel Better?",
+      "excerpt": "ChatGPT is stoking fears of mass layoffs, but a study of several EU countries found the deep-learning boom of the 2010s actually created job opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-the-last-ai-boom-didnt-kill-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/649386a2e416fd283a85c3dd/191:100/w_1280,c_limit/The-Last-AI-Boom-Didn&#x27;t-Kill-Jobs-Business-1253019033.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

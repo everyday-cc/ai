@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AIs trained on AI-generated images produce glitches and blurs"
-    excerpt: "Using AI-generated images to train AI quickly creates a loop where the results get worse in either quality or visual diversity"
-    publishedDateTime: 2023-07-18T11:00:00Z
-    webUrl: "https://www.newscientist.com/article/2382519-ais-trained-on-ai-generated-images-produce-glitches-and-blurs/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/17171810/SEI_164438494.jpg"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Top tech firms sign White House pledge to identify AI-generated images"
     excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
     publishedDateTime: 2023-07-21T08:00:00Z

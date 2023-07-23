@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
+  - title: "US chip curbs are scaring venture capital firms from Chinese AI start-ups, but not us, says BlueRun Ventures China"
+    excerpt: "US restrictions on the export of advanced GPUs have led to concerns that AI start-ups in China will have trouble getting enough computational powerAI development in China could be difficult in the near term,"
+    publishedDateTime: 2023-07-23T03:46:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/23/us-chip-curbs-are-scaring-venture-capital-firms-from-chinese-ai-start-ups-but-not-us-says-bluerun-ventures-china"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 32
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/23/2191785.jpg"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "U.S. Lawmakers Want Chinese Companies Banned From Testing Self-Driving Tech"
     excerpt: "The Chinese government doesn't allow American companies to test autonomous tech, and Congress members think the U.S. should enact a similar ban"
     publishedDateTime: 2023-07-19T11:59:00Z

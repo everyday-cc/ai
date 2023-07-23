@@ -122,17 +122,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Facebook makes its ChatGPT rival Llama free to use"
-    excerpt: "Facebook’s parent company Meta has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it for free."
-    publishedDateTime: 2023-07-18T09:11:00Z
-    webUrl: "https://www.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    ampWebUrl: "https://amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/facebook-unveils-more-powerful-ai-and-makes-it-free-to-use-20230719-p5dpd8.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 24
   - title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
     publishedDateTime: 2023-07-18T21:00:00Z

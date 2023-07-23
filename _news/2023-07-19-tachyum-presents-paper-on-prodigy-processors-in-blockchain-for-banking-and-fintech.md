@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Medifakt: Empowering healthcare through decentralized blockchain technology"
-    excerpt: "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs"
-    publishedDateTime: 2023-07-18T09:08:00Z
-    webUrl: "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology"
-    ampWebUrl: "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp"
+  - title: "Visa calls on fintech founders for accelerator programme in SA"
+    excerpt: "“Through the Visa Africa Fintech Accelerator, Visa is committed to driving financial innovation, fostering entrepreneurship, and supporting the growth of Fintech ecosystems across Africa,\" comments Otto Williams, senior vice president, head of product, partnerships and digital solutions for Visa CEMEA."
+    publishedDateTime: 2023-07-21T11:25:00Z
+    webUrl: "https://www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk"
+    ampWebUrl: "https://www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk?amp=1"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 72
+      name: Zawya
+      domain: zawya.com
+    quality: 44
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg"
-        width: 740
-        height: 492
-        isCached: true
-  - title: "The Essentials Of Blockchain Technology In Fintech"
-    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
-    publishedDateTime: 2023-07-20T08:24:00Z
-    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
-        width: 1024
-        height: 576
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTA3MjVlZWEtODUyZC00/1/1365234911.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
   - title: "Tachyum Presents Paper on Prodigy Processors in Blockchain for Banking and FinTech"
     excerpt: "Tachyum ® today released a paper \"Credit Unions, Blockchain, CBDC, FinTech and Tachyum Prodigy ®\" explaining how Prodigy, the world's first Universal Processor, can transform transactional banking while minimizing the monetary and environmental costs of blockchain's electrical energy requirements."
@@ -58,6 +44,33 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 28
+  - title: "Visa, Plug and Play partner on Africa Fintech Accelerator programme"
+    excerpt: "Global payment platform Visa has partnered with Plug and Play, an innovation firm, to roll out applications for startups for its Kenya breaking news | Kenya news today |"
+    publishedDateTime: 2023-07-19T06:25:00Z
+    webUrl: "https://www.capitalfm.co.ke/business/2023/07/visa-plug-and-play-partner-on-africa-fintech-accelerator-programme/"
+    type: article
+    provider:
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 4
+  - title: "Visa calls on fintech founders for accelerator programme"
+    excerpt: "Visa has pledged to spend $1bn in Africa by 2027 and initiatives like the Africa Fintech Accelerator helps the payments giant achieve that goal, while also strengthening the continent's payments ecosystem. The programme is focused on startups operating in Africa and will run over 12 weeks twice a year with up to 20 startups per cohort."
+    publishedDateTime: 2023-07-20T12:34:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/837/240349.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 4
+  - title: "Applications Open For The Visa Africa Fintech Accelerator Program"
+    excerpt: "Startups building in fintech and payment space in Africa are encouraged to apply through the Visa website for a chance to access training, connections, technology, and investment opportunities"
+    publishedDateTime: 2023-07-21T12:50:00Z
+    webUrl: "https://iafrica.com/applications-open-for-the-visa-africa-fintech-accelerator-program/"
+    type: article
+    provider:
+      name: iafrica
+      domain: iafrica.com
+    quality: 4
 
 secured: "mQuLEHvsIzj7LWTTU8xO7z9pPShOZ6TPvh2OWFTZWogK+cZaKIDgNhLbF6LB872EqjtqDqufiYhkn/dPTxnak79Q9X309wHofBS9D20jYU0UGXYnUYMDrMMIDs6FhnISnBtniFy54epNzSxv4auHGCgbLd2bOou0to0DNF/cvAyO+37V8w/9bUzLMlIUtx/Mi6Y9pCDRuokwEH6DLi0W3OXSuz0nMH/PPkdFfHgU3o5tjSNFr1+L/xF9HKjLsTceqLYemeN5Y0jb9oaGB5+MzGWXoc7FR+9ShfBGbtnfe/gSmim/kSWnLE2lh0sWA3zbtgyg3k+1EfFVSGFId7peRyeVXuT278vYFA/ho0tkWBQ=;3CjestkzWKG1ysf/CCGLVg=="
 ---

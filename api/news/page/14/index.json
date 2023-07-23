@@ -2,58 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2023-07-12-collective-raises-50m-funding-to-launch-ai-powered-finance-platform-for-freelancers.md",
-      "title": "Collective raises $50M funding to launch AI-powered finance platform for freelancers",
-      "excerpt": "By deploying AI technology across its financial operations, Collective aims to expedite its growth and onboard businesses on its waitlist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
-      "originalUrl": "https://venturebeat.com/ai/collective-raises-50m-launch-ai-powered-finance-platform-for-freelancers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/C-Suite.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-07-12-kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services.md",
       "title": "KPMG and Microsoft Enter Landmark Agreement to Put AI at the Forefront of Professional Services",
       "excerpt": "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,",
@@ -165,50 +113,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
-      "title": "IBM Mulls Using Its Own AI Chip in New Cloud Service to Lower Costs",
-      "excerpt": "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-07-11/ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-07-12-musk-to-host-ai-focused-twitter-event-with-us-house-lawmakers.md",
       "title": "Musk to Host AI-Focused Twitter Event With US House Lawmakers",
       "excerpt": "Elon Musk will hold an event broadcast on Twitter Spaces Wednesday focused on artificial intelligence with two prominent US House lawmakers.",
@@ -257,6 +161,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
+      "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
+      "excerpt": "The firm is contemplating using a chip called the Artificial Intelligence Unit as part of its new \"watsonx\" cloud service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
+      "originalUrl": "https://www.reuters.com/technology/ibm-mulls-using-its-own-ai-chip-new-cloud-service-lower-costs-2023-07-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-b_02wsAE19DcOzsCg_tQf9XaaY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q645SUBL2JML7C4QKZOJLY7N2Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -366,8 +323,8 @@
       "title": "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal",
       "excerpt": "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
-      "originalUrl": "https://www.usatoday.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "webUrl": "https://www.freep.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "originalUrl": "https://www.freep.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -386,11 +343,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T12:26:00-07:00",
+      "publishedDateTime": "2023-07-11T12:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1143,6 +1100,58 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-upwork-launches-new-generative-ai-tools-and-services-hub.md",
+      "title": "Upwork Launches New Generative AI Tools and Services Hub",
+      "excerpt": "Upwork is launching a new generative AI tools and services hub. Discover more about Upwork's latest news with our article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/upwork-launches-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/Upwork-Laptop.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

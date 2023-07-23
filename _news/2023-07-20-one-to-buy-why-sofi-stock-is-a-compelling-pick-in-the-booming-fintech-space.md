@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sof
 webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,31 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "The Essentials Of Blockchain Technology In Fintech"
+    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
+    publishedDateTime: 2023-07-20T08:24:00Z
+    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
+    excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
+    publishedDateTime: 2023-07-22T17:10:00Z
+    webUrl: "https://www.crypto-news-flash.com/hive-crypto-miner-uses-ethereum-rigs-and-ai-to-make-ordinals-art-on-bitcoins-blockchain/"
+    type: article
+    provider:
+      name: Crypto News Flash
+      domain: crypto-news-flash.com
+    quality: 10
 
 secured: "wb4wQ0nK5AYxS3O5o0payjlev/LzpiCMrkfs5btPGlsCP10lLurNwAjI1PtnZEYE12/h9thzQZ1M8NkUNTaA+V2xVGH/bC58ffjV8wgGA4ieJmlLcdaTzW1NlUjY3CzGyopRx/ei3+iKugvpO5qcgSoq5pSpFcqgi+knWHVqgR8lVDHNsdNnzGXTxZqi3STsTIjsBGqYrlQsyDE6GHUIz/Qq5xjWfievZVqlQ+vN3xC++oEU/sLsaeCuauWph5qDctoMy9O1C4K/L7fSoRlg0DJqI1bJcFSAuyr5QtlNM+gcuKT2Ha3VIsim/RoMCPChMomBMoGLdDIbkLfMyHHa/gdF6wUG6LEkumar3qIv82A=;A9IJrdRvu2GyBNtUKrthaA=="
 ---

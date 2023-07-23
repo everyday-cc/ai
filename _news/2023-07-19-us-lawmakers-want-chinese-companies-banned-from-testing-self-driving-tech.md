@@ -44,6 +44,20 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
+  - title: "US chip curbs are scaring venture capital firms from Chinese AI start-ups, but not us, says BlueRun Ventures China"
+    excerpt: "US restrictions on the export of advanced GPUs have led to concerns that AI start-ups in China will have trouble getting enough computational powerAI development in China could be difficult in the near term,"
+    publishedDateTime: 2023-07-23T03:46:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/23/us-chip-curbs-are-scaring-venture-capital-firms-from-chinese-ai-start-ups-but-not-us-says-bluerun-ventures-china"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 32
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/07/23/2191785.jpg"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "nOD8ONKD/BqW70PQ96Cbw+hOAFchesjGVf+DzNdDJW2z2Bn695yuoOb0G1DP2f+mCleU/5xrtS6ARmzCbJAyi9flP6kW9JzGWQkZMU/MF7CPG9yANlE1FJnPc7+2ReegViqRVnCkH6GSwbfSsscLCmsbVqR0Rq8nOwaQw9DE0/szFMKWWZnERUkgcrsUOeuvw5NxmwOkKUiYpAxEXSPZmJl32OYGZAdx7cjKE6VTKr7OWKrCOnWXd5BKeJoPbPDcHTGOA6A+w3dLcdbj/8dmKT5IsbkQ1oeQ+N9AjVxW5kJL/BRL0wXWGvaPJXqTk8Wgo9yJMRWTOxO61R68pwvW1jH+Y5t0gsNdWpdS7YR4sXw=;3WBHd3XcL/rLso54Dp+CiQ=="
 ---

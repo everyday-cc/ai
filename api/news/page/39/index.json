@@ -2,57 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2023-06-27-databricks-strikes-13-billion-deal-for-generative-ai-startup-mosaicml.md",
-      "title": "Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML",
-      "excerpt": "Databricks, a data storage and management startup based in San Francisco, says the deal combines its AI-ready data-management technology with MosaicML’s language-model platform, enabling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?mod=hp_lead_pos1&tpl=vc",
-      "originalUrl": "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?mod=hp_lead_pos1&tpl=vc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-806103/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-26-define-customized-permissions-in-minutes-with-amazon-sagemaker-role-manager-via-the-aws-cdk.md",
       "title": "Define customized permissions in minutes with Amazon SageMaker Role Manager via the AWS CDK",
       "excerpt": "Machine learning (ML) administrators play a critical role in maintaining the security and integrity of ML workloads. Their primary focus is to ensure that users operate with the utmost security, adhering to the principle of least privilege. However, accommodating the diverse needs of different user personas",
@@ -1200,6 +1149,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-26-ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says.md",
+      "title": "AI Will Make 2024 Election A ‘Mess,’ Billionaire Ex-Google Chief Schmidt Says",
+      "excerpt": "Eric Schmidt, the former CEO of Google parent Alphabet, warned Monday that generative artificial intelligence will throw a wrench in upcoming elections, questioning social media companies’ ability to rein in false claims on the burgeoning technology amidst a tense political climate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6499ad61072e79e0d062d65b/0x0.jpg?format=jpg&crop=4000,2252,x0,y206,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/06/26/ai-will-make-2024-election-a-mess-billionaire-ex-google-chief-schmidt-says/amp/",
+      "publishedDateTime": "2023-06-26T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

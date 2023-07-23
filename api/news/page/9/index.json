@@ -2,50 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-07-14-exploring-how-soft-robotics-can-revolutionize-minimally-invasive-surgery.md",
-      "title": "Exploring how soft robotics can revolutionize minimally invasive surgery",
-      "excerpt": "An overview paper published in the journal Science explores artificial intelligence (AI) applications in medical robots, including Professor Kaspar Althoefer's scientific research unlocking the potential of flexible and adaptable surgical robots to revolutionize surgical procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/soft-robotics-revoluti.jpg",
-          "width": 640,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-exploring-soft-robotics-revolutionize-minimally.amp",
-      "publishedDateTime": "2023-07-14T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
       "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
       "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
@@ -1222,6 +1178,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-top-10-programming-languages-for-ai-and-natural-language-processing.md",
+      "title": "Top 10 Programming Languages for AI and Natural Language Processing",
+      "excerpt": "In this article, we’ll discuss the top 10 programming languages for AI and Natural Language Processing. You can skip our detailed analysis of global market trends for NLP and AI development and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/",
+      "originalUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/03/30085255/Joel-Greenblatt-Gotham-Asset-Management_12.jpg?auto=format&expires=1721347200&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/top-10-programming-languages-for-ai-and-natural-language-processing-1167654/?amp=1",
+      "publishedDateTime": "2023-07-13T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technol
 webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,40 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Medifakt: Empowering healthcare through decentralized blockchain technology"
-    excerpt: "Medifakt is an enterprise-grade blockchain platform tailored to the healthcare sector’s regulatory, operational, and market needs"
-    publishedDateTime: 2023-07-18T09:08:00Z
-    webUrl: "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology"
-    ampWebUrl: "https://cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/medifakt-empowering-healthcare-through-decentralized-blockchain-technology/amp"
+  - title: "One to Buy: Why SOFI Stock Is a Compelling Pick in the Booming Fintech Space"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors have enjoyed a strong year with the Nasdaq Composite Index up 35%,"
+    publishedDateTime: 2023-07-20T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 72
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/storage/uploads/view/b68adef1d04c984cf7823a33f753f630.jpg"
-        width: 740
-        height: 492
-        isCached: true
-  - title: "Tachyum Presents Paper on Prodigy Processors in Blockchain for Banking and FinTech"
-    excerpt: "Tachyum ® today released a paper \"Credit Unions, Blockchain, CBDC, FinTech and Tachyum Prodigy ®\" explaining how Prodigy, the world's first Universal Processor, can transform transactional banking while minimizing the monetary and environmental costs of blockchain's electrical energy requirements."
-    publishedDateTime: 2023-07-18T16:32:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/18/9850248.htm"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+  - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
+    excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
+    publishedDateTime: 2023-07-22T17:10:00Z
+    webUrl: "https://www.crypto-news-flash.com/hive-crypto-miner-uses-ethereum-rigs-and-ai-to-make-ordinals-art-on-bitcoins-blockchain/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
-  - title: "Tachyum Presents Paper on Prodigy Processors in Blockchain for Banking and FinTech"
-    excerpt: "Tachyum ® today released a paper \"Credit Unions, Blockchain, CBDC, FinTech and Tachyum Prodigy ® \" explaining how Prodigy, the world's first Universal Processor, can transform transactional banking while minimizing the monetary and environmental costs of blockchain's electrical energy requirements."
-    publishedDateTime: 2023-07-18T17:59:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/18/9850248.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
+      name: Crypto News Flash
+      domain: crypto-news-flash.com
+    quality: 10
 
 secured: "ge54rcw6fKRIKzIW7P44DOvOlrarXzWJ55bqdt0Dk56REFyeL+5rivdYPrxCwh7739bykFVV4LteLDPi7kHJRii8bctkFJ7wEJxmPcezVrpnxc0g4MdtGZvyXswcvtfHg5y8t8m7BNTXIOalc6RbS2+OACsiwypBJpFoDtezxZCvUUk5ODwjnib9XNQik5Edg4oOKKkJuVFLYax0jzHcX0TpRD1CKZCmK+/1H1Wg5kuJxfLrZaCZfajr6f0DXlse+E/F1kw/GMGzbpLUx+eWjoEiFy/osqPi9KiP5m82xWpeGHUMBdUT8PCp5rghhslZvVYVEg3IUghHanbU+m4I0LPAgwC9KBUzBd0NeTL+yKQ=;lV+sVyIZ4k8x+KjwqawExQ=="
 ---

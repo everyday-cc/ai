@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-
 webUrl: "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Artificial Intelligence can assist fashion industry in cutting down fashion waste"
-    excerpt: "There is no easy solution to these problems, but the growth of artificial intelligence and its adaption by the fashion industry has helped in addressing a few of these issues. Lately, the buyers are looking for more sustainable options, this has resulted ..."
-    publishedDateTime: 2023-07-18T09:37:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-can-assist-fashion-industry-in-cutting-down-fashion-waste/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-can-assist-fashion-industry-in-cutting-down-fashion-waste/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-can-assist-fashion-industry-in-cutting-down-fashion-waste/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 32
 
 secured: "2AEZwD6fIrIe/Nu226Tb94oQ6YmN/fN7uIOMm96jPQpDRXECVNkJb56t5oZ8DNLw2wEKkrZF49Byev6LO3YcuUT9MmMYPor/1JgCMcnNPlcqVjQKWt5GeNs+25NbWBcyWV+rIFhDszp9YNLRP6zBRBnWotpaahlIlor/u3XX04EQXGsVE20ThhcY4BecocF0zziNYIIe7mLp/n5eBEbRv5IiL0/XoHMJbHwJpxoJbqvn5EM2tql3YtuiPa/WQid2PYkQldvSPWa9nGpuYNXVEQvvbUJWPFlRV9DUThCEOyi6q5Dg0Riy6uqL1vFQChGzPEUL1Vye5RH/9/eGJpAx/lO6+kxHlG3wRPQNi8X2dMnY9zudLaJh/rnHAJ2fliTcXHv3TGn8b6XpRjZfwLh6Ujr1Q5O0rG9mp9kN/qtyis5nE/flI/NgioHcUzqs6/41il3AYavjahuAyQL+iEO0OFAg5QQP1I34cd5mqX5ZhYwZw30BrBe0I4Y/1vgZIOxfS/LHAxGN/9ZSuY+YiuYT0g==;NaEbPlF9rOuzDALuDnCfEA=="
 ---

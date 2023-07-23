@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Wall Street research is a 'clown show', markets guru Larry McDonald says after Citi boosts its price target for Nvidia's stock"
-    excerpt: "Citi boosted its price target for Nvidia to $520 a share in what markets guru Larry McDonald mocked as poor sell-side research."
-    publishedDateTime: 2023-07-18T09:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/citi-clown-show-boosts-nvidia-price-target-larry-mcdonald-2023-7"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/citi-clown-show-boosts-nvidia-price-target-larry-mcdonald-2023-7?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/citi-clown-show-boosts-nvidia-price-target-larry-mcdonald-2023-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://i.insider.com/6409c7a575a7270019db0e88?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "c8z+5AiN4h1j7B9bDR1dQBWfthZc3ckTz6anwSoiKaUoPIVCTAwuWSmz1EShKOg8X+QXajIXmxpzCJVLjK0q5P9XX01Oy8dmzXi4mWlDA7kQcojTsDJ4LAz5mYdhz9Umw+rTrh+WDx7HWjAkO59a7B/P08GZuUYg90rkS11Z8T0uoT65YZYFHuv5wcwk3I4IVGrKVXi2uUyx34bQsLManjEUgeWowWOI9CDzCjboCWGTIOKRU/wlL8DSOAYsVMsgXMUd3YjOjk7l6j15oYIZzIpfMkDrOL7SicqQy5d2xP+KuEQnmUxfR7owi+8INn7S6l7tGa/+ItnyjBwSNylYKY+9MT+qcQW7F57EoaQWUY3g1wwyhKqL0aAb3Ew3parH8ec9EU2cZ8f5oOgVUJxFqbLzGz0KuEFqIKhJ8wKDLYTg1TGEo46BXIJVvtnoJJJ6aovi2jSk/I9ATrH0+lemjLWt4RxQCMcXfRplLdBtnYENg/V5z/kyRFLW2x0kigA8qWUF2lobla2E5512c2Fl4Q==;hLeX6G11jyWgrJFI3azwtw=="
 ---

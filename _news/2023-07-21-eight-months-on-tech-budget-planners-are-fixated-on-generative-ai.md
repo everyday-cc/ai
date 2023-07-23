@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AIs trained on AI-generated images produce glitches and blurs"
-    excerpt: "Using AI-generated images to train AI quickly creates a loop where the results get worse in either quality or visual diversity"
-    publishedDateTime: 2023-07-18T11:00:00Z
-    webUrl: "https://www.newscientist.com/article/2382519-ais-trained-on-ai-generated-images-produce-glitches-and-blurs/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/17171810/SEI_164438494.jpg"
-        width: 1350
-        height: 900
         isCached: true
   - title: "Top tech firms sign White House pledge to identify AI-generated images"
     excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."

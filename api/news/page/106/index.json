@@ -2,57 +2,6 @@
   "page": 106,
   "value": [
     {
-      "path": "_news/2023-05-13-to-my-fellow-gen-xers-worried-ai-is-going-to-take-your-job-take-a-chill-pill.md",
-      "title": "To my fellow Gen Xers worried AI is going to take your job: Take a chill pill",
-      "excerpt": "\"Will AI take my job\" is a question on many minds lately, especially for Gen X. Instead of panicking, boost your career by learning to adapt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "originalUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/645e491511971c00188f1e56?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/will-ai-take-my-job-gen-x-gen-z-worry-2023-5?amp",
-      "publishedDateTime": "2023-05-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-13-how-a-toronto-computer-chip-maker-is-providing-the-better-brains-ai-runs-on.md",
       "title": "How a Toronto computer chip maker is providing the better brains AI runs on",
       "excerpt": "From its downtown Toronto HQ, Untether is designing the computer chips that run artificial intelligence programs more efficiently.",
@@ -1225,6 +1174,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market.md",
+      "title": "AI-Run ETF Dumps Apple In Favor Of This Chip Stock And Hints At New Opportunity Brewing In Market",
+      "excerpt": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) had a 7.96% of its portfolio’s weight in Apple in April but sold the entire stake in May. Incidentally, Apple was the fund's top holding in April.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/ai-run-etf-dumps-apple-in-favor-of-this-chip-stock-and-hints-at-new-opportunity-brewing-in-market-1032323317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/artificial_intelligence_as_stock_picker.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

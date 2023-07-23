@@ -203,7 +203,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -350,7 +350,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -964,49 +964,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-18-nvidia-stock-gets-a-price-target-boost-its-ai-dominance-should-continue.md",
-      "title": "Nvidia Stock Gets a Price Target Boost. Its AI Dominance Should Continue.",
-      "excerpt": "BofA Global Research is getting more bullish about artificial-intelligence chip demand for Nvidia NVDA +2.18%",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-732d4e7d",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-732d4e7d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-819096/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-chips-732d4e7d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-chips-732d4e7d",
-      "publishedDateTime": "2023-07-18T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-2-top-ai-stocks-ready-for-a-bull-run.md",
       "title": "2 Top AI Stocks Ready for a Bull Run",
       "excerpt": "Semiconductor companies will play a central role in adopting AI as advanced chips are needed to train large language models and also for running inferences on the trained models. For instance, OpenAI's popular chatbot, ChatGPT, was reportedly trained using more than 30,000 graphics processing units from Nvidia.",
@@ -1422,6 +1379,58 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-14-the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic.md",
+      "title": "The FTC Intervenes In The AI Safety Race Between OpenAI And Anthropic",
+      "excerpt": "The FTC is especially interested in risks posed by generative AI chatbots such as ChatGPT to personal reputations and personal information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b168b0534828c95c24807b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/07/14/the-ftc-intervenes-in-the-ai-safety-race-between-openai-and-anthropic/amp/",
+      "publishedDateTime": "2023-07-14T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI Hardware"
       ]
     }
