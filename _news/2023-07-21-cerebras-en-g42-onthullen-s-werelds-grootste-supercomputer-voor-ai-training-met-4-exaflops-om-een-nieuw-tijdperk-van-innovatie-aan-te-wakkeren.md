@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Cerebras en G42 onthullen 's werelds grootste supercomputer voor AI-training met 4 exaFLOP's om een nieuw tijdperk van innovatie aan te wakkeren"
-excerpt: "Cerebras Systems, de pionier in het versnellen van generatieve AI, en G42, de in de VAE gevestigde technologieholding, hebben vandaag Condor Galaxy aangekondigd, een netwerk van negen onderling verbonden supercomputers."
+excerpt: "Cerebras Systems, de pionier in het versnellen van generatieve AI, en G42, de in de VAE gevestigde technologieholding, hebben van"
 publishedDateTime: 2023-07-20T20:51:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/cerebras-en-g42-onthullen-s-werelds-grootste-supercomputer-voor-ai-training-met-4-exaflops-om/article_c53bd5e0-e4e8-5de9-a37a-149424261751.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/cerebras-en-g42-onthullen-s-werelds-grootste-supercomputer-voor-ai-training-met-4-exaflops-om/article_c53bd5e0-e4e8-5de9-a37a-149424261751.html"
+originalUrl: "https://www.bakersfield.com/ap/news/cerebras-en-g42-onthullen-s-werelds-grootste-supercomputer-voor-ai-training-met-4-exaflops-om/article_4cc5c9df-fccf-58aa-97f2-9d103fc6de0b.html"
+webUrl: "https://www.bakersfield.com/ap/news/cerebras-en-g42-onthullen-s-werelds-grootste-supercomputer-voor-ai-training-met-4-exaflops-om/article_4cc5c9df-fccf-58aa-97f2-9d103fc6de0b.html"
 type: article
-quality: 2
-heat: 2
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/79/47922372-4255-535a-8671-e94eeacdc233/64b99ef186e4e.image.jpg?crop=1918%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "eyalcBUCtJfLP4pUIDMpGNHhWtTKChsQa8/jvCooSDJAt/pJWZUNWPQAZXBAppU/KZd29mRJcWw6GakKxnfGaoOWLOEqOOCGBgyzRXu4BkaVFwWr1HZDzwvPhg5ROPqYu/gy20+VpZTBNa15/OGVt8/sCVh+APhmFYK2INVVqFblN+QphoCxBFk37xpExiMrOshkB2YAqjIe0rz5QKQCTeW3lnEGgkTfR98FWqO4PaR7AzzHdO5a3fx+rOmnCFQhIIBUssKhy70XUvj7cHwFQIEDMZGLyUlYVmxp2fNTXEeFmhDVQZDpN1lEYE/cZwloC809F8I6NikgEdK17us1UHukbEw6+29mi9rX7eHX54c=;Jg7n+BmH8lFrXIJJS0ojLQ=="
+secured: "Q6t6vAI392rpdPXDy9jItTUVxo7n7hp4UBsBo6+sr6CUMi3hNVrkPg/hQ63kWbJYquHt/nhYzL3xMZ2Upz4195/VR4CJkUig0J8EQWd8GIgNVIjrzdWI689CX2cgR1W613GZsy8OHRfPlv/P1J7yv/KJH51Dp3fvRibxoVmYSSrgrkaDWNork35eLKrLFYjei/ESumBuRsIFdrFpncBNG+eUcqXwivpFWw6KN6kZ+NyoA+pMtGtJwDGQT+4arX6ukAIvTTrKhW/QAHgwmXocDm/SQqf6KoTooIJIq0MyD7F3hl3AzVE6nZXrJE72jUNNlEp0C+u5StP3i7BVDyTTahiI1NNwydMDYHZFqgyVTOlsjjYFJhLSnSx1kLODz2lOIhCE5kdMD4ZKBQkXcRfOkeJugk+uS6Ky4cymz0eK2+8tdB9TMcPOBZLd+iKqR9RD7KmTV8GwV8afygatenftNmqCYTB24UvJum8AX3047UmeCYKCVexW0z+XRv71Fh6cXr5uwK29umoYmm+2OU14Eg==;MCQfIuXAW2T7l72qscWWYg=="
 ---
 

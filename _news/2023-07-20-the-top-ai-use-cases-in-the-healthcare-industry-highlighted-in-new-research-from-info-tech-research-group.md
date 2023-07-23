@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cas
 webUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
-    excerpt: "During a podcast recording session at Duke University School of Medicine in Durham, Duke AI Health Director Michael Pencina and Duke School of Nursing professor Michael Cary discuss the challenges of developing equitable and ethical approaches to using artificial intelligence tools to support patient care and clinical research."
-    publishedDateTime: 2023-07-19T03:30:00Z
-    webUrl: "https://www.heraldsun.com/opinion/article277237823.html"
-    type: article
-    provider:
-      name: The Herald-Sun
-      domain: heraldsun.com
-    quality: 31
   - title: "Policymakers who want to regulate AI need to start talking to health care industry representatives"
     excerpt: "Health care deserves particular consideration because it presents a much broader spectrum of risks than most other uses of AI."
     publishedDateTime: 2023-07-19T08:29:00Z

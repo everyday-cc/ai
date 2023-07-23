@@ -55,15 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "NC researcher: I’m excited about AI in healthcare - with guardrails | Opinion"
-    excerpt: "During a podcast recording session at Duke University School of Medicine in Durham, Duke AI Health Director Michael Pencina and Duke School of Nursing professor Michael Cary discuss the challenges of developing equitable and ethical approaches to using artificial intelligence tools to support patient care and clinical research."
-    publishedDateTime: 2023-07-19T03:30:00Z
-    webUrl: "https://www.heraldsun.com/opinion/article277237823.html"
-    type: article
-    provider:
-      name: The Herald-Sun
-      domain: heraldsun.com
-    quality: 31
 
 secured: "1+De59lDQ9dza7rd38OUxpjUrqlKIyCXcOYmGQ7WvvI7mzNi5ZCwoJJET8lsW2BHCMAVZD7FCno7ETziYE/Z0A3YqEef6WK9InahKd1OjNpELIrr61yLbx8VkHWzqoTGFY/aZSY4BXRBLdvWUlChIMZsYRlHOv8cR14dDhlF1kSDefwsHW5zeHOPsVH71/GOSKDcVBOX3rc7TrQWPOI+bxZF8HLYN821L7lLHLxPzPHowRYMs9JO+edvfrgZP4kiaqNk9FQuoT8GlC7nJMK3dz/Vu86652UGoh/BwscZx8cxKuWxFPSC+sbgmXkw3EIl6SwwWWq2p59+vRao8tlg+42ueS6bHYYMJ77NJlLk+tM=;q+CU6fqIKJDK9pR9I2PHyw=="
 ---

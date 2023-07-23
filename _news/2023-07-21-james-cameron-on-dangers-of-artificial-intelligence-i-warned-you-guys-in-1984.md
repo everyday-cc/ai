@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/james-cameron-artificial-intelligence
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545/amp"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "James Cameron on deep sea exploration, artificial intelligence"
-    excerpt: "Oscar-winning Canadian filmmaker James Cameron met with his long-time mentor Dr. Joe MacInnis to discuss everything from deep-sea exploration to the threat of artificial intelligence, in an event organized by the Royal Canadian Geographical Society at its ..."
-    publishedDateTime: 2023-07-19T01:37:00Z
-    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/james-cameron-on-deep-sea-exploration-artificial-intelligence-1.6483902?clipId=1930095"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/7/18/1_6483902.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 57
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/7/18/1_6484637.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "James Cameron Weighs In On The ‘Weaponization of AI’ And The Possibility Of Robots With Nukes: ‘I Warned You in 1984’"
     excerpt: "James Cameron is finally sharing his thoughts on the controversial debate over artificial intelligence, which has become a pressing topic in recent months thanks to the growing use of machine-learning writing tools like ChatGPT."
     publishedDateTime: 2023-07-19T15:14:00Z
@@ -62,6 +46,6 @@ related:
         height: 400
         isCached: true
 
-secured: "KENE2kN0zQVfsjyfLFKKCH1ow6uugGtyPodRVzTA7ALrNc2ezW3siYyI3epdGQFz2dBGsgZhwvTBhOl7U29C0s7OHwmflErDzLtNBJXnDBzIfFA47lr7oQXZ17HAOMAIwzsZuFCnEyg4cNJjjXk7aOZkoalw3Vy5XBQFwmbCAmokV+eIXluTnL2zBTr6jVeJmjj7fpgr7cJAn/v09b88WpOluaxgEPvaxZai1vd5CLxyIb5/a7Y528PQh5gX+ZuN4fTtNNFZf3fl5g81msZeHknS4I29mRg9HNiysj2pmuT9Qm4G7K8HtLUw1w5m+Y5NJrpsnMPq+Xoo//5fADavQdGOnXrKjwXAt3jBoDDLREU=;D4Yi99CQBGSsaIjb2PDMww=="
+secured: "ffdadE+9udLG1Hx3KoSCJ4Z6jHKwXUmaiHTFwycurMnUkXmRHWoTUixSJBkULt5uStUKRad8K5bG7BqLawRaAXo62k3YfADKyIKyXMQAlcXrX5QY7IlSqpTf+OUtPjyPG/lEOJ23im+l2XbT7EtAg9jmWytChwr07COgFkDhhYmO2fRWpw5R1OIsuqgSFPchE799+Egqi8EJfPC2RZ4EmqPwJIwEaNeTjGcNp3JNHsswPH7zDzhrfOQt2uh2rKzCKELrNJQV6mIdxdjCdy+kHP+iJhK8cPJViwFybXADVq/oZmKF4nbeyeLQOtYUuh7S7DKq61i6aj/4OYritiKnTea4AYVy5zKcJi+XNMq32ic=;7FkRow/LffhOKG7BmomJdA=="
 ---
 

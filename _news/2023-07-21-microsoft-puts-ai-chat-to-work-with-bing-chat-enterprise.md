@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
 type: article
 quality: 104
-heat: 434
+heat: 444
 published: true
 
 provider:
@@ -460,6 +460,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
+  - title: "Kpmg And Microsoft Enter A Landmark Agreement To Put Ai At The Forefront Of Professional Services"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory."
+    publishedDateTime: 2023-07-23T19:27:00Z
+    webUrl: "https://menafn.com/1106651961/Kpmg-And-Microsoft-Enter-A-Landmark-Agreement-To-Put-Ai-At-The-Forefront-Of-Professional-Services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
 
 secured: "3CK2ujVdO9o6It5aPquI4CYUhfJfcP5vAGTgHQUolFiLqHLtffjrPu5TcFk8PMN/vmpXDd74laWlvb0RhlthtUmELfZMxZ4qwDzo4T8TafOWvqkBvYKUtQ440vGTeUn4zr1j5rPUZQV3Jx35yXKLQWxcFmWJ6m3UBWE3zpI58l5uks74jKRqnVy2vyxhZdkDi7IhF38YLWcDSSo0O/ACims2jorumevvimlgPVzhN4LTTQ79XXo8MMrDdkjv99D/0FHT4mRtcD0Jb4rcL9uGCGS4/lxaMwBsqeSCw48n1JvlUcak/JKBBrsIgXXvcVd2WvAIxwu9hCxfYCwnUQqpyAnF7XotJWJFIfZhq1Bj+nQe31iHHcDmo0MpEGv2DdaT8kcEIByDBHq0P7DQliZrZtdyWyS8QgB2tdcJT6Fqcbu/gSIE7RCCe/ObBD2ggEj0m5yv5VuFA9GzjhGtzdJEeHfGHuXpo9cHKEQd81MzoB7idXhaWOfZVfbI4YBhi2kEo6Qfq7Q2G+dq0MLY26fivA==;zg7Ti5oGlZwVRr88e08jBA=="
 ---

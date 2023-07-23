@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-60.jpg"

@@ -130,22 +130,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Llama 2: Meta's new free AI model takes on ChatGPT and Google's Bard"
-    excerpt: "Developers and researchers can collectively identify and address potential issues faster, facilitating collaborative growth in the AI field. Llama 2 can be found in the Azure AI model catalog, providing developers using Microsoft Azure with easy access to ..."
-    publishedDateTime: 2023-07-19T03:54:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/llama-2-meta-s-new-free-ai-model-takes-on-chatgpt-and-google-bard-2023-07-19-881769"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/meta-launched-llama-2-1689738128.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Battle to win the AI race hots up as Facebook owner unveils ChatGPT rival"
     excerpt: "Mark Zuckerberg has unveiled the latest version of Meta’s AI model LLaMa (Picture: Getty) Facebook parent company Meta Platforms ... known as LLaMa 2 (Large Language Model Meta AI), free for research and commercial use. Much like tech peers Google ..."
     publishedDateTime: 2023-07-19T13:57:00Z
@@ -298,6 +282,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-2.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
+    excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
+    publishedDateTime: 2023-07-21T02:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20230719PR201/press-release.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 30
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230719pr201_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Please Stop Asking Chatbots for Love Advice"
     excerpt: "Simulations of human conversation powered by artificial intelligence—chatbots—have been much in the news, but I’d never had a patient tell me they’d actually used one for advice before. “What did it tell you?"

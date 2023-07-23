@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Meta has launched a new, open-source AI model"
-    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
-    publishedDateTime: 2023-07-19T02:04:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "kkByIVK+UmzWMaJOjrPyotmFFxp7hRNfu7s2tyABSaGnuLsDiPdv2PAK76i1MtB8FjhMTJzdpzDj9TqF0L4fK94DW2dX//TkFLT0MpAKixq8qU6bWCFNq9hEzT4Ee2K5ry4Q10nnxfZ8obz4RWUmEeSvKLF+mT+5xaFjTRfntCm4ATFS0zrRbQFyPvrny9D4YNk++r6ulKDt3FoMNSYzwwREQEyo/mUYCjf7EfgOvZViMHoEVmHrQa3VTzmcsqj4jzStvLwYbhfcc+hVWlJzd6v6YuWHDBSEVA1TqX+0+qFgbEqdD85WzK/DUPt/9Hg/J0s79QHoKGl4UfbOfxbq7KtEBKi70Xbgcgpd2S2B3N5PosLkcSUfOMuAjIldBOrA8EhRu/z42Kh/REd+gHyXZdZK7aGMbyPFyCW356+I+rScj592Rh1y1RkJFh7rC8JcDpRk4FjTdTK1X/8UiVoJ1rtAyYIAvtXqSs8ApBOghgAtvwARj9NJsqdUkV2yY44MrDPA9XFvcwGmvUAnTlztBw==;CDFr16LXRzEmLtzqrqnf4Q=="
 ---

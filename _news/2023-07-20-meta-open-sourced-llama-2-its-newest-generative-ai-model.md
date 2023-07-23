@@ -89,15 +89,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Meta has launched a new, open-source AI model"
-    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
-    publishedDateTime: 2023-07-19T02:04:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "0hAA3aaxPI2Mu0RFPzFIfr0qcnIB7tUQQla4p0EP7ytrY/UWmirnKxvjqHZhnMsY62JwsnJdZfWQKY+FNLO73eH3JbKN6JXQ9Kv22nS8SkGkNeprEAgRrPKkK84H+2DlYsyx3u2HIK8vapFIzgF79H/IQm5f+9glmT3oQpDQDj+DIY6+Ywwfhd/RcGxbDmKdt7wp18iJt3NVUe5jGhZKK6t8KnUKmzQTMqXYxOkiiOhkYegfjh5l3C7t0ZUQicny4DPCsG0wroF0+aHVo1Uo9VanpjW/ZecycVfK/2KEZj2eg3zv77KX3FcfY8h074DKvCwywGKVspdk0+TRDr4EH4BrZAM1Q9eKzcBuV9uZj+zUzWG2ZARpVPs758F+GTAeAaA85FgYzfZkSZf44r2Nitw8xX3poigB19irqwNgSZPQq/ZsOCBcxYLNPtDm8tjaFojKXr0yZVSjW7Mxo1Wmpj6aFxv1A3dy8zJBmPtyNTpR4BWN82xLquIKrvU2lVwfHkO9hbRNDonFQjdBkhm3zA==;ozr0tn+su+uZ+uO7GqnkQQ=="
 ---

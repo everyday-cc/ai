@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/07/20/generati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/07/20/generative-ai-and-solving-the-blank-page-problem/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Generative AI: Reshaping the Financial Landscape in the Age of AI"
-    excerpt: "As we venture deeper into the era of Artificial Intelligence (AI), we stand on the precipice of change, where the financial sector holds"
-    publishedDateTime: 2023-07-19T03:30:00Z
-    webUrl: "https://www.cioapplications.com/cxoinsights/generative-ai-reshaping-the-financial-landscape-in-the-age-of-ai-nid-10770.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 39
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/bdxz43.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "uBl4RSWMNVbALjDzzD+mXgKfHHtlq+Sp/NArfsTo6WgFlmfdDjqMpsl3kTXctjEN3mizp2rPk0GI0E3OQ5NPt0IrmATcJlAPo0e3bn/vCg95u7ZvWvFw+EBFPXHR1CAIUHtoQwFGyUy4MtPXGbVzulrMKN3ePnkyYcZrLGybxWujowXFLt8XrVgQowYi/b+YSGsuNctTmEc83W/S0TXVyGBTYmPKv9d7BuXOLjgxo6moBP7AmlFPHKvTxQ9REOrIO8oPdW4FrNOj2dILVtwOuEonR6frLwzV5h/Jg6xdTYAqMoaHNn0BLIMBhTJ4sVSf+C58JS5BDR7VnHA5EbczsBHGDYD+pJxtEMyjl1IIiOI=;8vWueS9uiUCeWQLRXoXhzw=="
 ---

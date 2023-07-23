@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,114 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to fight climate change"
-    excerpt: "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth’s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world’s most challenging"
-    publishedDateTime: 2023-07-21T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
+  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
+    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
+    publishedDateTime: 2023-07-20T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
     images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64b673590474016a2e1ac5a9_Nidia_Dias__Sustainability_04%20(2).jpg"
-        width: 1280
-        height: 720
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
+        width: 690
+        height: 400
         isCached: true
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "NYC Using AI To Track Subway Fare Skippers"
-    excerpt: "The NYPD made 601 arrests and passed out 13,157 summons for fare evasion in the fourth quarter of last year. Those numbers came after the MTA announced plans to dramatically increase the presence of law enforcement underground, in large part to deter larger-scale crimes."
-    publishedDateTime: 2023-07-22T20:14:00Z
-    webUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01kHrNkw0Veu0X7olZeIH3x-1.fit_lim.size_1200x630.v1690056803.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Businesses look to self-regulate the use of AI in hiring"
-    excerpt: "Over a dozen large, global companies and BBB National Programs developed a self-regulatory framework for companies using AI in hiring to protect privacy and prevent bias."
-    publishedDateTime: 2023-07-21T06:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring"
-    ampWebUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 57
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI can help fight climate change and injustice — if it doesn’t make them worse, first"
-    excerpt: "UC Riverside study suggests many technology companies are wasting resources and repeating historic patterns of injustice as they build out AI systems."
-    publishedDateTime: 2023-07-23T14:01:00Z
-    webUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/"
-    ampWebUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 52
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/07/RPE-L-AICLIMATE-0722-01.jpg?w=1024&h=610"
-        width: 1024
-        height: 610
-        isCached: true
-  - title: "NYC subway using AI to track fare evasion"
-    excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
-    publishedDateTime: 2023-07-20T14:09:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-subway-using-ai-track-fare-evasion-rcna93045"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
-  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
-    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
-    publishedDateTime: 2023-07-20T10:43:00Z
-    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
+    quality: 41
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
         width: 800
         height: 400
         isCached: true
-  - title: "MTA using artificial intelligence to tackle fare evasion"
-    excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
-    publishedDateTime: 2023-07-21T02:40:00Z
-    webUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion"
-    ampWebUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
+  - title: "How AI is bringing film stars back from the dead"
+    excerpt: "Celebrities such as James Dean can be brought back to life thanks to artificial intelligence, but it is raising troubling questions about what rights any of us have after we die."
+    publishedDateTime: 2023-07-19T14:52:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20230718-how-ai-is-bringing-film-stars-back-from-the-dead"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 37
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1l1xg.jpg"
+        width: 624
+        height: 351
+        isCached: true
+  - title: "Generative AI bots will change how we write forever — and that’s a good thing"
+    excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
+    publishedDateTime: 2023-07-22T13:01:00Z
+    webUrl: "https://thehill.com/opinion/technology/4107998-generative-ai-bots-will-change-how-we-write-forever-and-thats-a-good-thing/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 16
 
 secured: "WJJ6WXANPwP9UOn/KWyR336p/GJLkfgRDQxVhaHShRCRPk2RtCiYj0Bb2SFo+KU5qKrhHJu/aBIZOXoxINP/fcf2cuKpzTS00ga6qE7zwzXKFBtD0mNQ4r1fqCCtD0IMeYbbt/zI+a0pB9K86GhVfagqRIQANe/cquQcUQXMHbFQztWs7IKZJCirQmHmvlaRPS36yZvg7m976tF2QqhG0OAdwY1dMc54JZoGTDDW4TunKBkFy0EpV9BPFBQ1Hz8aoHhra3YQ2iWXHiOpZOdH1X9Bpe4n88ZNFjTkygkttq9I0DVeFEhuazHENnjswZc5tT3Z1jhwRN/P6I6jWR4E6T1eh8NB9CdXyFCwCi4B2+s=;LOmWMH6hD8ank3NT8mvWKQ=="
 ---

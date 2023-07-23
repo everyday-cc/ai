@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artif
 webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,54 @@ images:
     width: 690
     height: 400
     isCached: true
+
+related:
+  - title: "How AI Is Changing The Way We Communicate"
+    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
+    publishedDateTime: 2023-07-19T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "How AI is bringing film stars back from the dead"
+    excerpt: "Celebrities such as James Dean can be brought back to life thanks to artificial intelligence, but it is raising troubling questions about what rights any of us have after we die."
+    publishedDateTime: 2023-07-19T14:52:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20230718-how-ai-is-bringing-film-stars-back-from-the-dead"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1l1xg.jpg"
+        width: 624
+        height: 351
+        isCached: true
+  - title: "Generative AI bots will change how we write forever — and that’s a good thing"
+    excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
+    publishedDateTime: 2023-07-22T13:01:00Z
+    webUrl: "https://thehill.com/opinion/technology/4107998-generative-ai-bots-will-change-how-we-write-forever-and-thats-a-good-thing/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 16
 
 secured: "uhSJCDWbCmmvUTCR5JmhqciF7FufeSGCcPFmFubdfAjgy1yfqAQzT+uRWGu3v3IyIA0oAQyzWiF8NeNsNsAr04ZSQqcqmJRVV9CIGqIF6/dhf2Imiht6vFL9R1TnvfvkjbXjaqmiJwfJfIX+ojW6WTOzDSCinCeESlBbbLirUwhd7Bul0V51krraxsTC3gNDhWpPTmvqJM/EUuV0/34SjQTL5kjV7K168X8yb83bDxZmsAkCBjPnxKBYHc0us0GefMAFCPmMncVlbSxGZT+WjVuS8cZogY1enC67C7OqbJplIndbY3SV2j/kUb204tNuVpVq7zNy7VQQqEuUatJFLDGqDXVz73JR1L81Xa27/VwGE0If/do6XTMqJ/QN5CtuAVpzvJkzoGNYTn5CDDU1bCgCjThRctmMZXhwvceitNOFB9+9fMMvjsk+LMg/ya+c5MCVjpItTjPp/qEsOfYhewgpEWfjtGK1vHLraC71kMutfk4pm5zSjrM0voltzBASmFJHcMLPVOdO3jy9nPYL8g==;sCtFTd42rtZszWnTL2WD9g=="
 ---

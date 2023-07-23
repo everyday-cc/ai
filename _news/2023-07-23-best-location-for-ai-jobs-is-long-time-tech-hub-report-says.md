@@ -18,38 +18,38 @@ topics:
   - AI
 
 related:
-  - title: "Tech giants join forces on AI"
-    excerpt: "Kate Pounder, Tech Council CEO, said “in this time of high inflation and low productivity growth, our economy needs a productivity shot in the arm. “The report shows the enormous potential for generative AI to catalyse growth and innovation across a wide range of sectors, shaping a prosperous future for our nation.”"
-    publishedDateTime: 2023-07-19T03:44:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/tech-giants-join-forces-on-ai.html"
+  - title: "Barbers calls for strict regulation of AI tech"
+    excerpt: "Surigao del Norte Rep. Robert Ace Barbers on Sunday  urged policy-makers in the legislative and the executive branches to urgently"
+    publishedDateTime: 2023-07-23T14:11:00Z
+    webUrl: "https://manilastandard.net/news/national/314352833/barbers-calls-for-strict-regulation-of-ai-tech.html"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
+      name: manilastandard
+      domain: manilastandard.net
     quality: 39
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/Microsoft%20Chairman%20and%20CEO%20Satya%20Nadella%20announces%20Meta%20Llama%20AI%20joint%20venture%20to%20partner%20attendees%20at%20Microsoft%20Inspire%202023.jpg"
-        width: 1000
-        height: 563
+      - url: "https://manilastandard.net/wp-content/uploads/2021/03/9c4da_barbers-robert-ace.jpg"
+        width: 450
+        height: 302
         isCached: true
-  - title: "UW School of Computing Makes Joint Hires in Artificial Intelligence and Big Data"
-    excerpt: "The University of Wyoming’s School of Computing has taken a major step toward its goal of creating a statewide, national and global impact with the hiring of tenure-track faculty members in applied artificial intelligence/machine learning and big data."
-    publishedDateTime: 2023-07-19T17:38:00Z
-    webUrl: "https://www.uwyo.edu/news/2023/07/uw-school-of-computing-makes-joint-hires-in-artificial-intelligence-and-big-data.html"
+  - title: "Be prepared for AI technology, PH urged"
+    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
+    publishedDateTime: 2023-07-23T16:36:00Z
+    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
     type: article
     provider:
-      name: University of Wyoming
-      domain: uwyo.edu
-    quality: 32
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
     images:
-      - url: "https://www.uwyo.edu/_resources/images/explore-university1.png"
-        width: 622
-        height: 426
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "UN holds first-ever talks on artificial intelligence"
-    excerpt: "Secretary-General Antonio Guterres said Tuesday artificial intelligence (AI) has enormous potential for \"good and evil\" at scale and urged the international community to approach this technology with a sense of urgency,"
-    publishedDateTime: 2023-07-19T04:57:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1205926"
+  - title: "Solon seeks creation of agency to tackle AI threats"
+    excerpt: "A Mindanao legislator on Sunday called on the country’s policymakers to create an agency that would tackle issues confronting the rise of artificial intelligence.Surigao del Norte 2nd District Rep. Robert Ace Barbers said the agency should be tasked to craft and"
+    publishedDateTime: 2023-07-23T11:25:00Z
+    webUrl: "https://www.pna.gov.ph/articles/1206224"
     type: article
     provider:
       name: pna

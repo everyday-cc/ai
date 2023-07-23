@@ -25,21 +25,74 @@ images:
     isCached: true
 
 related:
-  - title: "Help Wanted: Philosophers, Teachers, Artists To Design Tomorrow’s AI"
-    excerpt: "Dand, CEO of Lighthouse3 and an advocate for greater diversity in AI, challenges the notion that artificial intelligence is mainly"
-    publishedDateTime: 2023-07-19T04:58:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/19/help-wanted-philosophers-teachers-artists-to-design-tomorrows-ai/amp/"
+  - title: "Hype, Fright And Ethics In Implementing AI"
+    excerpt: "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways."
+    publishedDateTime: 2023-07-23T20:56:00Z
+    webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b76c74ab7cac59ed5b79a0/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bd914505a8958614d98958/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 642
+        isCached: true
+  - title: "Application Of Artificial Intelligence For Implementing Work Tasks"
+    excerpt: "According to the IDC report, global spending on the artificial intelligence (AI ... people and actions in images and videos in security systems and self-driving cars. • Data Analysis: Used to predict future events and trends in marketing, as well ..."
+    publishedDateTime: 2023-07-19T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b695ca0ac602a9705f1dc3/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Using AI to fight climate change"
+    excerpt: "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth’s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world’s most challenging"
+    publishedDateTime: 2023-07-21T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64b673590474016a2e1ac5a9_Nidia_Dias__Sustainability_04%20(2).jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Claude 2 Promises Huge AI Potential With Human Rights And Ethics To The Fore"
+    excerpt: "A ChatGPT rival that claims to be able to police itself according to the United Nation’s Universal Declaration of Human Rights has launched in the UK and U"
+    publishedDateTime: 2023-07-19T15:57:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/business/software/claude-2-ai-with-human-rights-ethics/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "AI in banking, payments and insurance"
+    excerpt: "Algorithms are already being used to check payment balances, detect suspicious transactions, and optimise insurance pricing"
+    publishedDateTime: 2023-07-20T04:00:00Z
+    webUrl: "https://www.ft.com/content/15ae2b65-7722-4870-8741-b0ddcd54a534"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8fad3db-cec2-47ef-805b-001af0deb12b.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "wa9Z2E4KJ38mEvl3+mRNwHLWtFOkLaUk/cOZ632uIrvna0iSmeTtYj7tR84NcsiEq3UV73BuJxKniYrFk8bJZI9AFCfw+XyqXktP6aYv1S2rsO5Zthe22Yoiad9JjcdaEEDY7nKBaMAoiHsy9Mdk6GHgxpcyWC26GaYwGKhaSw2qiXuaStI0HXT/c7MAfcWHhYWED18ZpUm1YkAlTw589f+5v14mNmiBg+KWfTBIC2K/sCNXVIg1KyEcLyJBUP7X+iIy9d0c1+ospbBAL0WlD3cro0knMIENGJ6bh0gE3iFW/baj6OlTUZpNDK32ayg47pYE2eU/QHJQLwnAjNM5sRQ7Z9zIYHneTv4ALGpF4UEuqHWNuU0vzv0hPOdcUOwJ3Ubc7xuiMC2z7vZYptaRql9VFUk/sedT3iixrtnWtMoocJOj8tRV27tUfyIyk7E38XRyd2xckdT0tZw7r5CkkoCsZFTYYQehfrHPGc8uPBtdamyKoLkgtHlmWlbJEZ1I9VfiYRFF2b49ov58bhpmkQ==;NfhG+VrSjhQUHOGBbvmUDA=="

@@ -456,6 +456,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
+  - title: "Kpmg And Microsoft Enter A Landmark Agreement To Put Ai At The Forefront Of Professional Services"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory."
+    publishedDateTime: 2023-07-23T19:27:00Z
+    webUrl: "https://menafn.com/1106651961/Kpmg-And-Microsoft-Enter-A-Landmark-Agreement-To-Put-Ai-At-The-Forefront-Of-Professional-Services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
 
 secured: "ZXRvnOIO9M/iwuzefj5qIIgR9JpBTc2hOhO0VdlAi7G4hD757hlgpzrq95qajTYjU2sV/bA/5C8DZbpa5kp/bMWsvXN+rZ1Lf5MTUpcWsIPynF9UX5JPLx7zqt8DsKWlvo2XMzhyQ+2f114N6XXI9y7avaEJoBbPQYEfhXoZr1is3g9RjEgvYLqxCYC0KuvLwig9G4aPWvdoAGSlPRP7Pn1dF7giG2wxQU6fNij7xjeEemPVA09FMcPtWpFgVq6gg3ewJ83yYDnnJ+nabwnLV9BLajwpp3CIf1YNUokjhEraRB0bsqnNjBfKoljkW+D2vdi/ZW6vRCosGYynfvNLStjCGEBmJ346eOPaqF9+veE=;RdMvQ+tkydRsmUJf5ZmamQ=="
 ---

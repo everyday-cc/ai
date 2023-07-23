@@ -19,40 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Visa calls on fintech founders for accelerator programme in SA"
-    excerpt: "“Through the Visa Africa Fintech Accelerator, Visa is committed to driving financial innovation, fostering entrepreneurship, and supporting the growth of Fintech ecosystems across Africa,\" comments Otto Williams, senior vice president, head of product, partnerships and digital solutions for Visa CEMEA."
-    publishedDateTime: 2023-07-21T11:25:00Z
-    webUrl: "https://www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk"
-    ampWebUrl: "https://www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/africa/visa-calls-on-fintech-founders-for-accelerator-programme-in-sa-ls6fxfwk?amp=1"
+  - title: "The Essentials Of Blockchain Technology In Fintech"
+    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
+    publishedDateTime: 2023-07-20T08:24:00Z
+    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YTA3MjVlZWEtODUyZC00/1/1365234911.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Visa, Plug and Play partner on Africa Fintech Accelerator programme"
-    excerpt: "Global payment platform Visa has partnered with Plug and Play, an innovation firm, to roll out applications for startups for its Kenya breaking news | Kenya news today |"
-    publishedDateTime: 2023-07-19T06:25:00Z
-    webUrl: "https://www.capitalfm.co.ke/business/2023/07/visa-plug-and-play-partner-on-africa-fintech-accelerator-programme/"
+  - title: "One to Buy: Why SOFI Stock Is a Compelling Pick in the Booming Fintech Space"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors have enjoyed a strong year with the Nasdaq Composite Index up 35%,"
+    publishedDateTime: 2023-07-20T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
     type: article
     provider:
-      name: Capital FM
-      domain: capitalfm.co.ke
-    quality: 4
-  - title: "Visa calls on fintech founders for accelerator programme"
-    excerpt: "Visa has pledged to spend $1bn in Africa by 2027 and initiatives like the Africa Fintech Accelerator helps the payments giant achieve that goal, while also strengthening the continent's payments ecosystem. The programme is focused on startups operating in Africa and will run over 12 weeks twice a year with up to 20 startups per cohort."
-    publishedDateTime: 2023-07-20T12:34:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/837/240349.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+  - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
+    excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
+    publishedDateTime: 2023-07-22T17:10:00Z
+    webUrl: "https://www.crypto-news-flash.com/hive-crypto-miner-uses-ethereum-rigs-and-ai-to-make-ordinals-art-on-bitcoins-blockchain/"
     type: article
     provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 4
+      name: Crypto News Flash
+      domain: crypto-news-flash.com
+    quality: 10
 
 secured: "dHldVL0yKij9Ni3H6AxzdKC9jRNVA2Y97Sl08gL+wHcy1G8tlH/bVdcQ2g2S3EYa3SDAkm7e1F34kvZdlXaHQ6VA626njbwdK+vDbjTrrMqZ/m47kcdB4KouFYh5fT8sAwr3gpm06Gq3B0MyxqWRj8TIoTx9kot0aCG2j/jv3XAjCCCHMb/V3SAFOIhvKVjV3CR/vXPzhT5McGvYECVumrWBRCTGHvNuqhPlUyvwz9aB9/KeYAgfibFMkSPzm2FZBnr4Q6wYWrosaB5hu6U/OMh7YwYhtdNwzedBLAkOECZmu40vO0HUzetPwJXDbinhTtoFyt8s7XPDmWdov1ESb6QLnEF5TRNPI/4o+k9y1k0AOhKwgTXgD5FZ0YnYl9ifEa2db3UgByex71//HUsG4etYsqfbEqKZsQZS+mgwK5wvbBRV14oQ7dhSer4bhlaJQal9gngCFCAEVSn5AbWpSw+y4wWNbXAbfp+6ZWd17KDc2iZdgVrEEH3Sl0QTlO3yBBVxtUvB+vi5zv9YaXGFgQ==;M7qcXoec0CVzWauzifXLJw=="
 ---

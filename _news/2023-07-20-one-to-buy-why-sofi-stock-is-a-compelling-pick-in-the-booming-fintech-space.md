@@ -46,6 +46,15 @@ related:
       name: Crypto News Flash
       domain: crypto-news-flash.com
     quality: 10
+  - title: "Applications Open For The Visa Africa Fintech Accelerator Program"
+    excerpt: "Startups building in fintech and payment space in Africa are encouraged to apply through the Visa website for a chance to access training, connections, technology, and investment opportunities"
+    publishedDateTime: 2023-07-21T12:50:00Z
+    webUrl: "https://iafrica.com/applications-open-for-the-visa-africa-fintech-accelerator-program/"
+    type: article
+    provider:
+      name: iafrica
+      domain: iafrica.com
+    quality: 4
 
 secured: "wb4wQ0nK5AYxS3O5o0payjlev/LzpiCMrkfs5btPGlsCP10lLurNwAjI1PtnZEYE12/h9thzQZ1M8NkUNTaA+V2xVGH/bC58ffjV8wgGA4ieJmlLcdaTzW1NlUjY3CzGyopRx/ei3+iKugvpO5qcgSoq5pSpFcqgi+knWHVqgR8lVDHNsdNnzGXTxZqi3STsTIjsBGqYrlQsyDE6GHUIz/Qq5xjWfievZVqlQ+vN3xC++oEU/sLsaeCuauWph5qDctoMy9O1C4K/L7fSoRlg0DJqI1bJcFSAuyr5QtlNM+gcuKT2Ha3VIsim/RoMCPChMomBMoGLdDIbkLfMyHHa/gdF6wUG6LEkumar3qIv82A=;A9IJrdRvu2GyBNtUKrthaA=="
 ---

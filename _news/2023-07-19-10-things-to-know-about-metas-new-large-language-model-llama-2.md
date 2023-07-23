@@ -92,15 +92,6 @@ related:
         width: 860
         height: 510
         isCached: true
-  - title: "Meta has launched a new, open-source AI model"
-    excerpt: "In addition to Microsoft, the social media company is launching Llama 2 with partners including Amazon.com Inc., Nvidia Corp. and Zoom Video Communications Inc., Ahmad Al-Dahle, the company's vice president of generative AI, said in a LinkedIn post."
-    publishedDateTime: 2023-07-19T02:04:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/18/meta-unveils-new-open-source-ai-model.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "MpnQPCZhP3M/t1kJeYtGtiQ53R5HJ83Uu4FpkHjeS6bzmygTUMgHcuB8z+36pcrwNIhKTosRnImWGdbgrS8n3x4+JNeiXWDoI4RbVujXr5qVyvDH/2CQKkFZFGfMDs2KK0FfnS1UUvg8QUu/7f2rsKX5PWe5uZd6t/cLasHBym2i9Ihgy2YBmzkiHPNiKsrOCGnRLnvMBUdfg26aB6HpcJpzj3/kiNhdrc2i8u6YJpfmtbHM4xyPZuSPka7d+mdmHXT21TILOxRJcSlSntKQHotb6aOEunkNaNHBQ/DxR4oMShf1OcE0WHbHcPwfV1AKTyOjdnsgP02x8hWy9LqL36Upmnm7xEWoL3hB7YGjVEgj8yIhwpz5M9QarvrnyT+EPH5nDQDGFNqcNbVMp/iDro2jsypuW287fe0kqJiZY68+zo4KcZOIaNI3ldCiAqH+igm4X1yX+c4+shvWFe8n3mJ31uY2Qzzkjnj/4HNVcBCFX9xkMWSXcAf5rlSUX8embQGJuEWoQOnekjHOYbUcag==;246fZkh1QoCiLWICaL/0ag=="
 ---

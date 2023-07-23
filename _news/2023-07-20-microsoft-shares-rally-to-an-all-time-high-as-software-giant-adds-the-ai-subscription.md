@@ -456,6 +456,15 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 31
+  - title: "Kpmg And Microsoft Enter A Landmark Agreement To Put Ai At The Forefront Of Professional Services"
+    excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory."
+    publishedDateTime: 2023-07-23T19:27:00Z
+    webUrl: "https://menafn.com/1106651961/Kpmg-And-Microsoft-Enter-A-Landmark-Agreement-To-Put-Ai-At-The-Forefront-Of-Professional-Services"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
 
 secured: "aG4vMxGKObdIKh47eB+k/eu9lkxiut8A0W4Jr7GHl8twKv6wLDQA/bLEX2GyeOi+Kb/5zzEK0tOZMRjbxwlsMKWWoe/wcVl04xY1dYxcQ/XAKKJfnIOdprHDLzYAqNk4y/feExW7d+GmyKOUQpbTgT5angXCNabLvxZmbvUAsNns60aoAJGLA0p9jEaGmSii/ppTeuvB84yOnGbsvZZECANT1dtzsYxzcjUP5sLYMy8GzZ4WbzoUxYEfvS+C2apu7novo/RJsqTSQ/PdQoJbEdnF+oBKqWHCX1ZajEc071SvoKGbbHQoPjDbipWzCVRy7GDq6x+8LeMIgk9G2dd79feOpKFsJnObbiPnvrmmBAU=;hxqyCxZOqB4QwTzmsMBwaA=="
 ---

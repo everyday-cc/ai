@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
 webUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: PC Magazine
@@ -28,75 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to fight climate change"
-    excerpt: "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth’s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world’s most challenging"
-    publishedDateTime: 2023-07-21T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64b673590474016a2e1ac5a9_Nidia_Dias__Sustainability_04%20(2).jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "Businesses look to self-regulate the use of AI in hiring"
-    excerpt: "Over a dozen large, global companies and BBB National Programs developed a self-regulatory framework for companies using AI in hiring to protect privacy and prevent bias."
-    publishedDateTime: 2023-07-21T06:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring"
-    ampWebUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 57
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI can help fight climate change and injustice — if it doesn’t make them worse, first"
-    excerpt: "UC Riverside study suggests many technology companies are wasting resources and repeating historic patterns of injustice as they build out AI systems."
-    publishedDateTime: 2023-07-23T14:01:00Z
-    webUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/"
-    ampWebUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 52
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/07/RPE-L-AICLIMATE-0722-01.jpg?w=1024&h=610"
-        width: 1024
-        height: 610
-        isCached: true
-  - title: "How AI Is Changing The Way We Communicate"
-    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
-    publishedDateTime: 2023-07-19T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "NYC subway using AI to track fare evasion"
     excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
     publishedDateTime: 2023-07-20T14:09:00Z
@@ -106,20 +37,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
-  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
-    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
-    publishedDateTime: 2023-07-20T10:43:00Z
-    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "MTA using artificial intelligence to tackle fare evasion"
     excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
     publishedDateTime: 2023-07-21T02:40:00Z
@@ -131,6 +48,20 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 37
+  - title: "New NYC Law Restricting Artificial Intelligence-Driven Employment Tools Reveals What’s to Come"
+    excerpt: "Up until now, employers have been able to use artificial intelligence (AI)-powered hiring and promotional tools without worry about compliance with AI-specific laws. On July 5, 2023, that changed. New York City passed Local Law 144, legislation restricting ..."
+    publishedDateTime: 2023-07-19T19:31:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-nyc-law-restricting-artificial-6808542/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 25
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12641_1216.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "htoJxV+tSzsuU97jonZuP8mqHy9JWxW4ZciEZiqTXpih6WFsJWsYCwztxl3bRYyb0/b8vnEvxhNsAZgyI/mHLeOAddbuZqRCH3hn3A5S4KzWG6caMxqm1Y3kR9o0+jhjxjKJgK2HneDJK3fHPVV4Ts5hoW/kJYC/zcT09Co9jlUvOMfXuxyIbT7/z3kKWH6qSxj89Phw1ntn+m6m7f5gYTaHDt4Pq4uh6qqP6j1QW5Xyd4DJ/rDzpaFxrBanqguzyATPNRdGMF6fzVS0Od60a69trUGRprbkLa4GVDoU/9cWatrj2MAD/h9pT11jJQoY3b1ptTnBJsFTQPDaBSXDilbzNCokWpMjjUccvUDClehixNN1zCQqkpcOgFSPU7gX8TiAxLotHVtw6qNEyJyiC9jyBhpKvwnTqFPQ9+M+f9+M3abbq5jMzhc+eK9QdfoW7Qu48T72SkOgEe88B2jQPf9x9YFLmypXj4BF+q25zjjTkld5glEUTrtcU7oK0hzVeRfLFO8jD5Z0u78D5M2axg==;ugrDC1MubzP1v7v+gvY5Ng=="
 ---

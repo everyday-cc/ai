@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Claude 2 Promises Huge AI Potential With Human Rights And Ethics To The Fore"
-    excerpt: "A ChatGPT rival that claims to be able to police itself according to the United Nation’s Universal Declaration of Human Rights has launched in the UK and U"
-    publishedDateTime: 2023-07-19T15:57:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/software/claude-2-ai-with-human-rights-ethics/"
+  - title: "Artificial Intelligence on the Battlefield: Lawmakers weigh the risks and benefits of military AI"
+    excerpt: "“The country that is able to most rapidly and effectively integrate new technology into warfighting wins,” Alexandr Wang, CEO of Scale AI, said. “If we don’t win on AI, we risk ceding global influence, technological leadership and democracy to strategic adversaries like China.”"
+    publishedDateTime: 2023-07-20T21:37:00Z
+    webUrl: "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/"
+    ampWebUrl: "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: WFTV
+      domain: wftv.com
     quality: 61
+    images:
+      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/jTXM2HgirZ1osy9b2haXNugKkyc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ZIBS2YHKN5D6LH6IIG3OIY6NHE.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "X5Lth0BzlpAYBltSsZnX3qA/5YV3MA6fSCKnUPv2eFsAzH7Q9oJ66Gi1MV8Eff3Kv5WLVuAQKMPFKnkGYWiK2nSRUSkrEhjchGmCzRWHxUzvXd2w6zvgiQGguRz5aDhPmqBEFHosLUEdH/lhvSnIyBes+mLebfmd5zIHLiMOlHPgzaAAZNS2Rvf3av4hdn7TlFcCxuGPYPzG3ddD+AQ1WdqkkYKEOhU46tMSPKjS3/Tx1F6UdZlLFWdZGlk6vwdbwXqI7PKJuKBNby1L5vl1HRXDJ3MR3lyHSsYSB2JKq6mAT186vwbKL7CEaMc3JH+vdRnsoN5HlO1zioNKkKrn2zh49EWpw7vzcaCrNTWBDKvbU2ULfHo+CBTgH7v7R27msvyzbwIErghHdCKB5b7IyXFDyNLUMg605i719mvXZpyg1kMPke3EJ4mbEepjCnWC47GXnb5G1jUM6ilM1G3ln0y2q6JiGr7nmbCJq7xjYB7FS3ng2pmSkExOsy/jH1DQdODJdyNojMPcPzlZJvhStg==;H9K2MaYcMfND23oM/y1/qQ=="
 ---

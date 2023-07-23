@@ -43,22 +43,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'Get on board, Ben': Anthony Albanese snaps back at Ben Fordham for raising 'red herrings' on the Voice to Parliament during fiery interview"
-    excerpt: "Prime Minister Anthony Albanese has told Sydney 2GB radio host Ben Fordham to \"get on board\" and accused him of raising \"red herrings\"  about the Voice to Parliament's scope after a heated exchange about the referendum on Wednesday morning."
-    publishedDateTime: 2023-07-19T01:16:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/get-on-board-ben-anthony-albanese-snaps-back-at-ben-fordham-for-raising-red-herrings-on-the-voice-to-parliament-during-fiery-interview/news-story/ab90f8747559ed29f82a7d8c0cb73e87"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/get-on-board-ben-anthony-albanese-snaps-back-at-ben-fordham-for-raising-red-herrings-on-the-voice-to-parliament-during-fiery-interview/news-story/ab90f8747559ed29f82a7d8c0cb73e87?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/get-on-board-ben-anthony-albanese-snaps-back-at-ben-fordham-for-raising-red-herrings-on-the-voice-to-parliament-during-fiery-interview/news-story/ab90f8747559ed29f82a7d8c0cb73e87?amp"
+  - title: "Indigenous voice to parliament supporters say Anthony Albanese shouldn’t delay referendum"
+    excerpt: "Voice co-architect and senior Australian of the Year Tom Calma says the referendum must be held this year and a delay will not change the will of the people, as Anthony Albanese is told to “go the course” by Yes advocates."
+    publishedDateTime: 2023-07-23T11:33:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 24
-    images:
-      - url: "https://content.api.news/v3/images/bin/ee27905061a903c290ed402cc59350d2"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 15
 
 secured: "FWO2BD8Gn1Wjb9xTXDmoY/yPcDrS81YBVaOEKGuu0Kw1rdCngxlPOn+HsC1NUemhldM/9CaFmAlpRjNSkEvxJN8UmlNVV+qfZsOOjwn3HWog846ZsXGniFqxHWxyKRv7IGcLCH5wz4PdUaWU7Oy3Agom9f/N1ws7PmwcEqbIFl1oV3J7RxKsZ/dFnvIkgXVjYYe1GzO9soR0H/C42JUKUthwflwibk7lSaFmjSAEOX5/0cg0yAbcyZqmxcDC26eqRGE5S5q24YRmRD1XT6EfZ4tzagFNwigX+HJf9dQhN3pS9exEtbnXYk2Hb/b41Vq1VDrhdB0gDNHcD/7DakJ+xxYaI/yVCLjuEPT2XtzUEXE=;n5mw0f0cfaiv25syu9IwHA=="
 ---

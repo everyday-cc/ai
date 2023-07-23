@@ -7,8 +7,8 @@ originalUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
 webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
 type: article
 quality: 89
-heat: 173
-published: true
+heat: -1
+published: false
 
 provider:
   name: DeepMind
@@ -29,109 +29,75 @@ images:
     isCached: true
 
 related:
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "NYC Using AI To Track Subway Fare Skippers"
-    excerpt: "The NYPD made 601 arrests and passed out 13,157 summons for fare evasion in the fourth quarter of last year. Those numbers came after the MTA announced plans to dramatically increase the presence of law enforcement underground, in large part to deter larger-scale crimes."
-    publishedDateTime: 2023-07-22T20:14:00Z
-    webUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01kHrNkw0Veu0X7olZeIH3x-1.fit_lim.size_1200x630.v1690056803.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Businesses look to self-regulate the use of AI in hiring"
-    excerpt: "Over a dozen large, global companies and BBB National Programs developed a self-regulatory framework for companies using AI in hiring to protect privacy and prevent bias."
-    publishedDateTime: 2023-07-21T06:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring"
-    ampWebUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 57
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI can help fight climate change and injustice — if it doesn’t make them worse, first"
-    excerpt: "UC Riverside study suggests many technology companies are wasting resources and repeating historic patterns of injustice as they build out AI systems."
-    publishedDateTime: 2023-07-23T14:01:00Z
-    webUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/"
-    ampWebUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 52
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/07/RPE-L-AICLIMATE-0722-01.jpg?w=1024&h=610"
-        width: 1024
-        height: 610
-        isCached: true
-  - title: "How AI Is Changing The Way We Communicate"
-    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
-    publishedDateTime: 2023-07-19T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
+  - title: "Hype, Fright And Ethics In Implementing AI"
+    excerpt: "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways."
+    publishedDateTime: 2023-07-23T20:56:00Z
+    webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "NYC subway using AI to track fare evasion"
-    excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
-    publishedDateTime: 2023-07-20T14:09:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-subway-using-ai-track-fare-evasion-rcna93045"
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bd914505a8958614d98958/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 642
+        isCached: true
+  - title: "Application Of Artificial Intelligence For Implementing Work Tasks"
+    excerpt: "According to the IDC report, global spending on the artificial intelligence (AI ... people and actions in images and videos in security systems and self-driving cars. • Data Analysis: Used to predict future events and trends in marketing, as well ..."
+    publishedDateTime: 2023-07-19T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/application-of-artificial-intelligence-for-implementing-work-tasks/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
-  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
-    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
-    publishedDateTime: 2023-07-20T10:43:00Z
-    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b695ca0ac602a9705f1dc3/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Claude 2 Promises Huge AI Potential With Human Rights And Ethics To The Fore"
+    excerpt: "A ChatGPT rival that claims to be able to police itself according to the United Nation’s Universal Declaration of Human Rights has launched in the UK and U"
+    publishedDateTime: 2023-07-19T15:57:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/business/software/claude-2-ai-with-human-rights-ethics/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "Preachers and artificial intelligence"
+    excerpt: "The world of artificial intelligence is expanding exponentially. AI’s infancy dates from the 1950s and 1960s, but it is now like an adolescent experiencing a sudden growth burst. ChatBPT and its siblings in the AI family are the rage in business, health care, education, and more. Including religion."
+    publishedDateTime: 2023-07-22T10:00:00Z
+    webUrl: "https://helenair.com/news/community/how-will-artificial-intelligence-impact-religion-sermons-and-preachers/article_707cab9c-264b-11ee-835e-1f5bdfe33511.html"
+    type: article
+    provider:
+      name: Independent Record
+      domain: helenair.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
-        width: 800
-        height: 400
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/7/07/707cab9c-264b-11ee-835e-1f5bdfe33511/64b80a593bd1e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "MTA using artificial intelligence to tackle fare evasion"
-    excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
-    publishedDateTime: 2023-07-21T02:40:00Z
-    webUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion"
-    ampWebUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
+  - title: "AI in banking, payments and insurance"
+    excerpt: "Algorithms are already being used to check payment balances, detect suspicious transactions, and optimise insurance pricing"
+    publishedDateTime: 2023-07-20T04:00:00Z
+    webUrl: "https://www.ft.com/content/15ae2b65-7722-4870-8741-b0ddcd54a534"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
+      name: The Financial Times
+      domain: ft.com
     quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8fad3db-cec2-47ef-805b-001af0deb12b.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "hc1MfTfUUs3CoVhTujC7VMomHNVzYXbgWqvB+YMLDIVB8ZWcqZRgq39lFsQXsAoqWHLpm9ksBT2D2fW4yJFqNEbuXpK3AUIQEZOMTeIwkV+gtnyFSZjfN1DzI9e8KSPj26RvWdXET1TCoiN7I4cSEu9Zl0/BzQUVbMCOJGpsk+cAcwTezafNtiQA+V9brmaPX13a1+GUUqOWsfINQev4qq6SpbQiXBmAeJaQm0CN7cA2xvNnO3dm5IJuLOWUuhMK4pV+oEFnvSX7As68RGxmvXrhN5CF7UDPDXCeE/8XssREKCq04P5oA1dl+THDJRtNv2bGl8UjezwPnqNytSdtBpO/UsCkCojaBSFfzX7xMa4=;kS/aZI0H4IOamoQs9wZw7Q=="
 ---

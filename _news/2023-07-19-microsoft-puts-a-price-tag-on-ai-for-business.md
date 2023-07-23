@@ -97,22 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta and Microsoft Team Up to Distribute New AI Software for Commercial Use"
-    excerpt: "Announcement, coupled with details of Microsoft’s pricing plans for artificial intelligence in some software, underscores rapid AI development at big tech companies"
-    publishedDateTime: 2023-07-19T03:43:00Z
-    webUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use-11689691313329.html"
-    ampWebUrl: "https://www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/meta-and-microsoft-team-up-to-distribute-new-ai-software-for-commercial-use/amp-11689691313329.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 72
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/18/600x338/microsoft_1689696711251_1689696724070.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Google, Microsoft face off in AI healthcare race"
     excerpt: "Tech giants Google and Microsoft are pushing into the healthcare industry with generative AI, creating medical chatbots, integrating AI into EHRs."
     publishedDateTime: 2023-07-19T15:40:00Z
@@ -126,20 +110,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Meta and Microsoft launch open-source AI model Llama 2"
-    excerpt: "Meta and Microsoft have teamed up to release Meta’s latest AI model Llama 2 which was built specifically for and made freely available to enterprises and researchers."
-    publishedDateTime: 2023-07-19T01:15:00Z
-    webUrl: "https://cointelegraph.com/news/llama-2-open-source-ai-model-launched-by-meta-microsoft"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 56
-    images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNGVmY2NkNmEtMjg5Ny00NTY4LWIwNzMtMWI1YzYwODcwNTc3LmpwZw==.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Meta launches AI language model for Microsoft and Amazon cloud users"
     excerpt: "Meta isn’t charging for access or usage of the model it developed. Instead, by opening up the technology to other companies, Meta says it will benefit from improvements that can be made when more developers use,"

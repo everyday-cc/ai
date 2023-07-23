@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New data shows tools artificial intelligence could add billions of dollars to the Australian economy"
-    excerpt: "Your daily ten minute finance and business news wrap with SBS Finance Editor Ricardo Gonçalves."
-    publishedDateTime: 2023-07-19T02:46:00Z
-    webUrl: "https://www.sbs.com.au/news/podcast-episode/new-data-shows-tools-artificial-intelligence-could-add-billions-of-dollars-to-the-australian-economy/e65oqkedu"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/4b7fda3/2147483647/strip/true/crop/1242x699+0+53/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F8b%2F66%2F439abda94a7ebf878891d4bb38fd%2Fpodcast-sbsnews-shorts-1242x804-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Scientists Working on Merging AI With Human Brain Cells"
     excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
     publishedDateTime: 2023-07-23T12:32:00Z

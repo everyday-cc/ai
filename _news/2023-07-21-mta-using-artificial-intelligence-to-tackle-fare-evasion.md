@@ -20,34 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Using AI to fight climate change"
-    excerpt: "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth’s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world’s most challenging"
-    publishedDateTime: 2023-07-21T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64b673590474016a2e1ac5a9_Nidia_Dias__Sustainability_04%20(2).jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "NYC Using AI To Track Subway Fare Skippers"
     excerpt: "The NYPD made 601 arrests and passed out 13,157 summons for fare evasion in the fourth quarter of last year. Those numbers came after the MTA announced plans to dramatically increase the presence of law enforcement underground, in large part to deter larger-scale crimes."
     publishedDateTime: 2023-07-22T20:14:00Z
@@ -62,47 +34,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Businesses look to self-regulate the use of AI in hiring"
-    excerpt: "Over a dozen large, global companies and BBB National Programs developed a self-regulatory framework for companies using AI in hiring to protect privacy and prevent bias."
-    publishedDateTime: 2023-07-21T06:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring"
-    ampWebUrl: "https://www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/businesses-look-self-regulate-use-ai-in-hiring.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 57
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/eca6cb1e-298c-4c91-8e3a-53277594fd5c/c3ff455f-155b-4271-abf1-b51c7360fff8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI can help fight climate change and injustice — if it doesn’t make them worse, first"
-    excerpt: "UC Riverside study suggests many technology companies are wasting resources and repeating historic patterns of injustice as they build out AI systems."
-    publishedDateTime: 2023-07-23T14:01:00Z
-    webUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/"
-    ampWebUrl: "https://www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/07/23/ai-can-help-fight-climate-change-and-injustice-if-it-doesnt-make-them-worse-first/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 52
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/07/RPE-L-AICLIMATE-0722-01.jpg?w=1024&h=610"
-        width: 1024
-        height: 610
-        isCached: true
-  - title: "How AI Is Changing The Way We Communicate"
-    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
-    publishedDateTime: 2023-07-19T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "NYC subway using AI to track fare evasion"
     excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
     publishedDateTime: 2023-07-20T14:09:00Z
@@ -112,19 +43,19 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
-  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
-    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
-    publishedDateTime: 2023-07-20T10:43:00Z
-    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
+  - title: "New NYC Law Restricting Artificial Intelligence-Driven Employment Tools Reveals What’s to Come"
+    excerpt: "Up until now, employers have been able to use artificial intelligence (AI)-powered hiring and promotional tools without worry about compliance with AI-specific laws. On July 5, 2023, that changed. New York City passed Local Law 144, legislation restricting ..."
+    publishedDateTime: 2023-07-19T19:31:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-nyc-law-restricting-artificial-6808542/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 25
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
-        width: 800
-        height: 400
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12641_1216.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "vGR9APAfW5cxIHzfKRtfyQq/dIkiRx8khA9Ktzb3sy5OtSrkaXvila0JnupiNJ8SfQ+bnAnzbKwPHdzB34pui0bg58FyCT2fraw7MIGvRhjQqV5Hk5jhSgiRU61/vwIQU1KajWDQBv+Bjo+QmkbNJo784kfnEmChzlQJekoCgi2XvF+Raj+oJP5dHz2DGEsbXEfbapKKao0kk213ZC2J9YavS/+FghYuisrrs8F8bx/Vxq+OjgYZJ+HQFH12eJoKZhkul3oPDUQwmJi4+jQ07inqj0SKBhrf5TXiJjLZo6ioc0wfJ1ASXZGnGlm/d4EvmwXYhDfMPtVraZTuN8fKJEdtChkWu5BAlAvPlNhDhIvzx4OTMYm+ctgnd6QC4M1mth7oGesS2DMHgioI7nSf9kNDclys5hPqFy5xIjJDX8HQI5PVZaw6O4s5ZbzryM0Q0WaS4KYG79EHtQaxoVLCwdWH+swJGb8lnj2BoJMA4jkpFo+J3r7Dgw4sDiws/ZLVVpNkXU6aHDYKkrrw8ERkCg==;Fmqlco3cY3hia2QE4ParzQ=="

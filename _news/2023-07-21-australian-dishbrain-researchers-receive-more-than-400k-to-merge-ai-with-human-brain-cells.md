@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/australian-dishbrain-researchers-receiv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/70420681b7fde739ca852ab9e9b16a3fcb68b7d3/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=1fc8edf07129ba981895400bae2efe34"
         width: 620
         height: 372
-        isCached: true
-  - title: "New data shows tools artificial intelligence could add billions of dollars to the Australian economy"
-    excerpt: "Your daily ten minute finance and business news wrap with SBS Finance Editor Ricardo Gonçalves."
-    publishedDateTime: 2023-07-19T02:46:00Z
-    webUrl: "https://www.sbs.com.au/news/podcast-episode/new-data-shows-tools-artificial-intelligence-could-add-billions-of-dollars-to-the-australian-economy/e65oqkedu"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/4b7fda3/2147483647/strip/true/crop/1242x699+0+53/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F8b%2F66%2F439abda94a7ebf878891d4bb38fd%2Fpodcast-sbsnews-shorts-1242x804-2.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Scientists Working on Merging AI With Human Brain Cells"
     excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."

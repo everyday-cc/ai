@@ -1019,6 +1019,50 @@
       ]
     },
     {
+      "path": "_news/2023-07-12-leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing-and-generative-ai-feedback-assistant.md",
+      "title": "Leading Experiential Marketing Platform, AnyRoad, Announces Pinpoint: New Natural Language Processing and Generative AI Feedback Assistant",
+      "excerpt": "AnyRoad, the leading platform for data-driven experiential marketing, today announced Pinpoint, a new AI-powered feedback assistant that helps you understand exactly what",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33200674/leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33200674/leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33200674",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33200674",
+      "publishedDateTime": "2023-07-12T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-how-google-translate-used-ai-to-decipher-the-worlds-oldest-language-in-minutes.md",
       "title": "How Google Translate used AI to decipher the world's oldest language in minutes",
       "excerpt": "Akkadian, the language of the Akkadian Empire that thrived in present-day Iraq during the 24th to 22nd centuries BCE, poses unique challenges for translation.",
@@ -1365,58 +1409,6 @@
         "AI in Robotics",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-ai-will-change-your-work-significantly-heres-how-to-respond.md",
-      "title": "AI Will Change Your Work Significantly: Here’s How To Respond",
-      "excerpt": "AI will shift things fundamentally—including the content of work, the work available and who’s doing it. You’ll need to be aware, ready and responsive to what’s coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
-      "originalUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64aa095b9866235e854c321c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
-      "publishedDateTime": "2023-07-09T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
