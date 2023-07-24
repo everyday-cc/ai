@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab"
-excerpt: "To learn more about Asure’s HCM software solutions, please visit www.asuresoftware.com."
+excerpt: "The post Asure Software (NASDAQ: ASUR) Partners With Amazon Web Services (AWS) Application Modernization Lab appeared first on Spotlight Growth."
 publishedDateTime: 2023-07-11T14:43:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ASUR/pressreleases/18404845/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ASUR/pressreleases/18404845/"
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/18404845/asure-software-nasdaq-asur-partners-with-amazon-web-services-aws-application-modernization-lab/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "Q0nHA4QzOhW9ZSrx7lh+9PypAKyZLQ8wMt0Za04hbtO1w9b3Mb+q2+cMiDmHGjFZBK645gVnZt/uiiACxmxDDtxZBqkt21/z6z9RwO7kVDtHstaxOP5A58MBEqY2wg5E4mIDfwsDV7zfgbEJ1L4VrgNITvC/jnw7/uwk/9t81a8c1DbE5XeXAFR082Cl094LYt0JsjJF/INleY0AkwRlia+RYLtbxmI3d0SgDRkpqg+ZF0lCggG3L1RRTtnbexc5iXyMtbr6rIgwF1akJ7qHzTGRumWGKb0kJny/7W4cMe/sVaabcxTEz2IgNOMyDUhqibk5S2tBF6tzL5LGxHk6VXEpLQ+GPaDQOQMJNGucVGU=;+5XvPGU3s9Loap45VVdiNg=="
+secured: "EW9wrqtPz27ppJXqQD0jLPfRaN0NE1qLFJJfOrhr6ou4cs13QVjst+xuWq57C2iA94B1FnvZ6DVINJyAzTQ4qQdWkBbSxVaF9Jk1RnI5I426Vpuft7wHIL7oa9Y69/2u0sfqIBhUu/b8CjTF1Ong/AKp3nTKYTEsoOYwx6NZhnsrLnTNacLmpvV/Cksjp4xfnFdhlDokWnlEQejm18YYKSBQ15Dhhc2k/8lSDRDuFHjjUi/H9EtB8aWOgRgTf386apmlEYRVQxCoyXadD+oH2WBVR4/v1FdfEIYM9yeiVmhUY5iMbG+2v9A/AOVk7T/PREKub6xAzKEtMGOuWiGvK5UWQrRO/iRSujmSg8l+VLY=;fl+iuArEhSlBljUYznNaqA=="
 ---
 

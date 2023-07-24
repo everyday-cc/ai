@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/19/sap-invests-in-generative-ai-start
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/19/sap-invests-in-generative-ai-startups-anthropic-cohere-and-aleph-alpha/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Anthropic CEO to Testify at US Senate Hearing on AI Regulation"
-    excerpt: "An annual defense bill is expected to have many AI-related provisions including a report on AI regulation in the financial services industry."
-    publishedDateTime: 2023-07-19T06:24:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 56
-    images:
-      - url: "https://i.gadgets360cdn.com/large/canthropic_reuters_1689747892578.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "SAP Announces Major Investment in Aleph Alpha, Anthropic, and Cohere to Advance Responsible Business AI"
     excerpt: "SAP SE announced the next step in its commitment to deliver Business AI that's relevant, reliable and responsible,"
     publishedDateTime: 2023-07-19T19:38:00Z

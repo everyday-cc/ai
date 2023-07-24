@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Seven AI companies agree to safeguards in the US"
-excerpt: "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology."
-publishedDateTime: 2023-07-21T23:04:00Z
-originalUrl: "https://www.bbc.com/news/technology-66271429"
-webUrl: "https://www.bbc.com/news/technology-66271429"
-ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
+title: "🎥 Biden: Tech firms agree to artificial intelligence safeguards"
+excerpt: "The four tech giants, along with ChatGPT-maker OpenAI and startups Anthropic and Inflection, have committed to security testing “carried out in part by independent experts” to guard against major risks, such as to biosecurity and cybersecurity, the White House said in a statement."
+publishedDateTime: 2023-07-23T11:00:00Z
+originalUrl: "https://hayspost.com/posts/a893dfec-aa27-497f-86ec-8add57361638"
+webUrl: "https://hayspost.com/posts/a893dfec-aa27-497f-86ec-8add57361638"
 type: article
-quality: 87
-heat: 397
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hays Post
+  domain: hayspost.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg"
-    width: 1024
-    height: 576
+  - url: "https://media.eaglewebservices.com/public/2023/7/1690031862167.png"
+    width: 898
+    height: 678
     isCached: true
 
 related:
+  - title: "Seven AI companies agree to safeguards in the US"
+    excerpt: "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology."
+    publishedDateTime: 2023-07-21T23:04:00Z
+    webUrl: "https://www.bbc.com/news/technology-66271429"
+    ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Leading AI companies commit to outside testing of AI systems and other safety commitments"
     excerpt: "Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content,"
     publishedDateTime: 2023-07-21T09:00:00Z
@@ -327,20 +337,6 @@ related:
         width: 360
         height: 360
         isCached: true
-  - title: "🎥 Biden: Tech firms agree to artificial intelligence safeguards"
-    excerpt: "The four tech giants, along with ChatGPT-maker OpenAI and startups Anthropic and Inflection, have committed to security testing “carried out in part by independent experts” to guard against major risks, such as to biosecurity and cybersecurity, the White House said in a statement."
-    publishedDateTime: 2023-07-23T11:00:00Z
-    webUrl: "https://hayspost.com/posts/a893dfec-aa27-497f-86ec-8add57361638"
-    type: article
-    provider:
-      name: Hays Post
-      domain: hayspost.com
-    quality: 37
-    images:
-      - url: "https://media.eaglewebservices.com/public/2023/7/1690031862167.png"
-        width: 898
-        height: 678
-        isCached: true
   - title: "Amazon, Google, Meta and others agree to AI safeguards set by White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by"
     publishedDateTime: 2023-07-21T17:35:00Z
@@ -438,6 +434,6 @@ related:
       domain: abcnews.go.com
     quality: 10
 
-secured: "XXPqPROD7CQR+xVqI7YaOXmUvPiz6nL1RlgknIw7XJFeG6YMCCercgzeLtmepImoE2BCLr/m2gdbvMmwcbQIjxe52tWwF9LCvefCwWyPL77b3nppXeYCI8V6+uOX0J5VrDlgNJvlHOgTmkzoY0Ji4org3fms1jY4j9ABDJQfmKldZ8bCK3BsC2RIw7PsKGcXPMIcFLdpIRLUTyYixzmgltI/lkvEOBazvJXIxWMRbAfekgO/2aSrzBbk/xE8z1cCb8El+Pdl8cH9L3k2ofOfMnIMck3qvp2CCo54I+Xx3ovrh4amH4lhSjsRpdIEswvlG2xbvHGoZrPEYwpYrpqTjuFVFu+nWBbrOU3AbLrKG79jqYdh8qaIMNjuvZ6lDS9qtzB09WedjrVDaw2nax+AHWdozaZEgb3cL2n2e0pUhI1KeC9NOeg5QYkP2XHNKFUeIYP0HHr0t7e2ck5ZyqfFtiBlDG2svOR29ZKqOFalyb7tG2xeoh2lbnhw9gC91VzYr7aJaDbxGo6w3mEpv/ObFQ==;5PeWsgZ5FlFln7ryU/L0Iw=="
+secured: "29N4/CsPVYeeijQPcrV4B0LaBK9ldab80EKLnVE8sfrKzhe8JQvgdwGfQXHr0YiBsaFPzlQ5GD3Xh07QbBu/lU4IyPmifa4arhZCdwoeyL8RnPA/YyHRy2U8ZvyHk6u2zAsrzWadLJYNSdnw0pqeMpYBLlWq0QfxPlaOCT7OJysekPjq0Vo+6S8IJ7XqbABVlFMgbZjBwVmVBqIW2cnXsVKCHCKIR78uwsxnj6Gz6Z4M64Np5YHCoQsPm17ZVbUzVM/vIU5tlsHrNvqdZnfwJTlqRnsNrK/SU+FQoRXxIY9JLV3QOUZvPMhp8DSI7OiVNWzIhIXJfWxgs8YWmIr18lRgEZg4QgkBGP6soYgcpow=;UzOGJNMWCieNaoDvm3SYdg=="
 ---
 

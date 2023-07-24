@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Startup Anthropic CEO to Testify at US Senate Hearing on AI Regulation"
-    excerpt: "An annual defense bill is expected to have many AI-related provisions including a report on AI regulation in the financial services industry."
-    publishedDateTime: 2023-07-19T06:24:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-regulation-anthropic-ceo-dario-amodei-testify-us-senate-4221084/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 56
-    images:
-      - url: "https://i.gadgets360cdn.com/large/canthropic_reuters_1689747892578.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "lFi14Wkch9epZ4O2EpaZueaFghHG3a7NNCfE3QKuBzyOHk80VliQFv7FBPsuGM3avFJoAtuT+qpy90x4DTABqD3VjygYtvwyJmmKa65ejy5Kdsq5X1l3jgcvCQbf/B/UQ2FUkQifgdi8eWArLU5pc+TayHnfzc/dUEKD7+glCpH1yygrp2uky9QSOyteNSOLmokZRaPOnY88MTXXLYR+69rHsVXwKZTstOTNGNgdmPImCKy2b2/1NUd4RwtzRI6sAjnwBUVSktVcB1D7R1+gjn1gLN9zFB+Y4qItY1AXKr+foyZGa3pfmufSNY4lqmDzAzRFqSX5l7Qt5zX8uyLshWvpfO04iQEM3rFAQ1xOeCKPARGI2XwNpW2rXB2NcW8TcWMOXZmp0DDd3v7tAbNnY9difnWq3MBvIcIAWM/DL5HdRqMR9g/KgPNSRNTRiNVkHv2pcKj/MQoj54feHktOnlevFZ+5jAU7GyFgsmZWh/IyCmPLRdUCIvieIfNMCThbamqmnhUTcc7BFJ2vMD9nwg==;1a1viTmc4Fe+Wg+dERHQuw=="
 ---

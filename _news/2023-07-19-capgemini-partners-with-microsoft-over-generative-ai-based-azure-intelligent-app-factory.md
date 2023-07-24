@@ -103,17 +103,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Meta launches AI language model for Microsoft and Amazon cloud users"
-    excerpt: "Meta isn’t charging for access or usage of the model it developed. Instead, by opening up the technology to other companies, Meta says it will benefit from improvements that can be made when more developers use,"
-    publishedDateTime: 2023-07-19T05:11:00Z
-    webUrl: "https://mybroadband.co.za/news/software/500755-meta-launches-ai-language-model-for-microsoft-and-amazon-cloud-users.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/500755-meta-launches-ai-language-model-for-microsoft-and-amazon-cloud-users.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/500755-meta-launches-ai-language-model-for-microsoft-and-amazon-cloud-users.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 56
   - title: "The AI Launch Pushing Microsoft Higher"
     excerpt: "Shares of Microsoft jumped almost 6% on the Copilot news, setting an intraday record of $366.78. Microsoft is being ruthless to maintain its position as an early leader in AI. But the other seats at the top table are still up for grabs."
     publishedDateTime: 2023-07-20T20:13:00Z
@@ -151,20 +140,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 44
-  - title: "Meta Partners with Microsoft to Release Llama-2"
-    excerpt: "At Microsoft Inspire, Meta and Microsoft partnered to release Llama 2, the cutting-edge iteration of their renowned open source LLM, LLaMa."
-    publishedDateTime: 2023-07-19T05:46:00Z
-    webUrl: "https://analyticsindiamag.com/meta-partners-with-microsoft-to-release-llama-2/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/llama.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft increases channel exposure to AI"
     excerpt: "Vendor rolls out fresh specialisation encouraging the channel to embrace the benefits artificial intelligence can deliver."
     publishedDateTime: 2023-07-19T09:45:00Z

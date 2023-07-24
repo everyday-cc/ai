@@ -337,6 +337,20 @@ related:
         width: 360
         height: 360
         isCached: true
+  - title: "🎥 Biden: Tech firms agree to artificial intelligence safeguards"
+    excerpt: "The four tech giants, along with ChatGPT-maker OpenAI and startups Anthropic and Inflection, have committed to security testing “carried out in part by independent experts” to guard against major risks, such as to biosecurity and cybersecurity, the White House said in a statement."
+    publishedDateTime: 2023-07-23T11:00:00Z
+    webUrl: "https://hayspost.com/posts/a893dfec-aa27-497f-86ec-8add57361638"
+    type: article
+    provider:
+      name: Hays Post
+      domain: hayspost.com
+    quality: 37
+    images:
+      - url: "https://media.eaglewebservices.com/public/2023/7/1690031862167.png"
+        width: 898
+        height: 678
+        isCached: true
   - title: "Tech giants including Amazon and Meta agree to Biden’s artificial intelligence safeguards"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies leading the development of artificial intelligence (AI) technology have agreed to meet a set of safeguards brokered by the Biden administration."
     publishedDateTime: 2023-07-21T09:52:00Z

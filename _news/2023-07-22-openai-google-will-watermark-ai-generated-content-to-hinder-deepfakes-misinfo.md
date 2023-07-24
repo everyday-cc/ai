@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-g
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: Ars Technica
@@ -30,36 +30,38 @@ images:
     isCached: true
 
 related:
-  - title: "Why some celebrities are embracing Artificial Intelligence deepfakes"
-    excerpt: "The actors' union has warned that \"artificial intelligence poses an existential threat to creative professions\" as it prepared to dig in over the issue. However, Ms Yeo is not worried. She is one of a growing number of celebrities embracing AI-generated advertising."
-    publishedDateTime: 2023-07-19T05:41:00Z
-    webUrl: "https://www.bbc.com/news/business-65995089?at_ptr_name=twitter&at_format=link&at_link_id=10274002-25DA-11EE-8AC6-24053AE5AB7B&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial&at_link_origin=BBCWorld"
-    ampWebUrl: "https://www.bbc.com/news/business-65995089.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65995089.amp"
+  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
+    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
+    publishedDateTime: 2023-07-21T08:03:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: Reuters
+      domain: reuters.com
+    quality: 64
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/059E/production/_130183410_aaaaqfa3b6haqofh7zbfvipolgbt5ku-bkndsttedaciktjwhjrzthlpww-0afeimombx7zejjqxdcvapy9mlypgrzx84cf8pmal_uic1h_fmqmfjpbs_md0xsmqfs_hkd-h8hp31a7smho7bioqm0t0mnbb.jpg"
-        width: 1024
-        height: 576
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Singapore actress and model Jamie Yeo has embraced AI deepfakes"
-    excerpt: "Singaporean actress, model and former radio DJ Jamie Yeo has no problem with being deepfaked. In fact, she signed up for it. \"It's a bit like that Black Mirror episode with Salma Hayek,\" Ms Yeo jokes."
-    publishedDateTime: 2023-07-19T06:27:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/business-66242058"
+  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
+    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
+    publishedDateTime: 2023-07-21T13:00:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/EF38/production/_130204216_jamie.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: The Verge
+      domain: theverge.com
+    quality: 43
+  - title: "Tech Giants Make ‘Voluntary’ Pledge To Develop Responsible AI—Including OpenAI And Google—White House Says"
+    excerpt: "The companies have committed to share more information, boost transparency and develop tools to flag AI-generated content, though it’s not clear how compliance to the voluntary code will be enforced."
+    publishedDateTime: 2023-07-21T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/07/21/tech-giants-make-voluntary-pledge-to-develop-responsible-ai-including-openai-and-google-white-house-says/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 29
 
 secured: "ttwzkc+mZq7fKOdwGYjxNlq2pii9UgTQQ+w6PC10dczRXmaH7UUM8CX1lA4ik/zGzxfYHZ2GzGLWnOUYewNcPiG7nt9I5XXxKC/dSNk67am4wmjgTcoEpXCVxX0Ir4MdkvoLGlgsAdzSbupTi7ceLU/azp0TSqmhmQzgSs0nvQiA3UrnR+FCj4IP4zGrWvXdbfNEvxpvbgX+ItcvmxAmm4ZXCC3vXiM6FHrCERTOc+RKEtAf3W6Ku07ZNxIExiNY+Hw52Y28WXmh6Zwjnpqv1dmNdwVoXDAo7QBCMc4Wn2rAOSH3t33iA/lyHywvioISL5rUdveBSmbS33jlXXOsi4EAALQSeesT3LJULtgHNEe0NsPpp+1sQStrLYIUln1FBAfCH6bmbA+zAVKJWIxUJPQN6jZfiCr/K8xW0bNUzGGyZLa9IDQ9iQVMqGXb4QROu+ktVEvucamqTdmftyDN6egSiA8/JTnA2bBZPWyGS889dhfAyTsC99xjs5mvOKxcIvOwIYhn04311oRwIY/dUg==;NQT2iwsje65RzBOygTXiNg=="
 ---

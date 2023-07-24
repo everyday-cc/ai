@@ -209,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -260,7 +260,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -467,7 +467,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -656,7 +656,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-66271429",
       "featuredContent": null,
       "highlight": null,
-      "heat": 387,
+      "heat": 397,
       "tags": null,
       "images": [
         {
@@ -758,7 +758,7 @@
       "originalUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -991,6 +991,57 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo.md",
+      "title": "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo",
+      "excerpt": "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/",
+      "originalUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg",
+          "width": 800,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/",
+      "publishedDateTime": "2023-07-21T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers.md",
       "title": "Sarah Silverman vs. AI: A new punchline in the battle for ethical digital frontiers",
       "excerpt": "Generative AI is no laughing matter. Every company that touches consumer data needs to develop and enforce an ethical use policy for gen AI.",
@@ -1051,7 +1102,7 @@
       "originalUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1179,57 +1230,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-this-barbie-ai-tool-turns-you-into-a-barbie-movie-character-sort-of.md",
-      "title": "This Barbie AI tool turns you into a Barbie movie character (sort of)",
-      "excerpt": "Warner Bros and Photoroom, an AI-based photo app, collaborated to create a Barbie Selfie Generator, which lets users upload a selfie and transform it into a Barbie movie character's poster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "originalUrl": "https://www.zdnet.com/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/70775f51b0e65f1fc3a0c4a68812c9f6b4476177/2023/07/21/0bc0b301-9260-4cb3-8c04-1b887d1af7b1/gettyimages-1543944233.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-barbie-ai-tool-transforms-your-selfie-into-a-barbie-movie-character-poster/",
-      "publishedDateTime": "2023-07-21T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

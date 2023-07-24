@@ -22,20 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "The new open source AI full-stack platform challenging OpenAI (and supporting LLaMA 2)"
-    excerpt: "Together, a year-old startup, has released a full-stack platform for developers to build open source AI, in a challenge to OpenAI's dominance"
-    publishedDateTime: 2023-07-19T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/the-new-open-source-ai-full-stack-platform-challenging-openai-and-supporting-llama-2/"
+  - title: "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo"
+    excerpt: "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes."
+    publishedDateTime: 2023-07-21T17:10:00Z
+    webUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/Vipul-with-Logo.png?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg"
+        width: 800
+        height: 574
         isCached: true
+  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
+    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
+    publishedDateTime: 2023-07-21T08:03:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Tech Giants Make ‘Voluntary’ Pledge To Develop Responsible AI—Including OpenAI And Google—White House Says"
+    excerpt: "The companies have committed to share more information, boost transparency and develop tools to flag AI-generated content, though it’s not clear how compliance to the voluntary code will be enforced."
+    publishedDateTime: 2023-07-21T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/07/21/tech-giants-make-voluntary-pledge-to-develop-responsible-ai-including-openai-and-google-white-house-says/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 29
 
 secured: "m7jN1F/SGf0EsfUbm5uga8AygnOjQZC4Vo7qU/Gg2ZCZVHPTISzswKLhJgUxgk7fSSsiNuK/R9yHNMovghTPkfgmbqPGZ2Oci8EN1jUFC63Ln/xhV5ahTlbxWdOZ4uoji2othL5SdZzGdocCq9xr51jDdBQWZcWy03Y/QO+Es8MSdqaziqieVcJck4N/8eCNu/C6B1CHTH+1ozldwypnwCmaNJdjj45g7GHR4vgXenRvKLkuCk2VisScQA5XqDX5ZAV/FMmq3SdkRHZ6IacvXP74gGptfwxCn4J3CZSM765lBlYD7cT9vdwmHNvhAPI52B4abV58iT5TMyL4xheEb0cza4ss5dG4j7FPbNskVDMQ2CPtLiWJZBPKtQAWsVl/7uyhutPCTBDdwzIje7b3NM2IOTWmVMMVN3pqS9ZdpD4spmn9mLrtVgUny1puM0seBC0v/Crei0EHU1/8/FSdYJS40GGijPcnZ7HpTUB0fBNHuua8+OvTh8I93EzOvSR/R7d1Q64E1OZbhToRZzwhpA==;O9nYZEw+SodR3vDguemwIQ=="
 ---

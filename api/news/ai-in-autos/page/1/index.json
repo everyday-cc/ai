@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -404,7 +404,7 @@
       "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -694,7 +694,16 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/KiAjhPgxvrVmiRZ-T63JBOTvjRI=/2500x1406/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/54RIEB5NTVG73FNGCTH6TGQMWU.png",
+          "width": 2500,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -714,7 +723,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1196,8 +1206,8 @@
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
       "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1216,11 +1226,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
+      "publishedDateTime": "2023-07-13T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
+        "name": "The Indianapolis Star",
+        "domain": "indystar.com",
         "images": null,
         "publishers": null,
         "authors": null
