@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 155
 published: true
 
 provider:

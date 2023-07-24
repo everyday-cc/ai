@@ -5,6 +5,8 @@ excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK comp
 publishedDateTime: 2023-07-17T17:55:00Z
 originalUrl: "https://www.bbc.co.uk/news/technology-66166236"
 webUrl: "https://www.bbc.co.uk/news/technology-66166236"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Google AI
   - AI
 
-secured: "2Z7HPOxIMojDVUbidh7yYKcHQiWMh4Bp8jszIbJb9kvyD9kIIuuHjCZX0VlgLyrQoh4lTzvmExdJejRbK3fMBj4hfnfkscvijr+jyNV/15mWHunixOVKRdUWVeJ261GVSrepDlA837hrzM8W9VQgvm0yPRr6ZBxb7WW2hOa0BENUhqCDkijs17dyXijtW4FoGP9XT5lb0A6c0N1m67iB/Ithw6hK2mBqbn3QUOFI9fmsG90gf7ovw6NRMPQLRe3f37NbaA1ncs5Yfk0OStMta/1vYhV/BFpATxAP0TBpOPbVSz46uGfmukXw1RbBC3fvQx6aTgxlrd6Uy4XeMu5ADDAeI5iEidf+MLbPXjoZ9Uc=;jgXpdEEnvSYUVl/Pi5bBgA=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "YoU6I4DYUt2a1FH3fTDxMO2VOUHQWlWAkBbeeRZhK268qNnlCO7uIbF0IFhQj+d+0RqYsfs5Xa16JVGNT6dvx42uSC/XdLGSCVmA/AeYiCkVlTyEFBkw52EXqpNiUYzukhaT3KGoxi2LREwbCXQkh79iJSBrLAFfnDviSmGEwiWlxY4RoOxNa5O0hL3E+wGZEVYbtdffnq39cTbAH9pFx5XOHvwe2vfQfxG/Pe4MVPeIXF0Aaio8cA4bW+6G3Bbq5MTViQYOMe/O++MvePfqGGZLif1lU8i/DBmlKV/ITooJfaDICRyZUT+2LkpsowmvNJnWbGP7dkDfsp+Aus/XR0QJTRBMKSb51CwmtKfuCYg=;obIpV/qSnIoI0pXGDhNCOQ=="
 ---
 

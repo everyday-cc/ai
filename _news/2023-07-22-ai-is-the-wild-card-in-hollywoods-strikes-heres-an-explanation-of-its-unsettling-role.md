@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
+    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
+    publishedDateTime: 2023-07-23T08:07:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
+        width: 620
+        height: 372
+        isCached: true
   - title: "How Hollywood Is Avoiding Robot Overlords"
     excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
     publishedDateTime: 2023-07-20T21:49:00Z
@@ -58,15 +74,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
-  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
-    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-    publishedDateTime: 2023-07-23T04:01:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 7
 
 secured: "Q9LvUcBZ18dqVhXxqVpKorKQbXVKvM3duiNAuQnuyrL7V+pylJlggvgVJfBsPLKcR/0EN5YzY/jpHa8gFNKL1F6jezcpHTJdMBMmaw/SyT65dofAiQcxqNpox2jLkh/fuMS155o6XpWlLgmjUF1GvurKOGceKdr3DqWa02armePqoVVwBld9TdS8gddX86A1YowbBNVSmQYmfvBtHvHVj+3RomJPu2/ofzsGa59TvRjP09icnmJItjYo3w5AmH0MOYcWs/ybNphOCraTpxQR2e9qWSlZZleBCrrqUXxeZtLjNb7bQ2mxdGN/TMELRBnPoA1HTXaDMa5fkM4InX+6Dd2Tw8tbUcsBKycT8kpjYN8=;k+1D63NNpn2vgIme4an8rQ=="
 ---

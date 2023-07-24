@@ -34,6 +34,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
+    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
+    publishedDateTime: 2023-07-23T08:07:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
+        width: 620
+        height: 372
+        isCached: true
   - title: "How Hollywood Is Avoiding Robot Overlords"
     excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
     publishedDateTime: 2023-07-20T21:49:00Z
@@ -57,15 +73,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
-  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
-    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-    publishedDateTime: 2023-07-23T04:01:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 7
 
 secured: "Qsez8tFpS1WwMBm7GY7/+NzyjIja0Zv/apV9XRgqivoLnHKv3kAuK388N8Fe7a8ZoIU4XYpqc2T1sJa5QwLQTWwD0gC7y0bp7pbbimTL+fv9PmTHlaEi+gK/XlDDrrtf4vvNfzwphKl8kO/hBSMTP7IDBXYaALm5ig5kC6wFB8798PlPyDMM/EB4uuTOgbjyC9DEEnRaEn+JyBM1qtYuImWbYP8YFj/A6RIxenoM7BCyhywygD+R3n/jv+QhcF/BwzZrTLDXGruwJ0MpbdsY/bNWpo+PEHWrOSGx9jr1M58rqCesEFgTfulBfYD+4+0TP/E/bRS8ojvEBGyflzmAmXY0It5Tez/7/51DRLSniygnVDVNFQaoJRlF3WZfrFYOCk54NMtne6ofRJF0DekuMdAgxE+IAWOCHwJsgS/HUcgEMRShj8cwrHIhZFvIxyetSTJu8UtweSVtYjOlYMI0/+RjTFauPCGDN3bpmS/Gv5Cy88ouSjkAaM3a0QjZzIQT6mD9Aqhq2S2xPAGG+f92mA==;djVgkLudfxLVx7YKw+T6DQ=="
 ---

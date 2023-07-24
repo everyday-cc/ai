@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Britain’s MI6 intelligence chief says AI won’t replace the need for human spies"
-    excerpt: "The head of Britain’s MI6 intelligence agency says artificial intelligence will never replace the need for human spies. Richard Moore will use a speech Wednesday in Prague to highlight evolving"
-    publishedDateTime: 2023-07-19T07:13:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/britain-s-mi6-intelligence-chief-says-ai-won-t-replace-the-need-for-human-spies/article_6f3d41f2-8a7c-5552-836d-c8996ee1eb81.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/8b/28be467c-fff5-5dcf-96b6-f2bf41637931/64b7868eb0852.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Britain’s MI6 chief says his spies are using AI to disrupt flow of weapons to Russia"
     excerpt: "The head of Britain’s MI6 intelligence agency says British spies are already using artificial intelligence to hamper the supply of weapons to Russia."
     publishedDateTime: 2023-07-19T14:56:00Z

@@ -236,20 +236,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Samsung Teams Up with Tesla for Next-Generation Full Self-Driving Chips Production"
-    excerpt: "Samsung Electronics Co., the global memory chipmaking giant, has revealed a new strategic alliance with Tesla Inc. to manufacture the automakers forthcoming Full Self-Driving (FSD) chips. Slated for inclusion in"
-    publishedDateTime: 2023-07-19T07:33:00Z
-    webUrl: "https://www.econotimes.com/Samsung-to-Supply-Tesla-with-Full-Self-Driving-FSD-chips-1659663"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 33
-    images:
-      - url: "https://f1.econotimes.com/2023/07/mv7n3g4h3x_th_1024x0.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
     excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."
     publishedDateTime: 2023-07-20T00:30:00Z

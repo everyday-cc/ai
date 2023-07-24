@@ -2,6 +2,41 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-05-31-aws-announces-general-availability-of-amazon-security-lake.md",
+      "title": "AWS Announces General Availability of Amazon Security Lake",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence.md",
       "title": "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence",
       "excerpt": "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output.",
@@ -1136,40 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-ai-leaders-warn-mitigating-the-risk-of-extinction-from-ai-should-be-a-global-priority.md",
-      "title": "AI Leaders Warn: ‘Mitigating the Risk of Extinction From AI Should Be a Global Priority’",
-      "excerpt": "A statement warning that AI needs to be taken just as seriously as a pandemic or the threat of nuclear war has been signed by OpenAI CEO Sam Altman, Google DeepMind CEO Demis Hassabis and other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewrap.com/ai-leaders-warn-artificial-intelligence-safety-threat/",
-      "originalUrl": "https://www.thewrap.com/ai-leaders-warn-artificial-intelligence-safety-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheWrap",
-        "domain": "thewrap.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

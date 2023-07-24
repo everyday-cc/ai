@@ -1,26 +1,26 @@
 ---
 category: news
-title: "A new era of AI Innovation: GPU-as-a-Service accelerates AI for the Telco industry"
+title: "A New Era Of Ai Innovation: Gpu-As-A-Service Accelerates Ai For The Telco Industry"
 excerpt: "to offer GPU-as-a-Service (GaaS) for AI. This ground-breaking partnership will enable telcos and their enterprise customers to easily deploy AI models within their networks, resulting in unique ..."
-publishedDateTime: 2023-07-10T06:19:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
-webUrl: "https://www.prnewswire.co.uk/news-releases/a-new-era-of-ai-innovation-gpu-as-a-service-accelerates-ai-for-the-telco-industry-301872565.html?gclid=EAIaIQobChMI"
+publishedDateTime: 2023-07-10T02:40:00Z
+originalUrl: "https://menafn.com/1106574870/A-New-Era-Of-Ai-Innovation-Gpu-As-A-Service-Accelerates-Ai-For-The-Telco-Industry"
+webUrl: "https://menafn.com/1106574870/A-New-Era-Of-Ai-Innovation-Gpu-As-A-Service-Accelerates-Ai-For-The-Telco-Industry"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2149923/A_new_era_of_AI_Innovation.jpg?p=facebook"
-    width: 2423
-    height: 1269
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?260854"
+    width: 444
+    height: 250
     isCached: true
 
-secured: "5TJQzsO/RKz296RrBh5jmKKNehKCGGetww6pW7x0/hc4rNVp4atnwuyac1DdCHDh0yNu4A+sOvG3pjl5LaK/iEhsk72Kxgje2OePvJmM4BPu1PSYxmbhLPu+V3P7q2OIZDXaHS+WWPBFzHC+2a760UjlM0UJVfrUir8KADuLoiaycso9MVG5KJazdq31Vm8N2tmKixcWBM37rHf7PKoc5pxI4jeggRY7SXMJOtwZV1Xhc+7pVOTUHu8JUYnPXyLHZVcXKUY1XKjgCNTkYEXqFVf4VQtxdmN6x9v4xkaJDtijbq0d+B8Xj5+nOCvvijIn1sx9laRFjYIOqgyA36NDt0dQvsKhJ0+Qcg36PgCVnis=;mrs0e2i1t518cW2pksyvBQ=="
+secured: "pDNjiCvfxIMvTPoHl2dtqfYuPN9sjMeBkugm/e1+o7o+zazHixNKlBjWyA4JCg6kZEO/QiHZXC4jTxGtwTQnvNh0o9SF7iuMETodCkOZkag5vuD525WbMbyrQ5R7I8Fi7Vu/PepTaMJRHloDOxi8Cq0geFmuUdlOAGqkPof7nq0yZiMcTPccelmQxhipKwf+JuwaNaKB1V/u/g67PXhTpx8fJsNWaXBVO8bRasuvXyP11QfewaX5KGos+WcazEmaZIAvGc/HitOElVtehha4WhJQbVLwLlUq1dkEG0elEroHDGjOAWfQIj/tvbCApatJhMojm0HxmyS1nxq503u1ke7easapZvwAJNYH2b2G6Tg=;VO2kjrb60h2Pazms20iYXQ=="
 ---
 

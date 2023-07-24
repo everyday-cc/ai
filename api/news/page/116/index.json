@@ -2,6 +2,57 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-05-09-accelerate-your-speed-of-business-with-ibm-event-automation.md",
+      "title": "Accelerate your speed of business with IBM Event Automation",
+      "excerpt": "IBM is announcing IBM Event Automation, a composable solution designed to help businesses put events to work.\nThe post Accelerate your speed of business with IBM Event Automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/accelerate-your-speed-of-business-with-ibm-event-automation/",
+      "originalUrl": "https://www.ibm.com/blog/accelerate-your-speed-of-business-with-ibm-event-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/amv-2021bcncloudbusiness20567.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee.md",
       "title": "IBM Watson Orchestrate: Unlocking new levels productivity for every employee",
       "excerpt": "IBM Watson Orchestrate is a cloud-based platform that helps companies empower their people to completely change the nature of day-to-day work for good. \nThe post IBM Watson Orchestrate: Unlocking new levels productivity for every employee appeared first on IBM Blog.\n",
@@ -1158,58 +1209,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023.md",
-      "title": "The Natural Language Processing (NLP) Software Market is Poised to Experience Huge Growth to 2023",
-      "excerpt": "Natural Language Processing (NLP) Software Market Size 2023 | New Report (120 Pages) | Analytics | In This Reports",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-natural-language-processing-nlp-software-market-is-poised-to-experience-huge-growth-to-2023-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

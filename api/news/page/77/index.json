@@ -2,6 +2,40 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-06-01-ionq-demonstrates-world-first-quantum-cognition-models.md",
+      "title": "IonQ Demonstrates World-First Quantum Cognition Models",
+      "excerpt": "IonQ (NYSE: IONQ), an industry leader in quantum computing, today announced results from its early research into applying quantum computers for modeling human cognition. The recently published paper describes the world's first publicly known method in which basic human cognition models have been run on quantum hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/06/01/9824736.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/06/01/9824736.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-driverless-trucks-on-california-highways-legislators-dont-trust-the-dmv-to-ensure-safety.md",
       "title": "Driverless trucks on California highways? Legislators don’t trust the DMV to ensure safety",
       "excerpt": "as human drivers of commercial vehicles face replacement by computer systems programmed with artificial intelligence. The Legislature handed driverless vehicle regulation to the DMV when it passed ...",
@@ -1094,57 +1128,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-crypto-rues-bitcoins-decoupling-from-ai-fueled-tech-stock-gains.md",
-      "title": "Crypto Rues Bitcoin’s Decoupling From AI-Fueled Tech Stock Gains",
-      "excerpt": "Crypto fans are now paying a price for Bitcoin’s weakened correlation with technology stocks. The top digital asset posted a monthly slump in May for the first time in 2023, while the Nasdaq 100 added almost 8% amid hype over artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/crypto-rues-bitcoin-s-btc-decoupling-from-ai-fueled-tech-stock-gains",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/crypto-rues-bitcoin-s-btc-decoupling-from-ai-fueled-tech-stock-gains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUwJ9FEJpp60/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

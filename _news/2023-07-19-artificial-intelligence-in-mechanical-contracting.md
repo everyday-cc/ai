@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "“Building Smarter: Discovering the Potential of 7 Artificial Intelligence Solutions in Construction”"
-    excerpt: "As we stand on the cusp of a new era powered by Artificial Intelligence (AI), we question how it can revolutionize construction. Can AI enhance our understanding of the critical path, resources, and equipment?"
-    publishedDateTime: 2023-07-19T08:50:00Z
-    webUrl: "https://techbullion.com/building-smarter-discovering-the-potential-of-7-artificial-intelligence-solutions-in-construction/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 22
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/Artificial-Intelligence-Solutions-in-Construction-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "tsD8nNUUKrkABQbnuKziWKoEn1qMW5cp0plej+CMjlxfmWH7JzDgO5efuufLhDTP/GeajVYcU3CwJJXpSwMnKd8jJmv4BWpWxlxOu9SMVLWnDnI350rEq+U3pjSCWvhY3iRO+LpPFzAq2yGzJC2lO6vvzMR1Yn7YlYd17JTIFe2LUU1+uxx3EGL5/NBNvoNVvw+6xxLcdXoD8ER5aRmb8OJ6WbyLtAR8KsOcCHQ7pYzD1kKftInQF8fW19ianVmtaje+uPXXeOnRNSglUY7OjZWqhfgOVe+cGEUnLoyzY+LA/GghufP2lNZ6fE2UNXBKJgEUat9taDbUlr0i+UF3KEhAr7Oty4XtV2Ld8p1MoO4=;yz/FfdNA8eSHSOep/p/EkQ=="
 ---

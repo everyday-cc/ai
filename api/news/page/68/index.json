@@ -2,6 +2,40 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-06-08-ai-can-help-doctors-with-breast-cancer-risk-predictions-a-new-study-found.md",
+      "title": "AI can help doctors with breast cancer risk predictions, a new study found",
+      "excerpt": "Artificial intelligence is being used in increasingly more areas and could now help predict breast cancer risks, a new study shows. The study, which used five AI algorithms, found that when put to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2023/06/07/artificial-intelligence-breast-cancer-risk-prediction/70297531007/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2023/06/07/artificial-intelligence-breast-cancer-risk-prediction/70297531007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-07-retrain-ml-models-and-automate-batch-predictions-in-amazon-sagemaker-canvas-using-updated-datasets.md",
       "title": "Retrain ML models and automate batch predictions in Amazon SageMaker Canvas using updated datasets",
       "excerpt": "You can now retrain machine learning (ML) models and automate batch prediction workflows with updated datasets in Amazon SageMaker Canvas, thereby making it easier to constantly learn and improve the model performance and drive efficiency. An ML model’s effectiveness depends on the quality and relevance",
@@ -1171,49 +1205,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach.md",
-      "title": "Can we achieve fairness in machine learning? UNC researchers have new approach",
-      "excerpt": "From facial recognition software to employment and interview pre-screening, algorithms have been found to reinforce systemic biases, exacerbating existing asymmetries and inequities rather than reducing them.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
-      "originalUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kenaninstitute.unc.edu/wp-content/uploads/2018/01/eric_ghysels-768x768.jpg",
-          "width": 768,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/06/07/can-we-achieve-fairness-in-machine-learning-unc-researchers-have-new-approach/?amp=1",
-      "publishedDateTime": "2023-06-07T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

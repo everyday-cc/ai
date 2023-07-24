@@ -7,8 +7,8 @@ originalUrl: "https://www.geeky-gadgets.com/ai-artificial-intelligence-myths/"
 webUrl: "https://www.geeky-gadgets.com/ai-artificial-intelligence-myths/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Geeky Gadgets
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Debunking AI Myths: 10 Common Misconceptions About Language Models"
-    excerpt: "It's important to stay informed in the age of AI. Here, we demystify language models, debunking misconceptions, biases, and limitations."
-    publishedDateTime: 2023-07-19T08:29:00Z
-    webUrl: "https://www.techopedia.com/debunking-10-ai-myths"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 39
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/brain_neural_networks_02.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Update: Artificial Intelligence (AI) and the Law"
     excerpt: "AI will play a bigger and bigger legal role, such as streamlining research and preparing decision drafts – but it can’t yet substitute for judges and trials."
     publishedDateTime: 2023-07-21T18:59:00Z

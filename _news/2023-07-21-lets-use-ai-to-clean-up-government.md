@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Factbox: Governments race to regulate AI tools"
-    excerpt: "Britain's competition regulator said in May it would start examining the impact of AI on consumers, businesses and the economy and whether new controls were needed. Britain said in March it ..."
-    publishedDateTime: 2023-07-19T07:16:00Z
-    webUrl: "https://www.reuters.com/technology/governments-efforts-regulate-ai-tools-2023-04-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/nt3VW7-m59OC92AMMqKOKxZT5u4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/26PNNN33MZOEHKBQQSZNQUORDI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How exactly should the government regulate artificial intelligence anyway?"
     excerpt: "An old saying goes like this: \"If it moves, tax it. If it moves too fast, regulate it. If it stops moving, subsidize it.\" Well, Artificial Intelligence is in that fast-moving stage, but no one"
     publishedDateTime: 2023-07-19T19:40:00Z

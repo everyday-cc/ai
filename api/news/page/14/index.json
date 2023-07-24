@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-07-12-our-three-month-generative-ai-transformation-lessons-learned.md",
+      "title": "Our Three-Month Generative AI Transformation: Lessons Learned",
+      "excerpt": "While generative AI is capable of incredible feats, leaders should start by thinking critically about how these new capabilities impact their companies’ visions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647df0780fbdf1afcd13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/12/our-three-month-generative-ai-transformation-lessons-learned/amp/",
+      "publishedDateTime": "2023-07-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-dutch-startup-taps-ai-and-robotics-to-automate-ev-charging.md",
       "title": "Dutch startup taps AI and robotics to automate EV charging",
       "excerpt": "Rocsys has created a robotic arm guided by AI-powered computer vision technology that can convert any charger into an autonomous one.",
@@ -1113,57 +1164,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.md",
-      "title": "Discord bans AI-generated child sex abuse material and teen dating",
-      "excerpt": "SAN FRANCISCO — Discord’s head of trust and safety said Tuesday that the popular chat platform was changing and clarifying its child safety policies including those around around teen dating and AI-generated child sexual abuse material, an announcement that comes after an NBC News investigation last month into child safety on the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107269952-16891123952021-03-31t175917z_1515270024_rc2hmm9fq8tq_rtrmadp_0_discord-audio.jpeg?v=1689112496",
-          "width": 3500,
-          "height": 2233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/11/discord-bans-ai-generated-child-sex-abuse-material-and-teen-dating.html",
-      "publishedDateTime": "2023-07-11T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

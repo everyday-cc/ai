@@ -65,22 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Capgemini partners with Microsoft over generative AI-based Azure Intelligent App Factory"
-    excerpt: "Capgemini has announced an Azure Intelligent App Factory, developed in collaboration with Microsoft, that aims to empower organisations to scale generative AI capabilities for their business. This solution is expected to see Capgemini and Microsoft combine ..."
-    publishedDateTime: 2023-07-19T07:49:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 80
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-19T131714.030.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft, Meta open AI model for commercial use"
     excerpt: "According to a Microsoft blog post, the new free-to-use model enables developers and organisations to build generative AI-powered tools and experiences. Llama 2 will be distributed by Microsoft through its Azure cloud service and will run on the Windows ..."
     publishedDateTime: 2023-07-19T09:34:00Z

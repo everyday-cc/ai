@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cas
 webUrl: "https://markets.businessinsider.com/news/stocks/the-top-ai-use-cases-in-the-healthcare-industry-highlighted-in-new-research-from-info-tech-research-group-1032460154"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
     quality: 58
     images:
       - url: "https://dmm0a91a1r04e.cloudfront.net/8kyZp4pGnkPE1sQ2RyONGj6jClw=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F20%2F9a3dc9e4-1dd3-47ad-9f61-f255f9ac36b3_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Policymakers who want to regulate AI need to start talking to health care industry representatives"
-    excerpt: "Health care deserves particular consideration because it presents a much broader spectrum of risks than most other uses of AI."
-    publishedDateTime: 2023-07-19T08:29:00Z
-    webUrl: "https://www.statnews.com/2023/07/19/medical-ai-regulation-health-care-industry/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 29
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/07/GettyImages-1500363054-1024x576.jpg"
         width: 1024
         height: 576
         isCached: true

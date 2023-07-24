@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Capgemini partners with Microsoft over generative AI-based Azure Intelligent App Factory"
-    excerpt: "Capgemini has announced an Azure Intelligent App Factory, developed in collaboration with Microsoft, that aims to empower organisations to scale generative AI capabilities for their business. This solution is expected to see Capgemini and Microsoft combine ..."
-    publishedDateTime: 2023-07-19T07:49:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 80
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-19T131714.030.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google, Microsoft face off in AI healthcare race"
     excerpt: "Tech giants Google and Microsoft are pushing into the healthcare industry with generative AI, creating medical chatbots, integrating AI into EHRs."
     publishedDateTime: 2023-07-19T15:40:00Z

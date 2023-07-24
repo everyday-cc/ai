@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/video/us/politics/100000009007123/ai-regul
 webUrl: "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html"
 type: article
 quality: 67
-heat: 139
+heat: 137
 published: true
 
 provider:

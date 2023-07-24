@@ -17,11 +17,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?515233"
-    width: 375
-    height: 249
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?260854"
+    width: 444
+    height: 250
     isCached: true
 
-secured: "eA+mFeQkvM2xS1Oqi4/C/pwFsf388tK6EJbxw5s3ENDG8XlPeLIaDyZX+BtNqCHMwPnFLRIEQUriUBV9qBGcErEzFOaX1q1jlhvo4Tl/id+I8/hS/RxXEM9GBwk1W1hzuzGQKqFmBnIsS71J6MNo07Ht6koN4nFhLbUcQAfmOHkpzprba0Nc59YPxksRyDcYFsvEie6JBvpFG+4ZpIa5gyI8032zS0sk/J1Lz8W/cCOTFRXEQW0p7QqDZHws0SWGa8G5Vzme9BHjn3A/mqEeU0epNy8jbd/076dJ4dM6qAgGcSw0CgFWPvB7LHTdgSn6fNArKp2sYM0psPZP6I/wFk0PmFlLv4KRFMJLTKTXuk4=;GZJQuJ23nD7vofgYxWqe9w=="
+secured: "GFFJfQ13qNTVw94RYHLxEJQheruLgGBRzn41ezHBGKqcWYx9RhBMd4A8KTMk55YDkb2YHbE7ghZwYH4uVVIot485KRVjIhMA9jgax/u5UT6JnxBdpkH17HccyHFcvSYWHO7Ddqaulp1YXGptIegH+8h5ednRO9TsKqNVXWXH7a6dbWy31pcBEEVLAVJlp9DK7tKinH+VLi38wQHmphyaOxW/EH0jxBz9zrRhFmH3WvL3WvBxyhURfpR7TP5FP6NyRStCLb6LSKUX4V2Ttm6sAzaAHnQjq1pYMlkdFdyIwFbRj2UuGLpj3dD1LUgJCIMYUM1/z6x3hwuyyZSMlCKk1RLgROriiXQS8lKn3XnpRNs=;i/VvfstIZqSa8V9pK88i1g=="
 ---
 

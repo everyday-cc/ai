@@ -2,6 +2,57 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-05-23-dont-believe-your-lying-eyes-in-the-ai-era.md",
+      "title": "Don't Believe Your Lying Eyes in the AI Era",
+      "excerpt": "Technology will only get us so far in dealing with AI-generated photos, of which there will be many. We’ll all need to become more dubious.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-23/viral-fake-pentagon-explosion-photo-on-twitter-is-an-ai-wake-up-call",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-23/viral-fake-pentagon-explosion-photo-on-twitter-is-an-ai-wake-up-call",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPnzNWCb20ws/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform.md",
       "title": "Microsoft launches Fabric, a new end-to-end data and analytics platform",
       "excerpt": "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3.",
@@ -1197,58 +1248,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-llms-and-the-rise-of-the-ai-code-generators.md",
-      "title": "LLMs and the rise of the AI code generators",
-      "excerpt": "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/code-abstract-matrix-100678032-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "publishedDateTime": "2023-05-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

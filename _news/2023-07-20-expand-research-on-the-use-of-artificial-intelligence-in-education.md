@@ -41,20 +41,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Policymakers who want to regulate AI need to start talking to health care industry representatives"
-    excerpt: "Health care deserves particular consideration because it presents a much broader spectrum of risks than most other uses of AI."
-    publishedDateTime: 2023-07-19T08:29:00Z
-    webUrl: "https://www.statnews.com/2023/07/19/medical-ai-regulation-health-care-industry/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 29
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/07/GettyImages-1500363054-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "xI8F7nz0zAGdw35ZB/XzIP+uz6g+S3RCaURpYTPqdgP9XLn2PxJC3scgL5s5w3jPhudm3gSjkg5kED+grVjeSmYo3mw7X2+wM8APZd9SLZvZiAlFC18yXCZbBQu+bNOujEDxFhqFtria4jx/RIFeIBAmqXzLayWj2cfcOjZ2ShY+8SO0aAsnsbFB3tRU+HEt/Mod4CjQgUw6C6B21OGL/KhXTFDv6C/rY3SmAu+g2wO6PgbsAMee7HlFfKgW60i6j5Z9pjpUeljcUXI7H6n+ynVp+P9YxasATmKJOZ2kPRQQJ2I6Q4JC3UU0Y1RATXv+2odI1lL6QGv2pm7vrBn/JKX/7HEMs6/NAA2cgAJHpnW3NV3XDqhBMzerTI7EDFLGtgffbepl7hlLVIkBzZ8DJfLn8s9uG8rE/L8m2mfvk0K9911A8eYE3s2Yo0hoTwFJiV26Yfii/rMv97T8YeBWxWk+dG9Dvrsz0IsJepU69LwKEr9OrjKzufQ1gdsLfpU47ETp+Vfm9C0ItHxFZG05dQ==;aik+p9JFA6gILg3qSBrcQA=="
 ---

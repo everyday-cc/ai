@@ -2,6 +2,40 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-06-22-this-startup-is-hoping-to-revolutionize-the-farming-industry-with-bringing-ai-to-small-farms.md",
+      "title": "This startup is hoping to revolutionize the farming industry with bringing AI to small farms",
+      "excerpt": "A California-based startup, Farm_ng, hopes to revolutionize the agriculture industry by making robotics and artificial intelligence more accessible to small farms. \"We see a lot of big farms embracing automation and precision agriculture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php",
+      "originalUrl": "https://www.timesunion.com/news/article/this-startup-is-hoping-to-revolutionize-the-18163898.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-21T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience.md",
       "title": "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience",
       "excerpt": "A new Artificial Intelligence (AI) feature, leveraging generative AI technology fromIBM watsonx, will produce tennis commentary for all video highlights packages during Wimbledon In a first for tennis,",
@@ -1142,58 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-wimbledon-to-introduce-ai-powered-commentary-to-coverage-this-year.md",
-      "title": "Wimbledon to introduce AI-powered commentary to coverage this year",
-      "excerpt": "All England Club teams up with IBM to offer AI-generated audio commentary and captions in online highlights clips",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind",
-      "originalUrl": "https://www.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year?ref=emergentmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ea9de7424b6fb32dd897f2934206723e215f45f4/0_13_3573_2144/master/3573.jpg?width=620&quality=85&auto=format&fit=max&s=bf031c926cc464bbc42a9c036ba83d88",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/jun/21/wimbledon-introduce-ai-powered-commentary-to-coverage-this-year",
-      "publishedDateTime": "2023-06-21T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

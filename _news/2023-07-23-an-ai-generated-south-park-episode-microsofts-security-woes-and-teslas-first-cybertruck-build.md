@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/"
 type: article
 quality: 124
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 84
     images:
       - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Capgemini partners with Microsoft over generative AI-based Azure Intelligent App Factory"
-    excerpt: "Capgemini has announced an Azure Intelligent App Factory, developed in collaboration with Microsoft, that aims to empower organisations to scale generative AI capabilities for their business. This solution is expected to see Capgemini and Microsoft combine ..."
-    publishedDateTime: 2023-07-19T07:49:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-capgemini-partners-with-microsoft-over-generative-ai-based-azure-intelligent-app-factory-3177725/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 80
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-19T131714.030.jpg"
         width: 1200
         height: 675
         isCached: true

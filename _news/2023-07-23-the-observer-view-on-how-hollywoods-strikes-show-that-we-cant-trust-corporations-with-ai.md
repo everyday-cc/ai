@@ -2,11 +2,13 @@
 category: news
 title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
 excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-publishedDateTime: 2023-07-23T04:01:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+publishedDateTime: 2023-07-23T08:07:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
+webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
+ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 type: article
-quality: 7
+quality: 47
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
@@ -71,6 +79,6 @@ related:
       domain: theguardian.com
     quality: 8
 
-secured: "V+c7LrEs4F8wgSSr5t82LnZ++OqowYRhPglRLOREVF+YwtRP2icZBdzoMKYijm2ynPlJNsaTf7+I7vbDgKcsbZPaxmvyup2j+SM1fRY4dYItYCT4xBIBkGuow60qdeZ69HSQKmuIsSQvVcmCK3Mpd07H63SKyQ9JoXWqmKXf8I3aBM25vKlfQYc6Y52TS1JxRr6lhLFrlz+nL0/pW3NrkYnprbrwke6VC46RBKy3Ab+QUdOR1eTkVUhKumFmvQP7tOdsbgQ76pnKO2YRgM6u3HPRPHPzQttwNEtYlmCsb4iuYbae8OkNFYaaBpKauvIQ21cJeIXU0cZIEfbptKbXuDbZynWGyJGdqjHKX2lIKrvCgFoO+WSJ/groqnNmHn5Ozf8QUmvLx9eO0UNv+SkZK+ihU0LlZGa4NBIINPKl54zWvO/4X5QngaRpmWrvT1ld4fq/2az4k0QwB4HrZ43FFf/16AOtw7bWX4B5b+ocCLoy0hmFSJlxW9shLbPkFoLbm/SmkCD3uqWqfG+V5ur2Vw==;njQCn2/jr8P7mR+QWTzbeQ=="
+secured: "JXG8AgjrJahZ/S8yKrWWtaV9jrjejC+WU/P2vqBT9gdmEv4ZL55j+qQjlO3Lg+8Wbst31YTqyR4eCE5364a5rrXsfwljTM2eUAyRF6YlSzkOIXADb0Eh0LlRlrOi9c6XkJzNKlxz2DfRP4X2SIPIhwEruiNjBPt3JemDdwIuK2eV1Y3wmupIVJqCl5PO9RMgDQbYfdrcb7axd0LujvjcG53oh+pw8mpr9QHcsOfqlSH0TQb2EHqd8m8RqShJpFc/yxY30VG3ddxIehDh2hDZHeFg/RuHwWuuJ/nqMu5kL9kCrYlVT/MFFPpGUWxKI50lMOq61PWrzyqfDEmfcPLaT5WjguRUGJHU2vg0cSPM51U=;MrANiFQNHMDLGp6pNB4BGg=="
 ---
 

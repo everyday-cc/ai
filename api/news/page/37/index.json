@@ -2,6 +2,57 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-06-28-ai-is-catching-on-with-api-developers.md",
+      "title": "AI is catching on with API developers",
+      "excerpt": "Some 60% of API developers use generative AI to help them code, according to a Postman survey of more than 40,000 developers and API professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/01/shutterstock_1850095465-100936239-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3700656/ai-is-catching-on-with-api-developers.amp.html",
+      "publishedDateTime": "2023-06-27T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-xsurgical-an-ai-surgical-robotics-company-announces-qa-webinar.md",
       "title": "XSurgical, an AI Surgical Robotics Company, Announces Q&A Webinar",
       "excerpt": "XSurgical Inc., an artificial intelligence surgical robotics company, today announces it will host a Q&A webinar on July 11 at 11 a.m. PDT, hosted by",
@@ -1066,40 +1117,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-training-convolutional-neural-networks.md",
-      "title": "Training convolutional neural networks",
-      "excerpt": "In the final article of this series, we will test our neural network for recognizing cats by converting it into hardware. For this, we will use the MAX78000 artificial intelligence microcontroller with a hardware-based CNN accelerator developed by Analog ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/training-convolutional-neural-networks/",
-      "originalUrl": "https://www.embedded.com/training-convolutional-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-07-06-the-indian-business-responsibility-and-sustainability-report-brsr-explained.md",
+      "title": "The Indian Business Responsibility and Sustainability Report (BRSR) explained",
+      "excerpt": "India&#8217;s Business Responsibility and Sustainability Report (BRSR)&#8212;a framework for environmental, social and governance (ESG) reporting&#8212;comes into effect in 2023. These new reporting standards represent an evolution from the voluntary guidelines first issued in 2009 by India&#8217;s Ministry",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/indian-brsr-reporting/",
+      "originalUrl": "https://www.ibm.com/blog/indian-brsr-reporting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/Screenshot-2023-07-06-at-3.37.53-AM.png",
+          "width": 2138,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-06-responsible-ai-a-mandate-in-finance-and-insurance.md",
       "title": "Responsible AI: A Mandate In Finance And Insurance",
       "excerpt": "Companies that deploy AI responsibly can stand out from competitors while avoiding legal problems and other mistakes that can erode customer trust and damage reputations.",
@@ -1144,58 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-business-leaders-fret-about-generative-ai-despite-growing-enterprise-adoption-study.md",
-      "title": "Business leaders fret about generative AI despite growing enterprise adoption: Study",
-      "excerpt": "The study found that 90% of business leaders anticipate adopting generative AI and that it will impact important organizational roles.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/business-leaders-fret-about-generative-ai-despite-growing-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/business-leaders-fret-about-generative-ai-despite-growing-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Insight_GenerativeAI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-05T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/mind-blowing-ai-can-make-a-video-of-you-danci
 webUrl: "https://bgr.com/tech/mind-blowing-ai-can-make-a-video-of-you-dancing-using-just-one-photo/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 3024
     height: 1701
     isCached: true
-
-related:
-  - title: "A new Turing Test should see if AI can make money"
-    excerpt: "Large language models have long surpassed the Turing Test and we need a new way of measuring the power of AI, says prominent AI researcher Mustafa Suleyman who thinks the Modern Turing Test should see if machines can autonomously turn $100,"
-    publishedDateTime: 2023-07-19T07:22:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/a-new-turing-test-should-see-if-ai-can-make-money.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/modern-turing-test.jpg"
-        width: 1263
-        height: 711
-        isCached: true
 
 secured: "gba8J7OTk9PsLBP2f6gGoNHzZ48D/Z/uuKfTGXJ87BoQRthsQntN4U8NtxeHP/dxpo9q2VGnzZ5hdgaW0JT5cg0WXRLv6kW/6CfEEPWdVFvv6qxYx1R0jVYjiLx5Sfvt6ldtx6XV5/EPv1LM3SvweyqRnJFjxmj2JM3WULPqyQLAoX9df43liOajVIMvH8/PE1kbBVgu21LBRCXMvFA6KaCJutVDTrCcYNVXyxI0m+B8g3F0wxdKcSlsZ1qfFKHrs7TTrgmgrZulBd++Wn4Uy4+2lwTGGC3sa91xy7mVM5z5zFUbvAUHuFFKfqaErm6NaZ7ZY9ixqIlSXfLZEy3eg/lGkPNXCjxUxk2boQ3T2C52d8hFqLGdXLeE3CeQZQmDdLkRKLF3KOVvwqllI+Nav5JCMW/NGk5mOV4c+3xTw7KTDl/fEoJE91Y6pELVT68ohSfFc+AnS60EgaPcdgMoONuilMkJ/LqeRL9zpejTXNDS2D9JcNNr7CMVDZYFSzWwI4LyrT+5F8CidLM3nv33UQ==;98cDR0eI68LMiK4soWVTrw=="
 ---

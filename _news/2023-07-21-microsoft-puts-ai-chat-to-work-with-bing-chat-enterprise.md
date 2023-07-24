@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
 type: article
 quality: 104
-heat: 444
+heat: 434
 published: true
 
 provider:
@@ -164,20 +164,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2023/07/Met-unveils-Lllama-2-as-commercial-AI-model.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Microsoft Inspire 2023: Key updates on AI, Azure, Copilot"
-    excerpt: "Find Microsoft Inspire 2023 innovations, investments, programs, and partner opportunities in new forms of AI like ChatGPT, Copilot, and more."
-    publishedDateTime: 2023-07-19T07:14:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-inspire-2023-key-updates-on-ai-azure-copilot-809947"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 69
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/07/19/1365879-microsoft-inspire.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Better Bull Market Buy: Microsoft vs. Alphabet Stock"
     excerpt: "As a result, Microsoft trades at a nosebleed-inducing 12 times sales and 67 times free cash flow with a market cap north of $2.55 trillion. The equally impressive (and in some ways superior) peer we know as Alphabet offers a more comfortable buy-in point at 5.5 times sales and 25 times free cash flows."
