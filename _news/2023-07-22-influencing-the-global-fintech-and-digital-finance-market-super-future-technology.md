@@ -35,6 +35,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Lessons From The History Of FinTech"
+    excerpt: "You could argue that the journey of the fintech industry first started in the 19th century when Western Union launched the Electronic Transfer Fund (ETF) system. However, it was the 2008 financial crisis that accelerated the movement, and a wave of new banking regulation paved the way for innovative solutions to enter the industry."
+    publishedDateTime: 2023-07-24T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/lessons-from-the-history-of-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/lessons-from-the-history-of-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/lessons-from-the-history-of-fintech/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ba8bb0817e55774abd357d/0x0.jpg?format=jpg&crop=2011,1132,x0,y208,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Financial technology, or fintech, is changing our finances"
+    excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
+    publishedDateTime: 2023-07-24T11:03:00Z
+    webUrl: "https://www.castanet.net/news/It-s-Your-Money/438101/Financial-technology-or-fintech-is-changing-our-finances"
+    type: article
+    provider:
+      name: Castanet
+      domain: castanet.net
+    quality: 39
+    images:
+      - url: "https://www.castanet.net/content/2023/7/millard_072423_p3706387.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
     excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"
     publishedDateTime: 2023-07-23T17:21:00Z

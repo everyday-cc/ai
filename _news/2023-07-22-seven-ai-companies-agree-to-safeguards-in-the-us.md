@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
 type: article
 quality: 87
-heat: 397
+heat: 387
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221107-meta-office-sign-california-facebook-ew-1127a-9c2f7a.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "How 3 big tech companies are capitalizing on AI"
-    excerpt: "Club names Salesforce (CRM), Microsoft (MSFT) and Apple (AAPL) are showing their pricing power when it comes to artificial intelligence, as Big Tech expands its efforts to turn a profit with the rapidly-evolving technology."
-    publishedDateTime: 2023-07-19T18:02:00Z
-    webUrl: "https://www.cnbc.com/2023/07/19/how-3-big-tech-companies-are-capitalizing-on-ai.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 67
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107273423-1689744131692-gettyimages-1328784596-robot-gui-pabel.jpeg?v=1689796952&w=1920&h=1080"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "US judge finds flaws in artists' lawsuit against AI companies"
     excerpt: "U.S. District Judge William Orrick said during a hearing in San Francisco on Wednesday that he was inclined to dismiss most of a lawsuit brought by a group of artists against generative artificial intelligence companies,"

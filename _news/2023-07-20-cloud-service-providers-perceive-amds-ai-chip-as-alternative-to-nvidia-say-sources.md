@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI … – NVIDIA Blog"
+    excerpt: "GTC—NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
+    publishedDateTime: 2023-07-24T10:47:00Z
+    webUrl: "https://www.inferse.com/635812/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-nvidia-blog/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 37
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-25525.png"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "Nvidia And AMD: AI Updates From Taiwan Semiconductor's Q2 Earnings"
     excerpt: "Taiwan Semiconductor Manufacturing Company Limited's Q2 earnings affected both Nvidia Corporation and AMD. Read what's next for NVDA and AMD."
     publishedDateTime: 2023-07-21T18:02:00Z

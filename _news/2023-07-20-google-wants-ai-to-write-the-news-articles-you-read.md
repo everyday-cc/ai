@@ -56,20 +56,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google Reportedly Pitching New AI Tool to Newsrooms"
-    excerpt: "Google is exploring ways artificial intelligence could assist journalists and news publishers. This reportedly includes testing an AI tool that can take in information and turn out news articles."
-    publishedDateTime: 2023-07-20T17:32:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-reportedly-pitching-new-ai-tool-to-newsrooms/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/bd59a0540fd6424563286443154a8cb7e9cac750/hub/2023/05/11/5191c278-f148-4f89-8671-99ac5d4b14e1/google-io-2023-051023-82.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial intelligence: Google says it is developing new tools to help journalists"
     excerpt: "Google says it is developing AI tools to help journalists to write headlines and in different writing styles, but some are concerned that in an industry struggling financially, AI could replace jobs."
     publishedDateTime: 2023-07-21T11:22:00Z

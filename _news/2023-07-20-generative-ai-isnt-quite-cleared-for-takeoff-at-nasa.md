@@ -87,15 +87,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Setting Up Generative AI In Your Enterprise"
-    excerpt: "A practical framework for implementing Generative AI in the enterprise - including strategy, governance, technology stack and talent."
-    publishedDateTime: 2023-07-19T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/07/19/setting-up-generative-ai-in-your-enterprise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
     excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
     publishedDateTime: 2023-07-20T00:00:00Z

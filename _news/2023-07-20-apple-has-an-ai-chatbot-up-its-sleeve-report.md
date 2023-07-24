@@ -175,15 +175,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Details emerge on 'Apple GPT,' the company's AI chatbot it's testing internally"
-    excerpt: "A so-called \"Apple GPT\" is in the works. Now we have some details on the company's upcoming AI-powered chatbot."
-    publishedDateTime: 2023-07-19T19:02:00Z
-    webUrl: "https://www.androidauthority.com/apple-gpt-3346580/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 43
   - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
     excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
     publishedDateTime: 2023-07-20T10:49:00Z
@@ -240,6 +231,20 @@ related:
         width: 1680
         height: 840
         isCached: true
+  - title: "Amara.ai an HR technology startup with an Interactive AI chatbot"
+    excerpt: "Amara.ai an HR technology startup with an Interactive AI chatbot - Amara is an AI-powered chatbot that has transformed the employee experience since its inception in"
+    publishedDateTime: 2023-07-24T09:58:00Z
+    webUrl: "https://www.siliconindia.com/news/general/amaraai-an-hr-technology-startup-with-an-interactive-ai-chatbot-nid-224263-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/DKX8hMk1.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Unveiling The Latest AI Breakthroughs: From Chatbots To Self-Driven Cars"
     excerpt: "Welcome to the future, where artificial intelligence (AI) is revolutionizing every aspect of our lives. From intelligent chatbots that can have natural conversations with users to self-driven cars navigating through busy streets,"
     publishedDateTime: 2023-07-20T11:12:00Z
@@ -282,15 +287,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Apple reportedly developing ChatGPT-like AI chatbot"
-    excerpt: "The artificial intelligence space is heating up even further with the latest report being that tech giant Apple has developed its own large language model to rival the likes of Open AI and Google. Apple’s stock rose briefly following the news,"
-    publishedDateTime: 2023-07-19T17:49:00Z
-    webUrl: "https://invezz.com/news/2023/07/19/apple-reportedly-developing-chatgpt-like-ai-chatbot/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 19
   - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
     excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
     publishedDateTime: 2023-07-22T18:50:00Z

@@ -54,6 +54,22 @@ related:
         width: 1279
         height: 719
         isCached: true
+  - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
+    excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"
+    publishedDateTime: 2023-07-24T10:30:00Z
+    webUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us"
+    ampWebUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 56
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2017-03/White-House.jpg"
+        width: 1207
+        height: 610
+        isCached: true
   - title: "Leading AI firms volunteer security commitments to Biden administration"
     excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
     publishedDateTime: 2023-07-21T18:47:00Z

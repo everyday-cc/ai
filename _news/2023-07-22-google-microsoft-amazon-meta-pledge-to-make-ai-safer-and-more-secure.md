@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
-    excerpt: "Meta has open-sourced Llama 2, now available on Windows and Azure. Microsoft and Meta are extending their long-standing partnership. Meta has open-sourced Llama 2, allowing more developers to leverage its capabilities. Llama 2 is now supported on Azure and Windows."
-    publishedDateTime: 2023-07-19T17:55:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 44
   - title: "Teladoc And Microsoft's Expanded Strategic Partnership Is A Powerful AI Combo"
     excerpt: "Teladoc has experienced multiple news-based pops, with the latest instance resulting in a +10% jump in the stock as Teladoc announced an expanded AI partnership with Microsoft. While TDOC stock has given up most of these recent gains, the telehealth giant is gearing up for sales growth powered by AI technology."
     publishedDateTime: 2023-07-21T11:54:00Z

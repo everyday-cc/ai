@@ -53,6 +53,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "General says 'Judeo-Christian society' makes USA's AI better than rivals'"
+    excerpt: "A US Air Force general has said the Pentagon's approach to AI surpasses its adversaries' in terms of ethics, attributing this advantage to the United States' \"Judeo-Christian\" foundation."
+    publishedDateTime: 2023-07-24T08:30:00Z
+    webUrl: "https://www.computing.co.uk/news/4120709/judeo-christian-society-makes-usas-ai-rivals"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/dd897bd/bd9be46a-92d1-4cb4-9b33-08468609c650/23/Military-drone-iStock-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "70V/w39Q6Aq6toAvR1iyg37D+aSTRlW3KjO3o8J8d4RIjuC5Pno+DLWiJTxu9Xtyuk+LGMpU1ADj0v05HgBc/+/UVSIPlOD7OQzlQs8JZIwOVISOrresTrbtZcYpCo1nzJiqIHsM/3EVopJg+v24pvEIifaoclph0MPrC+uGYNDhDz+CKmjytJbu5md81I0bhU+XlGLC/1GsdPZpXjTF+xg5VrmT+e6QDz6V16GhNy7ETYOf1pSQoi9pw1oP84gKL1J23adYiwTm+xNG5VPfIvNkLWK/rhmNozH3eaTrip5BYcWNUym13cEq1XOfyKHhuF9IJoCVB9zCOmAAvkqf5b7T5m3qt4DQjzY7MNFEO22Qt4WEW/5KXpT0Oe5ROyKJ5paP97OyKep6CSjVhY3ypAmtMXHV+xpN/91W2OcE0s+rxEReSkhO4MvfFnchL2KOmD/sH+wl8PV9yNPVRgfCJ35+CPFULky/IcZNR6HsDfni+ejIQSkYNtu7Kc2OSrdULhA4ecw6AsenCbIcTRJzLA==;9VEBL9aGx14AGlbrKgcAGw=="
 ---

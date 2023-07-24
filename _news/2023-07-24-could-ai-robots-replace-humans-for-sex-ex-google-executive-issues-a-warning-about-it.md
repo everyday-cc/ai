@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/294161/20230723/ai-robots-rep
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294161/20230723/ai-robots-replace-humans-sex-ex-google-executive-warning.htm"
 type: article
 quality: 67
-heat: 77
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Former Google executive drops stark warning about robots replacing human for sex"
+    excerpt: "A former senior Google executive has warned that virtual reality and augmented reality headsets will soon be used for simulated sexual experiences."
+    publishedDateTime: 2023-07-24T11:35:00Z
+    webUrl: "https://www.tweaktown.com/news/92507/former-google-executive-drops-stark-warning-about-robots-replacing-human-for-sex/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92507_2541_google-executive-drops-warning-about-robots-replacing-human-sexual-needs_full.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google executive warns robots may soon replace humans for sex"
     excerpt: "A former senior executive at Google said that artificial intelligence-powered sex robots may soon replace human partners."
     publishedDateTime: 2023-07-23T13:19:00Z

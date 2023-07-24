@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Researchers move to merge artificial intelligence with human brain cells"
+    excerpt: "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence."
+    publishedDateTime: 2023-07-24T11:03:00Z
+    webUrl: "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 55
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png"
+        width: 1500
+        height: 944
+        isCached: true
   - title: "Scientists Working on Merging AI With Human Brain Cells"
     excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
     publishedDateTime: 2023-07-23T12:32:00Z

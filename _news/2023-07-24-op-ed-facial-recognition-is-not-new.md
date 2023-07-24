@@ -41,6 +41,22 @@ related:
         width: 676
         height: 381
         isCached: true
+  - title: "How face recognition rules in the US got stuck in political gridlock"
+    excerpt: "A national effort to ban police use of face recognition is facing a sobering reality: compromise"
+    publishedDateTime: 2023-07-24T11:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Individual whales, dolphins identified using facial recognition tech"
     excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
     publishedDateTime: 2023-07-23T16:00:00Z
@@ -56,6 +72,6 @@ related:
         height: 576
         isCached: true
 
-secured: "UEZHH2Zb4LRk5U2wYFgFFrsFk5p6FKOTu3Y6Yc5DCFL92463j2+phhvbGg+50H1yiPAtPDGbDMVlCRaWDqexQg5txJuMUxAzaXtFImEPX86Grq/6SMSnLGbtXCrpOyhHclwrbkVM0npGYxgvc/k16x9muMjFtZyIdbn+OWDUvDUwQzeksqVdBzeHX6LfpZGzWEHFjuz52ced6EYRwMkx+8KDFLtWpPw2fQPrr6PcYt0hDrhN9NNvxHrXA9R2zccoeXFOkaUtfM+eKwhmaZ0EtNqg/z2wRC2qUxha5vSme40dwVNujUfhZk9Kv9oJbNu9XjaWWS5LiueQU5+6yzbF8a7UY+acxExctSBaF2aBjfU=;MPFQMXJrxboafWYkUHHOLA=="
+secured: "4jxEuhhe8SZxfh7n7z3ITZ/WKSBKP21+eu/o9s3F2cSxtwsJZ9lKiZrEd1EKc0SLQ7bhbofCC2F9WqKaiO1fsJRanqI3o91hoHfbHHjls0LYJaB44174I0HUuDu7wlPRLZOkTMZ/XiUDfSJdKMZJDg/k3kISZ/3/rkUfa5zkRGVkI5QxHzQiPveuC3OVrk/qNlioHqUyRFUk+5SCWY6e2lYBr7GDrFFoL9buKCn3PQqOTIeMj+3WGN6WS+J4b5/74/qMkaFhE0bocLSH5xrBJ356cVuR1l923pF7J4E83LtOKBPb+Rhit9P2QM4JFaUZC95P0n1nyALHOakpv6QrcwFQVlZtzWccMt0RGHaBnjUay4l1yNM37zMqu9VyfOnjB2JiSNOt10Zn6sJJbRZ+JobvXTv5EJzlqTuOHDLIoE2irmUMRgnLYVWydibmFC/9aWezAUBLrEF553KKJA1X+TPIa8c6cI2lFK7cyvtjqnXVYhk5DBrPZrpBybVvv9H8DAWqsv6of6D13wNSeaKVTg==;tYJff4HQJGvgY89F2y805w=="
 ---
 

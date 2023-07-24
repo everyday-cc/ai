@@ -404,15 +404,20 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 31
-  - title: "Microsoft Shares Rally To An All-Time-High As Software Giant Adds The AI Subscription"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) shares closed at a record after the company announced pricing for its new AI subscription service, Microsoft Copilot."
-    publishedDateTime: 2023-07-19T17:17:00Z
-    webUrl: "https://www.benzinga.com/23/07/33289673/microsoft-shares-rally-to-an-all-time-high-as-software-giant-adds-the-ai-subscription"
+  - title: "Birlasoft Collaborates with Microsoft to Establish Generative AI Centre of Excellence, Driving Value Creation and Innovation"
+    excerpt: "BSOFT], part of the USD 2.9 billion diversified C.K. Birla Group has established a Generative AI Centre of Excellence, in collaboration with Microsoft."
+    publishedDateTime: 2023-07-24T11:21:00Z
+    webUrl: "https://www.thehansindia.com/business/birlasoft-collaborates-with-microsoft-to-establish-generative-ai-centre-of-excellence-driving-value-creation-and-innovation-811052"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 27
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/07/24/1367059-birlasoft.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Kpmg And Microsoft Enter A Landmark Agreement To Put Ai At The Forefront Of Professional Services"
     excerpt: "Multi-year cloud and AI alliance to supercharge the employee experience and accelerate innovation for clients across Audit, Tax and Advisory."
     publishedDateTime: 2023-07-23T19:27:00Z

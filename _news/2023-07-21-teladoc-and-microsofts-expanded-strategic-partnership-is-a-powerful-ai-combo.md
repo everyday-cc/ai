@@ -93,15 +93,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft and Meta expand their AI partnership with Llama 2 on Azure and Windows"
-    excerpt: "Meta has open-sourced Llama 2, now available on Windows and Azure. Microsoft and Meta are extending their long-standing partnership. Meta has open-sourced Llama 2, allowing more developers to leverage its capabilities. Llama 2 is now supported on Azure and Windows."
-    publishedDateTime: 2023-07-19T17:55:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 44
   - title: "Meta Launches Generative AI Model Llama 2 in Partnership with Microsoft to Compete with Google and OpenAI"
     excerpt: "Meta releases its new generative AI model Llama 2 in continuation with its advancement in Artificial Intelligence field."
     publishedDateTime: 2023-07-20T13:45:00Z

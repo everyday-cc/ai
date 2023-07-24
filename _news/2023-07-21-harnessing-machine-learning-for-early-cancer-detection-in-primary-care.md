@@ -59,15 +59,6 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 19
-  - title: "Can Machine Learning Revolutionize Early Cancer Detection in Primary Care?"
-    excerpt: "Through the promise of machine learning, early cancer detection in primary care could undergo a revolutionary transformation, leading to the saving of lives."
-    publishedDateTime: 2023-07-23T12:52:00Z
-    webUrl: "https://www.medindia.net/news/can-machine-learning-revolutionize-early-cancer-detection-in-primary-care-212792-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 17
 
 secured: "qF4MBMc11WsIOLYD3IlizUhHpuaeGxxO2+Y6qC6zJQ+rsMGTXjJOcw2SAF+zW1GPx/M0MN1+XnKFKRlZ7nyaj8bJJK2qIdIZiIowrhEZQh7v9EwBp5P9QozQOc7+haNwK4zHZ27981izIMs/9E1aNAphNGTPOFJaFHQI/16PnuPLF6cLnUN5uLXRaxYNQaJYjJYQEvDOJMNxDo1DE6xz1oAJQZE3j1nByhZfdBpiePCJHA4tdxE2YWp1p2BXq5EXP5iflQQn75cDdLxMa5p8rn/ZE+KvSHdc7knAmDSBvXq1q/ikEEmR2kFtMZ4XdnM7z9ZCSYPP4CKTcQTdDGoXerSIbqBPat3fFixcgm897g8GFL0k+vLcgyTSSYyi6a81YBddn33BysRI9d6kXw9UtRR1RcQKEMJ4mh/ltdiGxsws2cjzneMf05niEb0Y/G0wqKd7TxHcs2snTA/FbZaru+uYhoBN59vDpH0RhkrYTe1TEc/rVhm27oXd8AP3dM91ILOSFHA6EX61wJlXNB0jzA==;Fzu5dE3JhIjb6L0mW9weIQ=="
 ---

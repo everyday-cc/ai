@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/comment/opinion/article/3228219/why-many-china-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good"
 type: article
 quality: 89
-heat: 93
+heat: 89
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/nvidia-stock-could-hit-769-on-300-bi
 webUrl: "https://za.investing.com/news/nvidia-stock-could-hit-769-on-300-billion-ai-opportunity-by-2027--mizuho-432SI-2818152"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     height: 533
     isCached: true
 
-secured: "7++t3H5eNHO9+//8lbJoriZoDjpyeZCMaUeowp1tcVV4gxV+0c0OMkhUe99sgT1BJZTSEcZ0AaTdX72/LK7XohcfmNOVW/dcAWJdOnH3gJhQDSyPhXVrjD2gFeiSztOEgiwKUJbWZqMIXhnV/3JdLgL+AVUQ39dKztGvvQnbjafb/Fu2JnyxVV+zSKj23PGdh5Ilc+8xPEdzpYoqYF1rAh1t+/RRtnh33k9uKSPhB5k6QrMnQnm04h1VziPbZhXufuhcEiwfEyrNu0vu8YTiLF2TaFfJxojZsFlmCmEuDZA6Jng3D+qRzCGNEORBioierGnYOaGnz/MHwk5Kyfnk29cQHHIRRb+GS2ou45v3N7Q=;wgzmeiUbphieTYbe7kJE6w=="
+related:
+  - title: "Nvidia is ‘dominating’ and could unlock $300 billion in AI revenue by 2027, analyst says"
+    excerpt: "A Mizuho analyst is feeling even more bullish on Nvidia's stock prospects as he thinks about the AI opportunities ahead of the chip giant."
+    publishedDateTime: 2023-07-24T11:05:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says-915935c0"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says-915935c0"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says-915935c0"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://images.mktw.net/im-793555/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Jumps Higher As Mizuho Analysts See $300 Billion AI Chip Potential"
+    excerpt: "Nvidia's 'dominating' presence in the expanding AI chip market could peg its market value near $2 trillion by 2027."
+    publishedDateTime: 2023-07-24T11:14:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-higher-as-mizuho-analysts-see-300-billion-ai-potential"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 33
+
+secured: "VMkt59W2ZcSaGpWrFfNWKcMgMl0xDhDr3Cbj07Q2plnnTOUypGmcvLru+uqznDKnOtwHAYb8ukyxdzrCejlBi58LTF6e3JxmVtD73HCpzS0nuGEX6ICmWuMdKl1f3B3fgOo/4H7SSZvvA7I7DjDTUfEp/nkxpQUIsOjo2KSTVVNRhy8KAfqq8qrw5JUA1UlIuherRVMlWHSin18226QMadD4afgv4BBXTpL48Dq+/Yh8rMviiZO5s0jNWQq4M3WmLRhPhTuJqSmlmp2pIIYF21lBJwgmXmeyP9kOWzDCbOnYAhD4pGaDFiuMNkaqlUswmf4EPXcoHWR7YdDLDnT+DPImENbf164AUKe+GXUezvjlqcmeEfqcjIOdiFnIYp+Ae7oDvBJGspzLhIAd9iiXrIUGsM/piskWAlCQWrblpuU2oQdRnaBcydkwsjL4rtcIqviZPUpK8wGDOrne2VNOxwbEBZXQS1PGOYNcM6l3SJxTgsFrpHwfw+ewptKprVDXwCC9OaCVfSn2ZMfcNwJ7kw==;+vXcsWGpmKU7OeL0FONZZg=="
 ---
 

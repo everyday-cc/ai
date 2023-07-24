@@ -26,29 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "Single chip architecture to meet generative AI processing challenges"
-    excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
-    publishedDateTime: 2023-07-21T04:15:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/single-chip-architecture-to-meet-generative-ai-processing-challenges"
+  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
+    excerpt: "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!"
+    publishedDateTime: 2023-07-24T10:01:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
     images:
-      - url: "https://www.newelectronics.co.uk/media/buxactds/5g-smart-city-400x300-c-default.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
+      - url: "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg"
+        width: 6000
+        height: 4002
         isCached: true
-  - title: "China panel probes AI, chip funding"
-    excerpt: "A bipartisan duo has launched investigations into U.S. venture capital funds investing in Chinese artificial intelligence and semiconductor companies."
-    publishedDateTime: 2023-07-19T18:34:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2023/07/19/china-panel-probes-ai-chip-funding"
+  - title: "Elon Musk Sets New Target For AI, Products To Include Self-driving Software, Robots"
+    excerpt: "Rising interest rates and competition from new EV makers have forced Tesla to cut vehicle prices to gain market share, hurting margins."
+    publishedDateTime: 2023-07-20T09:14:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 53
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/fus1nieccu7bwoun_1689844201.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "3 AI Stocks for Getting Rich in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With businesses and countries across the world elevating artificial"
+    publishedDateTime: 2023-07-20T14:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-for-getting-rich-in-2023-1032463133"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "The 3 Best Self-Driving Car Stocks to Buy In July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The dream of self-driving cars has been around for generations. Soon, it may"
+    publishedDateTime: 2023-07-22T11:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-self-driving-car-stocks-to-buy-in-july-1032467094"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
+  - title: "Are self-driving cars a national security risk?"
+    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+    publishedDateTime: 2023-07-21T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 21
 
 secured: "2idLTLLUwCeFwi1KN+hL1aegFDfh7GvfGnNfFqhrRr6htdPUK1R9OMN5F1YD8TAsWo4EWBlxygnEVHQuWRP6CVAFlQnOfZGKyglBNdTMw2FAzpjoNC804G1DjGpOUUhmRqcJsWx7cG+cjkdvh+8BDav7Uz2UX8jXbnvmMfqrc3i0IC3cIyB2KTkGPurBbLfUw4wihrc7+Xl0qtZDGKLSlrTEcxyZINuJC0rQkiANy69TbzR27aqqK/MyCCM9EVcr+AofBwvSELUOfxJ48eFVo4bkMrNJFrh1TmuwPNdXbrydpmVhIfB0N1ZGk7S2let7BwXugcY3ivgXpnDcM+AufD/FvzJLHR9TjhRZ5fuyhH+4HaDNT+MG8VXU7k5lhh0DiNPPqRoLINUWGk5UBM2rtwXFeQJNA+9REPxI/CpcrqCY8xbfw7+vG5MLe6O7QX5Eutkr9Ll8fKj/+0Ie+kLJ1kv9bpCB05uJC87s/A5nIqj/OvyU1XXBxTCuzDm4T35HhdauJGfNHspV6xOllwGCRQ==;fgd1FABf6IQTg1QEN1lfUQ=="
 ---

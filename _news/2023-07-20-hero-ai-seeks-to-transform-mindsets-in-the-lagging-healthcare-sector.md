@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/07/19/hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 940
     height: 600
     isCached: true
-
-related:
-  - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
-    excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
-    publishedDateTime: 2023-07-21T14:48:00Z
-    webUrl: "https://www.acsh.org/news/2023/07/21/thinking-out-loud-–-artificial-intelligence-comes-healthcare   -17198"
-    type: article
-    provider:
-      name: Acsh.org
-      domain: acsh.org
-    quality: 54
-    images:
-      - url: "https://www.acsh.org/sites/default/files/images/artificial-intelligence-gf45a5335c_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "vEnI/C/Btj60HDbR7jTxQyG+fNEBdBUVegJKU5Ot2Qyrl+Rz3uTrwTDEF98h9XzZ8qz/5Bo9dJacq3cbNRRz251vrYSfh7P1kWH/EgogaVFD6GiU54G8F7H13gopA1inwsdsf2vTPP3f8cyh4Uz9osfiMdT98fQ6SjgmB+G0IeUk+nxoVQ846ni0WbhAv0BDNcrlT7FkT846fH3yhU7jp1hUg1IJVuXmcub6IjrpwiVQ4xkC4lVGmuuhcyxGIokzUITWk8siy3ydKlCcQHVvwOuTOxfEzr6iCfn1zSVcm/nMY8T32i15ssKKHGFraLBiAP+2vPpwLSH4OuUGg4Prh0wB2hQD39cPUBTrSVbUUOwRMXfGuRdnI64l9Oc0OHjfNOt5TLPb9AByfi61Bcm5da0wY1pW0lyVWmXWNd8gKKaBTafDWfetJUvE3T8+pZHKwLVprQMstuBIdkIm+Aq67BtTeYCwALGL2Wb8PNn/cZrZTUZ56kJy+XYNGwntK8U6krgNmxlFdnJfDohBtKcEog==;amzU49vh/sgh3nDqncPQ+A=="
 ---

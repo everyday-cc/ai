@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/australian-dishbrain-researchers-receiv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp"
 type: article
 quality: 81
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers move to merge artificial intelligence with human brain cells"
+    excerpt: "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence."
+    publishedDateTime: 2023-07-24T11:03:00Z
+    webUrl: "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 55
+    images:
+      - url: "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png"
+        width: 1500
+        height: 944
+        isCached: true
   - title: "Australian DishBrain team wins $600,000 grant to develop AI that can learn ‘throughout its lifetime’"
     excerpt: "Team exploring field of synthetic biological intelligence hopes to create a machine that can ‘learn throughout its lifetime’ – despite concerns over the ‘existential risks’ of such technology"
     publishedDateTime: 2023-07-21T06:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.altfi.com/article/founders-factory-partners-with-medio
 webUrl: "https://www.altfi.com/article/founders-factory-partners-with-mediobanca-to-boost-fintech-investment"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Italy’s largest investment bank pledges to back UK fintech startups"
+    excerpt: "London-based startup accelerator Founders Factory has gained a new partner in the form of Mediobanca. The Milan-based investment bank is looking to increase its presence in the UK, and has pledged €12mn to the joint venture."
+    publishedDateTime: 2023-07-24T10:53:00Z
+    webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FLondonfintech-e1690195741719.jpg&signature=ab996187a9f4eac7a6b859adaaf82c43"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Mediobanca invests €12 million in London fintech incubator"
     excerpt: "Mediobanca has joined with Founders Factory, the London-based global company builder and early-stage investor, to launch a new fintech venture studio and accelerator, underpinned by an overall €12 million investment from the Italian investment bank."
     publishedDateTime: 2023-07-24T08:58:00Z
@@ -40,6 +54,6 @@ related:
         height: 270
         isCached: true
 
-secured: "z3uu4o6acXAo7zWXl22ktrB4/AIqEnyRtziGHtY7pohN+XPAM4ZPKCO9CqRyTocz8H3PsShnMJlvPQMDCCIpGp+xwkHzVYOg6laeU9Q31oCdRlvJeJTGvWP0e6PRNZOiY8MnptMrP03X02sW+XsfeTnmKU2w/r2euDb2Bk9hOica1YEkOctEep06ynHwTLXNYYGLiePCrCIq32NAc8tIj7I8gc+n2f67jp+bNzSwoPAPbej8GFOdpoDZyWP6U2AaPCMbqvLzJEaJwia99OqRB/X9iprXaQoaFC3fxHWg2L5oG79X8SwEZ7OCkBER3jBKk0GJfn3k9371qHDAMklfNOGSMbcMEPZCM6ERhEHn1hc=;0uBLSy2PHMX7KhjhlWIfOg=="
+secured: "lfRXZb0j9MAlrIH0Sk8mzxWpge+gm26boCL78WtnrcYIDzR6PQwHO6smrfu/ZumLUdIqVuSUz2FvIFoXhihoNVKKHgMnOL5AL4efduAw1ZucPZrc1xU2R3xiOTLVrgAfNUuQmwhyaJVX9S1rqj7+oFa4cgNScPH/oPOxvug3Gzh4IMioWJlJYn8FN2z+qWIlb+aSWq0aRG4aKU7iBd0h5rSYluXMWtfzgF96ua/8Um37TUgn6mIlmH5fIVW/S1Rl4eNgGHJmls8opVfMOIPrItMi3wg5f/dSIwpeu6EZPgcFONOf0eC2g2kKaVP+kuJyx8ePN7a+Bi1L3WnnB1c8yQIj4oV5Lf9yGkCod4Biw5tzcIyzEXRGj7YBx7Hvfl6OM1S+wo2Q63o+z00lpOicQMblQyiHdTHisU8QUWE1v8/Xk0jXRVSZfVDKBqJJEDjBcSGH+f+YrmBmD44F6vt7zW9Q45atttJvH/S2RBBf1UVhlNRnGjbbwKzyrK74uhRwE9V1nbSRoR20EgzKGDknRA==;SR2H6xcctomPRgoEUoYRug=="
 ---
 

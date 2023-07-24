@@ -23,43 +23,68 @@ topics:
   - AI
 
 related:
-  - title: "2 AI Stocks You Can Buy Right Now for Under $100"
-    excerpt: "However, you don't need boatloads of cash to get exposure to this latest Wall Street trend. If you've got just $100 (which you don't need for contingencies and paying bills), you could buy a few shares of one of these AI stocks."
-    publishedDateTime: 2023-07-21T09:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/"
+  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
+    excerpt: "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!"
+    publishedDateTime: 2023-07-24T10:01:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 71
     images:
-      - url: "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
-        width: 2359
-        height: 1270
+      - url: "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg"
+        width: 6000
+        height: 4002
         isCached: true
-  - title: "2 AI Stocks That Could Help Make You a Fortune"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI)."
-    publishedDateTime: 2023-07-22T11:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/"
+  - title: "Elon Musk Sets New Target For AI, Products To Include Self-driving Software, Robots"
+    excerpt: "Rising interest rates and competition from new EV makers have forced Tesla to cut vehicle prices to gain market share, hurting margins."
+    publishedDateTime: 2023-07-20T09:14:00Z
+    webUrl: "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 53
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/fus1nieccu7bwoun_1689844201.jpeg"
+        width: 768
+        height: 439
         isCached: true
-  - title: "The 3 Best Value AI Stocks to Buy Right Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In 2023, it is impossible to have no knowledge about artificial intelligence"
-    publishedDateTime: 2023-07-23T20:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-value-ai-stocks-to-buy-right-now-1032467764"
+  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
+    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
+    publishedDateTime: 2023-07-20T10:43:00Z
+    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "The 3 Best Self-Driving Car Stocks to Buy In July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The dream of self-driving cars has been around for generations. Soon, it may"
+    publishedDateTime: 2023-07-22T11:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-self-driving-car-stocks-to-buy-in-july-1032467094"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 34
+  - title: "Are self-driving cars a national security risk?"
+    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+    publishedDateTime: 2023-07-21T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 21
 
 secured: "KdVvAIYjKOf+sjpBJLhlgqp0+oXENuds/XIet6KkHE2Ls3+IGmEOHjzNujVx4Nx1Ev75vR4ckJ1ia7jGq0/rwnAmkiPVVqzu263bz7vkuMZHv/iaZdRLp8jMNyxvOPb1+fAl4jBY+bazcIdyuvEPJ30DpMm/yjUKgbFLtU3u0578gmBoaHo8p6XxkOrE+8BoQBSkiqo/zCW97cFNjLtWRkGOHNrOulULGbQWdGFEdEHTIcPaY5nv5niFlnPcbxlyNDsooXqK4D7Pb2S1mpvwTuxm0URhP5y0JgH1FayL1b93q8Re3vKlzaph2CJVfM5QM/61wD30MOBX/1aue2d70QX9SS+qscVPssKnIprGIBw=;HjECi1fI4upupInuMwfF4w=="
 ---

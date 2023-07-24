@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230720/Scientists-urge-caution
 webUrl: "https://www.news-medical.net/news/20230720/Scientists-urge-caution-before-using-AI-models-in-healthcare-for-ethnic-minority-populations.aspx"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -17,31 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Healthcare AI Caution: Addressing ethnic health inequalities"
-    excerpt: "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists"
-    publishedDateTime: 2023-07-20T11:28:00Z
-    webUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Purehealth And Fujifilm Collaborate To Bring Advanced Artificial Intelligence Solutions Into Abu Dhabi's Healthcare"
-    excerpt: "Abu Dhabi, UAE PureHealth, the largest healthcare platform in the Middle East, is collaborating with Fujifilm Global, a renowned world leader in"
-    publishedDateTime: 2023-07-21T12:25:00Z
-    webUrl: "https://menafn.com/1106643474/Purehealth-And-Fujifilm-Collaborate-To-Bring-Advanced-Artificial-Intelligence-Solutions-Into-Abu-Dhabis-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
 
 secured: "8tGu13T6024A7Bw12WtxLOw23tfC5XYxrPCkh9/OnCAf3TqkhvK0AYjj/CctmOnfplpSEa6hdcGAZHaw5t7ETm8hAcvTrJt9vBr1kWI+4BnFJ27CvKWyDtI8wOM0+BCIsLF/PxnqUCtW/LHJf7dp67/vxGPAiOoWqk63sRyTrwqQeoo/cIQRKN//zILapRqtmBEiCvB7x9NOILDlPKlxqHWy6g8kgMwBieK2MV/AhR6gGTzOwMItJXZbvyxr2wZcbW6iFtMW6LgdwlVQp3hn0Q3BrXWEmIPP8p+Mcsuv/suPs7jJLyhP3K8GmFor4PSXZcvOFwG5Q87XMkmqtrujUdxLgEmd7cMhA0ZJRBGqjX4=;CIfkzPYl42iGWpJSQfuTzA=="
 ---

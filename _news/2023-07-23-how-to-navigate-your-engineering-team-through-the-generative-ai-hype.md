@@ -28,29 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Reimagining the data center for the age of generative AI"
-    excerpt: "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?"
-    publishedDateTime: 2023-07-20T16:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/7.With-all-of-the-focus-on-ChatGPT-what-impact-if-any-does-it-have-for-the-data-center_.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Generative AI Is Coming For People Data: Are You Ready?"
-    excerpt: "The rise of generative AI will undoubtedly impact workforces—and the HR teams that support them—in deep and lasting ways."
-    publishedDateTime: 2023-07-20T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/generative-ai-is-coming-for-people-data-are-you-ready/"
+  - title: "Artificial Intelligence Is Changing The World And Your Business"
+    excerpt: "Regardless of the industry, whether your company is based around services, manufacturing, consumer or business-to-business, AI will play a role in company operations."
+    publishedDateTime: 2023-07-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64ba8e17f5fa3c5cc0d98952/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Is A Modest – But Important – Slice Of TSMC’s Business"
+    excerpt: "Given the exorbitant demand for compute and networking for running Ai workloads and the dominance of Taiwan Semiconductor Manufacturing Co in making the compute engine chips and providing the complex packaging for them,"
+    publishedDateTime: 2023-07-21T16:34:00Z
+    webUrl: "https://www.nextplatform.com/2023/07/21/ai-is-a-modest-but-important-slice-of-tsmcs-business/"
+    ampWebUrl: "https://www.nextplatform.com/2023/07/21/ai-is-a-modest-but-important-slice-of-tsmcs-business/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/21/ai-is-a-modest-but-important-slice-of-tsmcs-business/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "http://www.nextplatform.com/wp-content/uploads/2023/07/tsmc-q2-2023-rev-by-platform.jpg"
+        width: 662
+        height: 434
+        isCached: true
 
 secured: "c82vN20bib6dC+9KH0WdEtdrKlNmdVnkD86OFAlEtT5ZR/BiRkdkHXwahgMrSuRuDGrhLoVCY3lJ7UzC1lTTEvv086KoKXpXanAKUPiMT+XwZ2VV7v+nyUMQzMbmKpgq62T5kncB8xXYIF+PdZ1hldKvTIfvnVUBm7z+b7oTEjrKkM6JLuQN5OebE6cE9mwldXt2tuSF7I6lIIqMx1Pg0KvkqdgZqQwPYKoBkuBV5t/1s3DWJRU0G/iX8aKH55OLmUawgMgSz4BsPjPZ2GKRAvwWZRUW0IdNrxxpfLlTIVCDZ1ZPy71RynO6YATTqEX5DO6qCTxlm25yw1LbVMTzNmBu0j9dJ0HsTiLPT1vIibCJJRnoDUSYus2u6AYOO0IxpMbuYa8PAUSsbV0gB0ArysTE6TeNb/85wUhW/2sNTCaIk54K1GUAR3ygIw4+EJKOT41SFW/m4uJTBp94rMWsPiobvMGczGw20y4oGI7NTixDLb1J4MNMVWVFn9Wsw5tq+uDX/Wrcp5O8tQO0n+rtzA==;DYp5DDDHFP92TPgwnyzj0w=="
 ---

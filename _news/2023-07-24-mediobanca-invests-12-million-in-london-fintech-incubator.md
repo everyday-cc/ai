@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Italy’s largest investment bank pledges to back UK fintech startups"
+    excerpt: "London-based startup accelerator Founders Factory has gained a new partner in the form of Mediobanca. The Milan-based investment bank is looking to increase its presence in the UK, and has pledged €12mn to the joint venture."
+    publishedDateTime: 2023-07-24T10:53:00Z
+    webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FLondonfintech-e1690195741719.jpg&signature=ab996187a9f4eac7a6b859adaaf82c43"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Founders Factory partners with Mediobanca to boost fintech investment"
     excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."
     publishedDateTime: 2023-07-24T08:30:00Z
@@ -40,6 +54,6 @@ related:
         height: 608
         isCached: true
 
-secured: "zpq7WNfnZgeLVaoLsPXX5NFCNaItIiK3PLy5Q+cOlk0JmFXeFOLtO4cKL/rZKBNXy6Bo1JNs+xNVC/JN2614HTa69obGIqlFeJnnUSMHCB6FJJ6jpV4++c4lM101VH+VNqN4t91BvO+PHujHno3AzGczzpZ83tq4yytfdaDrYTNA/FMUyqlncL/aVQQpiHg05o0R7uuE0tkldOXmrH+cnUfbpe16yGdPoWM39/ZcLZxcvYzikStCgvspY49GNiRh5abakx74NqR6m6+najTtqeNqbCrhlzHfjLZWReuPDK4IThkud/T3hoGUuqTLlkMO5U2ZzO1lJGwBOLdfMIHCeG4Qlsf16N5rstpr//2OApk=;DT66aqqmqP7g2ZDTS9aWCQ=="
+secured: "kk10EDYUXaH/rWNpCd5vCbt/dMCHrktZbhr2sj4JM0cuU94rk6A+RJKlPATtpH6Rlm2gLApHDPGYVYw4EYIxz/pDjQ5GvuZL/N8QGtjkaTJAdWBOiAC5I1zwmzzAp8Kq9bu+DM5oR3jh5NydqwUrmIEnMRHuXqfvY2JX3kpZRCGldYg5XCHiKFZIywU2cdys/htLQm4lb/Po92FG1rbsMNx19LTYGcL0JHc1rieuaqt/VU6ItuNFEheZkHUBQGVaJA8rpvFk6MFRMLbEvi4jAFMpxnIyOTzZyvG1VpMuN2yJwIQgfbEPir1r2qa1Pb+T7K80be2ZxQ0iuCO92Aw7izHdRbq+dIYd3bdV7haoPBSFqy5xDwNkzfhfYQVmoMxoieJt6gBUO8p2jv19czL4at1cqXfWDjWKaRDK/bUUGQL+N2nPQtc/+1CLkFU+uCzyc8KhccPIObpkfFor3A5u2CTl6Cmn0M4zQybaFZzIZASxLbuyB1NeiUYoomd/UBufOiNfBXiVdYCM7PybbD88iA==;4JVsQHtIgeYqnhOE08ayUg=="
 ---
 

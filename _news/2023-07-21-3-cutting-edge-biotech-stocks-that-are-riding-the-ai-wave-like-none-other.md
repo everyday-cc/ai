@@ -28,15 +28,6 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 30
-  - title: "Tech leaders say they're creating an AI cluster in the Triangle"
-    excerpt: "Executives at Triangle tech companies say the opportunity for job creation through AI is enormous and that the Triangle could be uniquely positioned to benefit."
-    publishedDateTime: 2023-07-19T18:59:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2023/07/19/raleigh-durham-tech-ai-cluster-new-investment-jobs.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "bMZAH8w1rb6HOiCWHfVHADI8ux6IZuLJGOZhSEhyK4ECeJAQ9B+oQTUQIKwyjgp2EvUz5/BLs0oXxn3I90VaLXOcT2EU/OYGnN7qHwqcAeNj7HsWWP0uY1Y7pwpRjnhXbWYudOfm5JISG8iFV04kD+04YaXE1780SPelO8maHJ3eUNBnd5V3Il5QjRWhQh5aiXREvMqgPKPvMttmRSuPYhI1IU31C66ghhyMWdyIlSIRllYA0yB8KZPgY7OUM7cJCHnnBMJsCQMi6WJUCl2KQz/6QbllO6Ya2HpgvtX2iUtcp6CFJ+pCxlxqLNip4yMfIFR+ETpEq4r5oy9wx0wGt+QYi/1Hu4mleFdMhHwiAcQ=;yV0c+5+djsKkmILT5knkBg=="
 ---

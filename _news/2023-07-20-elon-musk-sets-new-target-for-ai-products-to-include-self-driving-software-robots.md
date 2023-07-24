@@ -9,8 +9,8 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/international-busine
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: RepublicWorld
@@ -27,31 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Touts ‘Quasi-Infinite Demand’ for Tesla’s Self-Driving Products"
-    excerpt: "Tesla reported record revenue for the second quarter. But earnings calls are increasingly about Tesla’s non-EV projects, like A.I. and self-driving."
-    publishedDateTime: 2023-07-20T16:43:00Z
-    webUrl: "https://observer.com/2023/07/tesla-earnings-self-driving/"
+  - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
+    excerpt: "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!"
+    publishedDateTime: 2023-07-24T10:01:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
     type: article
     provider:
-      name: observer
-      domain: observer.com
-    quality: 38
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
     images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/07/GettyImages-1499013421.jpg?quality=80&#038;strip"
-        width: 4071
-        height: 2524
+      - url: "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg"
+        width: 6000
+        height: 4002
         isCached: true
-  - title: "Elon Musk optimistic on progress for self-driving software, robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories. The electric vehicle maker is in early talks with a major automaker to license its full self-driving technology,"
-    publishedDateTime: 2023-07-20T10:04:00Z
-    webUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/"
-    ampWebUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
+  - title: "3 AI Stocks for Getting Rich in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With businesses and countries across the world elevating artificial"
+    publishedDateTime: 2023-07-20T14:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-for-getting-rich-in-2023-1032463133"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 24
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
+    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
+    publishedDateTime: 2023-07-20T10:43:00Z
+    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "The 3 Best Self-Driving Car Stocks to Buy In July"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The dream of self-driving cars has been around for generations. Soon, it may"
+    publishedDateTime: 2023-07-22T11:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-self-driving-car-stocks-to-buy-in-july-1032467094"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Are self-driving cars a national security risk?"
+    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+    publishedDateTime: 2023-07-21T08:19:00Z
+    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 21
 
 secured: "XYFvWfoOgi8L6sOnBC4HUks7SPbW25V0X1hSMRAdwUx1wryS9I059llXSt0jbeb0iEAXVJC/HU3pjRjdPpq9q/5vX6LGV0x21HGVtlFdV0JgM8koVIVmJwWREUN7CLJfA/SSVKAwN9NfmmDC+kVjgD3wL9bAob48XLQq07qDkGE0OxTpvuOcqychUpc+qc4ChmO5Dp2DUIvGFvuWvz98HBODZykyhrAiUvTAfN2U0lUOlItUm9Nk19hobDnvEw7oWFUUMS8basLp3ey4k90+GDnRzFVRniZTruhCI7RD0i6XJ6QVmpBi1TTF4VA6JrT/8tlxLe+ITo7Hget7tc//S4LjnHiHeqmACBGwFYpwijH3NtgLGN9ka02WK39xP5OZjY0cOnBzIo8dmG0G0MF4WDMstcUUguG0gQxnqxL7tKCQARk8EdxXcxPKYEf4bWksRVIn34VLw3h9YPDUL2Gi/EYv984PycDl3kbW5RUukvEsjXz2lUzRReeaBPZm99HKM5jj2Z0tqBB4OZQqnboQ9g==;gI1HBYlpTn+fo++UwLZGzA=="
 ---

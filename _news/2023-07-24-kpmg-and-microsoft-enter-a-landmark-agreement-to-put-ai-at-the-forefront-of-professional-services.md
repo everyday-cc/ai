@@ -407,15 +407,20 @@ related:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
     quality: 31
-  - title: "Microsoft Shares Rally To An All-Time-High As Software Giant Adds The AI Subscription"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) shares closed at a record after the company announced pricing for its new AI subscription service, Microsoft Copilot."
-    publishedDateTime: 2023-07-19T17:17:00Z
-    webUrl: "https://www.benzinga.com/23/07/33289673/microsoft-shares-rally-to-an-all-time-high-as-software-giant-adds-the-ai-subscription"
+  - title: "Birlasoft Collaborates with Microsoft to Establish Generative AI Centre of Excellence, Driving Value Creation and Innovation"
+    excerpt: "BSOFT], part of the USD 2.9 billion diversified C.K. Birla Group has established a Generative AI Centre of Excellence, in collaboration with Microsoft."
+    publishedDateTime: 2023-07-24T11:21:00Z
+    webUrl: "https://www.thehansindia.com/business/birlasoft-collaborates-with-microsoft-to-establish-generative-ai-centre-of-excellence-driving-value-creation-and-innovation-811052"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 27
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/07/24/1367059-birlasoft.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "quTT6fTGE238NE+qZWBNirsP5+F7vP2E2Y1gAApBSh+aNiBxQMt0icBoV5tehWL75Z9lJD/xWGAmxDp/d2APmpIHudJpN1QMFfpQrfabdghaPhCgH9jBxSoPVcphrELyVVbDNwDp4A9KIZ3f2wcJGaML0V7mUFiDOxZhzcmDQJ7fWhVwqDAKC4gDUkBZj9YoDOfD063Pnf40Z44W82L7Kf1vh7xI2hxmWBqrQ9sa+aM0JXesWOxcndQWCl3DbjBxdoG4pEViQeYAiC6B14uFTd74Xaq2KyL/TB9tsE6oG2c8gLsi0MeVH7RLcQY6T6GTSaR9tqctJ+WXJgBK5C5noCZlQcglxQGSiGcdza/plXKk5jEcGD8/ZWMu08LsbVy8S3OfcoUnHjo8rUWVTJvNiaeg8YH6NniueHfCy/MHGdBnJcCcu6u3/dL/0n0EiO0oKFcuJfjTw3y0DeZmJv2EpD1p+UR9VELtFh6rcwD3DFOASpM8xeuibg8FAho5M+Ikneb/2pk0JNA3F2ohyicMZA==;j/m6sbckJRVdgsUpW14tIg=="
 ---

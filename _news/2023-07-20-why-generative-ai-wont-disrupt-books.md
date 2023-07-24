@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Setting Up Generative AI In Your Enterprise"
-    excerpt: "A practical framework for implementing Generative AI in the enterprise - including strategy, governance, technology stack and talent."
-    publishedDateTime: 2023-07-19T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/07/19/setting-up-generative-ai-in-your-enterprise/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Generative AI isn’t quite cleared for takeoff at NASA"
     excerpt: "Under the “interim policy” GSA said it would block access to third-party generative AI large language model endpoints tools from the GSA network and government equipment but would make exceptions for research. The policy provided guidance on “responsible use” of those tools, such as not inputting non-public information."
     publishedDateTime: 2023-07-19T19:42:00Z

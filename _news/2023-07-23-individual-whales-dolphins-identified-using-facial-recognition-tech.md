@@ -41,6 +41,22 @@ related:
         width: 676
         height: 381
         isCached: true
+  - title: "How face recognition rules in the US got stuck in political gridlock"
+    excerpt: "A national effort to ban police use of face recognition is facing a sobering reality: compromise"
+    publishedDateTime: 2023-07-24T11:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "OP-ED | Facial Recognition Is Not New"
     excerpt: "Opinion writer Barth Keck says he's not where people have been hiding, but facial recognition surveillance is not new. Retailers have been using facial recognition technologies for years – more than 35 organizations have been calling for U."
     publishedDateTime: 2023-07-24T08:45:00Z
