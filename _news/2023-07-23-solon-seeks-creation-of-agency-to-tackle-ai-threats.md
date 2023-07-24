@@ -41,7 +41,7 @@ related:
     provider:
       name: Wisconsin Examiner
       domain: wisconsinexaminer.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://wisconsinexaminer.com/wp-content/uploads/2023/07/GettyImages-1463605211-scaled.jpg"
         width: 2560

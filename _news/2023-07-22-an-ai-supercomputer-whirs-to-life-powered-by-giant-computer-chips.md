@@ -25,26 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Can computer chips the size of dinner plates feed the AI boom?"
-    excerpt: "The Cerebras chips stand out for their size — 56 times as large as commonly used for AI. And each packs the computing power of hundreds of traditional chips."
-    publishedDateTime: 2023-07-20T20:04:00Z
-    webUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/"
-    ampWebUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
+  - title: "How to spot an AI cheater"
+    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
+    publishedDateTime: 2023-07-20T23:00:00Z
+    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
-  - title: "An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips"
-    excerpt: "The new supercomputer, made by the Silicon Valley start-up Cerebras, was unveiled as the A.I. boom drives demand for chips and computing power."
-    publishedDateTime: 2023-07-20T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html"
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
+        width: 624
+        height: 351
+        isCached: true
+  - title: "You can now chat with a famous AI character on Viber. Here's how"
+    excerpt: "\"AI is becoming more prevalent within the messaging app industry and we are excited to continue to support the development of this emerging technology,\" says Ofir Eyal, CEO of Rakuten Viber. \"AI companions, like Kuki, will provide our users with an entirely unique entertainment experience.\""
+    publishedDateTime: 2023-07-24T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-now-chat-with-a-famous-ai-character-on-viber-heres-how/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 49
+  - title: "5 Moonshot AI Stocks to Buy Immediately"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
+    publishedDateTime: 2023-07-24T15:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
+    publishedDateTime: 2023-07-20T19:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
+  - title: "Google’s Termination of ex-AI Engineer Chatterjee Sparks Diversity Concerns In AI Research Team"
+    excerpt: "Amid mounting concerns over diversity and inclusion within the tech industry, Google faces yet another whistleblower lawsuit by an ex-employee. Satrajit Chatterjee, a former senior engineering manager at the tech giant,"
+    publishedDateTime: 2023-07-21T05:24:00Z
+    webUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-team/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 27
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-21_09-43-54.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "RDoK1QLSivznKgynilTYGYFmhNfvDofKtPCu36tJJvr9WwUpHC78fInLsx0Khkz97Ut9hGHjDDr/U5x+P3i3f6a0W5mVBvkyg7Y6oSK963nL/1wXe4fFeFrjOJ0illZ8V4JiL9OZVBPmLc3WatehNI05ktTq/Qm3vGrVIDFIovKnO3if1V7B1C9ep6b65eifR5QZg++EvBAbdZ7VAVLwjdqoFzjRi4dV3yzpFIWoAn8f/qXYFcSz5T29jFc/OsMYwac797JklQ4NYMtGL5qcm+Fua/DQtnELZ96FcJ306CKL6ZsirQJ04H19GthQtOzntroEZb/riPfy1Y4Oxt/VF2BBv3PxNp1pgI/cgzeC+JvwGxqLz9x7dtIWDzhg+Y6KK2WRDn1zJ/aDat8rTcFMbGEXtuATK4SyDQAJ/eizeNhUtuiDl1JD6pR/vkJPuwrFA5lmm8S0DJ6eIEk28ImjumwcD0twrbzYKgVktICd1DoImpzazgxCzdBzf6yfXF5i0fds/P4i1iz5WmfERuGfkQ==;Q9+Lb9qh7/w7YRCqLTH4Mw=="
 ---

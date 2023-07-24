@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -60,7 +60,16 @@ related:
         width: 662
         height: 434
         isCached: true
+  - title: "How AI Is Changing The Face Of Careers As We Know It"
+    excerpt: "Look into roles that are more strategic in nature. Join teams or organizations that are looking to give humans ways to combat the bot."
+    publishedDateTime: 2023-07-24T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/24/how-ai-is-changing-the-face-of-careers-as-we-know-it/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
-secured: "sKox8Rt2gEuStyrHRjJEFJr5SaChFbfknhHIYt4z9nd3bLAEuwLk3iAJp6fCkB9thwXlysLa5IxD9UI96tkH+4OlRBh/sDpcGQZSeOQnO3ZLEZD/2mu395U0xVwTC0tfdvz8FWsAvaABeY3aNFRU7/scAvfm2cKBZ+mmXVxprJMBgwKmlKu5mk0Cp2a47/nFxu/6Uw2sMQjJTavBIgkRj78l4+2+8CNzolQvgy4V6a9f6/NoMiJQ9a2qcMOuP6Auu5a64fs7v7SIE/EUSt0aoCrdg0Jkw+HD3ibYGgdv3/aZ08BkFwfPbeWb4lee7Vn4mgH4AZ83VeNTWyhnuJWqJeXx3eefpM9Mrv/6/11yB98=;7wtnlCm6GBaJke8GI3240A=="
+secured: "m15uos30b1z314+3XmgxV6jwTvQnGlHltRD6hIXiZXq0xcCL7QOKEK+fcxtuFXysdHN/naDi1ad/Y3msXX39oNBilufHE2AE5iL9P9TTGpwJLG1LI9CAs9Ar9wVApcILhphuzdWCEYGRqBeI26GEyle+3kTsWIlekoVMBOrpXF/3vr/+HMdeBj0fFhanNKwfVzz/0fhi7B7SMD09vFYCBSmEiqOan1PrwNuMpreCDUWiD842J51z4VC5CoLzp97b5zOCjYC7RwOsIEeteEXKQfWwHUPB/gO90/uVxQUD1rmIA+WVeoVCqmH9Ft3AobmhyeWcqk1Ln4QBeH0ap2GpkEou2DaA+/jrQe/r23IDIYN5nhkXYhWMSXnQTVI/n6rh+X/i9Ii1n/64EBsuiZmIo9Pi096+U2W0VDHE+1wDucFpo8p3HrYqP6itob8qvMISCpDPhupUzICLnlNeSQR0lMyh/lp4wjnJXC7Ldd8OEB2/Kzu93oUNM8bNm4w3Fu/s6DE1SBtu0dNf33NS0F3Zig==;0wfCD2cprApXBLJyKxIGhg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.hmenews.com/article/industry-assesses-impact-of-ai"
 webUrl: "https://www.hmenews.com/article/industry-assesses-impact-of-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence at the heart of fifth industrial revolution"
-    excerpt: "A key component of industry 5.0, AI has potentially enormous benefits for everything from safety and quality control to sustainability"
-    publishedDateTime: 2023-07-19T23:00:00Z
-    webUrl: "https://www.irishtimes.com/special-reports/2023/07/20/artificial-intelligence-at-the-heart-of-fifth-industrial-revolution/"
+  - title: "Dispute over threat of extinction posed by artificial intelligence looms over surging industry"
+    excerpt: "The divide over the existential threat posed by AI looms over recent advances in the technology as it sweeps across institutions from manufacturing to mass entertainment, prompting disagreement about the pace of development and the focus of possible regulation."
+    publishedDateTime: 2023-07-21T16:00:00Z
+    webUrl: "https://abcnews.go.com/Technology/dispute-threat-extinction-posed-ai-looms-surging-industry/story?id=101495898"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: "https://www.irishtimes.com/resizer/ZZLf-r-E8Rso6R3VyDAc08PgLnU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/GQR2M4RLRJCWXDT6RDVFY4EJFY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI could revolutionize dentistry. Here's how."
-    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
-    publishedDateTime: 2023-07-21T18:36:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
+      name: ABC
+      domain: abcnews.go.com
+    quality: 7
 
 secured: "Wu4/oo+7hOfn8ZjnzurpiYHcvKnGjuRxbAT91e6ARiussi4CXjhi3XTGOQudGMlZY9sUkSQZ/4u8TmpFIqkB84+w/H5vQ+p6xJ6Xz+vAlFmy5UHEPluIZDX/SjMZUPbpJjNY4LQ93wsDwlhiOSDriKPXWqKfSXGGbE/uEBpTE97+wBLtzdKhWCphHQOXYBiXDYD4YqFIICIHfavQHWNqF5dNE5yapfy8izvLoNFIXIFWXZakeIjPYMwSYnNeKHX6Ru3BHrT9Y7usziGGxdFWEfi8F4RFW0jRA6BfXGCcCLFqm3NrC/p96ruYmR+EhlWWN6BBdLsuhDm2Ggg1xfpRHqf3CJ6OtsO1jmGPK7ie7r3/NHq3dSHfyOWcivK2EYq3tH7Yhuulm+MwFsuUVjeUiBVq968dSt58MHCN38pjwfyoQtkFb7VSBELmsyRpMR2JLrpEt4VLRUF5+TAwWBn8jve5OBpvmTzzIFWV9H52G9hmSH+y/c2TV6zhGS19t+tzwDvECo7XTCCqVqDpBOz5pQ==;XWM+vM41zuU8OL8SzmfBAQ=="
 ---

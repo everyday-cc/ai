@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-23T18:00:00Z
 originalUrl: "https://greekreporter.com/2023/07/23/greek-ai-shipping-startup-japanese-automation-giant/"
 webUrl: "https://greekreporter.com/2023/07/23/greek-ai-shipping-startup-japanese-automation-giant/"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://greekreporter.com/wp-content/uploads/2022/05/greek-shipping-credit-union-of-greek-shipowners.jpg"
+    width: 733
+    height: 461
+    isCached: true
 
 related:
   - title: "Katonic AI to help Japanese businesses securely embrace the power of Generative AI"
@@ -34,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cDyw4lks3WXK9au7T9WMSmQkC2+YP8fVt3fY2DzZFEjonTqYGW8ozg5plCbZbwiyxqU4FSREtpIJMvzEbfSPdBwkHXRhkTdwDgnF4R+/y1HGQbVhauOJWY8083n9mgHzWogSDadodylcYLhpgSUWsTG3dCgrY/YNJeZhf0gRbMHRDme9/D+28x4PyoOp3VndTY6VWC+dfZV8iDg2Qwhi8hCAkm77uFHTuON6B5sYznAa/loeIu1CdrvCZEAs8k9rjpYYqCzzYAg4PKRMfge+6TJnsZB0WXt6UW8rz54n+Hn9YuG5vwJKTqPRI2B4gja1SvqDQRHXskClfNrNcGSeY+SMyPeGGPzPyFX07Ev+BWSp5iJ7ZxVebWbFhMEJ5EtohHt0yHHJQogDK2/av32J1R0Wt4DPlP0Dv7Fz3ypPXW8iKyPsGhZmXKYRRma/QfnwxYytL7qSceoGVrEvzhweO31gOxKdY6RQDzRW+Ghm4rRj5UrTOHLovlwl1N9hKAopKnD0ooNt3zsbsr/59amZSg==;vjh2Ny8nDxdloAoc4X9Llg=="
+secured: "+SLlHFPtjrgwbCeCmuFP/q7WOm9GhfsJj+vYoska7GZ+nwsCB8WqB9EFGKhNAEBY+X2iYE1gWW2Uxm+0xha4oELhFPtTadV9lFTeHRrD3510kmy1UcrTC+1PIx8XH9Aa1YhbpdxJ3+Ls9M92hhHZE8n1tpBzzvs3kjfF9f3pELmyR/fRBjsbjAr3WyfSaKFttnTWXiKO5fNH6aSQT61S6r9njrnhdEPj4x7zMiFIxSSC3zZNoDIjFgSJkV5rHK4V/0kxAXpE7sEad2Xl5rwVu6oCeziWbc4ubsAtbDM4DYD5IyppzbOJlikcKXv2SPM4EGc6/DIl/637XKwrLYBb90qo7QGpQ44S9SQGvZFQmxI=;GSj2M/xLr93HVTfhlDmdfA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/20/1076539/face-recognition
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/20/1076539/face-recognition-massachusetts-test-police/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MIT Technology Review
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How face recognition rules in the US got stuck in political gridlock"
+    excerpt: "A national effort to ban police use of face recognition is facing a sobering reality: compromise"
+    publishedDateTime: 2023-07-24T11:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Face Recognition in the U.S. is About to Meet one of its Biggest Tests"
     excerpt: "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America."
     publishedDateTime: 2023-07-20T14:50:00Z

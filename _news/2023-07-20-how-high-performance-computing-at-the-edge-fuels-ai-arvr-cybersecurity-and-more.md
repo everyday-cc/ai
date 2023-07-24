@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Is About to Shake Up the Cybersecurity Industry"
+    excerpt: "This piece was contributed by Dan Barber, Cybersecurity Instructor within CSB. Artificial Intelligence is the hottest topic in technology and business right now. While companies try to leverage the potential for accelerated capability and Universities like ours are rethinking how we assign and measure meaningful work,"
+    publishedDateTime: 2023-07-24T15:44:00Z
+    webUrl: "https://www.wilmingtonbiz.com/insights/robert__burrus/ai_is_about_to_shake_up_the_cybersecurity_industry/3718"
+    type: article
+    provider:
+      name: WilmingtonBiz
+      domain: wilmingtonbiz.com
+    quality: 41
+    images:
+      - url: "http://wilmingtonbiz.s3.amazonaws.com/burrus_rob-headshot-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "YFR7caAlfG5RDh8paEOiGtC1/7KT3/Zbvv29cfUCygNF1aG5xOusU6UTx8H0xIN9YqNZTpGj02GcskVCrY5aCT4xQMRU30eFMyth4es0z5l1x43D7iY/L48nbvSx9jixA2H73Ew8G47WizuitTdgkyWEhRiJP+PmOOUf2eAzXCPmj1P84r8A5YrLUDRFQDbPCabIBj60Mbxbx+ENMNr1Gf9WSy+CYbcpYdZbsauGXar0ef3Ec6fFJ0gG8YYT17+ae/LFgTMSWElHxuLT0nCTzvNKg65WmtBbsqUMIqgindXzpyC3JY+Kmr8Nq8PATJDtFLfLNrYVjUpvS/e5zK486dh/k/p/XH83r1fVNL3kcJsCpsuQKlHy8H5xvp6jQs9QlQej1fE9xbeSdSy8QC3dZT5+pnK1tHjH9N3xeyc08xHhakdWFAam//vlgn5+YEuTcsCgQrKknugTNHHCKCf4grri/2P7nhVWRGMqsqgu8eNzPJbirSPHgU2/g2p3FufKM64kT/hTzkSQSu5iKZyg/A==;AOlVyDxWYPwHe1wQpd5XKw=="
 ---

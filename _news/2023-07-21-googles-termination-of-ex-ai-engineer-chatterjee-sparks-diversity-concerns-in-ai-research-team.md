@@ -25,20 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Brain on a Chip: Research team bags grant to merge brain and AI"
-    excerpt: "This transformative project aims to grow human brain cells on silicon chips, creating remarkable capabilities in the realm of machine learning."
-    publishedDateTime: 2023-07-22T11:22:00Z
-    webUrl: "https://interestingengineering.com/innovation/brain-on-a-chip"
+  - title: "How to spot an AI cheater"
+    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
+    publishedDateTime: 2023-07-20T23:00:00Z
+    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
+        width: 624
+        height: 351
+        isCached: true
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
+    publishedDateTime: 2023-07-22T07:40:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 54
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/07/22/image/jpeg/3OZ6p46Khs3mWIlC1CvBjv22qTs7kVRuXt4op969.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "You can now chat with a famous AI character on Viber. Here's how"
+    excerpt: "\"AI is becoming more prevalent within the messaging app industry and we are excited to continue to support the development of this emerging technology,\" says Ofir Eyal, CEO of Rakuten Viber. \"AI companions, like Kuki, will provide our users with an entirely unique entertainment experience.\""
+    publishedDateTime: 2023-07-24T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-now-chat-with-a-famous-ai-character-on-viber-heres-how/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "5 Moonshot AI Stocks to Buy Immediately"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
+    publishedDateTime: 2023-07-24T15:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
+    publishedDateTime: 2023-07-20T19:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "Wz7uzSW+xTgCfzef+xKQ6mACM8N3EUmpgQdPa2r7nxMJNZwT8Qzi4BemkvCPnehOoSeOsCsyRGqxIj0LmB73kx1TNN1XL56pkUXMXQ8Jg8dO4vWDkycX1M6Ajfd7ucaJ9Od69DHb9uV0RO0h2Qwycnq6DZNkadRIy22YMZoWJwQfy3j5GU/8vbrM8DmwsWc9ssUThNKUhq0VV00Ztvip+2qALNnsJVMNb2vn4eSfVAWeXhBLsqQnlPBB8rtVFdinUCnKO3ROXUYhs3khmeAHbG90obQlqKqW2Xhjlp7U7QjvmfftSGCSgNgX3iO+15gaEYIfpEzTqfrN+CFmCAoatEHrNQFo4VGeFKgVNVRJfk4=;RQ+KTe/50q3Q6bhK4L5VvA=="
 ---

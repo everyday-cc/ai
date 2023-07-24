@@ -39,6 +39,15 @@ related:
         width: 640
         height: 424
         isCached: true
+  - title: "International Business Machines Corporation’s (IBM) Stock: A 4.19% Simple Moving Average for the Past 20 Days"
+    excerpt: "The stock of International Business Machines Corporation (IBM) has gone up by 4.15% for the week, with a 3.93% rise in the past month and a 9.96% rise in the past quarter. The volatility ratio for the week is 1."
+    publishedDateTime: 2023-07-24T12:21:00Z
+    webUrl: "https://newsheater.com/2023/07/24/international-business-machines-corporations-ibm-stock-a-4-19-simple-moving-average-for-the-past-20-days/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 0
 
 secured: "EAtAPsRS5rZBrfz9ZCktbD34qKd5zcwFdKzrWuNYgumN+sMjXDCUdfQtVcoj18a77hvg6qMR4DV1FHtVh82NljI4PxwL/D0RklfAxmZfrCylIem9VYz4iE+eg812bxYL0ZDDifZRz26aTomeq1gQqz7mwShtoybCbhDzB/1+ruR45LZMEcV47T9fpmm7fJGChoxQs2yebfNUm32dEz6jsThW9lemZGqxCLxiyFUFWaU3+jHnYM2/d0t29MT4xkHyGnZ9R5bchBHPd5UFWY5U5p+ZVi6uMMzWh+c3ByQKgLQXoQwtQ2vbzGmGXrdzJzTueuvqaJePXUkoVevmoT8NVEOKcBbtRcBeyf0aBv2c1io=;x+IJIDOOE5sUKFwBAm8grg=="
 ---

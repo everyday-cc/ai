@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges
 webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Mediobanca, Founders Factory join to support Italian fintech"
+    excerpt: "Mediobanca & Founders Factory join forces to launch a €12m fintech venture studio, nurturing innovative startups with a focus on blockchain & AI."
+    publishedDateTime: 2023-07-24T14:24:00Z
+    webUrl: "https://fintechmagazine.com/articles/mediobanca-founders-factory-unite-to-suport-italian-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a52f858666447d73949867a62c7e1ce6:b3211bb1616a053243aa03b4c9af6529/alberto-nagel2.jpg.jpg"
+        width: 1199
+        height: 629
+        isCached: true
   - title: "Mediobanca invests €12 million in London fintech incubator"
     excerpt: "Mediobanca has joined with Founders Factory, the London-based global company builder and early-stage investor, to launch a new fintech venture studio and accelerator, underpinned by an overall €12 million investment from the Italian investment bank."
     publishedDateTime: 2023-07-24T08:58:00Z
@@ -57,7 +71,16 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Italy’s Mediobanca, London’s Founders Factory to Invest in Fintech Startups"
+    excerpt: "Mediobanca Group, Italy’s largest investment bank, has signed a partnership with Founders Factory, the London-based global company builder."
+    publishedDateTime: 2023-07-24T12:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210536-italys-mediobanca-londons-founders-factory-to-invest-in-fintech-startups/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 2
 
-secured: "Ti08FS8b7hqb/p1cO8lm4fXs3o6a3KY4VoAAMw75K1vz8+kUbxZIdv06k1VVyL8O7q89h9RtPGYTpKt4rXG2T8dp1iVkKh97zO7QCxyUwt7/n1PUODA95d1rqiHm556Tc6r8XDC2EYNigC0x2gq1iUi88SWFB2H+l8FjhbNTnd32G653hY6teVIyilOPT2qdwbfgjdxD1wEguFDcYqMvE7GNYBzEQuUroG3Cnf7j+G5n7aP93BQV6K2HT3Liycj6zE/IVb2OqpPGAI1Qm92yLxI3o7oa7TRdX3QDiJJhhlMyXuQ2n9k9NrPjNlg0CG/UPhqPiSzAotGQZZtXdzZsoX/fbgxv7bl05/U4YxZLog4=;DrZN4nVvsgufKOEGRZ9rXw=="
+secured: "HQYOqLV0hnUT3rkkVPw61NJnK08NHl591JeTbqAQTHwQAA2RrkuvjnLNEtJybCCnVQMlgIXInHTFLZ62ZEBebAZnStC1E72de528thW2bzc0+PssyG0Y+JWuu+57kNPFTt9P7cDSbMQdgEmfVZhLrFNr0gzS44+1GoOa6qd76iZ/5tk74zKLPKCm8U5cbQHa0X8ePb+NdPsMcOhlFFJyNg6FyBayh+7iaDUFIFTfbCDwtcYjviWFEo6gvuXHrr7fYn9ybSquoUuo0X5w6nII0VibYjsKXkFh03yx66HlHKOwfM9y+QLJJ119yw6h8C/amYupRtw8p+QLXFARCRSLrtiWJhvVgBEFMdqZhZRI+mncOAPkW3FDr6L4GTJVzhlDGKi9jOL+L9uVok57BEZaHysP3T4raU2OCD9h1+Kr+2apFS9/YPss6394ax802hKD1xCSPpdhYF/+rU2Gzh8KX2TV5Iw+dNBzFUL+K56ES1eGkFooZ7DLabhx/TA+DTJHAumUyibzykrDqljG7CzCNA==;AaVOYfI8ec6m8V+LY3Wsqg=="
 ---
 

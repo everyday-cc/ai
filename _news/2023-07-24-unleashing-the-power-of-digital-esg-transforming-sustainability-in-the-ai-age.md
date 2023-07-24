@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
-excerpt: "Global think-tank DQ Institute launches the Digital-ESG Assessment and Reporting Standards, which aims to address digital-related risks while"
-publishedDateTime: 2023-07-24T01:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age-1032467826"
-webUrl: "https://markets.businessinsider.com/news/stocks/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age-1032467826"
+excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
+publishedDateTime: 2023-07-24T15:23:00Z
+originalUrl: "https://www.cmswire.com/the-wire/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age/"
+webUrl: "https://www.cmswire.com/the-wire/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age/"
 type: article
-quality: 65
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CMS Wire
+  domain: cmswire.com
 
 topics:
-  - AI
   - AI Ethics
-
-images:
-  - url: "https://mma.prnewswire.com/media/2159742/DQ_Institute_1.jpg"
-    width: 400
-    height: 300
-    isCached: true
+  - AI
 
 related:
   - title: "Unleashing The Power Of Unstructured Data: The Rise Of Large AI Models"
@@ -87,6 +77,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "pr0ryBOjZzz5Ji1oSxTX13AO12x5WT3h6qiA8/Ts6K4j26VqplimXKTUyCMN3fKgv+ny1RwAzi3FwNT2yNnwWIzOv8ThRCbkZvOD16FV+MfDDBn9QW6aCeJiqUqJeWR4Xw/BKtvQeBQy7OKmtOslwHKA+nQcWs+UcXyKhdpIS09SbLx6G9XvA48OTMdGw0Ce6rFUJOUg1qYPObCN1j928HtaGT7XDedx9lPNKrTDNBJRdzz46WXd8rr1chsZ77EeCs9vckfOlfVQsoajnLI+DA4tCeQWH4gQS5Qd+JsusN62eLcC4bacemrznyVExQ6OyZ17yDczbVK6X0HAsnzDf/ROYcW0JvcWPUbPrwTgqOC9GllEw1egclcs4i+rWs+yke8ugP3pTevYqgoq6Dj/x5nrQn9BQ3lAbGUTP6bZqXb44wdSTIdQuhPi1iGmNttiloWuRU32Q1WfA2Tye1WqbCAaCIxUllc1P40X3aEE7bzbO9iAFlaI/+q44qkeX+tBtz+ZI6H41+LL6QQTmXDE9g==;8iBuXEtgRCo5qoao7EyOLw=="
+secured: "jRivKyMi+rcvYe96bEADVYHcn2v0uFNyecdX6XGO34wg3imt/RyD//hAhWb06baNLjfez7iNkk3wv0jSxWaXdR5bGvo210N0iSEWOUnYrIQyUtAtvYfM8GhIQ1o8J6aan13Zx19FlqFJ1fiPRnWFwNVNITOgDm5MS0ELeg+WK5TaAAPrN+3jn4NCZzr1vcfdgalinlGHuz6WWUZqaGBTgVJ+3Yazx9mbe2K6UG6xw248Hg4TwV+ccN8hFqeONkFFbl9tIl+pujrZOuTTLMMeYxBEgPnqqmHmsFQb3hMWwJvDz5ySudX68pdKdjZ/xAUU9Ojr4hU2EPy+9XH+cl2GnxjBF6nP9ofPS/2S8TnVBp0=;Be4CzQzpD2odMR3MZ72GEA=="
 ---
 

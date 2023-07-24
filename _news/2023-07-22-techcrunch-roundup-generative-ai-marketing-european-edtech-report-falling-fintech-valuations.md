@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Announcing the second group of judges for Startup Battlefield at TechCrunch Disrupt 2023"
+    excerpt: "Additionally, he contributes to GC’s expanding AI efforts. Bhargava’s four core areas of interest include security and data infrastructure; startup tooling platforms that make building software — especially financial services — companies easier ..."
+    publishedDateTime: 2023-07-24T13:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/24/announcing-the-second-group-of-judges-for-startup-battlefield-at-techcrunch-disrupt-2023/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 23
   - title: "Analyzing The Impact Of Fintech On Global Banking"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
     publishedDateTime: 2023-07-22T18:46:00Z

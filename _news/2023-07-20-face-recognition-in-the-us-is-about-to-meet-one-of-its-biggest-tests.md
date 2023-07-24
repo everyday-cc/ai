@@ -35,6 +35,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How face recognition rules in the US got stuck in political gridlock"
+    excerpt: "A national effort to ban police use of face recognition is facing a sobering reality: compromise"
+    publishedDateTime: 2023-07-24T11:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "e/8QIOZosu7NRLCJI8NhCudWpkSycjziXVqMMwzU0r1havQ307Ou136+hNcEASfItNlwPqqrJGoVBxTPpPz36DfOuYpdG5slZkkcHrygUDvvzxscV3EY1D+mxhLbeB2AG+4+zGNrCx0x5GqjHmUok2ybYebh1Frq8TZL09LDgQEvr6P7hsk3ybpJYUccWpN3dSKxHGMXDv2PNfnJaV4he2ZqTILK72K/2jmsv9uC0F/6P8IjM6t67mc9IwKrakd7RvAIzf3RH8gbjp0Bu/aZvr8EU7LQc3OYcaxCaEOVY1DbGMuC4ow4v7KJ9549gflbazYQmiMfLZdl7PJwyd2C3gbuiWleqU/kPc+7atex2K8=;2m7B41vfmicGNypydmeM1Q=="
 ---

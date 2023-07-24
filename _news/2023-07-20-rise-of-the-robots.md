@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Rise Of Robotics And Automation: Transforming Smart Home Security"
-    excerpt: "The impact of robotics and automation on smart home security extends beyond protection. These technologies offer enhanced convenience and peace of mind to homeowners. With remote access and control, individuals can monitor their homes from anywhere, ensuring the safety of their loved ones and belongings."
-    publishedDateTime: 2023-07-19T19:26:00Z
-    webUrl: "https://menafn.com/1106630697/The-Rise-Of-Robotics-And-Automation-Transforming-Smart-Home-Security"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
   - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
     excerpt: "The investment, occurring alongside the companys product launch event, will further accelerate the development and deployment of Ati Motors robotics technology for automating work in industrial environments and warehouses."
     publishedDateTime: 2023-07-22T05:06:00Z

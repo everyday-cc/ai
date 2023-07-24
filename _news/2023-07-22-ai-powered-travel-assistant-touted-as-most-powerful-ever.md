@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-t
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
 type: article
 quality: 59
-heat: 108
+heat: 88
 published: true
 
 provider:
@@ -54,29 +54,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQbJQxrjlBeN4cs67CXVdZz2mjCg3OpjcYTCaDMotBBS0w1DicXPURoZR2uskiz7UHmzqLjP2EO1SNhPLg1_ynHYbZ9CHxJDYKzvWpnNtcfiFAN8NTbVNi4AcHTsr-sTkERITlHj82SMrtU71iYNPbHZQslSXBNsOe846623Q3OiZ_CKC2MmLTh2z-WE/s16000/IMG_20230720_161530.png"
         width: 1000
         height: 560
-        isCached: true
-  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-  - title: "AI-powered clean power startup raises almost $6 mln in seed funding, inks deal with prominent removals firm"
-    excerpt: "A San Francisco-based startup that uses generative AI to help companies transition to clean power has secured nearly $6 mln in seed funding and has signed an agreement with a prominent carbon removals firm."
-    publishedDateTime: 2023-07-19T21:47:00Z
-    webUrl: "https://carbon-pulse.com/212994/"
-    type: article
-    provider:
-      name: carbon-pulse.com
-      domain: carbon-pulse.com
-    quality: 19
-    images:
-      - url: "https://carbon-pulse.com/wp-content/uploads/2023/07/CF2023-TS1.gif"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "+ebuyWkvSfjjxja9SB8D+61am8FnbOfo9/Yb5M/xx/JAlcjEd4f9AIgR1uuAIRuiHz7zysGj9Qpp6uYq92L6o9dpYiEDpho8VRLiZhOgRdie9MXsaQrZIcbsNZqUh1I857M9Lcy0NTLp26qF9iROze2NL7Pug73+Z+si8C8MxTxwfov9vlYWArtmWASf7tCFbffmbLR7AyFPMsRzn7vg9Ru9aF7IGvz2Y1a0w6aZg8FBl78/+n8QmY6ymPt/u09avRpD3iQbO5nCd+xFh7/IhLVcYOl4Maa2fv7kTs7GnKfOv4/cbX/YBbqydQr0AQjcOKVrJRx50/XMCGC8aSsUt7/35g0nOuKXdCeoqqKXYbSzHpuX+dYrLo2FzZu24HLsFSC9uRxV+47z2GOAWiSH3KnN712bwcIOz8RtxafS+hM5relUXAF9fL4+5DbmHce9aIz40WTIImtNGOndsZUw5sGNVRPU4wB8z+8yGZJmSFp0ySKD4tpMPlYusn1axeqCwM2oyIUDNKJBYz0LYsIHkQ==;BDtNkI834CjpBB8r+EvUng=="

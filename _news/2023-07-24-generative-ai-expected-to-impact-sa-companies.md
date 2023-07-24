@@ -81,20 +81,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Generative AI isn’t quite cleared for takeoff at NASA"
-    excerpt: "Under the “interim policy” GSA said it would block access to third-party generative AI large language model endpoints tools from the GSA network and government equipment but would make exceptions for research. The policy provided guidance on “responsible use” of those tools, such as not inputting non-public information."
-    publishedDateTime: 2023-07-19T19:42:00Z
-    webUrl: "https://fedscoop.com/generative-ai-isnt-quite-cleared-for-takeoff-at-nasa/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/07/Mission-control.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
     excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
     publishedDateTime: 2023-07-20T00:00:00Z
@@ -108,20 +94,6 @@ related:
       - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
         width: 860
         height: 510
-        isCached: true
-  - title: "Meta launches new generative AI tool for free for research, commercial use"
-    excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
-    publishedDateTime: 2023-07-19T21:58:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/meta-launches-new-generative-ai-tool-for-free-for-research-commercial-use.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "How Would Generative, Predictive AI Change Wall Street?"
     excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"

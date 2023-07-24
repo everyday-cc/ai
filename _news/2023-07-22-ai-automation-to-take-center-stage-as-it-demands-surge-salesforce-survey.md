@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Salesforce CEO shares his predictions for AI and the future of work"
+    excerpt: "Salesforce founder Marc Benioff is among the few tech pioneers who is also still CEO at a groundbreaking company born in the 1990s."
+    publishedDateTime: 2023-07-24T13:06:00Z
+    webUrl: "https://apnews.com/article/salesforce-marc-benioff-artificial-intelligence-layoffs-pandemic-2c5c5f7f6daf50ddcae675b422aa745f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+
 secured: "I1CHowasTc5F63m5csOBENbYgQf2Aw5LpcRwLMz0tq+uUodYQYCUv5mPL02ZpsRWagN9Eb7kOVjnKYTQglwxDYPyxoBBBGX0UNfWHf6kZRC6oMWYWwSS+cbvnikCemEXj4y2XHXHz705/wTyaPKaytL1eU2Jv+VeJh7xaKB2IwTjHI7YvQjlPdTj3jcCmD9dBmOMMuhpGwqD15w10Gm3jX/5zoS54w1hvPJ7Dq9+DhXvP3Votimy4B2JDn7OUpJ3sLyMcvN8lWr+PCK+2lkr6VzG+ydwSc0qPY1ere1BA/aUvRdxyJdMd3LaYnR33nbNTD9E2Qc1ZHhSeIaQ05V05nUxlcMT08uaMX7Mxb5KvrRhVaIGlLuWSV0orYtH41zVI9StThS1QAvaDsL/uFS7ksT8yLuXX4Rxqk+QB7GlfI0PyDoz5s60fwv+yr0C3En7zbFbidrQ/Bxrvdg1T3QYpF0wXyjvLJX6iRzodvABdyqZcQ3B09Ppf5JKI4shLBJxCzEyAUvFmuK1HXxYB9zkEg==;Vl4keL0qCwGXBaL8qaFqkg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/brain-on-a-chip"
 webUrl: "https://interestingengineering.com/innovation/brain-on-a-chip"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Google’s Termination of ex-AI Engineer Chatterjee Sparks Diversity Concerns In AI Research Team"
-    excerpt: "Amid mounting concerns over diversity and inclusion within the tech industry, Google faces yet another whistleblower lawsuit by an ex-employee. Satrajit Chatterjee, a former senior engineering manager at the tech giant,"
-    publishedDateTime: 2023-07-21T05:24:00Z
-    webUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-team/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 27
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-21_09-43-54.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "IJYwsh3bRiwTlc406m2IElwTIWBHkxnWwIcb2G+GgHLgnvjkr+7+/iYeVVNsNfaV3h1pkr4XkaakdxPcXYOdrH6hpIoxrnJk0Gf9CducYpVcFfIRTqUSqpjViK+a6jEc9AxWFySX0qOvEnm1rIpq/2rkHMqv+N++itU6rSoNAvcAepWmVAVf+BX04RJrUL8Jsr9Fn0n1H5To1I1K8ZPsvNASkkceKXjEmTkjXbzmlpXBnPeAUVBZmMw3m37tso+6OpxGYAjj5L84DrT8v0KVpqtfC4G1mak74m7C++TFvLAyuIpoh2nfgG7BpN06M6s3h+Oup2sOLrtBeW2Ez3zblnX7t6jSbyakOwg+i96j0/EHLf5+hfzkqFHrBWmD3vdPu4tRRVXDXGc+bYiwKpWlj8vTzWSdAgR8Pd3CYOqfxQGFpELqnrfknT0W995LZsCfOXhjbOY1BSmcJdxBcP2AljjNDOwzWppnSQA1iM9INkpqPLKw/B0KtzbDdmKlirzdTcP76h+PHRAM3IKCLR4N9Q==;hHIm6iBmVBCyfw8XkQ9tMw=="
 ---

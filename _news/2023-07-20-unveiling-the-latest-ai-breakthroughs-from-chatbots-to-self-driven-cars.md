@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
+    publishedDateTime: 2023-07-24T14:40:00Z
+    webUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
     publishedDateTime: 2023-07-20T17:21:00Z
     webUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
@@ -73,22 +89,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Apple sneaks into the AI chatbot race with 'Apple GPT'"
-    excerpt: "The news comes through reports from Bloomberg that the company is quietly working on a tool that engineers dub \"Apple GPT,\" indirectly referring to ChatGPT, the most famous AI chatbot and, until recently, fastest-growing 'app' of all time."
-    publishedDateTime: 2023-07-19T20:27:00Z
-    webUrl: "https://www.zdnet.com/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-sneaks-into-the-ai-chatbot-race-with-apple-gpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/76a73b14c05051fca5a16ac8d7091d54dfd725c4/2023/07/19/9414b9c4-6c98-4b78-9290-d60e8e12683d/tim-cook.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Please Stop Asking Chatbots for Love Advice"
     excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
     publishedDateTime: 2023-07-22T11:00:00Z
@@ -119,20 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Not just in your head: ChatGPT’s behavior is changing, say AI researchers"
-    excerpt: "The paper notes how opaque the current view is of closed LLMs, and the authors say that improving monitoring and transparency can avoid pitfalls of LLM drift."
-    publishedDateTime: 2023-07-19T20:03:00Z
-    webUrl: "https://venturebeat.com/ai/not-just-in-your-head-chatgpts-behavior-is-changing-say-ai-researchers/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/cfr0z3n_numbers_fly_out_of_a_young_mans_head_as_he_stares_at_a__83b36958-aca0-419b-a3da-9863a6344d72.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Meta’s Llama 2 Is an Open-Source Rival to ChatGPT"
     excerpt: "Meta is making its Llama 2 large language model open source, the Facebook parent company announced on July 18. The update to the model, which had been released as the first-generation LLaMA (also stylized as Llama 1) in February 2023, was first revealed at the Microsoft Inspire event. Microsoft will be a preferred partner with Meta on Llama 2."
     publishedDateTime: 2023-07-20T20:26:00Z
@@ -146,20 +132,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72023-meta-llama-2.jpeg"
         width: 1400
         height: 1050
-        isCached: true
-  - title: "LLaMA 2: How to access and use Meta’s versatile open-source chatbot right now"
-    excerpt: "A comprehensive guide on how to use Meta's LLaMA 2, the new open-source AI model challenging OpenAI's ChatGPT and Google's Bard."
-    publishedDateTime: 2023-07-19T21:12:00Z
-    webUrl: "https://venturebeat.com/ai/llama-2-how-to-access-and-use-metas-versatile-open-source-chatbot-right-now/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/nuneybits_vector_art_of_a_llama_programming_8c825672-172b-4e69-a6f1-b7c9e8bf5294.png?w=1200&strip=all"
-        width: 803
-        height: 642
         isCached: true
   - title: "The biggest AI release since ChatGPT"
     excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
@@ -255,6 +227,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/DKX8hMk1.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "The Future of AI and ChatGPT: A Glimpse into 2023 and Beyond"
+    excerpt: "As we progress into 2023, the world of artificial intelligence (AI) is poised for remarkable advancements, and ChatGPT, OpenAI’s text-generating AI chatbot, is at the forefront of these developments."
+    publishedDateTime: 2023-07-24T15:29:00Z
+    webUrl: "https://techbullion.com/the-future-of-ai-and-chatgpt-a-glimpse-into-2023-and-beyond/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
     excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"

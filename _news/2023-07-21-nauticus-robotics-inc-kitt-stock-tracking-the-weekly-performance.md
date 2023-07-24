@@ -7,8 +7,8 @@ originalUrl: "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock
 webUrl: "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: newsheater
@@ -39,6 +39,15 @@ related:
         width: 640
         height: 422
         isCached: true
+  - title: "International Business Machines Corporation’s (IBM) Stock: A 4.19% Simple Moving Average for the Past 20 Days"
+    excerpt: "The stock of International Business Machines Corporation (IBM) has gone up by 4.15% for the week, with a 3.93% rise in the past month and a 9.96% rise in the past quarter. The volatility ratio for the week is 1."
+    publishedDateTime: 2023-07-24T12:21:00Z
+    webUrl: "https://newsheater.com/2023/07/24/international-business-machines-corporations-ibm-stock-a-4-19-simple-moving-average-for-the-past-20-days/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 0
 
 secured: "r/zLymi2EjjoRWjdYn7aUYoVHbvMNn7CnUArHFCsCzcKCwD0jIYJ2WVOUIJaskUvzJDIZQpMyS4+4iaclNQF3u6bPJJBG5T3FVUoAUE7RDR7wEIgZ7qXRSFx4f0MDAALw2ULhYt9GUphqY7TGUoAJZSIpqb1i5T6I0Uu7rP/hVYLnhUgnj+e7rBFErEpTVzVimW/tje6UtMEy9LuVb06YsKS5XngJjr1NlI/Ow3tiXWM/l9Z2+qyEHhHJhM7WNyoI6oAWLtstT9TeGkUUilZ0L/w9EBUt/wnSQXP2/frTWMxOD9g9ZzGYpeBMbfrBanZbT96XEa//nNXTa5EbjSY3PqBWHG6E/S6jVL4IC/LVPo=;7iqoqcY5AxW3zqPR4goYxw=="
 ---

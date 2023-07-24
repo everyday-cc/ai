@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-24T11:03:00Z
 originalUrl: "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html"
 webUrl: "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png"
@@ -58,6 +59,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A Research Team Plans to Merge AI with Human Brain Cells"
+    excerpt: "A group of researchers in Australia have been awarded just over $400,000 (USD) in government funding to study the possibilities of merging AI with human brain cells, a research project likely to bring a number of AI-related ethical and existential questions to the fore."
+    publishedDateTime: 2023-07-24T14:57:00Z
+    webUrl: "https://tech.co/news/merge-ai-with-human-brain-cells"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/24101043/imgonline-com-ua-resize-I7B8Yq8jRlR4.jpg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "Scientists Working on Merging AI With Human Brain Cells"
     excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
     publishedDateTime: 2023-07-23T12:32:00Z
@@ -68,6 +83,6 @@ related:
       domain: futurism.com
     quality: 19
 
-secured: "8Ha8WoguG7blQpxDYHUO0TzJm3v01uDd5y3VBEXzdNiFKHhrI0gCUrbW7/HHflXdEiXnCyqkm108+RU9lMnAlNytSzOFTd1A1QOYPZnsWGgX4M2ZIEPWxwY7frYDwXoq0zdicLtRD2rZwPkVnHhEQo8oJvpbpJ7/QPXhXxe/4PrFTj6gWigzKnLwtSR+hr5TfJaFMUh21tIbjbBVThN43ya/5bmtREObJF2Tv/la1ZqHC1ci+s9Nh6Y7/xbr762wQc8U9NWMIc5ULp1cGEyWymlidELvmcgKVtZIcOxHNvIgUdUieZHiqGQG6AE+2OQzFq8Z1TlCFBTpQ8i7tdAgeMB8sDFYw17WvjWTlpD9X0w=;o43QR8LnFVU3tyG8JUERSw=="
+secured: "m+6uMwOuqL/bii4pl/5XPEYge7lnLABk7utLptkoUgZ6S3sWbyeV9f2ov2zUEygp15ogQNrEfMx3NAI7F7RpNBpud520MwWIhv+lQJRJ655EBlUSFHkUKb+gWfBdQ5Y+feZT2hymPPB6dNzHoy7KOSYMdgrNrjbDF+ajkZVMXv1bdZ6P2zBhRbzrjod/QBrXl31A2wBfM7LFptn3qtkawVYBMnLX2VbnxFjsp7N232rY3Vtfm/RZ5Xw30Kx3ioXZwyH7WAYeJZ1Pt31kpkVZCHBFhpSecazCxO/6d9TvieJr+n/OEQ1T494IN0q6YLgyfNlFJ0PnShkmfE9OM89wxr9KJ/EfWGWJ1LKuCX+zrhYmUa/acWUNZS6ECfd861kH+dK+UzQgm7QzwvSHnrbsHwwp2hGme4VAGEVO7k/TA9d+YSeluna8qXaPj49zKOMsxVqsCyURz62SSnLTYNktV+vugsEhSHXWOreETWin36B2KIRQ56PtIv/dL4ZSnlTDveHXnMCWVZSz9Kcd7/Ijtw==;sZ1ONo5pEav7+lY5RIdE0w=="
 ---
 

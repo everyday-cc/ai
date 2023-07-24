@@ -19,98 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "AI assistance revolutionising online education: Personalised learning and beyond"
-    excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
-    publishedDateTime: 2023-07-24T10:11:00Z
-    webUrl: "https://www.indiatoday.in/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
+  - title: "Harnessing machine learning for early cancer detection in primary care"
+    excerpt: "A new editorial paper was published in Oncoscience, titled \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
+    publishedDateTime: 2023-07-21T17:48:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
     type: article
     provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 71
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/thisisengineering-raeng-bg0geue-cy8-unsplash-sixteen_nine.jpg?VersionId=EVKtVWSwKzXj.m6ShD2bAyHx4ZbZeB.9"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg"
+        width: 1920
+        height: 1920
         isCached: true
-  - title: "AI-driven personalisation: A new era in Ghanaian banking services"
-    excerpt: "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients."
-    publishedDateTime: 2023-07-21T16:42:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/AI-driven-personalisation-A-new-era-in-Ghanaian-banking-services-1809434"
+  - title: "Harnessing machine learning for early cancer detection in primary care"
+    excerpt: "On June 9, 2023, a new editorial paper was published in Oncoscience, entitled, “Transforming early cancer detection in primary care: harnessing the power of machine learning.”"
+    publishedDateTime: 2023-07-21T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996396"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
-    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
-    publishedDateTime: 2023-07-20T14:20:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Blitz: AI driving hyper-personalised customer experiences"
-    excerpt: "Personetics VP of Strategy & Business Development, Dorel Blitz, discusses how AI is helping to drive hyper-personalised customer experiences in banking"
-    publishedDateTime: 2023-07-21T14:43:00Z
-    webUrl: "https://fintechmagazine.com/videos/blitz-ai-driving-hyper-personalised-customer-experiences"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://assets.bizclikmedia.net/1200/aa36d7ce6ae59648e85c7d646056a3f5:c883cf3e4a352363434da6fd5fd5e4bc/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5ce21e18-0ab9-4ba4-b36a-4b8b2cb8c963/Rendition/low-res/Content/Public"
+        width: 700
+        height: 266
         isCached: true
-  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
-    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
-    publishedDateTime: 2023-07-21T06:45:00Z
-    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
+  - title: "Deep learning for healthcare services"
+    excerpt: "Deep learning, a branch of artificial intelligence (AI), falls within the broader realm of machine learning. It centers on empowering computers to learn from data and autonomously make decisions or predictions,"
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996183"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 39
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
-        width: 1500
-        height: 900
-        isCached: true
-  - title: "AI in Education: New Guidance from the Department of Education"
-    excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
-    publishedDateTime: 2023-07-21T20:31:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/ai-in-education-new-guidance-from-department-of-education-perfcon"
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
+  - title: "Machine learning could transform early cancer detection in primary care"
+    excerpt: "A new editorial paper was published in Oncoscience (Volume 10) on June 9, 2023, entitled, \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
+    publishedDateTime: 2023-07-22T00:55:00Z
+    webUrl: "https://www.news-medical.net/news/20230721/Machine-learning-could-transform-early-cancer-detection-in-primary-care.aspx"
     type: article
     provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 34
-  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
-    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
-    publishedDateTime: 2023-07-20T19:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
 
 secured: "EY/pkWZfBfKz8osU3XpGbwriiKOt5+fYFa8dum5Bu9D33ED6ecfzUrO7gbKnhNkH4/1+K2gbdM8LylNV1nY99ei6hPAHaTE+51WIcLCH+14exu3iAmNL5S4mLVZwrRQtg4m5KfkgTIhJOka6bGIv3efeqcBYXnUOFbdEflpK4QxfHUPIgeIQe//GzY+bMC2jR6pPDQSiEAyk+LJBIR8Beq37AfR0sgfyBvKXuYDps9CLTyN2jKcpCEtB8XMXKcJ+ku7omUV5XD3s2/YRZuFfih/KxlYrr+4TWGiwNIFTDHppIpxjqdw5XiLlEuC/HKMPbfkJDc4Vh1j2JjMpJXiKez/YpLvB91SgMO5RsyYcB3mJPcaLQC6wrkifzKJ0M7ROTlCddsewEZE/Eti0QbWTe0jBK72QNKd03TpAF+GTdoXlquIlxJ8CBwLzrWgWA2aG8Fkj349f9aR0SNXkTbpTOJJzOc8qeSUt6f/8Wq4lDKgyK1qKwVtloSBklCZ7Yz0DCNmHPUNb5f0+QJ+OZMsSsA==;/EnvIwzVHoo6E2hk8nxK4g=="
 ---

@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "AnIHlZOQbE/d5hZE2xH1f6rcdypW7U9HDW74x3UUfauYLrlWB0G5fdHYbeJphXTd7K9H8JlNssHROwedpanF6qbIXqj8AkDNDME+GxIb67yzsPWFegfn3k9tYRZ7QGaTPocttEElaRfd9zYuW9tA+cXoJtEmcky1L9jKhLBy+jBXIW+1P8Fiq18Ois68taIHwMlrxGv5cM2VxPTikQau2nPD/rUvBmcsiKx6GqPotfwzEcoPBf44jCNrxdK+PgZ232ASzPKP5YH7+vr8IMeGiLZWDjusRZEgqR215JCU/pv66BiaKpTwS0UD2F+euHEgp6hq90YLo4l8juGEAd/JuNFXzToSFX2dKQ1IWcQwePI=;nNEc3SnCLx1solpek+VUmQ=="
+secured: "SD36vLO8mT0zt4UkF3cDhY+NiezPu3NuK3fl1xc8IjeTec4dfdaKqZ6NeBHYhn0PLu3HkIzuOyeZfGAe3XdeKJanBbFb8mFe9JCFCkVbJUVYc1h0V89nlMILBvatnef0T/nYAQXvbBMqZ5dXS3e+U6p6XyCnZ9sFQpe0vfYBQjaaZeHO/FQW4SKHvr30GtMPFEIqaANAkPZt4ugblRU+jb+7Jw4Dl5S1AXEMehaAt8VqfDwggw4NvxvJUW+6oHK68cu1E+6CM79aDm1/yo/TL1mFAh2MdV6fNrdTmdjpfRnSXo/DUnntPmHicVSpX9mKxUh4mnKSqJpzshVlgCnj+wsjfOErF6SwQz4lUleKDuc=;CJ9GzwFAJsWU2C1oNl4bWg=="
 ---
 

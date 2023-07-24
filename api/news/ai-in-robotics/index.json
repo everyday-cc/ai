@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-24-could-ai-robots-replace-humans-for-sex-ex-google-executive-issues-a-warning-about-it.md",
-      "title": "Could AI Robots Replace Humans for Sex? Ex-Google Executive Issues a Warning About It",
-      "excerpt": "An ex-Google senior executive has recently made an interesting prediction that AI robots may replace humans for sex in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/294161/20230723/ai-robots-replace-humans-sex-ex-google-executive-warning.htm",
-      "originalUrl": "https://www.techtimes.com/articles/294161/20230723/ai-robots-replace-humans-sex-ex-google-executive-warning.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/432238/could-ai-robots-replace-humans-for-sex-ex-google-executive-issues-a-warning-about-it.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/294161/20230723/ai-robots-replace-humans-sex-ex-google-executive-warning.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294161/20230723/ai-robots-replace-humans-sex-ex-google-executive-warning.htm",
-      "publishedDateTime": "2023-07-23T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-23-ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders.md",
       "title": "AI news anchors: The new phenomenon of Artificial Intelligence replacing newsreaders",
       "excerpt": "The AI era has arrived, and as AI news anchors become a reality, will AI replace human news anchors in the same way it displaces labour in other industries?",
@@ -96,7 +53,7 @@
       "originalUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -149,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -180,6 +137,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance.md",
+      "title": "Nauticus Robotics Inc. (KITT) Stock: Tracking the Weekly Performance",
+      "excerpt": "The stock of Nauticus Robotics Inc. (KITT) has gone down by -4.83% for the week, with a -6.19% drop in the past month and a -18.60% drop in the past quarter. The volatility ratio for the week is 6.14%,",
+      "sourceUrl": null,
+      "webUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
+      "originalUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsheater.com/wp-content/uploads/2020/01/Image-24.png",
+          "width": 640,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsheater",
+        "domain": "newsheater.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mediobanca, Founders Factory join to support Italian fintech"
+    excerpt: "Mediobanca & Founders Factory join forces to launch a €12m fintech venture studio, nurturing innovative startups with a focus on blockchain & AI."
+    publishedDateTime: 2023-07-24T14:24:00Z
+    webUrl: "https://fintechmagazine.com/articles/mediobanca-founders-factory-unite-to-suport-italian-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a52f858666447d73949867a62c7e1ce6:b3211bb1616a053243aa03b4c9af6529/alberto-nagel2.jpg.jpg"
+        width: 1199
+        height: 629
+        isCached: true
   - title: "Mediobanca invests €12 million in London fintech incubator"
     excerpt: "Mediobanca has joined with Founders Factory, the London-based global company builder and early-stage investor, to launch a new fintech venture studio and accelerator, underpinned by an overall €12 million investment from the Italian investment bank."
     publishedDateTime: 2023-07-24T08:58:00Z
@@ -53,6 +67,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Italy’s Mediobanca, London’s Founders Factory to Invest in Fintech Startups"
+    excerpt: "Mediobanca Group, Italy’s largest investment bank, has signed a partnership with Founders Factory, the London-based global company builder."
+    publishedDateTime: 2023-07-24T12:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210536-italys-mediobanca-londons-founders-factory-to-invest-in-fintech-startups/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 2
 
 secured: "lfRXZb0j9MAlrIH0Sk8mzxWpge+gm26boCL78WtnrcYIDzR6PQwHO6smrfu/ZumLUdIqVuSUz2FvIFoXhihoNVKKHgMnOL5AL4efduAw1ZucPZrc1xU2R3xiOTLVrgAfNUuQmwhyaJVX9S1rqj7+oFa4cgNScPH/oPOxvug3Gzh4IMioWJlJYn8FN2z+qWIlb+aSWq0aRG4aKU7iBd0h5rSYluXMWtfzgF96ua/8Um37TUgn6mIlmH5fIVW/S1Rl4eNgGHJmls8opVfMOIPrItMi3wg5f/dSIwpeu6EZPgcFONOf0eC2g2kKaVP+kuJyx8ePN7a+Bi1L3WnnB1c8yQIj4oV5Lf9yGkCod4Biw5tzcIyzEXRGj7YBx7Hvfl6OM1S+wo2Q63o+z00lpOicQMblQyiHdTHisU8QUWE1v8/Xk0jXRVSZfVDKBqJJEDjBcSGH+f+YrmBmD44F6vt7zW9Q45atttJvH/S2RBBf1UVhlNRnGjbbwKzyrK74uhRwE9V1nbSRoR20EgzKGDknRA==;SR2H6xcctomPRgoEUoYRug=="
 ---

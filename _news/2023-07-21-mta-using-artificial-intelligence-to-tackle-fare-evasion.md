@@ -43,20 +43,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
-  - title: "New NYC Law Restricting Artificial Intelligence-Driven Employment Tools Reveals What’s to Come"
-    excerpt: "Up until now, employers have been able to use artificial intelligence (AI)-powered hiring and promotional tools without worry about compliance with AI-specific laws. On July 5, 2023, that changed. New York City passed Local Law 144, legislation restricting ..."
-    publishedDateTime: 2023-07-19T19:31:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/new-nyc-law-restricting-artificial-6808542/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 25
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12641_1216.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "vGR9APAfW5cxIHzfKRtfyQq/dIkiRx8khA9Ktzb3sy5OtSrkaXvila0JnupiNJ8SfQ+bnAnzbKwPHdzB34pui0bg58FyCT2fraw7MIGvRhjQqV5Hk5jhSgiRU61/vwIQU1KajWDQBv+Bjo+QmkbNJo784kfnEmChzlQJekoCgi2XvF+Raj+oJP5dHz2DGEsbXEfbapKKao0kk213ZC2J9YavS/+FghYuisrrs8F8bx/Vxq+OjgYZJ+HQFH12eJoKZhkul3oPDUQwmJi4+jQ07inqj0SKBhrf5TXiJjLZo6ioc0wfJ1ASXZGnGlm/d4EvmwXYhDfMPtVraZTuN8fKJEdtChkWu5BAlAvPlNhDhIvzx4OTMYm+ctgnd6QC4M1mth7oGesS2DMHgioI7nSf9kNDclys5hPqFy5xIjJDX8HQI5PVZaw6O4s5ZbzryM0Q0WaS4KYG79EHtQaxoVLCwdWH+swJGb8lnj2BoJMA4jkpFo+J3r7Dgw4sDiws/ZLVVpNkXU6aHDYKkrrw8ERkCg==;Fmqlco3cY3hia2QE4ParzQ=="
 ---

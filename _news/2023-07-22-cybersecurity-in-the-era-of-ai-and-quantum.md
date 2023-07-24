@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/3.-How-HPC-at-the-edge-can-deliver-enhanced-business-value2.jpg?fit=750%2C422&#038;strip=all"
         width: 750
         height: 422
+        isCached: true
+  - title: "AI Is About to Shake Up the Cybersecurity Industry"
+    excerpt: "This piece was contributed by Dan Barber, Cybersecurity Instructor within CSB. Artificial Intelligence is the hottest topic in technology and business right now. While companies try to leverage the potential for accelerated capability and Universities like ours are rethinking how we assign and measure meaningful work,"
+    publishedDateTime: 2023-07-24T15:44:00Z
+    webUrl: "https://www.wilmingtonbiz.com/insights/robert__burrus/ai_is_about_to_shake_up_the_cybersecurity_industry/3718"
+    type: article
+    provider:
+      name: WilmingtonBiz
+      domain: wilmingtonbiz.com
+    quality: 41
+    images:
+      - url: "http://wilmingtonbiz.s3.amazonaws.com/burrus_rob-headshot-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "pPgAuu37PfxEzqhsNFOxy0l0J2CQcY0+0IwB2+nw01+rh1v1JOiCCjngxh7n0sISlvKS8w6k4vnKjiHvEX5wcarisUOLUS2wZZvNyrrJl5XlLJFL54fLU8gTfp8ujcqFAS7dVrwNshZB9jt7wF3yZkfgB5OdH07qTvIy5IKKVx+qT3uJsi0HLoOh9A4+BOvpZLQXqUZsifwbVhKrgl6WH8XAYBZzQIZH72s9yjTOUnmN4o6ZwLOBZsFTJRum4Lncw1dpPxJa5UNwr+ib2e4imhfh9y3lS2bRlskbMn/6sqfbddDnOWr2uKQf7TXlM7g3MwaoAhdNoveHyIyc3bLGEmaHeXiF68c6BmdMWioiRJY=;IwofLThDuAWrGOThzwWGIA=="

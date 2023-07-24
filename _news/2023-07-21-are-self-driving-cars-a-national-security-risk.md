@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Are self-driving cars a national security risk?"
-excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-publishedDateTime: 2023-07-21T08:19:00Z
-originalUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
-webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
+excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+publishedDateTime: 2023-07-20T17:00:00Z
+originalUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Security
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize"
+    width: 1080
+    height: 567
+    isCached: true
 
 related:
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
@@ -83,6 +89,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "1sO5taxUcBo8FUBqc/Wiv50gVl06jyKTHNgbJxOf8d862ndjECMtvxL8DIPYxJpCytehZ4ak+jcUabB7bE5Sr03fbH1LvOfR/NW+9nQHjI4z5hd6MRqCarPUn/OHIgbn2VGu2a6EQCZ0OO6KaDGhxhUIDj5jKSACl3Cv//BDDyq/vsY7YYPYE6N6LtrR+ckd8jGvIcldTum97G/q3h+pv6R+eHH1hysteORlN1o4zCGSgyOhr+y1DeNTv7lzCkoh/qAAS1nOW9+B+mwZ2ykVKMfQtM37iYCjNcNM+/K/y+fhOupRyasf18D+t4yCfpioBBf3rVQ7ahlmsNsJm+x1Hcw+kLMvo0Nyg+DblQttJn4=;VHYnwEGxuux/2/pytC6tJw=="
+secured: "lI1irUs19EK0p4FmTdqJUI6NeQfuFAnwq17YBkQnhNc6xGisFBpO/9ZPIYYTpcPLNSDcDeN6eHIhjPUvVP6gKpf+y/Mk32drjAZkkZ+nJ+bW4im/SYqeFP8pG+YeUQ/pp/O+dR9LsXkykRDZIJCJlkKcM/Kwkx53FLwopGIgb/S6+uw9VIyHVhAk/uzVZ0WsbWJQArXafVtgkfM58+kpOjQlnC+jw6bEG41vGV0RKT29E2BtmrcPwt+h81baYn7nxTLFDBdVQsLqW+sr0Li5HyARMRUcqLZ5cW6RuhsMVUk9e13+qIlWAhvck/fk0GX9qKw4HJ6MnrzjqCHWwDRxWy/XZs29e14QYwIyKgEoeS4=;YojWhLNwApf0wXgvN7s+mg=="
 ---
 

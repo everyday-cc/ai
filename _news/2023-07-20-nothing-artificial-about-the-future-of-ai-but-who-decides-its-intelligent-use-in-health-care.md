@@ -101,6 +101,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Nearly half of healthcare professionals endorse AI in clinical practice: Report"
+    excerpt: "About 50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed its use in clinical practice and administrative tasks, according to a report Monday."
+    publishedDateTime: 2023-07-24T13:06:00Z
+    webUrl: "https://www.orissapost.com/nearly-half-of-healthcare-professionals-endorse-ai-in-clinical-practice-report/"
+    type: article
+    provider:
+      name: orissapost
+      domain: orissapost.com
+    quality: 30
   - title: "The Medical Robots Market in Healthcare: Unveiling the US$ 63.7 Billion Potential by 2032 | FMI Study"
     excerpt: "In recent years, the field of healthcare has experienced a transformative revolution, with cutting-edge technologies reshaping the way medical services are delivered. Among the most ground breaking innovations are medical robots – sophisticated machines that are changing the face of medicine."
     publishedDateTime: 2023-07-20T04:17:00Z

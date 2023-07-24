@@ -30,20 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "How exactly should the government regulate artificial intelligence anyway?"
-    excerpt: "An old saying goes like this: \"If it moves, tax it. If it moves too fast, regulate it. If it stops moving, subsidize it.\" Well, Artificial Intelligence is in that fast-moving stage, but no one"
-    publishedDateTime: 2023-07-19T19:40:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/how-exactly-should-the-government-regulate-artificial-intelligence-anyway/"
+  - title: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence"
+    excerpt: "VERSES Technologies, a cognitive computing company specializing in the next generation of artificial intelligence, today announces the release of a landmark AI industry report \"The Future of Global AI Governance.”"
+    publishedDateTime: 2023-07-24T13:58:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/18736087/"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 35
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/01/GettyImages-1181533674.jpg"
-        width: 2101
-        height: 1426
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 12
 
 secured: "ljEOhfEMMGwZKnDzqvMOGTNaGu5xX+NQZgn0vsGOEtG6iOnuTIHdJ0YnFr0j1Z2yq1cCT/DGkLQ8q4ehlmSQSbF8P+30/P6fMx0+gPy2HYLm2RYhhochGm4pMwcHiEUlOvRCPzRuQi3DT744qWzIZYIKoME2kSDH9oi6w2/ZcmilP9IyzmueSsz57UrrMf1cVTHdjdxWBaJ1e+Ml0CCHetuOZCW2NNCff1a68pCIBXZL/iVdUjVYwAIL2mfyfQskSV4wYbZFwB5tMdhM9qOR2/MCAPXJ9j8AgjU5f5Zr5bNmNv/AZ7ACNzB+mi/l5ZNjVRgnCQDmYgpr/kPXCQb3K5PDUg6K6fgBAOaxLaqAerY=;3pYoBZhyDBhbZdwKH1ROeA=="
 ---

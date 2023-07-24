@@ -56,20 +56,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Causal AI: Pioneering the Next Era of Artificial Intelligence"
-    excerpt: "Concerns emerge about the limitations of AI, machine learning, and large language models, and causal AI is seen as a potential solution."
-    publishedDateTime: 2023-07-19T21:43:00Z
-    webUrl: "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/brain_07.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
     excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
     publishedDateTime: 2023-07-20T07:15:00Z

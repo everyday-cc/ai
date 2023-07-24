@@ -71,6 +71,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Announcing the second group of judges for Startup Battlefield at TechCrunch Disrupt 2023"
+    excerpt: "Additionally, he contributes to GC’s expanding AI efforts. Bhargava’s four core areas of interest include security and data infrastructure; startup tooling platforms that make building software — especially financial services — companies easier ..."
+    publishedDateTime: 2023-07-24T13:01:00Z
+    webUrl: "https://techcrunch.com/2023/07/24/announcing-the-second-group-of-judges-for-startup-battlefield-at-techcrunch-disrupt-2023/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 23
   - title: "Analyzing The Impact Of Fintech On Global Banking"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
     publishedDateTime: 2023-07-22T18:46:00Z
@@ -90,6 +99,6 @@ related:
       domain: benzinga.com
     quality: 13
 
-secured: "8FKZKWoR6e9e8vDXDsEi0cowdMcqOHVSg/GrsVPWlNVhP7Wia6+QJGjkhAqL+0sIvWke1MevF9Dttn+WDmNmIj7WVSrP4BXm4qohP7DaQPwBb8D5WSOeoH1N1SMpEBQSeD31geGDWzc2YXOjUkE84ZGlyUGbwlRv6ObQ9pNi0oLC4t7XcKe7+GYaBZTxjmSQrW8tOgdfMyZaLyIKZowM3g4+DrYDYyxW6PFh9YzC2si+ev13ARU4NTumKNHT3nFVl6kfGbl+GMJ3yAWDz5yCXE0j3htVwcTApmdR8tCbJkTw171y6VUJlrZ5wbuNJEC/CXT2ZEDLPTaEtbAgRtpl5ZKSIkxCAfb5sGO/0K4UQkE=;nzWqPInH28F9lF5UKsUy0w=="
+secured: "ZT/5bygm2KoAekAnC2GfRnasrZFB+i7AhW2s88P1o2b3/Dhj8JVT6cpO0JqDVYgYt22jQnOhfVqJtdPeVTy2TzbxLbbzfuxTLIfeJB58+MyyWOAncVIpO2ysu0c1cpx9S3gS5t1dTwa1ZPePnUttDAE82QMV+pf3VBHXjicGmSi42FCuC7Hg5G0SwlDAbuEEY0GqSWO9eQzXMwAdxu2T9H6cyFsOPn0gwWwH5mI+a716op++8thMdVS791Wmdn3hgFm9d2ClO6QCfesvMfTlL7bL5FN8gVx7kvMJQBR7y0MJd1YsIyMb1RldkhfJB/eSZngvaXEd9krDxJexlLcAVSw6ZKHTI/frErT89UmHXP7jOl9jrU58Jx+LhU/WBQGM51mYfwOmlGvEWeJAA09x4Nn6ylPlvtrm48GEbodLtGzi8ep4FjFRbyb9lFdqBz06UEtqWLtmDOAR6wcmvhOIcs57rppvepaR7fV3gMraBHHxdjPecpQeBtew0bOU3b1xuQZLrO491gEnhMcZfQiq7g==;y/ux5kLvJA+3qPKenHPo/Q=="
 ---
 

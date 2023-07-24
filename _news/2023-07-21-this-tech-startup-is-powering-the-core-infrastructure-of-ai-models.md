@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
-    excerpt: "Global think-tank DQ Institute launches the Digital-ESG Assessment and Reporting Standards, which aims to address digital-related risks while"
-    publishedDateTime: 2023-07-24T01:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age-1032467826"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/2159742/DQ_Institute_1.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Generative AI Is Coming For People Data: Are You Ready?"
     excerpt: "The rise of generative AI will undoubtedly impact workforces—and the HR teams that support them—in deep and lasting ways."
     publishedDateTime: 2023-07-20T13:00:00Z
@@ -80,6 +66,15 @@ related:
       name: PCQuest
       domain: pcquest.com
     quality: 30
+  - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
+    excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
+    publishedDateTime: 2023-07-24T15:23:00Z
+    webUrl: "https://www.cmswire.com/the-wire/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 15
 
 secured: "47FWYaR4iaKVJowH7K9HnM+fCuHf9BJ6NWwVWOETCRVPDCzNxg7TWBTgnnUA3ordkLDJbNNkXRTTL/+J6bvfTzYTXt4Ofxqdikza5nkl6NWS7xtwI33frkDx9952+KeCYwKyBqvTlEcGMGTipL/+jb86q8QoI1zxL1mF/n/TQap6hW2Ahwic+6yIablL//ElzNsgNtxBcfDoyY9gdy+iNE9GV4z40NNjORfk+IZsGkZfbrJCmVCHGp/JZ5klnY6V+mN/6e1F9dSu5xZuags1g7gom77+bmxyavgK7TJxW7XWUbUfc2HFET5ENY8FqNSV1Uf5gHlKVk3nh5PKYJMhhEyJ1NRaGUe/pmRab412THaJ5mn0vOW/rKWjAGxGsJPYaX/IMWkbrlJK4WIKb1KsvE1bUWog7w4FlIjV1qoXn6I/il0sx2lCymp9qsZ+BJP4g09y5TUYpqbT37Tpn2RuMEX3+VgtkrHnLn6gbJJaN2Y3A3RENKBpAq6oWau/Ytdu+ATe0zxfSaUqmEaVc1KCKA==;/gP+Jr1misATFn8qva2QNw=="
 ---

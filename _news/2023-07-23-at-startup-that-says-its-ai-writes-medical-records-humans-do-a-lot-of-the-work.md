@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/at-startup-that-says-its-ai-writes-me
 webUrl: "https://www.wsj.com/articles/at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work-794be22e"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Wall Street Journal
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AI medical record startup riddled with errors uses humans for backup"
+    excerpt: "DeepScribe uses AI to create medical records from patient visits, but 200 human contractors review and fix errors. 15% accuracy improvement has been seen, but e"
+    publishedDateTime: 2023-07-24T14:43:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/ai-medical-record-startup-riddled-with-errors-uses-humans-for-backup.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tOInGvnz3nQnJgM/oYK7v6q8eUmRGYxx1dqPhVj7EpfWP/nCz2OGTGhQSdr7Bydb5g+2yYHqQOthuH1xKsY5i7YImHPVuob9lOkUdYAiwDBR7PB8SlJgpZm+DdOp3gqB5awYR9rjweu2uN9vGxkxNUqrFbNPoVoqRyGRrO4YSSgrxlhy+1IQU/WmpsNFxG0j5emFi8X4VIAnSZX8++K4Vlg+CR5PbhWmJAKizOnSFfWnNQsQEgTHT0G9eoFDbl0L6CmrUgeQpHrVU+N7ITG5MUcZvWMhJrwoGe9JnoVDIa3hCkvFyYVCaTHRTYPtJzc7Y91AiNN3/xx0AEhtZWFjZUZMe0EMOqYCxKM0QDQyB6o7ch/30qdC5SFGPwgGMryqF9jFLnVDiZ5xq/n7Xse76IvDqyK1aqSk8XddE9RV2aCeikh1MG8Zij52hh+Q09nWjGzLxUiAZMWkPZQeBTfpCRxTYnWlgYFiMPBCfApwfHiQ4Ku+Zm2FOIRozbkeuvHFTmHqbUnGCe7cErZ/HnB4zg==;o33fsHdkMZ0uEOzIc7El/A=="
 ---

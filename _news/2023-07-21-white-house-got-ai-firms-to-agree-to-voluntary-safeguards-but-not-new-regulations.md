@@ -76,20 +76,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "US judge finds flaws in artists' lawsuit against AI companies"
-    excerpt: "U.S. District Judge William Orrick said during a hearing in San Francisco on Wednesday that he was inclined to dismiss most of a lawsuit brought by a group of artists against generative artificial intelligence companies,"
-    publishedDateTime: 2023-07-19T22:32:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/us-judge-finds-flaws-artists-lawsuit-against-ai-companies-2023-07-19/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/Sxx44j_sBzOGBDn8L9HI7J1GMsI=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JCKPYM4UUFOSLEWVLF5RZEBEZE.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "Top Tech Companies Pledge Not to Be Reckless With Their AI Tools"
     excerpt: "Amazon, Google, Meta, OpenAI, and others sign a White House pledge to independently test their AI programs and develop ways to watermark AI-generated content, among other things."
     publishedDateTime: 2023-07-21T14:29:00Z

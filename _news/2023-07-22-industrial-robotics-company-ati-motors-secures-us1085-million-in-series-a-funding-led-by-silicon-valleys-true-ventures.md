@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Rise Of Robotics And Automation: Transforming Smart Home Security"
-    excerpt: "The impact of robotics and automation on smart home security extends beyond protection. These technologies offer enhanced convenience and peace of mind to homeowners. With remote access and control, individuals can monitor their homes from anywhere, ensuring the safety of their loved ones and belongings."
-    publishedDateTime: 2023-07-19T19:26:00Z
-    webUrl: "https://menafn.com/1106630697/The-Rise-Of-Robotics-And-Automation-Transforming-Smart-Home-Security"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 51
   - title: "Rise of the robots"
     excerpt: "The release of ChatGPT was a landmark step in the advancement of AI, but what do the developments mean for the current workforce, and how are governments addressing the risks as AI increases its dominance?"
     publishedDateTime: 2023-07-20T15:27:00Z

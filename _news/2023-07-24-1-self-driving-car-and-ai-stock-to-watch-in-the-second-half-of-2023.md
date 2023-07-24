@@ -55,6 +55,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Are self-driving cars a national security risk?"
+    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+    publishedDateTime: 2023-07-20T17:00:00Z
+    webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize"
+        width: 1080
+        height: 567
+        isCached: true
   - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
     excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
     publishedDateTime: 2023-07-20T10:43:00Z
@@ -78,16 +92,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Are self-driving cars a national security risk?"
-    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-    publishedDateTime: 2023-07-21T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 21
 
-secured: "e453aBdBaZafhFZcmvhFSzyIgOeC8UE7yleXPbxgHMYpi/J3FtJyHif7QRnfDzAEzzvVoBTqWdDMsioaEczYrI6ElbGVWASrt8G5LbdOU9cVzEGvQN8NLo6vuHMRf1dBfBzn/mGyFrM6G6nb47wyFDwdd0TwyVpO0uZfgQ15ZcaTAk8CwrXY1QGG0lOki5CYueUOxfUZvZZ4aiFJLueloI6HCp6Xs7Ctr68kRAADMrMJlx/t/l0a+NLsoL3R8beCXR6EtlZ8yFRajzWPd6LP1bArCNVRZ3B9vioHqgKzsk+DlDa6beD8Z4ySzTWbO3w+IBTO05ga9npZWtdQB5NpDJxdYjaGfQYSizxogOs2Kbs=;YUvz+tqkFg4SP+yzivecBg=="
+secured: "0QV4Fd3AqU7tYYOYV4jlNNyOCjSGElHMyRHm4zGHO0K5hsuVNVuHraOAZBBLuNrbEz/JT20VjbcV8NltBE7asRk4Ucl5HfxT/LKhJY7fFSEKWzY7eti6z1cmDyvJyD5In6TcfHuFw3TJ+cTK72RiFeAQLMaqQUoinNBrgTjwbQDnq17DMfz0MtCv3c4uLs1PZxnCnNg2dz2/yTbiBYGIwklSO0iGXbWnyTsLCTD6Yo2N3YOSCtnBooEG5bqZCYVYNyELrnVF9HCJSXEiRpNomI9hU7/g2+V0Afk17ca3VNMDi0xFfYydyGIWpmD2Md+iXHgCc41vy20SDVA+ls+wzr5RA/AItLhSGW12SqBbpLY/e2YdRHOa/7JaJ0kjYE13HUzel4LOQ7/ccm20hxWMG4TMl3FeVDNmiWoYBMvEb4gb4d24/QkB8pf/U4BusJ+9K84k13b8kysxUWbpgy9qLGu9FsoZDLMcEybavXga6DjaN6J7Ax1pTalXxElYezLzUpkyfmHRll/QEZxI+nYVpg==;zyavkZvF3esiIbePXOcLDg=="
 ---
 

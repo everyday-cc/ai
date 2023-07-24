@@ -7,7 +7,7 @@ originalUrl: "https://mauinow.com/2023/07/23/individual-whales-dolphins-identifi
 webUrl: "https://mauinow.com/2023/07/23/individual-whales-dolphins-identified-using-facial-recognition-tech/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,54 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Individual whale, dolphin ID using facial recognition tech"
-    excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology (HIMB) Ph."
-    publishedDateTime: 2023-07-19T20:57:00Z
-    webUrl: "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.html"
-    ampWebUrl: "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/individual-whale-dolph.jpg"
-        width: 676
-        height: 381
-        isCached: true
-  - title: "How face recognition rules in the US got stuck in political gridlock"
-    excerpt: "A national effort to ban police use of face recognition is facing a sobering reality: compromise"
-    publishedDateTime: 2023-07-24T11:01:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "OP-ED | Facial Recognition Is Not New"
-    excerpt: "Opinion writer Barth Keck says he's not where people have been hiding, but facial recognition surveillance is not new. Retailers have been using facial recognition technologies for years – more than 35 organizations have been calling for U."
-    publishedDateTime: 2023-07-24T08:45:00Z
-    webUrl: "https://ctnewsjunkie.com/2023/07/24/op-ed-facial-recognition-is-not-new/"
-    type: article
-    provider:
-      name: CT News Junkie
-      domain: ctnewsjunkie.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/ctnewsjunkie.com/wp-content/uploads/2023/07/twitter-facial-recognition-shoprite-screenshot-2023-07-23-1200x900-1.jpg?fit=1200%2C900&ssl=1"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "7mvKp8UzXkv+wWGY+KlbVh0I6PtFxGCuyLizBU5Xz15d5UznDUiFwMLRRH08plfR7v4l6Bf+EEmbEDcF6TidPgGkhf3tiqLjDOc/Msk7+byMWK+h5e3gdiw1+I4ODCj6KM8qmsiH1tvQx9wjcQIkBnll2navGY4gZqow3JkHzXOce6X3NeGa7cwykaKAF8JI7BkBN3NhhR1UIDqXBlHZghlW5fVtOIZPdty+wWtH1hyc9DNrCx/4Me4husFi18KcGmS+ZDbSLK+EnyqSg2TOfa8z2ewgIbF9mnUAMLwC+uUsLy3zGtxLMfLaX/MXhacZaccqVox6lsnSruLxn/8C0rhhs5vdN4Gfw2a7SJdWgz9MphR5YTfeq+gQXdfCTdrydsDtYy4OsEVgVuEiTHAFh1i6b6BZSeHM7h/g0KRL5CcoPK9WaJCS6gwpf+e4Qn05+Samf0yDEBWVtFBljIQPERgKGjqUyzShFRZUDOvdeWthduuPwTu10Y0hAwQAJMBvUkMj1GCdT6Id0/5gqEIpJw==;7qKwYrlWhJX+/rb2afaKCA=="
 ---

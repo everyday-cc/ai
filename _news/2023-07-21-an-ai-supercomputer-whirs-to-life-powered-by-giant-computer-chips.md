@@ -19,63 +19,65 @@ topics:
   - AI
 
 related:
-  - title: "AI-powered travel assistant touted as most powerful ever"
-    excerpt: "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry."
-    publishedDateTime: 2023-07-22T05:59:00Z
-    webUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever"
-    ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
+  - title: "How to spot an AI cheater"
+    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
+    publishedDateTime: 2023-07-20T23:00:00Z
+    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "Mondee Introduces New AI-Powered Travel Agent Tools"
-    excerpt: "Mondee announced the launch of Mondee Travel Marketplace featuring Abhi, its AI-powered travel assistant platform that simplifies the cruise booking process. Mondee’s Marketplace features an integrated cruises platform allowing users to easily browse and book a cruise of their choice."
-    publishedDateTime: 2023-07-21T17:02:00Z
-    webUrl: "https://cruiseindustrynews.com/cruise-news/2023/07/mondee-introduces-new-ai-powered-travel-agent-tools/"
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
+    publishedDateTime: 2023-07-22T07:40:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
     type: article
     provider:
-      name: Cruise Industry News
-      domain: cruiseindustrynews.com
-    quality: 39
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 54
     images:
-      - url: "https://cruiseindustrynews.com/wp-content/uploads/2023/07/mondee_cruise.jpg"
-        width: 800
-        height: 718
+      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Edtech Startup Scaler Introduces GPT-4 powered AI Teaching Assistant"
-    excerpt: "Scaler (by InterviewBit), one of India's fastest-growing edtech startups, today announced the introduction of its GPT-4 powered AI teaching assistant"
-    publishedDateTime: 2023-07-20T10:52:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/edtech-startup-scaler-introduces-gpt-4.html"
+  - title: "You can now chat with a famous AI character on Viber. Here's how"
+    excerpt: "\"AI is becoming more prevalent within the messaging app industry and we are excited to continue to support the development of this emerging technology,\" says Ofir Eyal, CEO of Rakuten Viber. \"AI companions, like Kuki, will provide our users with an entirely unique entertainment experience.\""
+    publishedDateTime: 2023-07-24T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-now-chat-with-a-famous-ai-character-on-viber-heres-how/"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 37
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQbJQxrjlBeN4cs67CXVdZz2mjCg3OpjcYTCaDMotBBS0w1DicXPURoZR2uskiz7UHmzqLjP2EO1SNhPLg1_ynHYbZ9CHxJDYKzvWpnNtcfiFAN8NTbVNi4AcHTsr-sTkERITlHj82SMrtU71iYNPbHZQslSXBNsOe846623Q3OiZ_CKC2MmLTh2z-WE/s16000/IMG_20230720_161530.png"
-        width: 1000
-        height: 560
-        isCached: true
-  - title: "AI-powered clean power startup raises almost $6 mln in seed funding, inks deal with prominent removals firm"
-    excerpt: "A San Francisco-based startup that uses generative AI to help companies transition to clean power has secured nearly $6 mln in seed funding and has signed an agreement with a prominent carbon removals firm."
-    publishedDateTime: 2023-07-19T21:47:00Z
-    webUrl: "https://carbon-pulse.com/212994/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
+  - title: "5 Moonshot AI Stocks to Buy Immediately"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
+    publishedDateTime: 2023-07-24T15:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
     type: article
     provider:
-      name: carbon-pulse.com
-      domain: carbon-pulse.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Google’s Termination of ex-AI Engineer Chatterjee Sparks Diversity Concerns In AI Research Team"
+    excerpt: "Amid mounting concerns over diversity and inclusion within the tech industry, Google faces yet another whistleblower lawsuit by an ex-employee. Satrajit Chatterjee, a former senior engineering manager at the tech giant,"
+    publishedDateTime: 2023-07-21T05:24:00Z
+    webUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-team/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 27
     images:
-      - url: "https://carbon-pulse.com/wp-content/uploads/2023/07/CF2023-TS1.gif"
-        width: 300
-        height: 300
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-21_09-43-54.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "ZbzVUDGGGhoW07LTn5dFmze1YNQ5IpDgIRhB5Y+7FW5zulJPkV7vZNyRXMVRuyZNULEBrkvFNyUrZsAecJWqdThlxdacBYc43b3pvEVlz4CxtdCq2OMOv0fdAGfKTsEMSjgQoaZxCSAn3Q2kFUXUsGoipcTJvCcyh+YmMZODv/8egJ8JNGfLpsRvKtL1G8HWZF8JeDAxO7S3WQCbCQRm/vOV8b1iVTi/JP7NooC+s4vC4Sy/apzH9ju77jiMx4sVC0BdBT3ZS2ZX8oMJP0w9PwC9qStYA6r4dFApDOYc9pjFWTgpuWHID8gbrmk3FGQFPYu5yH4NLx9djQZCs5kWqrx+t0TsvpUGPXhvxVrf6OCpmN9dv4tQF1wchsaYFBWWep37FoK9a2kNj3iAUwvo9Wlro7sdxg0buZt0iHzUiktk052brtLTQCQyG/SGV7VbWknB8zVZbocmMffdrn7HQ3LXz+desl2+7PsCuGhS81ttevegTzxwH12R483/TUSO81LTO+yaY4aApVL28hgOaA==;+vGxtrN3G7OWUKIT4emTsQ=="

@@ -55,29 +55,6 @@ related:
         width: 1000
         height: 560
         isCached: true
-  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
-  - title: "AI-powered clean power startup raises almost $6 mln in seed funding, inks deal with prominent removals firm"
-    excerpt: "A San Francisco-based startup that uses generative AI to help companies transition to clean power has secured nearly $6 mln in seed funding and has signed an agreement with a prominent carbon removals firm."
-    publishedDateTime: 2023-07-19T21:47:00Z
-    webUrl: "https://carbon-pulse.com/212994/"
-    type: article
-    provider:
-      name: carbon-pulse.com
-      domain: carbon-pulse.com
-    quality: 19
-    images:
-      - url: "https://carbon-pulse.com/wp-content/uploads/2023/07/CF2023-TS1.gif"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "qXVY/ynRJgpCvz7I5vd+ufslRCV08JfQZ1XL+Oa3nL2f6CzmHy8BCZRugRMA3mVbeSHwh9TSslAqB3WivIUJDGqdS5FRHQtAKH0mJAiXw5ZF6vr0dBBUYS1IpBiypm4GfHFjZXO/0BfI+6y/S5kz80N1B/cRx06mQm8AvOGKBfSTO6bHipYdf/bOciiknNFQw/ejhH9jos/5jXca/Dgb+XP/Ey6dEtpo7Pl5jZ7px4JAIZQR9sPK6hTEPMMw799EJ7xwyeZuAbjXI/E2Oz0GdJbbfcQ4416h5IVayecwvUGg3Ucbo6Ot3w425ANx/Nk8EQRaqipdbvT6cu/FcrlL53AAySytdkvIhN6Pz5W1yP0thqPWnc/GDqO7icoWLssTe2SJyJSGBFNZX2dw6MZHDPyUjFzX+ptlG5Vu7zuhBI+8ZoA93TFg9OtDv3f0P054POaTS+RLR9fIrGnFJrAuarbKqXlMoFuMjW0eC7+JAwu3lQWVeurvnKW50Gddd/v2x/4bPhrFv9UQtsvFPNmeJg==;LAoN6UjEbH4uNl2fJJeHRw=="
 ---

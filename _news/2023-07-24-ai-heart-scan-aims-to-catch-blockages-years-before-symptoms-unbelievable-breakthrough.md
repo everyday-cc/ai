@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-ye
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp"
 type: article
 quality: 78
-heat: 80
+heat: 78
 published: true
 
 provider:

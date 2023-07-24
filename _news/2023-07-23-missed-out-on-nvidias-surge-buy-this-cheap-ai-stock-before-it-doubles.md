@@ -38,6 +38,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 76
+  - title: "Nvidia Is the Clear AI-Chip Winner, Analyst Says. Why There’s Hope for Intel, AMD."
+    excerpt: "Mizuho analyst Vijay Rakesh raised his target price on Nvidia but said the growth of artificial intelligence is a tailwind for AMD and Intel too."
+    publishedDateTime: 2023-07-24T14:12:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 68
+    images:
+      - url: "https://images.barrons.com/im-803090/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Start-ups seek to challenge Nvidia’s dominance over AI chip market"
     excerpt: "Celestial AI, a Silicon Valley-based start-up that raised $100mn in June, refocused on “complementing” rather than competing with Nvidia, according to its chief executive Dave Lazovsky, by developing optical technology for connecting AI processors with the high-performance memory needed to feed them data."
     publishedDateTime: 2023-07-21T04:01:00Z

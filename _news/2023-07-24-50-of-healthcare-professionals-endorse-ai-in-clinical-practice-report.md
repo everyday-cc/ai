@@ -87,6 +87,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Nearly half of healthcare professionals endorse AI in clinical practice: Report"
+    excerpt: "About 50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed its use in clinical practice and administrative tasks, according to a report Monday."
+    publishedDateTime: 2023-07-24T13:06:00Z
+    webUrl: "https://www.orissapost.com/nearly-half-of-healthcare-professionals-endorse-ai-in-clinical-practice-report/"
+    type: article
+    provider:
+      name: orissapost
+      domain: orissapost.com
+    quality: 30
   - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
     excerpt: "A majority of Americans would feel “uncomfortable” with their doctor relying on AI in their medical care, according to recent polling, but despite those misgivings it is likely you have"
     publishedDateTime: 2023-07-20T15:55:00Z

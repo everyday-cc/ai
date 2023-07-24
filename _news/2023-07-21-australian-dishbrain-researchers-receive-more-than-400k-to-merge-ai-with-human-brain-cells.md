@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/australian-dishbrain-researchers-receiv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp"
 type: article
 quality: 81
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -40,7 +40,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png"
         width: 1500
@@ -61,6 +61,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/70420681b7fde739ca852ab9e9b16a3fcb68b7d3/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=1fc8edf07129ba981895400bae2efe34"
         width: 620
         height: 372
+        isCached: true
+  - title: "A Research Team Plans to Merge AI with Human Brain Cells"
+    excerpt: "A group of researchers in Australia have been awarded just over $400,000 (USD) in government funding to study the possibilities of merging AI with human brain cells, a research project likely to bring a number of AI-related ethical and existential questions to the fore."
+    publishedDateTime: 2023-07-24T14:57:00Z
+    webUrl: "https://tech.co/news/merge-ai-with-human-brain-cells"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/24101043/imgonline-com-ua-resize-I7B8Yq8jRlR4.jpg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Scientists Working on Merging AI With Human Brain Cells"
     excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."

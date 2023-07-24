@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Causal AI: Pioneering the Next Era of Artificial Intelligence"
-    excerpt: "Concerns emerge about the limitations of AI, machine learning, and large language models, and causal AI is seen as a potential solution."
-    publishedDateTime: 2023-07-19T21:43:00Z
-    webUrl: "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/brain_07.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
     excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
     publishedDateTime: 2023-07-20T13:30:00Z

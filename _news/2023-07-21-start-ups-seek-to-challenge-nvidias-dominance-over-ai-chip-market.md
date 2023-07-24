@@ -42,6 +42,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Nvidia Is the Clear AI-Chip Winner, Analyst Says. Why There’s Hope for Intel, AMD."
+    excerpt: "Mizuho analyst Vijay Rakesh raised his target price on Nvidia but said the growth of artificial intelligence is a tailwind for AMD and Intel too."
+    publishedDateTime: 2023-07-24T14:12:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-intel-amd-e5f2fa4a"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 68
+    images:
+      - url: "https://images.barrons.com/im-803090/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "/lm6jjcaEdQe2acG850bAg84k6T3hXGPlh441fuWHBiPij2gCm/QmxdnKFIXsHoBDCwCbTDlSm2UEyNJzf065/m8dv65D8oHauELxh1VJnwRr72aoBEEAzHGoabyeA0e8nysE8QlRq7SWzDRMs6dzHMxp16Qz+eMAYF7obdIHEjEtNyajXL5GYFmDjg7V/P7hxP/htUjyB7J45CrJM988eEQDTqbNvDyPqcJuk6xuwU8PUq5UKJCyIa41UYI3d/jouBpwKl1Oq8c3tIXJDAvN0KRhffcKipyHsgqFDBpfGAMinS/XLZ0rzOqkyvr8aSIQe3UFhPFvoYmx0MpCRwDk0VvyD4nOrKC44hic8jMlBkI0wyrKjAuWd3WX+TBVFG6SgGkIGwOzWiFfE6TpKieOBCG7MvcT7YAZa0mdA6xS0FMyRUNnotQvka3aeLg6CCVXzf4UiPRFQIFV8PEZbTi6yznVdKQKdCn6kXBBYnSDFDvDqrTr69CvRCDB9eFu0ridTOXQjudaUeaP41uw4/Y6w==;f8tmnI42rawTi3x5gZ+9tw=="
 ---

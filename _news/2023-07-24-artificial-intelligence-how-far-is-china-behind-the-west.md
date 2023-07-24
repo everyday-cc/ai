@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/science-tech/artificial-intellige
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/artificial-intelligence-how-far-is-china-behind-the-west/cid/1954165"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "AI: How far is China behind the West?"
+    excerpt: "\"Talent exodus is a major hindrance to China's authoritarianism in that it drives people away. China's top AI scientists leave and it's not just that they go abroad to study and work, they prefer a more democratic way of life,\" Scharre said."
+    publishedDateTime: 2023-07-24T14:55:00Z
+    webUrl: "https://www.cnas.org/press/in-the-news/ai-how-far-is-china-behind-the-west"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 39
+    images:
+      - url: "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/China-US.jpeg?mtime=20230110131038&focal=none"
+        width: 4146
+        height: 2760
+        isCached: true
 
 secured: "Ygy5733BUNnGR+JIMFp4We6hMsV+JPDgGPZ/sEV560wCzhumWmm9vznTbXAaISgkbpuZGK5Hdg8W0eOD5TEjf76gTKWTc3N+qn14n+6dRi1X+cKYy8lS1ox7Fe6JcyywSwn0jll2hVrG+c7kbrQFxjLO7FYUy/XtX9s5QEOXyaNST274ojkuKGtRsJByrJMLpsp4aRvgTcS3btjNQaPuHFP9HSoyY7sv5lYgJG8qzHwf8uH3fxc//OnmnrcFX4+43O0EH5AWFmTvd/7m0G8QC7vFjUsxfxJqWjgffQWT3XEj5qAeTamc6q/0eqVdZRtz0wB8rIdXgDnhw/bq8EtWp9ytdu+7sWvYXQ4h0AARtQs=;Qy5T/JWL0T6/irKTQblc8Q=="
 ---

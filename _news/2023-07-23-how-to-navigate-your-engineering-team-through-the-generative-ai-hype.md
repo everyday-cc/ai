@@ -60,6 +60,15 @@ related:
         width: 662
         height: 434
         isCached: true
+  - title: "How AI Is Changing The Face Of Careers As We Know It"
+    excerpt: "Look into roles that are more strategic in nature. Join teams or organizations that are looking to give humans ways to combat the bot."
+    publishedDateTime: 2023-07-24T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/24/how-ai-is-changing-the-face-of-careers-as-we-know-it/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "c82vN20bib6dC+9KH0WdEtdrKlNmdVnkD86OFAlEtT5ZR/BiRkdkHXwahgMrSuRuDGrhLoVCY3lJ7UzC1lTTEvv086KoKXpXanAKUPiMT+XwZ2VV7v+nyUMQzMbmKpgq62T5kncB8xXYIF+PdZ1hldKvTIfvnVUBm7z+b7oTEjrKkM6JLuQN5OebE6cE9mwldXt2tuSF7I6lIIqMx1Pg0KvkqdgZqQwPYKoBkuBV5t/1s3DWJRU0G/iX8aKH55OLmUawgMgSz4BsPjPZ2GKRAvwWZRUW0IdNrxxpfLlTIVCDZ1ZPy71RynO6YATTqEX5DO6qCTxlm25yw1LbVMTzNmBu0j9dJ0HsTiLPT1vIibCJJRnoDUSYus2u6AYOO0IxpMbuYa8PAUSsbV0gB0ArysTE6TeNb/85wUhW/2sNTCaIk54K1GUAR3ygIw4+EJKOT41SFW/m4uJTBp94rMWsPiobvMGczGw20y4oGI7NTixDLb1J4MNMVWVFn9Wsw5tq+uDX/Wrcp5O8tQO0n+rtzA==;DYp5DDDHFP92TPgwnyzj0w=="
 ---

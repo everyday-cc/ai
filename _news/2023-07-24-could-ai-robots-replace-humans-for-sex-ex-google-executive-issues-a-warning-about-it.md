@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/294161/20230723/ai-robots-rep
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294161/20230723/ai-robots-replace-humans-sex-ex-google-executive-warning.htm"
 type: article
 quality: 67
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: techtimes
@@ -27,29 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Former Google executive drops stark warning about robots replacing human for sex"
-    excerpt: "A former senior Google executive has warned that virtual reality and augmented reality headsets will soon be used for simulated sexual experiences."
-    publishedDateTime: 2023-07-24T11:35:00Z
-    webUrl: "https://www.tweaktown.com/news/92507/former-google-executive-drops-stark-warning-about-robots-replacing-human-for-sex/index.html"
+  - title: "Ignoring AI Could Spell Disaster For Top Executives"
+    excerpt: "How long will your company survive if all of your competitors instantly become 30% more productive? That's exactly what's happening right now with AI."
+    publishedDateTime: 2023-07-24T15:03:00Z
+    webUrl: "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/"
+    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/24/ignoring-ai-could-spell-disaster-for-top-executives/amp/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.tweaktown.com/news/9/2/92507_2541_google-executive-drops-warning-about-robots-replacing-human-sexual-needs_full.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64be91afb47d40b871d98954/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 795
         isCached: true
-  - title: "Google executive warns robots may soon replace humans for sex"
-    excerpt: "A former senior executive at Google said that artificial intelligence-powered sex robots may soon replace human partners."
-    publishedDateTime: 2023-07-23T13:19:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-executive-warns-robots-may-soon-replace-humans-for-sex"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "LtIQfG4wm7D7ZPpmCdCyXUBvpP/F0FcO6OcLydUpDHL+ZxWjoHvTKiPU7lu2JfPKNtEuGMi5DRN+P0ypTqZurXqr9AIDTv6pitkINytkuP4mQjVcYMx40EgdoZlLjZ2BQ12touJzsWHHXKi5FZGj9A8XGVG22zLOWUNF8ik4kqolsdEahp2mBawrZa82tRGeLCvqPJcPcRhxtX3ufVN1P475xc5q+KLdWvx8GJyTMcPn9gHnFd2tz7JKdWN+OhysRJgcOGLj4t6oe14e1km3oMR6BnDXCA6Uoram97lyCDXMtNNM18VOw//t5KpUa635jAYr0AxrdAv3t/ASd3P5+mFyyvDFT4xeXN4fSq6UEV2x788WSFv0cI9yRoWRe69PM+PO9Y7L/Q0MqDWS+CCy6Z3xNbmS8cdWZD23DjAXvbL55SadXhIJB3+7A2Nyc4mfc8LLnZDxqzD+EimiV3nrJ2SXLLrsMYxpAYCayczEqKClnhVlIK1pZ7/M+UahMQrD9tsYs+x6Anx34VbIodusjQ==;Jw3J1OeokFtkKjFE5W/fxQ=="
 ---

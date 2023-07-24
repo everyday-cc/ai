@@ -62,6 +62,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Are self-driving cars a national security risk?"
+    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
+    publishedDateTime: 2023-07-20T17:00:00Z
+    webUrl: "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize"
+        width: 1080
+        height: 567
+        isCached: true
   - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
     excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
     publishedDateTime: 2023-07-20T10:43:00Z
@@ -76,15 +90,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Are self-driving cars a national security risk?"
-    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-    publishedDateTime: 2023-07-21T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 21
 
 secured: "JEC96dZYzzQPfNBWr+bMoXpN5l/+860p1LSsdfxW+SolzszIF6yL9eie3zGMkMpq0FpjVCpzisY0cr1LqSK53UuMHzh7Rj0e6NhDxQ0xC+6XByNSfxPddevaOYUwAR+aboZ7xuqTIeeIjz81TNs8gC8kxZLeUTuB26IoBSIz4ehskSWvyGyVBBSdW5Ig2rlJJNYVZGny5tbBe3yM2v9iqXHYG5THituytttcMXSWFD9Le5Mol1kMnzlvqGTHJGodaE7MRdG5cECik2r2zhSqu5CC5oaKM37GZp7Y2lHFtPCyvFcLF5vd5ElNpHYqVzfzftERvrTw/qczFbwpX63cvqX28p9vsOPJqA8+RMfg2E8=;v7CQMu207ZNXAsFzpIIG6g=="
 ---

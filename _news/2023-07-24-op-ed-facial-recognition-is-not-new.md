@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Individual whale, dolphin ID using facial recognition tech"
-    excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology (HIMB) Ph."
-    publishedDateTime: 2023-07-19T20:57:00Z
-    webUrl: "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.html"
-    ampWebUrl: "https://phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-individual-whale-dolphin-id-facial.amp"
+  - title: "Newsletter: Facial recognition at a gas station?"
+    excerpt: "Dot web_crawlr newsletter is your daily internet culture rundown. Subscribe and we will crawl the web so you don't have to."
+    publishedDateTime: 2023-07-24T15:30:00Z
+    webUrl: "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/"
+    ampWebUrl: "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/?amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: The Daily Dot
+      domain: dailydot.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/individual-whale-dolph.jpg"
-        width: 676
-        height: 381
+      - url: "https://uploads.dailydot.com/2023/07/Daily-Dot-Newsletter-Web-Crawlr-Image-07-24-2023.jpg?auto=compress&fm=pjpg"
+        width: 2000
+        height: 1000
         isCached: true
-  - title: "How face recognition rules in the US got stuck in political gridlock"
-    excerpt: "A national effort to ban police use of face recognition is facing a sobering reality: compromise"
-    publishedDateTime: 2023-07-24T11:01:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+  - title: "Endeavour Group seeks national coordination of facial recognition at gambling venues"
+    excerpt: "Endeavour Group has called on state and territory governments to coordinate a national approach to using facial recognition technology to combat problem gambling and money laundering at gaming venues."
+    publishedDateTime: 2023-07-20T01:02:00Z
+    webUrl: "https://www.itnews.com.au/news/endeavour-group-seeks-national-coordination-of-facial-recognition-at-gambling-venues-598204"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 32
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Individual whales, dolphins identified using facial recognition tech"
-    excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
-    publishedDateTime: 2023-07-23T16:00:00Z
-    webUrl: "https://mauinow.com/2023/07/23/individual-whales-dolphins-identified-using-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Maui Now
-      domain: mauinow.com
-    quality: 39
-    images:
-      - url: "https://media.mauinow.com/file/mauinow/2023/07/dolphin-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.nextmedia.com.au/News/20230720103706_facial_recognition.jpg"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "4jxEuhhe8SZxfh7n7z3ITZ/WKSBKP21+eu/o9s3F2cSxtwsJZ9lKiZrEd1EKc0SLQ7bhbofCC2F9WqKaiO1fsJRanqI3o91hoHfbHHjls0LYJaB44174I0HUuDu7wlPRLZOkTMZ/XiUDfSJdKMZJDg/k3kISZ/3/rkUfa5zkRGVkI5QxHzQiPveuC3OVrk/qNlioHqUyRFUk+5SCWY6e2lYBr7GDrFFoL9buKCn3PQqOTIeMj+3WGN6WS+J4b5/74/qMkaFhE0bocLSH5xrBJ356cVuR1l923pF7J4E83LtOKBPb+Rhit9P2QM4JFaUZC95P0n1nyALHOakpv6QrcwFQVlZtzWccMt0RGHaBnjUay4l1yNM37zMqu9VyfOnjB2JiSNOt10Zn6sJJbRZ+JobvXTv5EJzlqTuOHDLIoE2irmUMRgnLYVWydibmFC/9aWezAUBLrEF553KKJA1X+TPIa8c6cI2lFK7cyvtjqnXVYhk5DBrPZrpBybVvv9H8DAWqsv6of6D13wNSeaKVTg==;tYJff4HQJGvgY89F2y805w=="

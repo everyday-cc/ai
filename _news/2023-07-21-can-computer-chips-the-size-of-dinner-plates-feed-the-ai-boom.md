@@ -9,8 +9,8 @@ ampWebUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Seattle Times
@@ -21,20 +21,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
-    publishedDateTime: 2023-07-22T07:40:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 54
-    images:
-      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips"
     excerpt: "The new supercomputer, made by the Silicon Valley start-up Cerebras, was unveiled as the A.I. boom drives demand for chips and computing power."
     publishedDateTime: 2023-07-20T13:00:00Z

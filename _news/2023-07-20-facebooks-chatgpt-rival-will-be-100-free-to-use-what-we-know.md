@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/news/facebooks-chatgpt-rival-will-be-100
 webUrl: "https://www.tomsguide.com/news/facebooks-chatgpt-rival-will-be-100-free-to-use-what-we-know"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Flooded With Ads And Pages For Fake Chatgpt, Google Bard And Other Ai Services, Tricking Users Into Downloading Malware"
-    excerpt: "Cyber criminals are using Facebook to impersonate popular generative AI brands, including ChatGPT, Google Bard, Midjourney and Jasper <"
-    publishedDateTime: 2023-07-21T00:55:00Z
-    webUrl: "https://menafn.com/1106640306/Facebook-Flooded-With-Ads-And-Pages-For-Fake-Chatgpt-Google-Bard-And-Other-Ai-Services-Tricking-Users-Into-Downloading-Malware"
+  - title: "Use cases of ChatGPT in telecom"
+    excerpt: "ChatGPT being a large language model developed by OpenAI can accelerate innovation and boost operational efficiency for telcos. By leveraging the power of AI and natural language processing, telecom companies can optimize efficiency."
+    publishedDateTime: 2023-07-23T08:57:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/use-cases-of-chatgpt-in-telecom/102054010"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://menafn.com/updates/pr/2023-07/20/M_5762eimage_story.jpg"
-        width: 800
-        height: 800
+      - url: "https://etimg.etb2bimg.com/thumb/msid-102054010,imgsize-15770,width-1200,height=765,overlay-ettelecom/internet/use-cases-of-chatgpt-in-telecom.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "8EwjgYxrFCO5IJrO58vUB2aqANEJwi79Ym6XJMv3KG07mILl3uLBVbnKnF3JgDtf4usA17E097+8LYInzUAIkzyNGH1/MUiqlGKUgBQWr8nUtMn9XUCHZJ70qiCufW/oNN6UMAQJt0f8f8i54et0CElR4mRO2OoYCzZYuiwDzd4xcfpfF3A4go7e44FX8ry9kKapOlUT1TdCoubKsyH4JZ0f1NtITJBJ96mfISQ3p0a9f1ozQuZvPyaH/UlkarrPK1qTBw9nM7AejWNs2ymGddO8sj1TigX7/Ji8iBUjhQZ3MfP2/UvKhepSj3ys8FqgV8A5/y9GPEmsTA8dq7Fl3VTdmVqPsZT6Q5dQq+uC6WM=;r+CtwcbSrYaHpzOJTIrh9g=="

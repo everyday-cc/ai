@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-04-what-latin-american-fintech-startups-can-teach-silicon-valley.md",
+      "title": "What Latin American Fintech Startups Can Teach Silicon Valley",
+      "excerpt": "As Silicon Valley-based startups contend with the reality of sustained high inflation, here are the lessons that they can learn from their neighbors in Latin America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/",
+      "originalUrl": "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647be613a0280688a413b283/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/amp/",
+      "publishedDateTime": "2023-06-04T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-quantum-computers-hsbc-quantinuum-explore-use-cases-of-quantum-computing-in-financial-services.md",
       "title": "Quantum Computers: HSBC, Quantinuum Explore Use-Cases of Quantum Computing in Financial Services",
       "excerpt": "Quantinuum, HSBC announce a series of exploratory projects that exploit the potential near- and long-term benefits of quantum computing.",
@@ -1361,50 +1413,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-c3ai-ai-receives-a-sell-from-bank-of-america-securities.md",
-      "title": "C3ai (AI) Receives a Sell from Bank of America Securities",
-      "excerpt": "Bank of America Securities analyst Bradley Sills maintained a Sell rating on C3ai (AI – Research Report) today and set a price target of",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a-sell-from-bank-of-america-securities-1032328975",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a-sell-from-bank-of-america-securities-1032328975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

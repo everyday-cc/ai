@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/nuscore-to-aid-pa
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102081413.cms"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1070
     height: 579
     isCached: true
+
+related:
+  - title: "Northern Arc’s ML Analytical Tool, NuScore To Aid Pahal Financial Services’ Underwriting"
+    excerpt: "Northern Arc Capital, a diversified financial services company has announced that its ML-based analytical tool, Nu Score will aid underwriting and risk assessment of Gujarat-based NBFC-MFI, Pahal Financial Services."
+    publishedDateTime: 2023-07-24T12:13:00Z
+    webUrl: "https://startup.outlookindia.com/sector/saas/northern-arc-s-ml-analytical-tool-nuscore-to-aid-pahal-financial-services-underwriting-news-8966"
+    type: article
+    provider:
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 27
 
 secured: "hV7avX8BaD4gJPwEyES5yR7WAXHoXh+ZWl1RQHktNWOQ5em+cTUFVPBMTswEC9A2hIk0Uulc1RX7Rr77aiFiAwlwn0PXjI2/GFXUVcW98iqtxlFpFYRSbUUSOvTnavL27Nbs+HOv/4CVx7IBH/CwBpIo75M5QfI7edhOlZkZXsZ31Zkr4Bt04ICQ+EOeVLmHbd8TGiQqhfc45JlXAP7e6QI+tHvdxOAoLCcChfh8VYYmz09qi8wnKgDEQ+CD24yHxyPSf6c8K9Crv6FiWwHiaaULQs0fBpr8XJib1/dq4ZLYFRgCMCEA/mdTHBXFLXJGRxFJonVrY9cTZtanUNoxb+ypvq+OgH/CdwTojTvm4nE=;c2KjYXg0z3TqslSntN2f0Q=="
 ---

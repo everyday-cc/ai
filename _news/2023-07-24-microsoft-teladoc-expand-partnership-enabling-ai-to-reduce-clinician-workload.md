@@ -77,20 +77,6 @@ related:
         width: 1024
         height: 762
         isCached: true
-  - title: "Microsoft Teams is adding Maybelline’s AI-powered ‘makeup’ filters"
-    excerpt: "The new feature is rolling out to global Microsoft Teams Enterprise customers starting today and can be located under the “Video Effects” tab within the Teams meeting settings. We’ve asked Microsoft if the filters will also be available to users on the free Microsoft Teams tier and will update this story if we hear back."
-    publishedDateTime: 2023-07-19T20:11:00Z
-    webUrl: "https://www.theverge.com/2023/7/19/23800648/microsoft-teams-maybelline-ai-beauty-filter-virtual-makeup"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/VchrOdbiz5Cn1lm5r32XqVRfwAA=/0x0:1450x960/1200x628/filters:focal(724x492:725x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/24797533/Maybelline_beauty_app_Microsoft_teams.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "White House Says Amazon, Google, Meta, Microsoft Agree to AI Safeguards"
     excerpt: "Big tech companies are adopting voluntary guidelines, such as watermarking artificial content."
     publishedDateTime: 2023-07-21T08:00:00Z
@@ -253,20 +239,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft's Copilot has Wall Street more bullish on AI prospects"
-    excerpt: "Microsoft's Copilot pricing has analysts across Wall Street boosting their projections for the stocks performance over the next 12 months."
-    publishedDateTime: 2023-07-19T20:03:00Z
-    webUrl: "https://www.aol.com/finance/microsofts-copilot-wall-street-more-200307642.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Uez7wTg0lmOAzfsFDqeOIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/085d57465ba41ea508e3eb795e10e84e"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Capgemini and Microsoft Launch Azure Intelligent App Factory for Accelerated Generative AI Implementations"
     excerpt: "Capgemini and Microsoft have collaborated to create the Azure Intelligent App Factory, a solution aimed at enabling organizations to scale respon"
     publishedDateTime: 2023-07-20T10:31:00Z
@@ -287,20 +259,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 51
-  - title: "Intel, Microsoft, Other Tech Giants Want To Boost AI, HPC With ‘Ultra Ethernet’ Solution Stack"
-    excerpt: "Intel, Microsoft, Hewlett Packard Enterprise and other tech giants seek to build an 'Ultra Ethernet' solution stack that addresses the growing network demands of AI."
-    publishedDateTime: 2023-07-19T21:42:00Z
-    webUrl: "https://www.crn.com/news/networking/intel-microsoft-other-tech-giants-want-to-boost-ai-hpc-with-ultra-ethernet-solution-stack"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 46
-    images:
-      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Microsoft Azure Managed Lustre for HPC and AI Workloads Now Generally Available"
     excerpt: "Subscribe for free. Microsoft recently announced the general availability (GA) of Azure Managed Lustre, a managed file system for high-performance computing (HPC) and AI workloads. Wolfgang De Salvador, an EMEA GBB HPC, and AI Senior Specialist at ..."
     publishedDateTime: 2023-07-20T10:06:00Z
@@ -394,6 +352,15 @@ related:
         width: 768
         height: 576
         isCached: true
+  - title: "Microsoft to get 'golden 1-2 punch' from cloud, AI, Wedbush says"
+    excerpt: "Microsoft (MSFT) is slated to report fiscal fourth-quarter results on Tuesday and Wedbush Securities believes the tech giant will get a boost from the cloud and AI. Read for more."
+    publishedDateTime: 2023-07-24T12:14:00Z
+    webUrl: "https://seekingalpha.com/news/3989997-microsoft-golden-1-2-punch-from-cloud-ai-wedbush"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
     publishedDateTime: 2023-07-21T14:06:00Z
@@ -402,6 +369,15 @@ related:
     provider:
       name: The Daily Record (Maryland)
       domain: thedailyrecord.com
+    quality: 31
+  - title: "Big Tech Earnings Preview: Microsoft, Google Lead AI Hype For 'Magnificent Seven'"
+    excerpt: "The so-called 'Magnificent Seven' big tech stocks have powered much of the Nasdaq's 2023 rally, largely on the back of AI hype. Now it's time to get real."
+    publishedDateTime: 2023-07-24T15:27:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/big-tech-earnings-look-microsoft-leads-magnificent-seven-ai-hype"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 31
   - title: "Birlasoft Collaborates with Microsoft to Establish Generative AI Centre of Excellence, Driving Value Creation and Innovation"
     excerpt: "BSOFT], part of the USD 2.9 billion diversified C.K. Birla Group has established a Generative AI Centre of Excellence, in collaboration with Microsoft."
@@ -426,6 +402,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
+  - title: "The future of business is here: How industries are unlocking AI innovation and greater value with the Microsoft Cloud"
+    excerpt: "I have witnessed the staggering speed and scale of generative AI technology adoption, and how it has opened doors for organizations to imagine new ways to solve business, societal, and sustainability challenges."
+    publishedDateTime: 2023-07-24T14:10:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/07/24/the-future-of-business-is-here-how-industries-are-unlocking-ai-innovation-and-greater-value-with-the-microsoft-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
 
 secured: "pkKWtxb9ceASJ/mtOLlrZR2yeTzrXvTjzX9dNbY7ISWaQ8WL9ZcguIwwP+Lo0AN9D6osxb/oMaIXB84tO6jUWC1vVj5fE66QQuFD+5R1hy9oaQt/dqtc/oZj65pp2dmqduLpfdafuBYRT0QzPP56ZVRwLu1rjItA4MsO7Nzyhdwylcl30eUZXkNt+pKvaRy0ymVfFCKybt2lDm9kUE9kVHYACahoUWQn5zlUVIoDDvJHKe2Dx4Lt59WFanLTt2uICQV6RliuujTiKY0kF+saFHZuRr98JrNOEzqwLsv0elsANUhzRmlvRmcrhZU9cDOLmUz4Y2kZhx34y7yPTwDkq4dio3MIByhISJ20f92rruZhPjLpkhf1dWq2DiDFcjFG9MUQNmWzvP0anQcuEtQiKy7fG6xZM0OWITGTAlnGBV8vH+nJMvftH0y6WVJnQsjLr5cvy0Ej6X3l5xFt+ewT54bJ3IvlW/mcFnclC19oXWR+WkinCLvNJqon8avWE5LGvKR1zw0wuQ8GfuI5SFl6qA==;0Uw/MDgAENH8tgplGwGlug=="
 ---

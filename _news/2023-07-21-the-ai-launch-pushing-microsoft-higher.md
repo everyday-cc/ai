@@ -72,6 +72,52 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Partners With Indian Company To Build AI Centers"
+    excerpt: "This story was first published on the Benzinga India portal."
+    publishedDateTime: 2023-07-24T12:59:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33341965/microsoft-partners-with-indian-company-to-build-ai-centers"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33341965"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33341965"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/07/24/shutterstock_370707185.jpg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Birlasoft and Microsoft collaborate for Generative AI Centre of Excellence"
+    excerpt: "The Gen AI-CoE will leverage Microsoft Azures OpenAI Service for research, training, and collaboration, to build 50 use cases and digitally transform the above sectors, the company said in a statement."
+    publishedDateTime: 2023-07-24T14:35:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2535170-birlasoft-and-microsoft-collaborate-for-generative-ai-centre-of-excellence?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 72
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_51_6762345.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
+  - title: "Viatel Technology Group launches secure AI tool for Microsoft Teams"
+    excerpt: "Viatel Technology Group has revealed that they have introduced their latest innovation, a secure Artificial Intelligence (AI) tool called vAI for Microsoft"
+    publishedDateTime: 2023-07-24T15:46:00Z
+    webUrl: "https://www.onmsft.com/news/viatel-technology-group-launches-secure-ai-tool-for-microsoft-teams/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/vAI-for-Teams.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
     excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
     publishedDateTime: 2023-07-20T05:08:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutioni
 webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,83 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI assistance revolutionising online education: Personalised learning and beyond"
-    excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
-    publishedDateTime: 2023-07-24T10:11:00Z
-    webUrl: "https://www.indiatoday.in/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/featurephilia/story/ai-assistance-revolutionising-online-education-personalised-learning-and-beyond-2410999-2023-07-24"
+  - title: "How robots are revolutionizing surgery"
+    excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."
+    publishedDateTime: 2023-07-20T15:44:00Z
+    webUrl: "https://www.fox13now.com/brand-spotlight/wellness-wednesday/how-robots-are-revolutionizing-surgery"
     type: article
     provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 71
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/thisisengineering-raeng-bg0geue-cy8-unsplash-sixteen_nine.jpg?VersionId=EVKtVWSwKzXj.m6ShD2bAyHx4ZbZeB.9"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI-driven personalisation: A new era in Ghanaian banking services"
-    excerpt: "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients."
-    publishedDateTime: 2023-07-21T16:42:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/AI-driven-personalisation-A-new-era-in-Ghanaian-banking-services-1809434"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Blitz: AI driving hyper-personalised customer experiences"
-    excerpt: "Personetics VP of Strategy & Business Development, Dorel Blitz, discusses how AI is helping to drive hyper-personalised customer experiences in banking"
-    publishedDateTime: 2023-07-21T14:43:00Z
-    webUrl: "https://fintechmagazine.com/videos/blitz-ai-driving-hyper-personalised-customer-experiences"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: fox13now
+      domain: fox13now.com
     quality: 39
     images:
-      - url: "https://assets.bizclikmedia.net/1200/aa36d7ce6ae59648e85c7d646056a3f5:c883cf3e4a352363434da6fd5fd5e4bc/maxresdefault.jpg.jpg"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1f70ce2/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F29d%2Fef205c0e5ea14d77944cbd6904335118%2F29db8d7db1a641ca99cdbe0b8c7b6104%2Fposter_f186a14be22c4c8c9a18abdbc4f5d36e.jpg"
         width: 1200
-        height: 631
+        height: 630
         isCached: true
-  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
-    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
-    publishedDateTime: 2023-07-21T06:45:00Z
-    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
     type: article
     provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 39
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
     images:
-      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
-        width: 1500
-        height: 900
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "AI in Education: New Guidance from the Department of Education"
-    excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
-    publishedDateTime: 2023-07-21T20:31:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/ai-in-education-new-guidance-from-department-of-education-perfcon"
+  - title: "How AI pressure is making companies rethink cloud use"
+    excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
+    publishedDateTime: 2023-07-24T12:19:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece"
     type: article
     provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 34
-  - title: "Can Machine Learning Revolutionize Early Cancer Detection in Primary Care?"
-    excerpt: "Through the promise of machine learning, early cancer detection in primary care could undergo a revolutionary transformation, leading to the saving of lives."
-    publishedDateTime: 2023-07-23T12:52:00Z
-    webUrl: "https://www.medindia.net/news/can-machine-learning-revolutionize-early-cancer-detection-in-primary-care-212792-1.htm"
+      name: The Hindu
+      domain: thehindu.com
+    quality: 19
+  - title: "AI could revolutionize dentistry. Here's how."
+    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
+    publishedDateTime: 2023-07-21T18:36:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
+      name: CBS News
+      domain: cbsnews.com
     quality: 17
   - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
     excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
