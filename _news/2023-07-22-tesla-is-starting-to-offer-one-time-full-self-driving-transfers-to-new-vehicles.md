@@ -145,20 +145,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Elon Musk confirms Tesla is in ‘early’ talk to license self-driving tech to ‘major’ automaker"
-    excerpt: "Elon Musk confirmed that Tesla is currently in ‘early’ discussion to license its self-driving technology with a ‘major’ automaker. At the end of his opening remarks for Tesla’s Q2 2022 earnings call following the release of the automaker ..."
-    publishedDateTime: 2023-07-19T23:27:00Z
-    webUrl: "https://electrek.co/2023/07/19/elon-musk-tesla-early-talk-license-self-driving-tech-major-automaker/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 58
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Tesla-full-self-driving-beta-v9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla investors balk at margin loss as Elon Musk touts self-driving future"
     excerpt: "Elon Musk, who has waged a price war against EV rivals since last year, signaled price cuts were here to stay even as Tesla's quarterly automotive gross margins slid."
     publishedDateTime: 2023-07-21T03:40:00Z
@@ -248,20 +234,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Licensing its self-driving technology to other automakers could be Tesla’s next big move"
-    excerpt: "Elon Musk says that Tesla is talking to at least one other automaker about licensing its self-driving technology."
-    publishedDateTime: 2023-07-20T00:30:00Z
-    webUrl: "https://bgr.com/tech/licensing-its-self-driving-technology-to-other-automakers-could-be-teslas-next-big-move/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/12/Tesla-Model-S.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Musk open to price cuts as Tesla bets on self-driving future"
     excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."

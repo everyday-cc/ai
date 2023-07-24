@@ -2,6 +2,353 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-06-22-your-ceo-is-not-your-brand.md",
+      "title": "Your CEO Is Not Your Brand",
+      "excerpt": "Corporate leaders like Jeff Bezos at Amazon, Larry Ellison at Oracle, Mark Zuckerberg at Meta and Elon Musk at Twitter, Tesla and Space X, all have global name recognition ... it also serves as an object lesson as to why the CEO must be separated from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f1060b59bb0980007fed7d3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 872,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/06/22/your-ceo-is-not-your-brand/amp/",
+      "publishedDateTime": "2023-06-22T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-how-ai-is-changing-the-future-of-work.md",
+      "title": "How AI Is Changing The Future Of Work",
+      "excerpt": "We’ve been hearing for years the warning that a robot might take over our job. More recently, a report by Goldman Sachs suggested that artificial intelligence (AI ... a once-in-a-generation technology. Any startup or VC that believes they are just ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6493313d59624b09bcb3466b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marenbannon/2023/06/22/how-ai-is-changing-the-future-of-work/amp/",
+      "publishedDateTime": "2023-06-22T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-a-comprehensive-guide-to-building-event-driven-architecture-on-azure-aws-and-google-cloud.md",
+      "title": "A Comprehensive Guide to Building Event-Driven Architecture on Azure, AWS, and Google Cloud",
+      "excerpt": "CostFilters': { 'Service': ['AWS Lambda', 'Amazon EC2'] }, 'BudgetType': 'COST', 'Notification ... For instance, one can stream data from cameras or mobile devices to Kinesis and use AWS Rekognition or SageMaker to analyze the stream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/event-driven-architecture-clouds/",
+      "originalUrl": "https://www.infoq.com/articles/event-driven-architecture-clouds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/event-driven-architecture-clouds/en/headerimage/a-comprehensive-guide-to-building-event-driven-architecture-header-1687167469391.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-how-this-self-driving-boat-is-helping-to-tackle-the-issue-of-plastic-waste.md",
+      "title": "How This Self-Driving Boat Is Helping To Tackle The Issue Of Plastic Waste",
+      "excerpt": "Sometimes inspiration can come from the unlikeliest of sources. In the case of the Hong Kong-based autonomous boat startup Clearbot, it was a trip to Bali, where its founders saw the extent of the plastic pollution crisis first hand. “We were on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64930a628e868fd424b3466b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/22/how-this-self-driving-boat-is-heping-to-tackle-the-issue-of-plastic-waste/amp/",
+      "publishedDateTime": "2023-06-22T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine.md",
+      "title": "Alternative Firms Use AI To Blend Best Of Human With Best Of Machine",
+      "excerpt": "Hedge funds and private equity firms have been using data science and AI for years. Alternatives firms are striving to blend the best of human with the best of machine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/",
+      "originalUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649372b5f104dc1e338daaa0/0x0.jpg?format=jpg&width=1200",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carriemccabe/2023/06/22/alternative-firms-use-ai-to-blend-best-of-human-with-best-of-machine/amp/",
+      "publishedDateTime": "2023-06-22T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery.md",
+      "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+      "excerpt": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+      "originalUrl": "https://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-22-how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage.md",
+      "title": "How data, automation and AI are transforming Business Process Outsourcing into a competitive advantage",
+      "excerpt": "When IBM Consulting&#8217;s Neeraj Manik spoke recently with a large pharmaceutical client about how to streamline and improve its front-office and back-office financial processes, he pointed to a web of interconnected business challenges the organization was facing: &#8220;too many invoices, too many",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/",
+      "originalUrl": "https://www.ibm.com/blog/how-data-automation-and-ai-are-transforming-business-process-outsourcing-into-a-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-22T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-22-face-recognition-the-key-to-safe-future.md",
       "title": "Face Recognition – The Key to Safe Future",
       "excerpt": "Generally, face recognition works by analyzing and comparing various facial features to identify an individual. The whole process is n noted below: Face Detection: At first, it detects and locates a face in an image or video by using algorithms to analyze patterns of light and dark pixels.",
@@ -867,315 +1214,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds.md",
-      "title": "More developers are coding with AI than you think, Stack Overflow survey finds",
-      "excerpt": "With 90,000 responses to the company's annual survey, here's where developers are leaning toward in the generative AI debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "originalUrl": "https://www.zdnet.com/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/545733610b3e2f93753c954165fa6020af63360f/2023/06/21/82341c8e-30ce-4539-9f57-baa07a59b3ec/gettyimages-1443552841.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/more-developers-are-coding-with-ai-than-you-think-stack-overflow-survey-finds/",
-      "publishedDateTime": "2023-06-21T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-nvidia-now-tops-tesla-as-esg-funds-ratchet-up-exposure-to-ai.md",
-      "title": "Nvidia Now Tops Tesla as ESG Funds Ratchet Up Exposure to AI",
-      "excerpt": "Nvidia Corp.’s stratospheric ascent has lured at least 100 more ESG funds in recent weeks, transforming the company into one of the most popular stocks among asset managers who integrate environmental,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-popular-than-tesla-as-another-100-esg-funds-pile-in?re_source=postr_story_3",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-21/nvidia-more-popular-than-tesla-as-another-100-esg-funds-pile-in?re_source=postr_story_3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in_Z4HUIMDbU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value.md",
-      "title": "Accenture and AWS Extend Generative AI Capabilities to Accelerate Adoption and Value",
-      "excerpt": "Accenture (NYSE: ACN) today announced an extension of their strategic collaboration with Amazon Web Services (AWS) to help clients leverage the value of large language models (LLMs) and generative AI for faster business transformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value/article_4345ea4d-2dc8-5983-8d52-9a4f5e73c8e0.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/accenture-and-aws-extend-generative-ai-capabilities-to-accelerate-adoption-and-value/article_4345ea4d-2dc8-5983-8d52-9a4f5e73c8e0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/90/490fc1c8-8823-54ac-b20b-9083131109ec/64934c0bd1f28.image.jpg?crop=1198%2C629%2C1%2C0&resize=1198%2C629&order=crop%2Cresize",
-          "width": 1198,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-dropbox-launches-50m-ai-focused-venture-fund-intros-ai-features.md",
-      "title": "Dropbox launches $50M AI-focused venture fund, intros AI features",
-      "excerpt": "Dropbox AI — powered by an OpenAI model via OpenAI’s API — can review and generate summaries from documents as well as video previews. And it can answer questions in a chatbot-like fashion, drawing from the contents of research papers, contracts, meeting recordings and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/",
-      "originalUrl": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/11/dropbox-iphone-2018.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/21/dropbox-launches-50m-ai-focused-venture-fund-intros-new-ai-features/amp/",
-      "publishedDateTime": "2023-06-21T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-titanic-sub-marine-traffic-shows-all-titan-search-vessels-now-in-place-as-submersible-robot-joins-hunt.md",
-      "title": "Titanic sub: Marine traffic shows all Titan search vessels now in place - as submersible robot joins hunt",
-      "excerpt": "Among the vessels heading to the search area on Thursday morning was the French research boat Atalante, which carried a deep-sea robot called Victor 6000. It has remotely controlled arms that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/titanic-sub-search-french-submersible-robot-with-remote-controlled-arms-to-join-hunt-12907100",
-      "originalUrl": "https://news.sky.com/story/titanic-sub-search-french-submersible-robot-with-remote-controlled-arms-to-join-hunt-12907100",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-powerschool-announces-collaboration-with-microsoft-azure-openai-service-to-provide-personalized-learning-at-scale-in-k-12-education.md",
-      "title": "PowerSchool Announces Collaboration with Microsoft Azure OpenAI Service to Provide Personalized Learning at Scale in K-12 Education",
-      "excerpt": "PowerSchool Holdings, Inc. (NYSE: PWSC), the leading provider of cloud-based software for K-12 education in North America, today announced its integra",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230621956382/en/PowerSchool-Announces-Collaboration-with-Microsoft-Azure-OpenAI-Service-to-Provide-Personalized-Learning-at-Scale-in-K-12-Education/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230621956382/en/PowerSchool-Announces-Collaboration-with-Microsoft-Azure-OpenAI-Service-to-Provide-Personalized-Learning-at-Scale-in-K-12-Education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-06-22-take-the-lead-with-ai-and-machine-learning-skills-from-msoe.md",
-      "title": "Take the lead with AI and machine learning skills from MSOE",
-      "excerpt": "Today’s leading companies need professionals with machine learning and artificial intelligence (AI) experience to process data, make predictions, inform",
-      "sourceUrl": null,
-      "webUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
-      "originalUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.biztimes.com/2023/06/msoe_innovation_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
-      "cdnAmpWebUrl": "https://biztimes-com.cdn.ampproject.org/c/s/biztimes.com/take-the-lead-with-ai-and-machine-learning-skills-from-msoe/?amp",
-      "publishedDateTime": "2023-06-21T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTimes",
-        "domain": "biztimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

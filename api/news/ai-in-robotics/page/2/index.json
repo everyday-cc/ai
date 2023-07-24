@@ -2,19 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-12-ai-service-robotics-india.md",
+      "title": "AI Service Robotics - India",
+      "excerpt": "Value in the AI Service Robotics market is projected to reach US$116.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.45%, resulting in a market volume of US$317 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-mind-blowing-ai-for-good-or-ai-gone-bad.md",
       "title": "‘Mind-blowing’ AI for good… or AI gone bad",
-      "excerpt": "AI is racing ahead of the ability to set guardrails and quick action is required to prevent AI risks spiralling out of control, attendees at the UN’s AI for Good Global Summit have heard. The summit brought together 4,",
+      "excerpt": "Bogdan-Martin, along with other speakers at the summit, painted several scenarios for AI’s future including one where AI lives up to its promise and is harnessed to find cures for diseases, provide clean energy and mitigate climate change, and precision agriculture increases crop yield and reduces food waste.",
       "sourceUrl": null,
-      "webUrl": "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
-      "originalUrl": "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
+      "webUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
+      "originalUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://istart.co.nz/wp-content/uploads//2023/07/AI-for-Good-Summit-2023.jpg",
+          "url": "https://istart.com.au/wp-content/uploads/2023/07/AI-for-Good-Summit-2023.jpg",
           "width": 600,
           "height": 400,
           "title": null,
@@ -29,8 +72,8 @@
       "publishedDateTime": "2023-07-11T22:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "istart.co.nz",
-        "domain": "istart.co.nz",
+        "name": "istart.com.au",
+        "domain": "istart.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -47,10 +90,10 @@
     {
       "path": "_news/2023-07-12-save-211-with-the-amazon-prime-day-shark-ai-ultra-voice-control-robot-vacuum-deal.md",
       "title": "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal",
-      "excerpt": "Amazon Prime Day is here and there are plenty of great deals on home coveted home appliances like the Shark AI Ultra Voice Control Robot Vacuum. A good robot vacuum can improve your quality of ...",
+      "excerpt": "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ...",
       "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
-      "originalUrl": "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "webUrl": "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
+      "originalUrl": "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -69,11 +112,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T12:26:00-07:00",
+      "publishedDateTime": "2023-07-11T12:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
+        "name": "AZ Central",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1293,49 +1336,6 @@
       "provider": {
         "name": "The Daily Star",
         "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
-      "title": "Human-looking robots take questions at a Geneva news conference",
-      "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
-      "publishedDateTime": "2023-07-07T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
         "images": null,
         "publishers": null,
         "authors": null

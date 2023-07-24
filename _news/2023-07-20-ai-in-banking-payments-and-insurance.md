@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI is amazing and frightening at the same time"
+    excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
+    publishedDateTime: 2023-07-24T17:28:00Z
+    webUrl: "https://www.greensburgdailynews.com/opinion/columns/ai-is-amazing-and-frightening-at-the-same-time/article_82ff7704-2a47-11ee-b2b1-1f290672e0e1.html"
+    type: article
+    provider:
+      name: Greensburg Daily News
+      domain: greensburgdailynews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/greensburgdailynews.com/content/tncms/custom/image/0441c36e-bdf2-11e5-a5df-bb2003ff1eb0.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "zueFpSoYpniQNMQtzyc9H010ACef2WVW4bTCo61x594TLIVEdWHuOMJCzYPjiESiBVi4wPW4YIh1bJfNk3A3WRc1yc14ykEs2Jq1Z0+GLq390YmajA9wSLNb/2KPN8rBabgYynECd/oYv7Lqyihuyq+aNqc+OBfXKN4ueOhJY13ahrga2vPQ2l7AFs4KFWC6TU6Yh6p966BmbYpRu8mJg21OviPNeN8i/SZqv2oHUbi1wkFF+cXvMbU20q9gH1MOdHMZmK9HmTdEP7k7XIoDHF+13EfF50QTnlcoLKhv6HYs/ZVp0gZfeoAE5/czpaNPWDwO/QWDaLcl6GnnWQBwB7u0LkVivJO3Zz3sLPwwsR464mH8SyszT1v5A3Al+m1wK8zit8ZAOyzqy6Vy4Gk3jLIu9Qxs2Jqq5hBOll3/e3mV+edHgKr6+EE37iuizc6FWnY6tUVSHKIWBAKvTEmcp/WYO3KMdSidQPpZNrJcVI73uIOp69JaGPqlZyPy+nuYQwvGBUPKZlVZFZniCqK6uw==;Q3onrOglwUxn9mMiEYc3NA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-draft-gu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,37 +30,65 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning are revolutionising business intelligence"
-    excerpt: "Every day, advances are being made in both business intelligence (BI) and artificial intelligence (AI), enabling businesses to use machine learning algorithms to identify novel data patterns and quickly choose how to present them in real time."
-    publishedDateTime: 2023-07-22T04:00:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
+  - title: "Singapore looks for generative AI use cases with sandbox options"
+    excerpt: "Two sandboxes, including one for government applications, will run on Google Cloud's generative artificial intelligence toolsets and offered free for three months."
+    publishedDateTime: 2023-07-24T15:58:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T165236.463.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/895aeaf4aa2aa3b3e3c2f8296b0e3d1868404385/2023/07/24/55c31eb6-f32d-4ad9-96b6-3e85306d46d7/cloudgettyimages-1251913187.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI and machine learning can personalise experiences in logistics"
-    excerpt: "When talking about AI-driven personalization for consumer engagement in logistics, its impact extends to transparency and communication besides just improved delivery experiences. According to a survey conducted by Deloitte, 79% of customers consider shipment visibility as a crucial factor in their overall satisfaction with a logistics provider."
-    publishedDateTime: 2023-07-23T04:12:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+  - title: "Why Generative AI Won’t Disrupt Books"
+    excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
+    publishedDateTime: 2023-07-20T10:00:00Z
+    webUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/"
+    ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design139.jpg"
+      - url: "https://media.wired.com/photos/64af1b17da92561daff93c98/master/pass/FOE2.jpg"
+        width: 2600
+        height: 1350
+        isCached: true
+  - title: "Single chip architecture to meet generative AI processing challenges"
+    excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
+    publishedDateTime: 2023-07-21T04:15:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/single-chip-architecture-to-meet-generative-ai-processing-challenges"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/buxactds/5g-smart-city-400x300-c-default.jpg?width=1200&height=630&mode=crop"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "How AWS is making generative AI simpler for businesses"
+    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
+    publishedDateTime: 2023-07-24T00:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "ZQ7cKqGJhKQOVRlmEWWpmBv22JXg4DE42MHqWTqWiXRYhFfzjkdo7ZyqpkYpW2rxd20sRSCsD4zIsddxTONscuKGGTIk1JumtwhxuSlEUHhI6OcKKA/rTLYdJnyE0X2tg4sMBafw/PYXUoGUg9fOWJ2hUBTMjxNPOrwBN2BrfUEeBknTDmFur2b41oyzCM//ynTCl29XjrvMsGXxIMWyiRtQ0V3ISW5Q8JAzZBH9DFgBmkzvwhFOpdahGp4y4E7in4YZpV8pcPY4wIIhlXnhR4zjmWlkSUzpUyHPbYg2jMNIKqj4LvXfEo4KC4al2drHGYShUGa9vlH9dBwOP8Kc7W9TfMl4F/IQwl7rovdBvzPfjPsnNtCIzG7LnwshpZkN/VsrkLaQixWjVf/D4Uz9Chr3Qnhck9wtQqGaL/dD9PfPMZmbQ/k4G5LQ/WtZ02PK5o583eWwcsIqf4Ss98/kLJTN72D4bsPHekgQj7KI7cu4/8hwrYnxRwdeEMzC1mOW5B9r/j0puR6mba9fZES21Q==;52Juv98M+LfNhF6FWpJD5Q=="

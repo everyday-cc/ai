@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI is amazing and frightening at the same time"
+    excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
+    publishedDateTime: 2023-07-24T17:28:00Z
+    webUrl: "https://www.greensburgdailynews.com/opinion/columns/ai-is-amazing-and-frightening-at-the-same-time/article_82ff7704-2a47-11ee-b2b1-1f290672e0e1.html"
+    type: article
+    provider:
+      name: Greensburg Daily News
+      domain: greensburgdailynews.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/greensburgdailynews.com/content/tncms/custom/image/0441c36e-bdf2-11e5-a5df-bb2003ff1eb0.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AI in banking, payments and insurance"
     excerpt: "Algorithms are already being used to check payment balances, detect suspicious transactions, and optimise insurance pricing"
     publishedDateTime: 2023-07-20T04:00:00Z

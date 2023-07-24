@@ -105,6 +105,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "All eyes on AI as Microsoft prepares for pivotal earnings report"
+    excerpt: "Investors will be looking for early signs of traction from Microsoft’s artificial intelligence investments Tuesday afternoon when the company reports results for its fiscal fourth quarter. They’ll likely need"
+    publishedDateTime: 2023-07-24T17:28:00Z
+    webUrl: "https://www.geekwire.com/2023/all-eyes-on-ai-as-microsoft-prepares-for-pivotal-earnings-report/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 84
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-msft-logo.jpg"
+        width: 900
+        height: 628
+        isCached: true
   - title: "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead"
     excerpt: "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom."
     publishedDateTime: 2023-07-22T14:26:00Z

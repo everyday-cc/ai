@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How is generative AI relevant to telecom operators?"
+    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
+    publishedDateTime: 2023-07-24T14:42:00Z
+    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 41
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 382
+        isCached: true
   - title: "Facebook's ChatGPT rival will be 100% free to use — what we know"
     excerpt: "Meta revealed in a blog post that its forthcoming large language model (LLM), called Llama 2, will be available completely free of charge for both research and commercial purposes. It's the second generation of LLM from Meta and a strategy shift as the first was only available for select academics for research purposes only."
     publishedDateTime: 2023-07-20T15:48:00Z

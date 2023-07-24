@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "New research shows how brain-like computers could revolutionize blockchain and AI"
+    excerpt: "Researchers from Technische Universität Dresden developed a reservoir computing paradigm that uses a vortex of magnons for calculations, with revolutionary implications for the fields of blockchain and artificial intelligence."
+    publishedDateTime: 2023-07-24T17:45:00Z
+    webUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-computers-could-revolutionize-blockchain-and-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNWFlMjFjMmMtMTBmYi00ZWFhLTk4NDUtY2FjOTAxOWViMzZlLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "One to Buy: Why SOFI Stock Is a Compelling Pick in the Booming Fintech Space"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors have enjoyed a strong year with the Nasdaq Composite Index up 35%,"
     publishedDateTime: 2023-07-20T10:25:00Z

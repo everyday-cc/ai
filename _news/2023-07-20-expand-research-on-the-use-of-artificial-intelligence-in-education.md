@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
+    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
+    publishedDateTime: 2023-07-24T05:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
     excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
     publishedDateTime: 2023-07-20T13:30:00Z

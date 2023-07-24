@@ -161,7 +161,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -266,7 +266,7 @@
       "originalUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -1216,8 +1216,8 @@
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
       "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1236,11 +1236,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:20:00-07:00",
+      "publishedDateTime": "2023-07-13T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indianapolis Star",
-        "domain": "indystar.com",
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null

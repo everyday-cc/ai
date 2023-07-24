@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-g
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: Ars Technica
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
-    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
-    publishedDateTime: 2023-07-22T16:06:00Z
-    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
-    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
     excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
     publishedDateTime: 2023-07-21T08:03:00Z
@@ -69,34 +53,15 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 43
-  - title: "Be prepared for AI technology, PH urged"
-    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
-    publishedDateTime: 2023-07-23T16:36:00Z
-    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
+  - title: "Tech Giants Make ‘Voluntary’ Pledge To Develop Responsible AI—Including OpenAI And Google—White House Says"
+    excerpt: "The companies have committed to share more information, boost transparency and develop tools to flag AI-generated content, though it’s not clear how compliance to the voluntary code will be enforced."
+    publishedDateTime: 2023-07-21T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/07/21/tech-giants-make-voluntary-pledge-to-develop-responsible-ai-including-openai-and-google-white-house-says/"
     type: article
     provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Top tech firms sign White House pledge to identify AI-generated images"
-    excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
-    publishedDateTime: 2023-07-21T08:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/21/ai-white-house-pledge-openai-google-meta/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 29
 
 secured: "ttwzkc+mZq7fKOdwGYjxNlq2pii9UgTQQ+w6PC10dczRXmaH7UUM8CX1lA4ik/zGzxfYHZ2GzGLWnOUYewNcPiG7nt9I5XXxKC/dSNk67am4wmjgTcoEpXCVxX0Ir4MdkvoLGlgsAdzSbupTi7ceLU/azp0TSqmhmQzgSs0nvQiA3UrnR+FCj4IP4zGrWvXdbfNEvxpvbgX+ItcvmxAmm4ZXCC3vXiM6FHrCERTOc+RKEtAf3W6Ku07ZNxIExiNY+Hw52Y28WXmh6Zwjnpqv1dmNdwVoXDAo7QBCMc4Wn2rAOSH3t33iA/lyHywvioISL5rUdveBSmbS33jlXXOsi4EAALQSeesT3LJULtgHNEe0NsPpp+1sQStrLYIUln1FBAfCH6bmbA+zAVKJWIxUJPQN6jZfiCr/K8xW0bNUzGGyZLa9IDQ9iQVMqGXb4QROu+ktVEvucamqTdmftyDN6egSiA8/JTnA2bBZPWyGS889dhfAyTsC99xjs5mvOKxcIvOwIYhn04311oRwIY/dUg==;NQT2iwsje65RzBOygTXiNg=="
 ---

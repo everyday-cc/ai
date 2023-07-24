@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-26-a-software-package-to-ease-the-use-of-neural-radiance-fields-in-robotics-research.md",
+      "title": "A software package to ease the use of neural radiance fields in robotics research",
+      "excerpt": "Neural radiance fields (NeRFs) are advanced machine learning techniques that can generate three-dimensional (3D) representations of objects or environments from two-dimensional (2D) images. As these techniques can model complex real-world environments realistically and in detail,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-software-package-ease-neural-radiance.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-software-package-ease-neural-radiance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/a-software-package-to-1.jpg",
+          "width": 1929,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-software-package-ease-neural-radiance.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-software-package-ease-neural-radiance.amp",
+      "publishedDateTime": "2023-05-26T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-researcher-combines-ai-and-microelectronics-to-create-neural-implants-that-fight-brain-disorders.md",
       "title": "Researcher combines AI and microelectronics to create neural implants that fight brain disorders",
       "excerpt": "Neural implants can help treat brain disorders such as Parkinson’s disease and epilepsy by directly modulating abnormal activities – and the University of Toronto’s Xilin Liu is working with microelectronics and artificial intelligence to ...",
@@ -1230,41 +1274,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
-      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
-      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "publishedDateTime": "2023-05-16T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

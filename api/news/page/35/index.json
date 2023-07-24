@@ -2,6 +2,298 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-06-29-wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone.md",
+      "title": "Wordly Wins Virtual Events Innovation Award and Passes 2 Million AI Translation User Milestone",
+      "excerpt": "Wordly, the leading provider of AI translation for meetings and ... the Wordly translation platform provides real-time translation into 30+ languages for in-person and virtual meetings and events.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/n33056781/wordly-wins-virtual-events-innovation-award-and-passes-2-million-ai-translation-user-milestone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33056781",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33056781",
+      "publishedDateTime": "2023-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight.md",
+      "title": "New AI Chip Export Rules Put Semiconductor Firms in Spotlight",
+      "excerpt": "The simmering Sino-U.S. geopolitical tensions have taken a new dimension, with reports emerging that the Biden administration is mulling new export control measures to regulate the flow of AI chips to China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "originalUrl": "https://www.nasdaq.com/articles/new-ai-chip-export-rules-put-semiconductor-firms-in-spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis.md",
+      "title": "Quantum-Inspired Tensor Networks Offer New Hope For The Climate Crisis",
+      "excerpt": "While the list of beneficial applications of quantum-inspired tensorized networks for deep learning is growing, it remains a nascent technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6419aa4ee9628c10ce0aff98/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/29/quantum-inspired-tensor-networks-offer-new-hope-for-the-climate-crisis/amp/",
+      "publishedDateTime": "2023-06-29T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-demystifying-batch-normalisation-supercharge-your-neural-networks.md",
+      "title": "Demystifying Batch Normalisation: Supercharge Your Neural Networks",
+      "excerpt": "Artificial neural networks have revolutionised the field of machine learning, enabling remarkable advancements in various domains. However, training deep neural networks can be challenging due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2023/06/ai-terminology-101-batch-normalisation-guide",
+      "originalUrl": "https://yourstory.com/2023/06/ai-terminology-101-batch-normalisation-guide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Blockchain30-1688025409788.png?fm=png&auto=format",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-googles-deepmind-unveils-ai-robot-that-can-teach-itself-without-supervision.md",
+      "title": "Google’s DeepMind unveils AI robot that can teach itself without supervision",
+      "excerpt": "Google’s AI division DeepMind has unveiled a self-improving robot agent capable of teaching itself new tasks without human supervision. DeepMind claims that its RoboCat AI model is the first in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html?ref=target-is-new.ghost.io",
+      "originalUrl": "https://www.independent.co.uk/tech/google-deepmind-ai-robot-robocat-b2362892.html?ref=target-is-new.ghost.io",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-what-is-integrated-business-planning-ibp.md",
+      "title": "What is Integrated Business Planning (IBP)?",
+      "excerpt": "Integrated Business Planning (IBP) framework that integrates strategic planning, analysis, and reporting to drive business outcomes. \nThe post What is Integrated Business Planning (IBP)? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-ai-robots-put-to-work-at-kent-co-recycling-center.md",
+      "title": "AI robots put to work at Kent Co. recycling center",
+      "excerpt": "Kent County’s recycling facilities now include four new robots, three of which use artificial intelligence. They were used to help sort materials quickly and more efficiently. The robots were purchased as a part of a $406,",
+      "sourceUrl": null,
+      "webUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
+      "originalUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/06/AI-Kent-County-recycling-062923-1.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
+      "cdnAmpWebUrl": "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/ai-robots-put-to-work-at-kent-co-recycling-center/amp/",
+      "publishedDateTime": "2023-06-29T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOOD-TV",
+        "domain": "woodtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-29-the-eu-still-needs-to-get-its-ai-act-together.md",
       "title": "The EU still needs to get its AI Act together",
       "excerpt": "The AI Act was proposed by European lawmakers in April 2021. In their proposal, lawmakers warned the technology could provide a host of “economic and societal benefits” but also “new risks or negative consequences for individuals or the society.",
@@ -848,299 +1140,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-natural-language-processing-south-america.md",
-      "title": "Natural Language Processing - South America",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$0.56bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 16.60%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/south-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-speech-recognition-south-america.md",
-      "title": "Speech Recognition - South America",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$160.90m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 17.79%, resulting in a market volume of US$506 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-innovation.md",
-      "title": "Thundercomm Demonstrated GenAI Integrated Robotics Solution to Accelerate a New Wave of Robotics Innovation",
-      "excerpt": "Thundercomm, a world leading IoT product and solution provider, announced the successful integration of its privately deployed Rubik large language model(LLM) with Qualcomm RB5 AMR Reference Design. T",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/b33053388/thundercomm-demonstrated-genai-integrated-robotics-solution-to-accelerate-a-new-wave-of-robotics-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33053388",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33053388",
-      "publishedDateTime": "2023-06-28T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-natural-language-processing-philippines.md",
-      "title": "Natural Language Processing - Philippines",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$75.03m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 19.14%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/philippines",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/philippines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T20:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-one-mans-quest-to-ban-teslas-full-self-driving-and-take-on-elon-musk.md",
-      "title": "One Man’s Quest to Ban Tesla’s Full Self Driving and Take on Elon Musk",
-      "excerpt": "The Dawn Project’s Dan O’Dowd paid for a Super Bowl ad and conducts regular tests to show that Tesla’s FSD technology is dangerous and should be outlawed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "originalUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/2023/06/002-tsla-fsd-test-dan-odowd-testing-with-ross-gerbe.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/tesla-full-self-driving-ban-attempt-elon-musk-dan-odowd/amp/",
-      "publishedDateTime": "2023-06-28T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-an-early-predictor-of-cognitive-decline-in-parkinsons-disease.md",
-      "title": "An early predictor of cognitive decline in Parkinson’s disease",
-      "excerpt": "EPFL neuroscientists say that early hallucinations disease indicate a greater risk of cognitive decline when there is a diagnosis of Parkinson's.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/993928",
-      "originalUrl": "https://www.eurekalert.org/news-releases/993928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-29-speech-recognition-south-africa.md",
-      "title": "Speech Recognition - South Africa",
-      "excerpt": "Value in the Speech Recognition market is projected to reach US$63.24m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 20.54%, resulting in a market volume of US$233 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-africa",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/south-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

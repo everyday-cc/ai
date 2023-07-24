@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "This Is Why Global Governments Are Scrambling To Regulate Artificial Intelligence"
+    excerpt: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence The United Nation's Secretary-General Antonio Guterres just war"
+    publishedDateTime: 2023-07-24T17:10:00Z
+    webUrl: "https://menafn.com/1106661778/This-Is-Why-Global-Governments-Are-Scrambling-To-Regulate-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/24/B_92586image_story.jpg"
+        width: 845
+        height: 396
+        isCached: true
   - title: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence"
     excerpt: "VERSES Technologies, a cognitive computing company specializing in the next generation of artificial intelligence, today announces the release of a landmark AI industry report \"The Future of Global AI Governance.”"
     publishedDateTime: 2023-07-24T13:58:00Z

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This Is Why Global Governments Are Scrambling To Regulate Artificial Intelligence"
+    excerpt: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence The United Nation's Secretary-General Antonio Guterres just war"
+    publishedDateTime: 2023-07-24T17:10:00Z
+    webUrl: "https://menafn.com/1106661778/This-Is-Why-Global-Governments-Are-Scrambling-To-Regulate-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/24/B_92586image_story.jpg"
+        width: 845
+        height: 396
+        isCached: true
 
 secured: "ITOXqQ/OQjV5Cu5gzSomt+STFiVPXvynMagXgGaXScMq6JPOg9lzHC2gwl45yqTolN12pNSvApVo9NAD1ZKdOx53j+NtXSTrNIddTzHQN8YTWBjjVF848s0B0rgxP7O0OVnnTZhhmMoQBWrWoPKC4KKThgH/UN0QdOQRWT45cTebuMql4JIBJal5Hdj+kB9+aPlCr7Wf5DgeOzD5/zJEjtGcoWTor+mJVZ4IS5a9zeQfjfO//B6cfUak3CQNysS5Nxm4tEI/7zJgbehSDZQ/e3RWbSxn9d4Hobqi0luyHc485lErJkycZrgVLumjmKbNIw3pyVV3lXY+mvVBzAIMfjSH+PUkhNjLoQCU0RRZ31s=;0ehzwLD/5kPwuc9fHlgy6A=="
 ---

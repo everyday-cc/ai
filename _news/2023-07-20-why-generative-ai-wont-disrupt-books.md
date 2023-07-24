@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
 type: article
 quality: 87
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -30,37 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "Eight Months On, Tech Budget Planners Are Fixated On Generative AI"
-    excerpt: "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and"
-    publishedDateTime: 2023-07-21T03:56:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
+  - title: "Singapore looks for generative AI use cases with sandbox options"
+    excerpt: "Two sandboxes, including one for government applications, will run on Google Cloud's generative artificial intelligence toolsets and offered free for three months."
+    publishedDateTime: 2023-07-24T15:58:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/895aeaf4aa2aa3b3e3c2f8296b0e3d1868404385/2023/07/24/55c31eb6-f32d-4ad9-96b6-3e85306d46d7/cloudgettyimages-1251913187.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
-    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
-    publishedDateTime: 2023-07-24T05:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+  - title: "Singapore releases draft guidelines on personal data use in AI training"
+    excerpt: "Guidelines aim to clarify how Singapore's laws will apply when companies use personal data to train AI models and systems, including under research and business improvement exceptions."
+    publishedDateTime: 2023-07-20T08:38:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/44b16ceb0b9924e9d64998dcc7dde4b0f2e331f4/2023/07/19/4f4389bd-8f7a-481e-929a-163c9e69d1fd/gettyimages-1436010618.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 685
+        height: 675
+        isCached: true
+  - title: "Single chip architecture to meet generative AI processing challenges"
+    excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
+    publishedDateTime: 2023-07-21T04:15:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/single-chip-architecture-to-meet-generative-ai-processing-challenges"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/buxactds/5g-smart-city-400x300-c-default.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How AWS is making generative AI simpler for businesses"
     excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
@@ -76,38 +90,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
-    excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
-    publishedDateTime: 2023-07-20T00:00:00Z
-    webUrl: "https://iblnews.org/meta-open-sourced-llama-2-its-newest-generative-ai-model/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 39
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
-        width: 860
-        height: 510
-        isCached: true
-  - title: "How Would Generative, Predictive AI Change Wall Street?"
-    excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"
-    publishedDateTime: 2023-07-21T01:02:00Z
-    webUrl: "https://greensboro.com/how-would-generative-predictive-ai-change-wall-street/video_da75f0f1-0912-5a4e-8d76-2830a2812b91.html"
-    type: article
-    provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 19
-  - title: "Generative AI expected to impact SA companies"
-    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
-    publishedDateTime: 2023-07-24T09:44:00Z
-    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "ZtlfbCjV/JFJCexC9+usD5M6kXMCfdk4IMSdJ+UPKJ/SnOkJ/EvPQlTJoBrhH8BmjkG4QECvnGMIdjYquiI8ifSV90QurDzQOgwFEuqKEDsum/UgvL97ompvG3tdTKuEZWIskgx13ukYIX1MrtKBgMGJKAXwmboynafCGZudOQIb8tg+A71eyN+OyPN4MbFVfc09EYCnpZFJBe+uv5xp4O/HLzVuOpAez4EnxcsBYWgSkHGlytbac9FJPHZaJLSiTup7VONEO5IdZmH2xyy0VVQDIm/fUfnf/WzMTkWLXFmy3jrA1pafPWxLW+PPj2kCkeug7GheXB+HP74l8RF+HwFjyTYl8vzFZFiEFD8v2abLsSpISElU3hkpxWNT47QJhBytztS5C0t1wNcei9EaQjoQDErmTz5Ejt8GXsYlFm6L925gx4nywv43h/7A3P2dBLcfogYA72BdvBk5TYldp0wtFIRNY0s5Fff0Wy0sJNoQMfVEYO5NEa8C4Si2yFP6rfc+70BqoP1KTCDUwpBDAg==;FzOTfRMZYo+SOm14lCJjkw=="
 ---

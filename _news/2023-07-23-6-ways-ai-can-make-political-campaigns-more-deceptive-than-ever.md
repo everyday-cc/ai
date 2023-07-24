@@ -7,7 +7,7 @@ originalUrl: "https://kiowacountypress.net/content/6-ways-ai-can-make-political-
 webUrl: "https://kiowacountypress.net/content/6-ways-ai-can-make-political-campaigns-more-deceptive- ever"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Six ways AI can make political campaigns more deceptive than ever"
+    excerpt: "Political campaign ads and donor solicitations have long been deceptive. In 2004, for example, U.S. presidential candidate John Kerry, a Democrat, aired an ad stating that Republican opponent George W."
+    publishedDateTime: 2023-07-24T16:13:00Z
+    webUrl: "https://phys.org/news/2023-07-ways-ai-political-campaigns-deceptive.html"
+    ampWebUrl: "https://phys.org/news/2023-07-ways-ai-political-campaigns-deceptive.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-ways-ai-political-campaigns-deceptive.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/5-ai.jpg"
+        width: 1920
+        height: 1638
+        isCached: true
 
 secured: "e6ZGKiOsTjMn8w3pGHIZIH//5ISwIPtSNuqUm5V1Kp2c5qv1mBbzdZk9wI12Ye2XkKkwzoSU2AeE9I4vIB2bx1lr9gI6D4Y00XoJmOV4o3rMw/9sani1vm+Q0b2FtVgJWHbJ7wttXEl6a8LIFaA4yCn7kUostcaqeevtC0Vtl8tj5+bz2srFmC0r8ICC/sPYIIYVak953AHnoRLT7eVrSN0WjSNhmzKINPzYYBGm4NM3Dk3qhIibQms4xnFI7zvQiTp4O1qs0FPx1+PYO28gFrN87QUXk0doi9sS7AryLxUE7nKBfmnfnwSnKa1/PvG/W91KJzfPRVfhLit+Cb01td/r9oW4TY+lxYH8CChpd25xuKOVlm4tdN6FDP0dzshAPXjXqADdEijwXjP2bxpKirZ3cgKM7wXP1XKJquWdSfhlMYp00JXSNZk7AdQF2UaKSl7CUplfa000Mr4e0oxPWqGIUHLRTeHpdYjLYo220JPfjDuvU7lKpfNGpR9BesbP/VzcqJ+EEsDNIVUAbqqFWA==;PizIMaqq9TU4D5FwJVSk7Q=="
 ---

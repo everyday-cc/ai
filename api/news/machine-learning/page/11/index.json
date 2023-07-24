@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-04-19-applying-ai-to-crack-the-problem-of-safer-better-petroleum-processing.md",
+      "title": "Applying AI to crack the problem of safer, better petroleum processing",
+      "excerpt": "To better examine and optimize the process of catalytic cracking, the team investigated neural networks. This type of artificial intelligence models how it processes data on the human brain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/986624",
+      "originalUrl": "https://www.eurekalert.org/news-releases/986624",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-3-exciting-jobs-in-artificial-intelligence-and-machine-learning-this-week.md",
       "title": "3 exciting jobs in artificial intelligence and machine learning this week",
       "excerpt": "Rising adoption in AI/ML is leading to job opportunities both within the sector, and as a result of AI-driven automation",
@@ -1248,49 +1282,6 @@
       "provider": {
         "name": "Visual Studio Magazine",
         "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-deep-learning-model-estimates-cancer-risk-from-breast-density.md",
-      "title": "Deep learning model estimates cancer risk from breast density",
-      "excerpt": "Breast density is a known risk factor for breast cancer, and studies have shown that visual analogue scales provide better estimates of cancer risk from breast density assessments than other methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/985452",
-      "originalUrl": "https://www.eurekalert.org/news-releases/985452",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fa65e78b-2313-496f-93a3-a4a0a25c7522/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

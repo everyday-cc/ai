@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI and machine learning can personalise experiences in logistics"
+    excerpt: "When talking about AI-driven personalization for consumer engagement in logistics, its impact extends to transparency and communication besides just improved delivery experiences. According to a survey conducted by Deloitte, 79% of customers consider shipment visibility as a crucial factor in their overall satisfaction with a logistics provider."
+    publishedDateTime: 2023-07-23T04:12:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design139.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "j+z2W3jdet2sDRQVzIS8IpmMT48H9OhPJ9LBIee1VCdoUMSn53igrt8LlIHrR9FejxN3VwQcKeg9naWvWAHhsAw9LJyOQHdKbe0e35YZfxFTp6YnB5+XUOPXe64p2lM6w3S86qDSt5I6Uz+NPJndXqKAf3rMkQ9IbVpmWiYY9wJztNdw6+jcKF77XXRt9cVARa9ZumrZEbWWAu+1ZyocdN/DSotl99WmkfuZIdyL1qSFWMc0IpMMo8sYBx+A0xNHJhfvr8qQPxkXRRpX1s0kw1cHVcAb887FNQd/b6KYoLro1r20ju0sTmT6s5CUUiS8psHbO8zT7fq8adgbd3241zkazC6EB+5Dm/10fxaoaOPrcuffCLt1pDiCLxVMzTwwHb2FfxxlgOwsV7EjoVVrv3OBEUGOYadFfOXonMvs/Namas9UrGoKL8wJnc1XhWMunx0LS4nR4qa4m4ogyOoSJCfhWCb2NaV6qrP3Zyv87/MAvJRDsJLC/8q1pGqD4T6H791hRksonLOdp56MbDpQIA==;e7aFm59QEZxA1z6iRHDIDw=="
 ---

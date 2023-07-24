@@ -110,20 +110,6 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "Apple Has Created Its Own AI Chatbot, Report Says"
-    excerpt: "Apple has created its own generative artificial intelligence tools to compete with ChatGPT, according to a Bloomberg report Wednesday. Apple built its own framework that can create large language models, called \"Ajax,\" as well as a chatbot service that internal engineers are calling Apple GPT, according to Bloomberg citing unnamed sources."
-    publishedDateTime: 2023-07-19T23:25:00Z
-    webUrl: "https://www.cnet.com/tech/apple-has-created-its-own-ai-chatbot-report-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/15762c3fcd72f09b4ff1a19723d6d1c24d7211f2/hub/2023/01/18/a9dbaafe-478e-44e1-a966-4cf7231453a3/apple-green-leaf-store.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The biggest AI release since ChatGPT"
     excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
     publishedDateTime: 2023-07-21T18:11:00Z
@@ -148,6 +134,20 @@ related:
       - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/apple-stock-generative-ai-chatbot.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "The Future of AI and ChatGPT: A Glimpse into 2023 and Beyond"
+    excerpt: "As we progress into 2023, the world of artificial intelligence (AI) is poised for remarkable advancements, and ChatGPT, OpenAI’s text-generating AI chatbot, is at the forefront of these developments."
+    publishedDateTime: 2023-07-24T15:29:00Z
+    webUrl: "https://techbullion.com/the-future-of-ai-and-chatgpt-a-glimpse-into-2023-and-beyond/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
     excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
@@ -218,20 +218,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/DKX8hMk1.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "The Future of AI and ChatGPT: A Glimpse into 2023 and Beyond"
-    excerpt: "As we progress into 2023, the world of artificial intelligence (AI) is poised for remarkable advancements, and ChatGPT, OpenAI’s text-generating AI chatbot, is at the forefront of these developments."
-    publishedDateTime: 2023-07-24T15:29:00Z
-    webUrl: "https://techbullion.com/the-future-of-ai-and-chatgpt-a-glimpse-into-2023-and-beyond/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Unveiling The Latest AI Breakthroughs: From Chatbots To Self-Driven Cars"
     excerpt: "Welcome to the future, where artificial intelligence (AI) is revolutionizing every aspect of our lives. From intelligent chatbots that can have natural conversations with users to self-driven cars navigating through busy streets,"

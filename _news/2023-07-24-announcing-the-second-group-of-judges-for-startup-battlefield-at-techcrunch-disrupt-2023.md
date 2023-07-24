@@ -82,6 +82,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Roundtable Held On Advancing FinTech"
+    excerpt: "The Bermuda Government’s Economic Development Department [EDD] led a roundtable discussion on June 27th that brought together industry stakeholders and DABA-licensed companies. A spokesperson said, “This strategic dialogue marks a critical step in the ongoing evolution of Bermuda’s FinTech ecosystem,"
+    publishedDateTime: 2023-07-24T14:15:00Z
+    webUrl: "https://bernews.com/2023/07/bermuda-hosts-roundtable-on-advancing-fintech/"
+    type: article
+    provider:
+      name: Bernews
+      domain: bernews.com
+    quality: 24
+    images:
+      - url: "https://cloudfront.bernews.com/wp-content/uploads/2019/06/fintech-dollar-generic-2r32-TWFB.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Analyzing The Impact Of Fintech On Global Banking"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
     publishedDateTime: 2023-07-22T18:46:00Z

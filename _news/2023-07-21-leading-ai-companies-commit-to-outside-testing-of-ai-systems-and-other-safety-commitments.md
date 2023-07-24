@@ -342,6 +342,15 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Generative AI expected to impact SA companies"
+    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
+    publishedDateTime: 2023-07-24T09:44:00Z
+    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "AI companies agree to voluntary safeguards, Biden announces"
     excerpt: "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI have all agreed to \"voluntary commitments for responsible innovation.\""
     publishedDateTime: 2023-07-21T18:47:00Z

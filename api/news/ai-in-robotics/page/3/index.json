@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-08-human-looking-robots-take-questions-at-a-geneva-news-conference.md",
+      "title": "Human-looking robots take questions at a Geneva news conference",
+      "excerpt": "UN tech agency rolls out human-looking robots for questions at a Geneva news conference to take questions from reporters.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "originalUrl": "https://abc7chicago.com/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "publishedDateTime": "2023-07-07T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-odd-news-roundup-ai-robots-could-play-future-role-as-companions-in-care-homes.md",
       "title": "Odd News Roundup: AI robots could play future role as companions in care homes",
       "excerpt": "Nadine, a social robot powered by Artificial Intelligence (AI) with human-like gestures and expressions, could have an important future role to play in tending to the sick and elderly, according to a professor who helped invent it.",
@@ -1268,49 +1311,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-makers-must-create-and-observe-new-laws-of-robotics.md",
-      "title": "A.I. makers must create and observe new ‘laws of robotics’",
-      "excerpt": "Yet, it got enough facts right to assure this was no mere phishing expedition, but a version of the new real thing. Attempts at correction were ignored. All along, I knew this could be dicey, both in providing information that – had it been used to correct – could have led to identity theft or,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/",
-      "originalUrl": "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2023/06/OCR-Z-MICROSOFT-CHATGPT-2.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/06/30/a-i-makers-must-create-and-observe-new-laws-of-robotics/amp/",
-      "publishedDateTime": "2023-06-30T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
         "images": null,
         "publishers": null,
         "authors": null

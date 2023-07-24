@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-dev
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and machine learning can personalise experiences in logistics"
+    excerpt: "When talking about AI-driven personalization for consumer engagement in logistics, its impact extends to transparency and communication besides just improved delivery experiences. According to a survey conducted by Deloitte, 79% of customers consider shipment visibility as a crucial factor in their overall satisfaction with a logistics provider."
+    publishedDateTime: 2023-07-23T04:12:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design139.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Software developers' dance with generative AI is still at that awkward stage"
     excerpt: "AI will help developers do their jobs better, but it is also increasingly a part of the solutions they will be building for clients or employers."
     publishedDateTime: 2023-07-21T18:32:00Z

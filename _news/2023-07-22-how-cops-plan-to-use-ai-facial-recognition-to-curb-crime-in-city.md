@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Carnival Cruise Line Expands Facial Recognition Use In Ports"
-    excerpt: "The cruise line has embraced something that Royal Caribbean has also been using (and you're going to love it.)"
-    publishedDateTime: 2023-07-20T00:24:00Z
-    webUrl: "https://www.dcourier.com/news/2023/jul/19/carnival-cruise-line-expands-facial-recognition-us/"
-    type: article
-    provider:
-      name: The Daily Courier
-      domain: dcourier.com
-    quality: 39
-    images:
-      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/07/19/carnival-cruise-line2_9f0aOgL.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Gautam Budh Nagar Police to use facial recognition, AI to identify offenders in public spaces"
     excerpt: "Geospatial intelligence, a technology that leverages spatial data for informed decision-making, will be at the heart of this transformative initiative"
     publishedDateTime: 2023-07-21T18:15:00Z

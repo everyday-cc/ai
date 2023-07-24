@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-ena
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers at Mind & Machine Intelligence Summit Contemplate AI"
-    excerpt: "With the rise of artificial intelligence in our daily lives (think search engines, e-commerce and ChatGPT), it’s high time we ask ourselves some of the"
-    publishedDateTime: 2023-07-20T00:20:00Z
-    webUrl: "https://www.noozhawk.com/researchers-at-mind-machine-intelligence-summit-contemplate-ai/"
-    type: article
-    provider:
-      name: Noozhawk
-      domain: noozhawk.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/12/social-fallback.png?fit=1200%2C630&ssl=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The rise of AI forces us to reinterpret our human intelligence"
     excerpt: "We will need better guides to teach us how to navigate a world built on the patterns we didn’t know we had created"
     publishedDateTime: 2023-07-24T03:59:00Z

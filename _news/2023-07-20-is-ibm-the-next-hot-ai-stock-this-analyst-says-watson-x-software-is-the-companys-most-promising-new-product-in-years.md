@@ -62,7 +62,7 @@ related:
   - title: "IBM’s Watson rebooted as a secure AI alternative"
     excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
     publishedDateTime: 2023-07-20T20:51:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
+    webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
     type: article
     provider:
       name: SC Media

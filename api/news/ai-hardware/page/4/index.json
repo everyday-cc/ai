@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-27-edge-ai-will-shape-all-aspects-of-mediatek-business.md",
+      "title": "Edge AI will shape all aspects of MediaTek business",
+      "excerpt": "Dr. Finbarr Moynihan, head of Corporate Marketing at MediaTek, will speak at the event to explore AI adoption for smart edge devices. In a preliminary interview with DIGITIMES Asia, the MediaTek VP shares his insights on where the leading mobile chipmaker stands when it comes to AI deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/edge-ai-will-shape-all-aspects-of-mediatek-business-1032412981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2141507/image_800964_20918992.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens.md",
+      "title": "Brilliant Labs puts AI in front of your eye with its tiny open source AR lens",
+      "excerpt": "To integrate its AR device into people's daily life, Singapore-based Brilliant Labs aims to embed generative AI into its compact wearable.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Brilliant-Labs-Monocle-looking-down.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
+      "publishedDateTime": "2023-06-27T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-samsung-to-mass-produce-hbm-chips-for-ai-competing-with-sk-hynix.md",
       "title": "Samsung to mass produce HBM chips for AI, competing with SK Hynix",
       "excerpt": "Samsung is set to mass-produce high-bandwidth memory (HBM) chips for AI applications, aiming to outpace SK Hynix in the market.",
@@ -1354,111 +1458,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-15-amds-take-on-ai-instinct-mi300x-combines-gpu-cores-with-192-gb-of-hbm3-memory.md",
-      "title": "AMD's take on AI: Instinct MI300X combines GPU cores with 192 GB of HBM3 memory",
-      "excerpt": "Up until now, the big winner in the generative AI GPU game has been Nvidia, thanks to a combination of strong hardware and a large installed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "originalUrl": "https://www.techspot.com/news/99071-amd-take-ai-instinct-mi300x-combines-cpu-gpu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-29.jpg",
-          "width": 2098,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-14T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-14-amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future.md",
-      "title": "AMD Laid The Groundwork For Big Hyperscaler AI Accelerator Play In The Future",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as yesterday AMD held an in-person event in San Francisco to cover the latest in its datacenter and AI progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6489e8531c18e5e7d67d5722/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/14/amd-laid-the-groundwork-for-big-hyperscaler-ai-accelerator-play-in-the-future/amp/",
-      "publishedDateTime": "2023-06-14T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

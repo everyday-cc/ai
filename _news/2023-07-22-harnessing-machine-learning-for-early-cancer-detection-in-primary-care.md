@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-canc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 700
         height: 266
         isCached: true
-  - title: "Deep learning for healthcare services"
-    excerpt: "Deep learning, a branch of artificial intelligence (AI), falls within the broader realm of machine learning. It centers on empowering computers to learn from data and autonomously make decisions or predictions,"
-    publishedDateTime: 2023-07-20T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/996183"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 36
   - title: "Machine learning could transform early cancer detection in primary care"
     excerpt: "A new editorial paper was published in Oncoscience (Volume 10) on June 9, 2023, entitled, \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
     publishedDateTime: 2023-07-22T00:55:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-25-lam-is-an-underappreciated-ai-chip-play-heres-why.md",
+      "title": "Lam Is an Underappreciated AI Chip Play. Here’s Why.",
+      "excerpt": "Advanced memory technology may be an underestimated beneficiary of the increased spending on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
+      "originalUrl": "https://www.barrons.com/articles/lam-research-stock-price-target-ed86dc56",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-822582/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/lam-research-stock-price-target-ed86dc56",
+      "publishedDateTime": "2023-07-24T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-nvidia-is-dominating-and-could-unlock-300-billion-in-ai-revenue-by-2027-analyst-says.md",
       "title": "Nvidia is ‘dominating’ and could unlock $300 billion in AI revenue by 2027, analyst says",
       "excerpt": "A Mizuho analyst is feeling even more bullish on Nvidia's stock prospects as he thinks about the AI opportunities ahead of the chip giant.",
@@ -257,49 +300,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-21-ai-chip-craze-to-buy-or-not-to-buy-nvda-stock-now.md",
-      "title": "AI Chip Craze: To Buy or Not to Buy NVDA Stock Now?",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Up well over threefold since January, Nvidia (NASDAQ:NVDA) has not only become",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvda-stock-a-buy-at-current-prices-or-time-to-go-contrarian-1032465491",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvda-stock-a-buy-at-current-prices-or-time-to-go-contrarian-1032465491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-21-ai-alone-cant-save-the-chip-industry-from-a-downturn.md",
       "title": "AI Alone Can’t Save the Chip Industry From a Downturn",
       "excerpt": "PCs, smartphones and memory still account for most of chip production and remain in a slump.",
@@ -391,6 +391,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-us-tech-leaders-aim-for-fewer-export-curbs-on-ai-chips-for-china.md",
+      "title": "U.S. Tech Leaders Aim for Fewer Export Curbs on AI Chips for China",
+      "excerpt": "The chip giant's product launch on July 11 is part of an effort by U.S. technology companies to bypass or curb government export controls to the Chinese market as the U.S. government, citing national security concerns, continues to tighten restrictions on China's artificial intelligence industry.",
+      "sourceUrl": null,
+      "webUrl": "https://english.chosun.com/site/data/html_dir/2023/07/21/2023072100512.html",
+      "originalUrl": "https://english.chosun.com/site/data/html_dir/2023/07/21/2023072100512.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.chosun.com/site/data/img_dir/2023/07/21/2023072100509_0.jpg",
+          "width": 700,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "조선일보",
+        "domain": "chosun.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1397,51 +1440,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
-      "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33232796",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33232796",
-      "publishedDateTime": "2023-07-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

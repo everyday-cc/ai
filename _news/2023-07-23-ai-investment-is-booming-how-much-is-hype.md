@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html"
 type: article
 quality: 89
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         height: 576
         isCached: true
 
-secured: "K8qSE6/0oox3cE6FkB8RWT+ggRxlXk+UNe6euIvMlyTy/EVcT+Bkel1ySF9/UFNMACklT+EPIK2F82QP5JELABbG2dUPNtsaj49KQUJb9fH+SJikXHIfo9ixzoS2f7rwUfnM6yk4Kc9Zf+zcJPUIPqKMt82Y0fVoNOESQ/7ngZeZillcpV2LizLabAGdWWc/ONLV8a0TRVZSACBVfZ4/qgMOW86mcZTEhgWA+q8/gDbxwv4LBp9ecc01bnIc+knwKP9u2rCLPu/Z3FsnJO/e+z/Tne7QEM24RG0/dzV6liKuJpFiEDWcu9bwnKW7yMMV6DlzKBCTL9v+51LTCC/q0b+y0c3mYpawQ1blVZjq2eyzi7VdyWz76/GVASxFcZWq5+rueQc78hDBDXIxwyWsHbKF5WfEuA7lt4R2bfAGSbozu0wlbYRfMCE05OzNVxMOdSSe5uvRC6xlwhdxs9sXzI1/tu4FTgalyPhh/u/L2rtEwwI5Z3GqgIuGq9SfRZHkE5EdNP4vwoL7bu15x7IOUA==;e3Qbo55+mf4E+OEYOEmHGg=="
+secured: "uoYcILOngBBWFVq1+ZxtK7Wo+eOjzAKvCL1eCiQ9/iwm5hLiSWekBXriA0q4kzbFyWgbLLE/ctD30xtSoWXsY+fm2yEihoiygLyF1bxSrK6p9ow7Gx1Oxdz5AbHkrcWo54shOueFnt3LIRof3P+9ItA3mGhYDMlZYI/AOpQ16ZwBbgCeKMr4p7ZOO9T5oapTA5I/0mOmNNoa0X3w0/QFmSXqHQ/ceC3q3nZ9IKMfoVazmMcw0pgVN+MFUfJhnzqHw0lRt+zgLCzaqQ+Q4nThrGdKAP0DrS/lMGXuZB5K13HGPzZzjWwtXi3GOMVBZGgjdQQ+ZqgMrWrPM1PLfEQWIeA/zLb8TxiMJZ3Ljzplqzw=;J5/UELfEn2Ms5ZSmufhtDA=="
 ---
 

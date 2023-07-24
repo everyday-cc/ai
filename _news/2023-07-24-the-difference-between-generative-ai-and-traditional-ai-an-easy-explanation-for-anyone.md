@@ -30,84 +30,64 @@ images:
     isCached: true
 
 related:
-  - title: "Why Generative AI Won’t Disrupt Books"
-    excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
-    publishedDateTime: 2023-07-20T10:00:00Z
-    webUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/"
-    ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/64af1b17da92561daff93c98/master/pass/FOE2.jpg"
-        width: 2600
-        height: 1350
-        isCached: true
-  - title: "Eight Months On, Tech Budget Planners Are Fixated On Generative AI"
-    excerpt: "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and"
-    publishedDateTime: 2023-07-21T03:56:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
+  - title: "The Importance Of AI In Creating Situational Awareness"
+    excerpt: "As the way organizations operate continues to change rapidly, understanding the role of AI in sustaining situational awareness can help align several business aspects."
+    publishedDateTime: 2023-07-24T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f2ab1b715bcd65fed3786e4/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 801
         isCached: true
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
+  - title: "Expand Research on the Use of Artificial Intelligence in Education"
+    excerpt: "The application of artificial intelligence in education is still minimal, even though the technology can bring positive developments. However, research is needed on the impact of using artificial intelligence."
+    publishedDateTime: 2023-07-20T15:09:00Z
+    webUrl: "https://www.kompas.id/baca/english/2023/07/20/en-perbanyak-riset-penggunaan-kecerdasan-buatan-di-pendidikan"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
+      name: Kompas.id
+      domain: kompas.id
+    quality: 58
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://dmm0a91a1r04e.cloudfront.net/8kyZp4pGnkPE1sQ2RyONGj6jClw=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F20%2F9a3dc9e4-1dd3-47ad-9f61-f255f9ac36b3_jpg.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
-    excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
-    publishedDateTime: 2023-07-20T00:00:00Z
-    webUrl: "https://iblnews.org/meta-open-sourced-llama-2-its-newest-generative-ai-model/"
+  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
+    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
+    publishedDateTime: 2023-07-20T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
     type: article
     provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 39
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
     images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
-        width: 860
-        height: 510
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
+        width: 690
+        height: 400
         isCached: true
-  - title: "How Would Generative, Predictive AI Change Wall Street?"
-    excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"
-    publishedDateTime: 2023-07-21T01:02:00Z
-    webUrl: "https://greensboro.com/how-would-generative-predictive-ai-change-wall-street/video_da75f0f1-0912-5a4e-8d76-2830a2812b91.html"
+  - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
+    excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
+    publishedDateTime: 2023-07-20T07:15:00Z
+    webUrl: "https://techbullion.com/from-inspiration-to-innovation-exploring-the-creative-possibilities-of-designs-ais-ai-writer-in-copywriting/"
     type: article
     provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 19
-  - title: "Generative AI expected to impact SA companies"
-    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
-    publishedDateTime: 2023-07-24T09:44:00Z
-    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
+      name: Impacts
+      domain: techbullion.com
+    quality: 20
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/man-chat-with-ai-artificial-intelligence-ai-chat-technology-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "ua2+JX+Acv/Ht2DUU0ENnCwS/xp+IItLViR1a2bANfQuDapxpfz5lDIPoN7A1CKK9lW3arpAKd51pKpcynATxejWa81+erHoHJSZenpVZbECPxRQLh3flcDbXHAVZtsb8DKcNvR4/8NM+Mgi+7zHAzOEKKqfSlZiYbcbEhsZWCXq44w9WMGMf+Kg0N7HUJXIx4zOtXVNUNTdXfwJHvQ0bklIYa1IZoyStE8f4g/XZkMo1NQlFsH4AufKE6eWj9j0NMXgb7AUkl5nWg+hPB73gtR6PK4fYEgc7jn+5XkV9Np0vZH4LlpU79vDVcNF7HAJXGxOmUSBp/Zuo/523HNSttPUhursyfg8ND69RRS4kuV5q6+fVHWwLeg7gbc3i3N2HMOGTjjwEn0w8HxL8jjSVvbLMeyM7f6oTDn4QLEEJ2HWfV7VnaAYI2WWZ5lsXWjpD7tBpCER5pGQYtmLCJmWqppu4apj3LA1VtPfi19qISJ3UYFBEa+TqFI+54RDUvIgMR7J5IO0v2Q7Z3HIhUt+Jw==;rnEDG6aYl7oQ8ex46hv97Q=="
 ---

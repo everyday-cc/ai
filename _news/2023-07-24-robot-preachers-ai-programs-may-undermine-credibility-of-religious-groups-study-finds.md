@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medical Xpress
@@ -26,6 +26,17 @@ images:
     height: 326
     isCached: true
 
-secured: "7e99Hx/jQPE48Wxs4VEEPz0e6erwrqYS3vAS7n8p3iIQF4eMXvuWsxcnHqLW/cfDFagV9atzOEL3xXP9UEmxcu7J5Bx3xplpOnf4pfw3iHkADYmIzmQmE2li6IX+mzvTduTj0k5IqxEBTT/FSuE/ZBQpg8KJ6LdaP53YbdnSmanSRPod2L821Ex/upW4E78oULrVMniwcMCa33O8ru+ndJj7P3ojSMGbKwBPi0u0SjPGOEVFURqWMCAMwR1K3BVNZRLKy1kdG16r1qgQN0E/SggjLKO6nL1JYUcwZkWjh5wnpA1jVMGACcMtqBNFdmXXkzR3+kOD70rWd+3OeTE4xwQtPPadj4SsQ4TQhrSjisA=;b5bTIWAy+Ko77EBCuzv5+g=="
+related:
+  - title: "Robot preachers get less respect, fewer donations"
+    excerpt: "As artificial intelligence expands across more professions, robot preachers and AI programs offer new means of sharing religious beliefs, but they may undermine credibility and reduce donations for religious groups that rely on them,"
+    publishedDateTime: 2023-07-24T16:09:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996255"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+
+secured: "4bsRwOfEfEIoJBC4evpsFqX36MheBMt4tQd5hLTwx1+SiCdDoxPMca5EAwwnlHnVRx93LwCxO8brERpTEnmdixx08PdmAAV0hze3fq8Zw4NcF0krqkWYoOq1faEIOeD6VU6k2thAe3BO2uhwHz5GkJhm9UJOBLq7qPxL2vmzolVBJqb9MKrfGr8d6YpyFMwW0PHstBIq1+M+zsxJWPni+TBZxtTKLyshyUvedNGcCEi/ThhmDzopHY3iK6OoDd17e05xZnE/8Ym1KXE5GBQMTa1Im6ux7StWebHK5tpQdkjqVyFvsAiwV4xhch6l0fJijSh5Grk/Aq6nrXB0P0EW3DULjp6hqOHQV9LvMCDGgWRpna17D4vXEoQfNDBjrQEkwRONOOUhJbCYRZM6FSrUWMLA/OUlAwQKS80udm4PKzhJodzAY5Byn1WttjluxQfvXiAUilYCt6kvSwsv+tWsmSz6GRyNVBr7xBodsL0P7rr6KopjKdxDI2oARRS+lRvyQ3wcfarOIvocQj93G/pLbQ==;oi2H+NI8SLxEaLH1GXp2Gw=="
 ---
 

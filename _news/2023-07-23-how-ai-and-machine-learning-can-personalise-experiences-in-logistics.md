@@ -27,38 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore releases draft guidelines on personal data use in AI training"
-    excerpt: "Guidelines aim to clarify how Singapore's laws will apply when companies use personal data to train AI models and systems, including under research and business improvement exceptions."
-    publishedDateTime: 2023-07-20T08:38:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
+  - title: "How AI will impact the developer experience"
+    excerpt: "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers."
+    publishedDateTime: 2023-07-24T09:08:00Z
+    webUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html"
+    ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Software developers' dance with generative AI is still at that awkward stage"
+    excerpt: "AI will help developers do their jobs better, but it is also increasingly a part of the solutions they will be building for clients or employers."
+    publishedDateTime: 2023-07-21T18:32:00Z
+    webUrl: "https://www.zdnet.com/article/software-developers-dance-with-generative-ai-is-still-at-that-awkward-stage/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/44b16ceb0b9924e9d64998dcc7dde4b0f2e331f4/2023/07/19/4f4389bd-8f7a-481e-929a-163c9e69d1fd/gettyimages-1436010618.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI and machine learning are revolutionising business intelligence"
-    excerpt: "Every day, advances are being made in both business intelligence (BI) and artificial intelligence (AI), enabling businesses to use machine learning algorithms to identify novel data patterns and quickly choose how to present them in real time."
-    publishedDateTime: 2023-07-22T04:00:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T165236.463.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+    quality: 44
 
 secured: "SO6+ONTEgYr0wq0Eo92T+b/Hd6kQK2MI4xi2vcLQ39ZfSEixgajhSDipHDiyd+5xXaQSpKdHrJs8CwC8u//5kgi1oTYTR2PNUsa0MTBFcCU73gpkaXXLgKYW2cy9/6VWv1PhQ3H1FQtlO43NU9Wzn6Tg0RnD9iLYAgpEgrOVjeFgtN9rtTAsJiSSfz5tA7QiREuIf/Ck9DHAAep5pEH9tgph9/o0Od1C6DnVI/5ZxKwpkXUaEBnB0CwzWiDj6xMS4hxA1IYJF9MxHUQqq3A7yBi4mAsodrvoAFA7QQ3NicsBJNEaYsFPQYt5fIXE0ONz1dpxC8453m4KPtbHHArC2xnrT6f6eOns0zs48huD8rJ8mnkKy0dxVrDAD8UnKVih1mhrABydZwPLKlg7OiT0ZY462xYsdAEg3hQHP4Tk7emTFSWGBdM0cHDaTo0yrpTTbR/RyQI87L+gIReGULr8jdL1b69rW52PhDTEkUw3gT0QSeZQumEL5/MUiNWfD3851m5u2WhB7Bm5XGq1cuHhrg==;CYOtN4j2UWZpQGAPG7BBtA=="
 ---

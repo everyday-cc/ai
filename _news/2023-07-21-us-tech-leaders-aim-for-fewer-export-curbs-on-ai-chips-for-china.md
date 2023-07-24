@@ -7,8 +7,8 @@ originalUrl: "https://english.chosun.com/site/data/html_dir/2023/07/21/202307210
 webUrl: "https://english.chosun.com/site/data/html_dir/2023/07/21/2023072100512.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: 조선일보
@@ -25,31 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "China Diplomat warns Washington of further restrictions on investment, AI chips"
-    excerpt: "China's Ambassador to Washington Xie Feng crossed wires late Wednesday, via Reuters, while speaking at the Aspen Security Forum where he criticized the US consideration for review of the outbound investment about China and further curbs on AI chips to the Asian nation."
-    publishedDateTime: 2023-07-19T23:14:00Z
-    webUrl: "https://www.fxstreet.com/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
-    ampWebUrl: "https://www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/china-diplomat-warns-washington-of-further-restrictions-on-investment-ai-chips-202307192314"
+  - title: "Barbers calls for strict regulation of AI tech"
+    excerpt: "Surigao del Norte Rep. Robert Ace Barbers on Sunday  urged policy-makers in the legislative and the executive branches to urgently"
+    publishedDateTime: 2023-07-23T14:11:00Z
+    webUrl: "https://manilastandard.net/news/national/314352833/barbers-calls-for-strict-regulation-of-ai-tech.html"
     type: article
     provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 70
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 39
     images:
-      - url: "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Asia/China/stock-market-building-in-shenzhen-72063787_Small.jpg"
-        width: 320
-        height: 213
+      - url: "https://manilastandard.net/wp-content/uploads/2021/03/9c4da_barbers-robert-ace.jpg"
+        width: 450
+        height: 302
         isCached: true
-  - title: "CEOs Of Chip Companies Call On US To Assess Impact Of China Restrictions And Exercise Caution"
-    excerpt: "Top executives from major U.S. chip companies have advised Biden officials to carefully assess the consequences of export restrictions to China and suggested pausing before implementing any new measures."
-    publishedDateTime: 2023-07-22T19:42:00Z
-    webUrl: "https://www.benzinga.com/government/23/07/33333768/ceos-of-chip-companies-call-on-us-to-assess-impact-of-china-restrictions-and-exercise-caution"
+  - title: "China urges Japan not to disrupt chip industry after technology curbs take effect"
+    excerpt: "China’s government has appealed to Japan not to disrupt the semiconductor industry after Japanese curbs on exports of chip-making technology took effect, adding to technology restrictions Washington and its allies on security grounds have imposed on Beijing on security grounds."
+    publishedDateTime: 2023-07-24T09:51:00Z
+    webUrl: "https://apnews.com/article/china-japan-semiconductor-technology-tension-f0c90d889ba04fc8d0a0e7c5ca458b47"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://dims.apnews.com/dims4/default/6b7a207/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2F4a%2Fcf2f14274a5116edcbbc24787f72%2F2f258e07ead44459b7257a0a58f42270"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "EDBxvde5pzOlglyI0LFC5c77mfSrzIRlUwxcw0fYvSALTTLU3NDIVSg/7tDDIWLSdOBMMStNkeNG9rFxHNo/cGQ0bMTbDJiFvAqp7vxmN8r/emYDPWXeSBS9n8cMMtzGYkyGk8dFjO6k4rRWvp6vZ1g/IyWTO+gOrh4lPA9n8VgCWeAG2G7YYlT2ehHIbG5CbCuhlORpkEwfr1TywM8nZ/tgjp/9asSQp7rkuhuZQwbrSEFphLemCzguvKs9EAmhfEa6b1PmThXLF+wpHBFjp9w+Qj6BDAmknhe/o9FqGTV9cE9NOnk70DBacDwsMUW+eoOW7c0GMskUD1pJIZN8NJYWEmfOBIvMeVlFOf/sm3E=;4INOAzgKUqiOryJLK16fnw=="
 ---

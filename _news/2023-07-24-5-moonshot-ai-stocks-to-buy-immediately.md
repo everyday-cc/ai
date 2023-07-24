@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-24T15:29:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
 webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "How to spot an AI cheater"

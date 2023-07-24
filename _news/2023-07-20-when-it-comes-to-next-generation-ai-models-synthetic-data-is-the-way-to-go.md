@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/99473-when-comes-next-generation-ai-
 webUrl: "https://www.techspot.com/news/99473-when-comes-next-generation-ai-models-synthetic-data.html"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta lets loose second generation of Llama AI models"
-    excerpt: "Meta says organisations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
-    publishedDateTime: 2023-07-19T23:35:00Z
-    webUrl: "https://www.reseller.co.nz/article/708087/meta-lets-loose-second-generation-llama-ai-models/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 41
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_meta_hq.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "What’s Makes Artificial Intelligence “Tick” and How it Aims to Revolutionize Waste Recovery Operations of the Future"
     excerpt: "Greyparrot, with $17 million in funding from Closed Loop Partners, Amcor, and Regeneration.VC, among others, developed and sells an AI waste analytics platform that operates in 10 countries. Waste360: What are some pressing current challenges in waste management?"
     publishedDateTime: 2023-07-20T12:02:00Z

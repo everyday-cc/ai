@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/video/6331685429112"
 webUrl: "https://www.foxnews.com/video/6331685429112"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Facial recognition helps ID whales and dolphins"
+    excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."
+    publishedDateTime: 2023-07-24T16:41:00Z
+    webUrl: "https://www.mauinews.com/news/local-news/2023/07/facial-recognition-helps-id-whales-and-dolphins/"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 39
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2023/07/24062558/os-dolphin-facial-id-.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "tKmtfcjvA8rL986Vmg5F7lNaqR+GXWcEWip0STBRaXVttiaMB2GAf110PrPpfDSdHFP7tp9TY7OYvPnimVAQZ6O6HHbPkOc/0G0m9vQMtkGVXDM2Px8mI2oEk/vz0XAZJDFVuck1xhYjfd8SW+ywc1AGLDHoXjcHbMXrlVwrPkpS61HG+/onJHKZb6KHnp0cVej8tp4sYLiujaJyP2fqkUq9hFrleXhIPVMejEa0gn7iiJMz5/508NqH6u1FfRfa8evG2c/JIWOsGsfHLWSL4hJ7nokcqj89079sfek/hu/RD8YtTBqFI6AOKEDumo7BKvwtxsUtqUY5mRql2Ei0LmohHiHfoug5j1tV1ldzZNE=;OMov95w8JxW2dTZ6wzmppA=="
 ---

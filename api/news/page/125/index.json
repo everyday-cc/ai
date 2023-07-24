@@ -2,6 +2,319 @@
   "page": 125,
   "value": [
     {
+      "path": "_news/2023-05-05-brain-inspired-ai-liquid-neural-networks-power-drones.md",
+      "title": "Brain-Inspired AI Liquid Neural Networks Power Drones",
+      "excerpt": "Researchers from the Massachusetts Institute of Technology (MIT) Computer Science and Artificial Intelligence Laboratory (CSAIL) demonstrate how brain-inspired AI liquid neural networks enable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic25111.jpg?itok=GPWCNftz",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
+      "publishedDateTime": "2023-05-04T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi.md",
+      "title": "UAE: Chemo robot, artificial intelligence-guided radiotherapy for cancer care now available in Abu Dhabi",
+      "excerpt": "Newly-launched Fatima bint Mubarak Center also has latest non-invasive treatments Abu Dhabi: An artificial intelligence-guided radiotherapy treatment, a targeted therapy for liver cancer, and a chemotherapy robot are some of the innovative options that are ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "originalUrl": "https://gulfnews.com/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/05/04/Cleveland_Clinic_Abu_Dhabi_Fatima_bint_Mubarak_Center-_Chemotherapy_robot-1683221993322_187e7d95774_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/uae-chemo-robot-artificial-intelligence-guided-radiotherapy-for-cancer-care-now-available-in-abu-dhabi-1.95537748",
+      "publishedDateTime": "2023-05-04T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model.md",
+      "title": "Automate the deployment of an Amazon Forecast time-series forecasting model",
+      "excerpt": "Time series forecasting refers to the process of predicting future values of time series data (data that is collected at regular intervals over time). Simple methods for time series forecasting use historical values of the same variable whose future values need to be predicted, whereas more complex,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-deployment-of-an-amazon-forecast-time-series-forecasting-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T11:15:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-i-let-an-ai-robot-control-my-life-and-it-sent-me-to-the-tower-of-london.md",
+      "title": "I let an AI robot control my life – and it sent me to the Tower of London",
+      "excerpt": "An out-of-control AI could, in theory ... A glimpse of the future? Will Smith in I, Robot Credit: Shutterstock Still, if the machines are about to take over the world, they can do something ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/lifestyle/2023/04/25/ai-chatbot-google-bard-chat-gpt-control-life/",
+      "originalUrl": "https://www.telegraph.co.uk/lifestyle/2023/04/25/ai-chatbot-google-bard-chat-gpt-control-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "Editorial Note: Forbes Advisor may earn a commission on sales made from partner links on this page, but that doesn't affect our editors' opinions or evaluations. It’s hard to imagine two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
+      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
+      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 408,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-insider-qa-aurora-ceo-chris-urmson-on-self-driving-trucks.md",
+      "title": "Insider Q&A: Aurora CEO Chris Urmson on self-driving trucks",
+      "excerpt": "Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an autonomous driving system called the Aurora Driver,",
+      "sourceUrl": null,
+      "webUrl": "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html",
+      "originalUrl": "https://fredericksburg.com/business/insider-q-a-aurora-ceo-chris-urmson-on-self-driving-trucks/article_74b0d4cd-6c5c-5450-b078-83f45085f7a7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/4b/74b0d4cd-6c5c-5450-b078-83f45085f7a7/6453ea5b161ec.preview.jpg?crop=1024%2C538%2C0%2C71&resize=1024%2C538&order=crop%2Cresize",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-a-new-ai-chatbot-called-pi-is-designed-to-serve-as-your-personal-assistant-heres-how-it-works.md",
       "title": "A new AI chatbot called Pi is designed to serve as your personal assistant — here's how it works",
       "excerpt": "Pi, which stands for \"personal intelligence,\" was released Tuesday by Inflection AI. The AI startup has three cofounders: Mustafa Suleyman, the cofounder of DeepMind; Karén Simonyan, the company ...",
@@ -839,317 +1152,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-artificial-intelligence-market-faces-review-from-uk-watchdog.md",
-      "title": "Artificial intelligence market faces review from UK watchdog",
-      "excerpt": "Britains competition watchdog is opening a review of the artificial intelligence market, focusing on the technology underpinning chatbots like ChatGPT. The Competition Markets Authority said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/business/2023/05/04/artificial-intelligence-market-faces-review-from-uk-watchdog/",
-      "originalUrl": "https://www.clickondetroit.com/business/2023/05/04/artificial-intelligence-market-faces-review-from-uk-watchdog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-ai-powered-characters-changing-the-game.md",
-      "title": "AI-Powered Characters Changing The Game",
-      "excerpt": "Gamers have been clamoring for better non-player characters for years, and the arrival of conversational AI may finally provide the computing superpower to make it possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64534a81ed2c825a139c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 961,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/05/04/ai-powered-characters-changing-the-game/amp/",
-      "publishedDateTime": "2023-05-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism.md",
-      "title": "UK Police Plan To Use Facial Recognition On Crowds During Coronation, Faces Criticism",
-      "excerpt": "Human rights advocates are concerned that police could use face-scanning technology to target protesters, as they have in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541",
-      "originalUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-05/kheealvk_facial-recognition-pixabay-650_625x300_27_May_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/king-charles-iiis-coronation-uk-police-plan-to-use-facial-recognition-on-crowds-during-coronation-faces-criticism-4004541/amp/1",
-      "publishedDateTime": "2023-05-04T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-inaugural-hackathon-explores-ai-healthcare-solutions.md",
-      "title": "Inaugural hackathon explores AI healthcare solutions",
-      "excerpt": "Abu Dhabi, UAE: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) and the Weizmann Institute of Science (WIS) hosted the first-ever Human Phenotype Project Hackathon in Abu Dhabi. The event brought together 24 postgraduate students and researchers from diverse backgrounds to tackle some of the most pressing challenges in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzdkYTE0MDctN2ZmZS00/0/19111f53-5f0c-4db2-b7ea-cf179e886ab8-jfif.jpeg?f=3%3A2",
-          "width": 899,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/inaugural-hackathon-explores-ai-healthcare-solutions-a8dt6ew1?amp=1",
-      "publishedDateTime": "2023-05-04T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-microsoft-confirms-speech-recognition-issues-in-windows-11-22h20-0.md",
-      "title": "Microsoft confirms speech recognition issues in Windows 11 22H20 0",
-      "excerpt": "According to the company, Windows 11 version 22H2 users might experience problems with speech recognition, expressive input, and handwriting after installing KB5022913 (and subsequent releases).",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-confirms-speech-recognition-issues-in-windows-11-22h2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2022/06/1654151911_windows_vulnerability_story.jpg",
-          "width": 760,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-protecto-boosts-privacy-protection-by-10x-with-lightning-fast-gpu-technology-from-nvidia.md",
-      "title": "Protecto Boosts Privacy Protection by 10x with Lightning-Fast GPU Technology from NVIDIA",
-      "excerpt": "Protecto, a leading provider of privacy intelligence solutions, today announced it has been able to boost the performance of its privacy models on NVI",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230504005083/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-joe-biden-wants-hackers-help-to-keep-ai-chatbots-in-check.md",
-      "title": "Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check",
-      "excerpt": "The White House will support an event at the Defcon security conference this summer that challenges experts to uncover flaws in generative AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "originalUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6452fde252bb92d7ad7c2fde/master/pass/AI_Biz_GettyImages-1486928284.jpg",
-          "width": 2157,
-          "height": 1618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
-      "publishedDateTime": "2023-05-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

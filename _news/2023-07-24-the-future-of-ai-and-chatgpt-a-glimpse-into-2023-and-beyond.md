@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-24T15:29:00Z
 originalUrl: "https://techbullion.com/the-future-of-ai-and-chatgpt-a-glimpse-into-2023-and-beyond/"
 webUrl: "https://techbullion.com/the-future-of-ai-and-chatgpt-a-glimpse-into-2023-and-beyond/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
@@ -104,20 +105,6 @@ related:
       - url: "https://media.wired.com/photos/64bacf7ec859c4a1cdecc48a/master/pass/Please-Stop-Asking-Chatbots-for-Love-Advice-Gear-GettyImages-1079532396.png"
         width: 2400
         height: 1800
-        isCached: true
-  - title: "Apple Has Created Its Own AI Chatbot, Report Says"
-    excerpt: "Apple has created its own generative artificial intelligence tools to compete with ChatGPT, according to a Bloomberg report Wednesday. Apple built its own framework that can create large language models, called \"Ajax,\" as well as a chatbot service that internal engineers are calling Apple GPT, according to Bloomberg citing unnamed sources."
-    publishedDateTime: 2023-07-19T23:25:00Z
-    webUrl: "https://www.cnet.com/tech/apple-has-created-its-own-ai-chatbot-report-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/15762c3fcd72f09b4ff1a19723d6d1c24d7211f2/hub/2023/01/18/a9dbaafe-478e-44e1-a966-4cf7231453a3/apple-green-leaf-store.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Meta’s Llama 2 Is an Open-Source Rival to ChatGPT"
     excerpt: "Meta is making its Llama 2 large language model open source, the Facebook parent company announced on July 18. The update to the model, which had been released as the first-generation LLaMA (also stylized as Llama 1) in February 2023, was first revealed at the Microsoft Inspire event. Microsoft will be a preferred partner with Meta on Llama 2."
@@ -280,6 +267,6 @@ related:
       domain: financialexpress.com
     quality: 6
 
-secured: "geOa9cbFQIyyZGd+CRvA6AlDWRJNQxZ9IcjJqQE9JDlW2nGIaR1NjHWyN8CrBXAWLK2pYGZN0c6I9vjnIiWORJ168fNV3qCBXuLBuWuEtQ/OFQtvcdLpWvaaZrVca1irIUNzC5K3kY8DiQnBTjNq/gvLd4Pj9XLC0dA9CIF9+Y/xnAKO/CceHcYRysCewn3hoaqKO9aeMPcN7spP0i8K7M17GvM/gD0pCAYr3lrl8knkfRq/ymMC8ukbCxgrmk4YHiFEEew4EnlF/Xh0sQJbYXzLQsuGizaoMu6PpNtHbzFKJL+nfeznMJ6xcnwR15Krv66NezhG2zaiPFT3XlI3fnipGYFMQUxmLWp82UIm5VM=;2WnOlWPTaLI+QfVX8Y8N8Q=="
+secured: "cdXxzxsVavzN5lJyPweMblhM4n09n1NrgwxmzpU7CWIcJkJ9xZ5fmx0RlX+JJMnfQZHAaAzw05h/huXk/eOEDim1awZIjaJhWOaQsFsr9phy1Ke1re6l3dWxwN5buYcscKsz+ahyBuRhxPSVFwtGj47fezFTCRP1hfkP0kpf0H2CCBREjtJmhtNoB1+hpTHhzUn8NaUVxJPziG8d1j0iuZBKuF1q3QVfNF5HfpbAdARfoLL0elyCH1rYuMgBOOm8jjmuAf4jGBKAvlbJ2dAyfC6mRrjq5yvBYoT+L0hBiWOJV/j51/8dEayANWZ+vIwBLrGoS50h5Fp5XmyQbIqSPnPtKYwCdiFtTtmvOMF075x6apUYZYzuYT1i0ifxlNoEBxp7My6gkcjMba7DShHlNamNXbYvrJBzD3CPqTrJs+9MHgzIFHoQBMi8oGAuH0lEG0kLXwDSiEHX6j6dPZSft6Xc3U+mQRFBJQ5CetULDUNrd5jUf6aeP4Uhm+diAKhqZp5dp5TSSifuxoTiHg7Ohg==;fJlNuvBFkb+dpZWU1dDkkg=="
 ---
 

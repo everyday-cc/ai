@@ -19,91 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Why Generative AI Won’t Disrupt Books"
-    excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
-    publishedDateTime: 2023-07-20T10:00:00Z
-    webUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/"
-    ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
+  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
+    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
+    publishedDateTime: 2023-07-24T15:58:00Z
+    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: unite
+      domain: unite.ai
+    quality: 29
     images:
-      - url: "https://media.wired.com/photos/64af1b17da92561daff93c98/master/pass/FOE2.jpg"
-        width: 2600
-        height: 1350
+      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
+        width: 942
+        height: 600
         isCached: true
-  - title: "Eight Months On, Tech Budget Planners Are Fixated On Generative AI"
-    excerpt: "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and"
-    publishedDateTime: 2023-07-21T03:56:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
-    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
-    publishedDateTime: 2023-07-24T05:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
-        isCached: true
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
-    excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
-    publishedDateTime: 2023-07-20T00:00:00Z
-    webUrl: "https://iblnews.org/meta-open-sourced-llama-2-its-newest-generative-ai-model/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 39
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
-        width: 860
-        height: 510
-        isCached: true
-  - title: "Generative AI expected to impact SA companies"
-    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
-    publishedDateTime: 2023-07-24T09:44:00Z
-    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "s2sw3xpb3BBUqMylQmxXGNiMnRI4BYL3+3oOaOiI14Zouc7TGzPeSbiEPzh0YaCXEWo6WTgnnkacOARK3BYWRlluaK4Bg+GOhIxb4s5xVCsExh/ZMVfARHkEk3HMF6qizG4+GVmevVHQ3dBfWM3JkQ2VvEgKE+TwScl4sznEx1P8XFUPLFK36PG78Zb0a3/U/35HemhM8NQ7xDzdCvr+vq9KOjZcfxQejP6Z2ORhMvU/HkO4Ni0q6PjZwNv1+Ho2r+rzABGtc4MU12GvfQCOuifflbS5ZFYbPWn4KasgERcxOYcTciSpdGdhFi2mJlzTNTsFkIoXOqIrmIjjKsvVXqa340oCg3Mjzs/ayFqKCGbcXom8mWsnTyahpWoYfWMRFdqSa4flbaBhbZEyEjsoINCuJIlfxgOLBpyErzRDORb9ymg8hDJKvmzYbdU95FBS/t6trJAvpBQNGnmL7nEQtfIcywAYXcKPyAc6uadpgxOv563+ZgRsMptD1+5XZfFvnBsX5eudSyw6VwmnVyFOuA==;tBnL/TIO75Vre5xPeeiiSA=="
 ---

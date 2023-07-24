@@ -1,28 +1,29 @@
 ---
 category: news
-title: "You’re not hallucinating: A massive, AI-generated glowing cube lands in Beverly Hills"
+title: "You're not hallucinating: A massive, AI-generated glowing cube lands in Beverly Hills"
 excerpt: "The Gagosian art gallery in Beverly Hills has opened a large-scale installation of moving advertisements attempting to reflect the \"state of our humanity.\""
-publishedDateTime: 2023-07-24T13:00:00Z
-originalUrl: "https://www.latimes.com/entertainment-arts/story/2023-07-24/giant-artificial-intelligence-glowing-cube-gagosian-beverly-hills-urs-fischer"
-webUrl: "https://www.latimes.com/entertainment-arts/story/2023-07-24/giant-artificial-intelligence-glowing-cube-gagosian-beverly-hills-urs-fischer"
+publishedDateTime: 2023-07-24T16:00:00Z
+originalUrl: "https://www.aol.com/news/youre-not-hallucinating-massive-ai-130010407.html"
+webUrl: "https://www.aol.com/news/youre-not-hallucinating-massive-ai-130010407.html"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/5b87409/2147483647/strip/true/crop/6442x3382+0+456/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff8%2F1c%2F92f56919409186fc2db8985e4f5a%2F1320919-et-gagosian-urs-cube-jlc-0719-19734.jpg"
-    width: 1200
-    height: 630
+  - url: "https://media.zenfs.com/en/aol_la_times_articles_830/d6887e9902303cccccf636fa7bb04faa"
+    width: 840
+    height: 560
     isCached: true
 
-secured: "dWfqpiYS2/pQd0SKhOcGZbm6WIXPFwOb/jbO3pBrJ//zt1Mb90ZQjd9X8I2nQ2C90Jk7Ic6hvElscSQzyfcZmJt8JILkhSyBmGpSaWsPXTAJocC6IdKA0YcEWTkEqKzsarUENTU8WwyPhrn7NAfa6+kmjoKvuFurQ6LaVSZ5mI9rHwlu2DVKtVT0U5s5NC4ZZ7LNg7lDPbHsoHgw+wCt9QR30Mdxu+eIIsAFvq7srKSS2h8doneFyd1Yjbk4Nzz6yFAwhUMdP2hMWk+JsxAqWhxL3Wzb0dq2WTM3qiAHXROHLBCmGNEF1im8FLaCBXOP0cgDndHp8+vsMsIFR3HuMzkoRh+pWT13qAvLU/F6zkY=;qsqxhHO90OOinc3NOCOCAg=="
+secured: "zHS/2dIsSGrZb5xtLqDgtFh3VS30EKjJ1X1uexONA3VIHX6V0zj3TPrdT1a6p2gfgPuhg7kDuI7PJdPntg1QbcdBjUrzn494Uum+k3mrvaLxLvp0HjaCkorG5SZwAN/hdPKIz6rU+pmiOm/wvQIQ5AhI7b+7m1to/cStxAuadnaHMgD1wnzVDznD5svk84xWllrhONiKdSZbK4E4FmF/hWRummzewJ6rnmV+AtQ2LWCIVT+cOjHEs4M4c0GK+lOTcWMqylOaMxQR1K7mkftpioiRP7pwG6nNjM/+fl/lvqgd693tvqUedi66dwm+ZMjMEh3SwkOUt2+RjP2xElQ39Eq9IVoFpFqQqTuI8caUPnQ=;dC/7NHRi5OBN1KODoyw1tg=="
 ---
 

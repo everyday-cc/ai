@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -39,29 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Unstructured raises $25M for large language model data processing expansion"
-    excerpt: "Large language model data processing startup Unstructured Technologies Inc. has raised $25 million in new funding to expand its operations and business reach."
-    publishedDateTime: 2023-07-19T23:49:00Z
-    webUrl: "https://siliconangle.com/2023/07/19/unstructured-raises-25m-large-language-model-data-processing-expansion/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/unstructured.png"
-        width: 1231
-        height: 627
-        isCached: true
-  - title: "Empowering Data Analytics: Unleashing the Potential of Machine Learning and AI"
-    excerpt: "In today’s data-driven world, businesses are constantly seeking innovative ways to leverage the vast amounts of information they collect. Traditional data analytics tools are often limited in their ab"
-    publishedDateTime: 2023-07-20T10:01:00Z
-    webUrl: "https://www.pcquest.com/empowering-data-analytics-unleashing-the-potential-of-machine-learning-and-ai/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 30
   - title: "This Tech Startup Is Powering 'the Core Infrastructure' of AI Models"
     excerpt: "Pinecone -- which was recently valued at $750 million in a Series B funding round led by Andreessen Horowitz -- has created a vector database, something that grants AI models access to long-term memory. This database powers the \"core infrastructure\" for companies looking to build and scale AI models."
     publishedDateTime: 2023-07-21T12:00:00Z

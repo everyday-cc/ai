@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
 type: article
 quality: 104
-heat: 404
+heat: 414
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://images.wsj.net/im-821323/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "All eyes on AI as Microsoft prepares for pivotal earnings report"
+    excerpt: "Investors will be looking for early signs of traction from Microsoft’s artificial intelligence investments Tuesday afternoon when the company reports results for its fiscal fourth quarter. They’ll likely need"
+    publishedDateTime: 2023-07-24T17:28:00Z
+    webUrl: "https://www.geekwire.com/2023/all-eyes-on-ai-as-microsoft-prepares-for-pivotal-earnings-report/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 84
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-msft-logo.jpg"
+        width: 900
+        height: 628
         isCached: true
   - title: "Microsoft Likely To Beat 4Q Driven by Generative AI, Azure Growth Presents Potential Risks, Analysts Say"
     excerpt: "Morgan Stanley analyst Keith Weiss maintained an Overweight rating on Microsoft Corp (NASDAQ: MSFT) and a price target of"

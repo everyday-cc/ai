@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Daily Dot
@@ -41,21 +41,7 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Endeavour Group seeks national coordination of facial recognition at gambling venues"
-    excerpt: "Endeavour Group has called on state and territory governments to coordinate a national approach to using facial recognition technology to combat problem gambling and money laundering at gaming venues."
-    publishedDateTime: 2023-07-20T01:02:00Z
-    webUrl: "https://www.itnews.com.au/news/endeavour-group-seeks-national-coordination-of-facial-recognition-at-gambling-venues-598204"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 32
-    images:
-      - url: "https://i.nextmedia.com.au/News/20230720103706_facial_recognition.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
-secured: "777VRS+8PLm6WpcrhCMXfO4g2ZEdBrgxBFYL3bcYTs9ldQsraXTuoj7lZMbB5/AKtvv1pElGmFOlDNJxRCm7MeVNTcK8P7tBpFuQg+rd7E26EMTQmYQl52i7R2GEMU6NNupjsfykL0PAOTh/m6v34dLxvjy5D86JKDc9QNm22ldWrXFv/8vGul7PxFslzBZCFwIJJ58MOHCLCHwI9stV6M2VFquA99xIZsFMdxWRR4LcdDuT31lUKBdi39eG/wNUQIntAYcEfVamH8ZtmtGpF+BWCJNPI0jAJwjZuCSP1lzmbUMD4E7s4idk+H66ZmUIzGZ3ywXWs+x2HKnij81YCQhO/zmpDOjxTQ/dFcuffxY=;CeP3B7RZCjVn6vCacZgo8w=="
+secured: "QztK07AIiY6NHbPY+fqyj1X3zZT9yAYBW1Mq8pn2HqpYq8jrqB/nQOfbIOg0uCMqwkxO8W9laREmCHvcwjYIAWup6NncLv1Hi1SaUXDUuV03KotWC+T5qkp1MwniuoiO3ihS4ptkz4pjoxZs8DpJvOdRnVJaLebkdULwYm7P9XPcNlKxzbGD0EXpfsw10FK505ddn0TDVaNlFAH8pilkb8ALuQUzFC7CY6QtB0rtLn5MxVLjCn1ZJOpG1V3dJ/cCoYi3H445aAmidTDSbBcVzNg2+lVE+WKyEFPgpy3ILouM2Egrajg3V4iz9a5dbK9FqfzGrxCRHIO9uxCe8EQViRGvrOrf0SYaefwVur09l+37CTE6lLW27GyKbJ2cIvTek6zEuDNeaJxhPNt4z0C7ZXdmIibf2Pce6g+XOXmFaZQmkhNVqNesiMWeUPfEc9ahdeHfq/3NaiizerFYNpXMa14Q2vxkgzAJ3becmyfHMKhXHc3xw5f9I2y6g6IyhFMln5T/xujm41/bLKL8TUVXsA==;j+b9Mjd6HJlIcs/r2ygBIA=="
 ---
 

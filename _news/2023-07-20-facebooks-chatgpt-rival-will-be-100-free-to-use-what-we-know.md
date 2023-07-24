@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "How is generative AI relevant to telecom operators?"
+    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
+    publishedDateTime: 2023-07-24T14:42:00Z
+    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 41
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 382
+        isCached: true
 
 secured: "8EwjgYxrFCO5IJrO58vUB2aqANEJwi79Ym6XJMv3KG07mILl3uLBVbnKnF3JgDtf4usA17E097+8LYInzUAIkzyNGH1/MUiqlGKUgBQWr8nUtMn9XUCHZJ70qiCufW/oNN6UMAQJt0f8f8i54et0CElR4mRO2OoYCzZYuiwDzd4xcfpfF3A4go7e44FX8ry9kKapOlUT1TdCoubKsyH4JZ0f1NtITJBJ96mfISQ3p0a9f1ozQuZvPyaH/UlkarrPK1qTBw9nM7AejWNs2ymGddO8sj1TigX7/Ji8iBUjhQZ3MfP2/UvKhepSj3ys8FqgV8A5/y9GPEmsTA8dq7Fl3VTdmVqPsZT6Q5dQq+uC6WM=;r+CtwcbSrYaHpzOJTIrh9g=="
 ---
