@@ -183,20 +183,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Meta Challenges ChatGPT With Own AI-Powered Chatbot"
-    excerpt: "The tech giant has launched Llama 2 in partnership with Microsoft, and it will be free to use for research and commercial purposes."
-    publishedDateTime: 2023-07-19T15:56:00Z
-    webUrl: "https://tech.co/news/meta-ai-chatbot-rival"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/07/04111356/meta-novi.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
     excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
     publishedDateTime: 2023-07-20T10:49:00Z

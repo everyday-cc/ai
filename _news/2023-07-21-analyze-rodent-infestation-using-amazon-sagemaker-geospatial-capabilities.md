@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Integrate Amazon SageMaker Model Cards with the model registry"
-    excerpt: "Amazon SageMaker Model Cards enable you to standardize how models are documented, thereby achieving visibility into the lifecycle of a model, from designing, building, training, and evaluation. Model cards are intended to be a single source of truth for business and technical metadata about the model"
-    publishedDateTime: 2023-07-19T16:19:54Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-model-cards-with-the-model-registry/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/12/ML-14808-image001.png"
-        width: 931
-        height: 411
-        isCached: true
   - title: "Enel automates large-scale power grid asset management and anomaly detection using Amazon SageMaker"
     excerpt: "This is a guest post by Mario Namtao Shianti Larcher, Head of Computer Vision at Enel. Enel, which started as Italy’s national entity for electricity, is today a multinational company present in 32 countries and the first private network operator in the world with 74 million users. It is also recognized"
     publishedDateTime: 2023-07-20T17:59:24Z

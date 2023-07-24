@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Claude 2 Promises Huge AI Potential With Human Rights And Ethics To The Fore"
-    excerpt: "A ChatGPT rival that claims to be able to police itself according to the United Nation’s Universal Declaration of Human Rights has launched in the UK and U"
-    publishedDateTime: 2023-07-19T15:57:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/software/claude-2-ai-with-human-rights-ethics/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
   - title: "AI in banking, payments and insurance"
     excerpt: "Algorithms are already being used to check payment balances, detect suspicious transactions, and optimise insurance pricing"
     publishedDateTime: 2023-07-20T04:00:00Z

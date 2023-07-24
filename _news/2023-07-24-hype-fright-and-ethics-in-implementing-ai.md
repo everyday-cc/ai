@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
 type: article
 quality: 104
-heat: 145
+heat: 134
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Claude 2 Promises Huge AI Potential With Human Rights And Ethics To The Fore"
-    excerpt: "A ChatGPT rival that claims to be able to police itself according to the United Nation’s Universal Declaration of Human Rights has launched in the UK and U"
-    publishedDateTime: 2023-07-19T15:57:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/software/claude-2-ai-with-human-rights-ethics/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
   - title: "Preachers and artificial intelligence"
     excerpt: "The world of artificial intelligence is expanding exponentially. AI’s infancy dates from the 1950s and 1960s, but it is now like an adolescent experiencing a sudden growth burst. ChatBPT and its siblings in the AI family are the rage in business, health care, education, and more. Including religion."
     publishedDateTime: 2023-07-22T10:00:00Z

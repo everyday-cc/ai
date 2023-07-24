@@ -195,20 +195,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 43
-  - title: "Meta Challenges ChatGPT With Own AI-Powered Chatbot"
-    excerpt: "The tech giant has launched Llama 2 in partnership with Microsoft, and it will be free to use for research and commercial purposes."
-    publishedDateTime: 2023-07-19T15:56:00Z
-    webUrl: "https://tech.co/news/meta-ai-chatbot-rival"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/07/04111356/meta-novi.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Calling out ChatGPT's wonky artificial intelligence grammar"
     excerpt: "Is it possible to defame a robot? Common sense says not, but since when did that prevail over the ass that is law."
     publishedDateTime: 2023-07-21T17:01:00Z

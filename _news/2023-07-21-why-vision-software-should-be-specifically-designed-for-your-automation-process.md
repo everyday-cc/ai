@@ -21,20 +21,6 @@ topics:
 related:
   - title: "The integration problem: Why vision software should be specifically designed for your automation process"
     excerpt: "Renowned for having the most sophisticated vision across the animal kingdom, the mantis shrimp possesses a visual system that far surpasses human capabilities. While we may not be able to replicate its vision system directly,"
-    publishedDateTime: 2023-07-19T16:04:00Z
-    webUrl: "https://www.pandct.com/news/the-integration-problem-why-vision-software-should-be-specifically-designed-for-your-automation-process"
-    type: article
-    provider:
-      name: Process Control Today
-      domain: pandct.com
-    quality: 7
-    images:
-      - url: "http://www.pandct.com/uploads/news_images/Beckhoff%2020723.jpg"
-        width: 899
-        height: 600
-        isCached: true
-  - title: "The integration problem: Why vision software should be specifically designed for your automation process"
-    excerpt: "Renowned for having the most sophisticated vision across the animal kingdom, the mantis shrimp possesses a visual system that far surpasses human capabilities. While we may not be able to replicate its vision system directly,"
     publishedDateTime: 2023-07-21T11:53:00Z
     webUrl: "https://www.pbsionthenet.net/article/199408/The-integration-problem--Why-vision-software-should-be-specifically-designed-for-your-automation-process.aspx"
     type: article

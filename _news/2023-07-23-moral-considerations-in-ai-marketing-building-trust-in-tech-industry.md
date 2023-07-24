@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Mechanical Contracting"
-    excerpt: "Artificial intelligence is dominating headlines around the world. But how practical is it? Can it be integrated into business operations in a way that boosts the bottom line without introducing costly errors? Some companies in the mechanical contracting ..."
-    publishedDateTime: 2023-07-19T15:33:00Z
-    webUrl: "https://www.contractormag.com/technology/article/21269819/artificial-intelligence-in-mechanical-contracting"
+  - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
+    excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
+    publishedDateTime: 2023-07-20T07:15:00Z
+    webUrl: "https://techbullion.com/from-inspiration-to-innovation-exploring-the-creative-possibilities-of-designs-ais-ai-writer-in-copywriting/"
     type: article
     provider:
-      name: CONTRACTOR
-      domain: contractormag.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 20
     images:
-      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/07/dreamstime_xxl_48306788.64b7fd4dcb240.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/man-chat-with-ai-artificial-intelligence-ai-chat-technology-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "5I0pvveHO/xreDcdTKus7Nu3EFRA3mCvfpaQZ5ygn2PW32LbynHU0qBGNnbGolAn8wTqUJ9B8YajJ6G5HrCzsxV+ipzQ4VCbSHxH8vgmiZUcwov0kRl0GqQcMl367w++BIkmmw7YldZSszBB1Q4KEM3xSoUUgKHvrrBA233h6C/8S6+vnPUpf70GqrsmrAhdWDtVOdJ6ePbHIb3vEabdAvhAg6jYY2nOwNFdPinvTzkqPS0S31xvvJnqy3Egmky9asZXAa+ZrBiw5j4Y+BZioghjvTz1a+9iz3anwlS9s/ALg7F7oDUsFS7ApMdY4V+lsHL0QRObdxQIZyuyjH32fK7Xastk4nvq4DcbzW0jeM4=;gkVs0KwxckDTfKiJoYq/Ow=="

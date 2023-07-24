@@ -43,22 +43,6 @@ related:
         width: 720
         height: 404
         isCached: true
-  - title: "How To Get Your Team Comfortable With AI: Insights From A Microsoft Executive"
-    excerpt: "AI offers freedom from the excessive inflow of data, emails, meetings, and notifications. But you've got to employ a few strategies to get your team using AI."
-    publishedDateTime: 2023-07-19T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/"
-    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b807d0cd14666c57bd34f2/0x0.jpg?format=jpg&crop=2246,1496,x0,y0,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Tech giants including Microsoft and Google agree to White House AI safeguards"
     excerpt: "The White House said Friday that it has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before"
     publishedDateTime: 2023-07-21T09:16:00Z
@@ -434,6 +418,6 @@ related:
       domain: menafn.com
     quality: 21
 
-secured: "DUL/we2EXCy8QyUf+NtIvEdv3U4Lz78SVrB9k0DcZ6dcx1vl4SodZeERAdZumI+5bX3ZQUCWDI/F2E+Fj2ttrq75QCbD5+V//XXRbeUySy7YmmfE+f6wKmMDL+qWcoADKzpWFKIyDXvNHILtxI1lH/kDJlJMUzmUVrcuVb8vzEO+BgQIV+cW7HWVzjeb9I1EjgfOM+HZ8cq5auwhOz4WauuD5OtdVK/g56BfJevYjh24gyfAIW43JUurtem31+zPFG4KUnKtRhkP1zQ55p8TdwZzW3gAJ0rscak9o01iY2aP4P/sUpRSwIifYW7c/7zIZf4IyovVTFAODdF+oNtC576ifnYtESc22BrtnELA42E=;Kq9pk1Ko9svgwUoHFdPs/g=="
+secured: "jyiLM/AjTS1ZNG70VQMtzrLohfhZA8FtS49Sn9n51qMxh7kyrz/r5BM9EmNsRpc1pUPWUldEBhiE2eTzEOaCxjZp8BIXE3BmstqCV/XJJqFJgwgoI8qX/6b/0Yg8nr0VB/zewWPKt/kPTvxcA0Gemas1J42omV1XNfU7jM27uSBSYu7zS6NI4f90VurGbwD1fqkvBYe3hSqE0OEAhpbNnemegLEiZPiPJtEOq3vYn+stw11LjQXpxKZxIlSvqVcJpLt63w2Tf2DxOcJl4cof2w8+MvhVixh6icxkSKCBQyROVpi6GJpvJuCXDbc0kfsZPvOrvVn8PrDKbLY5LPOJVQc6QPG4AOxpZflcSNUlqkejI1QXR+0zGQDMhxlOF7AsqymKw6zyyV/H9YcEiIZ/kFgtPnFHpZHpPolEgOnIZ0H1WD+p8IDlszZBk1AEiBjRQ6Z2WSOxnM8BPw2tGDxBhfC9vA4dEt1n6HbTw+z18laeUDX5kQvcjWulB+d7+MyxdPY4hKugpvoM9Pp6U9k57A==;B93JmpPaTqvXlS9WwRUEWA=="
 ---
 

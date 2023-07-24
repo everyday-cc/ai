@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What’s Makes Artificial Intelligence “Tick” and How it Aims to Revolutionize Waste Recovery Operations of the Future"
-    excerpt: "Greyparrot, with $17 million in funding from Closed Loop Partners, Amcor, and Regeneration.VC, among others, developed and sells an AI waste analytics platform that operates in 10 countries. Waste360: What are some pressing current challenges in waste management?"
-    publishedDateTime: 2023-07-20T12:02:00Z
-    webUrl: "https://www.waste360.com/fleets-technology/whats-makes-artificial-intelligence-tick-and-how-it-aims-revolutionize-waste"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 33
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/aifeat_0.png"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "AI could revolutionize dentistry. Here's how."
     excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
     publishedDateTime: 2023-07-21T18:36:00Z

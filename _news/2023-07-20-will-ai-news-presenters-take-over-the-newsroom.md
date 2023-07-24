@@ -26,31 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Fox News Artificial Intelligence Newsletter: Nolan on AI's 'Oppenheimer' moment and Musk's lofty goal"
-    excerpt: "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future."
-    publishedDateTime: 2023-07-19T15:14:00Z
-    webUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal"
-    ampWebUrl: "https://www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-artificial-intelligence-newsletter-nolan-ai-oppenheimer-moment-musk-lofty-goal.amp"
+  - title: "AI news anchors: The new phenomenon of Artificial Intelligence replacing newsreaders"
+    excerpt: "The AI era has arrived, and as AI news anchors become a reality, will AI replace human news anchors in the same way it displaces labour in other industries?"
+    publishedDateTime: 2023-07-23T11:00:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 87
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 67
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bea4177d-fc89-447a-a047-adafe41d7d1d/198a0a87-17b4-45ca-b298-3ee6cc53798c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sana-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
-    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
-    publishedDateTime: 2023-07-21T19:37:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
 
 secured: "nMUGxa5j+r+Nc0GKV63YCTe6Ny/YltjwRlIu25DUeRQ45uQMC+EDB65lJtHtEfzAJOQVFI94R+cXuu/YQxC/tI9fUuHC3ja4glVnv7AJ3+gETrDsQziZAFlxFj7MY7IdDpzGQmf/t4tnudx7K2PtYhTUhhz9L3U48BHQ74Z/PeTIe4qO20xsE5gxR9Hn2vkvmF05Vy4KVZpwwiJlcsh/zvYk2NWos4m9cML45kx+iGST996/Z641y2Zl884MZIO24qw58+oFCmfg7Uq1iZ12AW1TRPeL+rWHB9WvY6AW6AZcDzuibVGCtyIeTpTqrWrj9xDPyeMEP5j3rbmpc84tKjsvnYKjCCfpdLN84oIglnQ=;UZFKvlB9Hwo+p/aPEt1u5w=="
 ---

@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google, Microsoft face off in AI healthcare race"
-    excerpt: "Tech giants Google and Microsoft are pushing into the healthcare industry with generative AI, creating medical chatbots, integrating AI into EHRs."
-    publishedDateTime: 2023-07-19T15:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-microsoft-face-off-in-ai-healthcare-race.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 71
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
     excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
     publishedDateTime: 2023-07-20T05:08:00Z

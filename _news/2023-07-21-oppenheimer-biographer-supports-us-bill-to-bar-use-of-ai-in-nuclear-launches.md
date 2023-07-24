@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
+    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
+    publishedDateTime: 2023-07-21T19:37:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
   - title: "Christopher Nolan: ‘Very strong parallels’ between Oppenheimer and scientists worried about AI"
     excerpt: "Clear similarities between J Robert Oppenheimer’s views and those who want AI reined in, film’s director says"
     publishedDateTime: 2023-07-21T12:16:00Z

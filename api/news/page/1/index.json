@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-24-how-ai-will-impact-the-developer-experience.md",
+      "title": "How AI will impact the developer experience",
+      "excerpt": "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
+      "originalUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
+      "publishedDateTime": "2023-07-24T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too.md",
+      "title": "Does ‘Buy American’ Policy Make Sense? The Answer Is Key for Your AI Portfolio Too",
+      "excerpt": "Economists point to the 1990s as evidence that the users of technology reap its benefits, not the makers. Economic growth around the world suggests otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too-562825af",
+      "originalUrl": "https://www.wsj.com/articles/does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too-562825af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-821925/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity.md",
+      "title": "Utopia Or Dystopia? It’s Up To Us To Teach AI To Reflect The Best Of Humanity",
+      "excerpt": "Sairah Ashman explores what can brands do now to help mould a more utopian relationship with technology in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6621bee8922112c6a0e95/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
+      "publishedDateTime": "2023-07-24T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-ai-heart-scan-aims-to-catch-blockages-years-before-symptoms-unbelievable-breakthrough.md",
       "title": "AI heart scan aims to catch blockages years before symptoms: ‘Unbelievable breakthrough’",
       "excerpt": "Fountain Life offers an AI coronary artery scan that purports to detect heart attack risk 3, 5 or even 10 years before symptoms begin. The CEO explains the company's goals.",
@@ -10,7 +164,7 @@
       "originalUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -249,7 +403,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -301,7 +455,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -344,21 +498,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-23-how-to-navigate-your-engineering-team-through-the-generative-ai-hype.md",
-      "title": "How to navigate your engineering team through the generative AI hype",
-      "excerpt": "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML.",
+      "path": "_news/2023-07-23-ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders.md",
+      "title": "AI news anchors: The new phenomenon of Artificial Intelligence replacing newsreaders",
+      "excerpt": "The AI era has arrived, and as AI news anchors become a reality, will AI replace human news anchors in the same way it displaces labour in other industries?",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/",
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/Sana-1.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -366,23 +520,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-23T08:20:00-07:00",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp",
+      "publishedDateTime": "2023-07-23T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -391,6 +536,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -550,7 +696,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -902,7 +1048,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1088,152 +1234,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-brian-cox-warns-of-a-scary-future-where-theres-an-ai-brian-cox.md",
-      "title": "Brian Cox Warns Of A 'Scary' Future Where There's An AI Brian Cox",
-      "excerpt": "The \"Succession\" star gave a fiery Logan Roy-esque speech at a London rally in support of the SAG-AFTRA and WGA strikes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
-      "originalUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64bababa2600003700a36acc.jpeg?cache=9oJT8EzIIC&ops=1200_630",
-          "width": 1198,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
-      "publishedDateTime": "2023-07-21T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-biden-delivers-remarks-on-artificial-intelligence.md",
-      "title": "Biden Delivers Remarks on Artificial Intelligence",
-      "excerpt": "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
-      "originalUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-biden-ai-fqmp/21dc-biden-ai-fqmp-facebookJumbo.jpg?video-overlay?video-overlay",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-musk-says-tesla-would-buy-more-nvidia-ai-chips-if-only-nvidia-had-enough-of-them.md",
-      "title": "Musk Says Tesla Would Buy More Nvidia AI Chips, If Only Nvidia Had Enough of Them",
-      "excerpt": "Later in the call, Musk expanded on those comments, doling out praise for Nvidia and its co-founder and CEO Jensen Huang:",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

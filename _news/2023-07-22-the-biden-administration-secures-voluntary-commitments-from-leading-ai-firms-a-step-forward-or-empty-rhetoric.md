@@ -52,6 +52,20 @@ related:
         width: 1279
         height: 719
         isCached: true
+  - title: "The White House and big tech companies release commitments on managing AI"
+    excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
+    publishedDateTime: 2023-07-24T08:28:00Z
+    webUrl: "https://woub.org/2023/07/22/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai/"
+    type: article
+    provider:
+      name: WOUB
+      domain: woub.org
+    quality: 36
+    images:
+      - url: "https://woub.org/wp-content/uploads/2023/07/gettyimages-1258873333_custom-6e8cb3e6184fafdf6d9aa9ae11ebd8425a23cb04-scaled-e1690052565770.jpg"
+        width: 1200
+        height: 564
+        isCached: true
   - title: "Leading AI firms volunteer security commitments to Biden administration"
     excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
     publishedDateTime: 2023-07-21T18:47:00Z

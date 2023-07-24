@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
     provider:
       name: News & Record
       domain: greensboro.com
+    quality: 19
+  - title: "Generative AI expected to impact SA companies"
+    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
+    publishedDateTime: 2023-07-24T09:44:00Z
+    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
     quality: 19
 
 secured: "ZtlfbCjV/JFJCexC9+usD5M6kXMCfdk4IMSdJ+UPKJ/SnOkJ/EvPQlTJoBrhH8BmjkG4QECvnGMIdjYquiI8ifSV90QurDzQOgwFEuqKEDsum/UgvL97ompvG3tdTKuEZWIskgx13ukYIX1MrtKBgMGJKAXwmboynafCGZudOQIb8tg+A71eyN+OyPN4MbFVfc09EYCnpZFJBe+uv5xp4O/HLzVuOpAez4EnxcsBYWgSkHGlytbac9FJPHZaJLSiTup7VONEO5IdZmH2xyy0VVQDIm/fUfnf/WzMTkWLXFmy3jrA1pafPWxLW+PPj2kCkeug7GheXB+HP74l8RF+HwFjyTYl8vzFZFiEFD8v2abLsSpISElU3hkpxWNT47QJhBytztS5C0t1wNcei9EaQjoQDErmTz5Ejt8GXsYlFm6L925gx4nywv43h/7A3P2dBLcfogYA72BdvBk5TYldp0wtFIRNY0s5Fff0Wy0sJNoQMfVEYO5NEa8C4Si2yFP6rfc+70BqoP1KTCDUwpBDAg==;FzOTfRMZYo+SOm14lCJjkw=="

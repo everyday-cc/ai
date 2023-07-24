@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/07/20/prompt-engineerin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/07/20/prompt-engineering-amplified-via-an-impressive-new-technique-that-uses-multiple-personas-all-at-once-during-your-generative-ai-session/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -29,50 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How to navigate your engineering team through the generative AI hype"
-    excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
-    publishedDateTime: 2023-07-23T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI for execs: How to cut through the noise and deliver results"
-    excerpt: "Where are your key business pain points and inefficiencies? Ultimately, the best approach is to start with the problem rather than the exciting new AI solution. We recommend taking new technologies as building blocks to create enterprise-ready solutions ..."
-    publishedDateTime: 2023-07-23T23:26:00Z
-    webUrl: "https://venturebeat.com/ai/ai-for-execs-how-to-cut-through-the-noise-and-deliver-results/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_an_executive_leading_a_successful_business_meeting._col_75a8f6d4-f73f-4ecb-809e-159525094e5b.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Causal AI: Pioneering the Next Era of Artificial Intelligence"
-    excerpt: "Concerns emerge about the limitations of AI, machine learning, and large language models, and causal AI is seen as a potential solution."
-    publishedDateTime: 2023-07-19T21:43:00Z
-    webUrl: "https://www.techopedia.com/causal-ai-pioneering-the-next-era-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 54
-    images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/07/brain_07.png"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "gja6zhUoCs/Jnx28yqmYh1moGifIn+Bgih+bOcezsXBh7PUpn2q49G8py9v82wSerIkeTtCbha6rbu1acGrwUkpCPkPDV2QOQ+7VyvAywbAdVyenTQ2nJNkmXch9bbU/BngN9xnXM8fSsCOwnMMqOdTUy9pSiMsMFjlPC/9yQVyXn2YsXHjjTQxANwtAdlkZPYUzbsEH/ha+5IWOKSwoKcyQaEVfRN32SEly5XSMwW5F/yY0w4V3cq/eSM1v0KT72kaSiaznMYLTx7/Lsmh56meVfIX6DDahP9l/Mr/z2e/0fCE/U7UZBaPwLwjK4ZEhFZgT6Re3hixoau/Is8yHVfLepQsIMjaLoxuJpBNWH6iZqpIVR3VM4+ulRDfaVX9xcmwXG981gaRi6D9aURsJIiNKV3iWBW0FvmKWlL/VhAVWSUOMPlUnv1KMDfzKaDpn9VxVmsm1K84rUPoLfJnbdYDUDm6elcHnrpqp8UWSDxdpD/GhmOGXztlo0T0kHtXMlkyHgSJ5eEJq3uU6t25L0Q==;mY4IZuNjjynM7q8wrCJPuw=="
 ---

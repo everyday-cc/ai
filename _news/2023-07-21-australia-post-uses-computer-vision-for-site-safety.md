@@ -39,6 +39,20 @@ related:
         width: 1192
         height: 667
         isCached: true
+  - title: "Australian gaming operator calls for coordination on facial recognition for restrictions"
+    excerpt: "Another Australian state has passed gaming reforms for AML and self-exclusion, and a hospitality operator calls for a national approach to facial recognition."
+    publishedDateTime: 2023-07-21T14:15:00Z
+    webUrl: "https://www.biometricupdate.com/202307/australian-gaming-operator-calls-for-coordination-on-facial-recognition-for-restrictions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
 
 secured: "WsN+mvuy79dzHWhxPlyqfJb5uCDxSZDlVDQSsTaS4bdUGSwai0ta3NTPC0u4Nn4jQHy2l1APLzt5hDQB3v8IFR+vvJQXcUbakSDrYI79VIcblRb5E8ReoKfAZxcbegQ0DpvHP6o2zHVGWEOSfsUjkgy2b1sdqqHbAvio2sK7jEWou84bhfkwJ3AjBzKpOYM6N4drVhTPdAPDct5Gnywa65im+4WEl59ZzIRnhqMqrH8uK3VRUnD/GffoQVEkcf+dEtu0m1Nmq6/TsS0zrp9oFTLvcCVLdA3N1tGmfbpf8WnKx3inTgA2h/gU5EKorEloK+NJUQ9MpRuMhPRzcsfhgQCLpi4pyNyRDE0ApMCM8LdOPyIAV+RMwFkL/rWmJfksQGoEdYiy8tSZrol4Wncb1j+8jOFtiENBSjD4aNEa7MPlp6MMBEAgWQ1uvlDHHlYI/YU8bCrmdzmIA3Lc9uQGY2pHqRCA8gx7ihjF+yWKhCGx1tAaKWtlO+cP2bJeJ/QckFbhlEN4VIXTn0Y2y9K1xA==;FMvS3s8WFFaqtQyWAi1soA=="
 ---

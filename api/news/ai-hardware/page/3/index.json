@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-07-amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-speeding-up-shipping.md",
+      "title": "Amazon CEO Andy Jassy on making AI chips, Prime Video spend, speeding up shipping",
+      "excerpt": "Amazon CEO Andy Jassy spoke with CNBC for a wide-ranging interview about AI, Prime Video, and more. Here were some of the key takeaways (comments edited for brevity and clarity):… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
+      "originalUrl": "https://www.geekwire.com/2023/amazon-ceo-andy-jassy-on-making-ai-chips-prime-video-spend-shipping-speeds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/0716-GW-Summit-2021105-1.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-chinese-firms-advance-in-ai-chips-amid-possible-looming-us-restrictions.md",
       "title": "Chinese firms advance in AI chips amid possible looming US restrictions",
       "excerpt": "Chinese companies showcased their latest advances in the field of artificial intelligence (AI) at the ongoing World Artificial Intelligence Conference (WAIC) in Shanghai, particularly AI chip capacity and large language models,",
@@ -1424,58 +1476,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens.md",
-      "title": "Brilliant Labs puts AI in front of your eye with its tiny open source AR lens",
-      "excerpt": "To integrate its AR device into people's daily life, Singapore-based Brilliant Labs aims to embed generative AI into its compact wearable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
-      "originalUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Brilliant-Labs-Monocle-looking-down.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/27/brilliant-labs-puts-ai-in-front-of-your-eye-with-its-tiny-open-source-ar-lens/amp/",
-      "publishedDateTime": "2023-06-27T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

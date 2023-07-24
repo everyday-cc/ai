@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-04-27-whats-new-in-azure-data-ai-helping-organizations-manage-the-data-deluge.md",
+      "title": "What’s new in Azure Data & AI: Helping organizations manage the data deluge",
+      "excerpt": "Whether you have large, complex AI workloads or you simply want to make the most of intelligent capabilities in your existing applications, Microsoft and our partners are ready to help you accelerate your productivity with data and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-helping-organizations-manage-the-data-deluge/",
+      "originalUrl": "https://azure.microsoft.com/blog/what-s-new-in-azure-data-and-ai-helping-organizations-manage-the-data-deluge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T01:30:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-machine-learning-in-retail-market-size-business-segments-innovative-strategies-and-outlook-by-2030-ibm-microsoft-amazon-web-services.md",
       "title": "Machine Learning in Retail Market Size, Business Segments, Innovative Strategies And Outlook by 2030| IBM, Microsoft, Amazon Web Services",
       "excerpt": "The Machine Learning in Retail Market research report encompasses a thorough study of the current situation of the",
@@ -1354,59 +1397,6 @@
         "name": "GizChina",
         "domain": "gizchina.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-reportedly-working-on-its-own-ai-chips-that-may-rival-nvidias.md",
-      "title": "Microsoft reportedly working on its own AI chips that may rival Nvidia’s",
-      "excerpt": "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=biztoc.com",
-      "originalUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/zD7YbqnU4W_XAaEW-O3cKSa4dGc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19249962/akrales_190930_3682_0006.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

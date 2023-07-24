@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-23-ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders.md",
+      "title": "AI news anchors: The new phenomenon of Artificial Intelligence replacing newsreaders",
+      "excerpt": "The AI era has arrived, and as AI news anchors become a reality, will AI replace human news anchors in the same way it displaces labour in other industries?",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/07/Sana-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp",
+      "publishedDateTime": "2023-07-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-australian-dishbrain-researchers-receive-more-than-400k-to-merge-ai-with-human-brain-cells.md",
       "title": "Australian DishBrain researchers receive more than $400K to merge AI with human brain cells",
       "excerpt": "Researchers in southern Australia have recently been granted more than $403,000 in funding to merge human brain cells with artificial intelligence technology.",
@@ -244,7 +287,7 @@
       "originalUrl": "https://www.huffpost.com/entry/james-cameron-artificial-intelligence-the-terminator_n_64b94ca0e4b09a3b48916545?trk=public_post_comment-text",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1378,49 +1421,6 @@
       "provider": {
         "name": "Statista",
         "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-mind-blowing-ai-for-good-or-ai-gone-bad.md",
-      "title": "‘Mind-blowing’ AI for good… or AI gone bad",
-      "excerpt": "Bogdan-Martin, along with other speakers at the summit, painted several scenarios for AI’s future including one where AI lives up to its promise and is harnessed to find cures for diseases, provide clean energy and mitigate climate change, and precision agriculture increases crop yield and reduces food waste.",
-      "sourceUrl": null,
-      "webUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
-      "originalUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://istart.com.au/wp-content/uploads/2023/07/AI-for-Good-Summit-2023.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "istart.com.au",
-        "domain": "istart.com.au",
         "images": null,
         "publishers": null,
         "authors": null

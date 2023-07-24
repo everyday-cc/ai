@@ -41,22 +41,6 @@ related:
         width: 720
         height: 404
         isCached: true
-  - title: "How To Get Your Team Comfortable With AI: Insights From A Microsoft Executive"
-    excerpt: "AI offers freedom from the excessive inflow of data, emails, meetings, and notifications. But you've got to employ a few strategies to get your team using AI."
-    publishedDateTime: 2023-07-19T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/"
-    ampWebUrl: "https://www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markmurphy/2023/07/19/how-to-get-your-team-comfortable-with-ai-insights-from-a-microsoft-executive/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b807d0cd14666c57bd34f2/0x0.jpg?format=jpg&crop=2246,1496,x0,y0,safe&width=1200"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Tech giants including Microsoft and Google agree to White House AI safeguards"
     excerpt: "The White House said Friday that it has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before"
     publishedDateTime: 2023-07-21T09:16:00Z

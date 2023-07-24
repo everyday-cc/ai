@@ -566,6 +566,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-20-reimagining-the-data-center-for-the-age-of-generative-ai.md",
+      "title": "Reimagining the data center for the age of generative AI",
+      "excerpt": "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/7.With-all-of-the-focus-on-ChatGPT-what-impact-if-any-does-it-have-for-the-data-center_.jpg?fit=750%2C422&#038;strip=all",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-chip-giant-amd-says-ai-to-be-mega-trend-for-computing-world.md",
       "title": "Chip Giant AMD Says AI To Be 'Mega-trend' For Computing World",
       "excerpt": "AI will be the \"defining mega-trend\" for the global computing industry, the head of chip giant AMD said Thursday in Taiwan, where the majority of the world's semiconductors powering the technology is produced.",
@@ -1369,51 +1421,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68360-million-by-2032.md",
-      "title": "Artificial Intelligence (AI) in Manufacturing Market Size To Hit USD 68,360 Million By 2032",
-      "excerpt": "The global artificial intelligence (AI) in manufacturing market size was valued at USD 3,800 million in 2022. Artificial intelligence (AI) in manufacturing units is adopted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/g33232796/artificial-intelligence-ai-in-manufacturing-market-size-to-hit-usd-68-360-million-by-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33232796",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33232796",
-      "publishedDateTime": "2023-07-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI Hardware"
       ]
     }
   ],

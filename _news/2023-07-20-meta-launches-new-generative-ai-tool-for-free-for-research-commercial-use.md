@@ -133,6 +133,15 @@ related:
       name: News & Record
       domain: greensboro.com
     quality: 19
+  - title: "Generative AI expected to impact SA companies"
+    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
+    publishedDateTime: 2023-07-24T09:44:00Z
+    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "4H0Vvui8LXGA+9p/w1wkGAyu0erLQzCoSRboFIePdA/zyQ7/JZCwV40qWic2y2snOXpB8X7ZURED9ox2Wq6uYbRrSljr7oKUQBjNJJKYFm4ZSU+sqP4nFEdHs8GR/+HXioNvByMUVejZNs1KuVw00Cawsh5MktcUpxCG3vn7JB6hWcaJHqQ7N/60lboz2o6Ya7PlIo3WwVsDkQRpTpLgui6vdjZIfqZRcV0K9I64Ds2zCuYzgcT1EaEut0BqpWpQEEWvvNUvla1eT5HDzlflyFgQiMD1xeNdvSSzA4JEy5JGDcbSSwtJ8VsMv0SXnI/XWc3vzisief3ST4C1KkMC5Y1LMt63ECU0OiqT3Ex4838=;sztn+lpRXxIpF+m4m/jlZg=="
 ---

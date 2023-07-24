@@ -38,6 +38,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
+    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
+    publishedDateTime: 2023-07-21T19:37:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
 
 secured: "Z3nwRv93dHBpPQX0Iwe093mCigRHvwWgkZdeXD+FFgyOBZvVOl11bfxdzWkBKATqmX1hIWz8SgIrDL6CkkhnJxhUzX4XZlyvreJNFg94HE5wuFMwgPOFFvhT3l2XgxoRW+enDphbmm+CblNq/zr5W/xIV9XLwkhEDyU3SlcuRTvDJtCyKHYphKF9ARphi+vNIqhhSR+gdJhFbeCWhhtiFNRtlOjqMX/jApUYCEZtxfCl8YQW1lLE4sHigZZRSlMmy7LCh/lgy5NKoLalMSi3fvtfJnq7h2YHuhMCCmYMvwYImc9Th86B/IE+b/pH08qYQdW8gsKLMsxTNAB2mX3zr41mIeN956R6w8eHex5Ih5hlzYjwUEyS9pqAh7uQGcfLwt3WtO6srLXLsBAL3XX6vZ5Z9VnYEILffGSJYcZmu8E4INnbd+NE115XA+hkShKDjs67I7qMbfRj3/llo3XL0TgP5QIgLGw0FsNMXIsNZTm2byFD+QK+Jc4n7+r7Oiwvwy/ECrg4EEl12HgD9W4v6A==;3aJr8SkgokEFlAfTlKlqbA=="
 ---

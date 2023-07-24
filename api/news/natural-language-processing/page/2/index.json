@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-10-ai-will-change-your-work-significantly-heres-how-to-respond.md",
+      "title": "AI Will Change Your Work Significantly: Here’s How To Respond",
+      "excerpt": "AI will shift things fundamentally—including the content of work, the work available and who’s doing it. You’ll need to be aware, ready and responsive to what’s coming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
+      "originalUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64aa095b9866235e854c321c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tracybrower/2023/07/09/ai-will-change-your-work-significantly-heres-how-to-respond/amp/",
+      "publishedDateTime": "2023-07-09T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-09-how-does-chatgpt-decide-what-to-say-next-heres-a-quick-explainer.md",
       "title": "How does ChatGPT decide what to say next? Here's a quick explainer.",
       "excerpt": "Ever wonder how bots like ChatGPT figure out what the next word should be, but you don't have time to pore over AI white papers? You're not alone.",
@@ -1324,49 +1376,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-06-29T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-natural-language-processing-europe.md",
-      "title": "Natural Language Processing - Europe",
-      "excerpt": "Value in the Natural Language Processing market is projected to reach US$6.47bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.20%, resulting in a market volume of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/europe",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-29T19:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Statista",

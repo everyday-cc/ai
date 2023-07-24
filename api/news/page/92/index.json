@@ -2,6 +2,403 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-05-24-adobe-brings-fireflys-generative-ai-to-photoshop.md",
+      "title": "Adobe brings Firefly’s generative AI to Photoshop",
+      "excerpt": "Photoshop is getting an infusion of generative AI today with the addition of a number of Firefly-based features that will allow users to extend images beyond their borders with Firefly-generated backgrounds,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/",
+      "originalUrl": "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/gBWUDTLU.png?resize=1200,793",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/",
+      "publishedDateTime": "2023-05-23T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-axiado-sampling-the-industrys-first-ai-driven-security-chip.md",
+      "title": "Axiado Sampling The Industry’s First AI-Driven Security Chip",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as Axiado introduced the latest technologies in its portfolio, the AX3000 and AX2000 trusted control/compute unit",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646d3315192d6cfc7da62c39/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/",
+      "publishedDateTime": "2023-05-23T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-chatgpt-can-china-overtake-the-us-in-the-ai-marathon.md",
+      "title": "ChatGPT: Can China overtake the US in the AI marathon?",
+      "excerpt": "But China could catch up, according to analysts, as AI solutions take years to be perfected. Chinese internet companies \"are arguably more advanced than US internet companies, depending on how you're measuring advancement,\" Kendra Schaefer, head of tech policy research at Trivium China tells the BBC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65034773",
+      "originalUrl": "https://www.bbc.com/news/business-65034773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15E48/production/_129327698_gettyimages-1248931741.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65034773.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp",
+      "publishedDateTime": "2023-05-23T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk.md",
+      "title": "Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK",
+      "excerpt": "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of virtually infinite compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are rapidly adopting and using ML technologies",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/15/ML-14182-foundation-models-1260x551.png",
+          "width": 1260,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T13:08:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-azure-cosmos-db-joins-the-ai-toolchain.md",
+      "title": "Azure Cosmos DB joins the AI toolchain",
+      "excerpt": "This approach should work well alongside the updates to Azure AI Studio to deliver AI-ready private data to your Azure OpenAI-based applications. What this means for your code is that it will be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3696980/how-microsoft-is-laying-the-foundation-for-custom-ai-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3696980/how-microsoft-is-laying-the-foundation-for-custom-ai-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "publishedDateTime": "2023-05-23T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.md",
+      "title": "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain",
+      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
+      "originalUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 689,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "publishedDateTime": "2023-05-23T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year.md",
+      "title": "Self-Driving Ubers Coming Soon: Waymo Partnership Could Start This Year",
+      "excerpt": "Uber has signed a multi-year partnership with Waymo, the Alphabet-owned autonomous driving technology company, to begin offering self-driving vehicles possibly this year, starting in Phoenix, the companies announced Tuesday. Waymo's self-driving vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646cc55f6e11735320467d31/0x0.jpg?format=jpg&crop=1813,1019,x0,y93,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/",
+      "publishedDateTime": "2023-05-23T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud.md",
+      "title": "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud",
+      "excerpt": "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
+      "originalUrl": "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-white-house-unveils-new-efforts-to-guide-federal-research-of-ai.md",
       "title": "White House unveils new efforts to guide federal research of AI",
       "excerpt": "FILE – President Joe Biden speaks in the East Room of the White House, May 17, 2023, in Washington. The White House has announced new efforts to guide federally backed research on artificial ...",
@@ -797,402 +1194,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets.md",
-      "title": "Qualcomm Revs Up AI Capabilities for Snapdragon Laptops and Tablets",
-      "excerpt": "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
-      "originalUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00zcg433I72hEGoITIdYLvP-1.fit_lim.size_1200x630.v1684800238.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind.md",
-      "title": "These generative AI tools coming to Adobe Photoshop will blow your mind",
-      "excerpt": "From changing the scenery of images to adding new subjects via text, here's what you need to know about Adobe's new AI image generator tool and when it will be available.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "originalUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b22dc33aeaf613e57a7e56a5a52ef2eac451c52a/2023/03/01/d1762712-8441-4457-900a-4bc8edf5521c/samsung-galaxy-book-3-ultra-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "publishedDateTime": "2023-05-23T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-enough-with-the-corporate-therapy-speak-workers-say.md",
-      "title": "Enough With The Corporate ‘Therapy Speak,’ Workers Say",
-      "excerpt": "The published version of this week’s Forbes Careers newsletter brings the latest news, insights and ideas about the workplace straight to your inbox every Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmylucas/2023/05/23/enough-with-the-corporate-therapy-speak-workers-say/",
-      "originalUrl": "https://www.forbes.com/sites/emmylucas/2023/05/23/enough-with-the-corporate-therapy-speak-workers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646cc3c6f58a5b8e308e4343/0x0.jpg?format=jpg&width=1200",
-          "width": 570,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-what-is-smart-transportation.md",
-      "title": "What is smart transportation?",
-      "excerpt": "From traffic jams to seamless journeys— exploring the promise of smart transportation.\nThe post What is smart transportation? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/smart-transportation/",
-      "originalUrl": "https://www.ibm.com/blog/smart-transportation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/ams_3992.lr_.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:09:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report.md",
-      "title": "IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report",
-      "excerpt": "IBM engages a third-party professional services firm to complete an independent review of IBM Cloud services and processes against the Agreed-Upon Procedures (AUP).\nThe post IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/21_58_p_gorodenkoff-023.lr_.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:02:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-configure-an-ibm-cloud-code-engine-application-to-use-custom-domains.md",
-      "title": "Configure an IBM Cloud Code Engine application to use custom domains",
-      "excerpt": "How to expose a IBM Cloud Code Engine application via custom domains.\nThe post Configure an IBM Cloud Code Engine application to use custom domains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
-      "originalUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T06:57:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-kan-a-kubernetes-edge-environment-for-computer-vision.md",
-      "title": "KAN: A Kubernetes edge environment for computer vision",
-      "excerpt": "Microsoft’s open-source KubeAI Application Nucleus is a low-touch, Kubernetes-based system for building and running machine learning applications for edge devices. Computer vision is an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696240/kan-a-kubernetes-edge-environment-for-computer-vision.html",
-      "originalUrl": "https://www.infoworld.com/article/3696240/kan-a-kubernetes-edge-environment-for-computer-vision.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/02/shutterstock_1748437547-100937033-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696240/kan-a-kubernetes-edge-environment-for-computer-vision.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696240/kan-a-kubernetes-edge-environment-for-computer-vision.amp.html",
-      "publishedDateTime": "2023-05-23T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-addressing-the-ethical-use-of-ai-in-healthcare.md",
-      "title": "Addressing The Ethical Use Of AI In Healthcare",
-      "excerpt": "The push to digitize and automate healthcare data management represents a giant leap forward in helping health plans deliver better outcomes for their members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -49,6 +49,15 @@ related:
         width: 700
         height: 266
         isCached: true
+  - title: "Deep learning for healthcare services"
+    excerpt: "Deep learning, a branch of artificial intelligence (AI), falls within the broader realm of machine learning. It centers on empowering computers to learn from data and autonomously make decisions or predictions,"
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996183"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
   - title: "Can Machine Learning Revolutionize Early Cancer Detection in Primary Care?"
     excerpt: "Through the promise of machine learning, early cancer detection in primary care could undergo a revolutionary transformation, leading to the saving of lives."
     publishedDateTime: 2023-07-23T12:52:00Z

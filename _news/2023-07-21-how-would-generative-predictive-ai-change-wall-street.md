@@ -132,6 +132,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Generative AI expected to impact SA companies"
+    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
+    publishedDateTime: 2023-07-24T09:44:00Z
+    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "s2sw3xpb3BBUqMylQmxXGNiMnRI4BYL3+3oOaOiI14Zouc7TGzPeSbiEPzh0YaCXEWo6WTgnnkacOARK3BYWRlluaK4Bg+GOhIxb4s5xVCsExh/ZMVfARHkEk3HMF6qizG4+GVmevVHQ3dBfWM3JkQ2VvEgKE+TwScl4sznEx1P8XFUPLFK36PG78Zb0a3/U/35HemhM8NQ7xDzdCvr+vq9KOjZcfxQejP6Z2ORhMvU/HkO4Ni0q6PjZwNv1+Ho2r+rzABGtc4MU12GvfQCOuifflbS5ZFYbPWn4KasgERcxOYcTciSpdGdhFi2mJlzTNTsFkIoXOqIrmIjjKsvVXqa340oCg3Mjzs/ayFqKCGbcXom8mWsnTyahpWoYfWMRFdqSa4flbaBhbZEyEjsoINCuJIlfxgOLBpyErzRDORb9ymg8hDJKvmzYbdU95FBS/t6trJAvpBQNGnmL7nEQtfIcywAYXcKPyAc6uadpgxOv563+ZgRsMptD1+5XZfFvnBsX5eudSyw6VwmnVyFOuA==;tBnL/TIO75Vre5xPeeiiSA=="
 ---

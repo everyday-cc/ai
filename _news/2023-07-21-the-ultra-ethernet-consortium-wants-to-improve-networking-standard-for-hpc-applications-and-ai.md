@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-21T14:24:00Z
 originalUrl: "https://www.techspot.com/news/99492-ultra-ethernet-consortium-wants-improve-networking-standard-hpc.html"
 webUrl: "https://www.techspot.com/news/99492-ultra-ethernet-consortium-wants-improve-networking-standard-hpc.html"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "gLcIiktl6heTkBzcmhKw5VO8Unr6ig2A/htEGX9qmCs+eXiZ23byf+CBchb37DqY38TKY2us/nddmz8eHR7KszMcmMaBAL+La7JADJp05h4dh+oAWNkWNZmrzltyTqqWP5EbNqvpXt83uA+UC4rqm2Ei548gq5ljZeNv6E0ofrodqyUFnDuNb6zyggEanoYmJ4dFgTcxxGxMphDR805FslImLKl+mUfSEmedDiPgyLl+Qr5B6Y3hy7Kha+YLXbezbUJ/U//wy8iJA2HAA6wkjWY0o48BcPTN24VsS8PxgiYrrvtQp5gXtawNcxpE7+4kdHUz8coO5CVRi8utCOnCIxnWaJHmC6pkFmz/SbwdIVY=;yTIKth2mJrsld2nmNuoFBQ=="
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-21-image-8.jpg"
+    width: 2000
+    height: 1126
+    isCached: true
+
+secured: "gXKs4xQhp/HotyeBH+8OZcYId3ZI3cRzHi3kYRhCgYFwclkYHTueaopQGqXuiN+bl3V9i5b7qGYgW57bvn9ge1EO99Px04W5nC40HX/7wozWFyHsKWZW2yv9x2EnE6YjTaKwbuIAeNNrEr8OF8Zd9RFmo1LVkmCK2H6vQVmyygVrjialKwq6Gvu7/6HfBwgZPipaXhxEjsGz5Gv+HFZH6CZc9ilU8d5OoGueGlTtFoKaObZuh7BiuKTEvqDVNMeokKRz3GvlwnvW0BpxP2ALTkptGL+LBno05+q5nxfe/IH2o0IWDunfBaQ6P86VEinxDgGEOTwIhbtJxplDT/rCjzu7uxzQcUyqoTLVWCnua8M=;9r9SVCWr1+zYvpRK/2QAVw=="
 ---
 

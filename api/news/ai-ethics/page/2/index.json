@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-11-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
+      "title": "AI nursing ethics: Viability of robots and artificial intelligence in nursing practice",
+      "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-nursing-ethics-viab.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-ai-nursing-ethics-viability-robots.amp",
+      "publishedDateTime": "2023-07-10T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-10-ai-nursing-ethics-viability-of-robots-and-artificial-intelligence-in-nursing-practice.md",
       "title": "AI nursing ethics: viability of robots and artificial intelligence in nursing practice",
       "excerpt": "The recent progress in the field of robotics and artificial intelligence (AI) promises a future where these technologies would play a more prominent role in society. Current developments ...",
@@ -1381,40 +1425,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko.md",
-      "title": "Leadership & Ethics of AI in Medicine: Introduction with Dr. Molly Wasko",
-      "excerpt": "The institute’s AI in Medicine Graduate Certificate provides current and future health care leaders with important foundations in understanding and applying artificial intelligence (AI), as well as the safety, security, and ethics of using AI to improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
-      "originalUrl": "https://www.uab.edu/medicine/news/latest/item/2809-leadership-ethics-of-ai-in-medicine-introduction-with-dr-molly-wasko",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

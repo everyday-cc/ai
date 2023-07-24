@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/"
 type: article
 quality: 124
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google, Microsoft face off in AI healthcare race"
-    excerpt: "Tech giants Google and Microsoft are pushing into the healthcare industry with generative AI, creating medical chatbots, integrating AI into EHRs."
-    publishedDateTime: 2023-07-19T15:40:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/google-microsoft-face-off-in-ai-healthcare-race.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 71
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "The AI Launch Pushing Microsoft Higher"
     excerpt: "Shares of Microsoft jumped almost 6% on the Copilot news, setting an intraday record of $366.78. Microsoft is being ruthless to maintain its position as an early leader in AI. But the other seats at the top table are still up for grabs."

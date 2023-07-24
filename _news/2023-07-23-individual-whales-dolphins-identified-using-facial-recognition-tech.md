@@ -41,6 +41,20 @@ related:
         width: 676
         height: 381
         isCached: true
+  - title: "OP-ED | Facial Recognition Is Not New"
+    excerpt: "Opinion writer Barth Keck says he's not where people have been hiding, but facial recognition surveillance is not new. Retailers have been using facial recognition technologies for years – more than 35 organizations have been calling for U."
+    publishedDateTime: 2023-07-24T08:45:00Z
+    webUrl: "https://ctnewsjunkie.com/2023/07/24/op-ed-facial-recognition-is-not-new/"
+    type: article
+    provider:
+      name: CT News Junkie
+      domain: ctnewsjunkie.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/ctnewsjunkie.com/wp-content/uploads/2023/07/twitter-facial-recognition-shoprite-screenshot-2023-07-23-1200x900-1.jpg?fit=1200%2C900&ssl=1"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "7mvKp8UzXkv+wWGY+KlbVh0I6PtFxGCuyLizBU5Xz15d5UznDUiFwMLRRH08plfR7v4l6Bf+EEmbEDcF6TidPgGkhf3tiqLjDOc/Msk7+byMWK+h5e3gdiw1+I4ODCj6KM8qmsiH1tvQx9wjcQIkBnll2navGY4gZqow3JkHzXOce6X3NeGa7cwykaKAF8JI7BkBN3NhhR1UIDqXBlHZghlW5fVtOIZPdty+wWtH1hyc9DNrCx/4Me4husFi18KcGmS+ZDbSLK+EnyqSg2TOfa8z2ewgIbF9mnUAMLwC+uUsLy3zGtxLMfLaX/MXhacZaccqVox6lsnSruLxn/8C0rhhs5vdN4Gfw2a7SJdWgz9MphR5YTfeq+gQXdfCTdrydsDtYy4OsEVgVuEiTHAFh1i6b6BZSeHM7h/g0KRL5CcoPK9WaJCS6gwpf+e4Qn05+Samf0yDEBWVtFBljIQPERgKGjqUyzShFRZUDOvdeWthduuPwTu10Y0hAwQAJMBvUkMj1GCdT6Id0/5gqEIpJw==;7qKwYrlWhJX+/rb2afaKCA=="
 ---

@@ -25,121 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Use a generative AI foundation model for summarization and question answering using your own data"
-    excerpt: "Large language models (LLMs) can be used to analyze complex documents and provide summaries and answers to questions. The post Domain-adaptation Fine-tuning of Foundation Models in Amazon SageMaker JumpStart on Financial data describes how to fine-tune an LLM using your own dataset. Once you have a solid"
-    publishedDateTime: 2023-07-19T16:27:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-generative-ai-foundation-model-for-summarization-and-question-answering-using-your-own-data/"
+  - title: "Australia Post uses computer vision for site safety"
+    excerpt: "Australia Post is using computer vision technology to detect team members moving into “unsafe zones” at facilities as a site safety initiative."
+    publishedDateTime: 2023-07-20T19:03:00Z
+    webUrl: "https://www.itnews.com.au/news/australia-post-uses-computer-vision-for-site-safety-598149"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/19/use-generative-ai-foundation-model-summarization-1260x630.jpg"
-        width: 1260
-        height: 630
+      - url: "https://i.nextmedia.com.au/News/auspost_sign.jpg"
+        width: 724
+        height: 483
         isCached: true
-  - title: "Reimagining the data center for the age of generative AI"
-    excerpt: "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?"
-    publishedDateTime: 2023-07-20T16:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/"
+  - title: "The AI advantage: How Australia can lead with generative AI"
+    excerpt: "Leveraging the AI advantage, Australia's professional and financial services sector could see an annual boost of up to AU$13 billion by 2030."
+    publishedDateTime: 2023-07-20T23:30:00Z
+    webUrl: "https://techwireasia.com/2023/07/generative-ai-advantage-how-australia-can-lead-in-this-space/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/7.With-all-of-the-focus-on-ChatGPT-what-impact-if-any-does-it-have-for-the-data-center_.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "When it comes to next-generation AI models, synthetic data is the way to go"
-    excerpt: "An AI feedback loop is threatening to destroy the future of generative AI algorithms, so big tech corporations are scrambling to find a solution that could"
-    publishedDateTime: 2023-07-20T14:10:00Z
-    webUrl: "https://www.techspot.com/news/99473-when-comes-next-generation-ai-models-synthetic-data.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 65
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/07/2023-07-20-image-15.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
-  - title: "Meta lets loose second generation of Llama AI models"
-    excerpt: "Meta says organisations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
-    publishedDateTime: 2023-07-19T23:35:00Z
-    webUrl: "https://www.reseller.co.nz/article/708087/meta-lets-loose-second-generation-llama-ai-models/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 41
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_meta_hq.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "AI in Education: New Guidance from the Department of Education"
-    excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
-    publishedDateTime: 2023-07-21T20:31:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/ai-in-education-new-guidance-from-department-of-education-perfcon"
-    type: article
-    provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 34
-  - title: "Artificial Intelligence integration to empowers international expansion of Theravada Buddhism"
-    excerpt: "President Ranil Wickremesinghe reaffirmed his dedication to securing and promoting Theravada Buddhism on an international scale. He announced the implementation of an Artificial Intelligence program to support these efforts,"
-    publishedDateTime: 2023-07-20T21:51:00Z
-    webUrl: "https://island.lk/artificial-intelligence-integration-to-empowers-international-expansion-of-theravada-buddhism/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 26
-    images:
-      - url: "http://island.lk/wp-content/uploads/2023/07/Upasampada-Maha-Vinaya-Karma-09-1.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
-    excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
-    publishedDateTime: 2023-07-20T07:15:00Z
-    webUrl: "https://techbullion.com/from-inspiration-to-innovation-exploring-the-creative-possibilities-of-designs-ais-ai-writer-in-copywriting/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 20
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/man-chat-with-ai-artificial-intelligence-ai-chat-technology-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Transcreation and Generative AI with Jellyfish’s Rocio Martinez"
-    excerpt: "Rocio Martinez, VP of Language Services at Jellyfish, joins SlatorPod to talk about the role of creative content localization at the digital marketing agency."
-    publishedDateTime: 2023-07-21T08:35:00Z
-    webUrl: "https://slator.com/transcreation-generative-ai-with-jellyfish-rocio-martinez/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-  - title: "Apple Is Using 'ChatGPT-Like' Tool Internally For Summarizing, Answering Questions: Report"
-    excerpt: "As other big tech companies continue to release new AI products and announce AI collaborations, Apple, known for wrapping its products in secrecy, is reportedly working on AI tools that could challenge the likes of OpenAI's ChatGPT."
-    publishedDateTime: 2023-07-24T05:38:00Z
-    webUrl: "https://www.ibtimes.com/apple-using-chatgpt-like-tool-internally-summarizing-answering-questions-report-3706288"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 14
-    images:
-      - url: "https://d.ibtimes.com/en/full/4449785/women-uses-her-iphone-mobile-device-she-passes-lighted-apple-logo-apple-store-new-york.jpg"
-        width: 1200
-        height: 767
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/20072023_GenerativeAIAustralia.png"
+        width: 1192
+        height: 667
         isCached: true
 
 secured: "XN/S1qKfITUwcfNZEtv0U9zhwMp1gBja0+6KizG/JpSLP3A2hPuPkGLBCDHucqSIYsf7S3aAbpxMLddBOxJlQm/7G2Ijd0Cm85LO801rut5Q2HYCarrtlFpgZajHlRcuHag60R6u5T2XpXH6Ti/RFndlNtTnek4iACQn6t+fceV1/ZO3tk5vd2Jpgg1dwPNEkeji/m2GhSDkqI1nUdgaAwf63mEGI97zYHcsgUOm0QbxrCStyUBJdQ0t0UYWc8x+GpM47X5EQ2PzsoUcziltgOj7R+pW4H3oXMzbd9gLQlfU69WA8ye399qZmnsL4kejbaeZkr9meqGqWme07PSz/+g7RQtMNTsjbmCFSnqGViwbehnuFbwa8RJ51A3S9yvD9/C0RbR02X1G0fIjTdLdHPMJ5dmRqZQMISKLRDhcbo95Pui1nqATKQIuOsa953PWlbXHtTPeS8zRCqmLGD3ckUlX1OxuzQJbVNkxcNyg3ytXrJPKafP/e/KCA3FD5ZNfqYMs1hfF3GqwZXdx1Pd5dw==;MbUUZvtIam8bKhbQFgu+7g=="

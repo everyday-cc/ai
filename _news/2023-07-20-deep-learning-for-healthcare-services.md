@@ -20,22 +20,54 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "What Can Ubiquitous Radio Waves Do For Healthcare?"
-    excerpt: "Dina Katabi talked about the potential for artificial intelligence to help with real-time patient monitoring in healthcare."
-    publishedDateTime: 2023-07-19T16:43:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/what-can-ubiquitous-radio-waves-do-for-healthcare/amp/"
+  - title: "Harnessing machine learning for early cancer detection in primary care"
+    excerpt: "A new editorial paper was published in Oncoscience, titled \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
+    publishedDateTime: 2023-07-21T17:48:00Z
+    webUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b80318a6dca6fad9fb68d1/0x0.jpg?format=jpg&crop=3668,2063,x0,y171,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg"
+        width: 1920
+        height: 1920
         isCached: true
+  - title: "Harnessing machine learning for early cancer detection in primary care"
+    excerpt: "On June 9, 2023, a new editorial paper was published in Oncoscience, entitled, “Transforming early cancer detection in primary care: harnessing the power of machine learning.”"
+    publishedDateTime: 2023-07-21T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/996396"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5ce21e18-0ab9-4ba4-b36a-4b8b2cb8c963/Rendition/low-res/Content/Public"
+        width: 700
+        height: 266
+        isCached: true
+  - title: "Machine learning could transform early cancer detection in primary care"
+    excerpt: "A new editorial paper was published in Oncoscience (Volume 10) on June 9, 2023, entitled, \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
+    publishedDateTime: 2023-07-22T00:55:00Z
+    webUrl: "https://www.news-medical.net/news/20230721/Machine-learning-could-transform-early-cancer-detection-in-primary-care.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
+  - title: "Can Machine Learning Revolutionize Early Cancer Detection in Primary Care?"
+    excerpt: "Through the promise of machine learning, early cancer detection in primary care could undergo a revolutionary transformation, leading to the saving of lives."
+    publishedDateTime: 2023-07-23T12:52:00Z
+    webUrl: "https://www.medindia.net/news/can-machine-learning-revolutionize-early-cancer-detection-in-primary-care-212792-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "0kIF+yt3+oMqSjuP0LsmcNJf3vrEZUZjrrbwwKfEsYXOHDXglOaZSTIKBJGS2wZVOGp9Jg3ylYN5FFDxGvijdeDPSy43WVi3k17+DH+oul7QX5N66wRPLHLmm/LD6PP0S+9hTdUB2hAuD2aotpp/Tpj/bWcxA4a6IrnF+umn+FIukUPqUQHh8o39eXOjgnHU1vJKyhHfBGSm5OOKyMq+GVrYwnbRJJR8OpOdJAHJs/GmNd6vfoMw0dsN+edxXHZyizgAzqnLsgtVLdG66xoq99cWFRPFrmkMtkZInk5vMvwNXsL5jdlMi8h9uxJN0x61ZYUvEUpUtqUT7VRcYJ+UVg29pp4RDd4VQFX2Lzudtsg=;S8DoaQOfwmGc4Rxgfdgk8g=="
 ---

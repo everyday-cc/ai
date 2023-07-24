@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-30-ai-industrial-robotics-poland.md",
+      "title": "AI Industrial Robotics - Poland",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$48.92m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.06%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/poland",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/poland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-30T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-30-ai-service-robotics-poland.md",
       "title": "AI Service Robotics - Poland",
       "excerpt": "Value in the AI Service Robotics market is projected to reach US$22.10m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.77%, resulting in a market volume of US$54 ...",
@@ -1243,40 +1286,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-safe-intubation-thanks-to-artificial-intelligence-and-robotics.md",
-      "title": "Safe intubation thanks to artificial intelligence and robotics",
-      "excerpt": "“Our device, intuBot, combines artificial intelligence and robotics. With a camera and state-of-the-art image recognition, we safely insert the endoscope into the trachea at the touch of a button,” explains CEO and co-founder Philippe Ganz. What’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
-      "originalUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2023/06/safe-intubation-thanks-to-artificial-intelligence-and-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETH Zurich",
-        "domain": "ethz.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
