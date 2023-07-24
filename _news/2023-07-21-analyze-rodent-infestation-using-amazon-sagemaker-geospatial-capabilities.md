@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "How Patsnap used GPT-2 inference on Amazon SageMaker with low latency and cost"
+    excerpt: "This blog post was co-authored, and includes an introduction, by Zilong Bai, senior natural language processing engineer at Patsnap. You’re likely familiar with the autocomplete suggestion feature when you search for something on Google or Amazon. Although the search terms in these scenarios are pretty"
+    publishedDateTime: 2023-07-24T21:23:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-patsnap-used-gpt-2-inference-on-amazon-sagemaker-with-low-latency-and-cost/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/patsnap-gpt-2.jpg"
+        width: 1022
+        height: 511
+        isCached: true
   - title: "Enel automates large-scale power grid asset management and anomaly detection using Amazon SageMaker"
     excerpt: "This is a guest post by Mario Namtao Shianti Larcher, Head of Computer Vision at Enel. Enel, which started as Italy’s national entity for electricity, is today a multinational company present in 32 countries and the first private network operator in the world with 74 million users. It is also recognized"
     publishedDateTime: 2023-07-20T17:59:24Z

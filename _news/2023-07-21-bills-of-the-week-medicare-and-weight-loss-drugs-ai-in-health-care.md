@@ -118,20 +118,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Medical Robots Market in Healthcare: Unveiling the US$ 63.7 Billion Potential by 2032 | FMI Study"
-    excerpt: "In recent years, the field of healthcare has experienced a transformative revolution, with cutting-edge technologies reshaping the way medical services are delivered. Among the most ground breaking innovations are medical robots – sophisticated machines that are changing the face of medicine."
-    publishedDateTime: 2023-07-20T04:17:00Z
-    webUrl: "https://www.fmiblog.com/2023/07/20/the-medical-robots-market-in-healthcare-unveiling-the-us-63-7-billion-potential-by-2032-fmi-study/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 24
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Medical-Robots-Market.jpg"
-        width: 626
-        height: 626
-        isCached: true
   - title: "Purehealth And Fujifilm Collaborate To Bring Advanced Artificial Intelligence Solutions Into Abu Dhabi's Healthcare"
     excerpt: "Abu Dhabi, UAE PureHealth, the largest healthcare platform in the Middle East, is collaborating with Fujifilm Global, a renowned world leader in"
     publishedDateTime: 2023-07-21T12:25:00Z

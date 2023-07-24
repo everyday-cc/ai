@@ -35,7 +35,12 @@ related:
     provider:
       name: startup.outlookindia
       domain: outlookindia.com
-    quality: 27
+    quality: 47
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1690200806.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hV7avX8BaD4gJPwEyES5yR7WAXHoXh+ZWl1RQHktNWOQ5em+cTUFVPBMTswEC9A2hIk0Uulc1RX7Rr77aiFiAwlwn0PXjI2/GFXUVcW98iqtxlFpFYRSbUUSOvTnavL27Nbs+HOv/4CVx7IBH/CwBpIo75M5QfI7edhOlZkZXsZ31Zkr4Bt04ICQ+EOeVLmHbd8TGiQqhfc45JlXAP7e6QI+tHvdxOAoLCcChfh8VYYmz09qi8wnKgDEQ+CD24yHxyPSf6c8K9Crv6FiWwHiaaULQs0fBpr8XJib1/dq4ZLYFRgCMCEA/mdTHBXFLXJGRxFJonVrY9cTZtanUNoxb+ypvq+OgH/CdwTojTvm4nE=;c2KjYXg0z3TqslSntN2f0Q=="
 ---

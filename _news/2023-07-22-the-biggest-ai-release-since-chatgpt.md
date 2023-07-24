@@ -70,22 +70,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Apple has an AI chatbot up its sleeve: report"
-    excerpt: "As Microsoft and Alphabet duke it out in the world of AI chatbots, Apple may harbor dreams of getting into the game as well."
-    publishedDateTime: 2023-07-20T02:51:00Z
-    webUrl: "https://www.marketwatch.com/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://images.mktw.net/im-810056/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Please Stop Asking Chatbots for Love Advice"
     excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
     publishedDateTime: 2023-07-22T11:00:00Z
@@ -258,6 +242,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
+    excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"
+    publishedDateTime: 2023-07-24T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/2383850-gpt-4-is-the-ai-behind-chatgpt-getting-worse/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
   - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
     excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
     publishedDateTime: 2023-07-22T18:50:00Z

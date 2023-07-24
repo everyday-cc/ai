@@ -61,6 +61,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google, Meta, Microsoft, Amazon Make Pledge on AI Safety and Security"
+    excerpt: "ChatGPT creator OpenAI is also among the companies that met with President Biden to sign the voluntary agreement."
+    publishedDateTime: 2023-07-24T21:48:00Z
+    webUrl: "https://www.cnet.com/tech/google-meta-microsoft-amazon-make-pledge-on-ai-safety-and-security/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 101
+    images:
+      - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Partners With Indian Company To Build AI Centers"
     excerpt: "This story was first published on the Benzinga India portal."
     publishedDateTime: 2023-07-24T12:59:00Z
@@ -135,6 +149,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The AI Launch Pushing Microsoft's Price Higher"
+    excerpt: "The post The AI Launch Pushing Microsoft's Price Higher appeared first on American Institute for Crypto Investors."
+    publishedDateTime: 2023-07-24T18:25:00Z
+    webUrl: "https://moneymorning.com/investing/the-ai-launch-pushing-microsofts-price-higher/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 36
   - title: "Teladoc And Microsoft's Expanded Strategic Partnership Is A Powerful AI Combo"
     excerpt: "Teladoc has experienced multiple news-based pops, with the latest instance resulting in a +10% jump in the stock as Teladoc announced an expanded AI partnership with Microsoft. While TDOC stock has given up most of these recent gains, the telehealth giant is gearing up for sales growth powered by AI technology."
     publishedDateTime: 2023-07-21T11:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-dev
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
+  - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
+    excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
+    publishedDateTime: 2023-07-24T19:56:00Z
+    webUrl: "https://www.crn.com/news/software/intel-seeks-to-win-over-ai-developers-with-open-source-reference-kits"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0283-18921cb6c571-03fcb9b1f615-1000/1630383708197.jpeg"
+        width: 251
+        height: 251
+        isCached: true
 
 secured: "d9DGlotyTnFVxuSX479E5K95td8M+Nc7TQUWTNDYD36QA2ExBcZtqisOQolFplCEuwUX0JHpO0Jo62j2m3lFFg949ZR1ExyWC2xD1wNzkdP82iEdmRLArL/JGDX3IWnY63QlCjsegqazaUf6AEKeSNjDb14mwTEbPzb0xaSV1nA2+FSUELlRn5/mKoLmtVVg1Lk/+x+RLjr+9oScy+UPAtPchMxiihKqmcRk22tA9hVIOahK667bN6nEuJtv6PZ+MNUx3xnoAcInIdtAPJhcJSxqRh2m9vGdGworjmPveloNWbUQdwsSQ205grYxknSDxrUdZRCJEgC6jHogFB0VqeYrlbr0YMkLMoKwtY0aRzK9KmBDcTh2Ar5uSOBcRDDzH0QbInuN/X+73z9S5O8menmcRNsLz4Kg/QUxSxpP6u6vwPlGbmPKPQhuWMc8KrM3pTnSxKZnWplAWop8UhNoTodR23gSTSwKzBwEyKIJNfeTf153g1zSQ6SOUs8veysVbkfAyPAKmoXCelc7KVchvw==;QvU/+Yn5LZ3f98KhqqRp5w=="
 ---

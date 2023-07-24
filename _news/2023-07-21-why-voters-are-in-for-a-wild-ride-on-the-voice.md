@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The yes pamphlet: campaign’s voice to parliament referendum essay – annotated and fact checked"
-    excerpt: "Pamphlets written by politicians and published by the AEC have put the official case for a yes and no vote. They were not independently fact-checked before publication, so Guardian Australia has added"
-    publishedDateTime: 2023-07-20T01:19:00Z
-    webUrl: "https://www.theguardian.com/australia-news/ng-interactive/2023/jul/20/the-vote-yes-pamphlet-referendum-voice-to-parliament-voting-essay-aec-published-read-in-full-annotated-fact-checked"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 27
-    images:
-      - url: "https://i.guim.co.uk/img/media/2bf18d57ae1b9168aabf8ec14e39b81c206cfa30/19_260_1659_995/master/1659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=247a2aabae7827e4ce71dca55203b60d"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Yes supporters to the Indigenous voice to parliament have raised some of the best reasons to vote No"
     excerpt: "Official Yes and No campaign pamphlets for the referendum have been released. Yes campaigners are upset the No pamphlet quotes extensively from the voice’s supporters."
     publishedDateTime: 2023-07-20T23:30:00Z

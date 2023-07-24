@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ESRB asks FTC to approve facial recognition age checker"
+    excerpt: "Sign up for the GI Daily here to get the biggest news straight to your inbox The ESRB has proposed that the FTC"
+    publishedDateTime: 2023-07-24T18:07:00Z
+    webUrl: "https://www.gamesindustry.biz/esrb-asks-ftc-to-approve-facial-recognition-age-checker"
+    type: article
+    provider:
+      name: GamesIndustry
+      domain: gamesindustry.biz
+    quality: 19
 
 secured: "/4DgJVO+IKWFf5vp5nGBKXHjYN+MdK9n2RCfFXJ5S2tVCRpa36HdD51Q1z0BkTHNlzzYsTrpDQtq56Wf/xz1MwLYILIAsrzs2PENEPGja2WNpLhEeG+/dyZ0iArYm5WaLH1WZmNefG8FR9c+SAOM8gZ7p1k45CjDUkQu4em8y9a7KqmMsSCnaqD+Bhy7tnmhlP490KFGGV+1qC7JIXdzCTfPKO12/wEPyV8rf4jBFdBHWbY7mAC7kwNa7sqRSaHmbyxIEw/oiDIpA9SG7kOTkQ6QksdI7kOSkjcw0XUXWs+7+0r9tmqEkRpPGV7rbuSiu/xra5IOZN5MPImm9g0A2tVvFAH1vpQfN1ew3YAl5k57ufAe3wY+OQkYHpSqa+9uQt4LMJA8F5Je/7seUW11lc+bT3dqddjonLV8QYuZd4ZQFOBeC3o3SZCbAZTs7qMtuUI8HVkaxoAstpMv8M+tMy7Dqgh9WdlpHN28N/SGskTjMvGbIPWC8u+VlK+8iv31eKBynxh6NNYjGJR2aQs7Ew==;eLi8CS7KVz37t/oKUMJ5tA=="
 ---

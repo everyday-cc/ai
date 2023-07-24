@@ -356,20 +356,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Earnings Forecast & Preview: The MSFT Stock 2023 Rally"
-    excerpt: "Our Microsoft earnings forecast and preview will cover everything from Azure's profit levels to the potential future of the Activision Blizzard merger."
-    publishedDateTime: 2023-07-20T01:54:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/microsoft-earnings-forecast-preview-msft-stock"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.cmcmarkets.com/images/microsoftearningsbakery_medium.png"
-        width: 768
-        height: 576
-        isCached: true
   - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
     publishedDateTime: 2023-07-21T14:06:00Z

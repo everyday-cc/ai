@@ -2,14 +2,14 @@
 category: news
 title: "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter"
 excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ..."
-publishedDateTime: 2023-07-13T15:23:00Z
-originalUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
-webUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+publishedDateTime: 2023-07-13T15:20:00Z
+originalUrl: "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+webUrl: "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
 type: article
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Indianapolis Star
+  domain: indystar.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "6oYTYmNH35r1cYZCocCho6aQtoCO1QjE3IGCHf8n4G2vAZQAPYc/CabNv8sqDwl0wseaIt1e3ggL4r1UvufI0qFK9eZrMzMkmlb2iEt1aj/GsU4JRMwM+sanOMlfcvxEJjlHcDrtW3n5hZpeLuUiLlGu1yhLQQhIEo5rt/6cDF2ykdguvJ5AYTO/nADjKu/lWP9QaXCvKN36hOFF3ZQnU5suC8TeEjkI9ohc6sxDsrqGIVHUJSQZpY5ks3e0GGE1i7u7bdmzCf1kt0TYWYoKOL1CK/aN5JH2Rn7mqHgCYfjvDaCLZlzfoa+32KjGKX9iwyIn9xEcFFGhw9iDwTi7FzTyARiF7G9Sy0GZnrO4qTE=;lSK2N1qqvjk5AjvH/ShjBQ=="
+secured: "ayUo/YJ1YirbiSSmBRZ/4G6RZEEhER2rDr1L2AVsBH3Is3F1DEuIfdRCQTVzw5gRaLDINL5Ei6p7BJgrE6maUAlF8qcdberW1Mr9xmx8IpU9YeTQpTSqqan3agl1gpommsG+vqQFADD6nV/6BfmZ8sLBJCaF5iVC4A70q8HI/J1LT0ODtFr70AgDSLgznYtNn1k+o9KqhMmnFE+ge2eOehUqvC3DhUn7wOT2xcaKgT87HVhu8wwpEYvkAqcfOjpgVg4qSe0w3vNNmOFOMNzC3etlSZkQ2tUn6mxXrl5FVUU41ohSyZ+nJiOQS+DxF0eZc6g27/kfx+YlypcCpg192omEXMAsIfQtSRHMVy8cY3M=;vwh2aHv4udNxlvN++/BxSQ=="
 ---
 

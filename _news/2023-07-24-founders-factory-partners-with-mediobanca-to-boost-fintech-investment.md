@@ -76,6 +76,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 2
+  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
+    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
+    publishedDateTime: 2023-07-24T12:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "lfRXZb0j9MAlrIH0Sk8mzxWpge+gm26boCL78WtnrcYIDzR6PQwHO6smrfu/ZumLUdIqVuSUz2FvIFoXhihoNVKKHgMnOL5AL4efduAw1ZucPZrc1xU2R3xiOTLVrgAfNUuQmwhyaJVX9S1rqj7+oFa4cgNScPH/oPOxvug3Gzh4IMioWJlJYn8FN2z+qWIlb+aSWq0aRG4aKU7iBd0h5rSYluXMWtfzgF96ua/8Um37TUgn6mIlmH5fIVW/S1Rl4eNgGHJmls8opVfMOIPrItMi3wg5f/dSIwpeu6EZPgcFONOf0eC2g2kKaVP+kuJyx8ePN7a+Bi1L3WnnB1c8yQIj4oV5Lf9yGkCod4Biw5tzcIyzEXRGj7YBx7Hvfl6OM1S+wo2Q63o+z00lpOicQMblQyiHdTHisU8QUWE1v8/Xk0jXRVSZfVDKBqJJEDjBcSGH+f+YrmBmD44F6vt7zW9Q45atttJvH/S2RBBf1UVhlNRnGjbbwKzyrK74uhRwE9V1nbSRoR20EgzKGDknRA==;SR2H6xcctomPRgoEUoYRug=="
 ---

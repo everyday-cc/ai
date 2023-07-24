@@ -84,6 +84,15 @@ related:
         width: 662
         height: 434
         isCached: true
+  - title: "How AI Is Revolutionizing The Role Of The Business Analyst"
+    excerpt: "Cyborgs aside, we're in such an innovation moment for business analysts. Here are three ways AI is resulting in a profound shift in the role of analysts and what this means for businesses that want to do more with AI."
+    publishedDateTime: 2023-07-24T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/how-ai-is-revolutionizing-the-role-of-the-business-analyst/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "qV0TL+WX/qbqFzHHxv2T/ylRc5X/l6Ht5IlmUQQzRiRsp57ijPvmRjWw10N2jhaIYg9YRFFdKaKoQyr7H1DOdERVoOXuGBOkx+2jNmJFnL/ZKYxye5HYe99tNtFqc/R9npjGtM1+4s4i4JYlwVGfEAyLON4REHUg7VQk/wrDhNU+CH4aITly2X5UtI/sa6s4kwKT4Y5rKdxsnf82OS73fRB4XNoH3cujoAEk5UQotRDdH+xGZIh+2Y8WhNfDa+IZlwrBuC7SNQusPhefxgul64YdNobsPQKPAWdQ3TkxhOTXQ9aHPsChYFtDEo58qH6ieLPEySPa0h2koXITAk6NHzmRnIWaXhcxOzioLrXCcTJ155OHWhjnHMAkETFAPvAfZlRrjXYrHpyN6+7NptbtDFMjHEU1BBjAvo0SB11V7yQC9WfPXwa8mSCXAyXucXLtfVLEI1HXsovCGfiRujjhFgQeF4Rev0qIHiASHMrb2eOysaFpOM4RpjNo3HfIghJ5OiBQ4sHxVkugdSMkGe/aMA==;fwl9ElmoSD3rMhXkAKgo0w=="
 ---

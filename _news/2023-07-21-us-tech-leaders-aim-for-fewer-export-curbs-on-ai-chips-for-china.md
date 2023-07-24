@@ -7,8 +7,8 @@ originalUrl: "https://english.chosun.com/site/data/html_dir/2023/07/21/202307210
 webUrl: "https://english.chosun.com/site/data/html_dir/2023/07/21/2023072100512.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: 조선일보
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Barbers calls for strict regulation of AI tech"
-    excerpt: "Surigao del Norte Rep. Robert Ace Barbers on Sunday  urged policy-makers in the legislative and the executive branches to urgently"
-    publishedDateTime: 2023-07-23T14:11:00Z
-    webUrl: "https://manilastandard.net/news/national/314352833/barbers-calls-for-strict-regulation-of-ai-tech.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 39
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2021/03/9c4da_barbers-robert-ace.jpg"
-        width: 450
-        height: 302
-        isCached: true
   - title: "China urges Japan not to disrupt chip industry after technology curbs take effect"
     excerpt: "China’s government has appealed to Japan not to disrupt the semiconductor industry after Japanese curbs on exports of chip-making technology took effect, adding to technology restrictions Washington and its allies on security grounds have imposed on Beijing on security grounds."
     publishedDateTime: 2023-07-24T09:51:00Z

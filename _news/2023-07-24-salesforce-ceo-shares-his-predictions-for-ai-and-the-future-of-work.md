@@ -27,6 +27,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
+  - title: "Changing customer needs, AI, automation, and security key to shifting business priorities: Salesforce State of IT report"
+    excerpt: "Salesforce’s new State of IT Report, released last week, highlights the key priorities and pain points of businesses, based on a survey of over 4000 IT leaders worldwide, including 200 in Canada. The"
+    publishedDateTime: 2023-07-24T18:07:00Z
+    webUrl: "https://www.itworldcanada.com/article/changing-customer-needs-ai-automation-and-security-key-to-shifting-business-priorities-salesforce-state-of-it-report/543380"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 11
 
 secured: "jK75Ki7T27a2HxNdGlS1AExsWOzUJVemI7b8WvUaf5w9HeO62f3r+zmjk+Hn3NS/DUL2ctFOKt39jBXWdTSHXV3kiSCEXbXgg4leUP3izIXzBSTrf2iOTKp1fBPJSsdvfaK0i1YR+jbJ68qI0ogHd3PxzRyWQbdptoaF+7yccHqolBMyq02GgMQnEGMV7DjMIt55iy12zxPbAbovUcL63FJOyEiZ5P/kS9E5DwcpLwVY1HUNHkLfZsTIvs9odT+sRR6WKzrITqn08XjhwXAQQJxOTDEb4cmZZKv4cW0CmEL5k7N2xYgjSOzx0DyGZgrbZCPO/O4zuquq5iJSf3eu7saZM7oTQGYRFu6gii0J76Y7s4/c4j2j4ZkmYKYl7EeSq7ahOSak5jhaYrfnOHZWibzbhTfWezaezsXBr4o6hr97n+n3qynTD/qmphE3Ew4caZbFSJIIZhRwDsYSrzXof/jgkuRMx9PuKJxa9KVGxyUW+TrYgkKHlSXFhapmkovWQoL6yecSq69R6Rbjglh21Q==;l78/TkdCW0t+cq0iBji0yg=="
 ---

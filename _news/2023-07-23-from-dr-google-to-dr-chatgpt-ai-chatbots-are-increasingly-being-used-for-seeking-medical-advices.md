@@ -67,22 +67,6 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Apple has an AI chatbot up its sleeve: report"
-    excerpt: "As Microsoft and Alphabet duke it out in the world of AI chatbots, Apple may harbor dreams of getting into the game as well."
-    publishedDateTime: 2023-07-20T02:51:00Z
-    webUrl: "https://www.marketwatch.com/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/apple-has-an-ai-chatbot-up-its-sleeve-report-60cc9367"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://images.mktw.net/im-810056/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Please Stop Asking Chatbots for Love Advice"
     excerpt: "We get it, relationships are hard. But asking ChatGPT how to do emotions is not going to work. Here are some better ideas."
     publishedDateTime: 2023-07-22T11:00:00Z
@@ -264,6 +248,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
+    excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"
+    publishedDateTime: 2023-07-24T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/2383850-gpt-4-is-the-ai-behind-chatgpt-getting-worse/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
 
 secured: "VI8flfmAHn2Zfrd1qp2+J60ZOgAgMUdp/X3FajeynBVVW4rNKLFhyfmiPuqaR2zGw3VgRJ1pYUBdR6GEAYbxGb4gPTFeYotw6GLWxc/lzTRaXtfoI1f0Vo6OyfD9p4qG8xPNCsKTgQBSSsi/boLVgDfePVRjqgziTwXm1pEsu+5lMatEMet6rc98mL8iyLPIfnExFa0NoEhoMDofbBwSpf1qTOs6jXyndfiXwOjPUeH++gIjdKLEQxC44XROnuPfM2GGeeJfR6zkx/3EleuWs4llWhcmFFm9gktFufh+xaYfWf4/jqWtxuF9tqm5N97j2x5Jv+TYumbAzCvp95YpHFfBr16u8cC9liM7bocfHNiabC4EIr4kI8FTi+nYmloQYKy11pj7uO8kB5qAmGI6OygK4E3uilYWBzwjk6en40WUBCl5+SAvo+iHgnlnFTgkjjXdt3XNN2ReLn3IrGZ9lBpFGCTtFX+5EQTLh5TepRsfN+BOHoCpYXnhhViUTA23qkvaPeHxBPZNlZUvxEXPOQ==;DjRl6wk1pDARorcz+F4vHQ=="
 ---

@@ -42,6 +42,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI investment is booming. How much is hype?"
+    excerpt: "The investment into Mistral AI is just one of many this year by venture capitalists jostling for a seat aboard the AI rocketship. In the first six months of 2023, they plowed $15.2 billion into generative AI companies globally, according to Pitchbook data."
+    publishedDateTime: 2023-07-23T20:20:00Z
+    webUrl: "https://www.wicz.com/story/49235901/ai-investment-is-booming-how-much-is-hype"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 17
 
 secured: "RXwLHRyMnXH8wBZu9KhEKUkef8VWgGdCvcGfxDfuaja/qH1osiIhu2K6ZMJolLqD09Op7E12tJB57WqByICnYP0BM+0VKh2atmRI/YETNfuJMJQsoolj+xZ4cTKb+T95TiHbEyTbXUVLj1HhzL5zlLYxW1yc9NyTfNJILnTutE97KAig0KsBfN/54Y+3wCrT8uvGAPhQMVcX8Cn2fnx56cwOuDeqy0Dzu2SpKz2Q4QJqPhh2UVhH+IuUtgpw2sLXuZOv9q9PqGQmCwN3Wh/SCPiBDPqXIzPHkgfOJ9LbDfhQuoqKa+HQjWEYrRA2+yYWJPx6byPS4HgHeqgA8Dni6v/e6TMwSZ8Fx2/d8DTh6z6sHZvvcbe3c9bLyID8eS9neJA6ZzOIsKwUnh8CNSh0Pdq1AZL5q3bZv8SdmOm3ozA8jgV7Ip3x2/w6CYrrdYLA40yMnM4yEWKQlwLEBd5ElC/arXKPa5DQJIVERlauTv9seSpo/R4UXb2Yquz4C1J3QcBOTsL3tynEqpiJOa2zZg==;+KNr+cUiP5zKyumzQAYqnw=="
 ---

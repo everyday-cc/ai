@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-24T12:13:00Z
 originalUrl: "https://startup.outlookindia.com/sector/saas/northern-arc-s-ml-analytical-tool-nuscore-to-aid-pahal-financial-services-underwriting-news-8966"
 webUrl: "https://startup.outlookindia.com/sector/saas/northern-arc-s-ml-analytical-tool-nuscore-to-aid-pahal-financial-services-underwriting-news-8966"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1690200806.jpg?utm_source=fb"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "NuScore to aid Pahal Financial Services underwriting"
@@ -37,6 +43,6 @@ related:
         height: 579
         isCached: true
 
-secured: "aPaWkkCvh8Wenxb+gjSwX0KA5QT2eFIVXUPdPt/CFwMbhtNkMDyKEQnaTFlWdvVi2f2CckTkH2eTIFGsOglv5aPNDcKTsaPjoGaxIm5j4EI7nmOB+m3CfpBOUkdoM8WAOtibj/t2Q94Ead/WBUa7XKvPi5tksyQyzxTEynrbYENTe3sC2lPemJQE36Pg7tXIMiTKXNXsMXd5eU49UVm9Ke+0EvKpPe+UDnCU7e9UFUTfn4gP9QMBApgC+iyV35Kptrdz0s6yH6iGQCxZe2uDhi+IKn3i3Xh3ePwQXpq3MjAlnJn5qAtYHhQ7PdoFUa+2YfCNx49rgksFKvLaaMw2XEUuZLziAxQ53fFmZcr95/k=;AplEpFz16rQB+4iiSWpxew=="
+secured: "3g2mY3ZhUNcz6smIkNKUarsh0bHKs7xSEQCy3QSaHV/qawX173oYZzsD5+9AbUhi/RxXcS9Tz6NYfhd8whVCja3ku4zbmP+O8YnulL55m+ZKHiunV20T5vSTwGp+SgCAA4Nn2LdLDQbl9Z3OY58XIclp43GvaWM8aROpBrXgMiXmd2nVPMS9LMcf6E263rTUCyBivNqOMpejBjVbRbEIC4b+hP4GHRq4oWRsKq52rHIJYwpwwZ3B6a9pG5VndukDDQ2+LP/R/GVzzP63yREoKkg781zY2JdzSkgw9XmagerJ9hvnSku3yYIKPzzTH/NpEY8lFgvxRbVJyej53OXrIyoTGl/el6if9OIFhnVz7xA=;a/mbQQDy2ZcEM0p0VAMuLg=="
 ---
 

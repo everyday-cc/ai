@@ -26,6 +26,17 @@ images:
     height: 688
     isCached: true
 
+related:
+  - title: "St. Vrain Valley Innovation Center STEM Camps Focus on AI"
+    excerpt: "(TNS) — Students at St. Vrain Valley's Innovation Center got a hands-on lesson this week in artificial intelligence as they learned to program a DeepRacer self-driving car, then tested them on a large track. \"You learn by doing,\" said Dominic Herrera ..."
+    publishedDateTime: 2023-07-24T18:09:00Z
+    webUrl: "https://www.govtech.com/education/k-12/st-vrain-valley-innovation-center-stem-camps-focus-on-ai"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 21
+
 secured: "l80JJlzY4psP3hOVUfqO30D5ycDaibyL6pXD/jIb4DGaWsk0USbR0aTHXMffXZkzoKuhOXncEmDnhUFJNaa9HVgT2kxPeVpWXvDNE6PHcuBuLKDJ+3K8UDi1oaTkvWzs+FQP8dI9adcc5Dy6Y1o4lkP1dpeFER3rJCQT4NTGZHxxqsWKNXgYijmKKaksiyfD7CNwfCnevBe5B+aEbiKSc4TgXEP/fVFikmEiVOWkDyPuz/PGn6cUi424W0Yotqh26o+XAOSED4lUR34OsI4Oxn7kuGe0jZ0Gzy1Q+BiNlpPSn1ywrB8kavnZGaONqQNztIzqLY7LpnSx5PmCqI6mKUTNxh5IZeK1ZoglYp5uPmZGyOOjZ0RtTm2Z3gLFuuwDO9LLhoTjfbECA9GwVunBFl4HiE3aRNnyThxNHcd+C5aPITi42JrCdQ2BgAAFKR+wf6mbbIjP1oEKCd0OZdCvqm3GqTJy10cH/bPCao98Rk0SnbJD5M1uUfDb2SjGQ65BxgcpqqU8LItbOmjw3C/1Rw==;2qnjF21NsjdxV4pzGWKBvA=="
 ---
 

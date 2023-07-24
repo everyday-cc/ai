@@ -25,21 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "How license plate recognition helps law enforcement"
-    excerpt: "Rekor Chief Science Officer Matt Hill discusses the many benefits of license plate recognition (LPR) technology and how it is changing the face of law enforcement today."
-    publishedDateTime: 2023-07-23T02:24:00Z
-    webUrl: "https://www.foxnews.com/video/6331685429112"
+  - title: "Individual whales, dolphins identified using facial recognition tech"
+    excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
+    publishedDateTime: 2023-07-23T16:00:00Z
+    webUrl: "https://mauinow.com/2023/07/23/individual-whales-dolphins-identified-using-facial-recognition-tech/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 54
+      name: Maui Now
+      domain: mauinow.com
+    quality: 39
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffbbec2f-0254-4ef7-8706-85a88d1068f5/3a2e73fd-8bf0-4a90-897a-9a2783ce7611/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+      - url: "https://media.mauinow.com/file/mauinow/2023/07/dolphin-1024x576.jpg"
         width: 1024
-        height: 512
+        height: 576
         isCached: true
+  - title: "The ESRB wants to start using facial recognition to check people's ages"
+    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
+    publishedDateTime: 2023-07-24T21:52:00Z
+    webUrl: "https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TikToker's Facial Recognition Video Goes Viral, Raises Questions"
+    excerpt: "The video was originally taken in 2020, but has recently made the rounds on social media again as people discuss the pros and cons of facial recognition technology."
+    publishedDateTime: 2023-07-24T19:19:00Z
+    webUrl: "https://www.thestreet.com/technology/tiktokers-facial-recognition-video-goes-viral-raises-questions"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
 
-secured: "Nb5Ox3QTLd1k40RBTWpPYwcsOBoJO6z/4HjkWA166cCZJ708A5rTxKDFF+1rYHMLekPJJjQBmIWFRhGfnJVNqmS0zPLJFxQ4R4rVt2hHPCc6LijtZjWmPTFdXFy7+vRjiLKU5aHxHfeDxJVkn2Ym6FkJw5XAwPZxs/Tyecnv9vjT6pY/g+eTIaa9hyxsebhh3ZOSDg1XSFqIy6pCl8JH/uynkRi2cjdUBZCEbufy9Uo53i3YYMLmzmuIswiHxnofJ9FpQcqqCPJ0tT7eFdKOh6Mul/bgY33+lQn80E2XQGc4XqugE3A1WH40ANwl3iUX9UouMQ5ExgCJCUp+XM8DiilI+ZAS8Ol/6nO+xPgynFo=;RPT5+hi0ZVzK6Ghpl1xapg=="
+secured: "rHxonwtcyDuQnzsUFqaUdO6s7HY/oiTJZuOej+3mRqak5Zr7lnsoSfUyERv6lLvkeQLGSTo2pon6KBXX/Hw2VHA6mE39fUhd3dKyh9gEyZvchEOynQBF3+HHFvb+xoUwdFU40aOU0qRXqpi0seQZ/jhDS/Xjan1iSriKwHUW8vMI6qdEhQj2NvS8Xym7mBOqNDpKRqr3sxYHwRbLkETnpFsB99Mw8//i7awL50EBBZLlQwdKD9lZINjppj5kBsE2qhhNf0cpMIbiEwSCGCf1cPty0kYBUkxDELulyEZusCnAH716065O8t9qEOMyn3ht1p5aWG3La0XDevPp/LbBvvDGb/FQ855b+XcOtGLGOXxJvGonspS4w4qBUqU7AbdexoxSl2adCtP7ib1GjWhOfgMJUktMWdXSvzGkazAVLcWoRQ2GT6Kht5pTBC+HAxkHn8lLMHAiNjM6n+aAYCIuwr5qinuiZcyeUYGK473nyXZ31qdZRSWncsjHI4GrLmr6h9POOm7h44rd2gry3z9s+w==;ut4A5Y8Bkpd6widFLhn5sQ=="
 ---
 

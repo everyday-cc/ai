@@ -57,6 +57,20 @@ related:
         width: 1103
         height: 630
         isCached: true
+  - title: "How Patsnap used GPT-2 inference on Amazon SageMaker with low latency and cost"
+    excerpt: "This blog post was co-authored, and includes an introduction, by Zilong Bai, senior natural language processing engineer at Patsnap. You’re likely familiar with the autocomplete suggestion feature when you search for something on Google or Amazon. Although the search terms in these scenarios are pretty"
+    publishedDateTime: 2023-07-24T21:23:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-patsnap-used-gpt-2-inference-on-amazon-sagemaker-with-low-latency-and-cost/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/patsnap-gpt-2.jpg"
+        width: 1022
+        height: 511
+        isCached: true
 
 secured: "vlpwgftS3qM0WU414NONB+8aDtzchHCnYqpfVLfyzpEMBiHhmRYyVFJXeqh82iI8tbTCDZ74qWO4XBnRJ41dnhjcEpl41TwejJrFCsM0WYitI89wGrz/HzWgxq4CkNJUuGaLbFMdhEIIpmg2Nwr8bMEGiIKiVaZkhBNEg8UzwQSI81U92tI+rtpz36tL3fu4qll0I0BXFMe4flYC8Ip2yC48hKK9E06Dv+J3cYOh0GoWcWyxFBtwXEW/gDJWxVOh+s0qwOsmv5tbYXrfQwBG4GYv2C0+OsOtJ/iWmQ+6++dcrs3jMKhMDAMANNUFaFt0qd0MnAIZAgo0AP9t1MYhRLjK3ZhZ80oCc1g40oa6hTk=;10XWGVpjOTmn4ao2zq+ZVg=="
 ---

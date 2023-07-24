@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Growth Lifts Quanta’s Barry Lam To No. 1 Among Taiwan’s Richest"
-    excerpt: "Lam, who founded Quanta in 1988 when Taiwan was disparagingly known as a “clone kingdom” for IBM PC knockoffs, was worth $9.2 billion on the list yesterday, compared with $5.6 billion on the 2023 Forbes Taiwan Rich List published in April. Lam has topped Zhang Congyuan, who at No. 2 has a fortune worth $7.7 billion."
-    publishedDateTime: 2023-07-20T04:01:00Z
-    webUrl: "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/"
-    ampWebUrl: "https://www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/07/20/ai-growth-lifts-quantas-barry-lam-to-no-1-among-taiwans-richest/amp/"
+  - title: "Taiwan’s export orders slump for 10th straight month in June, Taipei pins hopes on AI demand"
+    excerpt: "Taiwan’s export orders fell by 24.9 per cent from a year ago in June, but Taipei expects improvements in the second half of the year due to the growing demand for its artificial intelligence (AI) supply chain."
+    publishedDateTime: 2023-07-20T09:07:00Z
+    webUrl: "https://www.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand"
+    ampWebUrl: "https://amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: scmp.com
+      domain: scmp.com
+    quality: 78
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b8ac1a5e5cca27155b79a0/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/725e7390-60ec-4ffa-944b-870aa0763028_b12c76bf.jpg?itok=CjjUwRdf&v=1689843987"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
 
 secured: "TfxCY7lnF7r2XwgOZpZsjFCbMw5O9ZeVZVoBy5LCNvAAUZNQlGWUqAZe2r3ptzzCRh1cWWR2FpSEoTxUYu3kJpjvarWRR9TcF14HtgdDxmfC4zThIga/VeAqIMxk4mX/mbF88aj7Zg+4plKJ86XZiEZGUB9CmEwLpWPSu5DFrLSvxVT1CiMrCNHK6rV6p5cyvcNaG+wYNUCnwMQiGI+Z4/XrnPdZwEV0QLoeVZHghCUgY/hxHFNo0sXEYv9F1Uiwa83mbQBoT7hFowfSTHNnFnekjHU2BW93syE4eFVsJ0Y8zneib5UDeLE640A1e00xhYmUQo+nPEMp3uNUWEH4wNH1yuBz7yL+HGSqKFuc/UQ=;Y+BHjHYofGE8CzvHaL35Gg=="

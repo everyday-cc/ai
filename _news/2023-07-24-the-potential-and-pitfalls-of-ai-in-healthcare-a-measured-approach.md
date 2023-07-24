@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/1/c4/1c4dbbc1-d712-5c59-b631-c5533929e7db/64b95fb24f420.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Medical Robots Market in Healthcare: Unveiling the US$ 63.7 Billion Potential by 2032 | FMI Study"
-    excerpt: "In recent years, the field of healthcare has experienced a transformative revolution, with cutting-edge technologies reshaping the way medical services are delivered. Among the most ground breaking innovations are medical robots – sophisticated machines that are changing the face of medicine."
-    publishedDateTime: 2023-07-20T04:17:00Z
-    webUrl: "https://www.fmiblog.com/2023/07/20/the-medical-robots-market-in-healthcare-unveiling-the-us-63-7-billion-potential-by-2032-fmi-study/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 24
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Medical-Robots-Market.jpg"
-        width: 626
-        height: 626
         isCached: true
   - title: "Bills of the week: Medicare and weight-loss drugs, AI in health care"
     excerpt: "1. The Treat and Reduce Obesity Act was reintroduced Thursday. The bill would allow Medicare to cover obesity treatments, including weight-loss medications that are FDA-approved. The bipartisan bill is sponsored by Sens. Tom Carper and Bill Cassidy and Reps. Brad Wenstrup and Raul Ruiz."

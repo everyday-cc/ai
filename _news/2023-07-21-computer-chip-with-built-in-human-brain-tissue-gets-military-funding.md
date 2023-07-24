@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/computers/human-brain-chip-ai/"
 webUrl: "https://newatlas.com/computers/human-brain-chip-ai/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "New AI chip that uses human brain tissue just got military funding"
+    excerpt: "An AI chip with mouse and human brain in it has received military funding and could see more widespread adoption soon."
+    publishedDateTime: 2023-07-24T21:13:00Z
+    webUrl: "https://bgr.com/science/new-ai-chip-that-uses-human-brain-tissue-just-got-military-funding/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/07/AdobeStock_165717610.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "Scientists fuse brain cells with computer chips to create cyborg AI, in government-funded research at Monash University."
     excerpt: "The federal government is paying scientists to fuse brain cells with computer chips to create “cyborg’’ technology with potential military or spy uses, despite top scientists demanding controls over artificial intelligence (AI)."
     publishedDateTime: 2023-07-21T17:58:00Z

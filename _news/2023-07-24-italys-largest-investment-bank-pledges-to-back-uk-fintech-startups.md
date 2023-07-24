@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges
 webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 2
+  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
+    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
+    publishedDateTime: 2023-07-24T12:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "HQYOqLV0hnUT3rkkVPw61NJnK08NHl591JeTbqAQTHwQAA2RrkuvjnLNEtJybCCnVQMlgIXInHTFLZ62ZEBebAZnStC1E72de528thW2bzc0+PssyG0Y+JWuu+57kNPFTt9P7cDSbMQdgEmfVZhLrFNr0gzS44+1GoOa6qd76iZ/5tk74zKLPKCm8U5cbQHa0X8ePb+NdPsMcOhlFFJyNg6FyBayh+7iaDUFIFTfbCDwtcYjviWFEo6gvuXHrr7fYn9ybSquoUuo0X5w6nII0VibYjsKXkFh03yx66HlHKOwfM9y+QLJJ119yw6h8C/amYupRtw8p+QLXFARCRSLrtiWJhvVgBEFMdqZhZRI+mncOAPkW3FDr6L4GTJVzhlDGKi9jOL+L9uVok57BEZaHysP3T4raU2OCD9h1+Kr+2apFS9/YPss6394ax802hKD1xCSPpdhYF/+rU2Gzh8KX2TV5Iw+dNBzFUL+K56ES1eGkFooZ7DLabhx/TA+DTJHAumUyibzykrDqljG7CzCNA==;AaVOYfI8ec6m8V+LY3Wsqg=="
 ---

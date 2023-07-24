@@ -39,20 +39,6 @@ related:
         width: 700
         height: 379
         isCached: true
-  - title: "Barbers calls for strict regulation of AI tech"
-    excerpt: "Surigao del Norte Rep. Robert Ace Barbers on Sunday  urged policy-makers in the legislative and the executive branches to urgently"
-    publishedDateTime: 2023-07-23T14:11:00Z
-    webUrl: "https://manilastandard.net/news/national/314352833/barbers-calls-for-strict-regulation-of-ai-tech.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 39
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2021/03/9c4da_barbers-robert-ace.jpg"
-        width: 450
-        height: 302
-        isCached: true
 
 secured: "mIhwA+0dXmpjw8lRfvZPsroLSHGEHzINaRb9yo6VCq9p055+KdcGrDB3UGWZO6vWpwnSVe+B/SadRY8UbElvbjikSdSxiouxk5qViTPYZYmL5ETiEKD3nKYILJ4hd/Rm7O+JOIUrn//yrdVukwg3Hx1E+QQImiiRhHQH7VFz3mnYvQTfJpBGcaQDZ+fkrBu2BwLFegab88P95B2VvfyF/frsMGynW4IkLBNP9jD2rGFiCee2Bhqyt350edZWsD/LwC/kVomrvXWBkxiO7w4hfmbbtmUCO2xZRGpLor0+aOGe1fysR+x63BWGlwOf4+I7AoFG006YDaXZ6ZWFU7O8SXFMn7/KrqCCcfo0QPm5rgE=;94wmwZJkYySEujNT8lRzlg=="
 ---

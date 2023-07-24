@@ -348,20 +348,6 @@ related:
         width: 1068
         height: 712
         isCached: true
-  - title: "Microsoft Earnings Forecast & Preview: The MSFT Stock 2023 Rally"
-    excerpt: "Our Microsoft earnings forecast and preview will cover everything from Azure's profit levels to the potential future of the Activision Blizzard merger."
-    publishedDateTime: 2023-07-20T01:54:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/microsoft-earnings-forecast-preview-msft-stock"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.cmcmarkets.com/images/microsoftearningsbakery_medium.png"
-        width: 768
-        height: 576
-        isCached: true
   - title: "Microsoft to get 'golden 1-2 punch' from cloud, AI, Wedbush says"
     excerpt: "Microsoft (MSFT) is slated to report fiscal fourth-quarter results on Tuesday and Wedbush Securities believes the tech giant will get a boost from the cloud and AI. Read for more."
     publishedDateTime: 2023-07-24T12:14:00Z

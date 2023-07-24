@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Independent Ada Lovelace Institute Asks UK Government to Firm up AI Regulation Proposals"
+    excerpt: "While the United Nations hashes out regulations, the UK’s ‘context-based’ approach is intended to spur innovation but may cause uncertainty in the industry."
+    publishedDateTime: 2023-07-24T21:49:00Z
+    webUrl: "https://www.techrepublic.com/article/generative-ai-uk-regulation/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 60
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062223-featuredimage-lenovo-extending-ai-ready-infrastructure.jpeg"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "This Is Why Global Governments Are Scrambling To Regulate Artificial Intelligence"
     excerpt: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence The United Nation's Secretary-General Antonio Guterres just war"
     publishedDateTime: 2023-07-24T17:10:00Z

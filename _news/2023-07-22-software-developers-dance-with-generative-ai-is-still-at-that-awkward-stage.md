@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
+    excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
+    publishedDateTime: 2023-07-24T19:56:00Z
+    webUrl: "https://www.crn.com/news/software/intel-seeks-to-win-over-ai-developers-with-open-source-reference-kits"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0283-18921cb6c571-03fcb9b1f615-1000/1630383708197.jpeg"
+        width: 251
+        height: 251
+        isCached: true
 
 secured: "j+z2W3jdet2sDRQVzIS8IpmMT48H9OhPJ9LBIee1VCdoUMSn53igrt8LlIHrR9FejxN3VwQcKeg9naWvWAHhsAw9LJyOQHdKbe0e35YZfxFTp6YnB5+XUOPXe64p2lM6w3S86qDSt5I6Uz+NPJndXqKAf3rMkQ9IbVpmWiYY9wJztNdw6+jcKF77XXRt9cVARa9ZumrZEbWWAu+1ZyocdN/DSotl99WmkfuZIdyL1qSFWMc0IpMMo8sYBx+A0xNHJhfvr8qQPxkXRRpX1s0kw1cHVcAb887FNQd/b6KYoLro1r20ju0sTmT6s5CUUiS8psHbO8zT7fq8adgbd3241zkazC6EB+5Dm/10fxaoaOPrcuffCLt1pDiCLxVMzTwwHb2FfxxlgOwsV7EjoVVrv3OBEUGOYadFfOXonMvs/Namas9UrGoKL8wJnc1XhWMunx0LS4nR4qa4m4ogyOoSJCfhWCb2NaV6qrP3Zyv87/MAvJRDsJLC/8q1pGqD4T6H791hRksonLOdp56MbDpQIA==;e7aFm59QEZxA1z6iRHDIDw=="
 ---

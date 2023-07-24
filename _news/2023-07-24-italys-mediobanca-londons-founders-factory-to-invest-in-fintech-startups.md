@@ -75,6 +75,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
+    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
+    publishedDateTime: 2023-07-24T12:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "qYWgAtdCFLBiK8ZgNKMoNVYQZHtSVUhhBhbRIKX3+OEB3ALM1MDBTV6Pqo0pSFYFoqSXiQIPDWh+TMAilU+gAUuo+yT8K1MaFaqy2H/aP6DXIGlKWUn7DDlJ2DZ0/594gS5WfaiueQL8LOmxALilH0We1VKkkvU3jfS2wWy5ndkVVPJxWqTH0GJgszQhLHkBKg3GFIkbBvMD12YTlS3Nm6TrP2JP0EP4gj3Qzrnc42TJjxCb8VXo1YOh3nGVvvMiKR5jmNnpPgVF7KxFkZ0yX1H/ZIYLU3wtbOHqNtUTQSlFW8q2RUJkmb+gFyh6+K6TxTYc4I4T2NTtgmMXSLwTRcTK98to+wNBxo31hGy96jw45VJxmhBj601Tc7M37M5soFYuIzOWc0GlWCt667Z3gJG/nHqoAfmhlDFDQ2hRxloOZmsu6Wu1dXjKtAbUMHzU6blJjeLuR6tzxSD4yddiUDU7rTSuYPwmp3avEE2HAitSFMJraqGmnwNCLNqt1vkbbS58YXOifAA8GM3gXXPhrw==;8skcKCx+XFs8wEWUQqgyMw=="
 ---

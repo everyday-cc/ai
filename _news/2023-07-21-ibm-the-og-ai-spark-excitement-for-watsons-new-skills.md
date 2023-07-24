@@ -43,20 +43,6 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "IBM’s Watson rebooted as a secure AI alternative"
-    excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
-    publishedDateTime: 2023-07-20T20:51:00Z
-    webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 54
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/IBM-Watson.jpg"
-        width: 900
-        height: 568
-        isCached: true
   - title: "Is IBM the Next Hot AI Stock? This Analyst Says Watson X Software Is the Company’s Most Promising New Product In Years."
     excerpt: "On its earnings call Wednesday, the company highlighted the opportunity for Watson X, its new platform for enterprise AI applications."
     publishedDateTime: 2023-07-20T16:50:00Z
@@ -73,6 +59,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM’s Watson rebooted as a secure AI alternative"
+    excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
+    publishedDateTime: 2023-07-20T20:51:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 34
 
 secured: "1ERQPiyPPYdnZ0/7GKQRP0pLgXRvLtrf7gP1XjrL9FUVCi4E8ONV/RmwQIID6j+sHwEiNbLcc2I+YUba40ONkI4r6qkQAc0IyEkObw9LywnWH6VVIwMP+4Z0En/SJlUlSaRF0rbwJy/ATZ4tbz1hGaqCh42jD82+63g6cT1sbP+UWuaLhcxgdG2/m2SpDgvZOrazarF1zbDqFtFDf2FNYwvuGBMgBmg95wPmvKsvsssZ/S6mHMSiJJ1hOj07KGv1KEbEz2mYTs2wALAncbWx4kpdM0FXjjoGjpwVbiiQ3/sE3aNe08fut875TZThC5FbCaIgy5DMixB7cnIfNplRXbOyjD0ZwsSt7rdhhOy6e9g=;p/KU4Or4xxSx+aFi4M5goA=="
 ---

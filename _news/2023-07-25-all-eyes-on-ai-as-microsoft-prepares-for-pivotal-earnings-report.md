@@ -352,20 +352,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Earnings Forecast & Preview: The MSFT Stock 2023 Rally"
-    excerpt: "Our Microsoft earnings forecast and preview will cover everything from Azure's profit levels to the potential future of the Activision Blizzard merger."
-    publishedDateTime: 2023-07-20T01:54:00Z
-    webUrl: "https://www.cmcmarkets.com/en-au/news-and-analysis/microsoft-earnings-forecast-preview-msft-stock"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 39
-    images:
-      - url: "https://assets.cmcmarkets.com/images/microsoftearningsbakery_medium.png"
-        width: 768
-        height: 576
-        isCached: true
   - title: "Microsoft to get 'golden 1-2 punch' from cloud, AI, Wedbush says"
     excerpt: "Microsoft (MSFT) is slated to report fiscal fourth-quarter results on Tuesday and Wedbush Securities believes the tech giant will get a boost from the cloud and AI. Read for more."
     publishedDateTime: 2023-07-24T12:14:00Z
@@ -426,6 +412,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "dzgbLj7d9g3Jzo0Mzmbzz0yjMtNa3+VrowqFsnf8Rw6QpdzJRzrtBJE4hZOD4CRtGiDvb5YIoiIiNuXK/8nE4lMSXgPr+RN0RcWis1FKKh4mxqq993rIiFtKX6DgHT+tux8AqTGViy6oMzp0k6DzaqgGGkXIyrUj5J8oPHHKifRab4m4IbwoGha4Ly216YJW3NlMc/PY78urfdInk7ZpBsLSSNL95J6UlW6M+mT54fkcyfSvmyRKHjFj+EhKrKbJ32MO6tqqe74tpoiymVhXcDEEumzRA35hGn4o4jl5h4S9EDco9ewj9xw8sUnFvYJh/w6CQscGF4nMXUDWPise37VsCb0K6yuVy3CBZM+xiYk=;CQ37GkWoJOt0dj3xHy/zgQ=="
+secured: "7su4idq2Zg6OI3E2sawIR3T6dJ2ORMNF0x70NSZcWR6FG67spduG4vlOW6wVjYxdt3+uhHwTKnkhpmlgRyD2E01DfaNrXR2n2hSw9BV+vsVKPZPokKzan+yDakeNA+VGarAnGcbIeWrzRGmhT7g9PbVAo+YW/cQciBkLLtk7eVD5DtyqDWQd+5xNqXTgKAC5v/ifEnw0D310wM+m6fYqy88NiZ8bWeeP3fuoJC8UWUV1g7HyI/dTvKgN778seuTVa+MW2P2waKbzb0gOwetk0fck2XR+vk0kLqghpGn6g0bYmMAr8V0xArJ5L4wk5BmoIWmfINquUwIvG1H/L/XaR/bPrqAYEwUDMVBKxfoaH3yNFMby5gBrwF048MSFeH3xg3CUdriqfRKGzge7YO2Ysjf1THPk/nxE2qwLnWmL6zofhB8wbmYLeQWld08eY3xx727dtq/yLGCC+/LTu1dipk3p6nUR1CZvWzRDfNVBIU/hAgGmSh2I4ewkUG8EnvC6K7m/RR7cgwFgT3vdB25Jjg==;ow8WzuezInF9vlIjett/aQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html"
 type: article
 quality: 89
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -47,7 +47,16 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI investment is booming. How much is hype?"
+    excerpt: "The investment into Mistral AI is just one of many this year by venture capitalists jostling for a seat aboard the AI rocketship. In the first six months of 2023, they plowed $15.2 billion into generative AI companies globally, according to Pitchbook data."
+    publishedDateTime: 2023-07-23T20:20:00Z
+    webUrl: "https://www.wicz.com/story/49235901/ai-investment-is-booming-how-much-is-hype"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 17
 
-secured: "uoYcILOngBBWFVq1+ZxtK7Wo+eOjzAKvCL1eCiQ9/iwm5hLiSWekBXriA0q4kzbFyWgbLLE/ctD30xtSoWXsY+fm2yEihoiygLyF1bxSrK6p9ow7Gx1Oxdz5AbHkrcWo54shOueFnt3LIRof3P+9ItA3mGhYDMlZYI/AOpQ16ZwBbgCeKMr4p7ZOO9T5oapTA5I/0mOmNNoa0X3w0/QFmSXqHQ/ceC3q3nZ9IKMfoVazmMcw0pgVN+MFUfJhnzqHw0lRt+zgLCzaqQ+Q4nThrGdKAP0DrS/lMGXuZB5K13HGPzZzjWwtXi3GOMVBZGgjdQQ+ZqgMrWrPM1PLfEQWIeA/zLb8TxiMJZ3Ljzplqzw=;J5/UELfEn2Ms5ZSmufhtDA=="
+secured: "w6Dj4+cKVZaD+FPcA3QqKqSaUSpQrUTvcTi3jWx12qr4K0nr0haFuUaclThwOSGIl/6UcEvU+BTZACaxzlBD+To+BaFOTvjH4ekZ6ynu20r9TS52DExEskmHK2SboH3q9KL9Bj/rx9OBQcXX3RsYAkCU8j6QBmu6O4NF+dSWjDrr8PQCHF2OY93ghmUQ14pcRV2gSyEhQBEjPJ8CqugqxublTBZNIfZ5Fil2WlViyxPWtZGq+qiX3EcZGGJrjRWC0eVZs+sV1tTdV5128FSrEIPohAShGkOR2rLf7E6OkXi1O3Q1iGuA5okonjQ3fj5ASEYtJ6+9ktnR9VKmIjg6o+FjTeNXcKbOOvxguMQGkHpqJL1lVQIifpmsHanFPE0R/qEemlpyUXRF8y5hdtIQSjii7CxY3//W1/5XS9Q7fEagqNH/SDJ5xsQSkvXm/YPHXLUNx997dKEfSNu0Hdm+QqPdKI9XDGrY6Duy6DxoCgCKyH2bgpgfcGrkh7m28YIkWSs31gEXcesKnxwil4uEzg==;m21ZmR0cUe/aMZVF1SpdpA=="
 ---
 

@@ -73,20 +73,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "AI in banking, payments and insurance"
-    excerpt: "Algorithms are already being used to check payment balances, detect suspicious transactions, and optimise insurance pricing"
-    publishedDateTime: 2023-07-20T04:00:00Z
-    webUrl: "https://www.ft.com/content/15ae2b65-7722-4870-8741-b0ddcd54a534"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8fad3db-cec2-47ef-805b-001af0deb12b.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "hc1MfTfUUs3CoVhTujC7VMomHNVzYXbgWqvB+YMLDIVB8ZWcqZRgq39lFsQXsAoqWHLpm9ksBT2D2fW4yJFqNEbuXpK3AUIQEZOMTeIwkV+gtnyFSZjfN1DzI9e8KSPj26RvWdXET1TCoiN7I4cSEu9Zl0/BzQUVbMCOJGpsk+cAcwTezafNtiQA+V9brmaPX13a1+GUUqOWsfINQev4qq6SpbQiXBmAeJaQm0CN7cA2xvNnO3dm5IJuLOWUuhMK4pV+oEFnvSX7As68RGxmvXrhN5CF7UDPDXCeE/8XssREKCq04P5oA1dl+THDJRtNv2bGl8UjezwPnqNytSdtBpO/UsCkCojaBSFfzX7xMa4=;kS/aZI0H4IOamoQs9wZw7Q=="
 ---
