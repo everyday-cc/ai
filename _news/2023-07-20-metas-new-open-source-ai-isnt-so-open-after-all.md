@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/meta-llama-2-ai-model-not-open-sou
 webUrl: "https://www.businessinsider.com/meta-llama-2-ai-model-not-open-source-2023-7"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,68 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Meta releases big, new open-source AI large language model"
-    excerpt: "Open-sourced by accident -- or was it? -- back in March, Meta has now officially opened up Llama-v2, its newest large language model."
-    publishedDateTime: 2023-07-19T13:14:00Z
-    webUrl: "https://www.zdnet.com/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a60ec8ab8c07738a9f253710c543fc9254cdb375/2023/07/19/fe9388c3-04db-4f20-823e-2e7c62e5d8ea/gettyimages-1452459995.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta's AI image generator says language may be all you need"
-    excerpt: "The CM3Leon program can generate high-resolution images with a fraction of the compute of approaches such as diffusion."
-    publishedDateTime: 2023-07-19T14:26:00Z
-    webUrl: "https://www.zdnet.com/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/69e5f2675fbf308fac71d7be5387b38dcb274dba/2023/07/18/3affcd0d-bf61-488f-89d4-cb09a60e6ab7/meta-2023-cm3leon-image-examples.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta unleashes AI free-for-all with release of Llama 2"
-    excerpt: "Trained on 2 trillion tokens, the open source large language model's release clears a no-cost path for research and commercial use."
-    publishedDateTime: 2023-07-19T20:39:00Z
-    webUrl: "https://www.ciodive.com/news/Meta-Llama-2-generative-AI-large-language-model/688449/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 41
-    images:
-      - url: "https://www.ciodive.com/imgproxy/xMaFRj7OzAFFlNR1XVSa-vZd6ZPrXWz2aWbi4qCknCo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL01ldGEuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
-    excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
-    publishedDateTime: 2023-07-20T00:00:00Z
-    webUrl: "https://iblnews.org/meta-open-sourced-llama-2-its-newest-generative-ai-model/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 39
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
-        width: 860
-        height: 510
-        isCached: true
 
 secured: "qeuki19ziHBFH1T9XwhsK3rXeTAXkvPWO1nL/fd3ZgICs2hGSQ51Ge/nNEXKGPXp+SGOZ4b698ttvUJsBZ1t4SlB/MHstrHJdIDzqKfLyZ/EKS53YHx8TZg5iatumhBLxxyIQxI9jip2H0ybeZ8kLf/ocgNol/U1tGh28CvGBhK4m4ThDq4fASvWtB7WuZ+6m9jAAitTirLWE+5ZKHQ5iK3rdMwtc48jlWK9Ibg2In8tlElSP3gWxN+Qu4FLICaHiLYKhQKiNoBAaw6riugbxN0pUdrfG7Ajmzq2EonR5nLBrOGK9CiR6zvYd0L6StWzRuBYN499S/50Y0Fpf4VAn/X2hwCWVv+GJcCGzjWd4RFzZ/cvQOIAtjm0Snid/SgLZpYLmM0wXiSiLoMMQrxK/Kvp0D/2vMYf3xuwjCMxsjNRnI55KXoM3YmKCUMvpYp1ZLGu2Q3h+E4iZpx/5ks2hYiusP6LcEi6tsJ/zHLD3zWd0ChuYl+LOn9WEZ3/I8F1hTHvriYECLpP7xK/4Pp3Cg==;EXS/l2nTv6QnpOJOZDWocg=="
 ---

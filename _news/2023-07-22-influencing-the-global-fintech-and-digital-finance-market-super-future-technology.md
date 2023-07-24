@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "FinTech Magazine’s Top 10 banking technology companies"
-    excerpt: "Discover FinTech Magazine's Top 10 Banking Tech companies reshaping finance globally. Find out who clinched the coveted number one spot!"
-    publishedDateTime: 2023-07-19T15:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-banking-technology-companies"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/deb69e89e1011e6ec06bcea4ac6c5a69:93e2f0c46b126e3707f823c2089083a8/gettyimages-1351571961.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
     excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"
     publishedDateTime: 2023-07-23T17:21:00Z
@@ -72,15 +58,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
-  - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
-    excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
-    publishedDateTime: 2023-07-19T13:48:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9850921.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "kw8ISDOke3B6MGF/jIPuJnTqxwf+UDnohNfEb8vfaQTnh1M+y9raN2+7/FBlquvefuI0Em0g83fcH2n9xPxohBrdISCTJ22L2U+l0gcWHPKFowwYnk2CLgzot0ENBWJ4A/292WJJ9hkvB7pruAHYrgGcfm45pyx6a39REvYP6JtUyrr34l1F61/qJeM80rbuBQtcyVupryWA1R3cwRYCabrtW+b58L9fXLzhV5TYSe4NJqDMtRmxx3Xt9VVO6Ts6pKxo6DSZGLMu6bm2a2n/u8Qg1aQqxWwdmetTegeDTYRGA3DN3OUq97iES3PiGPKQZ0sutlCa49wzweB/oRs6hi8DewSd8W/jh5eD1n7A1dM=;dyr0ephf9MnGihsiwj/B9A=="
 ---

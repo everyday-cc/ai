@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/british-political-candidate-used-ai-bu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "British political candidate uses artificial intelligence to draw up election manifesto"
-    excerpt: "An independent candidate for a U.K. Parliament has turned to artificial intelligence to come up with his campaign promises"
-    publishedDateTime: 2023-07-19T14:54:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/british-political-candidate-artificial-intelligence-draw-election-manifesto-101487611"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 9
 
 secured: "fJQf5B2LumaLRDvWuJrfx3D4YbR/RiXNTevUXmT/79FwilDRGIZ/Zp1eldtYMVohWX67kcPpTdAk10KLBrT77evJ4SGs5+yVc3HSX5gsYmkgrmGiw7ozxv/ze50IWR+Sj78jdz2K9/T3nObq0cMU0r2M0okYx3fsC4F2oMQ6uQA5QuuMaH7VEKR9VwKWmeERYvdGxQfxyOVYPXf2DwuxIbdOfSCuEp4IrTvAnH/GumVEjyUlaX6+vwvBU0Uu73hbZ0tHTcWIQL8goI1P9B3haNFlP9Mpy7N5iz9iCgcO/rBAIj+hjVgF4HXEPnQdoxrGJjl5XnF5/hojgzTpqV3ZKM8V9qo2Af7j3o3/MAE6UhQ=;ClpEQmnbFmzY7ffc5RTzxg=="
 ---

@@ -249,6 +249,22 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "Birlasoft enters into strategic collaboration with Microsoft to establish Generative AI Centre of Excellence"
+    excerpt: "The Generative AI Centre of Excellence will bring together the combined strengths of Birlasoft's industry expertise and Microsoft Azure OpenAI Service."
+    publishedDateTime: 2023-07-24T06:56:00Z
+    webUrl: "https://www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/"
+    ampWebUrl: "https://www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/birlasoft-enters-into-strategic-collaboration-with-microsoft-to-establish-generative-ai-centre-of-excellence/3184263/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 55
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-24T081849.021.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft's Copilot has Wall Street more bullish on AI prospects"
     excerpt: "Microsoft's Copilot pricing has analysts across Wall Street boosting their projections for the stocks performance over the next 12 months."
     publishedDateTime: 2023-07-19T20:03:00Z
@@ -390,24 +406,6 @@ related:
         width: 768
         height: 576
         isCached: true
-  - title: "Meta launches its AI counter to ChatGPT, Bard in Microsoft partnership"
-    excerpt: "Meta CEO Mark Zuckerberg says the company is partnering with Microsoft to introduce the next generation of its AI large language model and making the technology, known as Llama 2, free for research and commercial use."
-    publishedDateTime: 2023-07-19T13:24:00Z
-    webUrl: "https://wraltechwire.com/2023/07/19/meta-launches-its-ai-counter-to-chatgpt-bard-in-microsoft-partnership/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 36
-  - title: "Microsoft partners with Capgemini and Splunk to drive AI and cloud innovation"
-    excerpt: "In an announcement by Capgemini, Microsoft and Capgemini introduced the Azure Intelligent App Factory, a solution to revolutionize business intelligence"
-    publishedDateTime: 2023-07-19T13:35:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-partners-with-capgemini-and-splunk-to-drive-ai-and-cloud-innovation/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 31
   - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
     publishedDateTime: 2023-07-21T14:06:00Z

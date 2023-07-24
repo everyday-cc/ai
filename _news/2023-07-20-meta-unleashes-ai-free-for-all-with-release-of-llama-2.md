@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/Meta-Llama-2-generative-AI-large-lang
 webUrl: "https://www.ciodive.com/news/Meta-Llama-2-generative-AI-large-language-model/688449/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,63 +24,6 @@ images:
     width: 770
     height: 435
     isCached: true
-
-related:
-  - title: "Meta releases big, new open-source AI large language model"
-    excerpt: "Open-sourced by accident -- or was it? -- back in March, Meta has now officially opened up Llama-v2, its newest large language model."
-    publishedDateTime: 2023-07-19T13:14:00Z
-    webUrl: "https://www.zdnet.com/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a60ec8ab8c07738a9f253710c543fc9254cdb375/2023/07/19/fe9388c3-04db-4f20-823e-2e7c62e5d8ea/gettyimages-1452459995.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta's AI image generator says language may be all you need"
-    excerpt: "The CM3Leon program can generate high-resolution images with a fraction of the compute of approaches such as diffusion."
-    publishedDateTime: 2023-07-19T14:26:00Z
-    webUrl: "https://www.zdnet.com/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/69e5f2675fbf308fac71d7be5387b38dcb274dba/2023/07/18/3affcd0d-bf61-488f-89d4-cb09a60e6ab7/meta-2023-cm3leon-image-examples.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta's new 'open source' AI isn't so open after all"
-    excerpt: "Meta describes its Llama 2 AI model as open source despite restrictions on use. This does not follow official open source standards."
-    publishedDateTime: 2023-07-19T17:55:00Z
-    webUrl: "https://www.businessinsider.com/meta-llama-2-ai-model-not-open-source-2023-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
-    excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
-    publishedDateTime: 2023-07-20T00:00:00Z
-    webUrl: "https://iblnews.org/meta-open-sourced-llama-2-its-newest-generative-ai-model/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 39
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
-        width: 860
-        height: 510
-        isCached: true
 
 secured: "DmIkYlwmYIFhVk77sQE/BM20+d+ZdGa0ahOJI7k0bvN4O13GfagSV+Cg1ZWvBXRH+UcBaS0y3eiqfmdWt5Uu4+2yXgMSsn7dEY/9Rc42lLSA/pV9/zTfh2zqwQMOELfSi5HFINvPJ+hSfVQXIW6xeVzK5PS4ZVoUaw+eKFISDywyxqITNPZeT9fV50O3efIPhLGN1F++13e4m6KipNzopG/bsQSsLbZrnUPMMxHhKvOrXsllDEoJPvcce4r7m4V+lpBgM5DjW3MPBGMoYZJeK5utqffum6USwWCLGH7eUNxYjAwBekUKgWNBTAwCDJTfsKAHlZsYsiEgrG9cH/eKwLEl2LssZF1VE/6E0RVFPdI=;pg/C+UP7BQXlrrsq4L4jiw=="
 ---

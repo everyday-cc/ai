@@ -33,20 +33,6 @@ related:
         width: 450
         height: 302
         isCached: true
-  - title: "Be prepared for AI technology, PH urged"
-    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
-    publishedDateTime: 2023-07-23T16:36:00Z
-    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Best location for AI jobs is long-time tech hub, report says"
     excerpt: "A new report from a U.S. think tank found that two California cities dominate job listings for work in generative a."
     publishedDateTime: 2023-07-22T18:45:00Z

@@ -39,20 +39,6 @@ related:
         width: 994
         height: 553
         isCached: true
-  - title: "Israeli president focuses on 'friendship' with U.S. as progressives boycott speech"
-    excerpt: "Isaac Herzog's visit to Capitol Hill came after the House passed a GOP-led resolution reaffirming support for Israel in the wake of incendiary comments made and then walked back by a leading Democrat."
-    publishedDateTime: 2023-07-19T14:00:00Z
-    webUrl: "https://www.wuwm.com/politics-government/politics-government/2023-07-19/israeli-president-focuses-on-friendship-with-u-s-as-progressives-boycott-speech"
-    type: article
-    provider:
-      name: WUWM
-      domain: wuwm.com
-    quality: 18
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/00de5d3/2147483647/strip/true/crop/7673x4028+0+863/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F07%2F19%2Fap23200549299825-454cf20a50e7305cfc777623ed92fa1f49e8e926.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wNrNySxKm2YyGsBA0f1+1KopnGtR6rq5q00B7+VQXJilA7GBE7LIWGUALJ2iLqG1L01Azk43Y47C1kLsQbybao7bkS/9A3hI6RGJUcjSiIW8tEMwjj/hnUMZKGOKFjc7QYJkZIvuEiT+XxKElFrShU3quGKOqf4QXyxOlV7HOdHYtO5BHgbd/vYwMOhx1bDOpzI7WLix7sPU1V+AL/prrDw9Wb+ZySrUhJuRLv+pAg+jLCG1kpZVohvC+RPalTyQVy1k2GRJQzO9eqC7vbm4y+nPrSR7mHYrRtZAiqnW7697GavIyGmT/gvnbVKKSxsRF8tvMSNs/b6CfACXlfEdx/FyRImMxikwhrv3psPAGYc=;1x2fQHNsRvDvoDtCTNhsmQ=="
 ---

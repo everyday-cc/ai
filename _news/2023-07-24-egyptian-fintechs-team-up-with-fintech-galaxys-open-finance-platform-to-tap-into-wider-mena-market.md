@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "FinTech Magazine’s Top 10 banking technology companies"
-    excerpt: "Discover FinTech Magazine's Top 10 Banking Tech companies reshaping finance globally. Find out who clinched the coveted number one spot!"
-    publishedDateTime: 2023-07-19T15:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-banking-technology-companies"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/deb69e89e1011e6ec06bcea4ac6c5a69:93e2f0c46b126e3707f823c2089083a8/gettyimages-1351571961.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analyzing The Impact Of Fintech On Global Banking"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
     publishedDateTime: 2023-07-22T18:46:00Z
@@ -73,15 +59,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "Future Proof Unveils Cutting-Edge Lineup of Fintech Demo Drop Finalists"
-    excerpt: "Future Proof Festival, the largest wealth festival in the world and the most anticipated event in finance, today announced an elite group of finalists for the second annual Future Proof Fintech Demo Drop."
-    publishedDateTime: 2023-07-19T13:48:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/19/9850921.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "j1dO9hEf+dV0Ydc1REdwJeWiwwFQnVBKmUdAlZ3oxDY74q9rIHf//rKxvRVhtaoAkmQgPeOJlckaBKZGJ4jlT/hbv7N0guyQ6Shqgda8XVQmZy/nXw2Nnk58L73r21+MfVf8izDb5HOBtrtcIzuBNrCxAyo4t5pCpZjGAbjceqKs58P5irEhFBa9G6oSs3Nq6i1s54UI5u858eYu9yus+E5aEQ6zXwlxw4CYct2syM8NqqBw3yFFMlt2JsKw/CgnSkJce0gKTawmsZ6N7xg1kFLwhkP9R/I6fTLZE72GEHyZD7M3bZbjIX2lTx+VWit1OnMcaz6mFSSQDMFvjjF1IxEl04rj0wZ+C1/GeP8faug=;L5aGurRkny6UAg3jV65opg=="
 ---

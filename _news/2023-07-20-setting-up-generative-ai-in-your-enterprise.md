@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Leveraging Generative AI on AWS to transform Life Sciences"
-    excerpt: "The exponential leap in Generative AI is already transforming many industries: optimizing workflows, helping human teams focus on value added tasks and accelerating time to market. Life Sciences industry is beginning to take notice and aims to leapfrog the technological advances. Life Sciences industry"
-    publishedDateTime: 2023-07-19T15:02:50Z
-    webUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 116
   - title: "Why Generative AI Won’t Disrupt Books"
     excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
     publishedDateTime: 2023-07-20T10:00:00Z
@@ -47,77 +38,37 @@ related:
         width: 2600
         height: 1350
         isCached: true
-  - title: "AWS’s Ishit Vachhrajani on How Leaders Can Navigate Generative AI"
-    excerpt: "Ishit Vachhrajani, Global Head of Enterprise Strategy at AWS, details how managers can guard against the pitfalls of generative AI even as they leverage its enormous potential."
-    publishedDateTime: 2023-07-20T21:52:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/aws-navigate-generative-ai/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/07/AWS-eSPEAKS-thumbnail-copy-2.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Use Generative AI To Design Now — It’s The Beginning Of A Major Transformation"
-    excerpt: "Don’t make the mistake of thinking generative AI’s impact on design is about image services. Images have always been just the visible tip of the design iceberg."
-    publishedDateTime: 2023-07-19T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2023/07/19/use-generative-ai-to-design-now---its-the-beginning-of-a-major-transformation/"
-    ampWebUrl: "https://www.forbes.com/sites/forrester/2023/07/19/use-generative-ai-to-design-now---its-the-beginning-of-a-major-transformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2023/07/19/use-generative-ai-to-design-now---its-the-beginning-of-a-major-transformation/amp/"
+  - title: "Eight Months On, Tech Budget Planners Are Fixated On Generative AI"
+    excerpt: "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and"
+    publishedDateTime: 2023-07-21T03:56:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b7f32577f2440d53fb68d3/0x0.png?format=png&width=1200"
-        width: 1050
-        height: 788
-        isCached: true
-  - title: "Reimagining the data center for the age of generative AI"
-    excerpt: "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?"
-    publishedDateTime: 2023-07-20T16:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/7.With-all-of-the-focus-on-ChatGPT-what-impact-if-any-does-it-have-for-the-data-center_.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "How to navigate your engineering team through the generative AI hype"
-    excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
-    publishedDateTime: 2023-07-23T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Single chip architecture to meet generative AI processing challenges"
-    excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
-    publishedDateTime: 2023-07-21T04:15:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/single-chip-architecture-to-meet-generative-ai-processing-challenges"
+  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
+    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
+    publishedDateTime: 2023-07-24T05:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://www.newelectronics.co.uk/media/buxactds/5g-smart-city-400x300-c-default.jpg?width=1200&height=630&mode=crop"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 685
         isCached: true
   - title: "How AWS is making generative AI simpler for businesses"
     excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
@@ -133,34 +84,57 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "How to Make Generative AI Greener"
-    excerpt: "Almost all of the best-known generative AI models are generated by “hyperscale” (very large) cloud providers with thousands of servers that produce major carbon footprints; in particular, these models run on graphics processing unit (GPU) chips."
-    publishedDateTime: 2023-07-20T13:49:00Z
-    webUrl: "https://hbr.org/2023/07/how-to-make-generative-ai-greener"
+  - title: "Generative AI isn’t quite cleared for takeoff at NASA"
+    excerpt: "Under the “interim policy” GSA said it would block access to third-party generative AI large language model endpoints tools from the GSA network and government equipment but would make exceptions for research. The policy provided guidance on “responsible use” of those tools, such as not inputting non-public information."
+    publishedDateTime: 2023-07-19T19:42:00Z
+    webUrl: "https://fedscoop.com/generative-ai-isnt-quite-cleared-for-takeoff-at-nasa/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 41
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/07/Jul23_19_AlexWilliam.jpg"
-        width: 1200
-        height: 675
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/07/Mission-control.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "How to Get Your Company Started With Generative AI"
-    excerpt: "The first step in building your own generative AI is to decide why and how you want to do it. For businesses, the why could be to an ambitious goal, such as becoming the most productive company in your industry or to take over its leading market share."
-    publishedDateTime: 2023-07-20T10:58:00Z
-    webUrl: "https://www.inc.com/peter-cohan/how-to-get-your-company-started-with-generative-ai.html"
+  - title: "Meta Open-Sourced Llama 2, Its Newest Generative AI Model"
+    excerpt: "Meta, in partnership with Microsoft, this week announced it is open-sourcing the Llama 2 generative AI model and making it available free of charge for research and commercial use. The company is including model weights and starting code for the pre-trained model and conversational fine-tuned versions too."
+    publishedDateTime: 2023-07-20T00:00:00Z
+    webUrl: "https://iblnews.org/meta-open-sourced-llama-2-its-newest-generative-ai-model/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
+      name: IBL News
+      domain: iblnews.org
+    quality: 39
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/07/llama2.jpg"
+        width: 860
+        height: 510
+        isCached: true
+  - title: "Meta launches new generative AI tool for free for research, commercial use"
+    excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
+    publishedDateTime: 2023-07-19T21:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/meta-launches-new-generative-ai-tool-for-free-for-research-commercial-use.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 37
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1498363310_532681_ujml84.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
+  - title: "How Would Generative, Predictive AI Change Wall Street?"
+    excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"
+    publishedDateTime: 2023-07-21T01:02:00Z
+    webUrl: "https://greensboro.com/how-would-generative-predictive-ai-change-wall-street/video_da75f0f1-0912-5a4e-8d76-2830a2812b91.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 19
 
 secured: "PIvRmkcY3mN08bgPu/WWrPg3+RACyRK9y1F2ia77T/6118qPCztSa4LC0HWSch4wf2JNWpYacQ29aOvZ1WfDJRhZ5IZsNzi5B7oc6RP9RhILCObYIn2shgSYfSl72ii/8dFYjF4MIFbLFdaGCZS3q7G6Ws4XPzVrbZHET2WzTm5ewClaD8earS8hnnBXhtevcsti988A1PlXrbnnSHM7rjT7WaxLDpsj/6/E/Jou+PgcsIZQWBpU6uoDZVp8FQUZ7W9jVj9u08x/6VkvpxOx2OZGkxHaMWCQI4sKfUXtlbSEVcSzr9CnFdiK0aR2eTf6kuHva9CY7BgmAmZuWYgDEJCTRD9hMfOwMa3vH4OHPtDAeCgaa7wEwdWQeUTkaUs8vr3Nq+qboAjtkmCknYN7wxVT6fQHDGteigvG5HGyrZmlf8xbpXVH+UINXqmeRpq1RwBRkmZHOIg+gOvOMgabvdoOqkQwltFyuld9ca1dY4hNNHNlpvxE9Bq9yMEAlGwUERDCLxHl4v29QYcN2516Bg==;cCOTs2y04iT54k3IRZvSPg=="
 ---

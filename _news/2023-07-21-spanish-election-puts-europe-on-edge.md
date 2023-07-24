@@ -26,6 +26,22 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Opening to door to AI in Europe"
+    excerpt: "As everyone knows, Google recently opened its artificial intelligence (AI) chatbot Bard to European users as part of the company’s bid to take on ChatGPT. Bard is a large language model-based (LLM) chatterbox that can,"
+    publishedDateTime: 2023-07-21T11:38:00Z
+    webUrl: "https://www.techcentral.ie/opening-to-door-to-ai-in-europe/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg"
+        width: 620
+        height: 349
+        isCached: true
+
 secured: "UlWuDz1y7YFCsDu2EzJk68aUvo3fXIs7Bl+a2Pwq4a7tMTLtoK9Ev3AGJg9K2dxHjVZNbtlgopl8f/4ja6tkHNtjrrc56qvKalibl8SRWDr2oNR8IDjFH6gxMM161gcIhZ+Vsib2Ou75O8D0feZUygbz+uV17cP/TpPp/Nv14r9KLzfqyEyVP6FpnEz9/olse3jH7HCYsRkxQs0f4NgiG7q3zda+jb5/2SKI1Mbwsy/KFTNainwUuxj/fCQnXFKYKgRH0X6wMSBv3UXggxloYFN5vLHSsziRIQcShKs+9jvh5McjLP8JWcwOB6dEzcWz1mTAATzHAFqhAgRSYVC+gGu74Ug3bmiEvZTcHsmXBHI=;sYk8FYkIMZ6TNLFMjGL/Ow=="
 ---
 

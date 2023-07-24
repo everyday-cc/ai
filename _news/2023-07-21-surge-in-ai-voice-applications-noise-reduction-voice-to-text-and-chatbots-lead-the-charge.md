@@ -134,22 +134,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Battle to win the AI race hots up as Facebook owner unveils ChatGPT rival"
-    excerpt: "Mark Zuckerberg has unveiled the latest version of Meta’s AI model LLaMa (Picture: Getty) Facebook parent company Meta Platforms ... known as LLaMa 2 (Large Language Model Meta AI), free for research and commercial use. Much like tech peers Google ..."
-    publishedDateTime: 2023-07-19T13:57:00Z
-    webUrl: "https://metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/?ico=mosaic_tag"
-    ampWebUrl: "https://metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/19/meta-releases-chatgpt-rival-llama-2-19152344/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 58
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2023/07/SEC_164624020-8c4d.jpg?quality=90&strip=all&zoom=1&resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Meta’s Llama 2 Is an Open-Source Rival to ChatGPT"
     excerpt: "Meta is making its Llama 2 large language model open source, the Facebook parent company announced on July 18. The update to the model, which had been released as the first-generation LLaMA (also stylized as Llama 1) in February 2023, was first revealed at the Microsoft Inspire event. Microsoft will be a preferred partner with Meta on Llama 2."
     publishedDateTime: 2023-07-20T20:26:00Z

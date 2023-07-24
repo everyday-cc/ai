@@ -25,61 +25,114 @@ images:
     isCached: true
 
 related:
-  - title: "Meta releases big, new open-source AI large language model"
-    excerpt: "Open-sourced by accident -- or was it? -- back in March, Meta has now officially opened up Llama-v2, its newest large language model."
-    publishedDateTime: 2023-07-19T13:14:00Z
-    webUrl: "https://www.zdnet.com/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
+  - title: "Why Generative AI Won’t Disrupt Books"
+    excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
+    publishedDateTime: 2023-07-20T10:00:00Z
+    webUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/"
+    ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/a60ec8ab8c07738a9f253710c543fc9254cdb375/2023/07/19/fe9388c3-04db-4f20-823e-2e7c62e5d8ea/gettyimages-1452459995.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta's AI image generator says language may be all you need"
-    excerpt: "The CM3Leon program can generate high-resolution images with a fraction of the compute of approaches such as diffusion."
-    publishedDateTime: 2023-07-19T14:26:00Z
-    webUrl: "https://www.zdnet.com/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-ai-image-generator-says-language-may-be-all-you-need/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Wired
+      domain: wired.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/69e5f2675fbf308fac71d7be5387b38dcb274dba/2023/07/18/3affcd0d-bf61-488f-89d4-cb09a60e6ab7/meta-2023-cm3leon-image-examples.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://media.wired.com/photos/64af1b17da92561daff93c98/master/pass/FOE2.jpg"
+        width: 2600
+        height: 1350
+        isCached: true
+  - title: "Eight Months On, Tech Budget Planners Are Fixated On Generative AI"
+    excerpt: "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and"
+    publishedDateTime: 2023-07-21T03:56:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's new 'open source' AI isn't so open after all"
-    excerpt: "Meta describes its Llama 2 AI model as open source despite restrictions on use. This does not follow official open source standards."
-    publishedDateTime: 2023-07-19T17:55:00Z
-    webUrl: "https://www.businessinsider.com/meta-llama-2-ai-model-not-open-source-2023-7"
+  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
+    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
+    publishedDateTime: 2023-07-24T05:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Meta unleashes AI free-for-all with release of Llama 2"
-    excerpt: "Trained on 2 trillion tokens, the open source large language model's release clears a no-cost path for research and commercial use."
-    publishedDateTime: 2023-07-19T20:39:00Z
-    webUrl: "https://www.ciodive.com/news/Meta-Llama-2-generative-AI-large-language-model/688449/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://www.ciodive.com/imgproxy/xMaFRj7OzAFFlNR1XVSa-vZd6ZPrXWz2aWbi4qCknCo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL01ldGEuanBn.jpg"
-        width: 770
-        height: 435
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 685
         isCached: true
+  - title: "How AWS is making generative AI simpler for businesses"
+    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
+    publishedDateTime: 2023-07-24T00:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Setting Up Generative AI In Your Enterprise"
+    excerpt: "A practical framework for implementing Generative AI in the enterprise - including strategy, governance, technology stack and talent."
+    publishedDateTime: 2023-07-19T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/sanjaysrivastava/2023/07/19/setting-up-generative-ai-in-your-enterprise/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative AI isn’t quite cleared for takeoff at NASA"
+    excerpt: "Under the “interim policy” GSA said it would block access to third-party generative AI large language model endpoints tools from the GSA network and government equipment but would make exceptions for research. The policy provided guidance on “responsible use” of those tools, such as not inputting non-public information."
+    publishedDateTime: 2023-07-19T19:42:00Z
+    webUrl: "https://fedscoop.com/generative-ai-isnt-quite-cleared-for-takeoff-at-nasa/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/07/Mission-control.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Meta launches new generative AI tool for free for research, commercial use"
+    excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
+    publishedDateTime: 2023-07-19T21:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/meta-launches-new-generative-ai-tool-for-free-for-research-commercial-use.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "How Would Generative, Predictive AI Change Wall Street?"
+    excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"
+    publishedDateTime: 2023-07-21T01:02:00Z
+    webUrl: "https://greensboro.com/how-would-generative-predictive-ai-change-wall-street/video_da75f0f1-0912-5a4e-8d76-2830a2812b91.html"
+    type: article
+    provider:
+      name: News & Record
+      domain: greensboro.com
+    quality: 19
 
 secured: "0hAA3aaxPI2Mu0RFPzFIfr0qcnIB7tUQQla4p0EP7ytrY/UWmirnKxvjqHZhnMsY62JwsnJdZfWQKY+FNLO73eH3JbKN6JXQ9Kv22nS8SkGkNeprEAgRrPKkK84H+2DlYsyx3u2HIK8vapFIzgF79H/IQm5f+9glmT3oQpDQDj+DIY6+Ywwfhd/RcGxbDmKdt7wp18iJt3NVUe5jGhZKK6t8KnUKmzQTMqXYxOkiiOhkYegfjh5l3C7t0ZUQicny4DPCsG0wroF0+aHVo1Uo9VanpjW/ZecycVfK/2KEZj2eg3zv77KX3FcfY8h074DKvCwywGKVspdk0+TRDr4EH4BrZAM1Q9eKzcBuV9uZj+zUzWG2ZARpVPs758F+GTAeAaA85FgYzfZkSZf44r2Nitw8xX3poigB19irqwNgSZPQq/ZsOCBcxYLNPtDm8tjaFojKXr0yZVSjW7Mxo1Wmpj6aFxv1A3dy8zJBmPtyNTpR4BWN82xLquIKrvU2lVwfHkO9hbRNDonFQjdBkhm3zA==;ozr0tn+su+uZ+uO7GqnkQQ=="
 ---

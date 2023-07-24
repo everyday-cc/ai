@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter"
-excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ..."
-publishedDateTime: 2023-07-13T15:20:00Z
-originalUrl: "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
-webUrl: "https://www.indystar.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ..."
+publishedDateTime: 2023-07-13T15:23:00Z
+originalUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+webUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
 type: article
 
 provider:
-  name: The Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "gdDmHj58oR3Of0V+diKdkAZ+g3nAbLGryqQ9HVW+k3B19KP0ZxOddPgXNhuUGDHYw6Hhql3SHiFXf1n4c7FWfU+Pr4q0XHbfUaLColS1wisosmZOqaHPy+Y1gSuIisROOUz+gyaFkBcYxGaPf4f537CKaOoSCvtgY6HopedCkVorORoNKgvZYt+dnPsBrZeMJnSHmhtI69LCvhKnaW8h5DI0Pk9FnwHsLXDvD++0QN6l4cqDJzM1MThv28SSwzqG4r6mjkC96oGRjTmKkbGccYkpJVpUBfqm2mLvpg9wNIHsty+lhtbHfHiYfQke6P3+/a/AfPU473ymuwFdjsdbZ5ccWREzBXvzpql3r9XF4HE=;PXXM3viH/Wjs4QIDAUFv8Q=="
+secured: "NSbrR+6mE0077MUTwxBesSs/ybVyS7DRe54Jjv2sRCuWGoRtB4tPWmFpP/4FRm8R+rrv059JbjTd9nLkwAevKJrOJ9yE+joYBPsPpTpFy9QWVIz2yyLm6Gww2+SsF5bGKhVSjvnxVmuzYb5MlR/ZZfY9pN8HRoXr9WTEnwgweUbDCbvcsgphbrMdQQDnq5mzHA+U3SNfyUnxCuxTDpzYp9Avn09Z2BsLkXDzSnnWf23axRiQBS2/ibS3Fu630dy6T35Hnt7maVEFEs3o0BBfYXXxF3aTIIhu+tSxcfuN50R2yDCdJnzyQDVb1ovYiAzyqLt9hx7sKu6cEdYF85v3tgA4LI/af6SVLjFONJkvhvI=;D0uuimeAjkxvjn3m679wzQ=="
 ---
 

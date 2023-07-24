@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eight Months On, Tech Budget Planners Are Fixated On Generative AI"
-    excerpt: "We believe it can have a positive impact on worker productivity across industries by giving people \"superpowers\" to do more and be more creative, effective and"
-    publishedDateTime: 2023-07-21T03:56:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/07/20/eight-months-on-tech-budget-planners-are-fixated-on-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/639cee1eba8c17f97ef31824/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
     excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
     publishedDateTime: 2023-07-22T16:06:00Z
@@ -55,6 +39,59 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo"
+    excerpt: "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes."
+    publishedDateTime: 2023-07-21T17:10:00Z
+    webUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg"
+        width: 800
+        height: 574
+        isCached: true
+  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
+    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
+    publishedDateTime: 2023-07-21T08:03:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
+    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
+    publishedDateTime: 2023-07-21T13:00:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 43
+  - title: "Be prepared for AI technology, PH urged"
+    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
+    publishedDateTime: 2023-07-23T16:36:00Z
+    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "6HpOTmbPdGakab5jCJSsvP6FoLTYK86l/24TOKLK7UPbktuApQ1MJKEmgU24jUONeNKGDVtzU4xD/Xy3TdU+D7196TUOGBlDMHfPZPFJn5vJCXwhfMQdYvuBZI6peOOamTUmX5WwOMkHeLKPla94hSF+J0Pe3JXc8xGMNLO+4VL87TPp+/fe3neCeedqEoRxv8SJNX7s8/XEX5SF5crJxZNTDgVGDk7pCTpaDHOgAv+LJOOg4e5AMjAmBc+qCNbbFW8kjBjwAX0iuCwwbXdP1oG105++X/m62Eo+zPb1qsbSsWfL/drDqm6Huxuke1oKAxZf8oEtejFw47SogeF5G6skvZJlO6USn+OX60EDJ7t74YzTJ9Xj7Y/SgYwEOGJKAun9kTb3KhX8ihKKjLT/jww5UFcAYg2qWuJmgWZYvV6LvOTZzJyN0kytG8EnBcxfzusKlipVOIbx1eolf2ooZLlkf3DUAbXcjd+Du7i34V77SnNjUrhNUY+Q509DRXQRrBW0jmjo1rNTW30rj2aNIw==;oL8COvEpzUoSLa3TGs6RKg=="

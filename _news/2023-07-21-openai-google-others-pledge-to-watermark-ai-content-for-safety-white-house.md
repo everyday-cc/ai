@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
+    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
+    publishedDateTime: 2023-07-22T16:06:00Z
+    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo"
     excerpt: "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes."
     publishedDateTime: 2023-07-21T17:10:00Z
@@ -53,15 +69,34 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 43
-  - title: "Tech Giants Make ‘Voluntary’ Pledge To Develop Responsible AI—Including OpenAI And Google—White House Says"
-    excerpt: "The companies have committed to share more information, boost transparency and develop tools to flag AI-generated content, though it’s not clear how compliance to the voluntary code will be enforced."
-    publishedDateTime: 2023-07-21T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/07/21/tech-giants-make-voluntary-pledge-to-develop-responsible-ai-including-openai-and-google-white-house-says/"
+  - title: "Be prepared for AI technology, PH urged"
+    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
+    publishedDateTime: 2023-07-23T16:36:00Z
+    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 29
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Top tech firms sign White House pledge to identify AI-generated images"
+    excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
+    publishedDateTime: 2023-07-21T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/07/21/ai-white-house-pledge-openai-google-meta/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "wV4n+qReLmaI4B1Fn1+aFNBMcY3QAcc2FGJZs80u4sdFVoULv7EZbk5M1mQ9SjwYcHNHeql3jh1Ebq8/3Ka1lLGIQLlXdO63+IquKToN7peckOU6ZByZV8uKCzooAVnN9BjaFdd0Ro3zBV3NtyWavNFCgzllgRUIwcPlHL75iYTJia5vU3eaJELKWuCY1mB3G8umm+oxEl/DEkhRwRyZmwj4o71dbiuhUUpFT3dMk/oZsMh2YCj5tj4GMlRJgygn+YbnpCtNsB/NPFEwyQ6xfsQ4A4xbErTOC3bcITTx5+mgPU9qHXEtUvTjDXqhXHJhP07xgw5CIqTPmkC0ojcUUeO59053xeJbjCkXKOWhyjg=;5Va9UyAZx10ffxth9E+Zfg=="
 ---

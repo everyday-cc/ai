@@ -39,6 +39,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Reimagining the data center for the age of generative AI"
+    excerpt: "Data center options for the age of ChatGPT and generative AI: fine-tune existing open-source LLMs or create your own? Cloud or on premises?"
+    publishedDateTime: 2023-07-20T16:00:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/with-all-of-the-focus-on-chatgpt-what-impact-if-any-does-it-have-on-the-data-center/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/7.With-all-of-the-focus-on-ChatGPT-what-impact-if-any-does-it-have-for-the-data-center_.jpg?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
   - title: "When it comes to next-generation AI models, synthetic data is the way to go"
     excerpt: "An AI feedback loop is threatening to destroy the future of generative AI algorithms, so big tech corporations are scrambling to find a solution that could"
     publishedDateTime: 2023-07-20T14:10:00Z
@@ -128,6 +142,6 @@ related:
       domain: slator.com
     quality: 19
 
-secured: "88ENcNCsQN8Z2BnNAIQGYQI0e4guJAxxVwCYsFRio2981q1EkSMyjxOZkGFcrbzPR/tYCt2VdC4KICNebb5UYt8W0P/2/vgLVTBGlQhW5PJabcqzKeW1ftogJVj+nxVSmw0n4AgDKpHFQqqVZK2lmfSlhXjoxHtjz2rJxpZnHeDaXmf/4f9g8fgDqU5XyXL1Lpq66b2OERBCqNZM0/lLBAzEwOTvU5gO4x9W6rVoB7vo73iuJ3af/XTJ+U5CVQNhEmCdv12ASVV6iVcgeLIxK2onpN3K6PxNjS7fEKOFiLjOIs/Fv8HxFoFdNsV29q2k9rK/MAmDgpl5CnP/ik4e1ceGzu4UE3ZX3kFOFjnsgGc=;+BZHHPXysOv5mI1tkxngZQ=="
+secured: "rgDNAQgG7Ne7wTLeN1y+kaELB5mr+wHFmql6w4KCHYD5ITJO0Ndnqsz74SmcliDcZHG7rRSP9JZD1pOTNCP52dKiT5CAX4czjfGK8e6OXH3B02L/gYr7jDA0rcty++F3SWHVIC9KFW26Bef13HoY6kfKsT5s6rJzsWLlcHYx1T3EJ+TLDGkYp+xjkoLewseUowgmRrR+fi1y8sQLIDxc7FDcwlNYckkgTU6w3fK1FBCivoJnLaPEwt0ibNis87uykduRY9DVLfd3S+zRC7oasMx/VRja44Ap8HH3bndikAv6LSteqgR2Ch0Lejbt5kML127A7rY0JvcdNjbLE4V5xNQ8FxHzLPaSrfO+f9+76WUtZkTyhFMN1xuBvhtvMXKMwWlUNUlfZrhRG6Gbuh2yvVU0tY8LBuIPv229slhxapp0st3/NmW5CJEo1Z8j4SwfzmWG00xXE9MnxhiwUz0tWLaUKDjS70KXqZCZT/AP0wo3S0ppZGJAAGL/8Ch+CCupw/znfBuR2QWYpbhadX784Q==;LsZJ3g/q/uBhRKmxXAfmrw=="
 ---
 
