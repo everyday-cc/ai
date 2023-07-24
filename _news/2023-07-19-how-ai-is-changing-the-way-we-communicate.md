@@ -65,6 +65,20 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI bots will change how we write forever — and that’s a good thing"
     excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
     publishedDateTime: 2023-07-22T13:01:00Z

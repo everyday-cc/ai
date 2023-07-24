@@ -24,6 +24,19 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Noel Pearson on Indigenous voice to parliament: ‘Empowering family must be the focus’"
+    excerpt: "Pearson has been at the forefront of the push for constitutional recognition since 2007, when prime minister John Howard first pledged support for a referendum on the issue. Asked why it has taken so long to come to fruition, Pearson replies: “Because it’s a blackfella issue. It’s hard to get a blackfella issue up.”"
+    publishedDateTime: 2023-07-21T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
+
 secured: "2VrfNBKbipwsJq0q//u2LzkPiTsrvv0UZkU2adDOuMUUh10T8WlMtp76Lp1QbygKG3OlDiYHQpIX9j4E7gk6o164WeLSu1T2g4KdduHbbwkmIUNaMStVFbDOZtS2w0FJpITxl6Ucca5I9rFQYROETIxD4S6TkKhP7LxMzNqe0/cMLQoz6nKFCvmXjYMQ2n+peyeE2m/qZrRfjEmN3ea4HRY4K9VfUfqyQG+ODOQDhxgrrS4U5pEKv4sSHu4SF9gLJMqZtPS+UrDVeQ2xR+EME6+1QOar5SBHEhbuvU+kay2HS3Kkf309vcpXk9De03n59cglGo9ysgj+txCufjhosWOUUCfUhHen36cvI66//9g=;wR3GICJ+wbg9oIwkXlNAHw=="
 ---
 

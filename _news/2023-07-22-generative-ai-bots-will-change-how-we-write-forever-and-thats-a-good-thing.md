@@ -70,6 +70,20 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+    type: article
+    provider:
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "CEcgMRur2NLqB/ECyE8rQlLAO/RPBzo+SzS5vVJdbqLPdbhUiFVkXC7CHSk4QNxWh6kO4QKXlOqFXukwilQYempxUlMxqXeSe/7e6Xctr2uOupbpjU8LqD3IT8yzvb7dpavI3VzwnGowFEXLycDxarw18ijQAh2Gu6ugRPJhQrqxe8nG6pH4JzJ50/QcIq6FVHl1LN513iIGO6aDaqYp8Z1CWBFSNMBlbXN5Zo4UdgOSGm0bMz2VF6+0jECVkaMY3ZBvkYP3S1cOGbz+429/bGC2ByVaZs8Ik8OQemYIHYiIsx1cT3LTGb1UxoZGHVkljil9eGwyh7StGhz3oquENVdKClvJ0LaPiWdfaep1vwb9OuQAZWcxTgodkSubWejDY6Nd0Y6R22CLWJXBypzHIV6LUkNfRTLa0m8yJlbtPs9o6D4yLxlOgtpWKVn0nmSvSA/NOBdoJKo+JMlXti4nfpiaaqjFO8Y6yrRW7/8XKLe8AV0N/89R+K31GHXpwLHHIy++bZ0fj2AJS+dW9HJXKw==;ULpsutL2nW4wAQuGWSECFw=="
 ---

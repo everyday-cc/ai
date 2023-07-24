@@ -56,6 +56,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Dr Google? AI could be doctor in the pocket, but company’s health officer urges caution about its limits"
+    excerpt: "Dr Karen DeSalvo is excited by the arrival of artificial intelligence but warns it has limitations and will only be a ‘tool in the toolbox’ of medical professionals"
+    publishedDateTime: 2023-07-23T21:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo?bingParse"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 40
+    images:
+      - url: "https://i.guim.co.uk/img/media/76882b37adf84a86918acb6e0cff141a15778c3b/0_187_4000_2401/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=ab3d66d745ac59e8eea9717e1d3e664e"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "jBD4VT7PTDz1dtQi6YNwO7U8/K2I1sIZtoDl2K2F2JGv1T042jPSSlPrQ5DILW3YY19/UomwNus8wLVWybob+KlNv8QRgNjkaNAZNaTAHnNe1BWNtNlFHpAh0Ye3ekIlpcl+/GhLxZB3q7ZelMxX3qOJXYn/pI4e/9vMtSVCPl1zESmk4PDTJdbrOQcApOh3s8xdlrZAk8T46kbQ9j8KCPiswJ2k9TNaA9u8ol3JCCuFX8T9tmPvPP9biVMQV+OFRmjopH9BSxcDbwu/JgLwchR9fcUMcSlt74EwiRkoXgSBw9p/cIO4HF2Z/o89Ymn6N9NxJrGnF6UUO5e5F+S2wfyItPZCa+v8r361jeJOx4Q=;NgoeUS4TdaGbjSS++X1vvA=="
 ---

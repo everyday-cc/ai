@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/australian-dishbrain-researchers-receiv
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp"
 type: article
 quality: 81
-heat: 104
+heat: 105
 published: true
 
 provider:

@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Facebook parent makes public ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach:"
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.avpress.com/business/facebook-parent-makes-public-chatgpt-rival-llama/article_3ce164d4-25d9-11ee-aa8d-7fdc01ce7b98.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg?resize=600%2C300"
-        width: 600
-        height: 300
-        isCached: true
   - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
     excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
     publishedDateTime: 2023-07-19T13:00:00Z

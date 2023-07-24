@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-ba
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 969
         height: 631
         isCached: true
-  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
-    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "The Market Is Rebounding, and These 3 AI Stocks Are Leading the Way. Are They Still Buys?"
     excerpt: "Artificial intelligence (AI) has captivated the market following the launch of ChatGPT late last year, and investors are betting on an AI-driven boom, as the new technology could disrupt everything from internet search to cloud computing to even automobiles, by way of self-driving cars."
     publishedDateTime: 2023-07-21T10:07:00Z
@@ -78,6 +69,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "How AI Algorithms Can Learn Like Humans With Continual Learning Training"
+    excerpt: "Continual learning is a promising aspect of AI algorithms that enables computers to continuously learn a sequence of tasks, building on accumulated knowledge to improve their performance. But, just like humans,"
+    publishedDateTime: 2023-07-23T10:48:00Z
+    webUrl: "https://www.cryptopolitan.com/how-ai-algorithms-with-continual-learning/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 38
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-23_09-17-32.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Crafting a Hit Song with Artificial Intelligence"
     excerpt: "With the rapid evolution of technology, it’s safe to say that the boundaries of creativity are being redrawn.  The advent of Artificial Intelligence (AI) has introduced a fascinating dimension to the world of art and music,"
     publishedDateTime: 2023-07-22T22:18:00Z
@@ -120,15 +125,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
-    excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
-    publishedDateTime: 2023-07-19T09:20:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/19/9850502.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "pWcBbi6vauy768c8N7mtkV1rxAQbilblQABE9U6/9MD6cyB4MwjfO/U0ttB+yuZLZr9+iyYGI2NQ3PiiBbstq9YMl/h6yUqBl8GYdBmJQpngurGSu+v3trwXYAORaSkokq95KL2Cv7RxRrZH8+5pLk/fwlQueJnkW6mOiEkzDULprW678ZCoz0mXcHDBezov08MCuIXwasFstJfk31O/fhGV7QEORR0bhho3xcHB3yJgnRGem0w97nalnuFcBAcSI3Q6Q8Seb1SY7vBJ+YmL3KQuQ2Il3pftF3rEBh/1VyYiaSAlD151Ipx2Fy7LhPWfw3tKFPo6Pxlj051ssvqoURbM464OfWssNNqao96EWdo=;o4GHMFluEkmeoODfH2LqPQ=="
 ---

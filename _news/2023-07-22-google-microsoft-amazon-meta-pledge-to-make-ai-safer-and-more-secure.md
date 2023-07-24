@@ -61,22 +61,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft, Meta open AI model for commercial use"
-    excerpt: "According to a Microsoft blog post, the new free-to-use model enables developers and organisations to build generative AI-powered tools and experiences. Llama 2 will be distributed by Microsoft through its Azure cloud service and will run on the Windows ..."
-    publishedDateTime: 2023-07-19T09:34:00Z
-    webUrl: "https://www.itweb.co.za/content/KBpdgvpm4Zk7LEew"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KBpdgvpm4Zk7LEew"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdgvpm4Zk7LEew"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/07/Meta-mobile-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google, Microsoft face off in AI healthcare race"
     excerpt: "Tech giants Google and Microsoft are pushing into the healthcare industry with generative AI, creating medical chatbots, integrating AI into EHRs."
     publishedDateTime: 2023-07-19T15:40:00Z
@@ -128,24 +112,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 44
-  - title: "Microsoft increases channel exposure to AI"
-    excerpt: "Vendor rolls out fresh specialisation encouraging the channel to embrace the benefits artificial intelligence can deliver."
-    publishedDateTime: 2023-07-19T09:45:00Z
-    webUrl: "https://www.computerweekly.com/microscope/news/366545114/Microsoft-increases-channel-exposure-to-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 34
-  - title: "Microsoft puts a price tag on AI for business"
-    excerpt: "Microsoft announced Tuesday it will charge $30 per user per month for businesses that want to use its AI-infused copilots to automate work in Office products such as Word, PowerPoint and Excel."
-    publishedDateTime: 2023-07-19T10:00:00Z
-    webUrl: "https://www.axios.com/2023/07/19/microsoft-price-tag-ai-business-office"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 34
   - title: "Teladoc And Microsoft's Expanded Strategic Partnership Is A Powerful AI Combo"
     excerpt: "Teladoc has experienced multiple news-based pops, with the latest instance resulting in a +10% jump in the stock as Teladoc announced an expanded AI partnership with Microsoft. While TDOC stock has given up most of these recent gains, the telehealth giant is gearing up for sales growth powered by AI technology."
     publishedDateTime: 2023-07-21T11:54:00Z

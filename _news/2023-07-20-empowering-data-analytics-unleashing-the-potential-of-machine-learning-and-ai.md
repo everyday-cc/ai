@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://mma.prnewswire.com/media/2159742/DQ_Institute_1.jpg"
         width: 400

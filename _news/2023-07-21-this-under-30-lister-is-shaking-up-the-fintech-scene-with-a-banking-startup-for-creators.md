@@ -53,15 +53,6 @@ related:
         width: 969
         height: 631
         isCached: true
-  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
-    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "The Market Is Rebounding, and These 3 AI Stocks Are Leading the Way. Are They Still Buys?"
     excerpt: "Artificial intelligence (AI) has captivated the market following the launch of ChatGPT late last year, and investors are betting on an AI-driven boom, as the new technology could disrupt everything from internet search to cloud computing to even automobiles, by way of self-driving cars."
     publishedDateTime: 2023-07-21T10:07:00Z
@@ -75,6 +66,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/740360/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "How AI Algorithms Can Learn Like Humans With Continual Learning Training"
+    excerpt: "Continual learning is a promising aspect of AI algorithms that enables computers to continuously learn a sequence of tasks, building on accumulated knowledge to improve their performance. But, just like humans,"
+    publishedDateTime: 2023-07-23T10:48:00Z
+    webUrl: "https://www.cryptopolitan.com/how-ai-algorithms-with-continual-learning/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 38
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-23_09-17-32.jpg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "Crafting a Hit Song with Artificial Intelligence"
     excerpt: "With the rapid evolution of technology, it’s safe to say that the boundaries of creativity are being redrawn.  The advent of Artificial Intelligence (AI) has introduced a fascinating dimension to the world of art and music,"
@@ -118,15 +123,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
-    excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
-    publishedDateTime: 2023-07-19T09:20:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/19/9850502.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "HN8BFKVPG9e/QBHL4AGu4Bp3taQNvSoBK0dTXEq/QzZhcnmi6y5srUeYI8qwS7alWQM3kAq8hUT7wmffTwVAL+QFyuPJzp7ORC68DIWpbrVwNJpopsRRKt6fNSd10jCUgxrGjh/8N6N+z5wuD3T2dilqZ4UX6X4SvaZHjAV0pXJOjwrYbjQ5ibvOSnloLfIEqrUGCIDXIgas/4shKeO6aJ3WkmioePfaaGvH4srwpcKvwOJSQdpgVAIG0muMV5zXtLPRGc5wz8FpCWikPYk7fa+3sKFEFIn3qMtgRWSjVOoCY9zfwOtaoyFQxaewwOw3C2GatNsftjWq/Nts/uIFKpviCXwFkelwVdm2tDWYsDJdKyim8U3Q09dehqqEN+e/mQJHnoHbCzJFo+yLn/w+7fS/AwsBWoetPp8af8PuhILsohlH0BMb1ooD3uyAK58+1NzYRnKqgJKNu/KSld3/FIxAPYMjpDHPSDafosxa39jLeOJjpM7/neWol971SC/PICcaHTaEdRjMvLW1Kp5PHA==;8G8ks278Et9dVeJzJqmdUg=="
 ---

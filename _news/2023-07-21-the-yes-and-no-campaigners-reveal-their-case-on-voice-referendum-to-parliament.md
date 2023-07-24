@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/kamp
 webUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/kampanye-ya-dan-tidak-mengungkap-kasus-mereka-tentang-referendum-suara-ke-parlemen/wqlmpabim"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indigenous voice to parliament: Prominent campaigners stand up to be counted"
-    excerpt: "Prominent campaigners in favour of the voice to parliament, including Indigenous Affairs Minister Linda Burney and Indigenous leaders Noel Pearson and Thomas Mayo, gathered at Sydney’s town hall on Wednesday evening for an event organised by the City of Sydney and hosted by Stan Grant in his first major public appearance since stepping down from the chair of the ABC’s Q+A."
-    publishedDateTime: 2023-07-19T10:29:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-prominent-campaigners-stand-up-to-be-counted/news-story/fde2f340d37b829651c8f79a8509648a?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 36
-  - title: "‘Parliament remains supreme’: Albanese says the Voice will be denied veto power over government"
-    excerpt: "In a heated debate, Prime Minister Albanese has confirmed that no reparations or Australia Day date change will happen if The Voice referendum succeeds."
-    publishedDateTime: 2023-07-20T01:02:00Z
-    webUrl: "https://startsat60.com/media/news/politics/parliament-remains-supreme-albanese-says-the-voice-will-be-denied-veto-power-over-government"
-    type: article
-    provider:
-      name: startsat60.com
-      domain: startsat60.com
-    quality: 27
-    images:
-      - url: "https://images.startsat60.com/wp-content/uploads/20230720093634/albo-the-voice-referendum--720x405.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "The yes pamphlet: campaign’s voice to parliament referendum essay – annotated and fact checked"
     excerpt: "Pamphlets written by politicians and published by the AEC have put the official case for a yes and no vote. They were not independently fact-checked before publication, so Guardian Australia has added"
     publishedDateTime: 2023-07-20T01:19:00Z
@@ -64,19 +39,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Indigenous Voice to Parliament: Advocate fears low trust in government is hampering Yes campaign"
-    excerpt: "Uluru Dialogue member Geoff Scott says a general lack of trust in governments is making the Yes campaign’s task harder but he is hopeful voters will dismiss the ‘political noise’ around the Voice."
-    publishedDateTime: 2023-07-19T23:45:00Z
-    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-advocate-fears-low-trust-in-government-is-hampering-yes-campaign-c-11321100"
+  - title: "Why voters are in for a wild ride on the Voice"
+    excerpt: "Anthony Albanese plans an election campaign-style blitz to win over Australians on Indigenous constitutional recognition."
+    publishedDateTime: 2023-07-21T01:19:00Z
+    webUrl: "https://www.afr.com/politics/federal/why-voters-are-in-for-a-wild-ride-on-the-voice-20230719-p5dpju"
     type: article
     provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 26
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
     images:
-      - url: "https://images.thewest.com.au/publication/C-11321100/8daa1c374c9cc2c619e45ee0b0799233bf9372f0-16x9-x2350y263w1417h797.jpg?imwidth=1200"
+      - url: "https://static.ffx.io/images/$zoom_0.9415%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_165/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fa20c0930a974b181864aebe0d1a612c53688ec6"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
   - title: "Yes supporters to the Indigenous voice to parliament have raised some of the best reasons to vote No"
     excerpt: "Official Yes and No campaign pamphlets for the referendum have been released. Yes campaigners are upset the No pamphlet quotes extensively from the voice’s supporters."
@@ -100,26 +75,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
-  - title: "Noel Pearson on Indigenous voice to parliament: ‘Empowering family must be the focus’"
-    excerpt: "Pearson has been at the forefront of the push for constitutional recognition since 2007, when prime minister John Howard first pledged support for a referendum on the issue. Asked why it has taken so long to come to fruition, Pearson replies: “Because it’s a blackfella issue. It’s hard to get a blackfella issue up.”"
-    publishedDateTime: 2023-07-21T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/noel-pearson-on-indigenous-voice-to-parliament-empowering-family-must-be-the-focus/news-story/9b3abd4e1f370369e5e08a8d68d38853?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 17
-  - title: "We gave the Voice to Parliament pamphlets to fact checkers. Here's what they said"
-    excerpt: "The official Yes and No pamphlets in the Voice to Parliament race are now available online, and will soon be landing in Australian mailboxes. But the Australian Electoral Commission (AEC) is only able to publish the pamphlets as they were submitted, crucially without fact-checking their claims."
-    publishedDateTime: 2023-07-21T20:44:00Z
-    webUrl: "https://www.sbs.com.au/news/article/we-gave-the-voice-to-parliament-pamphlets-to-fact-checkers-heres-what-they-said/avgm10cuo"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 14
 
 secured: "ArawZDcPi8ntTCqyqVRwHhJuY2nuxD6YgpkhSEKFZLSd2QQEHbE5Bxh7iCi4TRv/fBt5sDqx6FikdYqaAMGBgclPgBjgFh/EuzJ/9+dCyTQXF7oNnh7UZixISCt97DcPR9XnPAssMPsXsG1azUIUttbuZKVKJBM3GmH6KjzleYRJ/0Mqd7tMMLPT8mcmxjjZKg6w+odgMQ1n9Ah9crms6YVaIjkMDRfScZkj4Ikf9IqTVnbAmxnZdS8cvIJBkz/9d42QjY1HeH0ERBmEr6zSLBq2DrEHkuo1yReB8d7SvjTpyYhdi48DhO2n3CNNmzBvKpTYTBiiTi0wc0yfBwM4F441IWosXRJFfIzkQ26qbOQ=;M5lpjo7i2uGHX1DpfPvlTw=="
 ---

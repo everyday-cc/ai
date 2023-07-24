@@ -54,15 +54,6 @@ related:
         width: 969
         height: 631
         isCached: true
-  - title: "AI Redefining Marketing Strategy Creates Big Implications For Leaders"
-    excerpt: "AI's increasing role in business disrupts traditional sales funnels, making way for data-driven models for customer relationship management and B2B marketing."
-    publishedDateTime: 2023-07-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/benjaminlaker/2023/07/19/how-ai-is-redefining-marketing-strategy-for-the-data-driven-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "The Market Is Rebounding, and These 3 AI Stocks Are Leading the Way. Are They Still Buys?"
     excerpt: "Artificial intelligence (AI) has captivated the market following the launch of ChatGPT late last year, and investors are betting on an AI-driven boom, as the new technology could disrupt everything from internet search to cloud computing to even automobiles, by way of self-driving cars."
     publishedDateTime: 2023-07-21T10:07:00Z
@@ -86,6 +77,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "How AI Algorithms Can Learn Like Humans With Continual Learning Training"
+    excerpt: "Continual learning is a promising aspect of AI algorithms that enables computers to continuously learn a sequence of tasks, building on accumulated knowledge to improve their performance. But, just like humans,"
+    publishedDateTime: 2023-07-23T10:48:00Z
+    webUrl: "https://www.cryptopolitan.com/how-ai-algorithms-with-continual-learning/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 38
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-23_09-17-32.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
     excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
     publishedDateTime: 2023-07-23T06:58:00Z
@@ -114,15 +119,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Introducing MeetingCulture.ai from Decisions: Bringing enterprise-grade AI to meetings"
-    excerpt: "Combining artificial intelligence with our leading meeting-management platform, Decisions is redefining how structured meetings are run. \"MeetingCulture.ai not only revolutionizes productivity for our customers and users,"
-    publishedDateTime: 2023-07-19T09:20:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/19/9850502.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "wi1UDvlVmLPnPoqWrYKe7oJAdNyideyC0Fq1UOLAYFE7UefUGxCQEuLh8M0NlePoZhlAmJ4wbmEzBdsd/6vWxGV4at+2lneYrx3fCILkNGFqSzLuay0uT8IZDhCKVh84Gq37RcjZNLifSkF9e6ff3cZTmyPMTBGuG4iUqMTWGjj3EqohiBwyaYPMCwEitvrgWN8vYcCsNB7Vzcz5UxKaUsKzB8LeBsSSkpQylGicVqtPt3ZV38PwKx5LirSJIpKlmZP6mZdhiK3JceWmxyqznODKbrNxOvczle7Y3tEdoPiizY0/hboGQWScB3hdS9oywfzLKoDfqpTj3nP2/pUSWaaBLwWOTsOEIcAVeRnqxNzpoMiLnagUCc0S4EVBPCcMmF75x7Fx/T8fj9g54zc1VkSCvHm7ixpPvOqbGif3p4p6/2fO4I/ioXNO96M8ZyTjAOYbcqHFg9gXwgxilKdo38wGCPYa/qViOK1fKZFhhZIxBA7O/w2ZEwrRtk+6QJI8qyGyURCahH1yOqm6Uh1Y8g==;8gmnOemMljbyK3xHVcYwDA=="
 ---

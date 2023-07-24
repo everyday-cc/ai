@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-ai-sergey-brin-3347338/"
 webUrl: "https://www.androidauthority.com/google-ai-sergey-brin-3347338/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
     excerpt: "Dr Karen DeSalvo excited by arrival of artificial intelligence but warns it has limitations and will only be ‘tool in the toolbox’ of medical professionals"
     publishedDateTime: 2023-07-23T14:00:00Z
     webUrl: "https://www.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 40
+    images:
+      - url: "https://i.guim.co.uk/img/media/76882b37adf84a86918acb6e0cff141a15778c3b/0_187_4000_2401/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=ab3d66d745ac59e8eea9717e1d3e664e"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Dr Google? AI could be doctor in the pocket, but company’s health officer urges caution about its limits"
+    excerpt: "Dr Karen DeSalvo is excited by the arrival of artificial intelligence but warns it has limitations and will only be a ‘tool in the toolbox’ of medical professionals"
+    publishedDateTime: 2023-07-23T21:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo?bingParse"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/24/google-ai-doctor-caution-karen-desalvo"
     type: article

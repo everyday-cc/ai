@@ -24,59 +24,66 @@ images:
     isCached: true
 
 related:
-  - title: "Meta launches AI research community to address pressing challenges in AI"
-    excerpt: "New Delhi, July 19 (IANS) Meta (formerly Facebook) has launched a new organisation, the Open Innovation AI Research Community for academic researchers, designed to foster transparency, innovation, and collaboration in the field of artificial intelligence (AI)."
-    publishedDateTime: 2023-07-19T09:28:00Z
-    webUrl: "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai"
-    ampWebUrl: "https://glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/meta-launches-ai-research-community-to-address-pressing-challenges-in-ai?amp=1"
+  - title: "How AI Is Changing The Way We Communicate"
+    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
+    publishedDateTime: 2023-07-19T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 58
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/07/9821ae2f64fe1e0dfea0fe0c41b9015b.jpg"
-        width: 304
-        height: 288
-        isCached: true
-  - title: "AVIA launches health care AI research collaborative"
-    excerpt: "Digital health consulting firm AVIA announced a collaborative that will help hospitals, health systems and others research and share strategies to responsibly and ethically adopt artificial intelligence algorithms in health care."
-    publishedDateTime: 2023-07-20T21:42:00Z
-    webUrl: "https://www.aha.org/news/headline/2023-07-20-avia-launches-health-care-ai-research-collaborative"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
+    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
+    publishedDateTime: 2023-07-20T13:30:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
     type: article
     provider:
-      name: aha.org
-      domain: aha.org
-    quality: 39
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
     images:
-      - url: "https://www.aha.org/sites/default/files/2018-06/aha-medicaid-data-900x400.jpg"
-        width: 900
+      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
+        width: 690
         height: 400
         isCached: true
-  - title: "Meta launches new generative AI tool for free for research, commercial use"
-    excerpt: "Facebook's parent company Meta Platforms has released its latest large language model free for research and commercial use. Meta has partnered with Microsoft to"
-    publishedDateTime: 2023-07-19T21:58:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/meta-launches-new-generative-ai-tool-for-free-for-research-commercial-use.html"
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "How AI is bringing film stars back from the dead"
+    excerpt: "Celebrities such as James Dean can be brought back to life thanks to artificial intelligence, but it is raising troubling questions about what rights any of us have after we die."
+    publishedDateTime: 2023-07-19T14:52:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20230718-how-ai-is-bringing-film-stars-back-from-the-dead"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1l1xg.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "VSORA Announces All-in-One Single Chip Architecture to Meet Generative AI Processing Challenges"
-    excerpt: "VSORA, an innovative startup offering silicon intellectual property (IP) solutions and silicon chips, today unveiled Jotunn™, an all-in-one single-chip family to provide a massive jump in performance for Generative AI inferencing processing challenges."
-    publishedDateTime: 2023-07-19T13:21:00Z
-    webUrl: "https://www.design-reuse.com/news/54462/vsora-chatgpt-on-chip-architecture.html"
+  - title: "Generative AI bots will change how we write forever — and that’s a good thing"
+    excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
+    publishedDateTime: 2023-07-22T13:01:00Z
+    webUrl: "https://thehill.com/opinion/technology/4107998-generative-ai-bots-will-change-how-we-write-forever-and-thats-a-good-thing/"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 22
+      name: The Hill
+      domain: thehill.com
+    quality: 16
 
 secured: "A1b0yzCja/lrpOPvPseZjQ2KLCi25xQxahBMQWTjPR0hO1eZ2WNzny1kDBrbrhzCqpYeBfF9RDdbDWtoCS0Csotq+dWx2idKHLgwTTzR2l3gigvBFqRNvIyMOouVLDBldw4zfni+dZqiIdfVBjnYjRAoDecL68MAzOSfcwbwEMNT6Kq3UjPwYSeiNuRRjjnvTcLki4guzTDGX40bBrsMZEaiw6I+PhI60WwZyQ3p3l+S+VIdI8vaoAzy6gJVj768ZodowUDGCf4+TO833P3Ek1zsLj+rb+U8DVWXspXxUZvPIxcvlV4FY5/ZK6tjbt2FIQfUdBeEkX8kal5955vViBdY5v1tSB9L5n6l2rCfebs=;kEcB68HTtpnDiiP7GbSnSQ=="
 ---

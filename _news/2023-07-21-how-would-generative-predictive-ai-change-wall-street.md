@@ -33,6 +33,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AVIA launches health care AI research collaborative"
+    excerpt: "Digital health consulting firm AVIA announced a collaborative that will help hospitals, health systems and others research and share strategies to responsibly and ethically adopt artificial intelligence algorithms in health care."
+    publishedDateTime: 2023-07-20T21:42:00Z
+    webUrl: "https://www.aha.org/news/headline/2023-07-20-avia-launches-health-care-ai-research-collaborative"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2018-06/aha-medicaid-data-900x400.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "AVIA Forms Pioneering Industry Collaborative to Identify AI Risks and Opportunities in Healthcare"
     excerpt: "Over 20 health systems, industry associations, and government leaders have joined AVIA’s Generative AI Strategic Collaborative"
     publishedDateTime: 2023-07-19T15:03:00Z

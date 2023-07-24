@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-24T01:11:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age-1032467826"
 webUrl: "https://markets.businessinsider.com/news/stocks/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age-1032467826"
 type: article
-quality: 63
-heat: 83
+quality: 65
+heat: 85
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://mma.prnewswire.com/media/2159742/DQ_Institute_1.jpg"
@@ -54,6 +55,6 @@ related:
       domain: pcquest.com
     quality: 30
 
-secured: "ECVRMNEy3joU2cd4Z3ug4IDL1EstNkTV12e7NTbXf+66VfpjY0WamegY7vggOhannmOPe/IdSj9g2xYtlVPdq6c+8cgHfTJyIS5qA1Cw6CNmzgMY3rfV8XFTQDvG9dsud1BN07Vn9IHZuOVOYoSo25j3cX0PwSxaRLFMT9UW8e4py8KKjXp1jBTJnpZStXEUW+VLjVtuG0egJY/PohWOYVPwqytp6Lojw0pQx7Hktvkc93YXUGYW+4emx8LbSWmKWQvVmXbjo+1m1b1HLRifaUVVom2ZsBugoB2R67ImY5+sB2JwAWQ/sgX2JBB5QEfO/5ddxfarNJG0y3yIbHxYLf2jYf2XQa2/eTkGoS794JA=;0TLaQ8WrWD/ytdHIyRmQog=="
+secured: "pr0ryBOjZzz5Ji1oSxTX13AO12x5WT3h6qiA8/Ts6K4j26VqplimXKTUyCMN3fKgv+ny1RwAzi3FwNT2yNnwWIzOv8ThRCbkZvOD16FV+MfDDBn9QW6aCeJiqUqJeWR4Xw/BKtvQeBQy7OKmtOslwHKA+nQcWs+UcXyKhdpIS09SbLx6G9XvA48OTMdGw0Ce6rFUJOUg1qYPObCN1j928HtaGT7XDedx9lPNKrTDNBJRdzz46WXd8rr1chsZ77EeCs9vckfOlfVQsoajnLI+DA4tCeQWH4gQS5Qd+JsusN62eLcC4bacemrznyVExQ6OyZ17yDczbVK6X0HAsnzDf/ROYcW0JvcWPUbPrwTgqOC9GllEw1egclcs4i+rWs+yke8ugP3pTevYqgoq6Dj/x5nrQn9BQ3lAbGUTP6bZqXb44wdSTIdQuhPi1iGmNttiloWuRU32Q1WfA2Tye1WqbCAaCIxUllc1P40X3aEE7bzbO9iAFlaI/+q44qkeX+tBtz+ZI6H41+LL6QQTmXDE9g==;8iBuXEtgRCo5qoao7EyOLw=="
 ---
 

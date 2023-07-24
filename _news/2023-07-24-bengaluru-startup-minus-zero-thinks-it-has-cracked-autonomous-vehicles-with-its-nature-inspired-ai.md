@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-24T01:15:00Z
 originalUrl: "https://yourstory.com/2023/07/bengaluru-autonomous-vehicle-startup-minus-zero-nature-inspired-ai"
 webUrl: "https://yourstory.com/2023/07/bengaluru-autonomous-vehicle-startup-minus-zero-nature-inspired-ai"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.yourstory.com/cs/2/f49f80307d7911eaa66f3b309d9a28f5/2022-featuredimages19-1689948379026.png?fm=png&auto=format"
@@ -23,6 +24,22 @@ images:
     height: 800
     isCached: true
 
-secured: "0XSjoXMPODAtlLMChdFQ+Ps6FECqtwDy7eRyjTpSs3HAkt4jpuWY08/0tdAafNkGnbgDzvMty/+MO5POfRWtyYtma3zLVYBXOlaL8c1jRyimN9nTDYoPaMFRO7r8Vngkj7RZCBZK1wPwF0K7+XmdtiwRFy9PgQqbT9tDjkZBFdMfkbfAIIANoIzXwyFs/trGbKhh8Y82F7xthzj+Y+ahpAsJyv3rHEL40AatQ9Zwb2F3ONPF7TkSjSQxPEMawm51mBGJmUT7LVcqee3plz/SQH8HEfAsuU5R2pnQgmCjfXE0t8Vn5YpOO40NW9Xtr1DHl6LmaANTZ6ug7flU0tMiAAR0EhNjZLG1MfvJ3O97rZo=;ydeQpH27Pg7Hpilsziz1LQ=="
+related:
+  - title: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI"
+    excerpt: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI - Autonomous mobility has faced numerous challenges that have hindered its widespread adoption."
+    publishedDateTime: 2023-07-24T02:52:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/minus-zero-an-autonomous-mobility-startup-takes-a-natureinspired-approach-to-ai-nid-224244-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/k4WeCHUB.jpg"
+        width: 570
+        height: 367
+        isCached: true
+
+secured: "kJnRI/VCvdSj6WvdEu3kGs3vUrjbsFFRAT1oE+VFYZSasAuxSYPcrmaJE23mL1NN+88SSK8TduvziMQnfE3J4T3qZZWmu6Q91Sk6Wz4PwyTu5JYSFZzN+E0cUZSUwi3WFK0Xi5E6jWR/J6K2Rmt9TkBjAN5owV5iVgIbA9PVsYhiK9wVL5YFV5BCwCtGAyLmZBDKYpf7fClZZSufNsH6jPtCq/xPy91HJXbnk9w4gxBLX2IV5mTt9bP2Z/2m2mbSAhaYm8/zSZbwPTO/QDMUjfT1YikE+86PFaDKEBd27OIllfAZbdfoxfMMVaqoyZ3hZIcxEeA3Pjwng04nCKT7q9ZBAFiC+cUq2JZn1EWIZRCpqRsyZAf184kaNA3ylBuVkBxJCOFTuRznErc6Gt/fCs6v5RK4WS0A6yxtVpQImouYdku3keMayTz29DTzi20q+rb+5aGE6cFBN5OaVozMkw4FbLDzB/XSUALLf8Hc1UzbA7O6Px0VAfMXVGNhHNEoz284ASWrwX1+vLNCmm6QwA==;svlPUgEcS+fIiMrZ794Pxw=="
 ---
 

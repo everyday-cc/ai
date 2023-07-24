@@ -154,22 +154,6 @@ related:
         width: 3414
         height: 2266
         isCached: true
-  - title: "Meta’s Llama 2 Joins The AI Race In Collaboration With Microsoft"
-    excerpt: "Meta has unveiled its Llama 2 Large Language Model for businesses and researchers as an open-source AI model for commercial use."
-    publishedDateTime: 2023-07-19T09:20:00Z
-    webUrl: "https://beebom.com/metas-llama-2-ai-model-announced/"
-    ampWebUrl: "https://beebom.com/metas-llama-2-ai-model-announced/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/metas-llama-2-ai-model-announced/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 74
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/07/Met-unveils-Lllama-2-as-commercial-AI-model.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Better Bull Market Buy: Microsoft vs. Alphabet Stock"
     excerpt: "As a result, Microsoft trades at a nosebleed-inducing 12 times sales and 67 times free cash flow with a market cap north of $2.55 trillion. The equally impressive (and in some ways superior) peer we know as Alphabet offers a more comfortable buy-in point at 5.5 times sales and 25 times free cash flows."
     publishedDateTime: 2023-07-21T09:25:00Z

@@ -34,6 +34,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AVIA launches health care AI research collaborative"
+    excerpt: "Digital health consulting firm AVIA announced a collaborative that will help hospitals, health systems and others research and share strategies to responsibly and ethically adopt artificial intelligence algorithms in health care."
+    publishedDateTime: 2023-07-20T21:42:00Z
+    webUrl: "https://www.aha.org/news/headline/2023-07-20-avia-launches-health-care-ai-research-collaborative"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 39
+    images:
+      - url: "https://www.aha.org/sites/default/files/2018-06/aha-medicaid-data-900x400.jpg"
+        width: 900
+        height: 400
+        isCached: true
   - title: "How Would Generative, Predictive AI Change Wall Street?"
     excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"
     publishedDateTime: 2023-07-21T01:02:00Z

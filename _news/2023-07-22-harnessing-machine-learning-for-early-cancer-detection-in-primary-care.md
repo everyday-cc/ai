@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-canc
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Model Can Detect Stroke Lesions More Accurately"
-    excerpt: "The proposed approach outperforms other neural network architectures by leveraging rich geometric information to segment brain stroke lesion images."
-    publishedDateTime: 2023-07-19T09:13:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/deep-learning-model-can-detect-stroke-lesions-more-accurately-376425"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 39
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/376425/deep-learning-model-can-detect-stroke-lesions-more-accurately-376425-640x360.jpg?cb=20230719"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Harnessing machine learning for early cancer detection in primary care"
     excerpt: "On June 9, 2023, a new editorial paper was published in Oncoscience, entitled, “Transforming early cancer detection in primary care: harnessing the power of machine learning.”"
     publishedDateTime: 2023-07-21T00:00:00Z
