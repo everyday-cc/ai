@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "U.S. Lawmakers Want Chinese Companies Banned From Testing Self-Driving Tech"
-    excerpt: "The Chinese government doesn't allow American companies to test autonomous tech, and Congress members think the U.S. should enact a similar ban"
-    publishedDateTime: 2023-07-19T11:59:00Z
-    webUrl: "https://www.carscoops.com/2023/07/u-s-lawmakers-want-chinese-companies-banned-from-testing-self-driving-tech/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 2
 
 secured: "3udw+ud+eESiPGh/RXllICmAB6hBMS/ku6y3dvRh/dYpak6BSOS7PtvUTUv1Kr00cX8PENXG8Vioiz1fw0/uiX/IfCQf8wpG6L/sa63jLwQH6M4g+RHmIRZA0lnDNnT1j5jZfWOQivvh6wjGRkTfOiJsWkWhZ3LbeQ0uIubyBWz6CxriQtRnERu3xB5OsIFXU+cXK7YgHff6bNwL3foScUFHX/BP5j+fyIKVltw+cBsiR0ez7ooiBQQUZ2OUiCkmktMc94XbvkDyw5BEkb9p43JElVJWvg+c/1eBix4yknCv6wCJJh1N/g91P5P3Fi4mLZaRf5vXgkDAc5QZg9gIGh9eUsl1wO9bTpesNpcvQJo=;aybA9OMRAiF6Lysra3a+JQ=="
 ---

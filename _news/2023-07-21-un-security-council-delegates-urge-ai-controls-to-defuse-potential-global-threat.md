@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/un-security-council-delegat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "UN Security Council discusses AI risks, need for ethical regulation"
-    excerpt: "The UN Security Council met with two artificial intelligence experts this week to debate the benefits and challenges posed by current and future AI applications."
-    publishedDateTime: 2023-07-19T11:07:00Z
-    webUrl: "https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.html"
-    ampWebUrl: "https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/united_nations-100943560-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "UN Security Council Debates Virtues, Failings of Artificial Intelligence"
     excerpt: "UN Secretary-General Antonio Guterres says, 'AI will have an impact on every area of our lives' and advocated for the creation of 'new United Nations entity to support collective efforts to govern thi"
     publishedDateTime: 2023-07-20T13:38:00Z

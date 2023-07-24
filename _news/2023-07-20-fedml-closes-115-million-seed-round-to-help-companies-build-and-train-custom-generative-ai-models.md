@@ -37,20 +37,6 @@ related:
         width: 2000
         height: 1400
         isCached: true
-  - title: "FedML Closes $11.5M Seed Round to Help Companies Build and Train Custom Generative AI Models"
-    excerpt: "Unfortunately, custom AI models are prohibitively expensive to build and maintain due to high data, cloud infrastructure and engineering costs. Those costs are growing due to the huge demand for GPU resources, leading to shortages worldwide. Moreover ..."
-    publishedDateTime: 2023-07-20T17:43:00Z
-    webUrl: "https://www.datanami.com/this-just-in/fedml-closes-11-5m-seed-round-to-help-companies-build-and-train-custom-generative-ai-models/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 28
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/07/fedml-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "hhE/dxxRuwbVSn7bGX1AA6P0pTprJQUicPOLpRsM5dGdRBSoSe1rwIaWsRNONBMLnaYmyReLjnR+6bMXIqyG4/MSIGedUZzetD3lwrvA/qxejViDnJ2kqcvImXgxrYF4vRB+VEZnvQUUSRvuX5V12w57DjYAhEszr/O3ZxBn+bu5i4l8JwIpRQ5WcBbeiCvVvUy6F3Rtd37OIm5HyHumRfyI1RcDsc5ecL/SgM9df28jigEsKkvvtDJk5o+B8ki6wevcw9eemcUx74ZXD8M7+Xs+J4ohPk2QJKsaBfs9UEY2vl5HQpWY8ecGkTNqNKr85rjlCw7ErwrnbqnmXwwN7vo5nr5we+T9Y8+5P1qYEmo=;8vFEvhthWPf5SjY5AF0qbA=="
 ---

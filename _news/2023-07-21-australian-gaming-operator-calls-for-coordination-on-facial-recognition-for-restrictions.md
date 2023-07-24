@@ -54,15 +54,6 @@ related:
         height: 1334
         isCached: true
   - title: "Meta lets loose second generation of Llama AI models"
-    excerpt: "Meta says organizations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
-    publishedDateTime: 2023-07-19T12:21:00Z
-    webUrl: "https://www.infoworld.com/article/3702732/meta-lets-loose-second-generation-of-llama-ai-models.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 53
-  - title: "Meta lets loose second generation of Llama AI models"
     excerpt: "Meta says organisations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
     publishedDateTime: 2023-07-19T23:35:00Z
     webUrl: "https://www.reseller.co.nz/article/708087/meta-lets-loose-second-generation-llama-ai-models/"
@@ -122,6 +113,20 @@ related:
       name: Slator
       domain: slator.com
     quality: 19
+  - title: "Apple Is Using 'ChatGPT-Like' Tool Internally For Summarizing, Answering Questions: Report"
+    excerpt: "As other big tech companies continue to release new AI products and announce AI collaborations, Apple, known for wrapping its products in secrecy, is reportedly working on AI tools that could challenge the likes of OpenAI's ChatGPT."
+    publishedDateTime: 2023-07-24T05:38:00Z
+    webUrl: "https://www.ibtimes.com/apple-using-chatgpt-like-tool-internally-summarizing-answering-questions-report-3706288"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 14
+    images:
+      - url: "https://d.ibtimes.com/en/full/4449785/women-uses-her-iphone-mobile-device-she-passes-lighted-apple-logo-apple-store-new-york.jpg"
+        width: 1200
+        height: 767
+        isCached: true
 
 secured: "XN/S1qKfITUwcfNZEtv0U9zhwMp1gBja0+6KizG/JpSLP3A2hPuPkGLBCDHucqSIYsf7S3aAbpxMLddBOxJlQm/7G2Ijd0Cm85LO801rut5Q2HYCarrtlFpgZajHlRcuHag60R6u5T2XpXH6Ti/RFndlNtTnek4iACQn6t+fceV1/ZO3tk5vd2Jpgg1dwPNEkeji/m2GhSDkqI1nUdgaAwf63mEGI97zYHcsgUOm0QbxrCStyUBJdQ0t0UYWc8x+GpM47X5EQ2PzsoUcziltgOj7R+pW4H3oXMzbd9gLQlfU69WA8ye399qZmnsL4kejbaeZkr9meqGqWme07PSz/+g7RQtMNTsjbmCFSnqGViwbehnuFbwa8RJ51A3S9yvD9/C0RbR02X1G0fIjTdLdHPMJ5dmRqZQMISKLRDhcbo95Pui1nqATKQIuOsa953PWlbXHtTPeS8zRCqmLGD3ckUlX1OxuzQJbVNkxcNyg3ytXrJPKafP/e/KCA3FD5ZNfqYMs1hfF3GqwZXdx1Pd5dw==;MbUUZvtIam8bKhbQFgu+7g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/mi6-spy-chief-moore-prague-russia-iran-
 webUrl: "https://apnews.com/article/mi6-spy-chief-moore-prague-russia-iran-cfb837ebdfa3db8043dc655cbf3573d5"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Britain’s MI6 intelligence chief says AI won’t replace human spies"
-    excerpt: "PRAGUE – Artificial intelligence will change the world of espionage, but it won’t replace human spies, the head of Britain’s MI6 intelligence agency says in prepared remarks released Wednesday."
-    publishedDateTime: 2023-07-19T11:41:00Z
-    webUrl: "https://www.click2houston.com/news/world/2023/07/19/britains-mi6-intelligence-chief-says-ai-wont-replace-human-spies/"
+  - title: "How militaries are using artificial intelligence"
+    excerpt: "Artificial intelligence has been a crucial tool for many nations’ militaries for years. Now, with the war in Ukraine driving innovation, AI’s role is likely to grow. Paul Scharre, vice president and director of studies at the Center for a New American Security,"
+    publishedDateTime: 2023-07-19T13:35:00Z
+    webUrl: "https://www.pbs.org/newshour/classroom/2023/07/how-militaries-are-using-ai/"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/S5P4EMZOQZHDFGRN3UGY7I2BV4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
+      name: PBS
+      domain: pbs.org
+    quality: 17
 
 secured: "RNbISPYBhQP/CST6VO+05nTHwSHRDZ9H5ThmfWZ39nqd4EojOkBBuOC4Juy07m1yuJZVDmN+Yz7Lv0BV9dQY7vbcj98pFsgRkrhOQ1pCR800DvpLq7kdHawWTzoCsBIltNFroAx9PFdTo37mGh80gR8rtzWCnw94yjiGicPyGXsltI3oLUKyRlZ+PGfXjyCH1Qqi2FbhbZub7F7yE36q8+z7PLIkoJA0hgEJz+mAGmS65lQZvwLunyNuTi3KE39vRhkugzvzDUDH6xPq/0uljQ6pElCHEp8hOQIewCGbVPc3GOdAHbYWgFZtPozLVMep9y6i5xFu9Ms/q8v/ufCq+6OPcDr4UagSkacteE+LCgmiAl1jANrq26Wiaigt5zvZkbT8X4t2pZvjN757pagGYpo6rcLFij/CUVfkh9u3KrF002tx4VRtTnduqxjUQC2JkbMphSE9h99DPAbz3tLF8ADTvRsxmZkSUyY52xm6fuZwIr6akpEoIzGSltNbLOc90NKCFa4wbiAEgSBVTr5V0Q==;R5xku09gldbRm5B9TGKiBA=="
 ---

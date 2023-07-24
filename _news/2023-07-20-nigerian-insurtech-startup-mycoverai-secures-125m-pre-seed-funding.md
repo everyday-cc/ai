@@ -9,7 +9,7 @@ ampWebUrl: "https://disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-myc
 cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/?amp=1"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.gizbot.com/img/2023/07/saarthi-ai-tech-startup-employees-1689918180.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Insurtech Startup, MyCover.ai Secures $1.25M Pre-Seed Funding Led by Ventures Platform"
-    excerpt: "Nigeria-based insurtech startup, MyCover.ai has today announced the close of a $1.25 million pre-seed funding round, led by Ventures Platform."
-    publishedDateTime: 2023-07-19T11:23:00Z
-    webUrl: "https://pctechmag.com/2023/07/insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding-led-by-ventures-platform/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 29
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/07/MyCover-Founders.jpg"
-        width: 1735
-        height: 1200
         isCached: true
   - title: "TiE Rajasthan mentee startup InfraHive secures pre-seed funding from Silicon Valley investors"
     excerpt: "TiE Rajasthan, one of the most prominent Chapters of TiE Global, has announced the closure of a pre-seed funding round by its mentee startup InfraHive, a promising startup from Jaipur that specializes in AI infrastructure solutions."

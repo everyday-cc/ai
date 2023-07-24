@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/money/personal-finance/family-finance/art
 webUrl: "https://money.usnews.com/money/personal-finance/family-finance/articles/how-to-protect-against-ai-voice-cloning-attacks"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
-    excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
-    publishedDateTime: 2023-07-19T18:57:00Z
-    webUrl: "https://siliconangle.com/2023/07/19/shaping-ai-landscape-aws-prioritizes-security-genai-adoption-supercloud3/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
 
 secured: "+UuRut/ZBJTDnh3j14txDJY1TzPg6My1nc+Cedwbef9jjJMWNqaQ53PBzB3nz4xLTz1Y47sA0yZk0HSrn7lXgl4pIkYjuKk7RzfKbgeeSG5/6961LnOtxbJFUMAxUnS9blngMDYblX8RMIa1/X9hz4/P07BR+eltFSaNxqC2HB4fxiHPNKiVHY5oEaWv+hkv5iptWFmUra8cASaGjoI+OhLLfHbOVZFDDKQR37lVzDYuPPBck4lB57vOJqKiQyg8YBBAFBFrovyLDsqdQYYIbHm8jMTiF0jJm3XgNEkZyD6TX9cO+qMH/RdpypVr/rMTrNXRZBGkaO65PU/4mXn6K2NhDitpA/kE5dNV+LQ5iYKijWZCL1mBjygY0Im90dYQrVswHPyssnVWBiTkj+PXb9bEN8dx9uHQXpdpGY6S/qvSFMLHBGxC83IWVe8N56fvvGWeo0MbBfGaAVWH+BA5s3h8escgjBU1vdJAXmPyIOZ9ZvTRkus7g6oV1FDrUXiLKzIMUbKTTfW1NBOcshKZTA==;lBLl+EUScGfHcxvc3lY80w=="
 ---

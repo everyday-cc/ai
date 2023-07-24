@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-ena
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/how-ai-enabled-threat-intelligence-is-becoming-our-future/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/12/social-fallback.png?fit=1200%2C630&ssl=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The rise of AI forces us to reinterpret our human intelligence"
+    excerpt: "We will need better guides to teach us how to navigate a world built on the patterns we didn’t know we had created"
+    publishedDateTime: 2023-07-24T03:59:00Z
+    webUrl: "https://www.ft.com/content/dbe9be14-b94e-484e-accb-c135f7527fa4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
 
 secured: "TTkjmP7xYGsTFUSQqgjeWRWVkTZS3uTXP6W0xVguO9wHhQIZXGXrKDQ3HKyA5vdJ5RwJlT/w21WQLNySxBY/ra1J/u6gnqWVixJAzWWSMgxTGgjDB2Wi9AHssN3gzAn8H5lxbYO/DWNUJc1SLP9eTRqAExzz4e6ykuFCEZHNy+u2w7cbXdHyc1M8s/yKcGC9rBUs089FfeFaLBKFfSDnXjoYyweHIyT3IM1vwBFWHCeEMQlPPq5aaCDFygl1/wOGz/v7DoE3v/DR5CFZsuSvKC21ZEEfSgsc04bDapnMXEdOhm0LyUXMZ14k6YHtqC8TXIKlUybaxecY7rpsq4BaR5DJAGa00h85bU0veX991gs=;3aszUf1vbeUjRYhBkdniHA=="

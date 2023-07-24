@@ -81,15 +81,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
-  - title: "The Senate’s fintech fight"
-    excerpt: "A bipartisan group of senators and the Biden administration are about to clash over the future of fintech lending."
-    publishedDateTime: 2023-07-19T11:59:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2023/07/19/the-senates-fintech-fight-00106983"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 4
 
 secured: "YtF2RvGEoyB2iZ03cq7pRfjrZBDOZQLmObPPfG3iJm2ziY+5wO3ahPxmQThqLY4X4f2Av0nuoS5/z8O/BQuQXPorxVPwYTKZGNS0sZH8ilCUr3B3321uhclE07wrlvj0tGrGQEMVs4hr2++G3j2XMSHnUFew8kJLlT3etvjzS7lIburFnFGdANkSLepoHDWRCqp0pIyGPKpX9CFhjmJa2js0JBdG3txhYEW9AtSuTLK7iTcO960kN64Fr9WV03kXml7WvItxKWWyWS6DCLdsWIhUQwm3aT/hQa1V8qV9EkxPMdxzOBnbcewsgGBdetA4Wkp2FX4X5IqfDJvWiEyfgWrfPHY84+8FiQT7PDLHNHQ=;VB6QuYxxg1/0TcEXkfSLMQ=="
 ---

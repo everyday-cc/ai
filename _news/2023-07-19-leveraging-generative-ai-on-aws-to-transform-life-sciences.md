@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transf
 webUrl: "https://www.ibm.com/blog/leveraging-generative-ai-on-aws-to-transform-life-sciences/"
 type: article
 quality: 116
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -97,22 +97,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "TCS to work on digital transformation of GE HealthCare's IT operating model"
-    excerpt: "and standardization of GE HealthCare's enterprise IT applications. In a press statement, TCS added that the objective is to leverage advanced software engineering practices, artificial intelligence, and digital technologies to achieve faster value ..."
-    publishedDateTime: 2023-07-19T11:48:00Z
-    webUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/TCS.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Single chip architecture to meet generative AI processing challenges"
     excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."

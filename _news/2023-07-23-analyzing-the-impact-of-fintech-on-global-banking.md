@@ -81,15 +81,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "The Senate’s fintech fight"
-    excerpt: "A bipartisan group of senators and the Biden administration are about to clash over the future of fintech lending."
-    publishedDateTime: 2023-07-19T11:59:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2023/07/19/the-senates-fintech-fight-00106983"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 4
 
 secured: "Q10dYuyn522ljkgKIOS87+u6gpAPnHUkXC2EX7X5f0hVFhiRH4qt2SMuxVKfIkbATLE5+M/c7YqfJdwro57caBOLuJkIFz3u/Fl5aQBlvMO9EqR64OLzgDZYaR6M6DqACZDQnVJPyi2+5R11V6lBmszdMJY8KkCaPrYxj2SKCXlqLgTOLGYT9Id/bRPJW25WfqwnLcnd1flOgzjSAm8LOecsnuqufAlRVsc9/c4yt+w0NFxfN8CyaHFo7ctxDHw4EZ30on9jTwQ37lSgDebPQtByOxoq34OZ51r6baNVR3YVyuyDJMKxcvxoxkmqzc+G16oel/U4HUlqAbWgRRvnIWVR+9KQbq5vpFxdn/9Kms4=;7zWzcmFE1KusafJpl7mmnw=="
 ---

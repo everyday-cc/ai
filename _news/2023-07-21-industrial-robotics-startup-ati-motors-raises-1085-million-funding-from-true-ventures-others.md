@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/industrial-robotics-startup
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Industrial robotics company Ati Motors raises $10.85 million in Series A round led by True Ventures"
+    excerpt: "The latest funding, according to the company, will help it expand into markets in the US, South East Asia, Japan, and Europe and explore untapped opportunities across pharmaceuticals, chemicals, maritime,"
+    publishedDateTime: 2023-07-22T01:45:00Z
+    webUrl: "https://www.financialexpress.com/industry/sme/msme-industrial-robotics-company-ati-motors-raises-10-85-million-in-series-a-round-led-by-true-ventures/3182017/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 35
   - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
     excerpt: "Ati Motors, maker of autonomous industrial robots, today announced the close of its Series A funding round in the amount of US$10.85 million. The investment, occurring alongside the company's product launch event,"
     publishedDateTime: 2023-07-21T13:38:00Z

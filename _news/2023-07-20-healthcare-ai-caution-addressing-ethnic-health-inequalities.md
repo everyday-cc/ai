@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-address
 webUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 12
-  - title: "GenHealth.AI Accelerates into Healthcare AI Market with New Funding, Advisor Appointments and Use Cases Across Healthcare"
-    excerpt: "AI Start-up Pioneering Generative AI for Healthcare Receives $13M in Early Funding, Adds Industry Luminaries as Advisors, and Kicks off Use Cases for Health Insurance Plans and Provider Systems"
-    publishedDateTime: 2023-07-19T12:12:00Z
-    webUrl: "https://www.star-telegram.com/press-releases/article277457053.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 9
 
 secured: "rN56rWb1CQeQ2/SZ9Fl0I4IoYl1q67KtlgeyZwetW6l+KdBxQFX3pxNShJPdgwf1x9UaVtpaNHflbo1gkh//NU9VBPvrEMpIXA4ir+XugnQUK2L+t26PxWVU1I8YcP9+DE4aqwWFjmA1qAAyWI2KW+EpOhC3NiX2T+LVCdVlKmY2JoUXW5RtPuXq10lupMb+xBKutGn43QR6VpZjeB+T8Fb4yN+vT1W5hNFtpQdQK2vneVU3ZLdbPFK3IXv+N/1PFD1jkH2KgtWD6TRuSqvTVWFrERdJk/2YHo5egdJqbzGcw5hviQisgQZ0e6P1OQ/kejkNw5q2I/QulSvtVLeH8tNGbOK1zCPEO32S2CywwBYKs/aDUDYYVaQrntQPO7pPdUet3tc4AuwgSm9H1WW9Z6rjNMOJoh8ndwYZsQtkj0ZOTUd+vNehxpLOrAAf9RcWy+LggsY2a94X/C8+eDeVmKCSAccq0ZyOEKRLYcGXUdNNa1D+vAWenOufXWMMaBmTTlNZb+D/2pqPcrs7YbYP6Q==;D0fuzRqKG2WyL2+lRUh3CA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3228372/us-chip-curbs-are-scaring-venture-capital-firms-chinese-ai-start-ups-not-us-says-bluerun-ventures"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "U.S. Lawmakers Want Chinese Companies Banned From Testing Self-Driving Tech"
-    excerpt: "The Chinese government doesn't allow American companies to test autonomous tech, and Congress members think the U.S. should enact a similar ban"
-    publishedDateTime: 2023-07-19T11:59:00Z
-    webUrl: "https://www.carscoops.com/2023/07/u-s-lawmakers-want-chinese-companies-banned-from-testing-self-driving-tech/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 2
 
 secured: "bvZMmVVWaAnWGmzWiKrcEIscPz2+XyfPwcNuYiozcQ5ySOFrh06VJZIO0kT/CVThymxv3Arga/aLFt32ORQ7hWqOoASnNq6867kguM5sTRu51TBNdstOvbVSZVk8Ib+mEi3h1ieJ6E9CxC0IjoAh21YhCXzqJeGiceaEndsZMpHfOHbt9ybeTNQ70VltTTEql8V7ZxW97bGjntxnxm257EFmidgHfcSkoTC9oit/nS8JuDRa2y3zBOaOrVf57pO6O3g+5ELjlwYOa7DanTXW2Kl4tFwTH+KwVEPVdiQBU0LC7FyoI7M1+Rg+VT+zA9OtJmjNwDT21FpJcB+YG/EK7RAYeubg24oEio4VbCfh+4q5gBJNSXkXEt79D8zL2dO/ixDSQUczofiXY0jqGSOcq7iARJUp3vrFjuY/MtUbPiTWpFdQs/711KK0bhtW8fGht7W+VuXAXi8sIfUzpI48rCJEBGaUxJGt9p+9ceKb/6iioCEf71fo5DFUkBFFDqZK/NSoJG8M961FGUJNd4NCIg==;u/knuHEM7l6/ahHNZG8Lhw=="
 ---

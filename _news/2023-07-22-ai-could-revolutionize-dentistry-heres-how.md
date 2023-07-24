@@ -18,66 +18,94 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Continues To Revolutionize Cybersecurity"
-    excerpt: "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ..."
-    publishedDateTime: 2023-07-19T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
+  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
+    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
+    publishedDateTime: 2023-07-20T14:20:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200"
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Artificial intelligence at the heart of fifth industrial revolution"
+    excerpt: "A key component of industry 5.0, AI has potentially enormous benefits for everything from safety and quality control to sustainability"
+    publishedDateTime: 2023-07-19T23:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2023/07/20/artificial-intelligence-at-the-heart-of-fifth-industrial-revolution/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/resizer/ZZLf-r-E8Rso6R3VyDAc08PgLnU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/GQR2M4RLRJCWXDT6RDVFY4EJFY.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Cybersecurity In The Era Of AI And Quantum"
-    excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
-    publishedDateTime: 2023-07-22T05:29:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+  - title: "How robots are revolutionizing surgery"
+    excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."
+    publishedDateTime: 2023-07-20T15:44:00Z
+    webUrl: "https://www.fox13now.com/brand-spotlight/wellness-wednesday/how-robots-are-revolutionizing-surgery"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: fox13now
+      domain: fox13now.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200"
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1f70ce2/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F29d%2Fef205c0e5ea14d77944cbd6904335118%2F29db8d7db1a641ca99cdbe0b8c7b6104%2Fposter_f186a14be22c4c8c9a18abdbc4f5d36e.jpg"
         width: 1200
-        height: 1500
+        height: 630
         isCached: true
-  - title: "The growing impact of generative AI on cybersecurity and identity theft"
-    excerpt: "Personal data is under siege in the digital world. Beating the threat takes building a comprehensive, multi-layered fraud stack."
-    publishedDateTime: 2023-07-21T14:26:00Z
-    webUrl: "https://venturebeat.com/security/the-growing-impact-of-generative-ai-on-cybersecurity-and-identity-theft/"
+  - title: "How AI is shaping clinical research"
+    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
+    publishedDateTime: 2023-07-21T10:31:00Z
+    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: labiotech
+      domain: labiotech.eu
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/AdobeStock_598980629.jpeg?w=1200&strip=all"
+      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "How high-performance computing at the edge fuels AI, AR/VR, cybersecurity and more"
-    excerpt: "HPC at the edge — bringing computing power closer to the data center — empowers real-time applications for generative AI software, AR/VR and more."
-    publishedDateTime: 2023-07-20T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-high-performance-computing-at-the-edge-is-reshaping-data-center-intelligence/"
+  - title: "What’s Makes Artificial Intelligence “Tick” and How it Aims to Revolutionize Waste Recovery Operations of the Future"
+    excerpt: "Greyparrot, with $17 million in funding from Closed Loop Partners, Amcor, and Regeneration.VC, among others, developed and sells an AI waste analytics platform that operates in 10 countries. Waste360: What are some pressing current challenges in waste management?"
+    publishedDateTime: 2023-07-20T12:02:00Z
+    webUrl: "https://www.waste360.com/fleets-technology/whats-makes-artificial-intelligence-tick-and-how-it-aims-revolutionize-waste"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
+      name: Waste360
+      domain: waste360.com
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/3.-How-HPC-at-the-edge-can-deliver-enhanced-business-value2.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
+      - url: "https://www.waste360.com/sites/waste360.com/files/aifeat_0.png"
+        width: 1540
+        height: 800
         isCached: true
+  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
+    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
+    publishedDateTime: 2023-07-20T19:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 16
+  - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
+    excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"
+    publishedDateTime: 2023-07-19T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33289997/introducing-paintit-ai-revolutionizing-interior-design-with-ai-generated-visualizations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "3THYKe6mV8SuqXNQVwmni4k0A1l7oGXm06jhnXncgVDED+rHhUi5hAj1bKuhlRWQu3ZPrSa17QsAbr8ge4zkh6NXf/1Rbb+AAo1HnwnSCYf43q7JjcgVYv4jtcBEZVnWcb+e3c2vDqQX48n4rMDDh95Uoq/ihLmZmyGECJWPnCYpL4lu3jGNm/YX0OIVFXzs4tYmm9Y/NQDIiI5z2zVySQgMDkNUfMssBqMThyAa7CRxWgn2sJrYXdQMBehE7gNVZFw57dnj5AcLd1TggqyKPOZGQO1PcJJtP9q7Zwd6qrSwJlKyFWMsxl2rreXbXw1eaeoS0B5FvawI1ceGPsfJyJIZAqi1GZPag9yjCOpiYJtyzYzrkdQDRMI0MgQvcC0z10E9mFTH+TzEp5Pyom/NmGrYfeUmEOjxFP5xv2NVtIncNiCR4dbg1CFDeNWz3yh85WC4ZW2H4ODaiU1Jrpmo9jXsA22JcYO1Pmo0LD2gOgbp1WMW8xsEfh1jKM8PxDz4zvSEz4xo0ug5/GpMl5BISQ==;KK15aGNz6Ccq7IZdpUS2JA=="
 ---

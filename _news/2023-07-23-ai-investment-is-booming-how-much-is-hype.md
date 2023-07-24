@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html"
 type: article
 quality: 89
-heat: 103
+heat: 104
 published: true
 
 provider:
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://media.cnn.com/api/v1/images/stellar/prod/230718092914-business-startup-stock.jpg?c=16x9&q=w_800,c_fill"
@@ -48,6 +48,6 @@ related:
         height: 576
         isCached: true
 
-secured: "G4fHXt/WrdacbP8K7uTF9mNlgw9UlBdmnAYpD+QIB72SW28M+SVVJpoeNgio3R//2W2hAlvuxB/rSVbQTEp8HFweZF4UV6SuRK5MF05NK+LXS6W4itYO52gfuKjl0rDueum6lIwDmIomqnfe0QQYeBjA8/b50s/jqAgJ7Tt0TNUPxFSjUuJzN8j9plPsXmi9XMhIUiGj6HzW3hSUutlqqceN5ZjWUCwVmOfgeweFX6e6uvt9B90HLn1/C/vJ+ZUP9D8PQ4vDKCztL9UnQguqRYh05jVYZZXNs9yjubXBbk2/y/qXPWgva37sErt/SzS2bhsIdbz0QlTPUS3lXghiFEbnJOU6dtcnBJq4keNukkorsfCwnOxodv9/Dd4NKUFFlT0Xrgdw8ukWn+dup0alcMC+d6vb1HpDpBv72OMBmLlM3GclRHun2NYgi6VAVRfBRJRviGI84VMu30uDjh9ONjVUPmDZu522ZH/eNjpgSV9b6uUfhNoPkoZpw4VSQSKYNOxGcn23aTNATAch3sR6Gw==;uikmTJ2Csky9UUS0vuXVdA=="
+secured: "1RjI77MNkxlR/dJzFxSDB1kSIMByPHGZgetwJpzin9LZWJC9hCxYudDRZN2jOauxLQf18Np8SA8rL6Wm8P2BrI/gHQb+yePZwFtMVdxgBOvGx04vU+rDzU4va81BNsGnOBdtz0udg0XgdCCq5vmdWk5hQOJHaZErnNMUZaXqPpWhy5rkwA2MUzPKopcKRDLzPeLJVvEbk24hb9q1qoI42WnnNoM8+SnNP3UTYS3cLPBHna7A+2m+dReu3EcZg7dBT+l4+T587Y///jKeJB1GRcRwCTr3iuO2O8Yk6CF125sBS+dizP4DCkllcTeMg/gZxZzvZ8UYksm7LUagMixvpxLzBJ12osdEYl4NAlbzFgM=;6Nz5a6bpqT7EJ9W1no1QvQ=="
 ---
 

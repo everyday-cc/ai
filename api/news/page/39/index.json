@@ -2,6 +2,102 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-06-27-artificial-intelligence-to-be-hot-topic-at-collision-tech-conference-in-toronto.md",
+      "title": "Artificial intelligence to be hot topic at Collision tech conference in Toronto",
+      "excerpt": "As the Collision tech conference gets underway in Toronto, its chief executive expects much of the chatter at the event to focus on artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
+      "originalUrl": "https://q107.com/news/9795522/collision-tech-conference-toronto-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://q107.com/wp-content/themes/corus-fm-radio/assets/dist/images/blank-featured.png",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Q107 Toronto",
+        "domain": "q107.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-europe-to-open-artificial-intelligence-crash-test-centers.md",
+      "title": "Europe to Open Artificial Intelligence ‘Crash Test’ Centers",
+      "excerpt": "The Europe Union is introducing “crash test” systems for artificial intelligence to ensure new innovations are safe before they hit the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-27/europe-to-open-artificial-intelligence-crash-test-centers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWwdHOR3OqVU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-baseball-scouts-call-in-artificial-intelligence-help-from-the-bullpen.md",
       "title": "Baseball Scouts Call In Artificial Intelligence Help From the Bullpen",
       "excerpt": "Major League Baseball is experimenting with AI analysis of prospects ahead of this year’s draft. It could help identify players’ potential—or flaws.",
@@ -1065,92 +1161,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-deepmind-unveils-self-training-robocat.md",
-      "title": "DeepMind unveils self-training RoboCat",
-      "excerpt": "An unknown admirer of felines once remarked, \"Cats and computers both have one thing in common—they both rule the Internet.\"",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmind-unveils-self.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-deepmind-unveils-self-training-robocat.amp",
-      "publishedDateTime": "2023-06-26T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-putins-secret-weapon-is-russias-facial-recognition-surveillance-used-to-punish-dissenters.md",
-      "title": "Putin's secret weapon is Russia's facial recognition surveillance used to punish dissenters",
-      "excerpt": "Russian surveillance technology is powered in part by Silicon Valley big tech companies in the U.S. Facial recognition systems used by the Russian government are widely available around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/putin-secret-weapon-russia-facial-recognition-surveillance-used-punish-dissenters",
-      "originalUrl": "https://www.foxnews.com/tech/putin-secret-weapon-russia-facial-recognition-surveillance-used-punish-dissenters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

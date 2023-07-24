@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence: Saviour of the NHS… or a hypochondriac’s best friend?"
 excerpt: "Meanwhile, in May, the National Eating Disorder Association (NEDA) in the US pulled the plug on its AI chatbot Tessa after it gave harmful information to some users – less than a week after announcing plans to ditch its human-based helpline."
 publishedDateTime: 2023-07-22T23:01:00Z
-originalUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=trending-module_tag_science_item-1"
-webUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=trending-module_tag_science_item-1"
+originalUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now"
+webUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now"
 ampWebUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 379
     isCached: true
 
-secured: "s4mMin90r5zSy4/cnYW24je0qbMwSIzvFynGAjclv0cttdBkEiO6+Ml+sgCKcrA3QWM2QSWPhU1AhcXdJmGase1VB+z+vZMMjqMCgkmYp85lblB8GjYQ72VvMnE94nyyCiSx7tyKyXP5RKqddqJrGOTLcnZSDNegSk+wYDEvolsFSfwwxnmiBvVnEt/rUKVJKcmQ6qRVOL7dgv4SYbYO79iJ+q8hdBKrtXmldJw3YUAz32t+Dkxv8J4VqE+zNlUVzjQo/GXkoSyJEtBYREDhqOumfHhsrs1Y63oDtd2Y74Avu9vDR1e3WNrIiemcPIpYdpc5xPngXukTvbMPBDDPIVUXGQPoeKNaRRL9KB7RcrA=;itpiBZX3iLDiTZXAEdobTg=="
+secured: "XAWtmtUQ6lbbqw2Z73RlqJ/Orp0fbxYLjCLPRwTgQrT4l/bnDCEoOFgSDHtMlscs6WKWEEgYo6GVSZIFYjo0GIauNi9j7mTzrMkl+56cpy8MqPM2/rJFf/inbSNiumvjF2ldMb45WU361p7fza6KBN+9kNzdbZCc3nbdcurhhbcjk/XfbyerSOjGPjayLFwqXCF52ty9pCoONehznEO9bIf621/Rg8dX+cTmBQKQm6xzITVc+fmj/EIzahupVU6FA6pwipzBZoFkpErbqSAB0uakPu0ooxEHqPH+4qpdrrWbl9aGU7s7kd/zcjd45Gy2SfcSLTdQMwSSb1xgI2T/2KwliINqKflQauFyr0W/OdM=;EjMvCnkNYJU4q66vO0VziQ=="
 ---
 

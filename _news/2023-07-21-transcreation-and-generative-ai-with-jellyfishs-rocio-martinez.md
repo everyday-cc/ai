@@ -48,15 +48,6 @@ related:
         height: 1334
         isCached: true
   - title: "Meta lets loose second generation of Llama AI models"
-    excerpt: "Meta says organizations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
-    publishedDateTime: 2023-07-19T12:21:00Z
-    webUrl: "https://www.infoworld.com/article/3702732/meta-lets-loose-second-generation-of-llama-ai-models.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 53
-  - title: "Meta lets loose second generation of Llama AI models"
     excerpt: "Meta says organisations can download Llama 2 for free, and run it wherever they wish, for research and commercial purposes. Microsoft and AWS are already hosting it."
     publishedDateTime: 2023-07-19T23:35:00Z
     webUrl: "https://www.reseller.co.nz/article/708087/meta-lets-loose-second-generation-llama-ai-models/"
@@ -120,6 +111,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/man-chat-with-ai-artificial-intelligence-ai-chat-technology-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Apple Is Using 'ChatGPT-Like' Tool Internally For Summarizing, Answering Questions: Report"
+    excerpt: "As other big tech companies continue to release new AI products and announce AI collaborations, Apple, known for wrapping its products in secrecy, is reportedly working on AI tools that could challenge the likes of OpenAI's ChatGPT."
+    publishedDateTime: 2023-07-24T05:38:00Z
+    webUrl: "https://www.ibtimes.com/apple-using-chatgpt-like-tool-internally-summarizing-answering-questions-report-3706288"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 14
+    images:
+      - url: "https://d.ibtimes.com/en/full/4449785/women-uses-her-iphone-mobile-device-she-passes-lighted-apple-logo-apple-store-new-york.jpg"
+        width: 1200
+        height: 767
         isCached: true
 
 secured: "XY+KrB/DO10W/XHrZ0LSw+4rwfHKzM3XseOb8uItSqIhh3rbpgBeDmAS8UNs/IRDOmtXcD4/BkS9YdB3IbOH2eSGoqqH4QIR09OLyfnVT0jF9TOTAtfEqwx9d+jbIKjHhGFe/a/nB8GW+RgeplafDYpfqIzh/bYimXeY4xsJEfGG+5yezwRWwT6Ilt4MRO97zs06lu0h3PAad/TwuBOnfGbuj9x4+D+fBGLE46olIfQ3MBZ/na3xowOoFiKOlVr0ZEE0yT5No8WV/dFBbZoMnRYVrzgKehe22UUIocPi8gw7ZNv4DJqa0qlOjAe23jd9I57Jn610gA+sGcvqZmLkuEHucASl+jee1c/8aG3rkCpMIPa7rTDThr2fCOIzR+nvxOjpikYYN693L0BcuMhaYY2Y6biiFoCEYbVKujmKCtQUFrwwhUpxtvFiKG22xzNy5oVIVh00Lucqxa2QerBHkKeSb4Nyq/B0Zvfj5TKFCWB3znO6Pj5/bY4tdFJHZ8jAxa40Sh73m3E3ZpC/x93frA==;RZnTWu6qTEisybcQvOML/w=="

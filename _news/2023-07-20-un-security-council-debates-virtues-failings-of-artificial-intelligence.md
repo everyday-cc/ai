@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UN Security Council discusses AI risks, need for ethical regulation"
-    excerpt: "The UN Security Council met with two artificial intelligence experts this week to debate the benefits and challenges posed by current and future AI applications."
-    publishedDateTime: 2023-07-19T11:07:00Z
-    webUrl: "https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.html"
-    ampWebUrl: "https://www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3702716/un-security-council-discusses-ai-risks-need-for-ethical-regulation.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/07/united_nations-100943560-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
     excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
     publishedDateTime: 2023-07-23T16:11:00Z

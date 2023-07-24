@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Continues To Revolutionize Cybersecurity"
-    excerpt: "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ..."
-    publishedDateTime: 2023-07-19T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cybersecurity In The Era Of AI And Quantum"
     excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
     publishedDateTime: 2023-07-22T05:29:00Z
@@ -74,15 +58,24 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI could revolutionize dentistry. Here's how."
-    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
-    publishedDateTime: 2023-07-21T18:36:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
+  - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
+    excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
+    publishedDateTime: 2023-07-19T18:57:00Z
+    webUrl: "https://siliconangle.com/2023/07/19/shaping-ai-landscape-aws-prioritizes-security-genai-adoption-supercloud3/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+  - title: "VMware eyes an intersection between artificial intelligence, multicloud and security"
+    excerpt: "These days, there’s a lot more visibility on this layer, with multicloud now a much more used term and with cross-cloud getting a lot of traction. But as generative artificial intelligence enters the scene, automation comes with it — and with it, a lot of hype."
+    publishedDateTime: 2023-07-19T16:38:00Z
+    webUrl: "https://siliconangle.com/2023/07/19/vmware-eyes-an-intersection-between-artificial-intelligence-multicloud-and-security-supercloud3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
 
 secured: "YFR7caAlfG5RDh8paEOiGtC1/7KT3/Zbvv29cfUCygNF1aG5xOusU6UTx8H0xIN9YqNZTpGj02GcskVCrY5aCT4xQMRU30eFMyth4es0z5l1x43D7iY/L48nbvSx9jixA2H73Ew8G47WizuitTdgkyWEhRiJP+PmOOUf2eAzXCPmj1P84r8A5YrLUDRFQDbPCabIBj60Mbxbx+ENMNr1Gf9WSy+CYbcpYdZbsauGXar0ef3Ec6fFJ0gG8YYT17+ae/LFgTMSWElHxuLT0nCTzvNKg65WmtBbsqUMIqgindXzpyC3JY+Kmr8Nq8PATJDtFLfLNrYVjUpvS/e5zK486dh/k/p/XH83r1fVNL3kcJsCpsuQKlHy8H5xvp6jQs9QlQej1fE9xbeSdSy8QC3dZT5+pnK1tHjH9N3xeyc08xHhakdWFAam//vlgn5+YEuTcsCgQrKknugTNHHCKCf4grri/2P7nhVWRGMqsqgu8eNzPJbirSPHgU2/g2p3FufKM64kT/hTzkSQSu5iKZyg/A==;AOlVyDxWYPwHe1wQpd5XKw=="
 ---

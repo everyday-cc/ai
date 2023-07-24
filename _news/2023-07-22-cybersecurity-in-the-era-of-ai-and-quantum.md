@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Continues To Revolutionize Cybersecurity"
-    excerpt: "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ..."
-    publishedDateTime: 2023-07-19T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The growing impact of generative AI on cybersecurity and identity theft"
     excerpt: "Personal data is under siege in the digital world. Beating the threat takes building a comprehensive, multi-layered fraud stack."
     publishedDateTime: 2023-07-21T14:26:00Z
@@ -74,15 +58,24 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "AI could revolutionize dentistry. Here's how."
-    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
-    publishedDateTime: 2023-07-21T18:36:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
+  - title: "Shaping the AI landscape: AWS prioritizes security in GenAI adoption"
+    excerpt: "Based on Amazon Web Services Inc.’s objective of providing enterprises with more choice to meet their needs and preferences, GenAI is part of the company’s product strategy, according to Matt Garman (pictured), senior vice president of sales and marketing at AWS."
+    publishedDateTime: 2023-07-19T18:57:00Z
+    webUrl: "https://siliconangle.com/2023/07/19/shaping-ai-landscape-aws-prioritizes-security-genai-adoption-supercloud3/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+  - title: "VMware eyes an intersection between artificial intelligence, multicloud and security"
+    excerpt: "These days, there’s a lot more visibility on this layer, with multicloud now a much more used term and with cross-cloud getting a lot of traction. But as generative artificial intelligence enters the scene, automation comes with it — and with it, a lot of hype."
+    publishedDateTime: 2023-07-19T16:38:00Z
+    webUrl: "https://siliconangle.com/2023/07/19/vmware-eyes-an-intersection-between-artificial-intelligence-multicloud-and-security-supercloud3/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
 
 secured: "pPgAuu37PfxEzqhsNFOxy0l0J2CQcY0+0IwB2+nw01+rh1v1JOiCCjngxh7n0sISlvKS8w6k4vnKjiHvEX5wcarisUOLUS2wZZvNyrrJl5XlLJFL54fLU8gTfp8ujcqFAS7dVrwNshZB9jt7wF3yZkfgB5OdH07qTvIy5IKKVx+qT3uJsi0HLoOh9A4+BOvpZLQXqUZsifwbVhKrgl6WH8XAYBZzQIZH72s9yjTOUnmN4o6ZwLOBZsFTJRum4Lncw1dpPxJa5UNwr+ib2e4imhfh9y3lS2bRlskbMn/6sqfbddDnOWr2uKQf7TXlM7g3MwaoAhdNoveHyIyc3bLGEmaHeXiF68c6BmdMWioiRJY=;IwofLThDuAWrGOThzwWGIA=="
 ---

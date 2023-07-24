@@ -42,15 +42,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 12
-  - title: "GenHealth.AI Accelerates into Healthcare AI Market with New Funding, Advisor Appointments and Use Cases Across Healthcare"
-    excerpt: "AI Start-up Pioneering Generative AI for Healthcare Receives $13M in Early Funding, Adds Industry Luminaries as Advisors, and Kicks off Use Cases for Health Insurance Plans and Provider Systems"
-    publishedDateTime: 2023-07-19T12:12:00Z
-    webUrl: "https://www.star-telegram.com/press-releases/article277457053.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 9
 
 secured: "8tGu13T6024A7Bw12WtxLOw23tfC5XYxrPCkh9/OnCAf3TqkhvK0AYjj/CctmOnfplpSEa6hdcGAZHaw5t7ETm8hAcvTrJt9vBr1kWI+4BnFJ27CvKWyDtI8wOM0+BCIsLF/PxnqUCtW/LHJf7dp67/vxGPAiOoWqk63sRyTrwqQeoo/cIQRKN//zILapRqtmBEiCvB7x9NOILDlPKlxqHWy6g8kgMwBieK2MV/AhR6gGTzOwMItJXZbvyxr2wZcbW6iFtMW6LgdwlVQp3hn0Q3BrXWEmIPP8p+Mcsuv/suPs7jJLyhP3K8GmFor4PSXZcvOFwG5Q87XMkmqtrujUdxLgEmd7cMhA0ZJRBGqjX4=;CIfkzPYl42iGWpJSQfuTzA=="
 ---

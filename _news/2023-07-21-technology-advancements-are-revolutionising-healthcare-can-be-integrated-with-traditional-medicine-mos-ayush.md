@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How robots are revolutionizing surgery"
-    excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."
-    publishedDateTime: 2023-07-20T15:44:00Z
-    webUrl: "https://www.fox13now.com/brand-spotlight/wellness-wednesday/how-robots-are-revolutionizing-surgery"
+  - title: "The Medical Robots Market in Healthcare: Unveiling the US$ 63.7 Billion Potential by 2032 | FMI Study"
+    excerpt: "In recent years, the field of healthcare has experienced a transformative revolution, with cutting-edge technologies reshaping the way medical services are delivered. Among the most ground breaking innovations are medical robots – sophisticated machines that are changing the face of medicine."
+    publishedDateTime: 2023-07-20T04:17:00Z
+    webUrl: "https://www.fmiblog.com/2023/07/20/the-medical-robots-market-in-healthcare-unveiling-the-us-63-7-billion-potential-by-2032-fmi-study/"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
-    quality: 39
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 24
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1f70ce2/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F29d%2Fef205c0e5ea14d77944cbd6904335118%2F29db8d7db1a641ca99cdbe0b8c7b6104%2Fposter_f186a14be22c4c8c9a18abdbc4f5d36e.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/07/Medical-Robots-Market.jpg"
+        width: 626
+        height: 626
         isCached: true
 
 secured: "Rnp9/7lW+l/QXww5gB8RJ/e1GdZhf5oqXgEmXKvVdtnj312jV2aikhIolOk/GnKYFvf9PoZUhkNO68w0wweGkrKs9TQ8xAtFEk+5A//zISrhoDxUQQuQfaeuwHV2M6/r+NkemXZLlEAAcBLwpaoQWeDH+LzNGh89gSDia7mp0QxqQincA6LIWHDnb1igQPcgucz+adMxCIje9WJ807fF+A4KrROxfY1lZJ9n6D6DpdklemAHPQBXm2QCqkU3bakxW7TGSW/BbuZoZ3LMvtpvOm0hPdidCmQMLZIo9oagndxMONueJ820swKwiT0Hsdw7Z4OsM0NEZmMOvjWUf9EvLOPIgkS/Z0SP9Z/5OwSkQJKZIZUXG5TPGyBA4B7XWsZIWdQGkO3P2BKOqtM7KOZclNm1EeeGYYAL7I8co9PAV3PL+gSoCpBK46WSztCWbP7NsoOVFdhIGJw62VdWqubjluu1G1yJUI70QSWkf+bJ38nWiqGc0XdjZVL8OXI7ohsZoj4n9bprigRTkW9QMDYkQA==;Icb089u6akAnVhUaBe7EWw=="

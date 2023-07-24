@@ -42,15 +42,6 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 23
-  - title: "GenHealth.AI Accelerates into Healthcare AI Market with New Funding, Advisor Appointments and Use Cases Across Healthcare"
-    excerpt: "AI Start-up Pioneering Generative AI for Healthcare Receives $13M in Early Funding, Adds Industry Luminaries as Advisors, and Kicks off Use Cases for Health Insurance Plans and Provider Systems"
-    publishedDateTime: 2023-07-19T12:12:00Z
-    webUrl: "https://www.star-telegram.com/press-releases/article277457053.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 9
 
 secured: "arhNZ94Vmq8m/HhbyVRvswJEkrG/enqQ3e7xefTFn0bQilH8Dv440ZFHE8U597GSUqQ3dUaDeIJ2gNRLRjX5wZk2ZwuUgJzzyuAwfuiPb5qVu4GBRwL2fbmA8ZM6FOX+tKTY9UyXrCZkUwonty2bjj3RoMehk8yGFNaN2XATsgBRWVF4/fuHBDmCAOas8H5gKFVWm0W3S8zbPKIfJi2ObdNFdX5s9hRzOdvYQYEPKa4fXIKp8JmEaYXsIen3+ZdGBegm6K+eDNkDJMHuHOmk9SmDbg46IVyzTS00eoSHZyCxPOeHsCjduXtAFA1XePKWOkpu2Asr5rSODP9vYbBdKa52nTd9HgJReMh9LBoDSRw+ir56DwIdawul8QFIe7uOgKMYTOEObkA2AXlRgQgXK/AJHOfJM37fRJOJ0fg7gi/6En2QS8KyHBueN6JOVcanIEtajO5AQ3mMkub3yA/ZFWAQNUp2C+E8cmo1qNJwQUm+T05aJZhPU0AKP/zH54suIGRsgJy+aOk7mOJ5SfDknQ==;tZOIpwlvR6SdE6zd4J6yxg=="
 ---

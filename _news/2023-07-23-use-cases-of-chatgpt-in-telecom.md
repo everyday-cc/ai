@@ -41,34 +41,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "OpenAI Has Privacy Concerns Around ChatGPT’s Image Recognition"
-    excerpt: "OpenAI policy researcher Sandhini Agarwal has been following the chatbot’s progress, and clarified that it can identify public figures, for example those with a Wikipedia page. But references chatbot’s infamous “hallucinations” as being a potential hindrance."
-    publishedDateTime: 2023-07-19T12:46:00Z
-    webUrl: "https://tech.co/news/chatgpt-prviacy-concerns-images"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/06/06195842/chatgpt-phone-glasses.jpg"
-        width: 1920
-        height: 960
-        isCached: true
-  - title: "Facebook parent Meta makes public its ChatGPT rival Llama"
-    excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google’s Bard but it’s taking a different approach: releasing it"
-    publishedDateTime: 2023-07-19T13:00:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/07/18/facebook-parent-meta-makes-public-its-chatgpt-rival-llama/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 24
-    images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/07/Meta_Artificial_Intelligence_78805.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "wXU920LszncXhwGHDPXZbtUdF81HkfKhcddG2oC76/ZXndXCPwgGrhieNAZ/H6H0/IWAUlH1jjhwUMSs/YQeVl0RoL91cPWJ1wg1Iowl7W1V+EhLqoXF8OLvgyqlXlkoCwB4X8S13IOY4ioW260IjVOS1DgPPGd8NQD027p+olHKUTf8vQyk38Qc3ZhCUnObFIzqi/gjRXDLRv/Q8u5FVjqOlYT7vd79GXMhacxfBPPU8DB9HhENJkKaAuPIZMjBB2/nT96zHCPuVP0dO/PpfjqUPdpp56Z8VrqsiZNbNZ04zDMwFpmn0WMZseB+9vYfvz7P0grC4VuwyB577E/ojiXI9xQGjFKz+zF4v0eHmR8=;Uyqjxbj60x3KfzXY7ATX3Q=="
 ---

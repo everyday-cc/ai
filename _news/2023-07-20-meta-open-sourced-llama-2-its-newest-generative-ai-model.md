@@ -80,15 +80,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "10 Things To Know About Meta's New Large Language Model - Llama 2"
-    excerpt: "On June 18th, Meta launched the second version of the most popular large language model (LLM), Llama. Unlike its predecessor, Llama 2 is freely available for research and commercial usage. Because of its impressive capabilities, it is causing quite a stir in the generative AI community."
-    publishedDateTime: 2023-07-19T12:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/19/10-things-to-know-about-metas-new-large-language-modelllama-2/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "0hAA3aaxPI2Mu0RFPzFIfr0qcnIB7tUQQla4p0EP7ytrY/UWmirnKxvjqHZhnMsY62JwsnJdZfWQKY+FNLO73eH3JbKN6JXQ9Kv22nS8SkGkNeprEAgRrPKkK84H+2DlYsyx3u2HIK8vapFIzgF79H/IQm5f+9glmT3oQpDQDj+DIY6+Ywwfhd/RcGxbDmKdt7wp18iJt3NVUe5jGhZKK6t8KnUKmzQTMqXYxOkiiOhkYegfjh5l3C7t0ZUQicny4DPCsG0wroF0+aHVo1Uo9VanpjW/ZecycVfK/2KEZj2eg3zv77KX3FcfY8h074DKvCwywGKVspdk0+TRDr4EH4BrZAM1Q9eKzcBuV9uZj+zUzWG2ZARpVPs758F+GTAeAaA85FgYzfZkSZf44r2Nitw8xX3poigB19irqwNgSZPQq/ZsOCBcxYLNPtDm8tjaFojKXr0yZVSjW7Mxo1Wmpj6aFxv1A3dy8zJBmPtyNTpR4BWN82xLquIKrvU2lVwfHkO9hbRNDonFQjdBkhm3zA==;ozr0tn+su+uZ+uO7GqnkQQ=="
 ---

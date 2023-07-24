@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Insurtech Startup, MyCover.ai Secures $1.25M Pre-Seed Funding Led by Ventures Platform"
-    excerpt: "Nigeria-based insurtech startup, MyCover.ai has today announced the close of a $1.25 million pre-seed funding round, led by Ventures Platform."
-    publishedDateTime: 2023-07-19T11:23:00Z
-    webUrl: "https://pctechmag.com/2023/07/insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding-led-by-ventures-platform/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 29
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/07/MyCover-Founders.jpg"
-        width: 1735
-        height: 1200
-        isCached: true
 
 secured: "JRpx7fsicCGJJYXCmbj9cHRrucnY9C50Abx9BnNHpqU1qLup5LhXD1i/yvAfovR9qYq5vGiWdwH3h5+YhvOXxFDk8aZ/LbKpJeNT5dVaStriBJfsZPejvhKTuUE5D+Wk7+3KjxyWMxCmBdj1qYUW5vJtrd4j0/E3HUsQhnuDQUPgQ8EK6gBLP/IjwTZU6Io3aIj7srjZZljbGMKEubC3zuix5iG/Jb51caqawxtavn+3CI7L2H/HzMSyfzwPqMiVOYbJhQkJQ3k6/UZ5YjlKspgpI11Iz6VsL62NEk9ow9gl4BmFfYfKj/GdoyyQ1mNKciDIe0RujfvR+Hsl8mAI+esjA8b6Ma2QR8UfNgAxS1LLtqVy11ekLaIisyqdZN6vQsA3COLUCdH4MbezVaZlRYzBybleF/WvfgEv+OI44Vv0a9Bn/XgB6MhMf7WXxn6i6uc26ikZwZEXQICsw2VCpgE4iq+nr3EeZt7F/J4nBq00UEe8F8sf4uZXWJNHxah8Q+RpyyX2kNPgHDVkVVSTww==;/CsP4TF7hi3ZuLyFpBgoYg=="
 ---

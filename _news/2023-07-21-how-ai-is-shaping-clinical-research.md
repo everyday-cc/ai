@@ -24,29 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Changing The Way We Communicate"
-    excerpt: "However, AI systems are changing more than just human-machine interaction. Human-human interaction is also profoundly affected by the new patterns that arise as a result of wide proliferation of chatbots and other systems."
-    publishedDateTime: 2023-07-19T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/19/how-ai-is-changing-the-way-we-communicate/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
-    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
-    publishedDateTime: 2023-07-20T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
-        width: 690
-        height: 400
-        isCached: true
   - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
     excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
     publishedDateTime: 2023-07-20T14:20:00Z
@@ -61,29 +38,75 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "How AI is bringing film stars back from the dead"
-    excerpt: "Celebrities such as James Dean can be brought back to life thanks to artificial intelligence, but it is raising troubling questions about what rights any of us have after we die."
-    publishedDateTime: 2023-07-19T14:52:00Z
-    webUrl: "https://www.bbc.co.uk/future/article/20230718-how-ai-is-bringing-film-stars-back-from-the-dead"
+  - title: "Artificial intelligence at the heart of fifth industrial revolution"
+    excerpt: "A key component of industry 5.0, AI has potentially enormous benefits for everything from safety and quality control to sustainability"
+    publishedDateTime: 2023-07-19T23:00:00Z
+    webUrl: "https://www.irishtimes.com/special-reports/2023/07/20/artificial-intelligence-at-the-heart-of-fifth-industrial-revolution/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
     images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1l1xg.jpg"
-        width: 624
-        height: 351
+      - url: "https://www.irishtimes.com/resizer/ZZLf-r-E8Rso6R3VyDAc08PgLnU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/GQR2M4RLRJCWXDT6RDVFY4EJFY.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Generative AI bots will change how we write forever — and that’s a good thing"
-    excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
-    publishedDateTime: 2023-07-22T13:01:00Z
-    webUrl: "https://thehill.com/opinion/technology/4107998-generative-ai-bots-will-change-how-we-write-forever-and-thats-a-good-thing/"
+  - title: "How robots are revolutionizing surgery"
+    excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."
+    publishedDateTime: 2023-07-20T15:44:00Z
+    webUrl: "https://www.fox13now.com/brand-spotlight/wellness-wednesday/how-robots-are-revolutionizing-surgery"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: fox13now
+      domain: fox13now.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1f70ce2/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F29d%2Fef205c0e5ea14d77944cbd6904335118%2F29db8d7db1a641ca99cdbe0b8c7b6104%2Fposter_f186a14be22c4c8c9a18abdbc4f5d36e.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What’s Makes Artificial Intelligence “Tick” and How it Aims to Revolutionize Waste Recovery Operations of the Future"
+    excerpt: "Greyparrot, with $17 million in funding from Closed Loop Partners, Amcor, and Regeneration.VC, among others, developed and sells an AI waste analytics platform that operates in 10 countries. Waste360: What are some pressing current challenges in waste management?"
+    publishedDateTime: 2023-07-20T12:02:00Z
+    webUrl: "https://www.waste360.com/fleets-technology/whats-makes-artificial-intelligence-tick-and-how-it-aims-revolutionize-waste"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 33
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/aifeat_0.png"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "AI could revolutionize dentistry. Here's how."
+    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
+    publishedDateTime: 2023-07-21T18:36:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
+  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
+    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
+    publishedDateTime: 2023-07-20T19:50:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 16
+  - title: "Introducing Paintit.ai: Revolutionizing Interior Design With AI-Generated Visualizations"
+    excerpt: "Paintit.ai introduces an AI-based interior design visualization service, revolutionizing the design experience. Users can generate AI interior design visualizations within minutes, helping them envisi"
+    publishedDateTime: 2023-07-19T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33289997/introducing-paintit-ai-revolutionizing-interior-design-with-ai-generated-visualizations"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "A1b0yzCja/lrpOPvPseZjQ2KLCi25xQxahBMQWTjPR0hO1eZ2WNzny1kDBrbrhzCqpYeBfF9RDdbDWtoCS0Csotq+dWx2idKHLgwTTzR2l3gigvBFqRNvIyMOouVLDBldw4zfni+dZqiIdfVBjnYjRAoDecL68MAzOSfcwbwEMNT6Kq3UjPwYSeiNuRRjjnvTcLki4guzTDGX40bBrsMZEaiw6I+PhI60WwZyQ3p3l+S+VIdI8vaoAzy6gJVj768ZodowUDGCf4+TO833P3Ek1zsLj+rb+U8DVWXspXxUZvPIxcvlV4FY5/ZK6tjbt2FIQfUdBeEkX8kal5955vViBdY5v1tSB9L5n6l2rCfebs=;kEcB68HTtpnDiiP7GbSnSQ=="
 ---

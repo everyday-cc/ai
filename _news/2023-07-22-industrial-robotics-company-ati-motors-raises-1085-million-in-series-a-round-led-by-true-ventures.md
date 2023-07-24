@@ -19,31 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Neura Robotics Raises $55 Million to Expand Its Cognitive Robots Family"
-    excerpt: "Neura Robotics, an emerging AI and robotics startup based in Germany, has successfully concluded a $55 million funding round with the support of European investors Lingotto, Vsquared Ventures, Primepulse, and HV Capital."
-    publishedDateTime: 2023-07-19T11:42:00Z
-    webUrl: "https://www.techtimes.com/articles/293979/20230719/neura-robotics-raises-55-million-expand-cognitive-robots-family.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/293979/20230719/neura-robotics-raises-55-million-expand-cognitive-robots-family.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/293979/20230719/neura-robotics-raises-55-million-expand-cognitive-robots-family.htm"
+  - title: "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others"
+    excerpt: "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated."
+    publishedDateTime: 2023-07-21T09:33:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 89
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 77
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/431923/neura-robotics-raises-55-million-to-expand-its-cognitive-robots-family.jpg"
-        width: 1024
-        height: 683
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-41440,msid-102011308/ati-motors-ceo-saurabh-chandra-r-and-cto-naveen-arulselvan-l.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Neura Robotics raises $55M round to build more AI-powered robots"
-    excerpt: "Neura will use its newly raised funding round to expand its robot manufacturing infrastructure. The move, the startup says, is a response to growing demand for its systems. Customers have ordered more than $450 million worth of Neura hardware to date."
-    publishedDateTime: 2023-07-19T19:34:00Z
-    webUrl: "https://siliconangle.com/2023/07/19/neura-robotics-raises-55m-round-build-ai-powered-robots/"
+  - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
+    excerpt: "Ati Motors, maker of autonomous industrial robots, today announced the close of its Series A funding round in the amount of US$10.85 million. The investment, occurring alongside the company's product launch event,"
+    publishedDateTime: 2023-07-21T13:38:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/21/9852279.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "JnHQWEGnUdMMrtnmqztABX/L+ifrmPZWoMSlclXjgYLeZF2blANSJcB18I99YwGlgO3tSxKjk9X7MRIuMjaDukuSLwAd2Y3LUUckrPA5Bar4xppe8nK9iCOr7mMytPGWug89s1SmdaIWDrAymYFOmnvdXssNQj94b66dx7DPH5Vf2JyjvHwD92O5sO87wHwb6tgJK0NS/m/ZUG5rpuRKCmcCK4ibFmhnR34FNHQtPJ3nMJOp+k28NC7h7OLZMkpm87zANLUJ21F0Fd8tr5derZ5h2rXyV/ihnoby7jtlDnNeRE698r0An6v1DaZVqRUuU8ktQ82ZhgniPgfmnzuevll0l9kC21pzU0GMyb+WNYMpUk+9GmHV4qacfD2qLFbFGsFVPbWXUBYJRuBI4RNqDA0lJPof93CNBrL8itGDY8ncWY1f3jgYix3Bok9DEWtTILte2c+HI6mtPqgssWFh1MRlCiUS3wxtIGpqBqcJcnpPMzglhMGd8SJEqbxakL5t0XT2mfE67sPAdwIp3GzGyA==;jEmbnWKJ9f81yb9T03U2ZQ=="
 ---

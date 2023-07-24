@@ -66,15 +66,6 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 19
-  - title: "Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
-    excerpt: "CSE:PMED) Predictmedix AI Unveils Cutting-Edge Contactless Integrative AI Solutions for Healthcare in India and Incorporates Fully Owned Indian Subsidiary"
-    publishedDateTime: 2023-07-19T11:34:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/07/19/predictmedix-ai-unveils-cutting-edge-contactless-integrative-ai-solutions-for"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "do4FlvjfgL+GHws1Gjk0HmFaH60AMBmFb40tFpZAFLEZHJsUnx8DnDQrE8QG6tGP/iWRFA9zwuXKKvc0nChOM2G9hxd5qYaeg1lxXbRVNXiZlSTVf5rc6xxUzWYfW6RQ5yNRL2xbm1tG8wCFI5FdFLR4pJ9CHWsdxxdkIsg5ZtU2pnaCRIpsQaUfcrgHyT6pY9rpnk/a8HSo2l6lD6AOmIdg7VampAEam9XgrAJmlpV2+ulL2ddw3y3KvDPQlg54Q/2Q8OqsoWhbe0Vf8W0OwIzkO5WqcAJVw7rJqriOF3L7Kop2YZ9ArIri2BuVzLC0+yotbhxlW6NMAEaT5s065lH0NKwnT90E1AH7rChr6Is7Bd8o+5Xk5h55HBQuHOLoQgIlmhvG3SGWVP9Ro3Sl3wEOjntte3k+rrOLTql8TZx2hJCAJm+ANN2fSmmkAw1j+Xkz+pibeB5pi8g2JQuE8MIFcvjjoVjrJfOYALHtNEn7yhtqdOKqr9NtbFvFBtVk+B3TF//Z8H+Mfh3Pbj9YKg==;/HW5S1jo+pwKNvYAyAtg0A=="
 ---

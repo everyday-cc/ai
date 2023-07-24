@@ -108,22 +108,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "TCS to work on digital transformation of GE HealthCare's IT operating model"
-    excerpt: "and standardization of GE HealthCare's enterprise IT applications. In a press statement, TCS added that the objective is to leverage advanced software engineering practices, artificial intelligence, and digital technologies to achieve faster value ..."
-    publishedDateTime: 2023-07-19T11:48:00Z
-    webUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/tcs-to-work-on-digital-transformation-of-ge-healthcares-it-operating-model-10988861.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/11/TCS.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How AWS is making generative AI simpler for businesses"
     excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
     publishedDateTime: 2023-07-24T00:00:00Z

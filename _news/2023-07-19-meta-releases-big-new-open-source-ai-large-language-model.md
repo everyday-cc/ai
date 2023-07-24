@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-releases-big-new-open-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-releases-big-new-open-source-ai-large-language-model/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 860
         height: 510
         isCached: true
-  - title: "10 Things To Know About Meta's New Large Language Model - Llama 2"
-    excerpt: "On June 18th, Meta launched the second version of the most popular large language model (LLM), Llama. Unlike its predecessor, Llama 2 is freely available for research and commercial usage. Because of its impressive capabilities, it is causing quite a stir in the generative AI community."
-    publishedDateTime: 2023-07-19T12:28:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/07/19/10-things-to-know-about-metas-new-large-language-modelllama-2/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "kkByIVK+UmzWMaJOjrPyotmFFxp7hRNfu7s2tyABSaGnuLsDiPdv2PAK76i1MtB8FjhMTJzdpzDj9TqF0L4fK94DW2dX//TkFLT0MpAKixq8qU6bWCFNq9hEzT4Ee2K5ry4Q10nnxfZ8obz4RWUmEeSvKLF+mT+5xaFjTRfntCm4ATFS0zrRbQFyPvrny9D4YNk++r6ulKDt3FoMNSYzwwREQEyo/mUYCjf7EfgOvZViMHoEVmHrQa3VTzmcsqj4jzStvLwYbhfcc+hVWlJzd6v6YuWHDBSEVA1TqX+0+qFgbEqdD85WzK/DUPt/9Hg/J0s79QHoKGl4UfbOfxbq7KtEBKi70Xbgcgpd2S2B3N5PosLkcSUfOMuAjIldBOrA8EhRu/z42Kh/REd+gHyXZdZK7aGMbyPFyCW356+I+rScj592Rh1y1RkJFh7rC8JcDpRk4FjTdTK1X/8UiVoJ1rtAyYIAvtXqSs8ApBOghgAtvwARj9NJsqdUkV2yY44MrDPA9XFvcwGmvUAnTlztBw==;CDFr16LXRzEmLtzqrqnf4Q=="
 ---

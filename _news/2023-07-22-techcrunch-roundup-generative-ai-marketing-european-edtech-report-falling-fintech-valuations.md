@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 4
-  - title: "The Senate’s fintech fight"
-    excerpt: "A bipartisan group of senators and the Biden administration are about to clash over the future of fintech lending."
-    publishedDateTime: 2023-07-19T11:59:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2023/07/19/the-senates-fintech-fight-00106983"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
     quality: 4
 
 secured: "5v/ipP0ENuMBLZOCPqKhRY8Evr3O3zBeNgSELcMGV9XmDwTlRHwJN04ib+bT8bAYdDAoXXJfzxLTkQLPXP2D20gmUCzpwZRBG7/84NjBY8vCqYpJ7GWmTd1zzJ7XntSgIpVKUyodqhCwt4phwD5gzsSATejbuFTCL3KRrk9ZshM5RW5oLR7syiz7yuT9Uy8TP8tnOoUwqenjaAKhSz8B2WZLt38WMNtbSjGkOSJD+pgkzCBYeZsXIO6y8jrZNo3FAm1cEV5SPsV+M2E28h05Nn6xq0AcZv7/ZAmBNH31Ol0MiBrBBURNFkxE1rEEq+gvP0PkwmQpvmRFwQw8S7Lz+GKbuMNmoPXOEqf3MG1kKao=;pKryaqWZO6kVU5WVWQUvLQ=="
