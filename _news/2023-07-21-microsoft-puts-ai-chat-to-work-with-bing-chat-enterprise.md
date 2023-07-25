@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
 type: article
 quality: 104
-heat: 374
+heat: 384
 published: true
 
 provider:
@@ -317,6 +317,20 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/554590f/2147483647/strip/true/crop/5622x2952+0+398/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F23%2F70%2F0c810b0d456787679becc36eb5ee%2Fap23202666560057.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Genpact Collaborates with Microsoft to Equip Workforce with AI Tools, Fueling Enterprise Innovation"
+    excerpt: "Azure’s cloud infrastructure coupled with the flexibility of the Azure OpenAI Service will help accelerate these solution developments. “Generative AI’s potential to drive innovation is unprecedented, and by democratizing access to this technology ..."
+    publishedDateTime: 2023-07-25T10:50:00Z
+    webUrl: "https://www.siliconindia.com/news/general/genpact-collaborates-with-microsoft-to-equip-workforce-with-ai-tools-fueling-enterprise-innovation-nid-224299-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 40
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/S7v1gyUc.jpg"
+        width: 570
+        height: 367
         isCached: true
   - title: "Microsoft to get 'golden 1-2 punch' from cloud, AI, Wedbush says"
     excerpt: "Microsoft (MSFT) is slated to report fiscal fourth-quarter results on Tuesday and Wedbush Securities believes the tech giant will get a boost from the cloud and AI. Read for more."

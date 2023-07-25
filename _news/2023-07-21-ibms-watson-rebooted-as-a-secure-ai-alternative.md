@@ -7,7 +7,7 @@ originalUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-reb
 webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM, The 'O.G.' AI, Spark Excitement For Watson's New Skills"
-    excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
-    publishedDateTime: 2023-07-20T18:43:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
-  - title: "IBM, The 'O.G.' AI, Sparks Excitement For Watson's New Skills"
-    excerpt: "IBM Common Stock IBM, also known as Big Blue, left investors with a lot to consider after the company issued its second quarter earnings on Wednesday and discussed its new artificial intelligence (AI) platform, watsonx AI. Earnings By The Numbers ..."
-    publishedDateTime: 2023-07-20T18:43:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/earnings-beats/23/07/33309833/ibm-the-o-g-ai-spark-excitement-for-watsons-new-skills"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/ibm_building_shutter.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
   - title: "Perth's Nexion to resell IBM ESG offerings and Watson AI"
     excerpt: "ASX listed Nexion Group has entered a new agreement with IBM to become a Silver Business Partner so it can resell some of the vendor’s software solutions. The company will resell IBM’s artificial intelligence platform Watson and Sustainability Suite, incorporating asset management and environmental, social and governance (ESG) reporting."
     publishedDateTime: 2023-07-24T23:03:00Z

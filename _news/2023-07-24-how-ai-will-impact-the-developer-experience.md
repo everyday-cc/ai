@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-dev
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
         width: 3133
         height: 1764
         isCached: true
-  - title: "Follow the AI money"
-    excerpt: "OpenAI is giving away basic access to ChatGPT but selling $20-a-month enhanced subscriptions. Google and Microsoft are both making their AI-enhanced chat-based search products free, so expect advertisements — and the data mining that makes them more valuable — to kick in at some point."
-    publishedDateTime: 2023-07-25T09:29:00Z
-    webUrl: "https://www.axios.com/2023/07/25/follow-the-ai-money-business-models"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "d9DGlotyTnFVxuSX479E5K95td8M+Nc7TQUWTNDYD36QA2ExBcZtqisOQolFplCEuwUX0JHpO0Jo62j2m3lFFg949ZR1ExyWC2xD1wNzkdP82iEdmRLArL/JGDX3IWnY63QlCjsegqazaUf6AEKeSNjDb14mwTEbPzb0xaSV1nA2+FSUELlRn5/mKoLmtVVg1Lk/+x+RLjr+9oScy+UPAtPchMxiihKqmcRk22tA9hVIOahK667bN6nEuJtv6PZ+MNUx3xnoAcInIdtAPJhcJSxqRh2m9vGdGworjmPveloNWbUQdwsSQ205grYxknSDxrUdZRCJEgC6jHogFB0VqeYrlbr0YMkLMoKwtY0aRzK9KmBDcTh2Ar5uSOBcRDDzH0QbInuN/X+73z9S5O8menmcRNsLz4Kg/QUxSxpP6u6vwPlGbmPKPQhuWMc8KrM3pTnSxKZnWplAWop8UhNoTodR23gSTSwKzBwEyKIJNfeTf153g1zSQ6SOUs8veysVbkfAyPAKmoXCelc7KVchvw==;QvU/+Yn5LZ3f98KhqqRp5w=="
 ---

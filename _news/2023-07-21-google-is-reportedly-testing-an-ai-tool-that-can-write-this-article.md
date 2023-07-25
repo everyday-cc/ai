@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool
 webUrl: "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Only Thing That Could Make Online Dating Even Worse Than It Already Is? Artificial Intelligence | Opinion"
-    excerpt: "Romance is at the core of the human experience. And exporting it to a digital assistant is a betrayal of intimacy itself."
-    publishedDateTime: 2023-07-20T18:04:00Z
-    webUrl: "https://www.newsweek.com/only-thing-that-could-make-online-dating-even-worse-it-already-artificial-intelligence-opinion-1814370"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 30
   - title: "Apple Is Using 'ChatGPT-Like' Tool Internally For Summarizing, Answering Questions: Report"
     excerpt: "As other big tech companies continue to release new AI products and announce AI collaborations, Apple, known for wrapping its products in secrecy, is reportedly working on AI tools that could challenge the likes of OpenAI's ChatGPT."
     publishedDateTime: 2023-07-24T05:38:00Z

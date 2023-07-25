@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 642
         isCached: true
-  - title: "Preachers and artificial intelligence"
-    excerpt: "The world of artificial intelligence is expanding exponentially. AI’s infancy dates from the 1950s and 1960s, but it is now like an adolescent experiencing a sudden growth burst. ChatBPT and its siblings in the AI family are the rage in business, health care, education, and more. Including religion."
-    publishedDateTime: 2023-07-22T10:00:00Z
-    webUrl: "https://helenair.com/news/community/how-will-artificial-intelligence-impact-religion-sermons-and-preachers/article_707cab9c-264b-11ee-835e-1f5bdfe33511.html"
-    type: article
-    provider:
-      name: Independent Record
-      domain: helenair.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/7/07/707cab9c-264b-11ee-835e-1f5bdfe33511/64b80a593bd1e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI is amazing and frightening at the same time"
     excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
     publishedDateTime: 2023-07-24T17:28:00Z
@@ -73,6 +59,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Business and ethics in the age of AI"
+    excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"
+    publishedDateTime: 2023-07-25T09:27:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/business-and-ethics-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
 
 secured: "hc1MfTfUUs3CoVhTujC7VMomHNVzYXbgWqvB+YMLDIVB8ZWcqZRgq39lFsQXsAoqWHLpm9ksBT2D2fW4yJFqNEbuXpK3AUIQEZOMTeIwkV+gtnyFSZjfN1DzI9e8KSPj26RvWdXET1TCoiN7I4cSEu9Zl0/BzQUVbMCOJGpsk+cAcwTezafNtiQA+V9brmaPX13a1+GUUqOWsfINQev4qq6SpbQiXBmAeJaQm0CN7cA2xvNnO3dm5IJuLOWUuhMK4pV+oEFnvSX7As68RGxmvXrhN5CF7UDPDXCeE/8XssREKCq04P5oA1dl+THDJRtNv2bGl8UjezwPnqNytSdtBpO/UsCkCojaBSFfzX7xMa4=;kS/aZI0H4IOamoQs9wZw7Q=="
 ---

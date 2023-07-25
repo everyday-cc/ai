@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence: Saviour of the NHS… or a hypochondriac’s best friend?"
 excerpt: "Meanwhile, in May, the National Eating Disorder Association (NEDA) in the US pulled the plug on its AI chatbot Tessa after it gave harmful information to some users – less than a week after announcing plans to ditch its human-based helpline."
 publishedDateTime: 2023-07-22T23:01:00Z
-originalUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now"
-webUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=metro-posts_uncategorised_whats-trending-now"
+originalUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=zone-widget_home_tech"
+webUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=zone-widget_home_tech"
 ampWebUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 379
     isCached: true
 
-secured: "nLZPxhW+idn5VpHylFW/1HnU6vBWkgHpG+1AmKegcew556WRKSc4D/MDjIpuEbX8fqV6LT3oYA4NOkBOl8b9JSi983rJywzkWORYLjHTXCFVlb+rl9jJqwz1F8Tgls2f4ewOOjfrCpf+ARc7XQllWbkHy85kcgI77As7bq8FfIx6td9+aez6z0GTxCOsQ2tzuAom0TldPthm+hBRlnsTw2kvjGHud65AD3cZGDqsq41EUpsrjEwnWbFWOce/+Z5INyjh95hRMaVNFgP4HMD7cV/7OklqHuUD4/gqfUy+pwPkRvrEVdpCX9e3jY+t1WppzIYL6vyyo6YYMYFnhTeugMCVUTamWig9l8trHlMaxTQ=;10vssPlunNJ0kvwEdTt6AQ=="
+secured: "Tn83Xh69Uxv7p0RsG/vttQP6RkfUeigUvZGdbNxwivh5nYNAouIF/T0kW4x9T5KFOFjgU0bOHPer8MAKkFRhPFqeVNfkKG8JBCTs4bmVqoqWW/Jq6QKAAuVFPk957U1G9eYNlyDxH+fu2LHbbSdcmtUafd2OCGLB/ovJNrwCgtGB9eIbOFCryPANySnpWJqHQpq84BJaA2w+uP9uWsMCyydiPpD4LJxivlOUEtqew9aw5QqcN8SK7aSqDQL/u+FK2+JmZZJO/VGhKa+FdEh2wM7aP1yC5WgJAzqwCa8pbEuubE3S3GP2M6nkwmE/W4tZe0dNXd0B/RxUu+yh027r/AbMUrwlJ7gxe5dAGZvCRmo=;CFI3ZCeoN5FkuR9lXWK6RA=="
 ---
 

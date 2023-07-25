@@ -71,15 +71,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
 
 secured: "Wz7uzSW+xTgCfzef+xKQ6mACM8N3EUmpgQdPa2r7nxMJNZwT8Qzi4BemkvCPnehOoSeOsCsyRGqxIj0LmB73kx1TNN1XL56pkUXMXQ8Jg8dO4vWDkycX1M6Ajfd7ucaJ9Od69DHb9uV0RO0h2Qwycnq6DZNkadRIy22YMZoWJwQfy3j5GU/8vbrM8DmwsWc9ssUThNKUhq0VV00Ztvip+2qALNnsJVMNb2vn4eSfVAWeXhBLsqQnlPBB8rtVFdinUCnKO3ROXUYhs3khmeAHbG90obQlqKqW2Xhjlp7U7QjvmfftSGCSgNgX3iO+15gaEYIfpEzTqfrN+CFmCAoatEHrNQFo4VGeFKgVNVRJfk4=;RQ+KTe/50q3Q6bhK4L5VvA=="
 ---

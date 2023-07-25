@@ -94,15 +94,6 @@ related:
         width: 3133
         height: 1764
         isCached: true
-  - title: "Follow the AI money"
-    excerpt: "OpenAI is giving away basic access to ChatGPT but selling $20-a-month enhanced subscriptions. Google and Microsoft are both making their AI-enhanced chat-based search products free, so expect advertisements — and the data mining that makes them more valuable — to kick in at some point."
-    publishedDateTime: 2023-07-25T09:29:00Z
-    webUrl: "https://www.axios.com/2023/07/25/follow-the-ai-money-business-models"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
 
 secured: "K4/NLGVZuetjTbAJowYnJ8X185d6RLRQ7jMjdGs96hSw85ebxcvjzJaOhqflz3A7fo7UboIb+wO0eFzvVpV7m98YGY88m0yADWtCvbhbkSjx4ZxmP8cUjCkI2c6EpoTybEj1GxrWcJb2zWDKqe9uwmdfWDhyGXsJ+IDwP4XHLJ81ss+yioIyffgpWChAdAQBfrt5pJimYcCqXzOrbSiAYQ33QKbE5vFer29KXFhzJkushMTvHBG0f2pKD0XXU+ZiPi/kn8y4DQfVEyOnzSUSTc5/P6ng241cIcHQXJNu3QaVROowxpjuP2gPJPH1VXXmecdRxRYlNSDO+ezEy7GkDfrvkib4zfLLpi/r7BC5GJM=;4CRSXsimGLcILupknOj3Sw=="
 ---

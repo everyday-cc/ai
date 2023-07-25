@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ESRB proposes facial recognition age verification for parental consent"
+    excerpt: "The Entertainment Software Rating Board has proposed a new verification mechanism which it says will ensure parental consent is properly obtained under the Children's ..."
+    publishedDateTime: 2023-07-25T11:10:00Z
+    webUrl: "https://www.eurogamer.net/esrb-proposes-facial-recognition-age-verification-for-parental-consent"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 39
+    images:
+      - url: "https://assetsio.reedpopcdn.com/AdobeStock_331209580.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The ESRB wants to start using facial recognition to check people's ages"
     excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
     publishedDateTime: 2023-07-24T21:52:00Z

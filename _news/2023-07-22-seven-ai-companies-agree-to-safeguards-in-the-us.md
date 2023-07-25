@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
 type: article
 quality: 87
-heat: 397
+heat: 387
 published: true
 
 provider:
@@ -398,15 +398,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 17
-  - title: "Tech companies to make AI safety and transparency pledges to White House"
-    excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
-    publishedDateTime: 2023-07-21T09:00:00Z
-    webUrl: "https://www.ft.com/content/49ddbbc8-ec8b-4c42-bb7b-3bc65e0b192c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 16
   - title: "Watch Live: President Biden Announces Some Tech Companies Have Agreed To Voluntary Safeguards On \"Artificial Intelligence\""
     excerpt: "Open AI, Amazon, Google, Facebook, and several other companies have agreed to voluntarily follow a new set of \"safeguards\" on the development of artificial intelligence, President Biden is expected to announce in a speech Friday afternoon."
     publishedDateTime: 2023-07-21T17:38:00Z

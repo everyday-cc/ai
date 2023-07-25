@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230720PD216/ai-server-tsmc.html"
 webUrl: "https://www.digitimes.com/news/a20230720PD216/ai-server-tsmc.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "TSMC Chairman Explains Arizona Chip Project Delay, Cautious About AI Demand?"
-    excerpt: "Chairman Dr. Mark Liu announced that TSMC’s Arizona chip project would experience a year-long delay in production due to challenges in finding skilled employees for advanced semiconductor fabrication."
-    publishedDateTime: 2023-07-21T17:13:00Z
-    webUrl: "https://www.cryptopolitan.com/tsmc-explains-arizona-chip-project-delay/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 31
 
 secured: "R0XFKB8lQibWX4aUmety3riri9LLZxMPilScd3KzIskoc/w/FCE/w2vpoADnhYveIghMKhwlgsR8cqU43QenJtt4v2hkRjycsJD3olQeubBdbJjAe0jMRB1+eg5TUi2h6OamP0L7OrnPpM+6zILQrhT+nnck1WqHt3uByhaZDBo61xstx8ynq/vCTVpSq+ywVC3NygaVXxFtoyb/2w7SwIpFagGz1fh9xh4JsKJC7wwmNLW9yHOMV3KJRLHE93IP/ErJn9lPvarBYIjHjjcz2HkoUSVtL6VsZ0loPfTQbD3jx6qS1EeIRikbox7s3So8t5tcBdtARDpdyQWeiH/okk/mTKqdcaRZVQhkjXxZw2S8rv24VDOPN4eFy25Oi3NXXjijSfVKLckMFxJCvT91iWChy4XFZo7WBQWSOnGe2ZtUtzYZxL0jeeCm1tPSSTliNj/DJEb8A3AZl6epnPVcxPQYBEdxCihypxgKoLC8cAJwiWgbtVqZhCPjh+ykaIduHlerjm93OYcQG1LX2T/AIQ==;/FrhTOhHsS8cI/q8wHLbVQ=="
 ---

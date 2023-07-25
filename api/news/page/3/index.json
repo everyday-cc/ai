@@ -2,6 +2,201 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-24-ai-heart-scan-aims-to-catch-blockages-years-before-symptoms-unbelievable-breakthrough.md",
+      "title": "AI heart scan aims to catch blockages years before symptoms: ‘Unbelievable breakthrough’",
+      "excerpt": "Fountain Life offers an AI coronary artery scan that purports to detect heart attack risk 3, 5 or even 10 years before symptoms begin. The CEO explains the company's goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough",
+      "originalUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1270b920-6004-489e-9357-34043ffe143e/fa9a71ee-1096-41d7-8ee5-3128e8437f89/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
+      "publishedDateTime": "2023-07-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.md",
+      "title": "NY police used AI to track drivers on highways as attorney questions legality",
+      "excerpt": "A drug trafficker, David Zayas of Massachusetts, was nabbed by police in New York who used artificial intelligence technology to sift through 1.6 billion license plates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
+      "originalUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Screenshot-2023-07-11-at-10.08.23-AM.png",
+          "width": 734,
+          "height": 984,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
+      "publishedDateTime": "2023-07-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes.md",
+      "title": "How Artificial Intelligence is taking centre stage in Hollywood strikes",
+      "excerpt": "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html",
+      "originalUrl": "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp",
+      "publishedDateTime": "2023-07-23T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-failing-to-embrace-ai-is-the-real-threat-to-the-us-in-the-global-ai-race-investor.md",
+      "title": "Failing to embrace AI is the real 'threat' to the US in the global AI race: Investor",
+      "excerpt": "Founder & CEO of RSE Ventures explains why he thinks \"fearmongering\" and a failure to \"create a culture of innovation\" are costing the U.S. in the AI race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107275256-16901668911690166889-30442148960-1080pnbcnews.jpg?v=1690170537&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-23T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-hype-fright-and-ethics-in-implementing-ai.md",
       "title": "Hype, Fright And Ethics In Implementing AI",
       "excerpt": "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways.",
@@ -260,7 +455,7 @@
       "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -510,6 +705,101 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence.md",
+      "title": "AI And The Economy: Which Companies And Industries Will Avoid Artificial Intelligence",
+      "excerpt": "AI implementation will be very slow in sectors with high stakes, litigiousness, high unionization, and high regulation. The opposite industries will move the fastest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bab8313b2f9ab4369a6bb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-07-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
+      "title": "AI-powered travel assistant touted as most powerful ever",
+      "excerpt": "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
+      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-british-political-candidate-used-ai-to-build-policy-platform-to-create-meaningful-participation.md",
       "title": "British political candidate used AI to build policy platform to create 'meaningful participation'",
       "excerpt": "Andrew Gray used artificial intelligence to crowdsource his party platform, gauging interest and stances on various issues and finding points of agreement and gaps in consensus.",
@@ -715,7 +1005,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-66271429",
       "featuredContent": null,
       "highlight": null,
-      "heat": 397,
+      "heat": 387,
       "tags": null,
       "images": [
         {
@@ -817,7 +1107,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -953,298 +1243,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-harnessing-machine-learning-for-early-cancer-detection-in-primary-care.md",
-      "title": "Harnessing machine learning for early cancer detection in primary care",
-      "excerpt": "A new editorial paper was published in Oncoscience, titled \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\"",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp",
-      "publishedDateTime": "2023-07-21T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-junk-fees-medical-debt-and-artificial-intelligence-cfpb-chief-lays-out-regulatory-agenda.md",
-      "title": "Junk fees, medical debt and artificial intelligence: CFPB chief lays out regulatory agenda",
-      "excerpt": "CFPB chief Rohit Chopra has an ambitious plan to tackle several issues, even as a looming Supreme Court case threatens its funding structure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107067707-1653581079724-gettyimages-1240280373-AFP_32937WY.jpeg?v=1689877303",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/20/cfpb-chief-sets-regulatory-agenda-on-junk-fees-medical-debt-and-ai.html",
-      "publishedDateTime": "2023-07-21T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations.md",
-      "title": "TechCrunch+ Roundup: Generative AI marketing, European edtech report, falling fintech valuations",
-      "excerpt": "Generative AI tools speed up this work dramatically ... There’s a lot of performative behavior in startup land, such as foosball tables in reception areas and kitchens with kombucha taps. Should we add fundraising to that list? Rebecca Szkutak covered ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
-      "originalUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1267023368.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/",
-      "publishedDateTime": "2023-07-21T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation.md",
-      "title": "Before Congress acts on AI, it should fully understand existing legislation",
-      "excerpt": "AI uncertainty is high, and Congress certainly wants to act. That said, before passing new legislation, we must first analyze what already exists. If we don’t, we risk safety and innovation and set society on unstable footing as we step into the AI age.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
-      "originalUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/07/mcconnellmitch_schumerchuck_071123gn09_w.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
-      "publishedDateTime": "2023-07-21T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo.md",
-      "title": "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo",
-      "excerpt": "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/",
-      "originalUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg",
-          "width": 800,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/",
-      "publishedDateTime": "2023-07-21T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers.md",
-      "title": "Sarah Silverman vs. AI: A new punchline in the battle for ethical digital frontiers",
-      "excerpt": "Generative AI is no laughing matter. Every company that touches consumer data needs to develop and enforce an ethical use policy for gen AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
-      "originalUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_doing_standup_comedy_at_a_club._Colorful_futuri_0c648a96-a33f-499e-a7b3-ac990986f34e.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

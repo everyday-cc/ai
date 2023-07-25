@@ -55,20 +55,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Preachers and artificial intelligence"
-    excerpt: "The world of artificial intelligence is expanding exponentially. AI’s infancy dates from the 1950s and 1960s, but it is now like an adolescent experiencing a sudden growth burst. ChatBPT and its siblings in the AI family are the rage in business, health care, education, and more. Including religion."
-    publishedDateTime: 2023-07-22T10:00:00Z
-    webUrl: "https://helenair.com/news/community/how-will-artificial-intelligence-impact-religion-sermons-and-preachers/article_707cab9c-264b-11ee-835e-1f5bdfe33511.html"
+  - title: "Business and ethics in the age of AI"
+    excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"
+    publishedDateTime: 2023-07-25T09:27:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/business-and-ethics-in-the-age-of-ai/"
     type: article
     provider:
-      name: Independent Record
-      domain: helenair.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/7/07/707cab9c-264b-11ee-835e-1f5bdfe33511/64b80a593bd1e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
 
 secured: "gH/tsmD767HNLsH+AJtTByK5Xyh1hhUYGnQGcwyO/EAWd9kHrr73mvusH8j28m/E45YGpX+1JuQmvmzJZIwNN7toVpYSlYUE7pWrcPxzljjSF4IVZeyyDIo3QTzHK3A2TDpiVigUjyEzaqtC/8Tc3yMfr55zVLuL7RfVn77z08Osmqr1QKaDffw3/lOyjKeDjo4VRdDPLr1wzDHK4I96H1UXgRwXzlwYTWC2OfVeubp80LZL/gPswBo4cG513m/Y/CTjzXvMBCuzZXexrBDVH62s7g9CLmk3e3WTFgC5Urgx0KCWElBpC4OaDb/EfDXkjfhQ7XbtJZ9nXSNqYU4BAa4F5qkW69urOG0wlV15pCQ=;2/LSWhZUYXrFuiG8BFWBCA=="
 ---

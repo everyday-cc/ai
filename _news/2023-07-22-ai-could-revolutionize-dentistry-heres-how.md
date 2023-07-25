@@ -18,31 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "AI could help reduce cancer deaths"
-    excerpt: "AI helps detect breast cancer early, reducing mortality rates. AI-based tests, such as OncoStem's CanAssist, can predict cancer risk for up to 10 yrs. AI can recognize patterns & correlations, analyze tumor characteristics & find personalized treatment plans."
-    publishedDateTime: 2023-07-21T07:42:00Z
-    webUrl: "https://frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece"
-    ampWebUrl: "https://frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece/amp/"
-    cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece/amp/"
+  - title: "New research shows how brain-like computers could revolutionize blockchain and AI"
+    excerpt: "Researchers from Technische Universität Dresden developed a reservoir computing paradigm that uses a vortex of magnons for calculations, with revolutionary implications for the fields of blockchain and artificial intelligence."
+    publishedDateTime: 2023-07-24T17:45:00Z
+    webUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-computers-could-revolutionize-blockchain-and-ai"
     type: article
     provider:
-      name: frontline.thehindu
-      domain: thehindu.com
-    quality: 39
-  - title: "How artificial intelligence could soon be used to speed up cancer diagnosis on NHS"
-    excerpt: "AI holds huge promise and could save clinicians time, the president of the Royal College of Radiologists told i"
-    publishedDateTime: 2023-07-23T12:08:00Z
-    webUrl: "https://inews.co.uk/news/artificial-intelligence-soon-speed-up-cancer-diagnosis-nhs-2498810"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 33
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 36
     images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/07/SEI_165023761.jpg?w=1200&h=675&crop=1"
-        width: 1200
-        height: 675
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNWFlMjFjMmMtMTBmYi00ZWFhLTk4NDUtY2FjOTAxOWViMzZlLmpwZw==.jpg"
+        width: 1160
+        height: 773
         isCached: true
+  - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
+    excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
+    publishedDateTime: 2023-07-22T17:10:00Z
+    webUrl: "https://www.crypto-news-flash.com/hive-crypto-miner-uses-ethereum-rigs-and-ai-to-make-ordinals-art-on-bitcoins-blockchain/"
+    type: article
+    provider:
+      name: Crypto News Flash
+      domain: crypto-news-flash.com
+    quality: 10
 
 secured: "3THYKe6mV8SuqXNQVwmni4k0A1l7oGXm06jhnXncgVDED+rHhUi5hAj1bKuhlRWQu3ZPrSa17QsAbr8ge4zkh6NXf/1Rbb+AAo1HnwnSCYf43q7JjcgVYv4jtcBEZVnWcb+e3c2vDqQX48n4rMDDh95Uoq/ihLmZmyGECJWPnCYpL4lu3jGNm/YX0OIVFXzs4tYmm9Y/NQDIiI5z2zVySQgMDkNUfMssBqMThyAa7CRxWgn2sJrYXdQMBehE7gNVZFw57dnj5AcLd1TggqyKPOZGQO1PcJJtP9q7Zwd6qrSwJlKyFWMsxl2rreXbXw1eaeoS0B5FvawI1ceGPsfJyJIZAqi1GZPag9yjCOpiYJtyzYzrkdQDRMI0MgQvcC0z10E9mFTH+TzEp5Pyom/NmGrYfeUmEOjxFP5xv2NVtIncNiCR4dbg1CFDeNWz3yh85WC4ZW2H4ODaiU1Jrpmo9jXsA22JcYO1Pmo0LD2gOgbp1WMW8xsEfh1jKM8PxDz4zvSEz4xo0ug5/GpMl5BISQ==;KK15aGNz6Ccq7IZdpUS2JA=="
 ---

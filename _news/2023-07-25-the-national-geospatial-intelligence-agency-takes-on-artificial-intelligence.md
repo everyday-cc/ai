@@ -53,20 +53,6 @@ related:
         width: 1022
         height: 511
         isCached: true
-  - title: "Enel automates large-scale power grid asset management and anomaly detection using Amazon SageMaker"
-    excerpt: "This is a guest post by Mario Namtao Shianti Larcher, Head of Computer Vision at Enel. Enel, which started as Italy’s national entity for electricity, is today a multinational company present in 32 countries and the first private network operator in the world with 74 million users. It is also recognized"
-    publishedDateTime: 2023-07-20T17:59:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enel-automates-large-scale-power-grid-asset-management-and-anomaly-detection-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/enel-power-grid-management-sagemaker.jpg"
-        width: 1022
-        height: 513
-        isCached: true
 
 secured: "boRD8FmVh+P7+muKsEfVQbGmqwmz2eJLUDUVLVmKD9gGrlgfdbxa7sBQ0OpQV5yT85DkJGzhkaKUjbdBGqvtQ6BDTrrbzP4nOpU8Hf+oB70miKS11zDlIRTBN1QYBMGavi289oXyrZRSaQJY15bQJqJwKPL8Rh9x0XP3uD4gWiQKLJKJtC0rXawk+J2FLr2gDUtXt6GNc4gSUqsVmYRnNXhpBtY/CHtNohWksQTejmN/C6LEgD8ybI/FM3/J8taneuGoFe8g8ZFf/Vc9eQGiU8Alkj8NX3L3hg/L+bqAK8Daig4uzVtXvKqxYES0Z5j+8Dq7SULzCGaDojxOrshIsCj9HFSi2oDJbt6wfFgvSqU=;wvsaNm90tIcR2jearV7byA=="
 ---

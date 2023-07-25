@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -204,15 +204,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Tesla in 'early discussions with a major OEM' to license full self-driving software"
-    excerpt: "Electric vehicle giant, Tesla (NASDAQ: TSLA) held their 2Q earnings call on Wednesday where CEO Elon Musk spoke about the direction of the company, and confirmed that the electric automaker is in early discussions to license its Full Self-Driving software to a major automaker."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/tesla-in-early-discussions-with-a-major-oem-to-license-full-selfdriving-software-432SI-3130253"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 13
 
 secured: "zNeQ11x1VosiZohFml8RzBZxyXht2OR/TwhjHDq+Khnx9UIjLaet+D52nJPdjF3RhOdZpm7VQK2U+EyxpzcrOKxuegXFKVZRVFu/FGWxOrvi1gkOcbooESYqaQHr54z7asV7INIepFPU0Cx8t/GRhQYi71hIkNBw6+55prpHxv0leRlCWQkdA5Q9eybY5pJZkeuiX+nGsBnSHYR1gThTxeSOL8BZdABQ/BY8Rkuz2e4hmQHmtP8bX11n3kiBfoqzGj10sTU6in2KK0AfrevNVEoEKSrjeLKgsoelinvBn/UrZGorAD/DzQ4a57Y/347tU6tML9KZhV4/o0YDVYlNqrIEvotClSOikQeFjMOO59btgqaSzgfY4cLinErH1vmUItn6eMa/pPfRsCrXLPA7sGUn5DQMhwBekAh8FxySvT/U7L87khqdnnbJhU2UwveBIcMitWI5lPCGdQVjHVngtI9/hTkkiOy9pKl4x/WVVPRfGrAEhi56P5ggyXtaj9b1EaO2dMJdk+8nw5th3IE61g==;aPUfT2JZyL+skCEfa3JZtA=="
 ---

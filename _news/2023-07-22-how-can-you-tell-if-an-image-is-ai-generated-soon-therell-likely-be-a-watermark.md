@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "The Generative AI Battle Has a Fundamental Flaw"
+    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
+    publishedDateTime: 2023-07-25T11:08:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
   - title: "The Stack: Musk Launches AI Start-Up as ARK Cuts Stake in Twitter"
     excerpt: "Elon Musk enters AI race with xAI, ARK writes down its stake in Twitter... Another dicey week for some big names in the tech industry. In the latest episode of the Elon Musk experience, the billionaire announced the launch of xAI."
     publishedDateTime: 2023-07-21T11:16:00Z

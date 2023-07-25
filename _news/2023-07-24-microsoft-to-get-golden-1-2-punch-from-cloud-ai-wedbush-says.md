@@ -322,6 +322,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Genpact Collaborates with Microsoft to Equip Workforce with AI Tools, Fueling Enterprise Innovation"
+    excerpt: "Azure’s cloud infrastructure coupled with the flexibility of the Azure OpenAI Service will help accelerate these solution developments. “Generative AI’s potential to drive innovation is unprecedented, and by democratizing access to this technology ..."
+    publishedDateTime: 2023-07-25T10:50:00Z
+    webUrl: "https://www.siliconindia.com/news/general/genpact-collaborates-with-microsoft-to-equip-workforce-with-ai-tools-fueling-enterprise-innovation-nid-224299-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 40
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/S7v1gyUc.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
     publishedDateTime: 2023-07-21T14:06:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
-    publishedDateTime: 2023-07-20T17:21:00Z
-    webUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/20/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Smart Supply Chains: Traceability Chatbots Are Closer Than Brands Realize"
     excerpt: "Disparate data sources remain a key challenge for traceability. Digitized or not, supply chain data rests in multiple locations, from brands and multiple levels of suppliers to trade and compliance data. These data sources are normally unstructured, and there is currently no easy way to automatically link them into a cohesive picture."
     publishedDateTime: 2023-07-21T10:30:00Z
@@ -128,6 +112,22 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
+  - title: "It’s time to break the ChatGPT habit"
+    excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
+    publishedDateTime: 2023-07-25T10:19:00Z
+    webUrl: "https://www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.html"
+    ampWebUrl: "https://www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/05/llm-models-100941413-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Future of AI and ChatGPT: A Glimpse into 2023 and Beyond"
     excerpt: "As we progress into 2023, the world of artificial intelligence (AI) is poised for remarkable advancements, and ChatGPT, OpenAI’s text-generating AI chatbot, is at the forefront of these developments."
     publishedDateTime: 2023-07-24T15:29:00Z

@@ -60,15 +60,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "The supercomputer, which was unveiled Thursday by Cerebras, a Silicon Valley startup, was built with the company's specialized chips, which are designed to power artificial intelligence products."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips/articleshow/101995632.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
   - title: "Google’s Termination of ex-AI Engineer Chatterjee Sparks Diversity Concerns In AI Research Team"
     excerpt: "Amid mounting concerns over diversity and inclusion within the tech industry, Google faces yet another whistleblower lawsuit by an ex-employee. Satrajit Chatterjee, a former senior engineering manager at the tech giant,"
     publishedDateTime: 2023-07-21T05:24:00Z

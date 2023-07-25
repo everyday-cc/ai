@@ -1,26 +1,20 @@
 ---
 category: news
-title: "India’s Think360 make top AI Fintech Companies List"
-excerpt: "Singapore: Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH100 list of 100 of the world’s"
-publishedDateTime: 2023-07-17T07:23:00Z
-originalUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
-webUrl: "https://www.defencenews.in/2023/07/indias-think360-make-top-ai-fintech-companies-list/"
+title: "Indias Think360 make top AI Fintech Companies List"
+excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
+publishedDateTime: 2023-07-17T14:12:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
 type: article
 
 provider:
-  name: Defence News
-  domain: defencenews.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://i0.wp.com/img.etimg.com/thumb/msid-101809408,width-600,height-500,imgsize-23840,,resizemode-75/indias-think360-make-top-ai-fintech-companies-list.jpg?resize=720%2C340&ssl=1"
-    width: 720
-    height: 340
-    isCached: true
-
-secured: "+QdkFVKbRsFbpVVZwHn5EjcikFOUbJHybHS8ZKOl9gRuPEIbHJEZihBp1ie4uAn9Tx39VfsFkVxWkl99AIKeOZz7v1+16WnCsd8wMFZLZES3PN10Mp3mqXwhXL5jwjuMbm8+IXaMsbwoyibC2YwGw+8CmhlEWRYGXBQrAjMA4D4YmmKnepiLe5dl89PmyHE1dDJwXQiUaZ40gGuaCvqbMZbXsMBEo/eNpcs4y+rK57rTFCROUtwxl/WjtH9UZSOPdm4p3yvpcl3nBI3dVIQVjEf3gBg41GkncTKxBZT595h4l6CP7c2Cq3hyPVnSDL7G3m+Ix9+Fm3nfBxmVir/MSiOmRd+D9NorDH/+9zXZTBg=;iZyVHAl+E+KIGdrMP6AJqw=="
+secured: "jiKzW0voiyVeRYptS08OTDILO05kDNQoctppE0uu0GxwvF9O1CNVq8v+i45Zqjz2tyAG+YKqgQu8GVjKqGAY8mxtXI0VAFvRWBP7QUa6Q/9bSu1qP3OY1yqif3FySZNB2zczNISbvClw9dyNEJdEIrcZHxwtZ/6ZddvS6bhfH6CE30PBOMBrR71vicdXnOUEMjkv0sMb5yHqqkufg8rBWQj9IZcifszzrU1pOj7mN6LNFSBWBb2AtR0QYUe5L4iFLnefG0wHynLYOB012etI9g4Ve6eDy1mgEJESd1X02EwT3AgtPncW+VHJlBMvuyMNVFsrPZO0TfaSeOPmiD1B2+k20T2alYqo64QcV8J7FXc=;rvx49ymmxNIVN+k8tfV6uA=="
 ---
 

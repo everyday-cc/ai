@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-t
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Fox Business
@@ -41,6 +41,17 @@ related:
         width: 800
         height: 718
         isCached: true
+  - title: "AI-powered travel assistant touted as most powerful ever"
+    excerpt: "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ..."
+    publishedDateTime: 2023-07-25T10:44:00Z
+    webUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
+    ampWebUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
+    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
+    type: article
+    provider:
+      name: fox6now
+      domain: fox6now.com
+    quality: 39
 
 secured: "+ebuyWkvSfjjxja9SB8D+61am8FnbOfo9/Yb5M/xx/JAlcjEd4f9AIgR1uuAIRuiHz7zysGj9Qpp6uYq92L6o9dpYiEDpho8VRLiZhOgRdie9MXsaQrZIcbsNZqUh1I857M9Lcy0NTLp26qF9iROze2NL7Pug73+Z+si8C8MxTxwfov9vlYWArtmWASf7tCFbffmbLR7AyFPMsRzn7vg9Ru9aF7IGvz2Y1a0w6aZg8FBl78/+n8QmY6ymPt/u09avRpD3iQbO5nCd+xFh7/IhLVcYOl4Maa2fv7kTs7GnKfOv4/cbX/YBbqydQr0AQjcOKVrJRx50/XMCGC8aSsUt7/35g0nOuKXdCeoqqKXYbSzHpuX+dYrLo2FzZu24HLsFSC9uRxV+47z2GOAWiSH3KnN712bwcIOz8RtxafS+hM5relUXAF9fL4+5DbmHce9aIz40WTIImtNGOndsZUw5sGNVRPU4wB8z+8yGZJmSFp0ySKD4tpMPlYusn1axeqCwM2oyIUDNKJBYz0LYsIHkQ==;BDtNkI834CjpBB8r+EvUng=="
 ---

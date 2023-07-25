@@ -25,50 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Hype, Fright And Ethics In Implementing AI"
-    excerpt: "Greater knowledge of what an AI is doing will help a lot in making sure that we understand what is possible with AI and that will help us use AI in ethical ways."
-    publishedDateTime: 2023-07-23T20:56:00Z
-    webUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/amp/"
+  - title: "Is This AI and Robotics Chip Stock a Buy Now?"
+    excerpt: "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now."
+    publishedDateTime: 2023-07-25T11:03:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: The Motley Fool
+      domain: fool.com
+    quality: 116
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bd914505a8958614d98958/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 642
+      - url: "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg"
+        width: 3372
+        height: 1809
         isCached: true
-  - title: "Using AI to fight climate change"
-    excerpt: "AI is a powerful technology that will transform our future, so how can we best apply it to help combat climate change and find sustainable solutions? The effects of climate change on Earth’s ecosystems are incredibly complex, and as part of our effort to use AI for solving some of the world’s most challenging"
-    publishedDateTime: 2023-07-21T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/using-ai-to-fight-climate-change"
+  - title: "AI Chip Craze: To Buy or Not to Buy NVDA Stock Now?"
+    excerpt: "Admittedly, the first thing may be within reach. AI chip demand appears poised to keep rising. If demand among Nvidia’s non-AI end-users (such as in gaming) normalizes/bounces back, the company could continue to top forecasts."
+    publishedDateTime: 2023-07-21T10:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-chip-craze%3A-to-buy-or-not-to-buy-nvda-stock-now"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/64b673590474016a2e1ac5a9_Nidia_Dias__Sustainability_04%20(2).jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI is amazing and frightening at the same time"
-    excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
-    publishedDateTime: 2023-07-24T17:28:00Z
-    webUrl: "https://www.greensburgdailynews.com/opinion/columns/ai-is-amazing-and-frightening-at-the-same-time/article_82ff7704-2a47-11ee-b2b1-1f290672e0e1.html"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "This AI Stock Crushed the Market So Far This Year. Is It Still a Buy?"
+    excerpt: "Given the current state of Nvidia stock, investors should probably treat it as a hold. Indeed, both long- and short-term investors have earned massive gains from this stock. With its dominance in the AI chip industry, it will almost certainly play a critical role in the industry for years to come. That could take the stock higher over time."
+    publishedDateTime: 2023-07-21T12:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/this-ai-stock-crushed-market-this-year-still-buy/"
     type: article
     provider:
-      name: Greensburg Daily News
-      domain: greensburgdailynews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/greensburgdailynews.com/content/tncms/custom/image/0441c36e-bdf2-11e5-a5df-bb2003ff1eb0.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
+      name: The Motley Fool
+      domain: fool.com
+    quality: 49
+  - title: "The 3 Best Value AI Stocks to Buy Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In 2023, it is impossible to have no knowledge about artificial intelligence"
+    publishedDateTime: 2023-07-23T20:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-value-ai-stocks-to-buy-right-now-1032467764"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "wa9Z2E4KJ38mEvl3+mRNwHLWtFOkLaUk/cOZ632uIrvna0iSmeTtYj7tR84NcsiEq3UV73BuJxKniYrFk8bJZI9AFCfw+XyqXktP6aYv1S2rsO5Zthe22Yoiad9JjcdaEEDY7nKBaMAoiHsy9Mdk6GHgxpcyWC26GaYwGKhaSw2qiXuaStI0HXT/c7MAfcWHhYWED18ZpUm1YkAlTw589f+5v14mNmiBg+KWfTBIC2K/sCNXVIg1KyEcLyJBUP7X+iIy9d0c1+ospbBAL0WlD3cro0knMIENGJ6bh0gE3iFW/baj6OlTUZpNDK32ayg47pYE2eU/QHJQLwnAjNM5sRQ7Z9zIYHneTv4ALGpF4UEuqHWNuU0vzv0hPOdcUOwJ3Ubc7xuiMC2z7vZYptaRql9VFUk/sedT3iixrtnWtMoocJOj8tRV27tUfyIyk7E38XRyd2xckdT0tZw7r5CkkoCsZFTYYQehfrHPGc8uPBtdamyKoLkgtHlmWlbJEZ1I9VfiYRFF2b49ov58bhpmkQ==;NfhG+VrSjhQUHOGBbvmUDA=="
 ---

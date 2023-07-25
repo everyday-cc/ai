@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
 type: article
 quality: 87
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Reportedly Pitching New AI Tool to Newsrooms"
-    excerpt: "Google is exploring ways artificial intelligence could assist journalists and news publishers. This reportedly includes testing an AI tool that can take in information and turn out news articles."
-    publishedDateTime: 2023-07-20T17:32:00Z
-    webUrl: "https://www.cnet.com/tech/computing/google-reportedly-pitching-new-ai-tool-to-newsrooms/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 67
-    images:
-      - url: "https://www.cnet.com/a/img/resize/bd59a0540fd6424563286443154a8cb7e9cac750/hub/2023/05/11/5191c278-f148-4f89-8671-99ac5d4b14e1/google-io-2023-051023-82.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Read all AI about it: Artificial intelligence reporters may be coming to news sites"
     excerpt: "Google says it is in the early stages of developing artificial intelligence tools to help journalists write stories and headlines, and has discussed its ideas with leaders in the news industry."
     publishedDateTime: 2023-07-21T13:14:00Z

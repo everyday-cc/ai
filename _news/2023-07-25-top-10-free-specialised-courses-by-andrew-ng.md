@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-25T08:48:00Z
 originalUrl: "https://analyticsindiamag.com/top-10-free-specialised-courses-by-andrew-ng/"
 webUrl: "https://analyticsindiamag.com/top-10-free-specialised-courses-by-andrew-ng/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Top-10-Free-Specialised-Courses-by-Andrew-Ng-.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "l7PtBrA7ArA/yK351Obsbrt4HgcZmKr27aL4CIh/GEjYu7vwpnG9ye9/YrIDcNP20Hz62+w6XNo8HJPcBlKEkj1fzt62Xo7cTt3DBAvTWtReBHdgOoWg0GZQkqIA1SrrrfGvsa+bYrXZlN9y7Cg6fjmsFShmESWy7tLhfmL0IF55u2Vfxg7Rf8DQWQEJQ4TUVZTxKpXtNDmDjVh+Pz6K92DCSBJneWY6AczdeJSxaNC/lYRed+FFdacTkQlTmF/E/JgMlGLL+wzSMQvLnIxhF0QyuasdH8kVo5Cqy3pnWR7rQHjQECHToNoS4PSIimLiJariSHeVw/umdUYht76Nq7qD7z8IYhbEe10uQUB2nlI=;xQYmdUz8XeIQyWW3y7HWXQ=="
+secured: "84ZiE2z4BdqAqevlpoG5nxwWxd4qQ/Wi7LVtz4sUcvBx9fYatGUo/ylwrG0ZRGboQZmhSoTFcZBJxoSeFUVU6j0PzH6T8ikf0YgXmxibN1/Ev4WM1ZZXg6/sZ9adpVsT2V90NREUqUETY1TTSf+R5tFgYampZik/BEhEL/FxPEvRjjlvBXpx8dXaK3SAUbkcAfFCMKFjdv3EY4NbY82EMrNdlXLUWb/6/qZU+CRx361O0039nEZ73bUHiRUKRvoXrhtOllcWmjoUqXcr2lTxfsQK/0g6VQbyRbHLllfVsIVmiH0mgFGmtxdzOje2qnN4YLK8l+WT8WiWK2NtxXRc9sKFXYBCOYy5F455SDIYjEK0tlGbeG+R98f6V9UWrHkjy+Wve962r4t0ANS9PLtWxUVeuFsYITsEYVHdrvMUioF72adNGAJ4aEDyBpfMugzEB0AAwX35vVJ1IZzZlIEnnw7yqN80bU7HrUdfz6nxRaEcgHD7J3+t+53QsRC2knrMkyHPqWZTry6nRygP8sjGvg==;uI1QIfkaabmDY4FNsHL99g=="
 ---
 

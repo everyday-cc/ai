@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infes
 webUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/patsnap-gpt-2.jpg"
         width: 1022
         height: 511
-        isCached: true
-  - title: "Enel automates large-scale power grid asset management and anomaly detection using Amazon SageMaker"
-    excerpt: "This is a guest post by Mario Namtao Shianti Larcher, Head of Computer Vision at Enel. Enel, which started as Italy’s national entity for electricity, is today a multinational company present in 32 countries and the first private network operator in the world with 74 million users. It is also recognized"
-    publishedDateTime: 2023-07-20T17:59:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enel-automates-large-scale-power-grid-asset-management-and-anomaly-detection-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/enel-power-grid-management-sagemaker.jpg"
-        width: 1022
-        height: 513
         isCached: true
   - title: "The National Geospatial Intelligence Agency takes on artificial intelligence"
     excerpt: "The National Geospatial Intelligence Agency is about, well geography of course. And data. And now it's about artificial intelligence."

@@ -408,15 +408,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 17
-  - title: "Tech companies to make AI safety and transparency pledges to White House"
-    excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
-    publishedDateTime: 2023-07-21T09:00:00Z
-    webUrl: "https://www.ft.com/content/49ddbbc8-ec8b-4c42-bb7b-3bc65e0b192c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 16
   - title: "Biden White House, tech companies launch new safeguards around emerging AI technology"
     excerpt: "President Joe Biden met with tech leaders Friday at the White House to highlight what he said are new, voluntary steps the companies are taking to step up safety and transparency around emerging AI technology."
     publishedDateTime: 2023-07-21T18:39:00Z

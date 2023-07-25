@@ -200,15 +200,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Tesla in 'early discussions with a major OEM' to license full self-driving software"
-    excerpt: "Electric vehicle giant, Tesla (NASDAQ: TSLA) held their 2Q earnings call on Wednesday where CEO Elon Musk spoke about the direction of the company, and confirmed that the electric automaker is in early discussions to license its Full Self-Driving software to a major automaker."
-    publishedDateTime: 2023-07-20T19:03:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/tesla-in-early-discussions-with-a-major-oem-to-license-full-selfdriving-software-432SI-3130253"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 13
 
 secured: "2k4Rt43AH4qSWHa0//52p24t50M9kdAVbPqu8YFGisWYB0gVCbPvWKLNNWQNG70j6m05XmI2uu2N18V6hcVKmgszA46uGfBA0YISN5i+TYZgpG8BfQ6PYTeEgIXyFolViUHR+8WXynERtGAfqkjXyorWMrMjtI+YLoaMLOYm2RIke/93vqXDK87/qVtDMIv7NGMWzKOnKjdbIBC12oeC8Kici/Cy8QSdGSUAOrhcXlJXsvMpSL6lL8raBxTRiyv9UUdit0RpvCy0G2bF4Y8pg9vFB2KT88FVxfwW1VC5+TzEubU6hxRGD526/5zCvVP2HAHHXhj9f58GgxWdqM8iS/BntEqq4DOXxk6XFzQuwm71f3I+Aef9ZRdKCL1E/+bNwWF0k1qb4+mvhHWynAl0VmxBozl3qWVZz7JfJ5GSJNs3bemFtQjxCXCUmQEcaQMo+BE7Lu9Fr0JLPOlan6fjhp47oRE+PaWtruHnSazw3NppCpz7ySIESCKrxonzSek921QZfMYekdZBwfnOzzfdcA==;+7OR5K5IJGZbJNebCWPIGg=="
 ---

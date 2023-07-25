@@ -22,33 +22,51 @@ topics:
   - AI
 
 related:
-  - title: "2 AI Stocks You Can Buy Right Now for Under $100"
-    excerpt: "However, you don't need boatloads of cash to get exposure to this latest Wall Street trend. If you've got just $100 (which you don't need for contingencies and paying bills), you could buy a few shares of one of these AI stocks."
-    publishedDateTime: 2023-07-21T09:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/"
+  - title: "Is This AI and Robotics Chip Stock a Buy Now?"
+    excerpt: "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now."
+    publishedDateTime: 2023-07-25T11:03:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 116
     images:
-      - url: "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
-        width: 2359
-        height: 1270
+      - url: "https://g.foolcdn.com/editorial/images/740713/ai-robotics-cloud-software-metaverse.jpg"
+        width: 3372
+        height: 1809
         isCached: true
-  - title: "2 AI Stocks That Could Help Make You a Fortune"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI)."
-    publishedDateTime: 2023-07-22T11:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/"
+  - title: "AI Chip Craze: To Buy or Not to Buy NVDA Stock Now?"
+    excerpt: "Admittedly, the first thing may be within reach. AI chip demand appears poised to keep rising. If demand among Nvidia’s non-AI end-users (such as in gaming) normalizes/bounces back, the company could continue to top forecasts."
+    publishedDateTime: 2023-07-21T10:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-chip-craze%3A-to-buy-or-not-to-buy-nvda-stock-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "This AI Stock Crushed the Market So Far This Year. Is It Still a Buy?"
+    excerpt: "Given the current state of Nvidia stock, investors should probably treat it as a hold. Indeed, both long- and short-term investors have earned massive gains from this stock. With its dominance in the AI chip industry, it will almost certainly play a critical role in the industry for years to come. That could take the stock higher over time."
+    publishedDateTime: 2023-07-21T12:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/this-ai-stock-crushed-market-this-year-still-buy/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 69
+    quality: 49
+  - title: "Preachers and artificial intelligence"
+    excerpt: "The world of artificial intelligence is expanding exponentially. AI’s infancy dates from the 1950s and 1960s, but it is now like an adolescent experiencing a sudden growth burst. ChatBPT and its siblings in the AI family are the rage in business, health care, education, and more. Including religion."
+    publishedDateTime: 2023-07-22T10:00:00Z
+    webUrl: "https://helenair.com/news/community/how-will-artificial-intelligence-impact-religion-sermons-and-preachers/article_707cab9c-264b-11ee-835e-1f5bdfe33511.html"
+    type: article
+    provider:
+      name: Independent Record
+      domain: helenair.com
+    quality: 39
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/7/07/707cab9c-264b-11ee-835e-1f5bdfe33511/64b80a593bd1e.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yWbQuwepxEtc2UUbpHmosblM1cyiAugLFMsOlog9qxal4O1AGXtF5aUL+DLHTpUfj4wmJRJ1tY64GK8NmkJGuBs8QyWlYBAvHfc4+e8Eg8zT9my7mfJ65NCnPgga39ql+KT9OdiMVAW+JsteqkTnzgQ3Wod5k2RxvS/gCjLRSO71LXafqptWJ/qjH/kC2jTcbN+YA90uTNCk351L0qjdD5pim6qe8I4pIDYyPbmSiPlGZK/GI0janLa9a7K6bWM3mFLC2F15HGDa0wy6m4hcMWS1/K5Xldl2vjvIH1YZh+mRPoOH09Vkp+loJ7Ms1S1i/4h1aSaAmk95XNky7iL/uP/Ur6fybyz05XXCw/pPDfTFUVUk9paol9FV8ij6bwW64wsOJ5CyCGSRT8CtwnvitR5W/+t30vNhWW06yt9O0j9u0qzX42FST2dyTCirx0I32YhBvA499zPbd4ZxaFM1ArCQ6GM2PiNcXFfgYeCB6O2yNj062TvJMiWwl2dKBQXd64JMCRaw0rnOwHqiqUdD2A==;REX8uhyTtiaSaLbnSmssKg=="
