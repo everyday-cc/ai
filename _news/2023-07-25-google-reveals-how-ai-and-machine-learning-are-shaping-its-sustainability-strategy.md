@@ -19,29 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "How AI is shaping clinical research"
-    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
-    publishedDateTime: 2023-07-21T10:31:00Z
-    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+  - title: "NYC is now using AI at some subway stations to track when and how fare evaders are getting through"
+    excerpt: "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement."
+    publishedDateTime: 2023-07-25T17:12:00Z
+    webUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
     type: article
     provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
+      - url: "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "How AI pressure is making companies rethink cloud use"
-    excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
-    publishedDateTime: 2023-07-24T12:19:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece"
+  - title: "NYC Using AI To Track Subway Fare Skippers"
+    excerpt: "The NYPD made 601 arrests and passed out 13,157 summons for fare evasion in the fourth quarter of last year. Those numbers came after the MTA announced plans to dramatically increase the presence of law enforcement underground, in large part to deter larger-scale crimes."
+    publishedDateTime: 2023-07-22T20:14:00Z
+    webUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01kHrNkw0Veu0X7olZeIH3x-1.fit_lim.size_1200x630.v1690056803.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "MTA using artificial intelligence to tackle fare evasion"
+    excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
+    publishedDateTime: 2023-07-21T02:40:00Z
+    webUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion"
+    ampWebUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 37
 
 secured: "5AbHJQ0OvBj7VZUJLCoEpXs52ELoX2F5Ve9s6F5oyb0vwmwsM5cd+ypKUaZNehVUDHMDDyWuNpH60BbEtvHdy66dQoMoRhBTl452hvY1HWfaL//WdArmq/q47h3GnVtXPVxbzvsPpY7p2Kza1DuIOl1VN2Dw74NOEu14QqYxbPKbPvK5RDnehCKO/dB+l+clorxkjtMVqnujDGTAALsEKcDKhtmqj4m8yZ6XlLv32n6gPbLvAI7Memdzh9oPqmuoTnpPJP0Rz4/hRKTQXeBuD9xwrgDk6CbDwrcqkKFe7NUxKUnvv/R+b331zDbQLIZP0hSlRcYh4w1uMV7B5udmp24irbGhdtUz7VoEmx8RU5Ifpb2cfhx14Qw3zsQd2MS3gmerLMUor8zHMCauJa8OFntQ0pxZPCj8444x8C0d1Wr0vrC+v7BxxmWo/KDz0ytuduZu3a6AI8MR9+rLI6RO9zurlMrHNwp/9DzDQmVaTqDZ0Qj36FmnXuOkITEAqZ2bgqHNEcHm0XP7IxjsoicxZQ==;cvdx+Q5mlCmjBssBCGm7Bw=="
 ---

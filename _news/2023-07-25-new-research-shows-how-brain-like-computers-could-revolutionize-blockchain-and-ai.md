@@ -7,7 +7,7 @@ originalUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-c
 webUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-computers-could-revolutionize-blockchain-and-ai"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,29 @@ images:
     isCached: true
 
 related:
+  - title: "Money20/20: The intersection of generative AI and blockchain"
+    excerpt: "We get the thoughts of Worldpay from FIS Head of Crypto/Web3, Nabil Manji, on the intersection on the intersection of generative AI and blockchain"
+    publishedDateTime: 2023-07-25T16:04:00Z
+    webUrl: "https://fintechmagazine.com/videos/money20-20-the-intersection-of-generative-ai-and-blockchain"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/2a1a1356d32b8fa679b125d49b960669:f0f824bf09be7fe8c4388ebea5a98b9c/maxresdefault.jpg.jpg"
+        width: 1200
+        height: 631
+        isCached: true
+  - title: "cSigma Finance Launches AI and Blockchain Powered Debt Capital Platform"
+    excerpt: "PRNewswire/ -- cSigma Finance, a New York based FinTech company, launched a debt capital platform that uses artificial intelligence and blockchain technology to connect credit"
+    publishedDateTime: 2023-07-25T14:10:00Z
+    webUrl: "https://www.wvnews.com/news/around_the_web/partners/pr_newswire/subject/new_products_services/csigma-finance-launches-ai-and-blockchain-powered-debt-capital-platform/article_78f73e7e-b1aa-5f8b-a3cd-3b2c8745823e.html"
+    type: article
+    provider:
+      name: wvnews
+      domain: wvnews.com
+    quality: 34
   - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
     excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
     publishedDateTime: 2023-07-22T17:10:00Z

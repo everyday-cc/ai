@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/635812/nvidia-and-google-cloud-deliver-pow
 webUrl: "https://www.inferse.com/635812/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-nvidia-blog/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia announces availability of DGX Cloud on Oracle Cloud Infrastructure for generative AI training"
+    excerpt: "Nvidia said that DGX Cloud is designed to meet the massive supercomputing demands for training generative AI and large language models."
+    publishedDateTime: 2023-07-25T16:07:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-announces-availability-dgx-cloud-on-oracle-cloud-infrastructure-generative-ai-training/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 54
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/NVIDIA.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Teleport Introduces Teleport Assist: An AI Chat Interface for Fast Infrastructure Troubleshooting"
+    excerpt: "Teleport, a leading provider of identity-native infrastructure access management, this week announced the availability"
+    publishedDateTime: 2023-07-21T17:13:00Z
+    webUrl: "https://www.datanami.com/this-just-in/teleport-introduces-teleport-assist-an-ai-chat-interface-for-fast-infrastructure-troubleshooting/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 26
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+        width: 1893
+        height: 767
+        isCached: true
   - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
     excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
     publishedDateTime: 2023-07-25T14:18:00Z

@@ -49,17 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Yes supporters to the Indigenous voice to parliament have raised some of the best reasons to vote No"
-    excerpt: "Official Yes and No campaign pamphlets for the referendum have been released. Yes campaigners are upset the No pamphlet quotes extensively from the voice’s supporters."
-    publishedDateTime: 2023-07-20T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/yes-supporters-to-the-indigenous-voice-to-parliament-have-raised-some-of-the-best-reasons-to-vote-no/news-story/9f1e7e612f51db592e284594cb0fb65f"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/yes-supporters-to-the-indigenous-voice-to-parliament-have-raised-some-of-the-best-reasons-to-vote-no/news-story/9f1e7e612f51db592e284594cb0fb65f?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/yes-supporters-to-the-indigenous-voice-to-parliament-have-raised-some-of-the-best-reasons-to-vote-no/news-story/9f1e7e612f51db592e284594cb0fb65f?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
 
 secured: "q3lS6Qkotq0727tWmnpn5XRolvI1m8AoksdA0oaiHg4P3tkVW2vR9awnWWGAK67WYhzBLx0qH7Kyyl/8m2gg4m6AX5k1Nv0OUc5ad1I58M/+ixGeCMXmslnLfULwS+FD9dsDaATUcZjddEfF7jrHThFRpQkByNV61yFobrqzxX93rSCW8Xj5SLrUI+q1UVD2H6XxHJjYtG+p4pOiXxbJrTPBbSvC8MT+pAt3pBIPFpqEadknIeNgbZAT8rFwsd6Ji7JUWg0wITbEi7cqyxeKCzJ2tidSHMO9g7GFsP+SCmKsWtKbO4wO2aiOkWw9py5kWG5ZDI3BoEyc7KSiZrAzqMWlLYsJPssPlm2k1Lq8PqPWOcdh5PI2lSBRgOrHhdxeFA1S//VTC6/LFtHtjH5+Ly0U6Ejh9HFsB0madKAJCcoFulUrnW1EVMu5ScaAhE88Jw/i61W83f+fRHhdB2no4nOTACsbtGvzIco/uSvHTxWEzgr497nDLRNOZ3KEBG0OFCdfqBZ7SV+zzv1rDbOBgA==;VLqoKPn61b4ut0v8CEe52A=="
 ---

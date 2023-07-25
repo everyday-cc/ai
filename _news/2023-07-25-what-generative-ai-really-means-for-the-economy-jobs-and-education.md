@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-re
 webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
+    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
+    publishedDateTime: 2023-07-25T16:09:00Z
+    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
+    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "AI in Education: New Guidance from the Department of Education"
     excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
     publishedDateTime: 2023-07-21T20:31:00Z
@@ -53,6 +69,6 @@ related:
       domain: thehill.com
     quality: 16
 
-secured: "3Ui0WVyWW/UfAXA3I4ZwFnCYsr4veXkKQMtpKxSL6hdvIotrubnhDyGe1fcuzJd3pNfoVpiu0kWE/FCswBsRrTN3b0IwOig6OP1nU0YEISrCepB9wQR+jM6qgWArOgyiHTAKO4Nxf2/G8HFOnEIm+FAG2KJbUCWdmjMlqjbteQPottf12rS8n3L1k/2az4fS0wpqeu3QOML7qr7YGLMCv2dPBBzpWYRw52nMNqkXTTliGXe3FY4u50cwNYmzSUxTOX+vGPDu2wJl3hW/huTgMKeG0dfjnv+VIdW79IaoubsiZlZIe05d6qfbHA2Ovqm5749k33zvWT7Bme0Ujnqr9Z+BKzTGyKCEQLc4mqsEvOk=;dk9CwZPQm/+VOyqWjNd0/w=="
+secured: "VvyKEnD0IJDg0ZFFMrdSJbx7xxKiKiDa1yd0ynGT0bVIo+quPz56fP0GBuj3bcsU7mja6fgda9DvO2Eis4EF0Q9yzpcSDmxfv69j0aSUcquJVSrv2z8AKuQDw+kKRKvqEDSNVL4tXpCmsBH866HGm/xLqUOvfgVmDaaQ+SqTnEZrvN96+keJa0Vob+FGwuzBOkTdJFDRjnZDJOWKJt+NgUvEsyMeOwdAIa3h50zaP0kRT720w+5R2Kvi4xWIuC8R8hjLZX7TPU9L7w6a1JkUwtOzSYkIAfw0Vn8SMHeIsJjBSMaUPoUVwV7wN1Hsuf0+8pLgyG6y4wE/D+OjMtvolzuW/hXyccPAlGJm6B/7JvsrytHElekrmMRtgcwXnW8dtrDKryk0g5/b0Q79Emk7ytB930rTE6aZ6+HJB6p0KRAAbAEDzthoFb10nFrhdodhp8nd55jGznsXGJKijPS/Y0w37Xqz7eibfQautUHXNf2V9TECweMHSVluL1dPqEZSnoeUG97zIEIv0/84OYnTpQ==;pPunIb/lwbuBnFvUyClWcg=="
 ---
 

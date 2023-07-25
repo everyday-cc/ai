@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Tesla Stock Investors Should Know About Recent AI Updates"
-    excerpt: "Tesla reached over 300 million cumulative miles driven with FSD Beta and believes it can quickly grow to the billions."
-    publishedDateTime: 2023-07-20T23:44:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740671/jose-najarro-2023-07-20t180954043.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions"
     excerpt: "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI."
     publishedDateTime: 2023-07-22T08:30:00Z
@@ -58,7 +44,39 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk claims Tesla will spend \"well over\" $1bn on Dojo supercomputer, alongside Nvidia GPUs, for \"100 exaflops\" of AI"
+    excerpt: "Tesla CEO Elon Musk claimed that the company will spend more than $1 billion over the next year on its Dojo supercomputer. The supercomputer uses the custom Dojo D1 chip architecture designed by the automotive company for training self-driving vehicle systems."
+    publishedDateTime: 2023-07-24T09:05:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/elon-musk-claims-tesla-will-spend-well-over-1bn-on-dojo-supercomputer-alongside-nvidia-gpus-for-100-exaflops-of-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/tesla_supercomp.fb856515.fill-1200x630.png"
+        width: 750
+        height: 395
+        isCached: true
+  - title: "Elon Musk Launched His Own AI Startup—Here’s Musk’s Net Worth"
+    excerpt: "Tesla CEO Elon Musk announced his latest startup, xAI, which will focus on artificial intelligence. Musk is the richest person in the world as of July, thanks to the companies he leads including Tesla,"
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.investopedia.com/elon-musk-launched-his-own-ai-startup-heres-musks-net-worth-7562899"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 17
+  - title: "Experts Explain the Issues With Elon Musk's AI Safety Plan"
+    excerpt: "Musk's has positioned his latest venture, xAI, as a rival to ChatGPT and Google. But there are a few fundamental problems with his underlying strategy."
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.thestreet.com/technology/expert-explains-the-issues-with-elon-musks-ai-safety-plan"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
-secured: "r5Ld0lKv6gDMRKGqVot1yMJNwGLJPkUzosd+TD1RDfo5xuCKM2mC8IznzzOoupy/JlZtWNpwBfhcnHmPjOJ2XTrM+o9goYNpz1vpKqhKOeHCjGNI2+mnTPXoQzY8krqfBFtB4WLK3tgBwGwj90aJhCJ5bzsB42GwscIshUiIg5phYADphaolCHc17IO7mBCJraHLuHgt5CTq8njSDCJ2bc5Jg0zhMS8D92bFFaT3geu469wp3WMaoyUdzGPb/KEgA3c/h/5EUicxh5SjHuRSpNwqN7Fbvce2fBZNu1RB43hNld8Fo9SCFRu7xaeZwpx6gHNoLYAyZei4S5JMaeJLGS9yt+iagdd9MY2b7KPnv2I=;J4ssjxqaFVlnkaMs9QnJOQ=="
+secured: "rwpHdQbpBQePEFpUz/fTzuj1a3PHHiTtSCUtebnof4BEB+RnFGSKxlco0QjNCf/7j4LyVGvc8mNr5UlhK16qa1/m5o3C4JKdgKUc+8XDpbR1iHtqA71IP/9jGpGR3CW2tSmrqFSC8l3VBgG95o1k+ZNyvSJnk6sj+dhXpqTWa4hnjwPk8dWM2p4gJLIe3KGzfWouQUeFMAEfVhX5rZtTpoYOZbiIIIH4BC5kUNE9UqBHxDENbUD6pDo/IWniNJNBqG48z3BQqVrJJ3dLF2+F9ZRd4hqWzFgaYxcbRZRV/RIv9ZGu55ESzlplX2jsJtTHg2joUwJvjmKgP2rRlosDcawF3f4DobGx/tRSgajwywGFgubImvtQJdHIPme2bZi7t7/u0YWMhky3jOfrTR/e1sFiQdOPPTQCRWoYJHUH5feTkT+XYZi6iBmP3bn8vrmsPtLcUXGPveZDHvHUKh0O/6fibnqnrIiLgiZ74w9zbqO8lcYh/TJ9PhfdcwhUjgVimKp0ZDmBoQ+odeuIwIgeDA==;PyrCwO/NR2mtdR1jsEjqhQ=="
 ---
 

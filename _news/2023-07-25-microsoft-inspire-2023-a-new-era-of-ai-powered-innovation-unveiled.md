@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Puts AI Chat To Work With Bing Chat Enterprise"
-    excerpt: "Vice President & Principal Analyst, Modern Work, Melody Brue looks at Microsoft's generative AI advancements and their potential impacts on workers and productivity."
-    publishedDateTime: 2023-07-20T23:30:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
+  - title: "Generative AI Views Of MIT Prof And Goldman CIO Bode Well For Microsoft"
+    excerpt: "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue"
+    publishedDateTime: 2023-07-25T16:39:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 108
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b9bc172887f9f5c637566c/0x0.jpg?format=jpg&width=1200"
-        width: 720
-        height: 404
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bda85455c7bf468d9a6bb7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 881
         isCached: true
   - title: "Tech giants including Microsoft and Google agree to White House AI safeguards"
     excerpt: "The White House said Friday that it has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before"
@@ -56,38 +56,6 @@ related:
       - url: "https://images.mktw.net/im-794931/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Microsoft & Teladoc Expand Partnership, Enabling AI To Reduce Clinician Workload"
-    excerpt: "This represents a growing trend by healthcare organizations, which are increasingly leveraging AI to augment workflows."
-    publishedDateTime: 2023-07-23T17:09:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64bd4f852559900c20d3e1a4/0x0.jpg?format=jpg&crop=3000,1688,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bing AI chat expands to Chrome and Safari for select users"
-    excerpt: "\"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" said Caitlin Roulston, Microsoft director of communications. \"We are excited to expand access to even more users once our standard testing procedures are complete.\""
-    publishedDateTime: 2023-07-25T14:18:00Z
-    webUrl: "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/90f674cd85981dcb50a5f3f8d5e29f2a07295b41/2023/07/25/0852fcad-54ee-4823-9f85-b7df7c18bb05/binggettyimages-1246902268.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google, Meta, Microsoft, OpenAI and more agree to voluntary AI safeguards"
     excerpt: "Several AI companies, from Google to OpenAI to Microsoft, have worked with the White House on a set of voluntary AI safeguards."
@@ -144,29 +112,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-msft-logo.jpg"
         width: 900
         height: 628
-        isCached: true
-  - title: "Microsoft earnings: What to expect as Azure, AI come into focus"
-    excerpt: "For one, the company’s Azure cloud-computing business has been in a slowdown, while the Windows business is in decline amid a tough market for personal computers. These days, however, Wall Street is intently focused on the company’s AI opportunities ..."
-    publishedDateTime: 2023-07-25T12:35:00Z
-    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-  - title: "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead"
-    excerpt: "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom."
-    publishedDateTime: 2023-07-22T14:26:00Z
-    webUrl: "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 75
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/satyabots.jpg.jpg"
-        width: 3414
-        height: 2266
         isCached: true
   - title: "Better Bull Market Buy: Microsoft vs. Alphabet Stock"
     excerpt: "As a result, Microsoft trades at a nosebleed-inducing 12 times sales and 67 times free cash flow with a market cap north of $2.55 trillion. The equally impressive (and in some ways superior) peer we know as Alphabet offers a more comfortable buy-in point at 5.5 times sales and 25 times free cash flows."
@@ -296,6 +241,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search"
+    excerpt: "Azure OpenAI Service text-embedding-ada-002 LLM is an example ... Vector search also plays an important role in Generative AI applications that use the retrieval-augmented generation (RAG) pattern. The quality of the retrieval system is critical to these ..."
+    publishedDateTime: 2023-07-21T11:08:00Z
+    webUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 44
+    images:
+      - url: "https://res.infoq.com/news/2023/07/microsoft-launches-vector-search/en/headerimage/generatedHeaderImage-1689764249103.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden’s administration."

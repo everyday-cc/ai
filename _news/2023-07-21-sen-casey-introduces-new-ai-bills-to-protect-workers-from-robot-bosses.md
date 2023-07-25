@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "‘No Robot Bosses’: Sen. Casey introduces bill aimed at protecting workers from AI decisions"
-    excerpt: "As the use of artificial intelligence grows, Pa. Democratic U.S. Sen. Bob Casey is proposing legislation to protect workers from \"Robot Bosses.\""
-    publishedDateTime: 2023-07-20T23:15:00Z
-    webUrl: "https://www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-introduces-bill-aimed-at-protecting-workers-from-ai-decisions.html"
-    ampWebUrl: "https://www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-introduces-bill-aimed-at-protecting-workers-from-ai-decisions.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-introduces-bill-aimed-at-protecting-workers-from-ai-decisions.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 64
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCLV4QP6QZGIDNDMZRPK7ZFEK4.jpg"
-        width: 4389
-        height: 2926
-        isCached: true
   - title: "Will the No Robot Bosses Act Protect Workers from AI Decision-Making?"
     excerpt: "In response to the growing prevalence of artificial intelligence (AI) in the workplace and concerns about potential misuse and abuse of the technology, U.S. Senator Bob Casey has introduced the No Robot Bosses Act,"
     publishedDateTime: 2023-07-21T15:35:00Z

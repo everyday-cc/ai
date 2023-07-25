@@ -198,6 +198,34 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "ChatGPT broke the Turing test — the race is on for new ways to assess AI"
+    excerpt: "In a test consisting of a series of brightly coloured blocks arranged on a screen, most people can spot the connecting patterns. But GPT-4, the most advanced version of the AI system behind the chatbot ChatGPT and the search engine Bing,"
+    publishedDateTime: 2023-07-25T17:19:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02361-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02361-7/d41586-023-02361-7_25825038.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "ChatGPT for Everyone: How OpenAI’s AI Chatbot is Empowering Users Worldwide"
+    excerpt: "Welcome to the future of conversation! Imagine having a virtual assistant at your fingertips, ready to chat with you about anything and everything. Thanks to OpenAI’s groundbreaking AI technology, ChatGPT is making this dream a reality."
+    publishedDateTime: 2023-07-25T16:02:00Z
+    webUrl: "https://techbullion.com/chatgpt-for-everyone-how-openais-ai-chatbot-is-empowering-users-worldwide/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/OpenAI_-_new_green-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
     excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."
     publishedDateTime: 2023-07-25T14:00:00Z
@@ -259,6 +287,6 @@ related:
       domain: financialexpress.com
     quality: 6
 
-secured: "tUfLSF/xgmOBDwu6QBGJNbz7xpD/T3V/pcoPsbo/UhHYhR3TTDtIqyzg3zK/RnU+bW6vXfsIEgcyVtnAUioAxvGJtW9RwZldkSlkzrc/yUgqBfsVeUVQWnoE98tStmdh5In+YQSxBycPFF31CTeHVNhlK0oYVYi3CtRW8wVKpdvd+yP92Bq4pEgbutAPcdnn+UhFrlv8Xw17qXFY+LEObsjoJ1NafXRSPJUzJzTxM2vbOKCf7mpdLgg4dVoITnOi8y3a7j98/XRjiLO4uV1H5Mc/aN+oImgkRHCKCmWGpZT9DiyvQEaCEdXw5O1ziMaiNnqhAND9evZQU91HrleayVqA0agKkysRlqnOWC7CKWk=;Wv3TwoDZyt5zjuNQqbx+rA=="
+secured: "nnUanTStQmFbq1t7kfKk78MmsSubBHlVi29kweI6JsxvDs9RNyTFJFeeNt/YOr26pjNkFe91lG8snNN9BcYCN1xE8mG7P8WTliVx+H/+Ynj1jksxoeFN/mGANGaawxOZ/gXnkyhz7oW3KzmK5o0jUJAU7qpNq+86rAagEUnvYDNt0e2fJovVgAv7OSH3zmBgP4iaBUGjXPrplGnijfmArTtQci9su2jqyy/T/mpC102qTr65jSuVJtBqk/iezVcSTTgaDhOOkal/61D76amyfx6USKqNL1zpvTs1XGllXonWHTtLCpO9Ea6VGFUfCwxVlqbEhxNIluaviQ7rKDRc9fwQnfGA6ao4pW1hLT5f9EUYfyt8IGJ01afhFXdsWKqBY9OkVd2QB2NYdEDDK44ux7WACxobDipjzDsdfn5uRKFXQcrjAr9AKHf4LsEG0DFhAoC/s8KM9f8B0VIZ7DjoVw1Sevz4NXxjoCu5pMOQBvZMty7v642ccbPTspDIOxALarNqTjJYA5/G2SN7jX5zlg==;QbrhzzXPIJBNVctBEED8og=="
 ---
 

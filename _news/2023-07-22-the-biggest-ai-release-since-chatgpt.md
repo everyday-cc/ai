@@ -186,6 +186,34 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "ChatGPT broke the Turing test — the race is on for new ways to assess AI"
+    excerpt: "In a test consisting of a series of brightly coloured blocks arranged on a screen, most people can spot the connecting patterns. But GPT-4, the most advanced version of the AI system behind the chatbot ChatGPT and the search engine Bing,"
+    publishedDateTime: 2023-07-25T17:19:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02361-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02361-7/d41586-023-02361-7_25825038.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "ChatGPT for Everyone: How OpenAI’s AI Chatbot is Empowering Users Worldwide"
+    excerpt: "Welcome to the future of conversation! Imagine having a virtual assistant at your fingertips, ready to chat with you about anything and everything. Thanks to OpenAI’s groundbreaking AI technology, ChatGPT is making this dream a reality."
+    publishedDateTime: 2023-07-25T16:02:00Z
+    webUrl: "https://techbullion.com/chatgpt-for-everyone-how-openais-ai-chatbot-is-empowering-users-worldwide/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/OpenAI_-_new_green-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
     excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."
     publishedDateTime: 2023-07-25T14:00:00Z

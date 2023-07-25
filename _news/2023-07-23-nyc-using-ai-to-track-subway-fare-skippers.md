@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
 webUrl: "https://www.pcmag.com/news/nyc-ai-to-subway-fare-skippers"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Dilemmas Of Using Artificial Intelligence To Raise The Dead"
-    excerpt: "An advertising campaign showing the late Elis Regina and her daughter Maria Rita playing a duet has sparked antagonistic reactions on social media.In the Volkswagen piece, the singer who died in the eighties was brought back to life using Artificial Intelligence (AI) ."
-    publishedDateTime: 2023-07-25T07:38:00Z
-    webUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Intelligence-To-Raise-The-Dead"
+  - title: "NYC is now using AI at some subway stations to track when and how fare evaders are getting through"
+    excerpt: "The M.T.A. said that the AI is only being used to generate reports and quantify fare evasion, not to identify fare evaders or assist law enforcement."
+    publishedDateTime: 2023-07-25T17:12:00Z
+    webUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
     images:
-      - url: "https://menafn.com/updates/pr/2023-07/25/CRN_659e8image_story.jpg"
-        width: 640
-        height: 395
+      - url: "https://i.insider.com/64c000fbbea3440019614a38?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "MTA using artificial intelligence to tackle fare evasion"
     excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
@@ -53,6 +55,15 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 37
+  - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
+    excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
+    publishedDateTime: 2023-07-25T08:42:00Z
+    webUrl: "https://www.computerweekly.com/news/366545652/Google-reveals-how-AI-and-machine-learning-are-shaping-its-sustainability-strategy"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 28
 
 secured: "htoJxV+tSzsuU97jonZuP8mqHy9JWxW4ZciEZiqTXpih6WFsJWsYCwztxl3bRYyb0/b8vnEvxhNsAZgyI/mHLeOAddbuZqRCH3hn3A5S4KzWG6caMxqm1Y3kR9o0+jhjxjKJgK2HneDJK3fHPVV4Ts5hoW/kJYC/zcT09Co9jlUvOMfXuxyIbT7/z3kKWH6qSxj89Phw1ntn+m6m7f5gYTaHDt4Pq4uh6qqP6j1QW5Xyd4DJ/rDzpaFxrBanqguzyATPNRdGMF6fzVS0Od60a69trUGRprbkLa4GVDoU/9cWatrj2MAD/h9pT11jJQoY3b1ptTnBJsFTQPDaBSXDilbzNCokWpMjjUccvUDClehixNN1zCQqkpcOgFSPU7gX8TiAxLotHVtw6qNEyJyiC9jyBhpKvwnTqFPQ9+M+f9+M3abbq5jMzhc+eK9QdfoW7Qu48T72SkOgEe88B2jQPf9x9YFLmypXj4BF+q25zjjTkld5glEUTrtcU7oK0hzVeRfLFO8jD5Z0u78D5M2axg==;ugrDC1MubzP1v7v+gvY5Ng=="
 ---

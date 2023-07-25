@@ -57,6 +57,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "ESRB Proposes Using Facial Recognition To Verify Your Age"
+    excerpt: "The Entertainment Software Rating Board (ESRB) has asked the FTC for approval to use facial recognition technology to help determine how old a user is. Using something called Privacy-Protective Facial Estimation, a person's age would be estimated based on a photo to verify they are old enough to purchase a game."
+    publishedDateTime: 2023-07-25T16:50:00Z
+    webUrl: "https://www.gamespot.com/articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/esrb-proposes-using-facial-recognition-to-verify-your-age/1100-6516255/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 59
+    images:
+      - url: "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4161563-pcgames2023.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Battle For Recognition: Why It’s So Difficult To Get Transgender IDs"
     excerpt: "A leading cause for delays in processing comes from the digital divide that exists where applicants from rural areas either don’t have access to the internet or technical know-how."
     publishedDateTime: 2023-07-25T07:16:00Z
@@ -171,6 +187,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ESRB seeks FTC approval for facial age estimation AI for digital game purchases"
+    excerpt: "The Entertainment Software Ratings Board (ESRB) has proposed the use of facial recognition technology as a means of age verification. The ESRB wants FTC"
+    publishedDateTime: 2023-07-25T16:43:00Z
+    webUrl: "https://www.onmsft.com/news/esrb-seeks-ftc-approval-for-facial-age-estimation-ai-for-digital-game-purchases/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 35
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/facial-age-recognition-ai-esrb-Custom.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "ESRB plans “facial age estimation” checker for age verification"
+    excerpt: "The video game rating board for the US, the ESRB, has had its new plans unearthed after the FTC put them up for public opinion. Dubbed Privacy-Protective Facial Age Estimation, the tech would allow parents to upload a photo of themselves to give permission to their child to play certain games."
+    publishedDateTime: 2023-07-25T17:39:00Z
+    webUrl: "https://www.dexerto.com/tech/esrb-plans-facial-recognition-age-checker-for-age-verification-2224056/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 24
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/07/25/esrb.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "ESRB asks FTC to approve facial recognition age checker"
     excerpt: "Sign up for the GI Daily here to get the biggest news straight to your inbox The ESRB has proposed that the FTC"
     publishedDateTime: 2023-07-24T18:07:00Z
@@ -190,6 +234,6 @@ related:
       domain: openrightsgroup.org
     quality: 19
 
-secured: "mj2hH14o7wfOENK/hHFhSeLEhHQ5oraBmr/HTyYrJZVCX8bGdxpcKtulWHwo/BdpFxYJcxwFwzF3RZaY4+ollakZ2wjvWIBCQdCMS6/c6XD1+2xBdwgWb3nOjmwqvrCHz/NgJMFzraKltZUTCQLltYZefnVnMmmRIEOj/hTuwRdUtmmZjGLpnkEuiGX5Bk0ZrmPFC2YvGQyMVdlSjlfiNFqqqYgg7orGZdbtXM5oOBQ2J+6q75JraoaEPw4JXczVz/EZOQjbsA6yCunIKPwKhmZoigAEs6mBPo/FeMXv/VY3BQ1nHeNHJV4Y92PXXAetyFD+WeWhyI5tNU0z3uXM6tb65ROX/Cms/4z+MBpZGZw=;4vsO/knQu7nhxvUIaJ+2Pg=="
+secured: "vUyHK1TfTVknwpCkDcdCagjVHp4j0/lBfmXK8wMMF552YBcpsGX/X0jQBnngNOutieKs3IKZfly3C7vvbU5Sh8MiJucxdFwsf9VGFbm+RUSVqlw9uwtXHwhOfpDQmTXQR4xx1cSDSVv8eNX9x+82G3iu0Ky+XV5EMLJTMofW79kFLB+XMTBv7lAY5Wnuf8Pwhk4SztguLuSelzfnCBW10MrdgCpPlymhEK/qJnK4Z9MwRjEIJw+jqGzQrhiJv3ifaVXobERmtBgtSl5hwlzByC1QJHi84KJMPnBARQLByrYfMmBuru27X5iZHabBTBHCAV8gR5tjrGIiO/9izljpLLrIe/cN3/m+2IIjOMjoE1wf1A2nNiPR/PNSZElQpS6FZQvlVar2xCDYYyFKPceTgNNV7XYaunOYlqR9JdSKMpMyI+Z8NVF3geWbfWXmxC9I+O3Ummp2ZzJ0CnTf7CPqeSihe8eQQSQE5w/12pY2FKgLcTMK3Me5TkrMd7MWAEtL7JVoivUrKEKHlgf0D/TxZw==;RlupbP+mfh3TsGKt6WqGag=="
 ---
 

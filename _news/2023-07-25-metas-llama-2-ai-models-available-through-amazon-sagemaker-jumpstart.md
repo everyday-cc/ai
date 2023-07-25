@@ -47,6 +47,20 @@ related:
         width: 1022
         height: 511
         isCached: true
+  - title: "Use generative AI foundation models in VPC mode with no internet connectivity using Amazon SageMaker JumpStart"
+    excerpt: "With recent advancements in generative AI, there are lot of discussions happening on how to use generative AI across different industries to solve specific business problems. Generative AI is a type of AI that can create new content and ideas, including conversations, stories, images, videos, and music."
+    publishedDateTime: 2023-07-25T16:29:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-generative-ai-foundation-models-in-vpc-mode-with-no-internet-connectivity-using-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/06/22/14480-sol-arch-1080x630.jpg"
+        width: 1080
+        height: 630
+        isCached: true
   - title: "The National Geospatial Intelligence Agency takes on artificial intelligence"
     excerpt: "The National Geospatial Intelligence Agency is about, well geography of course. And data. And now it's about artificial intelligence."
     publishedDateTime: 2023-07-24T22:45:00Z

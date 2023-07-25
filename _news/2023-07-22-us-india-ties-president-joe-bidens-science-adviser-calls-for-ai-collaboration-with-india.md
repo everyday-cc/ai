@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-biden
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,36 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "AI for India 2.0 Pitches AI Learning Course for Residents, A Good Idea?"
-    excerpt: "To accelerate its integration of artificial intelligence (AI) and stay at the forefront of technological advancements, India has launched an AI learning course, AI for India 2.0. The course aims to promote AI adoption in key industries and expand the country’s talent pool for AI firms while providing upskilling and recruitment opportunities for its citizens."
-    publishedDateTime: 2023-07-23T03:39:00Z
-    webUrl: "https://www.cryptopolitan.com/india-2-0-ai-learning-course/"
+  - title: "I read the news today, oh bot! AI-generated anchors are making headlines in India"
+    excerpt: "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor."
+    publishedDateTime: 2023-07-25T17:34:00Z
+    webUrl: "https://www.zdnet.com/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
     type: article
     provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
     images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-22_16-26-18-1.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://www.zdnet.com/a/img/resize/271ff7632abffc820373fb010c3f7388a8ab26bc/2023/07/25/81a5dbb3-5ffc-4dad-84e9-559ee4ef24e8/lisa.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "US and like-minded countries including India need to work together to shape course of AI: Dr Arati Prabhakar"
-    excerpt: "The US and like-minded countries including India need to work together to shape the course of artificial intelligence and make sure that it is used responsibly, Dr Arati Prabhakar, the Science Advisor to President Joe Biden,"
-    publishedDateTime: 2023-07-22T05:47:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar?amp"
+  - title: "AI news anchors: The new phenomenon of Artificial Intelligence replacing newsreaders"
+    excerpt: "The AI era has arrived, and as AI news anchors become a reality, will AI replace human news anchors in the same way it displaces labour in other industries?"
+    publishedDateTime: 2023-07-23T11:00:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-news-anchors-the-new-phenomenon-of-artificial-intelligence-replacing-newsreaders-11010691.html/amp"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 38
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 67
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Sana-1.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
+  - title: "India now has AI news anchors. I tuned in and within the first 5 minutes, it's clear that news presenters are in serious trouble."
+    excerpt: "Add India to the growing list of countries with AI-generated news presenters, who could easily pass for humans if don't look closely."
+    publishedDateTime: 2023-07-25T09:25:00Z
+    webUrl: "https://www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chatbot-news-anchor-unsurprisingly-fine-repetitive-job-india-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/64bf91ffbea344001960c4f8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Generative AI courses in hot demand as more Indians flock to upskilling platforms"
+    excerpt: "He took up a 12-month-course offered by an online upskilling company, and right when he was about to finish the course, Generative AI (GenAI) took the tech ecosystem by storm. Chalk it up to luck, Sharma now has all the right skills up his sleeves at a time when tech companies are keenly seeking them, to gain an edge in the AI race."
+    publishedDateTime: 2023-07-25T03:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/generative-ai-courses-in-hot-demand-as-more-indians-flock-to-upskilling-platforms-11015551.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/generative-ai-courses-in-hot-demand-as-more-indians-flock-to-upskilling-platforms-11015551.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/generative-ai-courses-in-hot-demand-as-more-indians-flock-to-upskilling-platforms-11015551.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Generative-AI-Upskilling.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI revolution in fintech: How India is leading the way"
+    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
+    publishedDateTime: 2023-07-21T08:21:00Z
+    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
 
 secured: "S8PGJ/1mLTttWkeU2yRQ25ANRCr7K3quiGc/8qQrHtFSK0t/inK2K66nnB6JtQX4tfOuV4ECm2xVwPi0fcebx+z9/iCUio36PXN4pMotmvGNoooVWi8K3xfTnV0mxTYY5WrV5i6ZO1dqDwrTEnMPzvV0W2l1Lv6Tn/IaxzW4YtdjhyqaUI3R2NA/JQYgcbUPItzKNb4012xAKUgDLTTYr4TxKLoHq7Jmrkv/QGDdb5zvRkJmE900YDqyr400a6ROALRfW/wWJ8r0zoRUrn/PVatyyVboT54W3AqmZnC43YbokkM4q7orOO1Evvgkv9RbGC1jGB/lo45UQ/3pHXHZel+LJ5dNBZue7KNA8ukCjss=;hx9R3Jvym8i8lWAQU9jiLg=="
 ---

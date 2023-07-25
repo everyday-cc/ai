@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Leading Experiential Marketing Platform, AnyRoad, Announces Pinpoint: New Natural Language Processing and Generative AI Feedback Assistant"
-excerpt: "AnyRoad, the leading platform for data-driven experiential marketing, today announced Pinpoint, a new AI-powered feedback assistant that helps you understand exactly what"
-publishedDateTime: 2023-07-12T15:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33200674/leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33200674/leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing"
-ampWebUrl: "https://www.benzinga.com/amp/content/33200674"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33200674"
+excerpt: "AnyRoad, the leading platform for data-driven experiential marketing, today announced Pinpoint, a new AI-powered feedback assistant that helps you understand exactly what drives positive and negative brand experiences and the actions you can take to improve impact and ROI."
+publishedDateTime: 2023-07-12T15:22:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/07/12/9847297.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/07/12/9847297.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -19,11 +17,11 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/2151824/AnyRoad_Shot_of_Pinpoint.jpg"
+    width: 400
+    height: 236
     isCached: true
 
-secured: "VxgVa+LOrfyJkxIn5Zsc3FUjZvoYhPBIU9HvmAxabfQG+Al1BZbQg9l0uW08Z/lMqH4I+v7dDNDz43TAlso7m1EqaGzmTyrGnchL/oTnd2R5TEMdgJNaNQgOHmhvo1W6XodcPgQ2jSezVdhaoLpy5adW0jFAy+Vyf83x1tcDirmWJDudznbSF5iwxWgGuzWlVojFHY3dTs2rBj2g9OG89V49mMFLto14PL+6rQ8RBgAn6M+PwpynOZFkavQkW5kIvTlXfeZxW2ooSBNqKkFDSN8zsqK+GvHDCHOCIbMQ3UjBe3YHgGTqwG8J+1+UP/9eKtvqeY9NB8ETPlt/4LdBzvwIf5+PAcHpoIwEfp/hC8o=;7aYRuoOv6uE05Vd2Ju3wLQ=="
+secured: "pMVQq4gn/zeae+JrGRE0HzGv596vntUwMvI/vnYUGHuHJHv/MsjZyvXlmgUc+0YYXeT1+rKQqd2f/LsjFFKfRZacBvMTcAr7VlP2zNoN/KjuIE9y1H/BLV2r3fJ/g21VB5rQiAqZ1kKbIFuHaS9ToIsxba+1x4DSHLhOfRE9EVRfJ7R8iIBylXjvCmoFUU6l5UuSIHwXSvAhFIo3pmjJC44QNXB6iFgJH5/LgRXDd4+t4iijsZVcW/HqGPjoAviW8TbL2C4AWS7vJyQHZTq8hQSkTdH1aYOOjUEx7j7Q3Ke+32MMdWKy5Thyxcsp9lVUkIUJZa/EFE/sCAKccDI4nCCToy+mjph6PQUHhi7U4Yo=;z98PzJwDMTOkm6bDQU5eww=="
 ---
 

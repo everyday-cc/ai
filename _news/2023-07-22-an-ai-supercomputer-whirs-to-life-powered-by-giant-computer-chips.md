@@ -7,8 +7,8 @@ originalUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-
 webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Spokesman-Review
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_intelligence_0.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Cerebras Systems debuts powerful Condor Galaxy supercomputer to rival Nvidia in AI training"
-    excerpt: "With Condor Galaxy 1 now online, Cerebras is looking to showcase its technology and achieve wider adoption. Unlike Nvidia’s GPUs, which come packaged as small PCIe cards or SXM modules, the supercomputer is built using massive computer chips made out of entire silicon wafers, and are about the same size as a pizza."
-    publishedDateTime: 2023-07-21T01:04:00Z
-    webUrl: "https://siliconangle.com/2023/07/20/cerebras-systems-debuts-powerful-condor-galaxy-supercomputer-rival-nvidia-ai-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Condor-Galaxy-1-in-Colovore-side-view.jpg"
-        width: 2500
-        height: 1406
         isCached: true
 
 secured: "RDoK1QLSivznKgynilTYGYFmhNfvDofKtPCu36tJJvr9WwUpHC78fInLsx0Khkz97Ut9hGHjDDr/U5x+P3i3f6a0W5mVBvkyg7Y6oSK963nL/1wXe4fFeFrjOJ0illZ8V4JiL9OZVBPmLc3WatehNI05ktTq/Qm3vGrVIDFIovKnO3if1V7B1C9ep6b65eifR5QZg++EvBAbdZ7VAVLwjdqoFzjRi4dV3yzpFIWoAn8f/qXYFcSz5T29jFc/OsMYwac797JklQ4NYMtGL5qcm+Fua/DQtnELZ96FcJ306CKL6ZsirQJ04H19GthQtOzntroEZb/riPfy1Y4Oxt/VF2BBv3PxNp1pgI/cgzeC+JvwGxqLz9x7dtIWDzhg+Y6KK2WRDn1zJ/aDat8rTcFMbGEXtuATK4SyDQAJ/eizeNhUtuiDl1JD6pR/vkJPuwrFA5lmm8S0DJ6eIEk28ImjumwcD0twrbzYKgVktICd1DoImpzazgxCzdBzf6yfXF5i0fds/P4i1iz5WmfERuGfkQ==;Q9+Lb9qh7/w7YRCqLTH4Mw=="

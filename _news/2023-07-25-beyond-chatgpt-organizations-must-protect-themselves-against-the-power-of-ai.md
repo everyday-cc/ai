@@ -198,6 +198,34 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "ChatGPT broke the Turing test — the race is on for new ways to assess AI"
+    excerpt: "In a test consisting of a series of brightly coloured blocks arranged on a screen, most people can spot the connecting patterns. But GPT-4, the most advanced version of the AI system behind the chatbot ChatGPT and the search engine Bing,"
+    publishedDateTime: 2023-07-25T17:19:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02361-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02361-7/d41586-023-02361-7_25825038.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "ChatGPT for Everyone: How OpenAI’s AI Chatbot is Empowering Users Worldwide"
+    excerpt: "Welcome to the future of conversation! Imagine having a virtual assistant at your fingertips, ready to chat with you about anything and everything. Thanks to OpenAI’s groundbreaking AI technology, ChatGPT is making this dream a reality."
+    publishedDateTime: 2023-07-25T16:02:00Z
+    webUrl: "https://techbullion.com/chatgpt-for-everyone-how-openais-ai-chatbot-is-empowering-users-worldwide/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 37
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/07/OpenAI_-_new_green-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
     excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
     publishedDateTime: 2023-07-21T02:00:00Z
@@ -259,6 +287,6 @@ related:
       domain: financialexpress.com
     quality: 6
 
-secured: "0ufX1283NTOM0dhS29scA5+6d52xYKNVdeXp8xsI0jT695Dwyxryf7+Audml3KeyXfShvOU2Xhu0FBHRlDII/5iBXnD/3RMDhZ4Yy02BveU+FP+1ld/DfYBUpaLmqKdRguKwsocXFOYvJEKEEi2cswBN24N7oa4pqp2WS2oAobDJYlv9+Gg/OP3N58qoTXxMgk62u8rsA7DgO9N64ggvwiSi3CbikN84j4mExpe835YshUPhMV3d5NwpMoQPz2uAYuSWjtWhMKJZu8qdjQSSnQo81F5Ezi5Qgpy5g4tI7NeZtnJ/Mhh1DjPYrjtCp6Dey2k5BkQUIBOmZimUcLaX/ojWd9D02gMG3ll5Dwz8Esk=;daO98IUZkyMF77oiGuirLQ=="
+secured: "aL+SA/AFaJCxAyczXoSDdbZHOEjDfE9LwXOgGVNyV/OoxQgOeRLud+wQs2T/dz2fUGO60xRluK5zBIktCo24Q/wrtbOmylScD5cH4dc1ztnUSIKjNFnH8arExyNHaIWtpWKLfoOe1p5Fb7lM0890mKLdpe2oQWnAGe2kM5JFiQhiTqOpIOxhnfw0izOrvaHJwLtViY2QrNNm7vWuZPiY3cWWGp0B+N1B4yYmM5Ac+AImujAIbsLDakTd5A/Q9W+EAHS+9D/mH5iX08AuPJBAdZzRbEJVFGVDn00If6Z9PStTshuHzbVnJkKewjJ0VVUxiBNA0ECEYG/44kg3idHSxZybndSWwGbnPLvCe4Aviqzdc3Id5AcukttOnrlg5WocAfGesUOUtuDBGOpICYKqOOp9joXZKWU8kNwQAFYgDn+jjcMlxItPt+/r6UE6YJyF7g25K+xjkwKUpRtlY9Hjgy5XD9GfnmThkzLUqV4hpCkLNCNF/7IkXoSxPhBl/HF/n2dOd8st/enzV1BUyOa8fA==;4U0vmpqpTXxCnG6a1aAZ/w=="
 ---
 

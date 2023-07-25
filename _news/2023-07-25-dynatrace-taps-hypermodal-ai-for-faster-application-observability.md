@@ -45,15 +45,6 @@ related:
         width: 942
         height: 600
         isCached: true
-  - title: "How Would Generative, Predictive AI Change Wall Street?"
-    excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"
-    publishedDateTime: 2023-07-21T01:02:00Z
-    webUrl: "https://greensboro.com/how-would-generative-predictive-ai-change-wall-street/video_da75f0f1-0912-5a4e-8d76-2830a2812b91.html"
-    type: article
-    provider:
-      name: News & Record
-      domain: greensboro.com
-    quality: 19
 
 secured: "L9VueiGM2XAJDUMUCGrMZ589DxBNFf8vc8NnwKdB2yaGE5hhCQumsy9aO1y0jmJoufmECHqRtCVT1NvJZaCoCL2616KZHMbTeQUqmeVPyNN/sJ+d+NqWNEk1Az1xVgMKMDN9DJN+HyDrtXpKRi4yGdQEIKfu8ZzApgjm5VZ/h9r8Z3+liDHVvLBoFpXVaSwg6C20N51w6gVObqa+nwAUS6Fe4PjlSJfkI9Wb1lpO7GVXQjj/6nAYmNEJsGD1YW5RHHaf3vzohw4ApMarbU4Ib/oi+i0QgrZb+umkP8BOgwVw+8Nbs41lV/wJVH7NkDp+FwvEAZMVaG2rASdr3o0//sUoUtJSJva+0pMdZ7HM00b2higYnWFUPaYWDITw5PZBtNFhd3GRcgTx2qO+hPmChLoGRB1ddZKNtRuPxuPZ0qvW8dccWrtcO1+JKT9eQaTYF7jizSeiBYcfjpy2mOETVEMtCbgWi+yInjPVHVShgbmQldfNuspoWkCYjHtO2GlDyIVe/rhixFuu4oXpByzz4w==;XLjZwuSJ2SdEkFpH3UUD7g=="
 ---

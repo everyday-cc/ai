@@ -7,8 +7,8 @@ originalUrl: "https://www.cryptopolitan.com/no-robot-bosses-act-ai-decision-maki
 webUrl: "https://www.cryptopolitan.com/no-robot-bosses-act-ai-decision-making/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: cryptopolitan
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘No Robot Bosses’: Sen. Casey introduces bill aimed at protecting workers from AI decisions"
-    excerpt: "As the use of artificial intelligence grows, Pa. Democratic U.S. Sen. Bob Casey is proposing legislation to protect workers from \"Robot Bosses.\""
-    publishedDateTime: 2023-07-20T23:15:00Z
-    webUrl: "https://www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-introduces-bill-aimed-at-protecting-workers-from-ai-decisions.html"
-    ampWebUrl: "https://www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-introduces-bill-aimed-at-protecting-workers-from-ai-decisions.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2023/07/no-robot-bosses-sen-casey-introduces-bill-aimed-at-protecting-workers-from-ai-decisions.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 64
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VCLV4QP6QZGIDNDMZRPK7ZFEK4.jpg"
-        width: 4389
-        height: 2926
-        isCached: true
   - title: "Sen. Casey introduces new AI bills to protect workers from \"robot bosses\""
     excerpt: "Pa, has introduced two new bills aimed at safeguarding workers from workplace surveillance and AI-powered \"robot"
     publishedDateTime: 2023-07-21T13:03:00Z

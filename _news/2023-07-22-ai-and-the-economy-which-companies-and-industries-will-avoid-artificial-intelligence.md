@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-econo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Forge is Championing Responsible Economic Growth In The Rise Of The AI Economy"
-    excerpt: "Through its 12-week intensive program, AI Forge is not just nurturing the next generation of AI start-ups but also fostering responsible economic growth. The goal? To ensure that the economic boom driven by AI is not just beneficial in the short run but ..."
-    publishedDateTime: 2023-07-21T01:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/ab33314636/ai-forge-is-championing-responsible-economic-growth-in-the-rise-of-the-ai-economy"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33314636"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33314636"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Tech companies to make AI safety and transparency pledges to White House"
     excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
     publishedDateTime: 2023-07-21T09:00:00Z
