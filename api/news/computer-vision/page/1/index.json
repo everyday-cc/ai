@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate.md",
+      "title": "The Download: what’s next for the moon, and facial recognition’s stalemate",
+      "excerpt": "It’s been more than 50 years since humans last walked on the moon. But starting this year, an array of missions from private companies and national space agencies plan to take us back, sending everything from small robotic probes to full-fledged human landers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/",
+      "originalUrl": "https://www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh4.googleusercontent.com/c_Hz4vB5V202Jil-ERSccwPeVDR7tpp_whDnlvys7M2yCx59PwxVkfOyS80IYMIJfMmcRgtxpGP6jyGMohMwcV7J8yg8k7bqPg1d2qxEfpg3xsqQ2u4iG9MzMdUD_mo96-2f7I0YrYfTFKg7x_cNnY4",
+          "width": 880,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/amp/",
+      "publishedDateTime": "2023-07-24T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city.md",
       "title": "How cops plan to use AI & facial recognition to curb crime in city",
       "excerpt": "Noida: The police in Gautam Budh Nagar is set to roll out a Geospatial Data Intelligence Platform (GDIP), an artificial intelligence-powered crime dat.",
@@ -1257,49 +1300,6 @@
       "provider": {
         "name": "Fudzilla",
         "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-02-rage-against-the-machine-refuses-to-play-venues-with-facial-recognition.md",
-      "title": "Rage Against the Machine Refuses to Play Venues With Facial Recognition",
-      "excerpt": "Rage Against the Machine is living up to its name by signing a pledge to boycott venues that use facial recognition technology. Band cofounders Tom Morello and Zack De La Rocha are, as Rolling ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
-      "originalUrl": "https://futurism.com/the-byte/rage-against-the-machine-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2023/06/rage-against-the-machine-facial-recognition.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-01T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null

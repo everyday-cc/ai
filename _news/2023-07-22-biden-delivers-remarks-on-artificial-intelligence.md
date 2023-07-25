@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/video/us/politics/100000009007123/ai-regul
 webUrl: "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html"
 type: article
 quality: 67
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/AI-stock-image.png?w=1280"
         width: 1279
         height: 719
+        isCached: true
+  - title: "Biden Says U.S. Must Be 'Clear Eyed and Vigilant' on AI Threats"
+    excerpt: "As some of the biggest players in the artificial intelligence game vow to adopt transparency and security measures, the White House is saying that those measures are only the first step in creating safeguards around the technology."
+    publishedDateTime: 2023-07-24T23:47:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/88a89a7/2147483647/strip/true/crop/4422x2306+0+124/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F30%2F93%2Fb32038a748c6b3d428bc9a031c4e%2Fus-news-ai-safeguards-1-aba.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
     excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"

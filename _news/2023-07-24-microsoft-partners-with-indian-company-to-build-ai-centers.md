@@ -131,20 +131,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
-    excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
-    publishedDateTime: 2023-07-20T05:08:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai-models-news-8935"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 46
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1681875877.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The AI Launch Pushing Microsoft's Price Higher"
     excerpt: "The post The AI Launch Pushing Microsoft's Price Higher appeared first on American Institute for Crypto Investors."
     publishedDateTime: 2023-07-24T18:25:00Z

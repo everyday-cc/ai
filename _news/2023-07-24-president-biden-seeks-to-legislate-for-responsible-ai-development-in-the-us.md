@@ -57,6 +57,22 @@ related:
         width: 1279
         height: 719
         isCached: true
+  - title: "Biden Says U.S. Must Be 'Clear Eyed and Vigilant' on AI Threats"
+    excerpt: "As some of the biggest players in the artificial intelligence game vow to adopt transparency and security measures, the White House is saying that those measures are only the first step in creating safeguards around the technology."
+    publishedDateTime: 2023-07-24T23:47:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/88a89a7/2147483647/strip/true/crop/4422x2306+0+124/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F30%2F93%2Fb32038a748c6b3d428bc9a031c4e%2Fus-news-ai-safeguards-1-aba.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "The White House and big tech companies release commitments on managing AI"
     excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
     publishedDateTime: 2023-07-24T08:28:00Z

@@ -66,6 +66,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
+  - title: "LaLiga transforms fan experience with AI"
+    excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
+    publishedDateTime: 2023-07-24T23:48:00Z
+    webUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "K4/NLGVZuetjTbAJowYnJ8X185d6RLRQ7jMjdGs96hSw85ebxcvjzJaOhqflz3A7fo7UboIb+wO0eFzvVpV7m98YGY88m0yADWtCvbhbkSjx4ZxmP8cUjCkI2c6EpoTybEj1GxrWcJb2zWDKqe9uwmdfWDhyGXsJ+IDwP4XHLJ81ss+yioIyffgpWChAdAQBfrt5pJimYcCqXzOrbSiAYQ33QKbE5vFer29KXFhzJkushMTvHBG0f2pKD0XXU+ZiPi/kn8y4DQfVEyOnzSUSTc5/P6ng241cIcHQXJNu3QaVROowxpjuP2gPJPH1VXXmecdRxRYlNSDO+ezEy7GkDfrvkib4zfLLpi/r7BC5GJM=;4CRSXsimGLcILupknOj3Sw=="
 ---

@@ -56,15 +56,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "AI revolution in fintech: How India is leading the way"
-    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
-    publishedDateTime: 2023-07-21T08:21:00Z
-    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "TR2XWHu3/KT5UpYb0iaojCDG4v1EpC+NWL2TPX9oSUvNL3mnFaJMBgwBEqo52TSARrWTg1OfzsbWY5yLSp+RTKnVCQxXRsbZXjMF5hxyfnfS9QNrPX7WF+ZMn/hDw6cUWZVtGZBb7AV/OSmNKCRDwHRLGRIa1Tg1hj/6H+Lxcl+s0T4EXAFIRFWq8v7GrzqMZOFtLlPtNyvCPF01j46EWSIw4zEyX5ASY60WPrfYhcT81AdnvlYOiFF50wkraw/T7vNbiufJOEa8a9fnL64MGY7IpVUYU5tV8oPnSYTL4yoCbJDnwF83b70pzRbvZNMi1qIsc7ND+2nlF5y/FZIvxtSI+z87oyPW+Fqe5vyvhv0=;2vCeeTE3JHMXrQLGP5d0ew=="
 ---

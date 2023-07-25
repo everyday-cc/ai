@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-dev
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.crn.com/resources/0283-18921cb6c571-03fcb9b1f615-1000/1630383708197.jpeg"
         width: 251
         height: 251
+        isCached: true
+  - title: "LaLiga transforms fan experience with AI"
+    excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
+    publishedDateTime: 2023-07-24T23:48:00Z
+    webUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
+        width: 504
+        height: 315
         isCached: true
 
 secured: "d9DGlotyTnFVxuSX479E5K95td8M+Nc7TQUWTNDYD36QA2ExBcZtqisOQolFplCEuwUX0JHpO0Jo62j2m3lFFg949ZR1ExyWC2xD1wNzkdP82iEdmRLArL/JGDX3IWnY63QlCjsegqazaUf6AEKeSNjDb14mwTEbPzb0xaSV1nA2+FSUELlRn5/mKoLmtVVg1Lk/+x+RLjr+9oScy+UPAtPchMxiihKqmcRk22tA9hVIOahK667bN6nEuJtv6PZ+MNUx3xnoAcInIdtAPJhcJSxqRh2m9vGdGworjmPveloNWbUQdwsSQ205grYxknSDxrUdZRCJEgC6jHogFB0VqeYrlbr0YMkLMoKwtY0aRzK9KmBDcTh2Ar5uSOBcRDDzH0QbInuN/X+73z9S5O8menmcRNsLz4Kg/QUxSxpP6u6vwPlGbmPKPQhuWMc8KrM3pTnSxKZnWplAWop8UhNoTodR23gSTSwKzBwEyKIJNfeTf153g1zSQ6SOUs8veysVbkfAyPAKmoXCelc7KVchvw==;QvU/+Yn5LZ3f98KhqqRp5w=="

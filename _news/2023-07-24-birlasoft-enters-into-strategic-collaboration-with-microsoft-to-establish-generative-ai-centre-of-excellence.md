@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Keep on Buying Microsoft Stock, the ‘AI All-Star,’ Says Analyst"
+    excerpt: "Next week, several of Wall Street’s heavyweights will step up to the earnings plate, amongst them Microsoft (NASDAQ:MSFT). The tech giant"
+    publishedDateTime: 2023-07-21T19:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/keep-on-buying-microsoft-stock-the-ai-all-star-says-analyst-1032466849"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/image-553-1024x517.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 517
+        isCached: true
   - title: "All eyes on AI as Microsoft prepares for pivotal earnings report"
     excerpt: "Investors will be looking for early signs of traction from Microsoft’s artificial intelligence investments Tuesday afternoon when the company reports results for its fiscal fourth quarter. They’ll likely need"
     publishedDateTime: 2023-07-24T17:28:00Z
@@ -159,20 +173,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Microsoft, Meta Deepen AI Collaboration with Llama 2 on Azure and Windows"
-    excerpt: "At Microsoft Inspire, Meta and Microsoft announced support for the Llama 2 family of large language models (LLMs) on Azure and Windows. Llama 2 is designed to enable developers and organizations to build generative AI-powered tools and experiences."
-    publishedDateTime: 2023-07-20T06:51:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32787-microsoft-meta-deepen-ai-collaboration-with-llama-2-on-azure-and-windows"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 68
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/f12d50e3ed2dbb84ce4b8fb7dd052110.jpg?t=20230720_062013"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
     excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
     publishedDateTime: 2023-07-21T12:04:00Z
@@ -220,20 +220,6 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-07/KPMG_Microsoft_EA_LinkedIn_1200x627.jpg?itok=GG3YmLd-"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Meta unveils AI chatbot Llama 2 for commercial use via Microsoft"
-    excerpt: "The commercial rollout of Llama 2 is the first project to debut out of the company’s generative AI group, a new team assembled in February. To prepare the new model for release, Meta employees and third parties ran safety tests called “red-teaming exercises.” It’s a separate model from the one Meta uses for its own products."
-    publishedDateTime: 2023-07-20T05:37:00Z
-    webUrl: "https://gulfbusiness.com/meta-opens-ai-chatbot-tech-for-commercial-use/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 56
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/Metas-Llama-2-model-released-1.png"
-        width: 920
-        height: 630
         isCached: true
   - title: "Microsoft, Meta Release Powerful AI Chatbot Backbone To Developers"
     excerpt: "Two of the world's largest technology companies teamed up to build the foundation of an artificial intelligence language software that could rival industry leading ChatGPT."

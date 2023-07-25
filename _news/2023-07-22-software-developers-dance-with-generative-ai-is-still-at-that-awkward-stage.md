@@ -68,6 +68,20 @@ related:
         width: 251
         height: 251
         isCached: true
+  - title: "LaLiga transforms fan experience with AI"
+    excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
+    publishedDateTime: 2023-07-24T23:48:00Z
+    webUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "j+z2W3jdet2sDRQVzIS8IpmMT48H9OhPJ9LBIee1VCdoUMSn53igrt8LlIHrR9FejxN3VwQcKeg9naWvWAHhsAw9LJyOQHdKbe0e35YZfxFTp6YnB5+XUOPXe64p2lM6w3S86qDSt5I6Uz+NPJndXqKAf3rMkQ9IbVpmWiYY9wJztNdw6+jcKF77XXRt9cVARa9ZumrZEbWWAu+1ZyocdN/DSotl99WmkfuZIdyL1qSFWMc0IpMMo8sYBx+A0xNHJhfvr8qQPxkXRRpX1s0kw1cHVcAb887FNQd/b6KYoLro1r20ju0sTmT6s5CUUiS8psHbO8zT7fq8adgbd3241zkazC6EB+5Dm/10fxaoaOPrcuffCLt1pDiCLxVMzTwwHb2FfxxlgOwsV7EjoVVrv3OBEUGOYadFfOXonMvs/Namas9UrGoKL8wJnc1XhWMunx0LS4nR4qa4m4ogyOoSJCfhWCb2NaV6qrP3Zyv87/MAvJRDsJLC/8q1pGqD4T6H791hRksonLOdp56MbDpQIA==;e7aFm59QEZxA1z6iRHDIDw=="
 ---

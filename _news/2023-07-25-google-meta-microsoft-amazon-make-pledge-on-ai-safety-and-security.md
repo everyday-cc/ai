@@ -136,20 +136,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
-    excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
-    publishedDateTime: 2023-07-20T05:08:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai-models-news-8935"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 46
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1681875877.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The AI Launch Pushing Microsoft's Price Higher"
     excerpt: "The post The AI Launch Pushing Microsoft's Price Higher appeared first on American Institute for Crypto Investors."
     publishedDateTime: 2023-07-24T18:25:00Z
@@ -178,6 +164,6 @@ related:
       domain: ibtimes.sg
     quality: 17
 
-secured: "zGXHRu2Xjhpb6ZrYyE2U1kl9dvM473KMFW1Rxd5QbHnLwSX6DxaOxsvodhBHnzqGjromNRlefnrp5bNLVb8CdpsQNJU1DKjqE/N4XTurHYAhDon7qqS98X/d50FhDUzA2F+y/DSMZAykWTJqnOVKkVR8JyBsyuaTOdHm65dCNE+qr8e+7H4RBGjYodweXoxIDVICpELsdETqbHEKHIM5Hf9ZzVULTKc9litHxlZH2tcSj7dyZ4kmCHUxDoiFETMaS/8lLf6YfhSQlHgovV/M8YOBy+MByEVLSACNjGtkQR8z2a4z/5BvUhSLQysGM4w5jtJf6bJ7ybAHHcxIftHefe3c7rOW2OQVkIQs/RcJDYg=;hHUsI0UW3a5OdmBQMlLXAQ=="
+secured: "cfe9L42YGscn70Or54tIJYjSKW8Ma5omR/tzhUe1FWft634/VJkGUbh52DmrsGsZ78YFYMZI5Jg+dOhz229x7k53fuRE0hh8BeE43hYQCxIE98iPagXxovDEXT5mOkqXfj3I+wGEQmvwMtAw7k5bjhxFS0n7I1LCJlgbpXhe82LFgr8SrwVmxzu7owXe2v4lTYnaxaqKQ1/bAjacAxIQTEcN+EXt66xh68sMkKDhlDlM1kvTgS8686TCcdfU+k6hLxXnmzgpta7x6FM4Cez6OaqLd+jr9tAMCjJT9v+YHbjtvYr96clLJlfKGQGMD7GDfcmsJ4Xwf2NSWe6P1+9mYu2OyYFAgXpWsyv3Js7LQHevofnsIW232f4yyHkIPpItB+tyX1oWLNJqc/I3p76WMpHipv4ppwDCB3rITcZGgzdLH8Ds17/vmbjEk080080R8uYuVZv9DZoKS3ewVugO4xC968n1CkIV3oPnYgZD+SYLKyu3xPkocbDQwt8nBBnO28P0KDgENjMUtSLE5QuRbQ==;uRWhI9OFiplMJ/pK8HKNUg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://swarajyamag.com/defence/with-ai-enabled-tech-indian-navy-t
 webUrl: "https://swarajyamag.com/defence/with-ai-enabled-tech-indian-navy-to-soon-start-testing-advanced-control-systems-for-warships-submarines"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Indian AI Tech Support Startup Laying-Off Employees In “Batches” Citing Investor Pressure To Become Profitable"
+    excerpt: "Indian AI tech support startup Saarthi.ai has allegedly laid off several employees in batches. The company has claimed it needed a leaner operation primarily because of \"investor pressure\". As Indian startups, primarily in the tech space, increasingly face ..."
+    publishedDateTime: 2023-07-21T05:47:00Z
+    webUrl: "https://www.gizbot.com/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 37
+    images:
+      - url: "https://www.gizbot.com/img/2023/07/saarthi-ai-tech-startup-employees-1689918180.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "40hhhscsLXXG/IXTiMQIVd69g6bhAJazbMT7EFIjFqMQotmyBMkphTQrYUUUjWGsoQGGrFXbTRKKLRsQE7IelnPz/7udZGz/NAiK6Nl8rEvWNDsy9Wn++P0ttq0lbiUayfLgqVO05cMef7tuFsCdssfQLEcyGkUz6Y+QbUb11rajgSE+bxtUwCCtTDxFSeSPK9pZ+ZlfOAAVmBmCeAASrjBHQghLKBW7gH70E+9n9D+kmsgW4/CfsNzRq5jbe069pKhURCun3Ck5yoSiYkjt5WdVXsyDfK+Hg+2+wzz6fe4a9G4FWvkbhvAd59bthoI9UTzCG4KTSkPd5KaLgtQEqzt9xeNQQMn6kX7C8nzIge8=;l5gIMJKGeP5q6nZMEPzUUA=="
 ---

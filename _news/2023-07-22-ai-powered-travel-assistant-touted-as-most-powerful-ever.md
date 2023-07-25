@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-t
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
 type: article
 quality: 59
-heat: 88
+heat: 79
 published: true
 
 provider:

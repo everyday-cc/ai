@@ -1,20 +1,28 @@
 ---
 category: news
 title: "GigaIO Introduces the First Ever 32 GPU Single-Node Supercomputer for Next-Gen AI and Technical Computing"
-excerpt: "GigaIO's SuperNODE system was tested with 32 AMD Instinct MI210 accelerators on a Supermicro 1U server powered by dual 3 rd Gen MD EPYC ™ processors, using Hashcat and Resnet50. Both tests demonstrated unprecedented scalability, with Hashcat showing a 100% scale factor and Resnet 99%."
-publishedDateTime: 2023-07-13T19:09:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/07/13/9848192.htm"
-webUrl: "https://it.tmcnet.com/news/2023/07/13/9848192.htm"
+excerpt: "\"As AI workloads become more broadly adopted ... \"And as large language model applications drive demand for more GPU performance, technologies that work to minimize node-to-accelerator traffic ..."
+publishedDateTime: 2023-07-13T17:12:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/b33220056/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-co"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/b33220056/gigaio-introduces-the-first-ever-32-gpu-single-node-supercomputer-for-next-gen-ai-and-technical-co"
+ampWebUrl: "https://www.benzinga.com/amp/content/33220056"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33220056"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "rO5yb0DsZJnNiuL4adqEd90JSO/kkQc97fv1f84ASNXNatkA6fF7irdGuKhOvQ2K+Z7doUcBZ3DkqNWx/UrToCXem4N8GGmdZEUZGuhZWb6okl/FbNM4SI67QcczckqxnolPY0+ULSpDIT9uKzOn/fGDsizUWBEdmTkhesjIoebCSvjmnSOFCko+tC4dyFK4968cUi0xv5EKtex3epJDaxgyMr4I/ZpNR2w5QNJY7vKFk7ct6GbqXwddCXDCj5oLJTo1MuGh6UshjbHBCpFy2CTVgkdGs8rrY7H4xKyP6cwf8sCbTqHkOWLEZiyuL0TltTmLcDVwpzo84pC3N2VLWTMAFiwcxqU9QybuFvtu6BM=;VRE6CPFgbvCC4p06PXLfVQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "6lKpg7FUErzMDjiqbfnF4mNuQ25ZPg376UrT+PCk6+2izcSDBGf13FIJp1j+32vNcswZQ47nr7LeBjvsndpYv92AS7V7odnC5Tw4fzQ8QGxbHGUNI/VLsWx0JZHYSW233BRwUinIKlKplXOR0d13SSNGDl4fVkMkle1sup21UzAaJ1+HSjF3xkYUpcLJHNlovU2DisCSnzbmD8v2INaAiDU8ZkTxJbsTFUPXXT8L5HyXq0bau8ziDxOoQJ1uM0UlSOwydcyjaGvr/VluDgds9jHkl8Dj4gVnNfHCBmQ/APKyx1kuZmAS9kR4c2QL34EYny8rX5pIvj/Xtia1RZxb7iMW7jayaB4I2ovNkFhYZl4=;/hhKGnsm3OEPTt/QWcis2g=="
 ---
 

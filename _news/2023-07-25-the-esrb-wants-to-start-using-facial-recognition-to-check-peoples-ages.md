@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Facial recognition helps ID whales and dolphins"
-    excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."
-    publishedDateTime: 2023-07-24T16:41:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2023/07/facial-recognition-helps-id-whales-and-dolphins/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2023/07/24062558/os-dolphin-facial-id-.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "TikToker's Facial Recognition Video Goes Viral, Raises Questions"
     excerpt: "The video was originally taken in 2020, but has recently made the rounds on social media again as people discuss the pros and cons of facial recognition technology."
     publishedDateTime: 2023-07-24T19:19:00Z
@@ -63,6 +49,6 @@ related:
       domain: thestreet.com
     quality: 34
 
-secured: "H6uhtJ35jPIwuC8opZK+M30dPO1Z3d29lOyYiwW/enDvVDG+9uDZYyVaQZGP6kiP3Am8F8cRX+sz6FWKxJcfs9hbRSXc8PO3L2GC0czb3AEjL5Mr/i7sCqUY/qdbaDu+ve5VYTalwx4o9Fnum3iRjKJz2fbDwGMeTApnJPvu6njO6hD6EF2XxhQM5liwe39VXZIOkEidyg+UGigpZac08/yYy3YqJAYq8IEv7OHvqJukojmByMKoCGFqleGtv0YXAmCEsr5a2eVojkX/361i43/cyvjEMsOy1dBiaZf1jrrmz/qJzKQUGLVkGcplLChqjrjjbFMnV8l+XPO/9gsouiCf5OuhDbOdav1ErjbfkCY=;glSnzv1BbU+oElLhNYOTiA=="
+secured: "nDWLNufKPNuYYrnWTQHxyOjwq6zNzRFNOnxIwdziAvOqHgM1DZLtUAAygaTAW7PBk6kq7wLkzczmVKvSKN4eZExej+zsIEbZTRT3swGfw0WerbYT8fCXghOuNIzaun2AF6ifNwYiWHOgCcXdXkgEwkkbAM4D/5TLy6RGaDXUvqSXOP/DOktHqkoBjiyrOEuGfy1qrMwr00vLUnUgBCkKvxSfJ+O0YzaF5ukYCRhpZ6rZ9pqRzG0QPgLXq3lkB7iXfDVt+Zs9eVwflV8xZAG9lnk53JwsYIdo4JH0VorKWfvHJN5BkiyllqD68aH55wVjVMcV38kTVahQd+F+kbz8hD8lNxwnK+Nds4iX6o9uG4jkP1a3eIlJQRRkBLRow7SjOf5S0LdBBDD3fZT+qy2eGa9VwCxhMdmmn1DsWkKtku++g0JRZVqbKK1zwFDEKmYL16mrl8BZH404AjpWntS4F1W6Y9DPa+1LHg6s6DOG2tMC2IYRBUbY4QvenzlH1oD/x5ke46UhoEkqy3xkIq2obA==;cd9PTNkOr+bmJEHz5uvpCw=="
 ---
 

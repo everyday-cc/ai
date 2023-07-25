@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technol
 webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,46 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "New research shows how brain-like computers could revolutionize blockchain and AI"
-    excerpt: "Researchers from Technische Universität Dresden developed a reservoir computing paradigm that uses a vortex of magnons for calculations, with revolutionary implications for the fields of blockchain and artificial intelligence."
-    publishedDateTime: 2023-07-24T17:45:00Z
-    webUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-computers-could-revolutionize-blockchain-and-ai"
+  - title: "A New Chapter in Fintech: Invest Inc. Welcomes Jas Mathur as New Chief Marketing Officer"
+    excerpt: "The world of fintech is likely to witness fresh momentum as a strategic move has been adopted by Invest Inc. The AI-driven leading investment research platform has recently announced the… Read More"
+    publishedDateTime: 2023-07-24T22:16:00Z
+    webUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-invest-inc-welcomes-jas-mathur-as-new-chief-marketing-officer/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
+      name: GeekWire
+      domain: geekwire.com
+    quality: 62
     images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNWFlMjFjMmMtMTBmYi00ZWFhLTk4NDUtY2FjOTAxOWViMzZlLmpwZw==.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/07/jm01_630px.jpg"
+        width: 630
+        height: 595
         isCached: true
-  - title: "One to Buy: Why SOFI Stock Is a Compelling Pick in the Booming Fintech Space"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investors have enjoyed a strong year with the Nasdaq Composite Index up 35%,"
-    publishedDateTime: 2023-07-20T10:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/one-to-buy-why-sofi-stock-is-a-compelling-pick-in-the-booming-fintech-space-1032461910"
+  - title: "AI revolution in fintech: How India is leading the way"
+    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
+    publishedDateTime: 2023-07-21T08:21:00Z
+    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
-    excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
-    publishedDateTime: 2023-07-22T17:10:00Z
-    webUrl: "https://www.crypto-news-flash.com/hive-crypto-miner-uses-ethereum-rigs-and-ai-to-make-ordinals-art-on-bitcoins-blockchain/"
+      name: Dataquest
+      domain: dqindia.com
+    quality: 19
+  - title: "Women in fintech: innovating chargebacks with Monica Eaton"
+    excerpt: "In response to the lack of female representation in fintech, Eaton established the LIFT: Elevating Women Through Mentorship programme, a free mentorship programme that seeks to bridge the gap between established women in the fintech industry, and those who are still trying to find their way."
+    publishedDateTime: 2023-07-24T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-innovating-chargebacks-with-monica-eaton"
     type: article
     provider:
-      name: Crypto News Flash
-      domain: crypto-news-flash.com
-    quality: 10
-  - title: "Applications Open For The Visa Africa Fintech Accelerator Program"
-    excerpt: "Startups building in fintech and payment space in Africa are encouraged to apply through the Visa website for a chance to access training, connections, technology, and investment opportunities"
-    publishedDateTime: 2023-07-21T12:50:00Z
-    webUrl: "https://iafrica.com/applications-open-for-the-visa-africa-fintech-accelerator-program/"
-    type: article
-    provider:
-      name: iafrica
-      domain: iafrica.com
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 4
 
 secured: "ge54rcw6fKRIKzIW7P44DOvOlrarXzWJ55bqdt0Dk56REFyeL+5rivdYPrxCwh7739bykFVV4LteLDPi7kHJRii8bctkFJ7wEJxmPcezVrpnxc0g4MdtGZvyXswcvtfHg5y8t8m7BNTXIOalc6RbS2+OACsiwypBJpFoDtezxZCvUUk5ODwjnib9XNQik5Edg4oOKKkJuVFLYax0jzHcX0TpRD1CKZCmK+/1H1Wg5kuJxfLrZaCZfajr6f0DXlse+E/F1kw/GMGzbpLUx+eWjoEiFy/osqPi9KiP5m82xWpeGHUMBdUT8PCp5rghhslZvVYVEg3IUghHanbU+m4I0LPAgwC9KBUzBd0NeTL+yKQ=;lV+sVyIZ4k8x+KjwqawExQ=="

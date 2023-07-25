@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-start
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Nigerian insurtech startup MyCover.ai secures $1.25m pre-seed funding"
-    excerpt: "Nigerian insurtech startup MyCover.ai has closed a US$1.25 million pre-seed funding round to bolster its in-house operations and tech talent, invest heavily in its proprietary technology, and strategically expand its operations into other African markets."
-    publishedDateTime: 2023-07-20T06:00:00Z
-    webUrl: "https://disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/"
-    ampWebUrl: "https://disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/?amp=1"
-    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/07/20/nigerian-insurtech-startup-mycover-ai-secures-1-25m-pre-seed-funding/?amp=1"
+  - title: "With AI-Enabled Tech, Indian Navy To Soon Start Testing Advanced Control Systems For Warships, Submarines"
+    excerpt: "“The CMS 24-29 can do faster threat assessment with inbuilt-AI algorithms and gives the warship’s captain suggestions on which particular weapon should be used in a particular situation. It can also talk to the existing CMS on board warships,” the TOI report said quoting an official source."
+    publishedDateTime: 2023-07-24T06:59:00Z
+    webUrl: "https://swarajyamag.com/defence/with-ai-enabled-tech-indian-navy-to-soon-start-testing-advanced-control-systems-for-warships-submarines"
     type: article
     provider:
-      name: disrupt-africa
-      domain: disrupt-africa.com
-    quality: 57
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 20
     images:
-      - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/MyCover-Alex-Igwe-Ifendu-Cofounder-CPO-Debo-Banjo-CofounderCEO-Fred-Ehbo-Cofounder-CTOjpg.jpg"
-        width: 898
-        height: 461
+      - url: "https://gumlet.assettype.com/swarajya/2023-07/4aa46d40-e4d2-4eca-9d2d-39825310ec67/FZJPbDDUsAUe3cA.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "TiE Rajasthan mentee startup InfraHive secures pre-seed funding from Silicon Valley investors"
-    excerpt: "TiE Rajasthan, one of the most prominent Chapters of TiE Global, has announced the closure of a pre-seed funding round by its mentee startup InfraHive, a promising startup from Jaipur that specializes in AI infrastructure solutions."
-    publishedDateTime: 2023-07-22T12:53:00Z
-    webUrl: "https://www.devdiscourse.com/article/business/2533030-tie-rajasthan-mentee-startup-infrahive-secures-pre-seed-funding-from-silicon-valley-investors"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 0
 
 secured: "E/3hWdV111FfdVEgsPfjnp8iqdj0v7mSopDZNYwLdQK6PG+z1i3BihYwgazdKksaaXs4g8Dn36WflD27txI3BDRVsByAtiP3KI8yMcAUh/gpYEmywW/7oHXgdqyDqseVz4+1Z5IsV7hQSthXfaqbY4BZOJSFMfuh/k4WH5ik7q19xLH0Ocnr+xnfVWQDN7zH0WG2sfHJbDcNm0fR0YGiObvaLo879e+5pEdT0Tqv5PhM+fhrt1wi74xqZ5ltC4t9YrtwFI0IJs93B7nfhPCgAlElHpXdb4hWKr8YszMpKtZ5j7vHt1vp5raGhbmxWvJ0EGhh/4Th5gjL4qqmql3vyHtHAhBYCM075299qJjh1ak=;03yOzKvdSg70qhwHit78oA=="
 ---

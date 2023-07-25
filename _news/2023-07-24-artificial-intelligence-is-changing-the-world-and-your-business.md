@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How to Put AI to Work for Your Small Business"
+    excerpt: "“You still have to know what you want it to do.” For AI-powered chatbots, she stresses the importance of learning prompts that are specific to your industry. If you’re not sure where to start, try searching online for prompt guides, suggests Joe ..."
+    publishedDateTime: 2023-07-24T21:07:00Z
+    webUrl: "https://www.nerdwallet.com/article/small-business/ai-for-small-business"
+    type: article
+    provider:
+      name: NerdWallet
+      domain: nerdwallet.com
+    quality: 37
+    images:
+      - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/07/GettyImages-1138451175-1440x864.jpg"
+        width: 1440
+        height: 864
+        isCached: true
 
 secured: "m15uos30b1z314+3XmgxV6jwTvQnGlHltRD6hIXiZXq0xcCL7QOKEK+fcxtuFXysdHN/naDi1ad/Y3msXX39oNBilufHE2AE5iL9P9TTGpwJLG1LI9CAs9Ar9wVApcILhphuzdWCEYGRqBeI26GEyle+3kTsWIlekoVMBOrpXF/3vr/+HMdeBj0fFhanNKwfVzz/0fhi7B7SMD09vFYCBSmEiqOan1PrwNuMpreCDUWiD842J51z4VC5CoLzp97b5zOCjYC7RwOsIEeteEXKQfWwHUPB/gO90/uVxQUD1rmIA+WVeoVCqmH9Ft3AobmhyeWcqk1Ln4QBeH0ap2GpkEou2DaA+/jrQe/r23IDIYN5nhkXYhWMSXnQTVI/n6rh+X/i9Ii1n/64EBsuiZmIo9Pi096+U2W0VDHE+1wDucFpo8p3HrYqP6itob8qvMISCpDPhupUzICLnlNeSQR0lMyh/lp4wjnJXC7Ldd8OEB2/Kzu93oUNM8bNm4w3Fu/s6DE1SBtu0dNf33NS0F3Zig==;0wfCD2cprApXBLJyKxIGhg=="
 ---

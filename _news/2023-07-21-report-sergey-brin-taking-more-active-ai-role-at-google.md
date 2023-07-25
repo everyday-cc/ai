@@ -27,15 +27,15 @@ images:
 related:
   - title: "State of IT report: Generative AI will soon go mainstream, say 9 out of 10 IT leaders"
     excerpt: "Generative AI has only recently become mainstream. The report shows 86% of IT leaders believe generative AI will have a prominent role it their organization in the near future. Yet 64% of IT leaders are concerned about the ethics of generative AI, and 62% are concerned about its impacts on their careers."
-    publishedDateTime: 2023-07-24T18:24:00Z
-    webUrl: "https://www.zdnet.com/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
+    publishedDateTime: 2023-07-24T18:20:00Z
+    webUrl: "https://www.zdnet.com/article/state-of-it/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/state-of-it/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 82
+    quality: 80
     images:
       - url: "https://www.zdnet.com/a/img/resize/67c0491949d4da919f64dea355dd58d24e2cc5fc/2023/07/24/c1b1e887-4a8e-4180-96e7-045494b7bc9c/aigettyimages-1455352999.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200

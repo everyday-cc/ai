@@ -1,0 +1,86 @@
+---
+category: news
+title: "LaLiga transforms fan experience with AI"
+excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
+publishedDateTime: 2023-07-24T23:48:00Z
+originalUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
+webUrl: "https://www.arnnet.com.au/article/708134/laliga-transforms-fan-experience-ai/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: ARN
+  domain: arnnet.com.au
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
+    width: 504
+    height: 315
+    isCached: true
+
+related:
+  - title: "How AI will impact the developer experience"
+    excerpt: "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers."
+    publishedDateTime: 2023-07-24T09:08:00Z
+    webUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html"
+    ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI and machine learning can personalise experiences in logistics"
+    excerpt: "When talking about AI-driven personalization for consumer engagement in logistics, its impact extends to transparency and communication besides just improved delivery experiences. According to a survey conducted by Deloitte, 79% of customers consider shipment visibility as a crucial factor in their overall satisfaction with a logistics provider."
+    publishedDateTime: 2023-07-23T04:12:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-can-personalise-experiences-in-logistics-3183069/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design139.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Software developers' dance with generative AI is still at that awkward stage"
+    excerpt: "AI will help developers do their jobs better, but it is also increasingly a part of the solutions they will be building for clients or employers."
+    publishedDateTime: 2023-07-21T18:32:00Z
+    webUrl: "https://www.zdnet.com/article/software-developers-dance-with-generative-ai-is-still-at-that-awkward-stage/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
+  - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
+    excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
+    publishedDateTime: 2023-07-24T19:56:00Z
+    webUrl: "https://www.crn.com/news/software/intel-seeks-to-win-over-ai-developers-with-open-source-reference-kits"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0283-18921cb6c571-03fcb9b1f615-1000/1630383708197.jpeg"
+        width: 251
+        height: 251
+        isCached: true
+
+secured: "ntB3Q509KK2VrHSQtBYP8YA1i4RP+sf9USQ4AZLWJUgbry4U91ZpNu8AuwNlftDqIkll7rLQ3IBktCcRvtM4Q1OQLsD2I3km8Ob+Rzq1YwFOzZrLAcTU92OpA0yn0Uawd1pH/CRxqYFADl0DSjWmymv7UDYTR/wCixRTFy0vjHLMRVwQEuE/fJVRYSoC/DF28iBimCQ3uxgnOVv9qD/0hTQ3WVv3pD/qQhifTo51ZfppaALNZFOoRhBqm2Z17nlX3WuAkFHqDKW8XhSNq1ZS0jICX2IRSS5bIC/C+kSUfbeFuSBso6jf3LupD5D1JUwwKK9tfigmxgis4ZKpJDqHMyzkX1yUFbUPGSOTTXHtRnQ=;RCJHQp2Y2aJ+qswjbfCmZQ=="
+---
+

@@ -25,43 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "Individual whales, dolphins identified using facial recognition tech"
-    excerpt: "A new tool uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species. The research was led by University of Hawaiʻi at Mānoa Hawaiʻi Institute of Marine Biology Ph.D. student Philip Patton and published in Methods in Ecology and Evolution ."
-    publishedDateTime: 2023-07-23T16:00:00Z
-    webUrl: "https://mauinow.com/2023/07/23/individual-whales-dolphins-identified-using-facial-recognition-tech/"
+  - title: "The Download: what’s next for the moon, and facial recognition’s stalemate"
+    excerpt: "It’s been more than 50 years since humans last walked on the moon. But starting this year, an array of missions from private companies and national space agencies plan to take us back, sending everything from small robotic probes to full-fledged human landers."
+    publishedDateTime: 2023-07-24T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/amp/"
     type: article
     provider:
-      name: Maui Now
-      domain: mauinow.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://media.mauinow.com/file/mauinow/2023/07/dolphin-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://lh4.googleusercontent.com/c_Hz4vB5V202Jil-ERSccwPeVDR7tpp_whDnlvys7M2yCx59PwxVkfOyS80IYMIJfMmcRgtxpGP6jyGMohMwcV7J8yg8k7bqPg1d2qxEfpg3xsqQ2u4iG9MzMdUD_mo96-2f7I0YrYfTFKg7x_cNnY4"
+        width: 880
+        height: 632
         isCached: true
-  - title: "The ESRB wants to start using facial recognition to check people's ages"
-    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
-    publishedDateTime: 2023-07-24T21:52:00Z
-    webUrl: "https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages/"
+  - title: "The Download: US facial recognition, and battery ingredients"
+    excerpt: "The International Energy Agency has just released a new report on the state of critical minerals in energy, which has some interesting battery-related tidbits. If you want to understand what’s next for batteries, you need to look at what's happening right now in their materials. Read the full story."
+    publishedDateTime: 2023-07-20T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/20/1076569/the-download-us-facial-recognition-and-battery-ingredients/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TikToker's Facial Recognition Video Goes Viral, Raises Questions"
-    excerpt: "The video was originally taken in 2020, but has recently made the rounds on social media again as people discuss the pros and cons of facial recognition technology."
-    publishedDateTime: 2023-07-24T19:19:00Z
-    webUrl: "https://www.thestreet.com/technology/tiktokers-facial-recognition-video-goes-viral-raises-questions"
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
+  - title: "The Download: digital dollars, and AI guidelines"
+    excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the digital dollar dead? In 2020, digital currencies were one of the hottest topics in town."
+    publishedDateTime: 2023-07-21T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/21/1076662/the-download-digital-dollars-and-ai-guidelines/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 34
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 19
 
 secured: "rHxonwtcyDuQnzsUFqaUdO6s7HY/oiTJZuOej+3mRqak5Zr7lnsoSfUyERv6lLvkeQLGSTo2pon6KBXX/Hw2VHA6mE39fUhd3dKyh9gEyZvchEOynQBF3+HHFvb+xoUwdFU40aOU0qRXqpi0seQZ/jhDS/Xjan1iSriKwHUW8vMI6qdEhQj2NvS8Xym7mBOqNDpKRqr3sxYHwRbLkETnpFsB99Mw8//i7awL50EBBZLlQwdKD9lZINjppj5kBsE2qhhNf0cpMIbiEwSCGCf1cPty0kYBUkxDELulyEZusCnAH716065O8t9qEOMyn3ht1p5aWG3La0XDevPp/LbBvvDGb/FQ855b+XcOtGLGOXxJvGonspS4w4qBUqU7AbdexoxSl2adCtP7ib1GjWhOfgMJUktMWdXSvzGkazAVLcWoRQ2GT6Kht5pTBC+HAxkHn8lLMHAiNjM6n+aAYCIuwr5qinuiZcyeUYGK473nyXZ31qdZRSWncsjHI4GrLmr6h9POOm7h44rd2gry3z9s+w==;ut4A5Y8Bkpd6widFLhn5sQ=="
 ---

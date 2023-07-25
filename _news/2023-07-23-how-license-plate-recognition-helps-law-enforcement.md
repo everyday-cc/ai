@@ -39,7 +39,7 @@ related:
     provider:
       name: WRDW
       domain: wrdw.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/dQj683k7w5RvC_jT5tGSgZ4mkXY=/800x450/filters:focal(265x138:275x128):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K645NRRT4VHL5KCAIIY54RAV5U.jpg"
         width: 800

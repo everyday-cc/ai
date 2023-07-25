@@ -140,20 +140,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Snowflake Expands Partnership with Microsoft to Bring Large-Scale Generative AI Models"
-    excerpt: "Both companies will implement new programmes to enhance joint go-to-market strategies and improve field collaboration"
-    publishedDateTime: 2023-07-20T05:08:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/snowflake-expands-partnership-with-microsoft-to-bring-large-scale-generative-ai-models-news-8935"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 46
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1681875877.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Teladoc And Microsoft's Expanded Strategic Partnership Is A Powerful AI Combo"
     excerpt: "Teladoc has experienced multiple news-based pops, with the latest instance resulting in a +10% jump in the stock as Teladoc announced an expanded AI partnership with Microsoft. While TDOC stock has given up most of these recent gains, the telehealth giant is gearing up for sales growth powered by AI technology."
     publishedDateTime: 2023-07-21T11:54:00Z

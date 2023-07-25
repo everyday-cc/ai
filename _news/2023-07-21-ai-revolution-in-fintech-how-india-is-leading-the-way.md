@@ -19,52 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "US-India ties: President Joe Biden's Science Adviser calls for AI collaboration with India"
-    excerpt: "The Science Advisor to President Biden, Arati Prabhakar, said that the US and countries like India need to collaborate on shaping the course of artificial intelligence. This comes after the US administration enlisted the help of IT giants to prevent the misuse of AI."
-    publishedDateTime: 2023-07-22T15:58:00Z
-    webUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india-11689997881762.html"
-    ampWebUrl: "https://www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/usindia-ties-president-joe-bidens-science-adviser-calls-for-ai-collaboration-with-india/amp-11689997881762.html"
+  - title: "A New Chapter in Fintech: Invest Inc. Welcomes Jas Mathur as New Chief Marketing Officer"
+    excerpt: "The world of fintech is likely to witness fresh momentum as a strategic move has been adopted by Invest Inc. The AI-driven leading investment research platform has recently announced the… Read More"
+    publishedDateTime: 2023-07-24T22:16:00Z
+    webUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-invest-inc-welcomes-jas-mathur-as-new-chief-marketing-officer/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 47
+      name: GeekWire
+      domain: geekwire.com
+    quality: 62
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/07/22/600x338/USA-BIDEN-SCIENCE-ADVISER-0_1655872000116_1689999784119.JPG"
-        width: 600
-        height: 338
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/07/jm01_630px.jpg"
+        width: 630
+        height: 595
         isCached: true
-  - title: "AI for India 2.0 Pitches AI Learning Course for Residents, A Good Idea?"
-    excerpt: "To accelerate its integration of artificial intelligence (AI) and stay at the forefront of technological advancements, India has launched an AI learning course, AI for India 2.0. The course aims to promote AI adoption in key industries and expand the country’s talent pool for AI firms while providing upskilling and recruitment opportunities for its citizens."
-    publishedDateTime: 2023-07-23T03:39:00Z
-    webUrl: "https://www.cryptopolitan.com/india-2-0-ai-learning-course/"
+  - title: "The Essentials Of Blockchain Technology In Fintech"
+    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
+    publishedDateTime: 2023-07-20T08:24:00Z
+    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
     type: article
     provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
+      name: Mena FN
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-22_16-26-18-1.jpg"
+      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
         width: 1024
-        height: 1024
+        height: 576
         isCached: true
-  - title: "US and like-minded countries including India need to work together to shape course of AI: Dr Arati Prabhakar"
-    excerpt: "The US and like-minded countries including India need to work together to shape the course of artificial intelligence and make sure that it is used responsibly, Dr Arati Prabhakar, the Science Advisor to President Joe Biden,"
-    publishedDateTime: 2023-07-22T05:47:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2532874-us-and-like-minded-countries-including-india-need-to-work-together-to-shape-course-of-ai-dr-arati-prabhakar?amp"
+  - title: "Women in fintech: innovating chargebacks with Monica Eaton"
+    excerpt: "In response to the lack of female representation in fintech, Eaton established the LIFT: Elevating Women Through Mentorship programme, a free mentorship programme that seeks to bridge the gap between established women in the fintech industry, and those who are still trying to find their way."
+    publishedDateTime: 2023-07-24T12:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-innovating-chargebacks-with-monica-eaton"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 38
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_59_34_3794932.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "HQG1MPnTot+hUu5gmpmg0ukriFSf2CTIsshy2JMoG7m3bG55VcFSb046zyA1sSgIjP62CK/JASub2AIzEm5sekuOeGIg+71JgmQ+IJwxYuVy/kRQ652kAFihBTbC617l1bwKUx/bRtuyAAc+6cuS+oa+GUmCT1qsdQA0EI5YLn4Fgxq9dUbFN3phdRlWumNuniW/hbY6CLM++OwVuOfjILEo+ypqJ7mLsI0XqRj6B9l6BlV5DIhKpsJ7gJxqvYm3QAYwOsJtCELlI4iPJj0B6mRFpP4D/427z1pGVn90Z653YjlmePcoGvfUkKZ84Z50D+/7lROWyzCaAMuEZwsJVDmxfAf2gbCjYHz/Ddz3OkVlbjvMVNHTtiJUTfAkljHx+Gbrl+t54C2hgauv4MPKNm34JF9YMO4r8Pd4Ynvg8P3bwdwCz2AxB7WvsD0dEXe1U1MTzAzuEPKwu8pFmksaPz4ekG5r/zkNqZFjKM+5HKA2mqLs9E6R0Z4b2p4WxM+O4v4QDuybDlSMCOI4WHQKTw==;dqLAyBG6wu//pXEQet78sw=="
 ---

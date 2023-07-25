@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Strike the right balance for the regulation of AI"
+    excerpt: "Trai has recommended a statutory body for India even as moves are made elsewhere to keep AI risks under human control. We must ensure our regulatory efforts don’t stifle innovation"
+    publishedDateTime: 2023-07-24T02:46:00Z
+    webUrl: "https://www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai-11690125158611.html"
+    ampWebUrl: "https://www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai/amp-11690125158611.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/strike-the-right-balance-for-the-regulation-of-ai/amp-11690125158611.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/07/23/600x338/oped1-kC7G--621x414LiveMint_1690125313086_1690125313224.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
     excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
     publishedDateTime: 2023-07-20T13:30:00Z

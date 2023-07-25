@@ -8,9 +8,9 @@ webUrl: "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-road
 ampWebUrl: "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp"
 cdnAmpWebUrl: "https://www-wrdw-com.cdn.ampproject.org/c/s/www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: WRDW
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/dQj683k7w5RvC_jT5tGSgZ4mkXY=/800x450/filters:focal(265x138:275x128):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K645NRRT4VHL5KCAIIY54RAV5U.jpg"
@@ -42,6 +43,6 @@ related:
         height: 512
         isCached: true
 
-secured: "cwx09Tw8TwveDkQqhieK0HvBG/YvFUT6PuOPNM5nHWcJ1IsUbddhQMUikGOyy88Hixdnzf9iwssHf9/TXQVGLSPFkFdw4BZThkc1YqhUrtC4SUYyiMWENhQjbM3k/yNbOqFb0xJi86NDVIVy0vJeJllSNlMr6MPxsv/q/DERaGFHyKhchVhOaWVvluhG5kC3K5FzMDI3sd0TXGZSQ2iev8C/0u/7NwC835XSqYwoBlmsSM00BltsCpzHutyUK+ETMor609HWGmgIam0L9y9F2gi4mqqkQIHVINq0lSKmMV8VmOfweAcfSi5YSqB+MPk+mcZtJDPPtmzwXEOaiJ+cpvRsLamaRhH/76bkiUcbDOE=;2uXbaNJ5o7IRrmjnyFX4+A=="
+secured: "dkWpy6rEgr3FmFOa2S6vkYiNPQ1FB0S5KP0Y3n56WWGZsIplp0ThYWEiGLrnuq48kNmYtea43DRffavXBlhlUu2NVfJ9ErcxezHn5FaYCi91KQ3hpyOZB3g1rBWgilpophKuLa+1cEmFp+6O7QK7r+pMlV7L0Cf6kKoFjMaVQ3erQsRjZ+wUL0Z982itFBTnBFvUedAS3TIelvhZlSSJPk+CLOBtNMhJ+ZjfMwQv1RWppCEwhcEHlsmlyXaLPr7XH/J7ddO1mz7g+N11+9PCwTopy840FyDOCJMW208AjpuSz3zf4gtX+48DOFZ/W79K9GfVxhnJcYLE3hxxVSO5YvyxFqCeC4fARgGGGxWmPlwr1ugEUey9VHTEXEHllZu/vtS1yT/JV7t1enMOKFXXb0CAz8c12Ak81hqGzDvgx9RyHgDSgCGPP6xND3RMnrjRvKRpnYXk9+i0N/2q8KEOmqN7LUms/mbgYIX3jF+oxuy9QY+hF5XpdRygpPOUMjETTznVv/nYFtbo0VPu5585Qg==;kvpi1l3ub+SvqRLphz29pw=="
 ---
 

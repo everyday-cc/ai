@@ -91,6 +91,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How to Put AI to Work for Your Small Business"
+    excerpt: "“You still have to know what you want it to do.” For AI-powered chatbots, she stresses the importance of learning prompts that are specific to your industry. If you’re not sure where to start, try searching online for prompt guides, suggests Joe ..."
+    publishedDateTime: 2023-07-24T21:07:00Z
+    webUrl: "https://www.nerdwallet.com/article/small-business/ai-for-small-business"
+    type: article
+    provider:
+      name: NerdWallet
+      domain: nerdwallet.com
+    quality: 37
+    images:
+      - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/07/GettyImages-1138451175-1440x864.jpg"
+        width: 1440
+        height: 864
+        isCached: true
 
 secured: "QllWvNrR5kca2kI1TKsyJ4VsbjqWitjdKSrzsWqc2gbVwX8zFcmEYixpJ6YOtwvUpKMA/IT+VqLrmAApEpd1zZVGClm/6yJGdtRUleH1x9mcrlLYkuMF9tsXMrgsPHaMvmBIYkAUjcAXFD9MovxiDdpEp3rQJWcXSPw52Ap2/Jaei5gauDljaP6J/B4UOoNln38dQey/P9rUJzTTkgxdvNbWE7rETH+nTezyeBOufJRZv2j704F2yp1lLIbB2GOJOVZMxfON39wQlxpdlJWq9/INK19q9+q+BWGLGRIg/oAUM7h+PHWVwHcc/Kz5/4WWXvAhyKdHnFURvyQ6HR0qtCD5j01g41fiEfiwMf546O0=;nPN1JgbaWflEpFVYmXkcAA=="
 ---

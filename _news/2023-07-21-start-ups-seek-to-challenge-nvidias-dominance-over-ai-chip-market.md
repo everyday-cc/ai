@@ -19,28 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Musk Says Tesla Would Buy More Nvidia AI Chips, If Only Nvidia Had Enough of Them"
-    excerpt: "Later in the call, Musk expanded on those comments, doling out praise for Nvidia and its co-founder and CEO Jensen Huang:"
-    publishedDateTime: 2023-07-21T18:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/"
+  - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to Nvidia and AMD in AI"
+    excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
+    publishedDateTime: 2023-07-24T21:24:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94?-cfp"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 76
-  - title: "Missed Out on Nvidia's Surge? Buy This Cheap AI Stock Before It Doubles."
-    excerpt: "The chipmaker's price-to-sales ratio stands at a whopping 44, while its trailing earnings multiple is 237. Investors may not be comfortable buying Nvidia at such expensive multiples despite the terrific growth that the chipmaker is expected to deliver."
-    publishedDateTime: 2023-07-23T11:15:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 68
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740433/person-holding-a-smartphone-with-a-stock-chart-on-screen.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://images.mktw.net/im-822646/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Why Nvidia, Intel and Other Chip Stocks Are Dipping"
+    excerpt: "It turns out there’s more to chip stocks than just AI. The world’s biggest contract chip maker had a disappointing update for investors, and semiconductor stocks are selling off. Taiwan Semicond"
+    publishedDateTime: 2023-07-20T15:35:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-785590/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia Is the Clear AI-Chip Winner, Analyst Says. Why There’s Hope for Intel, AMD."
     excerpt: "Mizuho analyst Vijay Rakesh raised his target price on Nvidia but said the growth of artificial intelligence is a tailwind for AMD and Intel too."
@@ -58,6 +65,40 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia and Intel Drop After Taiwan Semi’s Earnings. Why AI Isn’t Helping All Chip Stocks."
+    excerpt: "The world's largest contract chip maker reported a 23% fall in second-quarter profit as it grapples with a slump in demand for electronic devices."
+    publishedDateTime: 2023-07-20T15:01:00Z
+    webUrl: "https://www.barrons.com/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
+    ampWebUrl: "https://www.barrons.com/amp/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 65
+    images:
+      - url: "https://images.barrons.com/im-461129/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to AMD and Nvidia in AI"
+    excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
+    publishedDateTime: 2023-07-24T19:41:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+  - title: "Nvidia And AMD: AI Updates From Taiwan Semiconductor's Q2 Earnings"
+    excerpt: "Taiwan Semiconductor Manufacturing Company Limited's Q2 earnings affected both Nvidia Corporation and AMD. Read what's next for NVDA and AMD."
+    publishedDateTime: 2023-07-21T18:02:00Z
+    webUrl: "https://seekingalpha.com/article/4618825-nvidia-and-amd-ai-updates-from-taiwan-semiconductor-q2-earnings"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "/lm6jjcaEdQe2acG850bAg84k6T3hXGPlh441fuWHBiPij2gCm/QmxdnKFIXsHoBDCwCbTDlSm2UEyNJzf065/m8dv65D8oHauELxh1VJnwRr72aoBEEAzHGoabyeA0e8nysE8QlRq7SWzDRMs6dzHMxp16Qz+eMAYF7obdIHEjEtNyajXL5GYFmDjg7V/P7hxP/htUjyB7J45CrJM988eEQDTqbNvDyPqcJuk6xuwU8PUq5UKJCyIa41UYI3d/jouBpwKl1Oq8c3tIXJDAvN0KRhffcKipyHsgqFDBpfGAMinS/XLZ0rzOqkyvr8aSIQe3UFhPFvoYmx0MpCRwDk0VvyD4nOrKC44hic8jMlBkI0wyrKjAuWd3WX+TBVFG6SgGkIGwOzWiFfE6TpKieOBCG7MvcT7YAZa0mdA6xS0FMyRUNnotQvka3aeLg6CCVXzf4UiPRFQIFV8PEZbTi6yznVdKQKdCn6kXBBYnSDFDvDqrTr69CvRCDB9eFu0ridTOXQjudaUeaP41uw4/Y6w==;f8tmnI42rawTi3x5gZ+9tw=="
 ---
