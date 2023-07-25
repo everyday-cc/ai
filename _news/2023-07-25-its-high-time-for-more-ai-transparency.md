@@ -49,6 +49,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "TRAI’s call for AI regulatory body is flawed"
+    excerpt: "As AI is evolving, rather than have strict rules, a guardrails approach will encourage self-correction and foster improvement"
+    publishedDateTime: 2023-07-25T15:34:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "aP2RBGAAfgY+Ccj9F3qw/RXSB1OpmdJtbyqwilakU/LZDIa/Ux0CeLyGljEoCDc8a3YjBwyO1W3EfHDi6rdnuCFurbZ7WPffuAgGXwFksvUOh+W8fAQ7aoxVjJavGts1Fu6zkx1s7QCI+1B+x/jOEUGI96q29L13OKg7/hBbrlf6qyWM34svuNy8lZrweX4q1+PUQl8UHtVIDi6XswQLy3pfX8WPfJ/g8o+NI63zKkZiCms/cWJCCHjnPeCrsiuluxv1C9jXO2xp0Ud3QRDhui9jPobZvoGovjuuR6BgRlOlNc9kg22YDryCz+OaJpK3FpFMeQmEvJM69kN/ajLtyGoCBlqULzN727T2HF454CjlYtTGbCqbs7bWNVKSqjn16Lk/nGepnnSKt66MKorYvqvz5IHbJFoJv+jEIPMZSwlm8acNq/snuBP4iM+W8m9+6jvL8yD5yCM/BANM2cHpYK23Sxrz3l4LuPhuqCF6YLNL47bO2EyHNRWjUxN0sq/7HK3chcE+BZctQ6sIf2e1Nw==;En7LCGyQQ9F/lX0XOHgU+g=="
 ---

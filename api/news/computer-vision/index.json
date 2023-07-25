@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-25-the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales.md",
+      "title": "The ESRB Wants To Use ‘Facial Age Recognition’ AI Tech For Game Sales",
+      "excerpt": "Apparently we have come a long way from when I used to have to ID kids buying M-rated games when I worked as a cashier at Best Buy. The ESRB is now pitching the FTC on new technology called “Privacy-P",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfd82b558f8d11e6143289/0x0.jpg?format=jpg&width=1200",
+          "width": 870,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/",
+      "publishedDateTime": "2023-07-25T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-digital-revolution-in-retail-how-computer-vision-is-leading-the-way.md",
+      "title": "Digital Revolution In Retail: How Computer Vision Is Leading The Way",
+      "excerpt": "Harnessing the vast potential of CV in retail also carries ethical responsibilities, especially concerning customer data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/25/digital-revolution-in-retail-how-computer-vision-is-leading-the-way/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/25/digital-revolution-in-retail-how-computer-vision-is-leading-the-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
@@ -10,7 +106,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -106,7 +202,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -127,49 +223,6 @@
       "provider": {
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city.md",
-      "title": "How cops plan to use AI & facial recognition to curb crime in city",
-      "excerpt": "Noida: The police in Gautam Budh Nagar is set to roll out a Geospatial Data Intelligence Platform (GDIP), an artificial intelligence-powered crime dat.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/articleshow/102028588.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/articleshow/102028588.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-102029756,width-1070,height-580,imgsize-645787,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms",
-      "publishedDateTime": "2023-07-21T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1266,40 +1319,6 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-03-tsa-to-expand-facial-recognition.md",
-      "title": "TSA to Expand Facial Recognition",
-      "excerpt": "Based on the success and early results of its pilot program, the Transportation Security Administration (TSA) plans to roll out facial recognition at security checkpoints in 400 more airports in the coming years, Fast Company reported. It’s a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.travelpulse.com/news/airlines-airports/tsa-to-expand-facial-recognition",
-      "originalUrl": "https://www.travelpulse.com/news/airlines-airports/tsa-to-expand-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TravelPulse",
-        "domain": "travelpulse.com",
         "images": null,
         "publishers": null,
         "authors": null

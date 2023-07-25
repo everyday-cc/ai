@@ -18,29 +18,45 @@ topics:
   - AI
 
 related:
-  - title: "New research shows how brain-like computers could revolutionize blockchain and AI"
-    excerpt: "Researchers from Technische Universität Dresden developed a reservoir computing paradigm that uses a vortex of magnons for calculations, with revolutionary implications for the fields of blockchain and artificial intelligence."
-    publishedDateTime: 2023-07-24T17:45:00Z
-    webUrl: "https://cointelegraph.com/news/new-research-shows-how-brain-like-computers-could-revolutionize-blockchain-and-ai"
+  - title: "AI, machine learning ‘ll revolutionise industries – NCC"
+    excerpt: "The Nigerian Communications Commission (NCC) on Tuesday said that Artificial Intelligence (AI) and Machine Learning (ML) had the potential to revolutionise industries."
+    publishedDateTime: 2023-07-25T13:27:00Z
+    webUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
     images:
-      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvNWFlMjFjMmMtMTBmYi00ZWFhLTk4NDUtY2FjOTAxOWViMzZlLmpwZw==.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2023/04/image-257.png"
+        width: 1200
+        height: 750
         isCached: true
-  - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
-    excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
-    publishedDateTime: 2023-07-22T17:10:00Z
-    webUrl: "https://www.crypto-news-flash.com/hive-crypto-miner-uses-ethereum-rigs-and-ai-to-make-ordinals-art-on-bitcoins-blockchain/"
+  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
+    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
+    publishedDateTime: 2023-07-21T06:45:00Z
+    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
     type: article
     provider:
-      name: Crypto News Flash
-      domain: crypto-news-flash.com
-    quality: 10
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 39
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
+        width: 1500
+        height: 900
+        isCached: true
+  - title: "The AI revolution: Which tech companies will profit from it?"
+    excerpt: "Since the announcement of ChatGPT late last year, artificial intelligence (AI) has become the buzzword on everyone’s lips. In this Q&A article, members of global investment manager Schroder’s public and private equities team – including global sector specialists Jonathan McMullan,"
+    publishedDateTime: 2023-07-25T09:21:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/the-ai-revolution-which-tech-companies-will-profit-from-it/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "3THYKe6mV8SuqXNQVwmni4k0A1l7oGXm06jhnXncgVDED+rHhUi5hAj1bKuhlRWQu3ZPrSa17QsAbr8ge4zkh6NXf/1Rbb+AAo1HnwnSCYf43q7JjcgVYv4jtcBEZVnWcb+e3c2vDqQX48n4rMDDh95Uoq/ihLmZmyGECJWPnCYpL4lu3jGNm/YX0OIVFXzs4tYmm9Y/NQDIiI5z2zVySQgMDkNUfMssBqMThyAa7CRxWgn2sJrYXdQMBehE7gNVZFw57dnj5AcLd1TggqyKPOZGQO1PcJJtP9q7Zwd6qrSwJlKyFWMsxl2rreXbXw1eaeoS0B5FvawI1ceGPsfJyJIZAqi1GZPag9yjCOpiYJtyzYzrkdQDRMI0MgQvcC0z10E9mFTH+TzEp5Pyom/NmGrYfeUmEOjxFP5xv2NVtIncNiCR4dbg1CFDeNWz3yh85WC4ZW2H4ODaiU1Jrpmo9jXsA22JcYO1Pmo0LD2gOgbp1WMW8xsEfh1jKM8PxDz4zvSEz4xo0ug5/GpMl5BISQ==;KK15aGNz6Ccq7IZdpUS2JA=="
 ---

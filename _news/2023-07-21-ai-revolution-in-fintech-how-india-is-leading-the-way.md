@@ -19,29 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "A New Chapter in Fintech: Invest Inc. Welcomes Jas Mathur as New Chief Marketing Officer"
-    excerpt: "The world of fintech is likely to witness fresh momentum as a strategic move has been adopted by Invest Inc. The AI-driven leading investment research platform has recently announced the… Read More"
-    publishedDateTime: 2023-07-24T22:16:00Z
-    webUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-invest-inc-welcomes-jas-mathur-as-new-chief-marketing-officer/"
+  - title: "Digital Revolution In Retail: How Computer Vision Is Leading The Way"
+    excerpt: "Harnessing the vast potential of CV in retail also carries ethical responsibilities, especially concerning customer data."
+    publishedDateTime: 2023-07-25T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/25/digital-revolution-in-retail-how-computer-vision-is-leading-the-way/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 62
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/07/jm01_630px.jpg"
-        width: 630
-        height: 595
-        isCached: true
-  - title: "Women in fintech: innovating chargebacks with Monica Eaton"
-    excerpt: "In response to the lack of female representation in fintech, Eaton established the LIFT: Elevating Women Through Mentorship programme, a free mentorship programme that seeks to bridge the gap between established women in the fintech industry, and those who are still trying to find their way."
-    publishedDateTime: 2023-07-24T12:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-innovating-chargebacks-with-monica-eaton"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "HQG1MPnTot+hUu5gmpmg0ukriFSf2CTIsshy2JMoG7m3bG55VcFSb046zyA1sSgIjP62CK/JASub2AIzEm5sekuOeGIg+71JgmQ+IJwxYuVy/kRQ652kAFihBTbC617l1bwKUx/bRtuyAAc+6cuS+oa+GUmCT1qsdQA0EI5YLn4Fgxq9dUbFN3phdRlWumNuniW/hbY6CLM++OwVuOfjILEo+ypqJ7mLsI0XqRj6B9l6BlV5DIhKpsJ7gJxqvYm3QAYwOsJtCELlI4iPJj0B6mRFpP4D/427z1pGVn90Z653YjlmePcoGvfUkKZ84Z50D+/7lROWyzCaAMuEZwsJVDmxfAf2gbCjYHz/Ddz3OkVlbjvMVNHTtiJUTfAkljHx+Gbrl+t54C2hgauv4MPKNm34JF9YMO4r8Pd4Ynvg8P3bwdwCz2AxB7WvsD0dEXe1U1MTzAzuEPKwu8pFmksaPz4ekG5r/zkNqZFjKM+5HKA2mqLs9E6R0Z4b2p4WxM+O4v4QDuybDlSMCOI4WHQKTw==;dqLAyBG6wu//pXEQet78sw=="
 ---

@@ -2,6 +2,602 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-05-10-turn-ideas-into-music-with-musiclm.md",
+      "title": "Turn ideas into music with MusicLM",
+      "excerpt": "Starting today, you can sign up to try MusicLM, a new experimental AI tool that can turn your text descriptions into music.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Music_Kitchen_800x418_2.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/musiclm-google-ai-test-kitchen/amp/",
+      "publishedDateTime": "2023-05-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-machine-learning-vs-deep-learning.md",
+      "title": "Machine Learning vs Deep Learning",
+      "excerpt": "Machine learning involves training computers to learn and make decisions from large datasets using algorithms, while deep learning is a subset of machine learning that uses neural networks to ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100131536/100131536.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
+      "publishedDateTime": "2023-05-10T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-hackers-look-for-ai-flaws-under-white-house-direction.md",
+      "title": "Hackers look for AI flaws under White House direction",
+      "excerpt": "A mass hacking event will target models from OpenAI, Microsoft and more, looking for flaws in AI systems at the direction of the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction",
+      "originalUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8413fe5c-9099-4c4d-88f4-ed26e5fe8c69/2fc9d027-6cf3-41fd-aa0c-dd12a69199d6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/hackers-look-ai-flaws-white-house-direction.amp",
+      "publishedDateTime": "2023-05-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-amazon-sagemaker-with-tensorboard-an-overview-of-a-hosted-tensorboard-experience.md",
+      "title": "Amazon SageMaker with TensorBoard: An overview of a hosted TensorBoard experience",
+      "excerpt": "Today, data scientists who are training deep learning models need to identify and remediate model training issues to meet accuracy targets for production deployment, and require a way to utilize standard tools for debugging model training. Among the data scientist community, TensorBoard is a popular",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-with-tensorboard-overview-of-a-hosted-tensorboard-experience/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-with-tensorboard-overview-of-a-hosted-tensorboard-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/ml-14204-image010-1002x630.jpg",
+          "width": 1002,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:23:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ai-will-create-a-serious-number-of-losers-in-job-market-deepmind-co-founder-warns.md",
+      "title": "AI will create a ‘serious number of losers’ in job market, DeepMind co-founder warns",
+      "excerpt": "Mustafa Suleyman co-founded the Google-owned AI lab DeepMind. Bloomberg via Getty Images Suleyman asserted that the US and other governments will need to consider ways to support workers who lose ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/05/10/ai-will-create-a-serious-number-of-losers-in-job-market-deepmind-co-founder-warns/",
+      "originalUrl": "https://nypost.com/2023/05/10/ai-will-create-a-serious-number-of-losers-in-job-market-deepmind-co-founder-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-trayio-launches-merlin-ai-to-automate-complex-workflows-without-llm-training.md",
+      "title": "Tray.io launches Merlin AI to automate complex workflows without LLM training",
+      "excerpt": "The company claims that the Tray platform is the first iPaaS solution to provide generative AI capabilities accessible to all users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "originalUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Feature-3-1200-x-675.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/tray-io-launches-merlin-ai-to-automate-complex-workflows-without-llm-training/amp/",
+      "publishedDateTime": "2023-05-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-early-mit-research-shows-industrial-revolution-level-large-leap-for-workers-using-generative-ai.md",
+      "title": "Early MIT research shows 'Industrial Revolution-level large' leap for workers using generative AI",
+      "excerpt": "New MIT research shows ChatGPT creating gains at work that rival the Industrial Revolution and steam engine, says CEO of Google-linked AI startup Cohere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107231241-1682508826021-gettyimages-1249028985-raa-googleba230321_npxvU.jpeg?v=1683739235",
+          "width": 5872,
+          "height": 3306,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/10/mit-data-show-industrial-revolution-level-leap-for-workers-using-ai.html",
+      "publishedDateTime": "2023-05-10T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-natural-language-processing-market-to-be-2624-billion-by-2030-exclusive-report-by-meticulous-research.md",
+      "title": "Natural Language Processing Market to be $262.4 Billion by 2030 - Exclusive Report by Meticulous Research®",
+      "excerpt": "Redding, California, May 10, 2023 (GLOBE NEWSWIRE) -- According to a new market research report titled, ‘Natural Language Processing Market by Component, Organization Size, Application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32318935/natural-language-processing-market-to-be-262-4-billion-by-2030-exclusive-report-by-meticulous-rese",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32318935/natural-language-processing-market-to-be-262-4-billion-by-2030-exclusive-report-by-meticulous-rese",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-reduce-amazon-sagemaker-inference-cost-with-aws-graviton.md",
+      "title": "Reduce Amazon SageMaker inference cost with AWS Graviton",
+      "excerpt": "Amazon SageMaker provides a broad selection of machine learning (ML) infrastructure and model deployment options to help meet your ML inference needs. It’s a fully-managed service and integrates with MLOps tools so you can work to scale your model deployment, reduce inference costs, manage models more",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-amazon-sagemaker-inference-cost-with-aws-graviton/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/reduce-sagemaker-costs-graviton.jpg",
+          "width": 1066,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T07:42:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ai-and-modern-workforce-challenges.md",
+      "title": "AI And Modern Workforce Challenges",
+      "excerpt": "The global workforce should expect big changes over the next decade, and I believe humans will lead those changes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645a72f2a9a3d1f35644914e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/10/ai-and-modern-workforce-challenges/amp/",
+      "publishedDateTime": "2023-05-10T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
+      "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
+      "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/predictive-dashboards-quicksight-sagemaker-canvas.jpg",
+          "width": 1068,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T07:17:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-california-self-driving-technology-company-cruise-making-dallas-debut.md",
+      "title": "California self-driving technology company Cruise making Dallas debut",
+      "excerpt": "Driverless rides to public riders are expected ... The car feeds the data from the sensors into an artificial intelligence brain that powers the autonomous vehicle, giving real-time feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/",
+      "originalUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/uggb9Ue29ctrJBzd_8w7AK3TbCs=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/RLN6N3FIFBF5JD43YIGOBH6IR4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2023/05/10/another-california-self-driving-technology-company-making-dallas-debut/?outputType=amp",
+      "publishedDateTime": "2023-05-10T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-chinese-scientists-reveal-shocking-brain-chip-that-allows-monkeys-to-control-a-robotic-arm-with-their-mind.md",
+      "title": "Chinese scientists reveal shocking brain chip that allows monkeys to control a robotic arm with their mind",
+      "excerpt": "SCIENTISTS in China have made a breakthrough in 'Frankenstein' brain chip technology, with the aim of letting people control machines ... it to move a robotic arm with its mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "originalUrl": "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-announcing-new-jupyter-contributions-by-aws-to-democratize-generative-ai-and-scale-ml-workloads.md",
       "title": "Announcing new Jupyter contributions by AWS to democratize generative AI and scale ML workloads",
       "excerpt": "Project Jupyter is a multi-stakeholder, open-source project that builds applications, open standards, and tools for data science, machine learning (ML), and computational science. The Jupyter Notebook, first released in 2011, has become a de facto standard tool used by millions of users worldwide across",
@@ -556,636 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-in-turkey-a-modern-city-sits-alongside-a-mythical-site.md",
-      "title": "In Turkey, a modern city sits alongside a mythical site",
-      "excerpt": "Turkey, sits near the site of Truva, or ancient Troy. The archaeological site is said to have been where the mythical Trojan War took place. But historians say there is real history between Homer's epic poem,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
-      "originalUrl": "https://www.cnn.com/travel/article/canakkale-troy-turkey/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230510110102-trojan-horse-tz.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/travel/article/canakkale-troy-turkey/index.html",
-      "publishedDateTime": "2023-05-10T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-learn-how-to-build-ai-powered-software-with-this-40-bundle.md",
-      "title": "Learn how to build AI-powered software with this $40 bundle",
-      "excerpt": "Discover how to code your own chatbots, run data analysis and even create games. This bundle includes Python and ChatGPT video courses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
-      "originalUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/tra5923-chatgpt-python-bundle.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/build-ai-powered-software-chatgpt-python/amp/",
-      "publishedDateTime": "2023-05-10T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030.md",
-      "title": "Artificial Intelligence Delivery Robot Market Detect New Industry Opportumities 2023-2030",
-      "excerpt": "Global Artificial Intelligence Delivery Robot Market report provides valuable insights on the global market for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-detect-new-industry-opportumities-2023-2030-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-mediatek-dimensity-9200-chipset-announced-with-upgraded-cpu-and-gpu-performance.md",
-      "title": "MediaTek Dimensity 9200+ chipset announced with upgraded CPU and GPU performance",
-      "excerpt": "MediaTek’s flagship chipset offerings have been gaining recognition for their impressive hardware, and the recently launched MediaTek Dimensity 9200 was no exception. Now, the company has announced an upgraded version of this chipset,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/10/mediatek-dimensity-9200-plus-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/MediaTek-Dimensity-9200-1.jpg",
-          "width": 1056,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-latest-deep-learning-chip-market-trends-2023-2030.md",
-      "title": "Latest \"Deep Learning Chip Market\" Trends 2023-2030",
-      "excerpt": "(The Expresswire) -- \"Deep Learning Chip Market\" Insights 2023 By Types ( Graphics Processing Units (GPUs), Central Processing Units",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/latest-deep-learning-chip-market-trends-2023-2030-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance.md",
-      "title": "ECI To Pilot Facial Recognition Technology In Polls, IFF Raises Concerns Of Surveillance",
-      "excerpt": "IFF has asked a copy of the relevant government order/notice/direction accompanying this move in its RTI to the ECI",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
-      "originalUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1683701048.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
-      "publishedDateTime": "2023-05-10T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology.md",
-      "title": "Global Artificial Intelligence Robotics Market [2023-2030] | Understanding the Impact of Trend and Technology",
-      "excerpt": "Global “Artificial Intelligence Robotics Market” (2023-2030) research report provides key analysis on the market status",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-2023-2030-understanding-the-impact-of-trend-and-technology-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution.md",
-      "title": "Adapt Or Die: 3 Things Businesses Must Do To Avoid Becoming Irrelevant In The AI Revolution",
-      "excerpt": "In 2020, pivoting was necessary in order to survive. In 2023 it's no different. Use this AI revolution to become a creator and a leader, instead of just an observer and user.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645b1755cf61fa38f12796dd/0x0.jpg?format=jpg&crop=3096,1741,x0,y60,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/10/adapt-or-die-3-things-businesses-must-do-to-avoid-becoming-irrelevant-in-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-05-10T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-machine-learning-tool-may-diagnose-parkinsons-years-before-symptoms-appear.md",
-      "title": "Machine learning tool may diagnose Parkinson’s years before symptoms appear",
-      "excerpt": "Parkinson’s disease (PD) is growing more rapidly than any other neurological disease, which makes its early detection so important. Researchers have developed a new machine-learning tool that shows promise as a way of detecting the disease early.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
-      "originalUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/281c196/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6a%2F9b%2F0e326750433aa1bee5faea63c003%2Fdepositphotos-6859206-l.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T00:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-microsoft-partners-gurugram-based-builderai-for-developing-ai-solutions-for-businesses.md",
-      "title": "Microsoft partners Gurugram-based Builder.ai for developing AI solutions for businesses",
-      "excerpt": "Microsoft has made an equity investment and entered into a strategic partnership with Gurugram-based composable software platform Builder.ai, to develop artificial intelligence (AI) powered solutions for businesses, emphasising the technology giant’s focus on building enterprise-level AI amidst increasing competition from Google.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/03/AI-globe-climate-change.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-partners-gurugram-based-builder-ai-for-developing-ai-solutions-for-businesses-10560011.html/amp",
-      "publishedDateTime": "2023-05-10T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-ai-robots-figure-out-how-to-play-football-in-shambolic-footage.md",
-      "title": "AI robots figure out how to play football in shambolic footage",
-      "excerpt": "Robots fitted with AI developed by Google’s DeepMind have figured out how to play football. The miniature humanoid robots, which are about knee height, were able to make tackles, score goals and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/ai-robots-football-deepmind-b2335502.html",
-      "originalUrl": "https://www.independent.co.uk/tech/ai-robots-football-deepmind-b2335502.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-15-amazing-real-world-applications-of-ai-everyone-should-know-about.md",
-      "title": "15 Amazing Real-World Applications Of AI Everyone Should Know About",
-      "excerpt": "The future is here, and it’s fueled by artificial intelligence. Read on to find out the top 15 real-world applications of AI that are redefining industries and impacting our daily lives in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645b3eca0059191fb09c02fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/10/15-amazing-real-world-applications-of-ai-everyone-should-know-about/amp/",
-      "publishedDateTime": "2023-05-09T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert.md",
-      "title": "Will Artificial Intelligence Take Away Jobs? Not Many for Now, Says Expert",
-      "excerpt": "The growing abilities of artificial intelligence have left many observers wondering how AI will impact people’s jobs and livelihoods. One expert in the field predicts it won’t have much effect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "originalUrl": "https://www.voanews.com/a/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/01000000-0aff-0242-405c-08db5119be00_w1080_h608_s.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/will-artificial-intelligence-take-away-jobs-not-many-for-now-says-expert/7086522.html",
-      "publishedDateTime": "2023-05-09T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

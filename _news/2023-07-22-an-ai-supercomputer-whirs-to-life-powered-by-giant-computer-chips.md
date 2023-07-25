@@ -7,8 +7,8 @@ originalUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-
 webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Spokesman-Review
@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
+  - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
+    excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
+    publishedDateTime: 2023-07-25T03:43:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33359165/competition-for-nvidia-this-chipmaking-startup-introduced-game-changing-ai-supercomputer"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33359165"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359165"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
     images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_intelligence_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "5 Moonshot AI Stocks to Buy Immediately"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
-    publishedDateTime: 2023-07-24T15:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
+  - title: "Cerebras Systems debuts powerful Condor Galaxy supercomputer to rival Nvidia in AI training"
+    excerpt: "With Condor Galaxy 1 now online, Cerebras is looking to showcase its technology and achieve wider adoption. Unlike Nvidia’s GPUs, which come packaged as small PCIe cards or SXM modules, the supercomputer is built using massive computer chips made out of entire silicon wafers, and are about the same size as a pizza."
+    publishedDateTime: 2023-07-21T01:04:00Z
+    webUrl: "https://siliconangle.com/2023/07/20/cerebras-systems-debuts-powerful-condor-galaxy-supercomputer-rival-nvidia-ai-training/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "You can now chat with a famous AI character on Viber. Here's how"
-    excerpt: "\"AI is becoming more prevalent within the messaging app industry and we are excited to continue to support the development of this emerging technology,\" says Ofir Eyal, CEO of Rakuten Viber. \"AI companions, like Kuki, will provide our users with an entirely unique entertainment experience.\""
-    publishedDateTime: 2023-07-24T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-chat-with-a-famous-ai-character-on-viber-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "Google’s Termination of ex-AI Engineer Chatterjee Sparks Diversity Concerns In AI Research Team"
-    excerpt: "Amid mounting concerns over diversity and inclusion within the tech industry, Google faces yet another whistleblower lawsuit by an ex-employee. Satrajit Chatterjee, a former senior engineering manager at the tech giant,"
-    publishedDateTime: 2023-07-21T05:24:00Z
-    webUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-team/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 27
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
     images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-21_09-43-54.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/Condor-Galaxy-1-in-Colovore-side-view.jpg"
+        width: 2500
+        height: 1406
         isCached: true
 
 secured: "RDoK1QLSivznKgynilTYGYFmhNfvDofKtPCu36tJJvr9WwUpHC78fInLsx0Khkz97Ut9hGHjDDr/U5x+P3i3f6a0W5mVBvkyg7Y6oSK963nL/1wXe4fFeFrjOJ0illZ8V4JiL9OZVBPmLc3WatehNI05ktTq/Qm3vGrVIDFIovKnO3if1V7B1C9ep6b65eifR5QZg++EvBAbdZ7VAVLwjdqoFzjRi4dV3yzpFIWoAn8f/qXYFcSz5T29jFc/OsMYwac797JklQ4NYMtGL5qcm+Fua/DQtnELZ96FcJ306CKL6ZsirQJ04H19GthQtOzntroEZb/riPfy1Y4Oxt/VF2BBv3PxNp1pgI/cgzeC+JvwGxqLz9x7dtIWDzhg+Y6KK2WRDn1zJ/aDat8rTcFMbGEXtuATK4SyDQAJ/eizeNhUtuiDl1JD6pR/vkJPuwrFA5lmm8S0DJ6eIEk28ImjumwcD0twrbzYKgVktICd1DoImpzazgxCzdBzf6yfXF5i0fds/P4i1iz5WmfERuGfkQ==;Q9+Lb9qh7/w7YRCqLTH4Mw=="

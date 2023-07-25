@@ -41,6 +41,15 @@ related:
         width: 854
         height: 430
         isCached: true
+  - title: "Startup targets banks with AI-powered deal-monetization"
+    excerpt: "Bank loyalty platform provider Wildfire Systems unveils a tool that could enable banks to earn revenue from merchants when customers click on personalized offers embedded in content via generative AI."
+    publishedDateTime: 2023-07-25T12:59:00Z
+    webUrl: "https://www.americanbanker.com/news/startup-targets-banks-with-ai-powered-deal-monetization"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 17
   - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
     excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
     publishedDateTime: 2023-07-21T20:22:00Z

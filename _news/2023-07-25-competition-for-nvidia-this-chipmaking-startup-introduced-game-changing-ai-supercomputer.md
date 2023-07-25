@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33359165"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359165"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
+    publishedDateTime: 2023-07-22T07:40:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 54
+    images:
+      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cerebras Systems debuts powerful Condor Galaxy supercomputer to rival Nvidia in AI training"
     excerpt: "With Condor Galaxy 1 now online, Cerebras is looking to showcase its technology and achieve wider adoption. Unlike Nvidia’s GPUs, which come packaged as small PCIe cards or SXM modules, the supercomputer is built using massive computer chips made out of entire silicon wafers, and are about the same size as a pizza."
     publishedDateTime: 2023-07-21T01:04:00Z
@@ -40,15 +54,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Finding game-changing superconductors with machine learning tools"
-    excerpt: "Superconductors—found in MRI machines, nuclear fusion reactors and magnetic-levitation trains—work by conducting electricity with no resistance at temperatures near absolute zero, or -459.67°F."
-    publishedDateTime: 2023-07-21T13:17:00Z
-    webUrl: "https://phys.org/news/2023-07-game-changing-superconductors-machine-tools.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "Dl2lOQ1j/U7dQRoSYwSOzXQpYNmMJmZ72sxJZnJMUw9aAXIRXfuHUABPF7x5m9wyl1ueAtx/VqIWwy8quate23DeYm7G9Sv0nWwvgNMSbjqDY68THtDkGmMg3ch53ogrAG6a9R4asZFNiSdqQPy/RHkEoD9ZAmvwsERuuKFFvW+5XtxL5KkRUv9Rn4dWqmLYoBU2KZuMdFTkJk6v9+z+q+1Tbs2OzDJfAc6fXHZErZr9RgtjOWSQNAwr1AbpMONHKBhAzVLmsGl3aynq6N6zwyBKL/4hE9l6aJdfD3RyxeYpLu8kHGpXo06JhU9US5gUxR2F4Vc3TrJYiH14bmY7Z2dkI0ux+9/ZB9MOqZAn+JU=;L0X5jPAGoqOtN3vRdKbs4A=="
 ---

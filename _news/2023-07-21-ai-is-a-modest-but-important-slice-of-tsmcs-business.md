@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Understanding the Chip Business and Solar Inverters"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-07-25T15:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/25/understanding-the-chip-business-and-solar-inverter/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740838/mfm_20230720.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How to navigate your engineering team through the generative AI hype"
     excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
     publishedDateTime: 2023-07-23T15:20:00Z
@@ -72,6 +86,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Generative AI is empowering the digital workforce"
+    excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
+    publishedDateTime: 2023-07-25T14:46:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How AI Is Changing The Face Of Careers As We Know It"
     excerpt: "Look into roles that are more strategic in nature. Join teams or organizations that are looking to give humans ways to combat the bot."

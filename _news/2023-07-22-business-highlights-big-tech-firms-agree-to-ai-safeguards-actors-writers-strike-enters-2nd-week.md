@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Startup targets banks with AI-powered deal-monetization"
+    excerpt: "Bank loyalty platform provider Wildfire Systems unveils a tool that could enable banks to earn revenue from merchants when customers click on personalized offers embedded in content via generative AI."
+    publishedDateTime: 2023-07-25T12:59:00Z
+    webUrl: "https://www.americanbanker.com/news/startup-targets-banks-with-ai-powered-deal-monetization"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 17
 
 secured: "CUmdTxaOfZH7rLc3vdspI6WVbN/D+cm5X79jZFg2Tg/qOvQzvtXQsi5gDOdHo9rBuMtbYQHm2DVbmMK9PVGcgKzdOnpKYcEJT1ld8OIapfZxxAoJeTrb1G2MHthcCQKPCOWh7SbhxLU6Sa5Cr6Gf/mJBnhuMRavcKV9qyds22WuVj1+TiuzLLMz4OpcFiybugFzg7yMjx9FavxFvu4Ot1dyGNWAOL/LHlmV+aStDg8gLM2i6A+SSprTBzvxqBp2ndwN59FqXqsOhosysKbU8dUIWgx4PUA6p9tXNzocjVAtBr8aCvU4188JkM5zbZxotu4h6nvTFbt/f4RH/mUKmxYvETgNQauxgjY3sXEVgH0Y+6ryuMUC+0GRGYhFmVQP1u3tbJDwskceVMhb5hjr20UQu9G2+g3SXH5LE5kp3QHA9EpiHImhZopYwdxBOHuoCbaUTgaabjeFSD0XK9Y8mMOS2O61X43Y7KJwB5bOQQ3USrDmS1uxQMyCR7kbrIvxD0aWLaMUZFpihrs+07c6Shw==;3ShH7/PEACwbNWe85AhBYQ=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
 excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
-publishedDateTime: 2023-07-25T03:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
-webUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
+publishedDateTime: 2023-07-25T13:29:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
 type: article
@@ -21,11 +21,11 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/0_391_3188_1912/master/3188.jpg?width=620&quality=85&auto=format&fit=max&s=4a111118db7242b93c2a7c741c50968d"
+  - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/185_612_2818_1691/master/2818.jpg?width=620&quality=85&auto=format&fit=max&s=a33cea800d6a29d561f7681cf3193703"
     width: 620
     height: 372
     isCached: true
@@ -78,20 +78,6 @@ related:
       - url: "https://media.wired.com/photos/64bacf7ec859c4a1cdecc48a/master/pass/Please-Stop-Asking-Chatbots-for-Love-Advice-Gear-GettyImages-1079532396.png"
         width: 2400
         height: 1800
-        isCached: true
-  - title: "Meta’s Llama 2 Is an Open-Source Rival to ChatGPT"
-    excerpt: "Meta is making its Llama 2 large language model open source, the Facebook parent company announced on July 18. The update to the model, which had been released as the first-generation LLaMA (also stylized as Llama 1) in February 2023, was first revealed at the Microsoft Inspire event. Microsoft will be a preferred partner with Meta on Llama 2."
-    publishedDateTime: 2023-07-20T20:26:00Z
-    webUrl: "https://www.techrepublic.com/article/meta-llama-2-open-source-rival-chatgpt/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72023-meta-llama-2.jpeg"
-        width: 1400
-        height: 1050
         isCached: true
   - title: "The biggest AI release since ChatGPT"
     excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
@@ -188,6 +174,34 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Artificial Intelligence and ChatGPT: Friend, Foe, or Both"
+    excerpt: "Although ESI is still important, generative artificial intelligence (AI), especially ChatGPT, has taken the world by storm."
+    publishedDateTime: 2023-07-25T13:45:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2023/07/25/artificial-intelligence-and-chatgpt-friend-foe-or-both/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/07/Artificial-Intelligence_2-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
+    excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."
+    publishedDateTime: 2023-07-25T14:00:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities-threats/beyond-chatgpt-organizations-must-protect-themselves-against-the-power-of-ai"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 36
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89661adcacbe9c43/62911639bcee916ef642a845/AI_marcos_alvarado_Alamy.jpg"
+        width: 1200
+        height: 774
+        isCached: true
   - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
     excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
     publishedDateTime: 2023-07-21T02:00:00Z
@@ -216,6 +230,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "The Brilliance and Weirdness of ChatGPT – The New York Times"
+    excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
+    publishedDateTime: 2023-07-25T15:16:00Z
+    webUrl: "https://www.inferse.com/636092/the-brilliance-and-weirdness-of-chatgpt-the-new-york-times/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-116.png"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
     excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"
     publishedDateTime: 2023-07-24T18:00:00Z
@@ -235,6 +263,6 @@ related:
       domain: financialexpress.com
     quality: 6
 
-secured: "ERKbXSWQmX4SRELn7YQgHRhFKMec/zdcnwDbsAJyb2QsNeNZW48BlMHHX32kTzeZ7TTIU3K53NMEayi12iIAEHWzccud4F9hL3Wg63iGkEJ87aTip0vWuBi6f9IlaJjO7OuoBecVL9dpSSW4AymhVQ38zVnGTxOwhnXez432cYl5n8g4HqB1QMnsE78YmENXox7nTl8Mwyd1D0fZBuaerp3FniobGXRvSRbIOmUaZR9vEzNNqyoL75s2KW7mhxLD0JrPRK8I/9+wl6plOwS2ePW47hq2pqrcCb6YXoueabcVP8Fkx2Er0VK1U14Ob+xfYgLm4l+prd0ARp1EqSmnwIRI0PLWuT7fspJII+MMbkOc73CJo+H6nWJoLoLVAw8kRIT2vL2U+frjzD+17QkMOmQE6bvNkR1RVwmClPVyDTaQtnpS/z+IROuQjnc7qxiGvO6CK1503qr5aTOnFzrXFXjqceGcj4ax/o4DaFwhiajA6lK/jsYLKMOzi+66Mt+FrC1DKZ9nK6QUmNmgy7sdsw==;DPviw27Ti9nJ/6wShlEZ+A=="
+secured: "cJnyIqhboowac4d67TYulsEKfKPrnvgrZlIGgo3h1wMySwMvYIqVuukgXsfMWcXm7jOoLueTLkj0b7RFQCRHoq6LRdX5RqelVKAY3AIjlRpY3d25JEV5uj+HcEw1+z95AQHE5CeYlUF1jBvxzqgykcmzGl15k5hlv0MxCOgUnEjbfRWw6U3cbE1HkhgNgwAWxy4S+8A2Rb9A4JDdLXeTF1WYky98c9TEbLB/cWRpJQA5Wcwzk9M61WRxxqsDhIK2UcCrut84slK4rIAduHNd6YzaviLqTuEFGP9upXzjmlIGwjDyle4FH4fqzlwKbjYoMxLEBiBFF12JDdGKSjj2/IOBRWegbPuF2UhM/KRIwcs=;xH97qZaYwQCvyb32gszVGw=="
 ---
 

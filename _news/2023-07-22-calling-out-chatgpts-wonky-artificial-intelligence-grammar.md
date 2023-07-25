@@ -73,24 +73,10 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "Meta’s Llama 2 Is an Open-Source Rival to ChatGPT"
-    excerpt: "Meta is making its Llama 2 large language model open source, the Facebook parent company announced on July 18. The update to the model, which had been released as the first-generation LLaMA (also stylized as Llama 1) in February 2023, was first revealed at the Microsoft Inspire event. Microsoft will be a preferred partner with Meta on Llama 2."
-    publishedDateTime: 2023-07-20T20:26:00Z
-    webUrl: "https://www.techrepublic.com/article/meta-llama-2-open-source-rival-chatgpt/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72023-meta-llama-2.jpeg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
-    publishedDateTime: 2023-07-25T03:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
+    publishedDateTime: 2023-07-25T13:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
     type: article
@@ -99,7 +85,7 @@ related:
       domain: theguardian.com
     quality: 51
     images:
-      - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/0_391_3188_1912/master/3188.jpg?width=620&quality=85&auto=format&fit=max&s=4a111118db7242b93c2a7c741c50968d"
+      - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/185_612_2818_1691/master/2818.jpg?width=620&quality=85&auto=format&fit=max&s=a33cea800d6a29d561f7681cf3193703"
         width: 620
         height: 372
         isCached: true
@@ -184,6 +170,34 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Artificial Intelligence and ChatGPT: Friend, Foe, or Both"
+    excerpt: "Although ESI is still important, generative artificial intelligence (AI), especially ChatGPT, has taken the world by storm."
+    publishedDateTime: 2023-07-25T13:45:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2023/07/25/artificial-intelligence-and-chatgpt-friend-foe-or-both/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/07/Artificial-Intelligence_2-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
+    excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."
+    publishedDateTime: 2023-07-25T14:00:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities-threats/beyond-chatgpt-organizations-must-protect-themselves-against-the-power-of-ai"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 36
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89661adcacbe9c43/62911639bcee916ef642a845/AI_marcos_alvarado_Alamy.jpg"
+        width: 1200
+        height: 774
+        isCached: true
   - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
     excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
     publishedDateTime: 2023-07-21T02:00:00Z
@@ -211,6 +225,20 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-24216.png"
         width: 1280
         height: 670
+        isCached: true
+  - title: "The Brilliance and Weirdness of ChatGPT – The New York Times"
+    excerpt: "ChatGPT is, quite simply, the best artificial intelligence chatbot ever released to the general public. It was built by OpenAI, the San Francisco A.I. company that is also responsible for tools like GPT-3 and DALL-E 2,"
+    publishedDateTime: 2023-07-25T15:16:00Z
+    webUrl: "https://www.inferse.com/636092/the-brilliance-and-weirdness-of-chatgpt-the-new-york-times/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-116.png"
+        width: 1050
+        height: 549
         isCached: true
   - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
     excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"

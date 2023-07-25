@@ -34,14 +34,14 @@ related:
   - title: "AI investment is booming. But is it all hype?"
     excerpt: "The investment into Mistral AI is just one of many venture capitalists jostling for a seat aboard the AI rocketship this year. In the first six months of 2023, they plowed $15.2 billion into generative AI companies globally, according to Pitchbook data."
     publishedDateTime: 2023-07-23T12:08:00Z
-    webUrl: "https://www.wlwt.com/article/ai-investment-is-booming/44619483"
-    ampWebUrl: "https://www.wlwt.com/amp/article/ai-investment-is-booming/44619483"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/ai-investment-is-booming/44619483"
+    webUrl: "https://www.kmbc.com/article/ai-investment-is-booming/44619483"
+    ampWebUrl: "https://www.kmbc.com/amp/article/ai-investment-is-booming/44619483"
+    cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/ai-investment-is-booming/44619483"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 57
+      name: KMBC Kansas City
+      domain: kmbc.com
+    quality: 59
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1546733584-64bd2609db950.jpg?crop=1.00xw:0.750xh;0,0.250xh&resize=1200:*"
         width: 1024

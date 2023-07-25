@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/it-operations-analytics/"
 webUrl: "https://www.ibm.com/blog/it-operations-analytics/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Teradata acquires Stemma to boost AI-based data search for analytics"
+    excerpt: "Stemma offers integrations with data warehouses, business intelligence tools, collaboration software and security tools."
+    publishedDateTime: 2023-07-25T14:58:00Z
+    webUrl: "https://www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.html"
+    ampWebUrl: "https://www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3703251/teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/08/card-catalog-machester_city_library-100809242-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Future of Data Analytics: 9 Emerging Trends and Technologies to Watch Out"
     excerpt: "In the rapidly evolving digital age, data has become the new currency, and organizations are harnessing its power to gain valuable insights and make informed...Read More The post The Future of Data Analytics: 9 Emerging Trends and Technologies to Watch Out appeared first on ISHIR | Software Development India."
     publishedDateTime: 2023-07-24T14:59:00Z

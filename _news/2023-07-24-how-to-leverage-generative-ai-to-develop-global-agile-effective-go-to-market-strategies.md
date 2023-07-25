@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-glob
 webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     isCached: true
 
 related:
+  - title: "Hypermodal AI Converges Predictive, Causal And Generative AI"
+    excerpt: "Hypermodal AI converges fact-based predictive AI, with causal AI insights with new generative AI capabilities."
+    publishedDateTime: 2023-07-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/07/25/hypermodal-ai-converges-predictive-causal-and-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Dynatrace taps hypermodal AI for faster application observability"
+    excerpt: "Application observability leader Dynatrace today expanded its Davis AI engine with new generative AI capabilities."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/dynatrace-taps-hypermodal-ai-for-faster-application-observability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How Would Generative, Predictive AI Change Wall Street?"
     excerpt: "Szilagyi, co-founder and chief executive officer of Toggle AI, a generative artificial intelligence fintech startup that uses machine learning to turn institutional-grade data into insights for investors,"
     publishedDateTime: 2023-07-21T01:02:00Z

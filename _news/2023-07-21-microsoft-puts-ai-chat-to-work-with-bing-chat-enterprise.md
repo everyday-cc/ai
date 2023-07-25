@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/"
 type: article
 quality: 104
-heat: 384
+heat: 404
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 99
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64bd4f852559900c20d3e1a4/0x0.jpg?format=jpg&crop=3000,1688,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bing AI chat expands to Chrome and Safari for select users"
+    excerpt: "\"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" said Caitlin Roulston, Microsoft director of communications. \"We are excited to expand access to even more users once our standard testing procedures are complete.\""
+    publishedDateTime: 2023-07-25T14:18:00Z
+    webUrl: "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/90f674cd85981dcb50a5f3f8d5e29f2a07295b41/2023/07/25/0852fcad-54ee-4823-9f85-b7df7c18bb05/binggettyimages-1246902268.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -119,6 +135,15 @@ related:
         width: 900
         height: 628
         isCached: true
+  - title: "Microsoft earnings: What to expect as Azure, AI come into focus"
+    excerpt: "For one, the company’s Azure cloud-computing business has been in a slowdown, while the Windows business is in decline amid a tough market for personal computers. These days, however, Wall Street is intently focused on the company’s AI opportunities ..."
+    publishedDateTime: 2023-07-25T12:35:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
   - title: "GeekWire Podcast: Microsoft’s big bet on the AI economy, and the risks on the road ahead"
     excerpt: "Microsoft staked its financial claim in the AI gold rush with the pricing for its Microsoft 365 Copilot technology. But storm clouds loom."
     publishedDateTime: 2023-07-22T14:26:00Z
@@ -195,20 +220,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft, Meta Release Powerful AI Chatbot Backbone To Developers"
-    excerpt: "Two of the world's largest technology companies teamed up to build the foundation of an artificial intelligence language software that could rival industry leading ChatGPT."
-    publishedDateTime: 2023-07-20T21:07:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-meta-release-powerful-ai-chatbot-backbone-developers-3705962"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 56
-    images:
-      - url: "https://d.ibtimes.com/en/full/4472599/mark-zuckerberg-pictured-has-mostly-ignored-provocations-elon-musk.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "Birlasoft enters into strategic collaboration with Microsoft to establish Generative AI Centre of Excellence"
     excerpt: "The Generative AI Centre of Excellence will bring together the combined strengths of Birlasoft's industry expertise and Microsoft Azure OpenAI Service."
     publishedDateTime: 2023-07-24T06:56:00Z
@@ -224,6 +235,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-24T081849.021.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft earnings preview: Focus on cloud rebound and AI"
+    excerpt: "Microsoft is set to report fourth quarter results on Tuesday with investors focused on cloud growth, AI and any updates on the pending acquisition of Activision Blizzard."
+    publishedDateTime: 2023-07-25T13:40:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-earnings-preview-focus-cloud-134041612.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KNqCJSLlFKyGennVsxgHKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTQ-/https://media.zenfs.com/en/aol_yahoo_finance_433/0ce8a14eb683e51d2a52c1bcabfffae1"
+        width: 1200
+        height: 754
         isCached: true
   - title: "Microsoft Inspire 2023 – A New Era of AI-Powered Innovation Unveiled"
     excerpt: "Read this blog post to find out aboutthe latest announcements and updates from the Microsoft Inspire Conference 2023."

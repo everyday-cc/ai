@@ -53,6 +53,17 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "TRAI’s call for AI regulatory body is flawed"
+    excerpt: "As AI is evolving, rather than have strict rules, a guardrails approach will encourage self-correction and foster improvement"
+    publishedDateTime: 2023-07-25T15:34:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "QDwz4CJf3RM7a1L8iX4lG6UKiaSAUbwrqJdNjf+mC7JTAXEaxc7vpJ8yZoCbWMjQcBV4ErKcXtrx5zWcB4NOECL3EoR8YO7NxCz+NsU15QhdRuxUnALuHhjLtS8FCLJTx8gF2ml6NUmNz+FkGsHJdOwen4TX4TxUrM4TS/lRiTeUB4QDh8WFDl2vxHSRThzv6x66AdmfqSf7wzSJP8TjFbPH3n4rCc9qnZzhQ1w+F/2vELzjT9dJl1tz2NesaFZj7y+2HxBUcshrWXxp7M3NbBmf+TbWbOLqmBakpjMAvmexzDFhzic+2lw+Gwx4BL1qdS/EWItKzK56KXYWfr3jyukjUffNzadQMMp9ss6c4TAM+CNw14Ssov/AgjKBouIe1VrP/yOrz1h0HQzObu3DYqwmaVa8iZyRuMIGHWWLUmiPGV3HscRiCogon9P7O3OAxSv2uLMs553F+unfKy5/Z4DZmnn1xdjtH4sTLhZnvXn6h2dwIvimgrjuVDq5EQE+da6E+NZ+zQ7y07Lsf5/BGA==;h+hpBfvs9VhqriT5BBQCRw=="
 ---

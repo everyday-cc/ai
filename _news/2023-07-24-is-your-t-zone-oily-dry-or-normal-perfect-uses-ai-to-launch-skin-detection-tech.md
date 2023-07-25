@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "DARPA-Funded Study Uses AI to Detect Violations of Social Norms In Texts"
+    excerpt: "GPT3, a powerful language prediction model, allowed the researchers to form a foundational set of social norm categories upon which violations could be assessed. Because the system would be trained on texts,"
+    publishedDateTime: 2023-07-25T11:00:00Z
+    webUrl: "https://www.extremetech.com/defense/darpa-funded-study-uses-ai-to-detect-violations-of-social-norms-in-texts"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 18
+
 secured: "dedMx+zlAX4pzM/1mwyEDjceK3FaEiqV93o4ySjbXzEehBWrxRAxpYgylb8zo2+fBaVG2BX4G414Aig+7o1giZFtt35wFRpEBe/ocJ+1LxzTvlGH7YX/6Pk6zJ5+bU+R1zOkgv47zC/SljznWAHNnruI8eWoOaBmrmnzYV+PzC6ClGgcHYVje6+ioYU77MCZvOTHd26u0ubPzPta2u4NzLgYxN2qDVFaz71gt+rylctRKTOlBKwJymiXliM/A+feUaiih3EZo/hvQtWW36Zsiun6FL5Pek51016Me6MKZFksB8/G38+cDwWWYuCKnrH9Zhr6kjTR53kUI/Ingkt1UX7StPaofaMyYSpHmSrNQTtqpiFefJIto3Xs+b3jMW1hF0c1SScQJJpcxXd5WtNCTAxr+wNl/jV78tNYmtouL9tOQEVDupz0zQtrNzLreunonN2nwbHHMLS0UUycj4UBTY8HwbXnMnqoadLwfXeUbv18TS4Xq2IJ2Qh0ibS8wYw0C5aFkXlv3uxq0o+UYCOHSQ==;Lg/XCHTerHh6whxqJ3XY9g=="
 ---
 

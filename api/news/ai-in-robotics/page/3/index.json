@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-08-ai-humanoid-robots-hold-un-press-conference-say-they-could-be-more-efficient-and-effective-world-leaders.md",
+      "title": "AI humanoid robots hold UN press conference, say they could be more efficient and effective world leaders",
+      "excerpt": "A panel of robots told reporters in Switzerland Friday that they could be more efficient leaders than human beings, among other statements. The nine artificial intelligence-enabled humanoid social ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders",
+      "originalUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab421626-796a-4036-a71a-454279579e88/97ad3371-db6b-4b78-ba18-e473a9df7d37/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-humanoid-robots-un-press-conference-more-efficient-effective-world-leaders.amp",
+      "publishedDateTime": "2023-07-08T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-ai-industrial-robotics-denmark.md",
+      "title": "AI Industrial Robotics - Denmark",
+      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$112.40m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 13.82%, resulting in a market volume of US$ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/denmark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-08T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-08-humanoid-robots-take-questions-at-a-geneva-news-conference.md",
+      "title": "Humanoid robots take questions at a Geneva news conference",
+      "excerpt": "The International Telecommunication Union invited reporters to ask robots questions on Friday at an event meant to spark discussion about the future of artificial intelligence. BERLIN -- A United ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "originalUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13474936_070723-wls-robots-430vo-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "cdnAmpWebUrl": "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/un-robots-artificial-intelligence-robot-press-conference-news/13475084/",
+      "publishedDateTime": "2023-07-08T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 7 Chicago",
+        "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-08-robots-say-they-wont-steal-jobs-rebel-against-humans.md",
       "title": "Robots say they won't steal jobs, rebel against humans",
       "excerpt": "Robots presented at an AI forum said on Friday they expected to increase in number and help solve global problems, and would not steal humans' jobs or rebel against us.",
@@ -1183,145 +1321,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-how-should-a-robot-explore-the-moon-a-simple-question-shows-the-limits-of-current-ai-systems.md",
-      "title": "How should a robot explore the Moon? A simple question shows the limits of current AI systems",
-      "excerpt": "Scientists theorise how a simple question - How should a robot explore the Moon? - can teaches how AI can be used more effectively",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/sci-tech/science/b4cwev/article67030504.ece/alternates/FREE_1200/Lunar%20lander.jpeg",
-          "width": 1200,
-          "height": 1182,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/ai-systems-chatgpt-problem-with-ai-robot-on-moon-ai-based-solutions/article67030116.ece/amp/",
-      "publishedDateTime": "2023-07-01T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-01-robot-takes-podium-as-orchestra-conductor-in-korea.md",
-      "title": "Robot takes podium as orchestra conductor in Korea",
-      "excerpt": "The two-armed robot, designed by the Korea Institute of Industrial Technology, made its debut at the National Theater of Korea, leading musicians in the country's national orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "originalUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/07/01/k3dwrlbpezmhfj54pggtboxzya.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/entertainment/tv-film/news/robot-takes-podium-orchestra-conductor-korea-3358606?amp",
-      "publishedDateTime": "2023-06-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
-      "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
-      "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
-      "originalUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/ai-xyz-Dashboard-2-1-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

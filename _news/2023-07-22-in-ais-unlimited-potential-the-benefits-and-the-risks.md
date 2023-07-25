@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Hindu
@@ -27,22 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence on the Battlefield: Lawmakers weigh the risks and benefits of military AI"
-    excerpt: "“The country that is able to most rapidly and effectively integrate new technology into warfighting wins,” Alexandr Wang, CEO of Scale AI, said. “If we don’t win on AI, we risk ceding global influence, technological leadership and democracy to strategic adversaries like China.”"
-    publishedDateTime: 2023-07-20T21:37:00Z
-    webUrl: "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/"
-    ampWebUrl: "https://www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/artificial-intelligence-battlefield-lawmakers-weigh-risks-benefits-military-ai/KESNJ5O2CJD3JCLIPN6G763DMY/?outputType=amp"
+  - title: "How AI is being used to detect, treat cancer -- and the potential risks for patients"
+    excerpt: "Several AI tools have been developed to help detect, diagnose and treat cancer. Experts these tools have a lot of promise, but there are also pitfalls to avoid."
+    publishedDateTime: 2023-07-21T10:07:00Z
+    webUrl: "https://abcnews.go.com/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 61
+      name: ABC
+      domain: abcnews.go.com
+    quality: 52
     images:
-      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/jTXM2HgirZ1osy9b2haXNugKkyc=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/ZIBS2YHKN5D6LH6IIG3OIY6NHE.jpg"
-        width: 1440
-        height: 810
+      - url: "https://s.abcnews.com/images/Health/ai-1-gty-er-230718_1689697399863_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
+  - title: "3 Artificial Intelligence Stocks With More Potential Than Any Cryptocurrency"
+    excerpt: "These companies are likely to play crucial roles in the future of AI, making them better investments than crypto."
+    publishedDateTime: 2023-07-21T12:33:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/3-artificial-intelligence-stocks-with-more-potenti/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 44
+  - title: "An Unconventional Play on the Artificial Intelligence Theme"
+    excerpt: "Real estate investment trusts either own or manage income-producing real estate, normally through directly investing in properties or the mortgages on those properties. The IRS mandates that REITs must pay out 90% of their taxable income to shareholders. This typically translates into much higher dividends than your average S&P 500 stock."
+    publishedDateTime: 2023-07-22T01:03:00Z
+    webUrl: "https://247wallst.com/investing/2023/07/21/an-unconventional-play-on-the-artificial-intelligence-theme/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 17
+  - title: "Startup Mantra: Upping brand watch potential the AI way"
+    excerpt: "Anantadi strategically places products within video content, tailored to viewers’ preferences and helping brands to connect with target markets in a non-intrusive manner using AI"
+    publishedDateTime: 2023-07-21T18:57:00Z
+    webUrl: "https://www.hindustantimes.com/cities/pune-news/startup-mantra-upping-brand-watch-potential-the-ai-way-101689965803068.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 17
 
 secured: "X5Lth0BzlpAYBltSsZnX3qA/5YV3MA6fSCKnUPv2eFsAzH7Q9oJ66Gi1MV8Eff3Kv5WLVuAQKMPFKnkGYWiK2nSRUSkrEhjchGmCzRWHxUzvXd2w6zvgiQGguRz5aDhPmqBEFHosLUEdH/lhvSnIyBes+mLebfmd5zIHLiMOlHPgzaAAZNS2Rvf3av4hdn7TlFcCxuGPYPzG3ddD+AQ1WdqkkYKEOhU46tMSPKjS3/Tx1F6UdZlLFWdZGlk6vwdbwXqI7PKJuKBNby1L5vl1HRXDJ3MR3lyHSsYSB2JKq6mAT186vwbKL7CEaMc3JH+vdRnsoN5HlO1zioNKkKrn2zh49EWpw7vzcaCrNTWBDKvbU2ULfHo+CBTgH7v7R27msvyzbwIErghHdCKB5b7IyXFDyNLUMg605i719mvXZpyg1kMPke3EJ4mbEepjCnWC47GXnb5G1jUM6ilM1G3ln0y2q6JiGr7nmbCJq7xjYB7FS3ng2pmSkExOsy/jH1DQdODJdyNojMPcPzlZJvhStg==;H9K2MaYcMfND23oM/y1/qQ=="
 ---

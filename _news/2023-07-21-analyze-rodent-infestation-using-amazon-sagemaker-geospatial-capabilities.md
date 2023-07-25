@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infes
 webUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 2301
         height: 1302
         isCached: true
+  - title: "Meta’s LLaMA 2 AI models available through Amazon SageMaker JumpStart"
+    excerpt: "AWS is now offering Meta's recently disclosed LLaMA 2 AI models through Amazon SageMaker JumpStart. This should make it easier for users to develop and"
+    publishedDateTime: 2023-07-25T12:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/109274/metas-llama-2-ai-models-available-through-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
 
 secured: "qbsUmVAmYr0vm7Cp7NMhuEcxFOfvJWeOYF49xJx+q2uu3a7KS6qxGtqnrZNh+Ef359WhkNnsbxtZwUEOXNdHAqMJirffo/NHnsP7x2kxxcDACvjZ6sxt4tFDDtrAVtqCenh6KBIMt4j0dccRGDSpDYifZxrCO10dtCT1K2ofodGuVSY7+e8rzjJDbUmVRWTM+3mWsyWZiG6aVom7v8uXgCqBhKHwYeRijtkdfVGBOEkw0xta7k4QojrPKu8zdDfMt+TrhwmJGReI5TmRQ1lAzpOtCaDdXxE2ek72wZvp9vzKmn10al5ASaS+1JfLS6KTTJhnKlekul4YPU/Uw203s8j5rzAVIw2v1N3h3HTuT9g=;MLCiYhEIDG9JibsFfCOS6Q=="
 ---

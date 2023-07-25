@@ -97,15 +97,34 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Bills of the week: Medicare and weight-loss drugs, AI in health care"
-    excerpt: "1. The Treat and Reduce Obesity Act was reintroduced Thursday. The bill would allow Medicare to cover obesity treatments, including weight-loss medications that are FDA-approved. The bipartisan bill is sponsored by Sens. Tom Carper and Bill Cassidy and Reps. Brad Wenstrup and Raul Ruiz."
-    publishedDateTime: 2023-07-20T20:52:00Z
-    webUrl: "https://www.axios.com/pro/health-care-policy/2023/07/20/bills-of-the-week-medicare-weight-loss-drugs"
+  - title: "Viewpoint: A High Reliability Approach to AI in Healthcare"
+    excerpt: "Explore how airlines use High Reliability Organizations (HROs) principles to ensure the safe and reliable use of AI in healthcare. Drawing on examples from the"
+    publishedDateTime: 2023-07-25T13:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/viewpoint-a-high-reliability-approach-to-ai-in-healthcare.html"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI in Healthcare to Address Stroke Disparities and Ensure Equitable Access"
+    excerpt: "Artificial Intelligence (AI) has the potential to revolutionize healthcare, particularly in addressing stroke disparities and providing personalized care. However, concerns about bias and limited access must be acknowledged."
+    publishedDateTime: 2023-07-25T12:46:00Z
+    webUrl: "https://www.cryptopolitan.com/ai-in-healthcare-to-address-stroke/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 52
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-25_12-34-05.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Purehealth And Fujifilm Collaborate To Bring Advanced Artificial Intelligence Solutions Into Abu Dhabi's Healthcare"
     excerpt: "Abu Dhabi, UAE PureHealth, the largest healthcare platform in the Middle East, is collaborating with Fujifilm Global, a renowned world leader in"
     publishedDateTime: 2023-07-21T12:25:00Z

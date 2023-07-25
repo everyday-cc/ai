@@ -189,21 +189,14 @@ related:
         height: 3111
         isCached: true
   - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
-    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla"
+    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
     publishedDateTime: 2023-07-24T17:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350820/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33350820"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33350820"
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 30
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+    quality: 0
 
 secured: "zNeQ11x1VosiZohFml8RzBZxyXht2OR/TwhjHDq+Khnx9UIjLaet+D52nJPdjF3RhOdZpm7VQK2U+EyxpzcrOKxuegXFKVZRVFu/FGWxOrvi1gkOcbooESYqaQHr54z7asV7INIepFPU0Cx8t/GRhQYi71hIkNBw6+55prpHxv0leRlCWQkdA5Q9eybY5pJZkeuiX+nGsBnSHYR1gThTxeSOL8BZdABQ/BY8Rkuz2e4hmQHmtP8bX11n3kiBfoqzGj10sTU6in2KK0AfrevNVEoEKSrjeLKgsoelinvBn/UrZGorAD/DzQ4a57Y/347tU6tML9KZhV4/o0YDVYlNqrIEvotClSOikQeFjMOO59btgqaSzgfY4cLinErH1vmUItn6eMa/pPfRsCrXLPA7sGUn5DQMhwBekAh8FxySvT/U7L87khqdnnbJhU2UwveBIcMitWI5lPCGdQVjHVngtI9/hTkkiOy9pKl4x/WVVPRfGrAEhi56P5ggyXtaj9b1EaO2dMJdk+8nw5th3IE61g==;aPUfT2JZyL+skCEfa3JZtA=="
 ---

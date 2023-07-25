@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-03-center-for-deep-learning.md",
+      "title": "Center for Deep Learning",
+      "excerpt": "The Center for Deep Learning’s (CDL) mission is to act as a resource for companies seeking to establish or improve access to artificial intelligence (AI) by providing technical capacity and expertise, allowing the center’s members to achieve proof of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
+      "originalUrl": "https://www.mccormick.northwestern.edu/research/deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccormick.northwestern.edu/research/deep-learning/images/logos/anthem-440x248.png",
+          "width": 440,
+          "height": 248,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mccormick.northwestern.edu",
+        "domain": "northwestern.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-deep-learning-pioneer-geoffrey-hinton-has-quit-google.md",
+      "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
+      "excerpt": "Hinton will be speaking at EmTech Digital on Wednesday. Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
+      "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515042.jpeg?w=2845",
+          "width": 2845,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
+      "publishedDateTime": "2023-05-02T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-new-course-steeps-humanities-and-social-science-graduate-students-in-machine-learning.md",
       "title": "New course steeps humanities and social science graduate students in machine learning",
       "excerpt": "The course, taught by Sarah-Jane Leslie, the Class of 1943 Professor of Philosophy, offers a primer on “deep learning” for graduate students. The class assumes the students have no extensive knowledge of calculus or linear algebra, nor any prior ...",
@@ -1280,84 +1366,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-benchmarking-deep-learning-methods-for-more-accurate-plant-phenotyping.md",
-      "title": "Benchmarking deep-learning methods for more accurate plant-phenotyping",
-      "excerpt": "This imposes a certain bottleneck on crop-breeding programs. Currently, most machine learning approaches adhere to the supervised learning framework with labeled datasets, which can be costly and ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-04-benchmarking-deep-learning-methods-accurate-plant-phenotyping.html",
-      "originalUrl": "https://phys.org/news/2023-04-benchmarking-deep-learning-methods-accurate-plant-phenotyping.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-deliver-your-first-ml-use-case-in-812-weeks.md",
-      "title": "Deliver your first ML use case in 8–12 weeks",
-      "excerpt": "Do you need help to move your organization’s Machine Learning (ML) journey from pilot to production? You’re not alone. Most executives think ML can apply to any business decision, but on average only half of the ML projects make it to production. This post describes how to implement your first ML use",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deliver-your-first-ml-use-case-in-8-12-weeks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T11:36:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

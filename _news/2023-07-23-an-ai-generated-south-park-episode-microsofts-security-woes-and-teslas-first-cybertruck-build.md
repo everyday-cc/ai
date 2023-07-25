@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/"
 type: article
 quality: 124
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leaders of Microsoft and the NSA discuss democracy and AI at Aspen Security Forum"
-    excerpt: "As artificial intelligence technology advances, how will that technology impact democracy and security? Microsoft Vice Chair and President Brad Smith discusses with Robert Joyce, Director of Cybersecurity at the National Security Agency."
-    publishedDateTime: 2023-07-20T22:55:00Z
-    webUrl: "https://www.nbcnews.com/video/leaders-of-microsoft-and-the-nsa-discuss-democracy-and-ai-at-aspen-security-forum-188942406001"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo188942406001"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo188942406001"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 116
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689893719775_f_full_aspen_artintel_230720_1920x1080-jxku7n.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google, Meta, Microsoft, Amazon Make Pledge on AI Safety and Security"
     excerpt: "ChatGPT creator OpenAI is also among the companies that met with President Biden to sign the voluntary agreement."
     publishedDateTime: 2023-07-24T21:48:00Z
@@ -139,20 +123,15 @@ related:
         width: 1280
         height: 723
         isCached: true
-  - title: "The AI Launch Pushing Microsoft Higher"
-    excerpt: "Shares of Microsoft jumped almost 6% on the Copilot news, setting an intraday record of $366.78. Microsoft is being ruthless to maintain its position as an early leader in AI. But the other seats at the top table are still up for grabs."
-    publishedDateTime: 2023-07-20T20:13:00Z
-    webUrl: "https://moneymorning.com/2023/07/20/the-ai-launch-pushing-microsoft-higher/"
+  - title: "Genpact teams up with Microsoft to empower its workforce with generative AI tools"
+    excerpt: "Genpact aims to empower business teams with generative AI use cases, enhancing employee productivity, operational efficiency and agility."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/genpact-teams-up-with-microsoft-to-empower-its-workforce-with-generative-ai-tools/"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 56
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/image001-3.png"
-        width: 613
-        height: 369
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
   - title: "Viatel Technology Group launches secure AI tool for Microsoft Teams"
     excerpt: "Viatel Technology Group has revealed that they have introduced their latest innovation, a secure Artificial Intelligence (AI) tool called vAI for Microsoft"
     publishedDateTime: 2023-07-24T15:46:00Z

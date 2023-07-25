@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-25-the-us-is-headed-for-a-roaring-economic-boom-thanks-to-ai-robots-quantum-computers-market-veteran-ed-yardeni-says.md",
+      "title": "The US is headed for a roaring economic boom, thanks to AI, robots, quantum computers, market veteran Ed Yardeni says",
+      "excerpt": "\"I think that by the end of the decade we'll look back on it and say, it started out awful, but it ended up awfully good.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6205514e3b86990018b2bf67?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7?amp",
+      "publishedDateTime": "2023-07-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
       "title": "Is This AI and Robotics Chip Stock a Buy Now?",
       "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
@@ -85,6 +138,58 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-ai-should-be-terrified-of-humans.md",
+      "title": "AI Should Be Terrified of Humans",
+      "excerpt": "The idea of new technologies taking over the world and subjugating humans has been floating around the cultural consciousness for at least the last couple hundred years. And while robot overlords—like the villain of the latest installment of Mission Impossible—might be sci-fi fodder,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6296234/ai-should-be-terrified-of-humans/",
+      "originalUrl": "https://time.com/6296234/ai-should-be-terrified-of-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1288,117 +1393,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-13-how-will-ai-impact-the-future-of-your-work.md",
-      "title": "How Will AI Impact the Future of Your Work?",
-      "excerpt": "While there are fears around its potential impact on workers, more and more companies are seeking to hire people whose skills match their growing Artificial Intelligence needs. Find out where.",
+      "path": "_news/2023-07-13-the-rise-of-the-terminators-ai-robots-claim-they-could-run-earth-better-than-clouded-humans.md",
+      "title": "The rise of the Terminators? AI robots claim they could run Earth better than 'clouded' humans",
+      "excerpt": "claims the event was vital to start using robotics for good. He believes that robots may have mainstream uses within just the next five years, taking off the same way as ChatGPT and other AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-will-impact-future-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/08/hr-analytics-software.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-chipotle-testing-avocado-processing-robot-in-test-kitchen.md",
-      "title": "Chipotle testing avocado processing robot in test kitchen",
-      "excerpt": "Chipotle tests Autocado, a cobotic avocado processing prototype, at the Chipotle Cultivate Center in Irvine, California.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/",
-      "originalUrl": "https://www.therobotreport.com/chipotle-testing-avocado-processing-robot-in-test-kitchen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/Autocado-featured.jpg",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-12T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-siggraph-fosters-growth-and-innovation.md",
-      "title": "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation",
-      "excerpt": "This year's contributions will showcase the developments in virtual reality, artificial intelligence, haptics, robotics, and display technologies. The 50th annual conference runs 6–10 August ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/n33205953/artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-sig",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/n33205953/artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-sig",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://i.dailymail.co.uk/1s/2023/07/11/13/73083559-0-image-a-41_1689078496351.jpg",
+          "width": 636,
+          "height": 382,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1406,13 +1415,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33205953",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33205953",
-      "publishedDateTime": "2023-07-12T13:11:00-07:00",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
+      "publishedDateTime": "2023-07-12T21:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

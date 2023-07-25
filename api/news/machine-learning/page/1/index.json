@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-25-ai-machine-learning-ll-revolutionise-industries-ncc.md",
+      "title": "AI, machine learning ‘ll revolutionise industries – NCC",
+      "excerpt": "The Nigerian Communications Commission (NCC) on Tuesday said that Artificial Intelligence (AI) and Machine Learning (ML) had the potential to revolutionise industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/",
+      "originalUrl": "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/04/image-257.png",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-ai-on-the-front-lines-senate-pushes-army-to-develop-neural-sensors-to-track-soldiers-fatigue-stress.md",
       "title": "AI on the front lines: Senate pushes Army to develop neural sensors to track soldiers’ fatigue, stress",
       "excerpt": "Senators on the Armed Services Committee want the Pentagon to move quickly toward adopting AI-driven neural sensors for American warfighters.",
@@ -157,7 +200,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -834,6 +877,41 @@
       ]
     },
     {
+      "path": "_news/2023-07-12-netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks.md",
+      "title": "NETSCOUT Combines Leading Global Threat Intelligence With Machine Learning to Protect Enterprises From Rapidly Spreading Dynamic DDoS Attacks",
+      "excerpt": "Every enterprise is at grave risk today if they don’t deploy an effective DDoS solution on-premises to protect their network edge, internet-facing services ... of DDoS mitigation experience, and machine learning (ML) software intelligence to ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-teradata-collaborates-with-microsoft-to-offer-vantagecloud-lake-on-azure-enabling-aiml-at-scale-throughout-the-enterprise.md",
       "title": "Teradata Collaborates with Microsoft to Offer VantageCloud Lake on Azure, Enabling AI/ML at Scale Throughout the Enterprise",
       "excerpt": "Teradata VantageCloud Lake on Azure and ClearScape Analytics helps customers use harmonized data and trusted AI to drive faster innovation.",
@@ -1287,93 +1365,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications.md",
-      "title": "Kerala HC to implement machine learning system to verify bail applications",
-      "excerpt": "Kochi: For the first time in India, Kerala HC is all set to implement a machine learning system for checking bail pleas. From July 10, bail applications will be verified via a special software and will be accepted only in the prescribed format.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/image/contentid/policy:1.7199899:1677896574/Untitled.png?$p=10e8aa4&f=16x9&w=1080&q=0.8",
-          "width": 871,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/amp/news/kerala/kerala-hc-to-implement-machine-learning-system-to-verify-bail-applications-1.8708768",
-      "publishedDateTime": "2023-07-06T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "english.mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-06-ai-vs-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
-      "title": "AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?",
-      "excerpt": "Discover the differences and commonalities of artificial intelligence, machine learning, deep learning and neural networks.\nThe post AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
-      "originalUrl": "https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

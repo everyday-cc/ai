@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-25-kwid-enjoyable-for-self-driving.md",
+      "title": "Kwid Enjoyable For Self Driving",
+      "excerpt": "The Renault Kwid is enjoyable for self-driving. It's a great vehicle for a very reasonable cost. If the rear had power windows as an option, it would be more popular. The service centres also provide excellent service facilities. The construction could be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm",
+      "originalUrl": "https://www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stimg.cardekho.com/images/car-images/large/Renault/KWID/10081/1683289765088/front-left-side-47.jpg",
+          "width": 500,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm?amp=1",
+      "cdnAmpWebUrl": "https://www-cardekho-com.cdn.ampproject.org/c/s/www.cardekho.com/user-review/renault-kwid/kwid-enjoyable-for-self-driving-257657.htm?amp=1",
+      "publishedDateTime": "2023-07-25T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CarDekho",
+        "domain": "cardekho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-artificial-intelligence-helps-to-make-roads-safer-help-law-enforcement.md",
       "title": "Artificial intelligence helps to make roads safer, help law enforcement",
       "excerpt": "In Georgia and South Carolina, artificial intelligence is working to make the roads safer while also helping local law enforcement agencies.",
@@ -107,7 +150,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -362,7 +405,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1347,49 +1390,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-artificial-intelligence-learning-check-how-ai-can-help-you-crack-govt-exams-2023.md",
-      "title": "Artificial Intelligence Learning: Check How AI Can Help You Crack Govt Exams 2023",
-      "excerpt": "AI can create personalized learning plans for each student, based on their strengths and weaknesses. This can help students to learn more effectively and efficiently. AI-powered platforms can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "originalUrl": "https://www.jagranjosh.com/articles/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com//images/2022/May/2752022/Archana-Shandilya.jpeg",
-          "width": 630,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/articles/amp/ai-learning-how-artificial-intelligence-can-help-you-crack-govt-exams-2023-1688973877-1",
-      "publishedDateTime": "2023-07-13T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

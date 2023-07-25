@@ -2,6 +2,597 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2023-05-01-meet-7-healthcare-robotics-startups-at-robotics-summit-expo.md",
+      "title": "Meet 7 healthcare robotics startups at Robotics Summit & Expo",
+      "excerpt": "During a session at the Robotics Summit & Expo, which is held at the Boston Convention Center from May 10-11, attendees will hear pitches from the following seven healthcare robotics startups currently in the catalyst program: Able Human Motion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
+      "originalUrl": "https://www.therobotreport.com/meet-7-healthcare-robotics-startups-at-robotics-summit-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/04/healthcare-robotics-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-taylor-swift-ai-and-the-copyright-conundrum.md",
+      "title": "Taylor Swift, AI and the copyright conundrum",
+      "excerpt": "Ashley Moore, Annelise Raymond Alam and Enrico Trevisani of Michelman & Robinson LLP examine some of the novel issues surrounding AI and copyright such as when works are created by machines in response to an individual's creative input.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/taylor-swift-ai-copyright-conundrum-2023-05-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/f2mseeVk8wb7sZxOq-hglzcWT7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B3N7RTBJUNKBPNJOPMPEFW35G4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-what-policymakers-need-to-know-about-foundation-models.md",
+      "title": "What policymakers need to know about foundation models",
+      "excerpt": "The newest wave of AI is attributable to what are called foundation models. The benefits are high, but so are the concerns. Here's what policymakers can do.\nThe post What policymakers need to know about foundation models appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-policymakers-need-to-know-about-foundation-models/",
+      "originalUrl": "https://www.ibm.com/blog/what-policymakers-need-to-know-about-foundation-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IMG_5919.png",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-lithography-free-photonic-chip-offers-speed-and-accuracy-for-artificial-intelligence.md",
+      "title": "Lithography-free photonic chip offers speed and accuracy for artificial intelligence",
+      "excerpt": "Photonic chips have revolutionized data-heavy technologies. On their own or in concert with traditional electronic circuits, these laser-powered devices send and process information at the speed of light,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.html",
+      "originalUrl": "https://phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/lithography-free-photo.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-lithography-free-photonic-chip-accuracy-artificial.amp",
+      "publishedDateTime": "2023-05-01T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates.md",
+      "title": "Oracle Making AI For Business A Reality With Latest Fusion HCM And SCM Updates",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into his conversation with Steve Miranda, executive vice president of Oracle applications development, in what has become a regular quarterly discussion about what is new in Oracle Fusion Applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644fc92e311b61453fad4710/0x0.jpg?format=jpg&width=1200",
+          "width": 897,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/01/oracle-making-ai-for-business-a-reality-with-latest-fusion-hcm-and-scm-updates/amp/",
+      "publishedDateTime": "2023-05-01T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-how-generative-ai-can-affect-your-business-data-privacy.md",
+      "title": "How Generative AI Can Affect Your Business’ Data Privacy",
+      "excerpt": "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f2bb5a705a07e1687440a6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "publishedDateTime": "2023-05-01T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-who-do-you-trust-with-ai.md",
+      "title": "Who Do You Trust With AI?",
+      "excerpt": "One question for Andy Kessler.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-kill-switch-adc98d5c",
+      "originalUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-kill-switch-adc98d5c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-773022/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-analytixinsight-reports-2022-financial-results-provides-corporate-update-and-reports-marketwall-q1-2023-record-financial-results.md",
+      "title": "AnalytixInsight Reports 2022 Financial Results, Provides Corporate Update and Reports MarketWall Q1 2023 Record Financial Results",
+      "excerpt": "InvestoPro momentum is now building and MarketWall has posted record breaking financial results for the first quarter of 2023 on the back of the new recurring revenue license agreement with our bank partner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic.md",
+      "title": "How to optimize Google Cloud Platform cloud costs with IBM Turbonomic",
+      "excerpt": "A close look at how IBM Turbonomic helps customers optimize their GCP cloud costs.\nThe post How to optimize Google Cloud Platform cloud costs with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:49:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
+      "title": "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review",
+      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentucky.com/press-releases/article274911516.html",
+      "originalUrl": "https://www.kentucky.com/press-releases/article274911516.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lexington Herald Leader",
+        "domain": "kentucky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud.md",
+      "title": "AI lessons from healthcare: Overcoming complexity and embracing the cloud",
+      "excerpt": "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain.md",
+      "title": "EMOTIV Enlists Two Machine Learning Heavyweights as AI Takes Aim at the Human Brain",
+      "excerpt": "Dr. Flake has been appointed CTO for EMOTIV after helming R&D teams for large technology companies across two decades. Author of the seminal book, The Computational Beauty of Nature, he earned renown as a scientist in academic and research circles before applying his knowledge within the commercial sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-backlash-against-ai-supermodels-triggers-wider-fears-in-fashion-workforce.md",
+      "title": "Backlash against AI supermodels triggers wider fears in fashion workforce",
+      "excerpt": "Anxiety about tech displacing humans is common in many industries undergoing change. But in the fashion world, those worries are colliding with other long-running labor concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/ai-models-levis-controversy-backlash-rcna77280",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/ai-models-levis-controversy-backlash-rcna77280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230405-ai-clothing-models-le-1546-e12281.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna77280",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77280",
+      "publishedDateTime": "2023-05-01T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-is-artificial-intelligence-relevant-to-insurance.md",
       "title": "Is Artificial Intelligence relevant to Insurance?",
       "excerpt": "Discover the benefits and challenges the insurance industry is facing with the growing use of artificial intelligence (AI).\nThe post Is Artificial Intelligence relevant to Insurance? appeared first on IBM Blog.\n",
@@ -576,625 +1167,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure.md",
-      "title": "ISC 2023: Experience the power of HPC in the cloud with Microsoft Azure",
-      "excerpt": "The ISC High-Performance Event (ISC), formerly known as International Supercomputing Conference, is one of the most important events in the high-performance computing (HPC) industry, bringing together some of the world's most prominent researchers, developers, vendors, and users to discuss the latest",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
-      "originalUrl": "https://azure.microsoft.com/blog/isc-2023-experience-the-power-of-hpc-in-the-cloud-with-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/160d39f8-fece-4aab-9912-c9586177de23.jpg",
-          "width": 251,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-01T01:00:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-scientist-noted-dangers-of-ai-in-book-published-shortly-after-his-death.md",
-      "title": "Scientist noted dangers of AI in book published shortly after his death",
-      "excerpt": "British theoretical physicist Stephen Hawking warned of the dangers associated with artificial intelligence before his death in 2018, arguing it could end the human race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
-      "originalUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/85de4b00-0416-472d-91f9-ffcfce5d8d54/0105d7a6-9949-4445-8855-e8e997bbb454/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/flashback-stephen-hawking-warned-ai-end-human-race-years-leading-death.amp",
-      "publishedDateTime": "2023-04-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-students-use-ai-technology-to-find-new-brain-tumor-therapy-targets-with-a-goal-of-fighting-disease-faster.md",
-      "title": "Students use AI technology to find new brain tumor therapy targets — with a goal of fighting disease faster",
-      "excerpt": "Two high-school students partnered with Insilico Medicine, a Hong Kong-based medical tech company, to identify new target genes linked to glioblastoma and aging. Fox News Digital spoke to them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
-      "originalUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81ed2050-d425-4054-9746-8b8f6b6b3cd5/5bc734cb-7e3e-4509-b8f9-fc93215ffd49/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/students-use-ai-technology-find-brain-tumor-therapy-targets-goal-fighting-disease-faster.amp",
-      "publishedDateTime": "2023-04-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef.md",
-      "title": "Indian job market to grow 22 pc in 5 yrs; AI, machine learning among top roles: WEF",
-      "excerpt": "Top roles for industry transformation in India would be AI (artificial intelligence) and machine learning specialists, and data analysts and scientists, the report added.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef-11682918466324.html",
-      "originalUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef-11682918466324.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/05/01/600x338/jobs_1682919526138_1682919526484.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/indian-job-market-to-grow-22-pc-in-5-yrs-ai-machine-learning-among-top-roles-wef/amp-11682918466324.html",
-      "publishedDateTime": "2023-04-30T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-metas-ai-is-partially-trained-on-breitbart-and-russia-today-study-finds.md",
-      "title": "Meta's AI Is Partially Trained on Breitbart and Russia Today, Study Finds",
-      "excerpt": "AI is sophisticated, but it’s not really intelligent ... language Wikipedia and other web documents. According to the research paper released alongside LLaMA, 15% of its pre-training data ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-bard-google-facebook-trained-on-breitbart-rt-1850352405",
-      "originalUrl": "https://gizmodo.com/ai-bard-google-facebook-trained-on-breitbart-rt-1850352405",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/275d7e1f8b71cbb3d8ce748ccbcef684.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism.md",
-      "title": "Yann Le Cun, director at Meta: 'The very idea of wanting to slow down AI research is akin to a new form of obscurantism'",
-      "excerpt": "There, he created the FAIR (Facebook Artificial Intelligence Research) research lab. The author of Quand la machine apprend (\"When the Machine Learns\") was awarded the 2018 Turing Award ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lemonde.fr/en/opinion/article/2023/04/28/yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism_6024729_23.html",
-      "originalUrl": "https://www.lemonde.fr/en/opinion/article/2023/04/28/yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism_6024729_23.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Monde.fr",
-        "domain": "lemonde.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-ai-generated-music-growing-exponentially-sparking-debate.md",
-      "title": "AI-generated music growing exponentially, sparking debate",
-      "excerpt": "An anonymous creator used artificial intelligence to create a song with Drake and The Weeknd’s voices, fueling AI’s first real viral hit, “Heart on my Sleeve.” NBC News’ Steve Patterson gets a closer look at how AI music is created.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682898379260_nn_spa_musics_new_ai_frontier_230430_1920x1080-9iile5.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171959877938",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171959877938",
-      "publishedDateTime": "2023-04-30T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution.md",
-      "title": "We must perfect predictive models for generative AI to deliver on the AI revolution",
-      "excerpt": "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "originalUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-04-30T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt.md",
-      "title": "Board Directors And C-Suite Executives Need An AI Digital Literacy Jolt",
-      "excerpt": "This article summarizes a series of articles on ChatGPT to help advance board directors and c-level leaders understanding of AI in particular, generative AI like OpenAI's ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644ed0207cdeacee53ba8cab/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
-      "publishedDateTime": "2023-04-30T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-machine-learning-and-data-sciences-for-financial-markets.md",
-      "title": "Machine Learning and Data Sciences for Financial Markets",
-      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
-      "originalUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cambridge.org/97813165/16195/large_cover/9781316516195i.jpg",
-          "width": 451,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-two-healthy-babies-conceived-by-a-sperm-injecting-robot-that-is-controlled-by-a-playstation-5-controller-are-born-in-spain.md",
-      "title": "Two healthy babies conceived by a sperm-injecting robot that is controlled by a PlayStation 5 controller are born in Spain",
-      "excerpt": "Two babies have been born after a robot guided by a Playstation 5 controller fertilised human eggs. The procedure, completed in Barcelona, involved student engineer Eduard Alba manoeuvring a tiny ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/30/15/70405427-0-image-a-20_1682865620945.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "publishedDateTime": "2023-04-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-ai-winners-arent-who-you-think.md",
-      "title": "AI Winners Aren't Who You Think",
-      "excerpt": "Artificial intelligence is the biggest buzzword on the market today, and there are a lot of ways to invest in this area of growth. But the biggest winners dominating the discussion today might not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/30/ai-winners-arent-who-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729429/chatgpt-keyboard.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-how-are-educators-reacting-to-chat-gpt.md",
-      "title": "How Are Educators Reacting To Chat GPT?",
-      "excerpt": "ChatGPT has the opportunity to innovate how education is accessed, as well as could have severe consequences on student’s critical thinking skill development This blog will explore some of the views,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644c002dcb6000c95bf1e352/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/how-are-educators-reacting-to-chat-gpt/amp/",
-      "publishedDateTime": "2023-04-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

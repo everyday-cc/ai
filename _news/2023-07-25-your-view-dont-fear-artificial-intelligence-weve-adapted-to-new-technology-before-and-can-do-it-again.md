@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-25T11:33:00Z
 originalUrl: "https://www.mcall.com/2023/07/25/your-view-dont-fear-artificial-intelligence/"
 webUrl: "https://www.mcall.com/2023/07/25/your-view-dont-fear-artificial-intelligence/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.mcall.com/wp-content/uploads/2023/07/TMC-Z-Hollywood-Strikes_120793921.jpg?w=1024&#038;h=683"

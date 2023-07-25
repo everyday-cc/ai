@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
-excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla"
+excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
 publishedDateTime: 2023-07-24T17:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33350820/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350820/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-ampWebUrl: "https://www.benzinga.com/amp/content/33350820"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33350820"
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
@@ -19,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Tesla plans to license its Full Self-Driving system to other automakers"
@@ -201,6 +193,6 @@ related:
         height: 3111
         isCached: true
 
-secured: "IhIt7xuQJWYH4O/t/yP19uIS6VxrXEAwFC/oHZ+ECiL5LLS/RYMAylo5sI8uxY8EeJGBxohV7nVMD/N4KmbBgKTdJPAUvwlvCMMcsuzine8UhqzpRMav+6Il4HmXJnwpsHCARIeIuezeonrKldNkOU09Vtdtry1smw2janFOthCm+9as2BGDDtcX8HAXCFmrNvkO7Cn1+9yMbR8IPmr6PbaajkqFBaAc55FT/S2q3awrqGTsZZnuDmy/0b7VvIFFIX+x3h9gLXC0AP1A8achuQQrO6s3or9UDPMim78HjWnAj9ewoNbHsjq9L6Nd18i5thokdvlPQkBqjbJ96k0i4CziAHIYgToI9I8m+/zeu50=;wZ0H6bhsAN0GWzWArmaAAQ=="
+secured: "SotlJUKPhSHP4BrODBosBiPZz9KvXxODgrQ/aWuvcdPlYlboaTfXt0GzEQtqTtG12xJl5StyA5/Iog8HCuxW/VNOWQTzqznZuePOB8vgF/2bwANjt3yroiJPtWbIhVD6am2S2KvvpqI77CkW9XNvqo+maRuzsgsfiu6MaMYyFZMZf+BTrgNpP6ZdhfJ5qyFbv1Qp7Sii29TRKT0Qlq9XAeORW6TCAvbK9u3jFVpPsNtI9JPPrg+O489XQZCd76Rd5nlPb+5123rm1q/ukSKjKPDZoaFrFbhgN22HmGizBHnNTALI9oSmbX40POg2BRW4wFSnI7m0IXJvntzIE8A9HklUinKIJtzi/7ZMshQ2DM4=;6OpJcBcCp20MY99rjWTCMw=="
 ---
 

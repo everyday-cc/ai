@@ -35,20 +35,15 @@ related:
         width: 880
         height: 632
         isCached: true
-  - title: "Facial recognition helps ID whales and dolphins"
-    excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."
-    publishedDateTime: 2023-07-24T16:41:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2023/07/facial-recognition-helps-id-whales-and-dolphins/"
+  - title: "The Download: AI transparency, and Twitter’s transformation"
+    excerpt: "By allowing the wider AI community to download the model and tweak it, Meta could help to make it safer and more efficient. And crucially, it could demonstrate the benefits of transparency over secrecy when it comes to the inner workings of AI models—at a point when that could not be more timely, or more important. Read the full story."
+    publishedDateTime: 2023-07-25T12:11:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/25/1076701/the-download-ai-transparency-and-twitters-transformation/"
     type: article
     provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2023/07/24062558/os-dolphin-facial-id-.jpg"
-        width: 600
-        height: 338
-        isCached: true
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "RYjRu8FjYWgCO9WAKTUP4oJvqqUMlSyVDVk2JeU/kQ5mhlnZ/NkgSwMfX4XwqEK/0Y2LrO4lj2bw3H4/JZF4cf5grFbUSme3ijZy502etMRnlUQG0SNAzSoilW4xBOD3lJ6PGfDaoycGrhX5J+ohqr7tGRCQqTeLnUXHZ9IxUph3YSDCl5I4wQU2+K6C/MIPZ+NN/0ri6fqS/FL+FRnmSAQJg/PqMLBZVjgAxlZdI+2c3LAzB5Co/xzH1tXeWxo6gXmWyFAZUyZjO1A2oLkDpzXEOxrK8zX9tiEDr9tRf5RgrOBOZk5YnJr5n9bWz3XKj6LexMMcRaD7C7TdjuWDjOmASWgqSjlviusyRuHMP+qGvncADqx0IHS8gAUHzBjAsuSTESd6nCHf2Zt26BbRERJ7uzhcrgcE9udcW+YSy8WWcqwTQnI/nxBj7ALMRS0XU3DV0KbWs20oELg9ZdLdD4F4ZLdZ3vRjNNfmMKh8MnJEBJnV6NqJxj3tvHRJzm483fV7tqyT8AqTspO0ddaZOA==;HMxMU1pMH08WlJ3L+Y5xjg=="
 ---

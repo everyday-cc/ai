@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/you-can-now-chat-with-a-famous-ai-ch
 webUrl: "https://www.zdnet.com/article/you-can-now-chat-with-a-famous-ai-character-on-viber-heres-how/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,59 +21,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "How to spot an AI cheater"
-    excerpt: "Students, lawyers and others are passing off writing drafted by artificial intelligence as their own. How to spot it?"
-    publishedDateTime: 2023-07-20T23:00:00Z
-    webUrl: "https://www.bbc.com/future/article/20230720-how-to-spot-an-ai-cheater-artificial-intelligence-large-language-models"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0g1y6pc.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
-    publishedDateTime: 2023-07-22T07:40:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 54
-    images:
-      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "5 Moonshot AI Stocks to Buy Immediately"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
-    publishedDateTime: 2023-07-24T15:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-moonshot-ai-stocks-to-buy-immediately-1032470917"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Google’s Termination of ex-AI Engineer Chatterjee Sparks Diversity Concerns In AI Research Team"
-    excerpt: "Amid mounting concerns over diversity and inclusion within the tech industry, Google faces yet another whistleblower lawsuit by an ex-employee. Satrajit Chatterjee, a former senior engineering manager at the tech giant,"
-    publishedDateTime: 2023-07-21T05:24:00Z
-    webUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-team/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 27
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-21_09-43-54.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "+YOr+edgjs2zEzt7of+xSZ11GJPhCHUwM8zxPIG/gu2e7HreHhk7g3Vxzrgbj7BsOh2F0dEMRSsRc06puYAw4Fk98wTgvCaETGnXTYfTzcuWLjsJ+Yv1ut+LX+FLw3BqH/OisuNLqscQ8u7C4GxEc6zo3Z2sbmPHqZSf+MdRSpvJ14MImBTbeApgIkIPWBA1Xe7EcUMFYMNV1iw9tChDWIVs3aW85VUhhC5w7WEcSvkkePi/5qTKUate0GnkxMKiPNIrBsamvU6e+zCxIucE+RtICDhIyzI/WVFGCxADkSQ+rWHCfEVZc3dODQgcUHoKQLfTnpyecK66wz4UAO74MXpZWwho4qyNCI2PmJ70SvvlmQGOVvjlzE7u/4hMWKwcRgh0JIrqJanosCy4q8lLgthH2CpEjyeBv6nSFFBLg7OVb2c21Xm7JuIKnWuBn9+Y29kzUnPe0MkB3lGHzfHc8JmRRCmYWi1Z9k+usVvdKyDapvJbSiFoAzURExFCyGgwUo7DzWj3JRXtzG9spkkP+Q==;fduq5vp2SnRTg0I7B/E21g=="
 ---

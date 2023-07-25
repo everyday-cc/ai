@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition helps ID whales and dolphins"
-    excerpt: "The Maui News A new tool that uses facial recognition technology to identify individual whales and dolphins in the wild across 24 species will help management and conservation efforts for marine mammals in Hawaii."
-    publishedDateTime: 2023-07-24T16:41:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2023/07/facial-recognition-helps-id-whales-and-dolphins/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2023/07/24062558/os-dolphin-facial-id-.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "The Download: digital dollars, and AI guidelines"
     excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the digital dollar dead? In 2020, digital currencies were one of the hottest topics in town."
     publishedDateTime: 2023-07-21T12:10:00Z
@@ -50,6 +36,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "The Download: AI transparency, and Twitter’s transformation"
+    excerpt: "By allowing the wider AI community to download the model and tweak it, Meta could help to make it safer and more efficient. And crucially, it could demonstrate the benefits of transparency over secrecy when it comes to the inner workings of AI models—at a point when that could not be more timely, or more important. Read the full story."
+    publishedDateTime: 2023-07-25T12:11:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/25/1076701/the-download-ai-transparency-and-twitters-transformation/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "0K2Ff/AfZFK1sldiWVjhKsAKzIvAnOJnPLc9nliQcB80KFehRP3DqXLxD9ZgNsV0feCMvCAuxmPeLA01zuhZPqiRxoKS5+mtBhf0RzJXpfad+LYdAO/7pBZdeo9pu2rTG3ic9j4nV3x/8RfVEbSo2BQOqacCxe/8J3sEawllrmoWxkdkVBkm41jpaBj1boZGpd7SKtrlm5DarTXNf8myc4KVzoYwhpylMcrrpSNxfyZBKgqH68+zSOsh52TfH8JwAsnSIKFIaNKUNjCHt2PdOOUOshdVDq/rA2Yq8SU9CWHHzDuSY2yQrJ3OEha4i5aOXGohobnyXX0yt0Gq/Ph1sxxPEn8XossRtgm2agkMqKoi/EMmjUhhpm+Vf2uXJDi0w2lbLcR0d9YWbyX4txnyFq8+Hv+GwTgYUK4mmBHnb7voavYf6QkOKN8u81Ci4SS8YXv9a+Um3OSMQVO7L3IJD+eGBL2tytS8vEPvE1wqCDf7BqP8qLgUb6wrumMk196ppUThxasFzAi/RRDA7JUg2g==;d7gDrPMv0zvbyFtDJB1GBQ=="
 ---

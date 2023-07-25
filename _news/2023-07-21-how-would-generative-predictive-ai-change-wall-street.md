@@ -19,6 +19,24 @@ topics:
   - AI
 
 related:
+  - title: "Hypermodal AI Converges Predictive, Causal And Generative AI"
+    excerpt: "Hypermodal AI converges fact-based predictive AI, with causal AI insights with new generative AI capabilities."
+    publishedDateTime: 2023-07-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/07/25/hypermodal-ai-converges-predictive-causal-and-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Dynatrace taps hypermodal AI for faster application observability"
+    excerpt: "Application observability leader Dynatrace today expanded its Davis AI engine with new generative AI capabilities."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/dynatrace-taps-hypermodal-ai-for-faster-application-observability/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
     excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
     publishedDateTime: 2023-07-24T15:58:00Z

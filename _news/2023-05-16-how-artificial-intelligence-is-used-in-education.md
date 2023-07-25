@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Education
   - AI in Robotics
+  - Natural Language Processing
 
 related:
   - title: "Cheat Sheets For AI Information Overload"

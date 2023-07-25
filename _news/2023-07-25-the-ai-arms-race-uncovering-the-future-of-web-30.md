@@ -33,6 +33,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Threads Is the Latest Move in the AI Arms Race"
+    excerpt: "Mark Zuckerberg's choice to launch Meta's Threads app stands in stark contrast to Elon Musk’s recent moves to charge for data from X."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
 
 secured: "aaxKKPrhdo1Ajvwn2wYW5fCM1iOgKxlYq10BSwjuSYPFPVfIzIQCy2aNCZVvWMoGaI8kPFaaiRh6DGtvJtzTItK7F0s7z8+Ngil+mWeRrbTdp8YxVi/8nnuSIeWcY1l8JZ2TR6UH6kNakYDJbCm0hMsmhWNgT79qCiZNelNyJ3vhPH8VpSWBcjZyNzetXjN7W3tPrZvDR8zRUESpwg1+g+MtfzKGl3AT75IE14Vyb2WLmQZ99jPgWhDqVMrn4cXrgCsq3/CBiVkhr6lGobae70KbbfynfDYmbLlmHSicBmCeuC5YNwuOeqAXOpECOjvqEijMQ5fXnsDtJ2jgCdK3MhEuX5XQ1ZQza+h5txlUmyw=;rgA9CplCmAVdt2EyA2NIRA=="
 ---

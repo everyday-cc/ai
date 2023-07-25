@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "This Is Why Global Governments Are Scrambling To Regulate Artificial Intelligence"
     excerpt: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence The United Nation's Secretary-General Antonio Guterres just war"
     publishedDateTime: 2023-07-24T17:10:00Z

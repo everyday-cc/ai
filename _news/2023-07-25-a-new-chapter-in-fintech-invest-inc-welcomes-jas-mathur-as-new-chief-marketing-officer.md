@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-
 webUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-invest-inc-welcomes-jas-mathur-as-new-chief-marketing-officer/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI revolution in fintech: How India is leading the way"
-    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
-    publishedDateTime: 2023-07-21T08:21:00Z
-    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
   - title: "Women in fintech: innovating chargebacks with Monica Eaton"
     excerpt: "In response to the lack of female representation in fintech, Eaton established the LIFT: Elevating Women Through Mentorship programme, a free mentorship programme that seeks to bridge the gap between established women in the fintech industry, and those who are still trying to find their way."
     publishedDateTime: 2023-07-24T12:00:00Z

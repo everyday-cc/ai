@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Indias Think360 make top AI Fintech Companies List"
-excerpt: "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing."
-publishedDateTime: 2023-07-17T14:12:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
-webUrl: "https://news.webindia123.com/news/Articles/World/20230717/4099508.html"
+title: "India's Think360 make top AI Fintech Companies List"
+excerpt: "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1"
+publishedDateTime: 2023-07-17T01:56:00Z
+originalUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
+webUrl: "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "jiKzW0voiyVeRYptS08OTDILO05kDNQoctppE0uu0GxwvF9O1CNVq8v+i45Zqjz2tyAG+YKqgQu8GVjKqGAY8mxtXI0VAFvRWBP7QUa6Q/9bSu1qP3OY1yqif3FySZNB2zczNISbvClw9dyNEJdEIrcZHxwtZ/6ZddvS6bhfH6CE30PBOMBrR71vicdXnOUEMjkv0sMb5yHqqkufg8rBWQj9IZcifszzrU1pOj7mN6LNFSBWBb2AtR0QYUe5L4iFLnefG0wHynLYOB012etI9g4Ve6eDy1mgEJESd1X02EwT3AgtPncW+VHJlBMvuyMNVFsrPZO0TfaSeOPmiD1B2+k20T2alYqo64QcV8J7FXc=;rvx49ymmxNIVN+k8tfV6uA=="
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1689559558.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
+secured: "Hnio63oITmH+XROg7bltPdBURWhmaVWLh2/LOceByGg7JJlK10y5yaYog7Um5JE/yuxPuGcsoNKB/umTT4do+eQfLAv7WTxTpVyWTeSbA2M/KLLNPbkF2MmRNt/4urOfwNRPIlwpKWVFQpg+rJho6aKnao84vuJJRSU8o2qovvQViZC+JaPMQFYNUcdYU64S6qcY+bi90wDYqosUAwWqnRR/73TRBBcj0nv7PzxhW0n+CrFRCtdPSMvRVEr87aOHGopl/Nc+FQpaMLj4VijdnKzBgpi0SRpzoCouryaIDPZFANKdzL6L210nroENq05Or9sYmGfVjUNOrMbYWfbE9FyKt23h+vIFTRHpthwv1xk=;5IvJSnhcSIV9Rcztc/r+6A=="
 ---
 

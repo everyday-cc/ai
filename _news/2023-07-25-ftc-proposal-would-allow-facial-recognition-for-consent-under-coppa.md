@@ -24,31 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "FTC Seeks Comments on Facial Recognition Technology to Protect Preteens' Online Privacy"
-    excerpt: "The Federal Trade Commission is seeking comments on whether to approve a new facial recognition technology for websites and apps to obtain parental consent before collecting or using a preteen’s data under the FTC’s Children’s Online Privacy Protection Act Rule."
-    publishedDateTime: 2023-07-20T20:24:00Z
-    webUrl: "https://www.law.com/nationallawjournal/2023/07/20/ftc-seeks-comments-on-facial-recognition-technology-to-protect-preteens-online-privacy/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 31
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/398/2023/07/Facial-Recorgnition-AdobeStock-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "ESRB asks FTC to approve facial recognition age checker"
-    excerpt: "Sign up for the GI Daily here to get the biggest news straight to your inbox The ESRB has proposed that the FTC"
-    publishedDateTime: 2023-07-24T18:07:00Z
-    webUrl: "https://www.gamesindustry.biz/esrb-asks-ftc-to-approve-facial-recognition-age-checker"
-    type: article
-    provider:
-      name: GamesIndustry
-      domain: gamesindustry.biz
-    quality: 19
-
 secured: "U2II1BCiOj61q2aB0yZI/qgNSdoIIf1T81T4z51Bu28lUYk4wT995YmwMiSufHBbE+EKyWmzWlDzo1bVSG7GcnH76hHiKuOATqQ+swxjylERrMpDK/tchjkyhyemVaSqxUvzm+akLroQzDnNV5/peV/yZY30AgIKG9PV8E/Un5MzlTd5vh+9V09piKAl2C25CgQlqBHHB8XcHoV0mF5dogOx3OPUC9938+omJ3IlCXl89CxKpk3zW5JKfCv9QJ/z9ZvO9xytc9qYRDUUn95enpmOWZffvQorxtbTcwcjKCOnhxneL440oX+lwPdeQTauTljwggz3zugdk57dbemqFsz1+xZVskQWJ67GcybVyIo=;/BWRsoxfI/Hgj5LLpqOSJQ=="
 ---
 

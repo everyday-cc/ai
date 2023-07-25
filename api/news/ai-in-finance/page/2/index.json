@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-27-ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support.md",
+      "title": "Ramp's Acquisition Of Cohere.io Signals The Rise Of Generative AI In Customer Support",
+      "excerpt": "The finance automation platform Ramp has acquired Cohere.io, a generative AI startup focusing on Large Language Models ... credit cards and cost management in the financial technology (fintech) sector. The company was founded in 2019 by Eric Glyman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
+      "publishedDateTime": "2023-06-27T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-geox-partners-with-insurity-to-provide-pc-insurers-with-enhanced-risk-assessment-using-machine-vision-and-deep-learning-technology.md",
       "title": "GeoX Partners with Insurity to Provide P&C Insurers with Enhanced Risk Assessment Using Machine Vision and Deep Learning Technology",
       "excerpt": "From there, insurers can use the deep learning technology to accurately predict the properties ... For a limited time, Insurity is offering its customers discounted pricing for GeoX services. To learn more about Insurity’s partnership with GeoX and ...",
@@ -1294,41 +1347,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-07-machine-learning-and-data-sciences-for-financial-markets.md",
-      "title": "Machine Learning and Data Sciences for Financial Markets",
-      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
-      "originalUrl": "https://www.cambridge.org/us/universitypress/subjects/mathematics/mathematical-finance/machine-learning-and-data-sciences-financial-markets-guide-contemporary-practices?format=AR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-06T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

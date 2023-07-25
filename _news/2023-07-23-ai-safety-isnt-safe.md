@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "The future of workplace safety: What your business can do today"
+    excerpt: "Workplace safety is evolving rapidly with new technologies that are transforming how companies protect their employees. While physical security measures like barriers and gates remain critical safeguards,"
+    publishedDateTime: 2023-07-25T15:34:00Z
+    webUrl: "https://www.thehrdirector.com/business-news/ai/future-workplace-safety-business-can-today/"
+    type: article
+    provider:
+      name: theHRDIRECTOR
+      domain: thehrdirector.com
+    quality: 24
+    images:
+      - url: "https://www.thehrdirector.com/wp-content/uploads/2023/07/AI20-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "oJOD9xySdp1BrrPC0GJVFsBYjSHWe7vcjEPiTBDcSFVIR6bgRgxpOb3LXz814mLd/Ld8qkdSk0vUkDJChReLavMKbx67eSM/+ND/4+2EuEcfKu22ashHOu63fUmNk9M9VIALIexVBSKRrhLVRkJF333pCIUbkBj2XsP/z+/yYP4bRGF6m3inTH2rz1pSJ6XKRGpUa2JXiiSLFctgV/FbnTQIOU/XZfrsUl7OXuGZtcFNSW9bVMeeIfj/WmBf2XL1sVbz/gQBZcn1+pEhC5qYu0BySRBA9EClSantDaBV99fR8U0EVXO9r8uxgGFsycyElynqBA/FTRGcvDr5JgmqBEJiRq6QTobdWXLtlgPcAMLz8TZn0SQYnHvkDZ8PVFK3B+8mA8WFppsStatNCnyTx6Ak+wtjqL6arA1SSI/gtChaHaX5BCpEjpoGLDUbVTlY2kBNTDOKSfn6wU0xRBaG2g6onXKCS0+YGWw6NAOdbuD4NeQWJbcdn59CQFdQLMJjkbe0YU1IzS7SqKu+ZzqkUg==;48E9Fr7IwG02WGlKzRlmAw=="
 ---

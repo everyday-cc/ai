@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
         width: 620
         height: 372
-        isCached: true
-  - title: "How Hollywood Is Avoiding Robot Overlords"
-    excerpt: "If there’s one thing Hollywood people know about, it’s robot overlords. They all watched 2001: A Space Odyssey! They know what happens when robots run loose! In fact, it’s a part of what the guilds are attempting to avoid with the current SAG-AFTRA and WGA strikes."
-    publishedDateTime: 2023-07-20T21:49:00Z
-    webUrl: "https://www.vulture.com/article/ai-in-hollywood-strike-guild-demands.html"
-    type: article
-    provider:
-      name: Vulture
-      domain: vulture.com
-    quality: 39
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/cf9/afc/1eb99e58efefad2ed4c2af71bcf022c327-hal9000.rhorizontal.w700.jpg"
-        width: 700
-        height: 467
         isCached: true
   - title: "More or Less: Hollywood and AI. What IS Threads?"
     excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."

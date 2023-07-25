@@ -106,6 +106,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
+    excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.newsweek.com/moving-fast-breaking-thingshow-some-health-care-startups-are-putting-patients-risk-opinion-1814984"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 19
   - title: "Voice experiences ‘challenging week’ with polls showing Yes case slipping below majority"
     excerpt: "The Voice to Parliament has experienced another “challenging week” with polls now showing the Yes case slipping below majority, according to Sky News Political Editor Andrew Clennell. “The PM Anthony Albanese is regularly being asked now: Why not separate the questions?"
     publishedDateTime: 2023-07-22T23:29:00Z

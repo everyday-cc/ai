@@ -39,20 +39,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "Pentagon AI more ethical than adversaries’ because of ‘Judeo-Christian society,’ USAF general says"
-    excerpt: "The path to ethical AI is a “very important discussion” being held at DOD’s “very highest levels,” says service’s programs chief."
-    publishedDateTime: 2023-07-20T21:28:00Z
-    webUrl: "https://www.defenseone.com/technology/2023/07/pentagon-ai-more-ethical-adversaries-because-judeo-christian-society-usaf-general-says/388711/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 40
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2023/07/20/Screenshot_2023_07_20_at_5.22.31_PM/open-graph.png"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Air Force general says the country's 'Judeo-Christian' roots will help promote the military's ethical use of AI"
     excerpt: "An Air Force general spurred backlash this week when he asserted that the U.S. military can more ethically utilize artificial intelligence than other nations, citing “Judeo-Chrisitian” values."
     publishedDateTime: 2023-07-23T05:11:00Z

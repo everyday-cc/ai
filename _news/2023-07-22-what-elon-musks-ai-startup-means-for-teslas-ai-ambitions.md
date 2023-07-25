@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI"
+    excerpt: "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article."
+    publishedDateTime: 2023-07-25T14:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 77
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg"
+        width: 2314
+        height: 1296
+        isCached: true
 
 secured: "6mFrqn6/203wIs5Q1shVukYQEq3XXsZvrbM8eJlBJjI8NHF1nH57XfgOmJT8cI7+D3MUUhAkW2lmfeVz6QNQaGAe5Ht1bgJjYEUFzz0zJ7ivPzCjX3efNoJARv+qFLNrpzHcMpHokXswZZ/3T5IA8JW1O3AoSV3QsMqZ3kjRK7cJyd5WZD8kSeaLbuIPjppasNIXT6FBa71X9WVYi5T4RNyOSnLDX3Tm5mB5GDcueJ9acptdHS6Bfhl1Py5uoszb38y6CD5og12thjB1kuc/SyMucKNTfeX46aL3q+Vz2u41npjnMFD8KovKYZJ84oIRIFY+pgXMrrIOj1+w62OM3i2gGUTtjl0foptruYgknEv4YRdlcpMor4kntHUNs0SCx4inYY8fld6IM5V5Yn7Bq5zudi53LScTEnxer87gRwMfIho3JqDX6HoOhxju5wTokCkMCuHMieHPCON3R28dvVfQmThKv8MLIX1jLROr48lp+292mT2SeXQ0IMf6u7OVM90VG5qbPM2eWSmq9AIjkA==;Qo1XJ7sLyHjjfhgbXKj1Lg=="
 ---

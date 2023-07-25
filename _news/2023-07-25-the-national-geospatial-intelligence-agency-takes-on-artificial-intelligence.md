@@ -53,6 +53,15 @@ related:
         width: 1022
         height: 511
         isCached: true
+  - title: "Meta’s LLaMA 2 AI models available through Amazon SageMaker JumpStart"
+    excerpt: "AWS is now offering Meta's recently disclosed LLaMA 2 AI models through Amazon SageMaker JumpStart. This should make it easier for users to develop and"
+    publishedDateTime: 2023-07-25T12:56:00Z
+    webUrl: "https://www.techzine.eu/news/applications/109274/metas-llama-2-ai-models-available-through-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
 
 secured: "boRD8FmVh+P7+muKsEfVQbGmqwmz2eJLUDUVLVmKD9gGrlgfdbxa7sBQ0OpQV5yT85DkJGzhkaKUjbdBGqvtQ6BDTrrbzP4nOpU8Hf+oB70miKS11zDlIRTBN1QYBMGavi289oXyrZRSaQJY15bQJqJwKPL8Rh9x0XP3uD4gWiQKLJKJtC0rXawk+J2FLr2gDUtXt6GNc4gSUqsVmYRnNXhpBtY/CHtNohWksQTejmN/C6LEgD8ybI/FM3/J8taneuGoFe8g8ZFf/Vc9eQGiU8Alkj8NX3L3hg/L+bqAK8Daig4uzVtXvKqxYES0Z5j+8Dq7SULzCGaDojxOrshIsCj9HFSi2oDJbt6wfFgvSqU=;wvsaNm90tIcR2jearV7byA=="
 ---

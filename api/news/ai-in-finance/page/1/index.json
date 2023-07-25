@@ -10,7 +10,7 @@
       "originalUrl": "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-invest-inc-welcomes-jas-mathur-as-new-chief-marketing-officer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -238,25 +238,34 @@
     },
     {
       "path": "_news/2023-07-17-indias-think360-make-top-ai-fintech-companies-list.md",
-      "title": "Indias Think360 make top AI Fintech Companies List",
-      "excerpt": "Think360 AI which was founded in 2014 is a rapidly growing data science company, working at the intersection of data, technology, and operations, and focuses on creating innovative solutions using cutting-edge technologies, advanced analytics, artificial intelligence/machine learning, and cloud and mobile computing.",
+      "title": "India's Think360 make top AI Fintech Companies List",
+      "excerpt": "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/World/20230717/4099508.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/World/20230717/4099508.html",
+      "webUrl": "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list",
+      "originalUrl": "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1689559558.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T07:12:00-07:00",
+      "publishedDateTime": "2023-07-16T18:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -520,6 +529,41 @@
         "AWS AI",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks.md",
+      "title": "NETSCOUT Combines Leading Global Threat Intelligence With Machine Learning to Protect Enterprises From Rapidly Spreading Dynamic DDoS Attacks",
+      "excerpt": "Every enterprise is at grave risk today if they don’t deploy an effective DDoS solution on-premises to protect their network edge, internet-facing services ... of DDoS mitigation experience, and machine learning (ML) software intelligence to ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/netscout-combines-leading-global-threat-intelligence-with-machine-learning-to-protect-enterprises-from-rapidly-spreading-dynamic-ddos-attacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1346,59 +1390,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support.md",
-      "title": "Ramp's Acquisition Of Cohere.io Signals The Rise Of Generative AI In Customer Support",
-      "excerpt": "The finance automation platform Ramp has acquired Cohere.io, a generative AI startup focusing on Large Language Models ... credit cards and cost management in the financial technology (fintech) sector. The company was founded in 2019 by Eric Glyman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/649b205c8c6cb2e7546aa417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/06/27/ramps-acquisition-of-cohereio-signals-the-rise-of-generative-ai-in-customer-support/amp/",
-      "publishedDateTime": "2023-06-27T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

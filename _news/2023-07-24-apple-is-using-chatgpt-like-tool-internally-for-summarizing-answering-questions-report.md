@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/apple-using-chatgpt-like-tool-internally-s
 webUrl: "https://www.ibtimes.com/apple-using-chatgpt-like-tool-internally-summarizing-answering-questions-report-3706288"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 767
     isCached: true
-
-related:
-  - title: "Google Is Reportedly Testing an AI Tool That Can Write This Article"
-    excerpt: "Google has already shown its new Genesis tool to several of the nation's top news outlets and is positioning it as an assistant for journalists, The New York Times reports."
-    publishedDateTime: 2023-07-20T20:15:00Z
-    webUrl: "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03Vkml6DGAYaSTMqJh3hSxM-1.fit_lim.size_1200x630.v1689879397.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "rgDNAQgG7Ne7wTLeN1y+kaELB5mr+wHFmql6w4KCHYD5ITJO0Ndnqsz74SmcliDcZHG7rRSP9JZD1pOTNCP52dKiT5CAX4czjfGK8e6OXH3B02L/gYr7jDA0rcty++F3SWHVIC9KFW26Bef13HoY6kfKsT5s6rJzsWLlcHYx1T3EJ+TLDGkYp+xjkoLewseUowgmRrR+fi1y8sQLIDxc7FDcwlNYckkgTU6w3fK1FBCivoJnLaPEwt0ibNis87uykduRY9DVLfd3S+zRC7oasMx/VRja44Ap8HH3bndikAv6LSteqgR2Ch0Lejbt5kML127A7rY0JvcdNjbLE4V5xNQ8FxHzLPaSrfO+f9+76WUtZkTyhFMN1xuBvhtvMXKMwWlUNUlfZrhRG6Gbuh2yvVU0tY8LBuIPv229slhxapp0st3/NmW5CJEo1Z8j4SwfzmWG00xXE9MnxhiwUz0tWLaUKDjS70KXqZCZT/AP0wo3S0ppZGJAAGL/8Ch+CCupw/znfBuR2QWYpbhadX784Q==;LsZJ3g/q/uBhRKmxXAfmrw=="
 ---

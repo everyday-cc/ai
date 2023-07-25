@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
+    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
+    publishedDateTime: 2023-07-22T07:40:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 54
+    images:
+      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
     excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
     publishedDateTime: 2023-07-25T03:43:00Z
@@ -41,15 +55,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Finding game-changing superconductors with machine learning tools"
-    excerpt: "Superconductors—found in MRI machines, nuclear fusion reactors and magnetic-levitation trains—work by conducting electricity with no resistance at temperatures near absolute zero, or -459.67°F."
-    publishedDateTime: 2023-07-21T13:17:00Z
-    webUrl: "https://phys.org/news/2023-07-game-changing-superconductors-machine-tools.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "d5a6g/AgVpzeNzOFsE0Ixz0K5AJo7acfW8nFtE0VqQPBWWoogwPahOvO9cj50OwCAWxBXoGuUGlvJT00AHooBpBtjYKyox/dOpXsfal58iOWt91Uxckfo6w56P2WUzOGe3LEnMhFpvGC5jEJLtWGZWD1qheA2GngP2GTFfAL8tnLkPODr47Wj/Vw/+RFVIYIXiDcITSvHYOjptuFKb8Z9DFj6/oe0i1tG14XTxGHX7hpPi99I8vepOWU7nGVq2LtXqZPR6SsPEXm/YD0fARTdbwBXSOyQbJp36VvTZbYV8bt0KrHeLXSqQ/umFMhzddonH8TOtnUfZgPmyMYrAtCYuEFVDnkNYQGpzfaZlTRwytskPC0MnO2r9cwK3+z3KFR7ZqlS63QRAeorUQQbQ7gF2O6k+cofrKB3C4pBSQXZoUWXpTv1cTF5CUsprKQDvHbOVmHhEUrj253sx/XOjQ9tc/r1gywjniZU1n6hbpbYAXGzHgBAZTWxR6HA/QbBO7XwaRYdERbgdVFjbOfY9mpqg==;yYF11AnEAQxdbh4SrbOqQQ=="
 ---

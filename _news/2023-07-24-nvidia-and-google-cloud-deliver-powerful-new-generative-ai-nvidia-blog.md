@@ -24,6 +24,22 @@ images:
     height: 680
     isCached: true
 
+related:
+  - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
+    excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
+    publishedDateTime: 2023-07-25T14:18:00Z
+    webUrl: "https://siliconangle.com/2023/07/25/nvidias-dgx-cloud-platform-now-available-offering-instant-access-generative-ai-infrastructure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 25
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/NVIDIA-DGX-Cloud-Image.jpg"
+        width: 1260
+        height: 680
+        isCached: true
+
 secured: "C9FN0Qth3ymnvS95JMYXfJ6cQAR4QWBhkr63BtsMxLfcAPvHAzWXcZ6WT+9wwvkcLjO4mAy/j7PpCpcUwwQExlsm6wLwOO7bfv7XGNFGHmAHtE4xZ1ljgncyotKX8XwwB3vhuZCkMIirddnnyLfY4iBt1XE79x+rG1btpUzKm1QGC7Rc1AhgHA9FFlfhnN67D2O4NL2zBO8+Q2Q3ErBT4expRT/mPEybEyFwaNihTvZX0J4G4nwjAIcaY4hOvRTp6LTEzlqjjmHZiQyerrAsy/4l2Pt6GS0Eqf8tCwusKKJOIkPmEZTp2tmJNImLQTzPYWO7DibGehC1CzCFU9hTk8X4vLRwllZ6hto/uQEUlXw=;iF5Xg81Gh3tq9nsCQ22gDA=="
 ---
 

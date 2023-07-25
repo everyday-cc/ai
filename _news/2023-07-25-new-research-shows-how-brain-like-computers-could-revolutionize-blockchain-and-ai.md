@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI could revolutionize dentistry. Here's how."
-    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
-    publishedDateTime: 2023-07-21T18:36:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
   - title: "HIVE Crypto Miner Uses Ethereum Rigs and AI to Make Ordinals Art on Bitcoin’s Blockchain"
     excerpt: "HIVE Digital Technologies, a Canadian crypto miner has disclosed that it would be using Ordinals in one of its AI initiatives."
     publishedDateTime: 2023-07-22T17:10:00Z

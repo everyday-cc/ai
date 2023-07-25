@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
+    excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
+    publishedDateTime: 2023-07-25T08:42:00Z
+    webUrl: "https://www.computerweekly.com/news/366545652/Google-reveals-how-AI-and-machine-learning-are-shaping-its-sustainability-strategy"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 28
   - title: "How AI pressure is making companies rethink cloud use"
     excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
     publishedDateTime: 2023-07-24T12:19:00Z

@@ -2,6 +2,419 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-24-for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security.md",
+      "title": "For a short time only: Time-based restrictions for enhanced cloud security",
+      "excerpt": "Learn how to apply time-based restrictions on IBM Cloud with Terraform.\nThe post For a short time only: Time-based restrictions for enhanced cloud security appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
+      "originalUrl": "https://www.ibm.com/blog/for-a-short-time-only-time-based-restrictions-for-enhanced-cloud-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/07/91584999.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T03:26:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-will-artificial-intelligence-replace-human-insurance-brokers.md",
+      "title": "Will Artificial Intelligence Replace Human Insurance Brokers?",
+      "excerpt": "I firmly believe that AI is not here to replace human insurance brokers; rather, it is here to enhance their abilities and transform the way we work together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/",
+      "originalUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64be4ff608d1f9a072d98952/0x0.jpg?format=jpg&width=1200",
+          "width": 1070,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/julianteicke/2023/07/24/will-artificial-intelligence-replace-human-insurance-brokers/amp/",
+      "publishedDateTime": "2023-07-24T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-5g-ai-and-iot-the-dream-team-for-modern-manufacturing.md",
+      "title": "5G, AI And IoT: The Dream Team For Modern Manufacturing",
+      "excerpt": "The Internet of Things has dramatically improved output for manufacturers over the last decade. IoT enables systems to support connected assets, critical for smart manufacturing and connected logistics; it's no surprise then that Statista predicts there will be 22 billion connected IoT devices by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a2d0991429c251da8aa488/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/",
+      "publishedDateTime": "2023-07-24T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-1-self-driving-car-and-ai-stock-to-watch-in-the-second-half-of-2023.md",
+      "title": "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023",
+      "excerpt": "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740527/self-driving-car.jpg",
+          "width": 6000,
+          "height": 4002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-how-ai-will-impact-the-developer-experience.md",
+      "title": "How AI will impact the developer experience",
+      "excerpt": "Generative AI is not the first new technology that has changed how software developers work. While developers have nothing to fear, the stakes will be high for their employers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
+      "originalUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_460717630-100942990-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html",
+      "publishedDateTime": "2023-07-24T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-big-tech-looks-to-turn-the-corner-on-cloud-as-ai-focus-stays-strong.md",
+      "title": "Big Tech looks to turn the corner on cloud as AI focus stays strong",
+      "excerpt": "U.S. tech giants could signal an end to the nearly year-long slowdown in their cloud businesses as signs of economic resilience encourage clients to boost technology spending, while a pickup in digital ads will also aid profits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
+      "originalUrl": "https://www.reuters.com/technology/big-tech-looks-turn-corner-cloud-ai-focus-stays-strong-2023-07-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ewLC4o7nLyx4CUrytY_ReHjSlGw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FM7RJCQEZNLQJIDZKUKZSWKYCE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too.md",
+      "title": "Does ‘Buy American’ Policy Make Sense? The Answer Is Key for Your AI Portfolio Too",
+      "excerpt": "Economists point to the 1990s as evidence that the users of technology reap its benefits, not the makers. Economic growth around the world suggests otherwise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too-562825af",
+      "originalUrl": "https://www.wsj.com/articles/does-buy-american-policy-make-sense-the-answer-is-key-for-your-ai-portfolio-too-562825af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-821925/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity.md",
+      "title": "Utopia Or Dystopia? It’s Up To Us To Teach AI To Reflect The Best Of Humanity",
+      "excerpt": "Sairah Ashman explores what can brands do now to help mould a more utopian relationship with technology in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6621bee8922112c6a0e95/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sairahashman/2023/07/24/utopia-or-dystopia-its-up-to-us-to-teach-ai-to-reflect-the-best-of-humanity/amp/",
+      "publishedDateTime": "2023-07-24T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-ai-heart-scan-aims-to-catch-blockages-years-before-symptoms-unbelievable-breakthrough.md",
       "title": "AI heart scan aims to catch blockages years before symptoms: ‘Unbelievable breakthrough’",
       "excerpt": "Fountain Life offers an AI coronary artery scan that purports to detect heart attack risk 3, 5 or even 10 years before symptoms begin. The CEO explains the company's goals.",
@@ -112,7 +525,7 @@
       "originalUrl": "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -154,7 +567,7 @@
       "originalUrl": "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -257,7 +670,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -455,7 +868,7 @@
       "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -506,7 +919,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -599,6 +1012,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-in-ais-unlimited-potential-the-benefits-and-the-risks.md",
+      "title": "In AI’s unlimited potential, the benefits and the risks",
+      "excerpt": "DeepMind's AlphaFold breakthrough in 2020 accurately predicted 3D structures of proteins to atomic resolution, saving 1,000 million man-years. AI-based tools can now create music, poems, and manuscripts faster and better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/yi62r6/article67107471.ece/alternates/FREE_1200/IMG_3762337272_0a0da1f21_2_1_2PA3MR81.jpg",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece/amp/",
+      "publishedDateTime": "2023-07-22T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -757,64 +1213,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-22-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
-      "title": "AI-powered travel assistant touted as most powerful ever",
-      "excerpt": "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry.",
+      "path": "_news/2023-07-22-brain-on-a-chip-research-team-bags-grant-to-merge-brain-and-ai.md",
+      "title": "Brain on a Chip: Research team bags grant to merge brain and AI",
+      "excerpt": "This transformative project aims to grow human brain cells on silicon chips, creating remarkable capabilities in the realm of machine learning.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
-      "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/4d5e9f2b-0dd0-4d1f-83ea-ef3fa41a8f48/046da2a7-ef12-441f-9b74-6eee76b2fd20/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp",
-      "publishedDateTime": "2023-07-21T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-british-political-candidate-used-ai-to-build-policy-platform-to-create-meaningful-participation.md",
-      "title": "British political candidate used AI to build policy platform to create 'meaningful participation'",
-      "excerpt": "Andrew Gray used artificial intelligence to crowdsource his party platform, gauging interest and stances on various issues and finding points of agreement and gaps in consensus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
-      "originalUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation",
+      "webUrl": "https://interestingengineering.com/innovation/brain-on-a-chip",
+      "originalUrl": "https://interestingengineering.com/innovation/brain-on-a-chip",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fbcb2e8-ccec-4dac-ac6e-95f168587aaf/08252fc7-392e-4cfa-a4cf-84a1b110cfd6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/07/22/image/jpeg/3OZ6p46Khs3mWIlC1CvBjv22qTs7kVRuXt4op969.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -822,416 +1235,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/british-political-candidate-used-ai-build-policy-platform-could-create-meaningful-participation.amp",
-      "publishedDateTime": "2023-07-21T22:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T04:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-cybersecurity-in-the-era-of-ai-and-quantum.md",
-      "title": "Cybersecurity In The Era Of AI And Quantum",
-      "excerpt": "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/",
-      "publishedDateTime": "2023-07-21T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city.md",
-      "title": "How cops plan to use AI & facial recognition to curb crime in city",
-      "excerpt": "Noida: The police in Gautam Budh Nagar is set to roll out a Geospatial Data Intelligence Platform (GDIP), an artificial intelligence-powered crime dat.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/articleshow/102028588.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/articleshow/102028588.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-102029756,width-1070,height-580,imgsize-645787,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms",
-      "publishedDateTime": "2023-07-21T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-ais-impact-on-art-and-creators-ethical-and-legal-concerns-over-ownership-misinformation-and-more.md",
-      "title": "AI’s impact on art and creators: Ethical and legal concerns over ownership, misinformation, and more",
-      "excerpt": "The ethical and legal implications surrounding the rapid rise of artificial intelligence and generative AI tools such as ChatGPT are sure to impact companies, consumers and courtrooms in the coming… R",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ais-impact-on-art-and-creators-ethical-and-legal-concerns-over-ownership-misinformation-and-more/",
-      "originalUrl": "https://www.geekwire.com/2023/ais-impact-on-art-and-creators-ethical-and-legal-concerns-over-ownership-misinformation-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/07/bigstock-Ai-Technology-Artificial-Inte-470953355.jpg",
-          "width": 710,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-seven-ai-companies-agree-to-safeguards-in-the-us.md",
-      "title": "Seven AI companies agree to safeguards in the US",
-      "excerpt": "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66271429",
-      "originalUrl": "https://www.bbc.com/news/technology-66271429",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 387,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66271429.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp",
-      "publishedDateTime": "2023-07-21T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-brian-cox-warns-of-a-scary-future-where-theres-an-ai-brian-cox.md",
-      "title": "Brian Cox Warns Of A 'Scary' Future Where There's An AI Brian Cox",
-      "excerpt": "The \"Succession\" star gave a fiery Logan Roy-esque speech at a London rally in support of the SAG-AFTRA and WGA strikes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
-      "originalUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/64bababa2600003700a36acc.jpeg?cache=9oJT8EzIIC&ops=1200_630",
-          "width": 1198,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp",
-      "publishedDateTime": "2023-07-21T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities.md",
-      "title": "Analyze rodent infestation using Amazon SageMaker geospatial capabilities",
-      "excerpt": "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/ML-13593-image001-1103x630.png",
-          "width": 1103,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:29:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-biden-delivers-remarks-on-artificial-intelligence.md",
-      "title": "Biden Delivers Remarks on Artificial Intelligence",
-      "excerpt": "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
-      "originalUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-biden-ai-fqmp/21dc-biden-ai-fqmp-facebookJumbo.jpg?video-overlay?video-overlay",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-musk-says-tesla-would-buy-more-nvidia-ai-chips-if-only-nvidia-had-enough-of-them.md",
-      "title": "Musk Says Tesla Would Buy More Nvidia AI Chips, If Only Nvidia Had Enough of Them",
-      "excerpt": "Later in the call, Musk expanded on those comments, doling out praise for Nvidia and its co-founder and CEO Jensen Huang:",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1241,8 +1252,7 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     }
   ],
