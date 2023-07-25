@@ -21,34 +21,28 @@ topics:
   - AI
 
 related:
-  - title: "The 'yes' and 'no' campaigners reveal their case on Voice referendum to Parliament"
-    excerpt: "It said voting yes was about recognition of indigenous Australians ... The Yes pamphlet also included support for Voice from Indigenous sports icons, including Johnathan Thurston, Eddie Betts, and Evonne Goolagong Cawley. The No pamphlet, written by ..."
-    publishedDateTime: 2023-07-21T03:52:00Z
-    webUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/kampanye-ya-dan-tidak-mengungkap-kasus-mereka-tentang-referendum-suara-ke-parlemen/wqlmpabim"
+  - title: "Indigenous voice to parliament late-year poll ‘to harmonise voice’"
+    excerpt: "Conservative Yes campaigner Greg Craven says it would be sensible for Anthony Albanese to push the referendum as far as he can to mid-November or early December in the hope voice ­advocates can claw back support and the millions of dollars in ­donations can have the greatest impact."
+    publishedDateTime: 2023-07-25T05:59:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-lateyear-poll-to-harmonise-voice/news-story/88305f2205553ee7666a8a6490ffc0de?amp"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 33
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/f35ea41/2147483647/strip/true/crop/800x450+0+42/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5d%2Fd8%2F1d4c9184453a880c2e98b4a5b9f5%2Fthe-yes-and-no-camps-have-submitted-their-cases-on-the-voice-to-parliament-referendum-aap-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why voters are in for a wild ride on the Voice"
-    excerpt: "Anthony Albanese plans an election campaign-style blitz to win over Australians on Indigenous constitutional recognition."
-    publishedDateTime: 2023-07-21T01:19:00Z
-    webUrl: "https://www.afr.com/politics/federal/why-voters-are-in-for-a-wild-ride-on-the-voice-20230719-p5dpju"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
+      name: The Australian
+      domain: theaustralian.com.au
     quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.9415%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_165/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/fa20c0930a974b181864aebe0d1a612c53688ec6"
-        width: 1200
-        height: 628
-        isCached: true
+  - title: "Indigenous voice to parliament supporters say Anthony Albanese shouldn’t delay referendum"
+    excerpt: "Voice co-architect and senior Australian of the Year Tom Calma says the referendum must be held this year and a delay will not change the will of the people, as Anthony Albanese is told to “go the course” by Yes advocates."
+    publishedDateTime: 2023-07-23T11:33:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-supporters-say-anthony-albanese-shouldnt-delay-referendum/news-story/497358d2b83539d3e0b64ede619902a9?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 15
 
 secured: "q3lS6Qkotq0727tWmnpn5XRolvI1m8AoksdA0oaiHg4P3tkVW2vR9awnWWGAK67WYhzBLx0qH7Kyyl/8m2gg4m6AX5k1Nv0OUc5ad1I58M/+ixGeCMXmslnLfULwS+FD9dsDaATUcZjddEfF7jrHThFRpQkByNV61yFobrqzxX93rSCW8Xj5SLrUI+q1UVD2H6XxHJjYtG+p4pOiXxbJrTPBbSvC8MT+pAt3pBIPFpqEadknIeNgbZAT8rFwsd6Ji7JUWg0wITbEi7cqyxeKCzJ2tidSHMO9g7GFsP+SCmKsWtKbO4wO2aiOkWw9py5kWG5ZDI3BoEyc7KSiZrAzqMWlLYsJPssPlm2k1Lq8PqPWOcdh5PI2lSBRgOrHhdxeFA1S//VTC6/LFtHtjH5+Ly0U6Ejh9HFsB0madKAJCcoFulUrnW1EVMu5ScaAhE88Jw/i61W83f+fRHhdB2no4nOTACsbtGvzIco/uSvHTxWEzgr497nDLRNOZ3KEBG0OFCdfqBZ7SV+zzv1rDbOBgA==;VLqoKPn61b4ut0v8CEe52A=="
 ---

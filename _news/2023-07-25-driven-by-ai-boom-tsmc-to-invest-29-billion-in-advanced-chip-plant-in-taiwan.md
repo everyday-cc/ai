@@ -85,20 +85,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Foreign investors stream into Taiwan as AI stocks beckon"
-    excerpt: "Investors are putting aside geopolitical tensions to pile in to Taiwan stocks, with foreign inflows the biggest in years, thanks to soaring artificial intelligence and chipmaking stocks."
-    publishedDateTime: 2023-07-21T03:28:00Z
-    webUrl: "https://www.reuters.com/markets/asia/foreign-investors-stream-into-taiwan-ai-stocks-beckon-2023-07-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/_eCf29fkfX-LRf38ldnRFQocE68=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HYQUU3VOVFO6HBGHIUS3OZK5WM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "TSMC to invest $2.9bn in advanced packaging plant for AI chips"
     excerpt: "TAIPEI -- Taiwan Semiconductor Manufacturing Co. will invest 90 billion New Taiwan dollars ($2.87 billion) to build a plant in western Taiwan that handles advanced packaging of high-performance semiconductors necessary for generative artificial intelligence."
     publishedDateTime: 2023-07-25T15:31:00Z

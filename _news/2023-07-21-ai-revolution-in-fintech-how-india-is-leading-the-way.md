@@ -99,6 +99,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI-generated anchors are making headlines in India"
+    excerpt: "Meet Lisa, a multilingual chatbot who reads the news headlines in India. What, you don't care for her monotone voice? Change the channel! Sana is the other network's AI-generated news anchor."
+    publishedDateTime: 2023-07-25T18:27:00Z
+    webUrl: "https://www.zdnet.com/article/ai-generated-anchors-are-making-headlines-in-india/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "HQG1MPnTot+hUu5gmpmg0ukriFSf2CTIsshy2JMoG7m3bG55VcFSb046zyA1sSgIjP62CK/JASub2AIzEm5sekuOeGIg+71JgmQ+IJwxYuVy/kRQ652kAFihBTbC617l1bwKUx/bRtuyAAc+6cuS+oa+GUmCT1qsdQA0EI5YLn4Fgxq9dUbFN3phdRlWumNuniW/hbY6CLM++OwVuOfjILEo+ypqJ7mLsI0XqRj6B9l6BlV5DIhKpsJ7gJxqvYm3QAYwOsJtCELlI4iPJj0B6mRFpP4D/427z1pGVn90Z653YjlmePcoGvfUkKZ84Z50D+/7lROWyzCaAMuEZwsJVDmxfAf2gbCjYHz/Ddz3OkVlbjvMVNHTtiJUTfAkljHx+Gbrl+t54C2hgauv4MPKNm34JF9YMO4r8Pd4Ynvg8P3bwdwCz2AxB7WvsD0dEXe1U1MTzAzuEPKwu8pFmksaPz4ekG5r/zkNqZFjKM+5HKA2mqLs9E6R0Z4b2p4WxM+O4v4QDuybDlSMCOI4WHQKTw==;dqLAyBG6wu//pXEQet78sw=="
 ---

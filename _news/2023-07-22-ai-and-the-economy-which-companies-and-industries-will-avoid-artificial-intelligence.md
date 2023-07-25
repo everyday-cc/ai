@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-econo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/amp/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI and the role of the company board"
+    excerpt: "AI does not only perform routine tasks independently but now also makes crucial decisions on their own, which exposes companies to a myriad of risks and affects traditional corporate governance systems and accountability."
+    publishedDateTime: 2023-07-25T18:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/ai-and-the-role-of-the-company-board-9200fa78-39f7-478d-836c-1d82929e2d6b"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
   - title: "Tech companies to make AI safety and transparency pledges to White House"
     excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
     publishedDateTime: 2023-07-21T09:00:00Z

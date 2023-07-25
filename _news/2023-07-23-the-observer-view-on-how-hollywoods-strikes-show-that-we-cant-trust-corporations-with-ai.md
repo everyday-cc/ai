@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -30,38 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
-    excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
-    publishedDateTime: 2023-07-24T04:59:00Z
-    webUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html"
-    ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+  - title: "Even AI Filmmakers Think Hollywood’s AI Proposal Is Dangerous"
+    excerpt: "Film actors are worried they will soon be replaced by AI. They have a right to be concerned: the technology is already there"
+    publishedDateTime: 2023-07-25T18:42:00Z
+    webUrl: "https://time.com/6297575/ai-film-hollwyood/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 57
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
-    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-    publishedDateTime: 2023-07-21T20:46:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "More or Less: Hollywood and AI. What IS Threads?"
     excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
     publishedDateTime: 2023-07-21T18:57:00Z
@@ -71,15 +48,6 @@ related:
       name: The Information
       domain: theinformation.com
     quality: 17
-  - title: "‘Bargaining for our very existence’: why the battle over AI is being fought in Hollywood"
-    excerpt: "The ramifications of artificial intelligence are of concern to the actors and writers on strike – from big stars to bit players"
-    publishedDateTime: 2023-07-22T10:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/22/sag-aftra-wga-strike-artificial-intelligence?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 8
 
 secured: "W6/TaM50quAZeYtWF5KWFWExvw6INLrqaclmzixIy2q5KOia5ucMbILqrvctA7S7EOMtAmPq4BBPrMMOHHmhH7qCaTiDGKtvkbb3QTv4Y19arX/Sb9xdgWvKPllOKk0mxT1v5T1bzeTvP6Kcpie2BNE5uwdf6SSFjEvYox83l7oz7lEcxzQDf+58pRWEfGZPaXcWRfOK5tWp53R2VlOWYJdkAYHTrWW8sJK7+5T0EoYkzrEmrJtnIjrYogDyGXxxN3p8vzwZ8hg6AdBA28t9l6mwEObM1to/ut/LM8C1HZV+GhnoNoMDddJR51O6mLW/7Yd9fGcYlGa7TT3oL2XV5sZTs7AJjk9BemwxUsvRblkmvMmogcFXRnG1HbX5ftOlGgFyniOKZ7+OLEGrX7bE+5p4ZDbzdEGiYPxB2dvpSFl706sNUAruSUdLjrmKECG1VW8cuilWDRVOeQf3IFnHbO7NiQ04trU795bI/4y9R+PN3JXqZzJSx9Q8uFxYiW3Ia50MXtRlmo+J67+cGQTSpg==;6UuiHzGJ3luTQtJcX+HX+w=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Justice Adel Maged honoured for combating hate speech and extremism"
+    excerpt: "The Centre for International Law Research and Policy (CILRAP), a leading academic centre in Brussels, recently honoured Justice Adel Maged, Vice-President of the Court of Cassation, for his significant contributions towards combating hateful expression and extremism."
+    publishedDateTime: 2023-07-25T18:05:00Z
+    webUrl: "https://english.ahram.org.eg/News/505358.aspx"
+    type: article
+    provider:
+      name: Hebdo Ahram
+      domain: ahram.org.eg
+    quality: 4
 
 secured: "VHLQYu18B0O6NII6A8zYhvwMCJKTSjFZW2romrAk51c0ZvALnmHSq810PKbUo1AfaOnCdWSOrLLZgrPmd5JLJQ5ot8oYawx+pGXchtaT9sJ/hRXAXQ+Fl7Y/wPF7Qrbn/OaNEXKmmy9mpRvPP+duh2AaU79tc9hxpEclIiUuKpkco3it1SM5xba4faR+W70q4KlMLZSCK9lmKUSijGJqwRjQzl1P5YQ23HHS8pIk83yKj9Kc4Sf8g9XkUV1xurcvJJf90w8ZY6PmYD8d3YltFDtcSGV5jhb25G5aKdDiRogY7ZNq60+Sbuhx+FfzTLS19dQWf3vmPPc3A9JHgYpzHw8ervd6RjvC9nPqF8mVAC4=;HlRU1kHfgCREYyOR26Cwpw=="
 ---

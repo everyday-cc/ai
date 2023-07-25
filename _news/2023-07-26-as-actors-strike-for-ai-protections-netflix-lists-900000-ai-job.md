@@ -7,7 +7,7 @@ originalUrl: "https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-net
 webUrl: "https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 1000
     isCached: true
 
-secured: "LE4vQFV11UpJ6JV/OyzeqUvubRHrL5XzKhZVf4ILvsJT2et844MdqKa0kcTHBDuMMjOfReA8Z3siFIDy0M63JVFEzHbm6W5GmPMyMqisn2qzGmM3VibJJEf0ztxKigqAdP0k7FIitz27PnFPLFyp1Xt+Fi86dQeGhQ0rxtWTIsehFXce/zjaIxCA5n4u6yPfA3wAlDPYwwPmCqwhGDi/S5n1C0oQMU6xAaQj6oJd9VxY9N+cJkSf+yg6t+IgGpg+gxfyD4DTuPlGbOnp6xFfl00ztxuAqu7gNBnF7lvDKmdhEP2sk/lEgZ2tfKOSuwZg1dA778yXcdAKz4Z8xf9XmO6e7ubUmEAgaSKseSKsFFA=;CftGYZx6cqcYpKiwHcp6Ag=="
+related:
+  - title: "Netflix lists $900,000 AI job as actors and writers continue to strike"
+    excerpt: "Will this pair of Hollywood strikes ever end? It looks like the big corporations are digging in for a long battle, illustrated by Netflix’s recent job posting for a machine learning platform product manager."
+    publishedDateTime: 2023-07-25T19:06:00Z
+    webUrl: "https://www.engadget.com/netflix-lists-900000-ai-job-as-actors-and-writers-continue-to-strike-190037630.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 47
+
+secured: "kVsqRfGxEiEmeh3Epa6Xik0s7tCOsV6fijk4+fEzQMkBVMn1uEVMVoryMLqStDxNz+uCoZspnjfHeW6NtvfaaXaihkzawoq5ClJAiB6r+sM2lYoBaXjXYOh4yWoKN03rFV+jdEt2mhwO5weFGQZuL/3taH/3+DvZoe0FRzN6rSZLLs0gQ4jVrfEUz6POZktu/exF6nTn69rN2dTSWLsL8DGOerrfLERjogzMnennUHFTYZhATvHsYMUgROHEdjMOEkoWGxZIsFNAAsY+k/CnKFkUJh/kY+SWxbfMmUPYGIZnZhMqjbRkd7xgGpgJ3mHrqsvJvbdLNid0Q3BCOAUq/+V81zMCbCPQSELdYx1YPtuqCswKdYgIZQAaUhTTKSRG4Vt7TpSMusYLHT1Uv4xLgckxtbhVTFQxh8bwvKk35sMq8fDv2lojvF/y33j6dR3mig2n31mJfsIhUAFdZsOSOoIr2h1EM4zsWBNMZzIaiDiV8G2K2sCYSbJlILkG3w8bJclhk+Un38I9qLhtnoSSnQ==;T1NTlGNeksBRN7MHOu9p0A=="
 ---
 

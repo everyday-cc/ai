@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 54
+published: false
 
 provider:
   name: The Guardian
@@ -28,26 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
-    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
-    publishedDateTime: 2023-07-21T19:37:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
-  - title: "Christopher Nolan: ‘Very strong parallels’ between Oppenheimer and scientists worried about AI"
-    excerpt: "Clear similarities between J Robert Oppenheimer’s views and those who want AI reined in, film’s director says"
-    publishedDateTime: 2023-07-21T12:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/21/christopher-nolan-says-ai-experts-face-their-oppenheimer-moment?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 5
 
 secured: "nHt7sFPIaHv+87GTPpVXmSUcbgBIRIHrjFFTkG0edgu4HRb4JXuJpxMLRZhNy6oWkEBf5gzdTtDsBb2BnFCc1cdRVYtzWvi+0OF5Ugjpm2yTUTZn+wm7yskR+o/qtwpuKoUmhtnFkHIxTcARzejFcI1pck1AM+KBKxmUyZ5lGou5uf2Qu4g1og1Dmxq0HYbGUip1LtygaXINC2PyGl2oR4OoCmbECPFdIMUtumx5KWrJgbOG/ey0p7ijl+WwxuOcyTATTV4Ci4m+oIiAzL42wxsYyJPt5sbzUx6dnj8RlD43i1WZisGhFNY2s/dL0/y5m7nSQ+rblcM60syBeFVz+4QI8dnrDb1udk8FTj3m7YM=;YXSCf9FfszaW2RkNHfmyLg=="
 ---

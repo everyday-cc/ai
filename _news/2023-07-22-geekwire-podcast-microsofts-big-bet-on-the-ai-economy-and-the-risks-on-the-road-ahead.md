@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-
 webUrl: "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Earnings Top Street Forecasts On Solid Azure Cloud Growth"
+    excerpt: "We remain focused on leading the new AI platform shift, helping customers use the Microsoft Cloud to get the most value out of their digital spend, and driving operating leverage,\" said CEO CEO Satya Nadella."
+    publishedDateTime: 2023-07-25T20:10:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/microsoft-earnings-top-street-forecasts-on-solid-azure-cloud-growth"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 34
   - title: "Azure breach: Microsoft okays Wiz post on continued danger, then denies it"
     excerpt: "Microsoft is continuing to obfuscate about a recent attack on its Azure cloud infrastructure, saying a post, that claims danger from the attack still exists, is speculative and not evidence-based. The company is mentioned in that same post as having checked the post for technical accuracy."
     publishedDateTime: 2023-07-22T18:42:00Z

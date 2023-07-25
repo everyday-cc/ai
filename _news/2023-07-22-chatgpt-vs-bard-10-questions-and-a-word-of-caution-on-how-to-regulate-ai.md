@@ -7,7 +7,7 @@ originalUrl: "https://indianexpress.com/article/technology/artificial-intelligen
 webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-vs-bard-10-questions-ai-8854715/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "ChatGPT creator pulls AI detection tool due to 'low rate of accuracy'"
+    excerpt: "Less than six months after ChatGPT-creator OpenAI unveiled an AI detection tool with the potential to help teachers and other professionals detect AI generated work, the company has pulled the feature."
+    publishedDateTime: 2023-07-25T17:50:00Z
+    webUrl: "https://www.cnn.com/2023/07/25/tech/openai-ai-detection-tool/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
 
 secured: "FiXc9lsonrsC2q+5wE+MODBzm4P8/ARXMQzGslRKcolEwq5IfL0sKfJI3kNO+G9iilI6sdtS+aAaH3vd05e9GLON8FtXLiPBzcYmstKjV7I5fpMwgtVr/JAfDFcKqwxLkd1QD3MHVbKnt53EH2Th/Dx4VI2UZ99jtBp2KebEeoqd5z0mjC30/jrEky4GYOHz4g0UM/p59m+//+22UNJaQW0tuItC6nxC+F4K+IzKP06iwAvNIbSApEgoFV9FEEMaVKS4CscOxa/Ji+ngP45GW+aknASUpHBZEiVA0d5qrT4Jdi8crhfxq901UeN1Os/i4JVWuIv6ovjmjWMNU60aggGdQHHZtT48JqA9soX0pqy24WMgN1FIrrV2Awvuwoz48CwVhv0YpGVm2QnlXcKqIOo/N2os01IfkGwJSYkthnl7pEDw4ti8M5Xbq7RNCd/WI2qRGHbziTnw6HkYc/FIUjGzoOL/iCnY+hRifgp2UDv8Uc8TVG19hd+FYgR5O7Y3R2yD/92CVGhVqL0u90lPbg==;+djjLzMMyJEcKQi4Os9Fkw=="
 ---

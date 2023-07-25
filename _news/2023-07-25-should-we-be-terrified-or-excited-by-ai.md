@@ -41,6 +41,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Biotech begins human trials of drug designed by artificial intelligence"
+    excerpt: "A biotech company backed by Chinese conglomerate Fosun Group and private equity giant Warburg Pincus has begun one of the first mid-stage human trials of a drug discovered and designed by artificial intelligence ... with a novel therapy to treat the ..."
+    publishedDateTime: 2023-07-25T21:13:00Z
+    webUrl: "https://www.ft.com/content/82071cf2-f0da-432b-b815-606d602871fc?_hsenc=p2ANqtz-9Ws_9zMj1G3-N1Sp2wbNC9cjRFqVrC3rdr8YnyldMLaBVnj_nLHh7GKhQKTd5_cMD_mHUL"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "B/xdlCaHdtNEl1FxF5gkQpLZcQOPdv4x4x0RjIRDYoXH1qEJ1ojGTJU2PBcOFxdotgVyvJUT2cMNX7PeFCTXTtUJaRc9+/k/irQm7dwTrauYDvUN6TGW8cF0M+1GMy5nekPUvYGO5qQ7jkvH1h3GhMejmZ2miG7Kw9wEHiLZDnLOh1Ww9Q6gCV/7Ryk0MrhKyLqZ+V+iszZVHebxGMe+IRG3rb8st1GayU6X8C5NZc9wlEADHcKMrQtHQmVOTG22lD99V2oQoDNp/YZgL0AXE58ANp9dQbdIXwo18zMV9iTx5bc7y0grO46Uv5UBjfJe/QhCjnVV6OV8ZbRsmDTNR0r96aRLChwEIS0fdNLvzV0=;pvOGRT2mSZwBCebBbbFcVQ=="
 ---

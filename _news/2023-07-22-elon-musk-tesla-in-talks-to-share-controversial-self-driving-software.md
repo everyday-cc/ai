@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla's Elon Musk optimistic on progress for self-driving, robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories, though he acknowledged he's been optimistic before."
-    publishedDateTime: 2023-07-21T04:30:00Z
-    webUrl: "https://www.reuters.com/article/tesla-results-autonomy/teslas-elon-musk-optimistic-on-progress-for-self-driving-robots-idUSL4N396040"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/dcjvuxwVOGP-aXVwb2W5yVb2L_k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3GNPK2C6OVLPVJISKSUPGB5VOY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla offers customers one-time Full Self-Driving transfer until September 30th"
     excerpt: "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months.."
     publishedDateTime: 2023-07-22T15:11:00Z
@@ -84,22 +70,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla investors balk at margin loss as Elon Musk touts self-driving future"
-    excerpt: "Elon Musk, who has waged a price war against EV rivals since last year, signaled price cuts were here to stay even as Tesla's quarterly automotive gross margins slid."
-    publishedDateTime: 2023-07-21T03:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/tesla-investors-balk-at-margin-loss-as-elon-musk-touts-self-driving-future-10999551.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-investors-balk-at-margin-loss-as-elon-musk-touts-self-driving-future-10999551.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-investors-balk-at-margin-loss-as-elon-musk-touts-self-driving-future-10999551.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Tesla Will Let You Transfer $15k Full Self-Driving To A New Car, But There’s A Catch"
     excerpt: "Tesla is finally allowing owners to transfer their FSD package to a new car, but the offer is only valid for new orders placed in the third quarter, and owners must trade in their old vehicle to Tesla"

@@ -65,6 +65,20 @@ related:
         width: 720
         height: 449
         isCached: true
+  - title: "Congress Wades Into Self-Driving Debate With New House Bills"
+    excerpt: "Congress is wading into the debate over whether automakers should be allowed to more self-driving cars while manufacturers seek federal permission to expand testing of the technology."
+    publishedDateTime: 2023-07-25T20:12:00Z
+    webUrl: "https://www.ttnews.com/articles/congress-self-driving-cars"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Capitol-Night-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "JEC96dZYzzQPfNBWr+bMoXpN5l/+860p1LSsdfxW+SolzszIF6yL9eie3zGMkMpq0FpjVCpzisY0cr1LqSK53UuMHzh7Rj0e6NhDxQ0xC+6XByNSfxPddevaOYUwAR+aboZ7xuqTIeeIjz81TNs8gC8kxZLeUTuB26IoBSIz4ehskSWvyGyVBBSdW5Ig2rlJJNYVZGny5tbBe3yM2v9iqXHYG5THituytttcMXSWFD9Le5Mol1kMnzlvqGTHJGodaE7MRdG5cECik2r2zhSqu5CC5oaKM37GZp7Y2lHFtPCyvFcLF5vd5ElNpHYqVzfzftERvrTw/qczFbwpX63cvqX28p9vsOPJqA8+RMfg2E8=;v7CQMu207ZNXAsFzpIIG6g=="
 ---

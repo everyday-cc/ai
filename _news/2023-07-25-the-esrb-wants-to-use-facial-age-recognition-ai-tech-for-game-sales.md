@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/07/25/the-esrb-wants-to-use-facial-age-recognition-ai-tech-for-game-sales/amp/"
 type: article
 quality: 106
-heat: 256
+heat: 276
 published: true
 
 provider:
@@ -238,6 +238,24 @@ related:
       name: Open Rights Group
       domain: openrightsgroup.org
     quality: 19
+  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
+    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
+    publishedDateTime: 2023-07-25T17:17:00Z
+    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 8
+  - title: "The ESRB Wants to Start Using Facial Scanning Technology to Check People's Ages"
+    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
+    publishedDateTime: 2023-07-25T19:43:00Z
+    webUrl: "https://cacm.acm.org/news/274951-the-esrb-wants-to-start-using-facial-scanning-technology-to-check-peoples-ages/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 0
 
 secured: "g0gCXKB3pFg81o/IKvU3ThTPJJidqIR3s0GGc7bHUE9HKicmFIwzmzEtVxKkwMIs+MLOh5H9b3csREj3i+Bl7SctSsaBvG4keH8e3pJNC+a6rvguqxuqslw/WFKfIqz/zE/JVjaIsyCTS2glnx59k9OIecmB+tsWD4dMWguW4wzyytcPN4pFhCi0IxEh1+0LMc8aLPdcjTDmDxhb1oaO4GNOg3DBAKp5lXIYsOXHp+CuxJLv/Xp1E01cyNB5BLy2VNrRiQAuptw6ZG/i+kzIh/ASKHMpmGep2AzsSkcdk1ZSEMIE15aze3K/YLZjZ3zLj+X86CZXbZH3Bw1ANcVSpKaiqvzU//mCS2PbXfMLP+I=;PRBU0JMHb95vu6QEZ5i96A=="
 ---

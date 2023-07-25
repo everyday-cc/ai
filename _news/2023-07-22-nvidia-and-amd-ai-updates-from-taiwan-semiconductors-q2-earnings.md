@@ -76,15 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "Start-ups seek to challenge Nvidia’s dominance over AI chip market"
-    excerpt: "Celestial AI, a Silicon Valley-based start-up that raised $100mn in June, refocused on “complementing” rather than competing with Nvidia, according to its chief executive Dave Lazovsky, by developing optical technology for connecting AI processors with the high-performance memory needed to feed them data."
-    publishedDateTime: 2023-07-21T04:01:00Z
-    webUrl: "https://www.ft.com/content/1fca1f48-44d8-43ac-bfdd-251b0025347e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "qkun7xoNiQycyPI1WGcetTnFhQz0ua0cAhDVGITnKu1phzn/oGfHFrO6GHtCskO3FbQybs+kiUDRRs6b0XWOOv2Ec2tGRBKtuhTxzXH+ynbShqtR9dUkwEp/7RR+0BGbsnUsOpNAFgdqDNGx9KIaNN+fIAsQku572d/u0IrJuEAa11warejTUO6+UTTRp8szZ+3opIcPuNaxzY1yfEGfnUszXvyiJGrOkD3hMJI20z3a/2gLzAnYm1/5sMVIrBQ1ugH+K3+B2xS2GUPdZZqg7WQZpCnkopLNzzTJGTpIU/RiXr6UBDn89hKyM/3wOAIswPermWl0ACePwwRb/KOXQ77EhqFd2/M8FsRpHTuaENo=;xSolCSsAbhPZXpB0aL6i7g=="
 ---

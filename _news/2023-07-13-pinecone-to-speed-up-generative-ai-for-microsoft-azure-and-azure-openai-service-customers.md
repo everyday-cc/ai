@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
-excerpt: "NEW YORK, July 13, 2023 /PRNewswire/ -- Pinecone, the vector database company providing long-term memory for AI, today announced it will be available on Microsoft Azure. The announcement means ..."
-publishedDateTime: 2023-07-13T16:08:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33218863/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33218863/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers"
+title: "Pinecone To Speed Up Generative Ai For Microsoft Azure And Azure Openai Service Customers"
+excerpt: "pinecone , the vector database company providing long-term memory for AI, today announced it will be available on Microsoft Azure. The announcement means Azure customers now use a vector database ..."
+publishedDateTime: 2023-07-13T16:43:00Z
+originalUrl: "https://menafn.com/1106599006/Pinecone-To-Speed-Up-Generative-Ai-For-Microsoft-Azure-And-Azure-Openai-Service-Customers"
+webUrl: "https://menafn.com/1106599006/Pinecone-To-Speed-Up-Generative-Ai-For-Microsoft-Azure-And-Azure-Openai-Service-Customers"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "SD36vLO8mT0zt4UkF3cDhY+NiezPu3NuK3fl1xc8IjeTec4dfdaKqZ6NeBHYhn0PLu3HkIzuOyeZfGAe3XdeKJanBbFb8mFe9JCFCkVbJUVYc1h0V89nlMILBvatnef0T/nYAQXvbBMqZ5dXS3e+U6p6XyCnZ9sFQpe0vfYBQjaaZeHO/FQW4SKHvr30GtMPFEIqaANAkPZt4ugblRU+jb+7Jw4Dl5S1AXEMehaAt8VqfDwggw4NvxvJUW+6oHK68cu1E+6CM79aDm1/yo/TL1mFAh2MdV6fNrdTmdjpfRnSXo/DUnntPmHicVSpX9mKxUh4mnKSqJpzshVlgCnj+wsjfOErF6SwQz4lUleKDuc=;CJ9GzwFAJsWU2C1oNl4bWg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?154094"
+    width: 375
+    height: 249
+    isCached: true
+
+secured: "5W7AcfmMnZDM2PDQjcVsjVQkQKqWmPQnbpIAd1n5LtYaWxdNkkKourvC06H6U/CLwh0itBtmWE1XL6YuQR/Q3BUF6pciijd7+pnwX5xb0uh2zA2S9mtHjDrD3Fu3oYLqfG4CuJ6nFOAHSdEJcKK9VmvgKY18sSNCmcOcJC2Ykbljd930zA6OoFG2WJ3Z+1rNZWL38FhV5J52V8NWS2ElJw/7G2eE25Ch8t/+vUKY/IDjk33tgHaz7/JC1VXv92rGOY4HMsWyq797MCF8NspUOzqZDztRLiQ4GpPGVFbiCJ7jFXI1nIzC+OFYF4bOMibFIvfLUcnYjFh/n07HNkcyHLdpqbywiJ5QSys8WT9Kw50=;3LQdD8KVlkcJdoYevnK9Qg=="
 ---
 

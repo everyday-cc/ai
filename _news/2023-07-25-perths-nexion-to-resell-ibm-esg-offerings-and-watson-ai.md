@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/perths-nexion-to-resell-ibm-esg-offeri
 webUrl: "https://www.crn.com.au/news/perths-nexion-to-resell-ibm-esg-offerings-and-watson-ai-598397"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 525
     height: 352
     isCached: true
+
+related:
+  - title: "Pronto Software launches IBM Watson-based data integration"
+    excerpt: "Australian enterprise resource planning (ERP) vendor Pronto Software has launched a new data integration suite with IBM. Called Pronto Xi BI Unlimited with IBM Cognos Analytics with Watson, the collaboration aims to deliver advanced analytics and comprehensive insights for Pronto’s customers."
+    publishedDateTime: 2023-07-25T03:44:00Z
+    webUrl: "https://www.crn.com.au/news/pronto-software-launches-ibm-watson-based-data-integration-598416"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/Chad_Pronto_Software.png"
+        width: 958
+        height: 566
+        isCached: true
 
 secured: "A/xGrKEq6o9Jmkmcs/pfwHJ463fehnVGnK54bUn0cCk4eTFw4EGy6d2HhP6ibbbbXGS64MJyOnZSb82v/oSuQ+3dhA7coM4+4XoPchBeANEDIoFl6C9yb2voxsQ5U/s0uqgRoOpq5Ce4jlBet++CZHqJurmn2JVWs1Lwrx/hHSxgQhxqdB4HC5CmVpPmDMELYN7iVmhQ2GkFrlha4KwxJVmYsf196HtFBGjB7kf4N2vAwqlw+Mb8yUWMe95DRUHeIxL1R5ge9I4YvCJbgjeE2Y8f0nnTzTImAVSgXllu6K88DTrE6QIdeCZ2E1I8N5h1jlGpxL2iuax+VfyqZ61sTvhIjdZfFBh8Ie8sFncD2t+neilKYMnqtub6dT8NoE7BhGLANvsV42OC6EvPJFoVyQNrn6VqB+gTsqVaexsjyBBq91KrSD2C1LkOD+9W7aFVILXoam7vbkCOmNtrc8A/yinHVbjJmMV/02S7qXw3oMbk8fKLc6y85y39IbdfEqJMRTcFmOECJrBDtCDJgjs0mw==;0wpBxsbfvLsVN5wQkmEzRw=="
 ---

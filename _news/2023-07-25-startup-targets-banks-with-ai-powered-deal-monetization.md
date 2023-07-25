@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fox Expands AI-Powered Highlights System with AWS"
+    excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
+    publishedDateTime: 2023-07-25T18:38:00Z
+    webUrl: "https://www.tvtechnology.com/news/fox-expands-ai-powered-highlights-system-with-aws"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 34
   - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
     excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
     publishedDateTime: 2023-07-21T20:22:00Z

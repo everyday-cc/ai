@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-start
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indian tech giant Wipro to invest $1B in AI"
+    excerpt: "'Where's the evidence?': Democrat reacts to McCarthy's impeachment threat against Biden"
+    publishedDateTime: 2023-07-25T20:05:00Z
+    webUrl: "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230725160137-exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "With AI-Enabled Tech, Indian Navy To Soon Start Testing Advanced Control Systems For Warships, Submarines"
     excerpt: "“The CMS 24-29 can do faster threat assessment with inbuilt-AI algorithms and gives the warship’s captain suggestions on which particular weapon should be used in a particular situation. It can also talk to the existing CMS on board warships,” the TOI report said quoting an official source."
     publishedDateTime: 2023-07-24T06:59:00Z

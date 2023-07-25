@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-i
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://images.barrons.com/im-461129/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Foreign investors stream into Taiwan as AI stocks beckon"
-    excerpt: "Investors are putting aside geopolitical tensions to pile in to Taiwan stocks, with foreign inflows the biggest in years, thanks to soaring artificial intelligence and chipmaking stocks."
-    publishedDateTime: 2023-07-21T03:28:00Z
-    webUrl: "https://www.reuters.com/markets/asia/foreign-investors-stream-into-taiwan-ai-stocks-beckon-2023-07-21/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/_eCf29fkfX-LRf38ldnRFQocE68=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HYQUU3VOVFO6HBGHIUS3OZK5WM.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Driven by AI boom, TSMC to invest $2.9 billion in advanced chip plant in Taiwan"
     excerpt: "Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90 billion ($2.87 billion) in an advanced packaging facility in northern Taiwan, the company said on Tuesday."

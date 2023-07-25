@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-g
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
 type: article
 quality: 83
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -30,6 +30,80 @@ images:
     isCached: true
 
 related:
+  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
+    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
+    publishedDateTime: 2023-07-22T16:06:00Z
+    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’"
+    excerpt: "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\""
+    publishedDateTime: 2023-07-25T17:38:00Z
+    webUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/"
+    ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-183374100.jpg?resize=1200,805"
+        width: 1200
+        height: 805
+        isCached: true
+  - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
+    excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
+    publishedDateTime: 2023-07-25T15:56:00Z
+    webUrl: "https://www.pcmag.com/news/openai-quietly-shuts-down-ai-text-detection-tool-over-inaccuracies"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04G9X5qN41Ob8jrBRpXgvKS-1.fit_lim.size_1200x630.v1690299616.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
+    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
+    publishedDateTime: 2023-07-24T22:19:00Z
+    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 65
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
+    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
+    publishedDateTime: 2023-07-21T08:03:00Z
+    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
     excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
     publishedDateTime: 2023-07-21T13:00:00Z
@@ -39,15 +113,48 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 43
-  - title: "Tech Giants Make ‘Voluntary’ Pledge To Develop Responsible AI—Including OpenAI And Google—White House Says"
-    excerpt: "The companies have committed to share more information, boost transparency and develop tools to flag AI-generated content, though it’s not clear how compliance to the voluntary code will be enforced."
-    publishedDateTime: 2023-07-21T12:10:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/07/21/tech-giants-make-voluntary-pledge-to-develop-responsible-ai-including-openai-and-google-white-house-says/"
+  - title: "How is generative AI relevant to telecom operators?"
+    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
+    publishedDateTime: 2023-07-24T14:42:00Z
+    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 29
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 41
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 382
+        isCached: true
+  - title: "Be prepared for AI technology, PH urged"
+    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
+    publishedDateTime: 2023-07-23T16:36:00Z
+    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Top tech firms sign White House pledge to identify AI-generated images"
+    excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
+    publishedDateTime: 2023-07-21T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/07/21/ai-white-house-pledge-openai-google-meta/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "ttwzkc+mZq7fKOdwGYjxNlq2pii9UgTQQ+w6PC10dczRXmaH7UUM8CX1lA4ik/zGzxfYHZ2GzGLWnOUYewNcPiG7nt9I5XXxKC/dSNk67am4wmjgTcoEpXCVxX0Ir4MdkvoLGlgsAdzSbupTi7ceLU/azp0TSqmhmQzgSs0nvQiA3UrnR+FCj4IP4zGrWvXdbfNEvxpvbgX+ItcvmxAmm4ZXCC3vXiM6FHrCERTOc+RKEtAf3W6Ku07ZNxIExiNY+Hw52Y28WXmh6Zwjnpqv1dmNdwVoXDAo7QBCMc4Wn2rAOSH3t33iA/lyHywvioISL5rUdveBSmbS33jlXXOsi4EAALQSeesT3LJULtgHNEe0NsPpp+1sQStrLYIUln1FBAfCH6bmbA+zAVKJWIxUJPQN6jZfiCr/K8xW0bNUzGGyZLa9IDQ9iQVMqGXb4QROu+ktVEvucamqTdmftyDN6egSiA8/JTnA2bBZPWyGS889dhfAyTsC99xjs5mvOKxcIvOwIYhn04311oRwIY/dUg==;NQT2iwsje65RzBOygTXiNg=="
 ---

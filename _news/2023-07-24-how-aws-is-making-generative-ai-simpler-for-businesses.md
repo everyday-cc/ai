@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Single chip architecture to meet generative AI processing challenges"
-    excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
-    publishedDateTime: 2023-07-21T04:15:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/single-chip-architecture-to-meet-generative-ai-processing-challenges"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/buxactds/5g-smart-city-400x300-c-default.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hb8odfYxtRGWKgt/3CyOVwHGaKzpW/yhxWdoOJTrj0WvMFScsrlssZfml0OZdD8Fhwz/1YGe4jbck3lGOSgIQuaf/XaJoMg/COne2UmxviU2ltlFWfpUp09jJ2gza7W3tquyArbqNka8zMBSfJnNb4J2ZXiAsi/IaT4iMRgXsRs2Nk7aviQUr3xc4B9S6lFMYCBUwLKOe84ewETEOKbafIhCVJw0zH9pCvzLV94+a6/3iyjZRmN5KvH98tWnequETDQPLUz1oouBKp/xAsaIaI/mCw9pvPc3tkKtyuHHIG2qqmJGDacetojB7YeY+ZhqU/bT7UypcP3EQ3GrimGlNV8WWrDzS0fN/6NoKK5sIg87yNWb2owqC1BD2MVeKl+Poc2Kieu3evnvZkH17t0s+HGIk25Uw9WhC2NB1d9s+Ncm55pMbecXeOIDw16siSMQm8CNSg/qgl8tjlS+Wjq8nba+go6IxTzWqtJs5LLgymqk4cFzEljpcAamMdzhV/E2cx/ByHZL2YOQGP0sJ/EhNA==;XTF8xE6c/r01Ltw6VOpWDQ=="
 ---

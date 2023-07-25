@@ -2,6 +2,197 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-17-6-women-leading-the-fight-against-climate-change.md",
+      "title": "6 women leading the fight against climate change",
+      "excerpt": "We’re celebrating climate science pioneer Eunice Newton Foote and six women-led Google.org grantees building a more sustainable future.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Eunice_Foote_800x418.width-1300.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/climate-change-sustainability-women-scientists/amp/",
+      "publishedDateTime": "2023-07-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-googleorgs-new-grant-to-help-track-permafrost-thaw.md",
+      "title": "Google.org’s new grant to help track permafrost thaw",
+      "excerpt": "A new $5 million grant aims to help Woodwell Climate Research Center track Arctic permafrost thaw in near real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_4691-ThawSlump-ScottZolkos-WoodwellClimat.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/google-permafrost-thaw-tracking/amp/",
+      "publishedDateTime": "2023-07-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-indias-think360-make-top-ai-fintech-companies-list.md",
+      "title": "India's Think360 make top AI Fintech Companies List",
+      "excerpt": "Mumbai-based Think Analytics India Pvt Ltd, also known as Think360 AI, was one of only five Asia-Pacific firms that were named in the 2023 edition of AIFINTECH1",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list",
+      "originalUrl": "https://www.malaysiasun.com/news/273901014/india-think360-make-top-ai-fintech-companies-list",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1689559558.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-17-intel-ai-chip-sales-in-china-to-face-market-time-tests.md",
+      "title": "Intel AI chip sales in China to face market, time tests",
+      "excerpt": "With widespread speculation about the US government considering further restrictions on the export of Nvidia's A800 and H800 GPUs to China, Intel has chosen this opportune moment to debut an AI acceleration chip tailored for Chinese clients with its fourth-generation Xeon processor at its core.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230714PD202/ai-chips-china-gpu-intel-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230714pd202_files/2_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-16T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-07-17-ibm-mulls-using-its-own-ai-chip-in-new-cloud-service-to-lower-costs.md",
       "title": "IBM mulls using its own AI chip in new cloud service to lower costs",
       "excerpt": "IBM is hoping to take advantage of the boom in generative AI technologies that can write human-like text more than a decade after Watson, its first major AI system, failed to gain market traction.",
@@ -969,188 +1160,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-forecasts-growth-2030.md",
-      "title": "Self-driving Car Market 2023 Detailed Analysis of Current Industry Figures with Size, Share and Forecasts Growth 2030",
-      "excerpt": "Car manufacturers are investing heavily in artificial intelligence to succeed in the era of self-driving cars. The global self-driving car market segment is based on applications, automation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33227129/self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-fore",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33227129/self-driving-car-market-2023-detailed-analysis-of-current-industry-figures-with-size-share-and-fore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33227129",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33227129",
-      "publishedDateTime": "2023-07-14T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-teamsters-city-leaders-rally-against-self-driving-trucks-in-san-francisco.md",
-      "title": "Teamsters, city leaders rally against self-driving trucks in San Francisco",
-      "excerpt": "Teamsters and city leaders rallied against self-driving trucks outside San Francisco City Hall on Friday. Assembly Bill 316 would regulate autonomous trucks over 10,000 pounds and would mandate, among other requirements that someone be in the truck while it's on public roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/",
-      "originalUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2023/07/24311038085-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/?amp=1",
-      "publishedDateTime": "2023-07-14T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws.md",
-      "title": "Another player heats up generative AI race as China introduces interim laws",
-      "excerpt": "JD.com launches its large language model ChatRhino, which it says hits 100 billion parameters, amid new regulations in China to manage generative AI services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
-      "originalUrl": "https://www.zdnet.com/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5813572f96db2e0e3458338634da98a4e755da51/2023/07/14/c7681ad0-9274-40c9-a00f-f9e631f86420/gettyimages-1399940008.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/another-player-heats-up-generative-ai-race-as-china-introduces-interim-laws/",
-      "publishedDateTime": "2023-07-14T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
-      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
-      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
-      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "publishedDateTime": "2023-07-14T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
         "images": null,
         "publishers": null,
         "authors": null

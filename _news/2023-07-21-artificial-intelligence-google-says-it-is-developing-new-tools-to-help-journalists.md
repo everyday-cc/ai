@@ -23,17 +23,6 @@ images:
     height: 563
     isCached: true
 
-related:
-  - title: "Google says it’s developing AI tools to help journalists create headlines, stories"
-    excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
-    publishedDateTime: 2023-07-21T01:35:00Z
-    webUrl: "https://www.kmvt.com/2023/07/20/google-says-its-developing-ai-tools-help-journalists-create-headlines-stories/"
-    type: article
-    provider:
-      name: KMVT News
-      domain: kmvt.com
-    quality: 13
-
 secured: "aDStkWpB7/DSzM1dTKthQhY9lEwK9jAUEPMsauwtSK4AfNOokdSe+3d605ZQKnVdUWkQ2jws/vL77IHt4jDC5RTqj31fhhBRx1l9E7byP00C74Zob4FlBVhTQdw/WYNj7maY6LXSPiT9oD2gCVhZjaD3vP2ujiC8Pqq/pMlJQiWXhK9ZVrYuen80S8A2ZIC1fe6Ls1gdqrkrelbFs67nEROJwT8iJZDsJVboIP40i8z664sih5UPbT2FgZKewvSsv2BrjwWMTxgVoapeKXA7XtxGCPrPpTWnuUqOmtzwPYIxfXQrERJ5n5gFWVRb/GrBDRKf2PuDNxzeLMpZQ25nE0iXfKzODs970U4Wsg7d9po=;+O0h1kqB9IZljLtfdyZWkA=="
 ---
 

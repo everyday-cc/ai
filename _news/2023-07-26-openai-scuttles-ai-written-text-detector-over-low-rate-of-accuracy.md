@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-de
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
+    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
+    publishedDateTime: 2023-07-22T16:06:00Z
+    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo"
+    excerpt: "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes."
+    publishedDateTime: 2023-07-21T17:10:00Z
+    webUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg"
+        width: 800
+        height: 574
+        isCached: true
   - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
     excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
     publishedDateTime: 2023-07-25T15:56:00Z
@@ -43,6 +75,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04G9X5qN41Ob8jrBRpXgvKS-1.fit_lim.size_1200x630.v1690299616.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
+    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
+    publishedDateTime: 2023-07-24T22:19:00Z
+    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 65
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
     excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
@@ -58,7 +104,58 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
+    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
+    publishedDateTime: 2023-07-21T13:00:00Z
+    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 43
+  - title: "How is generative AI relevant to telecom operators?"
+    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
+    publishedDateTime: 2023-07-24T14:42:00Z
+    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 41
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 382
+        isCached: true
+  - title: "Be prepared for AI technology, PH urged"
+    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
+    publishedDateTime: 2023-07-23T16:36:00Z
+    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Top tech firms sign White House pledge to identify AI-generated images"
+    excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
+    publishedDateTime: 2023-07-21T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/07/21/ai-white-house-pledge-openai-google-meta/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
-secured: "9YvAtKhtTqw8RmYSDXinJqryrXQ7tGin29onG5aciVbvWG5HDs2OruZ+XgbgQKUX2bcqklL9jQeGMJx47zehCP9gTulOFZ84QrEn1OadSdxGmovdGVvmsB+NMB29VCqrBJ4ABmq8XKdJfyZ+5rbL/r5B+wWmFC+eW5jXH1wX4O2OfAf1nLJsZBayLt3hWZgMPGUZ4JrBZkXLObdgb79gZKTMCPUuAV1fsIwR+qqcpZMyPUS/eHtxBGsXxf/kizEaAzijF5zkD679tuYnn8BcuFk9ZFWiK0K7anNLj2tbQcZ3zgDakYl69mzJadxM1L25i0HuZBlstnDtwU0p6SjwhreuxfBKhsIZ7IryE23T6Uk=;5mn2HEkupd+yhQF7TKycLA=="
+secured: "gdMXn5pLwJUiO7QPR9LvfAm/FzRxrjgSpUeDhZ6QisW2wsPwb9lwWWYfF2izA5nuvLCiXkAj6wiiSxEwjG5PsVevwQ3f0oF9hTzzfVn+LWaYaRQhXiCJCdzUpnTYKqx8E3wuOx8oBloyfxhW5sf3O77r5PKZ3yut05GH6cy4TQ97lH2mpBySZ5n9r5jTnzdEiwkXOoJ1Hz0/Py2bFai/ETKgFACeepoSQ8RRzEVkREOEhuONtb9VvZpUZ+OosO7neZy9e6zfsy/zjNDh3ZDdHQNEUbiIYmmA/9CGxtnBSRiKDj/PATgXaMpLr6GVyazh9TjoL1PhGrFMduVmapbDBd76EDZIQWEaDsc9IwS2hdKmn6dlRZ8pcuZ1g07I6jQfXeYzP6D+LSzrsU2tEOPfyRBVwRV5efCAK4EAAJprW4uYboqNKMBSwR+5qoOkHxx+zWjeAFY+pb2PJxX91IK8HUZEHjSrgMpZs9qSf9V0iQT9hecNvwywR4YtRkaGR6LayqVfLX5/3dCBB4Dlcri4cg==;VE7LsvmuEBG7v8ZEjmpIww=="
 ---
 

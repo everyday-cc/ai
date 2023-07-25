@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-ac
 webUrl: "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -29,31 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "There are 4 reasons why jobs are disappearing — but AI isn't one of them"
-    excerpt: "Slower economic growth and a rising cost of living are among the main reasons leading to job losses right now, per a new HSBC study."
-    publishedDateTime: 2023-07-21T04:25:00Z
-    webUrl: "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7"
-    ampWebUrl: "https://www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lost-jobs-disappear-reasons-not-ai-hsbc-2023-7?amp"
+  - title: "3 Cutting-Edge Biotech Stocks That Are Riding the AI Wave Like None Other"
+    excerpt: "All three companies I'll discuss have smashed the market's return this year so far. While it's true that they're quite risky and still need to prove that their AI-driven business models are more than vaporware, the early signs look positive, so let's take a look at each."
+    publishedDateTime: 2023-07-21T14:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-cutting-edge-biotech-stocks-that-are-riding-the-ai-wave-like-none-other/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
+  - title: "Twitter Changing to X and It Will Be AI Powered Interactivity"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2023-07-24T01:35:00Z
+    webUrl: "https://www.nextbigfuture.com/2023/07/twitter-changing-to-x-and-it-will-be-ai-powered-interactivity.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 39
     images:
-      - url: "https://i.insider.com/63e3b0bf27e5db0018eeb3b7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2023/07/elonX.jpeg"
+        width: 1000
+        height: 1500
         isCached: true
-  - title: "3 Reasons to Buy Amazon Stock, None of Which Are Related to AI"
-    excerpt: "Don't just buy stocks because of the 2023 narrative around AI. Amazon is at a profit inflection and could still be an outstanding stock to own over the long term, regardless of what new AI products it may or may not cook up."
-    publishedDateTime: 2023-07-22T12:41:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/22/3-non-ai-reasons-to-buy-amazon-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 47
 
 secured: "ObmGEl6ocgUi9wMLuv4QeJya6GnD5aJg8xrQqPIZJahnBMyVK8tmLRSABcgncGH05CzZNeYf2IZsjefkOU88ZlcwjOYTyxt7SvJOVmnDhckCt1EipD+2p35DVxuzoAj/4/ryLvPcoWbseYRYiC4pi2W50B8TjafiKmTYXDbjPluO1qH9MLswAqh/g+uFC8RYKB9rhcSdlBmCo5KoDIcFCiZu44iSNZ2yzdeWpNyMERmIK2kIVyL35biqup+MvYjvt5VYLpIMdSwkw7Lrdz7cE5iz/m3J/sabZ5SOLxfMqUYbmmoF5iEwwJIzop89j1vJDcXInOEwMMrBgb+iWP5vN5Z2XyOXsub9wvIL8ojjpTNcbYpnGeYJBZ2BRi4jX3qF8DjoenfjkEaGrOwSNP73h3BMg9vjhc9uPYTOsbUhmj1DHguI8cq4RL+4ePHDbAQfUImuECCnLkcnlf6am6WVvPMPBtV56rSF473gERxFTzRKZybl+7zX68IMZwWWyrUrho9M7RuTuxJXwmkKxrrrPQ==;FdxLQHdw3c7zBuekI/MHWQ=="
 ---

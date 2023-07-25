@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "MTA using artificial intelligence to tackle fare evasion"
-    excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
-    publishedDateTime: 2023-07-21T02:40:00Z
-    webUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion"
-    ampWebUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 37
   - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
     excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
     publishedDateTime: 2023-07-25T08:42:00Z

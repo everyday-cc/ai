@@ -35,6 +35,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Should police use facial-recognition technology? Ann Arbor to vote on issue"
+    excerpt: "ANN ARBOR, MI — Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months."
+    publishedDateTime: 2023-07-25T20:58:00Z
+    webUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html"
+    ampWebUrl: "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 42
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4HBWD7NCY5AI3JU3J3R3MTAIBU.jpeg"
+        width: 3000
+        height: 2250
+        isCached: true
   - title: "Australian gaming operator calls for coordination on facial recognition for restrictions"
     excerpt: "Another Australian state has passed gaming reforms for AML and self-exclusion, and a hospitality operator calls for a national approach to facial recognition."
     publishedDateTime: 2023-07-21T14:15:00Z

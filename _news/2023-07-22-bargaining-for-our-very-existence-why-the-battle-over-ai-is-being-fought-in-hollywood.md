@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
+    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
+    publishedDateTime: 2023-07-25T16:02:00Z
+    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
     excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
     publishedDateTime: 2023-07-24T04:59:00Z
@@ -54,31 +70,24 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
-    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-    publishedDateTime: 2023-07-23T08:07:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
+    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
+    publishedDateTime: 2023-07-21T19:37:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
+  - title: "Christopher Nolan: ‘Very strong parallels’ between Oppenheimer and scientists worried about AI"
+    excerpt: "Clear similarities between J Robert Oppenheimer’s views and those who want AI reined in, film’s director says"
+    publishedDateTime: 2023-07-21T12:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/21/christopher-nolan-says-ai-experts-face-their-oppenheimer-moment?ref=upstract.com"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "More or Less: Hollywood and AI. What IS Threads?"
-    excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
-    publishedDateTime: 2023-07-21T18:57:00Z
-    webUrl: "https://www.theinformation.com/articles/more-or-less-hollywood-and-ai-what-is-threads"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
+    quality: 5
 
 secured: "KHpxT4cL3MG64+lnMkzNCwICOB2FbQpRIQxtItq2ahrlalq4BW9uHlr/aQ/Ois4piwXCKyrXX+H6UkKHv+UsVzSFOw0pk8tVPngakOHJOqnFnr1/Yoqmsu5whQzrUgz+82pq3qKwlXCMH+dZRmhKZcc6iwnw+7NskYVeVFdCT7nU6v/yyWIhAz1viZ/OT9X38YfDmwi+BIm/zGqWGMeES6DU5JrR0wOk/lhF0NxuNeIYQwQfxNjSCLHYvf2kXa5usmzJDKfYvwqyjDS2u7cTrQQq6ofaF3WeqBCnv9PoDIUbw7jNCR5ZRQ9Ue4+/juk7o0+gG/x7XT1FEiMgaADMNeb/AnOItMbmswwAYbnlXwN9uKGRiVNCHfDnnlv9dd41+gIG8kuqv5NxLQgvQf5uHn2QrIGLWVE4UxwdBcp1Hm8XmyfWsojMVdyEjmZYnw9ATlj66JQsQZ6fOIsNy1SiI6C1KRYNDS7M5Pa3K8MmKbkn/g25Wm25j7UxAkJenP5gk4766NlN15SfgkPU+8E9uQ==;ht9wCes2J9SeC3RYRRutdg=="
 ---

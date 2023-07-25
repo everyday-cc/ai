@@ -2,6 +2,177 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2023-05-10-ibm-announces-ai-platform-watsonx-to-help-businesses.md",
+      "title": "IBM announces AI platform watsonx to help businesses",
+      "excerpt": "clients can quickly train and deploy custom AI capabilities across their entire business, all while retaining full control of their data.\" More than a decade ago, IBM introduced Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "originalUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/IBM.jpg?ve=1&tl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "publishedDateTime": "2023-05-09T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-a-robot-with-artificial-intelligence-self-terminated-after-15-minutes-of-manual-labor.md",
+      "title": "A robot with artificial intelligence “self-terminated” after 15 minutes of manual labor.",
+      "excerpt": "During a dayslong trade show, a prototype robot fell a few times while demonstrating its ability to move boxes in a warehouse setting. The manufacturing company, Agility Robotics, said the falls did not mean the robot consciously decided to stop working.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "originalUrl": "https://www.politifact.com/factchecks/2023/may/09/facebook-posts/do-robots-get-tired-of-working-too-social-media-po/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politifact.com/politifact/rulings/meter-false.jpg",
+          "width": 438,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politifact",
+        "domain": "politifact.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-salesforce-unveils-tableau-data-analysis-tools-driven-by-generative-ai.md",
+      "title": "Salesforce unveils Tableau data analysis tools driven by generative AI",
+      "excerpt": "With Tableau GPT and Tableau Pulse users can benefit from an automated approach to data analytics employing generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/",
+      "originalUrl": "https://venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/tableau-logo-e1652717649458.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-unveils-tableau-gpt-and-tableau-pulse-generative-ai-driven-data-analytics/amp/",
+      "publishedDateTime": "2023-05-09T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
+      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
+      "excerpt": "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_82edca62-1e11-570b-bfa1-921d264be799.html",
+      "originalUrl": "https://www.victoriaadvocate.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_82edca62-1e11-570b-bfa1-921d264be799.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-ai-la-mode-thoughtspot-aims-to-define-modern-data-experiences.md",
       "title": "ÀI La Mode, ThoughtSpot Aims To Define ‘Modern’ Data Experiences",
       "excerpt": "The prehistoric dawn of our first business and scientific data analytics practices saw us crunch data streams in overnight batch processing workloads and deliver results to what we used to call Business Intelligence (BI) suites,",
@@ -1017,196 +1188,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-businesses-in-south-jersey-and-around-the-country-utilize-robots-ai-to-help-customers.md",
-      "title": "Businesses in South Jersey and around the country utilize robots, AI to help customers",
-      "excerpt": "Robots and AI technology assist us in our every day lives. How about Siri, Apple’s virtual assistant, and Alexa, Amazon’s cloud-based voice service? Or AI assistants at stores that help you shop?",
-      "sourceUrl": null,
-      "webUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
-      "originalUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/04/28/PCHH/8457e6e3-ba72-4462-98e7-341ba35b7220-Robotsmashburger.jpg?auto=webp&crop=1511,850,x0,y403&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courier-Post",
-        "domain": "courierpostonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-lost-in-translation-europes-quest-to-speak-ai.md",
-      "title": "Lost in translation: Europe’s quest to speak AI",
-      "excerpt": "So-called AI language models like the American GTP-3 are systems that understand and generate text. The models have triggered a flurry of innovative tools, including multilingual search apps, robot-written news articles, automatic translation and chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
-      "originalUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/07/19/GettyImages-679721356-scaled.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/",
-      "publishedDateTime": "2023-05-09T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-running-tensorflow-decision-forests-models-with-tensorflowjs.md",
-      "title": "Running TensorFlow Decision Forests models with TensorFlow.js",
-      "excerpt": "These instructions explain how to train a TF-DF model and run it on the web using TensorFlow.js. To try out this tutorial, you first need a TF-DF model. You can use your own model or train a model with the Beginner's tutorial. If you simply want to quickly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tf_df_in_tf_js",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tf_df_in_tf_js",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-accelerate-your-speed-of-business-with-ibm-event-automation.md",
-      "title": "Accelerate your speed of business with IBM Event Automation",
-      "excerpt": "IBM is announcing IBM Event Automation, a composable solution designed to help businesses put events to work.\nThe post Accelerate your speed of business with IBM Event Automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accelerate-your-speed-of-business-with-ibm-event-automation/",
-      "originalUrl": "https://www.ibm.com/blog/accelerate-your-speed-of-business-with-ibm-event-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/amv-2021bcncloudbusiness20567.lr_-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Firstpost
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
+    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
+    publishedDateTime: 2023-07-25T16:02:00Z
+    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
     excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
     publishedDateTime: 2023-07-21T20:46:00Z
@@ -42,31 +58,15 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "The Observer view on how Hollywood’s strikes show that we can’t trust corporations with AI"
-    excerpt: "The past 1,000 years show the rewards of technological progress go to those who own and control it, not society"
-    publishedDateTime: 2023-07-23T08:07:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jul/23/observer-view-ai-implementation-must-not-be-left-to-business"
+  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
+    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
+    publishedDateTime: 2023-07-21T19:37:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/493f2dc299cbfa2c11dc35f579670c9638948c42/0_0_8005_4803/master/8005.jpg?width=620&quality=85&auto=format&fit=max&s=8cca2f9417f4fb1d005ee4dd02ef0fdc"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "More or Less: Hollywood and AI. What IS Threads?"
-    excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
-    publishedDateTime: 2023-07-21T18:57:00Z
-    webUrl: "https://www.theinformation.com/articles/more-or-less-hollywood-and-ai-what-is-threads"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
   - title: "‘Bargaining for our very existence’: why the battle over AI is being fought in Hollywood"
     excerpt: "The ramifications of artificial intelligence are of concern to the actors and writers on strike – from big stars to bit players"
     publishedDateTime: 2023-07-22T10:21:00Z
@@ -76,6 +76,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
+  - title: "Christopher Nolan: ‘Very strong parallels’ between Oppenheimer and scientists worried about AI"
+    excerpt: "Clear similarities between J Robert Oppenheimer’s views and those who want AI reined in, film’s director says"
+    publishedDateTime: 2023-07-21T12:16:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/21/christopher-nolan-says-ai-experts-face-their-oppenheimer-moment?ref=upstract.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 5
 
 secured: "nFyRb+wA2SbsW2QDMpzYNQu48TsKu7CYY3bVMgpHNiHVTTMfAwTVfPNnyVghqooQBdxBwF792qQcTdbzGE5fdSpEY5gDDOq4jBfjzbzo7gIpYzJ9N2cgFmLyz8C6zSF/OMx6E/2viK/GbicYEyvljnQssg8kBJj3FGB36cevkW9SREMEUx0whZnXvoXkUWW4URlKkgAv3EBAAssPABUpCGIylN/wKgnGYerfd04ecREVkBhksRCQIOkAMbAFYOaCPmw0S5eKi37jYdh+SDFd5EBVPryEV0TxWR9rsKReAt8xfGaqTInUxoU6Zpw0Y97NTVM0Mvz4if0NzwBnZm9J6TW0A4Vr/cIK9ExAcnHEZZs=;odZOMCKjFukh/WO/9zKF/w=="
 ---

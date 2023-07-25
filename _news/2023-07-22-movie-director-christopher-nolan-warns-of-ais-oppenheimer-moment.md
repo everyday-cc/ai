@@ -18,22 +18,63 @@ topics:
   - AI
 
 related:
-  - title: "Oppenheimer biographer supports US bill to bar use of AI in nuclear launches"
-    excerpt: "Kai Bird, author of American Prometheus, says technology is ‘too dangerous to gamble with’ and supports US senator’s attempt to bar it"
-    publishedDateTime: 2023-07-21T13:36:00Z
-    webUrl: "https://www.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author"
+  - title: "AI is coming for Hollywood. 'It's amazing to see the sophistication of the images,' one of Christopher Nolan's VFX guy says."
+    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
+    publishedDateTime: 2023-07-25T16:02:00Z
+    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Artificial Intelligence is taking centre stage in Hollywood strikes"
+    excerpt: "As the technology to create without creators emerges, actors fear they will lose control of their lucrative likenesses. Unknown actors fear they'll be replaced altogether. Writers fear they'll have to"
+    publishedDateTime: 2023-07-24T04:59:00Z
+    webUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html"
+    ampWebUrl: "https://www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-artificial-intelligence-is-taking-centre-stage-in-hollywood-strikes-12905662.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 57
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/07/AP23202735549919.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
+    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
+    publishedDateTime: 2023-07-21T20:46:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "‘Bargaining for our very existence’: why the battle over AI is being fought in Hollywood"
+    excerpt: "The ramifications of artificial intelligence are of concern to the actors and writers on strike – from big stars to bit players"
+    publishedDateTime: 2023-07-22T10:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/22/sag-aftra-wga-strike-artificial-intelligence?ref=biztoc.com"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/e705b9ba435b7c0a64e3b5dc2ef704a42cc8b7cf/0_105_2615_1569/master/2615.jpg?width=620&quality=85&auto=format&fit=max&s=b8d103881f1dae8b6d3ac417d581f0a2"
-        width: 620
-        height: 372
-        isCached: true
+    quality: 8
   - title: "Christopher Nolan: ‘Very strong parallels’ between Oppenheimer and scientists worried about AI"
     excerpt: "Clear similarities between J Robert Oppenheimer’s views and those who want AI reined in, film’s director says"
     publishedDateTime: 2023-07-21T12:16:00Z

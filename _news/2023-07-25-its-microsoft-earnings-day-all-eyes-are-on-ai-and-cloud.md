@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
+    excerpt: "Microsoft on Tuesday surpassed Wall Street estimates for fourth-quarter revenue and profit as its cloud business benefited from product upgrades featuring new artificial intelligence (AI) technology."
+    publishedDateTime: 2023-07-25T19:21:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-results/microsoft-beats-quarterly-estimates-as-ai-boosts-cloud-business-idUSKBN2Z51XD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/jQHWXRMLG5Y_jyA1ZB6WFkLiKgw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TP3J7GYZQFJPRMG5M7QAFSB3M4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft Partners With Indian Company To Build AI Centers"
     excerpt: "This story was first published on the Benzinga India portal."
     publishedDateTime: 2023-07-24T12:59:00Z
@@ -117,6 +131,15 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Generative AI’s Growth Bodes Well For Microsoft, ChatGPT"
+    excerpt: "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue."
+    publishedDateTime: 2023-07-25T16:39:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ais-growth-bodes-well-for-microsoft-chatgpt/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
   - title: "Genpact teams up with Microsoft to empower its workforce with generative AI tools"
     excerpt: "Genpact aims to empower business teams with generative AI use cases, enhancing employee productivity, operational efficiency and agility."
     publishedDateTime: 2023-07-25T12:00:00Z
@@ -139,6 +162,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/vAI-for-Teams.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Microsoft beats quarterly estimates as AI boosts cloud business and spending"
+    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month \"Copilot\" for its Microsoft 365 service that can summarize a day's worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
+    publishedDateTime: 2023-07-25T20:03:00Z
+    webUrl: "https://gazette.com/news/us-world/microsoft-beats-quarterly-estimates-as-ai-boosts-cloud-business-and-spending/article_3fbee5bc-0317-59eb-8db3-01b62b975517.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/d/82/d829650c-ab9d-5666-a3cc-a48c3b8a0aa0/64c02b4890fd4.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
         isCached: true
   - title: "The AI Launch Pushing Microsoft's Price Higher"
     excerpt: "The post The AI Launch Pushing Microsoft's Price Higher appeared first on American Institute for Crypto Investors."

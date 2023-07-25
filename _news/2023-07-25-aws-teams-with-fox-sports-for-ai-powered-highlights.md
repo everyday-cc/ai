@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fox Expands AI-Powered Highlights System with AWS"
+    excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
+    publishedDateTime: 2023-07-25T18:38:00Z
+    webUrl: "https://www.tvtechnology.com/news/fox-expands-ai-powered-highlights-system-with-aws"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 34
   - title: "Startup targets banks with AI-powered deal-monetization"
     excerpt: "Bank loyalty platform provider Wildfire Systems unveils a tool that could enable banks to earn revenue from merchants when customers click on personalized offers embedded in content via generative AI."
     publishedDateTime: 2023-07-25T12:59:00Z

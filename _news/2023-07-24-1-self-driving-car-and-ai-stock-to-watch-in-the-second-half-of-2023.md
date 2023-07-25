@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stoc
 webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Congress Wades Into Self-Driving Debate With New House Bills"
+    excerpt: "Congress is wading into the debate over whether automakers should be allowed to more self-driving cars while manufacturers seek federal permission to expand testing of the technology."
+    publishedDateTime: 2023-07-25T20:12:00Z
+    webUrl: "https://www.ttnews.com/articles/congress-self-driving-cars"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Capitol-Night-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "0QV4Fd3AqU7tYYOYV4jlNNyOCjSGElHMyRHm4zGHO0K5hsuVNVuHraOAZBBLuNrbEz/JT20VjbcV8NltBE7asRk4Ucl5HfxT/LKhJY7fFSEKWzY7eti6z1cmDyvJyD5In6TcfHuFw3TJ+cTK72RiFeAQLMaqQUoinNBrgTjwbQDnq17DMfz0MtCv3c4uLs1PZxnCnNg2dz2/yTbiBYGIwklSO0iGXbWnyTsLCTD6Yo2N3YOSCtnBooEG5bqZCYVYNyELrnVF9HCJSXEiRpNomI9hU7/g2+V0Afk17ca3VNMDi0xFfYydyGIWpmD2Md+iXHgCc41vy20SDVA+ls+wzr5RA/AItLhSGW12SqBbpLY/e2YdRHOa/7JaJ0kjYE13HUzel4LOQ7/ccm20hxWMG4TMl3FeVDNmiWoYBMvEb4gb4d24/QkB8pf/U4BusJ+9K84k13b8kysxUWbpgy9qLGu9FsoZDLMcEybavXga6DjaN6J7Ax1pTalXxElYezLzUpkyfmHRll/QEZxI+nYVpg==;zyavkZvF3esiIbePXOcLDg=="
 ---

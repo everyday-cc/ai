@@ -41,6 +41,22 @@ related:
         width: 1100
         height: 1540
         isCached: true
+  - title: "Spotify CEO teases potential upcoming AI-powered capabilities surrounding personalization and ads"
+    excerpt: "Spotify CEO Daniel Ek teased a few ways the streaming service could introduce additional AI-powered functionality."
+    publishedDateTime: 2023-07-25T20:16:00Z
+    webUrl: "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/"
+    ampWebUrl: "https://techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1013933224.jpg?resize=1200,709"
+        width: 1200
+        height: 709
+        isCached: true
   - title: "AI assistance revolutionising online education: Personalised learning and beyond"
     excerpt: "AI-powered education is not about replacing teachers but empowering them to provide a more personalised and effective learning experience for their students."
     publishedDateTime: 2023-07-24T10:11:00Z

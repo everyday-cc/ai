@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Indian tech giant Wipro to invest $1B in AI"
+    excerpt: "'Where's the evidence?': Democrat reacts to McCarthy's impeachment threat against Biden"
+    publishedDateTime: 2023-07-25T20:05:00Z
+    webUrl: "https://www.cnn.com/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230725160137-exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business-00002001.png?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Indian AI Tech Support Startup Laying-Off Employees In “Batches” Citing Investor Pressure To Become Profitable"
     excerpt: "Indian AI tech support startup Saarthi.ai has allegedly laid off several employees in batches. The company has claimed it needed a leaner operation primarily because of \"investor pressure\". As Indian startups, primarily in the tech space, increasingly face ..."
     publishedDateTime: 2023-07-21T05:47:00Z

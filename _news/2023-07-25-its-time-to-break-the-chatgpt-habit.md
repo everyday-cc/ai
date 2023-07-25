@@ -8,7 +8,7 @@ webUrl: "https://www.computerworld.com/article/3703058/it-s-time-to-break-the-ch
 ampWebUrl: "https://www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3703058/it-s-time-to-break-the-chatgpt-habit.amp.html"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2023/05/llm-models-100941413-large.jpg?auto=webp&quality=85,70"
@@ -33,6 +34,22 @@ related:
     webUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
     ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ..."
+    publishedDateTime: 2023-07-25T21:35:00Z
+    webUrl: "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
     type: article
     provider:
       name: TechCrunch
@@ -212,6 +229,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "ChatGPT is a black box: how AI research can break it open"
+    excerpt: "Despite their wide use, large language models are still mysterious. Revealing their true nature is urgent and important."
+    publishedDateTime: 2023-07-25T21:11:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02366-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02366-2/d41586-023-02366-2_25834192.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
     excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."
     publishedDateTime: 2023-07-25T14:00:00Z
@@ -225,20 +256,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89661adcacbe9c43/62911639bcee916ef642a845/AI_marcos_alvarado_Alamy.jpg"
         width: 1200
         height: 774
-        isCached: true
-  - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
-    excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"
-    publishedDateTime: 2023-07-21T02:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20230719PR201/press-release.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 30
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230719pr201_files/2_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Please Stop Asking Chatbots for Love Advice"
     excerpt: "Simulations of human conversation powered by artificial intelligence—chatbots—have been much in the news, but I’d never had a patient tell me they’d actually used one for advice before. “What did it tell you?"
@@ -277,6 +294,15 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 17
+  - title: "ChatGPT parent company removes access to AI detection tool due to low accuracy"
+    excerpt: "Even on its launch day, OpenAI admitted the tool was “imperfect” and results should be “taken with a grain of salt.” Now it has been pulled due to its \"low rate of accuracy.\""
+    publishedDateTime: 2023-07-25T19:08:00Z
+    webUrl: "https://wraltechwire.com/2023/07/25/chatgpt-parent-company-removes-access-to-ai-detection-tool-due-to-low-accuracy/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 13
   - title: "From Dr Google to Dr ChatGPT: AI chatbots are increasingly being used for seeking medical advices"
     excerpt: "Google had long been the handy medico of sorts for looking up symptoms, even self-diagnosing and finding remedies."
     publishedDateTime: 2023-07-22T18:50:00Z
@@ -287,6 +313,6 @@ related:
       domain: financialexpress.com
     quality: 6
 
-secured: "YdLACGujb13iE9s8im5BRD5tYem8QhzFNAkS4fVod1gAWuKxSzd1cTRjLP2kQQfL6sFxMEZVpwYS0TNOPWB2egobUFwr0pctKbRdOa3TicHcVr1lWEtmnxnoPoEVAxZ6tNre8jdgDJYPW5+Kf5ex9pbpahpeaud9Jd18uEPiISB26SHlWOV5UNiyeD3oWcGfH5tOeD5mpUpfVGEkDwDbbB4gpQi3+QEa1TxlsBVxhTSFQ9+LGnzGRGmZLNFGjWGm0vg+0xQudS2RWJ01zUNjZHIou1PFVGsaaawqc1yWcEkpxxjTHUjfpsVyw1PSIazJ2f/P9k9vnMRgqFlvf0/D5uls9HjX4YbUOS5WhWwyVto=;s17vSw0C/MOTpOHK1Ott1A=="
+secured: "6JjKsB1cdyRHYBJKWZFH/4esXbm+49rIhTqfOLAk29BGD3+O75VrVcbnCGiXR3oNAXdOxnb7eT2UhHXds84F/a+K4E+KeCuiT7e28ZywQcgxxMXDir7VEQwm/VSVl4LoDMJssG6MJkPDhvSPcJE0h9q0BolMa9/x4jeDrbOrH7O0Bav6OSNAG01vmZRKA3jGvrUQ7CY7KEaZzwZSQDiUyRgh+7UdJR7cIs/SDruYEDPhlhTjbJB5DVcWU75O4VZpI69S5b5hgsIQEClMGlDTG0W9J7192G5vyr4NoTcTfVLmwyxmJfUwz/FSyjXKqvFOyjA9SXwv0govLiake4mwsq8U21Zt7KrKQQllJoIq0CNzhe6lreAVWGwODVw6AxkAbDekvJ5XYXkgYdBcTKIsR1ELwJGnctMlexncndJ1SHcNT3lO0y/NngaJtrUbtZEczreipbx39jb6Nv6ywWoI1mKuUtN04oU9vf0JeckQDFz0pCRbIJrIhXAMHx6qXFLxBUm7Ahb6TUHydSdNhdsPiA==;M7if7aqmzt1cul0X/sPleg=="
 ---
 

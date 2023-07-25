@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
 type: article
 quality: 87
-heat: 387
+heat: 377
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/L-Ee5j36-Th9i-bxuAffSAYJMWE=/0x296:5843x3339/1200x625/media/img/mt/2023/07/GettyImages_1561046611-1/original.jpg"
         width: 1200
         height: 625
-        isCached: true
-  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
-    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
-    publishedDateTime: 2023-07-24T22:19:00Z
-    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "White House got AI firms to agree to voluntary safeguards, but not new regulations"
     excerpt: "Today, the White House announced it has secured voluntary commitments from seven leading AI companies to manage the risks of AI models."

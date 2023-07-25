@@ -2,6 +2,187 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-07-19-un-security-council-holds-1st-meeting-on-ai-very-serious-consequences.md",
+      "title": "UN Security Council holds 1st meeting on AI: ‘Very serious consequences’",
+      "excerpt": "Robots answer questions at AI press conference The United ... Jack Clark, co-founder of high-profile AI startup Anthropic, and Professor Zeng Yi, co-director of the China-UK Research Center for AI Ethics and Governance. “Both military and non-military ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
+      "originalUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalnews.ca/wp-content/uploads/2023/07/Untitled-design-56.png?w=276",
+          "width": 275,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/9840681/un-security-council-ai/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9840681/un-security-council-ai/amp/",
+      "publishedDateTime": "2023-07-18T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-meta-unveils-a-more-powerful-ai-and-isnt-fretting-over-who-uses-it.md",
+      "title": "Meta Unveils a More Powerful A.I. and Isn’t Fretting Over Who Uses It",
+      "excerpt": "The company said it would give outside programmers access to the latest version of its core artificial intelligence technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html",
+      "originalUrl": "https://www.nytimes.com/2023/07/18/technology/meta-ai-open-source.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/07/18/multimedia/18meta-ai-01-wfzm/18meta-ai-01-wfzm-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-facebook-parent-meta-makes-public-its-free-chatgpt-rival-llama-open-source-drives-innovation.md",
+      "title": "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’",
+      "excerpt": "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free.",
+      "sourceUrl": null,
+      "webUrl": "https://greensboro.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_98f2caaa-032e-53e7-b14f-cd831a654a89.html",
+      "originalUrl": "https://greensboro.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_98f2caaa-032e-53e7-b14f-cd831a654a89.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-18T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News & Record",
+        "domain": "greensboro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-this-new-wix-ai-tool-will-generate-your-entire-website-for-you.md",
+      "title": "This new Wix AI tool will generate your entire website for you",
+      "excerpt": "Need to build a website but don't know how to code? Soon you will be able to produce a whole website using ChatGPT-powered tools in Wix.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/",
+      "originalUrl": "https://www.zdnet.com/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/754ecc47d3f776ed93ef9aa5efbac1f0102187f1/2023/07/18/6e3d31e2-c3e2-409c-8b03-0c2ccc80939a/984ed3-c5c8927aeee243d79c40e0215283e645mv2.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-wix-ai-tool-will-just-generate-your-website-for-you/",
+      "publishedDateTime": "2023-07-18T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-facebook-parent-meta-unveils-llama-2-open-source-ai-model-for-commercial-use.md",
       "title": "Facebook parent Meta unveils LLaMA 2 open-source AI model for commercial use",
       "excerpt": "Not only has LLaMA been trained on more data, with more parameters, the model also performs better than its predecessor, according to Meta.",
@@ -562,49 +743,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
-      "title": "How AI is helping to translate the Bible into rare languages",
-      "excerpt": "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”",
-      "sourceUrl": null,
-      "webUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
-      "originalUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg",
-          "width": 670,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
-      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
-      "publishedDateTime": "2023-07-18T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Angelus",
-        "domain": "angelusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-ai-envisioned-the-future-of-downtown-seattle-heres-where-it-fell-short.md",
       "title": "AI envisioned the future of downtown Seattle. Here’s where it fell short.",
       "excerpt": "Can AI help the transform the future of downtown Seattle? In a recent update to its “Downtown Activation Plan” aimed at rejuvenating the city’s core, Seattle leaders released images created… Read More",
@@ -907,21 +1045,21 @@
       ]
     },
     {
-      "path": "_news/2023-07-18-uk-needs-culture-shift-to-become-ai-superpower-deepmind-co-founder.md",
-      "title": "UK needs culture shift to become AI superpower - DeepMind co-founder",
-      "excerpt": "Mustafa Suleyman co-founder of DeepMind and founder of Inflection AI The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage ...",
+      "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
+      "title": "How AI is helping to translate the Bible into rare languages",
+      "excerpt": "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-66166236.amp",
-      "originalUrl": "https://www.bbc.com/news/technology-66166236.amp",
+      "webUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "originalUrl": "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png",
-          "width": 1024,
-          "height": 576,
+          "url": "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360",
+          "width": 540,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -929,23 +1067,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-66166236.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp",
-      "publishedDateTime": "2023-07-18T05:11:00-07:00",
+      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages",
+      "publishedDateTime": "2023-07-18T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Catholic News Agency",
+        "domain": "catholicnewsagency.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -954,7 +1083,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1084,145 +1213,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-figure-humanoid-robotics-receives-investment-from-intel.md",
-      "title": "Figure humanoid robotics receives investment from Intel",
-      "excerpt": "Intel Capital, one of the leading investors in technology startups, has made a significant equity investment of $9 million in Figure, an AI robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "originalUrl": "https://www.geeky-gadgets.com/humanoid-robotics-18-07-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Figure-humanoid-robotics-Intel.jpg",
-          "width": 700,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-the-state-of-cloud-data-security-in-2023.md",
-      "title": "The State Of Cloud Data Security In 2023",
-      "excerpt": "Explore the rising trend of cloud adoption and the need for robust security measures in 2023. Dive into key challenges, solutions, and the future of cloud security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b64a752cc6d30148248097/0x0.jpg?format=jpg&width=1200",
-          "width": 842,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2023/07/18/the-state-of-cloud-data-security-in-2023/amp/",
-      "publishedDateTime": "2023-07-18T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai.md",
-      "title": "Elon Musk Says His Artificial Intelligence Company xAI Is A Direct Competitor To Sam Altman’s OpenAI",
-      "excerpt": "Upon being probed by a user, Musk admitted that xAI is a direct competition to Sam Altman’s OpenAI. He also introduced the founding team of xAI that has many former employees of DeepMind, OpenAI, Google,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
-      "originalUrl": "https://in.mashable.com/tech/56538/elon-musk-says-his-artificial-intelligence-company-xai-is-a-direct-competitor-to-sam-altmans-openai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/mashable_in/seo/default/el_jynx.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-18T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

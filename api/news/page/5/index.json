@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-22-techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations.md",
+      "title": "TechCrunch+ Roundup: Generative AI marketing, European edtech report, falling fintech valuations",
+      "excerpt": "Generative AI tools speed up this work dramatically ... There’s a lot of performative behavior in startup land, such as foosball tables in reception areas and kitchens with kombucha taps. Should we add fundraising to that list? Rebecca Szkutak covered ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
+      "originalUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1267023368.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/",
+      "publishedDateTime": "2023-07-21T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation.md",
+      "title": "Before Congress acts on AI, it should fully understand existing legislation",
+      "excerpt": "AI uncertainty is high, and Congress certainly wants to act. That said, before passing new legislation, we must first analyze what already exists. If we don’t, we risk safety and innovation and set society on unstable footing as we step into the AI age.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
+      "originalUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/07/mcconnellmitch_schumerchuck_071123gn09_w.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
+      "publishedDateTime": "2023-07-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers.md",
+      "title": "Sarah Silverman vs. AI: A new punchline in the battle for ethical digital frontiers",
+      "excerpt": "Generative AI is no laughing matter. Every company that touches consumer data needs to develop and enforce an ethical use policy for gen AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
+      "originalUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_doing_standup_comedy_at_a_club._Colorful_futuri_0c648a96-a33f-499e-a7b3-ac990986f34e.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-australian-dishbrain-researchers-receive-more-than-400k-to-merge-ai-with-human-brain-cells.md",
+      "title": "Australian DishBrain researchers receive more than $400K to merge AI with human brain cells",
+      "excerpt": "Researchers in southern Australia have recently been granted more than $403,000 in funding to merge human brain cells with artificial intelligence technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
+      "originalUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
+      "publishedDateTime": "2023-07-21T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft.md",
       "title": "Redditors prank AI-powered news mill with “Glorbo” in World of Warcraft",
       "excerpt": "In a truly meta moment, later on Thursday, a different Z League bot going under the name \"Ashley Beam\" picked up on a thread about AI-generated content scraping and wrote an automated article about that as well, titled \"World of Warcraft (WoW) Players React to AI-Generated Content on Popular Gaming Sites.\"",
@@ -250,6 +450,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-21-here-are-the-actual-mechanics-behind-powering-ai.md",
+      "title": "Here Are the Actual Mechanics Behind Powering AI",
+      "excerpt": "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-how-ai-enabled-threat-intelligence-is-becoming-our-future.md",
       "title": "How AI-Enabled Threat Intelligence Is Becoming Our Future",
       "excerpt": "As a CEO in the industry, I see tremendous applications of AI in cybersecurity soon, particularly in threat intelligence.",
@@ -300,57 +552,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-oppenheimer-biographer-supports-us-bill-to-bar-use-of-ai-in-nuclear-launches.md",
-      "title": "Oppenheimer biographer supports US bill to bar use of AI in nuclear launches",
-      "excerpt": "Kai Bird, author of American Prometheus, says technology is ‘too dangerous to gamble with’ and supports US senator’s attempt to bar it",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author",
-      "originalUrl": "https://www.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e705b9ba435b7c0a64e3b5dc2ef704a42cc8b7cf/0_105_2615_1569/master/2615.jpg?width=620&quality=85&auto=format&fit=max&s=b8d103881f1dae8b6d3ac417d581f0a2",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author",
-      "publishedDateTime": "2023-07-21T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -719,7 +920,7 @@
       "originalUrl": "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1060,213 +1261,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-experts-discuss-how-artificial-intelligence-could-be-used-in-war.md",
-      "title": "Experts discuss how artificial intelligence could be used in war",
-      "excerpt": "Brandon Tseng, co-founder and president of Shield AI, and Jennifer McArdle, senior director and adjunct senior fellow at CNAS, discuss the military uses of artificial intelligence and address the question of whether humans should be taken out of the \"kill chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/07/21/experts-discuss-how-artificial-intelligence-could-be-used-in-war.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107274604-16899079551689907952-30395291236-1080pnbcnews.jpg?v=1689909894&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-ai-will-lead-to-more-games-being-made-and-more-jobs.md",
-      "title": "AI will 'lead to more games being made and more jobs'",
-      "excerpt": "Dr Richard Wilson, boss of TIGA, says AI will \"reduce the cost of making games and speed up the process\". Video games have been using forms of artificial intelligence for decades. But use of the latest technology in games creation is concerning some who worry that it could cost jobs and create legal issues for studios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-66058906",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-66058906",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/14CC5/production/_130298158_charisma.ai2.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-66058906.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-66058906.amp",
-      "publishedDateTime": "2023-07-20T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-what-tesla-stock-investors-should-know-about-recent-ai-updates.md",
-      "title": "What Tesla Stock Investors Should Know About Recent AI Updates",
-      "excerpt": "Tesla reached over 300 million cumulative miles driven with FSD Beta and believes it can quickly grow to the billions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/20/what-tesla-stock-investors-should-know-about-recen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740671/jose-najarro-2023-07-20t180954043.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-20T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise.md",
-      "title": "Microsoft Puts AI Chat To Work With Bing Chat Enterprise",
-      "excerpt": "Vice President & Principal Analyst, Modern Work, Melody Brue looks at Microsoft's generative AI advancements and their potential impacts on workers and productivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 404,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9bc172887f9f5c637566c/0x0.jpg?format=jpg&width=1200",
-          "width": 720,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/07/20/microsoft-puts-ai-chat-to-work-with-bing-chat-enterprise/amp/",
-      "publishedDateTime": "2023-07-20T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

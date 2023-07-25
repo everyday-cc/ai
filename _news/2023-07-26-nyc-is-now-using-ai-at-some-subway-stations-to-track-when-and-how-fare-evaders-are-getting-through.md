@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyc-mta-ai-at-subway-stations-track-fare-evasion-2023-7?amp"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "MTA using artificial intelligence to tackle fare evasion"
-    excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
-    publishedDateTime: 2023-07-21T02:40:00Z
-    webUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion"
-    ampWebUrl: "https://www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/mta-using-artificial-intelligence-to-tackle-fare-evasion.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 37
   - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
     excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
     publishedDateTime: 2023-07-25T08:42:00Z
@@ -65,6 +54,6 @@ related:
       domain: computerweekly.com
     quality: 28
 
-secured: "eGSacqg47F3PfYlllD73GfjCHK1YFZlsGJlfpJFdWPRgqlzQGjW8hVqI6AlpQJwvmgH9ZMZVWwSPKLY47ptOAJNEqbPdryyLthGSEQG9jRJ74ipIr6v6XBdPTXqqtiB5ZcrF3/rv204Pb/gf3uHu2wZ1I++eoqHxIGPB3C9ASoOUebihE0bzEcfnw9+wjx6rGgOKVgrxCdTaZKQz0jl+N+sIrtNtcpgMK/DJuhChqqUBJEMZhAHsCfMu/04OHZrGCrwOgkwuwdr1ynzaqlPIj4/PBFd2z26Y6hqSXHCeZ5WaSwMOnNhuIKe3zpP703LX8QFhgqf6AWs3/iCDwIHqeHYG3fVOdNhH/7gxlbCKPLY=;5iTn47TH3Cp1DZR1J2vWTw=="
+secured: "MugsilEKNBfvzi2r4V4+LYhYq31ewNUgtxKV87g5/qE5KtWWoOJnGY4RpoNSd1UKOzdns6Qf8JvBqRahXJrEJ7bseJaZXQncVCzeUzhXkHPcebrXZuZm+X2SdthqQMfAtKt4la+TIwPdtDuc4bbKjrIG8pd3/PwdCi58AAFknNDyF0zOEm3qi5ar72Uoj9ZJi5Uegmc3TbdxgrAj07L1HuTjpfBAx+iaY0nXgH6l3fiXsPwnke9geAwTnGC6UBnbEyQVhfpGMhnnjVnIymuJNO5X/eQiCI2gWN/5AIsiNSnmgLRCuy6eoQ3Dn5Gqu9poP+H4nlnUJc605hWuAPe6/WNNs4buVdlMWIyhvzFyXg+Wd8aBCnzeQyTxA1Qgfv4fDnu/zxUDepQI4EvaCcsa/EW7qh0hg3ctIekjBLGHWplIVBCzzjOFrM5KFGJxKPpzU0sTU6LMhZvMXHfnVNZA9HeKSc/JhMow3GkbSZIEGzYWQeKhXD22wSd5QvWz6mH1CxZbpnJIoILh5yROAmLcRg==;GOl9hx9gJvvY+z5ui2KX5Q=="
 ---
 

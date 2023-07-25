@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Indigenous voice to parliament’s No pamphlet casts light where Yes prefers shadows"
+    excerpt: "As we count down towards the most significant referendum since Federation, the picture that has emerged in the Yes and No pamphlets is both telling and saddening."
+    publishedDateTime: 2023-07-21T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliaments-no-pamphlet-casts-light-where-yes-prefers-shadows/news-story/6fbe47376a025d8fee8a8dec201cbbc3"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliaments-no-pamphlet-casts-light-where-yes-prefers-shadows/news-story/6fbe47376a025d8fee8a8dec201cbbc3?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliaments-no-pamphlet-casts-light-where-yes-prefers-shadows/news-story/6fbe47376a025d8fee8a8dec201cbbc3?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 18
   - title: "Indigenous voice to parliament supporters say Anthony Albanese shouldn’t delay referendum"
     excerpt: "Voice co-architect and senior Australian of the Year Tom Calma says the referendum must be held this year and a delay will not change the will of the people, as Anthony Albanese is told to “go the course” by Yes advocates."
     publishedDateTime: 2023-07-23T11:33:00Z

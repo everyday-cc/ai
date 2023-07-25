@@ -2,6 +2,204 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-23-the-newspapermans-trick-for-ai.md",
+      "title": "The Newspaperman’s Trick for AI",
+      "excerpt": "An undisclosed source provided the following.’",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
+      "originalUrl": "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-822237/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-23T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work.md",
+      "title": "At Startup That Says Its AI Writes Medical Records, Humans Do a Lot of the Work",
+      "excerpt": "DeepScribe relies on a team of people to review tech-generated reports, listen to medical conversations and revise the records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work-794be22e",
+      "originalUrl": "https://www.wsj.com/articles/at-startup-that-says-its-ai-writes-medical-records-humans-do-a-lot-of-the-work-794be22e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-801306/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-23T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-ai-investment-is-booming-how-much-is-hype.md",
+      "title": "AI investment is booming. How much is hype?",
+      "excerpt": "French startup Mistral AI didn’t have a working product when it raised €105 million ($118 million) in one of Europe’s largest-ever seed rounds last month. But Antoine Moyroud, a partner at Lightspeed Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230718092914-business-startup-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html",
+      "publishedDateTime": "2023-07-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-23-moral-considerations-in-ai-marketing-building-trust-in-tech-industry.md",
+      "title": "Moral considerations in AI marketing: Building trust in tech industry",
+      "excerpt": "Deepfakes – Generative AI, including machine learning techniques like deepfakes, has the capability to produce synthetic media like images, videos, and audio. This AI-generated content can often be indistinguishable from real media, giving rise to significant ethical concerns and implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/",
+      "originalUrl": "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-23T104311.624.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/",
+      "publishedDateTime": "2023-07-23T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-07-23-ai-safety-isnt-safe.md",
       "title": "“AI Safety” Isn’t Safe",
       "excerpt": "By focusing on grandiose and hypothetical threats, AI executives can continue to hand out user data, ignore the dangers of AI-generated mis-and-disinformation, and engage in other heedless behaviors—while sternly committing to “AI safety” alongside the President of the United States.",
@@ -10,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/07/22/ai-safety-isnt-safe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -61,7 +259,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -104,6 +302,57 @@
         "AI in Autos",
         "AI in Security",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-google-and-openai-plan-technology-to-track-ai-generated-content.md",
+      "title": "Google And OpenAI Plan Technology To Track AI-Generated Content",
+      "excerpt": "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/",
+      "originalUrl": "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/",
+      "publishedDateTime": "2023-07-22T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -158,7 +407,7 @@
       "originalUrl": "https://www.geekwire.com/2023/geekwire-podcast-microsofts-big-bet-on-the-ai-economy-and-the-risks-on-the-road-ahead/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -312,7 +561,7 @@
       "originalUrl": "https://www.forbes.com/sites/billconerly/2023/07/22/ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -553,7 +802,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -656,7 +905,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-66271429",
       "featuredContent": null,
       "highlight": null,
-      "heat": 387,
+      "heat": 377,
       "tags": null,
       "images": [
         {
@@ -988,257 +1237,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations.md",
-      "title": "TechCrunch+ Roundup: Generative AI marketing, European edtech report, falling fintech valuations",
-      "excerpt": "Generative AI tools speed up this work dramatically ... There’s a lot of performative behavior in startup land, such as foosball tables in reception areas and kitchens with kombucha taps. Should we add fundraising to that list? Rebecca Szkutak covered ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
-      "originalUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1267023368.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/",
-      "publishedDateTime": "2023-07-21T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation.md",
-      "title": "Before Congress acts on AI, it should fully understand existing legislation",
-      "excerpt": "AI uncertainty is high, and Congress certainly wants to act. That said, before passing new legislation, we must first analyze what already exists. If we don’t, we risk safety and innovation and set society on unstable footing as we step into the AI age.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
-      "originalUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/07/mcconnellmitch_schumerchuck_071123gn09_w.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
-      "publishedDateTime": "2023-07-21T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo.md",
-      "title": "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo",
-      "excerpt": "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/",
-      "originalUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg",
-          "width": 800,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/",
-      "publishedDateTime": "2023-07-21T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers.md",
-      "title": "Sarah Silverman vs. AI: A new punchline in the battle for ethical digital frontiers",
-      "excerpt": "Generative AI is no laughing matter. Every company that touches consumer data needs to develop and enforce an ethical use policy for gen AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
-      "originalUrl": "https://venturebeat.com/ai/sarah-silverman-vs-ai-a-new-punchline-in-the-battle-for-ethical-digital-frontiers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_a_robot_doing_standup_comedy_at_a_club._Colorful_futuri_0c648a96-a33f-499e-a7b3-ac990986f34e.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-australian-dishbrain-researchers-receive-more-than-400k-to-merge-ai-with-human-brain-cells.md",
-      "title": "Australian DishBrain researchers receive more than $400K to merge AI with human brain cells",
-      "excerpt": "Researchers in southern Australia have recently been granted more than $403,000 in funding to merge human brain cells with artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
-      "originalUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/australian-dishbrain-researchers-receive-400k-merge-ai-human-brain-cells.amp",
-      "publishedDateTime": "2023-07-21T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

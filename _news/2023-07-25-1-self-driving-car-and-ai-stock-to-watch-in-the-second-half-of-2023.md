@@ -62,6 +62,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Congress Wades Into Self-Driving Debate With New House Bills"
+    excerpt: "Congress is wading into the debate over whether automakers should be allowed to more self-driving cars while manufacturers seek federal permission to expand testing of the technology."
+    publishedDateTime: 2023-07-25T20:12:00Z
+    webUrl: "https://www.ttnews.com/articles/congress-self-driving-cars"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-07/Capitol-Night-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "3zpaY7pyCEIaiHPGk5J+UgqBJYKBNQJvPBkOWaip/fNpLN4/PPRpFp2pAgOSjftuyITH4VXKOLySMH8NDv8dk/Cr2njOPCxO3A3PljTTKGhWbp6CpVM3IrQCga7LLP/lm5RO0kXJldI2GzTcK0NHf9bEzs3bJuwMMYQTFqD+6E9Nex63eyO9FovZsKSBJmX3fqra6so8kCcK63m1zo8gv90Jct3CBzHSzoAfSjwY2cT7+G/txfgqqrPhk17y3n3LiY33lEIwGIKX00vQtr7UGK0wtDiN8WjZLnqP/o65ZGkjTUzz2XWL25RPvqIVDtvvePoMBN3dXxCuAzwgTryXiqeH5ySHxUvFmk5JilpBVwQ=;zx/T/LNrA1hDXNwQMpi/nQ=="
 ---

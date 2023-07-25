@@ -9,7 +9,7 @@ ampWebUrl: "https://newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use
 cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1806764/lawmaker-seeks-to-regulate-use-of-ai-technologies/amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://manilastandard.net/wp-content/uploads/2021/03/9c4da_barbers-robert-ace.jpg"
         width: 450
         height: 302
-        isCached: true
-  - title: "Be prepared for AI technology, PH urged"
-    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
-    publishedDateTime: 2023-07-23T16:36:00Z
-    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
-        width: 1200
-        height: 674
         isCached: true
   - title: "Solon seeks creation of agency to tackle AI threats"
     excerpt: "A Mindanao legislator on Sunday called on the country’s policymakers to create an agency that would tackle issues confronting the rise of artificial intelligence.Surigao del Norte 2nd District Rep. Robert Ace Barbers said the agency should be tasked to craft and"

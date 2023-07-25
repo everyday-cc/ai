@@ -58,6 +58,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "The new universe of Artificial Intelligence"
+    excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
+    publishedDateTime: 2023-07-25T18:16:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/07/25/the-new-universe-of-artificial-intelligence"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
 
 secured: "DAgqFj83KUrfYzssppNyAqgH/DSiUaUH7SY8YJbS8TJ8sZUscPxpIEfQHxmgMphXLYHVL8XPv9BfBSjf2LTaW511hLF6bVYSpA1QikKAlqhPIErDEC5nV/1zDWCKBE7X02pmbtB04ZiwfXd49yiUS/4wXYfGM0x3IfWZg5QDiBOgv5sHjmynXtSF1yRV3tsfUyJ13vQYmsk537NByAvSd9yBX0xppWUvYjtrOxkXDfVnR/zIfLb/sNQIdGhPheScAch+bvw/hkuRKRe6t80fmSPNIuV1oX9J7YoiCmKJ/e7tIpX4HzwdtGwrsSnPsJzQzoS3tisM4QepluWe32D9oChnAhImY4M1t7AC6op3U7nOvYatlta7stOCGxmQ1K3xyS4NxmE7nW/iN1Jh59TxSmwKvfV3lcSUWNCCu53otMEDXzT1URg7EOfWpDoGc7r8G/WHWwh2NnMWi6H4iUfYryRJwqY0nYpnHB4K2zVhWbLsGCLcz0kUkeDm93jVOAupUglJVMm25Kwj9pu9eC7TMg==;wHPGOn11SAU5Q3IU+0kS2Q=="
 ---

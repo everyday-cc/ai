@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Why media literacy is key to tackling AI-powered misinformation"
-    excerpt: "With elections in the United States, United Kingdom, India, Taiwan, the European parliament and more than a dozen other European, Asian and African democracies all taking place in 2024, a huge"
-    publishedDateTime: 2023-07-23T15:01:00Z
-    webUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/"
-    ampWebUrl: "https://thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4108304-why-media-literacy-is-key-to-tackling-ai-powered-misinformation/amp/"
+  - title: "Here Are the Actual Mechanics Behind Powering AI"
+    excerpt: "He walks us through the infrastructure involved in powering AI, how difficult it is to get chips right now, who has them, and how the landscape might change in the future. This transcript has been lightly edited for clarity."
+    publishedDateTime: 2023-07-21T14:21:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-21/here-are-the-actual-mechanics-behind-powering-ai"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/fake_news_getty.jpg?w=1280"
-        width: 1280
-        height: 719
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQxpkUu8IGrQ/v1/1200x746.jpg"
+        width: 1200
+        height: 746
         isCached: true
+  - title: "3 Cutting-Edge Biotech Stocks That Are Riding the AI Wave Like None Other"
+    excerpt: "All three companies I'll discuss have smashed the market's return this year so far. While it's true that they're quite risky and still need to prove that their AI-driven business models are more than vaporware, the early signs look positive, so let's take a look at each."
+    publishedDateTime: 2023-07-21T14:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-cutting-edge-biotech-stocks-that-are-riding-the-ai-wave-like-none-other/"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
 
 secured: "K8Zq3GypjQMNJw/LdatCRH2Q5i4o+cHui38idESU+XwSftzMduHfO82fVk5TMJ/+5CRqvW7YsVrhUjSyF8TBYnHl9SEWPsdqjp6ARoIvTiJYwkN+5B/Jviv30WW/tJvOWGp84taAqFdrBo+xnH955ll+Xn83gP37bNZOJvtCi71yMOqVe6Gn7TSQGKHTPHk1XxKgHHRckaxFn1QvIz7o4cCYHU7PoUCdcKnjyPsZIAdDXnavAr+Oq5QNgl4MoT/xs7qyX0EADOKydzRQ00zDq1LPzJ1Y/T1/I3hvVsccWCo3lXhboQD3NKWwUJj0AApXTLlIXqR+2t0NRSC9xAH1oc2kfdPvK5l9baWr+Z6XaMg=;BWt/8gFio3Ryq8qVaakzjQ=="
 ---

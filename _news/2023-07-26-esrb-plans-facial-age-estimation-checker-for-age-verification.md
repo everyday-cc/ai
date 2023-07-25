@@ -233,7 +233,25 @@ related:
       name: Open Rights Group
       domain: openrightsgroup.org
     quality: 19
+  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
+    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
+    publishedDateTime: 2023-07-25T17:17:00Z
+    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 8
+  - title: "The ESRB Wants to Start Using Facial Scanning Technology to Check People's Ages"
+    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
+    publishedDateTime: 2023-07-25T19:43:00Z
+    webUrl: "https://cacm.acm.org/news/274951-the-esrb-wants-to-start-using-facial-scanning-technology-to-check-peoples-ages/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 0
 
-secured: "K/Q9DXDqMjGg/nFVsGNr5t2J6uhBUYA4tSFp64h4A1XbWG5FVk7Ky4pdAdhqsq38HnXgJ33rLiRFuxnurP3RAJmcwnAErjXxgwot0+bxeC85pTfrsdDSuLY1lfqy9woulyf5E31KxNkN4VfjrODpf9e0gLtDm/6JNhHQTEQIH2VxpTN8IoUzGbhdozqpqHptIlB4GydWtUYzZRCxhhIdMOGFd6AowTQJtyEY68uJv7a4yyfPnGt9skSazHAqPaGAy0WHHuD9ZtKKyWg3XqBvEDZZcBSWVYbjI5w2lJchVJVoWLNAGWvyF1WizWhYvlc4yFcYMAbJN5nw9XBuag8RgEs9zMpr6t/tn2aEJ4Zyd5M=;0yPXiKxUsqBlIxDweeanLQ=="
+secured: "qGkTu54iJFFUTGe9MbEcol6IEtLJ0rRolHVAGRKgdu/G54T6QHwnV0DeuF94GSwHDs7wK5O5UtWpS+u4k1SfcPLRfthoXZkyG+fo/ii+gbvKZDfmUMMd03sQAVNg3uBIvsUeVZJfDAbcojvDSWDlSoKvXUtmGKjvZAr/bgcV3FoNnZSNhFF9vvqk2q6YxEANXoYqKkqTbw+gxCeW+BU3JbbTESWCUoLMsImK2p+Jfvuni7UWbwQZZRPUmfljTleZnoJE3QMyv79IaM7iFh7lT2iATSSb6CPn+YMQJaeywKbrN9nO5R9F1KuHCOigW37/yBHSqrWLYoogLT5sSQq5/W4oJn9aPB3sJYjt35geFgiogNiPwi+tWS61bV5zSas4O89/GyBxjPycwhzKGRDIG3oo0NnUSXH3I/dtzvnX4QTfi0WAPv7lllw1nGBzMsBNesx9nqOOWeWRO1LCcEmyLIVGALWJmY4Z/jrYKPtfMB271pdsf8DCmtPe7g1WeRCToIzfUZ+ZOemhz1XWEio2FQ==;MVntXMzHPTJ5DD2sUiptjQ=="
 ---
 

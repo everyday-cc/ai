@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-ea
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "Start-ups seek to challenge Nvidia’s dominance over AI chip market"
-    excerpt: "Celestial AI, a Silicon Valley-based start-up that raised $100mn in June, refocused on “complementing” rather than competing with Nvidia, according to its chief executive Dave Lazovsky, by developing optical technology for connecting AI processors with the high-performance memory needed to feed them data."
-    publishedDateTime: 2023-07-21T04:01:00Z
-    webUrl: "https://www.ft.com/content/1fca1f48-44d8-43ac-bfdd-251b0025347e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Nvidia And AMD: AI Updates From Taiwan Semiconductor's Q2 Earnings"
     excerpt: "Taiwan Semiconductor Manufacturing Company Limited's Q2 earnings affected both Nvidia Corporation and AMD. Read what's next for NVDA and AMD."
     publishedDateTime: 2023-07-21T18:02:00Z

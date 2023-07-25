@@ -233,6 +233,24 @@ related:
       name: Open Rights Group
       domain: openrightsgroup.org
     quality: 19
+  - title: "ESRB Blasts Reports That It's Using Facial Recognition Technology to Verify Ages of Children"
+    excerpt: "The Entertainment Software Ratings Board (ESRB) is debunking recent reports that imply the company wants to use facial recognition tech for children, adding that it has no intention of storing or using \"selfies\" of its users."
+    publishedDateTime: 2023-07-25T17:17:00Z
+    webUrl: "https://www.ign.com/articles/esrb-facial-age-recognition-tech-response"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 8
+  - title: "The ESRB Wants to Start Using Facial Scanning Technology to Check People's Ages"
+    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
+    publishedDateTime: 2023-07-25T19:43:00Z
+    webUrl: "https://cacm.acm.org/news/274951-the-esrb-wants-to-start-using-facial-scanning-technology-to-check-peoples-ages/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 0
 
 secured: "JYk64z7DamkvAt2uOXv6jYWUS+rcQfnL93IOEEmetQYitKBxZHF0ly1J9Ym+jntYq9WcmJLihU+jBEgG2ULygP7xMSRyJaa0d9g4NnZU1X2DBT176ssjb7CowcCAAkkaSSY4yDKIpJr8mxssFL99PcmGPs+UGygW+0uI8SeBYTRgE0jfwIFDTE5RXqKjyKMLH2vsqdwtXKW5JI9cLwoB/Z4SXdyGqwVOm9WWBJsPFVdTh8H7Lwyezwm9wul410PNrI5hTXJryfh48Rxgr2oFnfdtEL4FvLPCe09nYWM4oh4wbpqVE24FHqaX8bhiP2W0Tr/aaY+gY3bl5yJBn4oDZvpg/pjnNX7mlYPXYm4IN3k=;nMoxvyMYOrW9G/qM/kLPBg=="
 ---

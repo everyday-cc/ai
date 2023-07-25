@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6296234/ai-should-be-terrified-of-humans/"
 webUrl: "https://time.com/6296234/ai-should-be-terrified-of-humans/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Biotech begins human trials of drug designed by artificial intelligence"
+    excerpt: "A biotech company backed by Chinese conglomerate Fosun Group and private equity giant Warburg Pincus has begun one of the first mid-stage human trials of a drug discovered and designed by artificial intelligence ... with a novel therapy to treat the ..."
+    publishedDateTime: 2023-07-25T21:13:00Z
+    webUrl: "https://www.ft.com/content/82071cf2-f0da-432b-b815-606d602871fc?_hsenc=p2ANqtz-9Ws_9zMj1G3-N1Sp2wbNC9cjRFqVrC3rdr8YnyldMLaBVnj_nLHh7GKhQKTd5_cMD_mHUL"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "YUWBDUrUxQR6ueVN+gX6XCUjUx89EItXbCYHVbO11Q2zrexdGXjDW0SVoVsgRMyrjr2bpWoh3/YzfiHKyNOinF/E7ip2+j0lZgw8RpcTsClis20P5NHPrSyTqtMF4QlbSpY3Tpl/PcHzOe8bAP4L8s1/XOidasEvj4WlCk9tBJwAJdGhBjt9obpdsVKjit5a6XAlJJEIp/GrmnIC6RISkcvxAQoAemnXE/QCY5Li1E7bOVL+M67PEe3Yf2gJeGPhPbcrdk/BuT8Fz1LBvJze+l7J/SREYODmnCa5AsOBVTC3EDt5yt7i5RSV5jppy/uR8Meq57zRYABfdJrOrJUj2My3FUXC/KnzG2HxWhHgbUek3oKJCdx1/QSglt3Eynt3rjKOMIUkNlrXOf3vaLrvSpyIjjybzo13DGOYMYqr1aQcIr0WCpBgZScCJGh5Qghi4hgZuk0V7kTbb1Bcy5qYBuDhJuUPX3TtOCIDpEFTBd4PwNCfJP3YEUP/sqbvrgWltA2QLp/kyKekM0xZzYn25Q==;7mll5+HCLLXO0olaIeu6rw=="
 ---
