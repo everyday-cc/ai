@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Leading Experiential Marketing Platform, AnyRoad, Announces Pinpoint: New Natural Language Processing and Generative AI Feedback Assistant"
-excerpt: "AnyRoad, the leading platform for data-driven experiential marketing, today announced Pinpoint, a new AI-powered feedback assistant that helps you understand exactly what drives positive and negative brand experiences and the actions you can take to improve impact and ROI."
-publishedDateTime: 2023-07-12T15:22:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/12/9847297.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/12/9847297.htm"
+excerpt: "AnyRoad, the leading platform for data-driven experiential marketing, today announced Pinpoint, a new AI-powered feedback assistant that helps you understand exactly what"
+publishedDateTime: 2023-07-12T15:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33200674/leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33200674/leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing"
+ampWebUrl: "https://www.benzinga.com/amp/content/33200674"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33200674"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Marketing
 
-secured: "4j7YHOoOLB5qvEoSztqKax3EO5v1rOMDjtZN+9JGp2kuSWeyqvieHSH9ul3TfMBP9w4D98j44D7LSNec5CaUFwjitIZmhPzhKzb1vgIHcWFHvOV534KmZeSY1snX8tdYXf2zPtkZge+XMNNQbeZ0ojM2yKxzo5sMD4YmNM719OCEXcGfkwHl2mRPyH0J89OwatGuMmRWs+6fVC/qe7Y33R/tFFdrKfQV5hUzo+k9JuAFFKvjWZV/cCEc+Exgo/pCSJZdbFOkVL9Lp0SVUAEc0iutnzGLw6Nr3K2GaOAiRzN9B00qq/6s+ievM/Th3/IUPP7b7tJcCunFPWd0i7ZycVbiMgbcqyvGEpVRcSmpEbgwWHp1yhXPFZ6/mJ/YOXmDqDEgOwfIVkESIg6BkSoblIP3U3Hkb86Adw2CVuKIL1QOc9A93L3iOSIIW3WpovEwMdoi1klIDWG7ABZSmDarIYBdIrS9RaTZ8AhWRUZVDZ7QdWkT7STrbasxD9TrOsi19bQZxZcf1PfncaU0iJ8/Cg==;oQIbKs/cWEnhAZpCfmPRRA=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "VxgVa+LOrfyJkxIn5Zsc3FUjZvoYhPBIU9HvmAxabfQG+Al1BZbQg9l0uW08Z/lMqH4I+v7dDNDz43TAlso7m1EqaGzmTyrGnchL/oTnd2R5TEMdgJNaNQgOHmhvo1W6XodcPgQ2jSezVdhaoLpy5adW0jFAy+Vyf83x1tcDirmWJDudznbSF5iwxWgGuzWlVojFHY3dTs2rBj2g9OG89V49mMFLto14PL+6rQ8RBgAn6M+PwpynOZFkavQkW5kIvTlXfeZxW2ooSBNqKkFDSN8zsqK+GvHDCHOCIbMQ3UjBe3YHgGTqwG8J+1+UP/9eKtvqeY9NB8ETPlt/4LdBzvwIf5+PAcHpoIwEfp/hC8o=;7aYRuoOv6uE05Vd2Ju3wLQ=="
 ---
 

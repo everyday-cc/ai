@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
-    excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
-    publishedDateTime: 2023-07-20T10:49:00Z
-    webUrl: "https://www.geeky-gadgets.com/llama-2-vs-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Llama-2-vs-ChatGPT-open-source-AI.jpg"
-        width: 700
-        height: 462
         isCached: true
   - title: "Calling out ChatGPT's wonky artificial intelligence grammar"
     excerpt: "Is it possible to defame a robot? Common sense says not, but since when did that prevail over the ass that is law."

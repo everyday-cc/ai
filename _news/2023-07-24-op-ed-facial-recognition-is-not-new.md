@@ -25,22 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Newsletter: Facial recognition at a gas station?"
-    excerpt: "Dot web_crawlr newsletter is your daily internet culture rundown. Subscribe and we will crawl the web so you don't have to."
-    publishedDateTime: 2023-07-24T15:30:00Z
-    webUrl: "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/"
-    ampWebUrl: "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-07-24-2023/?amp"
+  - title: "How face recognition rules in the US got stuck in political gridlock"
+    excerpt: "A national effort to ban police use of face recognition is facing a sobering reality: compromise"
+    publishedDateTime: 2023-07-24T11:01:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 59
     images:
-      - url: "https://uploads.dailydot.com/2023/07/Daily-Dot-Newsletter-Web-Crawlr-Image-07-24-2023.jpg?auto=compress&fm=pjpg"
-        width: 2000
-        height: 1000
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/legislate.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
+  - title: "Australian gaming operator calls for coordination on facial recognition for restrictions"
+    excerpt: "Another Australian state has passed gaming reforms for AML and self-exclusion, and a hospitality operator calls for a national approach to facial recognition."
+    publishedDateTime: 2023-07-21T14:15:00Z
+    webUrl: "https://www.biometricupdate.com/202307/australian-gaming-operator-calls-for-coordination-on-facial-recognition-for-restrictions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
+  - title: "Face Recognition in the U.S. is About to Meet one of its Biggest Tests"
+    excerpt: "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America."
+    publishedDateTime: 2023-07-20T14:50:00Z
+    webUrl: "https://cacm.acm.org/news/274802-face-recognition-in-the-us-is-about-to-meet-one-of-its-biggest-tests/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+  - title: "On the centennial of the Treaty of Lausanne, Kurdish political groups call for constitutional recognition"
+    excerpt: "The treaty, which shaped modern Turkey, only recognized Greeks (Rum), Armenians, and Jews as official minorities, leaving Kurds, which is the largest non-Turk ethnic group in the country, without constitutional recognition."
+    publishedDateTime: 2023-07-24T13:20:00Z
+    webUrl: "https://bianet.org/english/society/281915-on-the-centennial-of-the-treaty-of-lausanne-kurdish-political-groups-call-for-constitutional-recognition"
+    type: article
+    provider:
+      name: bianet
+      domain: bianet.org
+    quality: 0
 
 secured: "4jxEuhhe8SZxfh7n7z3ITZ/WKSBKP21+eu/o9s3F2cSxtwsJZ9lKiZrEd1EKc0SLQ7bhbofCC2F9WqKaiO1fsJRanqI3o91hoHfbHHjls0LYJaB44174I0HUuDu7wlPRLZOkTMZ/XiUDfSJdKMZJDg/k3kISZ/3/rkUfa5zkRGVkI5QxHzQiPveuC3OVrk/qNlioHqUyRFUk+5SCWY6e2lYBr7GDrFFoL9buKCn3PQqOTIeMj+3WGN6WS+J4b5/74/qMkaFhE0bocLSH5xrBJ356cVuR1l923pF7J4E83LtOKBPb+Rhit9P2QM4JFaUZC95P0n1nyALHOakpv6QrcwFQVlZtzWccMt0RGHaBnjUay4l1yNM37zMqu9VyfOnjB2JiSNOt10Zn6sJJbRZ+JobvXTv5EJzlqTuOHDLIoE2irmUMRgnLYVWydibmFC/9aWezAUBLrEF553KKJA1X+TPIa8c6cI2lFK7cyvtjqnXVYhk5DBrPZrpBybVvv9H8DAWqsv6of6D13wNSeaKVTg==;tYJff4HQJGvgY89F2y805w=="
 ---

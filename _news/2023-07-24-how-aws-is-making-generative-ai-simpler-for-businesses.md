@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Generative AI Won’t Disrupt Books"
-    excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
-    publishedDateTime: 2023-07-20T10:00:00Z
-    webUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/"
-    ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/64af1b17da92561daff93c98/master/pass/FOE2.jpg"
-        width: 2600
-        height: 1350
-        isCached: true
   - title: "Single chip architecture to meet generative AI processing challenges"
     excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
     publishedDateTime: 2023-07-21T04:15:00Z

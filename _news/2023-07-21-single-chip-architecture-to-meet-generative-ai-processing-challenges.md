@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Generative AI Won’t Disrupt Books"
-    excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
-    publishedDateTime: 2023-07-20T10:00:00Z
-    webUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/"
-    ampWebUrl: "https://www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/why-generative-ai-wont-disrupt-books/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/64af1b17da92561daff93c98/master/pass/FOE2.jpg"
-        width: 2600
-        height: 1350
-        isCached: true
   - title: "How AWS is making generative AI simpler for businesses"
     excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
     publishedDateTime: 2023-07-24T00:00:00Z

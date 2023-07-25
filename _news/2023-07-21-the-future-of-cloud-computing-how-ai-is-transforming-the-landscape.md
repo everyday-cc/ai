@@ -18,43 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever"
-    excerpt: "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform."
-    publishedDateTime: 2023-07-20T09:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/"
+  - title: "Unlocking AI potential & building trust: Transforming government’s digital landscape"
+    excerpt: "An outlook on the need to untap the potential and build trust around use of Artificial Intelligence for transforming Government’s Digital Landscape"
+    publishedDateTime: 2023-07-22T06:32:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-unlocking-ai-potential-building-trust-transforming-governments-digital-landscape-3182231/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-unlocking-ai-potential-building-trust-transforming-governments-digital-landscape-3182231/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-unlocking-ai-potential-building-trust-transforming-governments-digital-landscape-3182231/lite/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 52
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740240/bull-market-6.jpg"
-        width: 2101
-        height: 1426
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/1-292.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "1 Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist, and 1 That I Wouldn't Touch With a 10-Foot Pole"
-    excerpt: "In the wake of the worst stock market downturn in over a decade, things are starting to look up. Each of the major market indexes has recovered at least 20% from their recent bottoms, causing some investors to announce the arrival of the next bull market -- at least by that measure."
-    publishedDateTime: 2023-07-22T10:12:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/22/1-artificial-intelligence-ai-growth-stock-to-buy-h/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 60
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740269/a-person-looking-at-a-mobile-device-while-seated-at-a-computer-desk-with-an-overlay-of-ai-algorithms-and-stock-price-graphs.jpg"
-        width: 8660
-        height: 5773
-        isCached: true
-  - title: "25 Millionaire-Maker AI Stocks to Buy Now"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips To say that artificial intelligence is transforming the world would be a"
-    publishedDateTime: 2023-07-20T15:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/25-millionaire-maker-ai-stocks-to-buy-now-1032463359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
 
 secured: "q3B2FFDbq7aSmeGuklxizG6csppwC9iiLhgY4CCabzvkA9OPARP2cQVnd95Y8XAXV2QDHoaNCXfcU7kuA+fwYGL0RXxT9vHNsD/mNojXGAUWHY19k+eF0zAx8dPEQjC+oI5iH7pvK/9Vr2XPNTZD+VUTgde91OU9vwuNMGffgiQFfaWGeSgI82U5osaUzZnVtGz5YZfir9RrpiXd05/U3lnDiLLer+To+3r61DZ+zewX4T0oduOIpiURT30qdDaSbCw8VdI0jvcTG+8+iWWkCEpyYiFi6m2sdHAb8LoRpmZg0sm+skovwxe/3TSaMAjbVtr/pPtARhYWls1z4eZgCYFZFkkFcVNr0i48qBBqwvU5Iht0W3ijXgLe/2Acna4ma/6a7Tvayi0BQdZm+7NEaR3OkNINM3zDjFjFpqzcBGEC6F3bBhHLiYcx/ASSYURlMHgiBCtwqoBDmuLnvZML7+KBr1fZUrojZ9q4GWsL8YxVK9xsHk0XY+oDFtkSYL6o1MdH3kXWfpS1cY91a/mB4w==;yxbs1Nd24y2DBkrjleFy6Q=="
 ---

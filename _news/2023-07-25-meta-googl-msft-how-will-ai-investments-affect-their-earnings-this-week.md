@@ -1,33 +1,23 @@
 ---
 category: news
 title: "META, GOOGL, MSFT: How Will AI Investments Affect Their Earnings This Week?"
-excerpt: "AI fever is here to stay, and without a doubt, today’s top-tier tech winners will focus on machine learning as they report their"
+excerpt: "Still, AI should play a role in Microsoft's Q2-2023 results. Thus, you'll definitely want to keep a lookout for the company's upcoming earnings release. After three consecutive beats, analysts are now prepared for Microsoft to report EPS of $2.55."
 publishedDateTime: 2023-07-24T20:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/meta-googl-msft-how-will-ai-investments-affect-their-earnings-this-week-1032471575"
-webUrl: "https://markets.businessinsider.com/news/stocks/meta-googl-msft-how-will-ai-investments-affect-their-earnings-this-week-1032471575"
+originalUrl: "https://www.nasdaq.com/articles/meta-googl-msft:-how-will-ai-investments-affect-their-earnings-this-week"
+webUrl: "https://www.nasdaq.com/articles/meta-googl-msft:-how-will-ai-investments-affect-their-earnings-this-week"
 type: article
-quality: 67
-heat: 67
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/image-599-1024x344.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-    width: 1024
-    height: 344
-    isCached: true
-
-secured: "b8pAti1pAKN0a08uMRcqEss6pZu6o6SxR00odhOjMM8D1TsGPACOy/SP53VhPe2qGhoU3hfjhz3f++0pUxEmrtVFSv6UlJolms2CTclAJXyjgGdRoDhmK9tRugfSVFaDmxF3qUeO2ppywOqYe8jJB4vw2mtU7/Ny7fhz11OE2Vg+ztiwhm748dld2VjdTm65FOlGbAIQS83Bk75SCu/19hSOin4+26ubTy0EMoDBggdnYLRv9Bil2uPENfqXk05EWdShJ0Emx4pdTY07gNhQrTMtQDWaac6nZJvW2WFACDRgRIid4Igp68pNiwCgWpCAH6a7zMFeHIB0QRuU7EoUj+v0gEJQDuhWZ4LUL2asVbE=;dA8iNzSMU9dqnY/TSfQVgQ=="
+secured: "oijY0BPgxkZH3KIb0Zy8dQRnU4lYcPzvttdcVkh3BMSRukZqex2kFNeEJ0Q13MpHps61uNw2CCnlPBXMk9q1+Ja6BvzFP1SMvKRYyO5uZp+TINHTeMdYs9Pd0RFvTdmZtXHNsiq0AoMxXLfkmwsQ+fbpF8YcUekHlclXPNb4sr9m8NdGLWRj0GRjOghfFFMU07Sesd/3yld/iCUPUDbnT1JaB3RkhF9+rf/G85X9Zq1QwlhwVcn3JKt8fcYy2zCMvlhAXMfYruU62SSDavFxpDPS2wyJjua6y23XMPSSQDuaJSp7O5OlwK7rVENFgHLTpHxJ3t79cJgxHQllqQSy5EOF1DGcqQUCn3JetX/yY40=;1B4ZXDJEuN4Wzjnf2eeNwQ=="
 ---
 

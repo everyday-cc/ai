@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
 type: article
 quality: 89
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
+    excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
+    publishedDateTime: 2023-07-25T01:30:00Z
+    webUrl: "https://gizmodo.com.au/2023/07/elon-musk-still-thinks-self-driving-can-save-tesla/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 39
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/07/a2ae6341ce8ae9065edf978925dc54db.webp?quality=75"
+        width: 5557
+        height: 3111
+        isCached: true
   - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
     excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
     publishedDateTime: 2023-07-20T13:53:00Z
@@ -187,6 +201,22 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
+    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
+    publishedDateTime: 2023-07-24T17:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33350824"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33350824"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 30
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Musk open to price cuts as Tesla bets on self-driving future"
     excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."

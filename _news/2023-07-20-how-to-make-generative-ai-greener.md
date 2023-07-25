@@ -88,20 +88,6 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "How to Get Your Company Started With Generative AI"
-    excerpt: "The first step in building your own generative AI is to decide why and how you want to do it. For businesses, the why could be to an ambitious goal, such as becoming the most productive company in your industry or to take over its leading market share."
-    publishedDateTime: 2023-07-20T10:58:00Z
-    webUrl: "https://www.inc.com/peter-cohan/how-to-get-your-company-started-with-generative-ai.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1498363310_532681_ujml84.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
     excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
     publishedDateTime: 2023-07-24T19:38:00Z

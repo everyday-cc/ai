@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/markets/asia/foreign-investors-stream-into
 webUrl: "https://www.reuters.com/markets/asia/foreign-investors-stream-into-taiwan-ai-stocks-beckon-2023-07-21/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/fed3de3b2904a328b7640ab294d67aefa9d6f2eb/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=860c8ed2ccaafe48a54e88f6e0edb024"
         width: 620
         height: 372
+        isCached: true
+  - title: "Driven by AI boom, TSMC to invest $2.9 billion in advanced chip plant in Taiwan"
+    excerpt: "By Sarah Wu and Yimou Lee TAIPEI (Reuters) -Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90"
+    publishedDateTime: 2023-07-25T03:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/24/driven-by-ai-boom/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 50
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O01I-BASEIMAGE.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "TfxCY7lnF7r2XwgOZpZsjFCbMw5O9ZeVZVoBy5LCNvAAUZNQlGWUqAZe2r3ptzzCRh1cWWR2FpSEoTxUYu3kJpjvarWRR9TcF14HtgdDxmfC4zThIga/VeAqIMxk4mX/mbF88aj7Zg+4plKJ86XZiEZGUB9CmEwLpWPSu5DFrLSvxVT1CiMrCNHK6rV6p5cyvcNaG+wYNUCnwMQiGI+Z4/XrnPdZwEV0QLoeVZHghCUgY/hxHFNo0sXEYv9F1Uiwa83mbQBoT7hFowfSTHNnFnekjHU2BW93syE4eFVsJ0Y8zneib5UDeLE640A1e00xhYmUQo+nPEMp3uNUWEH4wNH1yuBz7yL+HGSqKFuc/UQ=;Y+BHjHYofGE8CzvHaL35Gg=="

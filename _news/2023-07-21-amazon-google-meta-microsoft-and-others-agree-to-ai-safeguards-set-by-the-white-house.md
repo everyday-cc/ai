@@ -249,17 +249,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Capgemini and Microsoft Launch Azure Intelligent App Factory for Accelerated Generative AI Implementations"
-    excerpt: "Capgemini and Microsoft have collaborated to create the Azure Intelligent App Factory, a solution aimed at enabling organizations to scale respon"
-    publishedDateTime: 2023-07-20T10:31:00Z
-    webUrl: "https://news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/"
-    ampWebUrl: "https://news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 51
   - title: "Why the AI Boom Is Good for Microsoft, Risky for Chip and Server Makers"
     excerpt: "A CIO survey reveals that companies are prioritizing AI applications in their spending plans. That also helps explain why Taiwan Semi noted a softening in demand for chips in its earnings report."
     publishedDateTime: 2023-07-21T18:07:00Z
@@ -269,15 +258,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 51
-  - title: "Microsoft Azure Managed Lustre for HPC and AI Workloads Now Generally Available"
-    excerpt: "Subscribe for free. Microsoft recently announced the general availability (GA) of Azure Managed Lustre, a managed file system for high-performance computing (HPC) and AI workloads. Wolfgang De Salvador, an EMEA GBB HPC, and AI Senior Specialist at ..."
-    publishedDateTime: 2023-07-20T10:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/azure-managed-lustre-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 45
   - title: "Google, Amazon, Microsoft, Meta other tech firms agree to AI safeguards set by White House"
     excerpt: "The tech giants, along with ChatGPT-maker OpenAI and others, are said to have committed to independent security testing to guard against major risks."
     publishedDateTime: 2023-07-21T15:17:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-t
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Fox Business
@@ -40,20 +40,6 @@ related:
       - url: "https://cruiseindustrynews.com/wp-content/uploads/2023/07/mondee_cruise.jpg"
         width: 800
         height: 718
-        isCached: true
-  - title: "Edtech Startup Scaler Introduces GPT-4 powered AI Teaching Assistant"
-    excerpt: "Scaler (by InterviewBit), one of India's fastest-growing edtech startups, today announced the introduction of its GPT-4 powered AI teaching assistant"
-    publishedDateTime: 2023-07-20T10:52:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/edtech-startup-scaler-introduces-gpt-4.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 37
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQbJQxrjlBeN4cs67CXVdZz2mjCg3OpjcYTCaDMotBBS0w1DicXPURoZR2uskiz7UHmzqLjP2EO1SNhPLg1_ynHYbZ9CHxJDYKzvWpnNtcfiFAN8NTbVNi4AcHTsr-sTkERITlHj82SMrtU71iYNPbHZQslSXBNsOe846623Q3OiZ_CKC2MmLTh2z-WE/s16000/IMG_20230720_161530.png"
-        width: 1000
-        height: 560
         isCached: true
 
 secured: "+ebuyWkvSfjjxja9SB8D+61am8FnbOfo9/Yb5M/xx/JAlcjEd4f9AIgR1uuAIRuiHz7zysGj9Qpp6uYq92L6o9dpYiEDpho8VRLiZhOgRdie9MXsaQrZIcbsNZqUh1I857M9Lcy0NTLp26qF9iROze2NL7Pug73+Z+si8C8MxTxwfov9vlYWArtmWASf7tCFbffmbLR7AyFPMsRzn7vg9Ru9aF7IGvz2Y1a0w6aZg8FBl78/+n8QmY6ymPt/u09avRpD3iQbO5nCd+xFh7/IhLVcYOl4Maa2fv7kTs7GnKfOv4/cbX/YBbqydQr0AQjcOKVrJRx50/XMCGC8aSsUt7/35g0nOuKXdCeoqqKXYbSzHpuX+dYrLo2FzZu24HLsFSC9uRxV+47z2GOAWiSH3KnN712bwcIOz8RtxafS+hM5relUXAF9fL4+5DbmHce9aIz40WTIImtNGOndsZUw5sGNVRPU4wB8z+8yGZJmSFp0ySKD4tpMPlYusn1axeqCwM2oyIUDNKJBYz0LYsIHkQ==;BDtNkI834CjpBB8r+EvUng=="

@@ -80,6 +80,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Democracy, Defence and Conflict in the Age of AI"
+    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
+    publishedDateTime: 2023-07-25T03:07:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 37
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
+        width: 3133
+        height: 1764
+        isCached: true
 
 secured: "SO6+ONTEgYr0wq0Eo92T+b/Hd6kQK2MI4xi2vcLQ39ZfSEixgajhSDipHDiyd+5xXaQSpKdHrJs8CwC8u//5kgi1oTYTR2PNUsa0MTBFcCU73gpkaXXLgKYW2cy9/6VWv1PhQ3H1FQtlO43NU9Wzn6Tg0RnD9iLYAgpEgrOVjeFgtN9rtTAsJiSSfz5tA7QiREuIf/Ck9DHAAep5pEH9tgph9/o0Od1C6DnVI/5ZxKwpkXUaEBnB0CwzWiDj6xMS4hxA1IYJF9MxHUQqq3A7yBi4mAsodrvoAFA7QQ3NicsBJNEaYsFPQYt5fIXE0ONz1dpxC8453m4KPtbHHArC2xnrT6f6eOns0zs48huD8rJ8mnkKy0dxVrDAD8UnKVih1mhrABydZwPLKlg7OiT0ZY462xYsdAEg3hQHP4Tk7emTFSWGBdM0cHDaTo0yrpTTbR/RyQI87L+gIReGULr8jdL1b69rW52PhDTEkUw3gT0QSeZQumEL5/MUiNWfD3851m5u2WhB7Bm5XGq1cuHhrg==;CYOtN4j2UWZpQGAPG7BBtA=="
 ---

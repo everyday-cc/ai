@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-
 webUrl: "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "25 Millionaire-Maker AI Stocks to Buy Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips To say that artificial intelligence is transforming the world would be a"
+    publishedDateTime: 2023-07-20T15:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/25-millionaire-maker-ai-stocks-to-buy-now-1032463359"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "The 3 Best Value AI Stocks to Buy Right Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In 2023, it is impossible to have no knowledge about artificial intelligence"
     publishedDateTime: 2023-07-23T20:00:00Z

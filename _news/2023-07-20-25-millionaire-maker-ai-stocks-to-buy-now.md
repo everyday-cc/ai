@@ -24,43 +24,43 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "A Bull Market Is Coming: 2 Artificial Intelligence (AI) Growth Stocks to Buy Now and Hold Forever"
-    excerpt: "The next bull market could take the S&P 500 much higher, and these growth stocks are well-positioned to outperform."
-    publishedDateTime: 2023-07-20T09:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/20/a-bull-market-is-coming-2-ai-growth-stocks-to-buy/"
+  - title: "2 AI Stocks You Can Buy Right Now for Under $100"
+    excerpt: "However, you don't need boatloads of cash to get exposure to this latest Wall Street trend. If you've got just $100 (which you don't need for contingencies and paying bills), you could buy a few shares of one of these AI stocks."
+    publishedDateTime: 2023-07-21T09:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/21/2-ai-stocks-you-can-buy-right-now-for-under-100/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 71
+    quality: 69
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740240/bull-market-6.jpg"
-        width: 2101
-        height: 1426
+      - url: "https://g.foolcdn.com/editorial/images/739881/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
+        width: 2359
+        height: 1270
         isCached: true
-  - title: "1 Artificial Intelligence (AI) Growth Stock to Buy Hand Over Fist, and 1 That I Wouldn't Touch With a 10-Foot Pole"
-    excerpt: "In the wake of the worst stock market downturn in over a decade, things are starting to look up. Each of the major market indexes has recovered at least 20% from their recent bottoms, causing some investors to announce the arrival of the next bull market -- at least by that measure."
-    publishedDateTime: 2023-07-22T10:12:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/22/1-artificial-intelligence-ai-growth-stock-to-buy-h/"
+  - title: "2 AI Stocks That Could Help Make You a Fortune"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI)."
+    publishedDateTime: 2023-07-22T11:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 60
+    quality: 69
     images:
-      - url: "https://g.foolcdn.com/editorial/images/740269/a-person-looking-at-a-mobile-device-while-seated-at-a-computer-desk-with-an-overlay-of-ai-algorithms-and-stock-price-graphs.jpg"
-        width: 8660
-        height: 5773
+      - url: "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "The future of cloud computing: How AI is transforming the landscape"
-    excerpt: "As the world embraces the transformative potential of artificial intelligence, the cloud computing landscape is evolving at a rapid pace."
-    publishedDateTime: 2023-07-20T18:55:00Z
-    webUrl: "https://siliconangle.com/2023/07/20/future-cloud-computing-ai-transforming-landscape-supercloud3/"
+  - title: "The 3 Best Value AI Stocks to Buy Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In 2023, it is impossible to have no knowledge about artificial intelligence"
+    publishedDateTime: 2023-07-23T20:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-value-ai-stocks-to-buy-right-now-1032467764"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "dby5VGH6LlW6JcA/9iWph0I6MY3vWCbHPcCbialb6UT1N9ZjrTIIW+qTyMi0xraenE3gEEObbSIHmMetyDipGqDVgVPbJ43pur7vgatMHB5Vx4oHNyKz0Oz/MbtFNUCAdhetcWMMieFmjMJz8+mFQG8gkgikCVka4tpJKIYJ/K8goax4eELoYHyJr/duVVEuDX9LiVC09nc3XRMqc20CjprZ/y3VOujizXQwOn5vqGDNEYx9UqxKP9+KxqYXyUiAzdK13oiSO+E5RWkw8c2en9IB2XT2IeZ7M3MEYH37K1mEFmvqfARrzpasCVCGkD7eXDlt+qU1sKBpPGu0AVYWv+49lt6PDHd3cVGIvbTV3VspQoQuZYvKvQAvWHcdzOl/fIbUfNkKW5B7bKsUBq6QB63AbuzLk+qttimNpzbs43eYwdQ4f4TpY/YDq2vE9ClCcRvmyl6DEKq+EQ3ClXAHVxRFLRT0zbeG+u/AZK6P/ZS6IDw8ZqpKsJpuAMCRlBBBZ0/pe6k64OaAtlSOAOcbkQ==;n72xIsVbvrcj/Y6tLHLHfg=="
 ---

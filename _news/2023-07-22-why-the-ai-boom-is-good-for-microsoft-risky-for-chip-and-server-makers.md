@@ -244,26 +244,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Capgemini and Microsoft Launch Azure Intelligent App Factory for Accelerated Generative AI Implementations"
-    excerpt: "Capgemini and Microsoft have collaborated to create the Azure Intelligent App Factory, a solution aimed at enabling organizations to scale respon"
-    publishedDateTime: 2023-07-20T10:31:00Z
-    webUrl: "https://news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/"
-    ampWebUrl: "https://news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/capgemini-and-microsoft-launch-azure-intelligent-app-factory-for-accelerated-generative-ai-implementations/eu-press-release/2023/07/20/12/20/26/119256/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 51
-  - title: "Microsoft Azure Managed Lustre for HPC and AI Workloads Now Generally Available"
-    excerpt: "Subscribe for free. Microsoft recently announced the general availability (GA) of Azure Managed Lustre, a managed file system for high-performance computing (HPC) and AI workloads. Wolfgang De Salvador, an EMEA GBB HPC, and AI Senior Specialist at ..."
-    publishedDateTime: 2023-07-20T10:06:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/azure-managed-lustre-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 45
   - title: "Amazon, Google, Meta, Microsoft and others agree to AI safeguards set by the White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."
     publishedDateTime: 2023-07-21T16:46:00Z

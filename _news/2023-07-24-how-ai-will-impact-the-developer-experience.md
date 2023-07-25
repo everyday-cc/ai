@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-dev
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/laliga.jpg"
         width: 504
         height: 315
+        isCached: true
+  - title: "Democracy, Defence and Conflict in the Age of AI"
+    excerpt: "During the discussion, the speakers explored the intersection of AI and democracy, including the implications of AI for defence. They also proposed strategies to ensure that AI technologies foster, rather than undermine, democratic values amid the challenges posed by an increasingly volatile international security landscape."
+    publishedDateTime: 2023-07-25T03:07:00Z
+    webUrl: "https://knowledge.insead.edu/strategy/democracy-defence-and-conflict-age-ai"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 37
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
+        width: 3133
+        height: 1764
         isCached: true
 
 secured: "d9DGlotyTnFVxuSX479E5K95td8M+Nc7TQUWTNDYD36QA2ExBcZtqisOQolFplCEuwUX0JHpO0Jo62j2m3lFFg949ZR1ExyWC2xD1wNzkdP82iEdmRLArL/JGDX3IWnY63QlCjsegqazaUf6AEKeSNjDb14mwTEbPzb0xaSV1nA2+FSUELlRn5/mKoLmtVVg1Lk/+x+RLjr+9oScy+UPAtPchMxiihKqmcRk22tA9hVIOahK667bN6nEuJtv6PZ+MNUx3xnoAcInIdtAPJhcJSxqRh2m9vGdGworjmPveloNWbUQdwsSQ205grYxknSDxrUdZRCJEgC6jHogFB0VqeYrlbr0YMkLMoKwtY0aRzK9KmBDcTh2Ar5uSOBcRDDzH0QbInuN/X+73z9S5O8menmcRNsLz4Kg/QUxSxpP6u6vwPlGbmPKPQhuWMc8KrM3pTnSxKZnWplAWop8UhNoTodR23gSTSwKzBwEyKIJNfeTf153g1zSQ6SOUs8veysVbkfAyPAKmoXCelc7KVchvw==;QvU/+Yn5LZ3f98KhqqRp5w=="

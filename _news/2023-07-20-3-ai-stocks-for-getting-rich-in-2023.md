@@ -37,22 +37,6 @@ related:
         width: 6000
         height: 4002
         isCached: true
-  - title: "Elon Musk Sets New Target For AI, Products To Include Self-driving Software, Robots"
-    excerpt: "Rising interest rates and competition from new EV makers have forced Tesla to cut vehicle prices to gain market share, hurting margins."
-    publishedDateTime: 2023-07-20T09:14:00Z
-    webUrl: "https://www.republicworld.com/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/international-business/elon-musk-sets-new-target-for-ai-products-to-include-self-driving-software-robots-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 53
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/fus1nieccu7bwoun_1689844201.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Are self-driving cars a national security risk?"
     excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
     publishedDateTime: 2023-07-20T17:00:00Z
@@ -66,20 +50,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize"
         width: 1080
         height: 567
-        isCached: true
-  - title: "Unraveling The Limitations And Challenges Of Artificial Intelligence Today"
-    excerpt: "Welcome to the world where science fiction turns into reality – Artificial Intelligence (AI). From self-driving cars to personalized recommendations, AI is revolutionizing industries and transforming our lives."
-    publishedDateTime: 2023-07-20T10:43:00Z
-    webUrl: "https://techbullion.com/unraveling-the-limitations-and-challenges-of-artificial-intelligence-today/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-1.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."

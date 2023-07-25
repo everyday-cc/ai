@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Driven by AI boom, TSMC to invest $2.9 billion in advanced chip plant in Taiwan"
+    excerpt: "By Sarah Wu and Yimou Lee TAIPEI (Reuters) -Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90"
+    publishedDateTime: 2023-07-25T03:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/24/driven-by-ai-boom/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 50
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O01I-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "geKZduXzVp8FBwc0FnDRrM4CzyzjggXBsOik/6OTJ0975Ml3OJm+aBMMcNuDoijERnabgnfPFJUpzpIKyfUU2iE8ktKqbZbQ30y7qqznadKjBrHEFAT5PVuggFMxdidlnJjGGodo3Bt5xC1MuizxrWnOG4U/bRsWumnhcUN4fXXnx42CbmZ3rns0YyJ6USy0A6wzHqgCuHfiIxKxjPd1Ri1nj5r5xzWeGyGguXA6TULY0FTJpDXPvHLTOPcKKb+ZtyPvqWYdWWVe2u4UsnhUPFBiX5tOtAUKczfEOz3IvUxtRQr/JptVGSDchx66QHcrIkmk1Q4Sh8TWCxx7YaiXoFRBK4cRhv0kxbUo+hlYw7XfMJLvVjz7/9V2soS+gO+XZadJEO9r05Swp4EtEminu4alqyz98++KMUgW/ZbTElgPhqFFSPfsmY8PobBlQPH+N5zHhdUqoNTyPrKI/WH9QqwBva+Zhb+gs1zw/fo5OH96Wyj/pL4GaAzYwaMBqQyDdUhJopdhk6OmJpDQG7U3uw==;bGaNEMUBPpoHdWXhzeOgFQ=="
 ---

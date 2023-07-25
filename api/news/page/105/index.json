@@ -2,49 +2,6 @@
   "page": 105,
   "value": [
     {
-      "path": "_news/2023-05-16-anybotics-raises-50-million-to-help-deploy-its-robot-dog.md",
-      "title": "ANYbotics raises $50 million to help deploy its robot dog",
-      "excerpt": "ANYbotics this week announced a $50 million Series B. The round, led by Walden Catalyst and NGP Capital, comes as the firm is pushing to deploy its ruggedized four-legged robot, ANYmal X. That follows a $22 million round raised in December 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/16/anybotics-raises-50-million-to-help-deploy-its-robot-dog/",
-      "originalUrl": "https://techcrunch.com/2023/05/16/anybotics-raises-50-million-to-help-deploy-its-robot-dog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-sap-develops-ai-driven-skills-for-workforce-processes.md",
       "title": "SAP Develops AI-Driven Skills For Workforce Processes",
       "excerpt": "Embedding generative AI and chatbots into SAP is all about increasing the productivity of all users and opening up new workplace innovations says SAP CEO Christian Klein.",
@@ -1225,6 +1182,40 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-baidu-nasdaqbaidu-q1-earnings-today-what-to-expect.md",
+      "title": "Baidu (NASDAQ:Baidu) Q1 Earnings Today: What to Expect",
+      "excerpt": "Additionally, Baidu’s Apollo Go Robotaxi service offerings (a self-driving ride-hailing platform) in key cities, including Beijing and Wuhan, are likely to have driven revenues in the to-be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-nasdaq:baidu-q1-earnings-today:-what-to-expect",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-nasdaq:baidu-q1-earnings-today:-what-to-expect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

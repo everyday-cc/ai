@@ -24,19 +24,6 @@ images:
     height: 2524
     isCached: true
 
-related:
-  - title: "Elon Musk optimistic on progress for self-driving software, robots"
-    excerpt: "Tesla Chief Executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories. The electric vehicle maker is in early talks with a major automaker to license its full self-driving technology,"
-    publishedDateTime: 2023-07-20T10:04:00Z
-    webUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/"
-    ampWebUrl: "https://www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/world/2023/07/20/535213/elon-musk-optimistic-on-progress-for-self-driving-software-robots/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 24
-
 secured: "O2WTdIjNpTJ2ZBIFyTDQyvRDDoxHdWiM2jhag8WYn55rpBHHeBMPhZFT7uVOBPp9Og+x8CKtkREWaDMwj+jCJdUCuEEjO9Jm9mge2x2XXylSlwuUKY+zUdEWQBGbvPzBYWJ0YlLp8m1RHdWxUneIUTnqS9cSylje4juVkYDbRkB02tgCSfWm8gG4rphZjZ+htHtD2vULvta4Jc6jFfCs+xVRdC4HzI4r2OvVi4x/oA/DlyOBxCD3mJ91hjA0YDfqpwaJuqksAS8fYbDW/JFVN3ILVkj48y/U8ubf+Rj+FxD1bZdzyCzAGCneS2p6kjZmV3NNgaFn+HEf2EKUAe5XQS7oUdnNB9cPnzTHTlUFmWxBo3vjVG4S0S0SAwR757i70/taKeetBnJ4L2PH4SQ3VMPvWcp4Ip2cm0r9ktm+1MjxcbfRayLuXRq6sbFVkD/FGzgRuw33BpqXwoS+uKVYLC11VvqMvdQfsZSET+jL69lxUOp9hc66FStHZSqB7FUjubsuSPr9xqWPyTTunKYy5A==;/Jfo5reZ5oWWDZlZsAXMmQ=="
 ---
 

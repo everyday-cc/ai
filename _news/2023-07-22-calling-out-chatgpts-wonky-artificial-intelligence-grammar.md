@@ -126,20 +126,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
-    excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
-    publishedDateTime: 2023-07-20T10:49:00Z
-    webUrl: "https://www.geeky-gadgets.com/llama-2-vs-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/07/Llama-2-vs-ChatGPT-open-source-AI.jpg"
-        width: 700
-        height: 462
-        isCached: true
   - title: "Meta’s Llama 2 Challenges OpenAI’s ChatGPT: A New Era in AI Development"
     excerpt: "In an intriguing turn of events, Meta has decided to open-source its large language model, Llama 2. This strategic decision not only positions Meta as a direct competitor to OpenAI's ChatGPT but also democratizes access to advanced AI tools."
     publishedDateTime: 2023-07-21T23:09:00Z

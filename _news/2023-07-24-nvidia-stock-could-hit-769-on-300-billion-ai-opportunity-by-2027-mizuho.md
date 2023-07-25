@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia could mint $300 billion in AI revenues by 2027, 10 times the expected takings this year, analyst says"
+    excerpt: "Mizuho analyst Vijay Rakesh expects the company to generate $25 billion to $30 billion in AI revenues this year."
+    publishedDateTime: 2023-07-25T03:27:00Z
+    webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/64bf2969bea34400196092dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nvidia Jumps Higher As Mizuho Analysts See $300 Billion AI Chip Potential"
     excerpt: "Nvidia's 'dominating' presence in the expanding AI chip market could peg its market value near $2 trillion by 2027."
     publishedDateTime: 2023-07-24T11:14:00Z

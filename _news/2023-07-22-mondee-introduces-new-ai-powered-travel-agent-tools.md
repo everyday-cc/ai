@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Edtech Startup Scaler Introduces GPT-4 powered AI Teaching Assistant"
-    excerpt: "Scaler (by InterviewBit), one of India's fastest-growing edtech startups, today announced the introduction of its GPT-4 powered AI teaching assistant"
-    publishedDateTime: 2023-07-20T10:52:00Z
-    webUrl: "https://www.indianweb2.com/2023/07/edtech-startup-scaler-introduces-gpt-4.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 37
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQbJQxrjlBeN4cs67CXVdZz2mjCg3OpjcYTCaDMotBBS0w1DicXPURoZR2uskiz7UHmzqLjP2EO1SNhPLg1_ynHYbZ9CHxJDYKzvWpnNtcfiFAN8NTbVNi4AcHTsr-sTkERITlHj82SMrtU71iYNPbHZQslSXBNsOe846623Q3OiZ_CKC2MmLTh2z-WE/s16000/IMG_20230720_161530.png"
-        width: 1000
-        height: 560
-        isCached: true
 
 secured: "qXVY/ynRJgpCvz7I5vd+ufslRCV08JfQZ1XL+Oa3nL2f6CzmHy8BCZRugRMA3mVbeSHwh9TSslAqB3WivIUJDGqdS5FRHQtAKH0mJAiXw5ZF6vr0dBBUYS1IpBiypm4GfHFjZXO/0BfI+6y/S5kz80N1B/cRx06mQm8AvOGKBfSTO6bHipYdf/bOciiknNFQw/ejhH9jos/5jXca/Dgb+XP/Ey6dEtpo7Pl5jZ7px4JAIZQR9sPK6hTEPMMw799EJ7xwyeZuAbjXI/E2Oz0GdJbbfcQ4416h5IVayecwvUGg3Ucbo6Ot3w425ANx/Nk8EQRaqipdbvT6cu/FcrlL53AAySytdkvIhN6Pz5W1yP0thqPWnc/GDqO7icoWLssTe2SJyJSGBFNZX2dw6MZHDPyUjFzX+ptlG5Vu7zuhBI+8ZoA93TFg9OtDv3f0P054POaTS+RLR9fIrGnFJrAuarbKqXlMoFuMjW0eC7+JAwu3lQWVeurvnKW50Gddd/v2x/4bPhrFv9UQtsvFPNmeJg==;LAoN6UjEbH4uNl2fJJeHRw=="
 ---
