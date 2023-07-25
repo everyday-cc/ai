@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
         width: 690
         height: 400
-        isCached: true
-  - title: "From Inspiration to Innovation: Exploring the Creative Possibilities of Designs.ai’s AI Writer in Copywriting"
-    excerpt: "Introduction In recent years, Artificial Intelligence (AI) has revolutionized various industries, and copywriting is no exception. With the rise of AI-powered writing tools, traditional copywriting processes have been transformed,"
-    publishedDateTime: 2023-07-20T07:15:00Z
-    webUrl: "https://techbullion.com/from-inspiration-to-innovation-exploring-the-creative-possibilities-of-designs-ais-ai-writer-in-copywriting/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 20
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/man-chat-with-ai-artificial-intelligence-ai-chat-technology-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "ej+rp2BodaUjla890rgKrpp+frlZHJgTVMHWB1BT0NdR6N148np6ey3hiYsAU/YKVLV0bOCkf4ohEdq4Jhlut0Adgtc9M4qaduL8r4PLY5GXIIkIyfdkGGVwOqLmHtCbYT8yNpLt6hfZGn9uVkYppXiGXAHHSYXpyjjxjaR/b4cpoWEMw4ZinyMLE1x4FA/NBVetIcT4M207LdpcHvz44pwTTpdDF0rYp5IU4O1IjYAmbwkLRz4UjP10ZxdbxHJgpS4OZwnCF7CziAU7Llg5bGMdB7hs3ebIMFQHtgQtpQsBWfehTekgvcAcnU5bhWfBLEBH0YA+rUYk7vtwY6otGqiRvcaSS6T8jB7YHHZdZ/A=;cSG5ZOwdaKjPBaZKV/Qw0w=="

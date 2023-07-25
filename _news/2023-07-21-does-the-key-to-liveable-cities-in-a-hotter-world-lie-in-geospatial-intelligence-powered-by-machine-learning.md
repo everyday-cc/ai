@@ -36,7 +36,7 @@ related:
     provider:
       name: federalnewsnetwork.com
       domain: federalnewsnetwork.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/05/GettyImages-1384658578.jpg"
         width: 2301

@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "4 insights to kick-start your day, featuring Twitter’s fintech makeover"
+    excerpt: "Twitter’s fintech pivot; Coffee Day insolvency; Byju’s loan deal; and tech co’s on AI laws. Bye-bye, blue birdie! This just happened. Twitter changes its logo to X. Hidden in plain sight. The new logo is a throwback to one of the early ventures that Elon Musk first made a name with — X."
+    publishedDateTime: 2023-07-25T00:53:00Z
+    webUrl: "https://economictimes.indiatimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/primearticleshow/102092222.cms"
+    ampWebUrl: "https://m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+        width: 710
+        height: 408
+        isCached: true
   - title: "Founders Factory partners with Mediobanca to boost fintech investment"
     excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."
     publishedDateTime: 2023-07-24T08:30:00Z

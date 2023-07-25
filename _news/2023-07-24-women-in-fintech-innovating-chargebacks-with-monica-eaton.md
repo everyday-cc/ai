@@ -33,20 +33,6 @@ related:
         width: 630
         height: 595
         isCached: true
-  - title: "The Essentials Of Blockchain Technology In Fintech"
-    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
-    publishedDateTime: 2023-07-20T08:24:00Z
-    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI revolution in fintech: How India is leading the way"
     excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
     publishedDateTime: 2023-07-21T08:21:00Z

@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-08-how-much-should-we-fear-artificial-intelligence.md",
+      "title": "How much should we fear artificial intelligence?",
+      "excerpt": "How much should we fear artificial intelligence? on facebook (opens in a new window) How much should we fear artificial intelligence? on linkedin (opens in a new window)",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
+      "originalUrl": "https://www.ft.com/content/6e775538-00a0-450e-8bba-33e1c13ebc6b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F5b8ca4e1-e9cb-4b66-8c72-4a322a16ee90?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-07-moh-agency-microsoft-to-develop-ai-tool-to-help-healthcare-workers-in-singapore.md",
+      "title": "MOH agency, Microsoft to develop AI tool to help healthcare workers in Singapore",
+      "excerpt": "SINGAPORE – Healthcare professionals in Singapore will have an artificial intelligence (AI) tool to help them get quick and accurate answers to questions about care protocols for medical conditions or subsidies available to patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
+      "originalUrl": "https://www.straitstimes.com/singapore/health/moh-agency-microsoft-to-develop-ai-tool-for-healthcare-workers-in-s-pore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/07/hzhospital070723_0.jpg?VersionId=DmWmvyy8TAXRSC55NTAwkREwOC2gKdiw&h=40abc946",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-07T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
       "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
       "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ...",
@@ -1276,94 +1364,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-heres-how-robotics-in-healthcare-settings-could-reduce-wait-times.md",
-      "title": "Here’s how robotics in healthcare settings could reduce wait times",
-      "excerpt": "A Kitchener-based company is looking to address healthcare shortages through its artificial intelligence-powered robotics system.",
-      "sourceUrl": null,
-      "webUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "originalUrl": "https://kitchener.ctvnews.ca/here-s-how-robotics-in-healthcare-settings-could-reduce-wait-times-1.6457024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/6/26/uw-1-6457025-1687824774541.png",
-          "width": 695,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-defining-the-unexplainable-in-artificial-intelligence.md",
-      "title": "Defining the unexplainable in artificial intelligence",
-      "excerpt": "The term \"artificial intelligence,\" usually abbreviated as AI, means many things to many people. Initially, the phrase was used to allude to the potential of machines, computers, specifically, somehow gaining sentience on a par with human consciousness.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/artificial-intelligenc-55.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-unexplainable-artificial-intelligence.amp",
-      "publishedDateTime": "2023-06-26T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

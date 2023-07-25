@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-bu
 webUrl: "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
+    publishedDateTime: 2023-07-25T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "y9Ls9x3XhR6QaiyLEd/JcBM9Gj3UWgdrpeu7ECtQn9a7XIGebmJAU2WilcO+9NtHSQbE2Y58IraoVpLqyS1W2iyhlGXPc7Qp7jaejf4H0lUENOYDJa1CvgK1MG3KP6EbUvV6K3L2U+B7C9Nb1/rJdZvb4EJVRLWboMwmbKZtf8qJmNCpPh4l/aQYbVi73YuUmobwcryWdmIEPWGOaL6uwbSFXChaj9Uj/oSpWVq9A3ixwYpr/IHAvCfJU9iDPJbea8c1JfyRhIdUdaN6R/H88pFpLfmiTBYO2lQBCWGT0DaY/QD1tQKOUov5sly/8v2zDA9Q6Y3z+pn5/aaZdojn2o0wsFHcLOLaUyM46+EmdS0azFp/fyE2sCjdoOVL3egk6RaOelGX0E/7bi/kv6u16xS9jzDIn3m6U9LbmqW2Brqr3FE35D4wUFrGB/H/2dZLwauqNKxDR0rNOHEEgJrJTvMv+OZnZ4F+yJjH8qnQW0iFSGwrctb/E+lE/UsNe5wMjomDODfEgpo/oLVcp0zt2A==;97Az4lBExIEAEDKYiRRZkQ=="
 ---

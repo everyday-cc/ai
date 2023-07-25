@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-22-is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped.md",
+      "title": "Is Financial Inclusion A Friction Point As Synergies Between AI And Crypto Are Hyped?",
+      "excerpt": "The intersection of Web3 and artificial intelligence has emerged as a hot topic. However, as Congress and the White House focus on risks, what about equity and inclusion?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bb4cfc812bf57af59a6bb7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/22/is-financial-inclusion-a-friction-point-as-synergies-between-ai-and-crypto-are-hyped/amp/",
+      "publishedDateTime": "2023-07-22T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-ai-is-supposed-to-make-our-jobs-easier-these-workers-disagree.md",
       "title": "AI is supposed to make our jobs easier. These workers disagree",
       "excerpt": "A new crop of artificial intelligence tools carries the promise of streamlining tasks, improving efficiency and boosting productivity in the workplace. But that hasn’t been Neil Clarke’s experience so far.",
@@ -454,7 +505,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -633,6 +684,49 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation.md",
+      "title": "Before Congress acts on AI, it should fully understand existing legislation",
+      "excerpt": "AI uncertainty is high, and Congress certainly wants to act. That said, before passing new legislation, we must first analyze what already exists. If we don’t, we risk safety and innovation and set society on unstable footing as we step into the AI age.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
+      "originalUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/07/mcconnellmitch_schumerchuck_071123gn09_w.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
+      "publishedDateTime": "2023-07-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1151,110 +1245,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-roboticsan-extension-of-the-ongoing-digital-transformation.md",
-      "title": "Robotics—An Extension Of The Ongoing Digital Transformation",
-      "excerpt": "Now is the time for companies to modernize their infrastructure, as the technology is available and the potential return on investment is compelling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/600203d32263d67c03ef9d7d/0x0.jpg?format=jpg&crop=5328,2998,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/",
-      "publishedDateTime": "2023-07-21T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-how-advancements-in-genai-can-make-self-driving-operations-a-reality.md",
-      "title": "How Advancements In GenAI Can Make Self-Driving Operations A Reality",
-      "excerpt": "This piece will outline how AIOps can better ensure websites, applications, databases and infrastructure—including the underlying networks—function better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b9625753df287d02bd34f2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/",
-      "publishedDateTime": "2023-07-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

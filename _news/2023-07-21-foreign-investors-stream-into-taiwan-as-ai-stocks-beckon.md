@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/asia/foreign-investors-stream-into
 webUrl: "https://www.reuters.com/markets/asia/foreign-investors-stream-into-taiwan-ai-stocks-beckon-2023-07-21/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Taiwan’s export orders slump for 10th straight month in June, Taipei pins hopes on AI demand"
-    excerpt: "Taiwan’s export orders fell by 24.9 per cent from a year ago in June, but Taipei expects improvements in the second half of the year due to the growing demand for its artificial intelligence (AI) supply chain."
-    publishedDateTime: 2023-07-20T09:07:00Z
-    webUrl: "https://www.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand"
-    ampWebUrl: "https://amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/global-economy/article/3228346/taiwans-export-orders-slump-10th-straight-month-june-taipei-pins-hopes-ai-demand"
+  - title: "Artificial intelligence boom generates optimism in tech sector as stocks soar"
+    excerpt: "The rush into AI has given the flagging technology industry a share price lift, but some investors still remain cautious"
+    publishedDateTime: 2023-07-22T22:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/23/artificial-intelligence-boom-generates-optimism-in-tech-sector-as-stocks-soar"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 78
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/20/725e7390-60ec-4ffa-944b-870aa0763028_b12c76bf.jpg?itok=CjjUwRdf&v=1689843987"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/fed3de3b2904a328b7640ab294d67aefa9d6f2eb/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=860c8ed2ccaafe48a54e88f6e0edb024"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "TfxCY7lnF7r2XwgOZpZsjFCbMw5O9ZeVZVoBy5LCNvAAUZNQlGWUqAZe2r3ptzzCRh1cWWR2FpSEoTxUYu3kJpjvarWRR9TcF14HtgdDxmfC4zThIga/VeAqIMxk4mX/mbF88aj7Zg+4plKJ86XZiEZGUB9CmEwLpWPSu5DFrLSvxVT1CiMrCNHK6rV6p5cyvcNaG+wYNUCnwMQiGI+Z4/XrnPdZwEV0QLoeVZHghCUgY/hxHFNo0sXEYv9F1Uiwa83mbQBoT7hFowfSTHNnFnekjHU2BW93syE4eFVsJ0Y8zneib5UDeLE640A1e00xhYmUQo+nPEMp3uNUWEH4wNH1yuBz7yL+HGSqKFuc/UQ=;Y+BHjHYofGE8CzvHaL35Gg=="

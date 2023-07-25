@@ -59,6 +59,20 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Perth's Nexion to resell IBM ESG offerings and Watson AI"
+    excerpt: "ASX listed Nexion Group has entered a new agreement with IBM to become a Silver Business Partner so it can resell some of the vendor’s software solutions. The company will resell IBM’s artificial intelligence platform Watson and Sustainability Suite, incorporating asset management and environmental, social and governance (ESG) reporting."
+    publishedDateTime: 2023-07-24T23:03:00Z
+    webUrl: "https://www.crn.com.au/news/perths-nexion-to-resell-ibm-esg-offerings-and-watson-ai-598397"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20230725100452_0_0_0_0_70__News_watson20121227071906.png"
+        width: 525
+        height: 352
+        isCached: true
   - title: "IBM’s Watson rebooted as a secure AI alternative"
     excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
     publishedDateTime: 2023-07-20T20:51:00Z

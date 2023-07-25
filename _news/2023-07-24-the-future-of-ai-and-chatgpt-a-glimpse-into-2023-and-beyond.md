@@ -113,22 +113,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
-  - title: "Apple (AAPL) Stock Rises Briefly Following Rumors of Internal Generative AI Chatbot Rivalling ChatGPT"
-    excerpt: "Reportedly, select staff have access to the developing Apple AI chatbot the company plans will rival ChatGPT and Bard."
-    publishedDateTime: 2023-07-20T08:16:00Z
-    webUrl: "https://www.coinspeaker.com/apple-stock-generative-ai-chatbot/"
-    ampWebUrl: "https://www.coinspeaker.com/apple-stock-generative-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/apple-stock-generative-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 44
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/apple-stock-generative-ai-chatbot.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Llama 2 vs ChatGPT 3.5 is open source AI the way forward?"
     excerpt: "If you would like to learn more about the differences between Llama 2 vs ChatGPT this guide provides an overview of the new open source AI"
     publishedDateTime: 2023-07-20T10:49:00Z

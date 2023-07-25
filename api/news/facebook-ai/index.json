@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation.md",
+      "title": "Before Congress acts on AI, it should fully understand existing legislation",
+      "excerpt": "AI uncertainty is high, and Congress certainly wants to act. That said, before passing new legislation, we must first analyze what already exists. If we don’t, we risk safety and innovation and set society on unstable footing as we step into the AI age.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
+      "originalUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/07/mcconnellmitch_schumerchuck_071123gn09_w.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/",
+      "publishedDateTime": "2023-07-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-amds-best-bet-on-ai-might-not-be-what-you-think.md",
       "title": "AMD's Best Bet on AI Might Not Be What You Think",
       "excerpt": "But FPGAs are a big bet on AI, too, and still get little love from the investor community. The addition of Xilinx remade AMD's embedded segment into a high-growth powerhouse that raked in over $1.5 billion in sales last quarter.",
@@ -1453,59 +1496,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-ai-foundation-launches-aixyz-to-give-people-their-own-ai-assistants.md",
-      "title": "AI Foundation launches AI.XYZ to give people their own AI assistants",
-      "excerpt": "The AI Foundation, a lab that gave us virtual Deepak Chopra, has launched AI.XYZ, a platform for people to create their own AI assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
-      "originalUrl": "https://venturebeat.com/ai/ai-foundation-launches-ai-xyz-to-give-people-their-own-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/ai-xyz-Dashboard-2-1-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-30T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Facebook AI"
       ]

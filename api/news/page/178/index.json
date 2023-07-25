@@ -2,279 +2,12 @@
   "page": 178,
   "value": [
     {
-      "path": "_news/2022-05-22-automotive-deep-learning-platform-shifts-to-cloud.md",
-      "title": "Automotive deep learning platform shifts to cloud",
-      "excerpt": "One more chipmaker is taking its semiconductor design solutions to the cloud in a bid to reinvent the developer experience while easing evaluation tasks for deep learning-based automotive designs. In collaboration with software house Fixstars, Renesas is ...",
+      "path": "_news/2023-03-25-object-recognition-imaging-systems-market-growth-by-2031.md",
+      "title": "Object Recognition Imaging Systems Market Growth by 2031",
+      "excerpt": "The \"Object Recognition Imaging Systems Market\" study describes how the technology industry is evolving and how major",
       "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
-      "originalUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/03/img20220321082050Software-development-for-automot_0_w1920_h821.jpg",
-          "width": 1920,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-brain-implants-control-robot-arm-well-enough-to-grab-a-beer.md",
-      "title": "Brain implants control robot arm well enough to grab a beer",
-      "excerpt": "A paralyzed man named Erik Sorto has finally been able to drink beer on his own after 13 years, and it's all thanks to a robotic arm controlled solely by his mind. If you've been following our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
-      "originalUrl": "https://www.engadget.com/2015-05-21-caltech-mind-controlled-robot-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/wNbgcpOF.kZCjroAsCWYGA--~B/aD00NTg7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/662841a7b4d92c4b2671ad8ca7f372c1/202027765/caltech-roboarm-lede.jpg",
-          "width": 630,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/2015-05-21-caltech-mind-controlled-robot-arm.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2015-05-21-caltech-mind-controlled-robot-arm.html",
-      "publishedDateTime": "2022-05-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-billings-hospital-uses-virtual-reality-to-aid-rehabilitation.md",
-      "title": "Billings hospital uses virtual reality to aid rehabilitation",
-      "excerpt": "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to",
-      "sourceUrl": null,
-      "webUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html",
-      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/6/f5/6f5cfa36-9330-50ea-a0ab-8da7f6797d63/6288d8787cf4a.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html",
-      "cdnAmpWebUrl": "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html",
-      "publishedDateTime": "2022-05-21T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bozeman Daily Chronicle",
-        "domain": "bozemandailychronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-googles-deepmind-sued-for-illegally-using-confidential-medical-data.md",
-      "title": "Google’s DeepMind Sued For Illegally Using Confidential Medical Data",
-      "excerpt": "It turns out Google not only collects its users’ data and processes it for its own purposes but also uses confidential medical data. Recently, we learned that Google is facing a class action ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
-      "originalUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/05/VRG_ILLO_1777_AK_body_data.0.0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
-      "publishedDateTime": "2022-05-21T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-trifo-lucy-robot-vacuum-review.md",
-      "title": "Trifo Lucy Robot Vacuum review",
-      "excerpt": "Security is becoming a more and more prevalent issue and being able to monitor your home is the only way to have peace of mind ... from the robot’s camera, and with the ability to control ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/",
-      "originalUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidguys.com/wp-content/uploads/2022/05/trifo_hero.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/amp/",
-      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/amp/",
-      "publishedDateTime": "2022-05-21T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AndroidGuys",
-        "domain": "androidguys.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant.md",
-      "title": "Baidu: After 65% Plunge, It's Time To Buy This Chinese Tech Giant",
-      "excerpt": "Against this backdrop, Baidu (NASDAQ:BIDU) emerges as a solid buy as investors assess receding risks and uncertainty related to the regulatory crackdown. Shares in the Chinese language internet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/analysis/baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant-200624588",
-      "originalUrl": "https://www.investing.com/analysis/baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant-200624588",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-          "width": 500,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-21T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030.md",
-      "title": "Computer Vision Market overview by recent opportunities, growth size, regional analysis and forecasts to 2030",
-      "excerpt": "May 20, 2022 (Alliance News via COMTEX) -- The report covers the analysis and forecast of a Computer Vision on global as well as regional level. The study provides historic data of 2016 along with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
+      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-growth-by-2031-2023-03-24",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -293,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T19:02:00-07:00",
+      "publishedDateTime": "2023-03-24T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -321,35 +54,26 @@
       ]
     },
     {
-      "path": "_news/2022-05-21-can-ai-identify-patients-with-long-covid.md",
-      "title": "Can AI Identify Patients With Long COVID?",
-      "excerpt": "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U.",
+      "path": "_news/2023-03-25-tech-summit-on-artificial-intelligence-robotics.md",
+      "title": "Tech Summit on Artificial Intelligence & Robotics",
+      "excerpt": "Tech Summit on Artificial Intelligence & Robotics will be held in Tokyo, Japan. AI & Robotics 2023 offers an opportunity to interact with the researchers in the field of AI & Robotics, making Congress a perfect platform to share experience, foster ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
-      "originalUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
+      "webUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "originalUrl": "https://www.sourcesecurity.com/events/tech-summit-on-artificial-intelligence-robotics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
-      "publishedDateTime": "2022-05-20T14:57:00-07:00",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/events/tech-summit-on-artificial-intelligence-robotics.html",
+      "publishedDateTime": "2023-03-24T16:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -359,25 +83,26 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-21-trust-stamp-which-sells-facial-recognition-tools-to-ice-had-dozens-of-peoples-data-exposed-in-breach.md",
-      "title": "Trust Stamp, which sells facial recognition tools to ICE, had dozens of peoples' data exposed in breach",
-      "excerpt": "Dozens of names, addresses, and driver's license data were exposed in the breach, though it doesn't appear to include the data of migrants.",
+      "path": "_news/2023-03-25-the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year.md",
+      "title": "The top 10 AI mobile apps have already pulled in over $14 million this year",
+      "excerpt": "What's clear is that integrating \"AI\" features and references to things like ChatGPT or OpenAI has been helping drive demand.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
-      "originalUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
+      "webUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
+      "originalUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/6286a4f8577b8a001827a928?width=1200&format=jpeg",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/chatgpt-getty.jpg?resize=1200,800",
           "width": 1200,
-          "height": 600,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -385,64 +110,12 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "publishedDateTime": "2022-05-20T13:24:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/amp/",
+      "publishedDateTime": "2023-03-24T15:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-digital-biomarkers-are-healthcares-next-frontier.md",
-      "title": "Digital biomarkers are healthcare’s next frontier",
-      "excerpt": "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "originalUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
+        "name": "YAHOO!News",
         "domain": "techcrunch.com",
         "images": [
           {
@@ -462,61 +135,25 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
-      "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
-      "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
+      "path": "_news/2023-03-25-watch-ai-robot-tries-to-make-cats-happy-in-unique-feline-utopia-trial.md",
+      "title": "Watch: AI Robot Tries to Make Cats Happy in Unique Feline 'Utopia' Trial",
+      "excerpt": "The art project is designed to explore issues with real scientific and societal value that are related to artificial intelligence and may have implications ... the cats' happiness as they interact with the robot. It then tries to learn how to increase ...",
       "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "webUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
+      "originalUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-could-brands-like-tesla-lure-you-into-buying-a-driverless-car.md",
-      "title": "Could Brands Like Tesla Lure You Into Buying a Driverless Car?",
-      "excerpt": "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
+          "url": "https://d.newsweek.com/en/full/2213891/cat-royale-utopia-environment.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -524,48 +161,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "publishedDateTime": "2022-05-20T11:00:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/watch-ai-robot-tries-make-cats-happy-unique-feline-utopia-trial-1790241?amp=1",
+      "publishedDateTime": "2023-03-24T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best.md",
-      "title": "Netflix’s Love, Death & Robots Season 3 Review – Every Short Ranked From Worst To Best",
-      "excerpt": "Shaun Munro reviews season 3 of Love, Death & Robots… Netflix’s acclaimed animated anthology series Love, Death & Robots is back for its third season, and while this collection of nine episodes is likely the weakest of the bunch to date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "originalUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Flickeringmyth",
-        "domain": "flickeringmyth.com",
-        "images": null,
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -575,547 +187,9 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-ethics-in-the-ai-technology-and-information-age.md",
-      "title": "Ethics in the AI, Technology, and Information Age",
-      "excerpt": "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?",
-      "sourceUrl": null,
-      "webUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
-      "originalUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png",
-          "width": 350,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Amazon Associates UK",
-        "domain": "amazon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-how-ai-can-facilitate-supply-chains.md",
-      "title": "How AI Can Facilitate Supply Chains",
-      "excerpt": "Here’s how artificial intelligence could play a crucial role in supply chain management, and whether it could be part of the sector’s future. Some people might associate artificial intelligence with robots and assume it’s limited to basic applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
-      "originalUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
-      "publishedDateTime": "2022-05-20T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-israeli-firm-hopes-ai-can-curb-drownings.md",
-      "title": "Israeli firm hopes AI can curb drownings",
-      "excerpt": "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
-      "originalUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/lifeguards-in-the-city.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp",
-      "publishedDateTime": "2022-05-20T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals.md",
-      "title": "Every Crime has a Face, Says Ukrainian Journalist Hunting War Criminals",
-      "excerpt": "Before the Russian Ukrainian journalist Dmitry Replyanchuk spent his days unearthing corruption, often among judges and law enforcement. Now the Kyiv-based journalist wh",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "originalUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/03190000-0aff-0242-b9d4-08da3a86af46_w1080_h608_s_b.png",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "publishedDateTime": "2022-05-20T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-jenny-jenny-who-can-zoom-turn-to-for-ai-based-training.md",
-      "title": "Jenny, Jenny, who can Zoom turn to for AI-based training?",
-      "excerpt": "Zoom deploys AI-generated avatars with conversational intelligence to onboard and train sales team members on CX and product knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/",
-      "originalUrl": "https://venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/0G1A7605_1-1-11-cl.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/jenny-jenny-who-can-zoom-turn-to-for-ai-based-training/amp/",
-      "publishedDateTime": "2022-05-20T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand.md",
-      "title": "Why AI and autonomous response are crucial for cybersecurity (VB On-Demand)",
-      "excerpt": "Learn how two organizations use a continuous AI feedback loop to identify vulnerabilities and harden defenses.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/",
-      "originalUrl": "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1336604983.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/20/why-ai-and-autonomous-response-are-crucial-for-cybersecurity-vb-on-demand/amp/",
-      "publishedDateTime": "2022-05-20T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-artificial-intelligence-in-transportation-market-technology-applications-demand-growth-factors-and-forecast-to-2028.md",
-      "title": "Artificial Intelligence In Transportation Market Technology, Applications, Demand, Growth Factors And Forecast To 2028",
-      "excerpt": "Get a sample of the Artificial Intelligence in Transportation Market report @ Some Key Highlights in the Report In October 2020, Daimler Trucks entered into a partnership agreement with Waymo for ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028?source=291",
-      "originalUrl": "https://menafn.com/1104247482/Artificial-Intelligence-In-Transportation-Market-Technology-Applications-Demand-Growth-Factors-And-Forecast-To-2028?source=291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-a-man-whos-paralyzed-is-able-to-drive-using-his-mind-heres-how-it-works.md",
-      "title": "A man who's paralyzed is able to drive using his mind. Here's how it works",
-      "excerpt": "Saldana Zuniga was back behind the wheel recently, nine years after a car wreck paralyzed him from the waist down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wapt.com/article/man-paralyzed-driving-using-mind/40060108",
-      "originalUrl": "https://www.wapt.com/article/man-paralyzed-driving-using-mind/40060108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/images/bhdn-mw-001fr-co-paralyzed-man-use-f40f015b-c299-4bc7-b868-22638d879935-00-01-09-03-still001-1653059713.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wapt.com/amp/article/man-paralyzed-driving-using-mind/40060108",
-      "cdnAmpWebUrl": "https://www-wapt-com.cdn.ampproject.org/c/s/www.wapt.com/amp/article/man-paralyzed-driving-using-mind/40060108",
-      "publishedDateTime": "2022-05-20T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAPT",
-        "domain": "wapt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology.md",
-      "title": "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology",
-      "excerpt": "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
-      "originalUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 500,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025.md",
-      "title": "Machine Learning as a Service Market foresee scrutiny and Demand with predict recapitulation To 2025",
-      "excerpt": "Global Machine Learning as a Service Market Report by Market Study report scrutinizes the overall market synopsis globally, their restraining factors, drivers, major challenges, opportunities, latest trends to stabilize the global Machine Learning as a Service market situation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse.md",
-      "title": "AI experts are in short supply. That's making the skills crisis worse",
-      "excerpt": "A study by IBM concluded that the UK is falling behind its European neighbours in AI adoption, with employers blaming a lack of skills in areas like software engineering, problem solving, and knowledge of programming languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
-      "originalUrl": "https://www.zdnet.com/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ca381b4440afdede7e4506a91464950f24c2bdb0/2022/05/20/1e191d2c-6198-4cd6-9f5a-661bfb4467c1/programmers-coding-at-desk-man-woman-office-training.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse/",
-      "publishedDateTime": "2022-05-20T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-google-ai-wrote-a-really-good-stargate-episode-script.md",
-      "title": "Google AI Wrote a (Really Good) Stargate Episode Script",
-      "excerpt": "Can artificial intelligence write a good script for an episode of Stargate? Apparently it can, and we can listen to the results tomorrow. The challenge was taken up by Laurence Moroney, AI Lead at Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-ai-wrote-a-really-good-stargate-episode-script",
-      "originalUrl": "https://www.pcmag.com/news/google-ai-wrote-a-really-good-stargate-episode-script",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05DNz6Kcjc4QPfNhgNvdATs-1.fit_lim.size_1200x630.v1653044268.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/google-ai-wrote-a-really-good-stargate-episode-script?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-ai-wrote-a-really-good-stargate-episode-script?amp=true",
-      "publishedDateTime": "2022-05-20T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
   ],
-  "nextPage": 179
+  "nextPage": null
 }

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Singapore releases draft guidelines on personal data use in AI training"
-    excerpt: "Guidelines aim to clarify how Singapore's laws will apply when companies use personal data to train AI models and systems, including under research and business improvement exceptions."
-    publishedDateTime: 2023-07-20T08:38:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-draft-guidelines-on-personal-data-use-in-ai-training/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/44b16ceb0b9924e9d64998dcc7dde4b0f2e331f4/2023/07/19/4f4389bd-8f7a-481e-929a-163c9e69d1fd/gettyimages-1436010618.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Generative AI Won’t Disrupt Books"
     excerpt: "Every new technology from the internet to virtual reality has tried to upend book culture. There's a reason they've all failed—and always will."
     publishedDateTime: 2023-07-20T10:00:00Z

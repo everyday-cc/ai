@@ -3,8 +3,8 @@ category: news
 title: "An Asian MIT grad asked AI to make her photo ‘professional’; it made her white"
 excerpt: "An Asian American woman used an AI image generator to enhance her photo professionally. But, to her surprise, the AI returned an image of a white woman instead."
 publishedDateTime: 2023-07-22T10:45:00Z
-originalUrl: "https://www.masslive.com/news/2023/07/an-asian-mit-grad-asked-ai-to-make-her-photo-professional-it-made-her-white.html"
-webUrl: "https://www.masslive.com/news/2023/07/an-asian-mit-grad-asked-ai-to-make-her-photo-professional-it-made-her-white.html"
+originalUrl: "https://www.masslive.com/news/2023/07/an-asian-mit-grad-asked-ai-to-make-her-photo-professional-it-made-her-white.html?outputType=amp"
+webUrl: "https://www.masslive.com/news/2023/07/an-asian-mit-grad-asked-ai-to-make-her-photo-professional-it-made-her-white.html?outputType=amp"
 ampWebUrl: "https://www.masslive.com/news/2023/07/an-asian-mit-grad-asked-ai-to-make-her-photo-professional-it-made-her-white.html?outputType=amp"
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2023/07/an-asian-mit-grad-asked-ai-to-make-her-photo-professional-it-made-her-white.html?outputType=amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 674
     isCached: true
 
-secured: "0EnMsENaB/GsZH0Blnz9UaXLOcKMPf1B/cnsLywtS1APg47XjUe1OP/GEN1gASfN5NATOgt+l5vbWn6j/STWHRvqkMzA1AJqDuTKHL16LOrrvV5WDTeYTcrlDhWUH4Tga6CJFweF2s563GikIJ6OFI7KaWuFXmdGsktRjZMxLuUDyNKA/czWOaRrEGqp71qFnBr8He6Y06/fb7XZSqZPxpnjegjYlcufIigAZA4EMBeTvl8xBk7RjEQsJN7nBOV+y6pKNhmkB6lUxlFwlFaBBau4sVUEXJVm0Y5tMZtBtCxpMCSLCBIBMX+Q6a0ePyzxPLKMQaLIPJnCdcDYRdlFcUfHAIeT2KD0DWzSFinTd4UO109OfDrt3l5zhwZvM2f1g1mAoXNyjqrME9LDxONlu9isB4U8ViR1mxGZec5IAVMyTuLlIO7vQ85wQ1PmzmTXWvJFIWXcaX/nTE0gGT9pIYl3IPIaicQV9wGEnC5Wg7rthTl0sz/UfA6g+AA8eqoRt0AS9kczn2bBz4CDf8w9Jg==;j7S3pbYTk7OuWgwDeL+cOg=="
+secured: "jP6tdf/4RhCTiZfbsnmgpQXd8MrNGv9vXECaDxxjoz4fH/y6/sRachVS7ujBrHGz/re/lmv86gFmvUWJH62633yWHiXgi7ym3yNSlxwgZIK4p5mKKq8diLF1lM02Iw9HoteU5iv06Robgoa+rZEeltB8OQaKQ3A43cI3CGDmRSFAxk0nHbOHqmHH/rKLlJQdPB4IBKfV7jGLZJE6W8FuYKlpf83/oQuCoXfFnBwAxX+qoEuetv12mhRrkpbXGMj1Njx7TE5ARc2jy2HKhmkJ04cu/Jh7S/a1PeqXo86JhfsgOepabVEM9lJUIC3njwAZleOAVez7owZBydCrsHRSYxowXOQIYwFNq6dgfTlDIX4=;ZGUScxzJeH2BhN38xH3pzA=="
 ---
 

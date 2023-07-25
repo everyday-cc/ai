@@ -100,22 +100,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Apple (AAPL) Stock Rises Briefly Following Rumors of Internal Generative AI Chatbot Rivalling ChatGPT"
-    excerpt: "Reportedly, select staff have access to the developing Apple AI chatbot the company plans will rival ChatGPT and Bard."
-    publishedDateTime: 2023-07-20T08:16:00Z
-    webUrl: "https://www.coinspeaker.com/apple-stock-generative-ai-chatbot/"
-    ampWebUrl: "https://www.coinspeaker.com/apple-stock-generative-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/apple-stock-generative-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 44
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/07/apple-stock-generative-ai-chatbot.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "The Future of AI and ChatGPT: A Glimpse into 2023 and Beyond"
     excerpt: "As we progress into 2023, the world of artificial intelligence (AI) is poised for remarkable advancements, and ChatGPT, OpenAI’s text-generating AI chatbot, is at the forefront of these developments."
     publishedDateTime: 2023-07-24T15:29:00Z

@@ -33,20 +33,6 @@ related:
         width: 630
         height: 595
         isCached: true
-  - title: "The Essentials Of Blockchain Technology In Fintech"
-    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
-    publishedDateTime: 2023-07-20T08:24:00Z
-    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Women in fintech: innovating chargebacks with Monica Eaton"
     excerpt: "In response to the lack of female representation in fintech, Eaton established the LIFT: Elevating Women Through Mentorship programme, a free mentorship programme that seeks to bridge the gap between established women in the fintech industry, and those who are still trying to find their way."
     publishedDateTime: 2023-07-24T12:00:00Z

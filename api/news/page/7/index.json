@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-19-artificial-intelligence-continues-to-revolutionize-cybersecurity.md",
+      "title": "Artificial Intelligence Continues To Revolutionize Cybersecurity",
+      "excerpt": "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
+      "publishedDateTime": "2023-07-19T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-facebook-owner-meta-exec-nick-clegg-claims-ai-quite-stupid.md",
+      "title": "Facebook-owner Meta exec Nick Clegg claims AI 'quite stupid'",
+      "excerpt": "Current Artificial Intelligence (AI) models are \"quite stupid\", Facebook-owner Meta's president of global ... which powers the Bard chatbot - are not free to use for commercial or research purposes. It comes a week after US comedian Sarah Silverman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-66238004.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-66238004.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A9BB/production/_130415434_gettyimages-1241178506.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66238004.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66238004.amp",
+      "publishedDateTime": "2023-07-19T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-19-three-career-choices-that-will-not-be-impacted-by-ai.md",
+      "title": "Three Career Choices That Will Not Be Impacted By AI",
+      "excerpt": "Professions that require complex decision-making, creativity and empathy are difficult to replace by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59cc0cc207a8b885f1dc1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/07/19/three-career-choices-that-will-not-be-impacted-by-ai/amp/",
+      "publishedDateTime": "2023-07-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-19-neura-robotics-picks-up-55m-to-ramp-up-in-cognitive-robotics.md",
       "title": "Neura Robotics picks up $55M to ramp up in cognitive robotics",
       "excerpt": "Neura Robotics, a German startup that since 2019 has been building cognitive robots ... That includes not just fashioning all the sensors and other components, but building the AI that powers it. This also means that Neura can collaborate better ...",
@@ -1076,151 +1224,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-web3-meets-ai-a-dynamic-duo-transforming-user-experiences.md",
-      "title": "Web3 Meets AI: A Dynamic Duo Transforming User Experiences",
-      "excerpt": "By integrating AI technologies into their platforms, innovative companies aim to provide enhanced user experiences, streamline processes, and deliver cutting-edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b59f0b88ffbe0aac248079/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/18/web3-meets-ai-a-dynamic-duo-transforming-user-experiences/amp/",
-      "publishedDateTime": "2023-07-18T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-ai-and-advanced-applications-are-straining-current-technology-infrastructures.md",
-      "title": "AI and advanced applications are straining current technology infrastructures",
-      "excerpt": "A majority of executives in a recent survey, 76%, say their current infrastructures are not ready to meet upcoming demands -- aka, AI and associated analytic workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "originalUrl": "https://www.zdnet.com/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/28e0c7652f5d2bd561c5c6d4f0ce4ad069b88299/2023/07/18/be068a2f-3083-43e1-bc85-8ee67d15ecf4/gettyimages-1472123000.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-advanced-applications-may-strain-current-technology-infrastructures-to-their-limits/",
-      "publishedDateTime": "2023-07-18T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-18-how-ai-is-helping-to-translate-the-bible-into-rare-languages.md",
-      "title": "How AI is helping to translate the Bible into rare languages",
-      "excerpt": "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”",
-      "sourceUrl": null,
-      "webUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
-      "originalUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg",
-          "width": 670,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
-      "cdnAmpWebUrl": "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/",
-      "publishedDateTime": "2023-07-18T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Angelus",
-        "domain": "angelusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

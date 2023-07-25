@@ -77,6 +77,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "AI Companies Are Trying to Have It Both Ways"
+    excerpt: "Last week, seven technology companies appeared at the White House and agreed to voluntary guardrails around the use of AI. In promising to take these ... as Twitter and Facebook were freshly public and start-ups abounded, did change things (though the ..."
+    publishedDateTime: 2023-07-24T22:58:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/L-Ee5j36-Th9i-bxuAffSAYJMWE=/0x296:5843x3339/1200x625/media/img/mt/2023/07/GettyImages_1561046611-1/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
   - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
     excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
     publishedDateTime: 2023-07-24T22:19:00Z
@@ -104,22 +118,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T102731.767.png?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Authors call for AI companies to stop using their work without consent"
-    excerpt: "Margaret Atwood, Viet Thanh Nguyen and 8,000 others have signed an open letter asking that permission is obtained and compensation given when a writer’s work is used by AI"
-    publishedDateTime: 2023-07-20T08:12:00Z
-    webUrl: "https://www.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/20/authors-call-for-ai-companies-to-stop-using-their-work-without-consent"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/29906f7be2b28495056b2f58563ce466f80b6bc5/0_964_3333_2000/master/3333.jpg?width=620&quality=85&auto=format&fit=max&s=ab29bb8df04685f187402a06364d7b26"
-        width: 620
-        height: 372
         isCached: true
   - title: "Big tech names commit to artificial intelligence safeguards"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."

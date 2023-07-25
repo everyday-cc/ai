@@ -38,6 +38,15 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 76
+  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
+    publishedDateTime: 2023-07-25T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "iNs0u1CX00LaX/+lvc+5aJGtMPNpQFQircSJ8xe9bx7vVPWv6b5hi/AGx/qSWeDz7Q+X0oEQyQJnBeYjTbkkDuhSgF7ak+eJGBldtvDyfg8ysa3iFiSrrb+m4LyAhsTjTEb9DNwj1ptjd02a67y9TQnhSrgqYdHwXUlXPpa+Y+wyx3Tli0zFgudVAl6pROM40xRo+T8ERCcTJQs2XtaFZ9BcRei1V0EWrLwHRNpOzhUWrdQYuvDsHLtF9G4XE6CXxg7WQipRjpbCMrrlvlahXJUcVQXbOZYsGlIYd2ysvNuEJ5xZJfg2aWzG4gIXGDbPviWexeaosZdQvdiU11bhvLhGlk/JCI/l+4LGYBI6B/JnRRjDMxjCHmWb9yEPJzvkdX0iqH8PdcTr3Us8ONQU3PgMh4WxnrLIp41GmgaVsVBFAM+b+B7VX5/w0K6Z/JfXb7FqUPjlW71O20D1dVBdk/ndVH+TGrcMa1B1UTLui2Sd09YeEEFkku/yvDTA2v8snu3ouXdAigrC1C+dxc+w1g==;cEYAxJJZ17f5Q9SudqHj5A=="
 ---

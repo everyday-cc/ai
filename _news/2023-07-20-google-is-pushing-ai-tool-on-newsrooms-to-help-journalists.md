@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help
 webUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google wants AI to write the news articles you read"
-    excerpt: "Google is reportedly testing an AI tool that can write news stories. The company has apparently presented this artificially intelligent news writer to major media organizations, including The New York Times, The Washington Post, and News Corp."
-    publishedDateTime: 2023-07-20T08:49:00Z
-    webUrl: "https://www.androidauthority.com/google-news-writing-ai-3346754/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-5.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google Is Reportedly Testing an AI Tool That Can Write This Article"
     excerpt: "Google has already shown its new Genesis tool to several of the nation's top news outlets and is positioning it as an assistant for journalists, The New York Times reports."
     publishedDateTime: 2023-07-20T20:15:00Z

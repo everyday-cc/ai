@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-20T17:48:00Z
 originalUrl: "https://kvia.com/news/2023/07/20/how-abc-7-uses-artificial-intelligence-to-make-sure-news-comes-first/"
 webUrl: "https://kvia.com/news/2023/07/20/how-abc-7-uses-artificial-intelligence-to-make-sure-news-comes-first/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "dfMt5bAzed9hAw3A5ypy81jBMcY+syK1cfJXJQRs9MqczYBn8F+A1OnPPbrznEB5pqX6VkQi4ZZfXErr52+3EhLCWEzQasIVkq4SDulJ5AEGErUGi3KhUWFarOtNWkU4RWF+Hh4zYTeO12ABgC0wrjd5HZAPuB7hNfikckVNhxxxuFh807e6oUSCjpVyDt6RCNiU2lasfLea4H/N1oArIv9jdYMbE++u9cgU/v/2QUySdDPh6nckqP3l2TRCMo18e1yFuE1SFVOZI4yejkrUqQwd8ZC5slqsNk67qFA9QTuBJe7/FfkPWvCbpQnarlQ5pAhMzqMOBUrxIxFldNtgDSsT5d+U+In7Y24MXH78p9I=;0acpoe9An/Q1bVbpBz8r9A=="
+images:
+  - url: "https://kvia.b-cdn.net/2023/07/bowers-still-e1689874424817.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "2VeMdhK3LA69lk/k1sDd5nDqBxZaPSy8VfdAuIwaLsNrxONCIvBLvUGXIYbhcmZLl8vhQ8AKcWQjZbm5ejWbVX0jLfTAs7y9E2Y2/IcVY/7L0dRRQiqFQEsp936YEQKvu4EP91QOTEBD3fV8d4pylk9Nk21s+sco1Wf/zXJu8ttSzQNvyxPX+XCjMgLKJebbswsmRxuUtk1L21xCKvjlbLYfZLE6sOzvOWc7A2+Sp8sXVBS9Kx8Xh2yPLhpugZ0PVduWyQMHbXUKzvtuCvckNVMQRg3tJRzrNGGqEY93zwSuCOzcYn44qaE+xQcI47/1ygUbzsX9eL4tkQv544QRIuoutSYWUt4NhJOkeE1iHLA=;RkUcL+AnDv5mzlOB7gQUiQ=="
 ---
 

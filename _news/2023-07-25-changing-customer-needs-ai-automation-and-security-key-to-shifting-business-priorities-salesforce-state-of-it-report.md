@@ -31,13 +31,15 @@ related:
     quality: 45
   - title: "Salesforce CEO shares his predictions for AI and the future of work"
     excerpt: "Salesforce founder Marc Benioff is among the few tech pioneers who is also still CEO at a groundbreaking company born in the 1990s."
-    publishedDateTime: 2023-07-24T13:06:00Z
-    webUrl: "https://apnews.com/article/salesforce-marc-benioff-artificial-intelligence-layoffs-pandemic-2c5c5f7f6daf50ddcae675b422aa745f"
+    publishedDateTime: 2023-07-24T13:04:00Z
+    webUrl: "https://www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/"
+    ampWebUrl: "https://www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "8oTbW9S/KuO69j9fVkTBdAByIvzv5KlQ8yT7LqFrnLRCI3AvOckL66f0vNgaw5Acoit+4Y8oWzVW0RpnmlQAvqSIxHQyenqufEpmyR3TtOYldrxCj0mfjXvIba1eoWi4k0Uu9VWQ7Vn/WgS9rw7+R/7hSVWNprMEAjCEalCR4/LKQ80iNhDbSFmu1ZuHnrhR3P/tY3MQVkntiTbpw0fZ/XDC8E2I5tlQ9XpDb0WXoM/005wuwWmfCGqXMfSOznZqDQz9PzrNwM9gY3iuCipzyjwx+kZXmH3feaFH1pkH2SvtIcX59HiHwSTeqnoSU6OGv+uIShgzMXVh9x0fnd7aA4ns87vPLoX8V1hqpqtgFVaXZCMHmvLH5v02eIv40WJYRMERGEfL8S0aYnIow6QLW0R2M+TfzHVXJwMvUH878zN8F5O0q55ILrXdMWBCTc4idwx9HCGKB4GTHsRsg88sPV8HljufxGlWkjsPGp3q+c41LZgyglbvPzLqNrHtJyM5NPArFbhWGShjht3+ZmDrDw==;cFwLf+zo2M/G+IApAI0ahQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-24T22:45:00Z
 originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/the-national-geospatial-intelligence-agency-takes-on-artificial-intelligence/"
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/the-national-geospatial-intelligence-agency-takes-on-artificial-intelligence/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/05/GettyImages-1384658578.jpg"

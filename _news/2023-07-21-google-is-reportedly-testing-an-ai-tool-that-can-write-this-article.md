@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google wants AI to write the news articles you read"
-    excerpt: "Google is reportedly testing an AI tool that can write news stories. The company has apparently presented this artificially intelligent news writer to major media organizations, including The New York Times, The Washington Post, and News Corp."
-    publishedDateTime: 2023-07-20T08:49:00Z
-    webUrl: "https://www.androidauthority.com/google-news-writing-ai-3346754/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-5.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence: Google says it is developing new tools to help journalists"
     excerpt: "Google says it is developing AI tools to help journalists to write headlines and in different writing styles, but some are concerned that in an industry struggling financially, AI could replace jobs."
     publishedDateTime: 2023-07-21T11:22:00Z

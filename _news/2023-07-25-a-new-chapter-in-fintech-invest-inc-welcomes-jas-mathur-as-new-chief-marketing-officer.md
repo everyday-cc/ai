@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-
 webUrl: "https://www.geekwire.com/partner-content/a-new-chapter-in-fintech-invest-inc-welcomes-jas-mathur-as-new-chief-marketing-officer/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Essentials Of Blockchain Technology In Fintech"
-    excerpt: "Robo-Advisors Fintech has introduced automated investment platforms known as robo-advisors. These AI-driven tools provide low-cost investment management services, making wealth management and investing accessible to a broader range of investors."
-    publishedDateTime: 2023-07-20T08:24:00Z
-    webUrl: "https://menafn.com/1106635013/The-Essentials-Of-Blockchain-Technology-In-Fintech"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/20/C_e5e2dimage_story.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI revolution in fintech: How India is leading the way"
     excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
     publishedDateTime: 2023-07-21T08:21:00Z
@@ -63,6 +49,6 @@ related:
       domain: fintechmagazine.com
     quality: 4
 
-secured: "QYrVHD2YM+MUublamP3ghLrySTGQ4HfRnev7+mcYKx9FOeUB0zfQXHC91sL4N0JWNfiULgoS8QsQF/Sistrvdm5SJKOnUbgHV/lZFRa2i6Pjd9FD/k9KCoh12BQkNFHmsP0PFxKWPoGgiuWgsTnj+GNA99mFgV3FBDnzH6DsLXfLf7vmgSH6Cc4Hf+k+2gIZZmJt6KEFt9iYQPubejSStcPBQLB+kXanVnnu/J2kvBFdjbG9+eMUIb1WZU88LsRYUYQyWkGCcDNreFjnh7EjDOSUUob033c7iMHVRywOAhvz6IEAgrO2TZte9f4TzPGr5h+dPEUQpT+kPOPXIcShWHrU7v31c3Ve3T9CIpKzcNg=;lu9NCnV6niPdr6qvfA+RBQ=="
+secured: "l7OVW9yHowkHjKRtZeTH2gF0fqz4lufMqiR6OiY9q9DACLcbaD4S+q73bOhlzGnJemAdNbcGGWy2Z6jnYW8aMM8At2NDb6Bfv33VPdsfEwR2IVbTvg8bH2rkW6vfyOaZ+s+oHGyWwgCri42bCAmjQ8i90/fuP2i+/+5kT/4gaRKA2xbFRQcjvShJADLUtTXnmcrUBMKEYNo61eR1e/WuixQ1IqXydjaToc+eZuM3SBxT46J1jIkhr0hQ9kFaF0Pmj3ydtJBgdWIloGqQsD4ehnEvMTSVw/h/1CYxbsV0rctR/UjpA9XF4+4zXGL0ldIanmGthXYS65LbOcOdm3ekunuJJCFaKuNt1Hxakjxo7BukFkQRADyI/6wnkhjCJ2tlcmN2E+g5hX3MCo+A9rqduzzT2YEQKto5i1a3c0JwwnApbExB7/xvw35NQHF9f1Cv38hR/83VhiPu4G8VyHKIVyo7godkKD8LJ8h6sXGOheb2+/2m0FKBWh0p2U5X8RoBj0Atlga5jM79220YpRPu+A==;j6QLO7piJNOuavasFwXFBg=="
 ---
 

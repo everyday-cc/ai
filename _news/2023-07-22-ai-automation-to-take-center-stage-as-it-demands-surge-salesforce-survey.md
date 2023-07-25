@@ -24,13 +24,15 @@ topics:
 related:
   - title: "Salesforce CEO shares his predictions for AI and the future of work"
     excerpt: "Salesforce founder Marc Benioff is among the few tech pioneers who is also still CEO at a groundbreaking company born in the 1990s."
-    publishedDateTime: 2023-07-24T13:06:00Z
-    webUrl: "https://apnews.com/article/salesforce-marc-benioff-artificial-intelligence-layoffs-pandemic-2c5c5f7f6daf50ddcae675b422aa745f"
+    publishedDateTime: 2023-07-24T13:04:00Z
+    webUrl: "https://www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/"
+    ampWebUrl: "https://www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/?amp=1"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Changing customer needs, AI, automation, and security key to shifting business priorities: Salesforce State of IT report"
     excerpt: "Salesforce’s new State of IT Report, released last week, highlights the key priorities and pain points of businesses, based on a survey of over 4000 IT leaders worldwide, including 200 in Canada. The"
     publishedDateTime: 2023-07-24T18:07:00Z

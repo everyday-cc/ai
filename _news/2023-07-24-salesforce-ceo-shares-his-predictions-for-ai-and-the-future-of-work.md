@@ -2,17 +2,19 @@
 category: news
 title: "Salesforce CEO shares his predictions for AI and the future of work"
 excerpt: "Salesforce founder Marc Benioff is among the few tech pioneers who is also still CEO at a groundbreaking company born in the 1990s."
-publishedDateTime: 2023-07-24T13:06:00Z
-originalUrl: "https://apnews.com/article/salesforce-marc-benioff-artificial-intelligence-layoffs-pandemic-2c5c5f7f6daf50ddcae675b422aa745f"
-webUrl: "https://apnews.com/article/salesforce-marc-benioff-artificial-intelligence-layoffs-pandemic-2c5c5f7f6daf50ddcae675b422aa745f"
+publishedDateTime: 2023-07-24T13:04:00Z
+originalUrl: "https://www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/"
+webUrl: "https://www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/"
+ampWebUrl: "https://www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/salesforce-ceo-shares-his-predictions-for-ai-and-the-future-of-work/?amp=1"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
@@ -37,6 +39,6 @@ related:
       domain: itworldcanada.com
     quality: 11
 
-secured: "jK75Ki7T27a2HxNdGlS1AExsWOzUJVemI7b8WvUaf5w9HeO62f3r+zmjk+Hn3NS/DUL2ctFOKt39jBXWdTSHXV3kiSCEXbXgg4leUP3izIXzBSTrf2iOTKp1fBPJSsdvfaK0i1YR+jbJ68qI0ogHd3PxzRyWQbdptoaF+7yccHqolBMyq02GgMQnEGMV7DjMIt55iy12zxPbAbovUcL63FJOyEiZ5P/kS9E5DwcpLwVY1HUNHkLfZsTIvs9odT+sRR6WKzrITqn08XjhwXAQQJxOTDEb4cmZZKv4cW0CmEL5k7N2xYgjSOzx0DyGZgrbZCPO/O4zuquq5iJSf3eu7saZM7oTQGYRFu6gii0J76Y7s4/c4j2j4ZkmYKYl7EeSq7ahOSak5jhaYrfnOHZWibzbhTfWezaezsXBr4o6hr97n+n3qynTD/qmphE3Ew4caZbFSJIIZhRwDsYSrzXof/jgkuRMx9PuKJxa9KVGxyUW+TrYgkKHlSXFhapmkovWQoL6yecSq69R6Rbjglh21Q==;l78/TkdCW0t+cq0iBji0yg=="
+secured: "riOSAnPP6agEGUeH5CgTB4zN0wziua5IXv9zGvFqAovP7YD+JfRi5wO2hmbM7cennXk/QRC20arnz957O14HKvK/TS1xRTC+6O3xFWU9S/8Wt3hCG8Gh+Wv/Oq+kl3Dfn6mo2u172OtLJndnizrU3k4RdX9FT9LvEMlwKtuevvhY/dd4GIxIB6AWo835EbcahBdxIW674gXm7mPivT0XAs6Zqoqf7giya7rbRf3fjrNyJvzOUQBopt+5rmPCPbiNCti1n7f599EGOEKf/gLpoVFXjyo5+aHeBS+qY1hzDo0K8SmqV7eBxhX5TpAI77WOheONGndBr9/XG6Q03LmT4oE0OivavQlRHtkz143yybh8kF12X01jS862c5TjATdQYpcdS6XkBbB0ntx8G6aQSvc0JPSOTX0OpjWv8uVWbgXCF6YxbXGlYdBoF6j5mXI2sevK5u7cdHDRaSJRT/qYX5Lj35C5w0QfKryP23jowd6/d9mxb8q9wqyNu9AA3wuR7IMhLfazmWL0568rWf9RAQ==;YshF5myySzJ9jSkpH9ZWIA=="
 ---
 
