@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI boosts job opportunities: Disproving automation myths with a surprising rise in new jobs"
+    excerpt: "The onset of AI’s Automation coupled with its power of probabilistic recommendations has ignited quite a few polarizing conversations about the future of the job market and the anticipated great displacement."
+    publishedDateTime: 2023-07-25T07:29:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-boosts-job-opportunities-disproving-automation-myths-with-a-surprising-rise-in-new-jobs/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-boosts-job-opportunities-disproving-automation-myths-with-a-surprising-rise-in-new-jobs/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-boosts-job-opportunities-disproving-automation-myths-with-a-surprising-rise-in-new-jobs/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/09/Pic-6.png"
+        width: 374
+        height: 296
+        isCached: true
   - title: "Biden says AI brings ‘incredible opportunities’ as well as risks as he hails safety deal with tech giants – live"
     excerpt: "President says Amazon, Google, Anthropic, Inflection, Meta, Microsoft and OpenAI gave ‘real and concrete’ commitments to ensure products are safe"
     publishedDateTime: 2023-07-21T16:46:00Z

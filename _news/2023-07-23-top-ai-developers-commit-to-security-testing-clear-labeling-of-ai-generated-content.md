@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "UN Security Council Debates Virtues, Failings of Artificial Intelligence"
-    excerpt: "UN Secretary-General Antonio Guterres says, 'AI will have an impact on every area of our lives' and advocated for the creation of 'new United Nations entity to support collective efforts to govern thi"
-    publishedDateTime: 2023-07-20T13:38:00Z
-    webUrl: "https://www.voanews.com/a/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
-    ampWebUrl: "https://www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 70
 
 secured: "MsYQ1YBW00dtp3UogN8CWQljDNtWcWjt12bE0VD32X5INXFMcu4ZWMaODAPr7D31t3knv66binJ+ymq5zN4e1pLArJ9NA4OdwrXVpBFwkBFZTGEIMfDqrwCgP+ZUL2lw5U1l6n5HQzYoNoIltjGFbsiiCAq5jpqM3pNiBMgQjNJV30aJNGWnftq6jKXxakYj1fDn1C3/iqDu2pL1YlqZM1BiLPpJQR4DzVnZz4h3J2t/MUTqNHb+CVHTHEkuOugJ83XvAxABkR9G0/ZOLteM6TxWtAygDdlrwCNg0dhTVRJIJvtYkdgFb/BA9B9Y04DfBNZY1+O72/tzY0z/z9vUFSI3h8aVgx8GTHGjYn5L0QSpOp5aGFVtQRXXtLzD3S9dAnOjv/Pg1SrZQRi61uac0ushiy58bVmN/SN05qyvRCqbm6IAA6h6hQHZlz+6B/11mmNIuUUMXzV94ftiZwKhN7izAlMMSqZgi4xTeabwVliPdxW1RUWRZXufon62k/NY0D471XSj3/RxkI/YrBDDYg==;qQg9NN4Xo2/QCMg1on9wKw=="
 ---

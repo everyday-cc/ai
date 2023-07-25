@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/taiwan-tsmc/driven-by-ai-boom-tsmc
 webUrl: "https://www.reuters.com/article/taiwan-tsmc/driven-by-ai-boom-tsmc-to-invest-2-9-billion-in-advanced-chip-plant-in-taiwan-idUSKBN2Z5033"
 type: article
 quality: 82
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan"
+    excerpt: "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan."
+    publishedDateTime: 2023-07-25T05:13:00Z
+    webUrl: "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229"
+        width: 3543
+        height: 2362
+        isCached: true
   - title: "Foreign investors stream into Taiwan as AI stocks beckon"
     excerpt: "Investors are putting aside geopolitical tensions to pile in to Taiwan stocks, with foreign inflows the biggest in years, thanks to soaring artificial intelligence and chipmaking stocks."
     publishedDateTime: 2023-07-21T03:28:00Z
@@ -67,6 +83,6 @@ related:
       domain: businesstimes.com.sg
     quality: 30
 
-secured: "JbT1Z5MYlJMxzzR7/zJvA2O75LxW8WTVbKQDKeBvyYql1pZnxERyaduxFfQ6OoZwMGP+OpUj8YZzK0dIlhhcMg6ZbtLhO8vq/TnwE1G0rri25FFTd3Jlve4TjPoo9+5au6IarcZTGG3zLYFiD7gklcSyslqNMJQl1e97K532xzK86fdZQbw0UWTxJFw6Y9faZmbU6j6u91TELaL12ZtDyZw8vmO4jVCmUKJJYrRLa+6YPGime+OeHmZMc+pzwtPAeQydgMSXce8J5z0WyEiTp3UFjJbR0zGpOGxjL5GDWnOD0CBGaY2m80P/5X+nooa/QwtOaOfsK2jcWnh1Cwv7TWZ13F/pC7FCoJ+ssAF8Aes=;t+9JSW4AkRdUXP2usZzDNQ=="
+secured: "lnctbhR9wev4XJ5zgh+HYYUpDqKCVv4aQkpKx7fWDr6e2yTSt26/TGA7XwCj4OvFM2CZn+i8yZPTALEps9NX6t37usCbwXT9AKqJuNcEC4oJJi1uydTUpIVYI5+IKn0AGRkVvK4V7aH2jQjKsM9bbk6d42eDaYNpmVDF59gALPlzQ0A4iACHlmxIiE/taTgPEYRndyiDFQXcSPrtt3KyVN0FGsIOxy1002E7Go4hajQx61vwUr+GPB57VxkLUgRMueT2cMnD1v8BwfOc+aiF2GEFfqDBSaemqtXq1ipqczwiSiLzUgyai1r7paRlAvuxc908ODhWeQj6zsxLjjL0XL1jcC8FPuyh4nztcjKwV5DPs3WgcjDdAY3LzrncfcoUwgKr37HyMqw9J3tO6unznO9Bj11qbowOv9j1+nFeNTQShxHVPo+qytXbyEGJIcQZ3PKhEkrLlsHdh/qnJaHWnLQA5OhGYaZI3rZXWKUl3S7evhZjSFltewpqAT7bis10ZvchF36rGidWgBD2GAS+hQ==;mhw5daD4Cyl3sEsYT9Xlsg=="
 ---
 

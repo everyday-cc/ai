@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anony
 webUrl: "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf"
 type: article
 quality: 67
-heat: 77
+heat: 82
 published: true
 
 provider:

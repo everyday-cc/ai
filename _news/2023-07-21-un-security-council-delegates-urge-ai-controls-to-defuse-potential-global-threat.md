@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/un-security-council-delegat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/un-security-council-delegates-urge-ai-controls-to-defuse-potential-global-threat/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -32,17 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "UN Security Council Debates Virtues, Failings of Artificial Intelligence"
-    excerpt: "UN Secretary-General Antonio Guterres says, 'AI will have an impact on every area of our lives' and advocated for the creation of 'new United Nations entity to support collective efforts to govern thi"
-    publishedDateTime: 2023-07-20T13:38:00Z
-    webUrl: "https://www.voanews.com/a/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
-    ampWebUrl: "https://www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/un-security-council-debates-virtues-failings-of-artificial-intelligence/7188743.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 70
   - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
     excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
     publishedDateTime: 2023-07-23T16:11:00Z

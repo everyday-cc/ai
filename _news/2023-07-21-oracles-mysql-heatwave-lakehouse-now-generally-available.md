@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "Oracle Announces the General Availability of MySQL HeatWave Lakehouse"
-    excerpt: "New 500TB TPC-H* benchmarks demonstrate 17X faster query performance vs. Snowflake; 36X faster than Google BigQuery; and 17X faster than Databricks"
-    publishedDateTime: 2023-07-20T13:51:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/20/9851556.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Oracle Announces the General Availability of MySQL HeatWave Lakehouse"
     excerpt: "Oracle today announced the general availability of MySQL HeatWave Lakehouse, delivering an industry first by enabling"
     publishedDateTime: 2023-07-20T19:10:00Z
     webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-mysql-heatwave-lakehouse/"

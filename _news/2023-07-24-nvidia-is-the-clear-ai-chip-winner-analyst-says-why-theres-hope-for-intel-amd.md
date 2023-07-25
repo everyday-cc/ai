@@ -73,22 +73,6 @@ related:
         width: 834
         height: 556
         isCached: true
-  - title: "Nvidia and Intel Drop After Taiwan Semi’s Earnings. Why AI Isn’t Helping All Chip Stocks."
-    excerpt: "The world's largest contract chip maker reported a 23% fall in second-quarter profit as it grapples with a slump in demand for electronic devices."
-    publishedDateTime: 2023-07-20T15:01:00Z
-    webUrl: "https://www.barrons.com/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
-    ampWebUrl: "https://www.barrons.com/amp/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 65
-    images:
-      - url: "https://images.barrons.com/im-461129/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to AMD and Nvidia in AI"
     excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
     publishedDateTime: 2023-07-24T19:41:00Z

@@ -61,15 +61,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Google developing AI tools to help journalists create headlines, stories"
-    excerpt: "Google says it is in the early stages of developing tools that use artificial intelligence to help journalists write stories and headlines."
-    publishedDateTime: 2023-07-20T14:12:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/google-developing-tools-journalists-create-headlines-stories-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 18
 
 secured: "YcdPsb3yL9L4xk/dpFHevikRCD/nQTbK/dpZtvPmGqtRTY6bAx60hZzu9cig+xtuGpgBc17SKmZU6K3ATxaWKSMAJ7D94xmwvTxio/PYw1Z7+qmv1cBYy37raePjowK/zp/Ogngp0lIpmudhndC0s/GNyej2/tBIYRbw4+i4/neHMHw8Fn1CSatJ8UdjkVLOZXaZMbNy9coUA4QaDPbov8Mfxw2Bn1IM19r5OD09xgARbuKaIrqUmHoBlBayRvJfoA3TAhChQVWWImDLluNXbu2dY6vEBggYlTbWtCsd3T8NABTFwXVsAYXHGuOdcOFnwF/w16U+bK89aZAQpPf8PGl4At84ug4X7jcMwBisjC8z1FzcbQLpKBCgcuVQSc1/Z/P2okZhi4rEiJwqqR38gbyJiVdiM70r/1jcJ0578fGYLoQhPHN1gvsq+DLsbTbd4ExTMiEtPfeN8J86SFFi0gh6rF1MrQ3DrYhXJxRPGbO6+fPHEKAqEIKY7jAxe4MudxIa0Tj2j+F4LX/iWJI0Lg==;frfU039nsS/5TfAJHIFgbw=="
 ---

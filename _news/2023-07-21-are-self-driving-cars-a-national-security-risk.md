@@ -40,15 +40,6 @@ related:
         width: 6000
         height: 4002
         isCached: true
-  - title: "3 AI Stocks for Getting Rich in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With businesses and countries across the world elevating artificial"
-    publishedDateTime: 2023-07-20T14:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-for-getting-rich-in-2023-1032463133"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
     publishedDateTime: 2023-07-24T23:57:00Z

@@ -63,15 +63,6 @@ related:
         width: 2048
         height: 1367
         isCached: true
-  - title: "Face Recognition in the U.S. is About to Meet one of its Biggest Tests"
-    excerpt: "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America."
-    publishedDateTime: 2023-07-20T14:50:00Z
-    webUrl: "https://cacm.acm.org/news/274802-face-recognition-in-the-us-is-about-to-meet-one-of-its-biggest-tests/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "0E386WIxEd1EQAOInZawzXsrc4ihAg3vTCs7I0oZz3CR5rciCkcERcMow+UegSk4hcEq2B/Aikrcdw3Go4uO1SB52+LcHnr2K4gHRaTLPEXZ6OfvbqW4cU2btSdfWS5J7SuqJLTDf0sO0d/u865K3lAzF/mCBZ3Wytylr2eWYxQyVYayjmkcY6ypbPIdxRGcJWCKpHp24ppT9bjKHW/gsFoaKwYs7Rd9g+dPxUPOty8EMNH9868iCRvMpd8i+7WACMHIk9fDspCJ3CBFHf87I6bcr/+mo58sSjzBba89Y7w25xoRFlqXXfAix93sELnQ6TZS0U2Q7BAmsecD8PSf+SQyxj36TegHmMjmkVHsEV5QplyHNQ44fr5VUw2esi7SerbIR5bNoQpqROeJvoZ1MkTNWuRFyQrbNmSeG/JUS0vbchII3swrxXK0D5WLpij1Z5KiKXr4NNpPNL9hUMf5HyiIesXXClBURyNS9E12A77nnNMJWH8iuWy/N6GOyuuEstIgl0SRgbSE8Ui2ZnyG4w==;Sjp18Mt91oygQEtX5jRm+g=="
 ---

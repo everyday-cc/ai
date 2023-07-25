@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general
 webUrl: "https://www.datanami.com/this-just-in/oracle-announces-the-general-availability-of-mysql-heatwave-lakehouse/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oracle Announces the General Availability of MySQL HeatWave Lakehouse"
-    excerpt: "New 500TB TPC-H* benchmarks demonstrate 17X faster query performance vs. Snowflake; 36X faster than Google BigQuery; and 17X faster than Databricks"
-    publishedDateTime: 2023-07-20T13:51:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/20/9851556.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Oracle's MySQL HeatWave Lakehouse now generally available"
     excerpt: "Cloud major Oracle has announced the general availability of MySQL HeatWave Lakehouse, delivering an industry-first by enabling customers to query data in object storage as fast as querying data inside the database."
     publishedDateTime: 2023-07-21T13:56:00Z

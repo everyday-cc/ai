@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
-    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
-    publishedDateTime: 2023-07-20T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "9G81wHnQjJP5P8E4o6S3KYr8yQ75wWFfQIzw7ekoC8zAFlpLzB1J+O6jZV1qxWeICCd/Tv8Rga7wX+xK002IRmlP3GkVze7IEv/vJzZN4Ya29apxAT3E3QPcbxZjzeD3nQhT8b8qjHqtZqc6aw0rwYMHOKzibQ2tG6jbMaP7HGTkRnm1BDGqRAJQRWzP5CYceGrsMxgt9WAfYpwswIxX6vqm6L4180D4eaoqeDkgoVTiWrf8KewX/jOqJU/4WcOUhEnBNSNozi8M6b6mfkp6JMKWojXhCXKXB1IJ4mMA4g55Vz5kVZm57Hz13W+WOS8UNzMpC84A9TPlZSGhUwb15G5AN6shoYC6aCryTgnEBQk=;bBC4ijoy8uN9KXpJIZorxw=="
 ---

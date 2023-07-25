@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Face Recognition in the U.S. is About to Meet one of its Biggest Tests"
-    excerpt: "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America."
-    publishedDateTime: 2023-07-20T14:50:00Z
-    webUrl: "https://cacm.acm.org/news/274802-face-recognition-in-the-us-is-about-to-meet-one-of-its-biggest-tests/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
   - title: "On the centennial of the Treaty of Lausanne, Kurdish political groups call for constitutional recognition"
     excerpt: "The treaty, which shaped modern Turkey, only recognized Greeks (Rum), Armenians, and Jews as official minorities, leaving Kurds, which is the largest non-Turk ethnic group in the country, without constitutional recognition."
     publishedDateTime: 2023-07-24T13:20:00Z

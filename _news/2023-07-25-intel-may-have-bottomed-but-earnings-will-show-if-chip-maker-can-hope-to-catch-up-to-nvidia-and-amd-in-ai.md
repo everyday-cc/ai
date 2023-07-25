@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-ea
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
         width: 834
         height: 556
         isCached: true
-  - title: "Nvidia and Intel Drop After Taiwan Semi’s Earnings. Why AI Isn’t Helping All Chip Stocks."
-    excerpt: "The world's largest contract chip maker reported a 23% fall in second-quarter profit as it grapples with a slump in demand for electronic devices."
-    publishedDateTime: 2023-07-20T15:01:00Z
-    webUrl: "https://www.barrons.com/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
-    ampWebUrl: "https://www.barrons.com/amp/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/taiwan-semiconductor-tsmc-intel-nvidia-stock-price-ai-chips-f58af8f5"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 65
-    images:
-      - url: "https://images.barrons.com/im-461129/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to AMD and Nvidia in AI"
     excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
     publishedDateTime: 2023-07-24T19:41:00Z
@@ -121,6 +105,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "zHYQrg9w0I8PI58lAmsMaLB5lTT6ivdcy0My9yupeiqDpFMVTvkqWp3eqClIQWRUVEDbRvv/I4hT5jglnEy5EVl5k5UOe1pTozovfhYXIksucaNJQHXqIGLSAj6Gl0J64+ff1p53FapxrgJ5L9AjPG+5ARz2eFf491MdvXZX1c2L83FrjBBbQGwnV7knCRgFKBpwmMNXpvpWLqF040XvRjRoFfAICJa+D+oyENHynQzkQYXhwZX4n39QINLI6ED8+WHViImB+HwNjaO/fv5Ed6VK6gZ5mAtAt6bGammLFSe9viyzvWAFSb4WZKtv8DXZfHZf3C+Yd4wz6r+ycJpVaJYf/HD9REY6PRj82FXGQCA=;TLc8/wfhgmwgUWr2gjpn/g=="
+secured: "BXjwwpgmsbYXwogWSQFPdYG4a09ND+yuB0qKdbAUi3zJlivizJc1/m9f79EvT1GNLTjBDkT2T0jFk5bjMI2Q4G1O7ZxTmDN+FLLLzSq3N/yEHDkRq3d8GXvfaJSKKbnTqBdIVl+rnCTXHoMJjlsx1kt+Mho+DUAlca5bl1Aq0El5WuknpeTV9gdA1nk35rfG9+OrRTNAbFqQ1NCp74RqjRHcyh50IBi0EwMR8NUK5J7dt241TNXs1HUGopnwlo7OMBZjRr9wsPYoW11em/O4mlfFVW9yRu6j+GVSGvlcCKkR+AnXHR3BOzZmZIlCAFkG+IFjYbUPMFUP6RVTl0/dpazzUyn9B67PCpsypl28nSBX25+7ovjn9p3AH+NpnC0RyltpZUGUu+ROHYXzm39CGeSyrziGEx6h8Zl6Wewpg/8So5vlcViXizL+bsd/cHnHFNq6uModLRKiFHasBBlWrP1R31rg0s1bDOZYo9xKFoagDhunF0bl+DX6LiC9/Y95v4MlqDyzYuetyFtt7ANVyQ==;rabsvhEGkz6w8CbRvARRrw=="
 ---
 

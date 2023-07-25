@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recogni
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 2048
         height: 1367
         isCached: true
-  - title: "Face Recognition in the U.S. is About to Meet one of its Biggest Tests"
-    excerpt: "A Massachusetts bill restricting police use could set the standard for how the technology is regulated in America."
-    publishedDateTime: 2023-07-20T14:50:00Z
-    webUrl: "https://cacm.acm.org/news/274802-face-recognition-in-the-us-is-about-to-meet-one-of-its-biggest-tests/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
   - title: "On the centennial of the Treaty of Lausanne, Kurdish political groups call for constitutional recognition"
     excerpt: "The treaty, which shaped modern Turkey, only recognized Greeks (Rum), Armenians, and Jews as official minorities, leaving Kurds, which is the largest non-Turk ethnic group in the country, without constitutional recognition."
     publishedDateTime: 2023-07-24T13:20:00Z

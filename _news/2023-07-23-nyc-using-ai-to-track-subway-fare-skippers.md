@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "NYC subway using AI to track fare evasion"
-    excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
-    publishedDateTime: 2023-07-20T14:09:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-subway-using-ai-track-fare-evasion-rcna93045"
+  - title: "The Dilemmas Of Using Artificial Intelligence To Raise The Dead"
+    excerpt: "An advertising campaign showing the late Elis Regina and her daughter Maria Rita playing a duet has sparked antagonistic reactions on social media.In the Volkswagen piece, the singer who died in the eighties was brought back to life using Artificial Intelligence (AI) ."
+    publishedDateTime: 2023-07-25T07:38:00Z
+    webUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Intelligence-To-Raise-The-Dead"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/25/CRN_659e8image_story.jpg"
+        width: 640
+        height: 395
+        isCached: true
   - title: "MTA using artificial intelligence to tackle fare evasion"
     excerpt: "NEW YORK - As fare evasion continues to be an ongoing challenge for the MTA, the agency is turning to artificial intelligence to address the problem. Fare evasion has become a persistent concern in New York City's subway system, prompting individuals to get creative in their attempts to avoid paying."
     publishedDateTime: 2023-07-21T02:40:00Z

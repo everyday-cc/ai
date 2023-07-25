@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-import
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-importance-of-ai-in-creating-situational-awareness/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://dmm0a91a1r04e.cloudfront.net/8kyZp4pGnkPE1sQ2RyONGj6jClw=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F20%2F9a3dc9e4-1dd3-47ad-9f61-f255f9ac36b3_jpg.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Exploring the Role of Artificial Intelligence in Anesthesiology"
-    excerpt: "AI shows promise in anesthesiology, but experts agree that leveraging the technology effectively requires a collaborative approach to ensure patient safety."
-    publishedDateTime: 2023-07-20T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/exploring-the-role-of-artificial-intelligence-in-anesthesiology"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
-    images:
-      - url: "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_anesthesia_surgery.png"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "ej+rp2BodaUjla890rgKrpp+frlZHJgTVMHWB1BT0NdR6N148np6ey3hiYsAU/YKVLV0bOCkf4ohEdq4Jhlut0Adgtc9M4qaduL8r4PLY5GXIIkIyfdkGGVwOqLmHtCbYT8yNpLt6hfZGn9uVkYppXiGXAHHSYXpyjjxjaR/b4cpoWEMw4ZinyMLE1x4FA/NBVetIcT4M207LdpcHvz44pwTTpdDF0rYp5IU4O1IjYAmbwkLRz4UjP10ZxdbxHJgpS4OZwnCF7CziAU7Llg5bGMdB7hs3ebIMFQHtgQtpQsBWfehTekgvcAcnU5bhWfBLEBH0YA+rUYk7vtwY6otGqiRvcaSS6T8jB7YHHZdZ/A=;cSG5ZOwdaKjPBaZKV/Qw0w=="

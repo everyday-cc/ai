@@ -184,20 +184,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Elon Musk says 'major OEM' may license Tesla's self-driving vehicle software"
-    excerpt: "Net income for the quarter jumped 20 percent to $2.7 billion while total revenue, including its solar business, gained 47 percent to $24.9 billion."
-    publishedDateTime: 2023-07-20T13:53:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/tesla-q2-earnings-net-income-surge-margins-slip"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla_Supercharger-MAIN_i_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
     excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla"
     publishedDateTime: 2023-07-24T17:04:00Z

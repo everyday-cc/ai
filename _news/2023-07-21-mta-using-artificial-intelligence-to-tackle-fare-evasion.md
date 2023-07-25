@@ -34,15 +34,20 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "NYC subway using AI to track fare evasion"
-    excerpt: "An MTA spokesperson said the software doesn’t flag fare evaders to New York police but declined to comment on whether that policy could change."
-    publishedDateTime: 2023-07-20T14:09:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/nyc-subway-using-ai-track-fare-evasion-rcna93045"
+  - title: "The Dilemmas Of Using Artificial Intelligence To Raise The Dead"
+    excerpt: "An advertising campaign showing the late Elis Regina and her daughter Maria Rita playing a duet has sparked antagonistic reactions on social media.In the Volkswagen piece, the singer who died in the eighties was brought back to life using Artificial Intelligence (AI) ."
+    publishedDateTime: 2023-07-25T07:38:00Z
+    webUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Intelligence-To-Raise-The-Dead"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/25/CRN_659e8image_story.jpg"
+        width: 640
+        height: 395
+        isCached: true
 
 secured: "vGR9APAfW5cxIHzfKRtfyQq/dIkiRx8khA9Ktzb3sy5OtSrkaXvila0JnupiNJ8SfQ+bnAnzbKwPHdzB34pui0bg58FyCT2fraw7MIGvRhjQqV5Hk5jhSgiRU61/vwIQU1KajWDQBv+Bjo+QmkbNJo784kfnEmChzlQJekoCgi2XvF+Raj+oJP5dHz2DGEsbXEfbapKKao0kk213ZC2J9YavS/+FghYuisrrs8F8bx/Vxq+OjgYZJ+HQFH12eJoKZhkul3oPDUQwmJi4+jQ07inqj0SKBhrf5TXiJjLZo6ioc0wfJ1ASXZGnGlm/d4EvmwXYhDfMPtVraZTuN8fKJEdtChkWu5BAlAvPlNhDhIvzx4OTMYm+ctgnd6QC4M1mth7oGesS2DMHgioI7nSf9kNDclys5hPqFy5xIjJDX8HQI5PVZaw6O4s5ZbzryM0Q0WaS4KYG79EHtQaxoVLCwdWH+swJGb8lnj2BoJMA4jkpFo+J3r7Dgw4sDiws/ZLVVpNkXU6aHDYKkrrw8ERkCg==;Fmqlco3cY3hia2QE4ParzQ=="
 ---

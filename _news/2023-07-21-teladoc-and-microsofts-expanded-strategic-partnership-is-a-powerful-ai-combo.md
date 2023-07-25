@@ -95,6 +95,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "It’s Microsoft Earnings Day. All Eyes Are on AI and Cloud."
+    excerpt: "Microsoft MSFT +0.39% will report June quarter earnings after the close of trading on Tuesday, with investors zeroed in on the outlook for the company’s Azure cloud computing arm and its rapidly expanding work on artificial intelligence. Already a subscriber? Sign In"
+    publishedDateTime: 2023-07-25T05:59:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-earnings-stock-price-231e11a9"
+    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-earnings-stock-price-231e11a9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-earnings-stock-price-231e11a9"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-822568/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Birlasoft and Microsoft collaborate for Generative AI Centre of Excellence"
     excerpt: "The Gen AI-CoE will leverage Microsoft Azures OpenAI Service for research, training, and collaboration, to build 50 use cases and digitally transform the above sectors, the company said in a statement."
     publishedDateTime: 2023-07-24T14:35:00Z
@@ -148,15 +164,6 @@ related:
       name: Money Morning
       domain: moneymorning.com
     quality: 36
-  - title: "Meta Launches Generative AI Model Llama 2 in Partnership with Microsoft to Compete with Google and OpenAI"
-    excerpt: "Meta releases its new generative AI model Llama 2 in continuation with its advancement in Artificial Intelligence field."
-    publishedDateTime: 2023-07-20T13:45:00Z
-    webUrl: "https://www.ibtimes.sg/meta-launches-generative-ai-model-llama-2-partnership-microsoft-compete-google-openai-70976"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.sg
-    quality: 17
 
 secured: "OjwoliAUBYK10Azf2iIrdyK+gGSojMpMcQLDtjkGzLtZ9oazv6oHgLNW4eRYrF068cK9xMoxqXt1jtWjmQpiaYpJBMcNDUvPH9bvVii6B+XC+QpeTPrQiqMx1wNz9QnLwkU9zAeIjRCyM4lzbvjW8yovUMzkOU58n4i0ZHBZtTE6r8wI8RFTekdii6BLRKA83B2yo0IV/65UFLT+/Y7knvuzumT04V52bjcfSPAXu00ZUNGQFnXVD7F1tGCB/YBqLpUlKbex/hH0ju5niP5yc3Dm+/Ar5pk9zAX+11JaZbvnsHuy4Y3FABLOhE4ugohqW3q0LNixo8G6lpweOOtmWawpI4C5eOckxv4QMLQxGfA=;O8a46x2ALX6nLEV8/wHg5Q=="
 ---

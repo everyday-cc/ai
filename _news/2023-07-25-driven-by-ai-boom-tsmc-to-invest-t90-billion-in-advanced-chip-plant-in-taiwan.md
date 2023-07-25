@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "TSMC to invest $2.9 billion in advanced chip packaging plant in Taiwan"
+    excerpt: "TSMC, the world's largest chip maker, plans to invest about $2.87 billion in an advanced chip packaging plant in Taiwan."
+    publishedDateTime: 2023-07-25T05:13:00Z
+    webUrl: "https://www.cnbc.com/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107275966-1690260911095-gettyimages-1541927779-porzycki-computer230719_npbb8.jpeg?v=1690269229"
+        width: 3543
+        height: 2362
+        isCached: true
   - title: "Driven by AI boom, TSMC to invest $2.9 bln in advanced chip plant in Taiwan"
     excerpt: "Driven by a surge in demand for artificial intelligence, Taiwanese chip maker TSMC plans to invest nearly T$90 billion ($2.87 billion) in an advanced packaging facility in northern Taiwan, the company said on Tuesday."
     publishedDateTime: 2023-07-25T02:27:00Z

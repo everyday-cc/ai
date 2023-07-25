@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-for-generat
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-for-generative-ai-use-cases-with-sandbox-options/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Making Anime Characters With Generative AI"
+    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
+    publishedDateTime: 2023-07-25T02:22:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Single chip architecture to meet generative AI processing challenges"
     excerpt: "VSORA, a French start-up offering silicon intellectual property (IP) solutions and silicon chips, has unveiled an all-in-one single-chip family – Jotunn - that it claims provides a massive jump in performance for Generative AI inferencing processing challenges."
     publishedDateTime: 2023-07-21T04:15:00Z

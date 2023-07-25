@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence Is Revolutionizing Industries Worldwide"
-    excerpt: "Welcome to the era of artificial intelligence (AI), where machines are not only capable of processing and analyzing vast amounts of data but also making decisions that rival human intellect. From healthcare to finance,"
-    publishedDateTime: 2023-07-20T14:20:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-is-revolutionizing-industries-worldwide/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-5.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "How robots are revolutionizing surgery"
     excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."
     publishedDateTime: 2023-07-20T15:44:00Z
@@ -46,38 +32,22 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI is shaping clinical research"
-    excerpt: "Take a closer look at how AI is shaping clinical research within the biotech industry, with multiple recent success stories."
-    publishedDateTime: 2023-07-21T10:31:00Z
-    webUrl: "https://www.labiotech.eu/in-depth/ai-clinical-research/"
+  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
+    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
+    publishedDateTime: 2023-07-21T06:45:00Z
+    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
     type: article
     provider:
-      name: labiotech
-      domain: labiotech.eu
-    quality: 37
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 39
     images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2023/06/ChatGPT-for-drug-discovery.jpg"
-        width: 1200
-        height: 800
+      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
+        width: 1500
+        height: 900
         isCached: true
-  - title: "How AI pressure is making companies rethink cloud use"
-    excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
-    publishedDateTime: 2023-07-24T12:19:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
-  - title: "The AI Revolution: Solidus AI Tech Announces New High Performance Data Center"
-    excerpt: "Artificial Intelligence (AI) has become a transformative force, revolutionizing industries and quietly reshaping our lives and work. This year, AI has"
-    publishedDateTime: 2023-07-20T19:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230720954029/en/The-AI-Revolution-Solidus-AI-Tech-Announces-New-High-Performance-Data-Center/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 16
 
 secured: "3THYKe6mV8SuqXNQVwmni4k0A1l7oGXm06jhnXncgVDED+rHhUi5hAj1bKuhlRWQu3ZPrSa17QsAbr8ge4zkh6NXf/1Rbb+AAo1HnwnSCYf43q7JjcgVYv4jtcBEZVnWcb+e3c2vDqQX48n4rMDDh95Uoq/ihLmZmyGECJWPnCYpL4lu3jGNm/YX0OIVFXzs4tYmm9Y/NQDIiI5z2zVySQgMDkNUfMssBqMThyAa7CRxWgn2sJrYXdQMBehE7gNVZFw57dnj5AcLd1TggqyKPOZGQO1PcJJtP9q7Zwd6qrSwJlKyFWMsxl2rreXbXw1eaeoS0B5FvawI1ceGPsfJyJIZAqi1GZPag9yjCOpiYJtyzYzrkdQDRMI0MgQvcC0z10E9mFTH+TzEp5Pyom/NmGrYfeUmEOjxFP5xv2NVtIncNiCR4dbg1CFDeNWz3yh85WC4ZW2H4ODaiU1Jrpmo9jXsA22JcYO1Pmo0LD2gOgbp1WMW8xsEfh1jKM8PxDz4zvSEz4xo0ug5/GpMl5BISQ==;KK15aGNz6Ccq7IZdpUS2JA=="
 ---
