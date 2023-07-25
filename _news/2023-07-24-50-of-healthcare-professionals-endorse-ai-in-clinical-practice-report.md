@@ -59,20 +59,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Healthcare AI Caution: Addressing ethnic health inequalities"
-    excerpt: "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists"
-    publishedDateTime: 2023-07-20T11:28:00Z
-    webUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
     excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
     publishedDateTime: 2023-07-21T14:48:00Z

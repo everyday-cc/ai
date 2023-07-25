@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-searc
 webUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Troy Medicare Selects nirvanaHealth’s Aria Platform that Runs on Microsoft Azure"
-    excerpt: "Press Release nirvanaHealth and Troy Medicare announce their partnership to implement nirvanaHealth's Medicare Advantage Platform-in-a-Box enterprise solution that runs on Microsoft Azure. These solutions run on Aria,"
-    publishedDateTime: 2023-07-20T12:26:00Z
-    webUrl: "https://venturebeat.com/business/troy-medicare-selects-nirvanahealths-aria-platform-that-runs-on-microsoft-azure/"
+  - title: "Azure breach: Microsoft okays Wiz post on continued danger, then denies it"
+    excerpt: "Microsoft is continuing to obfuscate about a recent attack on its Azure cloud infrastructure, saying a post, that claims danger from the attack still exists, is speculative and not evidence-based. The company is mentioned in that same post as having checked the post for technical accuracy."
+    publishedDateTime: 2023-07-22T18:42:00Z
+    webUrl: "https://itwire.com/opinion-and-analysis-sp-481/open-sauce/azure-breach-microsoft-okays-wiz-post-on-continued-danger,-then-denies-it.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
+      name: ITWire
+      domain: itwire.com
+    quality: 32
 
 secured: "ypDZqOFjo+0Yfi/dwxXH6PPYibLpHvg8Vk3Anw2DuXzG/VspSYfroFmnHW6xId9gARSgwo+jfGIdapjkDZeFYe+w4d+zuKrfzrg+hMzebGDQz0Or0t8ayr2V1BgQLQb5G3duR24axOjDAJTeBtNlKbBMoqggDdBk48PyeY9d7fnbRMdb30tnZUwFRzlEVvtbuFbxgsGRuLaqd14raldrhItSzYrns4z1r1Dq3FSEzjcOVilg3dKo/6ufIDjWIK2zeQohi+4K1RLlnfQhz6zghgeMUvLACPui23OcTexjsUBXLUAFb77uutVDGKUUPXux7Bq6MVirtAvlbJx/0hn4BMl4VX2Pw39uSmloTkZqLVE=;yofak2KTkcXtWiHMqbJT+A=="
 ---

@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI Is Coming For People Data: Are You Ready?"
-    excerpt: "The rise of generative AI will undoubtedly impact workforces—and the HR teams that support them—in deep and lasting ways."
-    publishedDateTime: 2023-07-20T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/generative-ai-is-coming-for-people-data-are-you-ready/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "This Tech Startup Is Powering 'the Core Infrastructure' of AI Models"
     excerpt: "Pinecone -- which was recently valued at $750 million in a Series B funding round led by Andreessen Horowitz -- has created a vector database, something that grants AI models access to long-term memory. This database powers the \"core infrastructure\" for companies looking to build and scale AI models."
     publishedDateTime: 2023-07-21T12:00:00Z

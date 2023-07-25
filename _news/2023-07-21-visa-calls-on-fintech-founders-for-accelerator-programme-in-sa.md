@@ -43,15 +43,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Visa calls on fintech founders for accelerator programme"
-    excerpt: "Visa has pledged to spend $1bn in Africa by 2027 and initiatives like the Africa Fintech Accelerator helps the payments giant achieve that goal, while also strengthening the continent's payments ecosystem. The programme is focused on startups operating in Africa and will run over 12 weeks twice a year with up to 20 startups per cohort."
-    publishedDateTime: 2023-07-20T12:34:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/837/240349.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 4
 
 secured: "dKFA7+eoe26VPulXFJmBoseWkP70OnbUakAulVC4q0JLTtNgLIUooMsuFRgahbyMYQdnIH0tRelbdphh1V+b7w9hX9r+G0k2dJi94kZSiVPrvv7g2cbm3T7EwTMo7SqnAcRbHBvdQ11WU6IUi0JzT1NZVBiIGds0koKVn/0jQmOiXidMUmRbUQmjgeREQmceWCtiynlR6kLu+MPIyGg/nLr1PTSvpCFucygVxFPtcnkKQgjMl12YbJW/dT2lKtgynB0L9ob3nDgbAT/dzy9NlvO8o14N0qepx84NcKBu1zK/xkAcDXWH/lEDuY4REZh6dBPhoNwXARsrfd+Wya+/w+b4lvjjFAqx5qa2EazuTR8=;dsB7EB721oX0zCwhg+xP0A=="
 ---

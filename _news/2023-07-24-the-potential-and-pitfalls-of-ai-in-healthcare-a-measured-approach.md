@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/07/artificial-intelligence-freepik-1690198214.jpg"
         width: 360
         height: 202
-        isCached: true
-  - title: "Healthcare AI Caution: Addressing ethnic health inequalities"
-    excerpt: "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists"
-    publishedDateTime: 2023-07-20T11:28:00Z
-    webUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
     excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"

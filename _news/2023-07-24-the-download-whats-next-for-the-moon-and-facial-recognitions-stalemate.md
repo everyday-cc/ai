@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076684/the-download-wha
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "The Download: US facial recognition, and battery ingredients"
-    excerpt: "The International Energy Agency has just released a new report on the state of critical minerals in energy, which has some interesting battery-related tidbits. If you want to understand what’s next for batteries, you need to look at what's happening right now in their materials. Read the full story."
-    publishedDateTime: 2023-07-20T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/20/1076569/the-download-us-facial-recognition-and-battery-ingredients/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "The Download: digital dollars, and AI guidelines"
     excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the digital dollar dead? In 2020, digital currencies were one of the hottest topics in town."
     publishedDateTime: 2023-07-21T12:10:00Z

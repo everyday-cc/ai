@@ -25,42 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras Systems signs $100 mln AI supercomputer deal with UAE's G42"
-    excerpt: "Cerebras Systems on Thursday said that it has signed an approximately $100 million deal to supply the first of three artificial intelligence (AI) supercomputers to the United Arab Emirates-based technology group G42."
-    publishedDateTime: 2023-07-20T12:02:00Z
-    webUrl: "https://www.reuters.com/technology/cerebras-systems-signs-100-mln-ai-supercomputer-deal-with-uaes-g42-2023-07-20/"
+  - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
+    excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
+    publishedDateTime: 2023-07-25T03:43:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33359165/competition-for-nvidia-this-chipmaking-startup-introduced-game-changing-ai-supercomputer"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33359165"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359165"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Cerebras unveils world’s largest AI training supercomputer with 54M cores"
-    excerpt: "Head over to our on-demand library to view sessions from VB Transform 2023. Register Here Cerebras Systems, the AI accelerator pioneer, and UAE-based technology holding group G42, have unveiled the world’s largest supercomputer for AI training,"
-    publishedDateTime: 2023-07-20T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/cerebras-unveils-worlds-larges-ai-training-supercomputer-with-54m-cores/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 48
-  - title: "AI startup Cerebras built a gargantuan AI computer for Abu Dhabi's G42 with 27 million AI 'cores'"
-    excerpt: "Condor Galaxy is the first stage in a partnership between the two firms expected to ultimately lead to hundreds of millions of dollars for a clustered system spanning multiple continents."
-    publishedDateTime: 2023-07-21T13:09:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-built-a-gargantuan-ai-computer-for-abu-dhabis-g42-with-27-million-ai-cores/"
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_intelligence_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Finding game-changing superconductors with machine learning tools"
+    excerpt: "Superconductors—found in MRI machines, nuclear fusion reactors and magnetic-levitation trains—work by conducting electricity with no resistance at temperatures near absolute zero, or -459.67°F."
+    publishedDateTime: 2023-07-21T13:17:00Z
+    webUrl: "https://phys.org/news/2023-07-game-changing-superconductors-machine-tools.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 36
-  - title: "Cerebras Systems signs $100 million AI supercomputer deal with UAE's G42"
-    excerpt: "Cerebras Systems on Thursday said that it has signed an approximately $100 million deal to supply the first of three artificial intelligence (AI) supercomputers to the United Arab Emirates-based technology group G42."
-    publishedDateTime: 2023-07-20T13:02:00Z
-    webUrl: "https://www.aol.com/news/cerebras-systems-signs-100-million-130216021.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 18
+      name: Phys.org
+      domain: phys.org
+    quality: 19
 
 secured: "d5a6g/AgVpzeNzOFsE0Ixz0K5AJo7acfW8nFtE0VqQPBWWoogwPahOvO9cj50OwCAWxBXoGuUGlvJT00AHooBpBtjYKyox/dOpXsfal58iOWt91Uxckfo6w56P2WUzOGe3LEnMhFpvGC5jEJLtWGZWD1qheA2GngP2GTFfAL8tnLkPODr47Wj/Vw/+RFVIYIXiDcITSvHYOjptuFKb8Z9DFj6/oe0i1tG14XTxGHX7hpPi99I8vepOWU7nGVq2LtXqZPR6SsPEXm/YD0fARTdbwBXSOyQbJp36VvTZbYV8bt0KrHeLXSqQ/umFMhzddonH8TOtnUfZgPmyMYrAtCYuEFVDnkNYQGpzfaZlTRwytskPC0MnO2r9cwK3+z3KFR7ZqlS63QRAeorUQQbQ7gF2O6k+cofrKB3C4pBSQXZoUWXpTv1cTF5CUsprKQDvHbOVmHhEUrj253sx/XOjQ9tc/r1gywjniZU1n6hbpbYAXGzHgBAZTWxR6HA/QbBO7XwaRYdERbgdVFjbOfY9mpqg==;yYF11AnEAQxdbh4SrbOqQQ=="
 ---

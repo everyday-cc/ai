@@ -207,11 +207,11 @@ related:
         height: 630
         isCached: true
   - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
-    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
+    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla"
     publishedDateTime: 2023-07-24T17:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33350824"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33350824"
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350820/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33350820"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33350820"
     type: article
     provider:
       name: Benzinga.com
@@ -222,24 +222,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Musk open to price cuts as Tesla bets on self-driving future"
-    excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
-    publishedDateTime: 2023-07-20T12:57:00Z
-    webUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 19
-  - title: "Elon Musk ready to deepen EV price war as Tesla bets on self-driving future"
-    excerpt: "Getting more cars on the road would help Tesla maintain its dominant US market share in \"turbulent times\" and give it access to precious usage data needed to train the artificial intelligence models behind its self-driving technology."
-    publishedDateTime: 2023-07-20T12:56:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/musk-ready-to-deepen-ev-price-war-as-tesla-bets-on-self-driving-future/articleshow/101990488.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "lhr6B/eZEZTHbqaAbdhk1DA2ZaiNkLGvTOCW6NDx/Jb6nR+8NbgpPpoTPpMuPAgHSW1Md82Zt8kPGojUSL9enVSn7wbXh0DOrJ2K0ArPRE3J0m7JODo1/IUBihXGoJ7Z+JIEKLS3KiKGCLuTP/55uN62yY0QgcageTiGll7sYyMZ0CTqcud1ufYHx0WCDnNOKTXeTCFUZpGzwV1qizixI4PPFw6VZTKXutgs5679cuwVbA/3U+bwJghyreiNkunD7e1edpPxzqcmucnB8gPSdi+olwu59Sc2gQDcsumvoWHtQfs2y8hlQqCox8iLJvebocJRul9FUDVNzk3BV5OnHuNeYC0i5iny8zgM7uhMbOIR1MnIyB8Q2HQZ812T/wjlVdtUy1LD/KGMbGcXQcphd3XYYiXck+uXCJdfSSDlC/o2xu1HZfhab5l5+OlNQPMtj0l4hUNy60Q9WWZJFjTTnfngyN9CuM1m5GAkNjs2ztstHoiWyeCQ1aLAeXlnAFpHn595SPKTQ9sgwV/q1EZOFA==;yP7XrcpoB69IAa7TwBxkoA=="
 ---

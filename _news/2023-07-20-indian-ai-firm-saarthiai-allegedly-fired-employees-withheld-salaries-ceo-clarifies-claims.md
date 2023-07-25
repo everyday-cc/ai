@@ -25,17 +25,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Saarthi.ai fires employees in batches, withholds salaries; cites 'investor pressure' to become profitable"
-    excerpt: "Read more about Saarthi.ai fires employees in batches, withholds salaries; cites 'investor pressure' to become profitable on Devdiscourse"
-    publishedDateTime: 2023-07-20T12:36:00Z
-    webUrl: "https://www.devdiscourse.com/article/education/2530599-saarthiai-fires-employees-in-batches-withholds-salaries-cites-investor-pressure-to-become-profitable"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 0
-
 secured: "DyorDr5cKp9ulAHlRW0i7j6RNkFIxvENvpaP3TmFoEw+GRaV6v1yoGCXxfBvCMnGwmpx1hy/7lgbno94NCcMROmEr43+3/3qTMjprTNwfE6UMgQ7Y/gzLzOXZkUj342jl8x1VikYBl11h8VP0OfT2y0R1ht7S5nKVxkI1fjPs8J2xZPR7kM4fEcVUEeznhxdXlB+dnB6s7p26q5XjmNXNCxFvjFCE5nrxVAq9ejYEBnSJ25bn0mo286Y8A4D4Z0L91WdSCEP/MlkApuSFoGjrVxQ1Pz3dpsyXiqvzvpAPEe+mws5Eg93M31htUA2dF7joqF//id8ns4F+KaxyHiizG+EWQq2ClKbnY+He1Osen0=;NQCCZPLORHuvVdBvJ7aOKA=="
 ---
 

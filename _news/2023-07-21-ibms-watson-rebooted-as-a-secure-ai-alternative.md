@@ -3,8 +3,8 @@ category: news
 title: "IBM’s Watson rebooted as a secure AI alternative"
 excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
 publishedDateTime: 2023-07-20T20:51:00Z
-originalUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
-webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
+originalUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
+webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
 type: article
 quality: 54
 heat: -1
@@ -88,6 +88,6 @@ related:
         height: 640
         isCached: true
 
-secured: "rndEN1oMn1z0spq8tC1baOa459N0uZ5KX8rt1Tb2LFDrGsZXttjvq5im4YGpHrESWmRyUZi62pU9bnMYol4W6g+QpyzyRIqPxK7jNlI9wnseHqvuKE8H5qkTXTfgCZ3luiCGvwAx4rWNM7bPyggUEc5b7JRVPFZ8nHrY4hXPQJqdLoyGNS934elHlTJ2BYaqJu7j4LV99Dx/duywmXcYBQN/jdvN1fydV84shE7XIe6/iMnXZL1TfaCQsAENpGBI+mrbvS10VV8Y1p5+wsLbRL9adiQJYSAr+JxVn5c3uKwghSHsMrh4m/hpqp13+xSjRiWA5aeUqgg+2DwmoepOwpAYPms5BTUaijUqEXNu13M=;t+VscToFPoDJyR1EYzLtkg=="
+secured: "YpkS1pc3eGqRpJNDsRN8R8ULg+PBuDvBj+8M6wSagjYVZQNIAOpGnAtCHj/92Pc227jE4W6NSE0b9SCpe4NJiVl6QYTLW5Xv3gmOWJobJeWVhqCug/tEmWe1kj3Mmjvr/gLBWli16VA0XyDWgYQAJ5y+lQnH3dlhvZlz465UsVvhvLrGc/8f2jaVAGEBDWXeHwq6o+jmMFvVHqlKpnaVwGZIVFS8DflzisA8IsGafYAYpXclOsnXTxxhB0ARABISL7uWbXWt0diL7shZUrjL25JPQfG9/8YP/VEBC6gshRnskQlbW6mxtoILNrxfPvSiU5x9cGZRUDdZbiSbVwRtwqnoRaMnsGrFqqbczIjQf9I=;VbpFYfsqydI9dhQ7g29zpA=="
 ---
 

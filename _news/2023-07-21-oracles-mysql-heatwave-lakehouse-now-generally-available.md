@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oracle MySQL Heatwave Lakehouse goes GA to query data"
-    excerpt: "Oracle is staking its claim in the data lakehouse business while continuing to augment its ongoing generative AI efforts."
-    publishedDateTime: 2023-07-20T12:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/oracle-mysql-heatwave-lakehouse-goes-ga-to-query-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "Oracle Announces the General Availability of MySQL HeatWave Lakehouse"
     excerpt: "New 500TB TPC-H* benchmarks demonstrate 17X faster query performance vs. Snowflake; 36X faster than Google BigQuery; and 17X faster than Databricks"
     publishedDateTime: 2023-07-20T13:51:00Z

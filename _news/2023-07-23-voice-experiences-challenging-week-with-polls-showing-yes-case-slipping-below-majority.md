@@ -55,6 +55,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Empowering The Edge: Unveiling The Ai Chip Market's Thrilling Journey 2022-2028 X Herald"
+    excerpt: "Global Edge Artificial Intelligence AI Chip Market research report gives most upcoming industry information on the market situation and future outlook. This report provides you analysis of Edge Artificial Intelligence AI Chip Market size, share ..."
+    publishedDateTime: 2023-07-25T05:46:00Z
+    webUrl: "https://menafn.com/1106672847/Empowering-The-Edge-Unveiling-The-Ai-Chip-Markets-Thrilling-Journey-2022-2028-X-Herald"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/25/ADC_e6d8af17-8_Image_In_Body.png"
+        width: 300
+        height: 225
+        isCached: true
   - title: "This Under 30 Lister Is Shaking Up The Fintech Scene With A Banking Startup For Creators"
     excerpt: "But one 2022 Social Media lister, Will Kim, is working to help those creators get their finances in check. This week, his startup Karat—which offers credit card and banking to folks who sell via social media—announced $70 million in new funding, bringing its total funding to more than $100 million."
     publishedDateTime: 2023-07-21T12:00:00Z

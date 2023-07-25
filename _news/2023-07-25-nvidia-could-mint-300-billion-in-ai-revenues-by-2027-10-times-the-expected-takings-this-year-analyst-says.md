@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-
 ampWebUrl: "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/64bf2969bea34400196092dd?width=1200&format=jpeg"
@@ -70,6 +71,6 @@ related:
       domain: thestreet.com
     quality: 33
 
-secured: "xg+nSdk4jxFbwy3+Minp+fBMLWkSNAjYgcpV3XkMHeo+9lEOOMlJT9HuWNvJIkYRmmOMOSMPyT16ka2+M9MeAfRGZhNboH3OW8gazq5muy+wQsN0rpAb78MN81CJZ8dMfwfIBgjrhIjLaTsDrwxSYRdsXcC2FNcebUVBptpoZ/ol5xjfJOWByg6ipDg3DabQmZVYDpmXKrrLg2s3u+UHJainV7d8th47wCI+Gr/dm2/b8ALe7Hl+A9Jio0vCs8lg1h/c3b8uiD2ZfTEIexYrqNmvae0zz7vaK6g1MfV9Z1+1I0OB809uny4E5F1NaPEeUfR/tYkLXQntPeNrjaz0XrHNkAX7Qqd5en/OepCWwA0=;BEw5G02dG8F9IQnGTVCv9A=="
+secured: "gI63MAmZXHrZmAnQYFH7a+MDMCiYxYfds4M7ohTdCYZMXFKSbpxVEzxonYepbfyilQyLNrNAqixhu6u/Fwsas/cCNuiCtl3eTWntTrN/+X/GDoPA98tuci7ho/FMrijjivpEHg0vNw62K/nlVmTITpvh7J2/P90s/AscyCVu/eB6npUBKZIXk9dGylr/grAvK/vLntdmUo5MKsE5p8G7qrYRW8p4Ckipt/4Z7QOKkBYjEg81KJm9S120Bv68+k6hVrOYjURyh4mmpJGNfOP5RT/cCULxdRxCiVd0jRhRVPBdUAy2PcoAsFoNK+WNJvWdYUBrDXxY/xV49u9yJn/QCNyPFObTfMffs1aq4F/Qv07c2xhMLMbNraALWUtKFbBkOfQlSjaZ3Esq9gfT9KR856yqD+pddTf29YeAi22fZtfaM9NBDATkkeZhzC2p/GlbE4vWzI1ss6GoeoZwkeplwNfk/YLLx8VNHTNgnHYyHbO9UuHnGmtvhumKYC1vkznIbSz7fW8errR0lXKLqAaacQ==;DhYthPOYgkRPHUiW+SVzww=="
 ---
 

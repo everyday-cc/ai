@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/can-computer-chips-the-size-of
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/can-computer-chips-the-size-of-dinner-plates-feed-the-ai-boom/?amp=1"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -19,17 +19,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips"
-    excerpt: "The new supercomputer, made by the Silicon Valley start-up Cerebras, was unveiled as the A.I. boom drives demand for chips and computing power."
-    publishedDateTime: 2023-07-20T13:00:00Z
-    webUrl: "https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
 
 secured: "VQ89qmuL88EgflLBsEDZ0ZSMj+AkILZsqMszB10LkR8k/P2xVHIV5j7imBjzc67xAhFlldh0RgFriwgfKnIKcrTXYN0xI+qApyN/V8haLA91912P1C6qOljBfkghRTrOSthVuourVD2wi3M+eJjUvgNbJ9C4Xm2atzijdDNB/OWy3dzRID0abLQ6YehoqSCt7xAR77fddyybQjbRqqb+Qww7s6bxCJSPqw/zKEtDNxaoEPvbFQXSiXXxrvK4E37YIrYkzeJAsJ1XiLrjVv7BNifpIq8Wt2xZ1u8qkKA8TW1jDT7k8XXYMF5eo+4meQtLjXSMWxR4YRyR5w0GqJPQ45T/cW5Gm4h5+t6hNbOpmFhLG3TYWCq3GkvJD8DnuHldDJgr4sT7z/0E7rzux4lshyJGx5eHB3yHnl1O2wlYzHvpaXjhqHlkDOkN/Vb9ZjY82mM9UGq3lMXheZ4WmswExq/4JCUEV+wP1txNxdECXz1IamR1dsKBdz/4TbNMySeR/dirSh+6hPqBX6PNz5KBEQ==;xpjx2fjMpTkZVG+egbhOrg=="
 ---

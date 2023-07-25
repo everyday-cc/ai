@@ -104,6 +104,22 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
+    excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
+    publishedDateTime: 2023-07-25T03:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
+    images:
+      - url: "https://i.guim.co.uk/img/media/dca031b14d57615a9150621514d3fe2c7539fd43/0_391_3188_1912/master/3188.jpg?width=620&quality=85&auto=format&fit=max&s=4a111118db7242b93c2a7c741c50968d"
+        width: 620
+        height: 372
+        isCached: true
   - title: "The biggest AI release since ChatGPT"
     excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
     publishedDateTime: 2023-07-21T18:11:00Z
@@ -168,20 +184,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/DKX8hMk1.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "Unveiling The Latest AI Breakthroughs: From Chatbots To Self-Driven Cars"
-    excerpt: "Welcome to the future, where artificial intelligence (AI) is revolutionizing every aspect of our lives. From intelligent chatbots that can have natural conversations with users to self-driven cars navigating through busy streets,"
-    publishedDateTime: 2023-07-20T11:12:00Z
-    webUrl: "https://techbullion.com/unveiling-the-latest-ai-breakthroughs-from-chatbots-to-self-driven-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/07/AI-2.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "Surge in AI voice applications: Noise reduction, voice-to-text, and chatbots lead the charge"
     excerpt: "Owing to consistent advancements in chip computing and AI algorithms, the scope of AI applications has grown exponentially across multiple sectors. The early years saw a primary focus on image recognition,"

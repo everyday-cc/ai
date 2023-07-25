@@ -73,20 +73,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Healthcare AI Caution: Addressing ethnic health inequalities"
-    excerpt: "Healthcare AI models like ChatGPT must proceed cautiously to avoid exacerbating health inequalities for ethnic minorities, warn scientists"
-    publishedDateTime: 2023-07-20T11:28:00Z
-    webUrl: "https://www.openaccessgovernment.org/healthcare-ai-caution-addressing-ethnic-health-inequalities/164069/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 54
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/07/iStock-1321548285-scaled.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Nearly half of healthcare professionals endorse AI in clinical practice: Report"
     excerpt: "About 50 per cent of healthcare industry professionals with prior experience in artificial intelligence (AI) have strongly endorsed its use in clinical practice and administrative tasks, according to a report Monday."
     publishedDateTime: 2023-07-24T13:06:00Z

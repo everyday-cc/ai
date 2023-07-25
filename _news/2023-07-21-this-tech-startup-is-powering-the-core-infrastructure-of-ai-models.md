@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI Is Coming For People Data: Are You Ready?"
-    excerpt: "The rise of generative AI will undoubtedly impact workforces—and the HR teams that support them—in deep and lasting ways."
-    publishedDateTime: 2023-07-20T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/20/generative-ai-is-coming-for-people-data-are-you-ready/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
     excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
     publishedDateTime: 2023-07-24T15:23:00Z

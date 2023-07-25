@@ -3,13 +3,13 @@ category: news
 title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to Nvidia and AMD in AI"
 excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
 publishedDateTime: 2023-07-24T21:24:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94?-cfp"
-webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94?-cfp"
+originalUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
+webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia Takes The Crown As AI-Chip Winner, Intel And AMD Still Have Potential: Analyst"
+    excerpt: "Long-Term Optimism for Intel and AMD: While Nvidia is likely to be the primary beneficiary in the short term, Rakesh also expressed optimism for Intel Corporation INTC -1.15% + Free Alerts and Advanced Micro Devices, Inc. AMD -0.31% + Free Alerts in the longer term."
+    publishedDateTime: 2023-07-25T05:12:00Z
+    webUrl: "https://www.benzinga.com/news/23/07/33359646/nvidia-takes-the-crown-as-ai-chip-winner-intel-and-amd-still-have-potential-analyst"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33359646"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359646"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Business,People,And,Humanoid,Ai,Robot,Sitting,And,Waiting,For_0.jpeg?width=1200&height=800&fit=crop"
+        width: 834
+        height: 556
+        isCached: true
   - title: "Nvidia and Intel Drop After Taiwan Semi’s Earnings. Why AI Isn’t Helping All Chip Stocks."
     excerpt: "The world's largest contract chip maker reported a 23% fall in second-quarter profit as it grapples with a slump in demand for electronic devices."
     publishedDateTime: 2023-07-20T15:01:00Z
@@ -105,6 +121,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "T/HPbGcKTXEh8xW5jEC4nUbiLvMCgqbCaQvF4B4kj04DANiz6i1ZLeQqOry5kKFX+u/5nuLuMgtDzkf1vETurzh1CvRAe9gVqfiRJL3n8LA7E0fBwJgYH2A98EVGtdKacnft9pyTcZnxWEfHgf2EnJzX3CjQQpkwKxVJeBwWdDJ8cJ7B0nSZbpjq0Zo9xm3Mhs7766OY+l3QJ/iHMT8WloM4ckrFjrOpp8cPj2/vW5CD1WkByJcMQ8wkWgWip0qXfULHonWOdVDc/4GSgqsGKfsrs/MCEUJgPJLgOg1pY1Ud1ChENx4HpLUZCzWo9HNOmDNTnFS5qeFJ2xKTeUm8tz8ftobrcSOwh/vJsdxrYhpnbuy2cAW1IJkAI7B0n17KNOThWJT4oKMZQvTOY7H0+cFWPbSa4Hs2jkdZMErhDJTh+jUIHFRJxe1M3z/woAj8fZrYjBiK+45WJ1fJmognIp/VSsbqkLu8aFMk1aUswm/1z71PxpLUJnit6QxlqhKGzPOTLsDcFSUKna2hh7C8KA==;h6WleFZOM9sXzi5y6i+BEA=="
+secured: "zHYQrg9w0I8PI58lAmsMaLB5lTT6ivdcy0My9yupeiqDpFMVTvkqWp3eqClIQWRUVEDbRvv/I4hT5jglnEy5EVl5k5UOe1pTozovfhYXIksucaNJQHXqIGLSAj6Gl0J64+ff1p53FapxrgJ5L9AjPG+5ARz2eFf491MdvXZX1c2L83FrjBBbQGwnV7knCRgFKBpwmMNXpvpWLqF040XvRjRoFfAICJa+D+oyENHynQzkQYXhwZX4n39QINLI6ED8+WHViImB+HwNjaO/fv5Ed6VK6gZ5mAtAt6bGammLFSe9viyzvWAFSb4WZKtv8DXZfHZf3C+Yd4wz6r+ycJpVaJYf/HD9REY6PRj82FXGQCA=;TLc8/wfhgmwgUWr2gjpn/g=="
 ---
 

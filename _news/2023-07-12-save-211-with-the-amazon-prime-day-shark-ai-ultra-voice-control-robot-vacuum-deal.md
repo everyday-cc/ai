@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Save $211 with the Amazon Prime Day Shark AI Ultra Voice Control Robot Vacuum Deal"
-excerpt: "The Shark AI Ultra Voice Control Robot Vacuum normally runs for $599, but with this Amazon Prime Day deal you can shave $211 off the price. Not only does it provides seriously powerful suction ..."
-publishedDateTime: 2023-07-11T19:18:00Z
-originalUrl: "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
-webUrl: "https://www.azcentral.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
+excerpt: "Amazon Prime Day is here and there are plenty of great deals on home coveted home appliances like the Shark AI Ultra Voice Control Robot Vacuum. A good robot vacuum can improve your quality of ..."
+publishedDateTime: 2023-07-11T19:26:00Z
+originalUrl: "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
+webUrl: "https://www.indystar.com/story/money/reviewed/2023/07/11/amazon-prime-day-shark-robot-vacuum-deal/70208559007/"
 type: article
 
 provider:
-  name: AZ Central
-  domain: azcentral.com
+  name: The Indianapolis Star
+  domain: indystar.com
 
 topics:
   - AI in Robotics
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "1twQ3umQIwDsihq5LzT4rdRIgV02PCtVPkx6a206x+LL6/CoPyo8ExLagQS2hB9VWpzkR4YH7j63eciaHj2AeheURwzRBx2tUBY123sbV7GCPEt7j6cS3yOylKGGayI3FtPuwSh62t7Rq7mEsHnwy2vTcCT+rm9Zm5AEjfeGGtkKhFNbHcfAGpA0eo7qY3jtSE42BljV+QSyKyxBRV42JeYeEebtgkLtPgG+YxBrFk1ZxTs8MckW0FwXUM3GMo9C25Kp/acd5EOUhYHj6h9IUEwvArwcEc2DV25176K5MsSMevqCZhTdPal67nc6lnXHqGmWUzj7cVG9HcDLk78oqEopYoXwqQ+IyUPVaKD0ksc=;MhVC5TpdOgrNN9fLUX6S+g=="
+secured: "p+t+BddPjEPtzBmAVVlNOwbpSTTRMbd2zjQ9f+ey+GmIwvpGsD9h66kyIvl+rk3OZqtSe09x9eJwAY9jjSweTlXTiHzV8h3lYX8cs2DiQyyy4qmXKIX+2Dl+ES8Q18ySSlVt+NUzI8UK3hv55lFie+pfk/yrUPf97/M3wPApTzJCBNl3D0iXB5TpWFVSloSCktoSPAxmIasaVnQefTw5N3GnfC6But0fOSp0aY2voIFH3+SGAd1au4r5xyfbk+f6lxVbiwkNnhdy0ATt6jlgtUBjMvQttMXQ17j1cwWNsuhpmvpbqWYMgqdqDmQWkhVl+8+MLOrqmCMELcEW2xC7LfRkuaxDERtPOednAXnFvxI=;8Qoi1rZPZCeGfZ2YTLJQ7w=="
 ---
 

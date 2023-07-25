@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
-excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
+excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla"
 publishedDateTime: 2023-07-24T17:04:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
-ampWebUrl: "https://www.benzinga.com/amp/content/33350824"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33350824"
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33350820/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350820/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
+ampWebUrl: "https://www.benzinga.com/amp/content/33350820"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33350820"
 type: article
 quality: 30
 heat: -1
@@ -214,24 +214,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Musk open to price cuts as Tesla bets on self-driving future"
-    excerpt: "Elon Musk is prioritizing sales over profits in hopes that Tesla's elusive full self-driving software would eventually burnish margins."
-    publishedDateTime: 2023-07-20T12:57:00Z
-    webUrl: "https://www.autoblog.com/2023/07/20/musk-open-to-price-cuts-as-tesla-bets-on-self-driving-future/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 19
-  - title: "Elon Musk ready to deepen EV price war as Tesla bets on self-driving future"
-    excerpt: "Getting more cars on the road would help Tesla maintain its dominant US market share in \"turbulent times\" and give it access to precious usage data needed to train the artificial intelligence models behind its self-driving technology."
-    publishedDateTime: 2023-07-20T12:56:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/musk-ready-to-deepen-ev-price-war-as-tesla-bets-on-self-driving-future/articleshow/101990488.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
   - title: "Tesla in 'early discussions with a major OEM' to license full self-driving software"
     excerpt: "Electric vehicle giant, Tesla (NASDAQ: TSLA) held their 2Q earnings call on Wednesday where CEO Elon Musk spoke about the direction of the company, and confirmed that the electric automaker is in early discussions to license its Full Self-Driving software to a major automaker."
     publishedDateTime: 2023-07-20T19:03:00Z
@@ -242,6 +224,6 @@ related:
       domain: investing.com
     quality: 13
 
-secured: "43W955OmrLUCYl2NzGAL6Kzj9bzvcSxeZMgnzKeHmxNwdU/CZkh0eu9oYetYOSYhKFy3W8OCpL2j6ij5ASTMuG1QBOxOCvtGLpF44AsP2F1XFZDwTLZ94WEdNt1kkyYXSYb58gkQ59Ssrxt1z3zUR4keEBsAoKHAZiG1xD6zCOHN14jhTLTxLrAx/P+nqyqqVk07goxVc2IfamBT4fzEPPzZ5g+K6Il44HIogpzttc5s809qCLKfJ5rUyWm7eATzXjDryhX1VuoooQSG51HCsQDN2lb9ZdJgW/4eYmlg3ZaijKheerTtsNpPTl/e7F4YhCmDWMS0epM3zAm2zIex79fWH6WHr6EdMfbwFCB3QbE=;zdWdRyI+4Nxxb23qVY583w=="
+secured: "IhIt7xuQJWYH4O/t/yP19uIS6VxrXEAwFC/oHZ+ECiL5LLS/RYMAylo5sI8uxY8EeJGBxohV7nVMD/N4KmbBgKTdJPAUvwlvCMMcsuzine8UhqzpRMav+6Il4HmXJnwpsHCARIeIuezeonrKldNkOU09Vtdtry1smw2janFOthCm+9as2BGDDtcX8HAXCFmrNvkO7Cn1+9yMbR8IPmr6PbaajkqFBaAc55FT/S2q3awrqGTsZZnuDmy/0b7VvIFFIX+x3h9gLXC0AP1A8achuQQrO6s3or9UDPMim78HjWnAj9ewoNbHsjq9L6Nd18i5thokdvlPQkBqjbJ96k0i4CziAHIYgToI9I8m+/zeu50=;wZ0H6bhsAN0GWzWArmaAAQ=="
 ---
 

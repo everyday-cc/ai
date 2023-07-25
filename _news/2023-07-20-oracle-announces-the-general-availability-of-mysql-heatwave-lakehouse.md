@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2023/07/20/9851556.htm"
 webUrl: "https://it.tmcnet.com/news/2023/07/20/9851556.htm"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Oracle MySQL Heatwave Lakehouse goes GA to query data"
-    excerpt: "Oracle is staking its claim in the data lakehouse business while continuing to augment its ongoing generative AI efforts."
-    publishedDateTime: 2023-07-20T12:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/oracle-mysql-heatwave-lakehouse-goes-ga-to-query-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
   - title: "Oracle Announces the General Availability of MySQL HeatWave Lakehouse"
     excerpt: "Oracle today announced the general availability of MySQL HeatWave Lakehouse, delivering an industry first by enabling"
     publishedDateTime: 2023-07-20T19:10:00Z
