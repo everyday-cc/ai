@@ -18,17 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "The Only Thing That Could Make Online Dating Even Worse Than It Already Is? Artificial Intelligence | Opinion"
-    excerpt: "Romance is at the core of the human experience. And exporting it to a digital assistant is a betrayal of intimacy itself."
-    publishedDateTime: 2023-07-20T18:04:00Z
-    webUrl: "https://www.newsweek.com/only-thing-that-could-make-online-dating-even-worse-it-already-artificial-intelligence-opinion-1814370"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 30
-
 secured: "bMZAH8w1rb6HOiCWHfVHADI8ux6IZuLJGOZhSEhyK4ECeJAQ9B+oQTUQIKwyjgp2EvUz5/BLs0oXxn3I90VaLXOcT2EU/OYGnN7qHwqcAeNj7HsWWP0uY1Y7pwpRjnhXbWYudOfm5JISG8iFV04kD+04YaXE1780SPelO8maHJ3eUNBnd5V3Il5QjRWhQh5aiXREvMqgPKPvMttmRSuPYhI1IU31C66ghhyMWdyIlSIRllYA0yB8KZPgY7OUM7cJCHnnBMJsCQMi6WJUCl2KQz/6QbllO6Ya2HpgvtX2iUtcp6CFJ+pCxlxqLNip4yMfIFR+ETpEq4r5oy9wx0wGt+QYi/1Hu4mleFdMhHwiAcQ=;yV0c+5+djsKkmILT5knkBg=="
 ---
 

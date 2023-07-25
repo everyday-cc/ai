@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Facebook's ChatGPT rival will be 100% free to use — what we know"
-    excerpt: "Meta revealed in a blog post that its forthcoming large language model (LLM), called Llama 2, will be available completely free of charge for both research and commercial purposes. It's the second generation of LLM from Meta and a strategy shift as the first was only available for select academics for research purposes only."
-    publishedDateTime: 2023-07-20T15:48:00Z
-    webUrl: "https://www.tomsguide.com/news/facebooks-chatgpt-rival-will-be-100-free-to-use-what-we-know"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/7HEWJET6bo633MKEnPAFaS-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "yYxLbv2Gb/eNMYX/mbZpPTXZuWKEVvOneeoV7ym0Iye7vShW8FqRnmcqKF3sSbz0/j3pmQarQfKGOBhZiwEvzrTmPLBklacOU99STIDHpLF9sMUjwlhNgqrD8m52AZLRzgMPu4BZvnNAMdoMyQDYrQCkPjzhNwmMLsV44HTnLBYOnqOqGbo47IGTP1jfyNU6qYT3qpGi78Mrw2Izh4PK8Gv2FNEsodVJqJwMZF6gKtJWRi+VhqvgLvDHMeky3pgXMWIKaXfDrhadjIZwT+vlBERHty/NxDKyyX6UPfvBpKn9eZk9aj4bzABoMZQMYtFCkRFIJDvxURt2q5aYuwATwSNhOL6f6/i+16pxR5DI/C4=;JXPUJ2K0c85KJenIj56btQ=="
 ---

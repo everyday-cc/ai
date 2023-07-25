@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How to ensure fundamental rights when using face recognition?"
+    excerpt: "The EU is debating whether to allow Member States to use face recognition software that would make it possible to keep tabs on people in real time. Estonia will only back the plan if fundamental rights are ensured."
+    publishedDateTime: 2023-07-25T09:18:00Z
+    webUrl: "https://news.err.ee/1609043342/how-to-ensure-fundamental-rights-when-using-face-recognition"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 39
+    images:
+      - url: "https://s.err.ee/photo/crop/2023/07/24/2009387hc904t24.jpg"
+        width: 672
+        height: 420
+        isCached: true
   - title: "On the centennial of the Treaty of Lausanne, Kurdish political groups call for constitutional recognition"
     excerpt: "The treaty, which shaped modern Turkey, only recognized Greeks (Rum), Armenians, and Jews as official minorities, leaving Kurds, which is the largest non-Turk ethnic group in the country, without constitutional recognition."
     publishedDateTime: 2023-07-24T13:20:00Z

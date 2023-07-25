@@ -106,20 +106,6 @@ related:
       name: orissapost
       domain: orissapost.com
     quality: 30
-  - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
-    excerpt: "A majority of Americans would feel “uncomfortable” with their doctor relying on AI in their medical care, according to recent polling, but despite those misgivings it is likely you have"
-    publishedDateTime: 2023-07-20T15:55:00Z
-    webUrl: "https://thebrunswicknews.com/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health/article_d8fe9aff-5f47-580e-bbb0-f9da807e914d.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/1/c4/1c4dbbc1-d712-5c59-b631-c5533929e7db/64b95fb24f420.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Purehealth And Fujifilm Collaborate To Bring Advanced Artificial Intelligence Solutions Into Abu Dhabi's Healthcare"
     excerpt: "Abu Dhabi, UAE PureHealth, the largest healthcare platform in the Middle East, is collaborating with Fujifilm Global, a renowned world leader in"
     publishedDateTime: 2023-07-21T12:25:00Z

@@ -85,6 +85,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Fintech firm supports charity Ablaze with mentoring day"
+    excerpt: "The students visited the Novia Financial office, getting an introduction into financial services as well as discussing artificial intelligence (AI) and technology"
+    publishedDateTime: 2023-07-25T08:59:00Z
+    webUrl: "https://www.thebusinessdesk.com/south-west/news/5998-fintech-firm-supports-charity-ablaze-with-mentoring-day"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 24
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/jul_23/Ablaze-Novia-Financial.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Announcing the second group of judges for Startup Battlefield at TechCrunch Disrupt 2023"
     excerpt: "Additionally, he contributes to GC’s expanding AI efforts. Bhargava’s four core areas of interest include security and data infrastructure; startup tooling platforms that make building software — especially financial services — companies easier ..."
     publishedDateTime: 2023-07-24T13:01:00Z

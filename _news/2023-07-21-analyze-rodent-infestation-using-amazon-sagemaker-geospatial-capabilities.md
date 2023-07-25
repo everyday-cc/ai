@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infes
 webUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 118
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Efficiently train, tune, and deploy custom ensembles using Amazon SageMaker"
-    excerpt: "Artificial intelligence (AI) has become an important and popular topic in the technology community. As AI has evolved, we have seen different types of machine learning (ML) models emerge. One approach, known as ensemble modeling, has been rapidly gaining traction among data scientists and practitioners."
-    publishedDateTime: 2023-07-20T16:12:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/train-tune-deploy-custom-ensembles-sagemaker.png"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "How Patsnap used GPT-2 inference on Amazon SageMaker with low latency and cost"
     excerpt: "This blog post was co-authored, and includes an introduction, by Zilong Bai, senior natural language processing engineer at Patsnap. You’re likely familiar with the autocomplete suggestion feature when you search for something on Google or Amazon. Although the search terms in these scenarios are pretty"
     publishedDateTime: 2023-07-24T21:23:16Z
@@ -70,6 +56,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/enel-power-grid-management-sagemaker.jpg"
         width: 1022
         height: 513
+        isCached: true
+  - title: "The National Geospatial Intelligence Agency takes on artificial intelligence"
+    excerpt: "The National Geospatial Intelligence Agency is about, well geography of course. And data. And now it's about artificial intelligence."
+    publishedDateTime: 2023-07-24T22:45:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2023/07/the-national-geospatial-intelligence-agency-takes-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/05/GettyImages-1384658578.jpg"
+        width: 2301
+        height: 1302
         isCached: true
 
 secured: "qbsUmVAmYr0vm7Cp7NMhuEcxFOfvJWeOYF49xJx+q2uu3a7KS6qxGtqnrZNh+Ef359WhkNnsbxtZwUEOXNdHAqMJirffo/NHnsP7x2kxxcDACvjZ6sxt4tFDDtrAVtqCenh6KBIMt4j0dccRGDSpDYifZxrCO10dtCT1K2ofodGuVSY7+e8rzjJDbUmVRWTM+3mWsyWZiG6aVom7v8uXgCqBhKHwYeRijtkdfVGBOEkw0xta7k4QojrPKu8zdDfMt+TrhwmJGReI5TmRQ1lAzpOtCaDdXxE2ek72wZvp9vzKmn10al5ASaS+1JfLS6KTTJhnKlekul4YPU/Uw203s8j5rzAVIw2v1N3h3HTuT9g=;MLCiYhEIDG9JibsFfCOS6Q=="

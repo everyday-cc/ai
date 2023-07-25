@@ -14,7 +14,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2023/05/11/USAT/4347b01a-2d33-42cb-8029-2bb90c04d454-USATSI_18152732.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
@@ -22,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "TuSENY/klRNUqGa5AgNj+ATfUwOHDG7XgYlFIuZsMGGyoB9BlC0mwoaw1mCyFTYORKKThzd80VtvY/KCahy6cMzAMzARr6/NSflZGs9J4GWFY8w4VAq2Hmv1uihNqRSGXB2zqOIT2N2K15DSNz+IaMfS6gDfVxVBtzcUKI4uEGO/ap/usxIV9hm4OBOekvHx52jdQMgFKq6joBm2rduJiP0rvkhQwolopMErmOKbOubmKikhN7bdDp3ArMBLqqjlNZf+tB0Zs8tRZIObfO3qBt4zn6PCC0eRMQpxQhgJE/6DtsgT6O1P/N28DyyUmyqlMMehgXSjVSaz5QEAUsMG8FiqDIumiJ1rnan7CEG6yBI=;mOOt5LI3M0QkKxtK60KQig=="
+secured: "4+bUB5Fy0H9evfr79hkmK060jOC65WReVYJaM8V+ms706JiVHhGlLcY6/XY1bnIkhCg/vmJyvRRsSWh4mrSG91VvtYeu6ItELblIzYCdZA2M6FuR3K8TFwKgleLIKAAOopB86CYNMKj00/98nSfTInSmNeKwH+SZzGDKbf88g3lsbqg/aO+2Lb8k0I90lmcjzkLJvvMbzNne8Yg8Ez2jnauyiBcpxs7pp4/DV7f7u98JjNmEfpimCNJ3WrvxEexaQ9p/GZbWyJFUh7q/iRpAo0apocH7RBdyMIb/lp2O6jbX/Hwa9ZJWE1yRfWYx4vp4orgPeSpohHvKKtnqUpxf+a5+kf58ASB3hz93oLJ0e4w=;wVXxlnnchaLAvq+IsJxdWQ=="
 ---
 

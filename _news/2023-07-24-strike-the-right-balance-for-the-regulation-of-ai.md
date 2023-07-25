@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "Expand Research on the Use of Artificial Intelligence in Education"
-    excerpt: "The application of artificial intelligence in education is still minimal, even though the technology can bring positive developments. However, research is needed on the impact of using artificial intelligence."
-    publishedDateTime: 2023-07-20T15:09:00Z
-    webUrl: "https://www.kompas.id/baca/english/2023/07/20/en-perbanyak-riset-penggunaan-kecerdasan-buatan-di-pendidikan"
-    type: article
-    provider:
-      name: Kompas.id
-      domain: kompas.id
-    quality: 58
-    images:
-      - url: "https://dmm0a91a1r04e.cloudfront.net/8kyZp4pGnkPE1sQ2RyONGj6jClw=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2023%2F07%2F20%2F9a3dc9e4-1dd3-47ad-9f61-f255f9ac36b3_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "9G81wHnQjJP5P8E4o6S3KYr8yQ75wWFfQIzw7ekoC8zAFlpLzB1J+O6jZV1qxWeICCd/Tv8Rga7wX+xK002IRmlP3GkVze7IEv/vJzZN4Ya29apxAT3E3QPcbxZjzeD3nQhT8b8qjHqtZqc6aw0rwYMHOKzibQ2tG6jbMaP7HGTkRnm1BDGqRAJQRWzP5CYceGrsMxgt9WAfYpwswIxX6vqm6L4180D4eaoqeDkgoVTiWrf8KewX/jOqJU/4WcOUhEnBNSNozi8M6b6mfkp6JMKWojXhCXKXB1IJ4mMA4g55Vz5kVZm57Hz13W+WOS8UNzMpC84A9TPlZSGhUwb15G5AN6shoYC6aCryTgnEBQk=;bBC4ijoy8uN9KXpJIZorxw=="
 ---

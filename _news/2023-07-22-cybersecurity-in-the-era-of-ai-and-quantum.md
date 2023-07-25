@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/07/AdobeStock_598980629.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How high-performance computing at the edge fuels AI, AR/VR, cybersecurity and more"
-    excerpt: "HPC at the edge — bringing computing power closer to the data center — empowers real-time applications for generative AI software, AR/VR and more."
-    publishedDateTime: 2023-07-20T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-high-performance-computing-at-the-edge-is-reshaping-data-center-intelligence/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/3.-How-HPC-at-the-edge-can-deliver-enhanced-business-value2.jpg?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
         isCached: true
   - title: "AI Is About to Shake Up the Cybersecurity Industry"
     excerpt: "This piece was contributed by Dan Barber, Cybersecurity Instructor within CSB. Artificial Intelligence is the hottest topic in technology and business right now. While companies try to leverage the potential for accelerated capability and Universities like ours are rethinking how we assign and measure meaningful work,"

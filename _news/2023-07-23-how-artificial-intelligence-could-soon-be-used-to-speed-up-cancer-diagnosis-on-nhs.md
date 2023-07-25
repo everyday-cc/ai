@@ -36,6 +36,15 @@ related:
       name: frontline.thehindu
       domain: thehindu.com
     quality: 39
+  - title: "AI could revolutionize dentistry. Here's how."
+    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
+    publishedDateTime: 2023-07-21T18:36:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "sMkpp/GfD0WajKCUUljR8v1JyhwJ3USrMQlck56rirU9DHkKr/GDQbSQ1qSvrIs4zI7U1A60G3oOW0LeusoJoDMSRfI+KbwdG8/5PhFYKPg7+e4tKSdG/8m0q85qHlHWIkunuEr81F0d0wzJPjcJP+1hPDwXyLitKTC+nUpFsbzSR4Bgt9ezMdKmtbI8q/rUftIjPf0QFCcj4oGyZQQS5Pi1HwUbUKL9a6w8jiMIxiTBMlQqP1LOfZVvy5CEUMaxSDzFM5eC5/4iBITKDiBmUX3z+j8wx9r4zi95sUCCo4HqvQHKTTyjBXB/mQsbeuxca7NjEJ474rXvmaxX+4F7xA6Ihs4XcPcu+Ju/ng1OA+4=;lp6/zRHi1v4ucG+YzTwZQQ=="
 ---

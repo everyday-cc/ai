@@ -37,6 +37,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "It’s high time for more AI transparency"
+    excerpt: "If products built on much-hyped proprietary models suddenly break in embarrassing ways, and developers are kept in the dark as to why this might be, an open and transparent AI model with similar performance will suddenly seem like a much more appealing—and reliable—choice."
+    publishedDateTime: 2023-07-25T09:27:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/cogs-and-gears.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "QDwz4CJf3RM7a1L8iX4lG6UKiaSAUbwrqJdNjf+mC7JTAXEaxc7vpJ8yZoCbWMjQcBV4ErKcXtrx5zWcB4NOECL3EoR8YO7NxCz+NsU15QhdRuxUnALuHhjLtS8FCLJTx8gF2ml6NUmNz+FkGsHJdOwen4TX4TxUrM4TS/lRiTeUB4QDh8WFDl2vxHSRThzv6x66AdmfqSf7wzSJP8TjFbPH3n4rCc9qnZzhQ1w+F/2vELzjT9dJl1tz2NesaFZj7y+2HxBUcshrWXxp7M3NbBmf+TbWbOLqmBakpjMAvmexzDFhzic+2lw+Gwx4BL1qdS/EWItKzK56KXYWfr3jyukjUffNzadQMMp9ss6c4TAM+CNw14Ssov/AgjKBouIe1VrP/yOrz1h0HQzObu3DYqwmaVa8iZyRuMIGHWWLUmiPGV3HscRiCogon9P7O3OAxSv2uLMs553F+unfKy5/Z4DZmnn1xdjtH4sTLhZnvXn6h2dwIvimgrjuVDq5EQE+da6E+NZ+zQ7y07Lsf5/BGA==;h+hpBfvs9VhqriT5BBQCRw=="
 ---

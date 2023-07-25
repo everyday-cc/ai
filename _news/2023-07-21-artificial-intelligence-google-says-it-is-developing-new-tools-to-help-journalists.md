@@ -7,7 +7,7 @@ originalUrl: "https://www.euronews.com/next/2023/07/21/artificial-intelligence-g
 webUrl: "https://www.euronews.com/next/2023/07/21/artificial-intelligence-google-says-it-is-developing-new-tools-to-help-journalists"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Is Pushing AI Tool on Newsrooms to 'Help' Journalists"
-    excerpt: "Google is inserting itself in newsrooms with the promotion of its new AI tool that it says will “help” journalists create articles. The company has reportedly pitched its software to The New York Times, The Washington Post, and News Corp, which owns The Wall Street Journal, saying it can effectively produce news stories."
-    publishedDateTime: 2023-07-20T15:20:00Z
-    webUrl: "https://gizmodo.com/google-is-pushing-ai-tool-on-newsrooms-to-help-journali-1850659346"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8207b7d5338a19dc74b78bbf70ac99b4.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google Is Reportedly Testing an AI Tool That Can Write This Article"
-    excerpt: "Google has already shown its new Genesis tool to several of the nation's top news outlets and is positioning it as an assistant for journalists, The New York Times reports."
-    publishedDateTime: 2023-07-20T20:15:00Z
-    webUrl: "https://www.pcmag.com/news/google-is-reportedly-testing-an-ai-tool-that-can-write-this-article"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03Vkml6DGAYaSTMqJh3hSxM-1.fit_lim.size_1200x630.v1689879397.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Google says it’s developing AI tools to help journalists create headlines, stories"
     excerpt: "Google, in a prepared statement, said artificial intelligence-enhanced tools could help give journalists options for headlines or different writing styles when they are working on a story — characterizing it as a way to enhance work and productivity."
     publishedDateTime: 2023-07-21T01:35:00Z

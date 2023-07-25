@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/"
 type: article
 quality: 124
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI’s Grip on Tech Set for Test With Microsoft, Alphabet Earnings"
+    excerpt: "Bets that artificial intelligence will revolutionize Corporate America and deliver riches to the biggest companies behind it will get a test Tuesday, as Microsoft Corp. and Alphabet Inc. report their first earnings since AI fever broke out."
+    publishedDateTime: 2023-07-25T09:40:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-25/ai-s-grip-on-tech-set-for-test-with-microsoft-alphabet-earnings"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2L_HiFv2QE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft Partners With Indian Company To Build AI Centers"
     excerpt: "This story was first published on the Benzinga India portal."

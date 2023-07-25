@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/07/20/ai-economics-must-avoid-the-ethical-mistakes-of-climate-economics/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Business and ethics in the age of AI"
+    excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"
+    publishedDateTime: 2023-07-25T09:27:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/business-and-ethics-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
 
 secured: "ZARpSRSBOnmVvt1cdzkc3GU8xzDpWaRiokQpE+RyepW/UG1fO9loKk06/nowm5M2I883V4gPVwU93aAKABSSraPHMhkbBWXiQYZFFfNpYhoIpGZztvvngAC8rcchtec4F4jUmu8TmiDf4uWX2O2Y73On7m+6hjmqE8uUPhlV5LEByjDx4X5c1Ezc5npACs3xeURt8ho77AoS4q7O6nfvSvtvGHICkGDM1cg9t7Ou73b2M5lvgaj4bUvoXa5E2nX9qyFbhDZA7yFkLQ3JKAPiJrUr5PB5jvufScekMdU4TBxn2jvxNEMj+jgb+Oqs8drSJxShxoXjmbulNC+S2LQWemb1Cu8ZQNzFsbTvUnlMo0LDccKOfQnZPM+x3duAEWTocKqeN7tgTG9RqRn4zRf29wtgx9nUwIn7ItSxTZqE2aDEN/8jC7/GLPYdDUu3WXVKu0PZZH5qJpqqVFTaJUqgStoARpRg4YTmS7eAUXnxOm0iIq4dyOs28yiIO2xi3bB8dCFrt4iUiWKIZ/zgCFRM5Q==;g39Z/jb66yTZBVqBHpgIgg=="
 ---

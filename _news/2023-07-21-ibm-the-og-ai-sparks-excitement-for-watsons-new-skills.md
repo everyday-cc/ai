@@ -71,22 +71,6 @@ related:
         width: 525
         height: 352
         isCached: true
-  - title: "Is IBM the Next Hot AI Stock? This Analyst Says Watson X Software Is the Company’s Most Promising New Product In Years."
-    excerpt: "On its earnings call Wednesday, the company highlighted the opportunity for Watson X, its new platform for enterprise AI applications."
-    publishedDateTime: 2023-07-20T16:50:00Z
-    webUrl: "https://www.barrons.com/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 50
-    images:
-      - url: "https://images.barrons.com/im-820713/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "puSt6zpb1c6BfT21S4zKa9nJydTRkG9EL3WfTlQ01D7YRfP0HszQIstBApZxVIZ1pRF49++5Cb+uC+Ko1p3ZXHoEjS85SYQaCFcZJzYTB+I+vz+fYjXcMhRGPe6ugAEHQmqpbQgbuUR4ws8qZzUbi8lELV19zGdgS+jhH2MHRQYbb48Q02/irWH+Xz20RmTbZ0nlsG6kRtoULEiQGPGVmPvxjIN+lqMMJntFzfooMRa4Waq+gXf0hVBxUzyOoLKsF7Y5lcAIo6eOVJI8xXHU6lz1pk1/i/XvEIugpGhkUf8MPLu1H2msFDro+pOEJolIIJZZY2whtESxbVX2QQHUQgxaC3Yy0UOhEJD0dQZA4YM=;hToQbHDEfW8MdUAcHTDFdA=="
 ---

@@ -29,6 +29,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
+  - title: "Salesforce Takes a Giant Leap with Generative AI"
+    excerpt: "Earlier this year, we began infusing generative AI across our entire platform with Einstein GPT, which brings generative AI across every part of Salesforce, Deepak Pargaonkar, vice president, solution engineering,"
+    publishedDateTime: 2023-07-25T08:00:00Z
+    webUrl: "https://analyticsindiamag.com/salesforce-takes-a-giant-leap-with-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/07/Salesforce-Takes-a-Giant-Leap-with-Generative-AI-by-Pritam.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Changing customer needs, AI, automation, and security key to shifting business priorities: Salesforce State of IT report"
     excerpt: "Salesforce’s new State of IT Report, released last week, highlights the key priorities and pain points of businesses, based on a survey of over 4000 IT leaders worldwide, including 200 in Canada. The"
     publishedDateTime: 2023-07-24T18:07:00Z

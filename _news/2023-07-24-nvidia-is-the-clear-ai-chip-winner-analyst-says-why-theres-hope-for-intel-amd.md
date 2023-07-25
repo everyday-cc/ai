@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Why Nvidia, Intel and Other Chip Stocks Are Dipping"
-    excerpt: "It turns out there’s more to chip stocks than just AI. The world’s biggest contract chip maker had a disappointing update for investors, and semiconductor stocks are selling off. Taiwan Semicond"
-    publishedDateTime: 2023-07-20T15:35:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-785590/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia Takes The Crown As AI-Chip Winner, Intel And AMD Still Have Potential: Analyst"
     excerpt: "Long-Term Optimism for Intel and AMD: While Nvidia is likely to be the primary beneficiary in the short term, Rakesh also expressed optimism for Intel Corporation INTC -1.15% + Free Alerts and Advanced Micro Devices, Inc. AMD -0.31% + Free Alerts in the longer term."
     publishedDateTime: 2023-07-25T05:12:00Z

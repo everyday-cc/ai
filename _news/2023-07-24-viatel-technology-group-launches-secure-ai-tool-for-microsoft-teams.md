@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI’s Grip on Tech Set for Test With Microsoft, Alphabet Earnings"
+    excerpt: "Bets that artificial intelligence will revolutionize Corporate America and deliver riches to the biggest companies behind it will get a test Tuesday, as Microsoft Corp. and Alphabet Inc. report their first earnings since AI fever broke out."
+    publishedDateTime: 2023-07-25T09:40:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-07-25/ai-s-grip-on-tech-set-for-test-with-microsoft-alphabet-earnings"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2L_HiFv2QE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Partners With Indian Company To Build AI Centers"
     excerpt: "This story was first published on the Benzinga India portal."
     publishedDateTime: 2023-07-24T12:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anony
 webUrl: "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf"
 type: article
 quality: 67
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "It’s high time for more AI transparency"
+    excerpt: "If products built on much-hyped proprietary models suddenly break in embarrassing ways, and developers are kept in the dark as to why this might be, an open and transparent AI model with similar performance will suddenly seem like a much more appealing—and reliable—choice."
+    publishedDateTime: 2023-07-25T09:27:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/cogs-and-gears.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Expert Ratings for C3.ai"
     excerpt: "Below is a summary of how these 11 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts are on the stock"
     publishedDateTime: 2023-07-24T12:13:00Z

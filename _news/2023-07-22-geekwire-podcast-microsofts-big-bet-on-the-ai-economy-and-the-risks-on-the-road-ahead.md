@@ -133,20 +133,6 @@ related:
         width: 900
         height: 628
         isCached: true
-  - title: "Microsoft Likely To Beat 4Q Driven by Generative AI, Azure Growth Presents Potential Risks, Analysts Say"
-    excerpt: "Morgan Stanley analyst Keith Weiss maintained an Overweight rating on Microsoft Corp (NASDAQ: MSFT) and a price target of"
-    publishedDateTime: 2023-07-20T16:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-likely-to-beat-4q-driven-by-generative-ai-azure-growth-presents-potential-risks-analysts-say-1032463400"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/07/20/msft.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Better Bull Market Buy: Microsoft vs. Alphabet Stock"
     excerpt: "As a result, Microsoft trades at a nosebleed-inducing 12 times sales and 67 times free cash flow with a market cap north of $2.55 trillion. The equally impressive (and in some ways superior) peer we know as Alphabet offers a more comfortable buy-in point at 5.5 times sales and 25 times free cash flows."
     publishedDateTime: 2023-07-21T09:25:00Z
@@ -238,6 +224,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/My-project-1-2023-07-24T081849.021.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Inspire 2023 – A New Era of AI-Powered Innovation Unveiled"
+    excerpt: "Read this blog post to find out aboutthe latest announcements and updates from the Microsoft Inspire Conference 2023."
+    publishedDateTime: 2023-07-25T08:00:00Z
+    webUrl: "https://www.sharepointeurope.com/microsoft-inspire-2023-a-new-era-of-ai-powered-innovation-unveiled/"
+    type: article
+    provider:
+      name: SharePoint
+      domain: sharepointeurope.com
+    quality: 54
+    images:
+      - url: "https://www.sharepointeurope.com/wp-content/uploads/2023/07/Inspire2023_Phase1_OpeGraph_Design-v-1200x630-1.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Why the AI Boom Is Good for Microsoft, Risky for Chip and Server Makers"
     excerpt: "A CIO survey reveals that companies are prioritizing AI applications in their spending plans. That also helps explain why Taiwan Semi noted a softening in demand for chips in its earnings report."

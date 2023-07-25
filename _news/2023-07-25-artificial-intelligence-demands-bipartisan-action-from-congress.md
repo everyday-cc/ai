@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Demands Bipartisan Action From Congress"
 excerpt: "Bipartisan action is needed to address our nation’s greatest challenges, from infrastructure to strategic competition with China. Issues of this magnitude are too vital to our nation’s fut"
 publishedDateTime: 2023-07-24T23:54:00Z
-originalUrl: "https://www.realclearscience.com/articles/2023/07/25/artificial_intelligence_demands_bipartisan_action_from_congress_968309.html"
-webUrl: "https://www.realclearscience.com/articles/2023/07/25/artificial_intelligence_demands_bipartisan_action_from_congress_968309.html"
+originalUrl: "https://www.realclearscience.com/articles/2023/07/25/artificial_intelligence_demands_bipartisan_action_from_congress_968309.html#!"
+webUrl: "https://www.realclearscience.com/articles/2023/07/25/artificial_intelligence_demands_bipartisan_action_from_congress_968309.html#!"
 type: article
 quality: 17
 heat: -1
@@ -44,6 +44,6 @@ related:
       domain: cnnphilippines.com
     quality: 15
 
-secured: "ZEmAoT7EHxcxwT4IQ1tKpHXOLKt18hElNwlj0ac/W1j0ZqPbiHmudMkpjo+cOI3hui5ZjF+VXHy1qiyn37N9IZ+Fr7LrgJC8lGhpU10a3l1DdzQ1oBq6f7GbniistNO3huCMSndpBEQCb42vDW1F2F+denA22XhZ0k12UZNTfOvh33e15MlNdRRL0S5G8fDL5W0YnZBPxgzkOWpHpxyAjn8lkI+304eAmkAJhl1yYty+l+Feni/HuvNQqFBilhIVKDUzYwDxqCUuHZpWdD+suCzLNiVT1MifDUBhMe3+/rlpmTWVRUuRRbeHvN+y7HXOFgf/GkZa7q8qPpGjrdrl3Tb/EutAPce0b/Fs+7ryQcA=;gZWtdd9JQNSxCYFCOfsqvw=="
+secured: "t3Loq1jKA8Crl3SzNcKNTFXLJGiEVMHSXgTad86KJc0WHkDFnjNxdihfpIGDSPKtBI2AcSc87wIhIjJa5frTdw3C048BeRadeWM31lhZMBeztK67YgqAQRq4Uj5lgLOvbXmI+lpp9wguUNoQ52xZrQCzN9GKd8zU02p/VvQtzYkP/zk1xM+CeHwXsZQvnbXNdSAKoiJpD2s3md9re4XfRusuh25Ixli8R72xO5b7fPhvVREabDz2zV1jl68+fljUYLUSfsjbn1GOmJwoCVZ51J3kB/X4xXrBkthuq+6Ry8vF1j9pXZqTcgW9pKkAg99/zz1Z4OIyvqVP575T47OgXtUsjDZGRIrGz3zjmFoc5UA=;SCr6/hDW8IWd3qUvQr7Ezg=="
 ---
 

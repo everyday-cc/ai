@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Rise of the robots"
-    excerpt: "The release of ChatGPT was a landmark step in the advancement of AI, but what do the developments mean for the current workforce, and how are governments addressing the risks as AI increases its dominance?"
-    publishedDateTime: 2023-07-20T15:27:00Z
-    webUrl: "https://www.worldfinance.com/special-reports/rise-of-the-robots"
-    type: article
-    provider:
-      name: World Finance
-      domain: worldfinance.com
-    quality: 41
-    images:
-      - url: "http://www.worldfinance.com/wp-content/uploads/2023/06/Screenshot-2023-06-19-at-16.06.25-948x1024.png"
-        width: 948
-        height: 1024
-        isCached: true
 
 secured: "fbuY2MzbVXhFFrVAP8XRI9xGs+R1QICl+fYMR0/AFUwgFc1Z0xV8giidt46ipjgYWkUtsvbyK8RtzGxXtpIVa4oSd7PP1XNkx506tIn8woexLMP7veO2UeggfciwgZJiRT5NSvKOq32oYpN0ELd0+YA5Xd3nTE+ENMzIvPEM5xe14VI7m3gSf4wte6ISQcNU2TUcd1g7M4zvbAYVlsd2ynYxHvLFM23YqpSi47UsLLgOfMw21NX1x0UWBhHdL27TK4IEldC/oAvwXyadyB3uaZbANvkvDDeVveMEyGl8h5jgkhw5LJeSWyCMFI/fx3YNLwOox58CYlwk7MAU2klMcDV2TG/BULOmrsI9k3M7X+M=;W2iTeI3bXqFVbKAMpWcS4g=="
 ---

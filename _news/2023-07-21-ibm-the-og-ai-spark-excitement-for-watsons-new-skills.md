@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/33309833"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33309833"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/20230725100452_0_0_0_0_70__News_watson20121227071906.png"
         width: 525
         height: 352
-        isCached: true
-  - title: "Is IBM the Next Hot AI Stock? This Analyst Says Watson X Software Is the Company’s Most Promising New Product In Years."
-    excerpt: "On its earnings call Wednesday, the company highlighted the opportunity for Watson X, its new platform for enterprise AI applications."
-    publishedDateTime: 2023-07-20T16:50:00Z
-    webUrl: "https://www.barrons.com/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-stock-price-ai-watson-x-bc2a4ab1"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 50
-    images:
-      - url: "https://images.barrons.com/im-820713/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "1ERQPiyPPYdnZ0/7GKQRP0pLgXRvLtrf7gP1XjrL9FUVCi4E8ONV/RmwQIID6j+sHwEiNbLcc2I+YUba40ONkI4r6qkQAc0IyEkObw9LywnWH6VVIwMP+4Z0En/SJlUlSaRF0rbwJy/ATZ4tbz1hGaqCh42jD82+63g6cT1sbP+UWuaLhcxgdG2/m2SpDgvZOrazarF1zbDqFtFDf2FNYwvuGBMgBmg95wPmvKsvsssZ/S6mHMSiJJ1hOj07KGv1KEbEz2mYTs2wALAncbWx4kpdM0FXjjoGjpwVbiiQ3/sE3aNe08fut875TZThC5FbCaIgy5DMixB7cnIfNplRXbOyjD0ZwsSt7rdhhOy6e9g=;p/KU4Or4xxSx+aFi4M5goA=="

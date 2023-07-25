@@ -18,35 +18,30 @@ topics:
   - AI
 
 related:
-  - title: "How robots are revolutionizing surgery"
-    excerpt: "Robots are revolutionizing the way surgeons treat patients and are improving patient outcomes. Intermountain Health explains how their doctors are implementing this technology and who it can help."
-    publishedDateTime: 2023-07-20T15:44:00Z
-    webUrl: "https://www.fox13now.com/brand-spotlight/wellness-wednesday/how-robots-are-revolutionizing-surgery"
+  - title: "AI could help reduce cancer deaths"
+    excerpt: "AI helps detect breast cancer early, reducing mortality rates. AI-based tests, such as OncoStem's CanAssist, can predict cancer risk for up to 10 yrs. AI can recognize patterns & correlations, analyze tumor characteristics & find personalized treatment plans."
+    publishedDateTime: 2023-07-21T07:42:00Z
+    webUrl: "https://frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece"
+    ampWebUrl: "https://frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece/amp/"
+    cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece/amp/"
     type: article
     provider:
-      name: fox13now
-      domain: fox13now.com
+      name: frontline.thehindu
+      domain: thehindu.com
     quality: 39
+  - title: "How artificial intelligence could soon be used to speed up cancer diagnosis on NHS"
+    excerpt: "AI holds huge promise and could save clinicians time, the president of the Royal College of Radiologists told i"
+    publishedDateTime: 2023-07-23T12:08:00Z
+    webUrl: "https://inews.co.uk/news/artificial-intelligence-soon-speed-up-cancer-diagnosis-nhs-2498810"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 33
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/1f70ce2/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F29d%2Fef205c0e5ea14d77944cbd6904335118%2F29db8d7db1a641ca99cdbe0b8c7b6104%2Fposter_f186a14be22c4c8c9a18abdbc4f5d36e.jpg"
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/07/SEI_165023761.jpg?w=1200&h=675&crop=1"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
-    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
-    publishedDateTime: 2023-07-21T06:45:00Z
-    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 39
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
-        width: 1500
-        height: 900
+        height: 675
         isCached: true
 
 secured: "3THYKe6mV8SuqXNQVwmni4k0A1l7oGXm06jhnXncgVDED+rHhUi5hAj1bKuhlRWQu3ZPrSa17QsAbr8ge4zkh6NXf/1Rbb+AAo1HnwnSCYf43q7JjcgVYv4jtcBEZVnWcb+e3c2vDqQX48n4rMDDh95Uoq/ihLmZmyGECJWPnCYpL4lu3jGNm/YX0OIVFXzs4tYmm9Y/NQDIiI5z2zVySQgMDkNUfMssBqMThyAa7CRxWgn2sJrYXdQMBehE7gNVZFw57dnj5AcLd1TggqyKPOZGQO1PcJJtP9q7Zwd6qrSwJlKyFWMsxl2rreXbXw1eaeoS0B5FvawI1ceGPsfJyJIZAqi1GZPag9yjCOpiYJtyzYzrkdQDRMI0MgQvcC0z10E9mFTH+TzEp5Pyom/NmGrYfeUmEOjxFP5xv2NVtIncNiCR4dbg1CFDeNWz3yh85WC4ZW2H4ODaiU1Jrpmo9jXsA22JcYO1Pmo0LD2gOgbp1WMW8xsEfh1jKM8PxDz4zvSEz4xo0ug5/GpMl5BISQ==;KK15aGNz6Ccq7IZdpUS2JA=="

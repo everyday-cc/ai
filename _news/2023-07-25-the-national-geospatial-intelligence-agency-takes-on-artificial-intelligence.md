@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Does the key to liveable cities in a hotter world lie in geospatial intelligence, powered by machine learning?"
-    excerpt: "An opportunity to possibly work on a block-by-block basis - or, in the world of geospatial engineering, at the ‘hexagon’ map level - could mean remedial work could be even more effective, says the company’s Digital Services Lead at Arup, Will Cavendish."
-    publishedDateTime: 2023-07-21T09:31:00Z
-    webUrl: "https://diginomica.com/does-key-liveable-cities-hotter-world-lie-geospatial-intelligence-powered-machine-learning"
-    ampWebUrl: "https://diginomica.com/does-key-liveable-cities-hotter-world-lie-geospatial-intelligence-powered-machine-learning?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/does-key-liveable-cities-hotter-world-lie-geospatial-intelligence-powered-machine-learning?amp"
+  - title: "Analyze rodent infestation using Amazon SageMaker geospatial capabilities"
+    excerpt: "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,"
+    publishedDateTime: 2023-07-21T18:29:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 41
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-07/D8068449-6DCF-4332-935E-03F9898C42F5.jpeg"
-        width: 640
-        height: 328
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/ML-13593-image001-1103x630.png"
+        width: 1103
+        height: 630
+        isCached: true
+  - title: "How Patsnap used GPT-2 inference on Amazon SageMaker with low latency and cost"
+    excerpt: "This blog post was co-authored, and includes an introduction, by Zilong Bai, senior natural language processing engineer at Patsnap. You’re likely familiar with the autocomplete suggestion feature when you search for something on Google or Amazon. Although the search terms in these scenarios are pretty"
+    publishedDateTime: 2023-07-24T21:23:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-patsnap-used-gpt-2-inference-on-amazon-sagemaker-with-low-latency-and-cost/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/24/patsnap-gpt-2.jpg"
+        width: 1022
+        height: 511
+        isCached: true
+  - title: "Enel automates large-scale power grid asset management and anomaly detection using Amazon SageMaker"
+    excerpt: "This is a guest post by Mario Namtao Shianti Larcher, Head of Computer Vision at Enel. Enel, which started as Italy’s national entity for electricity, is today a multinational company present in 32 countries and the first private network operator in the world with 74 million users. It is also recognized"
+    publishedDateTime: 2023-07-20T17:59:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enel-automates-large-scale-power-grid-asset-management-and-anomaly-detection-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/enel-power-grid-management-sagemaker.jpg"
+        width: 1022
+        height: 513
         isCached: true
 
 secured: "boRD8FmVh+P7+muKsEfVQbGmqwmz2eJLUDUVLVmKD9gGrlgfdbxa7sBQ0OpQV5yT85DkJGzhkaKUjbdBGqvtQ6BDTrrbzP4nOpU8Hf+oB70miKS11zDlIRTBN1QYBMGavi289oXyrZRSaQJY15bQJqJwKPL8Rh9x0XP3uD4gWiQKLJKJtC0rXawk+J2FLr2gDUtXt6GNc4gSUqsVmYRnNXhpBtY/CHtNohWksQTejmN/C6LEgD8ybI/FM3/J8taneuGoFe8g8ZFf/Vc9eQGiU8Alkj8NX3L3hg/L+bqAK8Daig4uzVtXvKqxYES0Z5j+8Dq7SULzCGaDojxOrshIsCj9HFSi2oDJbt6wfFgvSqU=;wvsaNm90tIcR2jearV7byA=="

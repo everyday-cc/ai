@@ -26,24 +26,6 @@ images:
     height: 802
     isCached: true
 
-related:
-  - title: "‘Self-driving’ labs for advanced materials, molecules at NC State land funding"
-    excerpt: "An NC State University research team has been awarded funding from the UNC System Research Opportunities Initiative (ROI) to accelerate molecular and biological innovations enabled by next-generation self-driving labs."
-    publishedDateTime: 2023-07-20T15:19:00Z
-    webUrl: "https://wraltechwire.com/2023/07/20/self-driving-labs-for-advanced-materials-molecules-at-nc-state-land-funding/"
-    ampWebUrl: "https://wraltechwire.com/2023/07/20/self-driving-labs-for-advanced-materials-molecules-at-nc-state-land-funding/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/20/self-driving-labs-for-advanced-materials-molecules-at-nc-state-land-funding/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 40
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/07/ncstate-autonomous-lab-e1689865334133.jpg"
-        width: 2037
-        height: 1141
-        isCached: true
-
 secured: "HWLcS/tnVAyUJ5hi3/GfSYelJgyXngoDn8S9FBYSNuSAXwThrCwDciN13AfGBZdNZUog9HA9aHS8CTqqlQ/GxwwsTq9iFS6e+5TbJmI4z08wI2vAl1QqA45rSwUJzndvAsq44qYv/NI+2bxDEk9cdtCQPFaoFTVF1//Bjudmyl10hwnfip5XkmRFI9WLEeHrqoDza+Urc2cZQZ/veP5IC+btwb21IgHHDoEGLd8lFGXK74bGYaLcVgsF/p+Q9Gyaqtqzlr/PJJITKz6+niiWUynvSkMOn7PrYmf7pJ9X+I/5LN0XGq9StDaBrVg2A+C7MiXUCQs0/1VlWOdiUeKuu15iq8lJTRFPJqn8H+gdbGU2y2m4RG/2O34L6SpOEFzFmK//E2bGWsgzLg1K0rZheJ2Zed90koDSNfbkOxVtqmLth+233zFqoFNf5Edz/vBXfpMT96YzemP9ARl7IBhMN2Pgu7YYxK7ji56klUixrW4dsnIRU4cJ3PX+HcsfB16M0HBY8EaBfGEu1XdB5T/+Ww==;Zb+t0/t3YA6A5B+ut5c0pQ=="
 ---
 

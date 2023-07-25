@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 866
         isCached: true
+  - title: "Business and ethics in the age of AI"
+    excerpt: "Artificial intelligence (AI) is the big game-changer in business this year, and enterprises need to ensure they are not left behind in this quickly-changing world. At the same time, vendors and IT resellers need to keep themselves informed and agile enough to pivot quickly as AI changes they way their customers"
+    publishedDateTime: 2023-07-25T09:27:00Z
+    webUrl: "https://it-online.co.za/2023/07/25/business-and-ethics-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 34
 
 secured: "xp3XU1MYK3d2eyWNpH9dOdh5E0V5dUcTpS0W1jzHKODcM4TTQkQKIdqoUEtcUvfaAtWgcIZYU5QLfIHH6nMdw4IWnEZGsucTnRv1c3kHPuF7ChuT6VtrCZ8jM5X3zjkf0Whp97LB6kvyDnZBIPn8AyxOOWvDlNttDpcrPoPLnxG29f1OIB6fHGb9rZfHe2s6CZ/Q3tuXvZp89odd2dqPJQwodCGQcyFZa9ko3cm5m40zS1Pr9lwRLelH99tHnfqhQfdSLbPhvd+rjvL1KDwpaIvTHWLdLRJkchZXTbBLp75thBH5BESwMe1iDiF9nfqdRje8EHDBpE5R97jTb3MleQZzTf6bbIZa/4gi37N8nLm/M3cNTvbIJ4icmVe4ivdmw/1VZj7svVAingZIDJ2e74UFLXJyge/L/yMVVaX0tNSw5Oj42zejf0y25lhyM6t8YbCR/2Uy7WxQ4PLoyK2z6jNywr0MU9rYgCqlMEhzkNUdh82KdJTKxJvJ1Ke3jL2JWrnpLLo+HIWmVc64TDpY2Q==;arbXk3B/OcFxHw9PYjRIUg=="
 ---

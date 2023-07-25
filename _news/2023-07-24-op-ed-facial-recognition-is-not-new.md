@@ -41,6 +41,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "How to ensure fundamental rights when using face recognition?"
+    excerpt: "The EU is debating whether to allow Member States to use face recognition software that would make it possible to keep tabs on people in real time. Estonia will only back the plan if fundamental rights are ensured."
+    publishedDateTime: 2023-07-25T09:18:00Z
+    webUrl: "https://news.err.ee/1609043342/how-to-ensure-fundamental-rights-when-using-face-recognition"
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 39
+    images:
+      - url: "https://s.err.ee/photo/crop/2023/07/24/2009387hc904t24.jpg"
+        width: 672
+        height: 420
+        isCached: true
   - title: "Australian gaming operator calls for coordination on facial recognition for restrictions"
     excerpt: "Another Australian state has passed gaming reforms for AML and self-exclusion, and a hospitality operator calls for a national approach to facial recognition."
     publishedDateTime: 2023-07-21T14:15:00Z

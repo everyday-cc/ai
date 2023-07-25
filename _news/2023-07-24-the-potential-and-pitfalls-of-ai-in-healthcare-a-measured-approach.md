@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       name: orissapost
       domain: orissapost.com
     quality: 30
-  - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
-    excerpt: "A majority of Americans would feel “uncomfortable” with their doctor relying on AI in their medical care, according to recent polling, but despite those misgivings it is likely you have"
-    publishedDateTime: 2023-07-20T15:55:00Z
-    webUrl: "https://thebrunswicknews.com/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health/article_d8fe9aff-5f47-580e-bbb0-f9da807e914d.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/1/c4/1c4dbbc1-d712-5c59-b631-c5533929e7db/64b95fb24f420.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Bills of the week: Medicare and weight-loss drugs, AI in health care"
     excerpt: "1. The Treat and Reduce Obesity Act was reintroduced Thursday. The bill would allow Medicare to cover obesity treatments, including weight-loss medications that are FDA-approved. The bipartisan bill is sponsored by Sens. Tom Carper and Bill Cassidy and Reps. Brad Wenstrup and Raul Ruiz."
     publishedDateTime: 2023-07-20T20:52:00Z

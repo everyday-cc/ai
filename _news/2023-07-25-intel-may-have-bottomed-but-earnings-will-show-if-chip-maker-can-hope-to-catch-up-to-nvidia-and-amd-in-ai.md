@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-ea
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Nvidia, Intel and Other Chip Stocks Are Dipping"
-    excerpt: "It turns out there’s more to chip stocks than just AI. The world’s biggest contract chip maker had a disappointing update for investors, and semiconductor stocks are selling off. Taiwan Semicond"
-    publishedDateTime: 2023-07-20T15:35:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-20-2023/card/why-chip-stocks-are-dipping-this-morning-A4N6WKZBj0XQAHnUgaUV"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-785590/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia Is the Clear AI-Chip Winner, Analyst Says. Why There’s Hope for Intel, AMD."
     excerpt: "Mizuho analyst Vijay Rakesh raised his target price on Nvidia but said the growth of artificial intelligence is a tailwind for AMD and Intel too."
     publishedDateTime: 2023-07-24T14:12:00Z

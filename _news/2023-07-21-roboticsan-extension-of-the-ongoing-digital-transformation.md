@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/robotics-an-extension-of-the-ongoing-digital-transformation/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Rise of the robots"
-    excerpt: "The release of ChatGPT was a landmark step in the advancement of AI, but what do the developments mean for the current workforce, and how are governments addressing the risks as AI increases its dominance?"
-    publishedDateTime: 2023-07-20T15:27:00Z
-    webUrl: "https://www.worldfinance.com/special-reports/rise-of-the-robots"
-    type: article
-    provider:
-      name: World Finance
-      domain: worldfinance.com
-    quality: 41
-    images:
-      - url: "http://www.worldfinance.com/wp-content/uploads/2023/06/Screenshot-2023-06-19-at-16.06.25-948x1024.png"
-        width: 948
-        height: 1024
         isCached: true
 
 secured: "KZbYivCJO+49zLCgI/PoUYGUtqlZf8baj4NHbxnjGxWoEQgHzE0tyVTV2aPhiHK5Kq6nLFLlsfhNwEaJGf0Byyim4E0gBGxhjn3drLMIZwb7rH2xixKkNnOzrMcpu8YIz9ymzK2IY/OH5a3A+ZaDC7rzeCtWP54lW0ZvBdLekJkQKT/YlQKMydK/edZ4zpiROYUNHYE+aacrB7nBaI2FkkwlcoJC4nL/LXUHpciJRlpHs4Uzb51+OAeBpIaWNzAxS0SxMwKSEx/TRElME3zmhSCBE240amqBHThl2p2oriqjGMJtVRt7iVoPAhExUkOpj3CIF9/5FY5s0FW2JAAqLQ2xkn1zizEl9qfEndMgw3UOqSNab6mfZUd1nIG9k+afq2KNzZG5v1eftJSkWVAgPHkX7JpE3KerwontW98NJZyogsaQLSBmcZsa+QmelYYvo4jTKrih5VrI1wzCB2VZhMWgq9oLT3aX4CKnx1x5VZflwPIw8R/2YesitW7OlCG8R/rwSBZnRpF+JysLxa7BMQ==;7wRMq4ztNw3SfBC0+bGI9w=="

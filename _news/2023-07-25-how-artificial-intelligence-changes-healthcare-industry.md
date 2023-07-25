@@ -98,20 +98,6 @@ related:
       name: orissapost
       domain: orissapost.com
     quality: 30
-  - title: "Nothing artificial about the future of AI, but who decides its intelligent use in health care?"
-    excerpt: "A majority of Americans would feel “uncomfortable” with their doctor relying on AI in their medical care, according to recent polling, but despite those misgivings it is likely you have"
-    publishedDateTime: 2023-07-20T15:55:00Z
-    webUrl: "https://thebrunswicknews.com/nothing-artificial-about-the-future-of-ai-but-who-decides-its-intelligent-use-in-health/article_d8fe9aff-5f47-580e-bbb0-f9da807e914d.html"
-    type: article
-    provider:
-      name: Brunswick News
-      domain: thebrunswicknews.com
-    quality: 27
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thebrunswicknews.com/content/tncms/assets/v3/editorial/1/c4/1c4dbbc1-d712-5c59-b631-c5533929e7db/64b95fb24f420.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Bills of the week: Medicare and weight-loss drugs, AI in health care"
     excerpt: "1. The Treat and Reduce Obesity Act was reintroduced Thursday. The bill would allow Medicare to cover obesity treatments, including weight-loss medications that are FDA-approved. The bipartisan bill is sponsored by Sens. Tom Carper and Bill Cassidy and Reps. Brad Wenstrup and Raul Ruiz."
     publishedDateTime: 2023-07-20T20:52:00Z
@@ -131,6 +117,6 @@ related:
       domain: menafn.com
     quality: 12
 
-secured: "ofQ45OZFmaT1yNzPTj5AfZGn1nCxBgp1FpdgZcqUcgSWzLMJi5ri6gBBYKQTRZIh0qM3pD1MKZS+78VL16AVJNZixSlEdvMbArOmD7i7vHsufnPywtYd8FA9edkHP/06QOhPPOKuUOVLJj/L914Fy1f0xKi7Ob954xx9RNtEl3YLmK6FHR6lqKiENHcQMVwdzloYwNSTuB6S//Ra+qA798YV2Be1CHKDGXRD+Ow01Ui8HrMcDf3YWKAJxlhykw81xbGCOajUQcQ8LvCApaRX6BlBdJmBzT8UziqJOKmRHij9Px+0RUanTPWnqlJlYtSnZ/G3qlTw7iIRE6WU8LzpZ+rX0EjV/GcWre0KbVC4O4U=;f6NNrYhbiQa3SBMpotA/ig=="
+secured: "tDuOXXQdQRmLv0geoJlq8Krl4Yq+/Uwb81gnuEZKfCe0cWzLq37yFwA/x8CvgKvBO83JldqurwYmBt+/uEZDp6DTKN4pfVrWV+eC1X1yX9fMYmtRWlJ8XwL9go6L6k/tSaiYZi8E69n/O6GlfeA6TdJho96SGivrv6BfaKUlhrQohkfPkdRFwvcDsNf1ZnEDa0IkJsDedh1zFHu9sjTS9FdnTGfP+iyLMhzyWnwsQgxiZ7phkIxSEjEsb4do76N+IFLjdEe1/E+aE8t7Xq5MPGsjUYdMprB9D4krvTqPg3elvW9egd+jc6m95nsWYvU0sEij/+0/+f9odvZgLoO0H6h3cjGJhocMZVtPdmLl6HSXcd108+t4yrCd+zNk8kaqk5CqZdC94fxyy5OvryJuawm61Kgo6EgN6aw2tf8NpEj2uxxn20D5LBQo8N4tWHlgTaxkY7wfVELW5IzqLh/lP9wn3CNNQa1hfCub5nzVpj72Anwo4izUgmKVMKDz7i93fFxZEVpKN+R79j2Jg4VxPA==;g/pcEsIFdmPNH9x62rZ5IA=="
 ---
 

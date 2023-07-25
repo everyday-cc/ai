@@ -96,6 +96,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Fintech firm supports charity Ablaze with mentoring day"
+    excerpt: "The students visited the Novia Financial office, getting an introduction into financial services as well as discussing artificial intelligence (AI) and technology"
+    publishedDateTime: 2023-07-25T08:59:00Z
+    webUrl: "https://www.thebusinessdesk.com/south-west/news/5998-fintech-firm-supports-charity-ablaze-with-mentoring-day"
+    type: article
+    provider:
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 24
+    images:
+      - url: "https://www.thebusinessdesk.com/_files/images/jul_23/Ablaze-Novia-Financial.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Analyzing The Impact Of Fintech On Global Banking"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
     publishedDateTime: 2023-07-22T18:46:00Z
