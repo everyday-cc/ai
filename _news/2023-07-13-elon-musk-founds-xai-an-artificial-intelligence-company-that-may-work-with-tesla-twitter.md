@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter"
-excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ..."
-publishedDateTime: 2023-07-13T15:22:00Z
-originalUrl: "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
-webUrl: "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ..."
+publishedDateTime: 2023-07-13T15:23:00Z
+originalUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+webUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
 type: article
 
 provider:
-  name: AZ Central
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "IvlSM+Iub1Zk1AAh8Ni9WmI00iEoOPheXVhTBlUrTNc6K6zns4Jja6Xymi0TSSchRlY6B68ccjs+AzQv1hwygGM4OXIdWMBHfl9i86yRHFp/KePIfuvYnPlVTxBqUNPtOnodRobNwtJehrM5m3tmpzs47IkXp/lMSOzSgYb5NYJUbsX/sF/zgr3IDX6rvTZFTYXMjd9RSrXzR3GZXQ6TOQTIPFIsjs2yk6qpB3bp8wdX0H9Bb/axSmeg5r2b7bO6cL9RGn7u5ePGrV3LNHsY0N+ByJUA68D1AN0pnVn/W/eemHQ43xagJEmLyJ3nbdLAwwtfxjN49UgxpMZtqXFau6T0v2LJl6gPaA66M+9zH8c=;RDhEk7g7A9/ELvI9uJ3j7w=="
+secured: "0QKRXVFV+Nuqkl1ThRppl4kPzgQc42y2qSrURWANZFz3uBSNFoQWRSjXRldOXIVXQr/k156t61j3XYmQwDP3dtucZQs9nGuoaHk3TImI5dMO28cHEfd5xpFcdKXysblAkQtlvhYwA9mOCTf5vvlrJp0m0fK20Rn8IlcnerXgwFXIdMSh9cwZlzh7ycSGtUr/mEeS5IMV7gQIwaZjetOzYLMndkjyJt9vUjpd3nVFJWshgQqO3kK3wlbUff4IJuxLSCkIRPceFJQWW/jjRPCaubdf6DS+fAkRD80X8tKlinnRyZhzXmPcFSml+Bsyn/AIsN/KfryF/oL7hNNh2Msw+vkFQVXilSS3fSF5vtqukME=;pQSOemxHiKEq776cX52nmg=="
 ---
 

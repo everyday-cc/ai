@@ -36,7 +36,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://dims.apnews.com/dims4/default/e689315/2147483647/strip/true/crop/5746x3232+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F0a%2Feb2e787a786196238fff24045b93%2Fd06df0f9eae04dd183aabbaaef444388"
         width: 1440

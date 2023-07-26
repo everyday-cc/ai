@@ -56,36 +56,6 @@ related:
         width: 1279
         height: 719
         isCached: true
-  - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
-    excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"
-    publishedDateTime: 2023-07-24T10:30:00Z
-    webUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us"
-    ampWebUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2017-03/White-House.jpg"
-        width: 1207
-        height: 610
-        isCached: true
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
-    publishedDateTime: 2023-07-24T08:28:00Z
-    webUrl: "https://woub.org/2023/07/22/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai/"
-    type: article
-    provider:
-      name: WOUB
-      domain: woub.org
-    quality: 36
-    images:
-      - url: "https://woub.org/wp-content/uploads/2023/07/gettyimages-1258873333_custom-6e8cb3e6184fafdf6d9aa9ae11ebd8425a23cb04-scaled-e1690052565770.jpg"
-        width: 1200
-        height: 564
-        isCached: true
   - title: "Leading AI firms volunteer security commitments to Biden administration"
     excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
     publishedDateTime: 2023-07-21T18:47:00Z
@@ -122,15 +92,6 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 19
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
-    publishedDateTime: 2023-07-21T13:01:00Z
-    webUrl: "https://health.wusf.usf.edu/2023-07-21/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai"
-    type: article
-    provider:
-      name: health.wusf.usf.edu
-      domain: usf.edu
-    quality: 16
 
 secured: "p4d8y7rf2DQh7L1MjhCBHXar3Gs1U0awqMzSt9ER4FJOKozv2VpT5WWIA+lKOWwmAWOy7lBIRo7MSsQ3SgJ7gvT8pqdcIfoR/MwXguL5qCNFRxTdE8hLKR47JAvooQEvE4VkQlpSLvTT1qDkQ1c/xO2TXu9LH3a0NVSOic1CKPsHl8I7I8t7H4wN7DQv8VQeiLaGY1K7CeZDzMWYT/OmkZrKSg1JUVwx4vhZlU2Z4HnnJuPAo0kIwiT0qvWmZaoph/sMPwAhzRTh9OWaAsM+eDWnLV9Z60qB1dCe06hZWnUcz+xh8irITGpmOP8wgXZ8X4s97/eCA0q4e0M7gyKdxgideXbpge17LHN1WtQjqpI=;F1a3AEEb1M4hnkojtbJxxg=="
 ---

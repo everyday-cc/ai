@@ -88,38 +88,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Top tech firms commit to AI safeguards amid fears over pace of change"
-    excerpt: "Microsoft, Alphabet and OpenAI agree eight measures in effort to encourage responsible practices around fast-moving technology"
-    publishedDateTime: 2023-07-21T12:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/18b5a7f4faffa94269401bb2dda085ad3e34393d/0_0_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=e6a42e334ac004552dd078977bba7478"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Biden thanks AI companies for commitment to 'responsible innovation'"
-    excerpt: "President Biden held a White House event with seven of the leading artificial intelligence companies and thanked them for joining a voluntary commitment for \"responsible innovation\" and to manage possible future risks of the technology."
-    publishedDateTime: 2023-07-21T17:37:00Z
-    webUrl: "https://www.msnbc.com/msnbc/watch/biden-thanks-ai-companies-for-joining-commitment-on-managing-future-risks-189007429566"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo189007429566"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo189007429566"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689961006730_n_msnbc_brk_biden_ai_commitment_230721_1920x1080-4tgbqu.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "US must guard against threats from artificial intelligence, says Joe Biden even as tech firms vow safeguards"
     excerpt: "President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards. President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards and promised additional government actions on the emerging technology."
     publishedDateTime: 2023-07-22T05:58:00Z

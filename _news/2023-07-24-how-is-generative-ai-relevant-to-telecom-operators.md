@@ -130,15 +130,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
-    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
-    publishedDateTime: 2023-07-21T13:00:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 43
   - title: "Be prepared for AI technology, PH urged"
     excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
     publishedDateTime: 2023-07-23T16:36:00Z

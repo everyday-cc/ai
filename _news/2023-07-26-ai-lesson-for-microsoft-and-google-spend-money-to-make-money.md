@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AI lesson for Microsoft and Google: Spend money to make money"
-excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
-publishedDateTime: 2023-07-25T23:02:00Z
-originalUrl: "https://www.reuters.com/technology/ai-lesson-microsoft-google-spend-money-make-money-2023-07-25/"
-webUrl: "https://www.reuters.com/technology/ai-lesson-microsoft-google-spend-money-make-money-2023-07-25/"
+excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said"
+publishedDateTime: 2023-07-25T23:59:00Z
+originalUrl: "https://kfgo.com/2023/07/25/ai-lesson-for-microsoft-and-google-spend-money-to-make-money/"
+webUrl: "https://kfgo.com/2023/07/25/ai-lesson-for-microsoft-and-google-spend-money-to-make-money/"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KFGO
+  domain: kfgo.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/8IDR8ZMg8eS-_Uv-YxiYSpbmiCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HTKPWF5N4FIRPN6GM4MRALZHGM.jpg"
-    width: 1200
-    height: 628
+  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-07/25/2023-07-25T235930Z_1_LYNXMPEJ6O11S_RTROPTP_3_TECH-AI-WHITE-HOUSE.JPG"
+    width: 800
+    height: 520
     isCached: true
 
 related:
@@ -119,15 +115,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
-    excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
-    publishedDateTime: 2023-07-21T12:04:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-teams-uses-ai-to-apply-virtual-makeup-to-meeting-attendees"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
   - title: "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search"
     excerpt: "Microsoft has been busy updating its Semantic Kernel open source SDK for creating AI-infused applications, recently adding Java support and integration with Azure Cognitive Search."
     publishedDateTime: 2023-07-21T22:09:00Z
@@ -393,6 +380,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "kqV+QIpKK8Kq6ldgxilj3MBscylKKZbzZ3G8rexfaSOvha77RLdZXeQsfHolQya4oMdtK0S8thiFdULQheguPaA2DX2o2bu4oIDJAfNsXL+3+RstTXJcMxV/5cc8SJ3HK5BIhrVi81Bh/vvudPcSHFxnlJ3riyGVbqPavhJWarbZlZUfsmFUdUhh5ALHLAM48wtBHjW0//qAYE6WuaB1RTOqB5O5QISXbAT5KOaW0kMwrqwinRQz+evX4Tr92TWaiDUgt7ded/j6ZweOZna9r4e30O6my2rmVU6aYTNvwNxDmFVnmfQTl081obwOLnPNU0n1xRdHx67tyYYDS7AtC2xqeQGnSYeivwB8hfW3/4deCHOd6mKYHxDnlc/XRd8KMFt2Xeo/lWIhP0Cps6UIWEp6ZxbwNfijf2Hz/fknF5fwWKya/TKtXrp+C1querx4y9OsPppeR9IVFguOcenu0IbQvURN7jvTz9IXwSTG9upzNXHrVi3hR1FoF6Z/FmkJX1OiFhNQq21FaZgmSZDQWQ==;LG9ge5/JmQPINgBI6zMpKw=="
+secured: "/smAdYW9yOxS22d1UHQCpsO8alwxccaQJBzk+NxCApQD6tRKUI2RBK54Yw0YLFGNXc2FAh7CLrGCAd8Y6+JAE3MDp+2DfPU9IpQOIJfK++h669S0+I0lOMKvVPxHiflmlhihNec5hbqANjZPhtiQZ9eqqApUhaI4PS48BqZThnyVAS/1VMtd2bYnpV4TJI9SVXaWBeCPlpfnM0mwCcNAIb3KzL6T6v2/32IqXRG6O8q4HCKiKR+bm8GCHX/WgWA3Clln5szoH5LoD8iIGtxoC6eQ3B4hXMqO4a1BTd/GBXBaDNTBiT9P4Fbe+TZIi6I7x5J28ELGdNNrAcg2uMAFw6DEOtGBfPgtvdvidoKbNps=;LQ6PEG1hqk4IXGSt7gy8WQ=="
 ---
 

@@ -76,15 +76,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
-  - title: "Christopher Nolan: ‘Very strong parallels’ between Oppenheimer and scientists worried about AI"
-    excerpt: "Clear similarities between J Robert Oppenheimer’s views and those who want AI reined in, film’s director says"
-    publishedDateTime: 2023-07-21T12:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/21/christopher-nolan-says-ai-experts-face-their-oppenheimer-moment?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 5
 
 secured: "ppk5HOSZ6wdILRdETvby+b1ui9MJ7dXg9+zTJCo/Nu+uN3bGbuqTHtIs2tN9dLT3x9RoeyR1WnlPqdCePdUFyPhHuAN2QD69tsPiHf4jcxoM+MF6RTk3DmnM0oY5FQFlW53HMnvJ1lTcpWyQE0rYlf+kpai/8WTnEBq4vLGC5AqMCryQGAfCP1dU2Otla/X8JpwiWgB2QuNrfYYhPOsOpWvi8ZqaAnwDfIDcDh6OxAo9nnSw+m+8fWxliGXgSuqvAIOPwc4jmcrkklDdUVWMHceOpGJ84ndV4S5UVQeis4dCePLbZO7VSmlehQezZ8DdJnvt0z1MVQlBsPquOgZx0LS0kocGVLj4pV1faKpsMJU=;uaflr/8D7Lv7k3u1Ow2XxA=="
 ---

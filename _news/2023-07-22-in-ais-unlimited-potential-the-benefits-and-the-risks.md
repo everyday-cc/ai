@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Artificial Intelligence Stocks With More Potential Than Any Cryptocurrency"
-    excerpt: "These companies are likely to play crucial roles in the future of AI, making them better investments than crypto."
-    publishedDateTime: 2023-07-21T12:33:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/3-artificial-intelligence-stocks-with-more-potenti/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 44
   - title: "An Unconventional Play on the Artificial Intelligence Theme"
     excerpt: "Real estate investment trusts either own or manage income-producing real estate, normally through directly investing in properties or the mortgages on those properties. The IRS mandates that REITs must pay out 90% of their taxable income to shareholders. This typically translates into much higher dividends than your average S&P 500 stock."
     publishedDateTime: 2023-07-22T01:03:00Z

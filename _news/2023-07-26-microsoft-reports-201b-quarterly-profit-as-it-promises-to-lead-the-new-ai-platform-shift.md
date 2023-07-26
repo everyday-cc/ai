@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-25T20:15:00Z
 originalUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
 webUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://dims.apnews.com/dims4/default/e689315/2147483647/strip/true/crop/5746x3232+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F0a%2Feb2e787a786196238fff24045b93%2Fd06df0f9eae04dd183aabbaaef444388"
@@ -42,6 +43,6 @@ related:
         height: 720
         isCached: true
 
-secured: "TV3Z+p7qCwNHZWpUsddtejFA7QPjTQu4dxe0PODj+9xmpifzEoGeeueWxrl4H1d7SnXbm1w3F/N0I3YMbzIH4F6OqJBK9OKFlm3oqIYCDm4hrZQ152t5bUIT8B69tKDd/SGglYMP4d3k2Mja3tobO9d630dlvzHREc8LkNrtgek2OUyJx69PASc2059MJLMt/oQTP3M+gqN1ZdbavtS3XOO63giCa7IN61nPR7ujXvh+ZvXJQSzvPpWqV4qm8+pSTe1cU+bgUrRdXAD17W/cnd5pjlaiC1XUEeJthqtnCKLLlpGh1qp0zumfYISBSdyIXPsQ74k97zs4nZX9KEIK/NSCjzxpRJ+B+g27hF665tk=;fY8oRy4w2lkpvMTJU0UHYA=="
+secured: "A+7emho0Abtd8OjjOKxSffV1AI/W72sSoXduMBrJvE4kHPzbOQklISo9ip5VoQz8Mh1rtoIGK05e9Lpa/owwbQhxkiYopHL/RxChTZtea0pfDcHGeM35Z6LsZKkbRmyopMQ5vE3x6YASGE72kw2cqSa459qqoRuXhN7i2GQG7ZvFnBrEJlUIg13MG7on6Q88/cf5I2RILFj8hE1kQVdbOLaihWp5pKRVjGtnKJpgAVE+wkIh0dMirgAm1pLnlCuGz5hoSrbehZgptgFAd+jcazrNweH7jxlyDV5G3GVNHR21ej28pKcxyXa7AhbfuAA3MyLXuveiIy6CNx5zfebameZei735aVFXUQFSQclbbtT+SxYF4av3NvY0BBjasLDOgiBTxhjGrnfCW8rHZu08vvGDXUGnzrNc8wf5nQl2bImjwljSzj7oKnzjFdVlj11YQr0VDyUYfK692Wc3dZnqWAc3tJuNZqWcBo0anvbZTVQp99U3iP3hToRWLIIA8uOrU5SbZjCp9zw71I3N3D6+Fw==;2uzncLEDydxDihpbTYvScg=="
 ---
 

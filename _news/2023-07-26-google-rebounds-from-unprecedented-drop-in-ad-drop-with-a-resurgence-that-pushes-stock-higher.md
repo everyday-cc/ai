@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google rebounds from unprecedented drop in ad drop with a resurgence that pushes stock higher"
-excerpt: "SAN FRANCISCO (AP) — Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence ... self-driving car pioneer Waymo and other far-flung ..."
-publishedDateTime: 2023-07-25T20:54:00Z
-originalUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-webUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence"
+publishedDateTime: 2023-07-25T20:55:00Z
+originalUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+webUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+ampWebUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+cdnAmpWebUrl: "https://www-valleycentral-com.cdn.ampproject.org/c/s/www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: abc27
-  domain: abc27.com
+  name: valleycentral
+  domain: valleycentral.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2023/07/64c03ff1214f40.89345764.jpeg?w=1280"
+  - url: "https://www.valleycentral.com/wp-content/uploads/sites/39/2023/07/64c0400a723896.40534924.jpeg?w=1280"
     width: 1280
     height: 853
     isCached: true
@@ -42,15 +42,22 @@ related:
         height: 628
         isCached: true
   - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
-    excerpt: "The results for the April-June period released Tuesday by Google's corporate parent, Alphabet Inc., reversed a financial downswing that had raised fears Google was losing its financial steam at the same time advances in artificial intelligence, or AI, threatened to undercut the dominant search engine that powers its digital ad empire."
-    publishedDateTime: 2023-07-26T02:32:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/google-rebounds-from-unprecedented-drop-in-ad-18260417.php"
+    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
+    publishedDateTime: 2023-07-25T21:46:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 0
+      name: ABC
+      domain: abcnews.go.com
+    quality: 31
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
-secured: "XCSFFgHVePa28bQDaSkOqerLqsMlqUUsVY6ISZmhGuOKCXUBsq/rIQBgPWcaut9CPKz9aNOAM3ejzfoGadoOltPupClQSCZCPGECOCkUyKoB0QRFbFZEO6BRS22umaFCaw+bhuQ/Ws4ficK7gbxUM/pg54oONKgZPQCUFD5PLzAwjSurt633UkcyZdHvLUUpmP1QzEdl2Pf132/Ov3YKv9K+zCMR7BsKs3CQ5DC95Pc8yy+IVKHm0e+8fnyEYuIBlcJJm5RNG+1HCMwMsPW3HXwxaunBE76ZxzsLimLZj506xZwHbU2qB025P129ag17MNKRG5q2ayFgZlNzx66NXADU2xoRiBf+YuTebr+jsuQ=;qiER8+C8/5FTmSZs2lI0bA=="
+secured: "XIec41qpIRIMmgq7ac9SYIogXoAV6AA7lWjsSY8q/2Hflyd8iqXgv9WrIkrfM+BKgybog28CCDV5LHm4tMAnowi+7DbtjVjby697A5LHDaBk01ShSpDuODzQq174+YU7N50FgGy7+/n56fV7uFlyvdixyFW4FKeojIBvYib9GIiQBRDVgcUVEiqNX409n+nRySytxOzNpRo4w/XAh84CdXkllNDWSUjbMYXheuIQSaF966csUUzLYjIYduuYhaw6y2vm4cY3PuBWqJrY+p+ckn39OA+bl973U/JbCB2lsdiDgfKGxjifG4IG7dv2eKu6tZI023kwf26OO6xsFl3mqM25A2IApB4V0I8A76iAdAs=;uVw7WbH4C0nY76M0NP7X8g=="
 ---
 

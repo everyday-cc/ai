@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -131,15 +131,6 @@ related:
       name: orissapost
       domain: orissapost.com
     quality: 30
-  - title: "Purehealth And Fujifilm Collaborate To Bring Advanced Artificial Intelligence Solutions Into Abu Dhabi's Healthcare"
-    excerpt: "Abu Dhabi, UAE PureHealth, the largest healthcare platform in the Middle East, is collaborating with Fujifilm Global, a renowned world leader in"
-    publishedDateTime: 2023-07-21T12:25:00Z
-    webUrl: "https://menafn.com/1106643474/Purehealth-And-Fujifilm-Collaborate-To-Bring-Advanced-Artificial-Intelligence-Solutions-Into-Abu-Dhabis-Healthcare"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 12
 
 secured: "gXgU+MXVCXkuR7FDozoXHz5Xb1MjIGDFqZfKlb4BmGG1PHBK4lBNjnIwHSp8liDZpqaGLtSUgVIrK4BPag3ZNUXfemFxcgOGjvTx46on1rKOBIg3DYrJHdgEoZfFn7d64TvjqKt0oVuBDkFDuQ9c7472dskEdWDGYvsbEx1TuDoQC18vaR3i+BZZHi6o+K/SH1uA5fBKZvzM/SdfhtUDeBIxpba1SmqNFCVcko4y0y6EYqiDqHiC+pCaFxu5qeqqRgQc999hPnUh/P0f2CSl57+ZrYNztdBfBXZ9P75yqB5wvkW4KfhYy+VvTOOGdAvodYEKn6bq1FaUbBhUsTU6CH1m57Qf+fUdFvstDant5rI=;vsY5zo2W4gDN/NC83lbuXg=="
 ---

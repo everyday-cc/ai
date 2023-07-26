@@ -27,51 +27,125 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Delivers Remarks on Artificial Intelligence"
-    excerpt: "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology."
-    publishedDateTime: 2023-07-21T18:28:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html"
+  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
+    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
+    publishedDateTime: 2023-07-26T04:00:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
+        width: 1260
+        height: 628
+        isCached: true
+  - title: "The Generative AI Battle Has a Fundamental Flaw"
+    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
+    publishedDateTime: 2023-07-25T11:08:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
+  - title: "Making Anime Characters With Generative AI"
+    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
+    publishedDateTime: 2023-07-25T02:22:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 67
     images:
-      - url: "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-biden-ai-fqmp/21dc-biden-ai-fqmp-facebookJumbo.jpg?video-overlay?video-overlay"
-        width: 1050
-        height: 550
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Watch live: Biden delivers remarks on artificial intelligence"
-    excerpt: "President Biden on Friday afternoon is slated to deliver remarks on artificial intelligence (AI). The president’s speech comes after the White House announced Friday that the administration"
-    publishedDateTime: 2023-07-21T16:30:00Z
-    webUrl: "https://thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/"
-    ampWebUrl: "https://thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/amp/"
+  - title: "Biden thanks AI companies for commitment to 'responsible innovation'"
+    excerpt: "President Biden held a White House event with seven of the leading artificial intelligence companies and thanked them for joining a voluntary commitment for \"responsible innovation\" and to manage possible future risks of the technology."
+    publishedDateTime: 2023-07-21T17:37:00Z
+    webUrl: "https://www.msnbc.com/msnbc/watch/biden-thanks-ai-companies-for-joining-commitment-on-managing-future-risks-189007429566"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo189007429566"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo189007429566"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: MSNBC
+      domain: msnbc.com
     quality: 57
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/AI-stock-image.png?w=1280"
-        width: 1279
-        height: 719
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689961006730_n_msnbc_brk_biden_ai_commitment_230721_1920x1080-4tgbqu.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Biden Says U.S. Must Be 'Clear Eyed and Vigilant' on AI Threats"
-    excerpt: "As some of the biggest players in the artificial intelligence game vow to adopt transparency and security measures, the White House is saying that those measures are only the first step in creating safeguards around the technology."
-    publishedDateTime: 2023-07-24T23:47:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/biden-says-u-s-must-be-clear-eyed-and-vigilant-on-ai-threats?_amp=true"
+  - title: "How AWS is making generative AI simpler for businesses"
+    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
+    publishedDateTime: 2023-07-24T00:00:00Z
+    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/88a89a7/2147483647/strip/true/crop/4422x2306+0+124/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F30%2F93%2Fb32038a748c6b3d428bc9a031c4e%2Fus-news-ai-safeguards-1-aba.jpg"
-        width: 840
-        height: 438
+      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
+    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
+    publishedDateTime: 2023-07-25T16:09:00Z
+    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
+    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
+    excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
+    publishedDateTime: 2023-07-25T09:22:00Z
+    webUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry"
+    ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
+        width: 740
+        height: 450
+        isCached: true
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
   - title: "The White House and big tech companies release commitments on managing AI"
     excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
@@ -87,51 +161,43 @@ related:
         width: 1200
         height: 564
         isCached: true
-  - title: "Leading AI firms volunteer security commitments to Biden administration"
-    excerpt: "Seven leading AI companies met at the White House to discuss how the government will regulate artificial intelligence. Security was targeted as a top priority."
-    publishedDateTime: 2023-07-21T18:47:00Z
-    webUrl: "https://www.scmagazine.com/news/emerging-technology/leading-ai-firms-volunteer-security-commitments-to-biden-administration"
+  - title: "The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry"
+    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
+    publishedDateTime: 2023-07-24T21:24:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-4539814/"
     type: article
     provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 34
-  - title: "Biden declares ‘I am the AI’ while pushing rules for artificial intelligence"
-    excerpt: "We must be clear eyed and vigilant about the threats emerging technologies can pose… to our democracy and our values,” Biden said."
-    publishedDateTime: 2023-07-21T20:57:00Z
-    webUrl: "https://nypost.com/2023/07/21/joe-biden-declares-i-am-the-ai-while-pushing-rules-for-artificial-intelligence/"
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 30
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
+    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
+    publishedDateTime: 2023-07-24T15:58:00Z
+    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: unite
+      domain: unite.ai
     quality: 29
-  - title: "The Biden Administration Secures Voluntary Commitments From Leading AI Firms: A Step Forward Or Empty Rhetoric?"
-    excerpt: "Harris Administration announced a voluntary agreement has been reached with seven leading AI companies, including Amazon, Google, and Microsoft."
-    publishedDateTime: 2023-07-22T11:31:00Z
-    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/07/22/the-biden-administration-secures-voluntary-commitments-from-leading-ai-firms-a-step-forward-or-empty-rhetoric/"
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
+    excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
+    publishedDateTime: 2023-07-25T13:20:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/25/9853521.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 27
-  - title: "AI Firms Strike Deal With White House on Safety Guidelines"
-    excerpt: "The White House on Friday announced that the Biden administration had reached a voluntary agreement with seven companies building artificial intelligence"
-    publishedDateTime: 2023-07-22T01:10:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273906948/ai-firms-strike-deal-with-white-house-on-safety-guidelines"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
-    publishedDateTime: 2023-07-21T13:01:00Z
-    webUrl: "https://health.wusf.usf.edu/2023-07-21/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai"
-    type: article
-    provider:
-      name: health.wusf.usf.edu
-      domain: usf.edu
-    quality: 16
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "eFgltl68Q9S7Ok7nPXwPf7jXR6lMNZcxa/DdXguJTiRw71+k4Sh2Tad61GH3w3RWAdUtfoCxYLANxxiq4E6nKKnRlNX8P+9T0Qj4uVI9PBXmFa3kNjtN5kvgfb3yxt/ChFxhxDRztAz0kt0XrtAtN6OvtHX3rTqk+7AAXRhlKqH1ZMf9CtIX652WNAncDGqLdtYAvflAEg/qjC5qS6cBrQi0OJ01krYKLvd75L0hL0cc0C/L/dAoAKCbA01l7VfOR6avPytVyLV88/Ff73S9p2783Dc9eaSXzJuPhDQPgyWWJjuO8kAhhNX5cGeUwzh4NygA1vaSUXS8mGlA7942TPfaFqKheZkOkRABqcspLQ4=;HNrau1CKNti/9+/L1c3wQQ=="
 ---

@@ -62,6 +62,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "How The Self-Driving Car Dream Became An Absolute Nightmare"
+    excerpt: "The reason our self-driving utopia hasn’t arrived, it argues, is because it was never really supposed to. Instead, the promise of self-driving cars were just a lure to keep cities from building ..."
+    publishedDateTime: 2023-07-25T10:43:00Z
+    webUrl: "https://jalopnik.com/how-the-self-driving-car-dream-became-a-nightmare-1850641230"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bb9a938264e5320444c84db192c94a98.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Jtsk7fkk2DwfeTQyA/WsEiossDTYoS0JIVK3eTlzd+u06nTAU/2UaEqPqm9zoq/gt8uKdanVogvu+zlkLXhmnjk02INez/vDWo6bfvyrSb3Zouc7U6hr0TfhUI6nvP6QvH1LpeS3y61l00AdF3SbkV5+hU7A0kiQ9WPnDn/OX/RyUEVjvkrhcP0jF0nbAdv8jKifhL4bcrc3bRQVVpArqq9d20PphlOvom6JvEbDrjjoIy1UVsnBjD3Voffdm41Yd1W2oAdchweUFPwcSLdjQE9wW0XnSawJx/fyq01FXhNEOC2M2fpe6Bhg4BAznkr/obFOP53npUz5KuKczWD6XSkpwka/1UPkcJClwzxSEgNkJTzdfN+e4R7CzlPQE4J9/JqU2a0ttq1iTCtzmC3nBqTNhooTCsPmYG7+S0rt2A6kzjPP7FzCJi1Yx0kUpsEZ6+JtjWOY8gvGgWG/O0iKVBpSQnS3dbjQWBHycgfRPWnx3yJJwEHVdXq/lbU2aCKB7Xxo45DEcZYV2OsUU5vepw==;Kjk4Laidzww4oz9jZzZZdA=="
 ---

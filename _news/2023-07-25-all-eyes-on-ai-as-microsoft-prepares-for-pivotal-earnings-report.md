@@ -89,20 +89,6 @@ related:
         width: 1024
         height: 517
         isCached: true
-  - title: "AI lesson for Microsoft and Google: Spend money to make money"
-    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
-    publishedDateTime: 2023-07-25T23:02:00Z
-    webUrl: "https://www.reuters.com/technology/ai-lesson-microsoft-google-spend-money-make-money-2023-07-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/8IDR8ZMg8eS-_Uv-YxiYSpbmiCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HTKPWF5N4FIRPN6GM4MRALZHGM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
     excerpt: "Company’s $56.2bn revenue beat Wall Street expectations but slowing growth for cloud service Azure proved to be a dampener"
     publishedDateTime: 2023-07-25T21:41:00Z
@@ -119,15 +105,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
-    excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
-    publishedDateTime: 2023-07-21T12:04:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-teams-uses-ai-to-apply-virtual-makeup-to-meeting-attendees"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
   - title: "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search"
     excerpt: "Microsoft has been busy updating its Semantic Kernel open source SDK for creating AI-infused applications, recently adding Java support and integration with Azure Cognitive Search."
     publishedDateTime: 2023-07-21T22:09:00Z
@@ -221,6 +198,20 @@ related:
       - url: "https://www.sharepointeurope.com/wp-content/uploads/2023/07/Inspire2023_Phase1_OpeGraph_Design-v-1200x630-1.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI lesson for Microsoft and Google: Spend money to make money"
+    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said"
+    publishedDateTime: 2023-07-25T23:59:00Z
+    webUrl: "https://kfgo.com/2023/07/25/ai-lesson-for-microsoft-and-google-spend-money-to-make-money/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-07/25/2023-07-25T235930Z_1_LYNXMPEJ6O11S_RTROPTP_3_TECH-AI-WHITE-HOUSE.JPG"
+        width: 800
+        height: 520
         isCached: true
   - title: "Microsoft foresees gradual AI adoption instead of rapid uptake"
     excerpt: "Thanks to an AI wave that helped Microsoft increase its customer numbers, the software giant expected its intelligent cloud service, especially Azure, to drive its growth."

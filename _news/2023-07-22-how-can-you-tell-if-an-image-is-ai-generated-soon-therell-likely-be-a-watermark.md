@@ -46,38 +46,6 @@ related:
         width: 1200
         height: 650
         isCached: true
-  - title: "The Generative AI Battle Has a Fundamental Flaw"
-    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
-    publishedDateTime: 2023-07-25T11:08:00Z
-    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
-    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
-  - title: "The Stack: Musk Launches AI Start-Up as ARK Cuts Stake in Twitter"
-    excerpt: "Elon Musk enters AI race with xAI, ARK writes down its stake in Twitter... Another dicey week for some big names in the tech industry. In the latest episode of the Elon Musk experience, the billionaire announced the launch of xAI."
-    publishedDateTime: 2023-07-21T11:16:00Z
-    webUrl: "https://www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches-ai-start-up-as-ark-cuts-stake-in-twitter/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches-ai-start-up-as-ark-cuts-stake-in-twitter/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/07/21/the-stack-musk-launches-ai-start-up-as-ark-cuts-stake-in-twitter/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 57
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2023/07/the-stack-logo-768x433-2.jpg"
-        width: 768
-        height: 433
-        isCached: true
   - title: "Gene therapy: Hopes, hurdles and AI"
     excerpt: "Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research, said AI could be a “game changer” in helping manufacture complex treatments."
     publishedDateTime: 2023-07-21T14:00:00Z
@@ -115,15 +83,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 35
-  - title: "OpenAI And Other Top AI Companies Pledge Safer AI-Generated Content: Report"
-    excerpt: "OpenAI, Alphabet (parent company of Google), Meta Platforms (formerly Facebook), Anthropic, Inflection, Amazon.com, and Microsoft have pledged their support to the White House's efforts to regulate the rapidly expanding field of artificial intelligence, according to a statement by Biden administration."
-    publishedDateTime: 2023-07-21T12:37:00Z
-    webUrl: "https://www.businessworld.in/article/OpenAI-And-Other-Top-AI-Companies-Pledge-Safer-AI-Generated-Content-Report/21-07-2023-485032/"
-    type: article
-    provider:
-      name: Businessworld
-      domain: businessworld.in
-    quality: 17
 
 secured: "ZTWincDEPuNM/uvAdrnOVIOSm6kORQnzgodR3xLn42gqrrIiT/rHsOkAHP+KOvXgzUAUcra1uSVKvBTvHot1cmK1HvMPSt7SKl9xfxIgYCNLINzM4DnZ3xMgEyyCHhU7GOxF1yYN+sXqYJbS1q1hhq4PV+pk9t3QumLI4poSgDciE35wcP/lq24BPf7WYvr5I9wWOLSLlAO3mi5/CGAVLTkggHvSHKG2pUcjttMkTjM2PwagdMxFmLu9Ydq3qs0M3e0L1T5haCn6r9+U4Iqt5ntgRRRUXnRBDQSshFHhxK+dNfv3JbhN6Bt446BTRzwrnC61Xfwlbc4//Pq30CAgpitQqoIz00ZnxHeyv7fU7ZJzRdDb3DI2vznJdmRS3km0ucdLXKVOK6uCqC8I+A33kkyGOsSgAjQoTqUxnAhqRwEmzsz0K8KtHX+Fr2T3EVPbHVU1ynQifEsZBbKbPi5vdR6ldiEkAOxnZonXtxTePbUFZnH6i21CCxpY/2OvE0BQjnKLj5m/U5HnQpJPfCNRwg==;REOpGXSKkiUfD4t+2kxqSg=="
 ---

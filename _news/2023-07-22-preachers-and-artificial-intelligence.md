@@ -39,15 +39,6 @@ related:
         width: 3372
         height: 1809
         isCached: true
-  - title: "This AI Stock Crushed the Market So Far This Year. Is It Still a Buy?"
-    excerpt: "Given the current state of Nvidia stock, investors should probably treat it as a hold. Indeed, both long- and short-term investors have earned massive gains from this stock. With its dominance in the AI chip industry, it will almost certainly play a critical role in the industry for years to come. That could take the stock higher over time."
-    publishedDateTime: 2023-07-21T12:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/this-ai-stock-crushed-market-this-year-still-buy/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 49
   - title: "The 3 Best Value AI Stocks to Buy Right Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In 2023, it is impossible to have no knowledge about artificial intelligence"
     publishedDateTime: 2023-07-23T20:00:00Z

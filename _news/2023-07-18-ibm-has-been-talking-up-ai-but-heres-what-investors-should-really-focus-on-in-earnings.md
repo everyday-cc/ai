@@ -1,32 +1,20 @@
 ---
 category: news
-title: "IBM has been talking up AI, but here’s what investors should really focus on in earnings"
-excerpt: "International Business Machines Corp. may be hitching to the artificial-intelligence bandwagon with its new WatsonX initiative, but analysts are more interested in areas of Big Blue’s business ..."
-publishedDateTime: 2023-07-18T14:12:00Z
-originalUrl: "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec"
-webUrl: "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec"
-ampWebUrl: "https://www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec"
-cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec"
+title: "IBM has been talking up AI, but here's what investors should really focus on in earnings"
+excerpt: "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ..."
+publishedDateTime: 2023-07-17T22:24:00Z
+originalUrl: "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
+webUrl: "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://images.mktw.net/im-375235/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "BpXfqGXK2tirp5tRD6HWH4JiFmTHW3ROq66EWDKkEnum/igfi7YN8mxTsoJj1OvHZx42xoqwdFIsajXUJnQVGxGfwfoObfW4AYVpYkLMAolSGxjsdRbnElsEHPL9cT8o6YfXHk/8RCDMn1/XMIKiXyFKMBjN7lYLJlyU2aBMaYVm8XNQfB37L/wb0x8NvNslFVDy7suJ5qhso6TP1TZPTFXIWN2lzi/pJJLHXFBMbp8HTyNBejrdiio2pQITXpMQR32u1RV88onZKS3qXD7S0gm2D0aMOoMPmH+JYAaW02LohntHJkqlwnbFUHdMecAClDqEOtQO8qGTXDfO72jezmNbK5B4YZJ+kygvvJ1YxCg=;GLzKbslaANih/vMCWOJrZw=="
+secured: "qCe3el/B8uT8XO2WsGaiOzgm5jmi/oWkE/0iIgBXL0QSAy6cWTFtg1mW9kwAMe0cy3UBRGC9XaLLanzpR4SICmrssF/kK2iDiwM5QmeOapfm7JMxYMIW0KM/yguND7rWKZwxg2x6ZMt6hzQ+GBKAm2fuRe1Y9eQEccHOl5YPbnpmTbm3GnvEwb+zHCU4eSEkkhV21dblVVACUHz3Qu9XfiSjzTYabU5ZaR+E4o5XDhbe0rG+3+22/Ym1Mz2fvjRTXZDqlbgzttd/a3FS37RroPDL1c6zUKpX/d6StEGZM9znSPxSr+pGM3Kor/NSKa86wRq/E2QIfQC/QSSIuE35V++MU+0PDAbqY7fn5KiccXE=;LB0PnumbLE6aphZUMGtBeQ=="
 ---
 

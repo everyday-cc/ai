@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-07-24T21:24:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-4539814/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 30
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "TixKN9bDQ/UyBggHc04QN9DvWmhNeG57r1WXReSj4CdnmxD/94/KoUgQwZDWOywkduypys1G2ZXWp/SSzisz99JHdA2gOt5ncP2g0J641gkdrY/rgpyN5xASmVi9Mcab/m8d8lxJREoGwloTEinqFeIPiRKExY/O2CDHD+9NiM5JCAMyqBIiodF+xRzY8t2+ABADBOBcY8ixHVBWlaGzJgIeM/MjvoQxleO8PeIkEFge39yGXr0NwP7+TdI+05kGhrIFzgDpGpkk6m32rQH5v8OxOf9NXEe7IQhjbW3vCQwHKBfRBg4wMr/xbOnpq7pr2lLDuOtuEGI0lysZfTjM/ZA8jSmnmNVe2otZsZ2C34svhtuYmfKBpsCV4WpYF+nVSSDZ+6TI/zE5W58XGdvWzeeFH9XE/v3S+DFODz+8CQsPC8/017QIQrV/RUhWqQ5q+1TfC0TGI88HL2BGIuRa5cxUcPWbh9CT4VjYsVPa+yhbKtF8LfkDWv4bZODc+/jUnTfuu14sTfcjJYB3OkPVhQ==;DsPiMYyH3XcoaO678qk49A=="
 ---

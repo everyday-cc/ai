@@ -3,8 +3,8 @@ category: news
 title: "The biggest scientific challenges that AI is already helping to crack"
 excerpt: "AI isn't just for chatbots – many companies are using it to tackle everything from protein folding and drug development to commercially viable nuclear fusion"
 publishedDateTime: 2023-07-25T15:30:00Z
-originalUrl: "https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/?n=@"
-webUrl: "https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/?n=@"
+originalUrl: "https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/"
+webUrl: "https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 899
     isCached: true
 
-secured: "VbI/q8xfloURr3DvuLb3BybT7S5T1LwIV5NsupeaOJqCF3Mvb0yyz/L4NU28o/JwPi/xnUBi34pMW/QLZj+6kN2svatOdf42P0CCbRjHC1Z6Aw6p9NYAcmC47dvJNu5yNl/8fl77kfi9u9h/QnATtDgLHO/9XWzjR6juXdWimzXN8XMDzUHSEDkigWRza7bGd9AGtE40dPlMtjdS3smsqSOY+tJyPknZDuBuxpBDpgSpZtyqI0aBZ9mSGQ/XQeNwqWLByQbI1ttMrCiO2jOqPziM/2ulfX+jEtXfyq5nJ3GNxYrZLUvK17Mkfck3kHD7G03wJGICZ/QTfkEOTTm6rC7VwCP7j47PseZJKXlmeOk=;O1OR/Tdeiwnfk5hwGUvQUw=="
+secured: "geeZCO+L43EdTJmwRi4s0tNXMpmDdThFkstNbCeWpIpiTNUwdPanFUSO+cYEm+dH715vr3BcTNzhhRQ8Pzfx2EXA3EO0FvsEozzIMU2VFhV2yeShj2ZsBIQQGrR2NuQczEgb9Ory08gB3+lnfTF+aSZlu7ayj4UTCBeLXjw5FoG7CEGUP5lL0RBDsLpg6RtNSgnQ/PgphAvLa/dQNyuuU2OeC2KV/zyYY/uW9azlX/XJt5wJHzzF+uPC3k1XTLJ1Nit/ukX8pE8IlkPkNmu6MPr80dgxG3luNeE6woYNkBWyEred6aL1t6C9xOrVPSuUEK58nzRQw0rPcD7IhMABetf2mBuYifF9G0ImGDOhr6Q=;XAE2Hik08ZSMq4w+UxSqdA=="
 ---
 

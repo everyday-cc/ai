@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft charges ahead with spending to serve AI demand"
 excerpt: "Microsoft on Tuesday laid out an aggressive spending plan to meet demand for its new artificial intelligence services after surpassing Wall Street estimates for fiscal fourth-quarter revenue and profit."
-publishedDateTime: 2023-07-25T22:14:00Z
-originalUrl: "https://www.reuters.com/article/microsoft-results/microsoft-charges-ahead-with-spending-to-serve-ai-demand-idUSKBN2Z51XD"
-webUrl: "https://www.reuters.com/article/microsoft-results/microsoft-charges-ahead-with-spending-to-serve-ai-demand-idUSKBN2Z51XD"
+publishedDateTime: 2023-07-25T22:43:00Z
+originalUrl: "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2023-07-25/"
+webUrl: "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2023-07-25/"
 type: article
 quality: 84
 heat: -1
@@ -58,6 +58,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/12ec2267e3a88a32146c196de5de33125fcc9b95/hub/2023/02/07/3d9c5045-a855-44c9-b421-5a86fcf6f9d9/gettyimages-1246742005-president-biden.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft earnings top estimates, but stock falls as execs detail AI’s costs"
+    excerpt: "Microsoft topped profit and revenue expectations for its latest quarter, though shares were moving lower after the company discussed the year ahead."
+    publishedDateTime: 2023-07-25T23:37:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 101
+    images:
+      - url: "https://images.mktw.net/im-709442/horizontal"
+        width: 1320
+        height: 742
         isCached: true
   - title: "Google, Microsoft, Amazon, Meta Pledge to Make AI Safer and More Secure"
     excerpt: "The tech giants and ChatGPT creator OpenAI are among the companies that met with President Joe Biden and signed the voluntary agreement."
@@ -232,16 +248,7 @@ related:
       name: Money Morning
       domain: moneymorning.com
     quality: 36
-  - title: "Teladoc And Microsoft's Expanded Strategic Partnership Is A Powerful AI Combo"
-    excerpt: "Teladoc has experienced multiple news-based pops, with the latest instance resulting in a +10% jump in the stock as Teladoc announced an expanded AI partnership with Microsoft. While TDOC stock has given up most of these recent gains, the telehealth giant is gearing up for sales growth powered by AI technology."
-    publishedDateTime: 2023-07-21T11:54:00Z
-    webUrl: "https://seekingalpha.com/article/4618700-teladoc-and-microsofts-expanded-strategic-partnership-is-a-powerful-ai-combo"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 31
 
-secured: "VXQ1nLfh3NsjZK4wqaF0dxKjwCdE425SfUxl5hmD/UBsLQfKlR2yJrsv9/HLQHdTDomnjflPih/3/q7l91MK4nELZd+C6bO+eDQCEhUkFv3OFjYOWiePcuYJp8M542HVT+taUfrEqEIPUd5Wmh1ERXteF+59QHuF46I66iBSKkjOZaUvVlJnton1ul2TsfSo2AeXyS04JeUPWw0E3CjJU32E/vQpPkR9RHgt+ZgqGz8rkkoGvurGsL61tm1co81JnapyBrdS6VSDllICwdlOFgyAsWdU2Hzw+eInyAOp9KL5we6gk0m1sRsbW6JF2TQXDKW4anH8hydf+7TLVFjD1sqOzNaBhfOkdBtlqTCbY3FFDKagsgpJ8s+kTp73yqdkEzf1WR1nKDh6u8Bq2yGttjWjS0XTylExKsx6hCX+nFBGVZSNcc3zlxounBIxVjICZn1yzs4bt/c4WII3ZbFMIMNQH8Ly4k3AUg5T6rOMnVqR69wnzftASZ9jyN7xB7kbiRaPUrksHdyLVk8REcwuUw==;A7z/zfUalWRfTMIQ3m1+1A=="
+secured: "w5Zn9oESC+y6q7BoMtXxp8nJLiC5jHwyPm3nTNJdE7POEjUfOg8KBHYtYmhF6o71oan8F5NFy4U24zd5oV0R7xbkdSrCw3PVPAHKcD57p4RFYajMAyq0QYijfyV7/upO2JHWV50ks4sMZcXT+n0D5stFErcdejHLheonuYDfTwkkdyD1+j1tG6QsqwGF9wwTCyvCZ/hf+eSls3J5ffigsv/cKC3B3opcpk7B3bx4sYxtTk2AbbZEZ2unj2k/xY4V0ByBXS4QDWH7HPqTUP+JnvVVURYzXRUCZAzRET+hqbQL71OH6V12tsaJOCkXbiatvEue71uA6UPiAFG4CZZKXKNhO6fbprDZ1Y4kR5XHcA8=;NuOQ8CnHGrXU8UFHr00j2w=="
 ---
 

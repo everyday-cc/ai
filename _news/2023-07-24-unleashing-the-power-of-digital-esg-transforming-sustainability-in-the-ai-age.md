@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This Tech Startup Is Powering 'the Core Infrastructure' of AI Models"
-    excerpt: "Pinecone -- which was recently valued at $750 million in a Series B funding round led by Andreessen Horowitz -- has created a vector database, something that grants AI models access to long-term memory. This database powers the \"core infrastructure\" for companies looking to build and scale AI models."
-    publishedDateTime: 2023-07-21T12:00:00Z
-    webUrl: "https://www.thestreet.com/technology/this-tech-startup-is-powering-part-of-the-core-of-ai-models"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
 
 secured: "jRivKyMi+rcvYe96bEADVYHcn2v0uFNyecdX6XGO34wg3imt/RyD//hAhWb06baNLjfez7iNkk3wv0jSxWaXdR5bGvo210N0iSEWOUnYrIQyUtAtvYfM8GhIQ1o8J6aan13Zx19FlqFJ1fiPRnWFwNVNITOgDm5MS0ELeg+WK5TaAAPrN+3jn4NCZzr1vcfdgalinlGHuz6WWUZqaGBTgVJ+3Yazx9mbe2K6UG6xw248Hg4TwV+ccN8hFqeONkFFbl9tIl+pujrZOuTTLMMeYxBEgPnqqmHmsFQb3hMWwJvDz5ySudX68pdKdjZ/xAUU9Ojr4hU2EPy+9XH+cl2GnxjBF6nP9ofPS/2S8TnVBp0=;Be4CzQzpD2odMR3MZ72GEA=="
 ---

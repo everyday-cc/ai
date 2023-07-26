@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
 type: article
 quality: 60
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 8
-  - title: "Christopher Nolan: ‘Very strong parallels’ between Oppenheimer and scientists worried about AI"
-    excerpt: "Clear similarities between J Robert Oppenheimer’s views and those who want AI reined in, film’s director says"
-    publishedDateTime: 2023-07-21T12:16:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/21/christopher-nolan-says-ai-experts-face-their-oppenheimer-moment?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 5
 
 secured: "A459rVKTi/zWpWk69C+Pf8lwf6tQvZo1Rfop70+Kf9Yst2D/FRXLhQ8vuHcfKzEld0Eycw5dJk6HAyLEDSmioWIJ36oXG4HJl4cFq77jEE+PSxoYXbg9YfsY8fkWlQotEDn2bpXJic+XKB6UsTnlBBkM6xRJUrCUzsOsYIquKKYXhRKXiV+rIlrIctpbdkL9OYDm49njzIHFQQpVUUck777VccML9b3fOPTDBTQgCB//4m02Pqxp7KEd7Rnx1kxDYXcyMd1LB8jZFdlF61KB1sFgQIOU665cvtUUCJibZmD/SGzQbvpWie32z8IyaqUio10AQ/MdL+BPPhDAZ74w7hqlBb0MN0qkmbHn5U3eiVu9Hyk1gExdgD9jhvi0tIkguGYpux4Q7hHLfD3wf/iouSymj/kLOlo9rMNvukA/vs0q83oIyFOg5QUBiqyseJxSoTs0e7SPDr5jcny7bFYv9QhrgGuyCbwwzTvZj5Gj5jwTEzZqApRlaj6GFT1mB8nGAXDU07hDdJ1hj+Bg7UXjSA==;1p9sIIj9gfQTEVZB9u0Nyw=="
 ---

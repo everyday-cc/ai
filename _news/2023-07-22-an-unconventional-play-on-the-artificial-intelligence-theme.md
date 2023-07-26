@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 699
         isCached: true
-  - title: "3 Artificial Intelligence Stocks With More Potential Than Any Cryptocurrency"
-    excerpt: "These companies are likely to play crucial roles in the future of AI, making them better investments than crypto."
-    publishedDateTime: 2023-07-21T12:33:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/3-artificial-intelligence-stocks-with-more-potenti/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 44
   - title: "Startup Mantra: Upping brand watch potential the AI way"
     excerpt: "Anantadi strategically places products within video content, tailored to viewers’ preferences and helping brands to connect with target markets in a non-intrusive manner using AI"
     publishedDateTime: 2023-07-21T18:57:00Z

@@ -85,20 +85,6 @@ related:
         width: 900
         height: 628
         isCached: true
-  - title: "AI lesson for Microsoft and Google: Spend money to make money"
-    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
-    publishedDateTime: 2023-07-25T23:02:00Z
-    webUrl: "https://www.reuters.com/technology/ai-lesson-microsoft-google-spend-money-make-money-2023-07-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/8IDR8ZMg8eS-_Uv-YxiYSpbmiCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HTKPWF5N4FIRPN6GM4MRALZHGM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
     excerpt: "Company’s $56.2bn revenue beat Wall Street expectations but slowing growth for cloud service Azure proved to be a dampener"
     publishedDateTime: 2023-07-25T21:41:00Z
@@ -115,15 +101,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
-    excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
-    publishedDateTime: 2023-07-21T12:04:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-teams-uses-ai-to-apply-virtual-makeup-to-meeting-attendees"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
   - title: "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search"
     excerpt: "Microsoft has been busy updating its Semantic Kernel open source SDK for creating AI-infused applications, recently adding Java support and integration with Azure Cognitive Search."
     publishedDateTime: 2023-07-21T22:09:00Z
@@ -217,6 +194,20 @@ related:
       - url: "https://www.sharepointeurope.com/wp-content/uploads/2023/07/Inspire2023_Phase1_OpeGraph_Design-v-1200x630-1.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI lesson for Microsoft and Google: Spend money to make money"
+    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said"
+    publishedDateTime: 2023-07-25T23:59:00Z
+    webUrl: "https://kfgo.com/2023/07/25/ai-lesson-for-microsoft-and-google-spend-money-to-make-money/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-07/25/2023-07-25T235930Z_1_LYNXMPEJ6O11S_RTROPTP_3_TECH-AI-WHITE-HOUSE.JPG"
+        width: 800
+        height: 520
         isCached: true
   - title: "Microsoft foresees gradual AI adoption instead of rapid uptake"
     excerpt: "Thanks to an AI wave that helped Microsoft increase its customer numbers, the software giant expected its intelligent cloud service, especially Azure, to drive its growth."
@@ -389,6 +380,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "hyftECuGBvmLsiz89K0848BtkeKkrMOJQE08H+zmfBmc6nO7ZAGjv65nLHvHnbdUtqmH5PPaDG/S0cLyTvj6dTlFpHo/+Gw4U04751MUs10jIwOBq1vwqyQ7fVo4Pt8UZaSaMdF1JSX13lMD9OEndl2aEA+n3dvCbgi+1rokZ9jgJIEL/TD2/cPRUQX14I1sZEjDZccg3sNh+AqmHlcA4sFJXvdJvyj/4gWZf7vFRl1Fr05coZMh5jB6XXElpWKyjVsyuqfXLTuPLpEMC/cP+tGCtbsUeA8uGEMj1eB3UpcET5VhEi3UkIxHaccxOFGlfjjjlhW5yGdXpB46Cq1Z53V9zB5/aLtSyRaLW4kr6e8=;9178w9wSFABuOsQE3ZHT0Q=="
+secured: "lBzwdRG11uJN+umACLxrBRAZtmmg2f9uKdL/U8KBv+Bw8VaFhPzk2iVe8bfIOP1kiv6uyThg6is8mD53Y8Dd2VagIxA9ltwR331Qi5o2lXVGcz6dDZu6rIE7sk809C9ce5Nut87KwD0wFTnnoAqBA2Oc8vX74BKW9cHuA4xyKPd3FP3AiqrOrPFr652m0tRRpvczOM6ihJqiH7iVKgq9oAF/XSofr01ExUc2qw7yW9UhHe2RoophokQ64jrQAbLGlXAmZYnZjdSywgds9qz2P+kUzk7ok39Pm3DWAAoM/mMVsn1AwwXagq6j9WfFeEfsGSNwSta7mdnfox0ZrOYNddQ+HyO7rtFNAHU3cBBaBeNft136erX9FEowTk9IMGcb7AqQ76+hdyNRvZYQJAsMxi++PvbmO9/94n9ckpq3oSJwErwFjxCjDdxLJgkgltvwoYfh8FZ/7CTIoWlfPcc7TYVR9jP++GC+42unqD59u1b3aLDI6f3wFtFAVCt0nGvopClB6/wPQ5JA/tSRe/yJvw==;7Dvi091kJ/nWW624aNzA3Q=="
 ---
 

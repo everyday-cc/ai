@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft earnings top estimates, but stock falls as execs detail AI’s costs"
+    excerpt: "Microsoft topped profit and revenue expectations for its latest quarter, though shares were moving lower after the company discussed the year ahead."
+    publishedDateTime: 2023-07-25T23:37:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-top-estimates-but-stock-falls-as-investors-await-forecast-b17f205f"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 101
+    images:
+      - url: "https://images.mktw.net/im-709442/horizontal"
+        width: 1320
+        height: 742
+        isCached: true
   - title: "AI’s Grip on Tech Set for Test With Microsoft, Alphabet Earnings"
     excerpt: "Bets that artificial intelligence will revolutionize Corporate America and deliver riches to the biggest companies behind it will get a test Tuesday, as Microsoft Corp. and Alphabet Inc. report their first earnings since AI fever broke out."
     publishedDateTime: 2023-07-25T09:40:00Z
@@ -89,8 +105,8 @@ related:
         isCached: true
   - title: "Microsoft charges ahead with spending to serve AI demand"
     excerpt: "Microsoft on Tuesday laid out an aggressive spending plan to meet demand for its new artificial intelligence services after surpassing Wall Street estimates for fiscal fourth-quarter revenue and profit."
-    publishedDateTime: 2023-07-25T22:14:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-results/microsoft-charges-ahead-with-spending-to-serve-ai-demand-idUSKBN2Z51XD"
+    publishedDateTime: 2023-07-25T22:43:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2023-07-25/"
     type: article
     provider:
       name: Reuters
@@ -232,15 +248,6 @@ related:
       name: Money Morning
       domain: moneymorning.com
     quality: 36
-  - title: "Teladoc And Microsoft's Expanded Strategic Partnership Is A Powerful AI Combo"
-    excerpt: "Teladoc has experienced multiple news-based pops, with the latest instance resulting in a +10% jump in the stock as Teladoc announced an expanded AI partnership with Microsoft. While TDOC stock has given up most of these recent gains, the telehealth giant is gearing up for sales growth powered by AI technology."
-    publishedDateTime: 2023-07-21T11:54:00Z
-    webUrl: "https://seekingalpha.com/article/4618700-teladoc-and-microsofts-expanded-strategic-partnership-is-a-powerful-ai-combo"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 31
 
 secured: "LinojITihLSDiJSnkZ5G5TMo9x59rEVf9VPmDV8Z5dUVYkkQP3eWBCFUQPARB4kukmViUFqqKimXd7vW02qMGLGQ9nIk0mrspiLs4SxLsSS6qDZeMsB+WjLoq0InEYCZsvqa3QwWhjdH9bhvYlYc1VJzTWdQd/ryTXW92f05s8spAe5Kce1SgEd8vD7Eq4D2QwpVL+fmJ58fUfpxf0s7hQ9GDNHH1J4FQpRb0X31h5uYTNdZnsu8G3nmhlnNlsae/PlxYmx1dZoTNO0GYtrzJxgZhmRFIlkQRKOo59QE0UVWrnqXtfo2Ttmdi9SLkpIHokz+JXNgNIdJKlajF54e5IsLRHDexigBl0Mv43tW6eIDk2cRwwj4VvxHOeITSkDkJu80wCNKGG7xp6Qz0sHn8lI7N+LhCIHJALkY7criy4chyYbFM3Lt6fFjW1paDylPgb0l4olxM/k2reY5W6zkyJu1Od7ut5G1cYwtSdVkVmLed4yrQf1KUBrXIuxRAHCSpFoQeuDLzQee0XwBIc/ibg==;AI7CDf/Zn3v1Rlr4WrNn7Q=="
 ---

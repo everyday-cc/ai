@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 398,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -1228,10 +1228,10 @@
     {
       "path": "_news/2023-07-14-pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers.md",
       "title": "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers",
-      "excerpt": "NEW YORK, July 13, 2023 /PRNewswire/ -- Pinecone, the vector database company providing long-term memory for AI, today announced it will be available on Microsoft Azure. The announcement means ...",
+      "excerpt": "The announcement means Azure customers now use a vector database closer to their data and applications, and in turn provide fast, accurate, and secure Generative AI applications for their users.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/article_9b5ee173-2a46-578c-b447-995b49cabb4b.html",
-      "originalUrl": "https://www.news-journal.com/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/article_9b5ee173-2a46-578c-b447-995b49cabb4b.html",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20230713ln56945/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20230713ln56945/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1241,11 +1241,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T10:22:00-07:00",
+      "publishedDateTime": "2023-07-13T10:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

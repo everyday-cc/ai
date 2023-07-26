@@ -7,7 +7,7 @@ originalUrl: "https://www.financialexpress.com/industry/sme/msme-industrial-robo
 webUrl: "https://www.financialexpress.com/industry/sme/msme-industrial-robotics-company-ati-motors-raises-10-85-million-in-series-a-round-led-by-true-ventures/3182017/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
+    excerpt: "The investment, occurring alongside the companys product launch event, will further accelerate the development and deployment of Ati Motors robotics technology for automating work in industrial environments and warehouses."
+    publishedDateTime: 2023-07-22T05:06:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2532850-industrial-robotics-company-ati-motors-secures-us1085-million-in-series-a-funding-led-by-silicon-valleys-true-ventures?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 49
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_01_17_7363597.jpg?width=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
     excerpt: "Ati Motors, maker of autonomous industrial robots, today announced the close of its Series A funding round in the amount of US$10.85 million. The investment, occurring alongside the company's product launch event,"
     publishedDateTime: 2023-07-21T13:38:00Z

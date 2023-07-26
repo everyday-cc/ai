@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/unleashing-the-power-of-unstructured-data-the-rise-of-large-ai-models/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Tech Startup Is Powering 'the Core Infrastructure' of AI Models"
-    excerpt: "Pinecone -- which was recently valued at $750 million in a Series B funding round led by Andreessen Horowitz -- has created a vector database, something that grants AI models access to long-term memory. This database powers the \"core infrastructure\" for companies looking to build and scale AI models."
-    publishedDateTime: 2023-07-21T12:00:00Z
-    webUrl: "https://www.thestreet.com/technology/this-tech-startup-is-powering-part-of-the-core-of-ai-models"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
   - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
     excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
     publishedDateTime: 2023-07-24T15:23:00Z

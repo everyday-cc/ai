@@ -129,15 +129,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
-    excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
-    publishedDateTime: 2023-07-21T13:00:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23802274/artificial-intelligence-meta-google-openai-white-house-security-safety"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 43
   - title: "How is generative AI relevant to telecom operators?"
     excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
     publishedDateTime: 2023-07-24T14:42:00Z

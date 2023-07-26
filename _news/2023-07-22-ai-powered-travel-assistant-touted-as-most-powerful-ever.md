@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-t
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: fox6now
       domain: fox6now.com
     quality: 39
+  - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
+    excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
+    publishedDateTime: 2023-07-26T05:40:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854129.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/2161813/WPS_AI_Showcase.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "+ebuyWkvSfjjxja9SB8D+61am8FnbOfo9/Yb5M/xx/JAlcjEd4f9AIgR1uuAIRuiHz7zysGj9Qpp6uYq92L6o9dpYiEDpho8VRLiZhOgRdie9MXsaQrZIcbsNZqUh1I857M9Lcy0NTLp26qF9iROze2NL7Pug73+Z+si8C8MxTxwfov9vlYWArtmWASf7tCFbffmbLR7AyFPMsRzn7vg9Ru9aF7IGvz2Y1a0w6aZg8FBl78/+n8QmY6ymPt/u09avRpD3iQbO5nCd+xFh7/IhLVcYOl4Maa2fv7kTs7GnKfOv4/cbX/YBbqydQr0AQjcOKVrJRx50/XMCGC8aSsUt7/35g0nOuKXdCeoqqKXYbSzHpuX+dYrLo2FzZu24HLsFSC9uRxV+47z2GOAWiSH3KnN712bwcIOz8RtxafS+hM5relUXAF9fL4+5DbmHce9aIz40WTIImtNGOndsZUw5sGNVRPU4wB8z+8yGZJmSFp0ySKD4tpMPlYusn1axeqCwM2oyIUDNKJBYz0LYsIHkQ==;BDtNkI834CjpBB8r+EvUng=="
 ---

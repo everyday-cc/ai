@@ -48,6 +48,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "How The Self-Driving Car Dream Became An Absolute Nightmare"
+    excerpt: "The reason our self-driving utopia hasn’t arrived, it argues, is because it was never really supposed to. Instead, the promise of self-driving cars were just a lure to keep cities from building ..."
+    publishedDateTime: 2023-07-25T10:43:00Z
+    webUrl: "https://jalopnik.com/how-the-self-driving-car-dream-became-a-nightmare-1850641230"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bb9a938264e5320444c84db192c94a98.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Congress Wades Into Self-Driving Debate With New House Bills"
     excerpt: "Congress is wading into the debate over whether automakers should be allowed to more self-driving cars while manufacturers seek federal permission to expand testing of the technology."
     publishedDateTime: 2023-07-25T20:12:00Z

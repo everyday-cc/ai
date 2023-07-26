@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076684/the-download-wha
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076684/the-download-whats-next-for-the-moon-and-facial-recognitions-stalemate/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MIT Technology Review
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Download: digital dollars, and AI guidelines"
-    excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the digital dollar dead? In 2020, digital currencies were one of the hottest topics in town."
-    publishedDateTime: 2023-07-21T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/21/1076662/the-download-digital-dollars-and-ai-guidelines/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "The Download: AI transparency, and Twitter’s transformation"
     excerpt: "By allowing the wider AI community to download the model and tweak it, Meta could help to make it safer and more efficient. And crucially, it could demonstrate the benefits of transparency over secrecy when it comes to the inner workings of AI models—at a point when that could not be more timely, or more important. Read the full story."
     publishedDateTime: 2023-07-25T12:11:00Z

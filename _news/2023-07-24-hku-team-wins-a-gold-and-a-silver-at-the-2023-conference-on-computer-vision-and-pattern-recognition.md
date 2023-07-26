@@ -24,6 +24,22 @@ images:
     height: 467
     isCached: true
 
+related:
+  - title: "HKU team wins a gold and a silver at the 2023 Conference on Computer Vision and Pattern Recognition"
+    excerpt: "The AI algorithms for construction of 3D models of buildings, created by the research team led by Dr. Frank Xue at iLab of the Faculty of"
+    publishedDateTime: 2023-07-26T04:01:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/235891"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 25
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/db897644-a15c-42ce-ad84-4369b9ac29e2--r2ksm.jpg"
+        width: 400
+        height: 217
+        isCached: true
+
 secured: "EElzDBGr+oijxg0LhaUA0xU9XsVupAzhTnK26QHh8wXF4/phluChJZkmiQoOf2RxWRGpZwt1/N7AN6NS/UYLO3NPcBooO8d4taw9A6qyLfRYqzWOzmYQ+5Tk6xvNbec2oouvcEYXaBHvykq46fAbc44uKwda4h43OcGo9L5EZYPtqqHO/DJ9uFinZrwWGq0ILyik9NZV0inxYAartXWKKXK0rrU2y023jABEwhp55Bzujh4SOOgf5fv/v/BPwlegwoJPT0K0mxXMkECiDzgKx6UZ/dXAWuFjJ6nvr1yQVc6VkdgfxDalVRDCt6P9Ti/pz1VzMquYqj+gnjavwaaTEb9MCy5gxQm/jBFYEpT+d/f/IWv4ArrYRw6OtvVQM0fg+x6cSfoijq7OiZj5O1R/5ljKqXCFKAIHQU/ffy/rBxloudMKCa7VUPAGNaXv1qW3sO7wvqACNE5kjA6omviUPonV+8q7Ul5oAJTh82OGDBsgYOrv8DpcTWKxg7/x2yB0PGXtPCB28YmmJFy2K1gW9g==;T/ojX0AsJjKPcy5kw5wz1A=="
 ---
 

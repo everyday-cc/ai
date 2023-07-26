@@ -34,15 +34,6 @@ related:
         width: 880
         height: 632
         isCached: true
-  - title: "The Download: digital dollars, and AI guidelines"
-    excerpt: "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the digital dollar dead? In 2020, digital currencies were one of the hottest topics in town."
-    publishedDateTime: 2023-07-21T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/21/1076662/the-download-digital-dollars-and-ai-guidelines/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "dvepwQyysf/PAdTPZi3ZYaArZt7hcrXcjXoEpGOdW1AfYaGIuHLmciSyZkYyE8pm2t4H2qz30SyuCRHNflODbhV+0tsLAuq3Ikm6i9SUlSWLV1QO4mxF0r/qJXv+OY1HFXMeOFFVBzfimEeezwRllk2oRqbPdL+hVQzInoUiHBKW2iAMMrEndpCj49sRTb+P4JTbiGVbNcEZLnTCerjH28gGsIYVHON4l45Gxc7pn4Py2RK7KR3IyvI0AAMV7F9hJRc79kDI8IS/CvFF7BJETozzG/TCXjM/Gks98AOKtoY6j4w67D6nmCkV3nXBdLfn5FWxYbm/iCYJ2aOYBUv1RmUQQzuM8HmMxyuMWG1+YLfds9lDfrw7BIbTfba1FOqtkFruqkGyRayR5tSt74uPJ3pd5tzAoYuw9AI7pDcXPvBr9DkpxVM3zPWDLttPX82qsg0zFXO7vELNeBoIL+X8H0ykqCIcVpopmQcmM0ZWho0OTcLxBmlQCj6AnXttMqFn2ZoVh3mN2a1kDH5sOF5Faw==;hxh7BzQrthwrZutRR8HabQ=="
 ---
