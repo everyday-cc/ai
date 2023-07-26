@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 805
         isCached: true
-  - title: "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo"
-    excerpt: "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes."
-    publishedDateTime: 2023-07-21T17:10:00Z
-    webUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg"
-        width: 800
-        height: 574
-        isCached: true
   - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
     excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
     publishedDateTime: 2023-07-25T15:56:00Z

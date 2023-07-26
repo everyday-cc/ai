@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT Creator Sam Altman Says AI Will Take People’s Jobs"
+    excerpt: "In The Atlantic interview, Altman calls fake news on the idea experts are sharing that AI chatbots will be a sort of assistant to discerning professionals who choose to embrace AI and gain efficiencies on their co-workers who do not."
+    publishedDateTime: 2023-07-26T11:04:00Z
+    webUrl: "https://tech.co/news/chatgpt-will-take-jobs"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/07/26065813/robots-taking-jobs-1.jpg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "ChatGPT vs Bard: 10 questions, and a word of caution on how to regulate AI"
     excerpt: "The Indian Express posed 10 questions to Google’s Bard and its chief rival OpenAI’s ChatGPT ranging from difficult Maths problems to questions relating to politics and social cues."
     publishedDateTime: 2023-07-22T13:52:00Z

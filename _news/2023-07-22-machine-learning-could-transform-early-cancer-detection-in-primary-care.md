@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230721/Machine-learning-could-
 webUrl: "https://www.news-medical.net/news/20230721/Machine-learning-could-transform-early-cancer-detection-in-primary-care.aspx"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Harnessing machine learning for early cancer detection in primary care"
-    excerpt: "A new editorial paper was published in Oncoscience, titled \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
-    publishedDateTime: 2023-07-21T17:48:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "Can Machine Learning Revolutionize Early Cancer Detection in Primary Care?"
     excerpt: "Through the promise of machine learning, early cancer detection in primary care could undergo a revolutionary transformation, leading to the saving of lives."
     publishedDateTime: 2023-07-23T12:52:00Z

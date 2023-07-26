@@ -42,15 +42,36 @@ related:
         width: 1200
         height: 1500
         isCached: true
-  - title: "The new universe of Artificial Intelligence"
-    excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
-    publishedDateTime: 2023-07-25T18:16:00Z
-    webUrl: "https://www.gulftoday.ae/opinion/2023/07/25/the-new-universe-of-artificial-intelligence"
+  - title: "White House Cybersecurity Plan Misses the Boat on AI and IoT | Opinion"
+    excerpt: "The Biden administration's long-delayed National Cybersecurity Strategy Implementation Plan is here, and it's shockingly inadequate. Artificial intelligence (AI) doesn't appear once in the 57-page document."
+    publishedDateTime: 2023-07-26T11:29:00Z
+    webUrl: "https://www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333"
+    ampWebUrl: "https://www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/white-house-cybersecurity-plan-misses-boat-ai-iot-opinion-1815333?amp=1"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 19
+      name: Newsweek
+      domain: newsweek.com
+    quality: 87
+    images:
+      - url: "https://d.newsweek.com/en/full/2261920/president-joe-biden-speaks.jpg"
+        width: 2500
+        height: 1698
+        isCached: true
+  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
+    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
+    publishedDateTime: 2023-07-23T16:11:00Z
+    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 47
+    images:
+      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "mXLHnbM3jnorCznD6M4fknsd8q6OieDGU+Vsp1KGXyCoc1pSSOPWyuozHl+a0mb8Q56y2wCKZILaHvbyR8KeBnZofdj+5Tq0yTsCjVMAdxBEE0t/QYQ1QS3DGA8tS6eUT0tXvE6gzW69rXn4jv6VwoyuB0cvzM+kSiTU/LZ1mqcqLa5yDuraFLg5IF9vhwcKAHM1Ci9UMd8QxmqtbqxuNEmK+JbJ1NqVQQYYGgKrEgLMJXaitjb7LcEW19sRp9HEFEWJoIAz/dJO7RKc8q84fgXOaQOJ8/HHQtZP8k4y12pA+SNIypMW7zfUA95My8/tnacIe5W8151nf2h4K8qluUadPHc07OTFmJSumcNnYNRETZ9B2icQEja91cyvSofY3pPEs1JThg98o3E4AsoIWZoKskPImEYKUHMuW/ziffeCCHn6G4A/FNrHPUdUXhVFfRKyA+/tB6nfJcdwwUNwc/1p/vKrPvZOQygQ1EkDFaJwmYcO4QjW5XsXWe1HvzoTOjOhB3RGx6/JmwegKXAWAw==;ZGp9lJ+qtGphekWQtGxVJA=="
 ---

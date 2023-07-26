@@ -68,15 +68,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "Nvidia And AMD: AI Updates From Taiwan Semiconductor's Q2 Earnings"
-    excerpt: "Taiwan Semiconductor Manufacturing Company Limited's Q2 earnings affected both Nvidia Corporation and AMD. Read what's next for NVDA and AMD."
-    publishedDateTime: 2023-07-21T18:02:00Z
-    webUrl: "https://seekingalpha.com/article/4618825-nvidia-and-amd-ai-updates-from-taiwan-semiconductor-q2-earnings"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "kiD2bepc5gH0LU3v5/+oYxont3CRyCfIJ1S5DxnsieUUW7p+qUqzg3h1d6aWwD2TA5B4CBWRB3qJgmkQLT68E86TL3yl133gNOzDkaXXysWXmnvcP+HVOSR2MZtDAslHTMZgwm7G4efz6LNaVVuUB0G2WKFyFoB9AfUhqAS8fNwoWlt+9VuBemM+6r35jRwBM1lDqkqb7fXTOanrryNr1yRBbGGs5Wvlduw3LtKphMI1Bl8RuysCHMPSGworMWVrXC1Aqyb8lCMyWGFn2NzzdyWM0WrAeenYSEatjQb3BMMlOSovugEtawLqxBCsVhRw0cqlvLgh/nmGxcEmXeHCkQAk+ETRqHdo5zZ4WWTuYK4SGuAETrX9LdTSiwqxa/Ea5YPV/cQF+10ieZ0LMf+v5VQxJeV4uqulBUbnKTDM1ioeURtjZ1okstEQwGOvouFtjwZ2inPtFtkqQRki+kANVfo532XUgBUxZ/DCsFEVQryuH1UVZ/MbTHc7O0awuE9LMrgrHUc2sIjkMcA4TbAH+Q==;kN2rqn6DM/iE9M8HbwOPxg=="
 ---

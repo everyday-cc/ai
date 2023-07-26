@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "AI could revolutionize dentistry. Here's how."
-    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
-    publishedDateTime: 2023-07-21T18:36:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "g7eNzws1wU+VmebG2B72mbZsZW4UVK84aXqwYjI0XZNIfWgMvEEAifvCbmqeFctdYbkbKBsMEUl9OKRS3+hNvQBygyFsMY0GWqqpJAKHdydr+DsKraYoEvcFkVgXjGMKzE1BhJUWMZm8jyMiMUFNZ+hhrM5c2BX3cR3mJHyhf5qeUBILvR0IjZ8DZq7tSNiDu70UwlcXSDZblqjaIYhsakzFVsxQnsPN4GCEA9+VXEbcfCoFjvfyc8a28YxiojIl/4ZZsAAh4YKdRqyppgEbMMeDwwS79zf68QS5sRA34/LrvCaj2Qm5bqsDGdSAfTrdMh0Tks4MBPloGoin3tl2wmC0+CbgQCZ+QBleazGBXYE=;wqIc2R3Uu/dShFvAtITNEw=="
 ---

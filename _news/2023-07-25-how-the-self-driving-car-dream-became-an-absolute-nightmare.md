@@ -62,6 +62,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "$20m grant set up to develop AI in self-driving vehicles, materials research for military use"
+    excerpt: "Self-driving military vehicles and machinery can be dangerous if robot eyes fail to recognise objects clearly in bad weather – or worse, if the systems are hacked. Read more at straitstimes.com."
+    publishedDateTime: 2023-07-26T10:28:00Z
+    webUrl: "https://www.straitstimes.com/tech/20m-grant-set-up-to-develop-ai-in-self-driving-vehicles-materials-research-for-military-use"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 28
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/CKW2973.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "Congress Wades Into Self-Driving Debate With New House Bills"
     excerpt: "Congress is wading into the debate over whether automakers should be allowed to more self-driving cars while manufacturers seek federal permission to expand testing of the technology."
     publishedDateTime: 2023-07-25T20:12:00Z

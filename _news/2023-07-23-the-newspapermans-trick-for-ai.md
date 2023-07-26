@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anony
 webUrl: "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Expert Ratings for C3.ai"
-    excerpt: "Below is a summary of how these 11 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts are on the stock"
-    publishedDateTime: 2023-07-24T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1032469877"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "TRAI’s call for AI regulatory body is flawed"
     excerpt: "As AI is evolving, rather than have strict rules, a guardrails approach will encourage self-correction and foster improvement"
     publishedDateTime: 2023-07-25T15:34:00Z

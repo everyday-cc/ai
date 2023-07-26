@@ -38,15 +38,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "More or Less: Hollywood and AI. What IS Threads?"
-    excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
-    publishedDateTime: 2023-07-21T18:57:00Z
-    webUrl: "https://www.theinformation.com/articles/more-or-less-hollywood-and-ai-what-is-threads"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
 
 secured: "JilRECGoWmTDSBrgYmPqWLqCyUBNd8EtZDjR66MKpBLCcth7xrZX59KwTfbsDcgTX21I6PfpL9+4daeGHvyxoI6B94rzjxmwE7j7AOMyLLMnbf3arZFo21PS008AAf8GCqwI84d0x2BI/qHS5CJEfcaDZhiekhYNUcZBSgoPWBqSatXn1damSBr8BHGq2q+E8Emh7v91vQyuflXkoZ5NdDf1ASDSFwF1I1nvJ4kPx4udQN3yKNYRXlqebCLHfY5wSPJqKFliqigZHWO3Ez37iNQaCwp8j81aDj4XcOCqgiLSnygPzmCkcKzPjzj5S+ikac11iGR4+9yl84pbGQVK4SdI/W4d2rOeGz9iPHmAjKI=;+b2Pia1VvJl24yj5ZbJOmA=="
 ---

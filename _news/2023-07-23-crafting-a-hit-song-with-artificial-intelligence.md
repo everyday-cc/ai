@@ -7,7 +7,7 @@ originalUrl: "https://pctechmag.com/2023/07/crafting-a-hit-song-with-artificial-
 webUrl: "https://pctechmag.com/2023/07/crafting-a-hit-song-with-artificial-intelligence/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the Learning Curve: AI’s Struggle with Memory Retention"
-    excerpt: "As the boundaries of artificial intelligence (AI) continually expand, researchers grapple with one of the biggest challenges in the field: memory loss. Known as “catastrophic forgetting” in AI terms,"
-    publishedDateTime: 2023-07-25T13:19:00Z
-    webUrl: "https://www.unite.ai/navigating-the-learning-curve-ais-struggle-with-memory-retention/"
+  - title: "The Hidden Labor Pushing AI Along"
+    excerpt: "Search engines, ChatGPT, and other AI tools wouldn’t function without an army of contractors. Now, those workers say they’re underpaid and mistreated."
+    publishedDateTime: 2023-07-26T11:00:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/7QtnxADmRsWVwDdR4VGJdwzCL3U=/0x551:2160x1676/1200x625/media/img/mt/2023/07/ai_rater_f_3/original.jpg"
+        width: 1200
+        height: 625
+        isCached: true
+  - title: "The Dilemmas Of Using Artificial Intelligence To Raise The Dead"
+    excerpt: "An advertising campaign showing the late Elis Regina and her daughter Maria Rita playing a duet has sparked antagonistic reactions on social media.In the Volkswagen piece, the singer who died in the eighties was brought back to life using Artificial Intelligence (AI) ."
+    publishedDateTime: 2023-07-25T07:38:00Z
+    webUrl: "https://menafn.com/1106676044/The-Dilemmas-Of-Using-Artificial-Intelligence-To-Raise-The-Dead"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-07/25/CRN_659e8image_story.jpg"
+        width: 640
+        height: 395
+        isCached: true
+  - title: "Biden declares ‘I am the AI’ while pushing rules for artificial intelligence"
+    excerpt: "We must be clear eyed and vigilant about the threats emerging technologies can pose… to our democracy and our values,” Biden said."
+    publishedDateTime: 2023-07-21T20:57:00Z
+    webUrl: "https://nypost.com/2023/07/21/joe-biden-declares-i-am-the-ai-while-pushing-rules-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 29
+  - title: "Amazon launches program for startups using AI, climate computing"
+    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "wi1UDvlVmLPnPoqWrYKe7oJAdNyideyC0Fq1UOLAYFE7UefUGxCQEuLh8M0NlePoZhlAmJ4wbmEzBdsd/6vWxGV4at+2lneYrx3fCILkNGFqSzLuay0uT8IZDhCKVh84Gq37RcjZNLifSkF9e6ff3cZTmyPMTBGuG4iUqMTWGjj3EqohiBwyaYPMCwEitvrgWN8vYcCsNB7Vzcz5UxKaUsKzB8LeBsSSkpQylGicVqtPt3ZV38PwKx5LirSJIpKlmZP6mZdhiK3JceWmxyqznODKbrNxOvczle7Y3tEdoPiizY0/hboGQWScB3hdS9oywfzLKoDfqpTj3nP2/pUSWaaBLwWOTsOEIcAVeRnqxNzpoMiLnagUCc0S4EVBPCcMmF75x7Fx/T8fj9g54zc1VkSCvHm7ixpPvOqbGif3p4p6/2fO4I/ioXNO96M8ZyTjAOYbcqHFg9gXwgxilKdo38wGCPYa/qViOK1fKZFhhZIxBA7O/w2ZEwrRtk+6QJI8qyGyURCahH1yOqm6Uh1Y8g==;8gmnOemMljbyK3xHVcYwDA=="
 ---

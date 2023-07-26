@@ -25,36 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "An AI supercomputer whirs to life, powered by giant computer chips"
-    excerpt: "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month."
-    publishedDateTime: 2023-07-22T07:40:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/"
+  - title: "Missed Out on Nvidia's Surge? Buy This Cheap AI Stock Before It Doubles."
+    excerpt: "The chipmaker's price-to-sales ratio stands at a whopping 44, while its trailing earnings multiple is 237. Investors may not be comfortable buying Nvidia at such expensive multiples despite the terrific growth that the chipmaker is expected to deliver."
+    publishedDateTime: 2023-07-23T11:15:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/23/missed-out-on-nvidias-surge-buy-this-cheap-ai-stoc/"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 54
+      name: The Motley Fool
+      domain: fool.com
+    quality: 68
     images:
-      - url: "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg"
-        width: 1200
-        height: 630
+      - url: "https://g.foolcdn.com/editorial/images/740433/person-holding-a-smartphone-with-a-stock-chart-on-screen.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Competition For Nvidia? This Chipmaking Startup Introduced Game-Changing AI Supercomputer"
-    excerpt: "Startup chipmaker Cerebras Systems Inc. has built the first of nine artificial intelligence supercomputers, Condor Galaxy 1, with funding from Abu Dhabi, aiming to offer alternatives to systems using Nvidia Corp. NVDA +0.68% + Free Alerts technology, Bloomberg reports."
-    publishedDateTime: 2023-07-25T03:43:00Z
-    webUrl: "https://www.benzinga.com/news/23/07/33359165/competition-for-nvidia-this-chipmaking-startup-introduced-game-changing-ai-supercomputer"
-    ampWebUrl: "https://www.benzinga.com/amp/content/33359165"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33359165"
+  - title: "7 Chip Stocks to Sell Before Nvidia Crushes Them"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the AI boom, investors are searching for the next Nvidia (NASDAQ:NVDA)."
+    publishedDateTime: 2023-07-25T00:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-chip-stocks-to-sell-before-nvidia-crushes-them-1032471718"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Artificial_intelligence_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "nNerYAX1OpLQEcaHuBt3mwupDTJSwpPLiZ6AqeanKd7pZ7xogzp8pY91iYFKLxLHcbA6P0gOgZSNPILaoHPbbYUGHPN9QE9npv/HKa8p209GkoCjGLsxFOchPCm+ymqC1GMrEF+lr3VsMOxtzj0k/kDPJ79wfblBu5wqfplJ55zkE1KHyUDm06uywIcJxfng/umvYUyG56oQdGadtzPcVZByJkVylAQBxk+zrv0NKAOPDQJ+hC6dcSc8LuBq8vrv6HA2NiL0LHrRV7rqKZMmV4vMDbaC/TPuPb5L2aW6Uexz9iS1zKQwRgu8yqDCQFupoYC0ttSrpCdHX5XOSsRX8M9z2xhflatKJxZ63S3krdc=;z2SfZbuL52M2qVqSvbgKMw=="
 ---

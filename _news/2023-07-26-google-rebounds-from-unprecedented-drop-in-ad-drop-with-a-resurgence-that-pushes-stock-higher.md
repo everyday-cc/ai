@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google rebounds from unprecedented drop in ad drop with a resurgence that pushes stock higher"
-excerpt: "SAN FRANCISCO (AP) — Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence ... self-driving car pioneer Waymo and other far-flung ..."
-publishedDateTime: 2023-07-25T20:54:00Z
-originalUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-webUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence"
+publishedDateTime: 2023-07-25T20:55:00Z
+originalUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+webUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+ampWebUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+cdnAmpWebUrl: "https://www-valleycentral-com.cdn.ampproject.org/c/s/www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: abc27
-  domain: abc27.com
+  name: valleycentral
+  domain: valleycentral.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2023/07/64c03ff1214f40.89345764.jpeg?w=1280"
+  - url: "https://www.valleycentral.com/wp-content/uploads/sites/39/2023/07/64c0400a723896.40534924.jpeg?w=1280"
     width: 1280
     height: 853
     isCached: true
@@ -41,7 +41,23 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
+    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
+    publishedDateTime: 2023-07-25T21:46:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 31
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
-secured: "zreFSkpJWLIy6bayJ7mwbCmmelRYwAi4sigcH7Iqk0Nr/K0GzejAw/USTBDGJWQNfvgpH5Sm457KIpHnNO1+g3RTygtr2SahOYNIHG8nBygfFpeydJEVZvmS0XLmhXBwvjz7QZQsytlMaWEXXVxOevjh0cFgMmCbvjXAKa0LzJduCasLKErCgFHcjpOgt51fFzRIETUT5Y/WRQnU5E9X3TzAoEttzbdpjqYamR93Hzvw66/RMUus6nxtJ411BgoUJiuFp5oqp0CGY5wE2+PxLga6bdUFm5mPJWHyvyLeKv697+BlJXMZ66P1oGjU/TMpnT173Lqv/i3bdYtgHDi86aYAsqTBi2Q7GE34tRjHt7Y=;pNkMf+0VlmOjMdEv0QUphg=="
+secured: "O8Ev87kWtyhV8g2xzJGF0rJHfL2bdeJfAWfiknWiIEE5OPA9kLwvRkh3ahp6+/37u8neS+YviRxGij/mpScrA4FWvyd0YN5OU08pmrkSs3kOZKIfThx9VKLy/MbkIOtl4BUC46N8aElfYv6gA+dM83hAjCEng2oEM2GisW3/93Yi6nOIBj3eZewhmc8IwzxpvbMv7sJEJNSkb6Rcga69qUKlvK5rKpSNiZ6m5FwVXztlIhOkhdl2oNPQGj3tA4kKIrgccD+rhrjYiTG6Xj54PmBAaae6zMDl4d2Xm5VT6f2vPsN4f3dPDLPs9dBYdchSSuzVp7dLBN5K/R5wWwdo4Q1aMGBo3/2Dhi1DmffqkYk=;NAJSPdjrTAvJPXPFsXX3/g=="
 ---
 

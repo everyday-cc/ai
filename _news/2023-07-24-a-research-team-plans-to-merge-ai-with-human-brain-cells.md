@@ -53,17 +53,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Scientists fuse brain cells with computer chips to create cyborg AI, in government-funded research at Monash University."
-    excerpt: "The federal government is paying scientists to fuse brain cells with computer chips to create “cyborg’’ technology with potential military or spy uses, despite top scientists demanding controls over artificial intelligence (AI)."
-    publishedDateTime: 2023-07-21T17:58:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/scientists-fuse-brain-cells-with-computer-chips-to-create-cyborg-ai-in-governmentfunded-research-at-monash-university/news-story/5200d23a753614b066e2d36eeaf44340"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/scientists-fuse-brain-cells-with-computer-chips-to-create-cyborg-ai-in-governmentfunded-research-at-monash-university/news-story/5200d23a753614b066e2d36eeaf44340?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/scientists-fuse-brain-cells-with-computer-chips-to-create-cyborg-ai-in-governmentfunded-research-at-monash-university/news-story/5200d23a753614b066e2d36eeaf44340?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 29
   - title: "Scientists Working on Merging AI With Human Brain Cells"
     excerpt: "Researchers just got a $600,000 grant from the Australian government to study ways of merging human brain cells with artificial intelligence."
     publishedDateTime: 2023-07-23T12:32:00Z

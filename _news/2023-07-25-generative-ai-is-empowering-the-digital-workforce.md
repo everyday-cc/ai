@@ -26,51 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Is Changing The World And Your Business"
-    excerpt: "Regardless of the industry, whether your company is based around services, manufacturing, consumer or business-to-business, AI will play a role in company operations."
-    publishedDateTime: 2023-07-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
+  - title: "The Generative AI Battle Has a Fundamental Flaw"
+    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
+    publishedDateTime: 2023-07-25T11:08:00Z
+    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
+    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
+  - title: "Amazon Web Services Wants to Teach You How to Use Generative AI"
+    excerpt: "Amazon Web Services announced Wednesday that it will offer seven new courses designed to help people understand and use Amazon's generative AI services. Amazon will offer most of the initial courses for free, and the courses are intended for developers, business executives and anyone else interested in using AI."
+    publishedDateTime: 2023-07-26T10:00:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/amazon-web-services-wants-to-teach-you-how-to-use-generative-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://www.cnet.com/a/img/resize/36449787408eca6def5fad92320c9539c424c499/hub/2023/07/24/a5c60322-4233-4433-9bab-b807fd08e9d6/gettyimages-1252637842.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
+    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
+    publishedDateTime: 2023-07-24T05:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 79
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64ba8e17f5fa3c5cc0d98952/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI and machine learning are revolutionising business intelligence"
-    excerpt: "Every day, advances are being made in both business intelligence (BI) and artificial intelligence (AI), enabling businesses to use machine learning algorithms to identify novel data patterns and quickly choose how to present them in real time."
-    publishedDateTime: 2023-07-22T04:00:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T165236.463.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Understanding the Chip Business and Solar Inverters"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-07-25T15:36:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/25/understanding-the-chip-business-and-solar-inverter/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740838/mfm_20230720.jpg"
-        width: 1920
-        height: 1080
+        height: 685
         isCached: true
   - title: "How to navigate your engineering team through the generative AI hype"
     excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
@@ -86,37 +86,72 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI Is Changing The Face Of Careers As We Know It"
-    excerpt: "Look into roles that are more strategic in nature. Join teams or organizations that are looking to give humans ways to combat the bot."
-    publishedDateTime: 2023-07-24T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/07/24/how-ai-is-changing-the-face-of-careers-as-we-know-it/"
+  - title: "What generative AI really means for the economy, jobs and education"
+    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
+    publishedDateTime: 2023-07-25T15:30:00Z
+    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How AI Is Revolutionizing The Role Of The Business Analyst"
-    excerpt: "Cyborgs aside, we're in such an innovation moment for business analysts. Here are three ways AI is resulting in a profound shift in the role of analysts and what this means for businesses that want to do more with AI."
-    publishedDateTime: 2023-07-24T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/how-ai-is-revolutionizing-the-role-of-the-business-analyst/"
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
+    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
+    publishedDateTime: 2023-07-25T16:09:00Z
+    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
+    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "How to Put AI to Work for Your Small Business"
-    excerpt: "“You still have to know what you want it to do.” For AI-powered chatbots, she stresses the importance of learning prompts that are specific to your industry. If you’re not sure where to start, try searching online for prompt guides, suggests Joe ..."
-    publishedDateTime: 2023-07-24T21:07:00Z
-    webUrl: "https://www.nerdwallet.com/article/small-business/ai-for-small-business"
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Wayfair takes the generative AI route to interior decoration"
+    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
+    publishedDateTime: 2023-07-26T02:31:00Z
+    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
     type: article
     provider:
-      name: NerdWallet
-      domain: nerdwallet.com
+      name: Android Police
+      domain: androidpolice.com
     quality: 37
     images:
-      - url: "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/07/GettyImages-1138451175-1440x864.jpg"
-        width: 1440
-        height: 864
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
+    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
+    publishedDateTime: 2023-07-24T19:38:00Z
+    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 35
+  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
+    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
+    publishedDateTime: 2023-07-24T15:58:00Z
+    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 29
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
+        width: 942
+        height: 600
         isCached: true
 
 secured: "QcRnjMz4QqBXCAh+J0XkniGAq0pHl5cx+gSsBX/6MZNCy9gDkyktvIk3rXddsGUEpjiIoqG/ak6/vZxnq/CKUCmtS6k5ZJH93PSFFs3RkTRjN7YwdNk4PJCOGgP1+oajNGD63qjvJE749FeJVc6WMSfhmWc4mmeusnfQhUXvPkzZ5kaaL6/zONq5k0Ze0FIXCw/XAbCWKfYwreBTh2QX9LPjGRXIdqgsnYtPMtZ7IwQBExhuvTfpB8ttLXDjwITIcCj1Nlz2JdbFNyGUfKj9QXSyGJm961iitBUtz+wNF4Im4QZjFRJlfo0E0ImOSpC/YMz47MsKSgxnTbzqbb0h/4Jy2+tO6OymLMvTgS+a/xbP7//qT0GsGYXU6z3kDGsDfAmd/nPW3wh4RtG/Zqm3wPNGQ7k+ossYiNkumDon/1ukUX/ifaHqepCHyJ6HjmgXMIYge6BE07h38ltETEF5ocWqrnXBYK/WgIahj8SU8KT+JUBnyF5xfrs3wAFL9TNljov9kPI+8AQ0t/pHGp3tVw==;BuKxeEiNAAdluP3v3FBdag=="

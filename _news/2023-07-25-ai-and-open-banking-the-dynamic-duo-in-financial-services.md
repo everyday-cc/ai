@@ -41,6 +41,22 @@ related:
         width: 1100
         height: 1540
         isCached: true
+  - title: "How AI is revolutionising banking services in rural areas"
+    excerpt: "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across"
+    publishedDateTime: 2023-07-26T11:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Spotify CEO teases potential upcoming AI-powered capabilities surrounding personalization and ads"
     excerpt: "Spotify CEO Daniel Ek teased a few ways the streaming service could introduce additional AI-powered functionality."
     publishedDateTime: 2023-07-25T20:16:00Z

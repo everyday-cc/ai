@@ -92,15 +92,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The biggest AI release since ChatGPT"
-    excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
-    publishedDateTime: 2023-07-21T18:11:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23803234/the-biggest-ai-release-since-chatgpt"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
   - title: "The Future of AI and ChatGPT: A Glimpse into 2023 and Beyond"
     excerpt: "As we progress into 2023, the world of artificial intelligence (AI) is poised for remarkable advancements, and ChatGPT, OpenAI’s text-generating AI chatbot, is at the forefront of these developments."
     publishedDateTime: 2023-07-24T15:29:00Z

@@ -25,179 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
-    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
-    publishedDateTime: 2023-07-26T04:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
+  - title: "Moral considerations in AI marketing: Building trust in tech industry"
+    excerpt: "Deepfakes – Generative AI, including machine learning techniques like deepfakes, has the capability to produce synthetic media like images, videos, and audio. This AI-generated content can often be indistinguishable from real media, giving rise to significant ethical concerns and implications."
+    publishedDateTime: 2023-07-23T08:28:00Z
+    webUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/"
+    ampWebUrl: "https://www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/brandwagon-moral-considerations-in-ai-marketing-building-trust-in-tech-industry-3183148/lite/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
-        width: 1260
-        height: 628
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-23T104311.624.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Generative AI Battle Has a Fundamental Flaw"
-    excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
-    publishedDateTime: 2023-07-25T11:08:00Z
-    webUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/"
-    ampWebUrl: "https://www.wired.com/story/artificial-intelligence-copyright-law/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-copyright-law/amp"
+  - title: "Generative AI is coming for the visual effects industry: What the technology means for the future of animation"
+    excerpt: "While AI isn't quite ready for prime time, the technology has the potential to make Hollywood VFX artists more creative. It could also come for jobs."
+    publishedDateTime: 2023-07-24T09:30:00Z
+    webUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7"
+    ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/64bf0d2ac859c4a1cdecc4c5/master/pass/Generative-AI-Battle-Flaw-Copyright-Culture-1176669763.jpg"
-        width: 2400
-        height: 1800
-        isCached: true
-  - title: "Making Anime Characters With Generative AI"
-    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
-    publishedDateTime: 2023-07-25T02:22:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden thanks AI companies for commitment to 'responsible innovation'"
-    excerpt: "President Biden held a White House event with seven of the leading artificial intelligence companies and thanked them for joining a voluntary commitment for \"responsible innovation\" and to manage possible future risks of the technology."
-    publishedDateTime: 2023-07-21T17:37:00Z
-    webUrl: "https://www.msnbc.com/msnbc/watch/biden-thanks-ai-companies-for-joining-commitment-on-managing-future-risks-189007429566"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo189007429566"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo189007429566"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 57
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689961006730_n_msnbc_brk_biden_ai_commitment_230721_1920x1080-4tgbqu.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
-    excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"
-    publishedDateTime: 2023-07-24T10:30:00Z
-    webUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us"
-    ampWebUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2017-03/White-House.jpg"
-        width: 1207
-        height: 610
-        isCached: true
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
-    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
-    publishedDateTime: 2023-07-25T16:09:00Z
-    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 53
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
-    excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
-    publishedDateTime: 2023-07-25T09:22:00Z
-    webUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry"
-    ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
-    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
-    publishedDateTime: 2023-07-23T16:11:00Z
-    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
-    publishedDateTime: 2023-07-24T08:28:00Z
-    webUrl: "https://woub.org/2023/07/22/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai/"
-    type: article
-    provider:
-      name: WOUB
-      domain: woub.org
-    quality: 36
-    images:
-      - url: "https://woub.org/wp-content/uploads/2023/07/gettyimages-1258873333_custom-6e8cb3e6184fafdf6d9aa9ae11ebd8425a23cb04-scaled-e1690052565770.jpg"
+      - url: "https://i.insider.com/64b1b588f9a2590019476c1f?width=1200&format=jpeg"
         width: 1200
-        height: 564
-        isCached: true
-  - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
-    excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
-    publishedDateTime: 2023-07-24T15:58:00Z
-    webUrl: "https://www.unite.ai/how-to-leverage-generative-ai-to-develop-global-agile-effective-go-to-market-strategies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 29
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/generativeAI-942x600.png"
-        width: 942
         height: 600
         isCached: true
-  - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
-    excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
-    publishedDateTime: 2023-07-25T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/25/9853521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "U9B64AUDURKjR5kvAUEfApZrShTX3M+ku13a+2siZRvZSEn5JFcSvsIiRaPEnkcUy1uxePh7ZcWeJnLsi9s02+pctPH7jRuzjmHvxD1mLlkJIf12QjVrnWlDRykZaMK5Q8L/vqsfmT8IufG/ACAtgUzGdkPy5iWuAgKFveoUAZFGYYxiRThMaVJlyFAICsh+HKW6pAn4yFPc9U67rbK2LHyQOXb4n7TzXOccsdDvgwUlDjgAsh6RgyS+2fvijijWw/WXEaP3X35cEIayJtkBm42xk6f07BkiXqSFS43ouNuCPTDz2AIBKij/KXbrHfl6cyv9DbS1aWwjOb3NO21c8ZCLnfkrVQKCAKqsvORYiao=;klL5Yhy2uZN+fcyxPu0Frw=="
 ---

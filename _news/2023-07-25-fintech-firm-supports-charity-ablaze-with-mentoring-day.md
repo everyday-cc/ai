@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "TechCrunch+ Roundup: Generative AI marketing, European edtech report, falling fintech valuations"
-    excerpt: "Generative AI tools speed up this work dramatically ... There’s a lot of performative behavior in startup land, such as foosball tables in reception areas and kitchens with kombucha taps. Should we add fundraising to that list? Rebecca Szkutak covered ..."
-    publishedDateTime: 2023-07-21T17:37:00Z
-    webUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/"
-    ampWebUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
+  - title: "Generative AI: A Big Bang Moment For FinTech"
+    excerpt: "FinTechs should know to approach generative AI with the right priorities and modern tech infrastructure in place."
+    publishedDateTime: 2023-07-26T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1267023368.jpg?resize=1200,800"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c004db540f53f5ded8f5fe/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 800
+        height: 779
         isCached: true
   - title: "Lessons From The History Of FinTech"
     excerpt: "You could argue that the journey of the fintech industry first started in the 19th century when Western Union launched the Electronic Transfer Fund (ETF) system. However, it was the 2008 financial crisis that accelerated the movement, and a wave of new banking regulation paved the way for innovative solutions to enter the industry."
@@ -56,6 +56,36 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64ba8bb0817e55774abd357d/0x0.jpg?format=jpg&crop=2011,1132,x0,y208,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Italy’s largest investment bank pledges to back UK fintech startups"
+    excerpt: "London-based startup accelerator Founders Factory has gained a new partner in the form of Mediobanca. The Milan-based investment bank is looking to increase its presence in the UK, and has pledged €12mn to the joint venture."
+    publishedDateTime: 2023-07-24T10:53:00Z
+    webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FLondonfintech-e1690195741719.jpg&signature=ab996187a9f4eac7a6b859adaaf82c43"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "4 insights to kick-start your day, featuring Twitter’s fintech makeover"
+    excerpt: "Twitter’s fintech pivot; Coffee Day insolvency; Byju’s loan deal; and tech co’s on AI laws. Bye-bye, blue birdie! This just happened. Twitter changes its logo to X. Hidden in plain sight. The new logo is a throwback to one of the early ventures that Elon Musk first made a name with — X."
+    publishedDateTime: 2023-07-25T00:53:00Z
+    webUrl: "https://economictimes.indiatimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/primearticleshow/102092222.cms"
+    ampWebUrl: "https://m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+        width: 710
+        height: 408
         isCached: true
   - title: "Financial technology, or fintech, is changing our finances"
     excerpt: "In today's fast-paced digital age, financial technology, or fintech, is revolutionizing the way Canadians manage their finances and plan for retirement."
@@ -99,6 +129,20 @@ related:
         width: 700
         height: 437
         isCached: true
+  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
+    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
+    publishedDateTime: 2023-07-23T06:58:00Z
+    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 32
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
+        width: 1280
+        height: 661
+        isCached: true
   - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
     excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"
     publishedDateTime: 2023-07-23T17:21:00Z
@@ -112,6 +156,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?137769"
         width: 333
         height: 250
+        isCached: true
+  - title: "Founders Factory partners with Mediobanca to boost fintech investment"
+    excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."
+    publishedDateTime: 2023-07-24T08:30:00Z
+    webUrl: "https://www.altfi.com/article/founders-factory-partners-with-mediobanca-to-boost-fintech-investment"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/25gBva9WMYHsQ9IQAmyJXa/e7fe46a165ce36af245a541cde71fff8/Founders_Factory.png"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Roundtable Held On Advancing FinTech"
     excerpt: "The Bermuda Government’s Economic Development Department [EDD] led a roundtable discussion on June 27th that brought together industry stakeholders and DABA-licensed companies. A spokesperson said, “This strategic dialogue marks a critical step in the ongoing evolution of Bermuda’s FinTech ecosystem,"
@@ -127,15 +185,20 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Announcing the second group of judges for Startup Battlefield at TechCrunch Disrupt 2023"
-    excerpt: "Additionally, he contributes to GC’s expanding AI efforts. Bhargava’s four core areas of interest include security and data infrastructure; startup tooling platforms that make building software — especially financial services — companies easier ..."
-    publishedDateTime: 2023-07-24T13:01:00Z
-    webUrl: "https://techcrunch.com/2023/07/24/announcing-the-second-group-of-judges-for-startup-battlefield-at-techcrunch-disrupt-2023/"
+  - title: "Lytus Technologies enters Indian FinTech space with a new payment gateway"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-07-26T04:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/lytus-technologies-enters-indian-fintech-space-with-a-new-payment-gateway/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: IBS
+      domain: ibsintelligence.com
     quality: 23
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/05/MicrosoftTeams-image-187.png"
+        width: 600
+        height: 500
+        isCached: true
   - title: "Analyzing The Impact Of Fintech On Global Banking"
     excerpt: "Artificial Intelligence (AI) and Machine Learning (ML) Fintech has leveraged AI and ML to create intelligent systems that optimize various banking processes. AI-driven chatbots and virtual assistants have enhanced customer support services, responding ..."
     publishedDateTime: 2023-07-22T18:46:00Z
@@ -154,6 +217,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 13
+  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
+    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
+    publishedDateTime: 2023-07-24T12:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Tn8JsGEveyL9sN6/yHrgDt08mvOdMdaWxIvgvmDU6QIamyOoA8Eqgk2rNez2jhX5MWk7rbt5FQ38UlRTEEHfjTy4YFWQUixbPHMbhZLBOkQg+Tk+sES73VFua6XKk2yVubyTVYGdFGIAZfSgSiL2Z9Pbu6Q8W9FZs+4cq/dBP6racp7noc/98oDznc6jZ7Chu1oqbPotIknyk0IhzQb4zxdmoz5lxu2rePBpN6e3swE1wO6khEkpUfu9bxj4DfogwRpREff04hENfy1pVvppLWKd3kTVQ7oF72RfFejnCa4fn0PEJ22bWKA8wciP+ZiYl8P/BwUXnq449+blEaszaODm1KnmRv/otqc2/AiIsRY=;pvlj7bE6Njnwv8vWxm+PsA=="
 ---

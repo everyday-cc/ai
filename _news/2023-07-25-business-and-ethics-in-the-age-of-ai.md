@@ -63,6 +63,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Why You Should Create a Plan to Implement Artificial Intelligence Now"
+    excerpt: "Questions to get you started on upskilling and strategic planning that can keep your business ahead of the AI curve."
+    publishedDateTime: 2023-07-26T10:06:00Z
+    webUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "hw6dbODQxZ05MB+X30e/4nIJQRgfVyZkbDRWJtqGW9o7V7rQJuRtbX6julux7cmoIZuvdNI1t0Wc8KVTATenwzVTHi0lrDsN5WSQ8J1tAdvjOO48dZLgzC2hXbJtrC77zWBhljyz0ElLLbmJioZMgZtpa4IsIIyzlesKBEeHzppmDwjScd0/YEcWtMok09BxoOVqOE+mgjHSsLl263vSDX87ysA/3jSku1j/QDbMgrR2hHXZ51nVE7+ACQFRJnSysrkoYKJ+L5eZsDHcTksuvDvDLx2YU83A9cABfg4XNsiBob7f1MVmxteU4r61MpEJLgqATJNiOZGkyL1hHJ2EK9blG4L6jAB/peob6/BjYvL0YfEsUDgFOdU9p6kilCuLKsOrYoYYoDYnaBtBHb6t9LdkaIhH1h5Z7ZCnQLswomH8QQoxMiHewLLQwq4umNIcqQ/rLLmKIBNRErmovzUjvp/FLPsBctBATfTQN8DgGcN1Xnsq7lC83A5wtSZxpg0u2S0qgSm6vsDTKNUJaOL7bw==;DmlUtihkneK88O33mIeApA=="
 ---

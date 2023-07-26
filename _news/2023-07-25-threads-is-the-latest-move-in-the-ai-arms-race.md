@@ -23,29 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "Failing to embrace AI is the real 'threat' to the US in the global AI race: Investor"
-    excerpt: "Founder & CEO of RSE Ventures explains why he thinks \"fearmongering\" and a failure to \"create a culture of innovation\" are costing the U.S. in the AI race."
-    publishedDateTime: 2023-07-24T01:48:00Z
-    webUrl: "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html"
+  - title: "Meta’s Open Source Llama Upsets the AI Horse Race"
+    excerpt: "Meta is giving its answer to OpenAI’s GPT-4 away for free. The move could intensify the generative AI boom by making it easier for entrepreneurs to build powerful new AI systems."
+    publishedDateTime: 2023-07-26T11:00:00Z
+    webUrl: "https://www.wired.com/story/metas-open-source-llama-upsets-the-ai-horse-race/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 60
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107275256-16901668911690166889-30442148960-1080pnbcnews.jpg?v=1690170537&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://media.wired.com/photos/64befd4420abe9537824f941/191:100/w_1280,c_limit/072423-business-meta-llama-2.png"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "The AI Arms Race: Uncovering the Future of Web 3.0"
-    excerpt: "He emphasized the need to learn from past mistakes, like how Web 2.0 propagated vanity through likes and shares, suggesting that society has evolved beyond superficial engagements. He stated, \"Working in our job is to basically figure out what benefit it can do and what those scenarios that actually benefit"
-    publishedDateTime: 2023-07-24T20:42:00Z
-    webUrl: "https://www.thestreet.com/cryptocurrency/the-ai-arms-race-uncovering-the-future-of-web-3-0"
+  - title: "Meta opens AI model to commercial use, throwing nascent market into flux"
+    excerpt: "Meta (META.O) is releasing a commercial version of its open-source artificial intelligence model Llama, the company said on Tuesday, giving start-ups and other businesses a powerful free-of-charge alternative to pricey proprietary models sold by OpenAI and Google."
+    publishedDateTime: 2023-07-23T05:31:00Z
+    webUrl: "https://cyprus-mail.com/2023/07/23/meta-opens-ai-model-to-commercial-use-throwing-nascent-market-into-flux/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 19
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 40
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2023/07/meta-1.jpg"
+        width: 1275
+        height: 889
+        isCached: true
 
 secured: "CTenDMve80FMPEF/Yw4gAG8kfD1p3xStD0zHJMNgjV2CLTmMgRBv9BTTCdOAE355VEH/Cl9Q5Vz6kTnaAKXPJx6kZSN++BeJNisemDjbeOJa5hVIjj05a7n2oJ8BNNKL0ts+iqqra2t6my4QRpqVtqUWoSImP8RIeS+CFU4s5esIACAA2wgIepuqkdEI6aBp/ho00VSnHsQTERkU9gG96UbdoCN+l/Cl9LeqpQVrir3AIbJtZhTZKqxRSyi5jXfgt+/bJ+4dBv08+bN7e5g56zQ4ZNzVZxD1mKI8AaXsHzwB1V4ICPg6wbuwOmujh+HRK77mfC4ztUi8+WfXqw4QX/lIknxWeRseVKYMBYS7yXLAtlccB2pjvPgk79JiEbZcgu3Os1U0rHLpmqpCBhmFi308Eoqy7mSacw+pUp0OThBS/L+3402xEvzil9riMy6kQT21lCGAuY1q/CYlQPCA7mVOtOdKXGUGbl3GyprJEkgnWgRL5Uyc3Ar4vMSMkOCVkWHfEGAMZ73yVeGz1N2e2A==;DR/Hg7BhQYl3mA7RsB6nrA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/alibabas-cloud-unit-brings-meta
 webUrl: "https://www.reuters.com/technology/alibabas-cloud-unit-brings-metas-ai-model-llama-its-clients-2023-07-26/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/image-665.png?utm_source=markets.businessinsider.com&utm_medium=referral"
         width: 786
         height: 443
+        isCached: true
+  - title: "Alibaba's cloud unit clients to get access to Meta's AI model Llama - report"
+    excerpt: "Alibaba (BABA) cloud unit said it has become the first Chinese enterprise to support Meta's (META) open source AI model Llama 2. Read more here"
+    publishedDateTime: 2023-07-26T09:38:00Z
+    webUrl: "https://seekingalpha.com/news/3991007-alibabas-cloud-unit-clients-to-get-access-to-metas-ai-model-llama"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 36
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368767105/image_1368767105.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "CtNbzlbOqce+fCwNPjjyo0uIo1FTO7SK0p9SP2YrngKEb8eml4G3HpF1/wVXA8GCKGAGWZDZCTd++IcF9Txx+7QBwpnJqu58Sca4gHGJ+JaJUrwAhT8bg5i3f5+9h44lnr1BSvgshlt97fofomZ1EbhcF5GmUEHHb6C3AOo4YgIlsVM3V6KEfHKCbuNp7BKZL8XCjbCjE7dpv8Avgy4Yi5b/2kkdX4x0dNcLLwSnDDuhMuMj9PfV4OivJfpaPOgeGmGuMaOes3RbEEOOUimjEmn8G9YnD8OEVMKFORme3FjKF4JGExDPaE0QQnM6cdfOgHKtIumPL6Xw7IMcjgfJ7iPhPH6VTaQloMmNeTKiKU4=;9VRqR8S0ZoGlTCPOvhur2Q=="

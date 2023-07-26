@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 881
         isCached: true
-  - title: "Google, Meta, Microsoft, OpenAI and more agree to voluntary AI safeguards"
-    excerpt: "Several AI companies, from Google to OpenAI to Microsoft, have worked with the White House on a set of voluntary AI safeguards."
-    publishedDateTime: 2023-07-21T17:27:00Z
-    webUrl: "https://www.pcworld.com/article/2004396/ai-titans-agree-on-safeguards-to-show-that-ai-is-safe.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 85
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/07/government-AI.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 762
-        isCached: true
-  - title: "Keep on Buying Microsoft Stock, the ‘AI All-Star,’ Says Analyst"
-    excerpt: "Next week, several of Wall Street’s heavyweights will step up to the earnings plate, amongst them Microsoft (NASDAQ:MSFT). The tech giant"
-    publishedDateTime: 2023-07-21T19:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/keep-on-buying-microsoft-stock-the-ai-all-star-says-analyst-1032466849"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/07/image-553-1024x517.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 517
-        isCached: true
   - title: "All eyes on AI as Microsoft prepares for pivotal earnings report"
     excerpt: "Investors will be looking for early signs of traction from Microsoft’s artificial intelligence investments Tuesday afternoon when the company reports results for its fiscal fourth quarter. They’ll likely need"
     publishedDateTime: 2023-07-24T17:28:00Z
@@ -233,15 +205,20 @@ related:
         width: 1280
         height: 865
         isCached: true
-  - title: "Why the AI Boom Is Good for Microsoft, Risky for Chip and Server Makers"
-    excerpt: "A CIO survey reveals that companies are prioritizing AI applications in their spending plans. That also helps explain why Taiwan Semi noted a softening in demand for chips in its earnings report."
-    publishedDateTime: 2023-07-21T18:07:00Z
-    webUrl: "https://www.barrons.com/articles/ai-boom-microsoft-tech-hardware-tsmc-61039904"
+  - title: "Google, OpenAI, Microsoft form ‘Frontier Model Forum’ to regulate AI development"
+    excerpt: "The Forum outlined its initial set of goals that it intends to accomplish which includes advancing research on AI safety and identifying best practices for development and deployment of frontier models,"
+    publishedDateTime: 2023-07-26T11:36:00Z
+    webUrl: "https://cointelegraph.com/news/google-openai-microsoft-form-frontier-model-forum-to-regulate-ai-development"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 51
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 49
+    images:
+      - url: "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMzczOGE2YTUtYWE4OC00OGNhLThkOGUtMzNhM2UyZjA4MjZjLmpwZw==.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Microsoft Ramps Up Spending to Meet AI Demand as Quarterly Revenue Rises to $56.2 Billion"
     excerpt: "Microsoft has started integrating AI functionality across its products such as Azure, Microsoft 365, GitHub and several developer tools."
     publishedDateTime: 2023-07-26T05:16:00Z
@@ -255,6 +232,22 @@ related:
       - url: "https://i.gadgets360cdn.com/large/microsoft_hq_image_reuters_1655369562165.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft cloud revenue growth slows as Google Cloud turns in another profitable quarter, but both look to AI to have positive impact"
+    excerpt: "A tale of two cloud platforms. Google Cloud sales continued to soar in its Q2, up 28% year-on-year to more than $8 billion. But over at Microsoft, Q4 Azure revenue growth slipped to 27% from 31% in the preceding quarter with a continued slowdown forecast."
+    publishedDateTime: 2023-07-26T10:08:00Z
+    webUrl: "https://diginomica.com/microsoft-cloud-revenue-growth-slows-google-cloud-turns-another-profitable-quarter-both-look-ai"
+    ampWebUrl: "https://diginomica.com/microsoft-cloud-revenue-growth-slows-google-cloud-turns-another-profitable-quarter-both-look-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoft-cloud-revenue-growth-slows-google-cloud-turns-another-profitable-quarter-both-look-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 43
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-07/Screenshot%202023-07-26%20at%2011.06.34.png"
+        width: 1280
+        height: 894
         isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."

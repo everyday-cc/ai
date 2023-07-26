@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Harnessing machine learning for early cancer detection in primary care"
-    excerpt: "A new editorial paper was published in Oncoscience, titled \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
-    publishedDateTime: 2023-07-21T17:48:00Z
-    webUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-harnessing-machine-early-cancer-primary.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "Machine learning could transform early cancer detection in primary care"
     excerpt: "A new editorial paper was published in Oncoscience (Volume 10) on June 9, 2023, entitled, \"Transforming early cancer detection in primary care: harnessing the power of machine learning.\""
     publishedDateTime: 2023-07-22T00:55:00Z

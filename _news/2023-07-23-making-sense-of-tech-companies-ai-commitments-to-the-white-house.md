@@ -147,20 +147,6 @@ related:
         width: 898
         height: 678
         isCached: true
-  - title: "Amazon, Google, Meta and others agree to AI safeguards set by White House"
-    excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by"
-    publishedDateTime: 2023-07-21T17:35:00Z
-    webUrl: "https://www.pilotonline.com/2023/07/21/amazon-google-meta-microsoft-and-other-tech-firms-agree-to-ai-safeguards-set-by-the-white-house/"
-    type: article
-    provider:
-      name: The Virginian-Pilot
-      domain: pilotonline.com
-    quality: 36
-    images:
-      - url: "https://www.pilotonline.com/wp-content/uploads/2023/05/WHYUW56ITNRGHPAN2E6FKYVOXA.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Generative AI expected to impact SA companies"
     excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
     publishedDateTime: 2023-07-24T09:44:00Z
@@ -170,15 +156,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "AI companies agree to voluntary safeguards, Biden announces"
-    excerpt: "Amazon, Anthropic, Google, Inflection, Meta, Microsoft and OpenAI have all agreed to \"voluntary commitments for responsible innovation.\""
-    publishedDateTime: 2023-07-21T18:47:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-companies-biden-user-safeguards/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
   - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
     excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
     publishedDateTime: 2023-07-22T12:17:00Z
@@ -197,38 +174,6 @@ related:
       name: Times News
       domain: tnonline.com
     quality: 17
-  - title: "Top tech firms commit to AI safeguards amid fears over pace of change"
-    excerpt: "Joe Biden announced Meta, Amazon and OpenAI among others had agreed to eight measures to encourage responsible practices"
-    publishedDateTime: 2023-07-21T18:43:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/21/ai-ethics-guidelines-google-meta-amazon?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
-  - title: "Watch Live: President Biden Announces Some Tech Companies Have Agreed To Voluntary Safeguards On \"Artificial Intelligence\""
-    excerpt: "Open AI, Amazon, Google, Facebook, and several other companies have agreed to voluntarily follow a new set of \"safeguards\" on the development of artificial intelligence, President Biden is expected to announce in a speech Friday afternoon."
-    publishedDateTime: 2023-07-21T17:38:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2023/07/21/watch_live_president_biden_announces_some_tech_companies_agreeing_to_safeguards_for_artificial_intelligence.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 11
-    images:
-      - url: "https://assets.realclear.com/images/61/616379_5_.jpg"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Biden White House, tech companies launch new safeguards around emerging AI technology"
-    excerpt: "President Joe Biden met with tech leaders Friday at the White House to highlight what he said are new, voluntary steps the companies are taking to step up safety and transparency around emerging AI technology."
-    publishedDateTime: 2023-07-21T18:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-white-house-tech-companies-launch-new-safeguards/story?id=101555314"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 10
 
 secured: "2f1lKH/n7IZtBte0UCBWyQTQE9jcr/wb//vcH6Tduf3onexy9eoV8cWXIWi5/DIkwi2w5F40oTJCOP9Mnea3sU1R9Ig/AtEe5G53H9YaAxqdzQJ9yDSjsIfbigPzQzKjVE+VifUDRLSQuFF11c1biNrRSw4+ySQt7xbgNTyKmIADNrBNY+QOdk3Z4NRewCz3bU6eAHoi13us1x9jlA1ZYJNxo58AVz+9Gb2sAbHYTF15Hp6f5qQypKu6IKQbCUceEcYNoN/hUGmHw5jb/EsmU3i0fobODJYav6/1A/JlBBBLWygUq8/EJ+ExK13f4Hs0HKmhn7H/Ev30dxxcIGniTS36xIEsB6mCFPEmDWPRZFGsPs1upZ/d18UkLkcRBSHGpY+FOXSLQUCcducTYoXNYEYVZEPHsywU0oTL7oSHFRNALyfTG42NV4RCvP2HX6ovHJYJzsNSQ/aiwlQQnMva63t19buTgrHG7nCiQA3AIJ5zKSd7M3uANPK7ADf0z1mRGI9rYn64h3Nlki2oT2ZvNA==;yss7AZ8AImn9leyj/qvVxw=="
 ---

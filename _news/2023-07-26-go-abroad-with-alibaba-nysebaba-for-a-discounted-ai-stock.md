@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Alibaba's cloud unit clients to get access to Meta's AI model Llama - report"
+    excerpt: "Alibaba (BABA) cloud unit said it has become the first Chinese enterprise to support Meta's (META) open source AI model Llama 2. Read more here"
+    publishedDateTime: 2023-07-26T09:38:00Z
+    webUrl: "https://seekingalpha.com/news/3991007-alibabas-cloud-unit-clients-to-get-access-to-metas-ai-model-llama"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 36
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368767105/image_1368767105.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "qQkEHlPl9vhd+nSi7SOrqJ0Qq6NPZHyrBZnshsJRFEQf8zL5APUytdEpZkrBU1QnwiOyYKms3KA8rdFKFGrzjfWi/hthx4i3Jc6gkxVhl3OnTkpkUdj8WRjwAvTz/KXN0u2GcLyS1SLxGhyVrm1EKMiYTclAya+iqCcAMt9GrVOR0ILRWY4wfHfGfqYujcXq9xtpRwk7jLdDFiCMuKaYMnjC/fyz0hw/lqSRSGOyYBQCYnMbPwWHORrVCcTgUbW7W4Yx9eOksQ+i0xtZjS++us++oS3IArUGZpLgV52lguUN7TzXZYOCaEA33G6t1YVvUOqu5oLNupDlt7cnL147NPZLBauiCw5ApZ0Vs6lmIEQ=;OQU/hPZu5R5+0RCRaDYyDw=="
 ---

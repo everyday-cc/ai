@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Leading the new AI platform shift:’ Microsoft to keep focus on smart tech, CEO says"
+    excerpt: "Organizations are asking not only how – but how fast – they can apply this next generation of AI to address the biggest opportunities and challenges they face – safely and responsibly,” Microsoft's CEO says."
+    publishedDateTime: 2023-07-26T10:54:00Z
+    webUrl: "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/"
+    ampWebUrl: "https://wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/26/leading-the-new-ai-platform-shift-microsoft-to-keep-focus-on-smart-tech-ceo-says/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/01/microsoft-ceo-e1688032366509.jpg"
+        width: 2496
+        height: 1401
+        isCached: true
 
 secured: "6t/QE8mka0ldQ/7jxl2SbL5ASeuLaUkFphljQzz3mojLw1wBAwg6gwciZzIjrU5CreE8C2m8d7FTbHot/DIFJhzamB13ay/9gHFw9fYbMU0DVDSFtcosrejbLSUG3cWzOQxfVZNhV46LUwf80kkbW6ZjMW2cVW8gtzIVWxgXs9P2gkuz6shBzGP+BKtCqlR/3hu21/MDVziR5tonw49QpRc5zcX+t4p5a2vj2t7Vmzji9TibyBQoTvLnct97GWbzUsaLrCuxP/uZNiDAvCkOddYZ3uH+NX7Q6h+S2bAZHBxP2K+1TX/+oEcZwdytxY0OAYNqp3xoVC4kBkA3wHurthBFLMYeHM5bWuOYepvc7FTcRVKMERsg8/0mGjWzbOKNqWdKTWGgJWVLizliwgb/7RGak9uKczUoPaB9TEsumUYST5FnohzLI3ydeLUDeUHaG34EEFczxLFdkt1il3bCePr1JB/PlEh+dtE7aoFVudusetsE7OCMnVFW/XjIEG/aDZrhtc4o83vK06njtaZa7w==;25gOhabMZhipyqLPr+irZA=="
 ---

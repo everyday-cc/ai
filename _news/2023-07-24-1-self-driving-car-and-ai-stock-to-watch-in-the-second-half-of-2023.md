@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stoc
 webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "$20m grant set up to develop AI in self-driving vehicles, materials research for military use"
+    excerpt: "Self-driving military vehicles and machinery can be dangerous if robot eyes fail to recognise objects clearly in bad weather – or worse, if the systems are hacked. Read more at straitstimes.com."
+    publishedDateTime: 2023-07-26T10:28:00Z
+    webUrl: "https://www.straitstimes.com/tech/20m-grant-set-up-to-develop-ai-in-self-driving-vehicles-materials-research-for-military-use"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 28
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/CKW2973.JPG"
+        width: 860
+        height: 573
+        isCached: true
   - title: "How The Self-Driving Car Dream Became An Absolute Nightmare"
     excerpt: "The reason our self-driving utopia hasn’t arrived, it argues, is because it was never really supposed to. Instead, the promise of self-driving cars were just a lure to keep cities from building ..."
     publishedDateTime: 2023-07-25T10:43:00Z

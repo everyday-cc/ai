@@ -39,15 +39,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "More or Less: Hollywood and AI. What IS Threads?"
-    excerpt: "There was a moment in this week's episodethat made me realize (yet again) that we are in interesting and important times. It was when Sam said, \"It's not typical that you see VCs write down an investment in the same quarter they made it."
-    publishedDateTime: 2023-07-21T18:57:00Z
-    webUrl: "https://www.theinformation.com/articles/more-or-less-hollywood-and-ai-what-is-threads"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 17
 
 secured: "W6/TaM50quAZeYtWF5KWFWExvw6INLrqaclmzixIy2q5KOia5ucMbILqrvctA7S7EOMtAmPq4BBPrMMOHHmhH7qCaTiDGKtvkbb3QTv4Y19arX/Sb9xdgWvKPllOKk0mxT1v5T1bzeTvP6Kcpie2BNE5uwdf6SSFjEvYox83l7oz7lEcxzQDf+58pRWEfGZPaXcWRfOK5tWp53R2VlOWYJdkAYHTrWW8sJK7+5T0EoYkzrEmrJtnIjrYogDyGXxxN3p8vzwZ8hg6AdBA28t9l6mwEObM1to/ut/LM8C1HZV+GhnoNoMDddJR51O6mLW/7Yd9fGcYlGa7TT3oL2XV5sZTs7AJjk9BemwxUsvRblkmvMmogcFXRnG1HbX5ftOlGgFyniOKZ7+OLEGrX7bE+5p4ZDbzdEGiYPxB2dvpSFl706sNUAruSUdLjrmKECG1VW8cuilWDRVOeQf3IFnHbO7NiQ04trU795bI/4y9R+PN3JXqZzJSx9Q8uFxYiW3Ia50MXtRlmo+J67+cGQTSpg==;6UuiHzGJ3luTQtJcX+HX+w=="
 ---

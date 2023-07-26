@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Reaffirms its Commitment to Responsible Generative AI"
-    excerpt: "As a pioneer in artificial intelligence and machine learning, AWS is committed to developing and deploying generative AI responsibly As one of the most transformational innovations of our time, generative AI continues to capture the world’s imagination, and we remain as committed as ever to harnessing"
-    publishedDateTime: 2023-07-26T04:00:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/aws-commitment-to-responsible-generative-ai-1260x628.jpg"
-        width: 1260
-        height: 628
-        isCached: true
   - title: "The Generative AI Battle Has a Fundamental Flaw"
     excerpt: "As Stephanie Bell, a research fellow at the nonprofit Partnership on AI, notes, setting a precedent where creative works can be treated like uncredited data is “very concerning.” To fully address a problem like this, the regulations AI needs aren't yet ..."
     publishedDateTime: 2023-07-25T11:08:00Z
@@ -57,124 +43,103 @@ related:
         width: 2400
         height: 1800
         isCached: true
-  - title: "Making Anime Characters With Generative AI"
-    excerpt: "Generative AI is opening up the potential to lower game production costs with one analyst telling Bloomberg that the money, time and people needed to complete one big game can be cut in half. Part of that cost-savings could come down to tools like Crypko,"
-    publishedDateTime: 2023-07-25T02:22:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2023-07-25/making-anime-characters-with-generative-ai-video"
+  - title: "Amazon Web Services Wants to Teach You How to Use Generative AI"
+    excerpt: "Amazon Web Services announced Wednesday that it will offer seven new courses designed to help people understand and use Amazon's generative AI services. Amazon will offer most of the initial courses for free, and the courses are intended for developers, business executives and anyone else interested in using AI."
+    publishedDateTime: 2023-07-26T10:00:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/amazon-web-services-wants-to-teach-you-how-to-use-generative-ai/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://www.cnet.com/a/img/resize/36449787408eca6def5fad92320c9539c424c499/hub/2023/07/24/a5c60322-4233-4433-9bab-b807fd08e9d6/gettyimages-1252637842.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
+    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
+    publishedDateTime: 2023-07-24T05:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 685
+        isCached: true
+  - title: "How to navigate your engineering team through the generative AI hype"
+    excerpt: "Follow these strategies to prepare for increasing demands on engineering teams and make the most of advancements in generative AI and ML."
+    publishedDateTime: 2023-07-23T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-navigate-your-engineering-team-through-the-generative-ai-hype/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTxXsWL34TpM/v3/-1x-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/annevb_steering_a_ship_through_choppy_waters._Colorful_futuris_fe881bc5-ac01-4b19-a636-9d21ca431c4e.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Biden thanks AI companies for commitment to 'responsible innovation'"
-    excerpt: "President Biden held a White House event with seven of the leading artificial intelligence companies and thanked them for joining a voluntary commitment for \"responsible innovation\" and to manage possible future risks of the technology."
-    publishedDateTime: 2023-07-21T17:37:00Z
-    webUrl: "https://www.msnbc.com/msnbc/watch/biden-thanks-ai-companies-for-joining-commitment-on-managing-future-risks-189007429566"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo189007429566"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo189007429566"
+  - title: "Generative AI is empowering the digital workforce"
+    excerpt: "For companies embracing the technology, employees view AI as a constructive force. An overwhelming majority of respondents (92%) say AI is having a positive impact on their work and more than one-quarter (26%) call AI a “miracle.” Two-thirds say AI is already saving them time, and 61% say it helps them work faster."
+    publishedDateTime: 2023-07-25T14:46:00Z
+    webUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/"
+    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076532/generative-ai-is-empowering-the-digital-workforce/amp/"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 57
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_07/1689961006730_n_msnbc_brk_biden_ai_commitment_230721_1920x1080-4tgbqu.jpg"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/digital_workflow.1200png.png"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "What generative AI really means for the economy, jobs and education"
+    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
+    publishedDateTime: 2023-07-25T15:30:00Z
+    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Wayfair takes the generative AI route to interior decoration"
+    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
+    publishedDateTime: 2023-07-26T02:31:00Z
+    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "President Biden seeks to legislate for ‘responsible AI development’ in the US"
-    excerpt: "British Prime Minister Rishi Sunak pitched the UK as a center for AI safety, acknowledging that regulation is just as critical as intellectual property to garnering power in this area, whilst the European Union (EU) is edging towards passing its own AI legislation,"
-    publishedDateTime: 2023-07-24T10:30:00Z
-    webUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us"
-    ampWebUrl: "https://diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/president-biden-seeks-legislate-responsible-ai-development-us?amp"
+  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
+    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
+    publishedDateTime: 2023-07-24T19:38:00Z
+    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2017-03/White-House.jpg"
-        width: 1207
-        height: 610
-        isCached: true
-  - title: "How AWS is making generative AI simpler for businesses"
-    excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
-    publishedDateTime: 2023-07-24T00:00:00Z
-    webUrl: "https://techwireasia.com/2023/07/how-aws-is-making-generative-ai-work-for-businesses/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 54
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/07/shutterstock_1931225858-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "From grid optimization to data management - can AI revolutionize the energy industry?"
-    excerpt: "The complexities of modern energy management combine grid management with the incorporation of renewable energy. Managing energy at scale in a warming climate is by no means a simple mandate, but the real-time demands of these operations are well-suited for AI."
-    publishedDateTime: 2023-07-25T09:22:00Z
-    webUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry"
-    ampWebUrl: "https://diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grid-optimization-data-management-can-ai-revolutionize-energy-industry?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-06/shutterstock_1136441669.png"
-        width: 740
-        height: 450
-        isCached: true
-  - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
-    excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
-    publishedDateTime: 2023-07-23T16:11:00Z
-    webUrl: "https://www.ksl.com/article/50691714/top-ai-developers-commit-to-security-testing-clear-labeling-of-ai-generated-content"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 47
-    images:
-      - url: "https://img.ksl.com/slc/2939/293994/29399447.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
-    publishedDateTime: 2023-07-24T08:28:00Z
-    webUrl: "https://woub.org/2023/07/22/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai/"
-    type: article
-    provider:
-      name: WOUB
-      domain: woub.org
-    quality: 36
-    images:
-      - url: "https://woub.org/wp-content/uploads/2023/07/gettyimages-1258873333_custom-6e8cb3e6184fafdf6d9aa9ae11ebd8425a23cb04-scaled-e1690052565770.jpg"
-        width: 1200
-        height: 564
-        isCached: true
-  - title: "The Generative AI Revolution: Key Legal Considerations for the Consumer Products Industry"
-    excerpt: "Other tools offer assurances that prompts and other information will be deleted or anonymized. Enterprise AI solutions, such as Azure’s OpenAI Service, can also potentially help reduce privacy and data security risks by offering access to popular tools ..."
-    publishedDateTime: 2023-07-24T21:24:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-generative-ai-revolution-key-legal-4539814/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 30
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 35
   - title: "How To Leverage Generative AI To Develop Global, Agile, & Effective Go-to-Market Strategies"
     excerpt: "In today’s increasingly-congested marketplace, customer experience is becoming a dominant factor. A Gartner study found that 80% of firms expect a top-notch customer experience to be a main competitive advantage."
     publishedDateTime: 2023-07-24T15:58:00Z
@@ -189,15 +154,6 @@ related:
         width: 942
         height: 600
         isCached: true
-  - title: "What's New with GoTo: Security Enhancements, AI Updates, and New Integrations to Meet Growing IT Business Demands"
-    excerpt: "With over 80% of businesses considering consolidation of communication, collaboration, and IT management and support tools a top priority, it is more important than ever for business leaders to securely consolidate vendors while offering the right integrations,"
-    publishedDateTime: 2023-07-25T13:20:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/07/25/9853521.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "jDS45NEhBR0D5eUx0Zj3muA+wmE6pYvfxI3HDLKas8SQvsHQs3+PmhywlqFNNi2sV+RMqF1VttgHGtVwNBjxbykG9+RcL1XvlZUtabjpIurYcM3G6iP3Gf62FaIm/GkOtLrlcm+KPs5DXaA6gggrEruVE/Mx21DlALEeWlNDIkD4PZbzz9x29RsqUW26Up8eDz8ZIRTE2igMSPD9C+XxVP+k4MKQhBu1fFF3HHXbcA7nUEx7JH6iXstybnUT2Z2RK5wp/709xUj63+UIboAqiSofDCwkboGVkJLGIK1U5co06xNisMASMMuiZCOXRGzXtwzfxfFs7KdkcCdYE48o+4GOpBt75W/xauuy1ghPKYM=;wkHYCbRJ4a5xjj0dcl0k9A=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolut
 webUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Vanguard
@@ -34,15 +34,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "AI could revolutionize dentistry. Here's how."
-    excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
-    publishedDateTime: 2023-07-21T18:36:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-artificial-intelligence-dentists-health-care/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "PnL4Svflnk4Hp48AfAky1XPK0Iq98S6gvhajK4YQxgFtj5PxHpWY1kxYZk7oDmsu8Vqoa7eLuO0SfG+Okxsry2gCnhKbss0zJXvmeXjGBB6vVxKes2SOpq/hs8eMeesHX3RMIER+hbBFTRgm4SOs4jVFJjzGIChRvT2ZEFLzXdub4rfpeJAbNmiU1sz/0QXF8pSBcQYq0OJTWmrm8WYdOhqk8LxONx9qPig0Nti36G5mZZIZ00AZmDGxTsdCJPMV/LMRLbf7Yg7gQ+jSEdZ21OX3D71loUVrojkK6HqwXrCTzsmu+EHmrvyvedFpymn8jfLeTL/IXfdC8Cd9raxZIULtG6yVwCx7dzuWbDkL5aloD3ZbnBHSyt/3e4Vpv6IdrMDCsz2hl0qV5zOkXeVet4n2/vHWBxjIOMTpuNV/LRZswih5XFvv1BZfJVbC3guwpZWJf2nE8uPiw6b6dGSD2hsHVU9k0YHWw7gWHzwagPgynE7f5vQJrGiM9Cht7G5wpSCpfUku7ohzzHJW0ASjWA==;M/BKEiyJDMXCz/SCVy4odQ=="
 ---

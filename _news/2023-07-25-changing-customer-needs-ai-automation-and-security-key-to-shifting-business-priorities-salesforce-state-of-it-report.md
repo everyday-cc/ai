@@ -20,15 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "AI, automation to take center stage as IT demands surge: Salesforce survey"
-    excerpt: "Salesforce's latest State of IT survey highlights the role of AI and automation at a time when IT demands continue to surge."
-    publishedDateTime: 2023-07-21T18:05:00Z
-    webUrl: "https://venturebeat.com/ai/ai-and-automation-take-center-stage-as-it-demands-surge/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Salesforce Takes a Giant Leap with Generative AI"
     excerpt: "Earlier this year, we began infusing generative AI across our entire platform with Einstein GPT, which brings generative AI across every part of Salesforce, Deepak Pargaonkar, vice president, solution engineering,"
     publishedDateTime: 2023-07-25T08:00:00Z

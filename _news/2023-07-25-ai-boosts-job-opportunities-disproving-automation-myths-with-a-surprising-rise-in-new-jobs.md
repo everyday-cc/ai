@@ -26,17 +26,6 @@ images:
     height: 296
     isCached: true
 
-related:
-  - title: "Biden says AI brings ‘incredible opportunities’ as well as risks as he hails safety deal with tech giants – live"
-    excerpt: "President says Amazon, Google, Anthropic, Inflection, Meta, Microsoft and OpenAI gave ‘real and concrete’ commitments to ensure products are safe"
-    publishedDateTime: 2023-07-21T17:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2023/jul/21/trump-indictments-2020-election-jan-6-biden-politics-live-updates?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
-
 secured: "6vaZGauwehSKP9IvPK8QzsXEE1G3057JFYiev4K/0t5CGV5tHyOAu5yth00eYcmzNO3Sg+pS2fGhfROTmNDykdLYN9o817cJ1ugdPtmDTWj2MylcdP69iLEybTfMacRLlXWMrAzLbzEyI8ILJFOY+8YclOE/Ofth9GteuM8LcCLc7+vZ9D0uLIpfTnmZ/1JnWNrjxXav6X5ExIFQZWseiKqFLFTjMd0TUv7zZSV0eyrepr8PxMNKVM5R4u+Z7E+7PuZJ5hXjtAMB7L2KFYaqAD7+olGrZjOZC1744z/0YXCpfBKcd52/dnTi7Nys3NTWJVCdauunMtVLRy3h1R0iSbT9Of04YeuDJ9GPYwEXzpc=;2QM/5DA+JfSu2vOrarDcAQ=="
 ---
 

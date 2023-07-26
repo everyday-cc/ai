@@ -51,20 +51,6 @@ related:
       name: Social Samosa
       domain: socialsamosa.com
     quality: 18
-  - title: "Having paid out over $250m to its members to date, BeatStars strikes strategic partnership with AI Music startup Lemonaide"
-    excerpt: "Beat-buying and selling platform BeatStars has become a prominent player in the music creation space over the past few years. The platform, founded by CEO Abe Batshon in 2008, says that it"
-    publishedDateTime: 2023-07-25T12:48:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/having-paid-out-over-250m-to-its-members-to-date-beatstars-strikes-strategic-partnership-with-ai-music-startup-lemonaide/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 11
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/07/Abe-Headshot-Edited-e1690218264623.jpg"
-        width: 2259
-        height: 1267
-        isCached: true
 
 secured: "/P6c2JLJ7r2+iNyfQqkgpK7Sd8nXPix154tfXd59NzLo49EoBxkTskzEttEhs+K66xDOMUVpUKakpuuPcoyO6afzyo+0IlllsVfe+KFrnUvqYtNHWSZTl4NCz+oZf105NzgvwhXRv3qLB6OR/meskfvUBOCesaYxw6c1lps0WZwu12TSpCNDxYnZMo8lJ6R8gdZ7jndD8yBF9GxUy9HDcj/2bUfpoY22NRXTkYBB33otGYF3m9OSN7ArsKF4FG2gGvRQ2HgG4sMdh78D0Y1wfJkhQUSAVAfcYwpx0uIRcPyDghN/DkVoYUpSNKwn8JrFog8xTg0joelKDzxa6zaxV2QPNThez6UbfXntn2gzp3M=;YSkzGgZxCzXaJD4oaA10XQ=="
 ---

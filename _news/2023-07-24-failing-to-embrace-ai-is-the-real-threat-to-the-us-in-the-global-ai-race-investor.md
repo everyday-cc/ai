@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the
 webUrl: "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Threads Is the Latest Move in the AI Arms Race"
-    excerpt: "Mark Zuckerberg's choice to launch Meta's Threads app stands in stark contrast to Elon Musk’s recent moves to charge for data from X."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.wired.com/story/threads-is-the-latest-move-in-the-ai-arms-race/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
   - title: "The AI Arms Race: Uncovering the Future of Web 3.0"
     excerpt: "He emphasized the need to learn from past mistakes, like how Web 2.0 propagated vanity through likes and shares, suggesting that society has evolved beyond superficial engagements. He stated, \"Working in our job is to basically figure out what benefit it can do and what those scenarios that actually benefit"
     publishedDateTime: 2023-07-24T20:42:00Z

@@ -23,47 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "The Newspaperman’s Trick for AI"
-    excerpt: "An undisclosed source provided the following.’"
-    publishedDateTime: 2023-07-23T15:42:00Z
-    webUrl: "https://www.wsj.com/articles/ai-chat-gpt-ftc-lina-khan-media-anonymous-source-12f52cf"
+  - title: "Better AI Stock: C3.ai vs. Opera Limited"
+    excerpt: "C3.ai claims it's an \"enterprise AI software\" company, but it was previously known as C3 Energy and C3 IoT ( Internet of Things ). It only renamed itself again as C3.ai in 2019 as the market became more interested in AI technologies."
+    publishedDateTime: 2023-07-26T11:06:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://images.wsj.net/im-822237/social"
-        width: 1280
-        height: 640
+      - url: "https://g.foolcdn.com/editorial/images/740857/androids-business-suits.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "It’s high time for more AI transparency"
-    excerpt: "If products built on much-hyped proprietary models suddenly break in embarrassing ways, and developers are kept in the dark as to why this might be, an open and transparent AI model with similar performance will suddenly seem like a much more appealing—and reliable—choice."
-    publishedDateTime: 2023-07-25T09:27:00Z
-    webUrl: "https://www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/"
-    ampWebUrl: "https://www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/25/1076698/its-high-time-for-more-ai-transparency/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/07/cogs-and-gears.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "TRAI’s call for AI regulatory body is flawed"
-    excerpt: "As AI is evolving, rather than have strict rules, a guardrails approach will encourage self-correction and foster improvement"
-    publishedDateTime: 2023-07-25T15:34:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/trais-call-for-ai-regulatory-body-is-flawed/article67120722.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
 
 secured: "QDwz4CJf3RM7a1L8iX4lG6UKiaSAUbwrqJdNjf+mC7JTAXEaxc7vpJ8yZoCbWMjQcBV4ErKcXtrx5zWcB4NOECL3EoR8YO7NxCz+NsU15QhdRuxUnALuHhjLtS8FCLJTx8gF2ml6NUmNz+FkGsHJdOwen4TX4TxUrM4TS/lRiTeUB4QDh8WFDl2vxHSRThzv6x66AdmfqSf7wzSJP8TjFbPH3n4rCc9qnZzhQ1w+F/2vELzjT9dJl1tz2NesaFZj7y+2HxBUcshrWXxp7M3NbBmf+TbWbOLqmBakpjMAvmexzDFhzic+2lw+Gwx4BL1qdS/EWItKzK56KXYWfr3jyukjUffNzadQMMp9ss6c4TAM+CNw14Ssov/AgjKBouIe1VrP/yOrz1h0HQzObu3DYqwmaVa8iZyRuMIGHWWLUmiPGV3HscRiCogon9P7O3OAxSv2uLMs553F+unfKy5/Z4DZmnn1xdjtH4sTLhZnvXn6h2dwIvimgrjuVDq5EQE+da6E+NZ+zQ7y07Lsf5/BGA==;h+hpBfvs9VhqriT5BBQCRw=="
 ---

@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Software developers' dance with generative AI is still at that awkward stage"
-    excerpt: "AI will help developers do their jobs better, but it is also increasingly a part of the solutions they will be building for clients or employers."
-    publishedDateTime: 2023-07-21T18:32:00Z
-    webUrl: "https://www.zdnet.com/article/software-developers-dance-with-generative-ai-is-still-at-that-awkward-stage/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
   - title: "Intel Seeks To Win Over AI Developers With Open-Source Reference Kits"
     excerpt: "Intel takes aim at Nvidia's proprietary AI platform with open-source AI reference kits that let developers train models 'faster and at a lower cost.'"
     publishedDateTime: 2023-07-24T19:56:00Z

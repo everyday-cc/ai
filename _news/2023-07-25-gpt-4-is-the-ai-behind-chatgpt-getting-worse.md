@@ -82,15 +82,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "The biggest AI release since ChatGPT"
-    excerpt: "I’ve spent the past few days reading reactions to the news and talking to people in the AI field. Many believe that Llama 2 is the industry’s most important release since Chat"
-    publishedDateTime: 2023-07-21T18:11:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23803234/the-biggest-ai-release-since-chatgpt"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
   - title: "It’s time to break the ChatGPT habit"
     excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
     publishedDateTime: 2023-07-25T10:19:00Z

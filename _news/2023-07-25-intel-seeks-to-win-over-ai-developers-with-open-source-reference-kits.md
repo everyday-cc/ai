@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Software developers' dance with generative AI is still at that awkward stage"
-    excerpt: "AI will help developers do their jobs better, but it is also increasingly a part of the solutions they will be building for clients or employers."
-    publishedDateTime: 2023-07-21T18:32:00Z
-    webUrl: "https://www.zdnet.com/article/software-developers-dance-with-generative-ai-is-still-at-that-awkward-stage/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
   - title: "LaLiga transforms fan experience with AI"
     excerpt: "AI and machine learning are bringing data-enhanced strategies and experiences to Spain’s top football league, which has spun out a tech subsidiary to offer platforms and services to the sports and entertainment industry."
     publishedDateTime: 2023-07-24T23:48:00Z

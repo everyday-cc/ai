@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-ea
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -72,16 +72,7 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-  - title: "Nvidia And AMD: AI Updates From Taiwan Semiconductor's Q2 Earnings"
-    excerpt: "Taiwan Semiconductor Manufacturing Company Limited's Q2 earnings affected both Nvidia Corporation and AMD. Read what's next for NVDA and AMD."
-    publishedDateTime: 2023-07-21T18:02:00Z
-    webUrl: "https://seekingalpha.com/article/4618825-nvidia-and-amd-ai-updates-from-taiwan-semiconductor-q2-earnings"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
-secured: "VZlZxGGpI9LUpHHltphig8BQiDJwgxlCj57ilTaf0Oa7eA4AFXQRXdwAwMc3g4L0iioMdh/ewnBgQodKgalRVY5NDls2cZ3kangwTkC9TLyvgnRsBnA2hVM8M7R5H20TOS5mv1tVFEwyPRnBLVG/jZq030msN0SXEEc2K6HCqXPzY7EJ/ACJ47TJGwTcRgL2WE5AdfDgNkez/CSPiM/WzZb7LaUagyTO6tXh8nAwXygjFC1uH8Zyv83F2/GAbNPxEXc7fGL9DLdccSbEBY2LX06oal/rCynuic0yQWc8zTTmIirEhGWPxVKxLKT1n6alSLnahAwgpaQTpKlppmNxkiQaQ+3YG99cb98oyCYybiM=;pzMJ9Yg7YkGi+apUkqmssA=="
+secured: "afn9pz4WYMuDWbFVdTgvVziGYDAcFP4f6y9DQMp9Y2hBJLL7rJ19ZV8UGI324ip0+sFFXruDkqFwIv5Weau8azki7Xmz6Ahrbcyay1E8b4pLmLLi3YugctRsEVW65B0SKdXFpIrat8bznJCS3D6XefIP+z1Ie7Slj9x1PcZYyWvtFb7XOXwF1eyp+VRAmAkFYnySXFN3CudliOpb4fscavQ5Lb/PJ8uhs2z5FJgC7Zf7PbCNrdMzSUTBGMDBQELhr6QYtHyqVWKP1PP6kYc6ZNN53uCTnjRBxDbCDlfUy3+GjYAjLjwpbcbdUApj0NQ+6uwWdYj7R7OBrkbob4HbJMJhCvoQbmRNbXzW0zOM2dK0f5sCkPB829CnSdtjR0a0MmN7O1aUfxq3l4YM1lkWctE6u+lE7o5tedCThqVLPMqfddVbN7er0vqsdM6xKuYogFcZamRv7oyrpyCIii+4N8YDSsuPVEEXCGaipw/LdF6lPqOHIYoIqG/cMByiXBf/+lLtJBPjw1va8kWhDaeASQ==;LVRcnkSO+DfkwcOrLncmQQ=="
 ---
 

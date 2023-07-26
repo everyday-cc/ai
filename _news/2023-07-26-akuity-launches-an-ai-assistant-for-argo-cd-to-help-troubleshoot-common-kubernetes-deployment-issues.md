@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/akuity-launches-an-ai-assistant-f
 webUrl: "https://venturebeat.com/business/akuity-launches-an-ai-assistant-for-argo-cd-to-help-troubleshoot-common-kubernetes-deployment-issues/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Teleport Introduces Teleport Assist: An AI Chat Interface for Fast Infrastructure Troubleshooting"
-    excerpt: "Teleport, a leading provider of identity-native infrastructure access management, this week announced the availability"
-    publishedDateTime: 2023-07-21T17:13:00Z
-    webUrl: "https://www.datanami.com/this-just-in/teleport-introduces-teleport-assist-an-ai-chat-interface-for-fast-infrastructure-troubleshooting/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 26
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
 
 secured: "OZzeHFDUmLjd09aRrN0Im3NC7Vrldsj4FNs0Bibx3ukOJXNdiODUSjfsxZ2WcyfpilWlrSZ0h9KILkDza/5hGbIyD7lZuWuXPQ4u2JQDuxsWrPczDtRBJv/FjPfX10GlK26571Imj8/la4E6is3iOUSffyFoO+wSwhDeRvUUxFhqCQ/LbJG13wZktC2Hwmwpyp7rPnY/aEAT6RIoYqy5h+iZYe8v4syiME9DTEgJTFGkUNCMmnvlZsjEeR7XTDdhZFGQVdYrMHu/X0xfxn5E+x/WGZUS4XBTdoV9HnHekWOh6R7hzdmbp0hY+bN0gnDhUsD9KcrqkIwX1SgegjSbTvW3l/cwI/6xlKK2HI8H51E=;ArLke8KBL/keh1HPETsfeQ=="
 ---

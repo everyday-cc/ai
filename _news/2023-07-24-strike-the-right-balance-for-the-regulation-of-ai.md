@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
-    excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
-    publishedDateTime: 2023-07-24T05:41:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64be0ed19fa7b51c1ed98956/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 685
-        isCached: true
 
 secured: "9G81wHnQjJP5P8E4o6S3KYr8yQ75wWFfQIzw7ekoC8zAFlpLzB1J+O6jZV1qxWeICCd/Tv8Rga7wX+xK002IRmlP3GkVze7IEv/vJzZN4Ya29apxAT3E3QPcbxZjzeD3nQhT8b8qjHqtZqc6aw0rwYMHOKzibQ2tG6jbMaP7HGTkRnm1BDGqRAJQRWzP5CYceGrsMxgt9WAfYpwswIxX6vqm6L4180D4eaoqeDkgoVTiWrf8KewX/jOqJU/4WcOUhEnBNSNozi8M6b6mfkp6JMKWojXhCXKXB1IJ4mMA4g55Vz5kVZm57Hz13W+WOS8UNzMpC84A9TPlZSGhUwb15G5AN6shoYC6aCryTgnEBQk=;bBC4ijoy8uN9KXpJIZorxw=="
 ---

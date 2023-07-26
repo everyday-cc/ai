@@ -229,6 +229,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "ESRB proposes facial age estimation technology for parental consent"
+    excerpt: "UPDATE 26/07 11:40am: In a statement shared with Eurogamer, the ESRB has clarified its proposed \"Privacy-Protective Facial Age Estimation\" technology is to be used to verify the age of people giving consent for a child."
+    publishedDateTime: 2023-07-26T10:39:00Z
+    webUrl: "https://www.eurogamer.net/esrb-proposes-facial-recognition-age-verification-for-parental-consent"
+    type: article
+    provider:
+      name: Eurogamer
+      domain: eurogamer.net
+    quality: 24
+    images:
+      - url: "https://assetsio.reedpopcdn.com/AdobeStock_331209580.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ESRB asks FTC to approve facial recognition age checker"
     excerpt: "Sign up for the GI Daily here to get the biggest news straight to your inbox The ESRB has proposed that the FTC"
     publishedDateTime: 2023-07-24T18:07:00Z

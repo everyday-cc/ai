@@ -42,20 +42,6 @@ related:
       name: Social Samosa
       domain: socialsamosa.com
     quality: 18
-  - title: "Having paid out over $250m to its members to date, BeatStars strikes strategic partnership with AI Music startup Lemonaide"
-    excerpt: "Beat-buying and selling platform BeatStars has become a prominent player in the music creation space over the past few years. The platform, founded by CEO Abe Batshon in 2008, says that it"
-    publishedDateTime: 2023-07-25T12:48:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/having-paid-out-over-250m-to-its-members-to-date-beatstars-strikes-strategic-partnership-with-ai-music-startup-lemonaide/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 11
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/07/Abe-Headshot-Edited-e1690218264623.jpg"
-        width: 2259
-        height: 1267
-        isCached: true
   - title: "Tecton Partners with Google Cloud to Provide Enterprises With the Fastest Path to Building Machine Learning-Powered Applications on Google Cloud"
     excerpt: "With Tecton on Google Cloud, data teams can accelerate the time to value and maximize performance and reliability of their ML models while controling costs. Tecton’s feature platform also provides a future-proof data foundation to meet the demands of real-time preictive and generative AI models."
     publishedDateTime: 2023-07-25T16:22:00Z

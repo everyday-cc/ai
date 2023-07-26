@@ -37,17 +37,17 @@ related:
         isCached: true
   - title: "Proposals aim to regulate artificial intelligence in the workplace"
     excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
-    publishedDateTime: 2023-07-26T04:43:00Z
-    webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
-    ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
+    publishedDateTime: 2023-07-25T21:19:00Z
+    webUrl: "https://www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/"
+    ampWebUrl: "https://www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/?outputType=amp"
     type: article
     provider:
-      name: WOKV
-      domain: wokv.com
+      name: WHIO
+      domain: whio.com
     quality: 74
     images:
-      - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
+      - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/FsihmC1tdsbGu5cej3mYp3hIEt0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/B2YR7DZMJ5EHNLKKCTFKMJZT3M.jpg"
         width: 1440
         height: 810
         isCached: true

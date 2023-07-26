@@ -19,64 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Italy’s largest investment bank pledges to back UK fintech startups"
-    excerpt: "London-based startup accelerator Founders Factory has gained a new partner in the form of Mediobanca. The Milan-based investment bank is looking to increase its presence in the UK, and has pledged €12mn to the joint venture."
-    publishedDateTime: 2023-07-24T10:53:00Z
-    webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FLondonfintech-e1690195741719.jpg&signature=ab996187a9f4eac7a6b859adaaf82c43"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "4 insights to kick-start your day, featuring Twitter’s fintech makeover"
-    excerpt: "Twitter’s fintech pivot; Coffee Day insolvency; Byju’s loan deal; and tech co’s on AI laws. Bye-bye, blue birdie! This just happened. Twitter changes its logo to X. Hidden in plain sight. The new logo is a throwback to one of the early ventures that Elon Musk first made a name with — X."
-    publishedDateTime: 2023-07-25T00:53:00Z
-    webUrl: "https://economictimes.indiatimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/primearticleshow/102092222.cms"
-    ampWebUrl: "https://m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
-        width: 710
-        height: 408
-        isCached: true
-  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
-    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
-    publishedDateTime: 2023-07-23T06:58:00Z
-    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 32
-    images:
-      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
-        width: 1280
-        height: 661
-        isCached: true
-  - title: "Founders Factory partners with Mediobanca to boost fintech investment"
-    excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."
-    publishedDateTime: 2023-07-24T08:30:00Z
-    webUrl: "https://www.altfi.com/article/founders-factory-partners-with-mediobanca-to-boost-fintech-investment"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/25gBva9WMYHsQ9IQAmyJXa/e7fe46a165ce36af245a541cde71fff8/Founders_Factory.png"
-        width: 1080
-        height: 608
-        isCached: true
   - title: "Mediobanca, Founders Factory join to support Italian fintech"
     excerpt: "Mediobanca & Founders Factory join forces to launch a €12m fintech venture studio, nurturing innovative startups with a focus on blockchain & AI."
     publishedDateTime: 2023-07-24T14:24:00Z
@@ -105,15 +47,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
-    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
-    publishedDateTime: 2023-07-24T12:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "qYWgAtdCFLBiK8ZgNKMoNVYQZHtSVUhhBhbRIKX3+OEB3ALM1MDBTV6Pqo0pSFYFoqSXiQIPDWh+TMAilU+gAUuo+yT8K1MaFaqy2H/aP6DXIGlKWUn7DDlJ2DZ0/594gS5WfaiueQL8LOmxALilH0We1VKkkvU3jfS2wWy5ndkVVPJxWqTH0GJgszQhLHkBKg3GFIkbBvMD12YTlS3Nm6TrP2JP0EP4gj3Qzrnc42TJjxCb8VXo1YOh3nGVvvMiKR5jmNnpPgVF7KxFkZ0yX1H/ZIYLU3wtbOHqNtUTQSlFW8q2RUJkmb+gFyh6+K6TxTYc4I4T2NTtgmMXSLwTRcTK98to+wNBxo31hGy96jw45VJxmhBj601Tc7M37M5soFYuIzOWc0GlWCt667Z3gJG/nHqoAfmhlDFDQ2hRxloOZmsu6Wu1dXjKtAbUMHzU6blJjeLuR6tzxSD4yddiUDU7rTSuYPwmp3avEE2HAitSFMJraqGmnwNCLNqt1vkbbS58YXOifAA8GM3gXXPhrw==;8skcKCx+XFs8wEWUQqgyMw=="
 ---

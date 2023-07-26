@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 699
         isCached: true
-  - title: "Startup Mantra: Upping brand watch potential the AI way"
-    excerpt: "Anantadi strategically places products within video content, tailored to viewers’ preferences and helping brands to connect with target markets in a non-intrusive manner using AI"
-    publishedDateTime: 2023-07-21T18:57:00Z
-    webUrl: "https://www.hindustantimes.com/cities/pune-news/startup-mantra-upping-brand-watch-potential-the-ai-way-101689965803068.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 17
 
 secured: "kq8Cr5uaM8xW04drJpoJfbsA63tbaODNsIsHOpcNauDgbgaGjqIdhriuK23NOe8JqGYV1lY0fHQaGKg+Rwv4xtyVnXOmQNaK2nuXluTVSlE8ElRhFB4dRpQIZstMItjlGimr0v+Eorn6yxflCx31nSTPT806zYnl3c4MQCLGXxh2gCawShzg3ZYUIA6uTcWsi5J8DP7TMNAWp61Z7xfJqHOTGTOGuCRdAnSOwj0akB8O30zw/dbmoKY9wgXpi2D168bR1vLONS+sRIUJV01J4OZx+OydzJ0q3ceXQRew188M4tx8ieqKtN2sPuSDcOFBfPXfkUze48xwUky8r+BPmNo2HlhxiKLf/yOYW0O4vidKZdxzmInGQKMJwGoawYqawlBj3w3n0/sTiLfHkz/fN9ZEcQyMWqaxXDQFDtPnTNNIepfsLrXWsJkb7wsGcJEqAntEUxGVXjFpavYJQwq18lJHtrbCJi1el6iDIuwzIOvNEGegTxFrUuQmxqpknFJf5MGKYIw4Z6qnBFR/pfx0bQ==;EMTL0LBFyn/LZPpsEpIfgw=="
 ---

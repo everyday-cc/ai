@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-07-22-in-ais-unlimited-potential-the-benefits-and-the-risks.md",
-      "title": "In AI’s unlimited potential, the benefits and the risks",
-      "excerpt": "DeepMind's AlphaFold breakthrough in 2020 accurately predicted 3D structures of proteins to atomic resolution, saving 1,000 million man-years. AI-based tools can now create music, poems, and manuscripts faster and better.",
+      "path": "_news/2023-07-26-a-new-partnership-to-promote-responsible-ai.md",
+      "title": "A new partnership to promote responsible AI",
+      "excerpt": "Today, Google, Microsoft, OpenAI and Anthropic published a joint announcement establishing the Frontier Model Forum.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece",
+      "webUrl": "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/",
+      "originalUrl": "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 149,
       "tags": null,
       "images": [
         {
-          "url": "https://th-i.thgim.com/public/incoming/yi62r6/article67107471.ece/alternates/FREE_1200/IMG_3762337272_0a0da1f21_2_1_2PA3MR81.jpg",
-          "width": 1200,
-          "height": 699,
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.width-1300.png",
+          "width": 1300,
+          "height": 729,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece/amp/",
-      "publishedDateTime": "2023-07-22T08:29:00-07:00",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/amp/",
+      "publishedDateTime": "2023-07-26T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {

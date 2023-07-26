@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/salesforce-takes-a-giant-leap-with-g
 webUrl: "https://analyticsindiamag.com/salesforce-takes-a-giant-leap-with-generative-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI, automation to take center stage as IT demands surge: Salesforce survey"
-    excerpt: "Salesforce's latest State of IT survey highlights the role of AI and automation at a time when IT demands continue to surge."
-    publishedDateTime: 2023-07-21T18:05:00Z
-    webUrl: "https://venturebeat.com/ai/ai-and-automation-take-center-stage-as-it-demands-surge/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Salesforce CEO shares his predictions for AI and the future of work"
     excerpt: "Salesforce founder Marc Benioff is among the few tech pioneers who is also still CEO at a groundbreaking company born in the 1990s."
     publishedDateTime: 2023-07-24T13:04:00Z

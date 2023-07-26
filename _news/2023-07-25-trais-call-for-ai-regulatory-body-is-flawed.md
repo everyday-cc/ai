@@ -51,15 +51,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Expert Ratings for C3.ai"
-    excerpt: "Below is a summary of how these 11 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts are on the stock"
-    publishedDateTime: 2023-07-24T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1032469877"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "7qsRyOzWzpDw+NZQ5q/PpAwrMEuWleNtFhFcaBNNjM4ZaTsjt+AAjPuEFsOUpRPfspWPBZtYE+0zuUOeSY4z2ileAKY25iFEggd3jMBbYrXtiNr2QxRS+zPi9JxeyUfO98jzIkTzccKGgMbR6Bg0KUOOozAOiRcXr0n96M26wYNh4Zh6HjmZzeOzPLFokT7E4TJLdN11uHN+aw6CKeY6j5MA3RlvIN3qIP+Rk7O4jIAZrBfDXY49B+aRlUcPthXpHb8icdwy2EiBlS8MWV8wezVbQMqdEzi+9pSVh+wH/c9js2qD1dfjR+FdWU3kn0Z/8JlnNqUjRtH0Sz77E+zBv6rBFEuov4Da9z3wNmKzcElRKFBnzO7q9/WpscbQxnOoJa6jvm00tbweb/Qa5chHfZfrzU1QrNewaZ7f3YYtPUsRc2G8/416Vz0P43Xh3P8u1rIXgwlWuKHzVEJ0AXj9LDjqr44INkvzqjeorWYsciPqKHySO9pUdDRP+7u9R1wr2ROw2Q1oacPSG9ECc3dyaA==;3A0xYqIniNUvTXOhgd04xw=="
 ---
