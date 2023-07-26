@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The White House and big tech companies release commitments on managing AI"
-    excerpt: "Presidents and CEOs from leading tech companies that are creating artificial intelligence have agreed to several commitments on sharing, testing and developing new AI technology, the... Read More"
-    publishedDateTime: 2023-07-24T08:28:00Z
-    webUrl: "https://woub.org/2023/07/22/the-white-house-and-big-tech-companies-release-commitments-on-managing-ai/"
+  - title: "AI Is Rewriting the Rules of $200 Billion Games Industry"
+    excerpt: "“AI is the game changer I've been waiting for,” 48-year-old Hanazawa said. By freeing developers from the burden of mass-producing graphics, it promises to revitalize the entire industry. “Publishers will be able to take more risks, creators can become creative again, and users as a result can choose from a much wider variety of games.”"
+    publishedDateTime: 2023-07-26T15:56:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-is-rewriting-the-rules-of-200-billion-games-industry-71690311562305.html"
     type: article
     provider:
-      name: WOUB
-      domain: woub.org
-    quality: 36
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 57
     images:
-      - url: "https://woub.org/wp-content/uploads/2023/07/gettyimages-1258873333_custom-6e8cb3e6184fafdf6d9aa9ae11ebd8425a23cb04-scaled-e1690052565770.jpg"
-        width: 1200
-        height: 564
+      - url: "https://images.hindustantimes.com/tech/img/2023/07/26/1600x900/ARGENTINA-DISAPPEARED-HUMAN-RIGHTS-AI-PORTRAITS-4_1690345459702_1690345485959.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "ZU0SFKTEw3YB0j40kq7nw7QLi2nFjRq+IafjvKGyL54sCSzJ0Q/8JANvtZQmCy00y4I/aGvyuRde/swPEivZVqs+NOr8ML6XsjZIkK+iqxs/5VOeD1hjQ4aAl16DKS2oQudYQUA3muqQNJM1ISq+8CVgzhB/XElC0RczRujGCVYwg5MhQO9+eK8gEpLQXPHwIi2R2lJqtE+WMAsGC1KApkgp8Z3YkufaLoHc31F6ylcYq/LWppxPGoPTMPqD73uV9nn7HwPiTecGfkpnc97FHgoQkASXTyJrRnHSkZ5+QZyCK+U4rMNuWhG6iugDzmZNhpTVSNOpW/AxcT7W03xVFhVmvnsaw3X4c3hNN++fSSo=;55+p6Ddgjm1Cb/0YgyVljw=="

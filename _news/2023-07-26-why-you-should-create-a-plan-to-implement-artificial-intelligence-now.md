@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-26T10:06:00Z
 originalUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
 webUrl: "https://www.inc.com/sania-khan/why-you-should-create-a-plan-to-implement-artificial-intelligence-now.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
@@ -40,6 +41,15 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "HR and Talent in the Era of AI"
+    excerpt: "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified"
+    publishedDateTime: 2023-07-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
     excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
     publishedDateTime: 2023-07-25T18:51:00Z
@@ -78,6 +88,6 @@ related:
       domain: it-online.co.za
     quality: 34
 
-secured: "Lu7BO/K8spSntOz4ti5A0moEp5VajPmTfZJwAtSumzpM1bF2UwRPIAVCpPfMj9NtLXWDXD2gllqqQaJ5ekiCMtDOlHJYyN/yOeWfXh2hQm5rC+3uBCYxGHigGLjAak34AwaFuSxxQBIYN7bOMnaM16DunFKdbIFj0IXahl66+sTWFhBeIOp2A2EGpEcfh2Mj8gF9Jl39dQxk80XEtBLv5EF4q9vsQZWdEcFSqK/2YheCG0+890aUqRHFn6H1spdNM2EL4z1LHzMVT+IODmmQws4CbzCZ+Ugy4BKMGvfy+vKIcuob1TrUrdTuXJvzW1MdbspRaegP70p5FAX4c/0UZYm7uxm+ueYBB8USnQQsGSs=;6TO5duo9Au8Jotsyzy84Eg=="
+secured: "2QEBTwgsOvO1I2+KZJ/hJoYNX6Kk9dEjSXVT1EkVJ+umgHYPwlDUP/wU4xGiKknrTcql9qbREPyXrkg2kGKSeeLZVVWK69gtHM/xI2bOH+O9wKXm17jy57BN43tV/P4hFRndmMmQXikrB3iS2UxFKb2+H+O1B0rWcjFd1nIO9SNKMNvEm53XIHZVIrbNU7IAiUN6FnZZ1dGL8ppVQa2dYIIsnchCEZ0LKJnJuY1m/LhOUehh8oi0nDhU8EKhkHOaPSz89jrGwpU1eh3aoCUxm4/h9Onu/yMPeF1aavXxBoZoNnaDnSW/cIgHNbmdXbapQSSzZ0X2D+Oh/24vSUmab5/L4XGCpYVL9sJ9BMI6Kq6W4Tav4C7RFODtiLRontmWk8d3V6gLZB10mDR+Og8ucz6ukkk1e+Gv7X5fGqZaAteWTJkXQPHDBXSj55VZAtKFqqfwo5k0w1B2WB57Rin7gb9pH4E9F+CmM+QDvVoLwwUPySQlwyBiEsgW7So1pi8IMMOq98rPVzVHauLAZBO0aw==;TlgA1amARoZO6GflWRBX1A=="
 ---
 

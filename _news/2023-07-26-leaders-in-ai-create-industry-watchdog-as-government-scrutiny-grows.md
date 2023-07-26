@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Top tech companies create joint AI safety forum"
+    excerpt: "Tech companies leading in the artificial intelligence (AI) industry are creating a joint forum aimed at ensuring safe and responsible development of AI models, the companies announced"
+    publishedDateTime: 2023-07-26T14:56:00Z
+    webUrl: "https://thehill.com/policy/technology/4120594-top-tech-companies-create-joint-ai-safety-forum/"
+    ampWebUrl: "https://thehill.com/policy/technology/4120594-top-tech-companies-create-joint-ai-safety-forum/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4120594-top-tech-companies-create-joint-ai-safety-forum/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/twitterAI_061623_getty_AI.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence"
     excerpt: "VERSES Technologies, a cognitive computing company specializing in the next generation of artificial intelligence, today announces the release of a landmark AI industry report \"The Future of Global AI Governance.”"
     publishedDateTime: 2023-07-24T13:58:00Z
@@ -62,6 +78,6 @@ related:
       domain: theglobeandmail.com
     quality: 12
 
-secured: "ZrlJd1QhtiVw73abSps1i72z+Ap3TjGKiMkwequzDfy5+G+dkiX+NJVzEtO0AMd0MSseQHdrM8759/GRn/QlEedllXmwweptO1HwlNxP+X3Zcvb6uMYFG3p96e04f5M0nCzj/Tsp7vaSTHiHYIup6FnecB90qahaOojFpNNR/9vqGefgajqK2lAByv1hOE4l2avbflx9qS0tMz4iC1i+oRZwv9gWghcUsYhAySSviQxr0K1ONwh5pC2PkQ1R0RXVahs5+WLf0DGAKCqotzxrjF+miNjRvzPoBu2VcR51OLwp3mWoSSteLJ0U1kUdPxkzcZRZPs8PFRbOlRICjlp9PN8gCjE1u38zb9qx2qi5mvA=;Bi0/GvaicQcAFAKll5PHUA=="
+secured: "4NJMrTMIbF8B4/lFC1fW/0WDyQowLEt+Ofql2+z1aCu3NPwo7zkNKqkPLEkB6DVlqN+OcpcyjD11QIlB4UJjuau7JSHf5p4L6F5PrSwW96rdh0IMj8N8LsnzplmTY5G/MyMOwdsZ+gqeBW+ibJJQyh87r6g6BYn2xTidPZYq9D+h9oLmmYhjqA8B7l+1eiB8c3ZM/04pBAUdfC5iHiqveod2fDQ/iBN4Vhe7jgTLCq1dMhZaUyO05AvpOCf/9wIrew+gp1x4hPh+P2yoH9cGo1ASIII9nDW8MMB7apyfBjQvVkNNnqluxG+0xCEdBpj/Bqga8MX7T7rJVikeNQcUJQ5tVBUfMrisOKxB8WBojDxgqESFtR8UR0AD/BtDCb0u2DvtPOr+1LwLK3+aZUmeKK9CsoP7E0pQ1q35+sA6LplrzdvFjuiHlUUq5yyPSZ/gcK5V6MbjMq+IutvBcFXXYgGi+TdXS47VXm9+/+BH9ij9pBm+5samqIpbmT3FmCZ+wPUd1CoqDJz0SARp5F74HA==;NDysM8STVXpjFE0yFF3wMQ=="
 ---
 

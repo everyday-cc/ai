@@ -36,18 +36,18 @@ related:
         height: 800
         isCached: true
   - title: "Proposals aim to regulate artificial intelligence in the workplace"
-    excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
-    publishedDateTime: 2023-07-25T21:19:00Z
-    webUrl: "https://www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/"
-    ampWebUrl: "https://www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/MRAC7X6R2BGLBNR7ULAJNOSKVA/?outputType=amp"
+    excerpt: "WASHINGTON, D.C. — As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace. A new proposal dubbed the No Robot Bosses Act aims to protect employees from being fired or having hiring decisions solely made by an automated system."
+    publishedDateTime: 2023-07-26T00:44:00Z
+    webUrl: "https://www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/"
+    ampWebUrl: "https://www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/?outputType=amp"
     type: article
     provider:
-      name: WHIO
-      domain: whio.com
+      name: WFTV
+      domain: wftv.com
     quality: 74
     images:
-      - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/FsihmC1tdsbGu5cej3mYp3hIEt0=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/B2YR7DZMJ5EHNLKKCTFKMJZT3M.jpg"
+      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/t9dCsco1nA-3MY1MYaf9jIw2g8c=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/Q4NAEE3OBFCJNG6MZ5ZOOL4VKE.png"
         width: 1440
         height: 810
         isCached: true

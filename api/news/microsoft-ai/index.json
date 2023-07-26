@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-26-ai-boosts-microsoft-to-its-best-quarter-ever-even-as-xbox-hardware-sales-tumble.md",
+      "title": "AI Boosts Microsoft To Its Best Quarter Ever Even As Xbox Hardware Sales Tumble",
+      "excerpt": "The industry is in the early stages of an artificial intelligence (AI) gold rush, and partially for that reason, Microsoft just reported its strongest quarter ever in its 48-year history.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/ai-lifts-microsoft-best-quarter-ever-xbox-sales-tumble",
+      "originalUrl": "https://hothardware.com/news/ai-lifts-microsoft-best-quarter-ever-xbox-sales-tumble",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/62149/content/Microsoft_Building_Hero.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform.md",
+      "title": "Protect AI raises $35M to expand its AI and machine learning security platform",
+      "excerpt": "Protect AI's security platform AI Radar provides AI professionals with real-time visibility for their ML environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "originalUrl": "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-better-ai-stock-c3ai-vs-opera-limited.md",
       "title": "Better AI Stock: C3.ai vs. Opera Limited",
       "excerpt": "C3.ai claims it's an \"enterprise AI software\" company, but it was previously known as C3 Energy and C3 IoT ( Internet of Things ). It only renamed itself again as C3.ai in 2019 as the market became more interested in AI technologies.",
@@ -10,7 +100,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -62,7 +152,7 @@
       "originalUrl": "https://www.rapidtvnews.com/2023072664015/mediakind-unveils-new-home-for-microsoft-azure-media-services-users.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -97,50 +187,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-26-microsoft-reports-201-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift.md",
-      "title": "Microsoft reports $20.1 billion quarterly profit as it promises to lead 'the new AI platform shift'",
-      "excerpt": "The software giant said its fiscal fourth-quarter profit was $20.1 billion, or $2.69 per share, beating analyst expectations for $2.55 per share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp",
-      "publishedDateTime": "2023-07-25T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-25-generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft.md",
       "title": "Generative AI Views Of MIT Prof And Goldman CIO Bode Well For Microsoft",
       "excerpt": "An MIT professor and Goldman's CIO told me GAI has a bright future. It could add $14 billion a year to Microsoft's revenue",
@@ -149,7 +195,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 358,
+      "heat": 368,
       "tags": null,
       "images": [
         {
@@ -203,7 +249,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 291,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -308,7 +354,7 @@
       "originalUrl": "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1385,58 +1431,6 @@
         "name": "datanami.com",
         "domain": "datanami.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-kakao-ups-its-game-in-generative-ai-with-karlo-20-an-ai-image-generator.md",
-      "title": "Kakao ups its game in generative AI with Karlo 2.0, an AI image generator",
-      "excerpt": "Kakao Brain, an AI unit of Korean tech firm Kakao, launched Karlo 2.0, an AI-powered tool that can produce images from prompts.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/",
-      "originalUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/이미지-카카오브레인-초거대-AI-이미지-생성-모델-‘칼로-2.0-공개_230710.png?resize=1200,581",
-          "width": 1200,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/12/kakao-ups-its-game-in-generative-ai-with-karlo-2-0-an-ai-image-generator/amp/",
-      "publishedDateTime": "2023-07-13T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

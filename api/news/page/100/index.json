@@ -2,6 +2,814 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-05-22-google-may-pray-for-ai-to-save-tensor-g3-chips-reputation-in-pixel-8-phones.md",
+      "title": "Google may pray for AI to save Tensor G3 chip’s reputation in Pixel 8 phones",
+      "excerpt": "After the dust has settled from Google I/O 2023 and all the interesting hardware launched at the event, Google doesn't want to miss a beat and is working towards its next big hardware product launch – its flagship smartphone, the Pixel 8 and Pixel 8 Pro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/mobile-phones/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones-68075.html",
+      "originalUrl": "https://www.digit.in/news/mobile-phones/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones-68075.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/tr:w-1200/tensor-g3-1280-e5866089b7.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/mobile-phones/68075/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/68075/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones",
+      "publishedDateTime": "2023-05-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-reduces-data-center-power-costs-by-up-to.md",
+      "title": "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%",
+      "excerpt": "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-artificial-intelligence-catalyzes-gene-activation-research-and-uncovers-rare-dna-sequences.md",
+      "title": "Artificial intelligence catalyzes gene activation research and uncovers rare DNA sequences",
+      "excerpt": "Artificial intelligence has exploded across our news feeds, with ChatGPT and related AI technologies becoming the focus of broad public scrutiny. Beyond popular chatbots, biologists are finding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/05/230519104559.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/05/230519104559.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
+      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+      "excerpt": "The artificial intelligence (AI) chatbot conducts nearly ... All are positioned for gains as robotics and AI adoption rises. Sector exposure is primarily in technology, industry and healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-automotive-deep-learning-platform-shifts-to-cloud.md",
+      "title": "Automotive deep learning platform shifts to cloud",
+      "excerpt": "One more chipmaker is taking its semiconductor design solutions to the cloud in a bid to reinvent the developer experience while easing evaluation tasks for deep learning-based automotive designs. In collaboration with software house Fixstars, Renesas is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
+      "originalUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-artificial-intelligence-is-revolutionising-healthcare.md",
+      "title": "How Artificial Intelligence is revolutionising healthcare",
+      "excerpt": "Artificial Intelligence (AI ... AI is often far more cost-efficient than manual healthcare. Its development could therefore make medical treatment and care possible for more people, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-the-3-ai-stocks-you-need-to-own-now-for-maximum-returns.md",
+      "title": "The 3 AI Stocks You Need to Own Now for Maximum Returns",
+      "excerpt": "The popularity of artificial intelligence has surged since the launch of ChatGPT in November 2022, which was developed by the AI startup OpenAI. This has resulted in the company being valued at $ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist.md",
+      "title": "Today's AI boom will amplify social problems if we don't act now, says AI ethicist",
+      "excerpt": "AI systems trained on internet data are in danger of reinforcing negative bias and causing societal harm. Salesforce's Kathy Baxter explains how to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "originalUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1052e43673c58630ef01e4edf1a0eb50a72c1c2c/2023/05/21/8ff5fae9-93d2-4635-81c0-23e5d09956f6/kathy-baxter-salesforce.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "publishedDateTime": "2023-05-21T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-does-ai-add-value-to-sales-intelligence.md",
+      "title": "How Does AI add Value To Sales Intelligence?",
+      "excerpt": "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-how-generative-ais-impact-on-digital-advertising-methodology-is-evolving.md",
+      "title": "How generative AI’s impact on digital advertising methodology is evolving",
+      "excerpt": "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/",
+      "originalUrl": "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_robot_creating_digital_advertising._Colorful_futuristi_61ae1c6e-6949-4ee2-abcc-91b87d5c6f19.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/",
+      "publishedDateTime": "2023-05-21T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-googles-ai-search-could-mean-radical-changes-for-your-internet-experience.md",
+      "title": "Google's AI Search Could Mean Radical Changes for Your Internet Experience",
+      "excerpt": "It's powered by a large language model ... it's uncertain if SGE will translate to increased or higher quality traffic for sites. Microsoft didn't answer any questions regarding traffic to sources when using AI search. Google said it doesn't have plans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/4a99da63082828a1594b0c0ba3f4b7c3f9287d6d/hub/2023/05/11/65526df6-f863-45fa-95a0-4d05465a799e/google-io-2023-051023-66.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
+      "publishedDateTime": "2023-05-21T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-wall-street-week-ahead-artificial-intelligence-gives-real-boost-to-us-stock-market.md",
+      "title": "Wall Street Week Ahead: Artificial intelligence gives real boost to US stock market",
+      "excerpt": "Recent advances in artificial intelligence are fueling optimism over how businesses can operate more productively in the years ahead. They are also providing a big boost to the stock market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-u-s-stock-market-idUSL1N37G1V2",
+      "originalUrl": "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-u-s-stock-market-idUSL1N37G1V2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jUM9WeanIabp58xV9iwqGoIdO5U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCM7EYO3OFP4HKRIZ7ZMUVK77U.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now.md",
+      "title": "3 Undervalued Artificial Intelligence and Robotics Stocks to Buy Now",
+      "excerpt": "Artificial intelligence (AI) has engulfed the headlines ... Even Warren Buffett and Charlie Munger discussed AI and robotics at the Berkshire Hathaway annual meeting. But like most trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now",
+      "originalUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law.md",
+      "title": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
+      "excerpt": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6469acbdc2f130c6c676b6ea/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-05-21T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-bristol-experts-help-launch-first-driverless-buses-on-britains-roads.md",
+      "title": "Bristol experts help launch first driverless buses on Britain's roads",
+      "excerpt": "Bristol robot experts have helped create and launch what is being heralded as one of the most ambitious and complex trials of driverless ... together with artificial intelligence processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "originalUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.bristolpost.co.uk/incoming/article8443273.ece/ALTERNATES/s1200/0_TCR_BRI_160523AutonomousBusBRI_02.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "cdnAmpWebUrl": "https://www-bristolpost-co-uk.cdn.ampproject.org/c/s/www.bristolpost.co.uk/news/bristol-news/bristol-experts-help-launch-first-8443260.amp",
+      "publishedDateTime": "2023-05-21T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bristol Post",
+        "domain": "bristolpost.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-ai-can-you-tell-that-these-photographs-are-artificial.md",
+      "title": "AI: Can you tell that these 'photographs' are artificial?",
+      "excerpt": "A text prompt can be something as simple as \"woman shouting\" or \"twins\". The potential pitfalls of such content were recently demonstrated when German artist Boris Eldagsen entered this year's Sony World Photography Award with an AI-generated image and won.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-65562658",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-65562658",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1730D/production/_129698949_air.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-wales-65562658.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-65562658.amp",
+      "publishedDateTime": "2023-05-20T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
+      "title": "Humans could be controlled by robots, AI firm’s founder warns",
+      "excerpt": "LONDON: Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/21/humans-could-be-controlled-by-robots-ai-firms-founder-warns",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/21/humans-could-be-controlled-by-robots-ai-firms-founder-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/05/18/2079048.jpeg",
+          "width": 1240,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
+      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
+      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "publishedDateTime": "2023-05-20T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
       "title": "TSA testing facial recognition at more airports, raising privacy concerns",
       "excerpt": "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes",
@@ -324,881 +1132,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-google-at-io-2023-weve-been-doing-ai-since-before-it-was-cool.md",
-      "title": "Google at I/O 2023: We’ve been doing AI since before it was cool",
-      "excerpt": "That Google I/O show sure was something, wasn't it? It was a rip-roaring two hours of nonstop AI talk without a break. Bard, Palm, Duet, Unicorn, Gecko, Gemini, Tailwind, Oter—there were so many cryptic AI code names thrown around it was hard to keep track of what Google was talking about.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
-      "originalUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/chrome_dcahmkPPXG-800x450.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
-      "publishedDateTime": "2023-05-20T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-china-is-using-ai-to-raise-the-dead-and-give-people-one-last-chance-to-say-goodbye.md",
-      "title": "China is using AI to raise the dead, and give people one last chance to say goodbye",
-      "excerpt": "They wanted to speak to their dead grandparents one last time, so they used artificial intelligence to rebuild loved ones they'd lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6453d02bb4a8cd00187ac433?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "publishedDateTime": "2023-05-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-we-put-googles-new-ai-writing-assistant-to-the-test.md",
-      "title": "We Put Google’s New AI Writing Assistant to the Test",
-      "excerpt": "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/",
-      "originalUrl": "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-ai-will-have-the-most-negative-impact-on-emerging-workforces.md",
-      "title": "AI Will Have The Most Negative Impact On Emerging Workforces",
-      "excerpt": "AI has been around for a while, as have its many dangers. In ‘The Levelling’ we wrote about how algorithms were both causing and provoking inequalities and social injustice. Last summer we flagged the very sinister example of how the Spiez Laboratory in Switzerland (see the Final Problem) one of whose specialisations is the study of deadly toxins and infectious diseases (located not too far away from the Reichenbach Falls),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64688f919388e7fff92e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/",
-      "publishedDateTime": "2023-05-20T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse.md",
-      "title": "Meta is developing its own AI chip - here's hoping it goes better than the Metaverse",
-      "excerpt": "Meta has announced the development of a new chip, specifically designed to run AI models. The company is known for its family of apps including Facebook, Whatsapp and Instagram – and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse",
-      "originalUrl": "https://www.techradar.com/news/meta-is-developing-its-own-ai-chip-heres-hoping-it-goes-better-than-the-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zaTtzPgujXeNSbkNxLYiJX-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-20T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-lawmakers-reveal-ai-concerns-over-future-of-humanity-following-openai-ceos-senate-testimony.md",
-      "title": "Lawmakers reveal AI concerns over 'future of humanity' following OpenAI CEO's Senate testimony",
-      "excerpt": "Displaying bias, foreign adversaries like China becoming dominant, and outsmarting humans were all top artificial intelligence concerns for members of Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony",
-      "originalUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp",
-      "publishedDateTime": "2023-05-19T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-schools-bewildered-by-ai-advances-say-head-teachers.md",
-      "title": "Schools bewildered by AI advances, say head teachers",
-      "excerpt": "UK schools have been left confused by the fast rate of change in artificial intelligence (AI) and its impact on education, head teachers are warning. In a letter to the Times, educators from the state and private sector say developments are \"bewildering\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-65655010",
-      "originalUrl": "https://www.bbc.com/news/uk-65655010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10AC0/production/_129788286_gettyimages-450123483.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-65655010.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp",
-      "publishedDateTime": "2023-05-19T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-to-see-one-of-ais-greatest-dangers-look-to-the-military.md",
-      "title": "To See One of A.I.’s Greatest Dangers, Look to the Military",
-      "excerpt": "Anyone can read what you share. By Peter Coy Rogue artificial intelligence versus humankind is a common theme in science fiction. It could happen, I suppose. But a more imminent threat is human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/19/opinion/artificial-intelligence-military-nuclear.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-this-shark-2-in-1-robot-vacuum-and-mop-is-like-living-with-a-dream-roommate.md",
-      "title": "This Shark 2-in-1 Robot Vacuum and Mop Is Like Living With a Dream Roommate",
-      "excerpt": "I’ve tinkered with and used a fair share of robot vacuums while bouncing from rental to rental this last decade. I’ve seen friends’ vacs get caught under bed frames and TV stands, listened to roaring motors suck up cat hair like margarita salt,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
-      "originalUrl": "https://www.popularmechanics.com/home/interior-projects/a43867014/shark-ai-ultra-2-in-1-robot-vacuum-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/shark-wandvac-245-645d52ec32723.jpg?crop=1.00xw:0.671xh;0,0.290xh&resize=1200:*",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only-xbb-variants-and.md",
-      "title": "Health News Roundup: US FDA approves Genmab-AbbVie's blood cancer therapy; WHO recommends new COVID shots should target only XBB variants and more",
-      "excerpt": "A U.S. district court judge issued a temporary restraining order late on Wednesday after the two companies and the FTC reached an agreement that both sides said in a joint filing would permit a full briefing and \"less-compressed consideration\" by the court of the FTC request.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only",
-      "originalUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2021_16_11_27_8166358.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only?amp",
-      "publishedDateTime": "2023-05-19T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-procedural-justice-can-address-generative-ais-trustlegitimacy-problem.md",
-      "title": "Procedural justice can address generative AI’s trust/legitimacy problem",
-      "excerpt": "He previously directed Integrity Research at Facebook and built out Twitter’s first Social ... The much-touted arrival of generative AI has reignited a familiar debate about trust and safety: Can tech executives be trusted to keep society’s best ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
-      "originalUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1255249519.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
-      "publishedDateTime": "2023-05-19T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-the-senates-hearing-on-ai-regulation-was-dangerously-friendly.md",
-      "title": "The Senate’s hearing on AI regulation was dangerously friendly",
-      "excerpt": "who is now chief ethics scientist at Hugging Face. “This would be a straightforward way to bring ‘responsible AI’ into a legal structure.” Mitchell added that good regulation depends on setting standards that firms can’t easily bend to their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws",
-      "originalUrl": "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/WoGkXMr05zDidN5UuaGgC3cGRww=/884x106:5313x2694/1200x628/filters:focal(2967x1658:2968x1659)/cdn.vox-cdn.com/uploads/chorus_asset/file/24667929/1490690420.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead.md",
-      "title": "Will AI Kill Human Creativity? What Fake Drake Tells Us About What’s Ahead",
-      "excerpt": "In this article I’ll consider implications of AI-generated music for what I see as the inevitable creative class wars against AI, and what it means for us all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6467d47a9748b3776441e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
-      "publishedDateTime": "2023-05-19T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind.md",
-      "title": "UK court tosses class-action style health data misuse claim against Google DeepMind",
-      "excerpt": "Google has prevailed against another U.K. class-action style privacy lawsuit after a London court dismissed a lawsuit filed last year against the tech giant and its AI division, DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
-      "originalUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-874872698.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
-      "publishedDateTime": "2023-05-19T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit.md",
-      "title": "High-Stakes: Generative AI Shakes Global Diplomacy At Japan’s 2023 G7 Summit",
-      "excerpt": "The G7 in Japan discussions are focused on the need for regulations to keep up with the rapid advancements in AI. Our goal is to start a global dialogue on the best way to adopt generative AI. It's important to start this conversation now before the AI wave overtakes us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6467ae6159db0ac6342e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
-      "publishedDateTime": "2023-05-19T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-which-artificial-intelligence-stocks-are-institutional-investors-buying.md",
-      "title": "Which Artificial Intelligence Stocks Are Institutional Investors Buying?",
-      "excerpt": "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
-      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai.md",
-      "title": "Apple looking to hire machine learning engineers with an interest in generative AI",
-      "excerpt": "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
-      "originalUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg",
-          "width": 1312,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
-      "publishedDateTime": "2023-05-19T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-how-to-build-and-scale-ai-projects-in-2023-and-beyond.md",
-      "title": "How to build and scale AI projects in 2023 and beyond",
-      "excerpt": "The artificial intelligence (AI) industry has made significant strides in recent years, making it a vital component of business growth and innovation. The increasing adoption of AI across industries has created a significant demand",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/a-window-to-the-tech-world/how-to-build-and-scale-ai-projects-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

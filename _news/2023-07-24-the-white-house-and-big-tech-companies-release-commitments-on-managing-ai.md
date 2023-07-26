@@ -24,20 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is rewriting the rules of US$200 billion video games industry"
-    excerpt: "From San Francisco to Tokyo and Hong Kong, the companies that power the digital entertainment sphere are responding to decades of escalating costs and stagnant prices by adopting and developing new AI tools."
-    publishedDateTime: 2023-07-25T03:50:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3228805/artificial-intelligence-rewriting-rules-us200-billion-video-games-industry"
+  - title: "AI Companies Are Trying to Have It Both Ways"
+    excerpt: "Last week, seven technology companies appeared at the White House and agreed to voluntary guardrails around the use of AI. In promising to take these ... as Twitter and Facebook were freshly public and start-ups abounded, did change things (though the ..."
+    publishedDateTime: 2023-07-24T22:58:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 62
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/25/728a8e3b-ab0b-4a50-ad2c-b82c189f4353_04f6242c.jpg?itok=6jwOZYNo&v=1690256330"
+      - url: "https://cdn.theatlantic.com/thumbor/L-Ee5j36-Th9i-bxuAffSAYJMWE=/0x296:5843x3339/1200x625/media/img/mt/2023/07/GettyImages_1561046611-1/original.jpg"
         width: 1200
-        height: 630
+        height: 625
         isCached: true
+  - title: "Major AI companies form group to research, keep control of AI"
+    excerpt: "“Companies creating AI technology have a responsibility to ensure that it is safe, secure, and remains under human control,” said Brad Smith, vice-chair and president of Microsoft. “This initiative is a vital step to bring the tech sector together in advancing AI responsibly and tackling the challenges so that it benefits all of humanity.”"
+    publishedDateTime: 2023-07-26T13:16:00Z
+    webUrl: "https://arstechnica.com/ai/2023/07/major-ai-companies-form-group-to-research-keep-control-of-ai/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
+    excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
+    publishedDateTime: 2023-07-22T12:17:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/leading-artificial-intelligence-companies-make-voluntary-commitments-to-manage-the-risks-posed-by-ai/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 17
 
 secured: "JwxgZRCHb5zJWe7BqXR11fYFpgR5NPU0KqWx9ooH1qEMZaFFaahBVbEFXmPfMP66r9DFq3Yr+riJCI4AsRMQ2zQXnKl8wDLNEusPmLcOS32Xrj3mtgQUB45ijwse1G6AHNY9/eqw7/2lbipmRuDHsMbnlXd6hIcQZ5XHWMSXNka5yWLEq1DCpu10k17DyemzXYVQYlMzJSklt6RyphzFizt8+bSI8FJWV49XbEEJzz/l47IUCsBz0yllr2/6tzKwJ6+XH4FkCrRJswXIYITsfei2xCz9BMNxwL14fCuTHu638CdbAh4pfpEPd8yhFW9KIjinrDWAAolIgWPDobUSWMQ3IcSTPiZGM3zWqfxjXbI=;cC5GYpYZajS5gu7aKhX7lA=="
 ---

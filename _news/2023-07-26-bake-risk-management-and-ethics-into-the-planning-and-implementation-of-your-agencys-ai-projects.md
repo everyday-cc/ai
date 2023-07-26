@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "HR and Talent in the Era of AI"
+    excerpt: "The emergence of generative AI and foundation models has revolutionized the way every business, across industries, operates at this current inflection point. This is especially true in the HR function, which has been pushed to the forefront of the new AI era. In recent IBV research, 36% of CEOs identified"
+    publishedDateTime: 2023-07-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/hr-and-talent-in-the-era-of-ai/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "AI is amazing and frightening at the same time"
     excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
     publishedDateTime: 2023-07-24T17:28:00Z
@@ -63,7 +72,7 @@ related:
     provider:
       name: Inc
       domain: inc.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1497617145_532808_dm4iux.jpg"
         width: 1024

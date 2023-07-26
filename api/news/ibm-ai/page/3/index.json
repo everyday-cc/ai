@@ -2,6 +2,184 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-29-digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets.md",
+      "title": "Digital twin vs digital thread: Two complementary ways to digitally replicate assets",
+      "excerpt": "As digital transformation accelerates in manufacturing and engineering, two concepts have gained significant traction: digital twins and digital threads.\nThe post Digital twin vs digital thread: Two complementary ways to digitally replicate assets appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets/",
+      "originalUrl": "https://www.ibm.com/blog/digital-twin-vs-digital-thread-two-complementary-ways-to-digitally-replicate-assets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T06:13:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-what-is-integrated-business-planning-ibp.md",
+      "title": "What is Integrated Business Planning (IBP)?",
+      "excerpt": "Integrated Business Planning (IBP) framework that integrates strategic planning, analysis, and reporting to drive business outcomes. \nThe post What is Integrated Business Planning (IBP)? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-integrated-business-planning-ibp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-29-chatgpt-alternatives-exploring-the-top-6-ai-powered-chatbot-options.md",
+      "title": "ChatGPT Alternatives: Exploring the Top 6 AI-Powered Chatbot Options",
+      "excerpt": "As AI-powered chatbots continue to enhance customer interactions, ChatGPT alternatives and substitutes open up a world of possibilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html",
+      "originalUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technotification.com/wp-content/uploads/2023/06/qDycEZYiu4ByWEZfuRKe34-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html/amp",
+      "cdnAmpWebUrl": "https://www-technotification-com.cdn.ampproject.org/c/s/www.technotification.com/2023/06/chatgpt-alternatives-top-6-chatbot.html/amp",
+      "publishedDateTime": "2023-06-28T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technotification.com",
+        "domain": "technotification.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-28-what-is-slow-productivity.md",
+      "title": "What is slow productivity?",
+      "excerpt": "Slow productivity can be defined as working at a slower pace on fewer tasks at a time to increase workplace productivity and satisfaction.\nThe post What is slow productivity? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-slow-productivity/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-slow-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/90aeeede-ffda-4f77-8bd18923788d72bd.xl_2x1.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-28T09:35:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-28-new-energy-and-carbon-emission-tools-for-your-business-applications-with-ibm-turbonomic.md",
       "title": "New energy and carbon emission tools for your business applications with IBM Turbonomic",
       "excerpt": "IBM Turbonomic now offers new energy and carbon emission reports to help IT teams identify and reduce energy consumption.\nThe post New energy and carbon emission tools for your business applications with IBM Turbonomic appeared first on IBM Blog.\n",
@@ -1223,202 +1401,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-ibm-brings-generative-ai-commentary-and-ai-draw-analysis-to-the-wimbledon-digital-experience.md",
-      "title": "IBM Brings Generative AI Commentary and AI Draw Analysis to the Wimbledon Digital Experience",
-      "excerpt": "IBM AI Draw Analysis creates a new statistic for tennis, offering deeper insight into a player's potential path to the final LONDON and ARMONK, N.Y., June 21, 2023 /PRNewswire/ -- IBM",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-wimbledon-digital-experience",
-      "originalUrl": "https://www.asiaone.com/business/ibm-brings-generative-ai-commentary-and-ai-draw-analysis-wimbledon-digital-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2023/IBM_Wimbledon_App_0.jpg?itok=Qp3eSKI4",
-          "width": 599,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-re-invent-your-warranty-process-with-a-digital-twin.md",
-      "title": "Re-invent your warranty process with a digital twin",
-      "excerpt": "Warranty management is a continuous process. Learn how it will be reinvented with the wide availability of digital twins.\nThe post Re-invent your warranty process with a digital twin appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/re-invent-your-warranty-process-with-a-digital-twin/",
-      "originalUrl": "https://www.ibm.com/blog/re-invent-your-warranty-process-with-a-digital-twin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/09052022_SpencerLowell_Working_World_Le_Monde_Tesla_03.l_2x1-e1687276509879.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business.md",
-      "title": "Asset lifecycle management strategy: What’s the best approach for your business?",
-      "excerpt": "Each asset a company acquires goes through six main stages over the course of its life, requiring careful maintenance planning and management tactics.\nThe post Asset lifecycle management strategy: What’s the best approach for your business? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "originalUrl": "https://www.ibm.com/blog/asset-lifecycle-management-strategy-whats-the-best-approach-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/1z6_0227.xl_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T08:15:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-20-the-hybrid-cloud-forecast-a-podcast-with-ibm-fellows.md",
-      "title": "The Hybrid Cloud Forecast: A podcast with IBM Fellows",
-      "excerpt": "Explore the Hybrid Cloud Forecast, a podcast featuring a rotating cast of IBM fellows.\nThe post The Hybrid Cloud Forecast: A podcast with IBM Fellows appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-a-podcast-with-ibm-fellows/",
-      "originalUrl": "https://www.ibm.com/blog/the-hybrid-cloud-forecast-a-podcast-with-ibm-fellows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/2019_BigBets_ConnieZhou_01.lr_2x1.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-20T07:36:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

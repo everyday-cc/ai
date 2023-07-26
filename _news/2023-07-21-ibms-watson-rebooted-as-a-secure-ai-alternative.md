@@ -3,12 +3,9 @@ category: news
 title: "IBM’s Watson rebooted as a secure AI alternative"
 excerpt: "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now."
 publishedDateTime: 2023-07-20T20:51:00Z
-originalUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
-webUrl: "https://www.scmagazine.com/news/emerging-technology/ibm-watson-rebooted-ai-alternative"
+originalUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
+webUrl: "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
   name: SC Media
@@ -18,28 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://files.scmagazine.com/wp-content/uploads/2023/07/IBM-Watson.jpg"
-    width: 900
-    height: 568
-    isCached: true
-
-related:
-  - title: "Perth's Nexion to resell IBM ESG offerings and Watson AI"
-    excerpt: "ASX listed Nexion Group has entered a new agreement with IBM to become a Silver Business Partner so it can resell some of the vendor’s software solutions. The company will resell IBM’s artificial intelligence platform Watson and Sustainability Suite, incorporating asset management and environmental, social and governance (ESG) reporting."
-    publishedDateTime: 2023-07-24T23:03:00Z
-    webUrl: "https://www.crn.com.au/news/perths-nexion-to-resell-ibm-esg-offerings-and-watson-ai-598397"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20230725100452_0_0_0_0_70__News_watson20121227071906.png"
-        width: 525
-        height: 352
-        isCached: true
-
-secured: "SGxbwo7IvDe1NE6QFF63UDL8CojxDIXBrXLSe07Yn4ZPErumTscqnUX8UtGcAlD09rVx0wt3GJiQ1EWO13Pc04sH399yZimXjAhZXZXbYaw8M5loEjsIgphlEiIgbBl+Kwq+IEXKlvHCUjxKNRSdEoHKKLQ8Ma0WVzlkd2lypgf75I/SAiJ5agpvPo0i+1VayKWeBqvi0Jo5HucBQCy5h0/FGOQK4UZJJ6wMreNlSbKX+FvFmJ4XyN6pzWWZV6quv1ZKyL9uoWvywrf86Kfmrr622K3gjSpdjpgbaC7fB31mllz8rWCqP2Da2haso+jg/wDY22VuvV7ES7kCaZO43NzJpSLLSwiZgPZv8DnGB1UdMy4SCLwlE2sCRMmEi0mhSdkrdQy/rOn29z1SVAsnELB4ZECsDcXIBKSWq3CRlsci4jaxamHRWG29gXEW6Lox7vJItXBdRX+e5o0hiR/nBjR+MRDbYjTUOl6S2jVaubnESBb/FBtysDKrjy8w+byrqZFtyWxnymwlYJYQHqC5sQ==;vKlvTnqJcTFCsv0BbEomQg=="
+secured: "9SxGxOuO2M/3o6GoUBP7+oVXy7NcapSg5bQRPo6BASU6cDARXWGIyiBsRxWvgB8tKAP91GIhdsaex7X3t75bM3vfkYnF46QMBvC5roMygQBoukOQiWByR9vM9qnmJtxuE38xSrDBbCEiVlrhQ0+7TkiFjAjLAybXVIoA4Krw0yjluNJxrVqySdQ/GM1p4zzVXycFS2XdYTBf1xEng1Gfqe08RbVM8EeyDOTz+lJ3oLf1jDaVR/bWNW4MhbncN+7LL0YsNSZh8+eHlQ7VrD/M4JvQR5ouv9fyW2fu7Io1vS9hwNyuJdE9eCahHLc1lvuN3WG9pAY0kCEaPng6CC+K/kURpO9tmeJPKfXxTjry/lpYdvze58uE1j95cmdrly2XxQ1ZI6rIKPMMx8Q52nr6ZufV47JOYtFmNDd24owN7jTwq++Izfz7eWwVkee3u7G80QQ2UHOo32clbMIGgxO0o+20hL1xr7GKITLd6XkkIl5rApkU1jExn5ncQqh6cjg7sjg9g4L4Psi3ErngXcM37g==;WNT2g0kMIEFxD5r5eUBLUQ=="
 ---
 

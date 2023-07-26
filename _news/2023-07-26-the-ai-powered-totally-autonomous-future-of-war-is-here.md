@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-o
 webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Wired
@@ -29,23 +29,39 @@ images:
     isCached: true
 
 related:
-  - title: "Brian Cox Warns Of A 'Scary' Future Where There's An AI Brian Cox"
-    excerpt: "The \"Succession\" star gave a fiery Logan Roy-esque speech at a London rally in support of the SAG-AFTRA and WGA strikes."
-    publishedDateTime: 2023-07-21T22:16:00Z
-    webUrl: "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8"
-    ampWebUrl: "https://www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/brian-cox-ai-actors-writers-strike_n_64baa8c1e4b0ad7b75f8d5b8/amp"
+  - title: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI"
+    excerpt: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI - Autonomous mobility has faced numerous challenges that have hindered its widespread adoption."
+    publishedDateTime: 2023-07-24T02:52:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/minus-zero-an-autonomous-mobility-startup-takes-a-natureinspired-approach-to-ai-nid-224244-cid-19.html"
     type: article
     provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
     images:
-      - url: "https://img.huffingtonpost.com/asset/64bababa2600003700a36acc.jpeg?cache=9oJT8EzIIC&ops=1200_630"
-        width: 1198
-        height: 630
+      - url: "https://www.siliconindia.com/news/newsimages/k4WeCHUB.jpg"
+        width: 570
+        height: 367
         isCached: true
+  - title: "The AI Arms Race: Uncovering the Future of Web 3.0"
+    excerpt: "He emphasized the need to learn from past mistakes, like how Web 2.0 propagated vanity through likes and shares, suggesting that society has evolved beyond superficial engagements. He stated, \"Working in our job is to basically figure out what benefit it can do and what those scenarios that actually benefit"
+    publishedDateTime: 2023-07-24T20:42:00Z
+    webUrl: "https://www.thestreet.com/cryptocurrency/the-ai-arms-race-uncovering-the-future-of-web-3-0"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
+  - title: "The Critical Role of VC In the AI Economy of the Future"
+    excerpt: "As we continue to navigate the aftermath of a global pandemic, the resilient rebound of the American economy outpaces those of other advanced nations. Yet fresh challenges arise as we a"
+    publishedDateTime: 2023-07-26T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2023/07/26/the_critical_role_of_vc_in_the_ai_economy_of_the_future_968453.html#!"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 17
 
-secured: "xtZZwrm2lb/WtDjAXLZ2ZEBUeGlr46ssvgiYDZVTlVkIVccIF9LmzyMrlBJg3eoNe7PifUWmz2VAVgvCG/Lp2CJKVoajN46nz8nfL6oqy9UwuDEBJC47QNFVS31zsmsnGNH+2uZk+Wecx/tVIp0+PKHOHHAfJ6yHmfT4bwrEqw/uxZIMVXvWovrqtpY94PpIRd8Q29cHThV5sthE3eubXms2XqkA2zeY6wGr9yNParb7ZyZQXyLMLOYMApHjcqCVKsgbcB2vJ9NogpSfT/EVEvZddYayJGrIEPQ2Obn+RDoB+lJnha714kojs9DDc1Mhs0gW7X+XjFxvO5oobunKFTnaAYeFVoGOzC2J1h9bjsM=;c8o5D9mSg7VkiIRmzdgacA=="
+secured: "XmDu8R6MhcnaqH/LjHtNtK+1yTe4g75sutwR2Pp/TFMxBN2CQVEalqHqQlkyZpI4SgtRUQWNY727mWP8aqUkTJT0GjzugMBmeJ7kwZC4AYoAwn7VPmzfanqvQRHoBEfPjt7hKPm2f6p9pV5YyWC/YCSkzjz5QyPWnsM8Ajg0cbaK920wRCAhdCBFm7rO78VJkhBhNGNU+62Pu3ZTGrzbgCvAeOcvC6bn5H2fC5q6xy2RGpequMC9/sE/0uJd2OMcxITwVXdL/92t/m4lJi8ZG6XrfcgordoVEOnLFfDHRIrTIQft4JieKQcGpnSH8IgdgchgDKlteX7vhmm+rX7iQXI5YlKL/qFxoRpVIw/cdd8oaxMQc8nAzMvNtXfLrjeTE8at3UO85BlnAwzs2ebSwKlNeZtwEEmP/KxQspzCF28cNYbjbCHb8IFDW15PskNxLlmTwsU+QNVDdiyQuveeoKTlAEvr5cC77HB30fQmME3VPzDB9+Jo9upGWbHs7EyayLrMkso7x/n5UriRFLAXJQ==;spo9/XS74bMdpX3c1d1+2A=="
 ---
 

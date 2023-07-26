@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft reports slowing cloud growth as it awaits AI revenue"
 excerpt: "The Redmond-based software giant has been introducing generative AI products and services to help boost flagging cloud sales."
-publishedDateTime: 2023-07-25T21:35:00Z
-originalUrl: "https://www.bizjournals.com/seattle/news/2023/07/25/microsoft-cloud-growth-ai-projections-earnings.html"
-webUrl: "https://www.bizjournals.com/seattle/news/2023/07/25/microsoft-cloud-growth-ai-projections-earnings.html"
+publishedDateTime: 2023-07-26T14:12:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2023/07/26/microsoft-cloud-growth-ai-projections-earnings.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/26/microsoft-cloud-growth-ai-projections-earnings.html"
 type: article
 quality: 34
 heat: -1
@@ -93,29 +93,33 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search"
-    excerpt: "Microsoft has been busy updating its Semantic Kernel open source SDK for creating AI-infused applications, recently adding Java support and integration with Azure Cognitive Search."
-    publishedDateTime: 2023-07-21T22:09:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/07/21/semantic-kernel-updates.aspx"
+  - title: "Anthropic, Google, Microsoft and OpenAI form an AI safety group"
+    excerpt: "The Forum plans to establish an advisory committee, charter and funding. It has laid out for core pillars it intends to focus on furthering AI safety research, determining best practices, working closely with policymakers, academics, civil society and companies, and encouraging efforts to build AI that \"can help meet society's greatest challenges.\""
+    publishedDateTime: 2023-07-26T12:34:00Z
+    webUrl: "https://www.engadget.com/anthropic-google-microsoft-and-openai-form-an-ai-safety-group-122032326.html"
     type: article
     provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
+      name: Engadget
+      domain: engadget.com
+    quality: 64
+  - title: "Microsoft's AI Bets Have Failed to Hurt Google (So Far)"
+    excerpt: "Google has retained market share versus Bing this year, even on desktop computers. Alphabet will likely benefit from AI due to its cloud computing division. Alphabet shares still look cheap after running higher this year."
+    publishedDateTime: 2023-07-26T13:21:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/microsofts-ai-bets-have-failed-to-hurt-google-so-f/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+  - title: "Microsoft and Google can’t stop talking about AI, and this chart proves it"
+    excerpt: "As Microsoft and Alphabet get more serious about artificial intelligence, they're spending a lot more time discussing it with the investment community."
+    publishedDateTime: 2023-07-26T12:52:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-and-google-cant-stop-talking-about-ai-and-this-chart-proves-it-9c334c2e"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robot_coffee.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Google, Microsoft, and more commit to AI safety at White House, Apple absent"
-    excerpt: "Today, it was announced that seven leading AI companies convened at the White House to pledge their voluntary commitment to the safe, secure, and transparent development of AI technology. These companies included Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI."
-    publishedDateTime: 2023-07-21T19:47:00Z
-    webUrl: "https://www.androidauthority.com/ai-development-white-house-apple-3347464/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 61
   - title: "KPMG and Microsoft enter a landmark agreement to put AI at the forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of busine"
     publishedDateTime: 2023-07-23T08:28:00Z
@@ -347,6 +351,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "1/67sG2lyv0adbDcsZGqHgT25bUL0su0EoUJUgAoS091Vszd/fHs3g7gTAhPvT5rJRQNhJwfM5sx+KdzNcyjR0dbhrYP7deXH8u5mJSXqp64K3RxXM/MJnUWWRBqHG581/fwUtwcZQz7Gd3cmSeILoNakWjBaT0RQwlWgcJ5ojsnCkBFF8VZKyk80Da8w0Jt0F32cgWhX+RGUE5r+BKigDm4mm2S00LI3srmRjv8v2qKOrFX2t3FpKE5btsSXA6VOoSZdhSRZ+XCLmOh1/Bba+RKe16rOlwq/2po7eZAmLvWA788vSTTNpTZRa0CJJIdSDMZxcaW6qa97zmgrAo+G+R8S8tml2/1rtE+V3+ewr3fpECSumd6OU6aSGKKUGJAwZbqpkmqBanmTIwSEIbK+PShEIcVh/n9VcUPiPaYSigyS6HYRRaBY7BLhiNliVr692dzGiA+Xash/HgDby5YCbfg0dgBmBFKVxXUx22007depkndhIY5s9Mhlf3BUDL946+96+JJ9ul+XOiUHqIgDA==;DBTIY1nVsnbMrvd7Z3Up5Q=="
+secured: "CdcP58rmpFAcXYbEWKphUg4eS5mG1WC2IfV2uzftCtXuFLZzzFzEgx8AAs+gKl1RHZyV8bosYR+u90rHAdZNMq6SGSNtSgF56o9bDzy2ocoW3QGTI+Rdek1KPuYki6FcMvbqzetwj/pp6TzGLq8+nLviJDThNGxweffgP2Iri996WBb1FHI7LNKMsSpS8vLYXs/aVUON1vwb7BjAGFCfN343Id0ekfj+ueUXdbb4dEzLcSQmJagTT9m8pvTtncZIe0QsI1BKAKcbgeLLeROMfENZaK09Dr9iNGO0E2S1+AZfeHjyXMs8Vk4TUB6oyYNa6VVSSpsGBJ0cULQOHLu0omSlr0hkGxBQOjynw6kU5ZcXVD0x5Psn5NSUXwhy5Iyyca66R5cwsZLBaISs1lSJZ3N/0jOPHXjxTwhXf7O8bUWCqBtrSFFQWpfDmCJ4wfFueZPocE7VjGIFJm6MeqS0j6IazOETg43gTqcjUubri7HadSh0t9ICVI6VdKoaP3XCS3XHMqBmwtk/Rm2qPQJ0YA==;xHvz1qZEpU/8LopvC5JwYg=="
 ---
 

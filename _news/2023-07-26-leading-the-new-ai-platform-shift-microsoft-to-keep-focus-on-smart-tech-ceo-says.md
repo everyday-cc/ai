@@ -52,7 +52,16 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 79
+  - title: "Microsoft sees AI making ‘gradual’ growth contributions"
+    excerpt: "After a year where AI headlines have sent stocks soaring, Microsoft management reminded investors that AI's contributions to revenue won't happen over night."
+    publishedDateTime: 2023-07-26T12:43:00Z
+    webUrl: "https://www.aol.com/microsoft-sees-ai-making-gradual-124300655.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
 
-secured: "+WvXRIMajTKdcvL97euRUAhuUr0LCPViAbx/xWx+n7jfgPM2Dbt42oyhKybvhXKHExpWPoMnN3zzEPe7M2hTtcr3WM0DKwKLzl8yGpgBppgcCZPBSf+PpGem3RbIJkGR2hbII84YYyr0x54GftbKDnFhWgk43dMyRoyv+ubKAqdASxpiIuCnTNEVtVa3+8QKVpCla47NMl+Nh3mWqQ1ehpiYB5IQgpeQVXHMETGKFH9d/bxz9OllTe4eBM8cQl7hOgurRKoAl0NEQw3szOjdapB7YPkTL3sdIUXKMW3zkmQFb69ILNOvievJYO8UO3dB2Tqm+7JWuyoL8kFOKBJ0i0N5tD7nj/o4o9txm6LDkvE=;dIsePomG6W4K7PAmRrmIXw=="
+secured: "ECcFRthsK4RFerP1Sq8S2IhipQunrrcVnMEv/lSUZYBKeaXzP/Mlt9AiXD7FHxtp6Awe/y8vWLUFulgKADmvIi4LdBMQ6ndQ5pojVVCVGq04AKTapHxBk6erjQV/yxrrS5GZqbeOL3rkPdziAumIO/sUUngGDBuYnskZUm5aVXkGzgzkU/tT4Vqetc7Cn4EdEtnFbqo+KVVvp+dXLK8ZVgew5ldclFE4Xt5GtR6lrBiWg29bSiBdeZfL+h+QiF0IZROB4BRwDFf+kpMUNh2FzvKKgXszD143wuVIT/MVZOnadv/OyeNIVozuiLKIoaNt1G2T6YS94NYAnDplXMSb7kFkADBloWvTaVgxBmh7gayN7SNhyIvmKibxhCKOgPcaohuBtZYv7NVIWkyyvPnvSY9V6o6XnyXTgb5PgunwvudJ97MgvRlDsB4xHCId9CVZwv3PjBFVaxvjavqR2ti9LAsuOopNiw+/IF+CkfX6r+dr0S/Cjwb5pLUvkgPs4imaNNqeD0u2+cQB/bCpAS3QWw==;0+15Lh9WPIwpa1wQSiMp5Q=="
 ---
 

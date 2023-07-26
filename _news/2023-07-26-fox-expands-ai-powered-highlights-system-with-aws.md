@@ -58,15 +58,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 17
-  - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
-    excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
-    publishedDateTime: 2023-07-21T20:22:00Z
-    webUrl: "https://apnews.com/business/strikes-8fe71c6125793335a57ac15f603c99e6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
 
 secured: "chqhVlaP8HEbQB3Ruh6zQyJlg6leU44ETiE/UOzEgq5qthg+1hf5KYFR6SpWdX6KzRGPd/chjTc7qMroJAVft3SSxE7nNlF6v4XDVVfsTHY+gIJXNZzenGYC0lmuhHq4VUrXI7WBucsz4DbOduQ79tS1UBSP+JsSUQYnmJiqSm0hKVNRwoeI62WwPhbMGBzS0uL6/SDcfW96CX7//4WG3BhSqMWtfLelPCc1a4bClhGzn3e+h10Arj1PalbdOdG6XyjG8/SZxFmHRgE7jAtu+MupISXqk04kUtvmP/n41cy54N5ZFZeDQiepp++BFjblS3gLtfOVzUpbe6mt66M1wo10xn/e5BQ9UpQe/lTv5T1OnLRO1iYqUkqZtjxY9Fo/0l7PZqf0wPDF/dYPJfTTfaaqX7mEGrSISD+UC++WVFdf5anafHjPyGBVBDOJBPq7+ScJqX9xk8OwkcL8k+KIW4Ic7egdiWxD35/ikw/DAwOyg9ch6VktdxVaJvdZs679g2RO5YrdAl2e/Zw2nHpw7Q==;5D8ashGfh+Lti8iJek9qtg=="
 ---

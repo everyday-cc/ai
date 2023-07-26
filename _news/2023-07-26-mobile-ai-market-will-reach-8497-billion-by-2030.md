@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/57311-mobile-ai-market-will-reach
 webUrl: "https://www.fudzilla.com/news/ai/57311-mobile-ai-market-will-reach-84-97-billion-by-2030"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,22 @@ images:
 
 related:
   - title: "Mobile Artificial Intelligence Market to Hit $84.97 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by Grand View Research, Inc."
-    publishedDateTime: 2023-07-26T11:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854193.htm"
+    excerpt: "The global mobile artificial intelligence market is anticipated to reach USD 84.97 billion by 2030, registering a CAGR of 26.9% from 2023 to 2030, according to a new report by"
+    publishedDateTime: 2023-07-26T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33386961/mobile-artificial-intelligence-market-to-hit-84-97-billion-by-2030-grand-view-research-inc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/33386961"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33386961"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
-secured: "l4DuqD1ZREWvkUpjrYAKcFMHt+i2t5q4GH+zVw9kjsZBGDPlalRcq3+vORBDBqcB021DhQtczgl988TtQHuUMZccRkWRbdJEG7zg253aAU5voNBs7N2yO30shwk2/tznSe/f4Lu9JH0EOYSgkwGFtVLkUfe7uZRZo7GwHoRIFrfY4fnfkLaJEzmVuGozg0JQFAQWO/U975uPL7MnVDLJ6+R7c778OhF0pLlFHSkeVZeF//HIlYUS0KiD0bKi6cdOfevmZ/U7UpuIz+381HKuTOKqulvcfASjkECQ3r6GPgMCkqqYF6U8wg6XGvKpBkCaiFlKjidn0MswR0mvIrK5TvzDYkSjnIJYUPbKMXw2Mb0=;V3OrmNzhfnG4++d1SnnTAA=="
+secured: "engaFupJzdOvg/KTomgkMnerMz1qoKq4AOZ0fAGOI2JJgN0o6UcoWwmFueBtblZb6rC+UeKScPsgMeaoB50O8v8gzHvjip1nOqnPtbnnMUsV/2iGFgMtHIPMjKh/z/B878Le0aik+oGJ2kbgvhPy+4BMzKXszb7Wdjk/vbhKOZO1SjhBgG+H33dRd/GEJreOqsfp+HFGBO6p0zpYBZQTlVg0nS8jyjIwXsdu/+2bI3pVmSMrdHt3lPSil3S5tHUKr0L0QpQAzWHywil0omBAJnLFszALgTggVSgCux86Q60dmWyOmlvASfrZREkXCSyGzBGmhs2E3UKTzRR0R9vVd46yOu6E4QlRxG/FykiHlFvPnJbqw8fID9qJUqtooQ5Xxm4JrjZZ7fbE3s5WRlldAvIY1phQfIgK7H5a78ncErFOIRgdVBdSXds0TOQkvOhJQoZKGyzizA6XSn5PpFvviAKczV/49zkh8M1S4jR/yzQ6/5M5gN/GEnH1QkXMSWCkil0FfAJy4X0BILBuNgA39Q==;uTZOCT3qBi31zo0Rkmr7Yg=="
 ---
 

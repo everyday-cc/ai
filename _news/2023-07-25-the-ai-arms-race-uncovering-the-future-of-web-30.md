@@ -19,20 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Failing to embrace AI is the real 'threat' to the US in the global AI race: Investor"
-    excerpt: "Founder & CEO of RSE Ventures explains why he thinks \"fearmongering\" and a failure to \"create a culture of innovation\" are costing the U.S. in the AI race."
-    publishedDateTime: 2023-07-24T01:48:00Z
-    webUrl: "https://www.cnbc.com/video/2023/07/24/failing-to-embrace-ai-is-the-real-threat-to-the-us-in-global-ai-race.html"
+  - title: "The AI-Powered, Totally Autonomous Future of War Is Here"
+    excerpt: "We don’t want to start World War III.” Brasseur and others at the base ... The question for the Navy, as Stewart saw it, was how to hasten the adoption of robotics and AI without getting mired in institutional bureaucracy. Others at the time were ..."
+    publishedDateTime: 2023-07-25T18:49:00Z
+    webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 60
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107275256-16901668911690166889-30442148960-1080pnbcnews.jpg?v=1690170537&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://media.wired.com/photos/64beab4e7b25a434b1f3bfc1/191:100/w_1280,c_limit/WI090123_FF_RobotWars_01.jpg"
+        width: 1280
+        height: 670
         isCached: true
+  - title: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI"
+    excerpt: "Minus Zero, an autonomous mobility startup Takes a Nature-Inspired Approach to AI - Autonomous mobility has faced numerous challenges that have hindered its widespread adoption."
+    publishedDateTime: 2023-07-24T02:52:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/minus-zero-an-autonomous-mobility-startup-takes-a-natureinspired-approach-to-ai-nid-224244-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/k4WeCHUB.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "The Critical Role of VC In the AI Economy of the Future"
+    excerpt: "As we continue to navigate the aftermath of a global pandemic, the resilient rebound of the American economy outpaces those of other advanced nations. Yet fresh challenges arise as we a"
+    publishedDateTime: 2023-07-26T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2023/07/26/the_critical_role_of_vc_in_the_ai_economy_of_the_future_968453.html#!"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 17
 
 secured: "aaxKKPrhdo1Ajvwn2wYW5fCM1iOgKxlYq10BSwjuSYPFPVfIzIQCy2aNCZVvWMoGaI8kPFaaiRh6DGtvJtzTItK7F0s7z8+Ngil+mWeRrbTdp8YxVi/8nnuSIeWcY1l8JZ2TR6UH6kNakYDJbCm0hMsmhWNgT79qCiZNelNyJ3vhPH8VpSWBcjZyNzetXjN7W3tPrZvDR8zRUESpwg1+g+MtfzKGl3AT75IE14Vyb2WLmQZ99jPgWhDqVMrn4cXrgCsq3/CBiVkhr6lGobae70KbbfynfDYmbLlmHSicBmCeuC5YNwuOeqAXOpECOjvqEijMQ5fXnsDtJ2jgCdK3MhEuX5XQ1ZQza+h5txlUmyw=;rgA9CplCmAVdt2EyA2NIRA=="
 ---

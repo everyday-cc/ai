@@ -24,83 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Seven AI companies agree to safeguards in the US"
-    excerpt: "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology."
-    publishedDateTime: 2023-07-21T23:04:00Z
-    webUrl: "https://www.bbc.com/news/technology-66271429"
-    ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
+  - title: "AI safety pledge: White House unites with tech giants to ensure a secure future"
+    excerpt: "White House uniting with tech giants' like Amazon, Google and Meta marks a defining moment in AI technology development."
+    publishedDateTime: 2023-07-22T13:30:00Z
+    webUrl: "https://news24online.com/tech/ai-safety-pledge-white-house-unites-with-tech-giants-to-ensure-a-secure-future/152349/"
+    ampWebUrl: "https://news24online.com/tech/ai-safety-pledge-white-house-unites-with-tech-giants-to-ensure-a-secure-future/152349/amp/"
+    cdnAmpWebUrl: "https://news24online-com.cdn.ampproject.org/c/s/news24online.com/tech/ai-safety-pledge-white-house-unites-with-tech-giants-to-ensure-a-secure-future/152349/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: news24online
+      domain: news24online.com
+    quality: 55
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI Companies Are Trying to Have It Both Ways"
-    excerpt: "Last week, seven technology companies appeared at the White House and agreed to voluntary guardrails around the use of AI. In promising to take these ... as Twitter and Facebook were freshly public and start-ups abounded, did change things (though the ..."
-    publishedDateTime: 2023-07-24T22:58:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/L-Ee5j36-Th9i-bxuAffSAYJMWE=/0x296:5843x3339/1200x625/media/img/mt/2023/07/GettyImages_1561046611-1/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
-  - title: "US must guard against threats from artificial intelligence, says Joe Biden even as tech firms vow safeguards"
-    excerpt: "President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards. President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards and promised additional government actions on the emerging technology."
-    publishedDateTime: 2023-07-22T05:58:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 53
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/21/1600x900/US-POLITICS-TECH-BIDEN-AI-2_1689963897801_1689963956221.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Seven AI companies commit to safeguards at the White House's request"
-    excerpt: "Microsoft, Google and OpenAI are among the leaders in the US artificial intelligence space that will reportedly commit to certain safeguards for their technology on Friday, following a push from the White House."
-    publishedDateTime: 2023-07-21T21:21:00Z
-    webUrl: "https://www.engadget.com/ai-companies-will-reportedly-commit-to-safeguards-at-the-white-houses-request-185646283.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
-  - title: "Making Sense Of Tech Companies’ AI Commitments To The White House"
-    excerpt: "Tech companies made commitments to the White House around the safety, security and trust of their AI systems. There are tradeoffs associated with these commitments."
-    publishedDateTime: 2023-07-23T12:24:00Z
-    webUrl: "https://www.forbes.com/sites/washingtonbytes/2023/07/23/making-sense-of-tech-companies-ai-commitments-to-the-white-house/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Amazon, Google, others agree to White House’s AI safeguards"
-    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
-    publishedDateTime: 2023-07-22T09:24:00Z
-    webUrl: "https://www.newstribune.com/news/2023/jul/22/amazon-google-others-agree-to-white-houses-ai/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 37
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204881824_204881824-8d5fba0753514d4d99f72b5c5ab22962_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
+      - url: "https://news24online.com/wp-content/uploads/2023/07/AI.jpg"
+        width: 1280
+        height: 850
         isCached: true
   - title: "Tech firms agree to AI safeguards set by White House"
     excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
@@ -130,47 +68,6 @@ related:
         width: 360
         height: 360
         isCached: true
-  - title: "🎥 Biden: Tech firms agree to artificial intelligence safeguards"
-    excerpt: "The four tech giants, along with ChatGPT-maker OpenAI and startups Anthropic and Inflection, have committed to security testing “carried out in part by independent experts” to guard against major risks, such as to biosecurity and cybersecurity, the White House said in a statement."
-    publishedDateTime: 2023-07-23T11:00:00Z
-    webUrl: "https://hayspost.com/posts/a893dfec-aa27-497f-86ec-8add57361638"
-    type: article
-    provider:
-      name: Hays Post
-      domain: hayspost.com
-    quality: 37
-    images:
-      - url: "https://media.eaglewebservices.com/public/2023/7/1690031862167.png"
-        width: 898
-        height: 678
-        isCached: true
-  - title: "Generative AI expected to impact SA companies"
-    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
-    publishedDateTime: 2023-07-24T09:44:00Z
-    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
-    excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
-    publishedDateTime: 2023-07-22T12:17:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/leading-artificial-intelligence-companies-make-voluntary-commitments-to-manage-the-risks-posed-by-ai/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 17
-  - title: "Tech firms agree to AI safeguards"
-    excerpt: "WASHINGTON - President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet"
-    publishedDateTime: 2023-07-22T13:24:00Z
-    webUrl: "https://www.tnonline.com/20230722/tech-firms-agree-to-ai-safeguards/"
-    type: article
-    provider:
-      name: Times News
-      domain: tnonline.com
-    quality: 17
 
 secured: "ZfPBnOWot5COBAL99+iv8fEdp5HVCofr5xmjgi8Z0frmMJ6Nc21eSgFTq8rxouhtst1X9zjPgCtdIplEXRU653SyalLuSPkqtcoZ5Z7JA0iytKMzmhPnbW0iyQl4NRdxeVwJCddf+bgtLEQlXXXC/+libzSu6pAwupsP0PWGA8KIRgm4/EYJwnqfLklL5FdJ1xWRiWi094Cc9uu5ncqDCNNzc7c8rHYSWCXu64Sun+4mBTgZI1HTbBiUH/fEsnY7QthfPKK+k2qR/X//tFRbwflaImKR//UtbuMiK2Jhj/zqCOLeeGICKmhiJmrIDLsSaAr9QLFAYDDKFRIraXM89k7TtlkdGG7qpnfebLEKqCU=;LOzFab1HG3j5IjaozAYN8g=="
 ---

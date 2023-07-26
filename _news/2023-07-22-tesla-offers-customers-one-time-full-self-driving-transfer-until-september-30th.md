@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self
 webUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla is starting to offer one-time Full Self-Driving transfers to new vehicles"
-    excerpt: "Tesla is starting to offer customers a one-time transfer of their purchased Full Self-Driving (FSD) software to a new vehicle, Not A Tesla App reports. Tesla CEO Elon Musk revealed the company would be offering it as a “one-time amnesty” during an earnings call on Wednesday, though he did not provide full details at the time."
-    publishedDateTime: 2023-07-21T19:53:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23802957/tesla-fsd-transfer-offer-q2"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 45
 
 secured: "RBLGRLuJqN99lqnSh4ZLcL71ijtDA7wuCXNnrnP2eLKaFKddOkGUZnrZg+EZizaNXy0pGILNWH11njuP/IVI8mmCbZ2JRbQDObl51b+Z+P9pUVHah4o+FHSNdr6Fpb5JKq8b192QUgQKBLWgo6/KuhZIEiqnKX4zOBQv2C0mD5CGwZUqaHIb4DVPtsQU2mCSTg5si8egLYH4nAtclGKGKSzSQL3Vj3Jxhia1OBdQT8OGmsPabpun3rfZJm+xd4G/eWIq9SPIql/yrETM+pE62iun7HAMP0BIBueKun119H2SuAHS2SKLDcnt6C6rB3vnqCDPN7pS4hMlWthennrbudWVgSmyRxGlCeWXAAna2PQTcu0bl5tsPghQD/hsSa77I/aOBkFc5mukJ1WuMOQDBPZJxsUpF9EG1ZlDtPEE0hbSW0mvJsmkRasF/bMSbvXUHExJOkBClfrF47RawWfhYSaCWhztFUR+xW0w7ivkv823nPb18G1ZD3DbZsM8mbyWcGiNiX4vRc/3npAK/6I6VA==;XqkkqcQU3XvGkIJ7nr2VdA=="
 ---

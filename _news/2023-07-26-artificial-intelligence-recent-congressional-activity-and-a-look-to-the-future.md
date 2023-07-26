@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-25T22:42:00Z
 originalUrl: "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future"
 webUrl: "https://www.natlawreview.com/article/artificial-intelligence-recent-congressional-activity-and-look-to-future"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.natlawreview.com/sites/default/files/styles/social_media/public/article/aux/20520/AI%20Artificial%20Intel%20Heads%20Internet%20TOP%20copy_0.jpg?itok=eyeMYj6E"

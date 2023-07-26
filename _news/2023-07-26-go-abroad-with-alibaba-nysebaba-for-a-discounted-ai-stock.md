@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chinese e-commerce giant Alibaba’s cloud services unit extends support in China for Meta’s latest open-source AI model"
+    excerpt: "The company’s support for Meta’s free-to-use large language model reflects the Chinese tech industry’s strong interest in closing the gap with the West by building innovative ChatGPT-like services."
+    publishedDateTime: 2023-07-26T15:01:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3229026/chinese-e-commerce-giant-alibabas-cloud-services-unit-extends-support-china-metas-latest-open-source"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 45
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/07/26/310013bf-0f9e-442c-a1a7-341a5a8edf63_cd06ce7f.jpg?itok=ANzzie7r&v=1690373079"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alibaba's cloud unit clients to get access to Meta's AI model Llama - report"
     excerpt: "Alibaba (BABA) cloud unit said it has become the first Chinese enterprise to support Meta's (META) open source AI model Llama 2. Read more here"
     publishedDateTime: 2023-07-26T09:38:00Z

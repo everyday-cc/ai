@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Big Tech's AI Commitment Falls Short For Healthcare"
+    excerpt: "Big tech have actively pledged to prioritize safety in their artificial intelligence products. The healthcare industry requires more than these voluntary commitments."
+    publishedDateTime: 2023-07-26T15:20:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/07/26/big-techs-ai-commitment-falls-short-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c12b4ce75b62629516a802/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How Artificial Intelligence Changes Healthcare Industry"
     excerpt: "Artificial intelligence has changed the world of the healthcare industry. AI can help with diagnoses, treatment, and even predictions about future health trends. Besides, there are many things those artificial intelligence has improved and changed entirely."
     publishedDateTime: 2023-07-25T06:01:00Z

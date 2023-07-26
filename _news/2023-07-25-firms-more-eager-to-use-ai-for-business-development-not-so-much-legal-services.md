@@ -25,28 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Cohere releases Coral, AI assistant designed for enterprise business use"
-    excerpt: "Cohere's Coral was developed to help knowledge workers receive responses to sector-specific requests, based on proprietary company data."
-    publishedDateTime: 2023-07-25T13:30:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-releases-coral-ai-assistant-designed-for-enterprise-business-use/"
+  - title: "Graft is building an AI development platform for the masses"
+    excerpt: "Graft is attempting to take the complexity out of building AI applications with a templatized approach to development."
+    publishedDateTime: 2023-07-26T14:26:00Z
+    webUrl: "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/"
+    ampWebUrl: "https://techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/graft-is-building-an-ai-development-platform-for-the-masses/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 48
-  - title: "Artificial intelligence ad agency launches for small businesses"
-    excerpt: "A new advertising agency plans to offer cut-price creative services to small businesses using artificial intelligence tools.Antony Young and Matt McNeil,"
-    publishedDateTime: 2023-07-24T17:32:00Z
-    webUrl: "https://businessdesk.co.nz/article/media/artificial-intelligence-ad-agency-launches-for-small-businesses"
-    type: article
-    provider:
-      name: businessdesk
-      domain: businessdesk.co.nz
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://media.businessdesk.co.nz/file/c_fill,w_800,q_100/Antony-Young-2-f.jpg"
-        width: 800
-        height: 647
+      - url: "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1481095076.jpg?resize=1200,694"
+        width: 1200
+        height: 694
+        isCached: true
+  - title: "How is Artificial Intelligence Impacting the Forex Markets"
+    excerpt: "Artificial Intelligence has had a significant impact on the forex markets in 2023. With artificial intelligence available to nearly every trader, the information floating around the markets is now readily available."
+    publishedDateTime: 2023-07-24T13:58:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/how-is-artificial-intelligence-impacting-the-forex-markets-11019981.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/forex-robot_1280x720.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "WvvnW1Y9r76rY52pf9RD9lWyucPkkn29hbe09Q9hJirQD1KpwV9rH3ctb2/J+3bHQAsN6fII39al4J5ERw4TblDVByORSkV95xfVRIWUWtGYq27VDce1DrpwUFuNyPE9x8EH4PsTsZoWoGGA00WEbLGyB85tl9ABMF2wED6Jak6fEFIyvk36lP0lLjkUk6OHAweWIGHdVjtXDScMRfp5GGFtTvj5lw/NdhGSbdw4Qk8Zq/QDyOSH3PWc0pW7stqwdI61d2jXe6mIqoGPmcLl/IKqCOX+uQCipGYVt84uO7svJq7Oo0/LEFPHb1j63uPWcawEZ7QxGKvZ8+upxtA4LbofkBG+u+aAwhIc50iQUIM=;/9l+nJpj7DLcXrgAsVhYzQ=="

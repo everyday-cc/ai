@@ -40,6 +40,36 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How to Invest in Mistral AI in 2023"
+    excerpt: "Mistral AI was founded in May 2023, and the company raised $113 million just four weeks later with an estimated valuation of $260 million, a sign of how much confidence venture capital investors have in the founders and how much potential they see in AI."
+    publishedDateTime: 2023-07-26T14:48:00Z
+    webUrl: "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-mistral-ai-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg"
+        width: 600
+        height: 424
+        isCached: true
+  - title: "Meta inks MoU with Indian govt to partner on AI, emerging technologies"
+    excerpt: "Tech major and Facebook's parent Meta has signed an initial pact with ... a Centre of Excellence to nurture the AI startup ecosystem. \"Leveraging Meta's AI research models like LlaMA, Massively Multilingual Speech, and No Language Left Behind, the ..."
+    publishedDateTime: 2023-07-26T15:57:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/meta-inks-mou-with-indian-govt-to-partner-on-ai-emerging-technologies-11036691.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 61
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-22-Mar-2023-03-47-PM-7009.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "40hhhscsLXXG/IXTiMQIVd69g6bhAJazbMT7EFIjFqMQotmyBMkphTQrYUUUjWGsoQGGrFXbTRKKLRsQE7IelnPz/7udZGz/NAiK6Nl8rEvWNDsy9Wn++P0ttq0lbiUayfLgqVO05cMef7tuFsCdssfQLEcyGkUz6Y+QbUb11rajgSE+bxtUwCCtTDxFSeSPK9pZ+ZlfOAAVmBmCeAASrjBHQghLKBW7gH70E+9n9D+kmsgW4/CfsNzRq5jbe069pKhURCun3Ck5yoSiYkjt5WdVXsyDfK+Hg+2+wzz6fe4a9G4FWvkbhvAd59bthoI9UTzCG4KTSkPd5KaLgtQEqzt9xeNQQMn6kX7C8nzIge8=;l5gIMJKGeP5q6nZMEPzUUA=="
 ---

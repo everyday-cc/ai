@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconindia.com/news/startups/minus-zero-an-autonomou
 webUrl: "https://www.siliconindia.com/news/startups/minus-zero-an-autonomous-mobility-startup-takes-a-natureinspired-approach-to-ai-nid-224244-cid-19.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Bengaluru startup Minus Zero thinks it has cracked autonomous vehicles with its nature-inspired AI"
-    excerpt: "Founded in 2020 by Gagandeep Reehal and Gursimran Kalra, Minus Zero has developed a proprietary artificial intelligence model to help autonomous vehicles navigate better."
-    publishedDateTime: 2023-07-24T01:15:00Z
-    webUrl: "https://yourstory.com/2023/07/bengaluru-autonomous-vehicle-startup-minus-zero-nature-inspired-ai"
+  - title: "The AI-Powered, Totally Autonomous Future of War Is Here"
+    excerpt: "We don’t want to start World War III.” Brasseur and others at the base ... The question for the Navy, as Stewart saw it, was how to hasten the adoption of robotics and AI without getting mired in institutional bureaucracy. Others at the time were ..."
+    publishedDateTime: 2023-07-25T18:49:00Z
+    webUrl: "https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 25
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://images.yourstory.com/cs/2/f49f80307d7911eaa66f3b309d9a28f5/2022-featuredimages19-1689948379026.png?fm=png&auto=format"
-        width: 1600
-        height: 800
+      - url: "https://media.wired.com/photos/64beab4e7b25a434b1f3bfc1/191:100/w_1280,c_limit/WI090123_FF_RobotWars_01.jpg"
+        width: 1280
+        height: 670
         isCached: true
+  - title: "The AI Arms Race: Uncovering the Future of Web 3.0"
+    excerpt: "He emphasized the need to learn from past mistakes, like how Web 2.0 propagated vanity through likes and shares, suggesting that society has evolved beyond superficial engagements. He stated, \"Working in our job is to basically figure out what benefit it can do and what those scenarios that actually benefit"
+    publishedDateTime: 2023-07-24T20:42:00Z
+    webUrl: "https://www.thestreet.com/cryptocurrency/the-ai-arms-race-uncovering-the-future-of-web-3-0"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
+  - title: "The Critical Role of VC In the AI Economy of the Future"
+    excerpt: "As we continue to navigate the aftermath of a global pandemic, the resilient rebound of the American economy outpaces those of other advanced nations. Yet fresh challenges arise as we a"
+    publishedDateTime: 2023-07-26T05:00:00Z
+    webUrl: "https://www.realclearmarkets.com/articles/2023/07/26/the_critical_role_of_vc_in_the_ai_economy_of_the_future_968453.html#!"
+    type: article
+    provider:
+      name: RealClearMarkets
+      domain: realclearmarkets.com
+    quality: 17
 
 secured: "d5z4d8HaW0yJBw6+62a4iwavMjMqWqDLOrwyUOOKOGA1s5iD8u9w0GZ5pgtWnnIVAZnhjl9dd6gMCIBdehVwh8JpbFikal7E6kHfuITXsfG8JDMALTcjPldE/+NWjEqLSpY2p+xbVC1Um+N7D0djeKD3ca89xYOBPjgy15nzXwbImrLCw5EgGCxXcJagK/6NTrDVRvZou1RTMUthWtfPIdfvQCR66aJiHRg4Mw8boE9T9s4GJE5yyEYl/T6my6pkIBo+rtUzLoZPSQKnnFCQQKkdaSHFC8y52FAgodHFMvVds2fJDWvm3t966JNB5p5ut1o4jTaSibCxtG3Ct3VTCB7UvD/lbPO/jLVZ/kIIgI0dVIu88XVdBFO1Ltah+ySCsskFAhYjhNboOz7Ng+KVBMPOSpGRM5G1RQD6ewsWsnWiFRTyUFTXYjIsM0IGN2keeI4qN108Ov2otP9fmSICGy0R3l68onzlJhgKKSzxCdCA7f3MM9aAFMug65QaOl8zNMWv1zEQFhQeyvkTutODEA==;t35hVi8C9hogZRKQKbtj0w=="
 ---

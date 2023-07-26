@@ -96,29 +96,33 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "Microsoft's Semantic Kernel AI SDK Adds Java, Integrates with Azure Cognitive Search"
-    excerpt: "Microsoft has been busy updating its Semantic Kernel open source SDK for creating AI-infused applications, recently adding Java support and integration with Azure Cognitive Search."
-    publishedDateTime: 2023-07-21T22:09:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/07/21/semantic-kernel-updates.aspx"
+  - title: "Anthropic, Google, Microsoft and OpenAI form an AI safety group"
+    excerpt: "The Forum plans to establish an advisory committee, charter and funding. It has laid out for core pillars it intends to focus on furthering AI safety research, determining best practices, working closely with policymakers, academics, civil society and companies, and encouraging efforts to build AI that \"can help meet society's greatest challenges.\""
+    publishedDateTime: 2023-07-26T12:34:00Z
+    webUrl: "https://www.engadget.com/anthropic-google-microsoft-and-openai-form-an-ai-safety-group-122032326.html"
     type: article
     provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
+      name: Engadget
+      domain: engadget.com
+    quality: 64
+  - title: "Microsoft's AI Bets Have Failed to Hurt Google (So Far)"
+    excerpt: "Google has retained market share versus Bing this year, even on desktop computers. Alphabet will likely benefit from AI due to its cloud computing division. Alphabet shares still look cheap after running higher this year."
+    publishedDateTime: 2023-07-26T13:21:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/microsofts-ai-bets-have-failed-to-hurt-google-so-f/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+  - title: "Microsoft and Google can’t stop talking about AI, and this chart proves it"
+    excerpt: "As Microsoft and Alphabet get more serious about artificial intelligence, they're spending a lot more time discussing it with the investment community."
+    publishedDateTime: 2023-07-26T12:52:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-and-google-cant-stop-talking-about-ai-and-this-chart-proves-it-9c334c2e"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/robot_coffee.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Google, Microsoft, and more commit to AI safety at White House, Apple absent"
-    excerpt: "Today, it was announced that seven leading AI companies convened at the White House to pledge their voluntary commitment to the safe, secure, and transparent development of AI technology. These companies included Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI."
-    publishedDateTime: 2023-07-21T19:47:00Z
-    webUrl: "https://www.androidauthority.com/ai-development-white-house-apple-3347464/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 61
   - title: "KPMG and Microsoft enter a landmark agreement to put AI at the forefront of professional services"
     excerpt: "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of busine"
     publishedDateTime: 2023-07-23T08:28:00Z
@@ -290,8 +294,8 @@ related:
     quality: 34
   - title: "Microsoft reports slowing cloud growth as it awaits AI revenue"
     excerpt: "The Redmond-based software giant has been introducing generative AI products and services to help boost flagging cloud sales."
-    publishedDateTime: 2023-07-25T21:35:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/07/25/microsoft-cloud-growth-ai-projections-earnings.html"
+    publishedDateTime: 2023-07-26T14:12:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/07/26/microsoft-cloud-growth-ai-projections-earnings.html"
     type: article
     provider:
       name: The Business Journals

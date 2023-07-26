@@ -57,6 +57,47 @@ related:
         width: 1260
         height: 628
         isCached: true
+  - title: "Google, Microsoft, OpenAI and startup form body to regulate AI development"
+    excerpt: "Tech companies say Frontier Model Forum will focus on ‘safe and responsible’ creation of new models"
+    publishedDateTime: 2023-07-26T11:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/26/google-microsoft-openai-anthropic-ai-frontier-model-forum"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 72
+    images:
+      - url: "https://i.guim.co.uk/img/media/627962723bc07f627f6aba673483b3007ea10485/0_201_5717_3430/master/5717.jpg?width=620&quality=85&auto=format&fit=max&s=9ad313080aa74f8c8c2c1bc82cbe0ac8"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Google, Microsoft, OpenAI and Anthropic announce industry group to promote safe AI development"
+    excerpt: "Some of the world’s top artificial intelligence companies are launching a new industry body to work together — and with policymakers and researchers — on ways to regulate the development of bleeding-edge AI."
+    publishedDateTime: 2023-07-26T14:47:00Z
+    webUrl: "https://www.wral.com/story/google-microsoft-openai-and-anthropic-announce-industry-group-to-promote-safe-ai-development/20972675/"
+    ampWebUrl: "https://www.wral.com/amp/20972675/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20972675/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 64
+    images:
+      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google, Microsoft and artificial intelligence startups OpenAI, Anthropic create new group"
+    excerpt: "Google LLC, Microsoft Corp., OpenAI LLC and Anthropic PBC — have created what they're calling the Frontier Model Forum."
+    publishedDateTime: 2023-07-26T14:37:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/07/26/google-microsoft-openai-anthropic-ai-safeguards.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 40
   - title: "The new universe of Artificial Intelligence"
     excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
     publishedDateTime: 2023-07-25T18:16:00Z
@@ -66,6 +107,15 @@ related:
       name: gulftoday
       domain: gulftoday.ae
     quality: 19
+  - title: "Generative AI startup to create AI newscasts"
+    excerpt: "A new startup called Channel 1 wants to use generative AI to create automated newscasts with digital anchors that can be customized to fit viewers' political slant, Tim writes. Why it matters: The rapid acceleration of AI is blazing a path to disrupt the media industry."
+    publishedDateTime: 2023-07-26T13:00:00Z
+    webUrl: "https://www.axios.com/pro/media-deals/2023/07/26/generative-ai-startup-to-create-ai-newscasts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
   - title: "Top tech companies form group seeking to control AI"
     excerpt: "Anthropic, Google, Microsoft and OpenAI team up to establish best practices but critics argue they want to avoid regulation"
     publishedDateTime: 2023-07-26T10:00:00Z

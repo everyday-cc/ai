@@ -22,158 +22,42 @@ topics:
   - AI
 
 related:
-  - title: "Seven AI companies agree to safeguards in the US"
-    excerpt: "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology."
-    publishedDateTime: 2023-07-21T23:04:00Z
-    webUrl: "https://www.bbc.com/news/technology-66271429"
-    ampWebUrl: "https://www.bbc.com/news/technology-66271429.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66271429.amp"
+  - title: "How AI is helping companies meet sustainability goals"
+    excerpt: "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-07-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/45A4/production/_130482871_gettyimages-1527996138.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI Companies Are Trying to Have It Both Ways"
-    excerpt: "Last week, seven technology companies appeared at the White House and agreed to voluntary guardrails around the use of AI. In promising to take these ... as Twitter and Facebook were freshly public and start-ups abounded, did change things (though the ..."
-    publishedDateTime: 2023-07-24T22:58:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/07/ai-companies-openai-voluntary-safeguards/674812/"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
+    excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
+    publishedDateTime: 2023-07-25T08:42:00Z
+    webUrl: "https://www.computerweekly.com/news/366545652/Google-reveals-how-AI-and-machine-learning-are-shaping-its-sustainability-strategy"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/L-Ee5j36-Th9i-bxuAffSAYJMWE=/0x296:5843x3339/1200x625/media/img/mt/2023/07/GettyImages_1561046611-1/original.jpg"
-        width: 1200
-        height: 625
-        isCached: true
-  - title: "US must guard against threats from artificial intelligence, says Joe Biden even as tech firms vow safeguards"
-    excerpt: "President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards. President Joe Biden said the US must guard against threats from artificial intelligence as he detailed new company safeguards and promised additional government actions on the emerging technology."
-    publishedDateTime: 2023-07-22T05:58:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/us-must-guard-against-threats-from-artificial-intelligence-says-joe-biden-even-as-tech-firms-vow-safeguards-71689963681708.html"
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 28
+  - title: "How AI pressure is making companies rethink cloud use"
+    excerpt: "The shift to the cloud and the consequent boom in the sector was held together by its grand promise that any company could digitally transform itself and keep its data secure on the cloud. But the cost of such transformation is rising, now boosted by a spate of generative AI tools added to the mix."
+    publishedDateTime: 2023-07-24T12:19:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/how-ai-pressure-is-making-companies-rethink-cloud-use/article67115720.ece"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 53
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/07/21/1600x900/US-POLITICS-TECH-BIDEN-AI-2_1689963897801_1689963956221.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Seven AI companies commit to safeguards at the White House's request"
-    excerpt: "Microsoft, Google and OpenAI are among the leaders in the US artificial intelligence space that will reportedly commit to certain safeguards for their technology on Friday, following a push from the White House."
-    publishedDateTime: 2023-07-21T21:21:00Z
-    webUrl: "https://www.engadget.com/ai-companies-will-reportedly-commit-to-safeguards-at-the-white-houses-request-185646283.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 47
-  - title: "Amazon, Google, others agree to White House’s AI safeguards"
-    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the \"enormous\" promise and risks posed by the technology."
-    publishedDateTime: 2023-07-22T09:24:00Z
-    webUrl: "https://www.newstribune.com/news/2023/jul/22/amazon-google-others-agree-to-white-houses-ai/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 37
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204881824_204881824-8d5fba0753514d4d99f72b5c5ab22962_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Big tech firms agree to White House AI safeguards"
-    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
-    publishedDateTime: 2023-07-22T04:46:00Z
-    webUrl: "https://www.altoonamirror.com/news/2023/07/big-tech-firms-agree-to-white-house-ai-safeguards/"
-    type: article
-    provider:
-      name: Altoona Mirror
-      domain: altoonamirror.com
-    quality: 37
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.altoonamirror.com/images/2016/10/18173137/fblike.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tech firms agree to AI safeguards set by White House"
-    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."
-    publishedDateTime: 2023-07-22T06:53:00Z
-    webUrl: "https://www.weirtondailytimes.com/news/local-news/2023/07/tech-firms-agree-to-ai-safeguards-set-by-white-house/"
-    type: article
-    provider:
-      name: Weirton Daily Times
-      domain: weirtondailytimes.com
-    quality: 37
-    images:
-      - url: "http://d14e0irai0gcaa.cloudfront.net/www.weirtondailytimes.com/images/2016/08/19083913/fbLIKE.jpg"
-        width: 800
-        height: 640
-        isCached: true
-  - title: "Tech firms agree to safeguards on AI set by the White House"
-    excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet"
-    publishedDateTime: 2023-07-22T03:04:00Z
-    webUrl: "https://www.theday.com/nation/20230721/tech-firms-agree-to-safeguards-on-ai-set-by-the-white-house/"
-    type: article
-    provider:
-      name: The Day
-      domain: theday.com
-    quality: 37
-    images:
-      - url: "https://static.theday.com/theday/assets/newsroom/TheDay_Facebook_OG-360px.png"
-        width: 360
-        height: 360
-        isCached: true
-  - title: "🎥 Biden: Tech firms agree to artificial intelligence safeguards"
-    excerpt: "The four tech giants, along with ChatGPT-maker OpenAI and startups Anthropic and Inflection, have committed to security testing “carried out in part by independent experts” to guard against major risks, such as to biosecurity and cybersecurity, the White House said in a statement."
-    publishedDateTime: 2023-07-23T11:00:00Z
-    webUrl: "https://hayspost.com/posts/a893dfec-aa27-497f-86ec-8add57361638"
-    type: article
-    provider:
-      name: Hays Post
-      domain: hayspost.com
-    quality: 37
-    images:
-      - url: "https://media.eaglewebservices.com/public/2023/7/1690031862167.png"
-        width: 898
-        height: 678
-        isCached: true
-  - title: "Generative AI expected to impact SA companies"
-    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
-    publishedDateTime: 2023-07-24T09:44:00Z
-    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
+      name: The Hindu
+      domain: thehindu.com
     quality: 19
-  - title: "Leading Artificial Intelligence Companies Make Voluntary Commitments to Manage the Risks Posed by AI"
-    excerpt: "The companies commit to developing robust technical mechanisms to ensure that users know when content is AI generated, such as a watermarking system."
-    publishedDateTime: 2023-07-22T12:17:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/leading-artificial-intelligence-companies-make-voluntary-commitments-to-manage-the-risks-posed-by-ai/"
+  - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
+    excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
+    publishedDateTime: 2023-07-24T15:23:00Z
+    webUrl: "https://www.cmswire.com/the-wire/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age/"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 17
-  - title: "Tech firms agree to AI safeguards"
-    excerpt: "WASHINGTON - President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet"
-    publishedDateTime: 2023-07-22T13:24:00Z
-    webUrl: "https://www.tnonline.com/20230722/tech-firms-agree-to-ai-safeguards/"
-    type: article
-    provider:
-      name: Times News
-      domain: tnonline.com
-    quality: 17
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 15
 
 secured: "2f1lKH/n7IZtBte0UCBWyQTQE9jcr/wb//vcH6Tduf3onexy9eoV8cWXIWi5/DIkwi2w5F40oTJCOP9Mnea3sU1R9Ig/AtEe5G53H9YaAxqdzQJ9yDSjsIfbigPzQzKjVE+VifUDRLSQuFF11c1biNrRSw4+ySQt7xbgNTyKmIADNrBNY+QOdk3Z4NRewCz3bU6eAHoi13us1x9jlA1ZYJNxo58AVz+9Gb2sAbHYTF15Hp6f5qQypKu6IKQbCUceEcYNoN/hUGmHw5jb/EsmU3i0fobODJYav6/1A/JlBBBLWygUq8/EJ+ExK13f4Hs0HKmhn7H/Ev30dxxcIGniTS36xIEsB6mCFPEmDWPRZFGsPs1upZ/d18UkLkcRBSHGpY+FOXSLQUCcducTYoXNYEYVZEPHsywU0oTL7oSHFRNALyfTG42NV4RCvP2HX6ovHJYJzsNSQ/aiwlQQnMva63t19buTgrHG7nCiQA3AIJ5zKSd7M3uANPK7ADf0z1mRGI9rYn64h3Nlki2oT2ZvNA==;yss7AZ8AImn9leyj/qvVxw=="
 ---

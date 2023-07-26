@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-
 webUrl: "https://www.fool.com/investing/2023/07/26/better-ai-stock-c3ai-vs-opera-limited/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Better Artificial Intelligence Stock: Apple vs. Amazon"
+    excerpt: "Additionally, Apple's stock has risen 301% over the last five years, while Amazon's has increased by 43%. The significant difference further solidifies Apple as the more reliable option and the better artificial intelligence stock."
+    publishedDateTime: 2023-07-26T13:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740740/analyst-home-investor-stocks-trends.jpg"
+        width: 4000
+        height: 2667
+        isCached: true
   - title: "Expert Ratings for C3.ai"
     excerpt: "Below is a summary of how these 11 analysts rated C3.ai over the past 3 months. The greater the number of bullish ratings, the more positive analysts are on the stock and the greater the number of bearish ratings, the more negative analysts are on the stock"
     publishedDateTime: 2023-07-24T12:13:00Z
@@ -39,6 +53,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "tQBiwIDghmFr4geKWlTfA7h5Y+oITIuhcXHQV6UI7eeuqKXRs3B+HHcyqZ/9sdOocalZXt+OCO0c9GW8KU4wS6hJ5yUBPIzly3tH2x+Wns6ExJLNorRZ4zrwlgi3puVjjrhgUFTshW3uCwYmv2Uq82tA4uRxcfYvhXpEg5nlSXzUWmWxMA739XEOZLOjLjpMsXAsT3RGWDUvg7H8I0Whtulv2tjIpemhY3N2R6lh36IKTNynbb/ZzVU4PU71W4JUXNJqcsWciFA+B8krwBL9nosd2nSuCFuz2J59mMy0g/uH+M/Pu5wwjtXnoWzgvlGNxnIF2xu9QhuIiDNVb9dzkiJyHYpKfDcBWrnJ97kqtMc=;lb02+54xgbOnbpn1TSG+EQ=="
+secured: "UK6uf3/tKFBwXE5ZjYZMl+us80dPUtcvaP8uZGllHOY8CNm5sHpOfzbEVvBlHlrGe8fs5I59AX9eXgbZIm5z6sEQdPXcH+EFNQX8s9KHQEItPvD98ZnW8n06YXxNilzirB7h4X49Xb31VzIgPCz7rP1htePUpz/KXNV/pHl1lD34sZU4pDidOgpnac4G3AGzqioOFnNBPTVrl9FqNJo3X2Gnle0Vv618SWnQ+y4nzvwW1soStzqQKBzFIOX8hf0Cih1n+A43zoa/8kwKDq6uQVqYBoYvCq5reYuPLZyuYQuN7lZ4+UxSTNxTcoLarfVhJ8XN0eIuaYZgjTyHgjWohsAi+k8BPQ9AKAHJmRmdKSoUDmyZsdLrFLZmO89NMlVqbrHfK3ntMlxMTKt7YgJA7vVQEzeWVJGEy5yi14SMOw0f90RxSq8bHxQKYvldjiiQICYdeq9wZnHlmx3JeNeH93VCRFYXf8mx7PZp8LLvofStwA5iI0wuC+kUjCe/P/NwwcXjg8M9ckBiSwkPBfvcvA==;GbNSdVdGSDGJ8aZ2eKHIGQ=="
 ---
 

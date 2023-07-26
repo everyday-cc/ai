@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/adobe-ai-firefly-kill-graphic-desi
 webUrl: "https://www.businessinsider.com/adobe-ai-firefly-kill-graphic-designer-jobs-cut-seat-sales-2023-7"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Adobe product leader says AI won’t kill graphic design, even as employees worry"
+    excerpt: "According to Adobe CPO Scott Belsky, while some industries \"may not need to exist in the age of AI,\" graphic designers will still flourish."
+    publishedDateTime: 2023-07-26T15:04:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-product-leader-says-ai-wont-kill-graphic-design-even-as-employees-worry/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/b96e4c2a-2b8d-49cd-9a95-253892117cbb-adobe.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mzLEKFRIrq6eoICX5hP+3NBRUtsFShR117hSnvVCuP8yMDK/Rq+//CZRu3jELVcnAXjqKmjj2Pn8Li5Y5e5QWQehbatm0fGRsbuYmrrmV+OrYngVS2NOLU5lXiZ1q9xv5A+SEacr0uydwBMCkZEB4yb7bOu6oytFuepFBE0VLSlrFa6FC6vD0OXTd9BaoOeTzDRqchrzg2hLzzJy+Q7L2GDnyfL3Vn/qfKej2S2kTvJqRNri96w88CsxpV01SCXdRUaHwSh1wTOgAAuCJjtxxPuFZ6MkN/FF/8eb7XBfWxAUDYAqLICwHyQ6cDpvuWE+NvcA9sHq9gd8BMryNBx2sYzJYcvECgmt7jwMwk9LwsDllCjX267x8Z4fwLUmwvB+1Uy0/X8hgp853LmaFX0aYaBhZsiQI826RON+hLj+vx4jwYVVLxuhGWy4b1J2OdiOaTuAnPbd02LioZMacncA780oLdNO24V3ur40Np1RgeaTZQ5ex7yf5ZR+rbzjPAKHAZJu3HdOJMEGmdepq9/PYg==;OTuoy6AqZ/g3oWRB43OGdw=="
 ---

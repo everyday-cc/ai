@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New technical deep dive course: Generative AI Foundations on AWS"
+    excerpt: "Generative AI Foundations on AWS is a new technical deep dive course that gives you the conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond. Developed by AWS generative AI worldwide foundations lead"
+    publishedDateTime: 2023-07-26T12:20:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-technical-deep-dive-course-generative-ai-foundations-on-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
     excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
     publishedDateTime: 2023-07-24T05:41:00Z

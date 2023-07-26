@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Top tech companies create joint AI safety forum"
+    excerpt: "Tech companies leading in the artificial intelligence (AI) industry are creating a joint forum aimed at ensuring safe and responsible development of AI models, the companies announced"
+    publishedDateTime: 2023-07-26T14:56:00Z
+    webUrl: "https://thehill.com/policy/technology/4120594-top-tech-companies-create-joint-ai-safety-forum/"
+    ampWebUrl: "https://thehill.com/policy/technology/4120594-top-tech-companies-create-joint-ai-safety-forum/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4120594-top-tech-companies-create-joint-ai-safety-forum/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/twitterAI_061623_getty_AI.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Leaders in AI create industry watchdog as government scrutiny grows"
     excerpt: "A group of tech companies, including Alphabet Inc.’s Google, OpenAI Inc., and Microsoft, are creating an industry body to ensure that future AI models are safe."
     publishedDateTime: 2023-07-26T11:48:00Z

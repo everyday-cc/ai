@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What top tech leaders are saying about artificial intelligence"
+    excerpt: "With artificial intelligence (AI) rising up corporate and societal agendas, we gauge the views of the key tech leaders in the space"
+    publishedDateTime: 2023-07-26T15:43:00Z
+    webUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-about-artificial-intelligence-123505879/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/07/what-top-tech-leaders-say-about-artificial-intelligence-1-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "MAL5vgS3kpxyOtigcgMSVNQx/9WqOkfj2IxW6n8/ddHn+aE+r23+g492HLzeGdCjebCYzj17kmELRORrJqeoFUQWqR1FHg1fs7MBOCxHlcBgJP806N/TlUG+B8tc87JqkFOPFtllCndazdaMcna8iuyDYWumNerH5OfXnlnIUMNCZOVT/xkYVdich65lSh1Hoa6Ql27lR3SgD219pC170m7iI31ypipB130h+oBe04FXluJx/nLIwd+aVhpUi7gVdTRkSjnzA2ehE0MhubwJLBMu8HBwrRiwbkbPBugKNlJsieCZz1Ep1IU0yT0H7MMTSxctqTMl4Bk+it/ti9Kf72GnyPJ8fSzdrA87ytt08X4=;wF99Jycj8tbJhi9xmpnLmg=="
 ---

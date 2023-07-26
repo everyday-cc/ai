@@ -57,15 +57,6 @@ related:
       name: TV Technology
       domain: tvtechnology.com
     quality: 34
-  - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
-    excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
-    publishedDateTime: 2023-07-21T20:22:00Z
-    webUrl: "https://apnews.com/business/strikes-8fe71c6125793335a57ac15f603c99e6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
 
 secured: "skZrpCgIC5Dq3kgV+jdCp8oLfCezuHpTZjbdeA/Lyb4PKnfSnGwi+1sYaHKdqeYtnHIK5sYTKNVxB0DcHUlbNB32N9HSG66U5KiemNw1AoCkk30b/O+wA55GMAoSJP2Nq0xP5Vc8VaXCmw5ltRdxyJw0CVQvOdDbXtp0IZyA5tA0qaGq66auGgJPRukM13e3Eadhn4C2LOeKi8v3iKCaJqdPeuwDJzABYvQ7XT1j7flOyAkyifHPqtVbBfPfTLT/jmyd7OhwZMYs0qVYHfl6aY50NTYNW0n8R8SF7w8O9JVJV55a7IFD2MmXRhcI2d5g+6Z3QoHozBVF51QXsIMU4UFPyOJ+QyxFQt8sKihj2Hwp9hpRcu6LqEExedYXXfH931lbZ8A/ZkstNq6VdMyGIDQ0v1ftteJYpjcqgMkmkrpuv34ihq/YksgQK12baFT+GxyKxqXz2vzB0Gxqoz5W8o7HhZPmS0bt42kPp5NDrbCTn6Zk740Xu4NO4dvyWi+7QwL2LLUuVGXU8iM1IQSUUQ==;aM529/zRQvi6JU7pQWtguQ=="
 ---

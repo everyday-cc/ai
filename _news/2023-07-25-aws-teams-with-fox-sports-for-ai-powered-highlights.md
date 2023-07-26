@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html"
 type: article
 quality: 74
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 17
-  - title: "Business Highlights: Big Tech firms agree to AI safeguards; Actors, writers strike enters 2nd week"
-    excerpt: "Biden on Friday announced that his administration has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before they release them. The commitments include third-party oversight of the workings of commercial AI systems,"
-    publishedDateTime: 2023-07-21T20:22:00Z
-    webUrl: "https://apnews.com/business/strikes-8fe71c6125793335a57ac15f603c99e6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
 
 secured: "L9cPCySPRh5A0jmy2iAo2opml9u6VUoKcoboECXjVuQvzNnb9+s1yr/MXTBYJZt476TVnA+AzO1OrcJ68MhhKjBdgKKNgupIpaoNRnITuZAjtmPmwyXal0zW2+dJJqv6d4C7P3E/EDolwcZb33PsmqWFIcSBNnmy4M4yPO5adbdFy2w4mjfQsAqbMCdF7FHPTly0lnTAtVvLxkaR1wjbWHx4AlItyUvTmA3+1IWHgKRuWi4bwaJH7vWkNPtj3WlxcJIsPQ1vw2pHLDBwnxhJflHgg6idAekGFZVW4fL7gm7xAY1v6ItUgl5O/Lry+tyAfDYmcB5aERgH/s3GOaWcoI5rvzU4Ga3uLrY0ri6SluU=;3jC04+4yEJ8q+2DLpQNq7w=="
 ---

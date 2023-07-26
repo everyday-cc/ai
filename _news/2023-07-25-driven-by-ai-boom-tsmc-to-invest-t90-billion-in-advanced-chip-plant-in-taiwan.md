@@ -132,6 +132,15 @@ related:
         width: 540
         height: 540
         isCached: true
+  - title: "Taiwan chip giant to spend $2.9bn on plant for AI"
+    excerpt: "Chip maker Taiwan Semiconductor Manufacturing Company (TSMC) will invest $2.9bn in a packaging facility in northern Taiwan, Reuters reports. “Packaging” in this context means placing a number of chips in a single device."
+    publishedDateTime: 2023-07-26T12:31:00Z
+    webUrl: "https://www.globalconstructionreview.com/taiwan-chip-giant-to-spend-2-9bn-on-plant-for-ai/"
+    type: article
+    provider:
+      name: globalconstructionreview
+      domain: globalconstructionreview.com
+    quality: 34
 
 secured: "nOtXQOO48y/uqD1i4k5Tae8ksT5GHIUppLqWKwp7cr9u5jP3Pl7E3iiqvj7qsx2TyB+/QRJ3W5b1wEoZH/8fM0FdhJIavbHOvPgjbTc7HzHoBHPWAUhMX3M2iqT0PRsPtVGYj24GlFJG3tHrdY3KGGwqYcL48hPN9pRnchyGOvuVei4zTB9RtVzVs127ZNrcpEG/VqupgPxM8o75bQewGG3ETFV7BhotU2+eRVNjRupw8bho6tsFhscIltBuUOftR9kx7tKmz08YC3QXojXWgGk9IIu2C7KHI6IcdybcWrl90ySjaDQD5PmX5ZIBBx8Q9mEJTs9p8O8wt9ZaPtlFYX8ylPc17fAsO8H/fEWPVcs11j/JkZeVbocRkeKzWUsiubdkxWlh0w9QBNKlpaK5xy4cp/yJgzBipSVWMzp/+X7crWSDa6BQjZwGnAwcngGmmVOeVzr+wcNh5t904oYDJys4RJcD2FtMYUa/1cWVklVS4HhCIsKgXmLwfvu85b6tUJC76F53pWR0OWLlaW3JPg==;yZCEOccfQrv8OBs/N615fQ=="
 ---

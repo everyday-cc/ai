@@ -6,7 +6,7 @@ publishedDateTime: 2023-07-22T01:03:00Z
 originalUrl: "https://247wallst.com/investing/2023/07/21/an-unconventional-play-on-the-artificial-intelligence-theme/"
 webUrl: "https://247wallst.com/investing/2023/07/21/an-unconventional-play-on-the-artificial-intelligence-theme/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "In AI’s unlimited potential, the benefits and the risks"

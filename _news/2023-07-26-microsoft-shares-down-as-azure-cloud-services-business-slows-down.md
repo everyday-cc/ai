@@ -43,6 +43,15 @@ related:
         width: 897
         height: 417
         isCached: true
+  - title: "Artifical intelligence puts Microsoft Azure in top gear"
+    excerpt: "Microsoft’s latest quarterly earnings results show the company’s public cloud business was the largest contributor to revenue."
+    publishedDateTime: 2023-07-26T07:45:00Z
+    webUrl: "https://www.computerweekly.com/news/366545752/Artifical-intelligence-puts-Microsoft-Azure-in-top-gear"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 34
 
 secured: "0Rv2TErpiQKnQarUiIWGrmjEiAvS7CWAvVCVKhb6f8MXJQMXahJ9tjteHzMAyHVm2ejAttOcLj8KY75FUrSlhzpIFZdqXc8OYn+mpGFm9u/BTTS7v6mIOUvLM5v8ydgIQ4I7oET1H//IGQd6jlXrhPot/4i/Mc/czxvTPvRo9N6v2+b7z0JLVsNVayOVuSRstGvQVS0mxeJmm5PYO5Zr0wgOc+K9zIwghuWAIeY540C51l0hLsWpW1xT4BdigqIhZd3EcHYP6ZUA4ByWOsItIGQRSgTpsL41hd5Ga4PKIoyZne0fXasBsgaVo8fun/KmHfdsMqRdv3GWN6iDkL8eZ7HYDDjemszbytrLrOAAJQk=;T1+r+XzNWDkzxwaxxxSWkw=="
 ---

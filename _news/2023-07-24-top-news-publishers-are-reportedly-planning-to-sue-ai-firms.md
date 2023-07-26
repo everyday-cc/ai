@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
         width: 1345
         height: 900
+        isCached: true
+  - title: "What top tech leaders are saying about artificial intelligence"
+    excerpt: "With artificial intelligence (AI) rising up corporate and societal agendas, we gauge the views of the key tech leaders in the space"
+    publishedDateTime: 2023-07-26T15:43:00Z
+    webUrl: "https://www.information-age.com/what-top-tech-leaders-are-saying-about-artificial-intelligence-123505879/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 37
+    images:
+      - url: "https://informationage-production.s3.amazonaws.com/uploads/2023/07/what-top-tech-leaders-say-about-artificial-intelligence-1-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "RAPIt+PhdtdM/pZrEZK51hUbkpHNvrts6yHnf0XCfxJ7Y6sMRVtWGSEbfK4miTXSdoI2RpFnIQFkaDeU76e2De43tQjICSVE7CaxctblNMEc/vT9QeGs/vPpDHrOoW6UyFmxtcuxV/uKOLncOZmKrFevxHrkclOCLtGD88CpyC/2gYQeWgMTTv6Yz0kWv9NHjlU78/I48YAYrfho6dHH+v2ce00kklyYpnAlZyYNmxYMihm6GfGZ801uM+l4rgqttiaiUyHRbt2RiBMXz3LD3cywB0Vdf2eGH0Da8isGF4EhiIcBrRZEr2oC8Tp399iJrurpjXVW5qur0ahLkXInZaQwsHKln67ozZIu4xJjw+Q=;wLTMcqY6EI2P0hUK8avawA=="

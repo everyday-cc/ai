@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 1500
         isCached: true
+  - title: "AI and machine learning cybersecurity startup Protect AI raises $35M"
+    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI Inc. today announced it has raised $35 million in new funding to scale up sales and marketing, go-to-market activities, research and development and customer success initiatives."
+    publishedDateTime: 2023-07-26T14:24:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/ai-machine-learning-cybersecurity-startup-protect-ai-raises-35m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
+        width: 2500
+        height: 1313
+        isCached: true
   - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
     excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."
     publishedDateTime: 2023-07-23T16:11:00Z
@@ -75,6 +89,6 @@ related:
         height: 300
         isCached: true
 
-secured: "dxDI7wVeT5JYoYLP1tmsf0Dj2plc+jfO6XDTt92c8/jun6TmcSOEvb7EkcW0mU4F5yi+/k1hT+jMe4yFg/GqX0IgMNVrGXSsNnzYnn7xkly9xUH+CCR12uc4Otg1aNMKLypBl1iTY24t1tFrOXoe7dBQy6fQQr17Rua/AOwPHmpSzbGzDIUt1uH/FQTGycZLzGmAu6nOX7Rn4VOVGcy8avaptySXC0QIIeWvP+YRoa09Nt86cD5Ep07kKARQkEdYB6XfAesqIw2gF9QriYDZs88MYJOfJzWtsp9wRudzbNtZ5+xxVy/07TLUiKfzYp6fTblNMBmc6QuljSaMGc9mbpYuvAF5xLP9BqurqxQtKB8=;j6l5Fne/JZRmtE71XM2VQA=="
+secured: "W8Z2rELE7yi5xJmZ9SWimVtmkxYAR/MvlD2aHvyDBPiAwUJdrOHl2074UUrL5B8ubSFAYKBHpZgvzTst3xhQhv2ukVNy/w89hNdab4e8vp5JYWIIcaHYB7rUa0rdqy/fDUgCzfZiB3Ezfvf9gWXYVn22KpzcV4zmYts5swOQsIk7Y3h+66Yte0FogaG83D4eLgY761T5gi0KppoTSTdwopZZv6rrDD3Hll/5nY0fpJ8DZ1prdoD82pmNave86ntilG0+xP/PahGF5Gfkipe2R84cFRurn2e4zwbnbwwbOOtgxE8bTdDaPASEVrrNwlZUzzcjODqZQoIY8vSmHdHtZCaYQekKtWNIpH7HxUkZDFcRl9glpbrTRvXeM7Ny6Nb/OiZ8Nu+kmq6jyrKCIzqnr9cg/cweIdenQWOC//fSbK7NxG+Y8rQmLANoHQFp5nMn68VaH50K1v6q7TTe8ijTUNQo4OekG63y/5ojGnlHki6/4Lt5DMUsVoN4Wpu9u0H0xvG9nDb5j6Rp2nXtC2qqcQ==;LBlnIyLrUhuGzFbwc6yK4Q=="
 ---
 

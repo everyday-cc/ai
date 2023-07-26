@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Using Predictive Analytics And Machine Learning For Engaging Content"
+    excerpt: "Your businesses could be leveraging predictive analytics and machine learning to help provide a more personalized user experience. By gathering data on how users interact with your site—such as which pages they visit,"
+    publishedDateTime: 2023-07-26T12:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/using-predictive-analytics-and-machine-learning-for-engaging-content/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "Qf5qv7ASZN3tpWqenF19pcE+PACNpHbl4hBmbtJw//DibVTdY/ORxn6O6ezsgZ1DoOvZtvUC+f1Keq0JNHJfZKi12hfl/X9CKKbieto73WLyX2pk3K44uS+0Wqf2qkVqCThtcsWGKuy7fGbVd23aSf+1HV6+TiNIeAuT8XD2F16AdupLj94w6DAEcDFQ8eFs3H5xYkWwrTq6s9urXa7slx23010gyYhSRpmhze+r/j3AUIJE7+Y2ClTrSIzJYwyzGh769pvF/iRE9jvTjX5szsb3njHG3mDvVE7Ib1heIZAiUm67xCy9Wo/rnQggGvXoF9loBGD+MQ4mXIeO0hjixwnQC10puMzrAf4knxeZ3IbIDMRtVHiNZiEmF2cbsK5tAWwwILHLxFb27hdC6G5WHbIDSz+LNDeNXtXNJLxse8avpTp+/pib1GNvANXgD4h7lMAEuFacpyUo2Q07cv+NLJa+OP+Uplq5MQw50ImmXjwHTAL2FWf2xBiPycf4r6UMtbmif+u+9/WYLmrXBy+9ZQ==;2nLHdc4ghUakJclwneIAqA=="
 ---

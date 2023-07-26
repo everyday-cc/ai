@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vfx-ai-generative-change-visual-effe
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vfx-ai-generative-change-visual-effects-industry-jobs-excitement-growth-2023-7?amp"
 type: article
 quality: 60
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -46,31 +46,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "AI is the wild card in Hollywood's strikes. Here's an explanation of its unsettling role"
-    excerpt: "Getting control of the use of artificial intelligence is a central issue in the current strikes of Hollywood's actors and writers"
-    publishedDateTime: 2023-07-21T20:46:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-wild-card-hollywoods-strikes-explanation-unsettling-role-101563186"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Movie director Christopher Nolan warns of AI's 'Oppenheimer moment'"
-    excerpt: "Developers working to make artificial intelligence more powerful face many of the same moral questions as the \"father of the atomic bomb,\" he said."
-    publishedDateTime: 2023-07-21T19:37:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/movie-director-christopher-nolan-warns-ais-oppenheimer-moment-rcna95612"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
   - title: "‘Bargaining for our very existence’: why the battle over AI is being fought in Hollywood"
     excerpt: "The ramifications of artificial intelligence are of concern to the actors and writers on strike – from big stars to bit players"
     publishedDateTime: 2023-07-22T10:21:00Z

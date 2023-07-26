@@ -2,6 +2,133 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-07-26-what-is-zero-based-budgeting.md",
+      "title": "What is zero-based budgeting?",
+      "excerpt": "Zero-Based Budgeting (ZBB) is a strategic budgeting approach that mandates a fresh evaluation of all expenses during each budgeting cycle.\nThe post What is zero-based budgeting? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-zero-based-budgeting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T06:25:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-10-ways-the-oil-and-gas-industry-can-leverage-digital-twin-technology.md",
+      "title": "10 ways the oil and gas industry can leverage digital twin technology",
+      "excerpt": "In the era of digital transformation, digital twins are emerging as a potent solution to energy production challenges. \nThe post 10 ways the oil and gas industry can leverage digital twin technology appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/10-ways-the-oil-and-gas-industry-can-leverage-digital-twin-technology/",
+      "originalUrl": "https://www.ibm.com/blog/10-ways-the-oil-and-gas-industry-can-leverage-digital-twin-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:51:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-how-ai-is-helping-companies-meet-sustainability-goals.md",
+      "title": "How AI is helping companies meet sustainability goals",
+      "excerpt": "Discover the current and emerging use cases for AI in waste management, optimization, energy reduction and ESG reporting.\nThe post How AI is helping companies meet sustainability goals appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "originalUrl": "https://www.ibm.com/blog/how-ai-is-helping-companies-meet-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-debunking-observability-myths-part-1-why-you-cant-skip-monitoring-and-rely-only-on-logs.md",
       "title": "Debunking observability myths – Part 1: Why you can’t skip monitoring and rely only on logs",
       "excerpt": "In this blog post, we will shed light on a myth surrounding observability: \"You can skip monitoring and rely on logs.”\nThe post Debunking observability myths &#8211; Part 1: Why you can’t skip monitoring and rely only on logs appeared first on IBM Blog.\n",
@@ -52,7 +179,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 358,
+      "heat": 368,
       "tags": null,
       "images": [
         {
@@ -190,7 +317,7 @@
       "originalUrl": "https://www.ibm.com/blog/it-operations-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -314,6 +441,40 @@
       "provider": {
         "name": "Fox Business",
         "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-21-ibms-watson-rebooted-as-a-secure-ai-alternative.md",
+      "title": "IBM’s Watson rebooted as a secure AI alternative",
+      "excerpt": "IBM hopes its watsonx studio will get it back into the AI conversation. It’s last splashy foray, Watson, was once billed as AI breakthrough for healthcare, accounting, cybersecurity and for beating Jeopardy! superstars like Ken Jennings. Today, as its lower-case “w” suggests, IBM’s moonshot ambitions have been scuttled, for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative",
+      "originalUrl": "https://www.scmagazine.com/news/risk-management/ibm-watson-rebooted-ai-alternative",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -510,11 +671,11 @@
     },
     {
       "path": "_news/2023-07-18-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
-      "title": "IBM has been talking up AI, but here's what investors should really focus on in earnings",
-      "excerpt": "\"IBM will have a seat at the enterprise AI table given its legacy Watson initiative, increasing security concerns and enterprise positioning,\" Grossman said, recommending the stock as a \"defensive ...",
+      "title": "IBM has been talking up AI, but here’s what investors should really focus on in earnings",
+      "excerpt": "International Business Machines Corp. may be hitching to the artificial-intelligence bandwagon with its new WatsonX initiative, but analysts are more interested in areas of Big Blue’s business ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230717963/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings",
+      "webUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -524,12 +685,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T15:24:00-07:00",
+      "publishedDateTime": "2023-07-18T07:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1173,188 +1343,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-the-economy-of-things-the-next-value-lever-for-telcos.md",
-      "title": "The Economy of Things: the next value lever for telcos",
-      "excerpt": "Over the years, the Internet of Things (IoT) has evolved into something much greater: the Economy of Things (EoT). The number of connected things surpassed the number of connected humans for the first time in 2022. The number of IoT connected devices are growing in practically every industry, and is",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-economy-of-things-the-next-value-lever-for-telcos/",
-      "originalUrl": "https://www.ibm.com/blog/the-economy-of-things-the-next-value-lever-for-telcos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-11-top-11-ai-as-a-service-companies-2023.md",
-      "title": "Top 11 AI as a Service Companies 2023",
-      "excerpt": "Google also provides a suite of AI services through its Google Cloud Platform (GCP). This includes pre-trained models, APIs, and tools for natural language processing, computer vision, speech recognition, translation, recommendation systems, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/aiaas-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/07/ew-ai-as-a-service-companies.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-what-is-vibration-analysis-and-how-can-it-help-optimize-predictive-maintenance.md",
-      "title": "What is vibration analysis and how can it help optimize predictive maintenance?",
-      "excerpt": "Vibration analysis is a powerful diagnostic tool for identifying, monitoring and preventing mechanical failures in rotating and reciprocating machinery.\nThe post What is vibration analysis and how can it help optimize predictive maintenance? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/vibration-analysis/",
-      "originalUrl": "https://www.ibm.com/blog/vibration-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T06:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-10-how-to-improve-employee-experience-and-your-bottom-line.md",
-      "title": "How to improve employee experience (and your bottom line)",
-      "excerpt": "In a nutshell, employee experience refers to the totality of interactions employees have with their organization. \nThe post How to improve employee experience (and your bottom line) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-improve-employee-experience-and-your-bottom-line/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-10T06:01:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

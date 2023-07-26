@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
-    excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
-    publishedDateTime: 2023-07-25T08:42:00Z
-    webUrl: "https://www.computerweekly.com/news/366545652/Google-reveals-how-AI-and-machine-learning-are-shaping-its-sustainability-strategy"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 28
   - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
     excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
     publishedDateTime: 2023-07-25T12:00:00Z

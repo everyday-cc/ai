@@ -35,7 +35,7 @@ related:
     provider:
       name: 24/7 Wall St
       domain: 247wallst.com
-    quality: 17
+    quality: 19
 
 secured: "X5Lth0BzlpAYBltSsZnX3qA/5YV3MA6fSCKnUPv2eFsAzH7Q9oJ66Gi1MV8Eff3Kv5WLVuAQKMPFKnkGYWiK2nSRUSkrEhjchGmCzRWHxUzvXd2w6zvgiQGguRz5aDhPmqBEFHosLUEdH/lhvSnIyBes+mLebfmd5zIHLiMOlHPgzaAAZNS2Rvf3av4hdn7TlFcCxuGPYPzG3ddD+AQ1WdqkkYKEOhU46tMSPKjS3/Tx1F6UdZlLFWdZGlk6vwdbwXqI7PKJuKBNby1L5vl1HRXDJ3MR3lyHSsYSB2JKq6mAT186vwbKL7CEaMc3JH+vdRnsoN5HlO1zioNKkKrn2zh49EWpw7vzcaCrNTWBDKvbU2ULfHo+CBTgH7v7R27msvyzbwIErghHdCKB5b7IyXFDyNLUMg605i719mvXZpyg1kMPke3EJ4mbEepjCnWC47GXnb5G1jUM6ilM1G3ln0y2q6JiGr7nmbCJq7xjYB7FS3ng2pmSkExOsy/jH1DQdODJdyNojMPcPzlZJvhStg==;H9K2MaYcMfND23oM/y1/qQ=="
 ---

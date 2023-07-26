@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-11-mastering-chatgpt-ethical-challenges-of-chatgpt.md",
+      "title": "Mastering ChatGPT: Ethical Challenges of ChatGPT",
+      "excerpt": "we will delve into the complexities of AI ethics, including data privacy, misinformation, bias, and job displacement. Roberts, extensive knowledge and experience in the field make him a relatable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/mastering-chatgpt-ethical-challenges-of-4069343/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2237_2750.jpg",
+          "width": 691,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-11T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-11-what-types-of-ai-are-being-used-in-healthcare.md",
+      "title": "What Types of AI Are Being Used in Healthcare?",
+      "excerpt": "Artificial intelligence can be classified in two ways. Experts explain how current AI tools used in healthcare can be classified and what the future may hold.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202307/GettyImages-1388388759.jpg?itok=4rnom0Sy",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/07/types-ai-in-healthcare-perfcon?amp",
+      "publishedDateTime": "2023-07-11T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-07-11-how-future-histories-of-other-intelligences-clarify-todays-ai.md",
       "title": "How Future Histories Of ‘Other Intelligences’ Clarify Today’s AI",
       "excerpt": "In 'The Institute for Other Intelligences,' Mashinka Firunts Hakopian combines speculative fiction and media theory to propose equitable futures for intelligent life.",
@@ -1354,93 +1441,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-microsoft-is-already-offering-a-generative-ai-certification-program.md",
-      "title": "Microsoft is already offering a generative AI certification program",
-      "excerpt": "Although Big Tech is still (sometimes clumsily) figuring out generative AI’s ethics and implications, the genie is out of the bottle, and the technology is already integrating into the workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "originalUrl": "https://www.engadget.com/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 566,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/vxYs3kq0gOpyOmPKsA4LNQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/3409dfe0-15cf-11ee-9fb5-0ff29edbd714.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-is-already-offering-a-generative-ai-certification-program-160023724.html",
-      "publishedDateTime": "2023-06-28T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-28-catholic-churchs-stance-on-ai-ethics-technology-should-be-at-the-service-of-humanity.md",
-      "title": "Catholic Church's stance on AI ethics: Technology should be 'at the service of humanity'",
-      "excerpt": "\"Ethics in the Age of Disruptive Technologies: An Operational Roadmap,\" a handbook for enterprise action around technology and AI, is the result of a collaboration between the Vatican and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230628346/catholic-churchs-stance-on-ai-ethics-technology-should-be-at-the-service-of-humanity",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230628346/catholic-churchs-stance-on-ai-ethics-technology-should-be-at-the-service-of-humanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

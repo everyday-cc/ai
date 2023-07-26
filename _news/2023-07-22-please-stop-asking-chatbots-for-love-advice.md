@@ -79,6 +79,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "OpenAI’s ChatGPT is too good for its own AI to detect"
+    excerpt: "When OpenAI launched Classifier in January, it was supposed to have been smart enough to detect when a user (say, a student) used ChatGPT or another AI program to author a work. OpenAI pitched Classifier as a way for a teacher to identify if an essay, for example, had been authored by AI instead of as an original work."
+    publishedDateTime: 2023-07-26T13:28:00Z
+    webUrl: "https://www.pcworld.com/article/2008021/openais-ai-is-too-good-for-its-own-ai-to-detect.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
   - title: "It’s time to break the ChatGPT habit"
     excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
     publishedDateTime: 2023-07-25T10:19:00Z
@@ -95,6 +104,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "We Tested an AI Chatbot Drive-Though. Here's How It Did on Three Challenges."
+    excerpt: "Across the country AI chatbots are now taking fast-food drive-thru orders. WSJ’s Joanna Stern put the tech through a series of tests at a Hardee’s—including bla"
+    publishedDateTime: 2023-07-26T12:04:00Z
+    webUrl: "https://www.wsj.com/video/series/joanna-stern-personal-technology/we-tested-an-ai-chatbot-drive-though-here-how-it-did-on-three-challenges/B00854AA-74DE-4E8C-8067-E09A4C38D821"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 44
   - title: "The Future of AI and ChatGPT: A Glimpse into 2023 and Beyond"
     excerpt: "As we progress into 2023, the world of artificial intelligence (AI) is poised for remarkable advancements, and ChatGPT, OpenAI’s text-generating AI chatbot, is at the forefront of these developments."
     publishedDateTime: 2023-07-24T15:29:00Z
@@ -108,20 +126,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Meta’s Llama 2 Challenges OpenAI’s ChatGPT: A New Era in AI Development"
-    excerpt: "In an intriguing turn of events, Meta has decided to open-source its large language model, Llama 2. This strategic decision not only positions Meta as a direct competitor to OpenAI's ChatGPT but also democratizes access to advanced AI tools."
-    publishedDateTime: 2023-07-21T23:09:00Z
-    webUrl: "https://www.unite.ai/metas-llama-2-challenges-openais-chatgpt-a-new-era-in-ai-development/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/07/Screenshot-2023-07-21-at-8.07.22-PM-1000x592.jpg"
-        width: 1000
-        height: 592
         isCached: true
   - title: "5 AI Chatbot Mobile Apps That Aim to Put a Therapist in Your Pocket"
     excerpt: "Artificial intelligence, or AI, continues to make progress by leaps and bounds. Many of your gadgets and apps are already using AI in some form, and many more"

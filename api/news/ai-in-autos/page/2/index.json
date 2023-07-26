@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-15-teamsters-city-leaders-rally-against-self-driving-trucks-in-san-francisco.md",
+      "title": "Teamsters, city leaders rally against self-driving trucks in San Francisco",
+      "excerpt": "Teamsters and city leaders rallied against self-driving trucks outside San Francisco City Hall on Friday. Assembly Bill 316 would regulate autonomous trucks over 10,000 pounds and would mandate, among other requirements that someone be in the truck while it's on public roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/",
+      "originalUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2023/07/24311038085-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/teamsters-city-leaders-rally-against-self-driving-trucks-san-francisco/3273201/?amp=1",
+      "publishedDateTime": "2023-07-14T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-15-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
       "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
       "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
@@ -262,10 +305,10 @@
     {
       "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -287,8 +330,8 @@
       "publishedDateTime": "2023-07-13T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1270,40 +1313,6 @@
       "provider": {
         "name": "London Evening Standard",
         "domain": "standard.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-tesla-self-driving-cars-later-this-year-musk.md",
-      "title": "Tesla self-driving cars 'later this year' – Musk",
-      "excerpt": "\"In terms of where Tesla is at this stage, I think we are very close to achieving full self-driving without human supervision,\" Musk said via video link at the opening ceremony of an artificial intelligence conference in Shanghai. \"This is only speculation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
-      "originalUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/07/07/business/foreign-business/tesla-self-driving-cars-later-this-year-musk/1899513/amp",
-      "publishedDateTime": "2023-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
         "images": null,
         "publishers": null,
         "authors": null

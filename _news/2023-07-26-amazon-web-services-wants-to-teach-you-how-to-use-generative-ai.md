@@ -45,6 +45,15 @@ related:
         width: 2400
         height: 1800
         isCached: true
+  - title: "New technical deep dive course: Generative AI Foundations on AWS"
+    excerpt: "Generative AI Foundations on AWS is a new technical deep dive course that gives you the conceptual fundamentals, practical advice, and hands-on guidance to pre-train, fine-tune, and deploy state-of-the-art foundation models on AWS and beyond. Developed by AWS generative AI worldwide foundations lead"
+    publishedDateTime: 2023-07-26T12:20:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-technical-deep-dive-course-generative-ai-foundations-on-aws/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "The Difference Between Generative AI And Traditional AI: An Easy Explanation For Anyone"
     excerpt: "Discover the groundbreaking world of generative AI and how it differs from traditional AI, unlocking new realms of creativity, innovation, and limitless possibilities."
     publishedDateTime: 2023-07-24T05:41:00Z
@@ -159,6 +168,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YLLGJL4GaoyR4Do1pDxJYzlFDqJcDs4VwsE6oPdNugKOi/TMEUZBs1e42Zgoitc3i2bkcjhmHZasRUk8XkoBsV3OtF2xND1rzjOLmEdgJ4aR+KD5Iy6bsIsh7NMK9hwAmFWPfilDCsJmMLnENqZJ3mjBga7bCp6Kb9rAtRCqFuOEFYQYvrLPGgnybkHkeKnEoyAJZc9EAr5npll96KZt8JJ1lcFN60gyDJh4oHkwtbCXHEe9K+u8HVOMPZyoByreuwxtoCLP9hurTOqo9h/weZ+jnUzATn+s3Dhyvnz8dWxPFbpN/0fnjjB5eS5ayrfgkRD9imQURbPzH/1qPPFShjJX0m4xQmg0x5RKRRKqCPQ=;imsiBwRSqPIPIkQ7qT2dJA=="
+secured: "GUdXpmWx/vifPUAkwtDMO/MYlXGMlYY0FYfi0MTmWhnkZmaJkYJqJ56vKjSOae8GnZpEROBEloIJ7jIEldaym7qsJIl9kzc1oKNkhtLK80U+nYtas2AZo3ASnzpE7R5BYv1SgHS6fm+Em1zCdgcaMM8apjKbcZmIZ8Lw6UY5QJ7B4wggAmDk9TfFFh8Rij1eo/041VlrwNopyZyiVDfmnptr/7pJN+T3QygQnVmA/Dlz0ZfLMeTo70o8L+33kKqncsxAsCqP2hv5HJ5rmRJ1gD3ZuL/Q6OLeoc2va+WMDbKaapRRwbulbr32JS6s2tpa6AquRODelHTG5mDALC1euQt3A3r62a6sL0LcvNv8zjMSxtjtMi6WNXQqTXO/iQGbJZT2gyerlTeNZA30VrVM4KRlnQdnBBupp2WL5TVXtwK9Gz94oHsHzIKPPuS+N0Yn9hZFD7r9cCEn6ljYcoYtQyWhfflpUqENlK/3yT2A7lL8S3wwnM0AHUQHHJ/Xo6dKyOyM8yJWskyoVW4vp+8niw==;M67yTaNvux46MbO/+njUdw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://d.newsweek.com/en/full/2261920/president-joe-biden-speaks.jpg"
         width: 2500
         height: 1698
+        isCached: true
+  - title: "AI and machine learning cybersecurity startup Protect AI raises $35M"
+    excerpt: "Artificial intelligence and machine learning systems cybersecurity startup Protect AI Inc. today announced it has raised $35 million in new funding to scale up sales and marketing, go-to-market activities, research and development and customer success initiatives."
+    publishedDateTime: 2023-07-26T14:24:00Z
+    webUrl: "https://siliconangle.com/2023/07/26/ai-machine-learning-cybersecurity-startup-protect-ai-raises-35m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
+        width: 2500
+        height: 1313
         isCached: true
   - title: "Top AI developers commit to security testing, clear labeling of AI-generated content"
     excerpt: "Seven U.S. tech companies racing to develop artificial intelligence tools are voluntarily committing to a new set of safeguards aiming to manage the risks of the advanced systems, according to a Friday announcement by the White House."

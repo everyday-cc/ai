@@ -53,15 +53,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google reveals how AI and machine learning are shaping its sustainability strategy"
-    excerpt: "Google's latest annual environmental report reveals details about how the technology giant's ‘artificial intelligence-first’ policy is shaping its ongoing efforts to minimise the environmental footprint of its customers’ operations."
-    publishedDateTime: 2023-07-25T08:42:00Z
-    webUrl: "https://www.computerweekly.com/news/366545652/Google-reveals-how-AI-and-machine-learning-are-shaping-its-sustainability-strategy"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 28
 
 secured: "1ZCE7fVE99xo3+gOjHxR6h5KVasW/eme0mkXjZsu3wvLYhHRfgd39ZIA0vzUR+wrtlwGOXP6j0vChiCPiFAj1OTfDW2M3y3493qqSIxB32K+yNdhtsu0wYA8sLMv06F2BuPW2KPDGpeLS0ykkSXAqJpJwL4Pempomq26JRzrA5xGSLgdPxHrCWAcP4RAT5c5cZwFy6ogXD54En0zO6s/U4pbacMuxU3UjVWykk3rWGdxhg4NbaBUdMARFOeV0YWkwhdgxqFUw5zyG+rYeJQNaF7pxZCv1rp6CjZZgbjCTY42cL2dlTL7Rpy9YZ0CQwqRwnOqwC8MKTR8bxN5PlIJJpLy0FKLcZVhlsFcheBMPoshM/2vg2ZluazBMbCrJLEjePICt2BiovwUr5d6EKxyrcCO05oeb4Q5JcIpFdzcDn4Xiu/dLE07Z0seHRdsHgA49RYx2Q2uCcyD/2ODa85qZPj75c/BFsviEJYytRZkPyIwzGXH3p6Ew4ZygtbF5YPS3m3pg9hOPvvRI3QWVjGupw==;VMncP6vb/luUDLe5vNE+XA=="
 ---

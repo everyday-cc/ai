@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter"
-excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ..."
+excerpt: "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ..."
 publishedDateTime: 2023-07-13T15:23:00Z
-originalUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
-webUrl: "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+originalUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
+webUrl: "https://www.freep.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/"
 type: article
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Ez1AcWD4tk73kxyFH6P80kjaBvYyi+K3ioTtKW70yDqWDcBV7nrwF8mxdU+KDT5wH1pHzdUMXE3W84j4WXtx1Mituip77fzfswCfrr4MsdiA6ywhwOGs1+vHmi2684HJteXsubmYXhjEdlUq2uA69DAA+a/zux6scoWwAEdQECncZzPSh/qt3bKjD6TLfClr1qgoyAtmApD/h0UqU6NhuhWO2XtyKlnXZpiMQZmv41igWuTHmyvHEtTvVH5FhOePaWKUVKnoo/Nd+V50m644e+q2lhMkTUUACL872DmakyMDfUtWhnZwrtm/zvIy/5rF4u19dZfOgJATO3swhqvzyyguyDrK6Vcn/JZDKakLEZk=;ix+E6ZqieOi3ihKJOXssMw=="
+secured: "Y7yXkuJgljdA/mspVasGgMW0AT1CkmPD/asSAyYOx1LLQSZlDz7RRozQryd6FeMtFz4bswF0cQGp+a+CwWDh55vxuFXu1pXVzOdoVd6P/q2USaP2Q3tLX4k3238p7nd1itXs6HHgs0k8RO+Ocka4NbTHzj9rSqKyEAkSb73OimL1BXFXYqmZoUj2PC9hWhI7vpfGpwAFJtn5QQa0R6lfkEUuUBrUClRS2LabwfjfWSFeEZjLIDifdgiScSri8Ba7eCZj1LJERdQVBisVqN5M9JNdN16nJBFzmmkFDsRmCGDdMRNd7e6QZ8YBUAur3C71nzeo2RzUwv5Ka60odh5ydm+uELGfPBgvbApRUSATagQ=;8j+NWnD1Fvw1+Gl0sYaVMw=="
 ---
 

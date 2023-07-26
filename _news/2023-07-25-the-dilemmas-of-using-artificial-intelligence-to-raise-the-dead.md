@@ -53,24 +53,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Biden declares ‘I am the AI’ while pushing rules for artificial intelligence"
-    excerpt: "We must be clear eyed and vigilant about the threats emerging technologies can pose… to our democracy and our values,” Biden said."
-    publishedDateTime: 2023-07-21T20:57:00Z
-    webUrl: "https://nypost.com/2023/07/21/joe-biden-declares-i-am-the-ai-while-pushing-rules-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 29
-  - title: "Amazon launches program for startups using AI, climate computing"
-    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
 secured: "kd1QD2TyeY7tdw8xaf81aILAO8OqVi9tkp1SlqDwASJ1VGWoKZvXqa24YhaZ4fBA+9pDgNbyziIZEouRgIpb2d2VFkaPyqjRdNzoASfEUiNX2vKQpU5w9WLYhbMUthPM8BNgOB5hfPA7Pj6sJruLwCCUQgQhXFp+8Aw/dEEireIsTIlPouGIcTUCCR+LYXuGGJUEcV2w7GI6SXPf7ToVFHvVGRD5LKElBCSgO74ENAnhrP+g4uw25T2u712MpM9+iuHj4mXl/3wroDFsa1xWIJuyECHPbXnU6Iw/RjL7RL47iryJza0yKsrRHTUznckuijtUOONYWLJEgqXO0A7Kw4Jz511K407NrtfX/4BfxDxaqPkaPLnkvz//GXw13bu/k2DdV6gqjDYMHppMyAyyfU2vrS8W2xhulJZVtP6HWxI46dDz4LsEpiHVkpz04llsKhHlu/4Cj5mYUZLSYOkKwaGZs6T+Nr32qc1JgyerZ/jQEB+cJ0iwRjlhCy79hBUd8nThmAyuON+KEWEUwOz/Kw==;VJuo60kSR7nHl5T4jVnNxQ=="
 ---

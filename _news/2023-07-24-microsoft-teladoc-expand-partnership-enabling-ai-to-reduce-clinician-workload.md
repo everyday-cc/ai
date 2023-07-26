@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/07/23/microsoft--teladoc-expand-partnership-enabling-ai-to-reduce-clinician-workload/amp/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 2496
         height: 1401
         isCached: true
+  - title: "Microsoft sees AI making ‘gradual’ growth contributions"
+    excerpt: "After a year where AI headlines have sent stocks soaring, Microsoft management reminded investors that AI's contributions to revenue won't happen over night."
+    publishedDateTime: 2023-07-26T12:43:00Z
+    webUrl: "https://www.aol.com/microsoft-sees-ai-making-gradual-124300655.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
 
 secured: "pkKWtxb9ceASJ/mtOLlrZR2yeTzrXvTjzX9dNbY7ISWaQ8WL9ZcguIwwP+Lo0AN9D6osxb/oMaIXB84tO6jUWC1vVj5fE66QQuFD+5R1hy9oaQt/dqtc/oZj65pp2dmqduLpfdafuBYRT0QzPP56ZVRwLu1rjItA4MsO7Nzyhdwylcl30eUZXkNt+pKvaRy0ymVfFCKybt2lDm9kUE9kVHYACahoUWQn5zlUVIoDDvJHKe2Dx4Lt59WFanLTt2uICQV6RliuujTiKY0kF+saFHZuRr98JrNOEzqwLsv0elsANUhzRmlvRmcrhZU9cDOLmUz4Y2kZhx34y7yPTwDkq4dio3MIByhISJ20f92rruZhPjLpkhf1dWq2DiDFcjFG9MUQNmWzvP0anQcuEtQiKy7fG6xZM0OWITGTAlnGBV8vH+nJMvftH0y6WVJnQsjLr5cvy0Ej6X3l5xFt+ewT54bJ3IvlW/mcFnclC19oXWR+WkinCLvNJqon8avWE5LGvKR1zw0wuQ8GfuI5SFl6qA==;0Uw/MDgAENH8tgplGwGlug=="
 ---

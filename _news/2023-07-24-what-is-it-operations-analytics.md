@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/it-operations-analytics/"
 webUrl: "https://www.ibm.com/blog/it-operations-analytics/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Using Predictive Analytics And Machine Learning For Engaging Content"
+    excerpt: "Your businesses could be leveraging predictive analytics and machine learning to help provide a more personalized user experience. By gathering data on how users interact with your site—such as which pages they visit,"
+    publishedDateTime: 2023-07-26T12:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/26/using-predictive-analytics-and-machine-learning-for-engaging-content/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "The Future of Data Analytics: 9 Emerging Trends and Technologies to Watch Out"
     excerpt: "In the rapidly evolving digital age, data has become the new currency, and organizations are harnessing its power to gain valuable insights and make informed...Read More The post The Future of Data Analytics: 9 Emerging Trends and Technologies to Watch Out appeared first on ISHIR | Software Development India."
     publishedDateTime: 2023-07-24T14:59:00Z

@@ -34,6 +34,15 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 47
+  - title: "Bad Timing: Netflix Lists $900,000 AI Job Amidst Writers Strike"
+    excerpt: "According to a posting on Netflix's job page, the FAANG company is a Machine Learning Platform Project Manager out of its Los Gatos, CA headquarters. The role has an option for remote work."
+    publishedDateTime: 2023-07-26T13:43:00Z
+    webUrl: "https://www.thestreet.com/entertainment/bad-timing-netflix-lists-900000-ai-job-amidst-writers-strike"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "kVsqRfGxEiEmeh3Epa6Xik0s7tCOsV6fijk4+fEzQMkBVMn1uEVMVoryMLqStDxNz+uCoZspnjfHeW6NtvfaaXaihkzawoq5ClJAiB6r+sM2lYoBaXjXYOh4yWoKN03rFV+jdEt2mhwO5weFGQZuL/3taH/3+DvZoe0FRzN6rSZLLs0gQ4jVrfEUz6POZktu/exF6nTn69rN2dTSWLsL8DGOerrfLERjogzMnennUHFTYZhATvHsYMUgROHEdjMOEkoWGxZIsFNAAsY+k/CnKFkUJh/kY+SWxbfMmUPYGIZnZhMqjbRkd7xgGpgJ3mHrqsvJvbdLNid0Q3BCOAUq/+V81zMCbCPQSELdYx1YPtuqCswKdYgIZQAaUhTTKSRG4Vt7TpSMusYLHT1Uv4xLgckxtbhVTFQxh8bwvKk35sMq8fDv2lojvF/y33j6dR3mig2n31mJfsIhUAFdZsOSOoIr2h1EM4zsWBNMZzIaiDiV8G2K2sCYSbJlILkG3w8bJclhk+Un38I9qLhtnoSSnQ==;T1NTlGNeksBRN7MHOu9p0A=="
 ---

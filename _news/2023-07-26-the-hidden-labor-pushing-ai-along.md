@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-
 webUrl: "https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/"
 type: article
 quality: 67
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -56,25 +56,7 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Biden declares ‘I am the AI’ while pushing rules for artificial intelligence"
-    excerpt: "We must be clear eyed and vigilant about the threats emerging technologies can pose… to our democracy and our values,” Biden said."
-    publishedDateTime: 2023-07-21T20:57:00Z
-    webUrl: "https://nypost.com/2023/07/21/joe-biden-declares-i-am-the-ai-while-pushing-rules-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 29
-  - title: "Amazon launches program for startups using AI, climate computing"
-    excerpt: "Amazon's cloud computing arm and an AI research group have launched a new program that will support startups using AI and advanced computing to combat climate change."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.axios.com/pro/climate-deals/2023/07/25/amazon-launches-program-for-startups-using-ai-climate-computing"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
 
-secured: "Ym9Fqvc/wJU7SmhZelBiW0Yhk6HWZD73gno3PyAG6nj++ISkJ3VtnO6Z/yqHvdlnhz1xQyxFr9xLoCpY5RxlZOjCnDRzVeMix6Ss67h9OgPghqm9lnZs+/dJi5mSsl99SLtNOGXq3a6LBQf325mzzRRpMKpF5BRPSUvHSg6r0H0HCqf477ksL+gUqetm7Y2QrXu6rPne7Oas09cZyoSFZQJBEu0mDC9c1/xN03D0tgnqTvg4jKP8tRUka3yrpRMwHsaax1IUFZPDvAyNT/8vCX1rxS8An2zCMZ+54KwbHx+bVh51nzYJFKqutYvQdZq0prq6iUR/gqCW8U6L/ANV3w/uwY5PVk599T7A6VbXXxE=;sbH/KZWbFpwQJLKiGqEm7w=="
+secured: "k4eC5+ySGxsLk0Uf81vtBkiQzZuIL84pp424+OvY0nW1b6c2PrPxNFzRvafK4h53wOULyN5/CTYUpfGNeZlQsOFNFwKAB2wlwUjny9TxVPePfdoZYypGI8K/Wgkw15ADI3DFCNRx2SoqaRjuG1JgwUr3/9jtIIQaq8llOcGsKxvzPKA8Y5w9S4B/ZT7C9D3LqCMNyIzkE9SNGeIFsN3T6Y/qyAlRcv6/CN4RyhOKTsPe+n86nJr05hZt8iKXhS1fhyjdCNVvAl+oDPejwewEvNDGDJoWhfEdvlDIuuQI3LnBRMuupsjDvsvsB4QwPXUb/Ei+exi+B/dYxMsvpxrQ7dqrHZ2tWe2MouDnUQ+gyTnwEibf0yWrkAcO0iQMr3zLK5rVURBZXLoJvj3WRc9GnyszzMFlzy4U1lp1t8QI7jox8Rr+D3AyG++CrAk2GqvcyxR4ChL4K0AxnbUOHCpECfSu084VFJhpQCvdHF7vZrQHB6nGTaW4qwC5j0JHJoi8R3sGNMVr3Yh2GGdrcW3nCw==;2qpgWtDGTo/De1jQQmPslA=="
 ---
 

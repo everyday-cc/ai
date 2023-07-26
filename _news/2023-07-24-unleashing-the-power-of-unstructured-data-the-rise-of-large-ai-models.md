@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Unleashing the Power of Digital-ESG: Transforming Sustainability in the AI Age"
-    excerpt: "DQ Institute, a renowned global organization dedicated to setting global standards for digital intelligence, is proud to announce the launch of the Digital-ESG Assessment and Reporting Standards in collaboration with Taejae Future Consensus Institute,"
-    publishedDateTime: 2023-07-24T15:23:00Z
-    webUrl: "https://www.cmswire.com/the-wire/unleashing-the-power-of-digital-esg-transforming-sustainability-in-the-ai-age/"
+  - title: "From data chaos to data products: How enterprises can unlock the power of generative AI"
+    excerpt: "Bruno Aziza, an Alphabet executive who led a roundtable discussion at VB Transform last week focused on providing a playbook for how enterprises can prepare their data and analytics infrastructure to leverage large language models (LLMs)."
+    publishedDateTime: 2023-07-26T13:14:00Z
+    webUrl: "https://venturebeat.com/ai/from-data-chaos-to-data-products-how-enterprises-can-unlock-the-power-of-generative-ai/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 15
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 41
 
 secured: "MQCeshIypUtSLKW2EqgdIgrwZ9sh3FTnnwKQfwMvxrXanNWIJwyu8BX036iueb0QERXw8gm1j8D9AULtB6f0jhViZUeAClN5cySZEVbEQnEHN4ZChp+/vh2G2lP3/PYI+suh/dQ+8LzKiYJbPpSaBFIDMwS9WsW1ZUE6Cs1hC8BQnU9oIh+pWSEG/aFG/Ee4wgE1M0D7gsm3v3n/JvwrKXZCVjAvwpVWi79PBbfexRVo3bnijxlJDe5VUPd4W4MxXdF637z4bUKw7XhmkP8cDvvzCwnpJA48SoHttOrOTNKkE8kDWXNkmrhc3Q/tB8yqHMEoP/2MSKK1vxxbwH7wbSND/MTRPqXB1KAJDXtou94=;xwfIS9P0ZH0LRI20ikPMig=="
 ---

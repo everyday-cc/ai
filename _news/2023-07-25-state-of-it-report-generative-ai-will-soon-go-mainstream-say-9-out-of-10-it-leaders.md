@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/state-of-it-report-generati
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/state-of-it-report-generative-ai-will-soon-go-mainstream/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Generative AI expected to impact SA companies"
+    excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"
+    publishedDateTime: 2023-07-24T09:44:00Z
+    webUrl: "https://it-online.co.za/2023/07/24/generative-ai-expected-to-impact-sa-companies/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "HNtt6ICzpHaZVcA+SG8OThrB+FvGZsdpQQAlqy8/of1Zt7GKUK7o9KYXF5dcP1KWDkx6x9QA5FhOTPlBnGw+ivDbUTNPJRKmo8DsehBiyEl6aucGPJT0U+XXRq99INMLWbz26sYkYqKyl2kEwiAZtCR1FA4KaCKOabClDiX3PBZLaUhD8yJKMelHa2ZnuaXz9ueNSUkieGDUdBHu/VPZZRBw/zil6Zk9PEn+JKe3m52rJKDUhqfXy17//IHwS3rtkrZ7kLoGJ9FQFoyWV9Dq70r3VxsQVtGRaH59EuMjYgBNHVZnMnvB7ED6SIEPnnSpcbUW3dKA43tU/QjUv9JaG22Ex6hWtNYsv/BhyWN+w4sEKSQW+0pfbdm7xYhUmdpZPDyIG6l/JuVo5ENHu9k4+lS29e/j4BZyUOLrmsBfoQ++171zAhstsHC/06RzEZg6J+pBJtn9/O9NMmqFh6KjDumnSDBjn/yVlzFPk1uV+cQ2FtcJ3IxjjyPo17u4bu02RzvKksURVZitTamqm0aYfw==;3/zG7CjVbkHesZ+QHLlfKw=="
 ---
