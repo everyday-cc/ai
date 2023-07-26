@@ -55,6 +55,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "'AI momentum building in Redmond': Here's how Wall Street is reacting to Microsoft's earnings report"
+    excerpt: "\"Generative AI is the seminal technological breakthrough of our generation and one that will likely play out over years to come,\" JPMorgan said."
+    publishedDateTime: 2023-07-26T15:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-4q-earnings-results-wall-street-reactions-ai-copilot-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "v+Vce8Kc8ZyBPBR/cDgtkTSW9Zp5jtuXMzKve6DXmOPkJ3HmAkol76bccsi3pppzZ9lHiitoldRpsnvieno7m+dr9sBZeA7z77NQ4607DJZasZYpbrdtfIlCqXYeZJc0P2rKCCa0/6o6gGdCxy3k4jNgd7xTli06Vio3ORUKKx/JjXqMY3AcoZAILAuWJQlZ1kXBUnhQYWLYrjjaLpDtj6CwhXPNhgPxQVWXRTGb7qZqlCM13Zex59vQ7yxNryEHK/ggUEtwOr69DCl5xcjBj1kfu4z9wW+/zSxuzi7ah4OFUqHmba6xTt00VOly4uEN1rNLJLT9SNuJtLkf8ZtiOBFF9MErZsT5J4YJ3SPck3E=;0dzO+HNiVKmgXCk0zxz34w=="
 ---

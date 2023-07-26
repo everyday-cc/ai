@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -60,7 +60,16 @@ related:
         width: 1344
         height: 768
         isCached: true
+  - title: "Stability AI Unveils Stable Diffusion XL 1.0"
+    excerpt: "AI startup Stability AI has taken a significant leap forward in the realm of generative AI models. The company recently announced the release of its latest text-to-image model, Stable Diffusion XL 1.0."
+    publishedDateTime: 2023-07-26T18:07:00Z
+    webUrl: "https://www.unite.ai/stability-ai-unveils-stable-diffusion-xl-1-0/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
 
-secured: "FE38EON9p5n+Wy+CmT5YF0GlBNU1jPj8XxRhCeixgAY720+ZADSxB6LwWtBN0djKVoqvyr4nA8ojIqN9jFiYs3e7yB7JEZjQu92oMy1lLd9g2BWx3yNZ3OL8HywV4BjHGYcyYeZADZkaCg+FtTQINhQWy/2YBMJ2LJ2i0UbUBVpSEWe5gSG8sPT3QWNXKvo5z3K5fx56URkeQsUUnUkBn9k5n6vJHaPHjebueXsTsM8MVhndwycmO/m7g4hKyLlVCaGxLfj7lVNkK8yWemAAn4iMtMa5aFwKXP1/wCOb03lqRRMyG2H/jqjwsLhzB+vYkOd46mkzVzqvwmh7SG8MgTMziO3mERzosklMyeK1umc=;Oz7Cs94uySbP8QeZ4w15uQ=="
+secured: "slhuwVPMtB5KJ/0pTjztKQDLRJlJo/liVdXECMoBSaut07d+vCuOPPRH0Jp6l+EWJDQ7uvRgnLQFO/qZ8flVAWVikwH2mnm+23GO7fXSnp1jW1FcH9qggwS5syYj2L3SvW+mZnpAxo9ig4g8yk2GY0IZEdKB62hxstJYLnd1Gtg2cyQA19y3+qlxdsgelJBhC7V63azbTvWnnOp9hnhq4Xt9XNr0cj2aqICKDZ5URSy1GW9ZihK8MUilxwfzZLsYN7p3lB0gOCkBIEbRWkuZns0uHjgKIKGxegqETyqN6BjCV2SGq/4VTVaNgtXYettxbogRsS4tHqKkCY+aMFtOlNch3JrQIS8BEk4bsAvdrhNNkIZCYEWQhVBVTKyF/vwJXgrU+kIR/2Lh/hFKXN3qRPjH8XyfVhc1Dr+Us9O3GGkyfAckozUBD5M9Olqy8ZreDtDNt9bHk1dEgYL5gydBcoIL+fOtujLJzw2w9L5wIYKP6w8K/LObWR2SUf5bfjpaaH+BkzCMZRHQpA5Sy6rDAQ==;nf/2AnVt8cI3PZR1yN+OLQ=="
 ---
 

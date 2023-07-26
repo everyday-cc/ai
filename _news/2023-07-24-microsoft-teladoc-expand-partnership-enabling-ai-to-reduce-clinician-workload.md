@@ -58,8 +58,8 @@ related:
         isCached: true
   - title: "Microsoft sees AI making ‘gradual’ growth contributions"
     excerpt: "After a year where AI headlines have sent stocks soaring, Microsoft management reminded investors that AI's contributions to revenue won't happen over night."
-    publishedDateTime: 2023-07-26T12:43:00Z
-    webUrl: "https://www.aol.com/microsoft-sees-ai-making-gradual-124300655.html"
+    publishedDateTime: 2023-07-26T15:43:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-sees-ai-making-gradual-124300655.html"
     type: article
     provider:
       name: AOL

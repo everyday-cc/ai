@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "South Florida resi agents lean into AI"
-    excerpt: "From writing listings to reviewing documents and generating marketing campaigns, the technology is proving to be a game changer in real estate."
-    publishedDateTime: 2023-07-26T14:30:00Z
-    webUrl: "https://therealdeal.com/miami/2023/07/26/south-florida-resi-agents-lean-into-ai/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 19
   - title: "Authors are resisting AI with petitions and lawsuits. But they have an advantage: we read to form relationships with writers"
     excerpt: "Authors and publishers are worried about the threat of AI – and they’re fighting back. But there are still important ways human authors can’t be replaced with machines."
     publishedDateTime: 2023-07-25T20:05:00Z
@@ -51,6 +42,6 @@ related:
         height: 668
         isCached: true
 
-secured: "PqbpCW5rCVpW6b+yToa/DeAFng2KJWVlirYME8s7mt42rFdb73/TU8JImeqvnNkYz9r2o5bQ9Q+yUfBZp5SvOOWhr0wXTE1Gz/FChTM26dKycG4TWhC045BmxYPgR9dR0HClHJC8woeBc+VZa+Aidwv4M/WnIEDvogS7w7erZhw9vUSLsAwqjSHj7JS0r6isw3xH0Izj+IBbnr5liyk2lXH3Haw/Ws28Q78HEjSnytlymaRRXhmZmynu7Hlb1Zr/FSnG8xZJHgGDUIH/M/T61lU3elwfYJHO9q58fKt+4vfZw5GMnlxOC2dirvr2SuSgxKDlglp3YhhV0MY3HnjNGflJi5wDsImIyUGBWOWGupg=;L0Yolmt0OsW4AZ+w8ON5ug=="
+secured: "wYvIGNxbMMphZaxNPLUtwE9quqwL9X/WWYObnNXYi0wUJyPNfUmUY69eQq/VZKUh9YYUtxMYOUi+eAVkkva+Hx3THBXrbjZ0EfczFj1hn9S8aPomsHOtNBCTnIkuIhc5d3V06IbfUnf6p3T76cgw5sLtpDyPGzW6nt+5WK+D+LPELI8Vo+Nps7jtigSFBu2IVSOTR9gLz+G+mFCaLeUSSO2SAxCoi5g5FqBEKGZ6gr0TZ4CRNFd9wdP0YifP4w5n15eU8LwW49M/HwZ675YP94X0VAJJ+g4M1uZSQDT5MF3/eyn4A0K93uY1YY4i6LP/sq3IOrUb+G2juPKsB+jkSOtLHrGRTQnQQOmifNzNeNi3RTje80w4M7GlnWIkmi/Vk6tXAz9bq4/zf1Qv0eYSqXs7dY+B5/2j7GtZpN8agG/dr8HAMgiwN1c6+7UmIDkXpvVMKiIN+lminGxlAo5yqTbQYXR1+nZ1K55h49Ni5n6izji0NwYALFcK19pW6eNcdhinbfKMbIlEijx23wX0Xw==;olc3z+0/9FZOgmW8GxQhqA=="
 ---
 

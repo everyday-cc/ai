@@ -3,13 +3,11 @@ category: news
 title: "Artificial intelligence: Saviour of the NHS… or a hypochondriac’s best friend?"
 excerpt: "Meanwhile, in May, the National Eating Disorder Association (NEDA) in the US pulled the plug on its AI chatbot Tessa after it gave harmful information to some users – less than a week after announcing plans to ditch its human-based helpline."
 publishedDateTime: 2023-07-22T23:01:00Z
-originalUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=trending-module_tag_science_item-6"
-webUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=trending-module_tag_science_item-6"
-ampWebUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/amp/"
+originalUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=trending-module_tag_science_item-1"
+webUrl: "https://metro.co.uk/2023/07/23/in-focus-is-ai-the-future-of-medicine-or-a-danger-to-users-19163623/?ico=trending-module_tag_science_item-1"
 type: article
-quality: 55
-heat: 55
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -20,12 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://metro.co.uk/wp-content/uploads/2023/07/The-AI-doctor-will-see-you-now-LF-ebd5.gif?quality=90&strip=all&zoom=1&resize=600%2C379"
-    width: 600
-    height: 379
-    isCached: true
-
-secured: "rRecMVtDyrDHdcTWYen50eEFMmZrZqrKqmM4kPAEtMY64TP+RJolbs/Xq8uIVGSfbAACY2+aR1RVi50/sQ/nO6t6IZGVLwDtHZ0P4NPuzcU5EgzlrWjf7T5xyFrvXwXgvHmiEAtmkYAFg5HsOJPxAo2PobebJLAjI6ymEyd6iN7JAMrGfRM+v9EFS2wt0TRSKY7ZLeTYJzirK5WGJgU16QT9vIFwvtjx0J6NZZItOYwZ83m5Q9JNotIkYxeshpPkgSsgOHoe6KAYV/AJi5TLGPFnFLbhZeAB1Ci0Ok8tE0pcAWIlt3fjVddBgRL+du36a+m8bVeCxx+OmQaTFMjs//eO6NrhKuQVFqZ+A7S0ipY=;ECoZJnaO7Tbnaoudqsuhug=="
+secured: "YsLZPte9/7DB/9Y2DwbHEEuoU0pErD7SMPDNIHJbZlmWT/aZR/qmvpFKS26oUiQ1XB6rBN8nSJ+bqPCcAt/shmU5s843Vx7EwwPVNdEDeY7mbgOj27fpfFEJSRgbMRfSBAmQ83KKyGcu+UPXxJCdD3WgQxUu1aWdHZsTH2r9yAHeyj8IY4ps/ETHOPlL+htIEnekYVqdDobsRrz6PLDAV8WuqKuL/QU984iQwkVDq+NIJmAr5218xmhSevszwFDL4RXqatkDzog5F3EzqBvPIiS2jkeh9mbK/AXdaV2QaLdTUolDjJOLZ3DWf2UPsEjD0zhmbi/c0wlA/oxqAt9A2uiivznsZIoC7xyd5mCcWJYKfF/vk9ojmDOj49pG5lLswH+XKcrmerDmN2g/g+TXg6eKUKiCGHiwQ+wu28cd/YKGmaw4XHTNAj2nhZtJleJoDbkpWU24JbsufYntv1YgRyOKhKxIBuC7yDjSoSwTY1TUwvqDbSs7uEwCA0b99arb21L64ehLXYRpoAglowgT+g==;6oan869HnooO0UWcR6KIqw=="
 ---
 

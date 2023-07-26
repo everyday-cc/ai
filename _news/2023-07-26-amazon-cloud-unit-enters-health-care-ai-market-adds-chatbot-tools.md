@@ -102,6 +102,15 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
+  - title: "AI Chatbots Are The New Job Interviewers"
+    excerpt: "Chatbots are increasingly being used by companies to interview and screen job applicants, often for blue collar jobs. But like other algorithmic hiring tools before them, experts and job applicants worry these tools could be biased."
+    publishedDateTime: 2023-07-26T18:11:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/07/26/ai-chatbots-are-the-new-job-interviewers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "It’s time to break the ChatGPT habit"
     excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
     publishedDateTime: 2023-07-25T10:19:00Z
@@ -309,6 +318,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI can now help you build a PC thanks to Newegg's ChatGPT plugin"
+    excerpt: "Newegg's PC Builder ChatGPT plugin seeks to help you plan a PC build based on what you're looking for. This AI assistance needs to be refined, but the plugin shows promise for helping PC building beginners and veterans alike. The Newegg PC Builder ChatGPT plugin is currently in beta and only available to ChatGPT Plus members."
+    publishedDateTime: 2023-07-26T18:04:00Z
+    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-can-now-help-you-build-a-pc-thanks-to-neweggs-chatgpt-plugin"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 19
   - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
     excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"
     publishedDateTime: 2023-07-24T18:00:00Z
@@ -337,6 +355,6 @@ related:
       domain: financialexpress.com
     quality: 6
 
-secured: "6XbfEnUjAUaRQlZz09gNb7FrcJCwMtKln9SWWuxvurD4oJA8hVntCirCQ6tFgH96iPqhJHhBYKoV20fLD9DH6NSybFSgBUIinDtS/P23Q3JpvjjsjnWjYflClO5k7TUSvi/aVnsGQoOeSIhOKMTwi2YwgiQkBo/s/lrwGwEv33JpNHrWTWozgJdyjgiSM0gN4IJlCq2U3DqLqdSfbhD4S5EYjwii3B0ypMASG79afb45pQnN9X4snda0ho+8/9N26K2lsj7dlkTwD2NpkdoPXJlNIsqzPmGITrrm5SO7AQ627YBD9611OgIv+A+syeNICU4k5S5WxwqoM9o4zjdFYFc+nuaDEG/bfUy+ghfA7Rc=;uW3mDqYix34gSGTDSmYILg=="
+secured: "YCzG+GsvfYf6DqECuXbZknnfNG5zTw5R0QV+2ZBY/MziSMYzrcouBduAp1K9o2tkQkB1NZ3XqmKpLzSKpQUy+NiM+yyUT5MuWgNA7SSKuDzD6aJm81zOZO0yXITXArfRQY0p1xYQsBraAAPwhBHgYx5Pius81hZT1OCo9xX0HOWpbu9Bf3QCyLddYYSxM6zom7ubXGuB575lel8PcBZ+H1MJe0sOuBA8eoxGhzR9iJeU65BNZXVjydeWSU7tsQEq/lK0SuKoY/GUEyZ5swCPJKfskF3saxbaNKZ+fHlt9eaeV9N31eYvXQet9xFWSokQTxXaV8dHJf9jh/NRtWZitxO+IaVxd032+1HQCgcrtM7pwFD0Y8X24DGewlvbJ724rvAhwzndoNnadYF39tZYdjR7S9Y3sgv/rnwlVhadYaKbyIazqmmKsa5q7SUkIS7ty9PveNJV8B33kaqJWcfFjeLObTp1uzjVGqTiLdUfFv9P79P/kUB6i8e8Pb7rVsTaNZNuhUpWu0kx4HfVgmFQ5g==;MnDiBnJHf5rJKa9DyIpMng=="
 ---
 

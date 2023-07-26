@@ -24,22 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Time for agreement on AI governing framework"
-    excerpt: "Leading scientists, technologists, philosophers, ethicists and humanitarians from every continent must come together to secure a broad agreement on a framework for governing AI that can win support at the local,"
-    publishedDateTime: 2023-07-26T09:49:00Z
-    webUrl: "https://www.theasset.com/article/49642/time-for-agreement-on-ai-governing-framework"
-    type: article
-    provider:
-      name: The Asset
-      domain: theasset.com
-    quality: 39
-    images:
-      - url: "https://www.theasset.com/storage/Image/2023/Jul/1690260128aiicannc.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "HZSCgXhXXH/ZkxV014XX0RDRynrPGd3ELJAyGKd0d0ULCAtwHUcQSL2zw5y6U4o9iYiWaRgz8eMW5t0AIImhyVIuMlduZJj0SVgvpFiLKIKkhkB0IrAqWP0NcWjDu7oaOzX8XS3wYr0kI03yEeBDWi3iiX4aEFa4knkTLPl7iV2ps7inyD3QL6LCjcnnqqynEhauwlrbFy19ImqVZdZ+hsSlsQdJ4GNKI+BtDiygEn8e647HG8cpARGwZM5N2IrZV619VPrq9js4S9/MM0gafzVBp7UuRWcEqIxJQmBYeu13SxBbuzqANYjV/7ac6gCdbxbAQliOeXG6CJM+6uPr0uDuJ6OtwBdO7E7RxdYf2qE=;zWdpok++4cqQDy+rkTBNYw=="
 ---
 

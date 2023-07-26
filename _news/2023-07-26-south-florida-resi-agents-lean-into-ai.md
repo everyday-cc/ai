@@ -19,35 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Authors are resisting AI, but they have an advantage: Readers form relationships with writers"
-    excerpt: "Some are suggesting AI will render the author disposable: publishers will be able to package and market any piece of AI-generated text. But the truth is the reverse. Author-centric promotional spaces, such as social media, writers' festivals, radio and television programs and other events, are integral to getting books into readers' hands."
-    publishedDateTime: 2023-07-26T16:41:00Z
-    webUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.html"
-    ampWebUrl: "https://techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-07-authors-resisting-ai-advantage-readers.amp"
+  - title: "AWS is ready to power AI agents that can handle busywork instead of just chatting"
+    excerpt: "Other AWS announcements included bringing generative AI to healthcare through a new service called AWS HealthScribe and a partnership with Nvidia allowing AWS to handle larger amounts of memory and data by using Nvidia H100 Tensor Core GPUs."
+    publishedDateTime: 2023-07-26T21:40:00Z
+    webUrl: "https://www.theverge.com/2023/7/26/23808730/aws-generative-ai-agents-healthcare-privacy"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 48
+      name: The Verge
+      domain: theverge.com
+    quality: 79
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/authors-are-resisting.jpg"
-        width: 1356
-        height: 668
+      - url: "https://cdn.vox-cdn.com/thumbor/ttBtmyVRGnR5dITVexFJJD6wnOk=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24812347/AWS_Summit_NY_2023_003.JPG"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Authors are resisting AI with petitions and lawsuits. But they have an advantage: we read to form relationships with writers"
-    excerpt: "Authors and publishers are worried about the threat of AI – and they’re fighting back. But there are still important ways human authors can’t be replaced with machines."
-    publishedDateTime: 2023-07-25T20:05:00Z
-    webUrl: "https://theconversation.com/authors-are-resisting-ai-with-petitions-and-lawsuits-but-they-have-an-advantage-we-read-to-form-relationships-with-writers-208046"
+  - title: "The biggest scientific challenges that AI is already helping to crack"
+    excerpt: "AI isn't just for chatbots – many companies are using it to tackle everything from protein folding and drug development to commercially viable nuclear fusion"
+    publishedDateTime: 2023-07-25T15:30:00Z
+    webUrl: "https://www.newscientist.com/article/2384085-the-biggest-scientific-challenges-that-ai-is-already-helping-to-crack/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 12
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://images.theconversation.com/files/538957/original/file-20230724-25-3iecpb.jpg?ixlib=rb-1.1.0&rect=14%2C22%2C4898%2C2449&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24165513/SEI_164804484.jpg"
+        width: 1350
+        height: 899
         isCached: true
 
 secured: "np3sqZFB+odqY196UAcOiwdxDBlIISVfFHqyis1CbjSclBe7tpDfxz/cSvQHlNdZHttQtxK/PCyiGz/bslZByxyjBoj5deWJho6CqnG12M6NzfGIyR36IG51D2scmz3uoQQiQN68Doxy+LSGqea+uZPxvxrHgJ50JXSBqOqpGvkNKfdh1aQSrBCHssFhBFR8dxJWhmN1EDHstbc+oG43HMej2t9ng5OVH+MKgeMVRlXcdYjxygDpUTq0Sz+TN5O2OKQveHeptMWDTujVxz3STsFsP6Y3EjKOQxUmV7rVAz9Kd7vdMMUQ3lQ1JURE7zNxtCNzT2OuageIszi6CFeXlC4U6K53ZHHQQIXZ6As4Pj7MuV6veAAohTSHkGgZSd6RZRNZx3cnGJWZMLvmx00BSYq1l1U9d7Io1oEVGcSQD+a5MoVhqCPjLa1tnNKg+CXt76RE963tZHCL2SJzjqR0pw8Nee1O2Saxm9PnVWQQnOYFLTUnf751pou7ANJhlbIOdNwTASPqW8k31hC/7TYsqg==;n7DxIdawanq/WFuWFuRsCA=="

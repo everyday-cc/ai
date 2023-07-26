@@ -41,15 +41,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "South Florida resi agents lean into AI"
-    excerpt: "From writing listings to reviewing documents and generating marketing campaigns, the technology is proving to be a game changer in real estate."
-    publishedDateTime: 2023-07-26T14:30:00Z
-    webUrl: "https://therealdeal.com/miami/2023/07/26/south-florida-resi-agents-lean-into-ai/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 19
 
 secured: "335/d7IOcKbwWmx+1vOx5YWRHMf2MdB1D5fUA46e+TpgWfrSFDKmZeSA5TexZp4S4TzPEtw6kpG6NchTK36rX3WsAab2FBPGzowhHEKLBGFyo7deC+GGR3MvGSg+ffyr5FMH6429xzg83jHDSshXlbrc/JExysntYwEzrROeWwc2pjsP3FeAQFsAatSOs8GHcXjHTL+mHKpnf/Kq6jAh/MPlcodLHjQJOSqnPyqgGzGQZ0P9IoOpG56YF1yiQZ+07v+LnhXKZZTf6HcyOtXr3XzHE/Ko3T3ni2YLb6DlzXAe9nIIMEYLawL/U4S/yXWFECejUE+dsCYkeE21Irfw5HSCAgSZryYcwGKyXy7jab2coQbs+XjZ8Qx6lVKbS1NZGH4efFYYZVVArKS6bNmYkVRzkU0rhFfCM9dgA/7bNh/nFi9amMPrqOufP9dBNVyr0RmzK/LeTKtr2R2k+C8c1D+hA5eN9o1fBDCGzuV0v6R4/5/4FI4ELapfS4stLPGHxaFd4vteki1ZHOqa85ywJA==;A155D/q0897RIeGe9a3fbQ=="
 ---

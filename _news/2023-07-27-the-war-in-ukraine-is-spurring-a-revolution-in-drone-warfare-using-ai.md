@@ -1,0 +1,34 @@
+---
+category: news
+title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
+excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
+publishedDateTime: 2023-07-26T19:43:00Z
+originalUrl: "https://www.spokesman.com/stories/2023/jul/26/the-war-in-ukraine-is-spurring-a-revolution-in-dro/"
+webUrl: "https://www.spokesman.com/stories/2023/jul/26/the-war-in-ukraine-is-spurring-a-revolution-in-dro/"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: The Spokesman-Review
+  domain: spokesman.com
+
+topics:
+  - AI Ethics
+  - AI
+
+related:
+  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
+    excerpt: "The advent of AI-enabled drones holds huge promise for Ukraine’s military but may also be exploited by nefarious non-state actors."
+    publishedDateTime: 2023-07-26T14:03:00Z
+    webUrl: "https://www.detroitnews.com/story/news/world/2023/07/26/the-war-in-ukraine-is-spurring-a-revolution-in-drone-warfare-using-ai/70469007007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
+
+secured: "5xRwqPU32vTbkZaYGKN/uZE/SCZMg6qZ7KACQXHDTCerUX6I028VZvfz+FK/t4D/5L2o4fxCgVCmQmmo9xJ3W/qwZGvS0GEkzE41St1mgEpjgetikvF+9kcDhOMzwp9XUesN+3YDyZHJBvFr2N7+TewLe047wFgm37Vp0d7npG2rzAY6IFsgEi7b+XSEFm2hsIFiIv5QOjSFK2eCE35o3d5pTBcPCDsPEitGpLN0OChfXd2h652j/ELlvwI3AW8eiwUUUsBtVbaumhLGy7fgR56eav54hl8AKNk8LYeXTq6YrJry4dCIJrYRWj1f7iJXh+78pQNk3huxCtn2IjTLm3z4lu/Y/ga4h7Q3L5aROHWpPX4wHS1k9VGxg2nIm0IlAZv5T40aI07euRm2NSM8w19iGoeFns2Vs7Uw8VhCIkXAa6JxnmAfeBADkEqD7+1wr2fQm0UmxcAqaZxctGOV3ULQ4hMiO/4nMy8uPJozIPMb0YtLtgPCt6KBbyOXZLAvJqcnLJLWYaQV902VTvG5Xw==;Q4yMCXzI9xdNuh3XDYAmUA=="
+---
+

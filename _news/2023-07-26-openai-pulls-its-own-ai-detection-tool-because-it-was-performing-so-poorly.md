@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "OpenAI discontinues its AI writing detector due to “low rate of accuracy”"
+    excerpt: "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy. We are working to incorporate feedback and are currently researching more effective provenance techniques for text, and have made a commitment to develop and deploy mechanisms that enable users to understand if audio or visual content is AI-generated."
+    publishedDateTime: 2023-07-26T19:51:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/07/openai-discontinues-its-ai-writing-detector-due-to-low-rate-of-accuracy/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/desert_slots-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
     excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
     publishedDateTime: 2023-07-25T15:56:00Z

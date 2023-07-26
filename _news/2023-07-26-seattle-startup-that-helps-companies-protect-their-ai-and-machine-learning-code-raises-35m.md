@@ -33,6 +33,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 81
+  - title: "Akkio raises $15M to advance no-code AI platform for enterprises"
+    excerpt: "Akkio raised $15M in a series A round to accelerate the adoption of its no-code platform helping enterprises deploy AI in minutes."
+    publishedDateTime: 2023-07-26T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/akkio-raises-15m-to-advance-no-code-ai-platform-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1690384951113.jpg?resize=700%2C350&#038;strip=all"
+        width: 700
+        height: 350
+        isCached: true
 
 secured: "fQc6amci5oSpMZZuy6sqGu/tRlTRi53H/x39QQSkMQMbgrkbEMW6V0Or11QEwcUu9IO+nYmjvE0X2Rm6eoEDKqv5T1EJ8PgGY6Hu05hJ5EMHuj16+NlTLKFi+0WBel4a5rlOvxJYXCxikVOwIZlJV+jk0ovhWgP6yp4sF30KpYzUEP+bEy3kTlsgPzV9wFWpdh1MuDC9RWSEfmpc240t5iaHvDqfHM3mhtUTXQijLEXZFo84mcScVUXc7VXrxYuVPwfLMdvKu5QmLfSbvVFLM9uTeZeym9vlQE8HFTFGObvVi05BcuQyppJ1NVV3jed5933Gr4gOEcwWdcidNs1dHiAxnB44266IY6+e7lK1+0d2LqEhZRYq5WVr02Txxm8P85Vca7M+F7B2XrCudjRh6SBrulYaxVPjvAqr8bT483hT67AeMZYKY5kfJaeIht+JOqpL9MGNMlufi4WiIr9c90iKepnwoNmj/vA71Jv6HhhrkGiu9z9t5Dz/Wiwb6ZyQg/Rgy+JNeeBLGMbJXrNLbQ==;nxpVfi/TJxQUUgqoD9aRig=="
 ---

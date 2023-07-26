@@ -2,31 +2,25 @@
 category: news
 title: "VW to test self-driving tech in retro-styled electric Microbuses"
 excerpt: "Ten self-driving electric Volkswagen buses will soon cruise the streets of Austin, Texas, testing autonomous driving technology. The automaker said it plans to launch commercial services in Austin ..."
-publishedDateTime: 2023-07-06T18:53:00Z
-originalUrl: "https://www.cnn.com/2023/07/06/business/volkswagen-autonomous-id-buzz/index.html"
-webUrl: "https://www.cnn.com/2023/07/06/business/volkswagen-autonomous-id-buzz/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2023/07/06/business/volkswagen-autonomous-id-buzz/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/06/business/volkswagen-autonomous-id-buzz/index.html"
+publishedDateTime: 2023-07-07T12:46:00Z
+originalUrl: "https://www.aol.com/vw-test-self-driving-tech-172857903.html"
+webUrl: "https://www.aol.com/vw-test-self-driving-tech-172857903.html"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.cnn.com/api/v1/images/stellar/prod/230706093251-vw-self-driving-van-austin-tx.jpg?c=16x9&q=w_800,c_fill"
-    width: 800
-    height: 450
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "keNy2oDHgLykQSqYHN12aGO37zVEP3YLzh6y9zddH2mCANH7QJ13lyl54vbFO3+D8HqxMuu7GpHeqA8yAKdt0t4D1KlC1ftof1qzlfyLCGCbiYhDIxeZ5ksAPNNEpHcez3ma5TTKm7EieY0ioCcE3hVw8Gc3tzg9a7Z+jtno6nOx8Eh04LXwtoBX6mevdckAPDGH9wNWHF18eKK8ibAAJohVQxLUL8rI/MTtJCmbQfoAasw48vr/rpmzHtJG6Ni5a5X4+OKi+p7xUr+FX+OuodiFidApQBmzjzso4Vll5sItvVhRe6QI0xPU/rDk7M0WSyf3oAaPaS5rind02otJsOjp31KMYeatC6hCU9sUCU0=;2KjoPguRhoYYBmQ42Nj2cg=="
+secured: "8QExmLl36SmkDF7fOtGW6r74bDAPeeUtB4xhMeSN2g0BqMuguA/NSJxoOLAGBQUIgf5uiHnlsL6/apGLWQoXziRzT29dI6L7rnDu0CjNIQl826gijJ/g9jkDHb9liDo1wqMDAh5I5Am0f/mqF6SM0qJtAGfTEgJqCg3Kox8RTGqg+wTOogfAvCJgseZcXyvK4S+4aFweFbC64RkWoCVj8PdGrHovs7L3ggktEe17XbOdQiUah1iYsdX8RYJASLBeLr97ZiJqmUNba5tPnRnLDORbWuA/hKnNE+od/9/hLLP1KabvsGNk22eE4wDhQIucU7+c54LXDJYWGgMA+OWZSAi8ptuQ2tzuh84235RkAzg=;PReWSBo0BOy6+DSsCliaRw=="
 ---
 

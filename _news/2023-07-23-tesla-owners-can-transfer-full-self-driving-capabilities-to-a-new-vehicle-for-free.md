@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
+    excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
+    publishedDateTime: 2023-07-25T14:22:00Z
+    webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 51
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "8SGWpzw12j/DXBO18l7GabxH10PnNPsQUEpWxbVlW9263+ITYHVV8wVUECfqHHSgFv+kwrjhxXkmmAmNgDppMJRPxq6ce4mmpCi+ARvbtdTUNCvPzaW8HP14EZk1ITTbcLdQj82SWONvEjuiOwyeJYbmMdetSUCLdwdz4aimuyQGufL6eU1zhtwtR5IdRsqERhs379L/8Kkd4jH6r4wg5/REY+rNs4iQa2ESYjWXpUkQ7aW7IZ0S6D19ZCdzOLiVI/+Sdt01ZNOZGZpqMZudvW5z0dv2I3BDpBkl1ZkDHs9EBwR0Qk2+rPeYJB5eKL5pC2USrBS+QmrPJb6v3aUvVnXnyMY0vFdqZdQZsTG30P8=;mXp9ml2UJFz+aclV4BdtWg=="
 ---

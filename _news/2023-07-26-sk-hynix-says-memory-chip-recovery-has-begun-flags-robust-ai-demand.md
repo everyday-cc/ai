@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-mem
 webUrl: "https://www.reuters.com/article/sk-hynix-results/sk-hynix-says-memory-chip-recovery-has-begun-flags-robust-ai-demand-idUSKBN2Z525O"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107276763-16903450381690345036-30473500336-1080pnbcnews.jpg?v=1690354047&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "SK Hynix Says Chip Market Seeing Signs Of Recovery, AI Demand Aiding Turnaround"
+    excerpt: "While the memory chip market is showing signs of improvement, market conditions remain varied depending on the type of chips. ( Image Source : Getty ) SK Hynix, a prominent memory chip manufacturer based in South Korea,"
+    publishedDateTime: 2023-07-26T20:01:00Z
+    webUrl: "https://news.abplive.com/technology/sk-hynix-earnings-quarterly-report-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround-1618524"
+    ampWebUrl: "https://news.abplive.com/technology/sk-hynix-earnings-quarterly-report-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround-1618524/amp"
+    cdnAmpWebUrl: "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/technology/sk-hynix-earnings-quarterly-report-says-chip-market-seeing-signs-of-recovery-ai-demand-aiding-turnaround-1618524/amp"
+    type: article
+    provider:
+      name: abp LIVE
+      domain: abplive.com
+    quality: 70
+    images:
+      - url: "https://feeds.abplive.com/onecms/images/uploaded-images/2023/07/26/d14f205ccc3e0ef87051c8d62f884b581690358371133402_original.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "HiYXJKwKa3ujqb1jmb7pm2Wb16E8crh+djAhXcRRQuRTmSYAtTKMr/RVMwP4I82wfjAedkz1F1hgPGZ2+SQMEtyLqKxMA/pPjJuORnypWOU667KaYFEbcorjfmi78x0xhaZoaGm5OvoDzAJNd7OKI4efZ8s6QICLNNAbS4qbf+86mqSnjJ5Y8OaNpILbTE8E4PQ8xBori2ThEmHtc7b5ecRhKZT6CZHbrVAJzyQ172o0j1DI18Rn+u3BV/bXfDexB/0oouMbn3cPSXj0HB17BWsWvTbgZInzAPViFe9llObMv/Bc+MYoCx/yfWC3XSAY8a4++lRVzmMN1mMfVPffLy5WJiKKs2VnW6g6TqOLNu2FBkiWIvXjJhhV4wX23qY4uTZAGwnRqVrPASxoyAtCwtwa2/dS3heMyTSm3MWgRtieefD8hNQe3l+otTNSIzwm7mzfGFg8hZKhStivw/S0YL2apAt6lPhsfbUGhgy1uYLLmWBF0o1GuAUo5KFwdsjnutZGWKExKw2Xv4WWS0/59g==;zmNFWjm8H5gZFbTQIxipcQ=="

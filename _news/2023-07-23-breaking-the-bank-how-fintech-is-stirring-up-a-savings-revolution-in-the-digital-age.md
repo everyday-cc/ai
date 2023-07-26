@@ -129,6 +129,20 @@ related:
         width: 700
         height: 437
         isCached: true
+  - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
+    excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
+    publishedDateTime: 2023-07-26T19:55:00Z
+    webUrl: "https://www.businessinsider.com/point72-ventures-exec-investment-areas-generative-ai-gaming-payments-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e20993762fa811b4215d2e4?width=700"
+        width: 700
+        height: 525
+        isCached: true
   - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
     excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"
     publishedDateTime: 2023-07-23T17:21:00Z

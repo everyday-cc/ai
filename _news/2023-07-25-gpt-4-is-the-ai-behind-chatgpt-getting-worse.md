@@ -105,6 +105,15 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 49
+  - title: "AI Chatbots Are The New Job Interviewers"
+    excerpt: "Chatbots are increasingly being used by companies to interview and screen job applicants, often for blue collar jobs. But like other algorithmic hiring tools before them, experts and job applicants worry these tools could be biased."
+    publishedDateTime: 2023-07-26T18:11:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/07/26/ai-chatbots-are-the-new-job-interviewers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "It’s time to break the ChatGPT habit"
     excerpt: "ChatGPT is the first artificial intelligence (AI) brand to go mainstream and it was the fastest-growing tech product ever. The brand returns more than three million results on Google News Search. Late-night TV talk show hosts mention ChatGPT by name ..."
     publishedDateTime: 2023-07-25T10:19:00Z
@@ -312,6 +321,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI can now help you build a PC thanks to Newegg's ChatGPT plugin"
+    excerpt: "Newegg's PC Builder ChatGPT plugin seeks to help you plan a PC build based on what you're looking for. This AI assistance needs to be refined, but the plugin shows promise for helping PC building beginners and veterans alike. The Newegg PC Builder ChatGPT plugin is currently in beta and only available to ChatGPT Plus members."
+    publishedDateTime: 2023-07-26T18:04:00Z
+    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/ai-can-now-help-you-build-a-pc-thanks-to-neweggs-chatgpt-plugin"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 19
   - title: "ChatGPT parent company removes access to AI detection tool due to low accuracy"
     excerpt: "Even on its launch day, OpenAI admitted the tool was “imperfect” and results should be “taken with a grain of salt.” Now it has been pulled due to its \"low rate of accuracy.\""
     publishedDateTime: 2023-07-25T19:08:00Z

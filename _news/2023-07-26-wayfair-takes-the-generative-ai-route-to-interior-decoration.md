@@ -116,6 +116,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Educating the Next Generation in AI"
+    excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
+    publishedDateTime: 2023-07-26T21:00:00Z
+    webUrl: "https://campustechnology.com/articles/2023/07/26/educating-the-next-generation-in-ai.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 39
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
     excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
     publishedDateTime: 2023-07-24T19:38:00Z

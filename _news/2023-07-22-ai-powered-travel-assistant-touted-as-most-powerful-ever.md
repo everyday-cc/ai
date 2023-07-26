@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered travel assistant touted as most powerful ever"
-    excerpt: "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ..."
-    publishedDateTime: 2023-07-25T10:44:00Z
-    webUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
-    ampWebUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
-    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
-    type: article
-    provider:
-      name: fox6now
-      domain: fox6now.com
-    quality: 39
   - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
     excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
     publishedDateTime: 2023-07-26T07:45:00Z
@@ -52,6 +41,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "AI-powered travel assistant touted as most powerful ever"
+    excerpt: "Travel technology company Mondee has rolled out a new artificial intelligence-powered planning assistant named Abhi, which the firm says is the most powerful in the industry. The Austin, Texas-based company introduced Abhi this week in conjunction with the one-year anniversary of the firm going public on Nasdaq and says the new tool's ability to generate a fully bookable travel itinerary within the Mondee Marketplace is revolutionary."
+    publishedDateTime: 2023-07-25T04:02:00Z
+    webUrl: "https://www.fox10phoenix.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 19
 
 secured: "+ebuyWkvSfjjxja9SB8D+61am8FnbOfo9/Yb5M/xx/JAlcjEd4f9AIgR1uuAIRuiHz7zysGj9Qpp6uYq92L6o9dpYiEDpho8VRLiZhOgRdie9MXsaQrZIcbsNZqUh1I857M9Lcy0NTLp26qF9iROze2NL7Pug73+Z+si8C8MxTxwfov9vlYWArtmWASf7tCFbffmbLR7AyFPMsRzn7vg9Ru9aF7IGvz2Y1a0w6aZg8FBl78/+n8QmY6ymPt/u09avRpD3iQbO5nCd+xFh7/IhLVcYOl4Maa2fv7kTs7GnKfOv4/cbX/YBbqydQr0AQjcOKVrJRx50/XMCGC8aSsUt7/35g0nOuKXdCeoqqKXYbSzHpuX+dYrLo2FzZu24HLsFSC9uRxV+47z2GOAWiSH3KnN712bwcIOz8RtxafS+hM5relUXAF9fL4+5DbmHce9aIz40WTIImtNGOndsZUw5sGNVRPU4wB8z+8yGZJmSFp0ySKD4tpMPlYusn1axeqCwM2oyIUDNKJBYz0LYsIHkQ==;BDtNkI834CjpBB8r+EvUng=="
 ---

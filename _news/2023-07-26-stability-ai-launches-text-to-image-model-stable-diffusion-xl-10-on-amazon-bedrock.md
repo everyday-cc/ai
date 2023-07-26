@@ -56,7 +56,16 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Stability AI Unveils Stable Diffusion XL 1.0"
+    excerpt: "AI startup Stability AI has taken a significant leap forward in the realm of generative AI models. The company recently announced the release of its latest text-to-image model, Stable Diffusion XL 1.0."
+    publishedDateTime: 2023-07-26T18:07:00Z
+    webUrl: "https://www.unite.ai/stability-ai-unveils-stable-diffusion-xl-1-0/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 17
 
-secured: "et17HpoScW8zAV/DJFiFQBLpYu9daiM7SXS7pw4rpqDzsIxXurN0/5WIyhbPywZSSEBmmFLaKKaLHRY401W8cun4lmPN+AUEtHlDlavVsWuw01LNzGM3D9+WRMrJqO/sbEyjPbUajtV37OQk/mtIxQCiNtnoFKdsjh+PIlrxGL7AW6G1oETYNkXSjFzQ3xn5rb4uyKcxZmfRBRBZgh87WBHrKkQtqTIb9pEsECnBj8HvCKe217UDLv63CoQ6+0yGN0ZRKY8jHZBEqbc1Sr851mmk8rLXV6eoCV/yxwtwv9kXqfVSunyMqU44vmMsOInLr+ougPmJHss3k+9tGQ1BcK1LpRPNAELFKiFpeY/SWa8=;St+yxaPHX++5XzblGSDc2g=="
+secured: "fPORx7oJriysBcEwTUAndwiKURU8PBjVfNDEJuX4wvzJu9vIK5Kj3XeGM492skVwlL/lKWp4geKLZlfLTUJnnHRcXDg9UpbTY1wYO+ESni3u04HhvRxnJEItKd3c/HiyxOeoSne+//D2ahPsu/cA4c01kVmi56DTH2gGb+DSNQyAdqLTnPsdnNfdYSto5k8QnHyPTvrbhedf/Pgrt84U1a4fyzIqwAJiAeL8j/LXNJXcUS+BN9+wWlaQi3oKL6e1zutJmJeIlj8kVR1PLhK8ruN13zjKmqBn1zR5BBq+J6+a3hen5RZb3s4uLEJ9Xgn6IVu2Fy+kg+zsi65Rsejs44pIsoxGimLxdq0TyDD06PVByFjKYRAZqXcrVzXFH+zunetqAFqijUJ/iAlhTSmO8ogbsLTq4jeDzBUNcRefUoEDBPvSqRODFbGxoeBrGG0UWETDqr3+Xzvrp8pkPXRuaG49o70kCtXtXkAtAV5dNGUT/KunyyDfO+1NKGOtBJ94mo+o9NEIVjH9LALHAPHJLA==;AeJwwaxaeWb8p4zkLyhf7g=="
 ---
 

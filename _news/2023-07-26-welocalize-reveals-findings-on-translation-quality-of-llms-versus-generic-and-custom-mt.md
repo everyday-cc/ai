@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/press-release/20230726-welocalize-reveals-
 webUrl: "https://www.ciodive.com/press-release/20230726-welocalize-reveals-findings-on-translation-quality-of-llms-versus-generic-a/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Welocalize Reveals Findings On Translation Quality Of Llms Versus Generic And Custom Mt"
+    excerpt: "Louise Law Welocalize, Inc. email us here +1 212.581.8870 Visit us on social media: twitter linkedin"
+    publishedDateTime: 2023-07-26T19:35:00Z
+    webUrl: "https://menafn.com/1106703856/Welocalize-Reveals-Findings-On-Translation-Quality-Of-Llms-Versus-Generic-And-Custom-Mt"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?588294"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "r/jDAaB5ZJYlkUIEeMyr8UbweByrSxPeBX8ZRaxk6tdaS2tHRvVc0MTm+9V3txZPGrLj73ai51sIrWnRLRCL1L8mtryrAmnAcl5RBNWzSVpgYRfx5KTBtaYjowpYd1OHiTg2NnHAgJ05aW/297UymO6oZQptr11rGeGU6d97+qRXH7Yj7Kb9bnUG/IWmQdWO9ZNh/6rqAGgJPCkxunp7Ia3HQk7snJyNFo69WvvPxQydq3LMPLLyZnqxc8yaNe9UpSjrWzAoTK8O9PZB7sRLZKVctZy9irCxGsvLXPv+E8kHS1n+jT5xG8lhxP4AI1yJPfyOv4WJEHjgmLyz4VGkE9p+6L9kCUhNcPlIahCmUis=;bLXkUn6xmALubpjOy3ylGw=="
 ---

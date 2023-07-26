@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "The war in Ukraine is spurring a revolution in drone warfare using AI"
+    excerpt: "In an open test field in rural Ukraine, a drone equipped with a bomb lost connection with its human operator after coming under attack by electronic jamming equipment - but instead of crashing to the ground,"
+    publishedDateTime: 2023-07-26T19:43:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/jul/26/the-war-in-ukraine-is-spurring-a-revolution-in-dro/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 19
+
 secured: "vAEYsBoJUXRjeZs6R4P0+iFugw22nocXFGgeI35IXJrmeUPXtwtzIOoNjRIRU0ZHAVXg7wp2FNRcMwWe4T8EDmLoXYF53R4WlTJKVsj3CSu19NOFimBYjkhXwfb7aopryjO8Gtw27y8XV5qDOySDiOomyqYuPCBz/I2oBBgB5bDbVQY7tw6zix6wINhtpipPC8Ma/buqFNBGmYou6a1/XzpLWevj/mRBwkHFJf3ZLBRzwlV7uqpCUr4TOIWD1m5rutvgnhdtWxGGFYk0PkVM/cykjZ6Tywds6fOsjzKziJHfooaWHHoAH93cC+dfmOonKnoaTjioMe55D6NQreRNFayJMShwbMnj8w+K4rpzo21rCW8ap3yBgkNSrB5GexqcV/7VdiqTXk2mnKf+61XWPSLH+cXObDooafzDVwbUesAzEq3TJKghfUru21BFfLhsF5S1q1NK9KnvqbvdJFbOaHsln+qNsUAOPSaduotYjXIvR6t+NmbVWUk2/556oeJeLvP4nnjlDM9O4Srv76Re9Q==;wEEaJo4NevLvpedXG8312g=="
 ---
 

@@ -44,9 +44,9 @@ related:
   - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
     excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to"
     publishedDateTime: 2023-07-25T21:46:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648335"
+    webUrl: "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334"
     type: article
     provider:
       name: ABC
@@ -58,6 +58,6 @@ related:
         height: 558
         isCached: true
 
-secured: "+Aonu4IApyklBclbOKjli10lL/+jbPA1vtC7zXJUe//opehJw4+/H4/vPWFdfm/Iax06ltwJGqgsYCHKfJqy+oH+qfaMNUpneQwRiFjAly9O6cJs2IgfqrAyJpFxsCwrH30SeBsU1hFN3I905qFijXico3K1/7aLq85FpCniXXbmB6A5jZ2Ujeyzj2MZPG/+QfpNcnkRzE5vIeLtCUpfmb6IMGoltXaBooudShsWYU9cRAT69C7411TZrEopZgXPTwFvNNGCX9/q+xiiAdNsCSgWGskyxVtwffbwzyukojh1LYXzkzOnOLMEGZNR/cceVJIanz+HnksR7HE90nAcH4VKp2HXUOZOYhr/0q1B1qzJdINJa9owcCDZysWBMuS7Yp5SG0BBpUkyklz9Xu53GtbXwx2ZaQ5sO41GUC/pisPUWQmXVsOkrr29b3dbI2vl0k4zVkwmE5/cyWeQiDEFlSSsE08wFn0zHj1bt5TY6XNJN3P4Dg5OBHCOtDj9TH/opOH88q3NbjJuQEmiqZBAMg==;CMKQmADUEIvlVMHbId+9Wg=="
+secured: "ca4saNrDcRBYPdbmzpVaE2Z9p/VMU75rg23sVZVsjoDII/I3gciG/l+bI449t6du6Rj/A5yoYDsIx3i7+Wva0RFQtgzcnfd/NFb6nxxduwHzPkfORFkXqV1LE+uhq5eVW16vViEYk9Uqd65fccVOPXRz6KVSy007namk2JbB7mix0FDnU+SJsbco55Y2REkUxQ0XUYTwuHxGLeTE2/Kxe8HTCSdgRDoZwcRYhcglVXAlztMy1KsMuqURkeqCGQ4RysTCNWAmhYjl7B/comc5zu4YjhUYJKKlBQP8mescAYKqZb2c48p6ult51pJR3aBExz6EoLOZWApqWFHcPSlyOFR/41MU+7QzAfd0+3gGLhw=;lG3Bq7G7BQs252avdYtg3w=="
 ---
 

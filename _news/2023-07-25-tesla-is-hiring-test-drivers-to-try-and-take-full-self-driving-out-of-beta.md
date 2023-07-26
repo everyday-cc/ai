@@ -1,0 +1,59 @@
+---
+category: news
+title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
+excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
+publishedDateTime: 2023-07-25T14:22:00Z
+originalUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
+webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
+type: article
+quality: 51
+heat: -1
+published: false
+
+provider:
+  name: Jalopnik
+  domain: jalopnik.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Tesla offers customers one-time Full Self-Driving transfer until September 30th"
+    excerpt: "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months.."
+    publishedDateTime: 2023-07-22T15:11:00Z
+    webUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 65
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/p5ASh2CB4Q2WKDSg3OF25w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/25277830-ae4a-11ed-bd7e-39bcf0c251ee.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free"
+    excerpt: "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting."
+    publishedDateTime: 2023-07-22T22:34:00Z
+    webUrl: "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 63
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "5J16A/k4nwJi6lBZRelAoPpY3kbmzeY5SC68m14ICedqK/SjlaS+E0l2tkmkHayj4hIYF7aoiJzvXy6gAYVWGJwrS4NV54ZBOV1p5CZ0n0nOYEfp6yvOOjKhdQGi+IqfJjRDm8XI/4jsMjwodlJnIjHLzPTJ2Lpjx36eUDM3idA3G6M7NQdNS2w0ck6+NFGfdqmGYPv3CF8AKnJg+3N8+wgVgkZgIfFoMv/VYDKwoAWcBO6J9DvUKXqkd/0r06BWXdShYJaD42+gsp7ROFgarxTlibqGyWOIpYO9nr9pOjR0B1st1+UjjOPGFIpw5HE/wYc+hnhsV7pL/1FYyrz599dsQ0zLosx9py3PNHwLo6s=;Srt92EVIln8RTODNiNbsZg=="
+---
+

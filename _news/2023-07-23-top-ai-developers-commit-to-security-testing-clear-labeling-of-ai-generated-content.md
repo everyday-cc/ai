@@ -85,6 +85,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Seattle cybersecurity startup Protect AI raises $35M Series A round"
+    excerpt: "Protect AI, which protects against risks to machine learning and artificial intelligence technology, aims to \"capitalize on the significant market opportunity in front of us,\" its CEO says."
+    publishedDateTime: 2023-07-26T19:52:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/07/26/protect-ai-series-a-fundraise-cybersecurity.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "MsYQ1YBW00dtp3UogN8CWQljDNtWcWjt12bE0VD32X5INXFMcu4ZWMaODAPr7D31t3knv66binJ+ymq5zN4e1pLArJ9NA4OdwrXVpBFwkBFZTGEIMfDqrwCgP+ZUL2lw5U1l6n5HQzYoNoIltjGFbsiiCAq5jpqM3pNiBMgQjNJV30aJNGWnftq6jKXxakYj1fDn1C3/iqDu2pL1YlqZM1BiLPpJQR4DzVnZz4h3J2t/MUTqNHb+CVHTHEkuOugJ83XvAxABkR9G0/ZOLteM6TxWtAygDdlrwCNg0dhTVRJIJvtYkdgFb/BA9B9Y04DfBNZY1+O72/tzY0z/z9vUFSI3h8aVgx8GTHGjYn5L0QSpOp5aGFVtQRXXtLzD3S9dAnOjv/Pg1SrZQRi61uac0ushiy58bVmN/SN05qyvRCqbm6IAA6h6hQHZlz+6B/11mmNIuUUMXzV94ftiZwKhN7izAlMMSqZgi4xTeabwVliPdxW1RUWRZXufon62k/NY0D471XSj3/RxkI/YrBDDYg==;qQg9NN4Xo2/QCMg1on9wKw=="
 ---

@@ -42,16 +42,14 @@ related:
         height: 720
         isCached: true
   - title: "AI-powered travel assistant touted as most powerful ever"
-    excerpt: "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ..."
-    publishedDateTime: 2023-07-25T10:44:00Z
-    webUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
-    ampWebUrl: "https://www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
-    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
+    excerpt: "Travel technology company Mondee has rolled out a new artificial intelligence-powered planning assistant named Abhi, which the firm says is the most powerful in the industry. The Austin, Texas-based company introduced Abhi this week in conjunction with the one-year anniversary of the firm going public on Nasdaq and says the new tool's ability to generate a fully bookable travel itinerary within the Mondee Marketplace is revolutionary."
+    publishedDateTime: 2023-07-25T04:02:00Z
+    webUrl: "https://www.fox10phoenix.com/news/ai-powered-travel-assistant-touted-as-most-powerful-ever"
     type: article
     provider:
-      name: fox6now
-      domain: fox6now.com
-    quality: 39
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 19
 
 secured: "ueYkhNj2PLl3XB3M1dT3ewzmcd9ApVihmsbO61jrvJmS4ZVZ3G/loyMWjcWMLv7TOhPdX6gJaY3j+oGB/Cneon1YfENYiWsh7HMaj/VHmw6RFmWil6XSfY63p+haoYi2TzIfiXV5vPQyYynZkms5NBxu1lAhXkrrJE/4V/rjXrIPJzsvWzlZ8C3+07iu52ixvcZ1uzARBr4QvD34/BixtEE94xRHVhcHRjK+HTpZadXx6hWycrLVshdJxF02W6KQ4y5gQi8uq378sCdzxcrbRbfUC3lehNfUQK+2A/DzAG7LUNmHRzjGCYh6kPjhiUrfrliSh9o+9S7SYwLKyK8wSLy5+0jiJg7p2R3/NGrqxhGFMZi1sIujBMA+xjT2IfRmD7hxNsClYVxbn3IyC7SwMQwPnyJ3mGmNVmR18C7hYqOhDG+kLgX9UyYwlei3xJ+LsHyc7fR7vl0m3uhSm/ZybItTh6VJlIoGTQ8Xv3VqBupW9vsmH9g427H0dmJfw0C2DZ5/1PeRRNqMH2oHoJy2ww==;/VsplpASGUlRCwwDOBdqYQ=="
 ---

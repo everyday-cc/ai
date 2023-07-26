@@ -84,6 +84,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
+    excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."
+    publishedDateTime: 2023-07-26T18:43:00Z
+    webUrl: "https://www.news5cleveland.com/news/local-news/no-a-bot-didnt-write-this-story-how-artificial-intelligence-will-expand-further-into-everyday-life"
+    type: article
+    provider:
+      name: Cleveland
+      domain: news5cleveland.com
+    quality: 22
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6540a6c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F06%2F20%2Ff2af123e4957866a6cc5ac5bf909%2Fchat-gpt-still.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "o/P1C0e/c1359bNlmIKI8bi3VXnacAGOdu/XuYXznmMmasV2x9Y1hk2YEFCZKJyyjtHl9OxLJPPq3G85gBKLuHxMCjmarjBqUb5LPQYe8KVWc2MC4aciJFWoluaWV/rpoUn1wze2opsFfRR90i1gIEQtGMzKm8MrIGSpFL1lnuxbffrLO0azSXvw2rVzAUoHAE7CuEtYDEtf4lLpLRUx3P2tqDMPb71hCTub0Pvg8a7fdcYcFqlgrdC4vLUCtO+lUXRMWUKHNBdF3yvduPD+2r/MWBhsx934ZKO8Ss4aXzzzjBnuh0ZoKQaB/OKd0vMSh9KsRY/alV5QE7+1f3yXUQPxR5FchnZSMy3DdCL1iO0=;rrMYuEEpEw0Yn9l1CHWwLQ=="
 ---

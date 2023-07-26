@@ -43,22 +43,6 @@ related:
         width: 870
         height: 504
         isCached: true
-  - title: "How cops plan to use AI & facial recognition to curb crime in city"
-    excerpt: "Noida: The police in Gautam Budh Nagar is set to roll out a Geospatial Data Intelligence Platform (GDIP), an artificial intelligence-powered crime dat."
-    publishedDateTime: 2023-07-22T02:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/articleshow/102028588.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-102029756,width-1070,height-580,imgsize-645787,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Punjab Police Introduces AI-Powered Facial Recognition System"
     excerpt: "Punjab police have introduced an innovative 'facial recognition system empowered by artificial intelligence (AI)."
     publishedDateTime: 2023-07-26T17:27:00Z

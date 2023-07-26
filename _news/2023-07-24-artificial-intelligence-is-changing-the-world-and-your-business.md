@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning are revolutionising business intelligence"
-    excerpt: "Every day, advances are being made in both business intelligence (BI) and artificial intelligence (AI), enabling businesses to use machine learning algorithms to identify novel data patterns and quickly choose how to present them in real time."
-    publishedDateTime: 2023-07-22T04:00:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T165236.463.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Understanding the Chip Business and Solar Inverters"
     excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
     publishedDateTime: 2023-07-25T15:36:00Z

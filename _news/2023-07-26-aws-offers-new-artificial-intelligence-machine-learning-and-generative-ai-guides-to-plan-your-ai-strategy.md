@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 694
         isCached: true
+  - title: "Amazon Web Services Launches New AI Healthcare Products, Chatbot Tools"
+    excerpt: "Amazon Web Services (AWS) introduces AI solutions for healthcare, chatbot tools for customer service, and enhanced business intelligence tools to compete with Microsoft and Google in the generative AI space."
+    publishedDateTime: 2023-07-26T17:41:00Z
+    webUrl: "https://www.techtimes.com/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/294313/20230726/amazon-web-services-launches-new-ai-healthcare-products-chatbot-tools.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 91
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/422535/amazon.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "AWS announces generative A.I. tool to save doctors time on paperwork"
     excerpt: "Amazon Web Services on Wednesday announced a new service for health care software providers called AWS HealthScribe."
     publishedDateTime: 2023-07-26T15:42:00Z
@@ -147,6 +163,15 @@ related:
         width: 1280
         height: 1132
         isCached: true
+  - title: "AI At The Doctor? Amazon Launches New Service As Google, Microsoft Aim At Merging Healthcare With Artificial Intelligence"
+    excerpt: "Amazon is continuing its expansion into the health space with the launch of a new generative AI tool called HealthScribe, meant to take over some time-consuming administrative tasks of doctor’s offices and clinics,"
+    publishedDateTime: 2023-07-26T18:25:00Z
+    webUrl: "https://www.forbes.com/sites/maryroeloffs/2023/07/26/ai-at-the-doctor-amazon-launches-new-service-as-google-microsoft-aim-at-merging-healthcare-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
   - title: "Cyclops Emerges From Stealth With Security Search Platform Powered by Generative AI"
     excerpt: "Cyclops emerges from stealth mode with $6.4 million in seed funding and a generative AI-powered cybersecurity search platform."
     publishedDateTime: 2023-07-26T14:35:00Z
@@ -163,6 +188,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon hones in on generative AI at AWS Summit and unveils new AI projects"
+    excerpt: "At AWS, Amazon announced that the choices will now include Claude 2, Anthropic's latest LLM, SDZL 1, Stability AI's latest text-to-image model, and a brand new foundational model -- Cohere."
+    publishedDateTime: 2023-07-26T19:11:00Z
+    webUrl: "https://www.zdnet.com/article/aws-hones-in-on-generative-ai-at-summit-and-unveils-new-ai-projects-here-are-the-highlights/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "How AWS is making generative AI simpler for businesses"
     excerpt: "To address concerns on AI, AWS has introduced several tools that can help businesses generate code responsibly for various use cases."
     publishedDateTime: 2023-07-24T00:00:00Z
@@ -191,6 +225,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS bets big on healthcare AI"
+    excerpt: "Amazon Web Services launches AWS HealthScribe, a new AI-powered service that automatically creates clinical documentation. Save clinicians time with speech reco"
+    publishedDateTime: 2023-07-26T17:30:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/aws-bets-big-on-healthcare-ai.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
   - title: "Fox Expands AI-Powered Highlights System with AWS"
     excerpt: "The Recap Feature and Catch Up With Highlights was built with Amazon Media Replay Engine (MRE), the companies said. In a blog post, Fox and AWS noted that with the digitization and continued advancement of broadcast delivery technology,"
     publishedDateTime: 2023-07-25T18:38:00Z
@@ -213,6 +256,15 @@ related:
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
     publishedDateTime: 2023-07-26T16:38:00Z
     webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854711.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), today at AWS Summit New York announced AWS HealthScribe, a new HIPAA-eligible service that empowers healthcare software providers to build clinical applications that use speech recognition and generative AI to save clinicians time by generating clinical documentation."
+    publishedDateTime: 2023-07-26T18:23:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/07/26/9854711.htm"
     type: article
     provider:
       name: TMCnet

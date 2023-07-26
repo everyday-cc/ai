@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3702714/how-ai-will-impact-the-dev
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3702714/how-ai-will-impact-the-developer-experience.amp.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2023-07/shutterstock_1818764939.jpg?itok=gexXj9SP"
         width: 3133
         height: 1764
+        isCached: true
+  - title: "No, a bot didn't write this story. How artificial intelligence will expand further into everyday life"
+    excerpt: "Over the last year, artificial intelligence has opened our eyes to new possibilities in the way we live our lives, prompting a seismic change not seen since the advent of the internet."
+    publishedDateTime: 2023-07-26T18:43:00Z
+    webUrl: "https://www.news5cleveland.com/news/local-news/no-a-bot-didnt-write-this-story-how-artificial-intelligence-will-expand-further-into-everyday-life"
+    type: article
+    provider:
+      name: Cleveland
+      domain: news5cleveland.com
+    quality: 22
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/6540a6c/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F06%2F20%2Ff2af123e4957866a6cc5ac5bf909%2Fchat-gpt-still.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "d9DGlotyTnFVxuSX479E5K95td8M+Nc7TQUWTNDYD36QA2ExBcZtqisOQolFplCEuwUX0JHpO0Jo62j2m3lFFg949ZR1ExyWC2xD1wNzkdP82iEdmRLArL/JGDX3IWnY63QlCjsegqazaUf6AEKeSNjDb14mwTEbPzb0xaSV1nA2+FSUELlRn5/mKoLmtVVg1Lk/+x+RLjr+9oScy+UPAtPchMxiihKqmcRk22tA9hVIOahK667bN6nEuJtv6PZ+MNUx3xnoAcInIdtAPJhcJSxqRh2m9vGdGworjmPveloNWbUQdwsSQ205grYxknSDxrUdZRCJEgC6jHogFB0VqeYrlbr0YMkLMoKwtY0aRzK9KmBDcTh2Ar5uSOBcRDDzH0QbInuN/X+73z9S5O8menmcRNsLz4Kg/QUxSxpP6u6vwPlGbmPKPQhuWMc8KrM3pTnSxKZnWplAWop8UhNoTodR23gSTSwKzBwEyKIJNfeTf153g1zSQ6SOUs8veysVbkfAyPAKmoXCelc7KVchvw==;QvU/+Yn5LZ3f98KhqqRp5w=="

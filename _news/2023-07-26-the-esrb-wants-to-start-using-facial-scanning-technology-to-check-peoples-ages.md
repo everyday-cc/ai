@@ -35,22 +35,6 @@ related:
         width: 870
         height: 504
         isCached: true
-  - title: "How cops plan to use AI & facial recognition to curb crime in city"
-    excerpt: "Noida: The police in Gautam Budh Nagar is set to roll out a Geospatial Data Intelligence Platform (GDIP), an artificial intelligence-powered crime dat."
-    publishedDateTime: 2023-07-22T02:47:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/articleshow/102028588.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/how-cops-plan-to-use-ai-facial-recognition-to-curb-crime-in-city/amp_articleshow/102028588.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-102029756,width-1070,height-580,imgsize-645787,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "ESRB Proposes Using Facial Recognition To Verify Your Age"
     excerpt: "The Entertainment Software Rating Board (ESRB) has asked the FTC for approval to use facial recognition technology to help determine how old a user is. Using something called Privacy-Protective Facial Estimation, a person's age would be estimated based on a photo to verify they are old enough to purchase a game."
     publishedDateTime: 2023-07-25T16:50:00Z

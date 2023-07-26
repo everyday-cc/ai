@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
 type: article
 quality: 106
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Healthcare workers signal greater acceptance of AI"
+    excerpt: "There are variations according to different medical sectors. For example, practices such as oncology are using AI to assist their clinical works."
+    publishedDateTime: 2023-07-26T19:59:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/healthcare-workers-signal-greater-acceptance-of-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 54
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/11/415f40312d915e65447240989330ef93f68bf691.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "AI in Healthcare to Address Stroke Disparities and Ensure Equitable Access"
     excerpt: "Artificial Intelligence (AI) has the potential to revolutionize healthcare, particularly in addressing stroke disparities and providing personalized care. However, concerns about bias and limited access must be acknowledged."

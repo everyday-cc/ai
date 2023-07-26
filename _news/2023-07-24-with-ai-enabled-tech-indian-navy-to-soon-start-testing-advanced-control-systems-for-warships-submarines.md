@@ -100,6 +100,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
+    excerpt: "The effort will foster social inclusion, improve government service delivery, and spur innovation using large language models, Generative AI, cognitive systems and translation models."
+    publishedDateTime: 2023-07-26T19:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech-11037091.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 19
 
 secured: "40hhhscsLXXG/IXTiMQIVd69g6bhAJazbMT7EFIjFqMQotmyBMkphTQrYUUUjWGsoQGGrFXbTRKKLRsQE7IelnPz/7udZGz/NAiK6Nl8rEvWNDsy9Wn++P0ttq0lbiUayfLgqVO05cMef7tuFsCdssfQLEcyGkUz6Y+QbUb11rajgSE+bxtUwCCtTDxFSeSPK9pZ+ZlfOAAVmBmCeAASrjBHQghLKBW7gH70E+9n9D+kmsgW4/CfsNzRq5jbe069pKhURCun3Ck5yoSiYkjt5WdVXsyDfK+Hg+2+wzz6fe4a9G4FWvkbhvAd59bthoI9UTzCG4KTSkPd5KaLgtQEqzt9xeNQQMn6kX7C8nzIge8=;l5gIMJKGeP5q6nZMEPzUUA=="
 ---

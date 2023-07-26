@@ -103,6 +103,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Educating the Next Generation in AI"
+    excerpt: "AI risk, ethics, privacy, questions of bias, etc. All of the above are part of the curriculum at Dakota State University, a STEM-oriented institution with a focus on computer science, cybersecurity, and artificial intelligence. We spoke with DSU President ..."
+    publishedDateTime: 2023-07-26T21:00:00Z
+    webUrl: "https://campustechnology.com/articles/2023/07/26/educating-the-next-generation-in-ai.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 39
+    images:
+      - url: "https://campustechnology.com/~/media/EDU/CampusTechnology/2023/07/podcastjuly2023.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "Wayfair takes the generative AI route to interior decoration"
     excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
     publishedDateTime: 2023-07-26T02:31:00Z

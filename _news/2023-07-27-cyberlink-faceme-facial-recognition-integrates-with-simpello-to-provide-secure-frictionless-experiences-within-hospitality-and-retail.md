@@ -2,9 +2,9 @@
 category: news
 title: "CyberLink FaceMe Facial Recognition Integrates with Simpello to Provide Secure Frictionless Experiences Within Hospitality and Retail"
 excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technology has announced a collaboration with Simpello to secure and streamline hospitality processes and retail point of sale (POS) experiences."
-publishedDateTime: 2023-07-26T17:20:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/26/9854720.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854720.htm"
+publishedDateTime: 2023-07-26T19:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/07/26/9854720.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/07/26/9854720.htm"
 type: article
 quality: 3
 heat: 3
@@ -18,6 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "DV4S7C+hd2rrPwKCyN32OXlES/21146NaP+t4UEz5400mDbtkcGs2qPl5yGeRiSXhqeyfvXSL6pMeRkgLeiB2naA52l/Un1xeDGZdkG/bgRTYNsRd5u3s0fF7TNZesjtr6C6TrOb3V/y7E4Mmao88XC/3ZilqbwJ2pPzda40ZVy01vWzRYdCJ3lvGFbR6g+OyH07GuQTpysULHp9xbXnA3Ki7MzPm0SpQ1YK1YGQgdSnTXUIyBfVjf5/poVe0Wvmve+BKAw/DCSWlbL1z/cbXkw8vE/qw4C9ftxViIQQ9Zbelg76GTBlrbri2qzc26rECe0RtDyUTExQzJY0xmw0v90FsdIebVxk3r3WM1Sh+wU=;ab4QZcJxxDjLxI6SES1TKw=="
+secured: "92fji+c7WlsZvxG6UzoYB9Pbo8kIM+zndW8JtaDLGVR6gI7f1hGEU2hE8zdQ++UB8Q1UDT/3HplfxF+UBxw2/wG1+rl9vUbXRA5ll+4va/SE9/lcu0GmBYkdEkL528oZ6FGYXdfSB7hUeSRqI77k6ZZdkOZN5gC+x9q8FGlg/lZPj3qP36pCBP1sZS1XhgFOpD2i3bk0zTjhvz7KdgvH4+zOQTlPq0oR+IipRrbA2ON51ZIIhYfGyyoSnSYJHNu+OPhuJG+6KVMlimkYkvxq9wcaLRpTRVv4b+DS8w4XgnXIORIw9ioKMzVfi3+1EAWDRP5mkQ2cTopK5bT/ZM2iAEJJdCMujf6EKKK4x+ppvFo=;J4KORCQ2CMmiz82Luft3hw=="
 ---
 

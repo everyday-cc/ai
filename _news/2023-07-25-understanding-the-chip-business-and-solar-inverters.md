@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI and machine learning are revolutionising business intelligence"
-    excerpt: "Every day, advances are being made in both business intelligence (BI) and artificial intelligence (AI), enabling businesses to use machine learning algorithms to identify novel data patterns and quickly choose how to present them in real time."
-    publishedDateTime: 2023-07-22T04:00:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-ai-and-machine-learning-are-revolutionising-business-intelligence-3181868/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Untitled-design-2023-07-21T165236.463.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How AI Is Changing The Face Of Careers As We Know It"
     excerpt: "Look into roles that are more strategic in nature. Join teams or organizations that are looking to give humans ways to combat the bot."
     publishedDateTime: 2023-07-24T12:30:00Z

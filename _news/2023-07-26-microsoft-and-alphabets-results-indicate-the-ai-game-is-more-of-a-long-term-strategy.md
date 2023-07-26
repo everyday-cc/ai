@@ -287,6 +287,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Exclusive-Amazon has drawn thousands to try its AI service competing with Microsoft, Google"
+    excerpt: "Amazon.com’s cloud division has drawn thousands of customers to try out its service vying with Microsoft and Google in a key area of artificial intelligence, an executive told Reuters. The company also announced new AI tools on Wednesday,"
+    publishedDateTime: 2023-07-26T18:50:00Z
+    webUrl: "https://www.aol.com/news/exclusive-amazon-drawn-thousands-try-155026475.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 44
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/b9065e66fd7417aeb7fda1d9eaf1bc50"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Microsoft cloud revenue growth slows as Google Cloud turns in another profitable quarter, but both look to AI to have positive impact"
     excerpt: "A tale of two cloud platforms. Google Cloud sales continued to soar in its Q2, up 28% year-on-year to more than $8 billion. But over at Microsoft, Q4 Azure revenue growth slipped to 27% from 31% in the preceding quarter with a continued slowdown forecast."
     publishedDateTime: 2023-07-26T10:08:00Z
@@ -363,6 +377,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Google, Microsoft form group to create best practices for emerging AI models"
+    excerpt: "Another industry group has emerged promising to promote best practices for artificial intelligence applications at a time when governments around the world are looking at regulating AI. Google, Microsoft,"
+    publishedDateTime: 2023-07-26T19:00:00Z
+    webUrl: "https://www.itworldcanada.com/article/google-microsoft-form-group-to-create-best-practices-for-emerging-ai-models/543626"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 33
   - title: "Big Tech Earnings Preview: Microsoft, Google Lead AI Hype For 'Magnificent Seven'"
     excerpt: "The so-called 'Magnificent Seven' big tech stocks have powered much of the Nasdaq's 2023 rally, largely on the back of AI hype. Now it's time to get real."
     publishedDateTime: 2023-07-24T15:27:00Z
@@ -414,6 +437,6 @@ related:
       domain: microsoft.com
     quality: 11
 
-secured: "BYITVzGy8zaIbSuPS2XUj2SPe7Fl+1vs5vDiktxdt4fdvS3fKl4V2VANcpKm9Yq6rwUrNA/yEMHhe+69jtUaB1HPqi9r9M+dgdncFYKY43l3QTrbFqtKWU2LgDriDdv9XLpTfves4FiKR+4OkhT2imv0lwGMOyiwtQg8ltkdsIi6nytSf1Gf+t0Dda8AU55NUcOPdoFqRRqwjHqflzIDZhgL4IStmyqhFKRXA74Mg/35kMHj39rHAV1LYn7Me+xWrztbstawSDNukJNLwqtjp/ZX1EGQLnwRY9/YVhUCCJbrlVPN5tzcyeu8joMotZywUW6lBs66+rRfdXe0/HF9MgI9ZXqLN4pcUZkoT6k8+co=;csvFZsmERjdISyrnw5gXaA=="
+secured: "0fZG5guE53w9STkYiRAxaU9c0fMj3Okfa1z3jrAuzvaFkcet6K0msX9s25nQqHPvhP6lwX4+y+MjQ3EvFZSs6mcSV/1FR47icQRArNHGM+upjo9Y2dMfc/f2J/hvBRbBUO1ZhDCfkSlM/LBW6XiGCquRKwJ2B8SLt4CJLYlGsP02wwmP6Gk9TdlaA6Ukw+8hle7D+IPiFlNzzQIBJq638NBrHOIfcZ6rUGutK1ixbSiNQ30ZoPQMpCPpwwatu/BESh6+eixX1CLqvacuVJHR8D6lHrWIaeGC3kLtX3RRcI7XvgIEswvI+XABOrX4RjlKkBY0R1xbUJ8GeYc+npeQfS6wHRClthQYCgc0UoJwTHcXp1kx2dyY/DPIrHoX6YxwyQWU9YwKGLQyjfbVjmcAch9Jb3n/4colIHc7m/6RXmAs02vPHTxOnvtjv41hbCZ3rK8XNgL9ue+jAvYI2dV0Ol6z72w7jzk+XcQcHRnChvIWRU5qHyCvgGw5MWoLCzFM07+a5cKNtzsrhr3V/PLF+A==;4InSMrgjPNnvVLG1ix1KRg=="
 ---
 

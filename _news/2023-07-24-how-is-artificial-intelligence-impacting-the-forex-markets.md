@@ -56,6 +56,15 @@ related:
         width: 716
         height: 372
         isCached: true
+  - title: "Exxact Corporation Offers Liquid Cooled HPC and AI Development Platform"
+    excerpt: "Exxact Corporation, a provider of high-performance computing (HPC), artificial intelligence (AI) and data center solutions, is now offering a dedicated liquid cooling AI development platform featuring enterprise-grade cooling solutions for both the CPU and GPU to accelerate the most intense AI applications."
+    publishedDateTime: 2023-07-26T18:53:00Z
+    webUrl: "https://insidehpc.com/2023/07/exxact-corporation-offers-liquid-cooled-hpc-and-ai-development-platform/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "m/Cm0gP8vr8wn82MaKcsMHQh47RRIX8VcMUeM6kGKhnz3i/rwNmyN2nMIC3QkppYUXyTpraAQPXmvydppR7dyiJzsjCdPejpyzKkFTgg17S2+t+6cOlDHBfJIGItLFGilc7Ckn1l7p5G1hwk/mZ+Pgh92F6lubUTVzsvVgXEPHW+Ej00VCjKRMvzWZA+3B2I5VNpocoJEKMCfzi9R6UZ3ocZYBb+VjPcLxVcnRUQdCWQkCEvMLczvh4ivXVq2dR01KGBWXUyv0CNkKZqjgBkmhpOMX09q+4/Drg4HrKjNovdLNOI+JoLop0CfHH1Yo98ZqPA21zFHHJkkA1HXZjOV+qt8WcYtYDxGskL+DJ+1Tg=;NV4yj1DTG8wCHYCtlXlIbw=="
 ---

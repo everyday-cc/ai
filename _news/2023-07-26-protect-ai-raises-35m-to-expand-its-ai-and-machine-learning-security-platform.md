@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-
 webUrl: "https://venturebeat.com/ai/protect-ai-raises-35m-to-expand-its-ai-and-machine-learning-security-platform/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -26,6 +26,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Akkio raises $15M to advance no-code AI platform for enterprises"
+    excerpt: "Akkio raised $15M in a series A round to accelerate the adoption of its no-code platform helping enterprises deploy AI in minutes."
+    publishedDateTime: 2023-07-26T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/akkio-raises-15m-to-advance-no-code-ai-platform-for-enterprises/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1690384951113.jpg?resize=700%2C350&#038;strip=all"
+        width: 700
+        height: 350
+        isCached: true
   - title: "Seattle startup that helps companies protect their AI and machine learning code raises $35M"
     excerpt: "Seattle cybersecurity startup Protect AI landed $35 million to boost the rollout of its platform that helps enterprises shore up their machine learning code. Protect AI sells software that allows… Rea"
     publishedDateTime: 2023-07-26T13:00:00Z

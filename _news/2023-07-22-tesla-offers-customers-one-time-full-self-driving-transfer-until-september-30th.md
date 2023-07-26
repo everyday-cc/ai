@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self
 webUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 63
     images:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tesla Is Hiring Test Drivers To Try And Take 'Full Self Driving' Out Of Beta"
+    excerpt: "New Glassdoor job postings from Tesla, as spotted by Electrek, show that the company is looking for “Vehicle Operators” for three-month temporary gigs. The job is focused on data collection ..."
+    publishedDateTime: 2023-07-25T14:22:00Z
+    webUrl: "https://jalopnik.com/tesla-is-hiring-test-drivers-to-try-and-take-full-self-1850605952"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 51
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c119257eb40a0d11d5c73789f036b25c.jpg"
         width: 1200
         height: 675
         isCached: true

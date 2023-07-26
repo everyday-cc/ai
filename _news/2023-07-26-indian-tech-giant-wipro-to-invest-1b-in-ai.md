@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "India AI, Meta India ink pact to spur advancements in AI, emerging tech"
+    excerpt: "The effort will foster social inclusion, improve government service delivery, and spur innovation using large language models, Generative AI, cognitive systems and translation models."
+    publishedDateTime: 2023-07-26T19:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/india-ai-meta-india-ink-pact-to-spur-advancements-in-ai-emerging-tech-11037091.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 19
 
 secured: "c6wZ5FuhFFna2OHFKMDiqnSpPgOA1LxR0Xcu5Phluzu48mnHnGqagGHV6DzsEgpg/KI3YbMMVRuEAK2vZv0ouMEwPuekElJvQBIgY4/6zOLgc2fpbsUQSxnODtwJ8P0SqJsXhPrKA1WJgbwuyYw+fLme9JSDIy26psRdoBxOuY+nLoM0PIWStgDJDZSEpAblRnhLneqtbRP1GvzLxc7nMdm86AZBERepnn6xgQQ7h7uCQ41XAVPaJxpvDLwJxqjxOZZVMUiQ+s0vTZ6pGeSkkMKKu0Z012UmCRh+E9km/9KVOQ3koWNiQYon4YCS0HuUXNonfwNtHMLn8W1PGBRE+86k9xUKfE6gvJnjzq306oM=;8Oy08Nn/+Jmjt6QV/3L1oQ=="
 ---

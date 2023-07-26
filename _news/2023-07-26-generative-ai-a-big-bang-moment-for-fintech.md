@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://gumlet.assettype.com/fortuneindia/2023-07/bd664f0b-8b35-4e19-b3d2-4b103faf5879/Santosh_Bipin_blog_pic.jpg?w=700"
         width: 700
         height: 437
+        isCached: true
+  - title: "Point72 Ventures fintech investor breaks down what's next for Steve Cohen's firm, from generative AI to solving gamers' payments woes"
+    excerpt: "As the fintech sector thaws from a chilly 18 months, a Point72 Ventures exec lays out why he's excited about AI, payments in gaming and KYC solutions."
+    publishedDateTime: 2023-07-26T19:55:00Z
+    webUrl: "https://www.businessinsider.com/point72-ventures-exec-investment-areas-generative-ai-gaming-payments-2023-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e20993762fa811b4215d2e4?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
     excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
