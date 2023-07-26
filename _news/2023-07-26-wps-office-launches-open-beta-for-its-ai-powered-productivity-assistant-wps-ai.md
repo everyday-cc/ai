@@ -2,9 +2,9 @@
 category: news
 title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
 excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
-publishedDateTime: 2023-07-26T05:40:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/26/9854129.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/26/9854129.htm"
+publishedDateTime: 2023-07-26T07:45:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/07/26/9854129.htm"
+webUrl: "https://it.tmcnet.com/news/2023/07/26/9854129.htm"
 type: article
 quality: 35
 heat: -1
@@ -67,6 +67,6 @@ related:
       domain: fox6now.com
     quality: 39
 
-secured: "9gojOIC5KQx6fshY5TKJm/c6lftKiCCDkgqEmp8Uz07gIzRBEVbd7ohA4HNYSHogEOtwyh97UOFWR6k3MV/SrnRQvBMcGdTuyzUBew51g1LmFQ0ymUPknc/mGDjumVLGqL43sQ3mB1oCjKbfuvIQ3Wsp1qQ1TxQ6HMYljjEgs3QNfJsbvLrUjbS2nNjkYOs3aQFgIJC+VOzWU9kYk90XlyExSI201kExBTzgQU1tyr/JiPMM/74k9QMv539WSW/SLh1eaka5Or55uQ8TkoZDvVJogooTFx4i9DUMWauwC5+X1//8I64xYtLybM99XweMBZV5QGQEIFiSj6k064qWfUZ8m3gWpLpU6Qt72WXDy2k=;DXoMzPKOTUel5sDeXQLqVg=="
+secured: "8ObtvHKBJCLZS9alOHoA3VTUXD/4RMzNLNFbwPjPp0KVEEk5rpDOH59GF/nDhr1MN1zlPS/y//r7N1J843I51ROB15AEvIDTf5A/vH7Ov4VpPHw33wizjkma010PTGtb5TJ6BSTLbS521MOEmT7hJrWazVi0lAN6oak8ciSiJud0pc0r9pjeTLiSunhC1PridX9UziWmbEVbvoImiljoWsfTMrbWpHF1h3EU8jysmzH93XHyRz9nEjhQrHCP8bRhYs2JQDS5Rj9pAniM1FpybJ3RsGparnc8MFPv2mSuXRZhIc3FL4evPDV5oSmz4qDPvy6cYLfl4yRkq3sjrDTJNQjmoIyHkt3foW2bkg5U8FM=;MLxYiLLhQE1IWlMwCtawXw=="
 ---
 

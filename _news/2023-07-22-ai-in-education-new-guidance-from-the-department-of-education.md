@@ -33,6 +33,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
+    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
+    publishedDateTime: 2023-07-24T19:38:00Z
+    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 35
   - title: "Generative AI bots will change how we write forever — and that’s a good thing"
     excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
     publishedDateTime: 2023-07-22T13:01:00Z

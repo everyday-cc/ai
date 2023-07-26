@@ -36,18 +36,18 @@ related:
         height: 800
         isCached: true
   - title: "Proposals aim to regulate artificial intelligence in the workplace"
-    excerpt: "WASHINGTON, D.C. — As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace. A new proposal dubbed the No Robot Bosses Act aims to protect employees from being fired or having hiring decisions solely made by an automated system."
-    publishedDateTime: 2023-07-26T00:44:00Z
-    webUrl: "https://www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/"
-    ampWebUrl: "https://www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/?outputType=amp"
+    excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
+    publishedDateTime: 2023-07-26T04:43:00Z
+    webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
+    ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
+      name: WOKV
+      domain: wokv.com
     quality: 74
     images:
-      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/t9dCsco1nA-3MY1MYaf9jIw2g8c=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/Q4NAEE3OBFCJNG6MZ5ZOOL4VKE.png"
+      - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
         width: 1440
         height: 810
         isCached: true

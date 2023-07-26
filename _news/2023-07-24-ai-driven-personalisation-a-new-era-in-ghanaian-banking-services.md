@@ -9,7 +9,7 @@ ampWebUrl: "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-
 cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/?amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://i0.wp.com/chyp.com/wp-content/uploads/2020/07/ch-logo-white.png?fit=1608590&#038;ssl=1"
         width: 1608
         height: 590
-        isCached: true
-  - title: "Blitz: AI driving hyper-personalised customer experiences"
-    excerpt: "Personetics VP of Strategy & Business Development, Dorel Blitz, discusses how AI is helping to drive hyper-personalised customer experiences in banking"
-    publishedDateTime: 2023-07-21T14:43:00Z
-    webUrl: "https://fintechmagazine.com/videos/blitz-ai-driving-hyper-personalised-customer-experiences"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/aa36d7ce6ae59648e85c7d646056a3f5:c883cf3e4a352363434da6fd5fd5e4bc/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
         isCached: true
 
 secured: "h6hFfBhOuqtTOZFbhklHoBmoHpe1/tqnIRp0hlZo7G5m8kq5pFomDtvIS9HpZ78WLV7h9Q0fVSRQcuEbYr55cod0o1Tul6pTlgranuXAklBzJMDDb5h4PQCLApYsVqu3kv/BulwrdCr/TVWpLDGCsvq19AriiiAlm6eeddjduqawIADh/UQslBbam656y94YJ1udOAvJnToDPsscj7iDURIOJI1dr8wP6uRDRRUh1kURe2hbj7pQ8+EH80sjQAkgN2/8Q0FAnWYdSFzbEqnyRxkpuzjsbTkWEKRZMEh+tyaYNE5r/+I1tlKZT+k6W1ysAvqN3esMTOt860NH3sUQxDgxodjtjF09SrmmIP8ZoChMGG0Vo8/HSIFI9FCfqgB9Lj1FZD93OrOaKD9DPf/AFmJOASL592/MSw9whSZiEDasp7p0AdFtwRT2UgTCj3T98qjOAuAntRcpGLSVy8ipxnhZCg0BiEUKfW2/nQxhzPX6STbhOPW2mKcLBlMzI6jMpTmGVrUEswBRQFzDngK5zw==;mim4a2C+bb5HvRQGtWuS2A=="

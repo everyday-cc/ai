@@ -88,20 +88,6 @@ related:
         width: 1608
         height: 590
         isCached: true
-  - title: "Blitz: AI driving hyper-personalised customer experiences"
-    excerpt: "Personetics VP of Strategy & Business Development, Dorel Blitz, discusses how AI is helping to drive hyper-personalised customer experiences in banking"
-    publishedDateTime: 2023-07-21T14:43:00Z
-    webUrl: "https://fintechmagazine.com/videos/blitz-ai-driving-hyper-personalised-customer-experiences"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/aa36d7ce6ae59648e85c7d646056a3f5:c883cf3e4a352363434da6fd5fd5e4bc/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
 
 secured: "rBVY59/UIrX2EEtq2s9RvGiggx7lyPfUcIFFJ/xP3bIEdVLCDvFf55u/lzSwOK2y8Yh/whe2Bc1Fgwk2BaZrs7HuGLrCTJ53lLVVBjebdIOA0zTypRD2rGfpgfkfjvGK9lOdwxKHXY4G6vF5BnjmzgkrrV2YhhdHQwqdBxfQc3NNfW2NuoGGihCNzx9ynDjQ4yIuVi1t/cp4jXMIV87ayYmPJ2MUCWF5io8YmS5jGNUvgG0U+TqZxlwN346C/5mKFTyKjqnC9WZaS9sV7Bf3zC7Kf5uvcrSNwYhhLWKvrkI+0Jzi9hN+xO9mWsDJCB1tl0G25RTLt+FCFVPqRu1cZu6BKbhp/w5c3jm2OKE1FQg=;WtSCI7LesIxlbgVxa8IJMQ=="
 ---

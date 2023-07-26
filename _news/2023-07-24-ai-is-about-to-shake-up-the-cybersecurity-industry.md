@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 1500
         isCached: true
-  - title: "The growing impact of generative AI on cybersecurity and identity theft"
-    excerpt: "Personal data is under siege in the digital world. Beating the threat takes building a comprehensive, multi-layered fraud stack."
-    publishedDateTime: 2023-07-21T14:26:00Z
-    webUrl: "https://venturebeat.com/security/the-growing-impact-of-generative-ai-on-cybersecurity-and-identity-theft/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/AdobeStock_598980629.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The new universe of Artificial Intelligence"
     excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
     publishedDateTime: 2023-07-25T18:16:00Z

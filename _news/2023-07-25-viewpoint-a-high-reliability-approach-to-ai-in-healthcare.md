@@ -89,20 +89,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Thinking Out Loud – Artificial Intelligence Comes For Healthcare"
-    excerpt: "While academics explore the bounty and pitfalls that Artificial Intelligence (AI) offers, and Big Tech continues to hype the possible over the actual, the feds seek to make regulations. Corporate healthcare,"
-    publishedDateTime: 2023-07-21T14:48:00Z
-    webUrl: "https://www.acsh.org/news/2023/07/21/thinking-out-loud-–-artificial-intelligence-comes-healthcare   -17198"
-    type: article
-    provider:
-      name: Acsh.org
-      domain: acsh.org
-    quality: 54
-    images:
-      - url: "https://www.acsh.org/sites/default/files/images/artificial-intelligence-gf45a5335c_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI in Healthcare to Address Stroke Disparities and Ensure Equitable Access"
     excerpt: "Artificial Intelligence (AI) has the potential to revolutionize healthcare, particularly in addressing stroke disparities and providing personalized care. However, concerns about bias and limited access must be acknowledged."
     publishedDateTime: 2023-07-25T12:46:00Z

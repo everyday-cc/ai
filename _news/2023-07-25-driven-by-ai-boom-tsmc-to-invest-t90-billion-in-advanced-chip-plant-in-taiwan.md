@@ -104,6 +104,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "TSMC to invest $2.88 billion in new AI chip plant"
+    excerpt: "TSMC has said the new chip factory is scheduled to be completed by the end of 2026, with mass production expected to begin in 2027."
+    publishedDateTime: 2023-07-26T07:16:00Z
+    webUrl: "https://technode.com/2023/07/26/tsmc-to-invest-2-88-billion-in-new-ai-chip-plant/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
 
 secured: "nOtXQOO48y/uqD1i4k5Tae8ksT5GHIUppLqWKwp7cr9u5jP3Pl7E3iiqvj7qsx2TyB+/QRJ3W5b1wEoZH/8fM0FdhJIavbHOvPgjbTc7HzHoBHPWAUhMX3M2iqT0PRsPtVGYj24GlFJG3tHrdY3KGGwqYcL48hPN9pRnchyGOvuVei4zTB9RtVzVs127ZNrcpEG/VqupgPxM8o75bQewGG3ETFV7BhotU2+eRVNjRupw8bho6tsFhscIltBuUOftR9kx7tKmz08YC3QXojXWgGk9IIu2C7KHI6IcdybcWrl90ySjaDQD5PmX5ZIBBx8Q9mEJTs9p8O8wt9ZaPtlFYX8ylPc17fAsO8H/fEWPVcs11j/JkZeVbocRkeKzWUsiubdkxWlh0w9QBNKlpaK5xy4cp/yJgzBipSVWMzp/+X7crWSDa6BQjZwGnAwcngGmmVOeVzr+wcNh5t904oYDJys4RJcD2FtMYUa/1cWVklVS4HhCIsKgXmLwfvu85b6tUJC76F53pWR0OWLlaW3JPg==;yZCEOccfQrv8OBs/N615fQ=="
 ---

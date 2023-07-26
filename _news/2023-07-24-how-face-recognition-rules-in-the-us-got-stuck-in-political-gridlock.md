@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/07/24/1076668/how-face-recogni
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4HBWD7NCY5AI3JU3J3R3MTAIBU.jpeg"
         width: 3000
         height: 2250
-        isCached: true
-  - title: "Australian gaming operator calls for coordination on facial recognition for restrictions"
-    excerpt: "Another Australian state has passed gaming reforms for AML and self-exclusion, and a hospitality operator calls for a national approach to facial recognition."
-    publishedDateTime: 2023-07-21T14:15:00Z
-    webUrl: "https://www.biometricupdate.com/202307/australian-gaming-operator-calls-for-coordination-on-facial-recognition-for-restrictions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg"
-        width: 2048
-        height: 1367
         isCached: true
   - title: "On the centennial of the Treaty of Lausanne, Kurdish political groups call for constitutional recognition"
     excerpt: "The treaty, which shaped modern Turkey, only recognized Greeks (Rum), Armenians, and Jews as official minorities, leaving Kurds, which is the largest non-Turk ethnic group in the country, without constitutional recognition."

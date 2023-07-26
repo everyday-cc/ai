@@ -227,6 +227,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Save 42% on the best AI and ChatGPT training bundle"
+    excerpt: "TL;DR: The Complete ChatGPT, Artificial Intelligence, and OpenAI Training Bundle is on sale for £23.35, saving you 42% on list price.If it seems like everyone is talking about the new AI craze called ChatGPT,"
+    publishedDateTime: 2023-07-26T07:00:00Z
+    webUrl: "https://www.aol.com/news/save-42-best-ai-chatgpt-040000140.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/qBh8rqGvZpRfZ0dh9CT8Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_mashable_370/f5ffabcddfa43ed5f8f01a02687451f8"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI"
     excerpt: "Artificial intelligence-powered threats are already affecting businesses, schools, hospitals, and individuals, and it will only get worse as AI advances."
     publishedDateTime: 2023-07-25T14:00:00Z

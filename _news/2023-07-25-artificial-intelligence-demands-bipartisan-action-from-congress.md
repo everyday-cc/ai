@@ -18,31 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Before Congress acts on AI, it should fully understand existing legislation"
-    excerpt: "AI uncertainty is high, and Congress certainly wants to act. That said, before passing new legislation, we must first analyze what already exists. If we don’t, we risk safety and innovation and set society on unstable footing as we step into the AI age."
-    publishedDateTime: 2023-07-21T17:30:00Z
-    webUrl: "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/"
-    ampWebUrl: "https://thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/"
+  - title: "US senators express bipartisan alarm about AI, focusing on biological attack"
+    excerpt: "Both Democratic and Republican senators expressed alarm on Tuesday about the potential for a malevolent use of artificial intelligence, focusing on the possibility of AI being used to create a biological attack."
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.reuters.com/technology/us-senators-express-bipartisan-alarm-about-ai-focusing-biological-attack-2023-07-25/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
+      name: Reuters
+      domain: reuters.com
+    quality: 64
     images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/mcconnellmitch_schumerchuck_071123gn09_w.jpg?w=1280"
-        width: 1280
-        height: 719
+      - url: "https://www.reuters.com/resizer/NyMxOBQP1wWEhsLYSW4g-KYA4Mg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XBBWQIHOKNJ5TOUFVSP6GQPBRU.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Congress, Palace should tackle creation of agency overseeing AI use — lawmaker"
-    excerpt: "A lawmaker urges Congress and the Palace to tackle the creation of an agency that will oversee the use of artificial intelligence."
-    publishedDateTime: 2023-07-23T04:58:00Z
-    webUrl: "https://www.cnnphilippines.com/news/2023/7/23/agency-ai-use.html"
-    type: article
-    provider:
-      name: cnnphilippines
-      domain: cnnphilippines.com
-    quality: 15
 
 secured: "t3Loq1jKA8Crl3SzNcKNTFXLJGiEVMHSXgTad86KJc0WHkDFnjNxdihfpIGDSPKtBI2AcSc87wIhIjJa5frTdw3C048BeRadeWM31lhZMBeztK67YgqAQRq4Uj5lgLOvbXmI+lpp9wguUNoQ52xZrQCzN9GKd8zU02p/VvQtzYkP/zk1xM+CeHwXsZQvnbXNdSAKoiJpD2s3md9re4XfRusuh25Ixli8R72xO5b7fPhvVREabDz2zV1jl68+fljUYLUSfsjbn1GOmJwoCVZ51J3kB/X4xXrBkthuq+6Ry8vF1j9pXZqTcgW9pKkAg99/zz1Z4OIyvqVP575T47OgXtUsjDZGRIrGz3zjmFoc5UA=;SCr6/hDW8IWd3qUvQr7Ezg=="
 ---

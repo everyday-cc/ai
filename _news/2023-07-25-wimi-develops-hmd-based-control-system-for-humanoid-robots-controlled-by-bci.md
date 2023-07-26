@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/perimeter-security/robotics/pres
 webUrl: "https://www.securityinfowatch.com/perimeter-security/robotics/press-release/53067020/wimi-develops-hmdbased-control-system-for-humanoid-robots-controlled-by-bci"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "WiMi Developed an HMD-based Control System for Humanoid Robots Controlled by BCI"
-    excerpt: "WiMi's researchers took control of the robot and tested its performance by using this new interaction in an experiment. Testers were asked to navigate the robot to a specific location to perform a task. This test was based on visual SLAM feedback, which provides navigation instructions through images of the environment captured by a camera."
-    publishedDateTime: 2023-07-21T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-an-hmd-based-control-system-for-humanoid-robots-controlled-by-bci-1032465709"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
 
 secured: "qt9iwsPy/91nhNL/Iv61GhDqV1o4ydi1Kl0d6zWzHSASUJUUJCTK/ZcgyYgQHrtJqXqFRpZFJkm2Y0mKKBMXSwuBxHEmcoRB4EQXFDnKbbUDKRg6Ln22xsWW8HjUTXcsWLZPZKThVxulMQ3DrBjiBEDFuNYVdgTODwySOqp9gC+l5r0+6DVXSV5uoInjtMzwkx869qhYuMPMjagZboLexgT0iT02iXvmOIUuD5GJS4M0+ovJCtBjXhZ/ELJT5wW/CuFiM3aIXtZmFlsydUireMTj99xqy8TxMNu8DgiK3eHbkxMk6lPCMnVer/Ygo32O8ohzxBZyz3bNSOsjZuCBfGj+KKtxF7IQULN4K4XH1oi7sYnBq9L95BeO9ip7C+x07jqaTkfGVfTyFSMszrapGT4J3ME03BJcE4eVFOYUT7QXfaFcp5a20OWI+MFGuzawihxlEhRkrnSpl0BiL+3Io6PIv5deg4x2jcm8TzIYFmQOI7SrpIknZi26X0/MbB6ISvZuyGJdeSjuofaW9omtxw==;7maM0XNGGRSaF6488FlWVg=="
 ---

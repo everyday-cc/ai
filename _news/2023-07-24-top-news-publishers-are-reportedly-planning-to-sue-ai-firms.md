@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1345
         height: 900
         isCached: true
-  - title: "Read all AI about it: Artificial intelligence reporters may be coming to news sites"
-    excerpt: "Google says it is in the early stages of developing artificial intelligence tools to help journalists write stories and headlines, and has discussed its ideas with leaders in the news industry."
-    publishedDateTime: 2023-07-21T13:14:00Z
-    webUrl: "https://wraltechwire.com/2023/07/21/read-all-ai-about-it-artificial-intelligence-reporters-may-be-coming-to-news-sites/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 28
 
 secured: "RAPIt+PhdtdM/pZrEZK51hUbkpHNvrts6yHnf0XCfxJ7Y6sMRVtWGSEbfK4miTXSdoI2RpFnIQFkaDeU76e2De43tQjICSVE7CaxctblNMEc/vT9QeGs/vPpDHrOoW6UyFmxtcuxV/uKOLncOZmKrFevxHrkclOCLtGD88CpyC/2gYQeWgMTTv6Yz0kWv9NHjlU78/I48YAYrfho6dHH+v2ce00kklyYpnAlZyYNmxYMihm6GfGZ801uM+l4rgqttiaiUyHRbt2RiBMXz3LD3cywB0Vdf2eGH0Da8isGF4EhiIcBrRZEr2oC8Tp399iJrurpjXVW5qur0ahLkXInZaQwsHKln67ozZIu4xJjw+Q=;wLTMcqY6EI2P0hUK8avawA=="
 ---

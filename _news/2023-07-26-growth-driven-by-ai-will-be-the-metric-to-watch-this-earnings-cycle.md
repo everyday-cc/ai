@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-e
 webUrl: "https://techcrunch.com/2023/07/25/ai-microsoft-alphabet-earnings-expectations/"
 type: article
 quality: 67
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
+  - title: "Strong cloud growth driven by AI workloads boosts Alphabet’s stock"
+    excerpt: "Shares of Google LLC’s parent company Alphabet Inc. gained more than 5% in extended trading today as the company delivered more than $8 billion in cloud revenue for the first time."
+    publishedDateTime: 2023-07-26T03:59:00Z
+    webUrl: "https://siliconangle.com/2023/07/25/strong-cloud-growth-driven-ai-workloads-boosts-alphabets-stock/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/google-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "AAXWevHYUCzrNHdnvTVs6g1h1jVSY0/2BVB/QooKNnvlofqfYsoamZThXErhuMvRdfs12To/GbqUqcjpOMVPLecQgrtHnO1ItqifmJJn5diB8k8ErY2ho35GhbajVaLDGhAYFvVHFpi76zxcoulhlp8PP/8IdWoKsX8mlt5LOAIRupbvPRgmI8U9LNQWnKUXQsou0DEhNUCLYZztPx/Uvs+c6gHkR5N0fp3aRRtuFeHgNAll8ICSnn/Z0uYwI1c/elczdiOrLBwY7QJuO9VRwiE0wcFBMIfwK2Ip+c++0KoOxUcBlDRvb2h/DiuxGJU3LD9HIGQ36384y8QvyUk4QuZNUNUSD2trQFLnb5bZGcqFfkONnoUiBubqE5ZcGxIVftpDivztWOdXksuAlHyo+fKHWrbFMOxXIAVVuxDtvnFu1RAslpWG3hGhuD1ystjpt0kb/3ng3d7KNcAmRgcDrHmT4jBPi3jvuR10bGIS6b4WHIvZPJz4mdxncSd/GliRnu8NBDpyBl267pyNG7UStw==;W5D4ygjWgu51Z4S6NQtAaQ=="
 ---

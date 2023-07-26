@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self
 webUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla Will Let You Transfer $15k Full Self-Driving To A New Car, But There’s A Catch"
-    excerpt: "Tesla is finally allowing owners to transfer their FSD package to a new car, but the offer is only valid for new orders placed in the third quarter, and owners must trade in their old vehicle to Tesla"
-    publishedDateTime: 2023-07-21T13:32:00Z
-    webUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/"
-    ampWebUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla-FSD.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Tesla is starting to offer one-time Full Self-Driving transfers to new vehicles"
     excerpt: "Tesla is starting to offer customers a one-time transfer of their purchased Full Self-Driving (FSD) software to a new vehicle, Not A Tesla App reports. Tesla CEO Elon Musk revealed the company would be offering it as a “one-time amnesty” during an earnings call on Wednesday, though he did not provide full details at the time."

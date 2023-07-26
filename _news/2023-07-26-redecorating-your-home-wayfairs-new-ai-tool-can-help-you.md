@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Wayfair takes the generative AI route to interior decoration"
+    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
+    publishedDateTime: 2023-07-26T02:31:00Z
+    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "8MNq0ZptZp7A5ZikXU+wnvds+J5sinR4yuLt6epzALoo6j0oO9eyftsYrw+0XN+3hbeCtIErJA32M0PUHJIqCFgkgnuC9RCMoa7sncylnEkQgEC6Hy7TXtSsAZ0xdAnuDGkSYu/LhH53chaEma5nicb6pVglK3w9/K1iGfxZYcFnjV/cu+nLpzD/VqvcG0XADHBDhpd+Qnij15kSp08xHk6xSjF25go3ExMXhteEMLyQ9XLDdcy/5tq2iwZPZbaZidV/pLFwdqCTETrnnccGN/HnE4ONQ7VeuIyQkAnHdllafZCc5LOxb4szx9h7hdLG5Zp85TRMzc/dRNp7nAVghoTEiCiCQUQojHfVPnH9KuM=;tcqYWR8AWvY9p8iqOL/S+Q=="
 ---

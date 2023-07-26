@@ -30,59 +30,138 @@ images:
     isCached: true
 
 related:
-  - title: "As AI porn generators get better, the stakes get higher"
-    excerpt: "But from what I can tell, there’s not been any movement on that front. Indeed, like the ethics around AI-generated porn, Unstable Diffusion’s situation seems unlikely to resolve anytime soon. The group seems doomed to a holding pattern, trying to ..."
-    publishedDateTime: 2023-07-21T14:48:00Z
-    webUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/"
-    ampWebUrl: "https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/amp/"
+  - title: "Google And OpenAI Plan Technology To Track AI-Generated Content"
+    excerpt: "Digital watermarking can be used to identify and track content produced by generative AI. Google and OpenAI have announced plans to use it in their AI offerings."
+    publishedDateTime: 2023-07-22T16:06:00Z
+    webUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billrosenblatt/2023/07/22/google-and-openai-plan-technology-to-track-ai-generated-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bbf97bfbcb7d6e78d98952/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI scuttles AI-written text detector over ‘low rate of accuracy’"
+    excerpt: "Many perhaps unwisely relied on the tool to catch low-effort cheats, but OpenAI has retired it over its widely noted \"low rate of accuracy.\""
+    publishedDateTime: 2023-07-25T17:38:00Z
+    webUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/"
+    ampWebUrl: "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/07/ezgif-5-6ff96dc0cd-transformed.png?resize=1200,650"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-183374100.jpg?resize=1200,805"
         width: 1200
-        height: 650
+        height: 805
         isCached: true
-  - title: "Gene therapy: Hopes, hurdles and AI"
-    excerpt: "Peter Marks, director of the FDA’s Center for Biologics Evaluation and Research, said AI could be a “game changer” in helping manufacture complex treatments."
-    publishedDateTime: 2023-07-21T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-pulse/2023/07/21/gene-therapy-hopes-hurdles-and-ai-00107489"
+  - title: "OpenAI, Google will watermark AI-generated content to hinder deepfakes, misinfo"
+    excerpt: "Seven companies—including OpenAI, Microsoft, Google, Meta, Amazon, Anthropic, and Inflection— have committed to developing tech to clearly watermark AI-generated content. That will help make it safer to share AI-generated text, video, audio, and images without misleading others about the authenticity of that content, the Biden administration hopes."
+    publishedDateTime: 2023-07-21T17:10:00Z
+    webUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/"
+    ampWebUrl: "https://arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/07/openai-google-will-watermark-ai-generated-content-to-hinder-deepfakes-misinfo/amp/"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 54
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1500220073-800x574.jpg"
+        width: 800
+        height: 574
+        isCached: true
+  - title: "OpenAI Quietly Shuts Down AI Text-Detection Tool Over Inaccuracies"
+    excerpt: "The tool helped distinguish between human- and AI-generated text, but is 'no longer available due to its low rate of accuracy.' OpenAI plans to bring back a better version."
+    publishedDateTime: 2023-07-25T15:56:00Z
+    webUrl: "https://www.pcmag.com/news/openai-quietly-shuts-down-ai-text-detection-tool-over-inaccuracies"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04G9X5qN41Ob8jrBRpXgvKS-1.fit_lim.size_1200x630.v1690299616.jpg"
         width: 1120
-        height: 629
+        height: 630
         isCached: true
-  - title: "Wayfair takes the generative AI route to interior decoration"
-    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
-    publishedDateTime: 2023-07-26T02:31:00Z
-    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+  - title: "OpenAI can’t tell if something was written by AI after all"
+    excerpt: "OpenAI shuttered a tool that was supposed to tell human writing from AI due to a low accuracy rate. In an (updated) blog, OpenAI said it decided to end its AI classifier as of July 20th. “We are working to incorporate feedback and are currently researching more effective provenance techniques for text,"
+    publishedDateTime: 2023-07-25T21:30:00Z
+    webUrl: "https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 37
+      name: The Verge
+      domain: theverge.com
+    quality: 67
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "What the viral AI-generated ‘Barbenheimer’ trailer says about generative AI hype | The AI Beat"
-    excerpt: "Here are three things a viral AI-generated 'Barbenheimer' trailer says about the state of generative AI right now:"
-    publishedDateTime: 2023-07-24T19:38:00Z
-    webUrl: "https://venturebeat.com/ai/what-the-viral-ai-generated-barbenheimer-trailer-says-about-generative-ai-hype-the-ai-beat/"
+  - title: "OpenAI, Google and More Agree to White House List of Eight AI Safety Assurances"
+    excerpt: "Assurances include watermarking, reporting about capabilities and risks, investing in safeguards to prevent bias and more."
+    publishedDateTime: 2023-07-24T22:19:00Z
+    webUrl: "https://www.techrepublic.com/article/openai-google-white-house-ai-safety-regulations/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 65
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/tr72423-white-house.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
+    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 45
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "How is generative AI relevant to telecom operators?"
+    excerpt: "Generative AI is emerging as a vital tool operators can leverage to make sense of the data they have and improve operational efficiency."
+    publishedDateTime: 2023-07-24T14:42:00Z
+    webUrl: "https://www.rcrwireless.com/20230724/5g/how-is-generative-ai-relevant-to-telecom-operators"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 41
+    images:
+      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
+        width: 696
+        height: 382
+        isCached: true
+  - title: "Be prepared for AI technology, PH urged"
+    excerpt: "A CONGRESSMAN on Sunday urged the country's policymakers, including lawmakers and the executive branch, to develop governance and ethics guidelines for the use, development and implementation of a national artificial intelligence (AI) strategy."
+    publishedDateTime: 2023-07-23T16:36:00Z
+    webUrl: "https://www.manilatimes.net/2023/07/24/news/national/be-prepared-for-ai-technology-ph-urged/1902068"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/07/23/220095.jpg"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "ZTWincDEPuNM/uvAdrnOVIOSm6kORQnzgodR3xLn42gqrrIiT/rHsOkAHP+KOvXgzUAUcra1uSVKvBTvHot1cmK1HvMPSt7SKl9xfxIgYCNLINzM4DnZ3xMgEyyCHhU7GOxF1yYN+sXqYJbS1q1hhq4PV+pk9t3QumLI4poSgDciE35wcP/lq24BPf7WYvr5I9wWOLSLlAO3mi5/CGAVLTkggHvSHKG2pUcjttMkTjM2PwagdMxFmLu9Ydq3qs0M3e0L1T5haCn6r9+U4Iqt5ntgRRRUXnRBDQSshFHhxK+dNfv3JbhN6Bt446BTRzwrnC61Xfwlbc4//Pq30CAgpitQqoIz00ZnxHeyv7fU7ZJzRdDb3DI2vznJdmRS3km0ucdLXKVOK6uCqC8I+A33kkyGOsSgAjQoTqUxnAhqRwEmzsz0K8KtHX+Fr2T3EVPbHVU1ynQifEsZBbKbPi5vdR6ldiEkAOxnZonXtxTePbUFZnH6i21CCxpY/2OvE0BQjnKLj5m/U5HnQpJPfCNRwg==;REOpGXSKkiUfD4t+2kxqSg=="
 ---

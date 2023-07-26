@@ -3,15 +3,19 @@ category: news
 title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
 excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014."
 publishedDateTime: 2023-07-17T16:53:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-66166236?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236.amp"
+originalUrl: "https://www.bbc.com/news/technology-66166236"
+webUrl: "https://www.bbc.com/news/technology-66166236"
+ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
@@ -23,6 +27,6 @@ images:
     height: 576
     isCached: true
 
-secured: "RsxY4eFwJwtcOBUNoMl9gKgFKqV2YPwpa9OyfJTH5ijJZy0EG/hGIa+ULGQIIE9K4qzBlbuyIJdp/S90qIEkTy2gfwd9roV5TiD8d5coiGHK/IMZ3K3bYHLt15oEhLQed+QDIzWZf14Kk0MCcrTx832pQSo57k1TgzPDEO2AuMrghflPLOMzaEZqjJ0q/CqTWJowGbp/+jZ7EHViXDJVcKL1t5M6tOAmyoVrNl/SJZtgXFpiRYO57DHur84Jl8qWgEGL1egcXEz0g92AdZU1iE91SOotpTM0oEfTPM+xRp2/iJ26NUqRaZPGnJpof8VVzwYQWprZ4CnaOZiNHO90xUYT/8Onjw3xZAfwjoNNd5c=;QVIzxx+4PrNMSXwASQgT7Q=="
+secured: "T3vygBY5W3JYMtwEHjqKR4v8NUBwxFcMcgGBlBpMns+rBTzQgEzsxwRMZzU5O2DuGNm0nknvDdZJka07exC7sHb0IkCUdJHvS+oiOoeBfqpCY+FgfcdARBMhLkhbsn+6nBCGp9aezN5cHPAKecKsbhEi2fpOuRjhcvBr/GUwMd3QiZzTKK3Oxf4qCGSuly8WEU2G2uEpUbsTgJPtjZbSbA9oPMpbLeOrru9zQx7bA+UQiedewSp4bjbTMoOV/VtQkRAHs/hREG/jK7gUw1uHBkSLqA+FMlzWG+gxIgo6hUtYnklBNQourIiJ3716pwvxPw99qhRK+FntxBt9atlp01M0q9JtPFLsrRZOJLC9L9s=;rUt/YXRDLo0r7XgNOW/ulg=="
 ---
 

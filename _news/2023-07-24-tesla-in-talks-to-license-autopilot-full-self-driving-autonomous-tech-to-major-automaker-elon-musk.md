@@ -85,20 +85,6 @@ related:
         isCached: true
   - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
     excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
-    publishedDateTime: 2023-07-21T14:30:00Z
-    webUrl: "https://jalopnik.com/elon-musk-still-thinks-self-driving-can-save-tesla-1850661640"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2ae6341ce8ae9065edf978925dc54db.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
-    excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
     publishedDateTime: 2023-07-25T01:30:00Z
     webUrl: "https://gizmodo.com.au/2023/07/elon-musk-still-thinks-self-driving-can-save-tesla/"
     type: article

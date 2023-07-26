@@ -258,6 +258,20 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "Microsoft Ramps Up Spending to Meet AI Demand as Quarterly Revenue Rises to $56.2 Billion"
+    excerpt: "Microsoft has started integrating AI functionality across its products such as Azure, Microsoft 365, GitHub and several developer tools."
+    publishedDateTime: 2023-07-26T05:16:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/microsoft-spending-plan-artificial-intelligence-ai-demand-quarterly-revenue-usd-56-2-billion-4240537"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 45
+    images:
+      - url: "https://i.gadgets360cdn.com/large/microsoft_hq_image_reuters_1655369562165.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google, Amazon, Microsoft, Meta other tech firms agree to AI safeguards set by White House"
     excerpt: "The tech giants, along with ChatGPT-maker OpenAI and others, are said to have committed to independent security testing to guard against major risks."
     publishedDateTime: 2023-07-21T15:17:00Z
@@ -332,15 +346,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
-    excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
-    publishedDateTime: 2023-07-21T14:06:00Z
-    webUrl: "https://thedailyrecord.com/2023/07/21/amazon-google-meta-microsoft-others-agree-to-ai-safeguards-set-by-white-house/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 31
   - title: "Big Tech Earnings Preview: Microsoft, Google Lead AI Hype For 'Magnificent Seven'"
     excerpt: "The so-called 'Magnificent Seven' big tech stocks have powered much of the Nasdaq's 2023 rally, largely on the back of AI hype. Now it's time to get real."
     publishedDateTime: 2023-07-24T15:27:00Z

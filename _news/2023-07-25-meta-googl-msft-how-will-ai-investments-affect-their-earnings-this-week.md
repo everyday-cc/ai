@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 818
         isCached: true
+  - title: "Strong cloud growth driven by AI workloads boosts Alphabet’s stock"
+    excerpt: "Shares of Google LLC’s parent company Alphabet Inc. gained more than 5% in extended trading today as the company delivered more than $8 billion in cloud revenue for the first time."
+    publishedDateTime: 2023-07-26T03:59:00Z
+    webUrl: "https://siliconangle.com/2023/07/25/strong-cloud-growth-driven-ai-workloads-boosts-alphabets-stock/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/google-1-1.png"
+        width: 718
+        height: 400
+        isCached: true
 
 secured: "vnJ6hxN7ps8L+LXBFB5CuPgZMtkOgFx42gI+zbdRtXCMyoFQl63aqcd+K72O5asHpiha65mwBum2Jdv1ZC8FkFtoisv+F6TRteu59YyL342Ux1kXn/z8lMedc7JJX2IaAlZDBFyZTZYk/ainLkx9vE5Cqsp0pTZA6Z+4Ew6Ia9d82FVcbykyTmONdy4iH+S++qwQRF83ovdAkWBTY9q5oHhZbyO1Y9kIMV6AcayITG9zU4LqQGcxGcIU5SvlPpPhlI7itcOeg5NMg0iycwFw32SkGup7vpm6ATbfWLKM9C9rIR1MKneq0bykRo1a6kSecwU99UGdpUyRUVxLtlb/rcge02eMkMokw4q2OxP3ji8=;kf5Nr+N7IYznPI4lee5BWg=="
 ---

@@ -24,6 +24,24 @@ images:
     height: 573
     isCached: true
 
+related:
+  - title: "Alphabet shares set to open higher after Google’s search business beats competition"
+    excerpt: "Google's search product continues to dominate despite new competitive threats from Microsoft Corp. and OpenAI."
+    publishedDateTime: 2023-07-26T06:45:00Z
+    webUrl: "https://www.financialexpress.com/business/investing-abroad-alphabet-shares-set-to-open-higher-after-googles-search-business-beats-competetion-3187513/"
+    ampWebUrl: "https://www.financialexpress.com/business/investing-abroad-alphabet-shares-set-to-open-higher-after-googles-search-business-beats-competetion-3187513/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-alphabet-shares-set-to-open-higher-after-googles-search-business-beats-competetion-3187513/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 38
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/19-5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "erYvne4rCVXDRME8RisdXtt1eYRhJruQhnKxoFBUqnas7cfP+4tzU4GMt0dDUR15hH63dxwM6j5Fdsshd4csxUSNT68/Sow3GxvQo5YstRZhrDn09FG8X7Lqa6Qj9KAyn+5o4ivN6kB6SgiEaO/ZvR4NZtH1GpyGXXoQmigOsOUZkmEYF1w2v9MKa4Ipk6i4pEHKK3/1lmepSycCJFQC++/syhwgdw3ct7ABfYlh1UIf75BrkWXY/+8tnt/g28YkYZF0hSCi3KRUyPqXR3+JPzmaBEc+ho0mkuH7FOpks2Io1wIczJDFSUkNFy8/mweKoe9ennkfgsZJO9PxoOF8WiWA47kHNR2dhW7BcwZXO52In4vzq4FnDKpSCMJodfkMga8H7l0xXOCs/rTaV/Sx3GON/aaVT57h0Bj6CVJCZI5wq1QnUg7Xv3u6/fNZ+STGCQQqQCp6HYMWYKQ9uQ0YX+fOf1hcu2/JZRL+ljAppp64lapW7K40ZCka+PY/k5ydnC41oPilz2WUs1nLLvwNvQ==;vvSYdzUFPsdvkwVK0SgKyg=="
 ---
 

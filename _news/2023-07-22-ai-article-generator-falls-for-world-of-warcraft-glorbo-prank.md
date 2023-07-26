@@ -38,20 +38,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Redditors troll an AI content farm into covering a fake 'WoW' feature"
-    excerpt: "Redditors tricked a website that apparently uses AI to generate blog posts into covering a fake World of Warcraft feature.."
-    publishedDateTime: 2023-07-21T15:02:00Z
-    webUrl: "https://www.engadget.com/redditors-troll-an-ai-content-farm-into-covering-a-fake-wow-feature-145006066.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/Kxmmevh368evqQEkExO3Ow--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/2634f960-27d4-11ee-b8f5-5f6760eb48fc.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Reddit tricks an AI into writing an article about a fake World of Warcraft character"
     excerpt: "On July 20, Reddit user kaefer_kriegerin made a text post expressing their excitement over the impending arrival of a new WoW player named Glorbo. Glorbo is not real, and the author made their aim for creating him clear, writing at the top of the post, \"I just really want some major bot operated news websites to publish an article about this.\""
     publishedDateTime: 2023-07-21T20:53:00Z

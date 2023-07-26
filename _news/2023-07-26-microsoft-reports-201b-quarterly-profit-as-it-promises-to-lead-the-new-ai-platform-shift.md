@@ -1,29 +1,24 @@
 ---
 category: news
-title: "Microsoft reports $20.1B quarterly profit as it promises to lead “the new AI platform shift”"
-excerpt: "Microsoft on Tuesday reported fiscal fourth-quarter profit of $20.1 billion, or $2.69 per share, beating analyst expectations for $2.55 per share."
-publishedDateTime: 2023-07-25T20:15:00Z
-originalUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
-webUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
+title: "Microsoft reports $20.1B quarterly profit as it promises to lead ‘the new AI platform shift’"
+excerpt: "Microsoft reported a 20% spike in quarterly profits Tuesday, helping to fuel its battle to get ahead of rivals like Google, Amazon and Facebook parent Meta in selling the latest artificial intelligence technology."
+publishedDateTime: 2023-07-25T20:30:00Z
+originalUrl: "https://www.seattletimes.com/business/microsoft/microsoft-reports-20-1b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift/"
+webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-reports-20-1b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift/"
+ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-reports-20-1b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-reports-20-1b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift/?amp=1"
 type: article
-quality: 45
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
   - Microsoft AI
-  - Facebook AI
-
-images:
-  - url: "https://dims.apnews.com/dims4/default/e689315/2147483647/strip/true/crop/5746x3232+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2F0a%2Feb2e787a786196238fff24045b93%2Fd06df0f9eae04dd183aabbaaef444388"
-    width: 1440
-    height: 810
-    isCached: true
 
 related:
   - title: "Microsoft reports $20.1 billion quarterly profit as it promises to lead 'the new AI platform shift'"
@@ -43,6 +38,6 @@ related:
         height: 720
         isCached: true
 
-secured: "A+7emho0Abtd8OjjOKxSffV1AI/W72sSoXduMBrJvE4kHPzbOQklISo9ip5VoQz8Mh1rtoIGK05e9Lpa/owwbQhxkiYopHL/RxChTZtea0pfDcHGeM35Z6LsZKkbRmyopMQ5vE3x6YASGE72kw2cqSa459qqoRuXhN7i2GQG7ZvFnBrEJlUIg13MG7on6Q88/cf5I2RILFj8hE1kQVdbOLaihWp5pKRVjGtnKJpgAVE+wkIh0dMirgAm1pLnlCuGz5hoSrbehZgptgFAd+jcazrNweH7jxlyDV5G3GVNHR21ej28pKcxyXa7AhbfuAA3MyLXuveiIy6CNx5zfebameZei735aVFXUQFSQclbbtT+SxYF4av3NvY0BBjasLDOgiBTxhjGrnfCW8rHZu08vvGDXUGnzrNc8wf5nQl2bImjwljSzj7oKnzjFdVlj11YQr0VDyUYfK692Wc3dZnqWAc3tJuNZqWcBo0anvbZTVQp99U3iP3hToRWLIIA8uOrU5SbZjCp9zw71I3N3D6+Fw==;2uzncLEDydxDihpbTYvScg=="
+secured: "U5l80Oy/DN+4oGE1431FiF/qwiOnWRRJFWCih8qiL1itGivSDCoGOfy9ZGFsU1Zts9a2oC2oaHJcLujSN6fz7IUUS86iC1i7/++MEkJe4qEcCRV1Q5SvQowLo6VlHxalDrtzbdsRIzaUSTf9Ha0l1aYyCRLgg0vthxd0Mx/8n3K3GQSVCSVlV86kt8UTuSLGxPB/0WBDj1aFVzmLB96DXrDhUz7QXRsKEV1+2cVbl93exkFPAlkAwxsecE1J7AKqsmHMwhnXvpwEqR33tjCUaft/TavFRIJPX6iZijMU1mLOqumS2ndhLsa7wTJHUdMeCLH5FogSvquSwRaRvSyzCwg9VdLBVQreob2sriiQiXD/cgCmxz4sFnRhvnodC+QUWyv6XXwIYG0NS6Wc37Nd1LwV0cPP3gJ9Q2gKbhf80BYwUhQEjdH5OCQsXr/Jx6/IjIVs8KEDIpbQbbpU8ETeTp6mUsJ2IXqK0mtFaviJbCBMO1Ntd2juYL739A0zx0xRS0zlproiDthdZcyoFC5GRA==;esKSSRiQeta76JpAFJ0sGg=="
 ---
 

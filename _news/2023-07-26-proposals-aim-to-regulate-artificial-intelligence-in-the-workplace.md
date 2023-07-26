@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Proposals aim to regulate artificial intelligence in the workplace"
-excerpt: "WASHINGTON, D.C. — As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace. A new proposal dubbed the No Robot Bosses Act aims to protect employees from being fired or having hiring decisions solely made by an automated system."
-publishedDateTime: 2023-07-26T00:44:00Z
-originalUrl: "https://www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/"
-webUrl: "https://www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/"
-ampWebUrl: "https://www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/?outputType=amp"
-cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/LPZKQJCMQRE4XG4H6O5ATABQTM/?outputType=amp"
+excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
+publishedDateTime: 2023-07-26T04:43:00Z
+originalUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
+webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
+ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
+cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: WFTV
-  domain: wftv.com
+  name: WOKV
+  domain: wokv.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/t9dCsco1nA-3MY1MYaf9jIw2g8c=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/Q4NAEE3OBFCJNG6MZ5ZOOL4VKE.png"
+  - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -62,6 +62,6 @@ related:
       domain: axios.com
     quality: 19
 
-secured: "TI6O65tcIof6qF8EqPF/FDMVkLhn6qtyvEy9fcqq7oyBBJi1nM7Q3kJXhQp7WkOK41fvEoW9PvQ4rMf0J6QNH6ZWyCOrbztizKgsHvrmqt86/b2ezIi7MyH3hUwoafODHzLJ8+572Futs39cMSx2maJ/Vd4NlSeVJkis477JgxaLdUHVrCywMLJjOPG2mDcLiPf4pnRh++zhbc9q3wFhjpy2WA7IngTPj8Vtf3i2u428ANHE1LKtKOm/drkQtTiHye81g2pC2WBmsR/a3HoPVAAUUYV0XeGt5xAxBajE6lfzHftTEqjBdgcGQ6ab5VKiVV9vXI+G1R1nAXW0YimdTUknyXEmmoqQrtBBAgNQY10=;vJLVGpqLrz+udlne2ZC1XA=="
+secured: "XDAUfX6Tgjyvrqy+VfZgwqr98SoghGz3dUFbfMY5k70ZZL1Hrik+fNa849oM5A3BuxjshEp4qIIajNATln203Opx8L/13I23jRa5qQXwgA60tl54ox/nXGk6QoAjhRna7AWkiN+XwVjMKvdsO3CjhJzlKcVZdLJTDuX0lKNTLeWEhYzMgdwCBqADf0tyqkPSnKO7Iv+3daWnVpSkJCFTcDyM455Q5i7ekMPTRM2/0qG4E11A08zrUz6Mu2iovZUu9pr6s+bi0/VFBb1B/p4/L6Fx3hudk1Vt2GnH4FAZJD32nyrdA+moGHdSiM/P+Hst2KFsYkYGk9sBcCImuweCMwt92VnoiYFUP4X9WtW8+eI=;ZzcXnuZ3HmLky9Snjw5YNQ=="
 ---
 

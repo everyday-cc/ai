@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/opinion/congress-blog/technology/4108214-before-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/congress-blog/technology/4108214-before-congress-acts-on-ai-it-should-fully-understand-existing-legislation/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Hill
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Demands Bipartisan Action From Congress"
-    excerpt: "Bipartisan action is needed to address our nation’s greatest challenges, from infrastructure to strategic competition with China. Issues of this magnitude are too vital to our nation’s fut"
-    publishedDateTime: 2023-07-24T23:54:00Z
-    webUrl: "https://www.realclearscience.com/articles/2023/07/25/artificial_intelligence_demands_bipartisan_action_from_congress_968309.html#!"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 17
   - title: "Congress, Palace should tackle creation of agency overseeing AI use — lawmaker"
     excerpt: "A lawmaker urges Congress and the Palace to tackle the creation of an agency that will oversee the use of artificial intelligence."
     publishedDateTime: 2023-07-23T04:58:00Z

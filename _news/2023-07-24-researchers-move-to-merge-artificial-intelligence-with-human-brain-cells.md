@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Will Deliver $115 Billion More to the Australian Economy, But Are Tech Pros Ready?"
+    excerpt: "AI promises to be a massive boost to the Australian economy, but it will also disrupt the jobs of many. What can tech professionals do to stay ahead?"
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.techrepublic.com/article/preparing-for-ai-in-australian-business-processes/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 60
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/01/iris-tech-web-ai-010523-tr.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "A Research Team Plans to Merge AI with Human Brain Cells"
     excerpt: "A group of researchers in Australia have been awarded just over $400,000 (USD) in government funding to study the possibilities of merging AI with human brain cells, a research project likely to bring a number of AI-related ethical and existential questions to the fore."
     publishedDateTime: 2023-07-24T14:57:00Z

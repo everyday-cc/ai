@@ -3,8 +3,8 @@ category: news
 title: "Alphabet stocks rise after second-quarter profits exceed expectations"
 excerpt: "The sunny report establishes a continued rebound for the tech company after a difficult 2022 and thousands of job cuts"
 publishedDateTime: 2023-07-25T21:39:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock"
+webUrl: "https://www.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/25/alphabet-google-q2-earnings-report-stock"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 413
     isCached: true
 
-secured: "7vqXNk8QBjrjfPZfXzgVBoLZanjtaZ2iD4N3zljIUtgaZksvusk7REPskdaW1NyLcsHdaynVZcjsmEI4Cp7ClCSEMnNpn+a0Ff8b7HskW0NULAEDqeHy8rANjnl/s5WOpXFeGCa8zvXl4gwSsJEYVF/tfhNXrFlq7DV+QgXaetaBd3jdqum4DvyUkqSyBHn9W44mO89rJQ0DpefGh8BVRJ5wZkVcViFiRTAIhTrV6p3OskzgCNwPdaQFoPq1j8PC3vfHwfdBgXhhX1CITmPEXc5/HqxeKpMOc1nT2PIt0IGGNrf3fJsD633DDlKtinKHPppbK01IqdXNb+0CxdSDcccDAQGqdBSK1/EFSCO/uBedo223h1M75uzNe/zutW83fDfpPt7DuvYym6cLqS23QX+is7DcceNaMnq/ROdMrEwvoo6ocoWLiI6XKC4Jqx/OQx3XA9CQkC1RdLTqTZ0yT6EE3Y+7Uivwv7WZdR10YIt5l5zLjv/86nsxtr2uZ67utwbThC+q6V5y6Kmili2tKg==;4Z8Y9plEHyzxf26ZXNBHDg=="
+secured: "FdReB1DkXsXyw1oQQ/0MP0zfeTW/AaMF3aOyfenVdwXwZgk9wKjCz1JhG/nGfz9Vc0r+UETIrkniWqbP8CtODg0qo92Rn9Z9Qktx9e8iCLKOTF5JXjFFX1K/KSCMz7OAHZ5g1j7+KkDNDn1onwZkx2NxO5nuEZUA+ptLG2VM0MdS+UawBdlMIr0HCshVa6ZnnzHreBRz3qxZtEMSAWsQnO0isVXhAqY1QhbgOHx7Ig0azQ9HUl+Ft9ruC28OvIwBUsFQeli2JWvnfy09kBq6h4ShY70DMzZ4JcmW9xFoD1KANtPxDnARSDuEqYqZpe2TZX4cswUb9DdclWKcCk+euFAt1TGap/gzsUkGQmxEMPk=;DHcTY8V+wwsgh08vo+Cd+w=="
 ---
 

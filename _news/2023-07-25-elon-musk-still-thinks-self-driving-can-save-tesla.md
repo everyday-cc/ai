@@ -83,20 +83,6 @@ related:
         width: 750
         height: 395
         isCached: true
-  - title: "Elon Musk Still Thinks Self-Driving Can Save Tesla"
-    excerpt: "The EV automaker's margins are tighter than they've been in years, but the billionaire CEO is still looking to the future... whenever that may be."
-    publishedDateTime: 2023-07-21T14:30:00Z
-    webUrl: "https://jalopnik.com/elon-musk-still-thinks-self-driving-can-save-tesla-1850661640"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a2ae6341ce8ae9065edf978925dc54db.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
     excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
     publishedDateTime: 2023-07-24T11:04:00Z

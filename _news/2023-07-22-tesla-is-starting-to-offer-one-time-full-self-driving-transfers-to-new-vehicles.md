@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla Will Let You Transfer $15k Full Self-Driving To A New Car, But There’s A Catch"
-    excerpt: "Tesla is finally allowing owners to transfer their FSD package to a new car, but the offer is only valid for new orders placed in the third quarter, and owners must trade in their old vehicle to Tesla"
-    publishedDateTime: 2023-07-21T13:32:00Z
-    webUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/"
-    ampWebUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla-FSD.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "AsCePp5jg9Zvc+e3L1K5C94Y9Pom9DzgMCzItDtmaEr5hG62ohE4pBbENF5gOIKh8kK2ejsYFbrS9C9DMDmdvbN0EYVIqeg2wVVfguOhw3uCwjLu/Pz5pEQk2BFJ4undPzunsBhKqS3VtpBh7A7/P0Rq0ahGenV5u20jSggMRdc19fc2pkdYIfdU5AAHi/Pftkt/5lM5YWCn8cDDhGGORU+Y/+X/dptMNn2L//0sw9ZSiLpP+XFrpQJsCYYKYMXjSjjpGTgHsPEg816Rt4fIRCBKqVUcR/IshmqKteaLIp0+/82UcUjNT8wHeF980+Ze9IhinLus8aOxoOyU7vjT/OBiB7VmU+j7yYIPgt5Z+KU2wLlep/1nWximi0uCibse16xzkqaFeef1FiDrF0PP9g6wOU59zG/JhaArBffJiW+WgqCUe9h0Wq/3ppVclrt9G3sAdwkMdsdaAyxDWU9Ei8XIJALt6xLrlimNHMHdnpsugloZSXk6V+1yNfyr+ym1xU3j7xHDN6NZ5RuRgQdZVg==;C2hnGlLDmZ86RrVWctaIUg=="
 ---
