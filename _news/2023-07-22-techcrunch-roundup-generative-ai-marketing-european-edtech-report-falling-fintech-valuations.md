@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 191
 published: true
 
 provider:
@@ -60,6 +60,34 @@ related:
       - url: "https://www.castanet.net/content/2023/7/millard_072423_p3706387.jpg"
         width: 640
         height: 426
+        isCached: true
+  - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
+    excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
+    publishedDateTime: 2023-07-26T08:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97556/dubais-trigger-software-and-sigma-form-fintech-collaboration-pact"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "From customer profile to improving accuracy, fintech takes to AI"
+    excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
+    publishedDateTime: 2023-07-26T07:12:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-07/bd664f0b-8b35-4e19-b3d2-4b103faf5879/Santosh_Bipin_blog_pic.jpg?w=700"
+        width: 700
+        height: 437
         isCached: true
   - title: "Egyptian Fintechs Team Up with Fintech Galaxy's Open Finance Platform to Tap into wider MENA Market"
     excerpt: "Fintech Galaxy, a regional central bank-regulated Open Finance platform, announces the onboarding of over 10 Egyptian"

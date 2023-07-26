@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-i
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/tsmc-to-invest-2point9-billion-in-advanced-chip-packaging-plant-in-taiwan.html"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%252Fimages%252F8%252F4%252F6%252F1%252F46281648-6-eng-GB%252FCropped-1690298249N%2520TSMC.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "TSMC to Build New $2.9B Chip Plant in Taiwan Amid Soaring AI Demand"
+    excerpt: "Taiwan Semiconductor Manufacturing Company (TSMC) is committing $2.9 billion to a new advanced chip packaging plant in Taiwan, aiming to capitalize on surging global demand for AI chips and to support major clients"
+    publishedDateTime: 2023-07-26T07:27:00Z
+    webUrl: "https://www.econotimes.com/TSMC-to-Build-New-Advanced-Chip-Packaging-Plant-in-Taiwan-Using-29B-Investment-1660060"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 54
+    images:
+      - url: "https://f1.econotimes.com/2023/07/e0jabsw7dk_th_1024x0.jpeg"
+        width: 1024
+        height: 674
         isCached: true
   - title: "TSMC to invest $2.88 billion in new AI chip plant"
     excerpt: "TSMC has said the new chip factory is scheduled to be completed by the end of 2026, with mass production expected to begin in 2027."

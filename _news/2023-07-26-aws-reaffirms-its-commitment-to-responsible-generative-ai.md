@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-co
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-reaffirms-its-commitment-to-responsible-generative-ai/"
 type: article
 quality: 104
-heat: 225
+heat: 224
 published: true
 
 provider:

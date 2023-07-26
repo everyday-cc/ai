@@ -86,22 +86,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI Is A Modest – But Important – Slice Of TSMC’s Business"
-    excerpt: "Given the exorbitant demand for compute and networking for running Ai workloads and the dominance of Taiwan Semiconductor Manufacturing Co in making the compute engine chips and providing the complex packaging for them,"
-    publishedDateTime: 2023-07-21T16:34:00Z
-    webUrl: "https://www.nextplatform.com/2023/07/21/ai-is-a-modest-but-important-slice-of-tsmcs-business/"
-    ampWebUrl: "https://www.nextplatform.com/2023/07/21/ai-is-a-modest-but-important-slice-of-tsmcs-business/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/07/21/ai-is-a-modest-but-important-slice-of-tsmcs-business/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/07/tsmc-q2-2023-rev-by-platform.jpg"
-        width: 662
-        height: 434
-        isCached: true
   - title: "How AI Is Changing The Face Of Careers As We Know It"
     excerpt: "Look into roles that are more strategic in nature. Join teams or organizations that are looking to give humans ways to combat the bot."
     publishedDateTime: 2023-07-24T12:30:00Z

@@ -71,6 +71,34 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Dubai's Trigger Software and Sigma form fintech collaboration pact"
+    excerpt: "Dubai’s Trigger Software agreed to work together with Sigma Software Group on projects in the digital banking space."
+    publishedDateTime: 2023-07-26T08:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97556/dubais-trigger-software-and-sigma-form-fintech-collaboration-pact"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "From customer profile to improving accuracy, fintech takes to AI"
+    excerpt: "AI-powered Indian fintech market is estimated to hit $1.3 trillion by 2025 with more startups bringing in more and more exciting suite of products."
+    publishedDateTime: 2023-07-26T07:12:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/from-customer-profile-to-improving-accuracy-fintech-takes-to-ai/113504"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/fortuneindia/2023-07/bd664f0b-8b35-4e19-b3d2-4b103faf5879/Santosh_Bipin_blog_pic.jpg?w=700"
+        width: 700
+        height: 437
+        isCached: true
   - title: "Roundtable Held On Advancing FinTech"
     excerpt: "The Bermuda Government’s Economic Development Department [EDD] led a roundtable discussion on June 27th that brought together industry stakeholders and DABA-licensed companies. A spokesperson said, “This strategic dialogue marks a critical step in the ongoing evolution of Bermuda’s FinTech ecosystem,"
     publishedDateTime: 2023-07-24T14:15:00Z

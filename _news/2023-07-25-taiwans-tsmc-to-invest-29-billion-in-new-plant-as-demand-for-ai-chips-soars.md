@@ -100,6 +100,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "TSMC to Build New $2.9B Chip Plant in Taiwan Amid Soaring AI Demand"
+    excerpt: "Taiwan Semiconductor Manufacturing Company (TSMC) is committing $2.9 billion to a new advanced chip packaging plant in Taiwan, aiming to capitalize on surging global demand for AI chips and to support major clients"
+    publishedDateTime: 2023-07-26T07:27:00Z
+    webUrl: "https://www.econotimes.com/TSMC-to-Build-New-Advanced-Chip-Packaging-Plant-in-Taiwan-Using-29B-Investment-1660060"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 54
+    images:
+      - url: "https://f1.econotimes.com/2023/07/e0jabsw7dk_th_1024x0.jpeg"
+        width: 1024
+        height: 674
+        isCached: true
   - title: "TSMC to invest $2.88 billion in new AI chip plant"
     excerpt: "TSMC has said the new chip factory is scheduled to be completed by the end of 2026, with mass production expected to begin in 2027."
     publishedDateTime: 2023-07-26T07:16:00Z

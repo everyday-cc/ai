@@ -63,7 +63,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -148,6 +148,51 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-researchers-move-to-merge-artificial-intelligence-with-human-brain-cells.md",
+      "title": "Researchers move to merge artificial intelligence with human brain cells",
+      "excerpt": "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png",
+          "width": 1500,
+          "height": 944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1379,49 +1424,6 @@
       "provider": {
         "name": "TechNode",
         "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-13-the-rise-of-the-terminators-ai-robots-claim-they-could-run-earth-better-than-clouded-humans.md",
-      "title": "The rise of the Terminators? AI robots claim they could run Earth better than 'clouded' humans",
-      "excerpt": "claims the event was vital to start using robotics for good. He believes that robots may have mainstream uses within just the next five years, taking off the same way as ChatGPT and other AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/07/11/13/73083559-0-image-a-41_1689078496351.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12286385/amp/The-rise-Terminators-AI-robots-claim-run-Earth-better-clouded-humans.html",
-      "publishedDateTime": "2023-07-12T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

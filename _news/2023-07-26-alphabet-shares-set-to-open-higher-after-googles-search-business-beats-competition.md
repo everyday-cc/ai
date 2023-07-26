@@ -41,7 +41,18 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
+    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to reshape the competitive landscape."
+    publishedDateTime: 2023-07-25T20:30:00Z
+    webUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+    ampWebUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 11
 
-secured: "FFKz9Pwbpv4N8WhqShFi2WqHZ1YrBKVvYRSMBRZB20wiuTU8bZIaXpAD7VjW8hBfUtQEBOgkLLP9j9CVNgZpJRIXPT/l+ULAXqpr6HANm7YbUIHDs2EiHSGSrXLYQZ4tYoB7koX2BRDF5cGhUC3QIcQOzAq04gF58Dy725pj44gblZURgQ/+5z2SgvzN0uqKErYzwzMAymj9Ru21f5SAP1KJCjLcrrwnfGKfvBr0Kv2Sh7t7esaM3VOJVo0tjLayGXJAOQp+3zTLl4tC8UYzg8AHBT2LJUPBDPlVoOfO7nlLtoZ52FyEPDbj+NlusIfkqvSXl3UR7nkAn+tIfuWZuUqjQekBzkAqM6gLZQ9f9aw=;qedo0ISf75Ogldm7/+cRNQ=="
+secured: "wkNHicLlEfXzADbxvRn0+Zt5FgEzJF30a2DKBD3Kz2YZ+JrtIsLcyYGV9I1O/aKLSyt4tkE2KYRhFyK00v5fgIINtlHZrliT4erQjQ1A77bt3q/oPDyFWgSvIOkMP4Btu//JLQOKLjGKFUrMb4IrZ0T1erkRwbU7JfA9nm0ySdgbGmGHroXwiagR479hfaasFgGQarMWrePPBdaI4A5WdtL6SIrEn0pxi4938pplLNlsH6W3e7LAKqtDUDzpvHg7UF0U8HDbw75F0agQ2Zs+YOe+Mp/Oi6N5FjAgh3Bi0IS2nVKDPoOdM7tIP00VdTvrcOhapRiVLgCGURLpkAlagDH72D07KI5QFFlnfpM6VgTbhGPurukr9zubRB3dYpcGeLTZsRhqjl4cADQatgu0Nh1QjqYBtxkN1JZfRs/SnT2muwfTHt99XVbBPzdISSog6ldJmzew/XPuUOf67m8y3nMuVVT6ThWxrS5vMGRkFLhIOF38EsV3DYtGY21z1JpgyS73EB+4XHT1Mv0PRnE/LQ==;nRNJt8c/B+/2RnURh5wF4A=="
 ---
 

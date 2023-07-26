@@ -2,6 +2,49 @@
   "page": 160,
   "value": [
     {
+      "path": "_news/2023-04-16-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
+      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
+      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
+          "width": 1314,
+          "height": 986,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-16-in-curious-move-elon-musk-quietly-preps-for-launch-of-openai-rival-shortly-after-calling-for-pause-in-ai-research.md",
       "title": "In Curious Move, Elon Musk Quietly Preps For Launch Of OpenAI Rival Shortly After Calling For Pause In AI Research",
       "excerpt": "Musk registered a company named X.AI in Nevada as a step to set up his own AI venture. The billionaire has secured thousands of high-powered GPU processors from Nvidia for the purpose, the ...",
@@ -1121,49 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-bloomberg-plans-to-integrate-gpt-style-ai-into-its-terminal.md",
-      "title": "Bloomberg plans to integrate GPT-style AI into its terminal",
-      "excerpt": "“So when that came out, we were like, ‘OK, this is going to change the way that we do NLP here.’” NLP stands for natural language processing, the part of machine learning that focuses on deriving meaning from words. The move also shows how the AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/bloomberg-plans-integrate-gpt-style-terminal-rcna79507?icid=recommended",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230413-bloomberg-terminal-mn-0920-7e7f57.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna79507",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna79507",
-      "publishedDateTime": "2023-04-14T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

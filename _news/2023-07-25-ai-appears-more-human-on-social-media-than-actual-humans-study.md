@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-appears-more-human-social-media-than
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-appears-more-human-social-media-than-actual-humans-study.amp"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

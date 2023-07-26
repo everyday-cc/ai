@@ -2,6 +2,49 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-06-09-do-self-driving-cars-have-a-future.md",
+      "title": "Do self-driving cars have a future?",
+      "excerpt": "The death of self-driving vehicles has been greatly exaggerated. That was the message of two experts, on the subjects of artificial intelligence and transportation, who recently weighed in on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
+      "originalUrl": "https://www.washingtonexaminer.com/news/transportation-self-driving-cars-future-artificial-intelligence-san-jose-california",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/e324a99/2147483647/strip/true/crop/2290x1202+0+64/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F6f%2F4c%2F68ffaf6548d1a4b90bb7a4ab031b%2Fselfdrivingcars.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-08T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-09-picture-perfect-the-hidden-consequences-of-ai-beauty-filters.md",
       "title": "Picture Perfect: The Hidden Consequences Of AI Beauty Filters",
       "excerpt": "AI beauty filters can provide a quick fix for the perfect selfie, but at what cost? Uncover the potential dangers and pitfalls of these popular digital tools.",
@@ -1153,49 +1196,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-09-qualcomm-may-be-a-hidden-ai-winner-says-analyst-smartphone-chips-are-why.md",
-      "title": "Qualcomm May Be a Hidden AI Winner, Says Analyst. Smartphone Chips Are Why.",
-      "excerpt": "TD Cowen analyst Matthew Ramsay says chips within phones, such as those the company makes, could handle some of the processing for AI queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "originalUrl": "https://www.barrons.com/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-796661/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/qualcomm-stock-ai-chips-winner-6e854ae5",
-      "publishedDateTime": "2023-06-08T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

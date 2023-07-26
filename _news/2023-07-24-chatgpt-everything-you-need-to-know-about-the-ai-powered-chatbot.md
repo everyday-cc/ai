@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 91
-heat: 313
+heat: 301
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/07/Untitled-design-2023-07-24T202815.523.png"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Calling out ChatGPT's wonky artificial intelligence grammar"
-    excerpt: "Is it possible to defame a robot? Common sense says not, but since when did that prevail over the ass that is law."
-    publishedDateTime: 2023-07-21T17:01:00Z
-    webUrl: "https://www.stuff.co.nz/taranaki-daily-news/news/300931786/calling-out-chatgpts-wonky-artificial-intelligence-grammar"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/5/5/b/8/image.related.StuffLandscapeSixteenByNine.1420x800.4z60ga.png/1689817737569.jpg"
-        width: 1420
-        height: 798
         isCached: true
   - title: "Meta’s Llama 2 Challenges OpenAI’s ChatGPT: A New Era in AI Development"
     excerpt: "In an intriguing turn of events, Meta has decided to open-source its large language model, Llama 2. This strategic decision not only positions Meta as a direct competitor to OpenAI's ChatGPT but also democratizes access to advanced AI tools."

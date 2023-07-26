@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-06-27-announcing-the-fintech-stage-agenda-at-techcrunch-disrupt.md",
+      "title": "Announcing the Fintech Stage agenda at TechCrunch Disrupt",
+      "excerpt": "Building a fintech startup isn’t an easy task ... their web3 strategies as other VCs look to other horizons (ahem, AI). Arianna Simpson is a general partner deploying capital for a16z’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/27/announcing-the-fintech-stage-agenda-at-techcrunch-disrupt/",
+      "originalUrl": "https://techcrunch.com/2023/06/27/announcing-the-fintech-stage-agenda-at-techcrunch-disrupt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-higher-education-plays-a-big-role-in-preparing-graduates-for-an-ai-led-economy.md",
       "title": "Higher education plays a big role in preparing graduates for an AI-led economy",
       "excerpt": "A career development expert at the best college for entrepreneurship shares how higher education institutions should prepare their students for the future of work.",
@@ -1108,57 +1151,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-27-obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking.md",
-      "title": "Obsbot’s New Tiny 2 Webcam Has A 4K Sensor And AI-Powered Tracking",
-      "excerpt": "If your laptop's webcam is spoiling your public image, this clever AI-powered Obsbot Tiny 2 webcam is a great upgrade and offers 4K resolution and subject tracking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6496c94fb99540d4135d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/06/27/obsbots-new-tiny-2-webcam-has-a-4k-sensor-and-ai-powered-tracking/amp/",
-      "publishedDateTime": "2023-06-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

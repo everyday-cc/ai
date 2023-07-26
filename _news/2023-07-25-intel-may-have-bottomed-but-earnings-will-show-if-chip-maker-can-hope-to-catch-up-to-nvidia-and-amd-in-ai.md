@@ -3,8 +3,8 @@ category: news
 title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to Nvidia and AMD in AI"
 excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
 publishedDateTime: 2023-07-24T21:24:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
-webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
+originalUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94?-cfp"
+webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94?-cfp"
 ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
 type: article
@@ -82,6 +82,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "BXjwwpgmsbYXwogWSQFPdYG4a09ND+yuB0qKdbAUi3zJlivizJc1/m9f79EvT1GNLTjBDkT2T0jFk5bjMI2Q4G1O7ZxTmDN+FLLLzSq3N/yEHDkRq3d8GXvfaJSKKbnTqBdIVl+rnCTXHoMJjlsx1kt+Mho+DUAlca5bl1Aq0El5WuknpeTV9gdA1nk35rfG9+OrRTNAbFqQ1NCp74RqjRHcyh50IBi0EwMR8NUK5J7dt241TNXs1HUGopnwlo7OMBZjRr9wsPYoW11em/O4mlfFVW9yRu6j+GVSGvlcCKkR+AnXHR3BOzZmZIlCAFkG+IFjYbUPMFUP6RVTl0/dpazzUyn9B67PCpsypl28nSBX25+7ovjn9p3AH+NpnC0RyltpZUGUu+ROHYXzm39CGeSyrziGEx6h8Zl6Wewpg/8So5vlcViXizL+bsd/cHnHFNq6uModLRKiFHasBBlWrP1R31rg0s1bDOZYo9xKFoagDhunF0bl+DX6LiC9/Y95v4MlqDyzYuetyFtt7ANVyQ==;rabsvhEGkz6w8CbRvARRrw=="
+secured: "VZlZxGGpI9LUpHHltphig8BQiDJwgxlCj57ilTaf0Oa7eA4AFXQRXdwAwMc3g4L0iioMdh/ewnBgQodKgalRVY5NDls2cZ3kangwTkC9TLyvgnRsBnA2hVM8M7R5H20TOS5mv1tVFEwyPRnBLVG/jZq030msN0SXEEc2K6HCqXPzY7EJ/ACJ47TJGwTcRgL2WE5AdfDgNkez/CSPiM/WzZb7LaUagyTO6tXh8nAwXygjFC1uH8Zyv83F2/GAbNPxEXc7fGL9DLdccSbEBY2LX06oal/rCynuic0yQWc8zTTmIirEhGWPxVKxLKT1n6alSLnahAwgpaQTpKlppmNxkiQaQ+3YG99cb98oyCYybiM=;pzMJ9Yg7YkGi+apUkqmssA=="
 ---
 

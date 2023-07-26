@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Financial Services: How Does Technology Lead the Way?"
-excerpt: "Moreover, digital technologies empower financial institutions to gather and analyze vast amounts of data, thereby gaining valuable insights into customer preferences and needs, which inform the development of targeted products and services."
-publishedDateTime: 2023-07-26T07:16:00Z
-originalUrl: "https://www.itnewsafrica.com/2023/07/financial-services-how-does-technology-lead-the-way/"
-webUrl: "https://www.itnewsafrica.com/2023/07/financial-services-how-does-technology-lead-the-way/"
-ampWebUrl: "https://www.itnewsafrica.com/2023/07/financial-services-how-does-technology-lead-the-way/"
-cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/07/financial-services-how-does-technology-lead-the-way/"
+excerpt: "In recent years, the financial services industry has experienced a wave of transformative developments, including: • Mobile payments, digital wallets, and blockchain-based services have revolutionized how transactions are conducted securely and efficiently."
+publishedDateTime: 2023-07-26T08:03:00Z
+originalUrl: "https://za.investing.com/news/financial-services-how-does-technology-lead-the-way-2820650"
+webUrl: "https://za.investing.com/news/financial-services-how-does-technology-lead-the-way-2820650"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: Investing
+  domain: investing.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.itnewsafrica.com/wp-content/uploads/2023/07/Jaybalan-Goonahsylin-iMasFinance-C.jpg"
-    width: 800
-    height: 530
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
     isCached: true
 
-secured: "nQkvTZ0iSrOUXL1zO8Fx2cqmS3M6CBGk4yCyT1EiTlf+vXwxunUQffjxmw+1MPBQhsxfp6RTYSK0FOscMiTWgUI71F9kDL+Uxb+D0Di3HCpdUNWP+9wF5Sj6vZMc14XqerutmngL0cV8oOOdiNpJaPANMBffXgRxs7Lq7QkQBLtgj0genbuuLMAVacjWXvqpmCgzSRzwQ9xHWf7xGf+NLRovSekxJlO1+9xGkfIO5CeRqtzhr0F3W7iveMs2W0AS90ibOzoOXkbKo9py8gzjhM+tYxWgZ5+hGpU6RhE6VOIFG/okjKKdAFYAD2yTyQk2ZDyaax0XlNgxCB2S7QMBrUcDJne/+E5AK+YCQuc1jiM=;hYK5kFfehOdAWZXItqHugQ=="
+secured: "ICU2vCcrTDqvMbcqNNqTgO59QEkJnjnTONPFBQxbsETSkVqOlBbJj/asf/6/GsWwNYIyKPlt/j7sekYZF2AFqz3jOKfOfIIzj9LSCep4K4DjmOpJjXeen1o8wg1A/+5BdKoZ4bE/qhUGCi9SuD8buE55NBGWOLYE9Xu1n9WEnrQLneNP/yVlsk77ez3lTfL3gILSE/NJNtzAYI9VDK2bht5MLUQa5vv7bfcxKJ6cKlKSAseGyOh5zAs8SVvGu7tPJe1LuIg7QW5nJFixEcQ42qxpYnmad6Qlg2rXybESR8Q4o5+pvrbdp7qwWRycfun9TDuvv8j/LlWa68GrOeieZ317wpUjmeTL9gOMgEB50Uk=;4BRcFMYJQ1w46NwXiczVZg=="
 ---
 

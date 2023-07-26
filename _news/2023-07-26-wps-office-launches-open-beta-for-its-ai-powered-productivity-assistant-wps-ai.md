@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Mondee Introduces New AI-Powered Travel Agent Tools"
-    excerpt: "Mondee announced the launch of Mondee Travel Marketplace featuring Abhi, its AI-powered travel assistant platform that simplifies the cruise booking process. Mondee’s Marketplace features an integrated cruises platform allowing users to easily browse and book a cruise of their choice."
-    publishedDateTime: 2023-07-21T17:02:00Z
-    webUrl: "https://cruiseindustrynews.com/cruise-news/2023/07/mondee-introduces-new-ai-powered-travel-agent-tools/"
-    type: article
-    provider:
-      name: Cruise Industry News
-      domain: cruiseindustrynews.com
-    quality: 39
-    images:
-      - url: "https://cruiseindustrynews.com/wp-content/uploads/2023/07/mondee_cruise.jpg"
-        width: 800
-        height: 718
-        isCached: true
   - title: "AI-powered travel assistant touted as most powerful ever"
     excerpt: "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ..."
     publishedDateTime: 2023-07-25T10:44:00Z
@@ -67,6 +53,6 @@ related:
       domain: fox6now.com
     quality: 39
 
-secured: "8ObtvHKBJCLZS9alOHoA3VTUXD/4RMzNLNFbwPjPp0KVEEk5rpDOH59GF/nDhr1MN1zlPS/y//r7N1J843I51ROB15AEvIDTf5A/vH7Ov4VpPHw33wizjkma010PTGtb5TJ6BSTLbS521MOEmT7hJrWazVi0lAN6oak8ciSiJud0pc0r9pjeTLiSunhC1PridX9UziWmbEVbvoImiljoWsfTMrbWpHF1h3EU8jysmzH93XHyRz9nEjhQrHCP8bRhYs2JQDS5Rj9pAniM1FpybJ3RsGparnc8MFPv2mSuXRZhIc3FL4evPDV5oSmz4qDPvy6cYLfl4yRkq3sjrDTJNQjmoIyHkt3foW2bkg5U8FM=;MLxYiLLhQE1IWlMwCtawXw=="
+secured: "ueYkhNj2PLl3XB3M1dT3ewzmcd9ApVihmsbO61jrvJmS4ZVZ3G/loyMWjcWMLv7TOhPdX6gJaY3j+oGB/Cneon1YfENYiWsh7HMaj/VHmw6RFmWil6XSfY63p+haoYi2TzIfiXV5vPQyYynZkms5NBxu1lAhXkrrJE/4V/rjXrIPJzsvWzlZ8C3+07iu52ixvcZ1uzARBr4QvD34/BixtEE94xRHVhcHRjK+HTpZadXx6hWycrLVshdJxF02W6KQ4y5gQi8uq378sCdzxcrbRbfUC3lehNfUQK+2A/DzAG7LUNmHRzjGCYh6kPjhiUrfrliSh9o+9S7SYwLKyK8wSLy5+0jiJg7p2R3/NGrqxhGFMZi1sIujBMA+xjT2IfRmD7hxNsClYVxbn3IyC7SwMQwPnyJ3mGmNVmR18C7hYqOhDG+kLgX9UyYwlei3xJ+LsHyc7fR7vl0m3uhSm/ZybItTh6VJlIoGTQ8Xv3VqBupW9vsmH9g427H0dmJfw0C2DZ5/1PeRRNqMH2oHoJy2ww==;/VsplpASGUlRCwwDOBdqYQ=="
 ---
 

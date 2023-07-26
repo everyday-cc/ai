@@ -128,20 +128,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Calling out ChatGPT's wonky artificial intelligence grammar"
-    excerpt: "Is it possible to defame a robot? Common sense says not, but since when did that prevail over the ass that is law."
-    publishedDateTime: 2023-07-21T17:01:00Z
-    webUrl: "https://www.stuff.co.nz/taranaki-daily-news/news/300931786/calling-out-chatgpts-wonky-artificial-intelligence-grammar"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/5/5/b/8/image.related.StuffLandscapeSixteenByNine.1420x800.4z60ga.png/1689817737569.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "5 AI Chatbot Mobile Apps That Aim to Put a Therapist in Your Pocket"
     excerpt: "Artificial intelligence, or AI, continues to make progress by leaps and bounds. Many of your gadgets and apps are already using AI in some form, and many more"
     publishedDateTime: 2023-07-22T20:58:00Z

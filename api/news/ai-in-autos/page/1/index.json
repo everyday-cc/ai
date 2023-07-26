@@ -45,6 +45,51 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-researchers-move-to-merge-artificial-intelligence-with-human-brain-cells.md",
+      "title": "Researchers move to merge artificial intelligence with human brain cells",
+      "excerpt": "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png",
+          "width": 1500,
+          "height": 944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-1-self-driving-car-and-ai-stock-to-watch-in-the-second-half-of-2023.md",
       "title": "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023",
       "excerpt": "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!",
@@ -264,7 +309,7 @@
       "originalUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1373,49 +1418,6 @@
       "provider": {
         "name": "NBC Bay Area",
         "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-15-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
-      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
-      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
-      "originalUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "publishedDateTime": "2023-07-14T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-06-21-ant-group-confirms-reports-about-its-own-ai-large-language-model.md",
+      "title": "Ant Group Confirms Reports about Its Own AI Large-Language Model",
+      "excerpt": "Reports in Chinese media about an Ant Group LLM for AI have been confirmed by the company, however, without any additional details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/",
+      "originalUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/06/ant-group-ai-language-model.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/ant-group-ai-language-model/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ant-group-ai-language-model/amp/",
+      "publishedDateTime": "2023-06-21T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-21-openai-ceo-sam-altman-is-pushing-past-doubts-on-artificial-intelligence.md",
       "title": "OpenAI CEO Sam Altman Is Pushing Past Doubts on Artificial Intelligence",
       "excerpt": "Altman says he uses it for routine tasks, like pulling highlights from his overflowing email inbox or to “draft a tweet that I was having a hard time with.” Essentially a super-powerful auto-complete tool trained to generate language by observing patterns in large quantities of data,",
@@ -1083,49 +1126,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-21-learn-artificial-intelligence-top-5-short-term-ai-courses-available-online.md",
-      "title": "Learn Artificial Intelligence: Top 5 Short-Term AI Courses Available Online",
-      "excerpt": "These courses are offering learners the opportunity to enhance their understanding of AI concepts and applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "originalUrl": "https://www.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/68381/online-ai-courses.jpg",
-          "width": 1128,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/learn-artificial-intelligence-top-5-short-term-ai-courses-available-online-70647",
-      "publishedDateTime": "2023-06-20T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

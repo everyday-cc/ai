@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-t
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mondee Introduces New AI-Powered Travel Agent Tools"
-    excerpt: "Mondee announced the launch of Mondee Travel Marketplace featuring Abhi, its AI-powered travel assistant platform that simplifies the cruise booking process. Mondee’s Marketplace features an integrated cruises platform allowing users to easily browse and book a cruise of their choice."
-    publishedDateTime: 2023-07-21T17:02:00Z
-    webUrl: "https://cruiseindustrynews.com/cruise-news/2023/07/mondee-introduces-new-ai-powered-travel-agent-tools/"
-    type: article
-    provider:
-      name: Cruise Industry News
-      domain: cruiseindustrynews.com
-    quality: 39
-    images:
-      - url: "https://cruiseindustrynews.com/wp-content/uploads/2023/07/mondee_cruise.jpg"
-        width: 800
-        height: 718
-        isCached: true
   - title: "AI-powered travel assistant touted as most powerful ever"
     excerpt: "It was created using the power of multiple AI engines, including Google's Bard, OpenAI's ChatGPT and IBM's Watson. Mondee says Abhi can \"engage in meaningful conversations, understand complex queries and offer comprehensive responses.\" It also creates ..."
     publishedDateTime: 2023-07-25T10:44:00Z

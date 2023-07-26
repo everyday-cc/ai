@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/dbe9be14-b94e-484e-accb-c135f7527fa4"
 webUrl: "https://www.ft.com/content/dbe9be14-b94e-484e-accb-c135f7527fa4"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 619
     height: 377
     isCached: true
+
+related:
+  - title: "Intel: Dark Horse In AI Processing"
+    excerpt: "Intel has technical experience and had made strategic acquisitions to support an AI business. Read why I have a buy rating on INTC stock."
+    publishedDateTime: 2023-07-26T08:48:00Z
+    webUrl: "https://seekingalpha.com/article/4619838-intel-dark-horse-in-ai-processing"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561797/image_1464561797.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "4pzsEbjVLSTrN4+0rx5UFY2Z5vylt7IrlrN/UAHRi0KDrDL61u95FuaG1FcRDSxPzqCGMBYgPpy7mQ32bTTHnk0v2//U2e4r6ZNdOQhuxQeK48cw8OgQnBK3b0MauA3PTSlnG2om3u60CFw+6NvJp3EJFw3C9GjVMTHYFO84RcqoV4GYFPCuSo9YKs8Fmy4Zwle5wOXTIX55t2R5sdPdE+gBboK/DQCg01AbYbKJMIUSPlKTFo6x3hrbdx/+72XqCEFGkZo2D+PSieIBEWgLmEIOlens5BDwxUgnthd9Yi1ShlL43lCicKlXiDi9H5g6uAgSsrwNLs5CwtHAZP9nDKHk5EVkqwUUXBKfSEEeKZYsdEMeHlQtjwhAoODQdGs/m0hom/x19cAVzCN6CIftsbhbPqESSov2cfGuyrmWR+UsT4j5cJJ1d/TU+Q5p2V959dwAAD6Yb65NQUc2ER7jg/JkILzMTBpAIio/BAQrgGch2tg6GYWmgnkLicd2Hde1ZRkKkhJr9FdJ3cjULY2XNw==;7pdzfGyJ5/Bl+XHMKXCxJQ=="
 ---

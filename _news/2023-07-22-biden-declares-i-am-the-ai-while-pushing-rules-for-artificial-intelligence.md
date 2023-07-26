@@ -32,22 +32,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Watch live: Biden delivers remarks on artificial intelligence"
-    excerpt: "President Biden on Friday afternoon is slated to deliver remarks on artificial intelligence (AI). The president’s speech comes after the White House announced Friday that the administration"
-    publishedDateTime: 2023-07-21T16:30:00Z
-    webUrl: "https://thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/"
-    ampWebUrl: "https://thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/4109916-biden-delivers-remarks-on-artificial-intelligence-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 57
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/AI-stock-image.png?w=1280"
-        width: 1279
-        height: 719
-        isCached: true
   - title: "Biden Says U.S. Must Be 'Clear Eyed and Vigilant' on AI Threats"
     excerpt: "As some of the biggest players in the artificial intelligence game vow to adopt transparency and security measures, the White House is saying that those measures are only the first step in creating safeguards around the technology."
     publishedDateTime: 2023-07-24T23:47:00Z

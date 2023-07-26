@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potent
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 168
 published: true
 
 provider:

@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-24T20:10:00Z
 originalUrl: "https://dallasinnovates.com/credera-launches-global-artificial-intelligence-council-as-collective-intelligence-hub/"
 webUrl: "https://dallasinnovates.com/credera-launches-global-artificial-intelligence-council-as-collective-intelligence-hub/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s24806.pcdn.co/wp-content/uploads/2023/07/Credera_Vincent_Yates-970.jpg"

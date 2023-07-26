@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Mondee Introduces New AI-Powered Travel Agent Tools"
-    excerpt: "Mondee announced the launch of Mondee Travel Marketplace featuring Abhi, its AI-powered travel assistant platform that simplifies the cruise booking process. Mondee’s Marketplace features an integrated cruises platform allowing users to easily browse and book a cruise of their choice."
-    publishedDateTime: 2023-07-21T17:02:00Z
-    webUrl: "https://cruiseindustrynews.com/cruise-news/2023/07/mondee-introduces-new-ai-powered-travel-agent-tools/"
-    type: article
-    provider:
-      name: Cruise Industry News
-      domain: cruiseindustrynews.com
-    quality: 39
-    images:
-      - url: "https://cruiseindustrynews.com/wp-content/uploads/2023/07/mondee_cruise.jpg"
-        width: 800
-        height: 718
-        isCached: true
   - title: "WPS Office Launches Open Beta for its AI-powered Productivity Assistant: WPS AI"
     excerpt: "WPS AI is an intelligent office assistant, powered by LLM from OpenAI and PaLM2. Users can leverage natural language commands to interact with WPS Office, which makes it easier for users to create documents, presentations, forms, and PDFs."
     publishedDateTime: 2023-07-26T07:45:00Z

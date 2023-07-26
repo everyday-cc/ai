@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-driven personalisation: A new era in Ghanaian banking services"
-    excerpt: "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients."
-    publishedDateTime: 2023-07-21T16:42:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/AI-driven-personalisation-A-new-era-in-Ghanaian-banking-services-1809434"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "/StT90QND3fP5L/YkhZdZp2ouQLtk2kyzFIIvw0wwj1+cnFbvdafBQKG6EQN6qBJJAEkAK539tPxtcjj+MtI31K8eqoO2Qu9TiuwSJO8F8LTUxTvtgsEcLToWjRsJpsOp+dAzZjaWrye486LfB5vgzlIWbCoX//zHvtvwkYMleor2dH+bJWmMo/nc0ROI9fDTHIiooZHRHjxNC6D5iOZ+Ri0DyIhCjn2ZaYq0MVvYTWLmewOvexZ8hu9n75dl9WpdjyM0bU0mxrh88+G+cDWcsE4oK541CUcrhj8Hz/BhoRq7+K6khAE62q2uh3fnHiiYUoNrOsv8BsCJPkTefZUO21GnlqUCkh7T5zyYa2aBNA=;0fEOOIf1gPSwBLy37YcMfA=="
 ---

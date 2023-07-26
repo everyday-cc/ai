@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-driven personalisation: A new era in Ghanaian banking services"
-    excerpt: "In the ever-evolving landscape of the financial industry, banks around the world are embracing cutting-edge technologies to enhance customer experience and meet the diverse needs of their clients."
-    publishedDateTime: 2023-07-21T16:42:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/AI-driven-personalisation-A-new-era-in-Ghanaian-banking-services-1809434"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/764/76477795.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI and Open Banking – the dynamic duo in Financial Services"
     excerpt: "Open Banking and Artificial Intelligence (AI) have emerged as game-changers in the financial services industry, reshaping the way financial institutions operate and interact with their customers. The convergence of Open Banking's secure access to financial data and the advanced capabilities of AI has unlocked a world of practical possibilities and tangible benefits."
     publishedDateTime: 2023-07-25T13:38:00Z

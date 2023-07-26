@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorb
 webUrl: "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorbo"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Mashable
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Redditors prank AI-powered news mill with “Glorbo” in World of Warcraft"
-    excerpt: "In a truly meta moment, later on Thursday, a different Z League bot going under the name \"Ashley Beam\" picked up on a thread about AI-generated content scraping and wrote an automated article about that as well, titled \"World of Warcraft (WoW) Players React to AI-Generated Content on Popular Gaming Sites.\""
-    publishedDateTime: 2023-07-21T16:26:00Z
-    webUrl: "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/"
-    ampWebUrl: "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/glorbo_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI Article Generator Falls for World of Warcraft 'Glorbo' Prank"
     excerpt: "A World of Warcraft player dupes an AI-powered gaming site into writing fake news by posting about a non-existent feature called 'Glorbo.'"
     publishedDateTime: 2023-07-21T20:39:00Z

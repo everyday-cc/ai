@@ -26,7 +26,7 @@ related:
   - title: "Intel may have bottomed, but earnings will show if chip maker can hope to catch up to Nvidia and AMD in AI"
     excerpt: "After its biggest quarterly loss ever last earnings season, Intel is expected to find strength in its PC business while nominally contributing to AI."
     publishedDateTime: 2023-07-24T21:24:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
+    webUrl: "https://www.marketwatch.com/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94?-cfp"
     ampWebUrl: "https://www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-may-have-bottomed-but-earnings-will-show-if-chip-maker-can-hope-to-catch-up-to-amd-and-nvidia-in-ai-6cba7e94"
     type: article

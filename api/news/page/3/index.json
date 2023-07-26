@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-25-cadence-lifts-revenue-forecast-as-ai-boom-boosts-chip-design-demand.md",
-      "title": "Cadence lifts revenue forecast as AI boom boosts chip-design demand",
-      "excerpt": "Cadence Design Systems Inc on Monday raised its full-year revenue forecast slightly above Wall Street estimates, as a surge in artificial intelligence (AI) innovation fueled demand for custom semiconductor design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
-      "originalUrl": "https://www.reuters.com/article/cadence-design-results-idUSL4N39A44G",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20230724&t=2&i=1639790732&r=LYNXMPEJ6N0RW&w=800",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-25-state-of-it-report-generative-ai-will-soon-go-mainstream-say-9-out-of-10-it-leaders.md",
       "title": "State of IT report: Generative AI will soon go mainstream, say 9 out of 10 IT leaders",
       "excerpt": "Generative AI has only recently become mainstream. The report shows 86% of IT leaders believe generative AI will have a prominent role it their organization in the near future. Yet 64% of IT leaders are concerned about the ethics of generative AI, and 62% are concerned about its impacts on their careers.",
@@ -510,7 +458,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 313,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -563,7 +511,7 @@
       "originalUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -803,7 +751,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/24/artificial-intelligence-is-changing-the-world-and-your-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1000,6 +948,51 @@
       ]
     },
     {
+      "path": "_news/2023-07-24-researchers-move-to-merge-artificial-intelligence-with-human-brain-cells.md",
+      "title": "Researchers move to merge artificial intelligence with human brain cells",
+      "excerpt": "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png",
+          "width": 1500,
+          "height": 944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-ai-should-be-terrified-of-humans.md",
       "title": "AI Should Be Terrified of Humans",
       "excerpt": "The idea of new technologies taking over the world and subjugating humans has been floating around the cultural consciousness for at least the last couple hundred years. And while robot overlords—like the villain of the latest installment of Mission Impossible—might be sci-fi fodder,",
@@ -1060,7 +1053,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1103,7 +1096,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/the-potential-and-pitfalls-of-ai-in-healthcare-a-measured-approach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 168,
       "tags": null,
       "images": [
         {

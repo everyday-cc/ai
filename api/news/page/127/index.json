@@ -2,6 +2,57 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2023-05-05-bing-ai-chat-is-now-open-to-everyone-though-still-in-preview.md",
+      "title": "Bing AI Chat is now open to everyone, though still in preview",
+      "excerpt": "Persistent chat, images and video, a chat sidebar and the promise of third-party plugins make Bing Chat more useful but not perfect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/bing-ai-chat-open/",
+      "originalUrl": "https://www.techrepublic.com/article/bing-ai-chat-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/05/All-the-new-Bing-chat-features.jpg",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/bing-ai-chat-open/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/bing-ai-chat-open/amp/",
+      "publishedDateTime": "2023-05-04T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-ai-in-computer-vision-market-recent-growing-trend-2030.md",
       "title": "AI In Computer Vision Market: Recent Growing Trend 2030",
       "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Qualcomm Technologies, Inc., Google LLC,",
@@ -1123,49 +1174,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-brain-inspired-ai-liquid-neural-networks-power-drones.md",
-      "title": "Brain-Inspired AI Liquid Neural Networks Power Drones",
-      "excerpt": "Researchers from the Massachusetts Institute of Technology (MIT) Computer Science and Artificial Intelligence Laboratory (CSAIL) demonstrate how brain-inspired AI liquid neural networks enable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-04/pic25111.jpg?itok=GPWCNftz",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202304/brain-inspired-ai-liquid-neural-networks-power-drones?amp",
-      "publishedDateTime": "2023-05-04T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

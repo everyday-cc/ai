@@ -10,7 +10,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -201,6 +201,51 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-24-researchers-move-to-merge-artificial-intelligence-with-human-brain-cells.md",
+      "title": "Researchers move to merge artificial intelligence with human brain cells",
+      "excerpt": "A team of scientists have received a grant of $600,000 AUD to start research merging human brain cells with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/92509/researchers-move-to-merge-artificial-intelligence-with-human-brain-cells/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/2/92509_2631_researchers-receive-grant-to-merge-artificial-intelligence-with-human-brain-cells_full.png",
+          "width": 1500,
+          "height": 944,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-24T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI in Autos"
       ]
     },
     {
@@ -548,15 +593,15 @@
       "title": "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’",
       "excerpt": "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free.",
       "sourceUrl": null,
-      "webUrl": "https://democratherald.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_d01ee602-22eb-5881-a44e-f5c96df91f18.html",
-      "originalUrl": "https://democratherald.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_d01ee602-22eb-5881-a44e-f5c96df91f18.html",
+      "webUrl": "https://greensboro.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_98f2caaa-032e-53e7-b14f-cd831a654a89.html",
+      "originalUrl": "https://greensboro.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_98f2caaa-032e-53e7-b14f-cd831a654a89.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/d/01/d01ee602-22eb-5881-a44e-f5c96df91f18/64b6fea8a1207.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/8f/98f2caaa-032e-53e7-b14f-cd831a654a89/64b6fea90fda6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -571,8 +616,8 @@
       "publishedDateTime": "2023-07-18T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Albany Democrat-Herald",
-        "domain": "democratherald.com",
+        "name": "News & Record",
+        "domain": "greensboro.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1438,49 +1483,6 @@
         "AI",
         "AWS AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-04-un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace.md",
-      "title": "UN council to hold first meeting on potential threats of artificial intelligence to global peace",
-      "excerpt": "(AP Photo/Yuki Iwamura) (Yuki Iwamura) TANZANIA – The U.N. Security Council will hold a first-ever meeting on the potential threats of artificial intelligence to international peace and security ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/tech/2023/07/03/un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace/",
-      "originalUrl": "https://www.clickondetroit.com/tech/2023/07/03/un-council-to-hold-first-meeting-on-potential-threats-of-artificial-intelligence-to-global-peace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/XOZQFU2OZVDK5JKBMMBL7ATUVE.jpg?_a=ATAPphC0",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-03T15:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

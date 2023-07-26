@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 881
         isCached: true
-  - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
-    excerpt: "The world’s largest software maker projected that Azure gains would slow further in the current quarter, and said it would boost spending to expand data centers for new cloud services — while expecting only a gradual increase in AI revenue."
-    publishedDateTime: 2023-07-26T03:31:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/microsofts-azure-slowdown-overshadows-optimism-about-ai-growth-11029831.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/microsofts-azure-slowdown-overshadows-optimism-about-ai-growth-11029831.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/microsofts-azure-slowdown-overshadows-optimism-about-ai-growth-11029831.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 89
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Microsoft.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google, Meta, Microsoft, OpenAI and more agree to voluntary AI safeguards"
     excerpt: "Several AI companies, from Google to OpenAI to Microsoft, have worked with the White House on a set of voluntary AI safeguards."
     publishedDateTime: 2023-07-21T17:27:00Z
@@ -99,6 +83,20 @@ related:
         width: 900
         height: 628
         isCached: true
+  - title: "AI lesson for Microsoft and Google: Spend money to make money"
+    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
+    publishedDateTime: 2023-07-26T07:57:00Z
+    webUrl: "https://www.reuters.com/technology/ai-lesson-microsoft-google-spend-money-make-money-2023-07-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/8IDR8ZMg8eS-_Uv-YxiYSpbmiCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HTKPWF5N4FIRPN6GM4MRALZHGM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
     excerpt: "Company’s $56.2bn revenue beat Wall Street expectations but slowing growth for cloud service Azure proved to be a dampener"
     publishedDateTime: 2023-07-25T21:41:00Z
@@ -114,6 +112,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/6e4f41537e3e1a14b26a759024914f0d87905a73/0_318_5454_3274/master/5454.jpg?width=620&quality=85&auto=format&fit=max&s=9db530a297607be53626c3c00ed90637"
         width: 620
         height: 372
+        isCached: true
+  - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
+    excerpt: "SAN FRANCISCO – Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4 per cent in late trading."
+    publishedDateTime: 2023-07-26T00:46:00Z
+    webUrl: "https://www.straitstimes.com/business/microsoft-s-azure-slowdown-overshadows-optimism-about-ai-growth"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 69
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/FILES-US-TECH-EARNINGS-MICROSOFT-203833.jpg"
+        width: 860
+        height: 573
         isCached: true
   - title: "Google, Microsoft, and more commit to AI safety at White House, Apple absent"
     excerpt: "Today, it was announced that seven leading AI companies convened at the White House to pledge their voluntary commitment to the safe, secure, and transparent development of AI technology. These companies included Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI."
@@ -195,20 +207,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI lesson for Microsoft and Google: Spend money to make money"
-    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said"
-    publishedDateTime: 2023-07-25T23:59:00Z
-    webUrl: "https://kfgo.com/2023/07/25/ai-lesson-for-microsoft-and-google-spend-money-to-make-money/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 54
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-07/25/2023-07-25T235930Z_1_LYNXMPEJ6O11S_RTROPTP_3_TECH-AI-WHITE-HOUSE.JPG"
-        width: 800
-        height: 520
-        isCached: true
   - title: "Microsoft foresees gradual AI adoption instead of rapid uptake"
     excerpt: "Thanks to an AI wave that helped Microsoft increase its customer numbers, the software giant expected its intelligent cloud service, especially Azure, to drive its growth."
     publishedDateTime: 2023-07-26T02:48:00Z
@@ -232,20 +230,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 51
-  - title: "Amazon, Google, Meta, Microsoft and others agree to AI safeguards set by the White House"
-    excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."
-    publishedDateTime: 2023-07-21T16:46:00Z
-    webUrl: "https://www.ksl.com/article/50691170/amazon-google-meta-microsoft-and-others-agree-to-ai-safeguards-set-by-the-white-house"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 45
-    images:
-      - url: "https://img.ksl.com/slc/2939/293982/29398241.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "Microsoft Ramps Up Spending to Meet AI Demand as Quarterly Revenue Rises to $56.2 Billion"
     excerpt: "Microsoft has started integrating AI functionality across its products such as Azure, Microsoft 365, GitHub and several developer tools."
     publishedDateTime: 2023-07-26T05:16:00Z
@@ -257,20 +241,6 @@ related:
     quality: 45
     images:
       - url: "https://i.gadgets360cdn.com/large/microsoft_hq_image_reuters_1655369562165.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google, Amazon, Microsoft, Meta other tech firms agree to AI safeguards set by White House"
-    excerpt: "The tech giants, along with ChatGPT-maker OpenAI and others, are said to have committed to independent security testing to guard against major risks."
-    publishedDateTime: 2023-07-21T15:17:00Z
-    webUrl: "https://www.usatoday.com/story/tech/news/2023/07/21/google-amazon-microsoft-facebook-ai-safeguards/70443616007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

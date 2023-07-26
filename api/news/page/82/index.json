@@ -2,6 +2,40 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-06-01-self-driving-cars-could-clear-light-rails-troubles.md",
+      "title": "Self-driving cars could clear light rail’s troubles",
+      "excerpt": "We propose that large, building-shaking trains be replaced with 6-9 passenger self-driving vehicles, propelled with plug-in technology (just like a Volt or Tesla automobile). Such vehicles would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/opinion/article227311534.html",
+      "originalUrl": "https://www.newsobserver.com/opinion/article227311534.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-augmented-reality-is-already-changing-healthcare-for-the-better.md",
       "title": "Augmented Reality Is Already Changing Healthcare For The Better",
       "excerpt": "Ari Grobman is the Chief Executive Officer at Lumus.",
@@ -1062,57 +1096,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-while-parents-worry-teens-are-bullying-snapchat-ai.md",
-      "title": "While parents worry, teens are bullying Snapchat AI",
-      "excerpt": "Users can also personalize My AI with custom Bitmoji avatars, and chatting feels a bit more intimate than going back and forth with ChatGPT’s faceless interface. Not all users were happy with the new chatbot,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
-      "originalUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
-      "publishedDateTime": "2023-05-31T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -54,22 +54,6 @@ related:
         width: 2314
         height: 1296
         isCached: true
-  - title: "Elon Musk: Tesla In Talks To Share Controversial Self-Driving Software"
-    excerpt: "CEO Elon Musk says he is talking to a major automaker about licensing Tesla's hardware and Full Self-Driving software. A \"major automaker\" is interested, Musk told investors on a call that branched into updates on the Cybertruck, robotaxis, AI, robots and bionic limbs."
-    publishedDateTime: 2023-07-21T17:01:00Z
-    webUrl: "https://www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/"
-    ampWebUrl: "https://www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/2023/07/Tesla-Elon-Musk.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
     excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
     publishedDateTime: 2023-07-24T11:04:00Z

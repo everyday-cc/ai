@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Redditors prank AI-powered news mill with “Glorbo” in World of Warcraft"
-    excerpt: "In a truly meta moment, later on Thursday, a different Z League bot going under the name \"Ashley Beam\" picked up on a thread about AI-generated content scraping and wrote an automated article about that as well, titled \"World of Warcraft (WoW) Players React to AI-Generated Content on Popular Gaming Sites.\""
-    publishedDateTime: 2023-07-21T16:26:00Z
-    webUrl: "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/"
-    ampWebUrl: "https://arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gaming/2023/07/redditors-prank-ai-powered-news-mill-with-glorbo-in-world-of-warcraft/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/07/glorbo_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Reddit tricks an AI into writing an article about a fake World of Warcraft character"
     excerpt: "On July 20, Reddit user kaefer_kriegerin made a text post expressing their excitement over the impending arrival of a new WoW player named Glorbo. Glorbo is not real, and the author made their aim for creating him clear, writing at the top of the post, \"I just really want some major bot operated news websites to publish an article about this.\""
     publishedDateTime: 2023-07-21T20:53:00Z

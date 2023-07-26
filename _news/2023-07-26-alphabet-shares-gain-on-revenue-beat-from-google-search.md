@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
+    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to reshape the competitive landscape."
+    publishedDateTime: 2023-07-25T20:30:00Z
+    webUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+    ampWebUrl: "https://www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 11
 
 secured: "erYvne4rCVXDRME8RisdXtt1eYRhJruQhnKxoFBUqnas7cfP+4tzU4GMt0dDUR15hH63dxwM6j5Fdsshd4csxUSNT68/Sow3GxvQo5YstRZhrDn09FG8X7Lqa6Qj9KAyn+5o4ivN6kB6SgiEaO/ZvR4NZtH1GpyGXXoQmigOsOUZkmEYF1w2v9MKa4Ipk6i4pEHKK3/1lmepSycCJFQC++/syhwgdw3ct7ABfYlh1UIf75BrkWXY/+8tnt/g28YkYZF0hSCi3KRUyPqXR3+JPzmaBEc+ho0mkuH7FOpks2Io1wIczJDFSUkNFy8/mweKoe9ennkfgsZJO9PxoOF8WiWA47kHNR2dhW7BcwZXO52In4vzq4FnDKpSCMJodfkMga8H7l0xXOCs/rTaV/Sx3GON/aaVT57h0Bj6CVJCZI5wq1QnUg7Xv3u6/fNZ+STGCQQqQCp6HYMWYKQ9uQ0YX+fOf1hcu2/JZRL+ljAppp64lapW7K40ZCka+PY/k5ydnC41oPilz2WUs1nLLvwNvQ==;vvSYdzUFPsdvkwVK0SgKyg=="
 ---

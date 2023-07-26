@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-07-20-liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential.md",
+      "title": "Liquid Networks: Unleashing AI Efficiency, Causality, And Adaptive Potential",
+      "excerpt": "To engage the community in the AI conversation, on June 27 2023, CSAIL co-hosted a symposium in collaboration with John Werner’s Imagination in Action on AI frontiers and Implic",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
+      "originalUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielarus/2023/07/19/liquid-networks-unleashing-ai-efficiency-causality-and-adaptive-potential/amp/",
+      "publishedDateTime": "2023-07-19T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-hero-ai-seeks-to-transform-mindsets-in-the-lagging-healthcare-sector.md",
       "title": "Hero AI Seeks To Transform Mindsets In The Lagging Healthcare Sector",
       "excerpt": "The resistance to change is emblematic in a sector that has idealized practices and legacy systems that have been working for decades. One founder seeks to disrupt this.",
@@ -1164,58 +1216,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-19-artificial-intelligence-continues-to-revolutionize-cybersecurity.md",
-      "title": "Artificial Intelligence Continues To Revolutionize Cybersecurity",
-      "excerpt": "For many years, artificial intelligence (AI ... By leveraging these generative models—and the deep neural networks powering them—analysts and engineers are already developing powerful new tools to automate tasks, enhance efficiency and augment human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b68f7fe71fea93525f1dc1/0x0.jpg?format=jpg&crop=6305,3545,x795,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/19/artificial-intelligence-continues-to-revolutionize-cybersecurity/amp/",
-      "publishedDateTime": "2023-07-19T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intell
 webUrl: "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg"
         width: 2314
         height: 1296
-        isCached: true
-  - title: "Elon Musk: Tesla In Talks To Share Controversial Self-Driving Software"
-    excerpt: "CEO Elon Musk says he is talking to a major automaker about licensing Tesla's hardware and Full Self-Driving software. A \"major automaker\" is interested, Musk told investors on a call that branched into updates on the Cybertruck, robotaxis, AI, robots and bionic limbs."
-    publishedDateTime: 2023-07-21T17:01:00Z
-    webUrl: "https://www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/"
-    ampWebUrl: "https://www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/elon-musk-tesla-2024-q2-earnings-call-robotaxis-full-self-driving-software/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/2023/07/Tesla-Elon-Musk.png"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Elon Musk claims Tesla will spend \"well over\" $1bn on Dojo supercomputer, alongside Nvidia GPUs, for \"100 exaflops\" of AI"
     excerpt: "Tesla CEO Elon Musk claimed that the company will spend more than $1 billion over the next year on its Dojo supercomputer. The supercomputer uses the custom Dojo D1 chip architecture designed by the automotive company for training self-driving vehicle systems."

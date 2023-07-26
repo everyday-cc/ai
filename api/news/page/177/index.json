@@ -2,6 +2,57 @@
   "page": 177,
   "value": [
     {
+      "path": "_news/2023-03-28-generative-ai-set-to-affect-300-million-jobs-across-major-economies.md",
+      "title": "Generative AI set to affect 300 million jobs across major economies",
+      "excerpt": "The investment bank said on Monday that “generative” AI systems such as ChatGPT, which can create content that is indistinguishable from human output, could spark a productivity boom that would eventually raise annual global gross domestic product by 7 percent over a 10-year period.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/empty-office-800x563.jpg",
+          "width": 800,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/generative-ai-set-to-affect-300-million-jobs-across-major-economies/amp/",
+      "publishedDateTime": "2023-03-28T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-machine-learning-operations-mlops-market-outlook-and-forecast-to-2030-with-top-countries-data.md",
       "title": "Machine Learning Operations (MLOps) Market Outlook and Forecast to 2030 with Top Countries Data",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2023 (The Expresswire) -- The \"Machine Learning Operations (MLOps) Market\" study describes how the technology industry is evolving and how major and emerging players ...",
@@ -1182,59 +1233,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry.md",
-      "title": "Uppercentile Spearheads AI Ethics Charter Initiative for Healthcare, Seeks Input from the Industry",
-      "excerpt": "Mar 27, 2023 (Prodigy PressWire via COMTEX) -- Uppercentile, an emerging player in healthcare solutions, announces its initiative to develop a template AI Ethics Charter for hospitals and healthcare professionals, aimed at ensuring responsible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/uppercentile-spearheads-ai-ethics-charter-initiative-for-healthcare-seeks-input-from-the-industry-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-27T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

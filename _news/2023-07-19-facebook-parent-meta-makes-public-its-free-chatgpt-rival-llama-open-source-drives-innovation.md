@@ -3,24 +3,24 @@ category: news
 title: "Facebook parent Meta makes public its free ChatGPT rival Llama: ‘Open source drives innovation’"
 excerpt: "Facebook parent company Meta Platforms has built an artificial intelligence system that rivals the likes of ChatGPT and Google's Bard but it's taking a different approach: releasing it for free."
 publishedDateTime: 2023-07-18T21:00:00Z
-originalUrl: "https://democratherald.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_d01ee602-22eb-5881-a44e-f5c96df91f18.html"
-webUrl: "https://democratherald.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_d01ee602-22eb-5881-a44e-f5c96df91f18.html"
+originalUrl: "https://greensboro.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_98f2caaa-032e-53e7-b14f-cd831a654a89.html"
+webUrl: "https://greensboro.com/news/nation-world/facebook-microsoft-google-chatgpt-ai-rival-llama/article_98f2caaa-032e-53e7-b14f-cd831a654a89.html"
 type: article
 
 provider:
-  name: Albany Democrat-Herald
-  domain: democratherald.com
+  name: News & Record
+  domain: greensboro.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/d/01/d01ee602-22eb-5881-a44e-f5c96df91f18/64b6fea8a1207.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/8f/98f2caaa-032e-53e7-b14f-cd831a654a89/64b6fea90fda6.preview.jpg?crop=1230%2C646%2C75%2C106&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "AoFmWLz8nskDrWuyLsv1YNZES5tN5AmlJyZC+R4GVLIXciYq1G0FhpXOxvW1fr8xon4qAPTEoPQCdMP/NJ9oVpq/r2U7Cm1VawhIsEJUOuViFWgzop6opooGZVZWQi51oTB3KVyZ2B4MT6fDwuHxQMLNImGB+IQ4is+E/8TNEpE+K6XaG1P4AH2zDYsIeBjK1C7TH4vR5nebYUMB4KDWvYrsMMWIkR76Rw2Bhfm/DilNS1p1KCRkO8m1VtFkkRB2odVdOCJgasXogCH/lpJujrnmc3mazYZSjCpUwriU8cNNu2uGu6B7pggrBRvTdhcpFhesTSGZ6JgBkXo1/Dq1lLixACvI4zxome3mrbq5Y2M=;NicQY8RKVAS0QS5mah08Fg=="
+secured: "BDAU2cPX6VHMs5dHxGMv+ZE2Oow3Lk9A6EOW1xTZ9XF0zurwKxChCEL9dwG8uLNtLzHk4nqNyFWmY4/F/imhCjqiuC7d/ExfIyUhcRySyYI634cVVsdOTrdWYVpkxRYXcMWi4gUTdQEOeL9K5kQDnBRtEgziHuP99WIRYKD2RTHjgp3UDc5rw8gQTZS7MlwapMPawLOExXr+Kn1SNnu9l/lS3BPZzBQBQ/tprvDohQhdJbYyME3VeYPwRfyH8g+QDMA5rjZNhkJLEUZiHflAk9vAcj0aSaXuXL9/6EEy1l3W7SuDcmpaSMuyKoVM/mVxU/zln4jZ553BcCnCz2DYbVCpkZLzOq0Vz8j9dno/7OI=;Qv/iXLNeIfaFa51iHVDbZQ=="
 ---
 

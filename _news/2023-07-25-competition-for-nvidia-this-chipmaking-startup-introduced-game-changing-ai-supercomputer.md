@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia lets customers rent AI supercomputer with DGX Cloud"
+    excerpt: "Nvidia will be well aware of the huge demand that exists for AI-capable hardware. DGX Cloud will now allow customers to run AI workloads for a monthly"
+    publishedDateTime: 2023-07-26T08:45:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/109301/nvidia-lets-customers-rent-ai-supercomputer-with-dgx-cloud/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
+        isCached: true
 
 secured: "Dl2lOQ1j/U7dQRoSYwSOzXQpYNmMJmZ72sxJZnJMUw9aAXIRXfuHUABPF7x5m9wyl1ueAtx/VqIWwy8quate23DeYm7G9Sv0nWwvgNMSbjqDY68THtDkGmMg3ch53ogrAG6a9R4asZFNiSdqQPy/RHkEoD9ZAmvwsERuuKFFvW+5XtxL5KkRUv9Rn4dWqmLYoBU2KZuMdFTkJk6v9+z+q+1Tbs2OzDJfAc6fXHZErZr9RgtjOWSQNAwr1AbpMONHKBhAzVLmsGl3aynq6N6zwyBKL/4hE9l6aJdfD3RyxeYpLu8kHGpXo06JhU9US5gUxR2F4Vc3TrJYiH14bmY7Z2dkI0ux+9/ZB9MOqZAn+JU=;L0X5jPAGoqOtN3vRdKbs4A=="
 ---

@@ -36,6 +36,20 @@ related:
         width: 3372
         height: 1809
         isCached: true
+  - title: "2 Top Artificial Intelligence Stocks to Buy Right Now"
+    excerpt: "Nvidia ( NVDA 2.39%) and Microsoft ( MSFT 1.70%) are no-brainers. These top AI stocks delivered stellar returns to investors in recent years, and are already outperforming the market again in 2023 thanks to the growing demand for AI hardware and software. Here's why these two stocks are still great buys."
+    publishedDateTime: 2023-07-26T09:05:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/26/2-top-artificial-intelligence-stocks-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/740808/artificial-intelligence-ai-on-circuit-board.jpg"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "Preachers and artificial intelligence"
     excerpt: "The world of artificial intelligence is expanding exponentially. AI’s infancy dates from the 1950s and 1960s, but it is now like an adolescent experiencing a sudden growth burst. ChatBPT and its siblings in the AI family are the rage in business, health care, education, and more. Including religion."
     publishedDateTime: 2023-07-22T10:00:00Z

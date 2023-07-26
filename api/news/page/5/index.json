@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.md",
+      "title": "An AI supercomputer whirs to life, powered by giant computer chips",
+      "excerpt": "Inside a cavernous room this week in a one-story building in Santa Clara, California, 6½-foot-tall machines whirred behind white cabinets. The machines made up a new supercomputer that had become operational just last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/",
+      "originalUrl": "https://www.spokesman.com/stories/2023/jul/22/an-ai-supercomputer-whirs-to-life-powered-by-giant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.spokesman.com/WiunR_0qRmY1FAU-uD8MjuIH6zQ=/1200x630/smart/media.spokesman.com/photos/2023/07/21/64b9ca9d55317.hires.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-ai-powered-travel-assistant-touted-as-most-powerful-ever.md",
       "title": "AI-powered travel assistant touted as most powerful ever",
       "excerpt": "Travel platform Mondee has rolled out a new artificial intelligence-powered travel assistant, Abhi, which the company says is the most powerful in the industry.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/ai-powered-travel-assistant-touted-as-most-powerful-ever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -199,58 +242,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-22-ais-impact-on-art-and-creators-ethical-and-legal-concerns-over-ownership-misinformation-and-more.md",
-      "title": "AI’s impact on art and creators: Ethical and legal concerns over ownership, misinformation, and more",
-      "excerpt": "The ethical and legal implications surrounding the rapid rise of artificial intelligence and generative AI tools such as ChatGPT are sure to impact companies, consumers and courtrooms in the coming… R",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/ais-impact-on-art-and-creators-ethical-and-legal-concerns-over-ownership-misinformation-and-more/",
-      "originalUrl": "https://www.geekwire.com/2023/ais-impact-on-art-and-creators-ethical-and-legal-concerns-over-ownership-misinformation-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/07/bigstock-Ai-Technology-Artificial-Inte-470953355.jpg",
-          "width": 710,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-07-22-seven-ai-companies-agree-to-safeguards-in-the-us.md",
       "title": "Seven AI companies agree to safeguards in the US",
       "excerpt": "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology.",
@@ -353,6 +344,48 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-reddit-tricks-an-ai-into-writing-an-article-about-a-fake-world-of-warcraft-character.md",
+      "title": "Reddit tricks an AI into writing an article about a fake World of Warcraft character",
+      "excerpt": "On July 20, Reddit user kaefer_kriegerin made a text post expressing their excitement over the impending arrival of a new WoW player named Glorbo. Glorbo is not real, and the author made their aim for creating him clear, writing at the top of the post, \"I just really want some major bot operated news websites to publish an article about this.\"",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorbo",
+      "originalUrl": "https://mashable.com/article/world-of-warcraft-wow-reddit-ai-glorbo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04H46Q9gFPmsEv7MZ9sMjUH/hero-image.fill.size_1200x675.v1689959419.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-21T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-21-analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities.md",
       "title": "Analyze rodent infestation using Amazon SageMaker geospatial capabilities",
       "excerpt": "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,",
@@ -413,7 +446,7 @@
       "originalUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -602,7 +635,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/21/techcrunch-roundup-generative-ai-marketing-european-edtech-report-falling-fintech-valuations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1214,49 +1247,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance.md",
-      "title": "Nauticus Robotics Inc. (KITT) Stock: Tracking the Weekly Performance",
-      "excerpt": "The stock of Nauticus Robotics Inc. (KITT) has gone down by -4.83% for the week, with a -6.19% drop in the past month and a -18.60% drop in the past quarter. The volatility ratio for the week is 6.14%,",
-      "sourceUrl": null,
-      "webUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
-      "originalUrl": "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsheater.com/wp-content/uploads/2020/01/Image-24.png",
-          "width": 640,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsheater",
-        "domain": "newsheater.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
