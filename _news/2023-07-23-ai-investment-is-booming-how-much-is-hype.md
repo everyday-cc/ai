@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/23/business/ai-vc-investment-dot-com-bubble/index.html"
 type: article
 quality: 89
-heat: 118
+heat: 109
 published: true
 
 provider:

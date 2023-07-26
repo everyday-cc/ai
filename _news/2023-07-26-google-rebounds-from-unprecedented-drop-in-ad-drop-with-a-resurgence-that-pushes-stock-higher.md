@@ -42,14 +42,21 @@ related:
         height: 628
         isCached: true
   - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
-    excerpt: "The results for the April-June period released Tuesday by Google's corporate parent, Alphabet Inc., reversed a financial downswing that had raised fears Google was losing its financial steam at the same time advances in artificial intelligence, or AI, threatened to undercut the dominant search engine that powers its digital ad empire."
-    publishedDateTime: 2023-07-25T21:05:00Z
-    webUrl: "https://www.houstonchronicle.com/business/article/google-rebounds-from-unprecedented-drop-in-ad-18260417.php"
+    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence"
+    publishedDateTime: 2023-07-25T21:32:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
+      name: The Hill
+      domain: thehill.com
+    quality: 31
+    images:
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/64c03ffdc827f6.51508745.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "nKgJvAyPrInhJ5ZHP6N97Y1nsUC0QRpUOpgFipOS+x47Mjn1NJRzZ4LZelLLdLgEfCXTx0E2OYOKdNuN03KJdmHkZzN4TRfEPpj2NCkzbiOLkTQ8lQ+82iuCApvaLKzmvfxaHHSDFxOvjrtK5nx2yhflSv/pBuxw/WCej4UnfrJ4IpZY2IXSCNZMDWckiym787kMekCbreJMDT3pwtvBC/1U38Bj5sxwcbMp5/zbnpWVHdHUMJA4nooz9igXwuJbJ2h9nSgw+FKZO9vcKElWWsIbEsi4YBJqbLMeH2vZsoJeGIJtlOcO3qBJfhnHU/EAjOcv2Ijv9OTtLDWJWeQ2wJrwf1OAxaUv2k7fM13h50A=;VlRX4y53V/Tc2BeTeelCBA=="
 ---

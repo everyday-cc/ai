@@ -2,6 +2,40 @@
   "page": 155,
   "value": [
     {
+      "path": "_news/2023-04-19-applying-ai-to-crack-the-problem-of-safer-better-petroleum-processing.md",
+      "title": "Applying AI to crack the problem of safer, better petroleum processing",
+      "excerpt": "To better examine and optimize the process of catalytic cracking, the team investigated neural networks. This type of artificial intelligence models how it processes data on the human brain ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/986624",
+      "originalUrl": "https://www.eurekalert.org/news-releases/986624",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
       "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
       "excerpt": "The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will progress at a CAGR of 61.51% during the forecast period.",
@@ -1056,49 +1090,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-chinas-autonomous-driving-companies-mull-to-build-smarter-cars.md",
-      "title": "China’s autonomous driving companies mull to build smarter cars",
-      "excerpt": "A man sits in an autonomous driving vehicle on a pilot road in Guangzhou, South China's Guangdong Province on March 1 of 2021. The city is promoting the development of intelligent",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202304/1289357.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202304/1289357.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-08-16/1ff0a756-c43f-42d9-bd08-e1c35710afe1.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

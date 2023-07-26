@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2023/07/25/exp-ai-investment-wipro-delaporte-live-072503pseg2-cnni-business.cnn"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian AI Tech Support Startup Laying-Off Employees In “Batches” Citing Investor Pressure To Become Profitable"
-    excerpt: "Indian AI tech support startup Saarthi.ai has allegedly laid off several employees in batches. The company has claimed it needed a leaner operation primarily because of \"investor pressure\". As Indian startups, primarily in the tech space, increasingly face ..."
-    publishedDateTime: 2023-07-21T05:47:00Z
-    webUrl: "https://www.gizbot.com/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/indian-ai-tech-support-startup-laying-off-employees-citing-investor-pressure-become-profitable-086385.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 37
-    images:
-      - url: "https://www.gizbot.com/img/2023/07/saarthi-ai-tech-startup-employees-1689918180.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "With AI-Enabled Tech, Indian Navy To Soon Start Testing Advanced Control Systems For Warships, Submarines"
     excerpt: "“The CMS 24-29 can do faster threat assessment with inbuilt-AI algorithms and gives the warship’s captain suggestions on which particular weapon should be used in a particular situation. It can also talk to the existing CMS on board warships,” the TOI report said quoting an official source."
     publishedDateTime: 2023-07-24T06:59:00Z

@@ -103,6 +103,22 @@ related:
         width: 900
         height: 628
         isCached: true
+  - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
+    excerpt: "Company’s $56.2bn revenue beat Wall Street expectations but slowing growth for cloud service Azure proved to be a dampener"
+    publishedDateTime: 2023-07-25T21:41:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jul/25/microsoft-q2-2023-earnings-report-share-drop"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/25/microsoft-q2-2023-earnings-report-share-drop"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/25/microsoft-q2-2023-earnings-report-share-drop"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/6e4f41537e3e1a14b26a759024914f0d87905a73/0_318_5454_3274/master/5454.jpg?width=620&quality=85&auto=format&fit=max&s=9db530a297607be53626c3c00ed90637"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Better Bull Market Buy: Microsoft vs. Alphabet Stock"
     excerpt: "As a result, Microsoft trades at a nosebleed-inducing 12 times sales and 67 times free cash flow with a market cap north of $2.55 trillion. The equally impressive (and in some ways superior) peer we know as Alphabet offers a more comfortable buy-in point at 5.5 times sales and 25 times free cash flows."
     publishedDateTime: 2023-07-21T09:25:00Z
@@ -325,6 +341,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
+  - title: "Microsoft reports slowing cloud growth as it awaits AI revenue"
+    excerpt: "The Redmond-based software giant has been introducing generative AI products and services to help boost flagging cloud sales."
+    publishedDateTime: 2023-07-25T21:35:00Z
+    webUrl: "https://www.bizjournals.com/seattle/news/2023/07/25/microsoft-cloud-growth-ai-projections-earnings.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Amazon, Google, Meta, Microsoft, others agree to AI safeguards set by White House"
     excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards."
     publishedDateTime: 2023-07-21T14:06:00Z
@@ -366,6 +391,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 21
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Strategic partnership highlightsFinancial effects for LSEGEditor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corrected.LONDON — Dec. 12, 2022 —"
+    publishedDateTime: 2023-07-25T22:42:00Z
+    webUrl: "https://www.inferse.com/637809/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
   - title: "The future of business is here: How industries are unlocking AI innovation and greater value with the Microsoft Cloud"
     excerpt: "I have witnessed the staggering speed and scale of generative AI technology adoption, and how it has opened doors for organizations to imagine new ways to solve business, societal, and sustainability challenges."
     publishedDateTime: 2023-07-24T14:10:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-25-aws-teams-with-fox-sports-for-ai-powered-highlights.md",
+      "title": "AWS teams with FOX Sports for AI-powered highlights",
+      "excerpt": "Driven by fans’ expectations that digitisation and the continued advancement of broadcast delivery technology should lead to a dynamic viewing experience, FOX Sports has revealed how it has deployed A",
+      "sourceUrl": null,
+      "webUrl": "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.html",
+      "originalUrl": "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2023/July_2023/AWS_fox_25July2023.png",
+          "width": 854,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html",
+      "publishedDateTime": "2023-07-25T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-ai-appears-more-human-on-social-media-than-actual-humans-study.md",
       "title": "AI appears more human on social media than actual humans: study",
       "excerpt": "An artificial intelligence study published in Science Advances found that AI-generated text on social media can appear more human than human-generated content.",
@@ -270,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/janicegassam/2023/07/24/is-artificial-intelligence-anti-black/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1118,7 +1161,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -1203,58 +1246,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility.md",
-      "title": "AI-Driven Innovations Unveiled: Bolstering Security, Customer Experience, And Visibility",
-      "excerpt": "Splunk's makes AI pivot, enhancing security & productivity. New offerings include automated threat analysis & observability advancements, solidifying its leadership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
-      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64be89b3549ce84619d98956/0x0.jpg?format=jpg&crop=1499,844,x0,y75,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
-      "publishedDateTime": "2023-07-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

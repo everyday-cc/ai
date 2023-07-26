@@ -2,6 +2,40 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2023-05-18-will-artificial-intelligence-be-able-to-prepare-our-tax-returns.md",
+      "title": "Will Artificial Intelligence Be Able to Prepare Our Tax Returns?",
+      "excerpt": "In case you’ve somehow missed the flurry of articles describing the dramatic advance of artificial intelligence, we appear to be at the dawn of",
+      "sourceUrl": null,
+      "webUrl": "https://www.taxpolicycenter.org/taxvox/will-artificial-intelligence-be-able-prepare-our-tax-returns",
+      "originalUrl": "https://www.taxpolicycenter.org/taxvox/will-artificial-intelligence-be-able-prepare-our-tax-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tax Policy Center",
+        "domain": "taxpolicycenter.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu-demand.md",
       "title": "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand",
       "excerpt": "\"Customers seeking AI-driven competitive advantage must grapple with staggering GPU demand and cost pressures,\" said Nick Elprin, CEO and co-founder at Domino Data Lab. \"Our integration with Vultr ...",
@@ -1146,49 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-bahrain-set-to-host-top-fintech-summit.md",
-      "title": "Bahrain set to host top fintech summit",
-      "excerpt": "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r",
-      "originalUrl": "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MTljZGQxZGYtZTZjNC00/2/180308083038dsae-jpg.jpeg?f=3%3A2",
-          "width": 723,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1",
-      "publishedDateTime": "2023-05-18T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
-excerpt: "The results for the April-June period released Tuesday by Google's corporate parent, Alphabet Inc., reversed a financial downswing that had raised fears Google was losing its financial steam at the same time advances in artificial intelligence, or AI, threatened to undercut the dominant search engine that powers its digital ad empire."
-publishedDateTime: 2023-07-25T21:05:00Z
-originalUrl: "https://www.houstonchronicle.com/business/article/google-rebounds-from-unprecedented-drop-in-ad-18260417.php"
-webUrl: "https://www.houstonchronicle.com/business/article/google-rebounds-from-unprecedented-drop-in-ad-18260417.php"
+excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence"
+publishedDateTime: 2023-07-25T21:32:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
 type: article
-quality: 0
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/64c03ffdc827f6.51508745.jpeg?w=1280"
+    width: 1280
+    height: 853
+    isCached: true
 
 related:
   - title: "Google ad rebound renews faith in AI investment"
@@ -50,6 +58,6 @@ related:
         height: 853
         isCached: true
 
-secured: "7sUjtFRwTAROvmgWewAEeuVV57kDvS2fwI0z8/ZolZDkF0DIBgQ4y+R4p2lVtcLln3k5PdVYVR4q4WTm948esTKfsgxVUXTp0sJ+5diR7pCmaRsmBDWglpfqP23qfZG1SbR6UYldHKljvscw3Z0ywR9PdJD5j6RGb+Joa9oFgJt83XmqFcChYTJu8Grkw1R/ZdPXNvhWNcmb+mlo4Dlk3ShlcsBYj28ZfAfv8qNCcVViSmgO+o8pGfXKmmAoDPn8cPqYduDZN3cnUAxKV39FBlgrUYoFXT3bpqndnWhJidV4Rc4xLfMqU3oD2IiJVVYPSXqswyWiWIKXh3J0RNyr5P/XE03B1jO/o2KerWT7SikBtD7ZVUflznL+Qi3aGzHO379oWyi/AbHNudY7FY/8yuRtGypBGdrXkXMoLHBH21sdavg0BrCMl4g8yd4DXHGfJYwI1/R93/z7op8iM8dDrC00vBuEdo1ADuTRq/yeL0Du/lR6gceXPZSc7UE4elxX3P518HCdOzsG/vChseCRRQ==;kRRi5fswyz/aiexoylBlHw=="
+secured: "XyzSSqXuA7C5m2CbhRd94xM/+hTDAfxN9ji1i7/tt8WEQLcyPtwhMAZTg866nLDWQMDJFrwSXw+CO61S/cc2THpJ6lsliZ+eztjbJ7Mxf/kyhx7Op90WgNKhsy8h22qfODLb7d+8uDYbJ4bb3mcFplTkC+qXs03ztqcl7k7RChVPC0PGwYMwwKQEqCZD/hzD15m3asqu4siPOFHWhQIlwPQ3CLWdj03VGshU6Dog56ODH2bIVgbO+N/1d6jKGdyEgrZiRGBhG/FzrXKuho97s2hmYPPbFeddchNhOgYCcwPPulRgb5qmc3llifUZNxmzKNiCYHy41necxgALtSH7BYi2S9R068b0Rt0LGo9NKNE=;oFTZHS2RMPdlu+mnz5zvpA=="
 ---
 

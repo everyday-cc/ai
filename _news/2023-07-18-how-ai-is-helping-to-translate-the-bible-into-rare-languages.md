@@ -1,28 +1,28 @@
 ---
 category: news
 title: "How AI is helping to translate the Bible into rare languages"
-excerpt: "A team of researchers is seeking to put AI to use for a different and more noble purpose — the translation of the Bible into extremely rare languages."
-publishedDateTime: 2023-07-18T13:00:00Z
-originalUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-webUrl: "https://www.catholicnewsagency.com/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-ampWebUrl: "https://www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
-cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/254821/how-ai-is-helping-to-translate-the-bible-into-rare-languages"
+excerpt: "It’s life-altering for communities — the joy and tears that it brings to people to have printed book in their ‘heart language.’”"
+publishedDateTime: 2023-07-18T15:09:00Z
+originalUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+webUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/"
+ampWebUrl: "https://angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
+cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/arts-culture/ai-translate-bible-rare-languages/amp/"
 type: article
 
 provider:
-  name: Catholic News Agency
-  domain: catholicnewsagency.com
+  name: Angelus
+  domain: angelusnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.catholicnewsagency.com/images/Hands_technology_Credit_John_Williams_RUS_Shutterstock_CNA.jpg?w=540&h=360"
-    width: 540
-    height: 360
+  - url: "https://angelusnews.com/wp-content/uploads/2023/07/ulf-and-joel-e1689692545897.jpg"
+    width: 670
+    height: 376
     isCached: true
 
-secured: "RvZY3N48OwFI7fV4H5qBaA3MQxsukLTgmx/YzFDnjeuYERe5Xp4CcK3La4lyhSIrDSGI0YjpaV6mDO7HtsLCRWMUuikiH0Jnm542OotVag3KzShGjSoKynUMrEmUCS37Vwoq6qwY0e/B3FWS0NMJHn9lg2XlMhJEzTtGjfft1i4VtVya8AeIyjyfzyXizgokZVfP8uMK053L2/zcYP63YK0Pao9Eo2yiIdJ/eckCxPpRnqQz70CNKXdcL+pWMZGBaE9Q/mG36Pr0q4GB9jmwIhIzmUikLfXmv79+7dnkfT5X3pGCbc+NWYz6OvBRzC38VWAozMgQUOk+rtj1MzQ48iYcsWHQQQBCCYBhONf780w=;jHY8C7PxlOSJXALh6duZSA=="
+secured: "5xxismAIO4uJ21Njh0M4ztN9sxIEpbvCB51dDgInyixNKOXvluUAJNiRQtcXSWM8ODixmez6t6+E1NEYZRGZJZulp78lTqFiThhooHfJJ9TCDQMo6MCSCZehIK6lf9LsxY26gkzdN8jrqgka/IJc6tRVOou1U74lIPCgsZymKVJCtrR/laNYMjX6lYGfBRYqqthG2C55AAU/M8kWBQ7HwNk2GT/Lou1yPqWTbtboVWVuQ5qfBRTW2/yJyt+WdD9mm0OiGKaBCJClKPibdpvpE9NfCfiJs3nIb0fZpnsjppvckAn0AvhsUIQ1X1eEUvFpdO89ewEnUh53no8XS8QeHUSqlLiwVpMd1CENCGRG0Kg=;kJ5qFkzaNDyM2sYy4KAr9w=="
 ---
 

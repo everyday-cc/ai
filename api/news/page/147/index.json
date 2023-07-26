@@ -2,6 +2,48 @@
   "page": 147,
   "value": [
     {
+      "path": "_news/2023-04-25-traders-have-little-to-fear-from-artificial-intelligence.md",
+      "title": "Traders have little to fear from artificial intelligence",
+      "excerpt": "Artificial Intelligence may indeed hurt some traders but algos have already done half the work. Trading strategies that require human intervention and long-term investors don’t need to worry, yet",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/04/Business_shutterstock_390313318-770x433.png",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html/amp",
+      "publishedDateTime": "2023-04-24T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-from-fake-drake-to-ai-generated-eminem-tracks-can-musicians-copyright-style.md",
       "title": "From fake Drake to AI-generated Eminem tracks: Can musicians copyright style?",
       "excerpt": "An AI art lecturer says an AI-generated song seemingly created in the style of musician Drake raises copyright questions surrounding an artist's style.",
@@ -1159,57 +1201,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-the-uk-will-spend-100-million-to-develop-its-own-sovereign-ai.md",
-      "title": "The UK will spend £100 million to develop its own 'sovereign' AI",
-      "excerpt": "The UK government doesn't want to sit idle while foundational AI models like ChatGPT flourish. Prime Minister Rishi Sunak and Technology Secretary Michelle Donelan have pledged an initial £100 million (about $124.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
-      "originalUrl": "https://www.engadget.com/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/qdvPOgJAnTazRxfXiFcT6w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/7bb09180-e29f-11ed-bfff-290b8a611c9b.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-uk-is-creating-a-100-million-ai-taskforce-143507868.html",
-      "publishedDateTime": "2023-04-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

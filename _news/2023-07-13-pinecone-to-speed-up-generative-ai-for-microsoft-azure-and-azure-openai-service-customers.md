@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Pinecone To Speed Up Generative Ai For Microsoft Azure And Azure Openai Service Customers"
-excerpt: "pinecone , the vector database company providing long-term memory for AI, today announced it will be available on Microsoft Azure. The announcement means Azure customers now use a vector database ..."
-publishedDateTime: 2023-07-13T16:43:00Z
-originalUrl: "https://menafn.com/1106599006/Pinecone-To-Speed-Up-Generative-Ai-For-Microsoft-Azure-And-Azure-Openai-Service-Customers"
-webUrl: "https://menafn.com/1106599006/Pinecone-To-Speed-Up-Generative-Ai-For-Microsoft-Azure-And-Azure-Openai-Service-Customers"
+title: "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers"
+excerpt: "Pinecone, the vector database company providing long-term memory for AI, today announced it will be available on Microsoft"
+publishedDateTime: 2023-07-13T16:00:00Z
+originalUrl: "https://www.datanami.com/this-just-in/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/"
+webUrl: "https://www.datanami.com/this-just-in/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?154094"
-    width: 375
-    height: 249
+  - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
+    width: 1893
+    height: 767
     isCached: true
 
-secured: "5W7AcfmMnZDM2PDQjcVsjVQkQKqWmPQnbpIAd1n5LtYaWxdNkkKourvC06H6U/CLwh0itBtmWE1XL6YuQR/Q3BUF6pciijd7+pnwX5xb0uh2zA2S9mtHjDrD3Fu3oYLqfG4CuJ6nFOAHSdEJcKK9VmvgKY18sSNCmcOcJC2Ykbljd930zA6OoFG2WJ3Z+1rNZWL38FhV5J52V8NWS2ElJw/7G2eE25Ch8t/+vUKY/IDjk33tgHaz7/JC1VXv92rGOY4HMsWyq797MCF8NspUOzqZDztRLiQ4GpPGVFbiCJ7jFXI1nIzC+OFYF4bOMibFIvfLUcnYjFh/n07HNkcyHLdpqbywiJ5QSys8WT9Kw50=;3LQdD8KVlkcJdoYevnK9Qg=="
+secured: "weZ2eAzp+tb7pR5WJ511vVnw7SoPKIEBRdXGATcdjKueWsxjnpZJd5/qIl4UdqbEt31MZvUa2BgyHLEmFqmnxOeLWcfvylTzyl0sFIWsz5pjTZPOlMPfph+EpRCO1f/AVK71z1J/vohc7+51sL5bk5Ug3fVe+aQynH8OwXvTku/lW0lbBlECA2Yv2lAUKVilv5Lcv0DFeYheryrgyah19D2Evse6tro4o+FccJuQdbA32OfbCkssoiWxDWxhQMJ2tvK3SQi4AigFX8vZk141cV79tXkpAXsBNxHr12ObFV1y01AOntlqEbp+L4zPsiDcqOM/LF2GAv3liR4M2lemOfuWhNIOMUpXDihh3Be9y4Q=;MHDs4QAi5e3RJ2oSNNZngg=="
 ---
 

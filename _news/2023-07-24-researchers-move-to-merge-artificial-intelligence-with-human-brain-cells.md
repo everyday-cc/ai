@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Australian DishBrain team wins $600,000 grant to develop AI that can learn ‘throughout its lifetime’"
-    excerpt: "Team exploring field of synthetic biological intelligence hopes to create a machine that can ‘learn throughout its lifetime’ – despite concerns over the ‘existential risks’ of such technology"
-    publishedDateTime: 2023-07-21T06:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jul/21/australian-dishbrain-team-wins-600000-grant-to-develop-ai-that-can-learn-throughout-its-lifetime"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jul/21/australian-dishbrain-team-wins-600000-grant-to-develop-ai-that-can-learn-throughout-its-lifetime"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jul/21/australian-dishbrain-team-wins-600000-grant-to-develop-ai-that-can-learn-throughout-its-lifetime"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 42
-    images:
-      - url: "https://i.guim.co.uk/img/media/70420681b7fde739ca852ab9e9b16a3fcb68b7d3/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=1fc8edf07129ba981895400bae2efe34"
-        width: 620
-        height: 372
-        isCached: true
   - title: "A Research Team Plans to Merge AI with Human Brain Cells"
     excerpt: "A group of researchers in Australia have been awarded just over $400,000 (USD) in government funding to study the possibilities of merging AI with human brain cells, a research project likely to bring a number of AI-related ethical and existential questions to the fore."
     publishedDateTime: 2023-07-24T14:57:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/jul/21/ai-nuclear-weapons-kai-bird-oppenheimer-author"
 type: article
 quality: 54
-heat: 54
+heat: 56
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tension rises among publishers that fear AI might replace media"
+    excerpt: "The IAC as well as other reputable media publishing bodies fear that AI might replace the media, hence the need to fight back."
+    publishedDateTime: 2023-07-25T22:03:00Z
+    webUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
+        width: 1345
+        height: 900
+        isCached: true
   - title: "Read all AI about it: Artificial intelligence reporters may be coming to news sites"
     excerpt: "Google says it is in the early stages of developing artificial intelligence tools to help journalists write stories and headlines, and has discussed its ideas with leaders in the news industry."
     publishedDateTime: 2023-07-21T13:14:00Z

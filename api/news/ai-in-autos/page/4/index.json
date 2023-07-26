@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-27-baidus-zhang-on-ai-self-driving-cars-streaming-video.md",
+      "title": "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)",
+      "excerpt": "© 2023 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/orlando/video/6082077878001",
+      "originalUrl": "https://www.bizjournals.com/orlando/video/6082077878001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-this-self-driving-boat-maps-underwater-terrain.md",
       "title": "This self-driving boat maps underwater terrain",
       "excerpt": "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise.",
@@ -1343,49 +1377,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-06-19-5g-was-an-overhyped-technology-bust-lets-learn-our-lesson.md",
-      "title": "5G was an overhyped technology bust. Let’s learn our lesson.",
-      "excerpt": "One lesson is that we can’t trust companies to be honest about how today’s buzzy technologies, including artificial intelligence, driverless cars and the metaverse, will or won’t change our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/06/13/5g-didnt-matter/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/06/13/5g-didnt-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DT7S27G5CZHJNC6YJHWDVSVEXE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-19T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

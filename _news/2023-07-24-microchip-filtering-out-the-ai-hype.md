@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google’s Termination of ex-AI Engineer Chatterjee Sparks Diversity Concerns In AI Research Team"
-    excerpt: "Amid mounting concerns over diversity and inclusion within the tech industry, Google faces yet another whistleblower lawsuit by an ex-employee. Satrajit Chatterjee, a former senior engineering manager at the tech giant,"
-    publishedDateTime: 2023-07-21T05:24:00Z
-    webUrl: "https://www.cryptopolitan.com/termination-chatterjee-ai-research-team/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 27
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-21_09-43-54.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "bpBRmnZpmz9/7KJZj52uj1BdMOa8aG9oXTFY2hxFza3yQg7qewYne05mhkU5bDSCAI3x/tYUqeQuJLuz9JUYdo/R36LiTZcOlBQ6HHpUJRpB/hoYsmarI2JV2bX3QigsxMoQoYAf1FjymzWPy0S1vU14H+u7+mj0SHK9UBNVbgtZcLrJ6L7bToCODa266mfNwXUknnGQa2OCdynyNIzb6Ip0ido481wD0ULwGeecRH/Vg9eyx9zZpnaT/Vzhi4KgfIY+E9GR7FyaWeKxZ+rdylWwxqZnHzBN5YSnuWHkgn8MZzY8pujCmxKmmRWDi2f0BAOnowIhfANn16BlbGFCGsNW6bSopMW1Fszl0qvE7Aw=;38hFyayKMFaiJ9UgrxHc2A=="
 ---

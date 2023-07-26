@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 642
         isCached: true
+  - title: "Bake risk management and ethics into the planning and implementation of your agency’s AI projects"
+    excerpt: "Given the data and computational prowess available today, agencies should cautiously implement AI, advises Noblis’ Abby Emrey. She shares practical tips on how to do that during the"
+    publishedDateTime: 2023-07-25T18:51:00Z
+    webUrl: "https://federalnewsnetwork.com/federal-insights/2023/07/bake-risk-management-and-ethics-into-the-planning-and-implementation-of-your-agencys-ai-projects/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 41
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/GettyImages-1449569562-scaled-e1690314487418.jpg"
+        width: 2073
+        height: 1081
+        isCached: true
   - title: "AI is amazing and frightening at the same time"
     excerpt: "RUSHVILLE - How many of you know what AI is? Until a very few weeks ago, I have to admit that I was clueless about what AI stood for. As"
     publishedDateTime: 2023-07-24T17:28:00Z

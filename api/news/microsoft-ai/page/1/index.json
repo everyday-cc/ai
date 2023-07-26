@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/petercohan/2023/07/25/generative-ai-views-of-mit-prof-and-goldman-cio-bode-well-for-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 378,
+      "heat": 408,
       "tags": null,
       "images": [
         {
@@ -64,7 +64,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -221,7 +221,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1217,20 +1217,20 @@
     },
     {
       "path": "_news/2023-07-13-pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers.md",
-      "title": "Pinecone To Speed Up Generative Ai For Microsoft Azure And Azure Openai Service Customers",
-      "excerpt": "pinecone , the vector database company providing long-term memory for AI, today announced it will be available on Microsoft Azure. The announcement means Azure customers now use a vector database ...",
+      "title": "Pinecone to Speed Up Generative AI for Microsoft Azure and Azure OpenAI Service Customers",
+      "excerpt": "Pinecone, the vector database company providing long-term memory for AI, today announced it will be available on Microsoft",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1106599006/Pinecone-To-Speed-Up-Generative-Ai-For-Microsoft-Azure-And-Azure-Openai-Service-Customers",
-      "originalUrl": "https://menafn.com/1106599006/Pinecone-To-Speed-Up-Generative-Ai-For-Microsoft-Azure-And-Azure-Openai-Service-Customers",
+      "webUrl": "https://www.datanami.com/this-just-in/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/",
+      "originalUrl": "https://www.datanami.com/this-just-in/pinecone-to-speed-up-generative-ai-for-microsoft-azure-and-azure-openai-service-customers/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?154094",
-          "width": 375,
-          "height": 249,
+          "url": "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png",
+          "width": 1893,
+          "height": 767,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1240,11 +1240,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T09:43:00-07:00",
+      "publishedDateTime": "2023-07-13T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "datanami.com",
+        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null

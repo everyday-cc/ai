@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Microsoft beats quarterly estimates as AI boosts cloud business"
-excerpt: "Microsoft on Tuesday surpassed Wall Street estimates for fourth-quarter revenue and profit as its cloud business benefited from product upgrades featuring new artificial intelligence (AI) technology."
-publishedDateTime: 2023-07-25T19:21:00Z
-originalUrl: "https://www.reuters.com/article/microsoft-results/microsoft-beats-quarterly-estimates-as-ai-boosts-cloud-business-idUSKBN2Z51XD"
-webUrl: "https://www.reuters.com/article/microsoft-results/microsoft-beats-quarterly-estimates-as-ai-boosts-cloud-business-idUSKBN2Z51XD"
+excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
+publishedDateTime: 2023-07-25T20:42:00Z
+originalUrl: "https://www.shorenewsnetwork.com/2023/07/25/microsoft-beats-quarterly-estimates/"
+webUrl: "https://www.shorenewsnetwork.com/2023/07/25/microsoft-beats-quarterly-estimates/"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: shorenewsnetwork
+  domain: shorenewsnetwork.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/jQHWXRMLG5Y_jyA1ZB6WFkLiKgw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TP3J7GYZQFJPRMG5M7QAFSB3M4.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O0X3-BASEIMAGE.jpg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -86,6 +82,48 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2L_HiFv2QE/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google and Microsoft Paying Big to Play in AI"
+    excerpt: "The tech giants at the forefront of the AI race show recovering growth in their core businesses."
+    publishedDateTime: 2023-07-25T22:49:00Z
+    webUrl: "https://www.wsj.com/articles/google-and-microsoft-paying-big-to-play-in-ai-48cae808"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-823368/social"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Microsoft charges ahead with spending to serve AI demand"
+    excerpt: "Microsoft on Tuesday laid out an aggressive spending plan to meet demand for its new artificial intelligence services after surpassing Wall Street estimates for fiscal fourth-quarter revenue and profit."
+    publishedDateTime: 2023-07-25T22:14:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-results/microsoft-charges-ahead-with-spending-to-serve-ai-demand-idUSKBN2Z51XD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/jQHWXRMLG5Y_jyA1ZB6WFkLiKgw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TP3J7GYZQFJPRMG5M7QAFSB3M4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Microsoft Touts AI as Cloud Demand Cools"
+    excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
+    publishedDateTime: 2023-07-25T21:42:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-msft-q4-earnings-report-2023-3d6ebe64?mod=news_archive"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-818044/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft Partners With Indian Company To Build AI Centers"
     excerpt: "This story was first published on the Benzinga India portal."
@@ -200,6 +238,6 @@ related:
       domain: seekingalpha.com
     quality: 31
 
-secured: "5WzHgDcAD9kMIMVWhf6uLflg3nSfp2BoPVMEvp5cltcbre5YqUnvz5l6sErp/tNpZHdR7Ss3TdR2AAeUNlpSydu16+mFkeHKaWKX5/zemDIqaSws/Aa+mfTt3+JqcaJ7hfT1nppg5glSIcBCUTzX1zdJgbWY1aokqrI2vGsLK7hN5U/epMBow6k8A8AWmlpUh8CHuKuOo/RniDZ/RgUjy27Jdd4Nrhjodz3HARrJYoDHX/vtTvDV04kIZeIUo9lNmjoLLf20Ti9hReC6Yv+0nMqVVvyiNfX3VR9QGxSdT4Bcyl6PW6vtvxrTUOZBnwU5bOApIbN2GIRq4BK98ZLASomm0IKi68eFBENXljlvK1U=;6Jq3avuchNqx9mjKGWwrsA=="
+secured: "pVNVSettTvkujM6FJEmXgDpdd4QkFBX1Zo94e46Vb7F0FOmBbhL7ZB3PqXuEPtnAmtfjg0hE3qZh3k/efyVdSh6sXavJS5s6KIwG9+2KJxETUYxZcfuNtLVHlHraIJOUldM2gT66AVXxXX3ZNkvWiyowH8fT4PFmc5I8VBS6TgdoI0rOZVuSx2GYRY6bRHvu0apWLr7tUKkuYV4+e9aERUs/vojxTPqZ+qXNcSmenc4n/tXjGOdGo2z8dFzXMDZ+KnIkXlpOfM85uK9vcl+SVGcwXkt/vXDjgy2bwUL+63NBUeWJ49H1J3JDo0xaXryGTDJ/Zgcf8nXnOQEA84oZGJU3CDVu76M9gP09gyhYoKo=;0T/PeP66OIrezEZsSG8zHA=="
 ---
 

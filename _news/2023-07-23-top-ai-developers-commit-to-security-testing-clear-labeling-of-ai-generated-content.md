@@ -25,59 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Let’s use AI to clean up government"
-    excerpt: "Artificial intelligence could be important in keeping people informed about the government, reforming red tape, and cleaning up waste, fraud and abuse."
-    publishedDateTime: 2023-07-21T06:00:00Z
-    webUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government"
-    ampWebUrl: "https://www.foxnews.com/opinion/lets-ai-clean-government.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/lets-ai-clean-government.amp"
+  - title: "Cybersecurity In The Era Of AI And Quantum"
+    excerpt: "In the ever-evolving landscape of cybersecurity, AI and quantum are rapidly becoming game-changers. How is the US Navy poised to take advantage of this emerging tech?"
+    publishedDateTime: 2023-07-22T05:29:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2023/07/22/cybersecurity-in-the-era-of-ai-and-quantum/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70b71475-d1c7-4614-b8f0-7813636d7907/65f428c8-c417-478c-8692-21def9354f09/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64bac0d97f4273917bde7b81/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 1500
+        isCached: true
+  - title: "The growing impact of generative AI on cybersecurity and identity theft"
+    excerpt: "Personal data is under siege in the digital world. Beating the threat takes building a comprehensive, multi-layered fraud stack."
+    publishedDateTime: 2023-07-21T14:26:00Z
+    webUrl: "https://venturebeat.com/security/the-growing-impact-of-generative-ai-on-cybersecurity-and-identity-theft/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/AdobeStock_598980629.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Independent Ada Lovelace Institute Asks UK Government to Firm up AI Regulation Proposals"
-    excerpt: "While the United Nations hashes out regulations, the UK’s ‘context-based’ approach is intended to spur innovation but may cause uncertainty in the industry."
-    publishedDateTime: 2023-07-24T21:49:00Z
-    webUrl: "https://www.techrepublic.com/article/generative-ai-uk-regulation/"
+  - title: "AI Is About to Shake Up the Cybersecurity Industry"
+    excerpt: "This piece was contributed by Dan Barber, Cybersecurity Instructor within CSB. Artificial Intelligence is the hottest topic in technology and business right now. While companies try to leverage the potential for accelerated capability and Universities like ours are rethinking how we assign and measure meaningful work,"
+    publishedDateTime: 2023-07-24T15:44:00Z
+    webUrl: "https://www.wilmingtonbiz.com/insights/robert__burrus/ai_is_about_to_shake_up_the_cybersecurity_industry/3718"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 60
+      name: WilmingtonBiz
+      domain: wilmingtonbiz.com
+    quality: 41
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/06/tr062223-featuredimage-lenovo-extending-ai-ready-infrastructure.jpeg"
-        width: 1400
-        height: 788
+      - url: "http://wilmingtonbiz.s3.amazonaws.com/burrus_rob-headshot-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "This Is Why Global Governments Are Scrambling To Regulate Artificial Intelligence"
-    excerpt: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence The United Nation's Secretary-General Antonio Guterres just war"
-    publishedDateTime: 2023-07-24T17:10:00Z
-    webUrl: "https://menafn.com/1106661778/This-Is-Why-Global-Governments-Are-Scrambling-To-Regulate-Artificial-Intelligence"
+  - title: "The new universe of Artificial Intelligence"
+    excerpt: "The buzz word for 2023 is artificial intelligence, or AI for short. What is AI and is the hype about its potential impact upon humanity as great as suggested? Certainly, in the investment markets AI is a reality as exemplified by the Nvidia investment craze of 2023."
+    publishedDateTime: 2023-07-25T18:16:00Z
+    webUrl: "https://www.gulftoday.ae/opinion/2023/07/25/the-new-universe-of-artificial-intelligence"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/24/B_92586image_story.jpg"
-        width: 845
-        height: 396
-        isCached: true
-  - title: "This is Why Global Governments are Scrambling to Regulate Artificial Intelligence"
-    excerpt: "VERSES Technologies, a cognitive computing company specializing in the next generation of artificial intelligence, today announces the release of a landmark AI industry report \"The Future of Global AI Governance.”"
-    publishedDateTime: 2023-07-24T13:58:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/18736087/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 12
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 19
 
 secured: "MsYQ1YBW00dtp3UogN8CWQljDNtWcWjt12bE0VD32X5INXFMcu4ZWMaODAPr7D31t3knv66binJ+ymq5zN4e1pLArJ9NA4OdwrXVpBFwkBFZTGEIMfDqrwCgP+ZUL2lw5U1l6n5HQzYoNoIltjGFbsiiCAq5jpqM3pNiBMgQjNJV30aJNGWnftq6jKXxakYj1fDn1C3/iqDu2pL1YlqZM1BiLPpJQR4DzVnZz4h3J2t/MUTqNHb+CVHTHEkuOugJ83XvAxABkR9G0/ZOLteM6TxWtAygDdlrwCNg0dhTVRJIJvtYkdgFb/BA9B9Y04DfBNZY1+O72/tzY0z/z9vUFSI3h8aVgx8GTHGjYn5L0QSpOp5aGFVtQRXXtLzD3S9dAnOjv/Pg1SrZQRi61uac0ushiy58bVmN/SN05qyvRCqbm6IAA6h6hQHZlz+6B/11mmNIuUUMXzV94ftiZwKhN7izAlMMSqZgi4xTeabwVliPdxW1RUWRZXufon62k/NY0D471XSj3/RxkI/YrBDDYg==;qQg9NN4Xo2/QCMg1on9wKw=="
 ---

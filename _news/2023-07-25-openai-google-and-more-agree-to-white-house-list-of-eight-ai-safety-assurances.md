@@ -91,6 +91,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "OpenAI can’t tell if something was written by AI after all"
+    excerpt: "OpenAI shuttered a tool that was supposed to tell human writing from AI due to a low accuracy rate. In an (updated) blog, OpenAI said it decided to end its AI classifier as of July 20th. “We are working to incorporate feedback and are currently researching more effective provenance techniques for text,"
+    publishedDateTime: 2023-07-25T21:30:00Z
+    webUrl: "https://www.theverge.com/2023/7/25/23807487/openai-ai-generated-low-accuracy"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 67
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
     excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
     publishedDateTime: 2023-07-21T08:03:00Z

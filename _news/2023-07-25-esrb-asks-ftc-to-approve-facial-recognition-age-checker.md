@@ -223,6 +223,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The ESRB wants to start using facial scanning technology to check people's ages"
+    excerpt: "Remember a couple years ago, when Chinese gaming giant Tencent began using facial recognition to keep the kids from playing too many videogames? It turns out that the Entertainment Software Rating Board, North America's videogame rating agency, is looking to do something quite similar."
+    publishedDateTime: 2023-07-24T21:52:00Z
+    webUrl: "https://www.pcgamer.com/the-esrb-wants-to-start-using-facial-recognition-to-check-peoples-ages/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 20
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gaCKaW8YDKam4YNKB6nGrK-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "South Wales Police state their case for using facial recognition"
     excerpt: "On 28 June, the parliamentary session’s final Senedd cross-party group (CPG) on digital rights and democracy, of which Open Rights Group (ORG) acts as secretariat, took place online with over 20 attendees tuning in to hear a follow-up to a previous group session on facial recognition technology."
     publishedDateTime: 2023-07-25T12:33:00Z

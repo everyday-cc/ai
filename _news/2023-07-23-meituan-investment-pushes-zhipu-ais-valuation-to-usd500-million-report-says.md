@@ -23,22 +23,6 @@ images:
     height: 510
     isCached: true
 
-related:
-  - title: "Meituan’s Investment in Zhipu AI Pushes LLM Firm’s Valuation to USD500 Million"
-    excerpt: "Zhipu secured CNY100 million (USD14 million) in a Series B fundraiser led by Legend Capital and Qiming Venture Capital last September. Meituan’s investment in Zhipu marks the rapid transition of LLM development to practical application from research exploration."
-    publishedDateTime: 2023-07-21T05:28:00Z
-    webUrl: "https://www.yicaiglobal.com/news/meituans-investment-in-zhipu-ai-pushes-llm-firms-valuation-to-usd500-million"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 33
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/07/28583851640517.jpg"
-        width: 770
-        height: 510
-        isCached: true
-
 secured: "5LlEDuxl2jRc1xP6BlfhcUe3XRJeiJJLqrvOC1mxt9qp5uhUB6Cf0UZ+Qmr/BCH2ZPeu5+0zfg0isAxISm1zfa9VkIE1Ou6GrC9MNGcrLU3qWrfEZVSXl048gNhRPPbmOrnVpXhpKhckCq93LHhNmhanBQc+jBRliYOoJS/K1wqn9+hWXi9rMEevjCqFG0C09pJ48b0yjyHkx5CTceUYkaasI3sLCCAmWuVJycJnJdgSlFHyeo/uk4Z3hTqVsM1tWbU4MsuYFecoqf0+bTUZBLiawzRa5yppBWaLloaT3fMX3QFtYq5Tu+23xIvDdVXTCgFZ58i3CjYS3VuUQAZHLMh24NCUTZx6DZVZYq2R/W9SHEXb4xK//wZUKOhBrLiRBXG7kD5y7Z/E0suMIXQ9ledoLyCSglNcLpLqEgAn7CjiEbdSXboFw/t/waYyR96jbo2LqulERz3KoeAx0njMmjzeFmC+eiNrVwy0l0oFeMpvt1KCPC25qc5JNX+wtISfoLSnq9B/x86BNYf9OSxPVw==;j7bfRdFsLrai002bS4gf2g=="
 ---
 

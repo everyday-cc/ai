@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-07-01-tfgm-no-ai-facial-recognition-in-new-oldham-speed-cameras.md",
+      "title": "TfGM: No AI facial recognition in new Oldham speed cameras",
+      "excerpt": "New speed cameras have been spotted going up around the borough, amid speculation they could include AI or facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
+      "originalUrl": "https://www.theoldhamtimes.co.uk/news/23624964.tfgm-no-ai-facial-recognition-new-oldham-speed-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theoldhamtimes.co.uk/resources/images/16947498/?type=responsive-gallery",
+          "width": 650,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theoldhamtimes.co.uk/news/23624964.amp/",
+      "cdnAmpWebUrl": "https://www-theoldhamtimes-co-uk.cdn.ampproject.org/c/s/www.theoldhamtimes.co.uk/news/23624964.amp/",
+      "publishedDateTime": "2023-06-30T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theoldhamtimes",
+        "domain": "theoldhamtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-01-tasting-success-in-puri-facial-recognition-now-in-big-cities.md",
       "title": "Tasting success in Puri, facial recognition now in big cities",
       "excerpt": "In a first-of-its-kind initiative, the state police have introduced a facial recognition technology in Puri to track the movement of habitual offende",
@@ -1153,58 +1196,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-30-killer-robots-or-not-ais-threat-to-jobs-is-real-which-is-why-it-must-be-handled-wisely.md",
-      "title": "Killer robots or not, AI’s threat to jobs is real – which is why it must be handled wisely",
-      "excerpt": "In the Terminator series of films, the military AI Skynet becomes self-aware and decides to wipe out humanity ... Meanwhile, proponents point out that while AI can be deployed in autonomous driving, facial recognition, as a mobile phone assistant or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/06/29/e39e9827-0a8e-4fa8-b8df-f872ee2dc323_0ecd43bf.jpg?itok=1IXbtR8s&v=1688021011",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3225760/killer-robots-or-not-ais-threat-jobs-real-which-why-it-must-be-handled-wisely",
-      "publishedDateTime": "2023-06-30T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

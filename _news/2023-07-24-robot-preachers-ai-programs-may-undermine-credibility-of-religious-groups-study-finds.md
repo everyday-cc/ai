@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.amp"
 type: article
 quality: 66
-heat: 76
+heat: 78
 published: true
 
 provider:

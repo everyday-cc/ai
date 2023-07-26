@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Proposals aim to regulate artificial intelligence in the workplace"
+    excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
+    publishedDateTime: 2023-07-25T22:28:00Z
+    webUrl: "https://www.wpxi.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/SJIEMTW2NJA63FHEAVZKHAQKTE/"
+    ampWebUrl: "https://www.wpxi.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/SJIEMTW2NJA63FHEAVZKHAQKTE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/SJIEMTW2NJA63FHEAVZKHAQKTE/?outputType=amp"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 76
+    images:
+      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/ritOC9D-fLre8Eyk17v8ZWeFWUo=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/07-25-2023/t_ecc31aa71a374f8c998a7efa4cd70403_name_robotbosses5pp072523_transfer.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "AI could help reduce cancer deaths"
     excerpt: "AI helps detect breast cancer early, reducing mortality rates. AI-based tests, such as OncoStem's CanAssist, can predict cancer risk for up to 10 yrs. AI can recognize patterns & correlations, analyze tumor characteristics & find personalized treatment plans."
     publishedDateTime: 2023-07-21T07:42:00Z

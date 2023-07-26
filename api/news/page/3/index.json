@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-07-24-greek-ai-shipping-startup-acquired-by-japanese-automation-giant.md",
-      "title": "Greek AI shipping startup acquired by Japanese automation giant",
-      "excerpt": "Greek shipping software startup DeepSea Technologies has sold a majority share to Japan’s automation giant Nabtesco for an undisclosed amount.  DeepSea will continue to develop the company’s fuel opti",
+      "path": "_news/2023-07-24-ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility.md",
+      "title": "AI-Driven Innovations Unveiled: Bolstering Security, Customer Experience, And Visibility",
+      "excerpt": "Splunk's makes AI pivot, enhancing security & productivity. New offerings include automated threat analysis & observability advancements, solidifying its leadership.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/greek-ai-startup-acquired-by-japanese-automation-giant",
-      "originalUrl": "https://thenextweb.com/news/greek-ai-startup-acquired-by-japanese-automation-giant",
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fmaritime-vessels-e1690208602997.jpg&signature=dbf1a4ffe9dea196e310d45f132b39f5",
-          "width": 1280,
-          "height": 640,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64be89b3549ce84619d98956/0x0.jpg?format=jpg&crop=1499,844,x0,y75,safe&width=1200",
+          "width": 1200,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-24T07:24:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevendickens/2023/07/24/ai-driven-innovations-unveiled-bolstering-security-customer-experience-and-visibility/amp/",
+      "publishedDateTime": "2023-07-24T07:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -61,7 +62,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-07-robot-preachers-ai-undermine-credibility.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -300,7 +301,7 @@
       "originalUrl": "https://www.forbes.com/sites/siladityaray/2023/07/24/top-news-publishers-are-reportedly-planning-to-sue-ai-firms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -455,7 +456,7 @@
       "originalUrl": "https://www.technologyreview.com/2023/07/24/1076668/how-face-recognition-rules-in-the-us-got-stuck-in-political-gridlock/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -706,7 +707,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -757,7 +758,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1169,7 +1170,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/07/23/hype-fright-and-ethics-in-implementing-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {

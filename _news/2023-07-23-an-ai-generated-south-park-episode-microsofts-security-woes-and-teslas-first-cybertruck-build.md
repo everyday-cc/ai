@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/07/22/ai-generated-south-park-episodes-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/22/ai-generated-south-park-episodes-microsofts-security-woes-and-teslas-first-cybertruck-build/amp/"
 type: article
 quality: 124
-heat: 254
+heat: 284
 published: true
 
 provider:
@@ -75,10 +75,24 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
-    excerpt: "Microsoft on Tuesday surpassed Wall Street estimates for fourth-quarter revenue and profit as its cloud business benefited from product upgrades featuring new artificial intelligence (AI) technology."
-    publishedDateTime: 2023-07-25T19:21:00Z
-    webUrl: "https://www.reuters.com/article/microsoft-results/microsoft-beats-quarterly-estimates-as-ai-boosts-cloud-business-idUSKBN2Z51XD"
+  - title: "Google and Microsoft Paying Big to Play in AI"
+    excerpt: "The tech giants at the forefront of the AI race show recovering growth in their core businesses."
+    publishedDateTime: 2023-07-25T22:49:00Z
+    webUrl: "https://www.wsj.com/articles/google-and-microsoft-paying-big-to-play-in-ai-48cae808"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-823368/social"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Microsoft charges ahead with spending to serve AI demand"
+    excerpt: "Microsoft on Tuesday laid out an aggressive spending plan to meet demand for its new artificial intelligence services after surpassing Wall Street estimates for fiscal fourth-quarter revenue and profit."
+    publishedDateTime: 2023-07-25T22:14:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-results/microsoft-charges-ahead-with-spending-to-serve-ai-demand-idUSKBN2Z51XD"
     type: article
     provider:
       name: Reuters
@@ -88,6 +102,20 @@ related:
       - url: "https://www.reuters.com/resizer/jQHWXRMLG5Y_jyA1ZB6WFkLiKgw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TP3J7GYZQFJPRMG5M7QAFSB3M4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Microsoft Touts AI as Cloud Demand Cools"
+    excerpt: "The company’s relationship with OpenAI has helped drive its generative AI business."
+    publishedDateTime: 2023-07-25T21:42:00Z
+    webUrl: "https://www.wsj.com/articles/microsoft-msft-q4-earnings-report-2023-3d6ebe64?mod=news_archive"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-818044/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft Partners With Indian Company To Build AI Centers"
     excerpt: "This story was first published on the Benzinga India portal."
@@ -168,6 +196,20 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/07/vAI-for-Teams.png"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Microsoft beats quarterly estimates as AI boosts cloud business"
+    excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month “Copilot” for its Microsoft 365 service that can summarize a day’s worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."
+    publishedDateTime: 2023-07-25T20:42:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/07/25/microsoft-beats-quarterly-estimates/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ6O0X3-BASEIMAGE.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Microsoft beats quarterly estimates as AI boosts cloud business and spending"
     excerpt: "Microsoft is weaving AI into its own products, such as the $30-a-month \"Copilot\" for its Microsoft 365 service that can summarize a day's worth of emails into a quick update. It is also aiming to sell cloud computing services that other firms will use to build AI services."

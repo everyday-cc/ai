@@ -39,20 +39,6 @@ related:
         width: 6000
         height: 4002
         isCached: true
-  - title: "Are self-driving cars a national security risk?"
-    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-    publishedDateTime: 2023-07-21T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 41
-    images:
-      - url: "https://kvia.b-cdn.net/2023/07/self-driving-car.png"
-        width: 1080
-        height: 700
-        isCached: true
   - title: "The 3 Best Self-Driving Car Stocks to Buy In July"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The dream of self-driving cars has been around for generations. Soon, it may"
     publishedDateTime: 2023-07-22T11:30:00Z

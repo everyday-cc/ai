@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stoc
 webUrl: "https://www.fool.com/investing/2023/07/24/self-driving-car-ai-stock-to-watch-2023/"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are self-driving cars a national security risk?"
-    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-    publishedDateTime: 2023-07-21T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 41
-    images:
-      - url: "https://kvia.b-cdn.net/2023/07/self-driving-car.png"
-        width: 1080
-        height: 700
-        isCached: true
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
     publishedDateTime: 2023-07-24T23:57:00Z

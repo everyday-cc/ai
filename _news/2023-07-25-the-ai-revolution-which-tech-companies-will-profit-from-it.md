@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
-    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
-    publishedDateTime: 2023-07-21T06:45:00Z
-    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 39
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "AI could revolutionize dentistry. Here's how."
     excerpt: "AI's ability to discern patterns and correlations in vast sets of data make it a potentially powerful tool in clinical settings, especially in diagnosing medical conditions, according to health care experts. And Hillen believes dentistry can tap into the technology's power to help diagnose a range of other medical conditions."
     publishedDateTime: 2023-07-21T18:36:00Z

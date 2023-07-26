@@ -7,7 +7,7 @@ originalUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolut
 webUrl: "https://www.vanguardngr.com/2023/07/ai-machine-learning-ll-revolutionise-industries-ncc/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Technology advancements are revolutionising healthcare, can be integrated with Traditional medicine: MoS AYUSH"
-    excerpt: "Kalubhai mentioned the growth of the Ayush sector in areas of education and global business while noting that the World Health Organization (WHO) and the government have established the"
-    publishedDateTime: 2023-07-21T06:45:00Z
-    webUrl: "https://medicaldialogues.in/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    ampWebUrl: "https://medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/technology-advancements-are-revolutionising-healthcare-can-be-integrated-with-traditional-medicine-mos-ayush-114679"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 39
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2023/05/08/209087-medicine-2.jpg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "The AI revolution: Which tech companies will profit from it?"
     excerpt: "Since the announcement of ChatGPT late last year, artificial intelligence (AI) has become the buzzword on everyone’s lips. In this Q&A article, members of global investment manager Schroder’s public and private equities team – including global sector specialists Jonathan McMullan,"
     publishedDateTime: 2023-07-25T09:21:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2023072564009/aws-teams-with-fox-sports-for-ai-powered-highlights.amp.html"
 type: article
 quality: 74
-heat: 114
+heat: 116
 published: true
 
 provider:

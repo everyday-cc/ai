@@ -7,7 +7,7 @@ originalUrl: "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock
 webUrl: "https://newsheater.com/2023/07/21/nauticus-robotics-inc-kitt-stock-tracking-the-weekly-performance/"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

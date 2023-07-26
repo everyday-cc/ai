@@ -39,20 +39,6 @@ related:
         width: 6000
         height: 4002
         isCached: true
-  - title: "Are self-driving cars a national security risk?"
-    excerpt: "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars."
-    publishedDateTime: 2023-07-21T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/07/21/are-self-driving-cars-a-national-security-risk/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 41
-    images:
-      - url: "https://kvia.b-cdn.net/2023/07/self-driving-car.png"
-        width: 1080
-        height: 700
-        isCached: true
   - title: "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023"
     excerpt: "Exciting times! Here's one small self-driving car and AI stock that often gets overlooked: Ambarella (NASDAQ: AMBA). Though it currently has a market cap of $3.3 billion, the chip designer has offered shareholders a wild ride over the last five years."
     publishedDateTime: 2023-07-24T23:57:00Z
@@ -77,6 +63,6 @@ related:
       domain: businessinsider.com
     quality: 34
 
-secured: "WcaYlucS+a7g15MPBklAnNXRyIWY9YVXIofOpC60OGZ0COrNuzIvzNSxBzPhPu6Mvobvg9JT5tG7+F2gOwyyTSPmXoSqShEUIkJTY7rzsqknsEY/XHMjsExT9jckco8SYESXX7+O2XVKR/VM7fRlZxTjIccejGLCfTz/G3xHUTAPoeNMfV9mSCL7s92WTymxRDttKWqf8ZYtPpA9TF4d0EG4+b6DsoGJfilhVhWKLvosPsiS920anRcpfnBe5tzpLrsBdwzb1pGXhNmEjIvQeHQY61092e3UmYbZcMhzbE8CQuqvAbHf4Co/0LlfHO/a6koTmn2juM1MqsKCg/YLMS8J3juIDFxrT3BNfh5Kxog=;P7n4ui9Fd4kZmTqrCJT7+A=="
+secured: "Jtsk7fkk2DwfeTQyA/WsEiossDTYoS0JIVK3eTlzd+u06nTAU/2UaEqPqm9zoq/gt8uKdanVogvu+zlkLXhmnjk02INez/vDWo6bfvyrSb3Zouc7U6hr0TfhUI6nvP6QvH1LpeS3y61l00AdF3SbkV5+hU7A0kiQ9WPnDn/OX/RyUEVjvkrhcP0jF0nbAdv8jKifhL4bcrc3bRQVVpArqq9d20PphlOvom6JvEbDrjjoIy1UVsnBjD3Voffdm41Yd1W2oAdchweUFPwcSLdjQE9wW0XnSawJx/fyq01FXhNEOC2M2fpe6Bhg4BAznkr/obFOP53npUz5KuKczWD6XSkpwka/1UPkcJClwzxSEgNkJTzdfN+e4R7CzlPQE4J9/JqU2a0ttq1iTCtzmC3nBqTNhooTCsPmYG7+S0rt2A6kzjPP7FzCJi1Yx0kUpsEZ6+JtjWOY8gvGgWG/O0iKVBpSQnS3dbjQWBHycgfRPWnx3yJJwEHVdXq/lbU2aCKB7Xxo45DEcZYV2OsUU5vepw==;Kjk4Laidzww4oz9jZzZZdA=="
 ---
 

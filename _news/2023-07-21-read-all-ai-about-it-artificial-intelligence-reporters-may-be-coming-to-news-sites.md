@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tension rises among publishers that fear AI might replace media"
+    excerpt: "The IAC as well as other reputable media publishing bodies fear that AI might replace the media, hence the need to fight back."
+    publishedDateTime: 2023-07-25T22:03:00Z
+    webUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/07/tension-rises-among-publishers-that-fear-ai-might-replace-media.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/11/artificial-intelligence-image-8398439438.jpg"
+        width: 1345
+        height: 900
+        isCached: true
 
 secured: "FjkI3nz6hQ0E9Dif8qinu9os4hKuf/u2twW9XYfNR50PSda0YjPgf2YdxQQT2Yuky/uKFJHcvsJaOx/nHQfpJQ3lbhgB5KAZx4A+llLpZr10gi6aYr3TXIYnQmaw0K+eDPYQSqb0QCQ0nT/bnYrcfaQ/8D6SVF0IUsiGeZ5Vv1OUbcLdDEvKeoEHBqeuTPDVTc+sJupn4CMKML6Y/MoW5AWFCsAR9XPdp0sAs/lXJ2vwMiLrtYxCadZ/PWZ+7UjRky+EwXKOOwQKWllxmvqeQxIsHYAmXIVcqRBq/dIFRMErYd3b8ncY9/31xvGZLWicIbR/aPYs65hZcDG4tPfvLvS7SzjmTn4v7ZXx/dMpaE8=;npXKVwrqdY85gqEvM3c9Ug=="
 ---
