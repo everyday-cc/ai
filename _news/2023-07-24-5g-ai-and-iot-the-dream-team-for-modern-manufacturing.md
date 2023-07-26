@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/24/5g-ai-and-iot-the-dream-team-for-modern-manufacturing/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "The Turing Test and Its Importance for AI Research"
+    excerpt: "Many people have argued that the Turing Test does not provide an appropriate goal for research into AI. For example, the questions in the test are limited and often based on very specific fields of knowledge."
+    publishedDateTime: 2023-07-26T00:08:00Z
+    webUrl: "https://www.wewantscience.com/the-turing-test-and-its-importance-for-ai-research/"
+    type: article
+    provider:
+      name: wewantscience
+      domain: wewantscience.com
+    quality: 19
 
 secured: "y8FY78UaXqjvx9XIDU7pIf3ZcZI7rmPviAhisgBAEFrW9YDOGxjNvkfz5JU6c9ot7xan34rDjBx2I5DwYJtRNl4ywDnbCia0FluGtwRjmsgBporbRlYWKznrMn2souCFjSlSVAwTokwPIj89Yq1/G/kHsb8iwcls5WmBsMQA/02qsZYKnEtJrm9L63SGuw2o4Ija8y0ZCzwHCaLCFr7Dm2VTnvHeTiRSTCsIO+QiQqc4RNunfVnxlG98YDYHqnNr52Q8GpiyV5rE6dvobvgupnfDeAxhjost+S8+pO0BZku+HNE9NVUw4Rr9FzpUIM316dp7z0TfUK7tmNzMxe1acBfYzgSDY4S7uvw66CLxbxQ=;Y/WZ4mgNFK9ng89MIgWiNQ=="
 ---

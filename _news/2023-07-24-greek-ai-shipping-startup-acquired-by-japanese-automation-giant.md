@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Greek AI Shipping Startup Acquired by Japanese Automation Giant"
-excerpt: "Greek AI startup DeepSea, focused on the decarbonisation of shipping fleets, has been taken over by Japanese automation giant Nabtesco."
-publishedDateTime: 2023-07-23T18:00:00Z
-originalUrl: "https://greekreporter.com/2023/07/23/greek-ai-shipping-startup-japanese-automation-giant/"
-webUrl: "https://greekreporter.com/2023/07/23/greek-ai-shipping-startup-japanese-automation-giant/"
+title: "Greek AI shipping startup acquired by Japanese automation giant"
+excerpt: "Greek shipping software startup DeepSea Technologies has sold a majority share to Japan’s automation giant Nabtesco for an undisclosed amount.  DeepSea will continue to develop the company’s fuel opti"
+publishedDateTime: 2023-07-24T14:24:00Z
+originalUrl: "https://thenextweb.com/news/greek-ai-startup-acquired-by-japanese-automation-giant"
+webUrl: "https://thenextweb.com/news/greek-ai-startup-acquired-by-japanese-automation-giant"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: Greek Reporter
-  domain: greekreporter.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://greekreporter.com/wp-content/uploads/2022/05/greek-shipping-credit-union-of-greek-shipowners.jpg"
-    width: 733
-    height: 461
+  - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fmaritime-vessels-e1690208602997.jpg&signature=dbf1a4ffe9dea196e310d45f132b39f5"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -40,6 +43,6 @@ related:
         height: 400
         isCached: true
 
-secured: "TfJcHzojbM1NdZsV1Mu4FXDWLDZJwXl3m6k0gXPuFietC8V3HZE5WGZcmRQhEX6srBhzYCeNUi2jgeU4+w49a0rrW2uXLcXcWVdwcOvubJW48IY0vm9vOWbWI1/GODeAA29Np2fbxnVsdhn7T4uGVVrFXlFQeY0Y8xkcaHt7Dde65jo5AW0romgKr99+24p6nlEHf+/DFNaz7EphtLe+qgdZyLDnixRB2TG3Rsg5oYPKVQxOaxUokMhmqnW52urvJJYxgkcHmMgkrfByKH4exDkWtMb49Wp+rPPo5yVGzcP2PtlEVzun8a3XpK7+QA5z8izwn//YJPfuNGdOQQOOXxCJkInD/G7guUGUyZTjRck=;L2ji8w/5mBaiFLnP+A+tlA=="
+secured: "AQoixLj4zjBxAe0n495ty1pTfL9I1oKCscS3YgJvOI8R7TPvbiajVPBV9+KY6J7TCOPkPofrR3n7zWPdDMxf1CtbchKANpTDcALSMTfEvqTdihaIf0YRkVDDgzoF8roXHbyYL0VDPEwgZjWpsueBLfvCu2b+0x1axGGMa0XcsxZ0ku6Df65VHr2GvsBg6eKT3lKDfte5XSSkpjQFWuyQi5S9x9Jp/a3yMC7rrKy+h13942nRQTTVk33Eqa42fJfPiSRrRb5YiefJ9HUP1Jfnh45DDMzqlkRvRiMS2TnnF3iSgW7ikMpWTMmCEjPMRzq32WOg5U1tXcfxS/k94/PLWG2hXGasAy6TdUbdWiVYnkc=;rZQqCYo195ZIw2dsExZ+sw=="
 ---
 

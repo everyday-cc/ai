@@ -6,8 +6,8 @@ publishedDateTime: 2023-07-25T21:15:00Z
 originalUrl: "https://siliconangle.com/2023/07/25/the-next-data-cycle-harnessing-vast-unstructured-data-to-feed-the-ai-ml-machine-supercloud3/"
 webUrl: "https://siliconangle.com/2023/07/25/the-next-data-cycle-harnessing-vast-unstructured-data-to-feed-the-ai-ml-machine-supercloud3/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/David-Flynn-Clean.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "a/X36hZjGHZ2UEGtYpij1BinDrFL4tUEqCS8rN1bIF8fKzD80o5DV9oAh5oIGLc+L2CC9OJLXtg4qqnHJJ00ihtPgZJN6xuI+sOdkrdMpOuE+w946Tk0UdJyGrJuRO8az7pFOrBSMpW2qxCv5rL1T6imCYdbb6xeZWBANHex2eKrKJtx0TAt1C9yyQ/tetDNkR0DQAQcKrKxeCvG9ThP02y6EafJCvAVz60FwfriXmCFs/pLeI3QDKlsOtX55IfPkHFgceclLEpuBNh9YB54+ltxbm6ZlFOGlXRZqNzyOc8Zcx8ZT9d4XX51PjAsXIq9ME/yYEGXTKCoOrQ39iRUfO/eh1oN1YRhPGG8G4h3FoQ=;L81D1hQjFyPWpusoDEq+Ug=="
+secured: "IcsO8WZKTDUexGMJUgzUPXrA00RxR1G+zWAnnF5c4OIQagbCxKaZftf5j+vuGJN/IR/SyyrfeEXfiuqa5DXTM869OdeOtIpXw62snINm7F3hbQpl91WdBu7UU32uvjwnimkZqHnD15B1a/z/Abv0S9ce/QUFit0C2O7IkqDG5DatjX3ImMwjvnkjgC1Bw8+5k7aPKm2JFkfGtXf8zEjOKZzEWGiEct8JBFfp81EZMuu1ugB6+q+tfH5NafkVtBa5Ijwr6Ej5HcJMdGnlls5y1OYipkF/L4t4PUmStvYWrEvlot+UbGjG+JTkBm6PrcpH3kY+NhjPsE9BDF79N7cj8Q6TCVqQq+0ic6BNu7ITNwLRMVbcd8hP5hUeZoP/qyS6XUOAkkwLrSjvfAVvHqCGTQCId4TOXZ1y22cl6w7qxLuRirRyg9tKDTOqKWWa/qjlClGJaaJgXJkiWoqPYku2lHVl1KzO8UaZJJiMDr3myna4MbbI2EXfPMbHrm2L8gdiZ14uQg2QKF7xpf+OXLo15A==;fkYJSCj47WObNbV56EznYA=="
 ---
 

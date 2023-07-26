@@ -103,15 +103,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "AI revolution in fintech: How India is leading the way"
-    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
-    publishedDateTime: 2023-07-21T08:21:00Z
-    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "VdDkvYmlzvF1za4bXh2mVm08Xz4Wf8gmx2wUlICqvAV2OrGvy+ByHg0+NYBbg86BW8A72pppDWChrB5Cwtpy73U8TZaSoq3+b7b6s+OEIR8VViAiYe6ZCm/w6ItzTpDBCP7nRqwRiO2H37Bt5fpsn1RS1+hqqdtnYSBHTLmpAfQXXYK05/tmF6uGjT5cc0LNuTYrnNyeFxrUBxGvQiQtDtch/GOvmecVdEzLEy0+/IGBgjAiy3nHB7D6G+17Cowe3zfIiT+G1nfPEjV/QNjrzpllMgyPcozvoKqo7HYkMr2TSZ2LxLj8aYco9fSFdzj4XvOXI9KgT7tfF4nmdXjJPCvqKvMk7Mb1/ZD9KiJx2/q5qOWOXBNo1CXdh67fu6G5iCsS5jEjPhdvqkZuvhAq1e3ctziMidXKMG8suWA2YlVCP58xLJ+b7tDP1gY3KY8FRAsrIRDily+yjL2ookd6Sa+1/rmlcQ8SEYMtrG4m2ZoIJm2kA7vs8MR0I0MIpRIhpjWnAIqquZPV0T5jWYgHbA==;+W3JRF1Wzhr2todJO+SoAQ=="
 ---

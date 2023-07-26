@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tech companies to make AI safety and transparency pledges to White House"
-    excerpt: "US technology companies including Google and OpenAI are set to publicly commit to promote safety and transparency in the development of artificial intelligence at the White House on Friday."
-    publishedDateTime: 2023-07-21T09:00:00Z
-    webUrl: "https://www.ft.com/content/49ddbbc8-ec8b-4c42-bb7b-3bc65e0b192c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 16
 
 secured: "CSK+QrF/Ry0jf7ZFCfS8jnWzlEy3brT3o4fjiHc2FUJ6d590IZ/10PLnd3QqUPxAaavjC69ecsvgfNsNtPXOb6UR3RSEacGJgeUbw7Il7AgCAbNoeXgOCmqyL9pIR0P3fW2ziYHgUVJW0anKPx9Boah4s00SdFNy8lgRlAxWmownP7/mtHOYSA4va5iBWPNU9PzreZBzXFaZipeDtomFs7NDeaEcDbfc4Hbk7Xh263WejUCvytT67lSb6NBN1ZTYJ6O/Kc764qW3rkJw26IDkD6P2ORxTeyGOxxB+gblUk9qjOROXq1ZJkv5KAutTkixhCd/4hBal4+IjEgBHq07sZVtBClXAq5kLlS638kIZD05pHEM/91c9jOnO3yl87yUpgBEAuVZtoMwg/v0Y/KOscidB+2mJ000U2c9y+D0ic2vWYzkG/Y6j7m0NZ7OWI61tJxPTtkbIm9mWklJq4jsRITi1zeFKhTS2PMTsHta43OP3EoFYUvtT7D/eAwqoPuiixdwxareIvUU8A1l+dGUJQ==;WsId48kwBpFEP4Y0cJ+F4A=="
 ---

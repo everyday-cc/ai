@@ -115,19 +115,19 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
-    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
-    publishedDateTime: 2023-07-21T08:03:00Z
-    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
+  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
+    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: Inferse
+      domain: inferse.com
+    quality: 45
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
-        width: 800
-        height: 533
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
+        width: 300
+        height: 250
         isCached: true
   - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
     excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
@@ -151,20 +151,6 @@ related:
       - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2023/07/Screen-Shot-2023-07-24-at-9.34.24-AM-696x382.png?lossy=1&strip=1&webp=1"
         width: 696
         height: 382
-        isCached: true
-  - title: "Top tech firms sign White House pledge to identify AI-generated images"
-    excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
-    publishedDateTime: 2023-07-21T08:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/21/ai-white-house-pledge-openai-google-meta/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "11FtaUJ7q6NduB9FbcP2U90luM0Fo3FUIuoo+TX7/BFSwiiDrLjA2sNnpgt9JFci6vaw0JVTzIeRsyxZ8XUp7do9KJvo6sZTJzfUeEJRM286JP8f8ddkaa76GH/WRZiIO3ivF5HGGhYL0I7xUuO63NfkxmD1nn+tth5kRlz2ZK3YnPxkenp+jWQpKGexoq1Ha0hV8mq0SxYwWS9s66qZ7wgwPrY+r6Kxe2nIqrbLwd0AmjgzQ9MV5wYMhMZfXfNBDfxKZOFCpKZ+Fv6tXmDc2b2mdU1ZY8HvtE02rUnLBKBxQWsAyY0ZGgil17WwE0B5qnnPwQyk8ax18FujSsF8Z73FkilO3dlsAmYBj3iPPGRPKImvX/PR1tHFAYMpJ0oz5jLu9U70Bc69IW5z0zVwOW4dtNsk+t+GhoZu/rXvy7g04tZeHlJjw/nhlejAPL8lJquh4dLSEG5ryoh7A/cNx6uPfruFpSSpiTzh0nH0PAx5I4/Vf5eO4q+WFQRAIZ9JTc9kQnYaAIISXVdHaXHieA==;OzMD1EC85jhtZY1ytG/vTQ=="

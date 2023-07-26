@@ -58,15 +58,6 @@ related:
       name: EdTech
       domain: edtechmagazine.com
     quality: 34
-  - title: "Transcreation and Generative AI with Jellyfish’s Rocio Martinez"
-    excerpt: "Rocio Martinez, VP of Language Services at Jellyfish, joins SlatorPod to talk about the role of creative content localization at the digital marketing agency."
-    publishedDateTime: 2023-07-21T08:35:00Z
-    webUrl: "https://slator.com/transcreation-generative-ai-with-jellyfish-rocio-martinez/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "CEcgMRur2NLqB/ECyE8rQlLAO/RPBzo+SzS5vVJdbqLPdbhUiFVkXC7CHSk4QNxWh6kO4QKXlOqFXukwilQYempxUlMxqXeSe/7e6Xctr2uOupbpjU8LqD3IT8yzvb7dpavI3VzwnGowFEXLycDxarw18ijQAh2Gu6ugRPJhQrqxe8nG6pH4JzJ50/QcIq6FVHl1LN513iIGO6aDaqYp8Z1CWBFSNMBlbXN5Zo4UdgOSGm0bMz2VF6+0jECVkaMY3ZBvkYP3S1cOGbz+429/bGC2ByVaZs8Ik8OQemYIHYiIsx1cT3LTGb1UxoZGHVkljil9eGwyh7StGhz3oquENVdKClvJ0LaPiWdfaep1vwb9OuQAZWcxTgodkSubWejDY6Nd0Y6R22CLWJXBypzHIV6LUkNfRTLa0m8yJlbtPs9o6D4yLxlOgtpWKVn0nmSvSA/NOBdoJKo+JMlXti4nfpiaaqjFO8Y6yrRW7/8XKLe8AV0N/89R+K31GHXpwLHHIy++bZ0fj2AJS+dW9HJXKw==;ULpsutL2nW4wAQuGWSECFw=="
 ---

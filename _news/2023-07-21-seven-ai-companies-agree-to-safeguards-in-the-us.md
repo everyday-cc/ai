@@ -42,38 +42,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Leading AI companies commit to outside testing of AI systems and other safety commitments"
-    excerpt: "Microsoft, Google and other leading artificial intelligence companies committed Friday to put new AI systems through outside testing before they are publicly released and to clearly label AI-generated content,"
-    publishedDateTime: 2023-07-21T09:00:00Z
-    webUrl: "https://www.cnn.com/2023/07/21/politics/white-house-artificial-intelligence/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/07/21/politics/white-house-artificial-intelligence/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 80
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230704171206-02-the-white-house-0704.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Top AI companies agree to work together toward transparency and safety, White House says"
-    excerpt: "Seven companies, including Alphabet, Meta and OpenAI, have agreed to hire independent experts to probe their systems for vulnerabilities and share information with one another, governments and researchers."
-    publishedDateTime: 2023-07-21T09:00:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/top-ai-companies-agree-work-together-transparency-safety-white-house-s-rcna95406"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna95406"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna95406"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 78
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221107-meta-office-sign-california-facebook-ew-1127a-9c2f7a.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Top Tech Companies Pledge Not to Be Reckless With Their AI Tools"
     excerpt: "Amazon, Google, Meta, OpenAI, and others sign a White House pledge to independently test their AI programs and develop ways to watermark AI-generated content, among other things."
     publishedDateTime: 2023-07-21T14:29:00Z

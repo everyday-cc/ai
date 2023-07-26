@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Alone Can’t Save the Chip Industry From a Downturn"
-    excerpt: "PCs, smartphones and memory still account for most of chip production and remain in a slump."
-    publishedDateTime: 2023-07-21T09:00:00Z
-    webUrl: "https://www.wsj.com/articles/ai-alone-cant-save-the-chip-industry-from-a-downturn-81f11199"
+  - title: "Financial industry urged to capitalize on AI to create synergy in corporate world"
+    excerpt: "Financial firms can capitalize on artificial intelligence (AI) to partner with shipping, warehouse and other logistics businesses and create a synergy in a corporate world that is being rapidly transformed by AI,"
+    publishedDateTime: 2023-07-24T06:43:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/biz/2023/07/602_355574.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=355574"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 54
     images:
-      - url: "https://images.wsj.net/im-821047/social"
-        width: 1280
-        height: 640
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202307/44203c7ce50c40ab85de2540697b65c2.jpg"
+        width: 980
+        height: 671
         isCached: true
 
 secured: "gH0voAdkBlmha6NpBCGmTuB9ek6ifvG0+SbU2GX0N5FYwa3SDCJ6i4qcud3ZxDOwA5HZ0t35OOBvIacKGxjitaHlydnEB2avhrqK67xgy7cous3FcA1oVOh3apTh2gH0FAH7xvvXSkOjz9GIo2E4EeQAh8sOFwgI5mp/OS+dCMhGISgNV+uzOMrgowck5SebNTzvjdcY2J72OhrfD1x1YrvmtMRDaJ6JeUG0njgbEU1CONxr6BV+631TtT72bhV9RvGFRzDcUCCzE2nRscrL9OKZOyXuznrGCv4WNG7paN5nCbo4oNUpqV5l/fBmB7GOnjN/b+vqWsD+gAqyttLiWKHaW+dfMDtrsyikALsPCXo=;XsWuZcx3s+b+nU2TQ1zZ/Q=="

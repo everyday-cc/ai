@@ -104,19 +104,19 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "OpenAI, Google, others pledge to watermark AI content for safety -White House"
-    excerpt: "Top AI companies including OpenAI, Alphabet and Meta Platforms have made voluntary commitments to the White House to implement measures such as watermarking AI-generated content to help make the technology safer,"
-    publishedDateTime: 2023-07-21T08:03:00Z
-    webUrl: "https://www.reuters.com/article/tech-ai-white-house-idUSL1N396305"
+  - title: "OpenAI Could Be Making An Advanced AI Model That Connects 10 Million NVIDIA GPUs Together"
+    excerpt: "The race to secure AI dominance is on full steam with both software and hardware companies trying to up one another, as such, NVIDIA & OpenAI could be"
+    publishedDateTime: 2023-07-26T01:23:00Z
+    webUrl: "https://www.inferse.com/638314/openai-could-be-making-an-advanced-ai-model-that-connects-10-million-nvidia-gpus-together/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: Inferse
+      domain: inferse.com
+    quality: 45
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230721&t=2&i=1639503958&r=LYNXMPEJ6K0AJ&w=800"
-        width: 800
-        height: 533
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-1154.png"
+        width: 300
+        height: 250
         isCached: true
   - title: "Meta, Google, and OpenAI promise the White House they’ll develop AI responsibly"
     excerpt: "The White House is bringing in AI’s top seven companies Friday to make a series of voluntary promises to protect users."
@@ -155,21 +155,7 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Top tech firms sign White House pledge to identify AI-generated images"
-    excerpt: "Google and the maker of ChatGPT are among the seven companies that signed onto the voluntary safety commitments."
-    publishedDateTime: 2023-07-21T08:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/07/21/ai-white-house-pledge-openai-google-meta/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
-secured: "WDj8KhDZ7LPEZvE770CItzG+HGIX3rm0mE/CvBgja58AIbXAEQZYFUKIDmKhoue+I9EKOocBKwrgisuotYPYPGbirlLFFlQaPDzhQ/CmXGpu2h3acF1fAMARwckFivppzYsKGHuBQ1S1fLUSOol75tw0NuQVy4HLIvag57rntJ595mTNtouaLCgzc4FEWokRgFJIvDA4PCkWBMLvrPw+rcSsf7rCXcCArWXkkwuXNlhifCXTdSGnmmobMW8Q++3P1jPcFlyqHig5NopwNYyru3Vr30LgW//erjn9h+DnqRUJ/j0848XYVqJJ5T7eEZSsISBvLnpPZLAoMdRHbBjFSTaYxVhYf3h+oFp+DR35Zu8=;PQ9sEKslBWo9z4ANR0B/sA=="
+secured: "BlvjW6a6rbrohHS3UZ6vkCM5RiBHVLcNcU9o3nv5hbbhaU0j4B6VYthcTsVvoEsHm1ItTt/rAO/YOWsypIcazD820iRqVq0bnaq9p3imV643jKcYcXwo58MG0zwElm+DqOM5jVlM3Db0lty81WYhYUDNXnof+PN/mZPBLxLwJKlhKi3PRKTC8SeFeY8hsOZ1zOaHvAlXUfR/IMmHZlsd6SOL6P49e6bJESoPtNUD2segsHbYSvf+capFoo8matc4p/GJQizuUDiAyKS4MuYlEyfHLGsPfc1gNDgpdD0wIys2dlrsp3lVSWn9bG0/RcqEB3Xj1CuuvkQVBaG/gt5N/uGdqEAlZl+WzUMAOvdCqwRGNCrOEJYURx9evF6L8BovfICN4Ah68OK0DcXnM6vOkBIeHhGrDeK9X4N+HZSfFbDvcKEFlRBJ8iZ0S2/Uc8tuRIIe9PtrAo6qr1k5O3BPecsnJnikqYGljelm03opPAJV4t/MHbqb5sFyCylXkZay038v6PUEbG/nhMe9jrkwYw==;rRNgtg7zdXqRg+BoOElwew=="
 ---
 

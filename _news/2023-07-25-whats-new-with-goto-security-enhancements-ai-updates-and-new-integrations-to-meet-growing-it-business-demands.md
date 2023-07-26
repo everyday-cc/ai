@@ -34,6 +34,15 @@ related:
         width: 375
         height: 222
         isCached: true
+  - title: "Tecton Partners with Google Cloud to Provide Enterprises With the Fastest Path to Building Machine Learning-Powered Applications on Google Cloud"
+    excerpt: "With Tecton on Google Cloud, data teams can accelerate the time to value and maximize performance and reliability of their ML models while controling costs. Tecton’s feature platform also provides a future-proof data foundation to meet the demands of real-time preictive and generative AI models."
+    publishedDateTime: 2023-07-25T16:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/07/25/9853893.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "/qrzS1PE2Bw1Tbv0694CAW6nF5Q5Pk1InVFKHf+GjyAOinyRB5dtnCKcT12zUO+jHMDy3ui0KOwyT7AfxU7vZCs8xGO7vYKBkAEkEwzvj1pbD7uy0VHLMO+3sbzCgJOqpXg1VemvWwg7v/Ii4BrIlTqmwU6NUZUuK22WetkV/1pdsb1v9Mmc9jJkRQdAoC2RbdMv3ctK5Myt3CuHK7UWzZVMS2NgkiH38gFH3iB5QLcAfU35hgpNYyzqpx77NujNmgmGYELilcj1KKvX632XiFgn2qzFJjMOfLgVVqSqXQXlsc1296CitrnQWASfBJbSokYJpZlprwXtnPav8oeutOnsZZHqRZOl7cUNb0R9oCc=;n6+8+ORL47iBwcZxdNHgCg=="
 ---

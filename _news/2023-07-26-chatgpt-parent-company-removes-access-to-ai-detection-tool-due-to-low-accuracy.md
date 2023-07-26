@@ -291,6 +291,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "How AI’s Aptitude for Disinformation Study Reveals Impressive Yet Disturbing Capacities of ChatGPT-3"
+    excerpt: "Recent research published in Science Advances highlights the extraordinary abilities of AI text generators, such as OpenAI’s ChatGPT-3, to convincingly dispense both truthful and false information on social media platforms."
+    publishedDateTime: 2023-07-26T00:17:00Z
+    webUrl: "https://www.cryptopolitan.com/ais-aptitude-for-disinformation-study/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 24
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/JasperArt_2023-07-26_08.01.32_upscaled.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "GPT-4: Is the AI behind ChatGPT getting worse?"
     excerpt: "The AI that powers ChatGPT appears to be performing less well at mathematical problems than it was just a few months ago"
     publishedDateTime: 2023-07-24T18:00:00Z

@@ -71,20 +71,6 @@ related:
         width: 1024
         height: 762
         isCached: true
-  - title: "White House Says Amazon, Google, Meta, Microsoft Agree to AI Safeguards"
-    excerpt: "Big tech companies are adopting voluntary guidelines, such as watermarking artificial content."
-    publishedDateTime: 2023-07-21T08:00:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-says-amazon-google-meta-microsoft-agree-to-ai-safeguards-eabe3680"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-821323/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Keep on Buying Microsoft Stock, the ‘AI All-Star,’ Says Analyst"
     excerpt: "Next week, several of Wall Street’s heavyweights will step up to the earnings plate, amongst them Microsoft (NASDAQ:MSFT). The tech giant"
     publishedDateTime: 2023-07-21T19:03:00Z
@@ -111,6 +97,20 @@ related:
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/01/microsoft-msft-logo.jpg"
         width: 900
+        height: 628
+        isCached: true
+  - title: "AI lesson for Microsoft and Google: Spend money to make money"
+    excerpt: "Artificial intelligence is expected to pay off big for tech giants including Microsoft and Alphabet someday. But expect deeper investments before gains trickle to the bottom line, the companies said on Tuesday."
+    publishedDateTime: 2023-07-25T23:02:00Z
+    webUrl: "https://www.reuters.com/technology/ai-lesson-microsoft-google-spend-money-make-money-2023-07-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/8IDR8ZMg8eS-_Uv-YxiYSpbmiCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HTKPWF5N4FIRPN6GM4MRALZHGM.jpg"
+        width: 1200
         height: 628
         isCached: true
   - title: "Microsoft shares fall after earnings report even as AI bet bears fruit"
@@ -142,6 +142,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/740287/bull-silhouette.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
+    excerpt: "SAN FRANCISCO – Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4 per cent in late trading."
+    publishedDateTime: 2023-07-26T00:46:00Z
+    webUrl: "https://www.straitstimes.com/business/microsoft-s-azure-slowdown-overshadows-optimism-about-ai-growth"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 69
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/FILES-US-TECH-EARNINGS-MICROSOFT-203833.jpg"
+        width: 860
+        height: 573
         isCached: true
   - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
     excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
@@ -271,20 +285,6 @@ related:
       - url: "https://res.infoq.com/news/2023/07/microsoft-launches-vector-search/en/headerimage/generatedHeaderImage-1689764249103.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
-    excerpt: "Amazon, Google, Meta, Microsoft and other technology companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden’s administration."
-    publishedDateTime: 2023-07-21T09:06:00Z
-    webUrl: "https://apnews.com/article/artificial-intelligence-safeguards-joe-biden-kamala-harris-4caf02b94275429f764b06840897436c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 40
-    images:
-      - url: "https://dims.apnews.com/dims4/default/4070e98/2147483647/strip/true/crop/4338x2440+0+226/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fe5%2Fd5785c9f00d93d9aef36853bea83%2F90d35e5c22db4ef093bdf18be7189734"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."

@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 712
         isCached: true
+  - title: "The Turing Test and Its Importance for AI Research"
+    excerpt: "Many people have argued that the Turing Test does not provide an appropriate goal for research into AI. For example, the questions in the test are limited and often based on very specific fields of knowledge."
+    publishedDateTime: 2023-07-26T00:08:00Z
+    webUrl: "https://www.wewantscience.com/the-turing-test-and-its-importance-for-ai-research/"
+    type: article
+    provider:
+      name: wewantscience
+      domain: wewantscience.com
+    quality: 19
 
 secured: "ymKAgkrrZdBH1nrvNuOhr1QJ0GBjvfLhWIeec2vA5HtKma4nSwWw0g1VLh4HDWobp3ubrYxPavYI7S0vjfThrXyfLCX5RJ8UWOnuzmYeceNIxi9bze6vitv5Bdo3tCHcoyozXOqnDZ82rQkGLemzCsOHmRm4xEBQn0qNXxIsxFlD0FjeCbOTNQFlHoJWRGIgmo9jtFpXG3HiAvbmASqKC1rFmXaihOKHp0U1WzPbYfD7rg/i0T0ZqIErOnHlAPPfx/BqySicTMyk77lfW3lxv6IDBmEJK8kfAN0DSzFFHGTkdTM9HtfkoC33NApKJUBPJomsI1pLqdT9vUu+tuMm9PLDieJFZzzgBeg7+pG6nvc=;w/pD0w54uCCO/7vtqjB6tA=="
 ---

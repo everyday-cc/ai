@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-read-the-news-today-oh-bot-ai-generated-anchors-are-making-headlines-in-india/"
 type: article
 quality: 82
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -103,15 +103,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "AI revolution in fintech: How India is leading the way"
-    excerpt: "To understand why India is in the lead for using AI in fintech, let's break down some of its most significant applications"
-    publishedDateTime: 2023-07-21T08:21:00Z
-    webUrl: "https://www.dqindia.com/ai-revolution-in-fintech-how-india-is-leading-the-way/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 19
 
 secured: "4CTe8WyuxJi5NRTpU58O830I74GL0ESBF2WKAovjZaPLyrfOUkSO2imnKZOfyHbTm23EmQnK/2HJ3JjYPd1s5kMM1kZY9ynllVdiB+TPPC8wqJSwhYjaz/6KCbNjoznPXs+82KMUiRgMk5G2S9rCSG5dEnvUmSkoPKATnql8PfKvYcv8rIjY06BLc1/wuf7E8nWU8wfZx4FoCsv2EUUSdDiXG0g2L/oVnuBkyvukO2gtGv4mbgrwIAOvOI8Skliy2Ue6KK5ft6SWGuYThXCxxr4UtpHRvoCXPxYlxz2Th2CqZ/XDazz45WOI1vH/LaqceT74a59nzm5nxUnQPMydqaV9XZsUei9/aNRwvVc4bOs7UDsl/ddeOi93xQe/0nxpuTUbj6mNlRrj3Iwc/fptKFloUu0GaRyfTASkgDGN5MJUAjwH9K/iJsjFcZ255ywWnIAEZT+9GfpYfGnEcwRLKDB1xR40lNLakFZv79P4JDVhQiBPwGirqEDgf+GN3RtXEoG+Pw131Z4y2c6Qb8vN9A==;j0ZZFniZubfWx+9i2uK8fw=="
 ---

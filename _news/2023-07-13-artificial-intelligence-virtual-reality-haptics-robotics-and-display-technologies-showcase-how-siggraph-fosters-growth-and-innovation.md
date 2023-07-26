@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence, Virtual Reality, Haptics, Robotics, and Display Technologies Showcase How SIGGRAPH Fosters Growth and Innovation"
-excerpt: "Contributors to the SIGGRAPH Emerging Technologies, Immersive Pavilion, and VR Theater Demonstrate These Advancements and Evolution of Technology. CHICAGO,  /PRNewswi"
-publishedDateTime: 2023-07-12T20:14:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/07/12/9847425.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/07/12/9847425.htm"
+excerpt: "This year's contributions will showcase the developments in virtual reality, artificial intelligence, haptics, robotics, and display technologies. The 50th annual conference runs 6–10 August ..."
+publishedDateTime: 2023-07-12T20:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/07/n33205953/artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-sig"
+webUrl: "https://www.benzinga.com/pressreleases/23/07/n33205953/artificial-intelligence-virtual-reality-haptics-robotics-and-display-technologies-showcase-how-sig"
+ampWebUrl: "https://www.benzinga.com/amp/content/33205953"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33205953"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2153009/SIGGRAPH___Emerging_Tech.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "09UxkvOWS3LBHcd6I0z1F0vho5+F5RM0NwzvIMtJ8sinz0XSdq8pKQKfb3Bvj4KQz8Yeg8sJV9YmnC99MEtJv8faUmROxuroYmIT4EFpz/jbh5Z4YAvvrDh+SENa3eUUabcC2QeWLe5RuyA5cFZ5pTByK3FWrh6SLd5AxGuHBXqZZJyLj5QLJ4GU/KSrMV7TTTRL1UPxazPpsbJb39wXyq2CBv4LMqwLC8MS3h+lriv5KiaYWCJBdZnAH1xGEgPLf5UrLnE0cckb7nMm2veGuiupeLH+nWs3rJDVHtkSYIX+ABJvp+pWgX7y75O9qNy5A5C0dcB3b/9FBoa+PRKNk1xeKXbqWL81edYJoLHVwaU=;rcq1MENYzgJNqaIJ/sdFiA=="
+secured: "U6Tuqzi7HBeAwRCJ9N0+WiarcWDFExl+UX/c7gXj2OpJ9Crfzo90LTIFzlE17fpX4WKOzFRXGT4Wa8uKcggqNlIXBktfhPBNr/0joM+8y8fx26PM7SvCv9hqMmtA97I+nkEgtym/Rfqxf7evT0ElkNTBhihnBs8Bi0mBENDwLNMYJP3sIbBv3heV7OCYkxl4wEo7GuJMOC21W4lkTFAmdkFe5VZmdvGXaZhQYLg6NE0ZHt800I7utxQFRVumaDwa+HLVUxRVYTjdH+1b6FTnumm3duc0C/yMwPi9eB3S2jCTUNZeC1U8QPmq+GNWcXidnS2Zb3hRMouOeCIlQs8B+GlF1Y4iBBRG+EWdeHhLfX8=;CQyGj7IBNYPwcUiRlsgZ/Q=="
 ---
 

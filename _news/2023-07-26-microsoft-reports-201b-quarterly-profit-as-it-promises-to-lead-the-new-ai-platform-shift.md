@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intell
 webUrl: "https://apnews.com/article/microsoft-earnings-ai-artificial-intelligence-77481ccc329e32bc0754b8fc9f69a0f7"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 810
     isCached: true
 
-secured: "tz5xXVHpM+4f8wM27spDIYB4EPlak6bZzAeQDzCkEZITIICrFMGukAvpa5PuxrGlBPltnQQhZmvLXjX4H+tWmSptI5/mHfjTPnXNRfdpUSz9R/K4++fSuuKn2PIiBnDdfOkDiE0UECuqTHvB3obTzFzzyEHLk6VY3zubpgn7CR6iWK1cZ0vajvd+gT67h0lJxfz4Z7aI9UdBcdl1C/C8xdFcDFcSd75j/D4Lew08NVwnkYAnX6Xo8PZT0mF5lviLrplECYNdd1oshx5MRqgRVAeyYBlJDioO5TE2YWSFn6LOd/yHbTOXET4HPUHMw57LqaTw0xBKjp+0dcohUPLfyQHYogbATZbJzOHE0kS0zyM=;xccVTCnw0aansJ4TZ9/iSw=="
+related:
+  - title: "Microsoft reports $20.1 billion quarterly profit as it promises to lead 'the new AI platform shift'"
+    excerpt: "The software giant said its fiscal fourth-quarter profit was $20.1 billion, or $2.69 per share, beating analyst expectations for $2.55 per share."
+    publishedDateTime: 2023-07-26T00:54:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/international-results/microsoft-reports-20-1-billion-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift-11028701.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 62
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "Qy4VJeOxhcqxfyT0ej0d0umxJPoRsnJbkkPd9Dc72xKs3RMUQ6G4SG5Rt159BuC7UQqn9faQcsZkp3xoIAT83adcYmYhnHtYdZYAdSgBTMUcqCemMt79tMRURQdUvGFIaFH5gk90YzAy2382F7fmh2mZ2KzwEg9RGcXw/uv8eL/nLKDlQG6qi1FoCF/uqCFOMq4LAe02NGgyXIdGaF53PPNM0n8WjZM1ZoNVYEdRAZZ24VHXknd80gx+CGNWD/BYW2iMaW3f6B8/c2xXzKYKYfmMnwUZ+8ilXQaMvnOnqmky0HlEMnUb3Vrj3ujLcuGe5wkoUtnETkpRS+sVAbJbFzQv8I+7CljUYRoSn2v1iHs=;WuT4tQK1sCsnlrkg/YJMHw=="
 ---
 

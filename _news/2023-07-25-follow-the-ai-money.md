@@ -37,31 +37,20 @@ related:
         isCached: true
   - title: "Proposals aim to regulate artificial intelligence in the workplace"
     excerpt: "As artificial intelligence becomes more common in our daily lives, some members of Congress are pushing to regulate its use in the workplace."
-    publishedDateTime: 2023-07-25T22:28:00Z
-    webUrl: "https://www.wpxi.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/SJIEMTW2NJA63FHEAVZKHAQKTE/"
-    ampWebUrl: "https://www.wpxi.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/SJIEMTW2NJA63FHEAVZKHAQKTE/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/SJIEMTW2NJA63FHEAVZKHAQKTE/?outputType=amp"
+    publishedDateTime: 2023-07-26T00:43:00Z
+    webUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/"
+    ampWebUrl: "https://www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/proposals-aim-regulate-artificial-intelligence-workplace/DF6GRM3MDZFMNJ3Q3V6JQP4OYI/?outputType=amp"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 76
+      name: WOKV
+      domain: wokv.com
+    quality: 74
     images:
-      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/ritOC9D-fLre8Eyk17v8ZWeFWUo=/1440x810/filters:format(jpg):quality(70)/d1hfln2sfez66z.cloudfront.net/07-25-2023/t_ecc31aa71a374f8c998a7efa4cd70403_name_robotbosses5pp072523_transfer.jpg"
+      - url: "https://www.wokv.com/resizer/fXhyhZhqur11-OnQLkHYoBG7BZg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/RZTP4L3IRFBINIYZGJD4QHD6JA.jpg"
         width: 1440
         height: 810
         isCached: true
-  - title: "AI could help reduce cancer deaths"
-    excerpt: "AI helps detect breast cancer early, reducing mortality rates. AI-based tests, such as OncoStem's CanAssist, can predict cancer risk for up to 10 yrs. AI can recognize patterns & correlations, analyze tumor characteristics & find personalized treatment plans."
-    publishedDateTime: 2023-07-21T07:42:00Z
-    webUrl: "https://frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece"
-    ampWebUrl: "https://frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece/amp/"
-    cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/news/cancer-predictive-ai-helps-women-in-india-pakistan/article67104968.ece/amp/"
-    type: article
-    provider:
-      name: frontline.thehindu
-      domain: thehindu.com
-    quality: 39
   - title: "Big Tech's AI costs draw attention"
     excerpt: "Microsoft and OpenAI's partnership helped to set off an AI race, but the resulting investor euphoria could be giving way to more discerning questions."
     publishedDateTime: 2023-07-24T22:02:00Z
