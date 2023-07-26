@@ -25,110 +25,96 @@ images:
     isCached: true
 
 related:
-  - title: "Looking Back: Reinventing Marketing Mix Modeling With Machine Learning"
-    excerpt: "In today’s marketing world, we’re seeing the renaissance of a practical solution that was a notable innovation in its time. That solution is marketing mix modeling or MMM. MMM is a powerful tool for understanding marketing effectiveness and planning marketing strategies."
-    publishedDateTime: 2023-07-21T09:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/looking-back-reinventing-marketing-mix-modeling-with-machine-learning/amp/"
+  - title: "Italy’s largest investment bank pledges to back UK fintech startups"
+    excerpt: "London-based startup accelerator Founders Factory has gained a new partner in the form of Mediobanca. The Milan-based investment bank is looking to increase its presence in the UK, and has pledged €12mn to the joint venture."
+    publishedDateTime: 2023-07-24T10:53:00Z
+    webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6320a0f925aeecbf093c4c77/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Market Is Rebounding, and These 3 AI Stocks Are Leading the Way. Are They Still Buys?"
-    excerpt: "Artificial intelligence (AI) has captivated the market following the launch of ChatGPT late last year, and investors are betting on an AI-driven boom, as the new technology could disrupt everything from internet search to cloud computing to even automobiles, by way of self-driving cars."
-    publishedDateTime: 2023-07-21T10:07:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/the-market-is-rebounding-and-these-3-ai-stocks-are/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 62
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740360/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Empowering The Edge: Unveiling The Ai Chip Market's Thrilling Journey 2022-2028 X Herald"
-    excerpt: "Global Edge Artificial Intelligence AI Chip Market research report gives most upcoming industry information on the market situation and future outlook. This report provides you analysis of Edge Artificial Intelligence AI Chip Market size, share ..."
-    publishedDateTime: 2023-07-25T05:46:00Z
-    webUrl: "https://menafn.com/1106672847/Empowering-The-Edge-Unveiling-The-Ai-Chip-Markets-Thrilling-Journey-2022-2028-X-Herald"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/pr/2023-07/25/ADC_e6d8af17-8_Image_In_Body.png"
-        width: 300
-        height: 225
-        isCached: true
-  - title: "This Under 30 Lister Is Shaking Up The Fintech Scene With A Banking Startup For Creators"
-    excerpt: "But one 2022 Social Media lister, Will Kim, is working to help those creators get their finances in check. This week, his startup Karat—which offers credit card and banking to folks who sell via social media—announced $70 million in new funding, bringing its total funding to more than $100 million."
-    publishedDateTime: 2023-07-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/saraheccleston/2023/07/21/this-under-30-lister-is-shaking-up-the-fintech-scene-with-a-banking-startup-for-creators/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 40
-  - title: "How AI Algorithms Can Learn Like Humans With Continual Learning Training"
-    excerpt: "Continual learning is a promising aspect of AI algorithms that enables computers to continuously learn a sequence of tasks, building on accumulated knowledge to improve their performance. But, just like humans,"
-    publishedDateTime: 2023-07-23T10:48:00Z
-    webUrl: "https://www.cryptopolitan.com/how-ai-algorithms-with-continual-learning/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 38
-    images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2023/07/photo_2023-07-23_09-17-32.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Crafting a Hit Song with Artificial Intelligence"
-    excerpt: "With the rapid evolution of technology, it’s safe to say that the boundaries of creativity are being redrawn.  The advent of Artificial Intelligence (AI) has introduced a fascinating dimension to the world of art and music,"
-    publishedDateTime: 2023-07-22T22:18:00Z
-    webUrl: "https://pctechmag.com/2023/07/crafting-a-hit-song-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: PC Tech Magazine
-      domain: pctechmag.com
-    quality: 37
-    images:
-      - url: "https://pctechmag.com/wp-content/uploads/2023/07/Music-AI.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
-    excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
-    publishedDateTime: 2023-07-25T12:00:00Z
-    webUrl: "https://www.newsweek.com/moving-fast-breaking-thingshow-some-health-care-startups-are-putting-patients-risk-opinion-1814984"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 19
-  - title: "Voice experiences ‘challenging week’ with polls showing Yes case slipping below majority"
-    excerpt: "The Voice to Parliament has experienced another “challenging week” with polls now showing the Yes case slipping below majority, according to Sky News Political Editor Andrew Clennell. “The PM Anthony Albanese is regularly being asked now: Why not separate the questions?"
-    publishedDateTime: 2023-07-22T23:29:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/voice-experiences-challenging-week-with-polls-showing-yes-case-slipping-below-majority/video/b32e80041f86e211886040469d4b2062"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 15
-    images:
-      - url: "https://content.api.news/v3/images/bin/bab6d04229b990d27c1029433fe96695"
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2FLondonfintech-e1690195741719.jpg&signature=ab996187a9f4eac7a6b859adaaf82c43"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
+  - title: "4 insights to kick-start your day, featuring Twitter’s fintech makeover"
+    excerpt: "Twitter’s fintech pivot; Coffee Day insolvency; Byju’s loan deal; and tech co’s on AI laws. Bye-bye, blue birdie! This just happened. Twitter changes its logo to X. Hidden in plain sight. The new logo is a throwback to one of the early ventures that Elon Musk first made a name with — X."
+    publishedDateTime: 2023-07-25T00:53:00Z
+    webUrl: "https://economictimes.indiatimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/primearticleshow/102092222.cms"
+    ampWebUrl: "https://m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/primeshots/4-insights-to-kick-start-your-day-featuring-twitters-fintech-makeover/amp_primearticleshow/102092222.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+        width: 710
+        height: 408
+        isCached: true
+  - title: "Founders Factory partners with Mediobanca to boost fintech investment"
+    excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."
+    publishedDateTime: 2023-07-24T08:30:00Z
+    webUrl: "https://www.altfi.com/article/founders-factory-partners-with-mediobanca-to-boost-fintech-investment"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://images.ctfassets.net/2chiqpnroeav/25gBva9WMYHsQ9IQAmyJXa/e7fe46a165ce36af245a541cde71fff8/Founders_Factory.png"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Mediobanca, Founders Factory join to support Italian fintech"
+    excerpt: "Mediobanca & Founders Factory join forces to launch a €12m fintech venture studio, nurturing innovative startups with a focus on blockchain & AI."
+    publishedDateTime: 2023-07-24T14:24:00Z
+    webUrl: "https://fintechmagazine.com/articles/mediobanca-founders-factory-unite-to-suport-italian-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a52f858666447d73949867a62c7e1ce6:b3211bb1616a053243aa03b4c9af6529/alberto-nagel2.jpg.jpg"
+        width: 1199
+        height: 629
+        isCached: true
+  - title: "Mediobanca invests €12 million in London fintech incubator"
+    excerpt: "Mediobanca has joined with Founders Factory, the London-based global company builder and early-stage investor, to launch a new fintech venture studio and accelerator, underpinned by an overall €12 million investment from the Italian investment bank."
+    publishedDateTime: 2023-07-24T08:58:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42677/mediobanca-invests-12-million-in-london-fintech-incubator"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/3283.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Italy’s Mediobanca, London’s Founders Factory to Invest in Fintech Startups"
+    excerpt: "Mediobanca Group, Italy’s largest investment bank, has signed a partnership with Founders Factory, the London-based global company builder."
+    publishedDateTime: 2023-07-24T12:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/07/210536-italys-mediobanca-londons-founders-factory-to-invest-in-fintech-startups/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 2
+  - title: "Lytus Technologies enters Fintech space with the launch of a new payment gateway in India"
+    excerpt: "Will invest 50 million dollars to expand their fintech service in India over the next 5 years~ Mumbai | New York, July 24, 2023 (GLOBE NEWSWIRE) -- Nasdaq-listed Lytus Technologies Holdings PTV. Ltd."
+    publishedDateTime: 2023-07-24T12:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/07/g33345192/lytus-technologies-enters-fintech-space-with-the-launch-of-a-new-payment-gateway-in-india"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "R5GfcCYG19hSzzN6Mx2yMyK0C3rvV3BvUO/6CDNYOOnqMLg0VTvHvvjjrxqv6SGpGSnUwZ4PS1GL7SOFMvQklQ345FHv7qWxPRyiKYscZm2UvgfoxMEtpdJxuY8CD3B6a3R1i9B9xoTNHa9SuAfUxP1PA8Qe0FEopPNaGqMWcE3TIox6zw4VrefxyyzFmlGqxOrWx68JqEXnYq6c7hTgpZZA0Lf99xwDiPtiKAw7HxeyjFrtmEcN7feEA6dFtK030UNyniZcXW1ed4NJhdtk7bbctAFERwny5bJzeuBxaOHuYw+1PsfpTSnFDGBlnJrNzVXCr/zmafGi1gpZ11t4dvhtYXbYA7u1MMO6mXxEJuPqvbsvPx2cvGAtO/e/N9kxkYb3ojpkF6FDsch/sx6DIYQ00YM8ro3nzqda1DfzVaXV92bpSrjfaDYSZ+I3qiK7yyDd1eK3uQIKo38XEGg1XLtccerjXCAK3i+en5TKkDsgFoX3DbjxWkIY3V2qNX+tyH1iR/6rxgih8geej25eHQ==;GtXd/7/7nrRcoPXWgBYCGA=="
 ---

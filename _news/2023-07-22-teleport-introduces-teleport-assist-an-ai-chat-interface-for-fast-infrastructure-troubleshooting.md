@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia announces availability of DGX Cloud on Oracle Cloud Infrastructure for generative AI training"
-    excerpt: "Nvidia said that DGX Cloud is designed to meet the massive supercomputing demands for training generative AI and large language models."
-    publishedDateTime: 2023-07-25T16:07:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-announces-availability-dgx-cloud-on-oracle-cloud-infrastructure-generative-ai-training/"
+  - title: "Akuity Launches an AI Assistant for Argo CD to Help Troubleshoot Common Kubernetes Deployment Issues"
+    excerpt: "Press Release Akuity, provider of Kubernetes-native application delivery software powered by the Argo Project and enterprise support for this popular open source tool, announced a new feature inside their platform - AI Assistant for Argo CD."
+    publishedDateTime: 2023-07-26T02:25:00Z
+    webUrl: "https://venturebeat.com/business/akuity-launches-an-ai-assistant-for-argo-cd-to-help-troubleshoot-common-kubernetes-deployment-issues/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 54
+    quality: 52
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/07/NVIDIA.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI … – NVIDIA Blog"
-    excerpt: "GTC—NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
-    publishedDateTime: 2023-07-24T10:47:00Z
-    webUrl: "https://www.inferse.com/635812/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-nvidia-blog/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 37
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-25525.png"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
-    excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
-    publishedDateTime: 2023-07-25T14:18:00Z
-    webUrl: "https://siliconangle.com/2023/07/25/nvidias-dgx-cloud-platform-now-available-offering-instant-access-generative-ai-infrastructure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/NVIDIA-DGX-Cloud-Image.jpg"
-        width: 1260
-        height: 680
+      - url: "https://i0.wp.com/mms.businesswire.com/media/20230725088248/en/1849461/4/argo-ai-press-screenshot.jpg?strip=all&#038;ssl=1"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "EM8cboJpRp+eAuZJ++5lalgZtW3hXaKTFP2rQRxIkJlaDaYEFZyV8ebkYfZGP/WyGBmtCP6s8KBHm5YO1QntjQN4usj+VzYgVmKLDBe7rETlcMq10zXTlQXOgTAzsJhwi8yl3i8IXOUrujKFMPvgFNS55BAeEmwfayMfQZRHUbeo1dXaDteJAxUfnXf7ADaOOajJoTuKRbSSqE+czAK4HysRUcU50wxu6TsTwnFgYkqAGzpc/HPzd0ZKeFqyzjAYJw7N4UyB0KvUrcIVkoooxbIXv8F4zUV/Xf60TKNlBa5sX5gfJ77kDmgb4ta84KAr1nf+MT0U2a7vfwwqrv/JlXwXpoN46hRzQGKWmoacEgw=;WuPlPDRqQbFXUhWnuLZFMA=="

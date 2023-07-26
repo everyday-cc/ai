@@ -2,6 +2,151 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2023-05-03-ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral.md",
+      "title": "AI-generated beer commercial contains joyful monstrosities, goes viral",
+      "excerpt": "While many fear a future where AI-generated media becomes indistinguishable from traditional media, destroying society and/or civilization in the process, we aren't quite there yet. Exhibit A comes in the form of a surreal AI-generated beer commercial that went viral over the weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_beer_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/ai-generated-beer-commercial-contains-joyful-monstrosities-goes-viral/amp/",
+      "publishedDateTime": "2023-05-02T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-the-ai-political-campaign-is-here.md",
+      "title": "The AI political campaign is here",
+      "excerpt": "President Barack Obama's 2008 election campaign has often been celebrated as the first to effectively use social media as a mobilization tool to capture the White House. In the 15 years since, the technology has gone from being a novel addition to a political campaign to transcending every aspect of one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230502181615-rnc-beat-biden-ai-ad-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/02/politics/ai-election-ads-2024/index.html",
+      "publishedDateTime": "2023-05-02T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-03-private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt.md",
+      "title": "Private AI says its new offering allows firms to safely leverage ChatGPT",
+      "excerpt": "Toronto-based Private AI, a developer of data privacy software offerings, yesterday launched PrivateGPT, an artificial intelligence (AI)-powered tool it said can help organizations “safely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
+      "originalUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/05/GettyImages-1483618422.jpg",
+          "width": 703,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/private-ai-says-its-new-offering-allows-firms-to-safely-leverage-chatgpt/538064?amp=1",
+      "publishedDateTime": "2023-05-02T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-google-is-testing-alternatives-to-third-party-cookies-heres-how-its-going.md",
       "title": "Google is testing alternatives to third party cookies: Here’s how it’s going",
       "excerpt": "As Google’s deadline for eliminating third party cookies in Chrome approaches, the company has been running experiments to determine how alternative, more privacy-friendly technologies can serve both its users and its advertisers. It first said it would ...",
@@ -988,153 +1133,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-see-the-14-slide-presentation-an-ai-powered-startup-used-to-raise-25-million-to-upend-pharmaceutical-marketing.md",
-      "title": "See the 14-slide presentation an AI-powered startup used to raise $25 million to upend pharmaceutical marketing",
-      "excerpt": "Drug commercialization and marketing together are an expensive and labor-intensive process. Odaia is looking to change that through AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/odaia-pitch-deck-series-b-pharmaceutical-marketing-startup-2023-4",
-      "originalUrl": "https://www.businessinsider.com/odaia-pitch-deck-series-b-pharmaceutical-marketing-startup-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64502ae2d40a8d0018fb53b6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-how-artificial-intelligence-is-already-powering-work-in-bc.md",
-      "title": "How artificial intelligence is already powering work in B.C.",
-      "excerpt": "These are some of the novel ways in which B.C. companies are using machine learning and artificial intelligence – and to the clear potential benefit of humanity. But like nuclear fission, machine super-intelligence is a Promethean power with the potential to be corrupted,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
-      "originalUrl": "https://www.prpeak.com/technology/how-artificial-intelligence-is-already-powering-work-in-bc-6938262",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/biv/sanctuaryai-robotopensbag-small-sub.jpg;w=938;h=527;mode=crop",
-          "width": 938,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Powell River Peak",
-        "domain": "prpeak.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-how-will-ai-impact-the-jobs-of-digital-marketers.md",
-      "title": "How Will AI Impact The Jobs Of Digital Marketers?",
-      "excerpt": "AI can automate certain tasks and processes, but it cannot replicate the creativity, intuition and unique perspective that individual marketers bring to their work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f9ae2a9fdf0fd5f1e0ffee3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/02/how-will-ai-impact-the-jobs-of-digital-marketers/amp/",
-      "publishedDateTime": "2023-05-02T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

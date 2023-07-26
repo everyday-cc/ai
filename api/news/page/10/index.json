@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-07-18-meet-a-founder-putting-humans-at-the-center-of-his-ai-startup.md",
+      "title": "Meet A Founder Putting Humans At The Center Of His AI Startup",
+      "excerpt": "The biggest differentiator between Frederik Pedersen’s AI-driven startup, EasyTranslate, and its competitors is the critical role humans play in localizing content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "originalUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6a2ee54984eab11f09e9c/0x0.jpg?format=jpg&crop=838,471,x0,y45,safe&width=1200",
+          "width": 838,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2023/07/18/meet-a-founder-putting-humans-at-the-center-of-his-ai-startup/amp/",
+      "publishedDateTime": "2023-07-18T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings.md",
+      "title": "IBM has been talking up AI, but here’s what investors should really focus on in earnings",
+      "excerpt": "International Business Machines Corp. may be hitching to the artificial-intelligence bandwagon with its new WatsonX initiative, but analysts are more interested in areas of Big Blue’s business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-375235/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-has-been-talking-up-ai-but-heres-what-investors-should-really-focus-on-in-earnings-abc904ec",
+      "publishedDateTime": "2023-07-18T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-18-machine-learning-and-data-science-156-value-free-download0-0.md",
+      "title": "Machine Learning and Data Science ($156 Value) FREE Download0 0",
+      "excerpt": "Machine Learning and Data Science: Fundamentals and Applications. Claim your complimentary copy (valued at $156) for free before the offer expires on July 26. Written and edited by a team of experts in the field, this collection of papers reflects the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "originalUrl": "https://www.neowin.net/sponsored/machine-learning-and-data-science-156-value-free-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/07/1689667515_ml_story.jpg",
+          "width": 760,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/machine-learning-and-data-science-156-value-free-download/",
+      "publishedDateTime": "2023-07-18T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-18-tdoc-stock-alert-teladoc-doubles-down-on-microsoft-ai-partnership.md",
       "title": "TDOC Stock Alert: Teladoc Doubles Down on Microsoft AI Partnership",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Teladoc (NYSE:TDOC) stock is on the move Tuesday as the company expands its",
@@ -778,49 +934,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-18-uk-needs-culture-shift-to-become-ai-superpower-deepmind-co-founder.md",
-      "title": "UK needs culture shift to become AI superpower - DeepMind co-founder",
-      "excerpt": "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-66166236",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-66166236",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/167F4/production/_130384129_index_mustafa_suleyman_976x549.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-66166236",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236",
-      "publishedDateTime": "2023-07-17T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-07-18-intel-capital-invests-in-figure-as-humanoid-robot-takes-first-steps.md",
       "title": "Intel Capital invests in Figure as humanoid robot takes first steps",
       "excerpt": "Intel Capital invests $9 million in AI's autonomous humanoid robot, Figure 01, boosting growth and commercialization.",
@@ -1011,9 +1124,9 @@
       ]
     },
     {
-      "path": "_news/2023-07-17-uk-needs-culture-shift-to-become-ai-superpower-deepmind-co-founder.md",
+      "path": "_news/2023-07-18-uk-needs-culture-shift-to-become-ai-superpower-deepmind-co-founder.md",
       "title": "UK needs culture shift to become AI superpower - DeepMind co-founder",
-      "excerpt": "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa Suleyman added that he does not regret selling DeepMind to the US giant in 2014.",
+      "excerpt": "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa ...",
       "sourceUrl": null,
       "webUrl": "https://www.bbc.com/news/technology-66166236",
       "originalUrl": "https://www.bbc.com/news/technology-66166236",
@@ -1035,7 +1148,7 @@
       "type": "article",
       "ampWebUrl": "https://www.bbc.com/news/technology-66166236.amp",
       "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp",
-      "publishedDateTime": "2023-07-17T09:53:00-07:00",
+      "publishedDateTime": "2023-07-17T10:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
@@ -1060,101 +1173,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains.md",
-      "title": "How FedEx Dataworks is using analytics, AI to fortify supply chains",
-      "excerpt": "FedEx Dataworks' director of data science told VB Transform how FedEx is using analytics and AI/ML to make supply chains more resilient.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/how-fedex-dataworks-is-using-analytics-ai-to-fortify-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/21be95b0-6b9f-40b1-bb55-ef7d2c61be49.png?w=1200&strip=all",
-          "width": 1060,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-17-what-next-for-ai-and-ml-in-financial-services.md",
-      "title": "What next for AI and ML in financial services?",
-      "excerpt": "The latest research from The Bank of England and Financial Conduct Authority, for example, suggests that 72% of UK firms in the sector are developing or deploying ML, a branch of AI that gives machines the ability to \"learn\" from data to improve computer performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services",
-      "originalUrl": "https://www.finextra.com/blogposting/24558/what-next-for-ai-and-ml-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/84105e85-a03f-4e90-bd88-1dae0e9ce405.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-17T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

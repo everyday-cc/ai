@@ -53,6 +53,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 28
+  - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
+    excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.newsweek.com/moving-fast-breaking-thingshow-some-health-care-startups-are-putting-patients-risk-opinion-1814984"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 19
 
 secured: "htoJxV+tSzsuU97jonZuP8mqHy9JWxW4ZciEZiqTXpih6WFsJWsYCwztxl3bRYyb0/b8vnEvxhNsAZgyI/mHLeOAddbuZqRCH3hn3A5S4KzWG6caMxqm1Y3kR9o0+jhjxjKJgK2HneDJK3fHPVV4Ts5hoW/kJYC/zcT09Co9jlUvOMfXuxyIbT7/z3kKWH6qSxj89Phw1ntn+m6m7f5gYTaHDt4Pq4uh6qqP6j1QW5Xyd4DJ/rDzpaFxrBanqguzyATPNRdGMF6fzVS0Od60a69trUGRprbkLa4GVDoU/9cWatrj2MAD/h9pT11jJQoY3b1ptTnBJsFTQPDaBSXDilbzNCokWpMjjUccvUDClehixNN1zCQqkpcOgFSPU7gX8TiAxLotHVtw6qNEyJyiC9jyBhpKvwnTqFPQ9+M+f9+M3abbq5jMzhc+eK9QdfoW7Qu48T72SkOgEe88B2jQPf9x9YFLmypXj4BF+q25zjjTkld5glEUTrtcU7oK0hzVeRfLFO8jD5Z0u78D5M2axg==;ugrDC1MubzP1v7v+gvY5Ng=="
 ---

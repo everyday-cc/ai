@@ -27,38 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "What generative AI really means for the economy, jobs and education"
-    excerpt: "Even with the capabilities they have today, the new generation of AIs will profoundly reshape the world, and your life, over the next decade. Here’s how"
-    publishedDateTime: 2023-07-25T15:30:00Z
-    webUrl: "https://www.newscientist.com/article/2384034-what-generative-ai-really-means-for-the-economy-jobs-and-education/"
+  - title: "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities"
+    excerpt: "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings."
+    publishedDateTime: 2023-07-26T02:38:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Nvidia announces availability of DGX Cloud on Oracle Cloud Infrastructure for generative AI training"
+    excerpt: "Nvidia said that DGX Cloud is designed to meet the massive supercomputing demands for training generative AI and large language models."
+    publishedDateTime: 2023-07-25T16:07:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-announces-availability-dgx-cloud-on-oracle-cloud-infrastructure-generative-ai-training/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 54
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/07/24162638/SEI_164400327.jpg"
-        width: 1350
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2023/07/NVIDIA.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "AI in Education: New Guidance from the Department of Education"
-    excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
-    publishedDateTime: 2023-07-21T20:31:00Z
-    webUrl: "https://edtechmagazine.com/k12/article/ai-in-education-new-guidance-from-department-of-education-perfcon"
+  - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI … – NVIDIA Blog"
+    excerpt: "GTC—NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
+    publishedDateTime: 2023-07-24T10:47:00Z
+    webUrl: "https://www.inferse.com/635812/nvidia-and-google-cloud-deliver-powerful-new-generative-ai-nvidia-blog/"
     type: article
     provider:
-      name: EdTech
-      domain: edtechmagazine.com
-    quality: 34
-  - title: "Generative AI bots will change how we write forever — and that’s a good thing"
-    excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
-    publishedDateTime: 2023-07-22T13:01:00Z
-    webUrl: "https://thehill.com/opinion/technology/4107998-generative-ai-bots-will-change-how-we-write-forever-and-thats-a-good-thing/"
+      name: Inferse
+      domain: inferse.com
+    quality: 37
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-25525.png"
+        width: 1280
+        height: 680
+        isCached: true
+  - title: "More than 70% of companies are experimenting with generative AI, but few are willing to commit more spending"
+    excerpt: "More than half (54.6%) of orgs are are experimenting with generative AI, but few (18.2%) expect to spend more, a VentureBeat survey finds."
+    publishedDateTime: 2023-07-25T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/more-than-70-of-companies-are-experimenting-with-generative-ai-but-few-are-willing-to-commit-more-spending/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 16
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 28
 
 secured: "jDS45NEhBR0D5eUx0Zj3muA+wmE6pYvfxI3HDLKas8SQvsHQs3+PmhywlqFNNi2sV+RMqF1VttgHGtVwNBjxbykG9+RcL1XvlZUtabjpIurYcM3G6iP3Gf62FaIm/GkOtLrlcm+KPs5DXaA6gggrEruVE/Mx21DlALEeWlNDIkD4PZbzz9x29RsqUW26Up8eDz8ZIRTE2igMSPD9C+XxVP+k4MKQhBu1fFF3HHXbcA7nUEx7JH6iXstybnUT2Z2RK5wp/709xUj63+UIboAqiSofDCwkboGVkJLGIK1U5co06xNisMASMMuiZCOXRGzXtwzfxfFs7KdkcCdYE48o+4GOpBt75W/xauuy1ghPKYM=;wkHYCbRJ4a5xjj0dcl0k9A=="
 ---

@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 881
         isCached: true
-  - title: "Tech giants including Microsoft and Google agree to White House AI safeguards"
-    excerpt: "The White House said Friday that it has secured voluntary commitments from seven U.S. companies meant to ensure their AI products are safe before"
-    publishedDateTime: 2023-07-21T09:16:00Z
-    webUrl: "https://www.marketwatch.com/story/tech-giants-including-microsoft-and-google-agree-to-white-house-ai-safeguards-471cd47"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-giants-including-microsoft-and-google-agree-to-white-house-ai-safeguards-471cd47"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-giants-including-microsoft-and-google-agree-to-white-house-ai-safeguards-471cd47"
+  - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
+    excerpt: "The world’s largest software maker projected that Azure gains would slow further in the current quarter, and said it would boost spending to expand data centers for new cloud services — while expecting only a gradual increase in AI revenue."
+    publishedDateTime: 2023-07-26T03:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/microsofts-azure-slowdown-overshadows-optimism-about-ai-growth-11029831.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/microsofts-azure-slowdown-overshadows-optimism-about-ai-growth-11029831.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/microsofts-azure-slowdown-overshadows-optimism-about-ai-growth-11029831.html/amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 101
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 89
     images:
-      - url: "https://images.mktw.net/im-794931/social"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/07/Microsoft.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
   - title: "Google, Meta, Microsoft, OpenAI and more agree to voluntary AI safeguards"
     excerpt: "Several AI companies, from Google to OpenAI to Microsoft, have worked with the White House on a set of voluntary AI safeguards."
@@ -131,34 +131,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Better Bull Market Buy: Microsoft vs. Alphabet Stock"
-    excerpt: "As a result, Microsoft trades at a nosebleed-inducing 12 times sales and 67 times free cash flow with a market cap north of $2.55 trillion. The equally impressive (and in some ways superior) peer we know as Alphabet offers a more comfortable buy-in point at 5.5 times sales and 25 times free cash flows."
-    publishedDateTime: 2023-07-21T09:25:00Z
-    webUrl: "https://www.fool.com/investing/2023/07/21/better-bull-market-buy-microsoft-vs-alphabet-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/740287/bull-silhouette.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Microsoft’s Azure slowdown overshadows optimism about AI growth"
-    excerpt: "SAN FRANCISCO – Microsoft Corp. posted tepid quarterly sales growth and forecast a continued slowdown in its Azure cloud-services business, overshadowing optimism about customer interest in new artificial intelligence-powered products. The shares dropped almost 4 per cent in late trading."
-    publishedDateTime: 2023-07-26T00:46:00Z
-    webUrl: "https://www.straitstimes.com/business/microsoft-s-azure-slowdown-overshadows-optimism-about-ai-growth"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 69
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/07/26/FILES-US-TECH-EARNINGS-MICROSOFT-203833.jpg"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Microsoft Teams Uses AI to Apply Virtual Makeup to Meeting Attendees"
     excerpt: "The Maybelline Beauty app for Microsoft Teams was developed in collaboration with the Geena Davis Institute and is powered using AI provided by Modiface. The end result is access to 12 unique looks for users, who can tweak their digital makeup colors and blur effects before entering (or during) a virtual meeting."
     publishedDateTime: 2023-07-21T12:04:00Z
@@ -191,6 +163,17 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 61
+  - title: "Microsoft, Google are betting billions: AI’s tech arms race heats up"
+    excerpt: "Two of the world’s biggest tech companies have shown just how much financial muscle they are committing in the race to become the king of AI. And the numbers are off the scale."
+    publishedDateTime: 2023-07-26T03:35:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/microsoft-google-are-betting-billions-ais-tech-arms-race-heats-up/news-story/6545723c9d595619905527e84953ee05"
+    ampWebUrl: "https://www.theaustralian.com.au/business/technology/microsoft-google-are-betting-billions-ais-tech-arms-race-heats-up/news-story/6545723c9d595619905527e84953ee05?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/microsoft-google-are-betting-billions-ais-tech-arms-race-heats-up/news-story/6545723c9d595619905527e84953ee05?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 56
   - title: "Birlasoft enters into strategic collaboration with Microsoft to establish Generative AI Centre of Excellence"
     excerpt: "The Generative AI Centre of Excellence will bring together the combined strengths of Birlasoft's industry expertise and Microsoft Azure OpenAI Service."
     publishedDateTime: 2023-07-24T06:56:00Z
@@ -235,6 +218,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft foresees gradual AI adoption instead of rapid uptake"
+    excerpt: "Thanks to an AI wave that helped Microsoft increase its customer numbers, the software giant expected its intelligent cloud service, especially Azure, to drive its growth."
+    publishedDateTime: 2023-07-26T02:48:00Z
+    webUrl: "https://www.digitimes.com/news/a20230726VL200/microsoft-ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230726vl200_files/1_2b.jpg"
+        width: 1280
+        height: 865
+        isCached: true
   - title: "Why the AI Boom Is Good for Microsoft, Risky for Chip and Server Makers"
     excerpt: "A CIO survey reveals that companies are prioritizing AI applications in their spending plans. That also helps explain why Taiwan Semi noted a softening in demand for chips in its earnings report."
     publishedDateTime: 2023-07-21T18:07:00Z
@@ -271,20 +268,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft Introduces the Public Preview of Vector Search Feature in Azure Cognitive Search"
-    excerpt: "Azure OpenAI Service text-embedding-ada-002 LLM is an example ... Vector search also plays an important role in Generative AI applications that use the retrieval-augmented generation (RAG) pattern. The quality of the retrieval system is critical to these ..."
-    publishedDateTime: 2023-07-21T11:08:00Z
-    webUrl: "https://www.infoq.com/news/2023/07/microsoft-launches-vector-search/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 44
-    images:
-      - url: "https://res.infoq.com/news/2023/07/microsoft-launches-vector-search/en/headerimage/generatedHeaderImage-1689764249103.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Amazon, Google, Meta, Microsoft and other tech firms agree to AI safeguards set by the White House"
     excerpt: "President Joe Biden said Friday that new commitments by Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology to meet a set of AI safeguards brokered by his White House are an important step toward managing the “enormous” promise and risks posed by the technology."

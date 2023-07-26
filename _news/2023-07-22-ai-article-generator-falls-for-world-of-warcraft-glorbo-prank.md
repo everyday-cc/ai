@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Warcraft fans claim win over AI with Glorbo prank"
-    excerpt: "World of Warcraft fans are claiming victory over AI after a gaming site published a false article based on their Reddit posts. Members of the WoW subreddit suspected their words were being extracted and used to create news stories by a bot."
-    publishedDateTime: 2023-07-21T09:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/newsbeat-66266344"
-    ampWebUrl: "https://www.bbc.co.uk/news/newsbeat-66266344"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/newsbeat-66266344"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11C53/production/_130478727_dragonflight_return_to_the_forbidden_reach_sarkareth_-1.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "CtcbloV+XmcRNyWmk3Q8wfuqZOHb4t3CLozD3ENXrKpACo+Nt8AXLmWyCCizmXAKRn1TB+z5tZyIzy7nTxNdhxEsPLveGvYrLb6b4t6BOYRPv1bW2awXfVovsYRO0w+8ziRNu8px1w9zoVyb31SMwri7oTfyrocbcQDmPk6PESL/UMNjrXakppjADpiuosk1YBbY2KY2ElwmH0+Mrek7wh/eCgT1QkJuVowq8X4c2t6BkNczFkloMMScjm0ZMX5RC8wn48cEm8wEJo3SGfyPQ4M6abCPRZczaNqkYP1zNWJAA80UyHS+54HRIMXPhB547fw+1I9DquQOn2EMegjcM0OZ4d1x2W9wPh19C+1TnYuQ5Q5Ed7xe/iPXslmgWbYTZe/Qn6lDkYT96jld82XI5D4gEP3ghCJovSL3re2zm8Oypw3AyNxLe+Z3zLFCOMZUZU20Df6srAAWBZTFXn8UZQuJXyvHqezyxMtALyNxMUR53BXlzkLZQxdwaHvochNHSV2wwqMWWZsDH0TZXWabGg==;ex1j0qoGYRYbjvjwN+7BYA=="
 ---

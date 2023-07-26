@@ -2,16 +2,20 @@
 category: news
 title: "UK needs culture shift to become AI superpower - DeepMind co-founder"
 excerpt: "The co-founder of leading AI firm DeepMind, which started as a UK company and was sold to Google, says the UK should encourage more risk taking if it wants to become an AI superpower. Mustafa ..."
-publishedDateTime: 2023-07-17T17:55:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-66166236"
-webUrl: "https://www.bbc.co.uk/news/technology-66166236"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-66166236"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-66166236"
+publishedDateTime: 2023-07-17T17:06:00Z
+originalUrl: "https://www.bbc.com/news/technology-66166236"
+webUrl: "https://www.bbc.com/news/technology-66166236"
+ampWebUrl: "https://www.bbc.com/news/technology-66166236.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-66166236.amp"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
@@ -23,6 +27,6 @@ images:
     height: 576
     isCached: true
 
-secured: "khjCgfWcnv4jXvenUkyBBI6D8ITgPwslPeatVu0YUWnNYq0GSs1yeRiK3P/cIKO1OkngiMNVg83PCs06hyKuaJwJy12VIAwR75dcGW7wO+kBim10h6mEV84nNI3/j0tNWdzsP0tfZ/QyVIuiVgMP5vh1PsVyDJzELfYUs2OMyVoKm8tylFp5mcXmO2+c0rJA28O1qb6308l80OkUBiiKyWW7Uhdsfm3o0/nkelPDYLE+IXLzM5b6MXCgNtshdKbgOBIO7fuWey7C5DioWMet4RPYULchn7LBNtAhOV0MGWrGCTDCEWQBXTluWZD2Qo1Kd/UOGD7GyTzpGjcu5vIEHQ1+TQaauWbpR/r7SMlIpWg=;N0bZjDCPrlsQooHlke4LTg=="
+secured: "ao1x+F7pz0NaysULb+3mt+1cg9jeeQErXRlvBbt9jlSYst/6cIgUCfY3FK3LMtnFCj0oc+Bd36D4A3vDwPXZJTXQiYXPU80TPvb8hf158gwXUYd3zmlnc+y0zc2KOodP+JU6BnenDyfkY67tlq94ksFniD8qz3mdnvMY8lJm0EplpSa31MRChcE64mPBOTYdR1Mme99Se7Ueohgl5+54K88dSPvVwymlJeeBqnWuhQ5q3sEuh07xVP0hl3xr9xXrPlJMPiybw3B+Wq7Wfk0t1+TP5lQqZzN8kRRLzwa1nY9Lw8bj13sXszVjwAoniXnmgTa235N5KgABIxe9aTUGtII8AH3Zxp7NKuG9A7UYsug=;wSHIeCx0+vK4gBVvOtmnQA=="
 ---
 

@@ -2,6 +2,154 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-07-12-how-to-avoid-pitfalls-and-navigate-the-ethical-landscape-of-generative-ai.md",
+      "title": "How to avoid pitfalls and navigate the ethical landscape of generative AI",
+      "excerpt": "We still have a lot to figure out. That was my impression of a Transform 2023 panel that drilled into the ethics of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-avoid-pitfalls-and-successfully-navigate-the-ethical-landscape-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/ethics-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-nvidia-is-looking-to-expand-its-silicon-empire-as-it-rides-the-ai-boom-the-chipmaker-is-in-discussions-for-a-stake-in-the-uks-arm.md",
+      "title": "Nvidia is looking to expand its silicon empire as it rides the AI boom - the chipmaker is in discussions for a stake in the UK's Arm",
+      "excerpt": "Nvidia is in discussions to acquire a stake in UK-based chip designer Arm before it goes public. The world's top chipmaker previously tried to acquire the same firm in 2020 – before US competition authorities blocked the move.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ae8e768ed31300199e9336?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-stock-ai-arm-anchor-investment-talks-chipmaker-artificial-intelligence-2023-7?amp",
+      "publishedDateTime": "2023-07-12T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-12-leading-experiential-marketing-platform-anyroad-announces-pinpoint-new-natural-language-processing-and-generative-ai-feedback-assistant.md",
+      "title": "Leading Experiential Marketing Platform, AnyRoad, Announces Pinpoint: New Natural Language Processing and Generative AI Feedback Assistant",
+      "excerpt": "AnyRoad, the leading platform for data-driven experiential marketing, today announced Pinpoint, a new AI-powered feedback assistant that helps you understand exactly what drives positive and negative brand experiences and the actions you can take to improve impact and ROI.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/12/9847297.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/12/9847297.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2151824/AnyRoad_Shot_of_Pinpoint.jpg",
+          "width": 400,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-12T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-07-12-ai-drug-discovery-firm-recursion-surges-following-50-million-nvidia-investment.md",
       "title": "AI Drug Discovery Firm Recursion Surges Following $50 Million Nvidia Investment",
       "excerpt": "The latest sign of investors’ unrelenting demand for all things artificial intelligence related: a record rally in drug discovery firm Recursion Pharmaceuticals Inc. following an investment from Nvidia Corp.",
@@ -961,17 +1109,17 @@
     {
       "path": "_news/2023-07-12-mind-blowing-ai-for-good-or-ai-gone-bad.md",
       "title": "‘Mind-blowing’ AI for good… or AI gone bad",
-      "excerpt": "Bogdan-Martin, along with other speakers at the summit, painted several scenarios for AI’s future including one where AI lives up to its promise and is harnessed to find cures for diseases, provide clean energy and mitigate climate change, and precision agriculture increases crop yield and reduces food waste.",
+      "excerpt": "AI is racing ahead of the ability to set guardrails and quick action is required to prevent AI risks spiralling out of control, attendees at the UN’s AI for Good Global Summit have heard. The summit brought together 4,",
       "sourceUrl": null,
-      "webUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
-      "originalUrl": "https://istart.com.au/news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
+      "webUrl": "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
+      "originalUrl": "https://istart.co.nz/nz-news-items/mind-blowing-ai-for-good-or-ai-gone-bad/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://istart.com.au/wp-content/uploads/2023/07/AI-for-Good-Summit-2023.jpg",
+          "url": "https://istart.co.nz/wp-content/uploads//2023/07/AI-for-Good-Summit-2023.jpg",
           "width": 600,
           "height": 400,
           "title": null,
@@ -986,8 +1134,8 @@
       "publishedDateTime": "2023-07-11T22:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "istart.com.au",
-        "domain": "istart.com.au",
+        "name": "istart.co.nz",
+        "domain": "istart.co.nz",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1051,117 +1199,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-kpmg-and-microsoft-enter-landmark-agreement-to-put-ai-at-the-forefront-of-professional-services.md",
-      "title": "KPMG and Microsoft Enter Landmark Agreement to Put AI at the Forefront of Professional Services",
-      "excerpt": "KPMG and Microsoft have announced a significant expansion of their global relationship that will reshape professional services across a number of business-critical areas including workforce modernization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230711515500/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230711515500/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-best-extended-amazon-prime-day-2023-deals-you-can-still-shop-right-now.md",
-      "title": "Best extended Amazon Prime Day 2023 deals you can still shop right now",
-      "excerpt": "To help cut down your browsing time, we put in the busy work and hunted through Amazon’s Persian buffet of deals to outline the only edit you’ll need: our top extended Prime Day deals across ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/",
-      "originalUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/07/best-prime-day-deals-2023x-1.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/article/best-amazon-prime-day-2023-deals-sales/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/article/best-amazon-prime-day-2023-deals-sales/amp/",
-      "publishedDateTime": "2023-07-11T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-12-artificial-intelligence-and-copyright.md",
-      "title": "Artificial Intelligence and Copyright",
-      "excerpt": "Music industry and tech company executives as well as a visual artist and a law professor testified on artificial intelligence (AI) and its… read more Music industry and tech company executives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?529256-1/artificial-intelligence-copyright",
-      "originalUrl": "https://www.c-span.org/video/?529256-1/artificial-intelligence-copyright",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

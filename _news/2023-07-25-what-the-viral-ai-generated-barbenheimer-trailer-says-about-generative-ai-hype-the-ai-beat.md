@@ -100,6 +100,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Wayfair takes the generative AI route to interior decoration"
+    excerpt: "Google apps are proof enough that generative AI can permeate any aspect of our existence, especially those involving virtual tools. Augmented reality greatly simplified major purchase decisions for furniture,"
+    publishedDateTime: 2023-07-26T02:31:00Z
+    webUrl: "https://www.androidpolice.com/wayfair-generative-ai-interior-decoration-decorify/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/google-bard-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "OpenAI And Other Top AI Companies Pledge Safer AI-Generated Content: Report"
     excerpt: "OpenAI, Alphabet (parent company of Google), Meta Platforms (formerly Facebook), Anthropic, Inflection, Amazon.com, and Microsoft have pledged their support to the White House's efforts to regulate the rapidly expanding field of artificial intelligence, according to a statement by Biden administration."
     publishedDateTime: 2023-07-21T12:37:00Z

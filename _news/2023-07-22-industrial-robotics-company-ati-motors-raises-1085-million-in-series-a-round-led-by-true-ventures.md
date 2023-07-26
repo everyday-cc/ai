@@ -7,7 +7,7 @@ originalUrl: "https://www.financialexpress.com/industry/sme/msme-industrial-robo
 webUrl: "https://www.financialexpress.com/industry/sme/msme-industrial-robotics-company-ati-motors-raises-10-85-million-in-series-a-round-led-by-true-ventures/3182017/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others"
-    excerpt: "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated."
-    publishedDateTime: 2023-07-21T09:33:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 77
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-41440,msid-102011308/ati-motors-ceo-saurabh-chandra-r-and-cto-naveen-arulselvan-l.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Industrial Robotics Company Ati Motors Secures US$10.85 Million in Series A Funding Led by Silicon Valley's True Ventures"
     excerpt: "Ati Motors, maker of autonomous industrial robots, today announced the close of its Series A funding round in the amount of US$10.85 million. The investment, occurring alongside the company's product launch event,"
     publishedDateTime: 2023-07-21T13:38:00Z

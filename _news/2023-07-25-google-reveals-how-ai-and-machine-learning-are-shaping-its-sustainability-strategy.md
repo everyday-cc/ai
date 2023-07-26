@@ -49,6 +49,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Moving Fast and Breaking Things—How Some Health Care Startups Are Putting Patients at Risk | Opinion"
+    excerpt: "Patient data is being sold as a primary revenue generating stream, but this model is fundamentally misaligned with the health care system."
+    publishedDateTime: 2023-07-25T12:00:00Z
+    webUrl: "https://www.newsweek.com/moving-fast-breaking-thingshow-some-health-care-startups-are-putting-patients-risk-opinion-1814984"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 19
 
 secured: "5AbHJQ0OvBj7VZUJLCoEpXs52ELoX2F5Ve9s6F5oyb0vwmwsM5cd+ypKUaZNehVUDHMDDyWuNpH60BbEtvHdy66dQoMoRhBTl452hvY1HWfaL//WdArmq/q47h3GnVtXPVxbzvsPpY7p2Kza1DuIOl1VN2Dw74NOEu14QqYxbPKbPvK5RDnehCKO/dB+l+clorxkjtMVqnujDGTAALsEKcDKhtmqj4m8yZ6XlLv32n6gPbLvAI7Memdzh9oPqmuoTnpPJP0Rz4/hRKTQXeBuD9xwrgDk6CbDwrcqkKFe7NUxKUnvv/R+b331zDbQLIZP0hSlRcYh4w1uMV7B5udmp24irbGhdtUz7VoEmx8RU5Ifpb2cfhx14Qw3zsQd2MS3gmerLMUor8zHMCauJa8OFntQ0pxZPCj8444x8C0d1Wr0vrC+v7BxxmWo/KDz0ytuduZu3a6AI8MR9+rLI6RO9zurlMrHNwp/9DzDQmVaTqDZ0Qj36FmnXuOkITEAqZ2bgqHNEcHm0XP7IxjsoicxZQ==;cvdx+Q5mlCmjBssBCGm7Bw=="
 ---

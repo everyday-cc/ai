@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Smart Supply Chains: Traceability Chatbots Are Closer Than Brands Realize"
-    excerpt: "Disparate data sources remain a key challenge for traceability. Digitized or not, supply chain data rests in multiple locations, from brands and multiple levels of suppliers to trade and compliance data. These data sources are normally unstructured, and there is currently no easy way to automatically link them into a cohesive picture."
-    publishedDateTime: 2023-07-21T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/21/smart-supply-chains-traceability-chatbots-are-closer-than-brands-realize/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b935717aa7665b5bbd34f2/0x0.jpg?format=jpg&crop=1050,591,x0,y107,safe&width=1200"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "‘A certain danger lurks there’: how the inventor of the first chatbot turned against AI"
     excerpt: "Computer scientist Joseph Weizenbaum was there at the dawn of artificial intelligence – but he was also adamant that we must never confuse computers with humans"
     publishedDateTime: 2023-07-25T13:29:00Z

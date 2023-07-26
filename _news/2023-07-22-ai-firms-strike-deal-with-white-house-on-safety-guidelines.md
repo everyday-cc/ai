@@ -122,20 +122,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 27
-  - title: "Biden touting Big Tech commitment to make AI tools safe amid fears of tech-fueled apocalypse"
-    excerpt: "President Biden is trumpeting new promises from Big Tech companies to make artificial intelligence tools safe amid growing fears that the emerging tech may wreak havoc."
-    publishedDateTime: 2023-07-21T10:28:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/jul/21/joe-biden-touting-big-tech-commitment-make-ai-tool/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 26
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/13/OpenAI_AP_88650_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "The White House and big tech companies release commitments on managing AI"
     excerpt: "Seven tech companies, including Google, Meta and OpenAI, have voluntarily made commitments on developing and managing artificial intelligence. But there isn't much accountability in the process."
     publishedDateTime: 2023-07-21T13:01:00Z

@@ -2,6 +2,144 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-06-27-this-self-driving-boat-maps-underwater-terrain.md",
+      "title": "This self-driving boat maps underwater terrain",
+      "excerpt": "Engineers concoct an easier way for scientists to study underwater topography. Step aside self-driving cars, self-driving boats are here -- and they can do more than take you on a cruise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/06/230627225145.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/06/230627225145.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-crypto-scams-are-going-to-ramp-up-with-the-rise-of-ai.md",
+      "title": "Crypto scams are going to ramp up with the rise of AI",
+      "excerpt": "You can expect crypto scams that rely on artificial intelligence to soar over the next couple of years, according to Felix Roemer.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
+      "originalUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/77b8df3b-07ba-4583-adc4-2da8cf180053.jpg",
+          "width": 740,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/crypto-scams-rise-of-artificial-intelligence/amp",
+      "publishedDateTime": "2023-06-26T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-27-get-ready-for-ai-powered-social-media-scams.md",
+      "title": "Get Ready For AI-Powered Social Media Scams",
+      "excerpt": "Over the last year, generative AI has helped social media managers create posts that seem like they were written by a copywriter not a bot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649a0fb159545378cc5d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/06/26/get-ready-for-ai-powered-social-media-scams/amp/",
+      "publishedDateTime": "2023-06-26T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-27-ibm-to-acquire-apptio-for-46-billion-boosting-hybrid-cloud-and-ml-services.md",
       "title": "IBM to Acquire Apptio for $4.6 Billion, Boosting Hybrid Cloud and ML Services",
       "excerpt": "The ApptioOne, Apptio Cloudability and Apptio Targetprocess services will join the portfolio of IBM acquisitions later this year.",
@@ -1054,153 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-bentoml-scores-9m-funding-to-expedite-ai-app-development.md",
-      "title": "BentoML scores $9M funding to expedite AI app development",
-      "excerpt": "Chaoyu Yang and his co-founders have built the AI development framework BentoML, which just announced a seed financing round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
-      "originalUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1224500457.jpg?resize=1200,886",
-          "width": 1200,
-          "height": 886,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/26/bentoml-scores-9m-funding-to-expedite-ai-app-development/amp/",
-      "publishedDateTime": "2023-06-26T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai.md",
-      "title": "HPE GreenLake Large Language Models And IEEE Urges Ethical Use Of AI",
-      "excerpt": "HPE announced GreenLake AI Cloud for privately trained large language models. IEEE cautions that in addition to the good that it enables we must avoid AI for malicious applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6499b54a89da5466485d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1519,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/06/26/hpe-greenlake-large-language-models-and-ieee-urges-ethical-use-of-ai/amp/",
-      "publishedDateTime": "2023-06-26T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-26-metas-new-ai-lets-people-make-chatbots-theyre-using-it-for-sex.md",
-      "title": "Meta’s new AI lets people make chatbots. They’re using it for sex.",
-      "excerpt": "But Allie is fake, an artificial intelligence chatbot created for sexual ... “That’s why we shared LLaMA with members of the research community to help us evaluate, make improvements and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/06/26/facebook-chatbot-sex/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/06/26/facebook-chatbot-sex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJZARMOWBVE6DGUKXM7TQGMZSI.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-26T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

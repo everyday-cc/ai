@@ -25,49 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla plans to license its Full Self-Driving system to other automakers"
-    excerpt: "Tesla set new internal records for EV production and deliveries in Q2 as Cybertruck production (sorta?) comes online.."
-    publishedDateTime: 2023-07-21T09:34:00Z
-    webUrl: "https://www.engadget.com/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
-    ampWebUrl: "https://www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-built-and-delivered-a-nearly-half-a-million-evs-in-q2-205948639.html"
+  - title: "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions"
+    excerpt: "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI."
+    publishedDateTime: 2023-07-22T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/vXCVbfJvezW.j8ozjbdb7g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2018-10/4e8819d0-d7cd-11e8-bfea-1933ac05be15.cf.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.wsj.net/im-821616/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Tesla offers customers one-time Full Self-Driving transfer until September 30th"
-    excerpt: "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months.."
-    publishedDateTime: 2023-07-22T15:11:00Z
-    webUrl: "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html"
+  - title: "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI"
+    excerpt: "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article."
+    publishedDateTime: 2023-07-25T14:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 65
+      name: The Motley Fool
+      domain: fool.com
+    quality: 77
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/p5ASh2CB4Q2WKDSg3OF25w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/25277830-ae4a-11ed-bd7e-39bcf0c251ee.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Owners Can Transfer Full Self-Driving Capabilities To a New Vehicle For Free"
-    excerpt: "To transfer full self-driving capabilities you’ll need to forfeit the ability on your current Tesla vehicle. The software can be removed as early as one week before the scheduled delivery of your new Tesla, so you’ll also likely be without it for a bit while you’re waiting."
-    publishedDateTime: 2023-07-22T22:34:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/147877/tesla-owners-can-transfer-full-self-driving-capabilities-to-a-new-vehicle-for-free"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 63
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-owne/tesla-owners-can-transfer-full-self-driving-capabilities-to_ah1s.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg"
+        width: 2314
+        height: 1296
         isCached: true
   - title: "Elon Musk: Tesla In Talks To Share Controversial Self-Driving Software"
     excerpt: "CEO Elon Musk says he is talking to a major automaker about licensing Tesla's hardware and Full Self-Driving software. A \"major automaker\" is interested, Musk told investors on a call that branched into updates on the Cybertruck, robotaxis, AI, robots and bionic limbs."
@@ -85,31 +69,20 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla Will Let You Transfer $15k Full Self-Driving To A New Car, But There’s A Catch"
-    excerpt: "Tesla is finally allowing owners to transfer their FSD package to a new car, but the offer is only valid for new orders placed in the third quarter, and owners must trade in their old vehicle to Tesla"
-    publishedDateTime: 2023-07-21T13:32:00Z
-    webUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/"
-    ampWebUrl: "https://www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/07/tesla-will-let-you-transfer-15k-full-self-driving-to-a-new-car-but-theres-a-catch/amp/"
+  - title: "Elon Musk claims Tesla will spend \"well over\" $1bn on Dojo supercomputer, alongside Nvidia GPUs, for \"100 exaflops\" of AI"
+    excerpt: "Tesla CEO Elon Musk claimed that the company will spend more than $1 billion over the next year on its Dojo supercomputer. The supercomputer uses the custom Dojo D1 chip architecture designed by the automotive company for training self-driving vehicle systems."
+    publishedDateTime: 2023-07-24T09:05:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/elon-musk-claims-tesla-will-spend-well-over-1bn-on-dojo-supercomputer-alongside-nvidia-gpus-for-100-exaflops-of-ai/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/07/Tesla-FSD.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://media.datacenterdynamics.com/media/images/tesla_supercomp.fb856515.fill-1200x630.png"
+        width: 750
+        height: 395
         isCached: true
-  - title: "Tesla is starting to offer one-time Full Self-Driving transfers to new vehicles"
-    excerpt: "Tesla is starting to offer customers a one-time transfer of their purchased Full Self-Driving (FSD) software to a new vehicle, Not A Tesla App reports. Tesla CEO Elon Musk revealed the company would be offering it as a “one-time amnesty” during an earnings call on Wednesday, though he did not provide full details at the time."
-    publishedDateTime: 2023-07-21T19:53:00Z
-    webUrl: "https://www.theverge.com/2023/7/21/23802957/tesla-fsd-transfer-offer-q2"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 45
   - title: "Tesla in talks to license Autopilot, Full Self Driving autonomous tech to major automaker – Elon Musk"
     excerpt: "Tesla CEO Elon Musk has confirmed that the American electric vehicle maker has entered into talks with a ‘major’ automaker to license its self-driving technology, Electrek has reported. Musk said in his remarks during Tesla’s"
     publishedDateTime: 2023-07-24T11:04:00Z
@@ -138,15 +111,24 @@ related:
         width: 5557
         height: 3111
         isCached: true
-  - title: "Tesla deletes web page listing Full Self-Driving software's limitations hours after The Dawn Project links to it in press release"
-    excerpt: "In a recent press release highlighting safety defects in Tesla's Full Self-Driving software, safety advocacy group The Dawn Project linked to a page on the Tesla Model 3"
-    publishedDateTime: 2023-07-24T17:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/07/n33350824/tesla-deletes-web-page-listing-full-self-driving-softwares-limitations-hours-after-the-dawn-projec"
+  - title: "Elon Musk Launched His Own AI Startup—Here’s Musk’s Net Worth"
+    excerpt: "Tesla CEO Elon Musk announced his latest startup, xAI, which will focus on artificial intelligence. Musk is the richest person in the world as of July, thanks to the companies he leads including Tesla,"
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.investopedia.com/elon-musk-launched-his-own-ai-startup-heres-musks-net-worth-7562899"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Investopedia
+      domain: investopedia.com
+    quality: 17
+  - title: "Experts Explain the Issues With Elon Musk's AI Safety Plan"
+    excerpt: "Musk's has positioned his latest venture, xAI, as a rival to ChatGPT and Google. But there are a few fundamental problems with his underlying strategy."
+    publishedDateTime: 2023-07-22T12:00:00Z
+    webUrl: "https://www.thestreet.com/technology/expert-explains-the-issues-with-elon-musks-ai-safety-plan"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "2k4Rt43AH4qSWHa0//52p24t50M9kdAVbPqu8YFGisWYB0gVCbPvWKLNNWQNG70j6m05XmI2uu2N18V6hcVKmgszA46uGfBA0YISN5i+TYZgpG8BfQ6PYTeEgIXyFolViUHR+8WXynERtGAfqkjXyorWMrMjtI+YLoaMLOYm2RIke/93vqXDK87/qVtDMIv7NGMWzKOnKjdbIBC12oeC8Kici/Cy8QSdGSUAOrhcXlJXsvMpSL6lL8raBxTRiyv9UUdit0RpvCy0G2bF4Y8pg9vFB2KT88FVxfwW1VC5+TzEubU6hxRGD526/5zCvVP2HAHHXhj9f58GgxWdqM8iS/BntEqq4DOXxk6XFzQuwm71f3I+Aef9ZRdKCL1E/+bNwWF0k1qb4+mvhHWynAl0VmxBozl3qWVZz7JfJ5GSJNs3bemFtQjxCXCUmQEcaQMo+BE7Lu9Fr0JLPOlan6fjhp47oRE+PaWtruHnSazw3NppCpz7ySIESCKrxonzSek921QZfMYekdZBwfnOzzfdcA==;+7OR5K5IJGZbJNebCWPIGg=="
 ---

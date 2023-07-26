@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Big tech names commit to artificial intelligence safeguards"
-    excerpt: "Amazon, Google, Meta, Microsoft and other companies that are leading the development of artificial intelligence technology have agreed to meet a set of AI safeguards brokered by President Joe Biden's administration."
-    publishedDateTime: 2023-07-21T10:10:00Z
-    webUrl: "https://wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/"
-    ampWebUrl: "https://wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/07/21/big-tech-names-commit-to-artificial-intelligence-safeguards/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/07/arseny-togulev-MECKPoKJYjM-unsplash-1-e1689934052490.jpg"
-        width: 7812
-        height: 4393
-        isCached: true
   - title: "Seven AI companies agree to safeguards in the US"
     excerpt: "Representatives from Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI joined US President Joe Biden to make the announcement. It follows a number of warnings about the capabilities of the technology."
     publishedDateTime: 2023-07-21T14:21:00Z
@@ -272,20 +256,6 @@ related:
       - url: "https://www.pilotonline.com/wp-content/uploads/2023/05/WHYUW56ITNRGHPAN2E6FKYVOXA.jpg?w=1024&#038;h=683"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tech giants including Amazon and Meta agree to Biden’s artificial intelligence safeguards"
-    excerpt: "Amazon, Google, Meta, Microsoft and other companies leading the development of artificial intelligence (AI) technology have agreed to meet a set of safeguards brokered by the Biden administration."
-    publishedDateTime: 2023-07-21T09:52:00Z
-    webUrl: "https://www.businesspost.ie/article/tech-giants-including-amazon-and-meta-agree-to-bidens-artificial-intelligence-safeguards/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 28
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=31a0898f-c7d0-54bd-9722-88d2eb1b52dc&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=5000&height=2813&x=1.0E-5&y=0.07865"
-        width: 3000
-        height: 1687
         isCached: true
   - title: "Generative AI expected to impact SA companies"
     excerpt: "Generative AI is set to revolutionise IT, according to Salesforce’s latest State of IT report. A massive 83% of IT leaders in South Africa say the role of AI in their organisations is well-defined, a figure poised to grow as 87% believe generative AI,"

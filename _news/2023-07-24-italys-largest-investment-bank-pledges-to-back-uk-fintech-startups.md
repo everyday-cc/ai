@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges
 webUrl: "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
         width: 710
         height: 408
+        isCached: true
+  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
+    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
+    publishedDateTime: 2023-07-23T06:58:00Z
+    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 32
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
+        width: 1280
+        height: 661
         isCached: true
   - title: "Founders Factory partners with Mediobanca to boost fintech investment"
     excerpt: "Founders Factory is partnering with Italian investment bank Mediobanca to launch a new fintech venture studio and accelerator. Through its partnership with Aviva, the early-stage investor has already backed more than 50 fintechs as part of its 300-plus strong portfolio of startups, including Acre, Hammock, ClearGlass and Qumata."

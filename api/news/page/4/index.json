@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-24-ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.md",
+      "title": "NY police used AI to track drivers on highways as attorney questions legality",
+      "excerpt": "A drug trafficker, David Zayas of Massachusetts, was nabbed by police in New York who used artificial intelligence technology to sift through 1.6 billion license plates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
+      "originalUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Screenshot-2023-07-11-at-10.08.23-AM.png",
+          "width": 734,
+          "height": 984,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
+      "publishedDateTime": "2023-07-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-failing-to-embrace-ai-is-the-real-threat-to-the-us-in-the-global-ai-race-investor.md",
       "title": "Failing to embrace AI is the real 'threat' to the US in the global AI race: Investor",
       "excerpt": "Founder & CEO of RSE Ventures explains why he thinks \"fearmongering\" and a failure to \"create a culture of innovation\" are costing the U.S. in the AI race.",
@@ -519,7 +570,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/science/in-ais-unlimited-potential-the-benefits-and-the-risks/article67105977.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -550,6 +601,58 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th.md",
+      "title": "Tesla offers customers one-time Full Self-Driving transfer until September 30th",
+      "excerpt": "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
+      "originalUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/p5ASh2CB4Q2WKDSg3OF25w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/25277830-ae4a-11ed-bd7e-39bcf0c251ee.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -708,6 +811,58 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-2-ai-stocks-that-could-help-make-you-a-fortune.md",
+      "title": "2 AI Stocks That Could Help Make You a Fortune",
+      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-ai-and-the-economy-which-companies-and-industries-will-avoid-artificial-intelligence.md",
       "title": "AI And The Economy: Which Companies And Industries Will Avoid Artificial Intelligence",
       "excerpt": "AI implementation will be very slow in sectors with high stakes, litigiousness, high unionization, and high regulation. The opposite industries will move the fastest.",
@@ -768,7 +923,7 @@
       "originalUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1017,7 +1172,7 @@
       "originalUrl": "https://www.bbc.com/news/technology-66271429",
       "featuredContent": null,
       "highlight": null,
-      "heat": 347,
+      "heat": 327,
       "tags": null,
       "images": [
         {
@@ -1108,153 +1263,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-21-analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities.md",
-      "title": "Analyze rodent infestation using Amazon SageMaker geospatial capabilities",
-      "excerpt": "Rodents such as rats and mice are associated with a number of health risks and are known to spread more than 35 diseases. Identifying regions of high rodent activity can help local authorities and pest control organizations plan for interventions effectively and exterminate the rodents. In this post,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-rodent-infestation-using-amazon-sagemaker-geospatial-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/13/ML-13593-image001-1103x630.png",
-          "width": 1103,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:29:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-biden-delivers-remarks-on-artificial-intelligence.md",
-      "title": "Biden Delivers Remarks on Artificial Intelligence",
-      "excerpt": "The president met with seven leading A.I. companies that have committed to voluntary standards to manage the risks associated with the emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
-      "originalUrl": "https://www.nytimes.com/video/us/politics/100000009007123/ai-regulation-biden.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/07/21/multimedia/21dc-biden-ai-fqmp/21dc-biden-ai-fqmp-facebookJumbo.jpg?video-overlay?video-overlay",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-22-musk-says-tesla-would-buy-more-nvidia-ai-chips-if-only-nvidia-had-enough-of-them.md",
-      "title": "Musk Says Tesla Would Buy More Nvidia AI Chips, If Only Nvidia Had Enough of Them",
-      "excerpt": "Later in the call, Musk expanded on those comments, doling out praise for Nvidia and its co-founder and CEO Jensen Huang:",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/21/musk-says-tesla-would-buy-more-nvidia-ai-chips-if/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-21T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

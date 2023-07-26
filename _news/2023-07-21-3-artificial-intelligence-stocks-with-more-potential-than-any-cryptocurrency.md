@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 699
         isCached: true
-  - title: "How AI is being used to detect, treat cancer -- and the potential risks for patients"
-    excerpt: "Several AI tools have been developed to help detect, diagnose and treat cancer. Experts these tools have a lot of promise, but there are also pitfalls to avoid."
-    publishedDateTime: 2023-07-21T10:07:00Z
-    webUrl: "https://abcnews.go.com/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/ai-detect-treat-cancer-potential-risks-patients/story?id=101431628"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 52
-    images:
-      - url: "https://s.abcnews.com/images/Health/ai-1-gty-er-230718_1689697399863_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "An Unconventional Play on the Artificial Intelligence Theme"
     excerpt: "Real estate investment trusts either own or manage income-producing real estate, normally through directly investing in properties or the mortgages on those properties. The IRS mandates that REITs must pay out 90% of their taxable income to shareholders. This typically translates into much higher dividends than your average S&P 500 stock."
     publishedDateTime: 2023-07-22T01:03:00Z

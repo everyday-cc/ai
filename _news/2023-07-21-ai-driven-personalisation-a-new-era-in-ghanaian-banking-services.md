@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI and Open Banking – the dynamic duo in Financial Services"
+    excerpt: "Open Banking and Artificial Intelligence (AI) have emerged as game-changers in the financial services industry, reshaping the way financial institutions operate and interact with their customers. The convergence of Open Banking's secure access to financial data and the advanced capabilities of AI has unlocked a world of practical possibilities and tangible benefits."
+    publishedDateTime: 2023-07-25T13:38:00Z
+    webUrl: "https://chyp.com/2023/07/25/ai-and-open-banking-the-dynamic-duo-in-financial-services/"
+    type: article
+    provider:
+      name: Consult Hyperion
+      domain: chyp.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/chyp.com/wp-content/uploads/2020/07/ch-logo-white.png?fit=1608590&#038;ssl=1"
+        width: 1608
+        height: 590
+        isCached: true
   - title: "Blitz: AI driving hyper-personalised customer experiences"
     excerpt: "Personetics VP of Strategy & Business Development, Dorel Blitz, discusses how AI is helping to drive hyper-personalised customer experiences in banking"
     publishedDateTime: 2023-07-21T14:43:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-14-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
+      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
+      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
+      "originalUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
+      "publishedDateTime": "2023-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-14-abcs-of-ai-here-is-how-artificial-intelligence-works.md",
       "title": "ABCs of AI: Here is how artificial intelligence works",
       "excerpt": "WHERE IT CAME FROM AND HOW IT WORKS. INSIDE CSAIL THE COMPUTER SCIENCE AND ARTIFICIAL INTELLIGENCE LAB AT MIT. IT’S TIME TO TAKE CHIP FOR A WALK. UNLIKE MOST ROBOTS WHOSE MOVEMENTS ARE PRETTY ...",
@@ -176,10 +219,10 @@
     {
       "path": "_news/2023-07-13-elon-musk-founds-xai-an-artificial-intelligence-company-that-may-work-with-tesla-twitter.md",
       "title": "Elon Musk founds xAI, an artificial intelligence company that may work with Tesla, Twitter",
-      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence. Musk, who also runs Tesla and SpaceX, announced the company's launch on Twitter Wednesday afternoon ...",
+      "excerpt": "AUSTIN, Texas − Elon Musk has formed a new company focused on artificial intelligence ... same software as Tesla’s controversial \"Full Self Driving\" vehicle software, a technology which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "webUrl": "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
+      "originalUrl": "https://www.azcentral.com/story/tech/2023/07/13/elon-musk-xai-new-artificial-intelligence-company/70409532007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -198,11 +241,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-13T08:23:00-07:00",
+      "publishedDateTime": "2023-07-13T08:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "AZ Central",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1281,60 +1324,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-07-the-top-artificial-intelligence-etfs-have-a-common-ingredient.md",
-      "title": "The Top Artificial-Intelligence ETFs Have a Common Ingredient",
-      "excerpt": "The largest fund in the AI specific segment—the Global X Robotics & Artificial Intelligence ETF—gives Nvidia an 11% weight. The chipmaker is also the top holding in the four other largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-07-06-2023/card/the-top-artificial-intelligence-etfs-have-a-common-ingredient-nEyHlQQWTRDaGouXRmYW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-812729?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-06T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

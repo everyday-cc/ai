@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-07-25-goodbye-to-graphics-how-gpus-came-to-dominate-compute-and-ai.md",
+      "title": "Goodbye to Graphics: How GPUs Came to Dominate Compute and AI",
+      "excerpt": "TechSpot is celebrating its 25th anniversary. TechSpot means tech analysis and advice you can trust. When you buy through our links, we may earn a commission. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
+      "originalUrl": "https://www.techspot.com/article/2702-gpu-compute-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/articles-info/2702/images/2023-07-24-image.jpg",
+          "width": 3213,
+          "height": 1806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-25-how-decentralized-networks-reduce-the-ai-costs.md",
+      "title": "How Decentralized Networks Reduce The AI Costs",
+      "excerpt": "This untapped potential provides a remarkable opportunity for AIGC. As an illustration, an AI startup based in New York could dispatch its training tasks to servers located in the Middle East. By doing so, the aggregated costs, encompassing server expenses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64bfa27ae60700645ff13678/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/07/25/how-decentralized-networks-reduce-the-ai-costs/amp/",
+      "publishedDateTime": "2023-07-25T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-is-this-ai-and-robotics-chip-stock-a-buy-now.md",
       "title": "Is This AI and Robotics Chip Stock a Buy Now?",
       "excerpt": "Teradyne sounds like a great little AI and robotics stock for chips and industrial automation alike, but it's not all rosy. Like any manufacturing business, Teradyne can go through some nasty cyclical downturns. That's exactly what is transpiring right now.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/07/25/is-this-ai-and-robotics-chip-stock-a-buy-now/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -663,50 +767,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-25-artificial-intelligence-helps-to-make-roads-safer-help-law-enforcement.md",
-      "title": "Artificial intelligence helps to make roads safer, help law enforcement",
-      "excerpt": "In Georgia and South Carolina, artificial intelligence is working to make the roads safer while also helping local law enforcement agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
-      "originalUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/dQj683k7w5RvC_jT5tGSgZ4mkXY=/800x450/filters:focal(265x138:275x128):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K645NRRT4VHL5KCAIIY54RAV5U.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wrdw-com.cdn.ampproject.org/c/s/www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
-      "publishedDateTime": "2023-07-24T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRDW",
-        "domain": "wrdw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-25-ai-driven-bubble-may-burst-and-drag-down-stock-market-jpmorgan-says.md",
       "title": "‘AI-Driven Bubble’ May Burst And Drag Down Stock Market, JPMorgan Says",
       "excerpt": "Fallout from elevated interest rates, an “erosion” of personal savings and a “deeply troubling” geopolitical situation will lead to broad market declines, according to strategists at the world’s largest bank.",
@@ -1202,58 +1262,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-the-markets-fomo-driven-rally-is-unsustainable-and-most-ai-stocks-are-still-bottoming-cio-says.md",
-      "title": "The market's FOMO-driven rally is unsustainable and most AI stocks are still bottoming, CIO says",
-      "excerpt": "\"We tell investors who have a case of FOMO that only a small part of the train has left the station, as most stocks are still bottoming.\"",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64be8ed4bea34400195fe3bc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
-      "publishedDateTime": "2023-07-24T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

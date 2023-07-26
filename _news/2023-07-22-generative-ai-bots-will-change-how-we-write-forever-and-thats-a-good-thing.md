@@ -33,22 +33,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
-    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
-    publishedDateTime: 2023-07-25T16:09:00Z
-    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 53
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "AI in Education: New Guidance from the Department of Education"
     excerpt: "As K–12 educators search for answers on how to approach generative artificial intelligence, agencies and organizations release recommendations for the modern classroom."
     publishedDateTime: 2023-07-21T20:31:00Z

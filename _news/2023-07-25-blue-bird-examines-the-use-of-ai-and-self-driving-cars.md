@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Advancements In GenAI Can Make Self-Driving Operations A Reality"
-    excerpt: "This piece will outline how AIOps can better ensure websites, applications, databases and infrastructure—including the underlying networks—function better."
-    publishedDateTime: 2023-07-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/07/21/how-advancements-in-genai-can-make-self-driving-operations-a-reality/amp/"
+  - title: "Bing AI chat expands to Chrome and Safari for select users"
+    excerpt: "\"We are flighting access to Bing Chat in Safari and Chrome to select users as part of our testing on other browsers,\" said Caitlin Roulston, Microsoft director of communications. \"We are excited to expand access to even more users once our standard testing procedures are complete.\""
+    publishedDateTime: 2023-07-25T14:18:00Z
+    webUrl: "https://www.zdnet.com/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bing-ai-chat-expands-to-chrome-and-safari-for-select-users/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b9625753df287d02bd34f2/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/90f674cd85981dcb50a5f3f8d5e29f2a07295b41/2023/07/25/0852fcad-54ee-4823-9f85-b7df7c18bb05/binggettyimages-1246902268.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 738
+        height: 675
         isCached: true
 
 secured: "9ioD/Fptcbt8ttzrsQcHflelrGGpfUyc9B90li+vg8wSC044h8QACSg/kkWNiR2WrZkIEm9uB9/OlT/R6BucPaRCYxU1TBEQSbGqkqVdi7/G43N3vBhO5S8bokqQ/7Me2/sgzpeoZXB69dMdDoJVDFznTSHYQzq50OId+1xrAJGnKEJMBKXjwtzsmtvPZyQxidyLDdygZ+B0cmghQwM5owGXBzzb9tdu9SYNiCVX/cFHtQf5/Zx9WNqr46Zat4+yigih0X+jv6My9H/XUZ2v6xWVSZJAlVo9FhiVg4Iylz9QlAD5xUMfzEwiEDa0fKPFihetyKHw+R1ybKxyUS+180QYFjzC4GZyKJPvCXNjMT+fsbqyB80wRNCKDWskt3/7rVOXTtK3YU1Ja425OvnwHyIOxzy5yzpiBNWVIT4cxJ1p9Yj46iWUA51rSxKLcI+UK5F3KqF23ZeJ+oF8GFT4HYIXUal32vGcSOmW4WvO3Wup+l0fHCsYx15kXDu7fvCasn8B39UxQN0mQmy4oOmtQw==;IagyLxkejGR22vip282pdQ=="

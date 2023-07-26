@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Industrial robotics startup Ati Motors raises $10.85 million funding from True Ventures, others"
-    excerpt: "Athera Ventures Partners joined as a new investor, while existing investors Blume Ventures, Exfinity Ventures and MFV Partners also participated."
-    publishedDateTime: 2023-07-21T09:33:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/articleshow/102011316.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/industrial-robotics-startup-ati-motors-raises-10-85-million-funding-from-true-ventures-others/amp_articleshow/102011316.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 77
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-41440,msid-102011308/ati-motors-ceo-saurabh-chandra-r-and-cto-naveen-arulselvan-l.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Industrial robotics company Ati Motors raises $10.85 million in Series A round led by True Ventures"
     excerpt: "The latest funding, according to the company, will help it expand into markets in the US, South East Asia, Japan, and Europe and explore untapped opportunities across pharmaceuticals, chemicals, maritime,"
     publishedDateTime: 2023-07-22T01:45:00Z

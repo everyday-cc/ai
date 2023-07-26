@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Pentagon-Funded Study Uses AI to Detect 'Violations of Social Norms' in Text"
+    excerpt: "Have you texted someone lately to express guilt over...something? The government probably wants to know about it."
+    publishedDateTime: 2023-07-26T01:57:00Z
+    webUrl: "https://gizmodo.com/ai-text-social-norms-violations-pentagon-darpa-study-1850673979"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/05680c14423d43096e9572b2872537c2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is Your T-Zone Oily, Dry Or Normal? Perfect Uses AI To Launch Skin Detection Tech"
     excerpt: "The AI Skin Type Detection supports detection across the T-zone and U-zone of the face in order to determine normal, oily, dry, sensitive, and combination skin types."
     publishedDateTime: 2023-07-24T13:22:00Z

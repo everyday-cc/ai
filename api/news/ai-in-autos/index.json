@@ -45,50 +45,6 @@
       ]
     },
     {
-      "path": "_news/2023-07-25-artificial-intelligence-helps-to-make-roads-safer-help-law-enforcement.md",
-      "title": "Artificial intelligence helps to make roads safer, help law enforcement",
-      "excerpt": "In Georgia and South Carolina, artificial intelligence is working to make the roads safer while also helping local law enforcement agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
-      "originalUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/dQj683k7w5RvC_jT5tGSgZ4mkXY=/800x450/filters:focal(265x138:275x128):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/K645NRRT4VHL5KCAIIY54RAV5U.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wrdw-com.cdn.ampproject.org/c/s/www.wrdw.com/2023/07/24/artificial-intelligence-helps-make-roads-safer-help-law-enforcement/?outputType=amp",
-      "publishedDateTime": "2023-07-24T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRDW",
-        "domain": "wrdw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-07-24-1-self-driving-car-and-ai-stock-to-watch-in-the-second-half-of-2023.md",
       "title": "1 Self-Driving Car and AI Stock to Watch in the Second Half of 2023",
       "excerpt": "The self-driving car market might be ready to (finally) reach an inflection point. The technology has advanced, and cars in select markets around the world are actually in commercial operation ferrying passengers without a driver behind the wheel. Exciting times!",
@@ -196,6 +152,110 @@
       ]
     },
     {
+      "path": "_news/2023-07-22-tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th.md",
+      "title": "Tesla offers customers one-time Full Self-Driving transfer until September 30th",
+      "excerpt": "Tesla has started notifying owners that they can transfer the Full Self-Driving feature they purchased to a new vehicle, as long as they take delivery within the next three months..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
+      "originalUrl": "https://www.engadget.com/tesla-offers-customers-one-time-full-self-driving-transfer-until-september-30th-150004266.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/p5ASh2CB4Q2WKDSg3OF25w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/25277830-ae4a-11ed-bd7e-39bcf0c251ee.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-22-2-ai-stocks-that-could-help-make-you-a-fortune.md",
+      "title": "2 AI Stocks That Could Help Make You a Fortune",
+      "excerpt": "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services. A new bull market may be upon us, and there's a simple reason for it: artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "originalUrl": "https://www.fool.com/investing/2023/07/22/2-ai-stocks-that-could-help-make-you-a-fortune/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/740520/woman-researching-studying-laptop.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-22T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-22-what-elon-musks-ai-startup-means-for-teslas-ai-ambitions.md",
       "title": "What Elon Musk’s AI Startup Means for Tesla’s AI Ambitions",
       "excerpt": "The billionaire for a long time framed the automaker as an artificial-intelligence company. Then he started xAI.",
@@ -204,7 +264,7 @@
       "originalUrl": "https://www.wsj.com/articles/elon-musk-tesla-xai-artificial-intelligence-1db53628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1352,49 +1412,6 @@
       "ampWebUrl": "https://www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
       "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-nz/news-and-analysis/alphabet-google-earnings-preview_amp",
       "publishedDateTime": "2023-07-14T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-14-can-ai-lead-growth-for-alphabet-and-google-earnings-preview.md",
-      "title": "Can AI Lead Growth for Alphabet And Google - Earnings Preview",
-      "excerpt": "Here's how Alphabet and Google might build off the excitement created during their previous AI showcase event for their upcoming earnings reveal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
-      "originalUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/googleearningsbakery_medium.png",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "cdnAmpWebUrl": "https://www-cmcmarkets-com.cdn.ampproject.org/c/s/www.cmcmarkets.com/en-sg/news-and-analysis/alphabet-google-earnings-preview_amp",
-      "publishedDateTime": "2023-07-14T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CMC Markets",

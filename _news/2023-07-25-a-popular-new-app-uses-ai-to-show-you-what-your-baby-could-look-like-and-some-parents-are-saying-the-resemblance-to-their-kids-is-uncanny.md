@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insider.com/ai-baby-filter-remini-tiktok-looks-like-real
 cdnAmpWebUrl: "https://www-insider-com.cdn.ampproject.org/c/s/www.insider.com/ai-baby-filter-remini-tiktok-looks-like-real-kids-2023-7?amp"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 750
     height: 563
     isCached: true
-
-related:
-  - title: "AI Startups Are Where You Should Look For New Jobs"
-    excerpt: "The hiring landscape is ripe with opportunities, especially when it comes to startups that are focussed on AI and machine learning technology. Read"
-    publishedDateTime: 2023-07-25T18:06:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-startups-are-where-you-should-look-for-new-jobs/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 47
 
 secured: "XbOj1ZvFzOP9VDGWAE+urWngeJE3bmy/2T5BYqu47qmIp8tFtosKEBwWoCKQykkmWgbIFWdFvkYNRbfZdfi40T9z8ilxWvhVNs+BH3/lIbRr2eLcsMZEw0AYQ6EMBOXRT2pwNnp5yfKwu79HwiYunTPOGTJ9QV9TZWVYvMjY2nF4vyhNIchzw5ADEFlHGcu2OE2bnRp5x4jxf/mG/N6LhwAqUSL1UvChKUdRWyUtF4HbtGmTMv9tZhP+msxgDNSZq7UhHdV/otecZ8zAjo87AfArWpztTY4JMcNkkv2LRw88blnCVLUGsWSj5AnQRoHPWQGxj7X/rSuZU5/OsrtF6uhCqRfZtLGOxw7u120iFYk=;/Nk9C4UO1pjCHs6FgXPflw=="
 ---

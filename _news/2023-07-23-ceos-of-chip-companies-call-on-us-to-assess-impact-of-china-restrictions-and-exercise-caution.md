@@ -33,6 +33,20 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Chinese Firms Can Seize Bigger Car Safety Market Share Amid New Chances From Self-Driving Tech, Insider Says"
+    excerpt: "(Yicai Global) July 26 -- Chinese automotive safety system suppliers can claim a bigger market share if they seize the opportunities brought in by autonomous driving technologies, according to an industry insider."
+    publishedDateTime: 2023-07-26T03:44:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-firms-can-seize-bigger-car-safety-market-share-amid-new-chances-from-self-driving-tech-insider-says"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 5
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/07/29021546275525.jpg"
+        width: 770
+        height: 510
+        isCached: true
 
 secured: "rQgQ5x92Rzt8J9kZI0I2GYmlVOdMADDNFYjemvjC6JSPYgzqUssauk+WA1JrkMUQhRowWLIMm8SoZoulw0h2yfggUUE6S7PG1MfMxw/4cokvaV9gJ3hNrd1Cu4HKgum3E0C8DJahOPtuWzoEvnN+dhDq7L/OHyVk901jP0iQ6bWhCel66LMKa+jSlR8oScMu+aQ8WRXRZSXCTrHGCkUgeGPqWVXQmL8Tnl5xUI1O4Ibxv1ut8hLPhkDRj/QUR8DP3EGxinx6sCxADaXHkZacGmJ72ANGfsDtRTw1Eu3sJnKr7E5I9TQbZKHFn2wT6baR1Sib/kwFFI0eSFsPreZeazAkP0RI4hyX1jbpTLEIfUY=;/wXyatquIy0byvxrEGnxzA=="
 ---

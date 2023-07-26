@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google rebounds from unprecedented drop in ad drop with a resurgence that pushes stock higher"
-excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence"
-publishedDateTime: 2023-07-25T20:55:00Z
-originalUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-webUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-ampWebUrl: "https://www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
-cdnAmpWebUrl: "https://www-valleycentral-com.cdn.ampproject.org/c/s/www.valleycentral.com/news/tech-news/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+excerpt: "SAN FRANCISCO (AP) — Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence ... self-driving car pioneer Waymo and other far-flung ..."
+publishedDateTime: 2023-07-25T20:54:00Z
+originalUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+webUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
+ampWebUrl: "https://www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: valleycentral
-  domain: valleycentral.com
+  name: abc27
+  domain: abc27.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.valleycentral.com/wp-content/uploads/sites/39/2023/07/64c0400a723896.40534924.jpeg?w=1280"
+  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2023/07/64c03ff1214f40.89345764.jpeg?w=1280"
     width: 1280
     height: 853
     isCached: true
@@ -42,22 +42,15 @@ related:
         height: 628
         isCached: true
   - title: "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher"
-    excerpt: "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence"
-    publishedDateTime: 2023-07-25T21:32:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-google-rebounds-from-unprecedented-drop-in-ad-drop-with-a-resurgence-that-pushes-tock-higher/amp/"
+    excerpt: "The results for the April-June period released Tuesday by Google's corporate parent, Alphabet Inc., reversed a financial downswing that had raised fears Google was losing its financial steam at the same time advances in artificial intelligence, or AI, threatened to undercut the dominant search engine that powers its digital ad empire."
+    publishedDateTime: 2023-07-26T02:32:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/google-rebounds-from-unprecedented-drop-in-ad-18260417.php"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 31
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/07/64c03ffdc827f6.51508745.jpeg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 0
 
-secured: "P4d1rMb6xYcdkri6oJCaQPXDVXB22T9AiUvUnv4/82ltOE4fbIkl0b7pN8MZC0NrjhLMEWiUynkg1mbKykzJ3CSJ9ZWG7xVaIkC2BLfE5uOn1mIWG4KjF6vM7C0KMc0qGAd2/jKkGvzoKguPaw35lKsAGOSH4RSUYwmdrIMLJy0YM93gjUHySJt4aKsMveWlH/TkKHqEF4tzEuQIhIOdJMHSMJoPD2pPBM8nxz3NBP2zkxF0+vdwdOErRM+uT7WY2+xH9KKyyk27zDgcpJQVhl5noVxUilApS0BvxXYKpGXq/cVlJFDSZUU/CkNT2WelOCs+4/R/w+vL9gv/yHIwrGS3zelLlFFv6rK9L3vtEAjl60cE2VY+NBLTtiGVjqWrqnQhSco1fzhpzPupTWaX7TNy9aopXW9asYfvPLJHtnMrHq/giTd/gWga1Y96Jquk3bVUfTB/EUxh+EEiW2ebXWlkxH86VMa44TcFYvYuYSyMZKqAu7S8p2FSsC6pIOsW536/5LE5iV1bB6MIlDQX3A==;Y+s/xqzb13SFU8oj4tMOEw=="
+secured: "XCSFFgHVePa28bQDaSkOqerLqsMlqUUsVY6ISZmhGuOKCXUBsq/rIQBgPWcaut9CPKz9aNOAM3ejzfoGadoOltPupClQSCZCPGECOCkUyKoB0QRFbFZEO6BRS22umaFCaw+bhuQ/Ws4ficK7gbxUM/pg54oONKgZPQCUFD5PLzAwjSurt633UkcyZdHvLUUpmP1QzEdl2Pf132/Ov3YKv9K+zCMR7BsKs3CQ5DC95Pc8yy+IVKHm0e+8fnyEYuIBlcJJm5RNG+1HCMwMsPW3HXwxaunBE76ZxzsLimLZj506xZwHbU2qB025P129ag17MNKRG5q2ayFgZlNzx66NXADU2xoRiBf+YuTebr+jsuQ=;qiER8+C8/5FTmSZs2lI0bA=="
 ---
 

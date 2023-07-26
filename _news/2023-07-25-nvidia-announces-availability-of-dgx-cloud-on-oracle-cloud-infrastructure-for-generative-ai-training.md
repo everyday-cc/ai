@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/nvidia-announces-availability-dgx-cloud
 webUrl: "https://venturebeat.com/ai/nvidia-announces-availability-dgx-cloud-on-oracle-cloud-infrastructure-generative-ai-training/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,38 @@ images:
     isCached: true
 
 related:
+  - title: "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities"
+    excerpt: "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings."
+    publishedDateTime: 2023-07-26T02:38:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
+    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
+    publishedDateTime: 2023-07-25T16:09:00Z
+    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
+    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 53
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "NVIDIA and Google Cloud Deliver Powerful New Generative AI … – NVIDIA Blog"
     excerpt: "GTC—NVIDIA today announced Google Cloud is integrating the newly launched L4 GPU and Vertex AI to accelerate the work of companies building a rapidly expanding number of generative AI applications. Google Cloud,"
     publishedDateTime: 2023-07-24T10:47:00Z
@@ -43,34 +75,15 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Teleport Introduces Teleport Assist: An AI Chat Interface for Fast Infrastructure Troubleshooting"
-    excerpt: "Teleport, a leading provider of identity-native infrastructure access management, this week announced the availability"
-    publishedDateTime: 2023-07-21T17:13:00Z
-    webUrl: "https://www.datanami.com/this-just-in/teleport-introduces-teleport-assist-an-ai-chat-interface-for-fast-infrastructure-troubleshooting/"
+  - title: "More than 70% of companies are experimenting with generative AI, but few are willing to commit more spending"
+    excerpt: "More than half (54.6%) of orgs are are experimenting with generative AI, but few (18.2%) expect to spend more, a VentureBeat survey finds."
+    publishedDateTime: 2023-07-25T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/more-than-70-of-companies-are-experimenting-with-generative-ai-but-few-are-willing-to-commit-more-spending/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 26
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-Europe23.png"
-        width: 1893
-        height: 767
-        isCached: true
-  - title: "Nvidia’s DGX Cloud platform now available, offering instant access to generative AI infrastructure"
-    excerpt: "Nvidia's DGX Cloud platform now available, offering instant access to generative AI infrastructure - SiliconANGLE"
-    publishedDateTime: 2023-07-25T14:18:00Z
-    webUrl: "https://siliconangle.com/2023/07/25/nvidias-dgx-cloud-platform-now-available-offering-instant-access-generative-ai-infrastructure/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/NVIDIA-DGX-Cloud-Image.jpg"
-        width: 1260
-        height: 680
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 28
 
 secured: "FUjB0mwgjAhyYkL+zZCoJqmq7ehBlMtQ1RUwS/RIfbLqtsYmxVmwAU2Ao9DTOwtbhN1JN1qH7910p48om1UYYN2HNVhm+Hx+WjVCKbB6Y+lhGnthoChQbPP5ea8h48AjTjn7SMgVzVeVsiFkNN61ieFrjLkhT7caXKiLs2ed0fu1phFN9pDAIQatO77J2vpEJoSEKdFTPQ0BxE1p8bKi/bF/S7mhRr6B52zkwMGcCPOHFHga7zsFcRn2gLk47fXt2nO/vr9n72SwRw6OmVYNjSk55Bs12AsWjCAJAHy2S4WxUq3+mr+xd/eRoWOQMw3IwTGNgHCeIlz24vW9tC7kYcO+MnRam+xCMduo4yIi66TMtXp/E4DvqgX/rC0yQm5i8NdT7eNfNdEAU2scBfhfo7x08HYi6Q80ZuusPwOJ4uKzcggEllLxiIQ2WGiqHapimqQeEYZfbNiAS7E7DUUVg3Aw7RJGCjGWhcOad6oSLGNqGsMJOxzS/HA/hvVzA6+WfGO2zGPbStCUgklBNZipJA==;i7lr4W0eHcS+PAsoRV8vDw=="
 ---

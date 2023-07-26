@@ -33,15 +33,6 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
-  - title: "Language AI Products Are Mushrooming as Barriers to Entry Collapse"
-    excerpt: "Startups are repackaging GPT-4 for translation, text-to-speech, AI voice generation, and lip-synching tech, to build new consumer-grade products."
-    publishedDateTime: 2023-07-21T09:09:00Z
-    webUrl: "https://slator.com/language-ai-products-mushrooming-as-barriers-to-entry-collapse/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "qRZ9lvH/SuJj8bYBhs/wU5Uj8Xg2hiJYeBAOjnyZ1aI9FbCVGJDWDDA75k9AB3lpgbuTcW4AxpVgFZNU11KHWyo1iQNXSQrd5gdpc2HrykkB1Ko7pkeUn65vsJnet8KwRaoyLLh2oKjxK2mVgtwwtnFzySqdMkjVAZXe0WDlDFGMvpR/7+JB1T9ehuotLn5r+IRw/nDGo19BkssvIbL6B0aBKYRFW/j4RCiud3YRER2t6Mq3+bLYVEKlOLBFfZ823592w7y5gRiJmQgjolorv0/M4fFn/QiqqqpXS8KwLGuasXI0Wrt2Tol7Cku2sGlxkUQClddqHIz1dq9BgiUeels/LLv2DV6yjyC4vZ9IYHc=;NueHPI6CiKTDEqImMZqxew=="
 ---

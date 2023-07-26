@@ -2,6 +2,154 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-07-21-are-self-driving-cars-a-national-security-risk.md",
+      "title": "Are self-driving cars a national security risk?",
+      "excerpt": "Automoblog took a deep dive into the world of autonomous vehicles to explore questions regarding the safety and security of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
+      "originalUrl": "https://www.wfmz.com/news/are-self-driving-cars-a-national-security-risk/collection_9d8b1353-eef5-55b4-beab-c58e7d7c26af.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/38/e38f38ab-7b25-5df2-9c5a-c904ad2fc029/64b9765dc9cc0.image.jpg?crop=1080%2C567%2C0%2C66&resize=1080%2C567&order=crop%2Cresize",
+          "width": 1080,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker.md",
+      "title": "Efficiently train, tune, and deploy custom ensembles using Amazon SageMaker",
+      "excerpt": "Artificial intelligence (AI) has become an important and popular topic in the technology community. As AI has evolved, we have seen different types of machine learning (ML) models emerge. One approach, known as ensemble modeling, has been rapidly gaining traction among data scientists and practitioners.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-train-tune-and-deploy-custom-ensembles-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/20/train-tune-deploy-custom-ensembles-sagemaker.png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T09:12:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-20-dont-ask-dumb-robots-if-ai-will-destroy-humanity.md",
+      "title": "Don’t Ask Dumb Robots If AI Will Destroy Humanity",
+      "excerpt": "Robots like Sophia are impressive to look at, but don’t let their humanlike facial expressions trick you into thinking these machines are intelligent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-dont-ask-dumb-robots-whether-ai-will-destroy-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64b86565d96882f74caa4079/191:100/w_1280,c_limit/Don&#x27;t-Listen-To-Dumb-Robots-Fast-Forward-Business-1513119084.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-20T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-20-google-is-pushing-ai-tool-on-newsrooms-to-help-journalists.md",
       "title": "Google Is Pushing AI Tool on Newsrooms to 'Help' Journalists",
       "excerpt": "Google is inserting itself in newsrooms with the promotion of its new AI tool that it says will “help” journalists create articles. The company has reportedly pitched its software to The New York Times, The Washington Post, and News Corp, which owns The Wall Street Journal, saying it can effectively produce news stories.",
@@ -1073,153 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-why-many-in-china-unlike-in-the-us-see-ai-as-a-force-for-good.md",
-      "title": "Why many in China – unlike in the US – see AI as a force for good",
-      "excerpt": "For instance, artificial intelligence in China has been strategically integrated ... The internet giant Baidu now operates fully driverless taxi services in government-approved areas of Wuhan, Chongqing and Beijing. Baidu is testing the service in 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "originalUrl": "https://www.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/07/20/3c054da4-c2c6-4ef2-a80f-ae1d02c43a45_488b870d.jpg?itok=k8LRczI9&v=1689787730",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3228219/why-many-china-unlike-us-see-ai-force-good",
-      "publishedDateTime": "2023-07-19T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-this-changed-the-way-i-look-for-ai-stocks-forever.md",
-      "title": "This Changed the Way I Look for AI Stocks Forever",
-      "excerpt": "The good news is the AI bubble - which still has a little air left in it - is starting to shrink as investors come to their senses and realize that a $2-per-share bottling that slapped\"AI\" in its name this March isn't going to hit $487.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
-      "originalUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/07/image001.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2023/07/19/this-changed-the-way-i-look-for-ai-stocks-forever/amp/",
-      "publishedDateTime": "2023-07-19T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-20-the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks.md",
-      "title": "The Power Of Liquid AI: Compact, Fluid And Task-Minded Neural Networks",
-      "excerpt": "Daniela Rus, MIT CSAIL Director, showcases MIT’s breakthroughs in Liquid Neural Networks and its robust capabilities to revolutionize real-world flight performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b815124a54ff7e675b79a0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/19/the-power-of-liquid-ai-compact-fluid-and-task-minded-neural-networks/amp/",
-      "publishedDateTime": "2023-07-19T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

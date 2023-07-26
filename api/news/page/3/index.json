@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-07-24-the-markets-fomo-driven-rally-is-unsustainable-and-most-ai-stocks-are-still-bottoming-cio-says.md",
+      "title": "The market's FOMO-driven rally is unsustainable and most AI stocks are still bottoming, CIO says",
+      "excerpt": "\"We tell investors who have a case of FOMO that only a small part of the train has left the station, as most stocks are still bottoming.\"",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64be8ed4bea34400195fe3bc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-fomo-rally-ai-artificial-intelligence-investing-bottoming-2023-7?amp",
+      "publishedDateTime": "2023-07-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-24-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/07/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 313,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -63,7 +115,7 @@
       "originalUrl": "https://thebftonline.com/2023/07/24/ai-driven-personalisation-a-new-era-in-ghanaian-banking-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -699,7 +751,7 @@
       "originalUrl": "https://thenextweb.com/news/italys-largest-investment-bank-pledges-backing-uk-fintech-startup",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1180,57 +1232,6 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/ai-heart-scan-aims-catch-blockages-years-symptoms-unbelievable-breakthrough.amp",
-      "publishedDateTime": "2023-07-23T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-24-ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.md",
-      "title": "NY police used AI to track drivers on highways as attorney questions legality",
-      "excerpt": "A drug trafficker, David Zayas of Massachusetts, was nabbed by police in New York who used artificial intelligence technology to sift through 1.6 billion license plates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
-      "originalUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Screenshot-2023-07-11-at-10.08.23-AM.png",
-          "width": 734,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ny-police-used-ai-to-track-drivers-on-highways-as-attorney-questions-legality.amp",
       "publishedDateTime": "2023-07-23T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

@@ -33,22 +33,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Legislative Responses to Recent Developments in Generative Artificial Intelligence"
-    excerpt: "In the wake of publicly available generative artificial intelligence (AI) models, such as ChatGPT, multiple bills that seek to regulate AI are moving through the US Congress.1 US state legislatur"
-    publishedDateTime: 2023-07-25T16:09:00Z
-    webUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence"
-    ampWebUrl: "https://www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/legislative-responses-to-recent-developments-generative-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 53
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "Generative AI bots will change how we write forever — and that’s a good thing"
     excerpt: "GenAI is not the enemy of writers or writing instructors. It is just a new technological teaching tool, and we can learn something from it if we listen."
     publishedDateTime: 2023-07-22T13:01:00Z

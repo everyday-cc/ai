@@ -55,6 +55,20 @@ related:
         width: 710
         height: 408
         isCached: true
+  - title: "Breaking the Bank: How fintech is stirring up a savings revolution in the digital age"
+    excerpt: "Fintech startups are disrupting traditional practices, encouraging healthier financial habits, and driving active participation in the digital economy."
+    publishedDateTime: 2023-07-23T06:58:00Z
+    webUrl: "https://yourstory.com/2023/07/breaking-the-bank-fintech-stirring-up-savings-revolution"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 32
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/fin-1690095142279.png?fm=png&auto=format"
+        width: 1280
+        height: 661
+        isCached: true
   - title: "Mediobanca, Founders Factory join to support Italian fintech"
     excerpt: "Mediobanca & Founders Factory join forces to launch a €12m fintech venture studio, nurturing innovative startups with a focus on blockchain & AI."
     publishedDateTime: 2023-07-24T14:24:00Z

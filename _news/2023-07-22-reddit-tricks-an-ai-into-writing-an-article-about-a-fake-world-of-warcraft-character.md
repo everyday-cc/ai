@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Warcraft fans claim win over AI with Glorbo prank"
-    excerpt: "World of Warcraft fans are claiming victory over AI after a gaming site published a false article based on their Reddit posts. Members of the WoW subreddit suspected their words were being extracted and used to create news stories by a bot."
-    publishedDateTime: 2023-07-21T09:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/newsbeat-66266344"
-    ampWebUrl: "https://www.bbc.co.uk/news/newsbeat-66266344"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/newsbeat-66266344"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/11C53/production/_130478727_dragonflight_return_to_the_forbidden_reach_sarkareth_-1.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI Article Generator Falls for World of Warcraft 'Glorbo' Prank"
     excerpt: "A World of Warcraft player dupes an AI-powered gaming site into writing fake news by posting about a non-existent feature called 'Glorbo.'"
     publishedDateTime: 2023-07-21T20:39:00Z
